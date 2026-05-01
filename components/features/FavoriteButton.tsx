@@ -34,7 +34,7 @@ export const FavoriteButton: FC<Props> = ({ id }) => {
         transition: "background 0.15s",
       }}
     >
-      {fav ? "♥ お気に入り済み" : "♡ お気に入り"}
+      {fav ? "お気に入り済み" : "お気に入り"}
     </button>
   )
 }

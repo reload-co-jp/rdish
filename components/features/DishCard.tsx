@@ -60,7 +60,7 @@ export const DishCard: FC<Props> = ({ dish }) => {
             {dish.summary}
           </p>
           <p style={{ fontSize: "0.75rem", color: "#b45309" }}>
-            👉 {dish.orderAdvice}
+            {dish.orderAdvice}
           </p>
         </div>
         {thumb && (

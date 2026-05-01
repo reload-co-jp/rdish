@@ -194,7 +194,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
             padding: "0.75rem 1rem",
           }}
         >
-          👍 <LinkedText text={dish.orderAdvice} dishes={allDishes} currentId={dish.id} />
+          <LinkedText text={dish.orderAdvice} dishes={allDishes} currentId={dish.id} />
         </p>
         {dish.caution && (
           <p
@@ -209,7 +209,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
               padding: "0.75rem 1rem",
             }}
           >
-            ⚠️ <LinkedText text={dish.caution} dishes={allDishes} currentId={dish.id} />
+            <LinkedText text={dish.caution} dishes={allDishes} currentId={dish.id} />
           </p>
         )}
       </Section>
