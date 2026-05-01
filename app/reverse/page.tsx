@@ -1,11 +1,14 @@
 "use client"
 
 import { FormEvent, useState } from "react"
+import Link from "next/link"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
 import { DishCard } from "../../components/features/DishCard"
 import dishes from "../../data/dishes.json"
-import { reverseSearch } from "../../lib/reverseSearch"
+import { reverseSearch, detectKeywordsInQuery, KeywordMatch } from "../../lib/reverseSearch"
 import type { DishItem } from "../../types/dish"
+
+const allDishes = dishes as DishItem[]
 
 const EXAMPLES = [
   "白くて中がとろっとしたチーズ",
@@ -18,12 +21,26 @@ const EXAMPLES = [
 export default function ReversePage() {
   const [query, setQuery] = useState("")
   const [results, setResults] = useState<DishItem[]>([])
+  const [keywords, setKeywords] = useState<KeywordMatch[]>([])
   const [searched, setSearched] = useState(false)
 
   const handleSubmit = (e: FormEvent) => {
     e.preventDefault()
     if (!query.trim()) return
-    setResults(reverseSearch(dishes as DishItem[], query))
+
+    const kwMatches = detectKeywordsInQuery(allDishes, query)
+    const kwDishes = kwMatches.map((m) => m.dish)
+    const revResults = reverseSearch(allDishes, query)
+
+    // merge: keyword matches + reverse results, deduped
+    const seen = new Set<string>()
+    const merged: DishItem[] = []
+    for (const d of [...kwDishes, ...revResults]) {
+      if (!seen.has(d.id)) { seen.add(d.id); merged.push(d) }
+    }
+
+    setKeywords(kwMatches)
+    setResults(merged)
     setSearched(true)
   }
 
@@ -33,13 +50,13 @@ export default function ReversePage() {
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}>
         逆引き検索
       </h1>
-      <p style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "1.5rem" }}>
+      <p style={{ color: "#a89080", fontSize: "0.875rem", marginBottom: "1.5rem" }}>
         料理名がわからないとき、見た目・味・特徴から探す。
       </p>
 
       <form
         onSubmit={handleSubmit}
-        style={{ display: "flex", gap: "0.5rem", marginBottom: "1rem" }}
+        style={{ display: "flex", gap: "0.5rem", marginBottom: "0.75rem" }}
       >
         <input
           type="text"
@@ -75,10 +92,44 @@ export default function ReversePage() {
         </button>
       </form>
 
+      {searched && keywords.length > 0 && (
+        <div
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            gap: "0.375rem",
+            marginBottom: "1.25rem",
+            padding: "0.625rem 0.75rem",
+            background: "#fef9f0",
+            border: "1px solid #f5c97a",
+            borderRadius: "0.375rem",
+          }}
+        >
+          <span style={{ fontSize: "0.75rem", color: "#a89080", alignSelf: "center", marginRight: "0.25rem" }}>
+            検出キーワード:
+          </span>
+          {keywords.map(({ dish, term }) => (
+            <Link
+              key={dish.id}
+              href={`/dishes/${dish.id}/`}
+              style={{
+                fontSize: "0.75rem",
+                background: "#f0e6d6",
+                color: "#b45309",
+                border: "1px solid #e8ddd0",
+                borderRadius: "9999px",
+                padding: "0.125rem 0.625rem",
+                textDecoration: "none",
+              }}
+            >
+              {term}
+            </Link>
+          ))}
+        </div>
+      )}
+
       <div style={{ marginBottom: "1.5rem" }}>
-        <p style={{ color: "#666", fontSize: "0.75rem", marginBottom: "0.5rem" }}>
-          例:
-        </p>
+        <p style={{ color: "#a89080", fontSize: "0.75rem", marginBottom: "0.5rem" }}>例:</p>
         <div style={{ display: "flex", flexWrap: "wrap", gap: "0.375rem" }}>
           {EXAMPLES.map((ex) => (
             <button
@@ -102,7 +153,7 @@ export default function ReversePage() {
 
       {searched && (
         <div>
-          <p style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "1rem" }}>
+          <p style={{ color: "#a89080", fontSize: "0.875rem", marginBottom: "1rem" }}>
             {results.length > 0
               ? `${results.length}件見つかりました`
               : "見つかりませんでした。別の言葉で試してみてください。"}
