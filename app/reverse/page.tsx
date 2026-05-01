@@ -1,6 +1,7 @@
 "use client"
 
 import { FormEvent, useState } from "react"
+import { Breadcrumb } from "../../components/elements/Breadcrumb"
 import { DishCard } from "../../components/features/DishCard"
 import dishes from "../../data/dishes.json"
 import { reverseSearch } from "../../lib/reverseSearch"
@@ -28,6 +29,7 @@ export default function ReversePage() {
 
   return (
     <div>
+      <Breadcrumb items={[{ label: "逆引き検索" }]} />
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}>
         逆引き検索
       </h1>

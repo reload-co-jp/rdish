@@ -1,6 +1,7 @@
 "use client"
 
 import { useEffect, useState } from "react"
+import { Breadcrumb } from "../../components/elements/Breadcrumb"
 import { DishCard } from "../../components/features/DishCard"
 import dishes from "../../data/dishes.json"
 import { getFavorites } from "../../lib/storage"
@@ -17,6 +18,7 @@ export default function FavoritesPage() {
 
   return (
     <div>
+      <Breadcrumb items={[{ label: "お気に入り" }]} />
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "1.5rem" }}>
         お気に入り
       </h1>

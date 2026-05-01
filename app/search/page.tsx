@@ -2,6 +2,7 @@
 
 import { Suspense } from "react"
 import { useSearchParams } from "next/navigation"
+import { Breadcrumb } from "../../components/elements/Breadcrumb"
 import { DishCard } from "../../components/features/DishCard"
 import { SearchBox } from "../../components/features/SearchBox"
 import { TagList } from "../../components/features/TagList"
@@ -58,8 +59,11 @@ function SearchResults() {
 
 export default function SearchPage() {
   return (
-    <Suspense fallback={<p style={{ color: "#aaa" }}>読み込み中...</p>}>
-      <SearchResults />
-    </Suspense>
+    <>
+      <Breadcrumb items={[{ label: "検索" }]} />
+      <Suspense fallback={<p style={{ color: "#aaa" }}>読み込み中...</p>}>
+        <SearchResults />
+      </Suspense>
+    </>
   )
 }

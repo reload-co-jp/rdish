@@ -1,5 +1,6 @@
 import type { Metadata } from "next"
 import Link from "next/link"
+import { Breadcrumb } from "../../components/elements/Breadcrumb"
 
 export const metadata: Metadata = {
   title: "RDishについて",
@@ -28,6 +29,7 @@ const Section = ({ title, children }: { title: string; children: React.ReactNode
 export default function AboutPage() {
   return (
     <div style={{ maxWidth: "36rem" }}>
+      <Breadcrumb items={[{ label: "about" }]} />
       <div style={{ marginBottom: "2.5rem" }}>
         <h1
           style={{

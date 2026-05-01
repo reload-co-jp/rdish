@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation"
+import { Breadcrumb } from "../../../components/elements/Breadcrumb"
 import { DishCard } from "../../../components/features/DishCard"
 import dishes from "../../../data/dishes.json"
 import type { DishCategory, DishItem } from "../../../types/dish"
@@ -42,6 +43,7 @@ export default async function CategoryPage({
 
   return (
     <div>
+      <Breadcrumb items={[{ label: "カテゴリ", href: "/" }, { label: decoded }]} />
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}>
         {decoded}
       </h1>

@@ -1,5 +1,6 @@
 import { FC } from "react"
 import { notFound } from "next/navigation"
+import { Breadcrumb } from "../../../components/elements/Breadcrumb"
 import { DishDetail } from "../../../components/features/DishDetail"
 import { RecentlyViewedTracker } from "../../../components/features/RecentlyViewedTracker"
 import dishes from "../../../data/dishes.json"
@@ -67,6 +68,7 @@ export default async function DishPage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+      <Breadcrumb items={[{ label: dish.name }]} />
       <DishPageContent dish={dish} allDishes={dishes as DishItem[]} />
     </>
   )
