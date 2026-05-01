@@ -1,3 +1,4 @@
+import Image from "next/image"
 import Link from "next/link"
 import { FC } from "react"
 import type { DishItem } from "../../types/dish"
@@ -99,6 +100,45 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
         </div>
         <FavoriteButton id={dish.id} />
       </div>
+
+      {dish.images && dish.images.length > 0 && (
+        <div
+          style={{
+            display: "flex",
+            gap: "0.5rem",
+            overflowX: "auto",
+            marginBottom: "1.5rem",
+            borderRadius: "0.5rem",
+            scrollSnapType: "x mandatory",
+          }}
+        >
+          {dish.images.map((src, i) => (
+            <div
+              key={src}
+              style={{
+                flexShrink: 0,
+                width: dish.images!.length === 1 ? "100%" : "80%",
+                maxWidth: "24rem",
+                aspectRatio: "4/3",
+                borderRadius: "0.5rem",
+                overflow: "hidden",
+                position: "relative",
+                scrollSnapAlign: "start",
+                background: "#f0e6d6",
+              }}
+            >
+              <Image
+                src={src}
+                alt={`${dish.name} ${i + 1}`}
+                fill
+                style={{ objectFit: "cover" }}
+                sizes="(max-width: 768px) 80vw, 24rem"
+                priority={i === 0}
+              />
+            </div>
+          ))}
+        </div>
+      )}
 
       <Section title="ひとことで">
         <p style={{ fontSize: "1rem", lineHeight: 1.7 }}>{dish.summary}</p>

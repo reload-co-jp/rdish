@@ -34,6 +34,7 @@ export type DishItem = {
   caution?: string
   similarItems: SimilarItem[]
   relatedIds: string[]
+  images?: string[]
   tags: string[]
   reverseKeywords: string[]
   beginnerFriendlyScore: 1 | 2 | 3 | 4 | 5
