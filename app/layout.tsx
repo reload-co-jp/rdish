@@ -120,6 +120,14 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
           }}
         >
           <p>RDish — いつでも聞ける飾らない料理図鑑</p>
+          <p style={{ marginTop: "0.5rem", display: "flex", justifyContent: "center", gap: "1rem" }}>
+            <Link href="/countries/" style={{ color: "#a89080", textDecoration: "underline" }}>
+              国から探す
+            </Link>
+            <Link href="/about/" style={{ color: "#a89080", textDecoration: "underline" }}>
+              このサイトについて
+            </Link>
+          </p>
         </footer>
       </body>
     </html>
