@@ -2,6 +2,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { FC } from "react"
 import type { DishItem } from "../../types/dish"
+import { LinkedText } from "../elements/LinkedText"
 import { FavoriteButton } from "./FavoriteButton"
 import { ScoreBadge } from "./ScoreBadge"
 import { TagList } from "./TagList"
@@ -141,12 +142,14 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
       )}
 
       <Section title="ひとことで">
-        <p style={{ fontSize: "1rem", lineHeight: 1.7 }}>{dish.summary}</p>
+        <p style={{ fontSize: "1rem", lineHeight: 1.7 }}>
+          <LinkedText text={dish.summary} dishes={allDishes} currentId={dish.id} />
+        </p>
       </Section>
 
       <Section title="メニューで見たら">
         <p style={{ fontSize: "0.9rem", color: "#7a6655", lineHeight: 1.7 }}>
-          {dish.menuDescription}
+          <LinkedText text={dish.menuDescription} dishes={allDishes} currentId={dish.id} />
         </p>
       </Section>
 
@@ -154,7 +157,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
         <ul style={{ paddingLeft: "1rem" }}>
           {dish.whatComesOut.map((item) => (
             <li key={item} style={{ fontSize: "0.9rem", color: "#7a6655", marginBottom: "0.25rem" }}>
-              {item}
+              <LinkedText text={item} dishes={allDishes} currentId={dish.id} />
             </li>
           ))}
         </ul>
@@ -191,7 +194,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
             padding: "0.75rem 1rem",
           }}
         >
-          👍 {dish.orderAdvice}
+          👍 <LinkedText text={dish.orderAdvice} dishes={allDishes} currentId={dish.id} />
         </p>
         {dish.caution && (
           <p
@@ -206,7 +209,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
               padding: "0.75rem 1rem",
             }}
           >
-            ⚠️ {dish.caution}
+            ⚠️ <LinkedText text={dish.caution} dishes={allDishes} currentId={dish.id} />
           </p>
         )}
       </Section>
