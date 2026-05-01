@@ -1,6 +1,9 @@
 import type { Metadata } from "next"
+import Script from "next/script"
 import Link from "next/link"
 import "./reset.css"
+
+const GA_ID = "G-Y2D3TYWS2Q"
 
 const SITE_URL = "https://rdish.reload.co.jp"
 
@@ -31,6 +34,20 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
   return (
     <html lang="ja">
       <body>
+        {process.env.NODE_ENV === "production" && (
+          <>
+            <Script
+              src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
+              strategy="afterInteractive"
+            />
+            <Script id="ga-init" strategy="afterInteractive">{`
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', '${GA_ID}');
+            `}</Script>
+          </>
+        )}
         <header
           style={{
             backgroundColor: "#fffdf8",
