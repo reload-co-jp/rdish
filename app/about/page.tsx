@@ -26,9 +26,18 @@ const Section = ({ title, children }: { title: string; children: React.ReactNode
   </section>
 )
 
+const orgJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "株式会社Reload",
+  url: "https://reload.co.jp",
+  publishingPrinciples: "https://rdish.reload.co.jp/about/",
+}
+
 export default function AboutPage() {
   return (
     <div style={{ maxWidth: "36rem" }}>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }} />
       <Breadcrumb items={[{ label: "about" }]} />
       <div style={{ marginBottom: "2.5rem" }}>
         <h1

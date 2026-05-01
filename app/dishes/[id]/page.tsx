@@ -60,6 +60,7 @@ export default async function DishPage({
     url: `https://rdish.reload.co.jp/dishes/${dish.id}/`,
     inLanguage: "ja",
     publisher: { "@type": "Organization", name: "RDish", url: "https://rdish.reload.co.jp" },
+    ...(dish.images?.[0] ? { image: `https://rdish.reload.co.jp${dish.images[0]}` } : {}),
   }
 
   return (

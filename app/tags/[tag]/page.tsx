@@ -37,8 +37,23 @@ export default async function TagPage({
   const results = (dishes as DishItem[]).filter((d) => d.tags.includes(decoded))
   if (results.length === 0) notFound()
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: `#${decoded}の料理一覧`,
+    url: `https://rdish.reload.co.jp/tags/${tag}/`,
+    numberOfItems: results.length,
+    itemListElement: results.map((dish, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: dish.name,
+      url: `https://rdish.reload.co.jp/dishes/${dish.id}/`,
+    })),
+  }
+
   return (
     <div>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <Breadcrumb items={[{ label: "タグ", href: "/" }, { label: `#${decoded}` }]} />
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}>
         #{decoded}

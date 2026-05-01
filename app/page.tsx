@@ -25,9 +25,25 @@ const popularDishes = POPULAR_IDS.map((id) =>
   (dishes as DishItem[]).find((d) => d.id === id),
 ).filter(Boolean) as DishItem[]
 
+const websiteJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "RDish",
+  url: "https://rdish.reload.co.jp",
+  description: "いつでも聞ける飾らない料理図鑑",
+  inLanguage: "ja",
+  publisher: { "@type": "Organization", name: "株式会社Reload", url: "https://reload.co.jp" },
+  potentialAction: {
+    "@type": "SearchAction",
+    target: { "@type": "EntryPoint", urlTemplate: "https://rdish.reload.co.jp/search/?q={search_term_string}" },
+    "query-input": "required name=search_term_string",
+  },
+}
+
 export default function TopPage() {
   return (
     <div>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }} />
       <div style={{ textAlign: "center", marginBottom: "2rem", padding: "1rem 0" }}>
         <h1
           style={{
