@@ -6,7 +6,8 @@ import type { DishItem } from "../../types/dish"
 
 export const metadata: Metadata = {
   title: "国・地域別 料理一覧",
-  description: "国・地域別に料理・食材・調理法を探せる料理図鑑 RDish。フランス、イタリア、スペインなど世界各国の料理を収録。",
+  description:
+    "国・地域別に料理・食材・調理法を探せる料理図鑑 RDish。フランス、イタリア、スペインなど世界各国の料理を収録。",
   alternates: { canonical: "/countries/" },
   openGraph: { title: "国・地域別 料理一覧", url: "/countries/" },
 }
@@ -40,12 +41,25 @@ export default function CountriesPage() {
 
   return (
     <div>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-      <Breadcrumb items={[{ label: "国・地域", href: "/countries/" }, { label: "一覧" }]} />
-      <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}>
-        国・地域別
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <Breadcrumb
+        items={[{ label: "国・地域", href: "/countries/" }, { label: "一覧" }]}
+      />
+      <h1
+        style={{
+          fontSize: "1.5rem",
+          fontWeight: 800,
+          marginBottom: "0.375rem",
+        }}
+      >
+        国・地域から探す
       </h1>
-      <p style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "1.5rem" }}>
+      <p
+        style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "1.5rem" }}
+      >
         {regions.length}地域
       </p>
       <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>
@@ -67,7 +81,9 @@ export default function CountriesPage() {
             }}
           >
             {region}
-            <span style={{ color: "#a89080", fontSize: "0.75rem" }}>{count}</span>
+            <span style={{ color: "#a89080", fontSize: "0.75rem" }}>
+              {count}
+            </span>
           </Link>
         ))}
       </div>
