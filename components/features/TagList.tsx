@@ -15,8 +15,8 @@ export const TagList: FC<Props> = ({ tags }) => (
           display: "inline-block",
           padding: "0.125rem 0.5rem",
           borderRadius: "9999px",
-          background: "#444",
-          color: "#ddd",
+          background: "#e8e8e8",
+          color: "#444",
           fontSize: "0.75rem",
           textDecoration: "none",
         }}

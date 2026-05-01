@@ -19,7 +19,7 @@ const Section: FC<{ title: string; children: React.ReactNode }> = ({
       style={{
         fontSize: "0.75rem",
         fontWeight: 700,
-        color: "#aaa",
+        color: "#666",
         letterSpacing: "0.05em",
         textTransform: "uppercase",
         marginBottom: "0.5rem",
@@ -54,16 +54,16 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
           </h1>
           <div style={{ display: "flex", gap: "0.5rem", flexWrap: "wrap" }}>
             {dish.kana && (
-              <span style={{ color: "#aaa", fontSize: "0.875rem" }}>{dish.kana}</span>
+              <span style={{ color: "#666", fontSize: "0.875rem" }}>{dish.kana}</span>
             )}
             {dish.englishName && (
-              <span style={{ color: "#aaa", fontSize: "0.875rem" }}>
+              <span style={{ color: "#666", fontSize: "0.875rem" }}>
                 / {dish.englishName}
               </span>
             )}
             {dish.originalName &&
               dish.originalName !== dish.englishName && (
-                <span style={{ color: "#aaa", fontSize: "0.875rem" }}>
+                <span style={{ color: "#666", fontSize: "0.875rem" }}>
                   / {dish.originalName}
                 </span>
               )}
@@ -73,8 +73,8 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
               href={`/categories/${encodeURIComponent(dish.category)}/`}
               style={{
                 fontSize: "0.75rem",
-                color: "#aaa",
-                background: "#3a3a3a",
+                color: "#555",
+                background: "#f0f0f0",
                 padding: "0.125rem 0.5rem",
                 borderRadius: "0.25rem",
                 textDecoration: "none",
@@ -88,7 +88,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
                 key={r}
                 style={{
                   fontSize: "0.75rem",
-                  color: "#aaa",
+                  color: "#666",
                   marginRight: "0.375rem",
                 }}
               >
@@ -105,7 +105,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
       </Section>
 
       <Section title="メニューで見たら">
-        <p style={{ fontSize: "0.9rem", color: "#ccc", lineHeight: 1.7 }}>
+        <p style={{ fontSize: "0.9rem", color: "#555", lineHeight: 1.7 }}>
           {dish.menuDescription}
         </p>
       </Section>
@@ -113,7 +113,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
       <Section title="何が出てくるか">
         <ul style={{ paddingLeft: "1rem" }}>
           {dish.whatComesOut.map((item) => (
-            <li key={item} style={{ fontSize: "0.9rem", color: "#ccc", marginBottom: "0.25rem" }}>
+            <li key={item} style={{ fontSize: "0.9rem", color: "#555", marginBottom: "0.25rem" }}>
               {item}
             </li>
           ))}
@@ -126,8 +126,8 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
             <span
               key={t}
               style={{
-                background: "#2a3a4a",
-                color: "#88ccff",
+                background: "#dbeafe",
+                color: "#1d4ed8",
                 borderRadius: "0.25rem",
                 padding: "0.25rem 0.625rem",
                 fontSize: "0.875rem",
@@ -142,10 +142,10 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
       <Section title="頼む判断">
         <p
           style={{
-            background: "#1a3a1a",
-            border: "1px solid #2a5a2a",
+            background: "#f0fdf4",
+            border: "1px solid #86efac",
             borderRadius: "0.375rem",
-            color: "#88ee88",
+            color: "#15803d",
             fontSize: "0.9rem",
             lineHeight: 1.7,
             padding: "0.75rem 1rem",
@@ -156,10 +156,10 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
         {dish.caution && (
           <p
             style={{
-              background: "#3a2a1a",
-              border: "1px solid #5a3a1a",
+              background: "#fffbeb",
+              border: "1px solid #fcd34d",
               borderRadius: "0.375rem",
-              color: "#ffcc88",
+              color: "#92400e",
               fontSize: "0.875rem",
               lineHeight: 1.7,
               marginTop: "0.5rem",
@@ -187,8 +187,8 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
               <div
                 key={s.name}
                 style={{
-                  background: "#2a2a2a",
-                  border: "1px solid #3a3a3a",
+                  background: "#f9f9f9",
+                  border: "1px solid #e0e0e0",
                   borderRadius: "0.375rem",
                   padding: "0.625rem 0.875rem",
                 }}
@@ -197,7 +197,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
                   <Link
                     href={`/dishes/${s.id}/`}
                     style={{
-                      color: "#88aaff",
+                      color: "#2563eb",
                       fontWeight: 600,
                       textDecoration: "none",
                     }}
@@ -205,9 +205,9 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
                     {s.name}
                   </Link>
                 ) : (
-                  <span style={{ color: "#ccc", fontWeight: 600 }}>{s.name}</span>
+                  <span style={{ color: "#333", fontWeight: 600 }}>{s.name}</span>
                 )}
-                <span style={{ color: "#aaa", fontSize: "0.875rem" }}>
+                <span style={{ color: "#666", fontSize: "0.875rem" }}>
                   {" "}
                   — {s.difference}
                 </span>
@@ -225,10 +225,10 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
                 key={d.id}
                 href={`/dishes/${d.id}/`}
                 style={{
-                  background: "#2a2a3a",
-                  border: "1px solid #3a3a5a",
+                  background: "#eff6ff",
+                  border: "1px solid #bfdbfe",
                   borderRadius: "0.375rem",
-                  color: "#88aaff",
+                  color: "#2563eb",
                   fontSize: "0.875rem",
                   padding: "0.375rem 0.75rem",
                   textDecoration: "none",

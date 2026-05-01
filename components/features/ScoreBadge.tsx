@@ -13,11 +13,11 @@ export const ScoreBadge: FC<Props> = ({ label, score, max = 5 }) => (
       alignItems: "center",
       gap: "0.25rem",
       fontSize: "0.75rem",
-      color: "#aaa",
+      color: "#666",
     }}
   >
     {label}:
-    <span style={{ color: "#f0f0f0", fontWeight: 600 }}>
+    <span style={{ color: "#1a1a1a", fontWeight: 600 }}>
       {"●".repeat(score)}
       <span style={{ opacity: 0.3 }}>{"●".repeat(max - score)}</span>
     </span>

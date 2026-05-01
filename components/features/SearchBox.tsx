@@ -35,10 +35,10 @@ export const SearchBox: FC<Props> = ({
         aria-label="料理名・食材名・調理法を検索"
         style={{
           flex: 1,
-          background: "#2a2a2a",
-          border: "1px solid #555",
+          background: "#ffffff",
+          border: "1px solid #d0d0d0",
           borderRadius: "0.375rem",
-          color: "#f0f0f0",
+          color: "#1a1a1a",
           fontSize: "1rem",
           padding: "0.625rem 0.75rem",
           outline: "none",
