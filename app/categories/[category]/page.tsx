@@ -18,8 +18,16 @@ export async function generateMetadata({
   params: Promise<{ category: string }>
 }) {
   const { category } = await params
-  const decoded = decodeURIComponent(category)
-  return { title: `${decoded} | RDish` }
+  const decoded = decodeURIComponent(category) as DishCategory
+  const count = (dishes as DishItem[]).filter((d) => d.category === decoded).length
+  const title = `${decoded}カテゴリの料理一覧`
+  const description = `${decoded}カテゴリの料理・食材・調理法 ${count}件。外食メニューで役立つ料理図鑑 RDish。`
+  return {
+    title,
+    description,
+    alternates: { canonical: `/categories/${category}/` },
+    openGraph: { title, description, url: `/categories/${category}/` },
+  }
 }
 
 export default async function CategoryPage({

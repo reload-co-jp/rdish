@@ -15,7 +15,15 @@ export async function generateMetadata({
 }) {
   const { tag } = await params
   const decoded = decodeURIComponent(tag)
-  return { title: `#${decoded} | RDish` }
+  const count = (dishes as DishItem[]).filter((d) => d.tags.includes(decoded)).length
+  const title = `#${decoded}の料理一覧`
+  const description = `「${decoded}」タグが付いた料理・食材・調理法 ${count}件。外食メニューで役立つ料理図鑑 RDish。`
+  return {
+    title,
+    description,
+    alternates: { canonical: `/tags/${tag}/` },
+    openGraph: { title, description, url: `/tags/${tag}/` },
+  }
 }
 
 export default async function TagPage({

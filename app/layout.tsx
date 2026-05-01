@@ -1,10 +1,30 @@
+import type { Metadata } from "next"
 import Link from "next/link"
 import "./reset.css"
 
-export const metadata = {
-  title: "RDish — 外食で困らない料理図鑑",
+const SITE_URL = "https://rdish.reload.co.jp"
+
+export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: "RDish — 外食で困らない料理図鑑",
+    template: "%s | RDish",
+  },
   description:
     "メニューの「これ何？」をその場で解決する。料理名・食材名・調理法をすばやく調べられるWebアプリです。",
+  openGraph: {
+    siteName: "RDish",
+    locale: "ja_JP",
+    type: "website",
+    url: SITE_URL,
+  },
+  twitter: {
+    card: "summary",
+    site: "@r_dish_reload",
+  },
+  alternates: {
+    canonical: "/",
+  },
 }
 
 const RootLayout = ({ children }: { children: React.ReactNode }) => {

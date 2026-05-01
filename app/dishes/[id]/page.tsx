@@ -17,9 +17,17 @@ export async function generateMetadata({
   const { id } = await params
   const dish = (dishes as DishItem[]).find((d) => d.id === id)
   if (!dish) return {}
+  const title = `${dish.name}とは？外食メニューで見たときの意味・味・頼む判断`
   return {
-    title: `${dish.name}とは？外食メニューで見たときの意味・味・頼む判断 | RDish`,
+    title,
     description: dish.summary,
+    alternates: { canonical: `/dishes/${dish.id}/` },
+    openGraph: {
+      title,
+      description: dish.summary,
+      url: `/dishes/${dish.id}/`,
+      type: "article",
+    },
   }
 }
 
@@ -41,5 +49,25 @@ export default async function DishPage({
   const { id } = await params
   const dish = (dishes as DishItem[]).find((d) => d.id === id)
   if (!dish) notFound()
-  return <DishPageContent dish={dish} allDishes={dishes as DishItem[]} />
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: `${dish.name}とは？外食メニューで見たときの意味・味・頼む判断`,
+    description: dish.summary,
+    name: dish.name,
+    url: `https://rdish.reload.co.jp/dishes/${dish.id}/`,
+    inLanguage: "ja",
+    publisher: { "@type": "Organization", name: "RDish", url: "https://rdish.reload.co.jp" },
+  }
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <DishPageContent dish={dish} allDishes={dishes as DishItem[]} />
+    </>
+  )
 }
