@@ -95,7 +95,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
                 お気に入り
               </Link>
               <Link href="/about/" style={{ color: "#7a6655", fontSize: "0.875rem", textDecoration: "none" }}>
-                about
+                このサイトについて
               </Link>
             </nav>
           </div>
