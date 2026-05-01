@@ -10,8 +10,8 @@ type Props = {
 export const DishCard: FC<Props> = ({ dish }) => (
   <div
     style={{
-      background: "#ffffff",
-      border: "1px solid #e0e0e0",
+      background: "#fffdf8",
+      border: "1px solid #e8ddd0",
       borderRadius: "0.5rem",
       padding: "1rem",
       transition: "border-color 0.15s",
@@ -33,8 +33,8 @@ export const DishCard: FC<Props> = ({ dish }) => (
         <span
           style={{
             fontSize: "0.7rem",
-            color: "#666",
-            background: "#f0f0f0",
+            color: "#7a6655",
+            background: "#f0e6d6",
             padding: "0.125rem 0.375rem",
             borderRadius: "0.25rem",
             whiteSpace: "nowrap",
@@ -45,10 +45,10 @@ export const DishCard: FC<Props> = ({ dish }) => (
           {dish.regions[0] ? ` / ${dish.regions[0]}` : ""}
         </span>
       </div>
-      <p style={{ fontSize: "0.875rem", color: "#555", marginBottom: "0.625rem" }}>
+      <p style={{ fontSize: "0.875rem", color: "#7a6655", marginBottom: "0.625rem" }}>
         {dish.summary}
       </p>
-      <p style={{ fontSize: "0.75rem", color: "#2563eb", marginBottom: 0 }}>
+      <p style={{ fontSize: "0.75rem", color: "#b45309", marginBottom: 0 }}>
         👉 {dish.orderAdvice}
       </p>
     </Link>

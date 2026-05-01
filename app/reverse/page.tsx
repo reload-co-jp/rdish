@@ -47,10 +47,10 @@ export default function ReversePage() {
           aria-label="特徴を入力して料理を検索"
           style={{
             flex: 1,
-            background: "#2a2a2a",
-            border: "1px solid #555",
+            background: "#fffdf8",
+            border: "1px solid #e8ddd0",
             borderRadius: "0.375rem",
-            color: "#f0f0f0",
+            color: "#2d1f0e",
             fontSize: "1rem",
             padding: "0.625rem 0.75rem",
             outline: "none",
@@ -59,7 +59,7 @@ export default function ReversePage() {
         <button
           type="submit"
           style={{
-            background: "#059669",
+            background: "#b45309",
             border: "none",
             borderRadius: "0.375rem",
             color: "#fff",
@@ -83,10 +83,10 @@ export default function ReversePage() {
               key={ex}
               onClick={() => setQuery(ex)}
               style={{
-                background: "#2a2a2a",
-                border: "1px solid #444",
+                background: "#f0e6d6",
+                border: "1px solid #e8ddd0",
                 borderRadius: "9999px",
-                color: "#ccc",
+                color: "#7a6655",
                 cursor: "pointer",
                 fontSize: "0.75rem",
                 padding: "0.25rem 0.75rem",

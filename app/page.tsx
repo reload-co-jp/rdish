@@ -38,7 +38,7 @@ export default function TopPage() {
         >
           RDish
         </h1>
-        <p style={{ color: "#aaa", marginBottom: "1.5rem" }}>
+        <p style={{ color: "#a89080", marginBottom: "1.5rem" }}>
           外食で困らない料理図鑑
         </p>
         <SearchBox />
@@ -46,21 +46,21 @@ export default function TopPage() {
 
       <div
         style={{
-          background: "#1e2a1e",
-          border: "1px solid #2a4a2a",
+          background: "#fef9f0",
+          border: "1px solid #f5c97a",
           borderRadius: "0.5rem",
           padding: "1rem",
           marginBottom: "2rem",
         }}
       >
-        <p style={{ color: "#888", fontSize: "0.8rem", marginBottom: "0.5rem" }}>
+        <p style={{ color: "#a89080", fontSize: "0.8rem", marginBottom: "0.5rem" }}>
           料理名がわからない？特徴から探す
         </p>
         <Link
           href="/reverse/"
           style={{
             display: "block",
-            color: "#88ee88",
+            color: "#b45309",
             textDecoration: "none",
             fontSize: "0.9rem",
           }}
@@ -90,10 +90,10 @@ export default function TopPage() {
               key={cat}
               href={`/categories/${encodeURIComponent(cat)}/`}
               style={{
-                background: "#2a2a2a",
-                border: "1px solid #444",
+                background: "#f0e6d6",
+                border: "1px solid #e8ddd0",
                 borderRadius: "0.375rem",
-                color: "#ddd",
+                color: "#7a4f2a",
                 fontSize: "0.875rem",
                 padding: "0.5rem 1rem",
                 textDecoration: "none",

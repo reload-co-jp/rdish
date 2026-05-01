@@ -33,8 +33,8 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
       <body>
         <header
           style={{
-            backgroundColor: "#ffffff",
-            borderBottom: "1px solid #e0e0e0",
+            backgroundColor: "#fffdf8",
+            borderBottom: "1px solid #e8ddd0",
             padding: "0.75rem 1rem",
           }}
         >
@@ -57,16 +57,16 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
                 gap: "0.5rem",
               }}
             >
-              <span style={{ fontSize: "1.25rem", fontWeight: 800, color: "#1a1a1a" }}>
+              <span style={{ fontSize: "1.25rem", fontWeight: 800, color: "#2d1f0e" }}>
                 RDish
               </span>
-              <span style={{ fontSize: "0.75rem", color: "#666" }}>料理図鑑</span>
+              <span style={{ fontSize: "0.75rem", color: "#a89080" }}>料理図鑑</span>
             </Link>
             <nav style={{ display: "flex", gap: "1rem" }}>
-              <Link href="/reverse/" style={{ color: "#555", fontSize: "0.875rem", textDecoration: "none" }}>
+              <Link href="/reverse/" style={{ color: "#7a6655", fontSize: "0.875rem", textDecoration: "none" }}>
                 逆引き
               </Link>
-              <Link href="/favorites/" style={{ color: "#555", fontSize: "0.875rem", textDecoration: "none" }}>
+              <Link href="/favorites/" style={{ color: "#7a6655", fontSize: "0.875rem", textDecoration: "none" }}>
                 お気に入り
               </Link>
             </nav>
@@ -84,8 +84,8 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
         </main>
         <footer
           style={{
-            borderTop: "1px solid #e0e0e0",
-            color: "#999",
+            borderTop: "1px solid #e8ddd0",
+            color: "#a89080",
             fontSize: "0.75rem",
             padding: "1rem",
             textAlign: "center",
