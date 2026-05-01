@@ -87,7 +87,8 @@
     "similarItems": [
       {
         "name": "ガーリックシュリンプ",
-        "difference": "ハワイ発祥で同じくガーリック風味だが、炒め焼きでオイルは少なめ"
+        "difference": "ハワイ発祥で同じくガーリック風味だが、炒め焼きでオイルは少なめ",
+        "id": "garlic_shrimp"
       }
     ],
     "relatedIds": [
@@ -152,7 +153,8 @@
       },
       {
         "name": "南蛮漬け",
-        "difference": "日本版のエスカベッシュ。基本的に同じ技法だが醤油や砂糖が使われる"
+        "difference": "日本版のエスカベッシュ。基本的に同じ技法だが醤油や砂糖が使われる",
+        "id": "nanbanzuke"
       }
     ],
     "relatedIds": [
@@ -710,11 +712,13 @@
     "similarItems": [
       {
         "name": "天ぷら",
-        "difference": "天ぷらは和風の衣だが、フリットはイタリア式でより薄い衣が多い"
+        "difference": "天ぷらは和風の衣だが、フリットはイタリア式でより薄い衣が多い",
+        "id": "tempura"
       },
       {
         "name": "フリッター",
-        "difference": "フリッターはより厚い衣で揚げるアメリカ・イギリス式の揚げ物"
+        "difference": "フリッターはより厚い衣で揚げるアメリカ・イギリス式の揚げ物",
+        "id": "fritter"
       }
     ],
     "relatedIds": [
@@ -1159,7 +1163,8 @@
     "similarItems": [
       {
         "name": "紙包み焼き",
-        "difference": "フランス料理のパピヨットと同じ調理法のイタリア版"
+        "difference": "フランス料理のパピヨットと同じ調理法のイタリア版",
+        "id": "en_papillote"
       }
     ],
     "relatedIds": [
@@ -1276,7 +1281,8 @@
     "similarItems": [
       {
         "name": "カリフラワー",
-        "difference": "同じアブラナ科で白色。ロマネスコより柔らかい風味"
+        "difference": "同じアブラナ科で白色。ロマネスコより柔らかい風味",
+        "id": "cauliflower"
       },
       {
         "id": "califlore",
@@ -1344,7 +1350,8 @@
     "similarItems": [
       {
         "name": "赤大根",
-        "difference": "同じく赤紫色だが、大根は辛みがあり食感も異なる"
+        "difference": "同じく赤紫色だが、大根は辛みがあり食感も異なる",
+        "id": "red_daikon"
       }
     ],
     "relatedIds": [
@@ -1405,7 +1412,8 @@
     "similarItems": [
       {
         "name": "セロリ",
-        "difference": "見た目は似ているが風味が異なる。セロリはフェンネルほど強い香りはない"
+        "difference": "見た目は似ているが風味が異なる。セロリはフェンネルほど強い香りはない",
+        "id": "celery"
       }
     ],
     "relatedIds": [
@@ -1465,7 +1473,8 @@
     "similarItems": [
       {
         "name": "玉ねぎ",
-        "difference": "玉ねぎより辛みが少なく繊細な風味。形も小さい"
+        "difference": "玉ねぎより辛みが少なく繊細な風味。形も小さい",
+        "id": "onion"
       }
     ],
     "relatedIds": [
@@ -1526,7 +1535,8 @@
     "similarItems": [
       {
         "name": "クレソン",
-        "difference": "クレソンも辛みと苦みがあるが、より水分が多くジューシー"
+        "difference": "クレソンも辛みと苦みがあるが、より水分が多くジューシー",
+        "id": "cress"
       }
     ],
     "relatedIds": [
@@ -1649,7 +1659,8 @@
     "similarItems": [
       {
         "name": "ほうれん草",
-        "difference": "ほうれん草より葉が固く苦みが強い。栄養価はケールのほうが高いとされる"
+        "difference": "ほうれん草より葉が固く苦みが強い。栄養価はケールのほうが高いとされる",
+        "id": "spinach"
       }
     ],
     "relatedIds": [
@@ -1766,7 +1777,8 @@
     "similarItems": [
       {
         "name": "マッシュルーム",
-        "difference": "マッシュルームよりはるかに旨みが強く香りも濃厚"
+        "difference": "マッシュルームよりはるかに旨みが強く香りも濃厚",
+        "id": "mushroom"
       }
     ],
     "relatedIds": [
@@ -1943,7 +1955,8 @@
     "similarItems": [
       {
         "name": "きゅうり",
-        "difference": "生食はきゅうりのほうが一般的。ズッキーニは加熱調理に向く"
+        "difference": "生食はきゅうりのほうが一般的。ズッキーニは加熱調理に向く",
+        "id": "cucumber"
       }
     ],
     "relatedIds": [
@@ -2004,7 +2017,8 @@
     "similarItems": [
       {
         "name": "セロリ",
-        "difference": "同じ植物の茎と根の違い。セロリアックのほうが香りが穏やかで料理しやすい"
+        "difference": "同じ植物の茎と根の違い。セロリアックのほうが香りが穏やかで料理しやすい",
+        "id": "celery"
       }
     ],
     "relatedIds": [
@@ -2189,7 +2203,8 @@
     "similarItems": [
       {
         "name": "大根",
-        "difference": "同じ大根の仲間だが、ラディッシュははるかに小さく辛みは控えめ"
+        "difference": "同じ大根の仲間だが、ラディッシュははるかに小さく辛みは控えめ",
+        "id": "daikon"
       }
     ],
     "relatedIds": [
@@ -2680,7 +2695,8 @@
     "similarItems": [
       {
         "name": "ロックフォール",
-        "difference": "フランス産の羊乳ブルーチーズ。ゴルゴンゾーラより鮮烈な刺激がある"
+        "difference": "フランス産の羊乳ブルーチーズ。ゴルゴンゾーラより鮮烈な刺激がある",
+        "id": "roquefort"
       }
     ],
     "relatedIds": [
@@ -3105,7 +3121,8 @@
     "similarItems": [
       {
         "name": "マヨネーズ",
-        "difference": "マヨネーズはよりマイルドでにんにくなし。アイオリはにんにくが主役"
+        "difference": "マヨネーズはよりマイルドでにんにくなし。アイオリはにんにくが主役",
+        "id": "mayonnaise"
       }
     ],
     "relatedIds": [
@@ -3475,7 +3492,8 @@
     "similarItems": [
       {
         "name": "スリラチャ",
-        "difference": "スリラチャはアジア系の甘辛いソース。ハリッサはよりスパイシーで北アフリカ的な複雑な風味"
+        "difference": "スリラチャはアジア系の甘辛いソース。ハリッサはよりスパイシーで北アフリカ的な複雑な風味",
+        "id": "sriracha"
       }
     ],
     "relatedIds": [
@@ -3535,7 +3553,8 @@
     "similarItems": [
       {
         "name": "ツァジキ",
-        "difference": "ギリシャ版のヨーグルトきゅうりディップ。ライタよりニンニクが効いている"
+        "difference": "ギリシャ版のヨーグルトきゅうりディップ。ライタよりニンニクが効いている",
+        "id": "tzatziki"
       }
     ],
     "relatedIds": [
@@ -3594,7 +3613,8 @@
     "similarItems": [
       {
         "name": "コンフィチュール",
-        "difference": "コンフィチュールはフランスのジャム。チャツネはスパイスが入りよりスパイシー"
+        "difference": "コンフィチュールはフランスのジャム。チャツネはスパイスが入りよりスパイシー",
+        "id": "confiture"
       }
     ],
     "relatedIds": [
@@ -3825,7 +3845,8 @@
     "similarItems": [
       {
         "name": "ボロネーゼ",
-        "difference": "ボロネーゼはラグーの一種でひき肉使用。ラグーはより広い概念で塊肉のものも含む"
+        "difference": "ボロネーゼはラグーの一種でひき肉使用。ラグーはより広い概念で塊肉のものも含む",
+        "id": "bolognese"
       }
     ],
     "relatedIds": [
@@ -4242,7 +4263,8 @@
     "similarItems": [
       {
         "name": "ラタトゥイユ",
-        "difference": "ラタトゥイユも野菜の煮込みだが、ピピラーダはバスク産の唐辛子が特徴"
+        "difference": "ラタトゥイユも野菜の煮込みだが、ピピラーダはバスク産の唐辛子が特徴",
+        "id": "ratatouille"
       }
     ],
     "relatedIds": [
@@ -4477,7 +4499,8 @@
     "similarItems": [
       {
         "name": "ピラフ",
-        "difference": "ピラフは炒めてから炊くが、ビリヤニはスパイスで風味づけされた炊き込み方式"
+        "difference": "ピラフは炒めてから炊くが、ビリヤニはスパイスで風味づけされた炊き込み方式",
+        "id": "pilaf"
       }
     ],
     "relatedIds": [
@@ -4766,7 +4789,8 @@
     "similarItems": [
       {
         "name": "ブルグル",
-        "difference": "ブルグルは砕いて茹でた小麦。クスクスより食感が粗く料理用途が違う"
+        "difference": "ブルグルは砕いて茹でた小麦。クスクスより食感が粗く料理用途が違う",
+        "id": "bulgur"
       }
     ],
     "relatedIds": [
@@ -5746,7 +5770,8 @@
     "similarItems": [
       {
         "name": "クロックマダム",
-        "difference": "クロックムッシュの上に目玉焼きをのせたものがクロックマダム"
+        "difference": "クロックムッシュの上に目玉焼きをのせたものがクロックマダム",
+        "id": "croque_madame"
       }
     ],
     "relatedIds": [
@@ -6212,7 +6237,8 @@
     "similarItems": [
       {
         "name": "カタイフ",
-        "difference": "カタイフは細い麺状の生地を使うバクラヴァの派生形"
+        "difference": "カタイフは細い麺状の生地を使うバクラヴァの派生形",
+        "id": "kataifi"
       }
     ],
     "relatedIds": [
@@ -6458,7 +6484,8 @@
     "similarItems": [
       {
         "name": "スモークサーモン",
-        "difference": "スモークサーモンは煙で燻製するが、グラブラックスは塩とハーブのみでキュアリング"
+        "difference": "スモークサーモンは煙で燻製するが、グラブラックスは塩とハーブのみでキュアリング",
+        "id": "smoked_salmon"
       }
     ],
     "relatedIds": [
@@ -6518,7 +6545,8 @@
     "similarItems": [
       {
         "name": "ペリメニ",
-        "difference": "ペリメニはロシアの小さい肉入り水餃子。ピエロギより大きく具材が多様"
+        "difference": "ペリメニはロシアの小さい肉入り水餃子。ピエロギより大きく具材が多様",
+        "id": "pelmeni"
       }
     ],
     "relatedIds": [
@@ -6702,7 +6730,8 @@
     "similarItems": [
       {
         "name": "トンカツ",
-        "difference": "トンカツは日本式で豚肉を厚く揚げる。シュニッツェルは薄く叩いて広げるのが特徴"
+        "difference": "トンカツは日本式で豚肉を厚く揚げる。シュニッツェルは薄く叩いて広げるのが特徴",
+        "id": "tonkatsu"
       }
     ],
     "relatedIds": [
@@ -6914,5 +6943,1437 @@
       "/images/dishes/pot-au-feu/2.jpg",
       "/images/dishes/pot-au-feu/3.jpg"
     ]
+  },
+  {
+    "id": "garlic_shrimp",
+    "name": "ガーリックシュリンプ",
+    "kana": "がーりっくしゅりんぷ",
+    "englishName": "Garlic Shrimp",
+    "category": "料理",
+    "regions": [
+      "ハワイ",
+      "アメリカ"
+    ],
+    "summary": "ニンニク風味のバターやオイルで炒めたエビ料理。ハワイのノースショアが発祥として有名で、アヒージョより炒め焼きスタイル。",
+    "menuDescription": "エビをガーリックバターや少量のオイルで強火で炒めた料理。殻ごと提供されることが多く、ご飯と一緒に食べるのが定番。",
+    "whatComesOut": [
+      "エビ（殻付きまたは殻なし）",
+      "ガーリックバターソース",
+      "ライスまたはパン"
+    ],
+    "tasteAndTexture": [
+      "ガーリックバターの濃厚な風味",
+      "プリプリしたエビの食感",
+      "こうばしい炒め焼きの香り"
+    ],
+    "orderAdvice": "ガーリックが好きでエビが食べたいときに。シンプルで食べやすい。",
+    "caution": "にんにくの風味が強いため食後の口臭に注意。",
+    "similarItems": [
+      {
+        "id": "ahijo",
+        "name": "アヒージョ",
+        "difference": "アヒージョはオイルにどっぷり浸けて加熱するスペイン料理。ガーリックシュリンプはオイル少なめで炒め焼き"
+      }
+    ],
+    "relatedIds": [
+      "ahijo",
+      "aioli"
+    ],
+    "tags": [
+      "ハワイ料理",
+      "エビ",
+      "ガーリック",
+      "炒め物",
+      "ご飯に合う"
+    ],
+    "reverseKeywords": [
+      "エビ",
+      "にんにく",
+      "炒め物",
+      "ハワイ",
+      "こうばしい"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1
+  },
+  {
+    "id": "nanbanzuke",
+    "name": "南蛮漬け",
+    "kana": "なんばんづけ",
+    "englishName": "Nanbanzuke",
+    "category": "料理",
+    "regions": [
+      "日本"
+    ],
+    "summary": "揚げた魚や肉を甘酢と野菜に漬け込んだ日本の料理。エスカベッシュの影響を受けた調理法で、冷めても美味しく食べられる。",
+    "menuDescription": "揚げた魚（アジ・イワシなど）を甘酢たれと玉ねぎ・ピーマンで漬け込んだもの。冷菜として提供されることが多い。",
+    "whatComesOut": [
+      "揚げた魚または鶏肉",
+      "甘酢に浸かった玉ねぎ・ピーマン・人参",
+      "酸っぱいたれ"
+    ],
+    "tasteAndTexture": [
+      "甘酢のさっぱりとした酸味と甘み",
+      "揚げた食材が漬け込みでしなやかになる",
+      "野菜のシャキシャキ感"
+    ],
+    "orderAdvice": "さっぱりしたおかずが食べたいとき。冷菜として出ることが多い。",
+    "similarItems": [
+      {
+        "id": "escabeche",
+        "name": "エスカベッシュ",
+        "difference": "エスカベッシュはヨーロッパ由来の同様の料理。南蛮漬けは日本でアレンジされ甘みが強め"
+      },
+      {
+        "id": "marine",
+        "name": "マリネ",
+        "difference": "マリネは酸に漬けるが揚げない。南蛮漬けは揚げてから漬ける点が独特"
+      }
+    ],
+    "relatedIds": [
+      "escabeche",
+      "marine"
+    ],
+    "tags": [
+      "和食",
+      "魚料理",
+      "甘酢",
+      "揚げ物",
+      "冷菜",
+      "さっぱり"
+    ],
+    "reverseKeywords": [
+      "和食",
+      "甘酢",
+      "さっぱり",
+      "魚",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 1
+  },
+  {
+    "id": "tempura",
+    "name": "天ぷら",
+    "kana": "てんぷら",
+    "englishName": "Tempura",
+    "originalName": "Tempura",
+    "category": "調理法",
+    "regions": [
+      "日本"
+    ],
+    "summary": "薄い衣をつけてさっと揚げる日本の調理法。軽くサクサクした食感が特徴で、海老・野菜・魚などが定番。フリットより衣が薄くあっさり。",
+    "menuDescription": "薄い小麦粉の衣をまとわせて揚げた料理。天つゆや塩で食べる。衣は軽くフリッターより断然あっさり。",
+    "whatComesOut": [
+      "エビ・野菜・魚など揚げたもの",
+      "天つゆと大根おろし、または塩"
+    ],
+    "tasteAndTexture": [
+      "薄衣のサクサクした食感",
+      "素材そのものの風味が活きる",
+      "油っぽくないあっさりした揚げ物"
+    ],
+    "orderAdvice": "あっさりした揚げ物が食べたいとき。フリットより軽い食べ口。",
+    "similarItems": [
+      {
+        "id": "fritto",
+        "name": "フリット",
+        "difference": "フリットはイタリア式で衣が厚め。天ぷらは薄衣でサクッと軽い"
+      },
+      {
+        "name": "フリッター",
+        "difference": "フリッターは洋風で衣が厚くふっくら。天ぷらは薄衣でサクサク",
+        "id": "fritter"
+      }
+    ],
+    "relatedIds": [
+      "fritto"
+    ],
+    "tags": [
+      "和食",
+      "揚げ物",
+      "エビ",
+      "野菜",
+      "あっさり",
+      "さくさく"
+    ],
+    "reverseKeywords": [
+      "揚げ物",
+      "和食",
+      "さくさく",
+      "あっさり",
+      "エビ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "fritter",
+    "name": "フリッター",
+    "kana": "ふりったー",
+    "englishName": "Fritter",
+    "category": "調理法",
+    "regions": [
+      "アメリカ",
+      "イギリス"
+    ],
+    "summary": "食材に厚めのバッター（衣）をつけてカラッと揚げた料理。天ぷらやフリットより衣が厚くふっくらした食感が特徴。",
+    "menuDescription": "小麦粉・卵・ベーキングパウダーを混ぜた厚めの衣をまとわせて揚げたもの。コーンフリッターや海老フリッターが代表的。",
+    "whatComesOut": [
+      "厚衣の揚げ物（コーン・エビ・果物など）",
+      "ディップソースまたはチリソース"
+    ],
+    "tasteAndTexture": [
+      "外はカリッと内はふわっとした厚衣",
+      "食材の甘みや旨みを包み込む",
+      "天ぷらより油分多め"
+    ],
+    "orderAdvice": "ボリュームのある揚げ物が食べたいとき。フリットや天ぷらより食べ応えある。",
+    "similarItems": [
+      {
+        "id": "fritto",
+        "name": "フリット",
+        "difference": "フリットはイタリア式でシンプルな衣。フリッターはより厚くふっくら"
+      },
+      {
+        "id": "tempura",
+        "name": "天ぷら",
+        "difference": "天ぷらは薄衣でサクッと軽い。フリッターは厚衣でふっくら"
+      }
+    ],
+    "relatedIds": [
+      "fritto",
+      "tempura"
+    ],
+    "tags": [
+      "揚げ物",
+      "洋食",
+      "アメリカ料理",
+      "コーン",
+      "エビ",
+      "ふわふわ"
+    ],
+    "reverseKeywords": [
+      "揚げ物",
+      "ふわふわ",
+      "厚衣",
+      "洋食",
+      "ボリューム"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0
+  },
+  {
+    "id": "en_papillote",
+    "name": "紙包み焼き",
+    "kana": "かみつつみやき",
+    "englishName": "En Papillote",
+    "originalName": "En papillote",
+    "category": "調理法",
+    "regions": [
+      "フランス"
+    ],
+    "summary": "食材をクッキングペーパーや紙ホイルで包んでオーブンで焼く調理法。蒸気で蒸し焼きになり素材の旨みが閉じ込められる。カルトッチョと同じ原理。",
+    "menuDescription": "魚や野菜を紙またはホイルで密封して焼いた料理。テーブルで開封すると蒸気と香りが立ち上る演出が楽しい。",
+    "whatComesOut": [
+      "紙またはホイルに包まれた状態で提供",
+      "開けると魚・野菜・ソースが蒸し焼きに",
+      "ハーブやレモンの香り"
+    ],
+    "tasteAndTexture": [
+      "素材の旨みが凝縮したしっとりした食感",
+      "ハーブやレモンの風味が染み込んでいる",
+      "ジューシーな仕上がり"
+    ],
+    "orderAdvice": "素材の風味をシンプルに楽しみたいとき。見た目の演出も楽しめる。",
+    "similarItems": [
+      {
+        "id": "cartoccio",
+        "name": "カルトッチョ",
+        "difference": "カルトッチョはイタリア版の紙包み焼き。原理は同じだが使う食材やハーブが異なる"
+      }
+    ],
+    "relatedIds": [
+      "cartoccio",
+      "pochee"
+    ],
+    "tags": [
+      "フランス料理",
+      "蒸し焼き",
+      "魚料理",
+      "ヘルシー",
+      "演出",
+      "ハーブ"
+    ],
+    "reverseKeywords": [
+      "包み焼き",
+      "蒸し",
+      "さっぱり",
+      "ヘルシー",
+      "魚"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "cauliflower",
+    "name": "カリフラワー",
+    "kana": "かりふらわー",
+    "englishName": "Cauliflower",
+    "category": "野菜",
+    "regions": [
+      "ヨーロッパ",
+      "地中海"
+    ],
+    "summary": "アブラナ科の白い花野菜。ブロッコリーの白版で、加熱するとほくほく甘くなる。ロマネスコより柔らかい風味で食べやすい。",
+    "menuDescription": "白い花蕾が特徴の野菜。ロースト・蒸し・ピューレなど多様な調理法で付け合わせや主役として登場。",
+    "whatComesOut": [
+      "白い花蕾の塊",
+      "ロースト・蒸し・ピューレなどの状態で",
+      "塩・オリーブオイル味付けが多い"
+    ],
+    "tasteAndTexture": [
+      "ほんのり甘くクセのない風味",
+      "蒸すとほくほく、ローストすると香ばしい",
+      "ブロッコリーより柔らかい食感"
+    ],
+    "orderAdvice": "野菜好きなら安心して選べる。クセがなく食べやすい。",
+    "similarItems": [
+      {
+        "id": "romanesco",
+        "name": "ロマネスコ",
+        "difference": "ロマネスコは黄緑色でフラクタル状の形が特徴。カリフラワーより風味が豊か"
+      },
+      {
+        "id": "califlore",
+        "name": "カリフローレ",
+        "difference": "カリフローレはカリフラワーとブロッコリーの交配品種で形が異なる"
+      }
+    ],
+    "relatedIds": [
+      "romanesco",
+      "califlore",
+      "kale"
+    ],
+    "tags": [
+      "野菜",
+      "アブラナ科",
+      "白野菜",
+      "ヘルシー",
+      "付け合わせ"
+    ],
+    "reverseKeywords": [
+      "白い野菜",
+      "クセがない",
+      "ほくほく",
+      "ヘルシー",
+      "付け合わせ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "red_daikon",
+    "name": "赤大根",
+    "kana": "あかだいこん",
+    "englishName": "Red Daikon",
+    "category": "野菜",
+    "regions": [
+      "日本",
+      "中国"
+    ],
+    "summary": "外皮が赤紫色の大根の一種。サラダや漬物に使われ、鮮やかな色で盛り付けのアクセントになる。ビーツとは別の野菜。",
+    "menuDescription": "鮮やかな赤紫色が特徴の大根。薄切りにしてサラダや前菜に使われることが多く、色鮮やかな盛り付けに活躍する。",
+    "whatComesOut": [
+      "薄切りまたは千切りの赤紫色の野菜",
+      "サラダ・前菜・付け合わせとして",
+      "生または軽く漬けた状態で"
+    ],
+    "tasteAndTexture": [
+      "大根より甘みが強くやや辛みが少ない",
+      "シャキシャキした食感",
+      "鮮やかな見た目が特徴"
+    ],
+    "orderAdvice": "盛り付けの彩りとして登場することが多い。食感と色を楽しめる。",
+    "similarItems": [
+      {
+        "id": "beet",
+        "name": "ビーツ",
+        "difference": "ビーツはアカザ科で甘みが強く土臭い風味。赤大根はアブラナ科で大根の風味"
+      },
+      {
+        "id": "radish",
+        "name": "ラディッシュ",
+        "difference": "ラディッシュは小型で球状。赤大根は通常の大根と同じ形の赤い品種"
+      }
+    ],
+    "relatedIds": [
+      "beet",
+      "radish"
+    ],
+    "tags": [
+      "野菜",
+      "大根",
+      "赤紫",
+      "サラダ",
+      "付け合わせ",
+      "和野菜"
+    ],
+    "reverseKeywords": [
+      "赤い野菜",
+      "大根",
+      "シャキシャキ",
+      "サラダ",
+      "彩り"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 1
+  },
+  {
+    "id": "celery",
+    "name": "セロリ",
+    "kana": "せろり",
+    "englishName": "Celery",
+    "category": "野菜",
+    "regions": [
+      "地中海",
+      "ヨーロッパ"
+    ],
+    "summary": "独特の清涼感ある香りとシャキシャキ食感が特徴の野菜。好き嫌いが分かれる香りで、加熱すると甘みが増す。フェンネルやセロリアックの親戚。",
+    "menuDescription": "繊維質でシャキシャキした食感と独特の香りの野菜。スープの香味野菜として、またサラダの食感として使われる。",
+    "whatComesOut": [
+      "薄切りまたはスティック状のシャキシャキした野菜",
+      "生のままサラダに、または加熱して柔らかく"
+    ],
+    "tasteAndTexture": [
+      "清涼感ある独特の青い香り",
+      "シャキシャキした繊維質の食感",
+      "加熱すると甘みが増し香りが穏やかになる"
+    ],
+    "orderAdvice": "セロリが好きなら風味のアクセントとして楽しめる。苦手な人は注意。",
+    "caution": "独特の香りが苦手な人は多い。注文前に確認を。",
+    "similarItems": [
+      {
+        "id": "fennel",
+        "name": "フェンネル",
+        "difference": "フェンネルはより強いアニス系の香り。セロリよりクセが強め"
+      },
+      {
+        "id": "celeriac",
+        "name": "セロリアック",
+        "difference": "セロリアックはセロリの根。球状で加熱してピューレや煮込みに使う"
+      }
+    ],
+    "relatedIds": [
+      "fennel",
+      "celeriac"
+    ],
+    "tags": [
+      "野菜",
+      "香味野菜",
+      "シャキシャキ",
+      "スープ",
+      "サラダ",
+      "洋野菜"
+    ],
+    "reverseKeywords": [
+      "香り野菜",
+      "シャキシャキ",
+      "クセがある",
+      "スープ素材"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "onion",
+    "name": "玉ねぎ",
+    "kana": "たまねぎ",
+    "englishName": "Onion",
+    "category": "野菜",
+    "regions": [
+      "世界各地"
+    ],
+    "summary": "料理の基本となる香味野菜。生では辛みと刺激があるが、加熱すると甘みが引き出され深いコクになる。エシャロットの身近な代替品。",
+    "menuDescription": "ソースや煮込みの風味ベースとして使われることが多い。キャラメライズすると深い甘みとコクが生まれる。",
+    "whatComesOut": [
+      "ソースや料理の風味ベースとして",
+      "スライスで生食、または炒めてキャラメライズ"
+    ],
+    "tasteAndTexture": [
+      "生は辛くシャープ、加熱すると甘くトロトロ",
+      "キャラメライズすると濃厚な甘みとコク"
+    ],
+    "orderAdvice": "玉ねぎが主役でメニューに出るなら、キャラメライズや甘みが特徴の料理が多い。",
+    "similarItems": [
+      {
+        "id": "shallot",
+        "name": "エシャロット",
+        "difference": "エシャロットは玉ねぎより小さく甘みが強く繊細な風味。フランス料理でよく使う"
+      }
+    ],
+    "relatedIds": [
+      "shallot"
+    ],
+    "tags": [
+      "野菜",
+      "香味野菜",
+      "料理の基本",
+      "ソース素材",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "甘い野菜",
+      "香味野菜",
+      "トロトロ",
+      "ソース素材"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 1
+  },
+  {
+    "id": "spinach",
+    "name": "ほうれん草",
+    "kana": "ほうれんそう",
+    "englishName": "Spinach",
+    "category": "野菜",
+    "regions": [
+      "世界各地"
+    ],
+    "summary": "栄養価の高い緑葉野菜。ソテー・クリーム煮など幅広く使われる。ケールより柔らかく風味が穏やかで食べやすい。",
+    "menuDescription": "緑の葉野菜で、ソテーやクリーム系ソースのベースとしてよく使われる。フレンチやイタリアンで付け合わせや具材として登場。",
+    "whatComesOut": [
+      "緑の葉（生またはソテー）",
+      "副菜またはクリームソースの具材として"
+    ],
+    "tasteAndTexture": [
+      "穏やかな草の風味とわずかな渋み",
+      "生はシャキシャキ、加熱するとクタっと柔らかくなる",
+      "クリームと相性が良い"
+    ],
+    "orderAdvice": "緑野菜の付け合わせや副菜として安心して食べられる。",
+    "similarItems": [
+      {
+        "id": "kale",
+        "name": "ケール",
+        "difference": "ケールはほうれん草より苦みが強く食感が硬め。栄養価は高いが食べ応えがある"
+      }
+    ],
+    "relatedIds": [
+      "kale",
+      "cress",
+      "rucola"
+    ],
+    "tags": [
+      "野菜",
+      "葉野菜",
+      "緑野菜",
+      "ヘルシー",
+      "付け合わせ",
+      "クリーム"
+    ],
+    "reverseKeywords": [
+      "緑野菜",
+      "葉物",
+      "クリームと合う",
+      "ヘルシー",
+      "付け合わせ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "mushroom",
+    "name": "マッシュルーム",
+    "kana": "まっしゅるーむ",
+    "englishName": "Mushroom",
+    "category": "食材",
+    "regions": [
+      "ヨーロッパ",
+      "世界各地"
+    ],
+    "summary": "洋食で最もポピュラーなきのこ。加熱するとうまみが増し、バター炒めで芳醇な香りが出る。ポルチーニより穏やかな風味。",
+    "menuDescription": "白または茶色の傘状のきのこ。ソテー・スープ・ソースなど幅広く使われる洋食の定番食材。",
+    "whatComesOut": [
+      "丸ごと・スライス・刻みなど形は様々",
+      "バター炒め・グリル・スープ・ソースに"
+    ],
+    "tasteAndTexture": [
+      "加熱するとじゅわっとうまみが出る",
+      "バター炒めで香ばしくなる",
+      "生はシャキシャキ、加熱すると縮む"
+    ],
+    "orderAdvice": "きのこが好きなら安心して選べる。ポルチーニより食べやすい。",
+    "similarItems": [
+      {
+        "id": "porcini",
+        "name": "ポルチーニ",
+        "difference": "ポルチーニはより濃厚で香り高い高級きのこ。マッシュルームより個性的な風味"
+      }
+    ],
+    "relatedIds": [
+      "porcini"
+    ],
+    "tags": [
+      "食材",
+      "きのこ",
+      "洋食",
+      "バター炒め",
+      "スープ",
+      "うまみ"
+    ],
+    "reverseKeywords": [
+      "きのこ",
+      "うまみ",
+      "バター炒め",
+      "洋食",
+      "スープ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "cucumber",
+    "name": "きゅうり",
+    "kana": "きゅうり",
+    "englishName": "Cucumber",
+    "category": "野菜",
+    "regions": [
+      "世界各地"
+    ],
+    "summary": "水分が多く清涼感のある野菜。生食でシャキシャキした食感と爽やかな味わいが特徴。ズッキーニと同じウリ科だが生食向き。",
+    "menuDescription": "サラダや付け合わせ、マリネや漬物として登場。スライスや拍子切りで使われることが多い。",
+    "whatComesOut": [
+      "薄切りまたはスティック状",
+      "サラダ・前菜・付け合わせとして"
+    ],
+    "tasteAndTexture": [
+      "瑞々しく水分豊富",
+      "シャキシャキした軽い食感",
+      "クセのない爽やかな味"
+    ],
+    "orderAdvice": "サラダや付け合わせとして気軽に食べられる。",
+    "similarItems": [
+      {
+        "id": "zucchini",
+        "name": "ズッキーニ",
+        "difference": "ズッキーニは加熱向きで食感が柔らかくなる。きゅうりは生食向きでみずみずしい"
+      }
+    ],
+    "relatedIds": [
+      "zucchini",
+      "radish"
+    ],
+    "tags": [
+      "野菜",
+      "生野菜",
+      "サラダ",
+      "爽やか",
+      "水分",
+      "付け合わせ"
+    ],
+    "reverseKeywords": [
+      "爽やか",
+      "シャキシャキ",
+      "みずみずしい",
+      "サラダ",
+      "冷たい"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "daikon",
+    "name": "大根",
+    "kana": "だいこん",
+    "englishName": "Daikon",
+    "originalName": "Daikon radish",
+    "category": "野菜",
+    "regions": [
+      "日本",
+      "東アジア"
+    ],
+    "summary": "日本料理で広く使われる白い根野菜。生では辛みがあるが加熱すると甘くなる。大根おろしとして薬味にも使われる。",
+    "menuDescription": "おろし・煮物・漬物・生食など多彩な使い方をされる和の根野菜。洋食では薄切りやマリネとして登場することも。",
+    "whatComesOut": [
+      "白い根野菜（薄切り・おろし・角切りなど）",
+      "付け合わせや煮物として"
+    ],
+    "tasteAndTexture": [
+      "生はシャキシャキ辛みあり",
+      "加熱するとトロトロ甘くなる",
+      "大根おろしは清涼感ある辛み"
+    ],
+    "orderAdvice": "和食の煮物や付け合わせとして定番。大根おろしは揚げ物に添えてさっぱり食べられる。",
+    "similarItems": [
+      {
+        "id": "radish",
+        "name": "ラディッシュ",
+        "difference": "ラディッシュは小さく赤い球状の大根の仲間。サラダ向きで辛みが強め"
+      }
+    ],
+    "relatedIds": [
+      "radish",
+      "red_daikon"
+    ],
+    "tags": [
+      "野菜",
+      "根野菜",
+      "和食",
+      "おろし",
+      "煮物",
+      "付け合わせ"
+    ],
+    "reverseKeywords": [
+      "和食",
+      "根野菜",
+      "おろし",
+      "白い野菜",
+      "さっぱり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 1
+  },
+  {
+    "id": "roquefort",
+    "name": "ロックフォール",
+    "kana": "ろっくふぉーる",
+    "englishName": "Roquefort",
+    "originalName": "Roquefort",
+    "category": "チーズ",
+    "regions": [
+      "フランス"
+    ],
+    "summary": "フランス産の青カビチーズの代表格。世界三大ブルーチーズの一つで、塩辛くピリッとした刺激的な風味が特徴。ゴルゴンゾーラよりシャープ。",
+    "menuDescription": "青緑色のカビが入った白いチーズ。強い塩気と鋭い刺激、濃厚なクリーミーさが特徴。サラダドレッシングやソースにも使われる。",
+    "whatComesOut": [
+      "白地に青緑のカビが入ったチーズ",
+      "薄切りまたはクラッシュしてサラダに",
+      "ドレッシングやソースとして"
+    ],
+    "tasteAndTexture": [
+      "強い塩気と鋭い風味",
+      "クリーミーでしっとりした質感",
+      "後味に刺激的なブルーの余韻"
+    ],
+    "orderAdvice": "ブルーチーズが好きなら試す価値あり。苦手な人はゴルゴンゾーラより強烈なため注意。",
+    "caution": "ブルーチーズの中でも強い風味。苦手な人は避けた方が無難。",
+    "similarItems": [
+      {
+        "id": "gorgonzola",
+        "name": "ゴルゴンゾーラ",
+        "difference": "ゴルゴンゾーラはイタリア産。ロックフォールよりクリーミーさが強く塩気は似ている"
+      }
+    ],
+    "relatedIds": [
+      "gorgonzola",
+      "camembert",
+      "brie"
+    ],
+    "tags": [
+      "チーズ",
+      "ブルーチーズ",
+      "フランスチーズ",
+      "塩辛い",
+      "熟成",
+      "強い風味"
+    ],
+    "reverseKeywords": [
+      "青カビ",
+      "塩辛い",
+      "刺激的",
+      "ブルーチーズ",
+      "個性的"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0
+  },
+  {
+    "id": "mayonnaise",
+    "name": "マヨネーズ",
+    "kana": "まよねーず",
+    "englishName": "Mayonnaise",
+    "originalName": "Mayonnaise",
+    "category": "ソース",
+    "regions": [
+      "フランス",
+      "スペイン"
+    ],
+    "summary": "卵黄と油を乳化させたクリーミーなソース。アイオリの元となったソースで世界中で使われる汎用的な調味料。",
+    "menuDescription": "クリーミーで酸味のある乳化ソース。前菜のディップ、サラダのドレッシング、サンドイッチのスプレッドなど幅広く使われる。",
+    "whatComesOut": [
+      "白〜クリーム色のドロッとしたソース",
+      "ディップまたはドレッシングとして"
+    ],
+    "tasteAndTexture": [
+      "まろやかでクリーミー",
+      "卵黄のコクと酢の酸味のバランス",
+      "なめらかな食感"
+    ],
+    "orderAdvice": "幅広い料理に合う基本ソース。アイオリよりにんにく風味が少ないマイルドな味。",
+    "similarItems": [
+      {
+        "id": "aioli",
+        "name": "アイオリ",
+        "difference": "アイオリはにんにくが主役。マヨネーズよりパンチがある"
+      }
+    ],
+    "relatedIds": [
+      "aioli",
+      "vinaigrette"
+    ],
+    "tags": [
+      "ソース",
+      "乳化ソース",
+      "クリーミー",
+      "ディップ",
+      "サラダ",
+      "洋食"
+    ],
+    "reverseKeywords": [
+      "クリーミー",
+      "まろやか",
+      "ディップ",
+      "サラダドレッシング"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "sriracha",
+    "name": "スリラチャ",
+    "kana": "すりらちゃ",
+    "englishName": "Sriracha",
+    "originalName": "Sriracha",
+    "category": "香辛料",
+    "regions": [
+      "タイ",
+      "アメリカ"
+    ],
+    "summary": "赤唐辛子をベースにニンニク・砂糖・酢を加えた辛みソース。ハリッサより甘みがあり食べやすい辛さで、アメリカで人気爆発したアジア系ホットソース。",
+    "menuDescription": "赤いとろみのある辛みソース。料理にかけるテーブルソースとして提供されることが多い。辛さと甘みのバランスが特徴。",
+    "whatComesOut": [
+      "赤いとろみソース（ボトルまたは小皿で）"
+    ],
+    "tasteAndTexture": [
+      "辛みと甘みと酸みのバランス",
+      "にんにくのコクがある",
+      "ハリッサより親しみやすい辛さ"
+    ],
+    "orderAdvice": "辛いものが好きなら料理にかけてみる価値あり。辛さは中程度でコントロールしやすい。",
+    "caution": "辛いものが苦手な人は少量から試すこと。",
+    "similarItems": [
+      {
+        "id": "harissa",
+        "name": "ハリッサ",
+        "difference": "ハリッサは北アフリカのスパイスペーストで辛さが強くより複雑なスパイス風味"
+      }
+    ],
+    "relatedIds": [
+      "harissa",
+      "chimichurri"
+    ],
+    "tags": [
+      "香辛料",
+      "ホットソース",
+      "アジア系",
+      "辛い",
+      "タイ",
+      "テーブルソース"
+    ],
+    "reverseKeywords": [
+      "辛い",
+      "ホットソース",
+      "にんにく",
+      "甘辛",
+      "赤いソース"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 3
+  },
+  {
+    "id": "tzatziki",
+    "name": "ツァジキ",
+    "kana": "つぁじき",
+    "englishName": "Tzatziki",
+    "originalName": "Τζατζίκι",
+    "category": "ソース",
+    "regions": [
+      "ギリシャ",
+      "中東"
+    ],
+    "summary": "ヨーグルトときゅうりとニンニクで作るギリシャのディップソース。ライタと似ているがより濃厚でニンニク風味が強い。",
+    "menuDescription": "白くとろみのあるヨーグルトベースのソース。ケバブやピタパンのディップ、野菜スティックに添えて提供される。さっぱりしてクリーミー。",
+    "whatComesOut": [
+      "白いクリーミーなディップ",
+      "ピタパンやケバブの添えとして"
+    ],
+    "tasteAndTexture": [
+      "ヨーグルトのさっぱりした酸味",
+      "にんにくの風味ときゅうりの清涼感",
+      "クリーミーでなめらか"
+    ],
+    "orderAdvice": "ケバブや中東料理の付け合わせに。さっぱりして食べやすい。",
+    "similarItems": [
+      {
+        "id": "raita",
+        "name": "ライタ",
+        "difference": "ライタはインドのヨーグルトソース。ツァジキよりスパイスが加わることが多い"
+      },
+      {
+        "id": "aioli",
+        "name": "アイオリ",
+        "difference": "アイオリはオイルベース。ツァジキはヨーグルトベースでよりさっぱり"
+      }
+    ],
+    "relatedIds": [
+      "raita",
+      "kebab",
+      "hummus"
+    ],
+    "tags": [
+      "ソース",
+      "ギリシャ料理",
+      "ヨーグルト",
+      "きゅうり",
+      "ディップ",
+      "さっぱり"
+    ],
+    "reverseKeywords": [
+      "ヨーグルト",
+      "さっぱり",
+      "ディップ",
+      "ギリシャ",
+      "にんにく"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 1
+  },
+  {
+    "id": "confiture",
+    "name": "コンフィチュール",
+    "kana": "こんふぃちゅーる",
+    "englishName": "Confiture",
+    "originalName": "Confiture",
+    "category": "ソース",
+    "regions": [
+      "フランス"
+    ],
+    "summary": "フランス語でジャムのこと。果物や野菜を砂糖で煮詰めたもので、チーズ板の添えや料理のソースとして使われる。チャツネより甘みが強い。",
+    "menuDescription": "チーズの盛り合わせや前菜にジャム状のソースとして提供される。フルーツの甘みと酸みがチーズの塩気と合わさり相性が良い。",
+    "whatComesOut": [
+      "小さな瓶または小皿でジャム状のもの",
+      "チーズ板・前菜・デザートに添えて"
+    ],
+    "tasteAndTexture": [
+      "果物の甘みと酸みが凝縮",
+      "とろっとしたジャム状の質感",
+      "チーズとの相性抜群"
+    ],
+    "orderAdvice": "チーズ板に添えてあれば一緒に食べると美味しい。ブルーチーズとの組み合わせが絶品。",
+    "similarItems": [
+      {
+        "id": "chutney",
+        "name": "チャツネ",
+        "difference": "チャツネはインド発祥でスパイスが入りより複雑な風味。コンフィチュールは甘みがストレート"
+      }
+    ],
+    "relatedIds": [
+      "chutney",
+      "brie",
+      "camembert"
+    ],
+    "tags": [
+      "ソース",
+      "フランス料理",
+      "ジャム",
+      "果物",
+      "チーズと合う"
+    ],
+    "reverseKeywords": [
+      "ジャム",
+      "甘い",
+      "果物",
+      "チーズに合う",
+      "酸味"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "bolognese",
+    "name": "ボロネーゼ",
+    "kana": "ぼろねーぜ",
+    "englishName": "Bolognese",
+    "originalName": "Ragù alla Bolognese",
+    "category": "ソース",
+    "regions": [
+      "イタリア（ボローニャ）"
+    ],
+    "summary": "挽き肉をトマトと野菜で長時間煮込んだイタリアのミートソース。ラグーの中でもボローニャ式の肉主体のソースを指す。",
+    "menuDescription": "挽き肉（牛・豚ミックス）とトマトで作った濃厚なミートソース。タリアテッレやパスタに絡めて提供されることが多い。",
+    "whatComesOut": [
+      "パスタ（タリアテッレ・フェットゥチーネなど）",
+      "挽き肉たっぷりの濃厚ミートソース",
+      "パルミジャーノをかけて"
+    ],
+    "tasteAndTexture": [
+      "肉の旨みとトマトの酸みが溶け合った濃厚な味",
+      "長時間煮込んだ深いコク",
+      "ソースが麺にしっかり絡む"
+    ],
+    "orderAdvice": "ハズレのない定番パスタソース。肉好きにはたまらない濃厚さ。",
+    "similarItems": [
+      {
+        "id": "ragu",
+        "name": "ラグー",
+        "difference": "ラグーは肉の煮込みソース全般を指す。ボロネーゼはラグーの一種でボローニャ式の挽き肉ソース"
+      }
+    ],
+    "relatedIds": [
+      "ragu",
+      "parmigiano",
+      "tagliate"
+    ],
+    "tags": [
+      "イタリア料理",
+      "パスタソース",
+      "ミートソース",
+      "挽き肉",
+      "トマト",
+      "濃厚"
+    ],
+    "reverseKeywords": [
+      "ミートソース",
+      "挽き肉",
+      "パスタ",
+      "濃厚",
+      "トマト"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0
+  },
+  {
+    "id": "pilaf",
+    "name": "ピラフ",
+    "kana": "ぴらふ",
+    "englishName": "Pilaf",
+    "originalName": "Pilav",
+    "category": "料理",
+    "regions": [
+      "中東",
+      "中央アジア",
+      "トルコ"
+    ],
+    "summary": "炒めた米を出汁で炊き込んだ料理。ビリヤニよりスパイスが控えめで食べやすい。中東・中央アジア発祥で世界中に広まった。",
+    "menuDescription": "炒めた米を野菜や肉と一緒にブイヨンで炊き上げた料理。バター風味でパラっとした食感が特徴。",
+    "whatComesOut": [
+      "炊き込みご飯状のパラっとしたご飯",
+      "野菜・肉・シーフードなど具材が入ることも"
+    ],
+    "tasteAndTexture": [
+      "バターやオリーブオイルのコク",
+      "スパイスは穏やかでクセが少ない",
+      "パラっとした食感"
+    ],
+    "orderAdvice": "スパイシーなビリヤニが不安なときはピラフを。馴染みやすい炊き込みご飯スタイル。",
+    "similarItems": [
+      {
+        "id": "biryani",
+        "name": "ビリヤニ",
+        "difference": "ビリヤニはスパイスが豊富で香りが強い。ピラフよりずっと複雑な風味"
+      }
+    ],
+    "relatedIds": [
+      "biryani",
+      "risotto",
+      "paella"
+    ],
+    "tags": [
+      "料理",
+      "米料理",
+      "中東料理",
+      "トルコ料理",
+      "炊き込み",
+      "バター"
+    ],
+    "reverseKeywords": [
+      "ご飯もの",
+      "炊き込み",
+      "バター",
+      "中東",
+      "マイルド"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "bulgur",
+    "name": "ブルグル",
+    "kana": "ぶるぐる",
+    "englishName": "Bulgur",
+    "originalName": "Bulgur",
+    "category": "食材",
+    "regions": [
+      "中東",
+      "地中海"
+    ],
+    "summary": "小麦を蒸して乾燥させた穀物。クスクスより粒が粗く食感があり、中東料理でサラダや付け合わせに使われる。タブレの主原料。",
+    "menuDescription": "調理済みの全粒小麦粒で、ナッツのような香ばしさとモチモチした食感が特徴。ハーブやレモンのサラダにしたり肉料理の付け合わせにしたりする。",
+    "whatComesOut": [
+      "茶色がかった粒状の穀物",
+      "サラダ（タブレなど）または付け合わせとして"
+    ],
+    "tasteAndTexture": [
+      "香ばしいナッツのような風味",
+      "モチモチとした噛み応えのある食感",
+      "クスクスより存在感がある"
+    ],
+    "orderAdvice": "穀物系の付け合わせとして。クスクスに似ているが食感が強め。",
+    "similarItems": [
+      {
+        "id": "couscous",
+        "name": "クスクス",
+        "difference": "クスクスはセモリナ粉の細かい粒。ブルグルより粒が大きく食感が異なる"
+      }
+    ],
+    "relatedIds": [
+      "couscous",
+      "taboule"
+    ],
+    "tags": [
+      "食材",
+      "穀物",
+      "中東料理",
+      "全粒小麦",
+      "ヘルシー",
+      "サラダ"
+    ],
+    "reverseKeywords": [
+      "穀物",
+      "全粒",
+      "ナッツ風味",
+      "中東",
+      "サラダ素材"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "croque_madame",
+    "name": "クロックマダム",
+    "kana": "くろっくまだむ",
+    "englishName": "Croque Madame",
+    "originalName": "Croque-madame",
+    "category": "料理",
+    "regions": [
+      "フランス"
+    ],
+    "summary": "クロックムッシュの上に目玉焼きをのせたフランスのホットサンド。ハムとチーズのホワイトソース焼きに卵が加わりよりリッチな一品。",
+    "menuDescription": "ハムとグリュイエールチーズをはさんでベシャメルソースで焼いたサンドイッチの上に目玉焼きがのったもの。クロックムッシュの進化版。",
+    "whatComesOut": [
+      "厚めのトースト（目玉焼きのせ）",
+      "ベシャメルソースとチーズが溶けた状態で"
+    ],
+    "tasteAndTexture": [
+      "ベシャメルのクリーミーさとチーズのコク",
+      "目玉焼きの半熟黄身が絡む",
+      "外はサクッと中はとろとろ"
+    ],
+    "orderAdvice": "クロックムッシュより満足度高め。しっかり食べたい朝食・ランチに。",
+    "similarItems": [
+      {
+        "id": "croque_monsieur",
+        "name": "クロックムッシュ",
+        "difference": "クロックムッシュは目玉焼きなし。マダムはムッシュの上に卵をのせたもの"
+      }
+    ],
+    "relatedIds": [
+      "croque_monsieur",
+      "bechamel"
+    ],
+    "tags": [
+      "フランス料理",
+      "ホットサンド",
+      "卵料理",
+      "ハム",
+      "チーズ",
+      "ブランチ"
+    ],
+    "reverseKeywords": [
+      "ホットサンド",
+      "卵",
+      "チーズ",
+      "フランス",
+      "ブランチ",
+      "ハム"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0
+  },
+  {
+    "id": "kataifi",
+    "name": "カタイフ",
+    "kana": "かたいふ",
+    "englishName": "Kataifi",
+    "originalName": "Kataifi",
+    "category": "デザート",
+    "regions": [
+      "ギリシャ",
+      "トルコ",
+      "中東"
+    ],
+    "summary": "細い糸状のパイ生地を使ったデザート。バクラヴァと同じくナッツを包んでシロップで仕上げる。バクラヴァより見た目が繊細。",
+    "menuDescription": "天使の髪のように細い生地でナッツを包んで焼き、ハチミツシロップを染み込ませた中東系デザート。バクラヴァに似た甘さ。",
+    "whatComesOut": [
+      "細い糸状の生地でナッツを包んだ焼き菓子",
+      "シロップをたっぷり染み込ませた状態で",
+      "ピスタチオや胡桃を中に"
+    ],
+    "tasteAndTexture": [
+      "ザクザクした外の食感と濃厚な甘さ",
+      "ハチミツシロップのしっかりとした甘み",
+      "ナッツのリッチな風味"
+    ],
+    "orderAdvice": "バクラヴァが好きなら同様に楽しめる。甘さはしっかり強め。",
+    "caution": "非常に甘いため甘党向け。少量でも満足できる。",
+    "similarItems": [
+      {
+        "id": "baklava",
+        "name": "バクラヴァ",
+        "difference": "バクラヴァは層状のフィロ生地を使う。カタイフは細糸状の生地でより繊細な見た目"
+      }
+    ],
+    "relatedIds": [
+      "baklava",
+      "tiramisu"
+    ],
+    "tags": [
+      "デザート",
+      "中東菓子",
+      "ギリシャ菓子",
+      "ナッツ",
+      "シロップ",
+      "甘い"
+    ],
+    "reverseKeywords": [
+      "甘い",
+      "ナッツ",
+      "シロップ",
+      "中東デザート",
+      "サクサク"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0
+  },
+  {
+    "id": "smoked_salmon",
+    "name": "スモークサーモン",
+    "kana": "すもーくさーもん",
+    "englishName": "Smoked Salmon",
+    "category": "魚介",
+    "regions": [
+      "北欧",
+      "スコットランド",
+      "北アメリカ"
+    ],
+    "summary": "サーモンを塩漬けにして燻製にした食材。グラブラックスと異なり燻煙をかけるため独特のスモーキーな風味がある。前菜の定番食材。",
+    "menuDescription": "薄くスライスされた橙色のサーモン。燻製の香りとサーモンの脂の旨みが特徴。前菜・ベーグルサンド・カナッペなどで登場。",
+    "whatComesOut": [
+      "薄くスライスされたオレンジ色のサーモン",
+      "クリームチーズ・ケッパー・赤玉ねぎを添えて"
+    ],
+    "tasteAndTexture": [
+      "スモーキーな香りとサーモンの濃い脂の旨み",
+      "しっとりとした柔らかい食感",
+      "塩気がしっかりある"
+    ],
+    "orderAdvice": "スモーキーな風味が好きなら前菜の定番選択。クリームチーズと一緒に食べると美味しい。",
+    "similarItems": [
+      {
+        "id": "gravlax",
+        "name": "グラブラックス",
+        "difference": "グラブラックスは燻製せず塩・砂糖・ディルで漬けたもの。スモークサーモンより風味が穏やか"
+      }
+    ],
+    "relatedIds": [
+      "gravlax",
+      "carpaccio",
+      "tartar"
+    ],
+    "tags": [
+      "魚介",
+      "サーモン",
+      "スモーク",
+      "燻製",
+      "前菜",
+      "北欧"
+    ],
+    "reverseKeywords": [
+      "スモーク",
+      "燻製",
+      "サーモン",
+      "前菜",
+      "オレンジ色"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "pelmeni",
+    "name": "ペリメニ",
+    "kana": "ぺりめに",
+    "englishName": "Pelmeni",
+    "originalName": "Пельмени",
+    "category": "料理",
+    "regions": [
+      "ロシア",
+      "シベリア"
+    ],
+    "summary": "薄い生地で肉あんを包んだロシアの餃子。ピエロギより小さく肉のみの具が一般的。茹でてバター・サワークリームで食べる。",
+    "menuDescription": "小さな半月型の茹で餃子。挽き肉（牛・豚・羊ミックス）を包み、サワークリームをつけて食べるのが定番スタイル。",
+    "whatComesOut": [
+      "小さな茹で餃子（一口大）",
+      "サワークリームまたはバターを添えて"
+    ],
+    "tasteAndTexture": [
+      "薄い生地のもちもちした食感",
+      "肉あんのジューシーさ",
+      "サワークリームのさっぱりした酸みがよく合う"
+    ],
+    "orderAdvice": "餃子が好きなら安心して注文できる。サワークリームとの相性が絶妙。",
+    "similarItems": [
+      {
+        "id": "pierogi",
+        "name": "ピエロギ",
+        "difference": "ピエロギはポーランドの餃子で具材が多様（芋・チーズ・キャベツなど）。ペリメニより大きめ"
+      }
+    ],
+    "relatedIds": [
+      "pierogi",
+      "gnocchi"
+    ],
+    "tags": [
+      "料理",
+      "ロシア料理",
+      "餃子",
+      "茹で物",
+      "肉料理",
+      "東欧"
+    ],
+    "reverseKeywords": [
+      "餃子",
+      "ロシア料理",
+      "もちもち",
+      "肉",
+      "サワークリーム"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0
+  },
+  {
+    "id": "tonkatsu",
+    "name": "トンカツ",
+    "kana": "とんかつ",
+    "englishName": "Tonkatsu",
+    "originalName": "とんかつ",
+    "category": "料理",
+    "regions": [
+      "日本"
+    ],
+    "summary": "豚のロースやヒレをパン粉でカラッと揚げた日本の料理。シュニッツェルと同じ系譜で日本独自に発展したカツレツ。ソースとキャベツが定番。",
+    "menuDescription": "豚肉を小麦粉・卵・パン粉の順につけてサクサクに揚げた料理。とんかつソースとキャベツの千切りで食べる。",
+    "whatComesOut": [
+      "厚切りまたは薄切りの豚肉カツ",
+      "千切りキャベツ",
+      "とんかつソースとマスタード"
+    ],
+    "tasteAndTexture": [
+      "サクサクのパン粉の食感",
+      "ジューシーな豚肉",
+      "ソースの甘みと辛みのバランス"
+    ],
+    "orderAdvice": "和食のボリューム料理として定番。揚げ物が食べたいときの鉄板選択。",
+    "similarItems": [
+      {
+        "id": "schnitzel",
+        "name": "シュニッツェル",
+        "difference": "シュニッツェルはオーストリア・ドイツの薄い仔牛カツ。トンカツは豚肉で日本式に厚め"
+      }
+    ],
+    "relatedIds": [
+      "schnitzel",
+      "fritto"
+    ],
+    "tags": [
+      "和食",
+      "揚げ物",
+      "豚肉",
+      "カツ",
+      "定食",
+      "ソース"
+    ],
+    "reverseKeywords": [
+      "揚げ物",
+      "豚肉",
+      "サクサク",
+      "和食",
+      "定食",
+      "ボリューム"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0
   }
 ]
