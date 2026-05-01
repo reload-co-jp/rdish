@@ -28,10 +28,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }))
 
+  const allRegions = [...new Set(allDishes.flatMap((d) => d.regions))]
+  const countryUrls = allRegions.map((region) => ({
+    url: `${SITE_URL}/countries/${encodeURIComponent(region)}/`,
+    changeFrequency: "monthly" as const,
+    priority: 0.6,
+  }))
+
   return [
     { url: `${SITE_URL}/`, changeFrequency: "weekly", priority: 1.0 },
     { url: `${SITE_URL}/reverse/`, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${SITE_URL}/countries/`, changeFrequency: "monthly", priority: 0.7 },
     ...categoryUrls,
+    ...countryUrls,
     ...dishUrls,
     ...tagUrls,
   ]
