@@ -4,7 +4,7 @@ import { normalize } from "./normalize"
 function tokenize(query: string): string[] {
   return query
     .trim()
-    .split(/[\s　のをがはにでともへからまでより・、。,.，]+/)
+    .split(/[\s\u3000のをがはにでともへからまでより・、。,.，]+/)
     .flatMap((chunk) => {
       // further split katakana / kanji boundaries if chunk is long
       const parts: string[] = []
