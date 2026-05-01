@@ -6005,5 +6005,914 @@
       "/images/dishes/moussaka/2.jpg",
       "/images/dishes/moussaka/3.jpg"
     ]
+  },
+  {
+    "id": "tiramisu",
+    "name": "ティラミス",
+    "kana": "てぃらみす",
+    "englishName": "Tiramisu",
+    "originalName": "Tiramisù",
+    "category": "デザート",
+    "regions": [
+      "イタリア（ヴェネト州）"
+    ],
+    "summary": "マスカルポーネクリームとエスプレッソに浸したサヴォイアルディを重ねたイタリアを代表するデザート。「私を元気づけて」という意味を持つ。",
+    "menuDescription": "エスプレッソに浸したビスケット（サヴォイアルディ）とマスカルポーネ・卵黄・砂糖を混ぜたクリームを層にし、ココアパウダーをかけたデザート。",
+    "whatComesOut": [
+      "グラスまたはカップに盛られたクリーム層とビスケット層",
+      "ココアパウダーをたっぷり振りかけた表面",
+      "冷たい状態で提供"
+    ],
+    "tasteAndTexture": [
+      "マスカルポーネの濃厚でなめらかなクリーム",
+      "エスプレッソの苦みとビスケットの食感",
+      "甘さとコーヒーの大人な風味のバランス"
+    ],
+    "orderAdvice": "コーヒー好きにはたまらない定番デザート。甘さ控えめで食事の締めに最適。",
+    "caution": "アルコール（マルサラワイン・ラム）が入っている場合がある。",
+    "similarItems": [
+      {
+        "id": "panna-cotta",
+        "name": "パンナコッタ",
+        "difference": "パンナコッタはゼラチンで固めた生クリームベース。ティラミスはエスプレッソが主役"
+      }
+    ],
+    "relatedIds": [
+      "panna-cotta",
+      "creme-brulee"
+    ],
+    "tags": [
+      "イタリア料理",
+      "デザート",
+      "コーヒー",
+      "マスカルポーネ",
+      "冷たい",
+      "甘い"
+    ],
+    "reverseKeywords": [
+      "コーヒー嫌い",
+      "塩辛い",
+      "辛い",
+      "温かい"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tiramisu/1.jpg",
+      "/images/dishes/tiramisu/2.jpg",
+      "/images/dishes/tiramisu/3.jpg"
+    ]
+  },
+  {
+    "id": "creme-brulee",
+    "name": "クレームブリュレ",
+    "kana": "くれーむぶりゅれ",
+    "englishName": "Crème Brûlée",
+    "originalName": "Crème Brûlée",
+    "category": "デザート",
+    "regions": [
+      "フランス"
+    ],
+    "summary": "濃厚なバニラカスタードの表面に砂糖を振り、バーナーで焦がして作るフランスの代表的デザート。パリッとしたキャラメル層と滑らかなクリームの対比が醍醐味。",
+    "menuDescription": "卵黄・生クリーム・バニラで作ったカスタードをオーブンで焼き、表面にグラニュー糖を振ってバーナーで焦がしたデザート。",
+    "whatComesOut": [
+      "浅いラメキン皿に入ったクリーム",
+      "表面がパリパリのキャラメル層",
+      "温かいキャラメルと冷たいクリームのコントラスト"
+    ],
+    "tasteAndTexture": [
+      "表面のパリッとしたキャラメルをスプーンで割る瞬間の快感",
+      "濃厚でなめらかなバニラカスタード",
+      "甘さの中にほろ苦いキャラメルの風味"
+    ],
+    "orderAdvice": "スプーンで表面を割るのが醍醐味。バニラ好きには外せない一品。",
+    "similarItems": [
+      {
+        "id": "tiramisu",
+        "name": "ティラミス",
+        "difference": "ティラミスはコーヒー風味でイタリア式。ブリュレは焼いたキャラメル層が特徴のフランス式"
+      }
+    ],
+    "relatedIds": [
+      "tiramisu",
+      "panna-cotta"
+    ],
+    "tags": [
+      "フランス料理",
+      "デザート",
+      "バニラ",
+      "キャラメル",
+      "クリーム",
+      "甘い"
+    ],
+    "reverseKeywords": [
+      "甘さ不要",
+      "辛い",
+      "塩辛い",
+      "さっぱり",
+      "軽い"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/creme-brulee/1.jpg",
+      "/images/dishes/creme-brulee/2.jpg",
+      "/images/dishes/creme-brulee/3.jpg"
+    ]
+  },
+  {
+    "id": "panna-cotta",
+    "name": "パンナコッタ",
+    "kana": "ぱんなこった",
+    "englishName": "Panna Cotta",
+    "originalName": "Panna Cotta",
+    "category": "デザート",
+    "regions": [
+      "イタリア（ピエモンテ州）"
+    ],
+    "summary": "ゼラチンで固めた生クリームのイタリアデザート。「調理した生クリーム」の意味で、シンプルながら濃厚。フルーツソースやカラメルソースと合わせて提供される。",
+    "menuDescription": "生クリームにゼラチンを加えて冷やし固めたデザート。バニラ風味が基本で、ベリーソースやカラメルソースを添えることが多い。",
+    "whatComesOut": [
+      "皿に盛られた白い滑らかなプリン状のデザート",
+      "フルーツソースまたはカラメルソース添え",
+      "冷たい状態で提供"
+    ],
+    "tasteAndTexture": [
+      "ぷるんとした柔らかい食感",
+      "生クリームの濃厚なコク",
+      "ソースの酸味や甘さとの組み合わせ"
+    ],
+    "orderAdvice": "軽めのデザートを求めるときに最適。ソースの種類で印象が変わるので確認して。",
+    "similarItems": [
+      {
+        "id": "tiramisu",
+        "name": "ティラミス",
+        "difference": "ティラミスはコーヒー主役で層になっている。パンナコッタはシンプルなクリームゼリー"
+      }
+    ],
+    "relatedIds": [
+      "tiramisu",
+      "creme-brulee"
+    ],
+    "tags": [
+      "イタリア料理",
+      "デザート",
+      "生クリーム",
+      "冷たい",
+      "プリン",
+      "さっぱり"
+    ],
+    "reverseKeywords": [
+      "温かい",
+      "辛い",
+      "スパイシー",
+      "塩辛い"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/panna-cotta/1.jpg",
+      "/images/dishes/panna-cotta/2.jpg",
+      "/images/dishes/panna-cotta/3.jpg"
+    ]
+  },
+  {
+    "id": "baklava",
+    "name": "バクラヴァ",
+    "kana": "ばくらゔぁ",
+    "englishName": "Baklava",
+    "originalName": "باقلاوة",
+    "category": "デザート",
+    "regions": [
+      "トルコ",
+      "中東",
+      "ギリシャ",
+      "バルカン"
+    ],
+    "summary": "薄いフィロ生地にナッツを挟み、ハチミツや砂糖シロップをたっぷり含ませた中東・トルコのお菓子。濃厚な甘さとサクサクの食感が特徴。",
+    "menuDescription": "バター塗りのフィロ（薄い生地）を何層にも重ね、刻んだピスタチオやクルミを挟んで焼き、シロップをかけた菓子。",
+    "whatComesOut": [
+      "ひし形または四角にカットされた小さい菓子",
+      "表面がキラキラしたシロップがかかっている",
+      "ピスタチオが散らされた鮮やかな緑色"
+    ],
+    "tasteAndTexture": [
+      "フィロ生地のサクサクとした食感",
+      "ハチミツシロップの濃厚な甘さ",
+      "ナッツの香ばしさとプチプチした食感"
+    ],
+    "orderAdvice": "非常に甘いので一口でも満足感がある。コーヒーや紅茶と一緒に食べるのがおすすめ。",
+    "caution": "ナッツアレルギーに注意。非常に甘い。",
+    "similarItems": [
+      {
+        "name": "カタイフ",
+        "difference": "カタイフは細い麺状の生地を使うバクラヴァの派生形"
+      }
+    ],
+    "relatedIds": [
+      "tiramisu"
+    ],
+    "tags": [
+      "トルコ料理",
+      "中東料理",
+      "デザート",
+      "ナッツ",
+      "ピスタチオ",
+      "甘い",
+      "スナック"
+    ],
+    "reverseKeywords": [
+      "甘さ不要",
+      "さっぱり",
+      "辛い",
+      "ナッツアレルギー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/baklava/1.jpg",
+      "/images/dishes/baklava/2.jpg",
+      "/images/dishes/baklava/3.jpg"
+    ]
+  },
+  {
+    "id": "pad-thai",
+    "name": "パッタイ",
+    "kana": "ぱったい",
+    "englishName": "Pad Thai",
+    "originalName": "ผัดไทย",
+    "category": "料理",
+    "regions": [
+      "タイ"
+    ],
+    "summary": "タマリンドベースの甘酸っぱいソースで炒めたライスヌードル料理。海老や豆腐・もやし・卵を加え、砕いたピーナッツをトッピングするタイの国民食。",
+    "menuDescription": "細いライスヌードル（セン・レック）をタマリンド・ナンプラー・砂糖のソースで炒め、海老・豆腐・もやし・ニラを加えた炒め麺料理。",
+    "whatComesOut": [
+      "平皿に盛られた炒め麺",
+      "砕いたピーナッツとライム・チリフレークが添えられる",
+      "卵が絡んでいる場合が多い"
+    ],
+    "tasteAndTexture": [
+      "タマリンドの甘酸っぱいソースが麺に絡む",
+      "もやしのシャキシャキ感",
+      "ピーナッツの香ばしさとライムの酸味が決め手"
+    ],
+    "orderAdvice": "タイ料理入門に最適。辛さは後から自分でチリで調整できることが多い。",
+    "caution": "ナッツアレルギー・えびアレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーはベトナムの牛骨スープ麺。パッタイはタイの炒め麺でソースの風味が全く異なる"
+      }
+    ],
+    "relatedIds": [
+      "pho",
+      "gapao",
+      "laksa"
+    ],
+    "tags": [
+      "タイ料理",
+      "麺料理",
+      "炒め料理",
+      "海老",
+      "もやし",
+      "甘酸っぱい",
+      "アジア料理"
+    ],
+    "reverseKeywords": [
+      "麺嫌い",
+      "和食",
+      "さっぱり",
+      "甘さ不要"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/pad-thai/1.jpg",
+      "/images/dishes/pad-thai/2.jpg",
+      "/images/dishes/pad-thai/3.jpg"
+    ]
+  },
+  {
+    "id": "laksa",
+    "name": "ラクサ",
+    "kana": "らくさ",
+    "englishName": "Laksa",
+    "originalName": "Laksa",
+    "category": "料理",
+    "regions": [
+      "マレーシア",
+      "シンガポール",
+      "東南アジア"
+    ],
+    "summary": "ココナッツミルクベースまたはタマリンドベースのスパイシーなスープ麺。海老・豆腐・もやしを入れた東南アジアを代表するプラナカン料理。",
+    "menuDescription": "レモングラス・チリ・海老ペーストなどのスパイスを合わせたピリ辛ブロスにライスヌードルを入れ、海老・豆腐・ゆで卵・もやしをトッピングした麺料理。",
+    "whatComesOut": [
+      "深いボウルに入った濃厚オレンジ色のスープ",
+      "ライスヌードルまたはビーフン",
+      "海老・豆腐・もやし・ゆで卵のトッピング"
+    ],
+    "tasteAndTexture": [
+      "ココナッツミルクの濃厚なコクとスパイスの辛味",
+      "海老の旨みが溶け込んだ複雑なスープ",
+      "もやしのシャキシャキ感とライスヌードルのもちもち感"
+    ],
+    "orderAdvice": "スパイシーで濃厚。辛さは店によって異なるため確認するとよい。",
+    "caution": "えびアレルギー・貝アレルギーに注意。辛い。",
+    "similarItems": [
+      {
+        "id": "pad-thai",
+        "name": "パッタイ",
+        "difference": "パッタイは炒め麺でタマリンドソースが主役。ラクサは濃厚スープ麺でスパイシー"
+      }
+    ],
+    "relatedIds": [
+      "pad-thai",
+      "pho",
+      "gapao"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "シンガポール料理",
+      "麺料理",
+      "スープ",
+      "ピリ辛",
+      "ココナッツ",
+      "アジア料理"
+    ],
+    "reverseKeywords": [
+      "辛さ不要",
+      "和食",
+      "牛肉",
+      "さっぱり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/laksa/1.jpg",
+      "/images/dishes/laksa/2.jpg",
+      "/images/dishes/laksa/3.jpg"
+    ]
+  },
+  {
+    "id": "dal",
+    "name": "ダル",
+    "kana": "だる",
+    "englishName": "Dal",
+    "originalName": "दाल",
+    "category": "料理",
+    "regions": [
+      "インド",
+      "パキスタン",
+      "バングラデシュ",
+      "ネパール"
+    ],
+    "summary": "レンズ豆や豆類をスパイスで煮込んだインド亜大陸の家庭料理。栄養価が高く毎日食べられる主食的存在。チャパティやライスと一緒に食べる。",
+    "menuDescription": "レンズ豆（マスール）または黄豆（チャナ）をターメリック・クミン・コリアンダーなどのスパイスで煮込んだスープ状の料理。タルカ（スパイスをギーで炒めたもの）を最後にかける。",
+    "whatComesOut": [
+      "ボウルまたは深皿に入ったスープ状の豆料理",
+      "ターメリックで黄色く色づいている",
+      "ライスまたはチャパティ添え"
+    ],
+    "tasteAndTexture": [
+      "豆のほっくりした食感とスパイスの香り",
+      "クミンやコリアンダーの温かいスパイス感",
+      "タルカの香ばしさと旨み"
+    ],
+    "orderAdvice": "インド料理の基本的な付け合わせ。ベジタリアン向けで栄養豊富。辛さは穏やかなことが多い。",
+    "similarItems": [
+      {
+        "id": "hummus",
+        "name": "フムス",
+        "difference": "フムスはひよこ豆をペースト状にした中東料理。ダルは豆をスープ状に煮込んだインド料理"
+      }
+    ],
+    "relatedIds": [
+      "hummus",
+      "biryani",
+      "tandoori-chicken"
+    ],
+    "tags": [
+      "インド料理",
+      "豆料理",
+      "ベジタリアン",
+      "スパイス",
+      "カレー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "肉食",
+      "さっぱり",
+      "和食",
+      "スパイス嫌い"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/dal/1.jpg",
+      "/images/dishes/dal/2.jpg",
+      "/images/dishes/dal/3.jpg"
+    ]
+  },
+  {
+    "id": "gravlax",
+    "name": "グラブラックス",
+    "kana": "ぐらぶらっくす",
+    "englishName": "Gravlax",
+    "originalName": "Gravlax",
+    "category": "魚介",
+    "regions": [
+      "北欧",
+      "スウェーデン",
+      "ノルウェー"
+    ],
+    "summary": "塩・砂糖・ディルでマリネして熟成させたサーモン。加熱せずにキュアリングする北欧の伝統的な保存食。薄くスライスしてパンやブリニと一緒に食べる。",
+    "menuDescription": "生鮭に塩・砂糖・白コショウ・新鮮なディルを塗り込み、数日間冷蔵で熟成させた料理。加熱なしで魚の旨みとディルの香りが凝縮する。",
+    "whatComesOut": [
+      "薄くスライスされた鮮やかオレンジ色のサーモン",
+      "ディルが散らされたプレート",
+      "マスタードソースまたはクリームチーズ・ライ麦パン添え"
+    ],
+    "tasteAndTexture": [
+      "サーモンの柔らかくとろける食感",
+      "塩気とディルの爽やかな香り",
+      "生と燻製の中間のような繊細な風味"
+    ],
+    "orderAdvice": "生食のような繊細さ。スモークサーモンに似ているが、より塩気とハーブ感が強い。",
+    "caution": "生魚のため免疫が低下している方は注意。",
+    "similarItems": [
+      {
+        "name": "スモークサーモン",
+        "difference": "スモークサーモンは煙で燻製するが、グラブラックスは塩とハーブのみでキュアリング"
+      }
+    ],
+    "relatedIds": [
+      "dill",
+      "tartare"
+    ],
+    "tags": [
+      "北欧料理",
+      "スウェーデン料理",
+      "サーモン",
+      "魚介",
+      "生食",
+      "ディル",
+      "前菜"
+    ],
+    "reverseKeywords": [
+      "魚嫌い",
+      "温かい料理",
+      "辛い",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gravlax/1.jpg",
+      "/images/dishes/gravlax/2.jpg",
+      "/images/dishes/gravlax/3.jpg"
+    ]
+  },
+  {
+    "id": "pierogi",
+    "name": "ピエロギ",
+    "kana": "ぴえろぎ",
+    "englishName": "Pierogi",
+    "originalName": "Pierogi",
+    "category": "料理",
+    "regions": [
+      "ポーランド",
+      "東ヨーロッパ",
+      "ウクライナ"
+    ],
+    "summary": "小麦粉生地にじゃがいも・チーズ・肉・キャベツなど様々な具材を包んで茹でたポーランドの餃子。バターで炒めて仕上げることが多い。",
+    "menuDescription": "薄い小麦粉生地に具材を包んで茹で、バターとタマネギで炒めた料理。具はポテト＆チーズ、肉、キャベツなど多種類ある。",
+    "whatComesOut": [
+      "半月形または三日月形の茹で餃子",
+      "バターで炒めた玉ねぎが添えられる",
+      "サワークリームを添えて提供されることが多い"
+    ],
+    "tasteAndTexture": [
+      "もちもちした生地とホクホクの具材",
+      "バターとサワークリームの濃厚なコク",
+      "炒めた玉ねぎの甘み"
+    ],
+    "orderAdvice": "ポーランド料理の定番。日本の餃子に近い感覚で食べられる。具材の種類を確認してから注文するとよい。",
+    "similarItems": [
+      {
+        "name": "ペリメニ",
+        "difference": "ペリメニはロシアの小さい肉入り水餃子。ピエロギより大きく具材が多様"
+      }
+    ],
+    "relatedIds": [
+      "borsch"
+    ],
+    "tags": [
+      "ポーランド料理",
+      "東ヨーロッパ料理",
+      "餃子",
+      "小麦粉料理",
+      "じゃがいも",
+      "バター",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "麺嫌い",
+      "さっぱり",
+      "辛い",
+      "魚料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pierogi/1.jpg",
+      "/images/dishes/pierogi/2.jpg",
+      "/images/dishes/pierogi/3.jpg"
+    ]
+  },
+  {
+    "id": "ceviche",
+    "name": "セビーチェ",
+    "kana": "せびーちぇ",
+    "englishName": "Ceviche",
+    "originalName": "Ceviche",
+    "category": "料理",
+    "regions": [
+      "ペルー",
+      "中南米",
+      "エクアドル",
+      "メキシコ"
+    ],
+    "summary": "新鮮な魚介をライムジュースで「熱を使わず調理」した南米の料理。赤玉ねぎ・チリ・コリアンダーを加えたさっぱりとした一品でペルーの国民食。",
+    "menuDescription": "サイコロ状に切った白身魚やエビをライム汁に漬けて酸で変性させ、赤玉ねぎ・ロコト（ペルーの唐辛子）・コリアンダーを和えた料理。",
+    "whatComesOut": [
+      "小さく切られた白い魚または海老",
+      "赤玉ねぎとコリアンダーが散らされた鮮やかな外観",
+      "ライムの爽やかな香りが漂う"
+    ],
+    "tasteAndTexture": [
+      "ライムの強い酸味と魚の旨み",
+      "赤玉ねぎのシャキシャキ感",
+      "唐辛子の辛みとコリアンダーの香り"
+    ],
+    "orderAdvice": "生魚が好きで酸味が得意なら絶対おすすめ。コリアンダー嫌いの場合は事前に確認を。",
+    "caution": "生魚のため鮮度が重要。コリアンダー（パクチー）が入っている。",
+    "similarItems": [
+      {
+        "id": "tartare",
+        "name": "タルタル",
+        "difference": "タルタルは肉または魚の生食フランス料理。セビーチェはライムで酸変性させた南米式"
+      }
+    ],
+    "relatedIds": [
+      "tartare",
+      "guacamole"
+    ],
+    "tags": [
+      "ペルー料理",
+      "中南米料理",
+      "魚介",
+      "生食",
+      "酸っぱい",
+      "さっぱり",
+      "前菜"
+    ],
+    "reverseKeywords": [
+      "生魚嫌い",
+      "酸っぱさ不要",
+      "コリアンダー嫌い",
+      "温かい料理",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/ceviche/1.jpg",
+      "/images/dishes/ceviche/2.jpg",
+      "/images/dishes/ceviche/3.jpg"
+    ]
+  },
+  {
+    "id": "guacamole",
+    "name": "ワカモレ",
+    "kana": "わかもれ",
+    "englishName": "Guacamole",
+    "originalName": "Guacamole",
+    "category": "ソース",
+    "regions": [
+      "メキシコ"
+    ],
+    "summary": "アボカドをベースにライム・コリアンダー・トマト・玉ねぎを混ぜたメキシコのディップ。トルティーヤチップスや料理に添えて使う万能ソース。",
+    "menuDescription": "熟したアボカドを潰し、ライム汁・塩・コリアンダー・みじん切り玉ねぎ・トマト・ハラペーニョを混ぜ合わせたディップ。",
+    "whatComesOut": [
+      "ボウルまたはモルカヘテ（石臼）に入った緑色のペースト",
+      "トルティーヤチップスを添えて提供",
+      "タコスや料理のトッピングとして"
+    ],
+    "tasteAndTexture": [
+      "アボカドのクリーミーでなめらかな食感",
+      "ライムの酸味と塩味のバランス",
+      "コリアンダーとハラペーニョの風味"
+    ],
+    "orderAdvice": "アボカド好きには外せない一品。コリアンダー嫌いは注意。辛さはハラペーニョの量で変わる。",
+    "caution": "コリアンダー（パクチー）・唐辛子が入っている場合がある。",
+    "similarItems": [
+      {
+        "id": "hummus",
+        "name": "フムス",
+        "difference": "フムスはひよこ豆ベースの中東ディップ。ワカモレはアボカドベースのメキシコ式"
+      }
+    ],
+    "relatedIds": [
+      "hummus",
+      "tacos",
+      "quesadilla"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "アボカド",
+      "ディップ",
+      "ソース",
+      "前菜",
+      "コリアンダー",
+      "野菜"
+    ],
+    "reverseKeywords": [
+      "アボカド嫌い",
+      "コリアンダー嫌い",
+      "辛さ不要",
+      "温かい料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/guacamole/1.jpg",
+      "/images/dishes/guacamole/2.jpg",
+      "/images/dishes/guacamole/3.jpg"
+    ]
+  },
+  {
+    "id": "schnitzel",
+    "name": "シュニッツェル",
+    "kana": "しゅにっつぇる",
+    "englishName": "Schnitzel",
+    "originalName": "Wiener Schnitzel",
+    "category": "料理",
+    "regions": [
+      "オーストリア",
+      "ドイツ"
+    ],
+    "summary": "薄く叩いた子牛肉（または豚肉）にパン粉をつけてカラッと揚げたオーストリア・ドイツの定番料理。ウィーン風シュニッツェルが世界的に有名。",
+    "menuDescription": "肉を薄く叩いてのばし、小麦粉→卵→パン粉の順で衣をつけてバターまたは油で揚げ焼きにした料理。レモンを絞って食べるのが定番。",
+    "whatComesOut": [
+      "大皿からはみ出るほど大きな揚げ肉",
+      "きつね色でサクサクのパン粉衣",
+      "レモンとじゃがいもサラダ（エルドアプフェルサラート）を添えて"
+    ],
+    "tasteAndTexture": [
+      "サクサクしたパン粉とジューシーな肉",
+      "シンプルな塩胡椒の味付け",
+      "レモンの酸味で爽やかに食べる"
+    ],
+    "orderAdvice": "とにかく大きい。一枚で十分お腹いっぱいになる。レモンをたっぷり絞って食べるのがおすすめ。",
+    "caution": "正式なウィーン風は子牛肉だが豚肉版も多い。事前に確認を。",
+    "similarItems": [
+      {
+        "name": "トンカツ",
+        "difference": "トンカツは日本式で豚肉を厚く揚げる。シュニッツェルは薄く叩いて広げるのが特徴"
+      }
+    ],
+    "relatedIds": [
+      "gratin"
+    ],
+    "tags": [
+      "オーストリア料理",
+      "ドイツ料理",
+      "揚げ物",
+      "肉料理",
+      "子牛",
+      "豚肉",
+      "パン粉"
+    ],
+    "reverseKeywords": [
+      "揚げ物嫌い",
+      "さっぱり",
+      "魚料理",
+      "ベジタリアン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/schnitzel/1.jpg",
+      "/images/dishes/schnitzel/2.jpg",
+      "/images/dishes/schnitzel/3.jpg"
+    ]
+  },
+  {
+    "id": "raclette",
+    "name": "ラクレット",
+    "kana": "らくれっと",
+    "englishName": "Raclette",
+    "originalName": "Raclette",
+    "category": "チーズ",
+    "regions": [
+      "スイス",
+      "フランス（サヴォワ）"
+    ],
+    "summary": "半分に切ったチーズを熱源に当てて溶かし、じゃがいもや野菜・ピクルスにかけて食べるスイスの伝統料理。「削る」を意味するフランス語が語源。",
+    "menuDescription": "ラクレットチーズを専用機（ラクレットグリル）で溶かし、茹でたじゃがいも・ピクルス・コールドミート（ハムやサラミ）にかけて食べる料理。",
+    "whatComesOut": [
+      "溶けたチーズが盛られたじゃがいも",
+      "ピクルスとコールドミートの盛り合わせ",
+      "専用の小さなフライパンで個別に溶かすスタイルも"
+    ],
+    "tasteAndTexture": [
+      "濃厚でとろとろのチーズ",
+      "じゃがいもとチーズの相性の良さ",
+      "ピクルスの酸味がくどさを切る"
+    ],
+    "orderAdvice": "チーズ好きには最高の料理。大人数でシェアするスタイルが多い。ボリュームが相当あるので注意。",
+    "caution": "乳製品アレルギーに注意。非常に濃厚でカロリーが高い。",
+    "similarItems": [
+      {
+        "id": "fondue",
+        "name": "フォンデュ",
+        "difference": "フォンデュはチーズを鍋で溶かして具材を浸す。ラクレットはチーズを溶かして上からかける"
+      }
+    ],
+    "relatedIds": [
+      "fondue"
+    ],
+    "tags": [
+      "スイス料理",
+      "チーズ",
+      "じゃがいも",
+      "溶けたチーズ",
+      "ファミリー料理",
+      "重い"
+    ],
+    "reverseKeywords": [
+      "チーズ嫌い",
+      "乳製品アレルギー",
+      "さっぱり",
+      "軽い料理",
+      "魚料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/raclette/1.jpg",
+      "/images/dishes/raclette/2.jpg",
+      "/images/dishes/raclette/3.jpg"
+    ]
+  },
+  {
+    "id": "fondue",
+    "name": "フォンデュ",
+    "kana": "ふぉんでゅ",
+    "englishName": "Fondue",
+    "originalName": "Fondue",
+    "category": "料理",
+    "regions": [
+      "スイス",
+      "フランス（サヴォワ）"
+    ],
+    "summary": "ワインで溶かしたチーズの鍋にパンや野菜を浸して食べるスイスの郷土料理。チーズフォンデュが最も有名で、大人数でシェアするスタイル。",
+    "menuDescription": "グリュイエール・エメンタールなどのチーズを白ワインで溶かしてカキュロン（専用鍋）に入れ、パン・野菜・じゃがいもを長いフォークで浸しながら食べる。",
+    "whatComesOut": [
+      "卓上にセットされた専用鍋と固形燃料",
+      "一口大に切ったバゲットと野菜の盛り合わせ",
+      "とろとろに溶けた濃厚チーズ"
+    ],
+    "tasteAndTexture": [
+      "濃厚なチーズとワインの風味",
+      "パンに絡む糸を引くチーズ",
+      "グリュイエールの深いコクとナッティな風味"
+    ],
+    "orderAdvice": "複数人で食べるのが基本。チーズが固まらないよう常にかき混ぜながら食べる。食後はかなり重い。",
+    "caution": "乳製品・グルテン・アルコールアレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "raclette",
+        "name": "ラクレット",
+        "difference": "ラクレットはチーズを溶かして上からかける。フォンデュは鍋に浸して食べる"
+      }
+    ],
+    "relatedIds": [
+      "raclette"
+    ],
+    "tags": [
+      "スイス料理",
+      "チーズ",
+      "パン",
+      "シェア料理",
+      "ワイン",
+      "重い",
+      "冬料理"
+    ],
+    "reverseKeywords": [
+      "チーズ嫌い",
+      "乳製品アレルギー",
+      "さっぱり",
+      "軽い料理",
+      "一人食い"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fondue/1.jpg",
+      "/images/dishes/fondue/2.jpg",
+      "/images/dishes/fondue/3.jpg"
+    ]
+  },
+  {
+    "id": "pot-au-feu",
+    "name": "ポトフ",
+    "kana": "ぽとふ",
+    "englishName": "Pot-au-feu",
+    "originalName": "Pot-au-feu",
+    "category": "料理",
+    "regions": [
+      "フランス"
+    ],
+    "summary": "牛肉とたくさんの野菜をじっくり煮込んだフランスの家庭料理。「火にかけた鍋」を意味するシンプルな一品で、スープと具材を別々に楽しむ。",
+    "menuDescription": "牛すね肉や骨付き肉を長時間煮込み、にんじん・玉ねぎ・かぶ・セロリ・じゃがいもを加えたブイヨンベースのポトフ。マスタードと粗塩を添えて提供。",
+    "whatComesOut": [
+      "大きな肉の塊と根菜が入ったスープ",
+      "スープを先に飲み、その後肉と野菜を食べるスタイル",
+      "マスタード・粗塩・コルニション（小さいピクルス）を添えて"
+    ],
+    "tasteAndTexture": [
+      "澄んだ上品な牛骨のブイヨン",
+      "長時間煮込んでやわらかくなった肉",
+      "野菜に染み込んだスープの旨み"
+    ],
+    "orderAdvice": "寒い季節に最適。スープとメインが一度に楽しめる。マスタードと一緒に食べると風味が増す。",
+    "similarItems": [
+      {
+        "id": "braise",
+        "name": "ブレゼ",
+        "difference": "ブレゼは少量の水分で蒸し煮にする。ポトフは大量のスープで長時間煮込む"
+      }
+    ],
+    "relatedIds": [
+      "braise",
+      "borsch",
+      "cassoulet"
+    ],
+    "tags": [
+      "フランス料理",
+      "煮込み料理",
+      "牛肉",
+      "野菜",
+      "スープ",
+      "家庭料理",
+      "ボリューム"
+    ],
+    "reverseKeywords": [
+      "肉嫌い",
+      "さっぱり",
+      "軽い料理",
+      "速い料理",
+      "スパイシー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pot-au-feu/1.jpg",
+      "/images/dishes/pot-au-feu/2.jpg",
+      "/images/dishes/pot-au-feu/3.jpg"
+    ]
   }
 ]
