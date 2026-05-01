@@ -35,9 +35,10 @@ export const DishCard: FC<Props> = ({ dish }) => {
           <div
             style={{
               display: "flex",
-              alignItems: "flex-start",
+              alignItems: "center",
               gap: "0.375rem",
               marginBottom: "0.375rem",
+              flexWrap: "wrap",
             }}
           >
             <h3 style={{ fontSize: "1.1rem", fontWeight: 700 }}>{dish.name}</h3>
@@ -56,7 +57,13 @@ export const DishCard: FC<Props> = ({ dish }) => {
               {dish.regions[0] ? ` / ${dish.regions[0]}` : ""}
             </span>
           </div>
-          <p style={{ fontSize: "0.875rem", color: "#7a6655", marginBottom: "0.5rem" }}>
+          <p
+            style={{
+              fontSize: "0.875rem",
+              color: "#7a6655",
+              marginBottom: "0.5rem",
+            }}
+          >
             {dish.summary}
           </p>
           <p style={{ fontSize: "0.75rem", color: "#b45309" }}>
