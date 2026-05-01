@@ -10,7 +10,7 @@ const CATEGORIES: DishCategory[] = [
 ]
 
 export function generateStaticParams() {
-  return CATEGORIES.map((category) => ({ category: encodeURIComponent(category) }))
+  return CATEGORIES.map((category) => ({ category }))
 }
 
 export async function generateMetadata({
@@ -20,14 +20,15 @@ export async function generateMetadata({
 }) {
   const { category } = await params
   const decoded = decodeURIComponent(category) as DishCategory
+  const encoded = encodeURIComponent(decoded)
   const count = (dishes as DishItem[]).filter((d) => d.category === decoded).length
   const title = `${decoded}カテゴリの料理一覧`
   const description = `${decoded}カテゴリの料理・食材・調理法 ${count}件。外食メニューで役立つ料理図鑑 RDish。`
   return {
     title,
     description,
-    alternates: { canonical: `/categories/${category}/` },
-    openGraph: { title, description, url: `/categories/${category}/` },
+    alternates: { canonical: `/categories/${encoded}/` },
+    openGraph: { title, description, url: `/categories/${encoded}/` },
   }
 }
 
@@ -38,6 +39,7 @@ export default async function CategoryPage({
 }) {
   const { category } = await params
   const decoded = decodeURIComponent(category) as DishCategory
+  const encoded = encodeURIComponent(decoded)
   const results = (dishes as DishItem[]).filter((d) => d.category === decoded)
   if (results.length === 0) notFound()
 
@@ -45,7 +47,7 @@ export default async function CategoryPage({
     "@context": "https://schema.org",
     "@type": "ItemList",
     name: `${decoded}カテゴリの料理一覧`,
-    url: `https://rdish.reload.co.jp/categories/${category}/`,
+    url: `https://rdish.reload.co.jp/categories/${encoded}/`,
     numberOfItems: results.length,
     itemListElement: results.map((dish, i) => ({
       "@type": "ListItem",

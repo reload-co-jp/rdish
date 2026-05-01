@@ -6,7 +6,7 @@ import type { DishItem } from "../../../types/dish"
 
 export function generateStaticParams() {
   const allTags = [...new Set((dishes as DishItem[]).flatMap((d) => d.tags))]
-  return allTags.map((tag) => ({ tag: encodeURIComponent(tag) }))
+  return allTags.map((tag) => ({ tag }))
 }
 
 export async function generateMetadata({
@@ -16,14 +16,15 @@ export async function generateMetadata({
 }) {
   const { tag } = await params
   const decoded = decodeURIComponent(tag)
+  const encoded = encodeURIComponent(decoded)
   const count = (dishes as DishItem[]).filter((d) => d.tags.includes(decoded)).length
   const title = `#${decoded}の料理一覧`
   const description = `「${decoded}」タグが付いた料理・食材・調理法 ${count}件。外食メニューで役立つ料理図鑑 RDish。`
   return {
     title,
     description,
-    alternates: { canonical: `/tags/${tag}/` },
-    openGraph: { title, description, url: `/tags/${tag}/` },
+    alternates: { canonical: `/tags/${encoded}/` },
+    openGraph: { title, description, url: `/tags/${encoded}/` },
   }
 }
 
@@ -34,6 +35,7 @@ export default async function TagPage({
 }) {
   const { tag } = await params
   const decoded = decodeURIComponent(tag)
+  const encoded = encodeURIComponent(decoded)
   const results = (dishes as DishItem[]).filter((d) => d.tags.includes(decoded))
   if (results.length === 0) notFound()
 
@@ -41,7 +43,7 @@ export default async function TagPage({
     "@context": "https://schema.org",
     "@type": "ItemList",
     name: `#${decoded}の料理一覧`,
-    url: `https://rdish.reload.co.jp/tags/${tag}/`,
+    url: `https://rdish.reload.co.jp/tags/${encoded}/`,
     numberOfItems: results.length,
     itemListElement: results.map((dish, i) => ({
       "@type": "ListItem",
