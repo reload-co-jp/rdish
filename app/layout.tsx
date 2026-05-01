@@ -1,15 +1,7 @@
 import type { Metadata } from "next"
 import Script from "next/script"
 import Link from "next/link"
-import { M_PLUS_Rounded_1c } from "next/font/google"
 import "./reset.css"
-
-const mPlusRounded = M_PLUS_Rounded_1c({
-  weight: ["400", "500", "700", "800"],
-  subsets: ["latin"],
-  variable: "--font-mplus",
-  display: "swap",
-})
 
 const GA_ID = "G-Y2D3TYWS2Q"
 
@@ -40,7 +32,7 @@ export const metadata: Metadata = {
 
 const RootLayout = ({ children }: { children: React.ReactNode }) => {
   return (
-    <html lang="ja" className={mPlusRounded.variable}>
+    <html lang="ja">
       <body>
         {process.env.NODE_ENV === "production" && (
           <>
