@@ -60,8 +60,10 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
               maxWidth: "48rem",
               margin: "0 auto",
               display: "flex",
+              flexWrap: "wrap",
               alignItems: "center",
               justifyContent: "space-between",
+              gap: "0.75rem",
             }}
           >
             <Link
@@ -74,19 +76,48 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
                 gap: "0.5rem",
               }}
             >
-              <span style={{ fontSize: "1.25rem", fontWeight: 800, color: "#2d1f0e" }}>
+              <span
+                style={{
+                  fontSize: "1.25rem",
+                  fontWeight: 800,
+                  color: "#2d1f0e",
+                }}
+              >
                 RDish
               </span>
-              <span style={{ fontSize: "0.75rem", color: "#a89080" }}>料理図鑑</span>
+              <span style={{ fontSize: "0.75rem", color: "#a89080" }}>
+                料理図鑑
+              </span>
             </Link>
             <nav style={{ display: "flex", gap: "1rem" }}>
-              <Link href="/reverse/" style={{ color: "#7a6655", fontSize: "0.875rem", textDecoration: "none" }}>
+              <Link
+                href="/reverse/"
+                style={{
+                  color: "#7a6655",
+                  fontSize: "0.875rem",
+                  textDecoration: "none",
+                }}
+              >
                 逆引き
               </Link>
-              <Link href="/favorites/" style={{ color: "#7a6655", fontSize: "0.875rem", textDecoration: "none" }}>
+              <Link
+                href="/favorites/"
+                style={{
+                  color: "#7a6655",
+                  fontSize: "0.875rem",
+                  textDecoration: "none",
+                }}
+              >
                 お気に入り
               </Link>
-              <Link href="/about/" style={{ color: "#7a6655", fontSize: "0.875rem", textDecoration: "none" }}>
+              <Link
+                href="/about/"
+                style={{
+                  color: "#7a6655",
+                  fontSize: "0.875rem",
+                  textDecoration: "none",
+                }}
+              >
                 このサイトについて
               </Link>
             </nav>
@@ -112,11 +143,24 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
           }}
         >
           <p>RDish — いつでも聞ける飾らない料理図鑑</p>
-          <p style={{ marginTop: "0.5rem", display: "flex", justifyContent: "center", gap: "1rem" }}>
-            <Link href="/countries/" style={{ color: "#a89080", textDecoration: "underline" }}>
+          <p
+            style={{
+              marginTop: "0.5rem",
+              display: "flex",
+              justifyContent: "center",
+              gap: "1rem",
+            }}
+          >
+            <Link
+              href="/countries/"
+              style={{ color: "#a89080", textDecoration: "underline" }}
+            >
               国から探す
             </Link>
-            <Link href="/about/" style={{ color: "#a89080", textDecoration: "underline" }}>
+            <Link
+              href="/about/"
+              style={{ color: "#a89080", textDecoration: "underline" }}
+            >
               このサイトについて
             </Link>
           </p>
