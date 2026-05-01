@@ -7,7 +7,7 @@ import type { DishItem } from "../../../types/dish"
 export function generateStaticParams() {
   const allDishes = dishes as DishItem[]
   const regions = [...new Set(allDishes.flatMap((d) => d.regions))]
-  return regions.map((region) => ({ country: encodeURIComponent(region) }))
+  return regions.map((region) => ({ country: region }))
 }
 
 export async function generateMetadata({
