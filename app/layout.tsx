@@ -7,7 +7,7 @@ const SITE_URL = "https://rdish.reload.co.jp"
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "RDish — 外食で困らない料理図鑑",
+    default: "RDish — いつでも聞ける飾らない料理図鑑",
     template: "%s | RDish",
   },
   description:
@@ -91,7 +91,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
             textAlign: "center",
           }}
         >
-          <p>RDish — 外食で困らない料理図鑑</p>
+          <p>RDish — いつでも聞ける飾らない料理図鑑</p>
         </footer>
       </body>
     </html>

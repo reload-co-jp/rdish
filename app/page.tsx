@@ -39,7 +39,7 @@ export default function TopPage() {
           RDish
         </h1>
         <p style={{ color: "#a89080", marginBottom: "1.5rem" }}>
-          外食で困らない料理図鑑
+          いつでも聞ける飾らない料理図鑑
         </p>
         <SearchBox />
       </div>
