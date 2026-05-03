@@ -25,7 +25,11 @@ export type DishItem = {
   englishName?: string
   originalName?: string
   category: DishCategory
-  regions: string[]
+  regions: {
+    area?: string
+    country?: string
+    locality?: string
+  }[]
   summary: string
   menuDescription: string
   whatComesOut: string[]

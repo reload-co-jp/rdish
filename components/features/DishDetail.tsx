@@ -1,6 +1,7 @@
 import Image from "next/image"
 import Link from "next/link"
 import { FC } from "react"
+import { regionLabel } from "../../lib/region"
 import type { DishItem } from "../../types/dish"
 import { LinkedText } from "../elements/LinkedText"
 import { FavoriteButton } from "./FavoriteButton"
@@ -85,18 +86,21 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
             >
               {dish.category}
             </Link>
-            {dish.regions.map((r) => (
-              <span
-                key={r}
-                style={{
-                  fontSize: "0.75rem",
-                  color: "#a89080",
-                  marginRight: "0.375rem",
-                }}
-              >
-                {r}
-              </span>
-            ))}
+            {dish.regions.map((r) => {
+              const label = regionLabel(r)
+              return (
+                <span
+                  key={label}
+                  style={{
+                    fontSize: "0.75rem",
+                    color: "#a89080",
+                    marginRight: "0.375rem",
+                  }}
+                >
+                  {label}
+                </span>
+              )
+            })}
           </div>
         </div>
         <FavoriteButton id={dish.id} />

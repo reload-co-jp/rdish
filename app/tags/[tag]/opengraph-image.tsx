@@ -9,7 +9,7 @@ export const contentType = "image/png"
 
 export function generateStaticParams() {
   const allTags = [...new Set((dishes as DishItem[]).flatMap((d) => d.tags))]
-  return allTags.map((tag) => ({ tag: encodeURIComponent(tag) }))
+  return allTags.map((tag) => ({ tag }))
 }
 
 export default async function Image({

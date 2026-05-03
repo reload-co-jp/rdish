@@ -1,6 +1,7 @@
 import Image from "next/image"
 import Link from "next/link"
 import { FC } from "react"
+import { regionLabel } from "../../lib/region"
 import type { DishItem } from "../../types/dish"
 import { TagList } from "./TagList"
 
@@ -54,7 +55,7 @@ export const DishCard: FC<Props> = ({ dish }) => {
               }}
             >
               {dish.category}
-              {dish.regions[0] ? ` / ${dish.regions[0]}` : ""}
+              {dish.regions[0] ? ` / ${regionLabel(dish.regions[0])}` : ""}
             </span>
           </div>
           <p

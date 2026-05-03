@@ -1,6 +1,7 @@
 export const dynamic = "force-static"
 
 import type { MetadataRoute } from "next"
+import { regionLabel } from "../lib/region"
 import dishes from "../data/dishes.json"
 import type { DishItem } from "../types/dish"
 
@@ -28,7 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }))
 
-  const allRegions = [...new Set(allDishes.flatMap((d) => d.regions))]
+  const allRegions = [...new Set(allDishes.flatMap((d) => d.regions.map(regionLabel)))]
   const countryUrls = allRegions.map((region) => ({
     url: `${SITE_URL}/countries/${encodeURIComponent(region)}/`,
     changeFrequency: "monthly" as const,
