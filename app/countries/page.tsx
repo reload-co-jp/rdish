@@ -1,7 +1,6 @@
 import Link from "next/link"
 import type { Metadata } from "next"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
-import { regionLabel } from "../../lib/region"
 import dishes from "../../data/dishes.json"
 import type { DishItem } from "../../types/dish"
 
@@ -28,16 +27,28 @@ const linkStyle = {
 
 const countStyle = { color: "#a89080", fontSize: "0.75rem" }
 
+type Section = { region: string; count: number }
+
+function toLabel(r: { area?: string; country?: string; locality?: string }): string {
+  if (r.country && r.locality) return `${r.country}（${r.locality}）`
+  if (r.country) return r.country
+  return r.area ?? ""
+}
+
 export default function CountriesPage() {
   const allDishes = dishes as DishItem[]
 
   const areaMap = new Map<string, number>()
   const countryMap = new Map<string, number>()
+  const localityMap = new Map<string, number>()
 
   for (const dish of allDishes) {
     for (const region of dish.regions) {
-      const label = regionLabel(region)
-      if (region.country) {
+      const label = toLabel(region)
+      if (region.country && region.locality) {
+        localityMap.set(label, (localityMap.get(label) ?? 0) + 1)
+        countryMap.set(region.country, (countryMap.get(region.country) ?? 0) + 1)
+      } else if (region.country) {
         countryMap.set(label, (countryMap.get(label) ?? 0) + 1)
       } else {
         areaMap.set(label, (areaMap.get(label) ?? 0) + 1)
@@ -45,15 +56,13 @@ export default function CountriesPage() {
     }
   }
 
-  const countries = [...countryMap.entries()]
-    .sort((a, b) => b[1] - a[1])
-    .map(([region, count]) => ({ region, count }))
+  const toList = (map: Map<string, number>): Section[] =>
+    [...map.entries()].sort((a, b) => b[1] - a[1]).map(([region, count]) => ({ region, count }))
 
-  const areas = [...areaMap.entries()]
-    .sort((a, b) => b[1] - a[1])
-    .map(([region, count]) => ({ region, count }))
-
-  const allRegions = [...countries, ...areas]
+  const countries = toList(countryMap)
+  const localities = toList(localityMap)
+  const areas = toList(areaMap)
+  const allRegions = [...countries, ...localities, ...areas]
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -68,6 +77,17 @@ export default function CountriesPage() {
       url: `https://rdish.reload.co.jp/countries/${encodeURIComponent(region)}/`,
     })),
   }
+
+  const renderLinks = (list: Section[]) => (
+    <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>
+      {list.map(({ region, count }) => (
+        <Link key={region} href={`/countries/${encodeURIComponent(region)}/`} style={linkStyle}>
+          {region}
+          <span style={countStyle}>{count}</span>
+        </Link>
+      ))}
+    </div>
+  )
 
   return (
     <div>
@@ -86,28 +106,21 @@ export default function CountriesPage() {
         <h2 style={{ fontSize: "1rem", fontWeight: 700, color: "#7a4f2a", marginBottom: "0.75rem" }}>
           国
         </h2>
-        <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>
-          {countries.map(({ region, count }) => (
-            <Link key={region} href={`/countries/${encodeURIComponent(region)}/`} style={linkStyle}>
-              {region}
-              <span style={countStyle}>{count}</span>
-            </Link>
-          ))}
-        </div>
+        {renderLinks(countries)}
+      </section>
+
+      <section style={{ marginBottom: "2rem" }}>
+        <h2 style={{ fontSize: "1rem", fontWeight: 700, color: "#7a4f2a", marginBottom: "0.75rem" }}>
+          地方
+        </h2>
+        {renderLinks(localities)}
       </section>
 
       <section>
         <h2 style={{ fontSize: "1rem", fontWeight: 700, color: "#7a4f2a", marginBottom: "0.75rem" }}>
           地域
         </h2>
-        <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>
-          {areas.map(({ region, count }) => (
-            <Link key={region} href={`/countries/${encodeURIComponent(region)}/`} style={linkStyle}>
-              {region}
-              <span style={countStyle}>{count}</span>
-            </Link>
-          ))}
-        </div>
+        {renderLinks(areas)}
       </section>
     </div>
   )
