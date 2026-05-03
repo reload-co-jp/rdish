@@ -8375,5 +8375,515 @@
     "uniquenessScore": 2,
     "heavinessScore": 4,
     "spicinessScore": 0
+  },
+  {
+    "id": "beef-bourguignon",
+    "name": "ビーフバーガニョン",
+    "kana": "びーふばーがにょん",
+    "aliases": ["ブフ・ブルギニョン", "ビーフブルゴーニュ"],
+    "englishName": "Beef Bourguignon",
+    "originalName": "Bœuf Bourguignon",
+    "category": "料理",
+    "regions": ["フランス（ブルゴーニュ）"],
+    "summary": "牛肉を赤ワイン（ブルゴーニュワイン）でじっくり煮込んだフランスの郷土料理。マッシュルームとパールオニオンを加えた濃厚な煮込み。",
+    "menuDescription": "牛肉の塊をブルゴーニュの赤ワイン・ブイヨンで長時間煮込み、マッシュルーム・パールオニオン・ベーコンを加えた料理。とろりとした赤ワインのソースが特徴。",
+    "whatComesOut": [
+      "やわらかく煮込まれた牛肉の塊",
+      "マッシュルームとパールオニオン",
+      "濃厚な赤ワインのソース",
+      "パンまたはマッシュポテトを添えて提供"
+    ],
+    "tasteAndTexture": [
+      "赤ワインの深みとコクのある濃厚スープ",
+      "フォークで崩れるほどやわらかい牛肉",
+      "マッシュルームの旨みが溶け込んだソース",
+      "芳醇なワインの香り"
+    ],
+    "orderAdvice": "肉料理の定番かつ格式ある一品。ワイン好きや煮込み料理が好きな人に最適。重めなので空腹時向き。",
+    "caution": "赤ワインを大量に使用するためアルコールが残る場合がある。",
+    "similarItems": [
+      {
+        "id": "pot-au-feu",
+        "name": "ポトフ",
+        "difference": "ポトフは澄んだブイヨンで煮る。バーガニョンは赤ワインで煮込み濃厚なソースになる"
+      },
+      {
+        "id": "ragu",
+        "name": "ラグー",
+        "difference": "ラグーはトマトベースのイタリアの肉ソース。バーガニョンは赤ワインベースのフランス煮込み"
+      },
+      {
+        "id": "cassoulet",
+        "name": "カスレ",
+        "difference": "カスレは白インゲン豆と肉の煮込み。バーガニョンは牛肉と赤ワインのシンプルな煮込み"
+      }
+    ],
+    "relatedIds": [
+      "pot-au-feu",
+      "cassoulet",
+      "braise",
+      "ragu"
+    ],
+    "tags": [
+      "フランス料理",
+      "煮込み料理",
+      "牛肉",
+      "赤ワイン",
+      "ブルゴーニュ",
+      "郷土料理",
+      "マッシュルーム",
+      "重め",
+      "ボリューム"
+    ],
+    "reverseKeywords": [
+      "さっぱり",
+      "軽い",
+      "アルコール不使用",
+      "和食",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 0
+  },
+  {
+    "id": "acqua-pazza",
+    "name": "アクアパッツァ",
+    "kana": "あくあぱっつぁ",
+    "englishName": "Acqua Pazza",
+    "originalName": "Acqua Pazza",
+    "category": "料理",
+    "regions": ["イタリア（カンパーニャ）"],
+    "summary": "白身魚をトマト・白ワイン・にんにく・オリーブオイルで蒸し煮にしたナポリ発祥のイタリア料理。「狂った水」を意味するシンプルな一品。",
+    "menuDescription": "新鮮な白身魚をチェリートマト・白ワイン・にんにく・オリーブオイルで仕上げた料理。魚の旨みがスープに溶け込み、パンですくって食べるのが楽しい。",
+    "whatComesOut": [
+      "丸ごとまたは切り身の白身魚",
+      "チェリートマトとオリーブオイルのスープ",
+      "あさり・ムール貝などの貝類を添えることも",
+      "バゲットまたはパンを添えて"
+    ],
+    "tasteAndTexture": [
+      "あっさりとした白ワインと魚のスープ",
+      "ふっくらしたやわらかい白身魚",
+      "トマトの甘みとにんにくの香り",
+      "オリーブオイルのコク"
+    ],
+    "orderAdvice": "さっぱりしたイタリアの魚料理を食べたいときに。スープまでパンで楽しめる。魚介好きに特に向いている。",
+    "caution": "魚介・貝類アレルギーの方は注意。白身魚の種類は店により異なる。",
+    "similarItems": [
+      {
+        "id": "bouillabaisse",
+        "name": "ブイヤベース",
+        "difference": "ブイヤベースはサフラン入りの豪華な魚介スープ。アクアパッツァはよりシンプルなオリーブオイルとトマトベース"
+      },
+      {
+        "id": "escabeche",
+        "name": "エスカベッシュ",
+        "difference": "エスカベッシュは酢で漬けた魚料理。アクアパッツァは白ワインで蒸し煮する"
+      }
+    ],
+    "relatedIds": [
+      "bouillabaisse",
+      "fritto",
+      "garlic_shrimp",
+      "escabeche"
+    ],
+    "tags": [
+      "イタリア料理",
+      "魚料理",
+      "白身魚",
+      "トマト",
+      "白ワイン",
+      "オリーブオイル",
+      "さっぱり",
+      "ナポリ",
+      "カンパーニャ"
+    ],
+    "reverseKeywords": [
+      "肉料理",
+      "揚げ物",
+      "濃厚",
+      "和食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "scamorza-affumicata",
+    "name": "スカモルツァ・アフミカータ",
+    "kana": "すかもるつぁ・あふみかーた",
+    "aliases": ["スカモルツァ", "燻製スカモルツァ"],
+    "englishName": "Smoked Scamorza",
+    "originalName": "Scamorza Affumicata",
+    "category": "チーズ",
+    "regions": ["イタリア（カンパーニャ・プーリア）"],
+    "summary": "南イタリア産のパスタフィラータ製法チーズをスモークしたもの。洋梨形の形状が特徴で、燻製の香りとねっとりとした食感を持つ。",
+    "menuDescription": "モッツァレラと同じ伸びる生地から作られた南イタリアのチーズを熟成・燻製したもの。グリルや焼き料理に使われ、加熱すると絶妙に溶ける。",
+    "whatComesOut": [
+      "洋梨形またはスライスされた燻製チーズ",
+      "グリルまたはそのままのスライス",
+      "前菜・ピザ・グラタンのトッピングとして"
+    ],
+    "tasteAndTexture": [
+      "スモークの香ばしい風味",
+      "加熱で伸びるねっとりとした食感",
+      "ミルクのまろやかなコクと塩味"
+    ],
+    "orderAdvice": "燻製チーズ好きに最適。加熱料理に使われると絶品。モッツァレラより風味が強く個性的。",
+    "caution": "乳製品アレルギーの方は注意。",
+    "similarItems": [
+      {
+        "id": "mozzarella",
+        "name": "モッツァレラ",
+        "difference": "モッツァレラは生の白いチーズ。スカモルツァは熟成・燻製で風味が強く加熱向き"
+      },
+      {
+        "id": "burrata",
+        "name": "ブッラータ",
+        "difference": "ブッラータは中がクリーミーな生チーズ。スカモルツァは燻製で弾力があり加熱に向く"
+      }
+    ],
+    "relatedIds": [
+      "mozzarella",
+      "burrata",
+      "ricotta",
+      "parmigiano"
+    ],
+    "tags": [
+      "イタリア料理",
+      "チーズ",
+      "燻製",
+      "南イタリア",
+      "パスタフィラータ",
+      "グリル",
+      "とろける",
+      "個性的"
+    ],
+    "reverseKeywords": [
+      "乳製品嫌い",
+      "あっさり",
+      "燻製嫌い",
+      "和食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0
+  },
+  {
+    "id": "ballotine",
+    "name": "バロンティーヌ",
+    "kana": "ばろんてぃーぬ",
+    "englishName": "Ballotine",
+    "originalName": "Ballotine",
+    "category": "料理",
+    "regions": ["フランス"],
+    "summary": "家禽の骨を抜いて詰め物をし、円筒形に巻いて調理したフランス料理。ガランティーヌに似るが温かいまま提供されることが多い。",
+    "menuDescription": "骨を取り除いたチキンや鴨などにフォアグラ・マッシュルーム・ハーブなどを詰めて成形し、ロースト・ポシェなどで火を入れたフランスの伝統料理。スライスして提供。",
+    "whatComesOut": [
+      "円筒形にカットされた詰め物入りの肉",
+      "ソース（ジュやクリームソース）を添えて",
+      "野菜のガルニチュールとともに"
+    ],
+    "tasteAndTexture": [
+      "外側はしっとり柔らかな鶏や鴨の肉",
+      "内側の詰め物（フォアグラやムースなど）の濃厚な風味",
+      "ソースとの組み合わせで奥行きのある味"
+    ],
+    "orderAdvice": "フランス料理の格式ある一品。高い技術が要求される料理で、本格レストランでのみ味わえる。",
+    "similarItems": [
+      {
+        "id": "terrine",
+        "name": "テリーヌ",
+        "difference": "テリーヌは型に詰めて冷やした前菜。バロンティーヌは骨なし肉に詰め物をして巻いた温かい料理"
+      },
+      {
+        "id": "confit",
+        "name": "コンフィ",
+        "difference": "コンフィは油脂でじっくり低温調理する技法。バロンティーヌは詰め物をして成形する調理スタイル"
+      }
+    ],
+    "relatedIds": ["terrine", "pate", "confit", "braise"],
+    "tags": ["フランス料理", "詰め物", "ロール肉", "格式", "シェフ技法", "鶏肉", "鴨肉"],
+    "reverseKeywords": ["シンプル", "気軽", "和食", "揚げ物", "麺"],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0
+  },
+  {
+    "id": "aroser",
+    "name": "アロゼ",
+    "kana": "あろぜ",
+    "englishName": "Basting",
+    "originalName": "Arroser",
+    "category": "調理法",
+    "regions": ["フランス"],
+    "summary": "ロースト中の肉や魚に溶け出した肉汁や油脂を繰り返しかけるフランス料理の調理技法。旨みを閉じ込め乾燥を防ぎ、表面に艶と深みを与える。",
+    "menuDescription": "加熱中の食材にスプーンで肉汁・バター・ソースを何度もかける技法。フランス料理の基本で、ポワレやロティなどの仕上げに欠かせない。",
+    "whatComesOut": [
+      "艶やかで焼き色のついた肉や魚の料理",
+      "しっとりジューシーな仕上がり",
+      "バターや肉汁が重なった香ばしい表面"
+    ],
+    "tasteAndTexture": [
+      "旨みが凝縮されたジューシーな肉質",
+      "表面に艶と風味が重なった深い味わい",
+      "バターや肉汁の香ばしさ"
+    ],
+    "orderAdvice": "メニューにこの言葉がついた料理は丁寧な仕上げが施されている証し。技法名を覚えるとフランス料理の理解が深まる。",
+    "similarItems": [
+      {
+        "id": "confit",
+        "name": "コンフィ",
+        "difference": "コンフィは油脂に浸して低温調理する技法。アロゼは加熱中に肉汁を繰り返しかける技法"
+      },
+      {
+        "id": "braise",
+        "name": "ブレゼ",
+        "difference": "ブレゼは蓋をして蒸し煮する技法。アロゼは蓋なしで肉汁を上からかけ続ける"
+      }
+    ],
+    "relatedIds": ["confit", "braise", "roast"],
+    "tags": ["フランス料理", "調理技法", "ロースト", "肉料理", "魚料理", "シェフ技法", "ポワレ"],
+    "reverseKeywords": ["揚げ物", "蒸し料理", "和食", "生食", "デザート"],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "cacciatore",
+    "name": "カチャトーラ",
+    "kana": "かちゃとーら",
+    "aliases": ["ポッロ・アッラ・カチャトーラ", "鶏の猟師風"],
+    "englishName": "Chicken Cacciatore",
+    "originalName": "Pollo alla Cacciatore",
+    "category": "料理",
+    "regions": ["イタリア"],
+    "summary": "「猟師風」を意味するイタリアの鶏肉煮込み料理。トマト・オリーブ・ケッパー・白ワインでじっくり煮込む素朴な家庭料理。",
+    "menuDescription": "鶏肉をトマト・玉ねぎ・にんにく・オリーブ・ケッパー・白ワインとともに長時間煮込んだ料理。地域によって赤ワインや唐辛子が加わることも。",
+    "whatComesOut": [
+      "骨つき鶏肉がトマトソースに浸かった一皿",
+      "オリーブやケッパーが入ったソース",
+      "パンやパスタを添えて提供することも"
+    ],
+    "tasteAndTexture": [
+      "トマトの酸みとワインのコクが溶け合ったソース",
+      "長時間煮込んでほろほろにやわらかい鶏肉",
+      "オリーブとケッパーの塩気と風味"
+    ],
+    "orderAdvice": "素朴で家庭的なイタリア煮込み。肉の旨みが染み出したトマトソースまで楽しめる。",
+    "similarItems": [
+      {
+        "id": "ragu",
+        "name": "ラグー",
+        "difference": "ラグーは挽き肉ベースの肉ソース。カチャトーラは骨つき鶏肉をトマトで煮込む"
+      },
+      {
+        "id": "braise",
+        "name": "ブレゼ",
+        "difference": "ブレゼは蒸し煮という技法名。カチャトーラはその技法を使った特定のイタリア料理"
+      }
+    ],
+    "relatedIds": ["ragu", "braise", "acqua-pazza", "cassoulet"],
+    "tags": ["イタリア料理", "鶏肉", "トマト煮込み", "家庭料理", "白ワイン", "猟師風", "オリーブ"],
+    "reverseKeywords": ["さっぱり", "生食", "揚げ物", "和食", "デザート"],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1
+  },
+  {
+    "id": "peking-duck",
+    "name": "北京ダック",
+    "kana": "ぺきんだっく",
+    "aliases": ["北京烤鴨", "ペキンダック"],
+    "englishName": "Peking Duck",
+    "originalName": "北京烤鴨 (Běijīng Kǎoyā)",
+    "category": "料理",
+    "regions": ["中国（北京）"],
+    "summary": "北京を代表する中国料理。薄皮でパリパリに焼き上げた鴨を、薄餅・甜麺醤・ネギとともに巻いて食べる宮廷料理の系譜を持つ一品。",
+    "menuDescription": "特製の炉で丸ごとローストした鴨の皮をパリパリに仕上げ、薄い小麦粉の皮（薄餅）・甜麺醤・白ネギ・キュウリとともにテーブルで切り分けて提供。",
+    "whatComesOut": [
+      "テーブルで切り分けるパリパリの鴨の皮と肉",
+      "薄焼きの薄餅（バオビン）",
+      "甜麺醤・白ネギ・キュウリの千切り"
+    ],
+    "tasteAndTexture": [
+      "パリパリとした鴨の皮の食感",
+      "甘みのある甜麺醤と鴨の脂の旨み",
+      "薄餅に巻いてひと口で食べる楽しさ"
+    ],
+    "orderAdvice": "中国料理の最高峰。2人以上で楽しむのが理想。皮だけの一皿目と肉の二皿目を楽しむスタイルも。",
+    "caution": "小麦（薄餅）・大豆（甜麺醤）アレルギーの方は注意。",
+    "similarItems": [
+      {
+        "id": "confit",
+        "name": "コンフィ",
+        "difference": "コンフィは油脂で低温調理する技法。北京ダックは高温の炉でパリパリに仕上げる"
+      }
+    ],
+    "relatedIds": ["confit", "roast", "pho"],
+    "tags": ["中国料理", "北京料理", "鴨肉", "宮廷料理", "薄餅", "パリパリ", "スペシャリテ", "北京"],
+    "reverseKeywords": ["さっぱり", "魚介", "和食", "軽食", "デザート"],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1
+  },
+  {
+    "id": "suan-la-tang-mian",
+    "name": "酸辣湯麺",
+    "kana": "さんらーたんめん",
+    "aliases": ["サンラータンメン", "酸辣麺"],
+    "englishName": "Hot and Sour Noodle Soup",
+    "originalName": "酸辣湯麺 (Suānlà Tāngmiàn)",
+    "category": "料理",
+    "regions": ["中国"],
+    "summary": "黒酢の酸っぱさと白胡椒・唐辛子の辛さが特徴の中国式スープ麺。片栗粉でとろみをつけた酸辣スープに麺を入れたもの。",
+    "menuDescription": "豆腐・卵・きのこ・たけのこ・豚肉などが入ったとろみのある酸辣スープに麺を加えた一品。黒酢の酸みと白胡椒・唐辛子の辛みが特徴。",
+    "whatComesOut": [
+      "とろみのある酸辣スープに麺が入った一杯",
+      "豆腐・卵・きのこ・たけのこなどの具材",
+      "ラー油や酢を卓上で追加することも"
+    ],
+    "tasteAndTexture": [
+      "黒酢の酸みと白胡椒の辛みが効いたスープ",
+      "片栗粉でとろみがついたなめらかなスープ",
+      "麺にからむコクのある風味"
+    ],
+    "orderAdvice": "酸っぱいものと辛いものが好きな人向け。体が温まりたい時や食欲がない時にも向いている。",
+    "similarItems": [
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーはベトナムのあっさりした牛骨スープ麺。酸辣湯麺はとろみと酸辛が特徴の中国麺"
+      }
+    ],
+    "relatedIds": ["pho"],
+    "tags": ["中国料理", "麺料理", "スープ麺", "酸辣", "辛い", "酸っぱい", "とろみ", "黒酢"],
+    "reverseKeywords": ["あっさり", "辛いの苦手", "酸っぱいの苦手", "和食", "デザート"],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 3
+  },
+  {
+    "id": "mozuku",
+    "name": "莫久来",
+    "kana": "もずく",
+    "aliases": ["もずく", "もずく酢", "オキナワモズク"],
+    "englishName": "Mozuku Seaweed",
+    "originalName": "莫久来 (もずく)",
+    "category": "食材",
+    "regions": ["日本（沖縄）"],
+    "summary": "沖縄原産の海藻で、ぬめりのある細い糸状が特徴。三杯酢で和えた「もずく酢」として食べることが多く、ぬめり成分フコイダンが豊富。",
+    "menuDescription": "沖縄産のもずく海藻を三杯酢（醤油・酢・みりん）で和えた料理。そのままでも天ぷらや味噌汁の具材としても使われる。",
+    "whatComesOut": [
+      "黒褐色のぬるぬるした細い海藻",
+      "酢醤油で和えたさっぱりした前菜として",
+      "小鉢または前菜として提供"
+    ],
+    "tasteAndTexture": [
+      "ぬめりとシャキシャキが混在した独特の食感",
+      "三杯酢のさっぱりとした酸み",
+      "磯の風味と海藻特有の旨み"
+    ],
+    "orderAdvice": "沖縄料理の定番前菜。さっぱりしているため箸休めや食前に最適。フコイダン豊富でヘルシー。",
+    "similarItems": [],
+    "relatedIds": [],
+    "tags": ["沖縄料理", "海藻", "さっぱり", "前菜", "ヘルシー", "酢の物", "フコイダン", "和食"],
+    "reverseKeywords": ["海藻嫌い", "ぬめり嫌い", "肉料理", "揚げ物", "デザート"],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "san-nakji",
+    "name": "サンナクチ",
+    "kana": "さんなくち",
+    "aliases": ["산낙지", "生タコ", "踊りタコ"],
+    "englishName": "Live Octopus",
+    "originalName": "산낙지 (San-nakji)",
+    "category": "料理",
+    "regions": ["韓国"],
+    "summary": "新鮮なタコを生きたまま（または切りたて）ごま油と塩で食べる韓国料理。動く吸盤が喉に吸い付く独特の食体験を持つ。",
+    "menuDescription": "生きたままのタコを細かく切り、ごま油・塩・ごまで和えた料理。動く吸盤が特徴で、韓国の沿岸部や居酒屋でよく提供される。",
+    "whatComesOut": [
+      "まだ動いているタコの切り身",
+      "ごま油・塩・ごまで和えた状態で提供",
+      "箸で一気に噛み切るスタイル"
+    ],
+    "tasteAndTexture": [
+      "コリコリとした弾力のある食感",
+      "ごま油の香りとタコの磯の旨み",
+      "吸盤が口内に吸い付く刺激的な体験"
+    ],
+    "orderAdvice": "珍しい体験を求める冒険好きに。吸盤が喉に貼りつく危険があるためゆっくり噛み切ることが重要。",
+    "caution": "吸盤が喉に吸い付く危険あり。酔った状態での摂取は特に注意。甲殻類アレルギーの方は確認を。",
+    "similarItems": [
+      {
+        "id": "carpaccio",
+        "name": "カルパッチョ",
+        "difference": "カルパッチョは生の魚・肉をスライスしたイタリア料理。サンナクチは動くタコをごま油で和えた韓国料理"
+      },
+      {
+        "id": "ceviche",
+        "name": "セビーチェ",
+        "difference": "セビーチェは柑橘で加熱した魚介。サンナクチは完全な生食で動いている"
+      }
+    ],
+    "relatedIds": ["carpaccio", "ceviche", "gravlax", "escabeche"],
+    "tags": ["韓国料理", "生食", "タコ", "珍味", "刺激的", "ごま油", "冒険", "海鮮"],
+    "reverseKeywords": ["生食嫌い", "魚介嫌い", "安心・安全重視", "和食", "デザート"],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "tofuyo",
+    "name": "豆腐餻",
+    "kana": "とうふよう",
+    "aliases": ["沖縄豆腐", "紅麹豆腐"],
+    "englishName": "Okinawan Fermented Tofu",
+    "originalName": "豆腐餻 (とうふよう)",
+    "category": "食材",
+    "regions": ["日本（沖縄）"],
+    "summary": "沖縄の伝統発酵食品。島豆腐を紅麹・泡盛・塩で漬け込んで発酵させたもの。鮮やかな赤色と濃厚なチーズのような風味が特徴。",
+    "menuDescription": "島豆腐を紅麹・泡盛・塩で数ヶ月発酵させた沖縄の珍味。小さく切って少量ずつ楽しむ濃厚な発酵食品で、泡盛との相性が抜群。",
+    "whatComesOut": [
+      "鮮やかな赤みを帯びた小さな豆腐のキューブ",
+      "少量を小鉢に盛った前菜・珍味として",
+      "泡盛やビールの肴として"
+    ],
+    "tasteAndTexture": [
+      "チーズのような濃厚でクリーミーな風味",
+      "紅麹による独特の発酵臭と旨み",
+      "やわらかくとろけるような食感"
+    ],
+    "orderAdvice": "発酵食品・珍味好きに。少量で強い風味があるため、泡盛とともに少しずつ楽しむ。初めては少量から試して。",
+    "caution": "大豆アレルギーの方は注意。独特の強い発酵臭がある。",
+    "similarItems": [
+      {
+        "id": "gorgonzola",
+        "name": "ゴルゴンゾーラ",
+        "difference": "ゴルゴンゾーラは青かびチーズ。豆腐餻は紅麹で発酵させた豆腐で、風味の強さは似るが起源は全く異なる"
+      }
+    ],
+    "relatedIds": ["gorgonzola", "pate"],
+    "tags": ["沖縄料理", "発酵食品", "豆腐", "珍味", "泡盛", "紅麹", "濃厚", "伝統食"],
+    "reverseKeywords": ["発酵食品嫌い", "臭み嫌い", "あっさり", "デザート", "洋食"],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0
   }
 ]
