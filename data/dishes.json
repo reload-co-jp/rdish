@@ -14370,5 +14370,5306 @@
     "uniquenessScore": 1,
     "heavinessScore": 1,
     "spicinessScore": 0
+  },
+  {
+    "id": "boil",
+    "name": "ボイル",
+    "kana": "ぼいる",
+    "englishName": "Boil",
+    "category": "調理法",
+    "regions": [
+      {
+        "area": "国際"
+      }
+    ],
+    "summary": "水や湯で食材を加熱する基本調理法。野菜、卵、肉、魚介を均一に火入れし、シンプルな仕上がりにする。",
+    "menuDescription": "湯で火を通した料理。素材のクセを抜いたり、やわらかくしたり、ソースを合わせやすくする目的で使われる。",
+    "whatComesOut": [
+      "湯で加熱した野菜・卵・肉・魚介",
+      "塩やソースを添えたシンプルな皿",
+      "温製または冷製の仕上げ"
+    ],
+    "tasteAndTexture": [
+      "素直で軽い味",
+      "しっとりまたはほくほくした食感",
+      "油脂が少なくあっさり"
+    ],
+    "orderAdvice": "軽い一皿や素材感を見たいときに向く。濃厚さより安心感重視。",
+    "similarItems": [
+      {
+        "id": "pochee",
+        "name": "ポシェ",
+        "difference": "ポシェは低温の液体でやさしく火入れするが、ボイルは沸騰した湯で加熱することが多い"
+      }
+    ],
+    "relatedIds": [
+      "pochee",
+      "braise",
+      "grill"
+    ],
+    "tags": [
+      "基本調理法",
+      "茹でる",
+      "湯",
+      "あっさり",
+      "野菜",
+      "卵",
+      "魚介"
+    ],
+    "reverseKeywords": [
+      "茹で料理",
+      "油少なめ",
+      "あっさり",
+      "温野菜",
+      "ゆで卵"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "steam",
+    "name": "スチーム",
+    "kana": "すちーむ",
+    "englishName": "Steam",
+    "category": "調理法",
+    "regions": [
+      {
+        "area": "国際"
+      }
+    ],
+    "summary": "蒸気で食材を加熱する調理法。水分を保ちやすく、野菜や魚介、点心をやさしく仕上げる。",
+    "menuDescription": "蒸し器やスチームオーブンで加熱した料理。油をほとんど使わず、素材の香りと水分を残す。",
+    "whatComesOut": [
+      "蒸した野菜・魚・肉・点心",
+      "軽いソースや塩",
+      "しっとりした温かい仕上がり"
+    ],
+    "tasteAndTexture": [
+      "しっとり柔らかい",
+      "素材の甘みが出やすい",
+      "油脂少なめで軽い"
+    ],
+    "orderAdvice": "重い料理を避けたいとき、野菜や魚をやさしく食べたいときに選ぶ。",
+    "similarItems": [
+      {
+        "id": "boil",
+        "name": "ボイル",
+        "difference": "ボイルは湯に浸すが、スチームは蒸気で加熱して水っぽくなりにくい"
+      }
+    ],
+    "relatedIds": [
+      "pochee",
+      "boil",
+      "grill"
+    ],
+    "tags": [
+      "蒸し料理",
+      "スチーム",
+      "ヘルシー",
+      "野菜",
+      "魚",
+      "点心",
+      "軽い"
+    ],
+    "reverseKeywords": [
+      "蒸し物",
+      "油少なめ",
+      "ヘルシー",
+      "温野菜",
+      "しっとり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "fry",
+    "name": "フライ",
+    "kana": "ふらい",
+    "englishName": "Fry",
+    "category": "調理法",
+    "regions": [
+      {
+        "area": "国際"
+      }
+    ],
+    "summary": "油で食材を揚げる調理法。衣やパン粉を使うことが多く、外側をカリッと香ばしく仕上げる。",
+    "menuDescription": "パン粉や衣をつけて油で揚げた料理。肉、魚介、野菜など幅広く、食べ応えが出る。",
+    "whatComesOut": [
+      "衣付きで揚げた肉・魚介・野菜",
+      "レモンやソース",
+      "揚げ立ての熱い皿"
+    ],
+    "tasteAndTexture": [
+      "外はカリッと香ばしい",
+      "中はジューシーまたはほくほく",
+      "油のコクがある"
+    ],
+    "orderAdvice": "満足感ある一皿が欲しいときに。軽い揚げ物ならフリットも候補。",
+    "similarItems": [
+      {
+        "id": "fritto",
+        "name": "フリット",
+        "difference": "フリットはイタリア式で軽い衣が多く、フライはパン粉や厚めの衣も含む広い揚げ物"
+      },
+      {
+        "id": "tempura",
+        "name": "天ぷら",
+        "difference": "天ぷらは和風の薄い衣で、フライはパン粉衣が多い"
+      }
+    ],
+    "relatedIds": [
+      "fritto",
+      "tempura",
+      "fritter"
+    ],
+    "tags": [
+      "揚げ物",
+      "衣",
+      "パン粉",
+      "カリッと",
+      "肉",
+      "魚介",
+      "洋食"
+    ],
+    "reverseKeywords": [
+      "揚げ物",
+      "カツ",
+      "パン粉",
+      "衣",
+      "サクサク"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 4,
+    "spicinessScore": 0
+  },
+  {
+    "id": "oil-ni",
+    "name": "オイル煮",
+    "kana": "おいるに",
+    "englishName": "Oil-poached",
+    "category": "調理法",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "油の中で食材を低温加熱する調理法。魚介や野菜をしっとり仕上げ、香草やにんにくの香りを移す。",
+    "menuDescription": "オリーブオイルなどに食材を浸して低温で煮た料理。アヒージョやコンフィに近いが、より広い表現。",
+    "whatComesOut": [
+      "油でしっとり加熱した魚介・肉・野菜",
+      "香味野菜やハーブ入りのオイル",
+      "パンを添えることもある"
+    ],
+    "tasteAndTexture": [
+      "しっとり柔らかい",
+      "油のコクと香りが強い",
+      "素材の旨みが逃げにくい"
+    ],
+    "orderAdvice": "オイルの香りやしっとり感が好きなら選びやすい。重さが気になるなら量を確認。",
+    "similarItems": [
+      {
+        "id": "confit",
+        "name": "コンフィ",
+        "difference": "コンフィは保存性も意識した低温油脂調理で、オイル煮はより日常的で広い言い方"
+      },
+      {
+        "id": "ahijo",
+        "name": "アヒージョ",
+        "difference": "アヒージョはにんにくとオリーブオイルで煮るスペイン料理"
+      }
+    ],
+    "relatedIds": [
+      "confit",
+      "ahijo",
+      "pochee"
+    ],
+    "tags": [
+      "オイル煮",
+      "低温調理",
+      "オリーブオイル",
+      "魚介",
+      "野菜",
+      "しっとり",
+      "地中海"
+    ],
+    "reverseKeywords": [
+      "油で煮る",
+      "オイル漬け",
+      "しっとり",
+      "にんにくオイル",
+      "低温"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0
+  },
+  {
+    "id": "mousse",
+    "name": "ムース",
+    "kana": "むーす",
+    "englishName": "Mousse",
+    "originalName": "Mousse",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "泡立てた生クリームや卵白、ピュレを合わせて軽く固める料理や製法。デザートにも前菜にも使われる。",
+    "menuDescription": "空気を含ませてふんわり仕上げたなめらかな料理。チョコレート、果物、魚介、レバーなどで作られる。",
+    "whatComesOut": [
+      "ふんわり固めた小皿または型抜き",
+      "ソースやジュレの添え物",
+      "冷製で出ることが多い"
+    ],
+    "tasteAndTexture": [
+      "軽くなめらか",
+      "口どけがよい",
+      "素材の風味が丸く出る"
+    ],
+    "orderAdvice": "軽い前菜や口どけのよいデザートを探すときに。甘いか塩味かは確認。",
+    "similarItems": [
+      {
+        "id": "pate",
+        "name": "パテ",
+        "difference": "パテは詰め物状で密度があり、ムースは空気を含んで軽い"
+      },
+      {
+        "id": "terrine",
+        "name": "テリーヌ",
+        "difference": "テリーヌは型で固めた料理全般で、ムースは泡の軽さが特徴"
+      }
+    ],
+    "relatedIds": [
+      "pate",
+      "terrine",
+      "pochee"
+    ],
+    "tags": [
+      "フランス料理",
+      "前菜",
+      "デザート",
+      "泡",
+      "なめらか",
+      "冷製",
+      "口どけ"
+    ],
+    "reverseKeywords": [
+      "ふわふわ",
+      "なめらか",
+      "ムースケーキ",
+      "軽いデザート",
+      "冷前菜"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "gelee",
+    "name": "ジュレ",
+    "kana": "じゅれ",
+    "englishName": "Gelée",
+    "originalName": "Gelée",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "だし、果汁、ワインなどをゼラチンでゆるく固めたもの。料理ではソースや前菜のアクセントに使われる。",
+    "menuDescription": "透明感のあるゼリー状のソースや添え物。冷製前菜、魚介、肉のテリーヌ、デザートに合わせる。",
+    "whatComesOut": [
+      "ゼリー状のソースまたは固めた一品",
+      "冷たい前菜やデザート",
+      "スプーンで崩れる柔らかさ"
+    ],
+    "tasteAndTexture": [
+      "ぷるっと軽い",
+      "口の中で溶ける",
+      "酸味やだしの風味が広がる"
+    ],
+    "orderAdvice": "冷製で軽い皿が欲しいときに。ゼリー食感が苦手なら避ける。",
+    "similarItems": [
+      {
+        "id": "terrine",
+        "name": "テリーヌ",
+        "difference": "テリーヌは型で固めた本体、ジュレはゼリー状のソースや固めた液体"
+      }
+    ],
+    "relatedIds": [
+      "terrine",
+      "pate",
+      "coulis"
+    ],
+    "tags": [
+      "フランス料理",
+      "ゼリー",
+      "冷製",
+      "前菜",
+      "デザート",
+      "ソース",
+      "透明感"
+    ],
+    "reverseKeywords": [
+      "ゼリー寄せ",
+      "ぷるぷる",
+      "冷たいソース",
+      "ゼラチン",
+      "ジュレソース"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "roti",
+    "name": "ロティ",
+    "kana": "ろてぃ",
+    "englishName": "Rôti",
+    "originalName": "Rôti",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス語でローストを指す調理法。肉や鳥、野菜をオーブンで焼き、焼き汁を活かして仕上げる。",
+    "menuDescription": "オーブンで香ばしく焼き上げたフランス式ロースト。肉汁のジュや付け合わせと一緒に出る。",
+    "whatComesOut": [
+      "ローストした肉・鳥・野菜",
+      "焼き汁から作るジュ",
+      "ポテトや根菜の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "外側は香ばしい",
+      "中はジューシー",
+      "肉汁の旨みが強い"
+    ],
+    "orderAdvice": "メニューでロティとあれば、フランス式ローストとして食べ応えある主菜を期待できる。",
+    "similarItems": [
+      {
+        "id": "roast",
+        "name": "ロースト",
+        "difference": "ローストは英語由来の広い表現で、ロティはフランス料理文脈の表記"
+      }
+    ],
+    "relatedIds": [
+      "roast",
+      "jus",
+      "gravy"
+    ],
+    "tags": [
+      "フランス料理",
+      "ロースト",
+      "オーブン",
+      "肉料理",
+      "鶏",
+      "主菜",
+      "焼き物"
+    ],
+    "reverseKeywords": [
+      "ロースト",
+      "フランス式ロースト",
+      "オーブン焼き",
+      "肉の主菜",
+      "焼き汁"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0
+  },
+  {
+    "id": "gratine",
+    "name": "グラチネ",
+    "kana": "ぐらちね",
+    "englishName": "Gratiné",
+    "originalName": "Gratiné",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "表面にチーズ、パン粉、ソースをのせて焼き色をつける調理法。香ばしい焦げ目と濃厚な風味が特徴。",
+    "menuDescription": "オーブンやサラマンダーで表面を焼き、こんがりした層を作る仕上げ。グラタンやスープにも使われる。",
+    "whatComesOut": [
+      "表面に焼き色のある皿",
+      "チーズやパン粉の香ばしい層",
+      "中は熱々でとろりとした仕上がり"
+    ],
+    "tasteAndTexture": [
+      "表面はカリッと香ばしい",
+      "中は熱く柔らかい",
+      "チーズやソースのコク"
+    ],
+    "orderAdvice": "香ばしい焼き目やチーズ感が欲しいときに。熱いので一口目は注意。",
+    "similarItems": [
+      {
+        "id": "gratin",
+        "name": "グラタン",
+        "difference": "グラタンは料理名としての一皿、グラチネは表面に焼き色をつける技法"
+      }
+    ],
+    "relatedIds": [
+      "gratin",
+      "bechamel",
+      "roast"
+    ],
+    "tags": [
+      "フランス料理",
+      "焼き色",
+      "チーズ",
+      "パン粉",
+      "オーブン",
+      "香ばしい",
+      "仕上げ"
+    ],
+    "reverseKeywords": [
+      "焼き目",
+      "チーズ焼き",
+      "表面カリカリ",
+      "グラタン風",
+      "オーブン仕上げ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0
+  },
+  {
+    "id": "caramelize",
+    "name": "キャラメリゼ",
+    "kana": "きゃらめりぜ",
+    "englishName": "Caramelize",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "砂糖や食材の糖分を加熱して褐色化させ、香ばしさとほろ苦い甘みを出す技法。",
+    "menuDescription": "表面の砂糖を焦がしたり、玉ねぎや果物の糖分をじっくり加熱して甘みと香ばしさを引き出す仕上げ。",
+    "whatComesOut": [
+      "艶と焼き色のある表面",
+      "甘く香ばしいソースや層",
+      "デザートまたは付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "香ばしい甘み",
+      "軽い苦み",
+      "表面がパリッとすることもある"
+    ],
+    "orderAdvice": "甘さだけでなく香ばしさが欲しいときに。焦がしの苦みが苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "creme-brulee",
+        "name": "クレームブリュレ",
+        "difference": "クレームブリュレは表面をキャラメリゼしたデザートの代表例"
+      }
+    ],
+    "relatedIds": [
+      "creme-brulee",
+      "gastrique",
+      "confiture"
+    ],
+    "tags": [
+      "フランス料理",
+      "砂糖",
+      "焦がし",
+      "デザート",
+      "香ばしい",
+      "甘い",
+      "仕上げ"
+    ],
+    "reverseKeywords": [
+      "焦がし砂糖",
+      "カラメル",
+      "ブリュレ",
+      "飴色玉ねぎ",
+      "ほろ苦い"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "flambe",
+    "name": "フランベ",
+    "kana": "ふらんべ",
+    "englishName": "Flambé",
+    "originalName": "Flambé",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "酒を加えて火をつけ、アルコールを飛ばしながら香りを移す調理法。肉料理、魚介、デザートに使われる。",
+    "menuDescription": "ブランデーやリキュールを加えて炎を上げる仕上げ。香りとコクを加え、ソースに深みを出す。",
+    "whatComesOut": [
+      "酒の香りをまとった肉・魚介・デザート",
+      "コクのあるソース",
+      "テーブル演出になることもある"
+    ],
+    "tasteAndTexture": [
+      "酒由来の香り",
+      "香ばしさとコク",
+      "甘い料理では華やかな余韻"
+    ],
+    "orderAdvice": "香り高い料理が好きなら楽しい。アルコールに敏感なら注文前に確認。",
+    "caution": "加熱後も香りや微量のアルコールが残る場合がある。",
+    "similarItems": [
+      {
+        "id": "deglaze",
+        "name": "デグラッセ",
+        "difference": "デグラッセは鍋底の旨みを液体で溶かす技法で、炎を上げるとは限らない"
+      }
+    ],
+    "relatedIds": [
+      "gastrique",
+      "jus",
+      "demiglace"
+    ],
+    "tags": [
+      "フランス料理",
+      "酒",
+      "炎",
+      "香り",
+      "ソース",
+      "デザート",
+      "仕上げ"
+    ],
+    "reverseKeywords": [
+      "炎の演出",
+      "ブランデー",
+      "リキュール",
+      "酒の香り",
+      "アルコール"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "smoke",
+    "name": "スモーク",
+    "kana": "すもーく",
+    "englishName": "Smoke / Smoked",
+    "category": "調理法",
+    "regions": [
+      {
+        "area": "国際"
+      }
+    ],
+    "summary": "食材に煙を当てて香りをつける調理法。魚、肉、チーズ、野菜に使われ、保存性や風味を高める。",
+    "menuDescription": "木材やチップの煙で香りをまとわせた料理。冷燻、温燻、熱燻などがあり、前菜や主菜に使われる。",
+    "whatComesOut": [
+      "煙の香りがついた肉・魚・チーズ・野菜",
+      "薄切り前菜または主菜",
+      "塩味と香ばしさのある仕上がり"
+    ],
+    "tasteAndTexture": [
+      "スモーキーな香り",
+      "塩気と旨みが強い",
+      "しっとりまたは締まった食感"
+    ],
+    "orderAdvice": "香りの強い前菜が欲しいときに。燻製香が苦手なら避ける。",
+    "similarItems": [
+      {
+        "id": "smoked_salmon",
+        "name": "スモークサーモン",
+        "difference": "スモークサーモンは鮭の燻製料理で、スモークは技法全般"
+      }
+    ],
+    "relatedIds": [
+      "smoked_salmon",
+      "grill",
+      "roast"
+    ],
+    "tags": [
+      "燻製",
+      "スモーク",
+      "煙",
+      "前菜",
+      "肉",
+      "魚",
+      "チーズ"
+    ],
+    "reverseKeywords": [
+      "燻製",
+      "煙の香り",
+      "スモーキー",
+      "保存食",
+      "冷燻"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "dry-aging",
+    "name": "ドライエイジング",
+    "kana": "どらいえいじんぐ",
+    "englishName": "Dry aging",
+    "category": "調理法",
+    "regions": [
+      {
+        "area": "国際"
+      }
+    ],
+    "summary": "肉を温度・湿度管理された環境で乾燥熟成させ、旨みと香りを凝縮する処理。ステーキでよく使われる。",
+    "menuDescription": "熟成庫で一定期間寝かせた肉。水分が抜け、ナッツやチーズのような熟成香と濃い旨みが出る。",
+    "whatComesOut": [
+      "熟成肉のステーキまたはロースト",
+      "シンプルな塩やソース",
+      "強い肉の香り"
+    ],
+    "tasteAndTexture": [
+      "旨みが濃い",
+      "熟成香がある",
+      "赤身は締まり、脂は香りが増す"
+    ],
+    "orderAdvice": "肉の香りと旨みを楽しみたい人向け。独特の熟成香が苦手なら通常の肉を選ぶ。",
+    "similarItems": [
+      {
+        "id": "grill",
+        "name": "グリル",
+        "difference": "グリルは焼く技法で、ドライエイジングは焼く前の熟成処理"
+      },
+      {
+        "id": "roast",
+        "name": "ロースト",
+        "difference": "ローストは加熱法で、ドライエイジングは肉の風味を作る下処理"
+      }
+    ],
+    "relatedIds": [
+      "grill",
+      "roast",
+      "filet-mignon"
+    ],
+    "tags": [
+      "熟成肉",
+      "ステーキ",
+      "牛肉",
+      "旨み",
+      "熟成香",
+      "高級",
+      "肉料理"
+    ],
+    "reverseKeywords": [
+      "熟成肉",
+      "エイジングビーフ",
+      "濃い肉味",
+      "熟成香",
+      "ステーキ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0
+  },
+  {
+    "id": "mixing",
+    "name": "ミキシング",
+    "kana": "みきしんぐ",
+    "englishName": "Mixing",
+    "category": "調理法",
+    "regions": [
+      {
+        "area": "国際"
+      }
+    ],
+    "summary": "複数の材料を混ぜ合わせる基本作業。生地、ソース、ムース、ドレッシングなどの均一さを作る。",
+    "menuDescription": "材料を混ぜて一体化させた仕込み。メニュー上では生地やソース、カクテル、デザートの工程として出る。",
+    "whatComesOut": [
+      "均一に混ざった生地・ソース・クリーム",
+      "空気を含んだ軽い仕上がりの場合もある",
+      "料理の下地として使われる"
+    ],
+    "tasteAndTexture": [
+      "材料の味がなじむ",
+      "なめらかになる",
+      "混ぜ方で軽さや粘りが変わる"
+    ],
+    "orderAdvice": "単体料理名より工程名。メニューで見たら食感や一体感を示す言葉として読む。",
+    "similarItems": [
+      {
+        "id": "emulsion",
+        "name": "エマルジョン",
+        "difference": "エマルジョンは水分と油分を乳化させる混合で、ミキシングより専門的"
+      }
+    ],
+    "relatedIds": [
+      "mousse",
+      "emulsion",
+      "pate"
+    ],
+    "tags": [
+      "混ぜる",
+      "仕込み",
+      "生地",
+      "ソース",
+      "デザート",
+      "基本調理法",
+      "食感"
+    ],
+    "reverseKeywords": [
+      "混ぜ合わせ",
+      "撹拌",
+      "生地作り",
+      "均一",
+      "ミキサー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "puree",
+    "name": "ピュレ",
+    "kana": "ぴゅれ",
+    "englishName": "Purée",
+    "originalName": "Purée",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "野菜や果物を煮る、潰す、裏ごしするなどしてなめらかな泥状にしたもの。ソースや付け合わせに使う。",
+    "menuDescription": "野菜や果物をなめらかにしたペースト状の付け合わせやソース。料理の下に敷かれることも多い。",
+    "whatComesOut": [
+      "皿に敷いたなめらかな野菜や果物",
+      "ソース状の添え物",
+      "肉や魚の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "非常になめらか",
+      "素材の甘みや香りが凝縮",
+      "クリーミーな場合もある"
+    ],
+    "orderAdvice": "付け合わせで味をつなぐ要素。苦手な野菜がある場合は何のピュレか確認。",
+    "similarItems": [
+      {
+        "id": "coulis",
+        "name": "クーリ",
+        "difference": "クーリは果物や野菜の流れるソースで、ピュレはより濃く付け合わせにもなる"
+      },
+      {
+        "id": "paste",
+        "name": "ペースト",
+        "difference": "ペーストはより広い練り状食品で、ピュレは裏ごししたなめらかさを重視"
+      }
+    ],
+    "relatedIds": [
+      "coulis",
+      "mousse",
+      "celeriac"
+    ],
+    "tags": [
+      "フランス料理",
+      "野菜",
+      "果物",
+      "なめらか",
+      "付け合わせ",
+      "ソース",
+      "裏ごし"
+    ],
+    "reverseKeywords": [
+      "野菜ペースト",
+      "なめらかソース",
+      "裏ごし",
+      "付け合わせ",
+      "ピューレ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "paste",
+    "name": "ペースト",
+    "kana": "ぺーすと",
+    "englishName": "Paste",
+    "category": "調理法",
+    "regions": [
+      {
+        "area": "国際"
+      }
+    ],
+    "summary": "食材をすり潰したり練ったりして濃い半固形にしたもの。香辛料、ナッツ、野菜、豆などで作る。",
+    "menuDescription": "濃い練り状の調味料や付け合わせ。パンに塗る、ソースに溶く、料理に香りを加える用途がある。",
+    "whatComesOut": [
+      "練り状のソースや調味料",
+      "パンや肉魚への添え物",
+      "濃い香りや旨みのアクセント"
+    ],
+    "tasteAndTexture": [
+      "濃厚でねっとり",
+      "素材の香りが強い",
+      "少量で味が出る"
+    ],
+    "orderAdvice": "パンや前菜に添えられていたら少量から試す。香辛料系は辛さを確認。",
+    "similarItems": [
+      {
+        "id": "puree",
+        "name": "ピュレ",
+        "difference": "ピュレはなめらかな裏ごし状で、ペーストはより濃く練った質感"
+      },
+      {
+        "id": "tapenade",
+        "name": "タプナード",
+        "difference": "タプナードはオリーブ主体のペースト"
+      }
+    ],
+    "relatedIds": [
+      "tapenade",
+      "pesto",
+      "hummus"
+    ],
+    "tags": [
+      "ペースト",
+      "練り物",
+      "調味料",
+      "ナッツ",
+      "豆",
+      "野菜",
+      "濃厚"
+    ],
+    "reverseKeywords": [
+      "練り状",
+      "ディップ",
+      "スプレッド",
+      "濃いソース",
+      "ペースト状"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "emulsion",
+    "name": "エマルジョン",
+    "kana": "えまるじょん",
+    "englishName": "Emulsion",
+    "category": "調理法",
+    "regions": [
+      {
+        "area": "国際"
+      }
+    ],
+    "summary": "水分と油分のように混ざりにくい液体を細かく分散させて一体化する技法。ソース作りで重要。",
+    "menuDescription": "乳化させたなめらかなソースやドレッシング。マヨネーズ、ヴィネグレット、バターソースなどに使われる。",
+    "whatComesOut": [
+      "なめらかにまとまったソース",
+      "油分と酸味が一体化したドレッシング",
+      "料理に絡む濃度のある仕上がり"
+    ],
+    "tasteAndTexture": [
+      "なめらかで艶がある",
+      "酸味と油脂が一体化",
+      "口当たりが丸い"
+    ],
+    "orderAdvice": "ソースの口当たりを示す言葉。酸味や油脂感が苦手なら内容を確認。",
+    "similarItems": [
+      {
+        "id": "vinaigrette",
+        "name": "ヴィネグレット",
+        "difference": "ヴィネグレットは酢と油のソースで、エマルジョンは乳化という技法"
+      },
+      {
+        "id": "mayonnaise",
+        "name": "マヨネーズ",
+        "difference": "マヨネーズは卵黄で乳化した代表的なソース"
+      }
+    ],
+    "relatedIds": [
+      "vinaigrette",
+      "mayonnaise",
+      "aioli"
+    ],
+    "tags": [
+      "乳化",
+      "ソース",
+      "ドレッシング",
+      "油",
+      "酸味",
+      "なめらか",
+      "技法"
+    ],
+    "reverseKeywords": [
+      "乳化ソース",
+      "分離しない",
+      "マヨネーズ",
+      "ドレッシング",
+      "なめらか"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "deglaze",
+    "name": "デグラッセ",
+    "kana": "でぐらっせ",
+    "englishName": "Deglaze",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "肉や魚を焼いた鍋底の焦げ付きにワインやブイヨンを加え、旨みを溶かしてソースにする技法。",
+    "menuDescription": "焼いた後の鍋に液体を注ぎ、底についた旨みをこそげ取ってソースへ移す工程。",
+    "whatComesOut": [
+      "焼き汁の旨みを含んだソース",
+      "肉や魚にかけるジュ",
+      "ワインやブイヨンの香り"
+    ],
+    "tasteAndTexture": [
+      "焼きの香ばしさ",
+      "旨みが濃い",
+      "ソースに深みが出る"
+    ],
+    "orderAdvice": "ソースが主役の肉料理でよく出る言葉。香りやコクを期待してよい。",
+    "similarItems": [
+      {
+        "id": "jus",
+        "name": "ジュ",
+        "difference": "ジュは肉汁系ソースそのもので、デグラッセはそれを作る工程"
+      },
+      {
+        "id": "reduce",
+        "name": "レデュース",
+        "difference": "レデュースは煮詰めて濃縮する工程で、デグラッセ後に行うことが多い"
+      }
+    ],
+    "relatedIds": [
+      "jus",
+      "fonds",
+      "demiglace"
+    ],
+    "tags": [
+      "フランス料理",
+      "ソース",
+      "焼き汁",
+      "ワイン",
+      "ブイヨン",
+      "旨み",
+      "技法"
+    ],
+    "reverseKeywords": [
+      "鍋底の旨み",
+      "焼き汁ソース",
+      "ワインで溶かす",
+      "ソース作り",
+      "デグレーズ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "reduce",
+    "name": "レデュース",
+    "kana": "れでゅーす",
+    "englishName": "Reduce / Reduction",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "液体を煮詰めて水分を飛ばし、味や香り、とろみを凝縮する技法。ソース作りでよく使われる。",
+    "menuDescription": "ワイン、ブイヨン、果汁、ソースを煮詰めて濃くしたもの。少量でも強い味を出す。",
+    "whatComesOut": [
+      "濃縮されたソース",
+      "艶ととろみのある仕上がり",
+      "肉や魚に少量添えるソース"
+    ],
+    "tasteAndTexture": [
+      "旨みや酸味が濃い",
+      "とろっとしている",
+      "香りが強い"
+    ],
+    "orderAdvice": "濃いソースが好きなら相性良い。塩味や酸味も強くなりやすい。",
+    "similarItems": [
+      {
+        "id": "deglaze",
+        "name": "デグラッセ",
+        "difference": "デグラッセは鍋底の旨みを液体で溶かす工程で、レデュースは液体を煮詰める工程"
+      },
+      {
+        "id": "gastrique",
+        "name": "ガストリック",
+        "difference": "ガストリックは砂糖と酢を煮詰めた甘酸っぱいソースベース"
+      }
+    ],
+    "relatedIds": [
+      "demiglace",
+      "jus",
+      "gastrique"
+    ],
+    "tags": [
+      "フランス料理",
+      "煮詰め",
+      "ソース",
+      "濃縮",
+      "ワイン",
+      "ブイヨン",
+      "旨み"
+    ],
+    "reverseKeywords": [
+      "煮詰める",
+      "濃縮ソース",
+      "リダクション",
+      "とろみ",
+      "少量ソース"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "infuse",
+    "name": "インフューズ",
+    "kana": "いんふゅーず",
+    "englishName": "Infuse",
+    "category": "調理法",
+    "regions": [
+      {
+        "area": "国際"
+      }
+    ],
+    "summary": "液体や油脂にハーブ、香辛料、果皮などの香りを移す技法。オイル、クリーム、シロップ、酒に使われる。",
+    "menuDescription": "香りを移したオイルやソース、クリーム。ローズマリーオイル、バニラクリーム、ハーブシロップなど。",
+    "whatComesOut": [
+      "香りをまとったオイル・ソース・クリーム",
+      "ハーブやスパイスの余韻",
+      "料理全体の香りづけ"
+    ],
+    "tasteAndTexture": [
+      "香りが前に出る",
+      "味は繊細な場合が多い",
+      "油脂や液体の質感は元のまま"
+    ],
+    "orderAdvice": "香りを楽しむ料理で重要。苦手なハーブやスパイスがある場合は確認。",
+    "similarItems": [
+      {
+        "id": "marine",
+        "name": "マリネ",
+        "difference": "マリネは食材を漬けて味を入れるが、インフューズは液体側に香りを移す"
+      }
+    ],
+    "relatedIds": [
+      "marine",
+      "thyme",
+      "basil"
+    ],
+    "tags": [
+      "香りづけ",
+      "ハーブ",
+      "スパイス",
+      "オイル",
+      "クリーム",
+      "シロップ",
+      "技法"
+    ],
+    "reverseKeywords": [
+      "香りを移す",
+      "ハーブオイル",
+      "スパイスオイル",
+      "バニラ風味",
+      "抽出"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "tempering",
+    "name": "テンパリング",
+    "kana": "てんぱりんぐ",
+    "englishName": "Tempering",
+    "category": "調理法",
+    "regions": [
+      {
+        "area": "国際"
+      },
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "温度調整や油への香り移しを指す技法。菓子ではチョコレートの結晶を整え、インド料理ではスパイスを油で熱する。",
+    "menuDescription": "文脈で意味が変わる言葉。チョコなら艶と割れを作る温度調整、カレーなら熱い油でスパイスの香りを出す工程。",
+    "whatComesOut": [
+      "艶のあるチョコレート",
+      "香り高いスパイスオイル",
+      "仕上げにかける香味油"
+    ],
+    "tasteAndTexture": [
+      "チョコはパリッと艶やか",
+      "スパイスは香りが立つ",
+      "油脂のコクが加わる"
+    ],
+    "orderAdvice": "メニューで見たら菓子かスパイス料理か文脈確認。どちらも仕上がりを左右する技法。",
+    "similarItems": [
+      {
+        "id": "infuse",
+        "name": "インフューズ",
+        "difference": "インフューズは香りを移す技法全般で、テンパリングは温度管理や熱い油での香り出しを含む"
+      }
+    ],
+    "relatedIds": [
+      "biryani",
+      "dal",
+      "infuse"
+    ],
+    "tags": [
+      "チョコレート",
+      "スパイス",
+      "温度管理",
+      "インド料理",
+      "菓子",
+      "香味油",
+      "技法"
+    ],
+    "reverseKeywords": [
+      "チョコの艶",
+      "パリッとチョコ",
+      "スパイスオイル",
+      "タルカ",
+      "温度調整"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1
+  },
+  {
+    "id": "blanching",
+    "name": "ブランチング",
+    "kana": "ぶらんちんぐ",
+    "englishName": "Blanching",
+    "category": "調理法",
+    "regions": [
+      {
+        "area": "国際"
+      }
+    ],
+    "summary": "食材を短時間ゆでてから冷水に取る下処理。色を鮮やかにし、アクや青臭さを抜く。",
+    "menuDescription": "野菜やナッツ、肉などを短時間だけ湯通しした下処理。サラダや付け合わせの色と食感を整える。",
+    "whatComesOut": [
+      "鮮やかな色の野菜",
+      "歯ざわりを残した付け合わせ",
+      "皮むきや下処理された食材"
+    ],
+    "tasteAndTexture": [
+      "色が鮮やか",
+      "歯ざわりが残る",
+      "青臭さやアクが抜ける"
+    ],
+    "orderAdvice": "単体料理より下処理名。野菜の食感や色を活かす料理でよく使う。",
+    "similarItems": [
+      {
+        "id": "boil",
+        "name": "ボイル",
+        "difference": "ボイルは火を通すために茹でるが、ブランチングは短時間の下処理"
+      }
+    ],
+    "relatedIds": [
+      "boil",
+      "salade_nicoise",
+      "spinach"
+    ],
+    "tags": [
+      "下処理",
+      "湯通し",
+      "野菜",
+      "色止め",
+      "サラダ",
+      "食感",
+      "基本調理法"
+    ],
+    "reverseKeywords": [
+      "湯通し",
+      "色止め",
+      "下茹で",
+      "アク抜き",
+      "野菜下処理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "wrapping",
+    "name": "ラッピング",
+    "kana": "らっぴんぐ",
+    "englishName": "Wrapping",
+    "category": "調理法",
+    "regions": [
+      {
+        "area": "国際"
+      }
+    ],
+    "summary": "食材を皮、葉、肉、紙などで包む技法。蒸す、焼く、揚げる、保存するなど目的は幅広い。",
+    "menuDescription": "具材を何かで包んだ料理や工程。ドルマ、春巻き、包み焼き、パイ包みなどで使われる。",
+    "whatComesOut": [
+      "皮や葉で包まれた料理",
+      "中に具材やソースが閉じ込められた仕上がり",
+      "切ると香りや汁が出ることもある"
+    ],
+    "tasteAndTexture": [
+      "外側と内側の食感差",
+      "香りが閉じ込められる",
+      "具材がしっとりしやすい"
+    ],
+    "orderAdvice": "包み料理が好きなら楽しい。中身が見えにくいので苦手食材は確認。",
+    "similarItems": [
+      {
+        "id": "en_papillote",
+        "name": "アン・パピヨット",
+        "difference": "アン・パピヨットは紙包み焼きで、ラッピングは包む技法全般"
+      },
+      {
+        "id": "dolma",
+        "name": "ドルマ",
+        "difference": "ドルマは葉や野菜に詰めた具体的な料理"
+      }
+    ],
+    "relatedIds": [
+      "en_papillote",
+      "dolma",
+      "baozi"
+    ],
+    "tags": [
+      "包む",
+      "包み料理",
+      "葉包み",
+      "紙包み",
+      "パイ包み",
+      "蒸し料理",
+      "焼き物"
+    ],
+    "reverseKeywords": [
+      "包み焼き",
+      "包む料理",
+      "葉で包む",
+      "紙包み",
+      "具入り"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "coating",
+    "name": "コーティング",
+    "kana": "こーてぃんぐ",
+    "englishName": "Coating",
+    "category": "調理法",
+    "regions": [
+      {
+        "area": "国際"
+      }
+    ],
+    "summary": "食材の表面をソース、衣、チョコレート、粉などで覆う技法。食感、風味、保護の役割がある。",
+    "menuDescription": "食材に薄い膜をまとわせた仕上げ。揚げ物の衣、グレーズ、チョコがけ、ソース絡めなど。",
+    "whatComesOut": [
+      "表面に膜や衣をまとった料理",
+      "艶やかなソースやチョコの層",
+      "カリッとした衣の場合もある"
+    ],
+    "tasteAndTexture": [
+      "外側に味が集中",
+      "艶や香ばしさが出る",
+      "中身をしっとり保つ"
+    ],
+    "orderAdvice": "衣やソースが苦手なら確認。甘いコーティングか塩味かで印象が大きく変わる。",
+    "similarItems": [
+      {
+        "id": "fry",
+        "name": "フライ",
+        "difference": "フライは衣をつけて揚げる料理で、コーティングは表面を覆う技法全般"
+      },
+      {
+        "id": "caramelize",
+        "name": "キャラメリゼ",
+        "difference": "キャラメリゼは糖を焦がしたコーティングや仕上げの一種"
+      }
+    ],
+    "relatedIds": [
+      "fry",
+      "caramelize",
+      "tempura"
+    ],
+    "tags": [
+      "表面加工",
+      "衣",
+      "ソース",
+      "チョコレート",
+      "艶",
+      "食感",
+      "仕上げ"
+    ],
+    "reverseKeywords": [
+      "衣をつける",
+      "ソースを絡める",
+      "チョコがけ",
+      "艶出し",
+      "表面を覆う"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "maceration",
+    "name": "マセラシオン",
+    "kana": "ませらしおん",
+    "englishName": "Maceration",
+    "originalName": "Macération",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "果物などを砂糖、酒、酸味のある液体に浸し、香りや水分を引き出す技法。デザートやソースに使う。",
+    "menuDescription": "果物を砂糖やリキュールでなじませたもの。果汁が出て、柔らかく香りのあるデザート素材になる。",
+    "whatComesOut": [
+      "シロップをまとった果物",
+      "香りの移った果汁",
+      "デザートの添え物やソース"
+    ],
+    "tasteAndTexture": [
+      "果物が柔らかい",
+      "甘みと酸味がなじむ",
+      "酒やスパイスの香りが出る"
+    ],
+    "orderAdvice": "果物デザートでよく出る技法。アルコール使用の有無を気にするなら確認。",
+    "caution": "リキュールやワインを使う場合がある。",
+    "similarItems": [
+      {
+        "id": "marine",
+        "name": "マリネ",
+        "difference": "マリネは肉魚野菜にも使う漬け込みで、マセラシオンは果物やデザート文脈が中心"
+      },
+      {
+        "id": "confiture",
+        "name": "コンフィチュール",
+        "difference": "コンフィチュールは砂糖で煮るが、マセラシオンは浸してなじませる"
+      }
+    ],
+    "relatedIds": [
+      "confiture",
+      "panna-cotta",
+      "creme-brulee"
+    ],
+    "tags": [
+      "フランス料理",
+      "果物",
+      "デザート",
+      "砂糖",
+      "リキュール",
+      "漬け込み",
+      "香り"
+    ],
+    "reverseKeywords": [
+      "果物を漬ける",
+      "砂糖漬け",
+      "リキュール漬け",
+      "デザート果物",
+      "シロップ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "syrup-ni",
+    "name": "シロップ煮",
+    "kana": "しろっぷに",
+    "englishName": "Poached in syrup",
+    "category": "調理法",
+    "regions": [
+      {
+        "area": "国際"
+      }
+    ],
+    "summary": "果物などを砂糖水や香りをつけたシロップで煮る調理法。コンポートのように柔らかく甘く仕上げる。",
+    "menuDescription": "果物をシロップでやさしく煮たデザート素材。バニラ、スパイス、ワインの香りを加えることもある。",
+    "whatComesOut": [
+      "柔らかく煮た果物",
+      "甘いシロップ",
+      "アイスやクリームの添え物"
+    ],
+    "tasteAndTexture": [
+      "果物が柔らかい",
+      "甘みがしみている",
+      "香りつきシロップが絡む"
+    ],
+    "orderAdvice": "軽い果物デザートが欲しいときに。甘さ控えめか濃いめかは店で差が出る。",
+    "similarItems": [
+      {
+        "id": "confiture",
+        "name": "コンフィチュール",
+        "difference": "コンフィチュールは煮詰めてジャム状にするが、シロップ煮は果物の形を残す"
+      },
+      {
+        "id": "pochee",
+        "name": "ポシェ",
+        "difference": "ポシェは低温の液体で火入れする広い技法で、シロップ煮は甘い液体を使う"
+      }
+    ],
+    "relatedIds": [
+      "confiture",
+      "pochee",
+      "panna-cotta"
+    ],
+    "tags": [
+      "デザート",
+      "果物",
+      "シロップ",
+      "コンポート",
+      "甘い",
+      "バニラ",
+      "軽い"
+    ],
+    "reverseKeywords": [
+      "コンポート",
+      "果物煮",
+      "甘いシロップ",
+      "桃のコンポート",
+      "洋梨のシロップ煮"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "nage",
+    "name": "ナージュ",
+    "kana": "なーじゅ",
+    "englishName": "Nage",
+    "originalName": "Nage",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "魚介や野菜を軽いだしで煮て、その煮汁をソースとして使うフランス料理の仕立て。",
+    "menuDescription": "白ワイン、香味野菜、魚介の旨みを含む軽いスープ状ソース。魚や貝の料理に添えられる。",
+    "whatComesOut": [
+      "魚介や野菜にかかった澄んだソース",
+      "軽いスープ状の煮汁",
+      "ハーブや白ワインの香り"
+    ],
+    "tasteAndTexture": [
+      "軽く上品",
+      "魚介の旨みがある",
+      "さらっとして重くない"
+    ],
+    "orderAdvice": "濃厚ソースより軽い魚介料理を選びたいとき向く。",
+    "similarItems": [
+      {
+        "id": "jus",
+        "name": "ジュ",
+        "difference": "ジュは肉汁や魚介の旨みを活かすソース全般で、ナージュは煮汁を軽く使う仕立て"
+      },
+      {
+        "id": "sauce-americaine",
+        "name": "ソース・アメリケーヌ",
+        "difference": "アメリケーヌは甲殻類の濃厚ソースで、ナージュは軽い"
+      }
+    ],
+    "relatedIds": [
+      "jus",
+      "fonds",
+      "sauce-americaine"
+    ],
+    "tags": [
+      "フランス料理",
+      "魚介",
+      "白ワイン",
+      "軽いソース",
+      "煮汁",
+      "ハーブ",
+      "スープ状"
+    ],
+    "reverseKeywords": [
+      "魚介の煮汁",
+      "軽いフレンチソース",
+      "白ワインソース",
+      "スープ仕立て",
+      "ナージュ仕立て"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "sauce-vin-blanc",
+    "name": "ソース・ヴァンブラン",
+    "kana": "そーす ゔぁんぶらん",
+    "englishName": "White wine sauce",
+    "originalName": "Sauce vin blanc",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "白ワイン、魚のだし、クリームやバターを煮詰めて作る魚料理向けの白ワインソース。",
+    "menuDescription": "魚のポワレやポシェに合わせる白いソース。白ワインの酸味とバターやクリームのコクがある。",
+    "whatComesOut": [
+      "魚料理にかかる白いソース",
+      "白ワインと魚介だしの香り",
+      "バターやクリームのコク"
+    ],
+    "tasteAndTexture": [
+      "酸味とコクのバランス",
+      "なめらか",
+      "魚に合う上品な味"
+    ],
+    "orderAdvice": "魚料理でクラシックなフレンチ感を楽しみたいときに。乳製品が苦手なら確認。",
+    "similarItems": [
+      {
+        "id": "bechamel",
+        "name": "ベシャメル",
+        "difference": "ベシャメルは牛乳ベースで、ヴァンブランは白ワインと魚介だしが軸"
+      },
+      {
+        "id": "nage",
+        "name": "ナージュ",
+        "difference": "ナージュはさらっと軽い煮汁系で、ヴァンブランはより濃度がある"
+      }
+    ],
+    "relatedIds": [
+      "bechamel",
+      "poele",
+      "pochee"
+    ],
+    "tags": [
+      "フランス料理",
+      "白ワイン",
+      "魚料理",
+      "バター",
+      "クリーム",
+      "ソース",
+      "クラシック"
+    ],
+    "reverseKeywords": [
+      "白ワインソース",
+      "魚の白いソース",
+      "ヴァンブラン",
+      "クリームソース",
+      "フレンチ魚料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "baba-ganoush",
+    "name": "ババガヌーシュ",
+    "kana": "ばばがぬーしゅ",
+    "englishName": "Baba ganoush",
+    "category": "ソース",
+    "regions": [
+      {
+        "area": "中東"
+      }
+    ],
+    "summary": "焼きなす、タヒニ、レモン、にんにくで作る中東のディップ。香ばしいなすの風味が特徴。",
+    "menuDescription": "パンや野菜につけるなすのディップ。フムスより軽く、焼きなすの香りとごまのコクがある。",
+    "whatComesOut": [
+      "なすのペースト状ディップ",
+      "ピタパンや野菜",
+      "オリーブオイルやハーブのトッピング"
+    ],
+    "tasteAndTexture": [
+      "スモーキーでなめらか",
+      "ごまのコク",
+      "レモンの酸味"
+    ],
+    "orderAdvice": "前菜でシェアしやすい。フムス好きなら試す価値あり。",
+    "similarItems": [
+      {
+        "id": "hummus",
+        "name": "フムス",
+        "difference": "フムスはひよこ豆主体で、ババガヌーシュは焼きなす主体"
+      },
+      {
+        "id": "tapenade",
+        "name": "タプナード",
+        "difference": "タプナードはオリーブ主体で塩気が強い"
+      }
+    ],
+    "relatedIds": [
+      "hummus",
+      "tapenade",
+      "paste"
+    ],
+    "tags": [
+      "中東料理",
+      "ディップ",
+      "なす",
+      "タヒニ",
+      "前菜",
+      "ピタパン",
+      "ベジタリアン"
+    ],
+    "reverseKeywords": [
+      "焼きなすディップ",
+      "なすペースト",
+      "中東前菜",
+      "タヒニ",
+      "ピタにつける"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "sambal",
+    "name": "サンバル",
+    "kana": "さんばる",
+    "englishName": "Sambal",
+    "category": "ソース",
+    "regions": [
+      {
+        "area": "東南アジア"
+      },
+      {
+        "country": "インドネシア"
+      }
+    ],
+    "summary": "唐辛子を主体に、にんにく、酢、塩、発酵調味料などを合わせる東南アジアの辛味調味料。",
+    "menuDescription": "料理に添える赤い辛味ソース。炒飯、麺、肉、魚に少量足して辛さと香りを加える。",
+    "whatComesOut": [
+      "小皿の赤い辛味ソース",
+      "唐辛子の香り",
+      "料理に添える調味料"
+    ],
+    "tasteAndTexture": [
+      "鮮烈な辛さ",
+      "酸味や発酵の旨み",
+      "粗いペースト状"
+    ],
+    "orderAdvice": "辛味追加用。少量から試す。",
+    "similarItems": [
+      {
+        "id": "sriracha",
+        "name": "スリラチャ",
+        "difference": "スリラチャは甘酸っぱいボトルソースで、サンバルは唐辛子の生っぽい辛さが強い"
+      },
+      {
+        "id": "harissa",
+        "name": "ハリッサ",
+        "difference": "ハリッサは北アフリカのスパイス入り唐辛子ペースト"
+      }
+    ],
+    "relatedIds": [
+      "sriracha",
+      "harissa",
+      "chutney"
+    ],
+    "tags": [
+      "東南アジア",
+      "辛味",
+      "唐辛子",
+      "ディップ",
+      "調味料",
+      "インドネシア",
+      "チリ"
+    ],
+    "reverseKeywords": [
+      "辛いソース",
+      "チリペースト",
+      "インドネシア調味料",
+      "辛味追加",
+      "サンバルソース"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 5
+  },
+  {
+    "id": "nam-pla",
+    "name": "ナンプラー",
+    "kana": "なんぷらー",
+    "englishName": "Fish sauce",
+    "originalName": "น้ำปลา",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "魚を塩漬け発酵させて作るタイの魚醤。強い旨みと塩気、発酵香がある。",
+    "menuDescription": "タイ料理の味付けに使う透明な褐色の調味料。炒め物、スープ、サラダに塩味と旨みを加える。",
+    "whatComesOut": [
+      "料理に溶け込んだ魚醤の旨み",
+      "小皿のタレとして出ることもある",
+      "塩気の強い発酵調味料"
+    ],
+    "tasteAndTexture": [
+      "強い塩気",
+      "魚介の発酵旨み",
+      "香りは独特"
+    ],
+    "orderAdvice": "タイ料理の核になる味。魚醤の香りが苦手なら控えめ指定。",
+    "similarItems": [
+      {
+        "name": "醤油",
+        "difference": "醤油は大豆由来の発酵調味料で、ナンプラーは魚由来"
+      },
+      {
+        "id": "oyster-sauce",
+        "name": "オイスターソース",
+        "difference": "オイスターソースは牡蠣の甘辛い濃厚ソースで、ナンプラーはさらっとした魚醤"
+      }
+    ],
+    "relatedIds": [
+      "pad-thai",
+      "gapao",
+      "laksa"
+    ],
+    "tags": [
+      "タイ料理",
+      "魚醤",
+      "発酵調味料",
+      "塩味",
+      "旨み",
+      "魚介",
+      "東南アジア"
+    ],
+    "reverseKeywords": [
+      "魚醤",
+      "タイ調味料",
+      "しょっぱい発酵ソース",
+      "魚の香り",
+      "エスニック調味料"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "oyster-sauce",
+    "name": "オイスターソース",
+    "kana": "おいすたーそーす",
+    "englishName": "Oyster sauce",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "牡蠣の旨みをベースにした甘辛く濃厚な中華調味料。炒め物や煮込みに深いコクを加える。",
+    "menuDescription": "中華炒めに使う黒褐色の濃いソース。牡蠣の旨み、甘み、塩気がまとまる。",
+    "whatComesOut": [
+      "照りのある炒め物や煮物",
+      "濃い旨みのソース",
+      "野菜や肉に絡んだ甘辛味"
+    ],
+    "tasteAndTexture": [
+      "濃厚な旨み",
+      "甘辛い",
+      "とろみがある"
+    ],
+    "orderAdvice": "中華のコクが好きなら安心。牡蠣由来なのでアレルギーは注意。",
+    "caution": "牡蠣を含む。",
+    "similarItems": [
+      {
+        "id": "demiglace",
+        "name": "デミグラス",
+        "difference": "デミグラスは洋食の肉系ソースで、オイスターソースは牡蠣由来の中華調味料"
+      },
+      {
+        "id": "nam-pla",
+        "name": "ナンプラー",
+        "difference": "ナンプラーはさらっとした魚醤で、オイスターソースは濃厚で甘みがある"
+      }
+    ],
+    "relatedIds": [
+      "yu-xiang-rou-si",
+      "hui-guo-rou",
+      "qing-zheng-da-zha-xie"
+    ],
+    "tags": [
+      "中華料理",
+      "牡蠣",
+      "炒め物",
+      "甘辛い",
+      "旨み",
+      "調味料",
+      "ソース"
+    ],
+    "reverseKeywords": [
+      "牡蠣ソース",
+      "中華炒めのコク",
+      "黒い甘辛ソース",
+      "オイスター味",
+      "とろみ調味料"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "tianmianjiang",
+    "name": "甜麺醤",
+    "kana": "てんめんじゃん",
+    "englishName": "Sweet bean sauce",
+    "originalName": "甜麵醬",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "小麦や大豆を発酵させた甘い味噌状の中華調味料。北京ダックや回鍋肉に使う。",
+    "menuDescription": "黒っぽい甘味噌ソース。肉や野菜に甘辛いコクを加え、北京ダックの添えにもなる。",
+    "whatComesOut": [
+      "甘い味噌風味のソース",
+      "肉料理や炒め物に絡んだ濃い味",
+      "小皿のつけだれ"
+    ],
+    "tasteAndTexture": [
+      "甘辛い",
+      "発酵味噌のコク",
+      "ねっとり濃厚"
+    ],
+    "orderAdvice": "辛くない中華味噌系。甘めの濃い味が好きなら合う。",
+    "similarItems": [
+      {
+        "id": "doubanjiang",
+        "name": "豆板醤",
+        "difference": "豆板醤は唐辛子入りで辛く、甜麺醤は甘い"
+      },
+      {
+        "id": "gochujang",
+        "name": "コチュジャン",
+        "difference": "コチュジャンは韓国の辛甘い発酵味噌"
+      }
+    ],
+    "relatedIds": [
+      "peking-duck",
+      "hui-guo-rou",
+      "baozi"
+    ],
+    "tags": [
+      "中華料理",
+      "甘味噌",
+      "発酵調味料",
+      "北京ダック",
+      "回鍋肉",
+      "甘辛い",
+      "ソース"
+    ],
+    "reverseKeywords": [
+      "甘い中華味噌",
+      "北京ダックのタレ",
+      "回鍋肉の味",
+      "テンメンジャン",
+      "黒い味噌ソース"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "doubanjiang",
+    "name": "豆板醤",
+    "kana": "とうばんじゃん",
+    "englishName": "Doubanjiang",
+    "originalName": "豆瓣醬",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "locality": "四川"
+      }
+    ],
+    "summary": "そら豆、唐辛子、塩を発酵させた四川料理の辛味調味料。塩気、辛味、発酵の旨みが強い。",
+    "menuDescription": "四川料理に深い辛さと発酵香を出す赤褐色のペースト。麻婆系や炒め物に使われる。",
+    "whatComesOut": [
+      "赤褐色の辛味ソース",
+      "料理全体に広がる発酵の旨み",
+      "強い塩気と辛味"
+    ],
+    "tasteAndTexture": [
+      "辛い",
+      "塩気が強い",
+      "発酵香とコク"
+    ],
+    "orderAdvice": "四川らしい辛味の核。辛さが苦手なら豆板醤使用量を確認。",
+    "similarItems": [
+      {
+        "id": "tianmianjiang",
+        "name": "甜麺醤",
+        "difference": "甜麺醤は甘い味噌で、豆板醤は辛い発酵唐辛子味噌"
+      },
+      {
+        "id": "gochujang",
+        "name": "コチュジャン",
+        "difference": "コチュジャンは甘みが強い韓国調味料"
+      }
+    ],
+    "relatedIds": [
+      "hui-guo-rou",
+      "gong-bao-ji-ding",
+      "kou-shui-ji"
+    ],
+    "tags": [
+      "四川料理",
+      "唐辛子",
+      "発酵調味料",
+      "辛味",
+      "中華料理",
+      "味噌",
+      "ペースト"
+    ],
+    "reverseKeywords": [
+      "辛い中華味噌",
+      "四川の辛味",
+      "トウバンジャン",
+      "麻婆の味",
+      "赤い発酵ペースト"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 4
+  },
+  {
+    "id": "xo-sauce",
+    "name": "XO醤",
+    "kana": "えっくすおーじゃん",
+    "englishName": "XO sauce",
+    "originalName": "XO醬",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "香港"
+      }
+    ],
+    "summary": "干し貝柱、干し海老、金華ハム、唐辛子などを油で炒めた高級中華調味料。強い旨みがある。",
+    "menuDescription": "魚介乾物とハムの旨みを凝縮した具入りソース。炒め物、点心、麺に少量で深い味を足す。",
+    "whatComesOut": [
+      "具感のある旨みソース",
+      "干し貝柱や海老の香り",
+      "油分を含む濃厚な調味料"
+    ],
+    "tasteAndTexture": [
+      "濃い魚介旨み",
+      "少し辛い",
+      "粒感と油のコク"
+    ],
+    "orderAdvice": "旨みが強い高級感ある味。魚介や豚肉由来が入ることが多い。",
+    "caution": "魚介、豚肉を含む場合が多い。",
+    "similarItems": [
+      {
+        "id": "oyster-sauce",
+        "name": "オイスターソース",
+        "difference": "オイスターソースは液状で甘辛く、XO醤は乾物具材の旨みと粒感がある"
+      },
+      {
+        "id": "sambal",
+        "name": "サンバル",
+        "difference": "サンバルは唐辛子主体で、XO醤は魚介乾物の旨み主体"
+      }
+    ],
+    "relatedIds": [
+      "xiaolongbao",
+      "yangzhou-chao-fan",
+      "qing-zheng-da-zha-xie"
+    ],
+    "tags": [
+      "香港料理",
+      "中華料理",
+      "干し貝柱",
+      "干し海老",
+      "高級調味料",
+      "旨み",
+      "辛味"
+    ],
+    "reverseKeywords": [
+      "高級中華ソース",
+      "干し貝柱ソース",
+      "具入りラー油風",
+      "XOジャン",
+      "魚介旨み"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 2
+  },
+  {
+    "id": "gochujang",
+    "name": "コチュジャン",
+    "kana": "こちゅじゃん",
+    "englishName": "Gochujang",
+    "originalName": "고추장",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "唐辛子粉、米麹、もち米などで作る韓国の発酵辛味噌。甘み、辛味、旨みがある。",
+    "menuDescription": "韓国料理に使う赤い辛味噌。ビビンバ、炒め物、和え物に甘辛いコクを加える。",
+    "whatComesOut": [
+      "赤い甘辛味噌ソース",
+      "肉や野菜に絡む濃い味",
+      "小皿のつけだれ"
+    ],
+    "tasteAndTexture": [
+      "甘辛い",
+      "発酵の旨み",
+      "ねっとり濃厚"
+    ],
+    "orderAdvice": "韓国らしい甘辛味が欲しいときに。辛さは中程度から強め。",
+    "similarItems": [
+      {
+        "id": "doubanjiang",
+        "name": "豆板醤",
+        "difference": "豆板醤は四川系で塩気と辛味が強く、コチュジャンは甘みがある"
+      },
+      {
+        "id": "ssamjang",
+        "name": "サムジャン",
+        "difference": "サムジャンはコチュジャンや味噌を合わせた包み野菜用の調味味噌"
+      }
+    ],
+    "relatedIds": [
+      "japchae",
+      "bossam",
+      "chukkumi"
+    ],
+    "tags": [
+      "韓国料理",
+      "辛味噌",
+      "発酵調味料",
+      "甘辛い",
+      "唐辛子",
+      "ビビンバ",
+      "ソース"
+    ],
+    "reverseKeywords": [
+      "韓国の辛味噌",
+      "甘辛ソース",
+      "赤い味噌",
+      "コチジャン",
+      "ビビンバの味"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 3
+  },
+  {
+    "id": "ssamjang",
+    "name": "サムジャン",
+    "kana": "さむじゃん",
+    "englishName": "Ssamjang",
+    "originalName": "쌈장",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "味噌、コチュジャン、にんにく、ごま油などを合わせた韓国の包み野菜用調味味噌。",
+    "menuDescription": "焼肉やポッサムを葉野菜で包むときにつける濃い味噌だれ。旨み、甘み、辛味がある。",
+    "whatComesOut": [
+      "小皿の味噌だれ",
+      "焼肉や蒸し豚の添え物",
+      "葉野菜と一緒に食べる調味料"
+    ],
+    "tasteAndTexture": [
+      "甘辛く濃い",
+      "味噌の旨み",
+      "ごま油やにんにくの香り"
+    ],
+    "orderAdvice": "サムギョプサルやポッサムに少量つけると味が締まる。塩気は強め。",
+    "similarItems": [
+      {
+        "id": "gochujang",
+        "name": "コチュジャン",
+        "difference": "コチュジャンは辛味噌単体で、サムジャンは味噌や香味を合わせたつけ味噌"
+      },
+      {
+        "id": "tianmianjiang",
+        "name": "甜麺醤",
+        "difference": "甜麺醤は中華の甘味噌で、サムジャンは韓国の包み用味噌"
+      }
+    ],
+    "relatedIds": [
+      "bossam",
+      "gochujang",
+      "jumeokbap"
+    ],
+    "tags": [
+      "韓国料理",
+      "味噌だれ",
+      "焼肉",
+      "ポッサム",
+      "包み野菜",
+      "甘辛い",
+      "ごま油"
+    ],
+    "reverseKeywords": [
+      "韓国焼肉の味噌",
+      "包み野菜のタレ",
+      "サムギョプサル味噌",
+      "つけ味噌",
+      "サンチュ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 2
+  },
+  {
+    "id": "ketchup",
+    "name": "ケチャップ",
+    "kana": "けちゃっぷ",
+    "englishName": "Ketchup",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "トマト、酢、砂糖、香辛料で作る甘酸っぱい赤いソース。フライや肉料理、洋食に広く使われる。",
+    "menuDescription": "フライドポテトやハンバーグ、オムライスに添える甘酸っぱいトマトソース。",
+    "whatComesOut": [
+      "赤いトマトソース",
+      "小皿またはボトルで添える調味料",
+      "揚げ物や肉料理への添え物"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい",
+      "トマトの旨み",
+      "なめらかで濃い"
+    ],
+    "orderAdvice": "親しみやすい味。料理の個性より安心感を足すソース。",
+    "similarItems": [
+      {
+        "id": "demiglace",
+        "name": "デミグラス",
+        "difference": "デミグラスは肉やフォンのコクが強い洋食ソースで、ケチャップは甘酸っぱいトマト調味料"
+      },
+      {
+        "id": "salsa_verde",
+        "name": "サルサヴェルデ",
+        "difference": "サルサヴェルデはハーブ主体で酸味があり、ケチャップはトマトと甘みが主体"
+      }
+    ],
+    "relatedIds": [
+      "fry",
+      "tonkatsu",
+      "demiglace"
+    ],
+    "tags": [
+      "トマト",
+      "アメリカ料理",
+      "洋食",
+      "甘酸っぱい",
+      "フライ",
+      "調味料",
+      "ソース"
+    ],
+    "reverseKeywords": [
+      "トマトソース",
+      "赤い甘いソース",
+      "フライドポテト",
+      "オムライス",
+      "ハンバーグ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "mustard",
+    "name": "マスタード",
+    "kana": "ますたーど",
+    "englishName": "Mustard",
+    "category": "ソース",
+    "regions": [
+      {
+        "area": "ヨーロッパ"
+      },
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "からし菜の種を酢や水で練った辛味調味料。肉料理、ソーセージ、サンドイッチに使う。",
+    "menuDescription": "黄色または粒入りの辛味ソース。酸味と刺激で肉や揚げ物をさっぱり食べさせる。",
+    "whatComesOut": [
+      "小皿やボトルの黄色いソース",
+      "肉料理やソーセージの添え物",
+      "粒入りタイプの場合もある"
+    ],
+    "tasteAndTexture": [
+      "鼻に抜ける辛味",
+      "酸味がある",
+      "油っぽさを切る"
+    ],
+    "orderAdvice": "肉や揚げ物に合う。辛味が苦手なら少量から。",
+    "similarItems": [
+      {
+        "id": "dijon-mustard",
+        "name": "ディジョンマスタード",
+        "difference": "ディジョンはフランス・ディジョン式で酸味と辛味が洗練される"
+      },
+      {
+        "id": "horseradish",
+        "name": "ホースラディッシュ",
+        "difference": "ホースラディッシュは西洋わさびで、より鼻に抜ける刺激が強い"
+      }
+    ],
+    "relatedIds": [
+      "fry",
+      "grill",
+      "vinaigrette"
+    ],
+    "tags": [
+      "辛味調味料",
+      "肉料理",
+      "ソーセージ",
+      "酸味",
+      "からし",
+      "サンドイッチ",
+      "ソース"
+    ],
+    "reverseKeywords": [
+      "黄色いからし",
+      "ソーセージのソース",
+      "粒マスタード",
+      "肉に添える辛味",
+      "ホットドッグ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 2
+  },
+  {
+    "id": "dijon-mustard",
+    "name": "ディジョンマスタード",
+    "kana": "でぃじょんますたーど",
+    "englishName": "Dijon mustard",
+    "originalName": "Moutarde de Dijon",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "フランス"
+      },
+      {
+        "locality": "ディジョン"
+      }
+    ],
+    "summary": "フランス・ディジョン発祥のマスタード。白ワインや酢を使い、シャープな酸味と辛味がある。",
+    "menuDescription": "フレンチのソースやドレッシング、肉料理に使うなめらかなマスタード。酸味と辛味がきれい。",
+    "whatComesOut": [
+      "淡黄色のなめらかなマスタード",
+      "肉料理やソースへの添え物",
+      "ヴィネグレットの材料"
+    ],
+    "tasteAndTexture": [
+      "シャープな酸味",
+      "上品な辛味",
+      "なめらか"
+    ],
+    "orderAdvice": "普通のマスタードより酸味と香りを楽しみたいときに。",
+    "similarItems": [
+      {
+        "id": "mustard",
+        "name": "マスタード",
+        "difference": "一般的なマスタードよりディジョンはフランス式でなめらか、酸味と辛味が明確"
+      },
+      {
+        "id": "vinaigrette",
+        "name": "ヴィネグレット",
+        "difference": "ヴィネグレットに混ぜると乳化と風味づけの役割をする"
+      }
+    ],
+    "relatedIds": [
+      "mustard",
+      "vinaigrette",
+      "grill"
+    ],
+    "tags": [
+      "フランス料理",
+      "マスタード",
+      "ディジョン",
+      "酸味",
+      "肉料理",
+      "ドレッシング",
+      "ソース"
+    ],
+    "reverseKeywords": [
+      "フレンチマスタード",
+      "ディジョン産",
+      "白ワイン風味",
+      "上品な辛味",
+      "ヴィネグレット材料"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 2
+  },
+  {
+    "id": "horseradish",
+    "name": "ホースラディッシュ",
+    "kana": "ほーすらでぃっしゅ",
+    "englishName": "Horseradish",
+    "category": "ソース",
+    "regions": [
+      {
+        "area": "ヨーロッパ"
+      }
+    ],
+    "summary": "西洋わさびをすりおろした辛味調味料。ローストビーフや魚介に添え、鼻に抜ける刺激を加える。",
+    "menuDescription": "白い辛味ソースまたは薬味。ローストビーフ、スモークサーモン、牡蠣に添えられる。",
+    "whatComesOut": [
+      "白いすりおろし状の薬味",
+      "肉や魚介の添え物",
+      "クリームと混ぜたソースの場合もある"
+    ],
+    "tasteAndTexture": [
+      "鼻に抜ける辛味",
+      "爽やかな刺激",
+      "油っぽさを切る"
+    ],
+    "orderAdvice": "ローストビーフ好きなら好相性。刺激が強いので少量から。",
+    "similarItems": [
+      {
+        "id": "mustard",
+        "name": "マスタード",
+        "difference": "マスタードは種子由来の酸味ある辛味で、ホースラディッシュは根の鼻に抜ける刺激"
+      },
+      {
+        "id": "dijon-mustard",
+        "name": "ディジョンマスタード",
+        "difference": "ディジョンはなめらかなソースで、ホースラディッシュは薬味感が強い"
+      }
+    ],
+    "relatedIds": [
+      "roast",
+      "smoked_salmon",
+      "grill"
+    ],
+    "tags": [
+      "西洋わさび",
+      "辛味",
+      "ローストビーフ",
+      "魚介",
+      "薬味",
+      "ヨーロッパ",
+      "ソース"
+    ],
+    "reverseKeywords": [
+      "西洋わさび",
+      "ローストビーフの薬味",
+      "白い辛味",
+      "鼻に抜ける",
+      "わさび風"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 3
+  },
+  {
+    "id": "island-dressing",
+    "name": "アイランドドレッシング",
+    "kana": "あいらんどどれっしんぐ",
+    "englishName": "Thousand Island dressing",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "マヨネーズやケチャップをベースに、ピクルスなどを加える甘酸っぱいピンク色のドレッシング。",
+    "menuDescription": "サラダや海老、サンドイッチに使うクリーミーなドレッシング。甘みと酸味があり親しみやすい。",
+    "whatComesOut": [
+      "ピンク色のクリーミーなソース",
+      "サラダや海老にかかった状態",
+      "刻んだピクルス入りの場合もある"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい",
+      "クリーミー",
+      "少し粒感があることもある"
+    ],
+    "orderAdvice": "濃厚で食べやすいサラダ向け。軽さ重視ならヴィネグレットがよい。",
+    "similarItems": [
+      {
+        "id": "mayonnaise",
+        "name": "マヨネーズ",
+        "difference": "マヨネーズ単体より甘みとトマト感がある"
+      },
+      {
+        "id": "vinaigrette",
+        "name": "ヴィネグレット",
+        "difference": "ヴィネグレットは油と酢の軽いドレッシングで、アイランドはクリーミー"
+      }
+    ],
+    "relatedIds": [
+      "mayonnaise",
+      "ketchup",
+      "vinaigrette"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "ドレッシング",
+      "マヨネーズ",
+      "ケチャップ",
+      "サラダ",
+      "甘酸っぱい",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "サウザンアイランド",
+      "ピンクのドレッシング",
+      "海老サラダ",
+      "甘いマヨソース",
+      "サラダソース"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0
+  },
+  {
+    "id": "caesar-dressing",
+    "name": "シーザードレッシング",
+    "kana": "しーざーどれっしんぐ",
+    "englishName": "Caesar dressing",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "メキシコ"
+      },
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "卵黄、オイル、チーズ、アンチョビ、にんにく、レモンなどで作る濃厚なサラダドレッシング。",
+    "menuDescription": "シーザーサラダに使うクリーミーなソース。チーズ、にんにく、アンチョビの旨みが強い。",
+    "whatComesOut": [
+      "レタスに絡む白っぽいドレッシング",
+      "チーズやクルトン",
+      "濃厚なサラダ"
+    ],
+    "tasteAndTexture": [
+      "クリーミー",
+      "チーズの塩気",
+      "にんにくとアンチョビの旨み"
+    ],
+    "orderAdvice": "サラダでも食べ応えが欲しいときに。魚介風味やにんにくが苦手なら注意。",
+    "caution": "アンチョビ、卵、乳製品を含むことが多い。",
+    "similarItems": [
+      {
+        "id": "mayonnaise",
+        "name": "マヨネーズ",
+        "difference": "マヨネーズよりチーズ、アンチョビ、にんにくの風味が強い"
+      },
+      {
+        "id": "vinaigrette",
+        "name": "ヴィネグレット",
+        "difference": "ヴィネグレットは軽い酸味系で、シーザーは濃厚クリーミー"
+      }
+    ],
+    "relatedIds": [
+      "mayonnaise",
+      "parmigiano",
+      "vinaigrette"
+    ],
+    "tags": [
+      "サラダ",
+      "ドレッシング",
+      "チーズ",
+      "アンチョビ",
+      "にんにく",
+      "クリーミー",
+      "シーザーサラダ"
+    ],
+    "reverseKeywords": [
+      "シーザーサラダのソース",
+      "濃厚ドレッシング",
+      "チーズ味サラダ",
+      "アンチョビ入り",
+      "クルトン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0
+  },
+  {
+    "id": "coleslaw-dressing",
+    "name": "コールスロードレッシング",
+    "kana": "こーるすろーどれっしんぐ",
+    "englishName": "Coleslaw dressing",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "マヨネーズ、酢、砂糖などで作るキャベツサラダ向けの甘酸っぱいドレッシング。",
+    "menuDescription": "細切りキャベツに絡める白いクリーミーなドレッシング。揚げ物やバーベキューの付け合わせに合う。",
+    "whatComesOut": [
+      "キャベツに絡んだ白いドレッシング",
+      "甘酸っぱいサラダ",
+      "肉料理や揚げ物の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい",
+      "クリーミー",
+      "キャベツのシャキシャキ感"
+    ],
+    "orderAdvice": "揚げ物や濃い肉料理の横にあると口直しになる。マヨ系が苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "mayonnaise",
+        "name": "マヨネーズ",
+        "difference": "マヨネーズより酢と砂糖で甘酸っぱく調整される"
+      },
+      {
+        "id": "island-dressing",
+        "name": "アイランドドレッシング",
+        "difference": "アイランドはケチャップ入りでピンク色、コールスローは白くキャベツ向け"
+      }
+    ],
+    "relatedIds": [
+      "mayonnaise",
+      "vinaigrette",
+      "fry"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "ドレッシング",
+      "コールスロー",
+      "キャベツ",
+      "マヨネーズ",
+      "甘酸っぱい",
+      "付け合わせ"
+    ],
+    "reverseKeywords": [
+      "コールスローの味",
+      "キャベツサラダ",
+      "白い甘いドレッシング",
+      "マヨ系サラダ",
+      "揚げ物の付け合わせ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "paprika",
+    "name": "パプリカ",
+    "kana": "ぱぷりか",
+    "englishName": "Bell pepper",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "area": "中欧"
+      }
+    ],
+    "summary": "肉厚で甘みのあるカラーピーマン。赤、黄、オレンジなど色鮮やかで、焼き物や煮込み、マリネに使う。",
+    "menuDescription": "サラダ、グリル、煮込みに入る甘い野菜。彩りと軽い甘みを加える。",
+    "whatComesOut": [
+      "色鮮やかな角切りやスライス",
+      "グリルやマリネの付け合わせ",
+      "煮込みの甘み要素"
+    ],
+    "tasteAndTexture": [
+      "甘い",
+      "みずみずしい",
+      "加熱すると柔らかく香ばしい"
+    ],
+    "orderAdvice": "辛くない。彩りや野菜感が欲しい料理で安心。",
+    "similarItems": [
+      {
+        "id": "zucchini",
+        "name": "ズッキーニ",
+        "difference": "ズッキーニは淡い味で水分が多く、パプリカは甘みと色が強い"
+      },
+      {
+        "id": "piperade",
+        "name": "ピピラーダ",
+        "difference": "ピピラーダはパプリカや玉ねぎを使うバスク料理"
+      }
+    ],
+    "relatedIds": [
+      "zucchini",
+      "piperade",
+      "grill"
+    ],
+    "tags": [
+      "野菜",
+      "カラーピーマン",
+      "甘い",
+      "グリル",
+      "マリネ",
+      "彩り",
+      "地中海"
+    ],
+    "reverseKeywords": [
+      "赤い野菜",
+      "黄色い野菜",
+      "甘いピーマン",
+      "彩り野菜",
+      "グリル野菜"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "okra",
+    "name": "オクラ",
+    "kana": "おくら",
+    "englishName": "Okra",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "アフリカ"
+      },
+      {
+        "area": "アジア"
+      }
+    ],
+    "summary": "独特の粘りを持つ緑色の野菜。煮込み、とろみ付け、揚げ物、和え物に使われる。",
+    "menuDescription": "輪切りや丸ごとで出る緑の野菜。粘りでソースやスープにとろみを出す。",
+    "whatComesOut": [
+      "輪切りまたは丸ごとの緑の野菜",
+      "スープや煮込みのとろみ",
+      "揚げ物や付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "粘りがある",
+      "青い香り",
+      "加熱で柔らかい"
+    ],
+    "orderAdvice": "粘り食感が好きなら合う。苦手なら避ける。",
+    "similarItems": [
+      {
+        "id": "molokhia",
+        "name": "モロヘイヤ",
+        "difference": "モロヘイヤも粘りがある葉野菜で、オクラは莢を食べる"
+      },
+      {
+        "id": "zucchini",
+        "name": "ズッキーニ",
+        "difference": "ズッキーニは粘りがなく淡い味"
+      }
+    ],
+    "relatedIds": [
+      "zucchini",
+      "dal",
+      "tempura"
+    ],
+    "tags": [
+      "野菜",
+      "粘り",
+      "緑黄色野菜",
+      "煮込み",
+      "揚げ物",
+      "アジア",
+      "アフリカ"
+    ],
+    "reverseKeywords": [
+      "ねばねば野菜",
+      "緑の輪切り",
+      "オクラ入り",
+      "とろみ野菜",
+      "夏野菜"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "molokhia",
+    "name": "モロヘイヤ",
+    "kana": "もろへいや",
+    "englishName": "Molokhia",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "中東"
+      },
+      {
+        "country": "エジプト"
+      }
+    ],
+    "summary": "粘りのある葉野菜。スープや煮込みに使われ、青い香りととろみが特徴。",
+    "menuDescription": "刻んでスープやソース状にする緑の葉野菜。中東料理でよく出る。",
+    "whatComesOut": [
+      "緑色のスープや煮込み",
+      "細かく刻んだ葉",
+      "粘りのある口当たり"
+    ],
+    "tasteAndTexture": [
+      "粘りがある",
+      "青い香り",
+      "軽く滋味深い"
+    ],
+    "orderAdvice": "青菜と粘りが好きなら試す価値あり。見た目は濃い緑。",
+    "similarItems": [
+      {
+        "id": "okra",
+        "name": "オクラ",
+        "difference": "オクラは莢の粘り、モロヘイヤは葉を刻んだ粘り"
+      },
+      {
+        "id": "spinach",
+        "name": "ほうれん草",
+        "difference": "ほうれん草より粘りがあり、香りも独特"
+      }
+    ],
+    "relatedIds": [
+      "okra",
+      "spinach",
+      "dal"
+    ],
+    "tags": [
+      "葉野菜",
+      "中東料理",
+      "粘り",
+      "スープ",
+      "緑黄色野菜",
+      "エジプト",
+      "青菜"
+    ],
+    "reverseKeywords": [
+      "粘る葉野菜",
+      "緑のスープ",
+      "エジプト料理",
+      "モロヘイヤスープ",
+      "青菜のとろみ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "rosemary",
+    "name": "ローズマリー",
+    "kana": "ろーずまりー",
+    "englishName": "Rosemary",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "地中海"
+      }
+    ],
+    "summary": "松のような強い香りを持つ地中海のハーブ。肉、魚、じゃがいも、オーブン料理に使う。",
+    "menuDescription": "ローストやグリルに香りをつける針葉状のハーブ。少量でも香りが強い。",
+    "whatComesOut": [
+      "肉や魚に添えた小枝",
+      "香りを移したオイルやソース",
+      "ロースト野菜の香草"
+    ],
+    "tasteAndTexture": [
+      "樹脂のような強い香り",
+      "ほろ苦い",
+      "油脂と合う"
+    ],
+    "orderAdvice": "肉やロースト料理で香りが欲しいとき向く。強いハーブが苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "thyme",
+        "name": "タイム",
+        "difference": "タイムはより繊細で万能、ローズマリーは力強く樹脂香が強い"
+      },
+      {
+        "id": "basil",
+        "name": "バジル",
+        "difference": "バジルは甘く青い香りで、ローズマリーはウッディ"
+      }
+    ],
+    "relatedIds": [
+      "thyme",
+      "roast",
+      "grill"
+    ],
+    "tags": [
+      "ハーブ",
+      "地中海",
+      "ロースト",
+      "肉料理",
+      "香草",
+      "オーブン",
+      "じゃがいも"
+    ],
+    "reverseKeywords": [
+      "強いハーブ",
+      "ローストの香り",
+      "針葉ハーブ",
+      "ラムに合う",
+      "香草焼き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "mint",
+    "name": "ミント",
+    "kana": "みんと",
+    "englishName": "Mint",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "area": "中東"
+      }
+    ],
+    "summary": "清涼感のある香りを持つハーブ。サラダ、羊肉料理、デザート、飲み物に使う。",
+    "menuDescription": "仕上げに散らす爽やかな葉。脂っこさを切り、甘い料理にも塩味の料理にも合う。",
+    "whatComesOut": [
+      "緑の小さな葉",
+      "サラダやソースの香り",
+      "デザートや飲み物の飾り"
+    ],
+    "tasteAndTexture": [
+      "清涼感が強い",
+      "爽やか",
+      "青い香り"
+    ],
+    "orderAdvice": "羊肉や中東料理で出たら相性良い。歯磨き風味が苦手なら控えめに。",
+    "similarItems": [
+      {
+        "id": "pakuchi",
+        "name": "パクチー",
+        "difference": "パクチーは柑橘的で個性的、ミントは清涼感が強い"
+      },
+      {
+        "id": "basil",
+        "name": "バジル",
+        "difference": "バジルは甘い香り、ミントは冷涼な香り"
+      }
+    ],
+    "relatedIds": [
+      "taboule",
+      "raita",
+      "basil"
+    ],
+    "tags": [
+      "ハーブ",
+      "清涼感",
+      "中東料理",
+      "デザート",
+      "飲み物",
+      "羊肉",
+      "サラダ"
+    ],
+    "reverseKeywords": [
+      "爽やかハーブ",
+      "ミント味",
+      "清涼感",
+      "緑の葉",
+      "ラムに合う"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "truffle",
+    "name": "トリュフ",
+    "kana": "とりゅふ",
+    "englishName": "Truffle",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "フランス"
+      },
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "土の中に育つ高級きのこ。強い芳香があり、薄く削って卵料理、パスタ、リゾットに使う。",
+    "menuDescription": "料理の上に薄く削られる香りの強い高級食材。少量で香りが広がる。",
+    "whatComesOut": [
+      "薄く削った黒または白のきのこ",
+      "香りを移したオイルやソース",
+      "卵やパスタの上の仕上げ"
+    ],
+    "tasteAndTexture": [
+      "芳醇で土っぽい香り",
+      "旨みが強い",
+      "食感より香り重視"
+    ],
+    "orderAdvice": "香りを楽しむ高級食材。強い熟成香が苦手なら避ける。",
+    "similarItems": [
+      {
+        "id": "porcini",
+        "name": "ポルチーニ",
+        "difference": "ポルチーニは食感と旨みも楽しむきのこで、トリュフは香りの仕上げが中心"
+      },
+      {
+        "id": "mushroom",
+        "name": "マッシュルーム",
+        "difference": "マッシュルームより香りが強く高級"
+      }
+    ],
+    "relatedIds": [
+      "porcini",
+      "risotto",
+      "tagliate"
+    ],
+    "tags": [
+      "きのこ",
+      "高級食材",
+      "フランス料理",
+      "イタリア料理",
+      "香り",
+      "パスタ",
+      "リゾット"
+    ],
+    "reverseKeywords": [
+      "高級きのこ",
+      "黒トリュフ",
+      "白トリュフ",
+      "香りの強いきのこ",
+      "削る食材"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "eringi",
+    "name": "エリンギ",
+    "kana": "えりんぎ",
+    "englishName": "King oyster mushroom",
+    "category": "食材",
+    "regions": [
+      {
+        "area": "東アジア"
+      },
+      {
+        "area": "地中海"
+      }
+    ],
+    "summary": "太い軸と歯ごたえが特徴のきのこ。焼く、炒める、フライにすると食感が立つ。",
+    "menuDescription": "肉厚で白いきのこ。輪切りや縦切りで、付け合わせや炒め物に入る。",
+    "whatComesOut": [
+      "肉厚な白いきのこ",
+      "グリルやソテーの付け合わせ",
+      "輪切りまたは縦切り"
+    ],
+    "tasteAndTexture": [
+      "こりっとした歯ごたえ",
+      "淡い旨み",
+      "油やバターと合う"
+    ],
+    "orderAdvice": "食感のあるきのこが好きなら選びやすい。香りは穏やか。",
+    "similarItems": [
+      {
+        "id": "mushroom",
+        "name": "マッシュルーム",
+        "difference": "マッシュルームは丸く香りが穏やか、エリンギは軸の歯ごたえが強い"
+      },
+      {
+        "id": "shiitake",
+        "name": "しいたけ",
+        "difference": "しいたけは香りと旨みが強く、エリンギは食感重視"
+      }
+    ],
+    "relatedIds": [
+      "mushroom",
+      "saute",
+      "grill"
+    ],
+    "tags": [
+      "きのこ",
+      "歯ごたえ",
+      "グリル",
+      "ソテー",
+      "付け合わせ",
+      "バター",
+      "食材"
+    ],
+    "reverseKeywords": [
+      "白いきのこ",
+      "歯ごたえきのこ",
+      "エリンギソテー",
+      "肉厚きのこ",
+      "きのこ付け合わせ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "shiitake",
+    "name": "しいたけ",
+    "kana": "しいたけ",
+    "englishName": "Shiitake mushroom",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "area": "東アジア"
+      }
+    ],
+    "summary": "強い旨みと香りを持つ東アジアのきのこ。焼き物、煮物、スープ、だしに使う。",
+    "menuDescription": "傘のある茶色いきのこ。焼くと香りが立ち、煮るとだしが出る。",
+    "whatComesOut": [
+      "茶色いきのこの傘",
+      "焼き物や煮込みの具",
+      "だしやソースの旨み"
+    ],
+    "tasteAndTexture": [
+      "旨みが強い",
+      "香りが濃い",
+      "肉厚ならジューシー"
+    ],
+    "orderAdvice": "きのこの香りが好きなら良い。独特の香りが苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "mushroom",
+        "name": "マッシュルーム",
+        "difference": "マッシュルームよりしいたけは香りと旨みが強い"
+      },
+      {
+        "id": "eringi",
+        "name": "エリンギ",
+        "difference": "エリンギは歯ごたえ重視、しいたけは香り重視"
+      }
+    ],
+    "relatedIds": [
+      "mushroom",
+      "grill",
+      "fonds"
+    ],
+    "tags": [
+      "きのこ",
+      "和食",
+      "東アジア",
+      "旨み",
+      "だし",
+      "焼き物",
+      "煮物"
+    ],
+    "reverseKeywords": [
+      "椎茸",
+      "だしが出るきのこ",
+      "香り強いきのこ",
+      "焼きしいたけ",
+      "茶色いきのこ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "pancetta",
+    "name": "パンチェッタ",
+    "kana": "ぱんちぇった",
+    "englishName": "Pancetta",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "豚バラ肉を塩漬け熟成したイタリアの加工肉。ベーコンに似るが燻製しないことが多い。",
+    "menuDescription": "パスタや煮込みに入る塩気の強い豚肉。脂のコクと熟成香を加える。",
+    "whatComesOut": [
+      "角切りや薄切りの豚バラ加工肉",
+      "パスタやソースの旨み",
+      "カリッと焼いた脂身"
+    ],
+    "tasteAndTexture": [
+      "塩気が強い",
+      "脂の甘み",
+      "熟成した豚の旨み"
+    ],
+    "orderAdvice": "少量で料理にコクが出る。脂と塩気が苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "prosciutto",
+        "name": "プロシュート",
+        "difference": "プロシュートは生ハムとして薄切りで食べることが多く、パンチェッタは加熱調理にも使う"
+      },
+      {
+        "id": "guanciale",
+        "name": "グアンチャーレ",
+        "difference": "グアンチャーレは豚頬肉でより脂と香りが強い"
+      }
+    ],
+    "relatedIds": [
+      "prosciutto",
+      "bolognese",
+      "ragu"
+    ],
+    "tags": [
+      "イタリア料理",
+      "豚肉",
+      "加工肉",
+      "塩漬け",
+      "パスタ",
+      "脂",
+      "熟成"
+    ],
+    "reverseKeywords": [
+      "イタリアのベーコン",
+      "塩漬け豚バラ",
+      "カルボナーラ具材",
+      "脂の旨み",
+      "パンチェッタ入り"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0
+  },
+  {
+    "id": "salami",
+    "name": "サラミ",
+    "kana": "さらみ",
+    "englishName": "Salami",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "イタリア"
+      },
+      {
+        "area": "ヨーロッパ"
+      }
+    ],
+    "summary": "挽き肉を腸詰めにして発酵・乾燥熟成させた加工肉。前菜やピザ、サンドイッチに使う。",
+    "menuDescription": "薄切りで出る熟成ソーセージ。塩気とスパイス感があり、ワインのつまみに向く。",
+    "whatComesOut": [
+      "薄切りの赤い加工肉",
+      "前菜盛り合わせ",
+      "ピザやサンドイッチの具"
+    ],
+    "tasteAndTexture": [
+      "塩気が強い",
+      "熟成香がある",
+      "脂のコクとスパイス感"
+    ],
+    "orderAdvice": "前菜で少しずつ食べると良い。塩分と脂は強め。",
+    "similarItems": [
+      {
+        "id": "prosciutto",
+        "name": "プロシュート",
+        "difference": "プロシュートは豚もも肉の生ハムで、サラミは挽き肉の発酵ソーセージ"
+      },
+      {
+        "id": "chorizo",
+        "name": "チョリソー",
+        "difference": "チョリソーは唐辛子やパプリカで赤く辛味があるタイプが多い"
+      }
+    ],
+    "relatedIds": [
+      "prosciutto",
+      "affettato-misto",
+      "scamorza-bianca"
+    ],
+    "tags": [
+      "加工肉",
+      "イタリア料理",
+      "前菜",
+      "熟成",
+      "ソーセージ",
+      "ワイン",
+      "塩気"
+    ],
+    "reverseKeywords": [
+      "薄切りソーセージ",
+      "熟成肉前菜",
+      "赤い加工肉",
+      "サラミピザ",
+      "ワインのつまみ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 1
+  },
+  {
+    "id": "chorizo",
+    "name": "チョリソー",
+    "kana": "ちょりそー",
+    "englishName": "Chorizo",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "スペイン"
+      },
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "唐辛子やパプリカで赤く風味づけしたソーセージ。スペイン式は熟成、メキシコ式は生タイプが多い。",
+    "menuDescription": "赤いスパイス風味のソーセージ。炒め物、煮込み、タコスなどに旨みと辛味を足す。",
+    "whatComesOut": [
+      "赤いソーセージの輪切り",
+      "油に溶けたスパイス色",
+      "肉料理や豆料理の具"
+    ],
+    "tasteAndTexture": [
+      "スパイシー",
+      "豚肉の旨み",
+      "脂と香辛料の香り"
+    ],
+    "orderAdvice": "辛味と肉のコクが欲しいときに。辛さは店で差あり。",
+    "similarItems": [
+      {
+        "id": "salami",
+        "name": "サラミ",
+        "difference": "サラミは熟成香と塩気中心、チョリソーはパプリカや唐辛子の香りが強い"
+      },
+      {
+        "id": "sambal",
+        "name": "サンバル",
+        "difference": "サンバルは唐辛子ソースで、チョリソーは肉加工品"
+      }
+    ],
+    "relatedIds": [
+      "tacos",
+      "quesadilla",
+      "paprika"
+    ],
+    "tags": [
+      "スペイン料理",
+      "メキシコ料理",
+      "ソーセージ",
+      "豚肉",
+      "辛味",
+      "パプリカ",
+      "加工肉"
+    ],
+    "reverseKeywords": [
+      "赤いソーセージ",
+      "辛いソーセージ",
+      "チョリソ入り",
+      "スパイシー肉",
+      "パプリカ風味"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 3
+  },
+  {
+    "id": "guanciale",
+    "name": "グアンチャーレ",
+    "kana": "ぐあんちゃーれ",
+    "englishName": "Guanciale",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "豚頬肉を塩漬け熟成したイタリアの加工肉。脂の旨みが強く、カルボナーラやアマトリチャーナに使う。",
+    "menuDescription": "パスタに入る濃厚な豚頬肉。焼くと脂が溶け、ソースに深いコクを出す。",
+    "whatComesOut": [
+      "角切りの熟成豚頬肉",
+      "カリッと焼いた脂身",
+      "パスタソースに溶けた旨み"
+    ],
+    "tasteAndTexture": [
+      "脂が濃厚",
+      "塩気が強い",
+      "熟成香がある"
+    ],
+    "orderAdvice": "本格イタリアンのパスタで見たら旨み強め。脂が苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "pancetta",
+        "name": "パンチェッタ",
+        "difference": "パンチェッタは豚バラ、グアンチャーレは豚頬肉でより脂の香りが強い"
+      },
+      {
+        "id": "prosciutto",
+        "name": "プロシュート",
+        "difference": "プロシュートは薄切りで食べる生ハム、グアンチャーレは加熱して脂を使うことが多い"
+      }
+    ],
+    "relatedIds": [
+      "pancetta",
+      "aglio-e-olio",
+      "tagliate"
+    ],
+    "tags": [
+      "イタリア料理",
+      "豚頬肉",
+      "加工肉",
+      "パスタ",
+      "脂",
+      "熟成",
+      "塩漬け"
+    ],
+    "reverseKeywords": [
+      "カルボナーラ具材",
+      "豚頬肉",
+      "濃厚な脂",
+      "本格パスタ",
+      "グアンチャーレ入り"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 5,
+    "spicinessScore": 0
+  },
+  {
+    "id": "lamb",
+    "name": "ラム",
+    "kana": "らむ",
+    "englishName": "Lamb",
+    "category": "肉",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "area": "中東"
+      },
+      {
+        "area": "オセアニア"
+      }
+    ],
+    "summary": "若い羊の肉。独特の香りと柔らかさがあり、グリル、煮込み、スパイス料理に使う。",
+    "menuDescription": "骨付きや挽き肉、串焼きで出る羊肉。ハーブやスパイスと合わせることが多い。",
+    "whatComesOut": [
+      "骨付き肉や挽き肉料理",
+      "グリルや煮込み",
+      "ミントやスパイスの添え物"
+    ],
+    "tasteAndTexture": [
+      "羊特有の香り",
+      "柔らかい",
+      "脂に甘みがある"
+    ],
+    "orderAdvice": "羊肉の香りが好きならおすすめ。初めてならグリルや煮込みから。",
+    "similarItems": [
+      {
+        "id": "jingisukan",
+        "name": "成吉思汗",
+        "difference": "成吉思汗は羊肉を焼く日本の料理で、ラムは食材名"
+      },
+      {
+        "id": "gibier",
+        "name": "ジビエ",
+        "difference": "ジビエは野生鳥獣肉全般で、ラムは家畜の若い羊"
+      }
+    ],
+    "relatedIds": [
+      "grill",
+      "rosemary",
+      "mint"
+    ],
+    "tags": [
+      "羊肉",
+      "ラムチョップ",
+      "グリル",
+      "中東料理",
+      "地中海",
+      "スパイス",
+      "肉"
+    ],
+    "reverseKeywords": [
+      "羊肉",
+      "ラムチョップ",
+      "羊の香り",
+      "ミントソース",
+      "スパイス肉"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0
+  },
+  {
+    "id": "duck",
+    "name": "ダック",
+    "kana": "だっく",
+    "englishName": "Duck",
+    "category": "肉",
+    "regions": [
+      {
+        "area": "ヨーロッパ"
+      },
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "鴨肉。赤身に近い濃い旨みと脂の甘みがあり、ロースト、コンフィ、中華料理に使われる。",
+    "menuDescription": "皮付きの胸肉やもも肉で出ることが多い。皮は香ばしく、身は濃い味。",
+    "whatComesOut": [
+      "皮付きの鴨肉",
+      "ローストやコンフィ",
+      "甘酸っぱいソースやジュ"
+    ],
+    "tasteAndTexture": [
+      "濃い旨み",
+      "脂が甘い",
+      "皮が香ばしい"
+    ],
+    "orderAdvice": "鶏より濃い肉味を楽しみたいときに。脂は強め。",
+    "similarItems": [
+      {
+        "id": "confit",
+        "name": "コンフィ",
+        "difference": "コンフィは低温油脂調理で、鴨は代表的な素材"
+      },
+      {
+        "id": "peking-duck",
+        "name": "北京ダック",
+        "difference": "北京ダックは皮を楽しむ中国料理で、ダックは食材名"
+      }
+    ],
+    "relatedIds": [
+      "confit",
+      "roast",
+      "peking-duck"
+    ],
+    "tags": [
+      "鴨肉",
+      "フランス料理",
+      "中華料理",
+      "ロースト",
+      "コンフィ",
+      "脂",
+      "肉"
+    ],
+    "reverseKeywords": [
+      "鴨",
+      "鴨胸肉",
+      "ダックロースト",
+      "鴨コンフィ",
+      "濃い鶏肉"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0
+  },
+  {
+    "id": "turkey",
+    "name": "ターキー",
+    "kana": "たーきー",
+    "englishName": "Turkey",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "アメリカ"
+      },
+      {
+        "area": "ヨーロッパ"
+      }
+    ],
+    "summary": "七面鳥の肉。鶏より大きく、淡白な肉質で、ローストやサンドイッチに使われる。",
+    "menuDescription": "ローストした大きな鳥肉や薄切り肉。赤身はしっかり、胸肉は淡白。",
+    "whatComesOut": [
+      "ローストした鳥肉",
+      "薄切りのサンドイッチ具材",
+      "グレイビーやクランベリーソース"
+    ],
+    "tasteAndTexture": [
+      "淡白",
+      "部位でしっとり感が変わる",
+      "脂は比較的軽い"
+    ],
+    "orderAdvice": "鶏に近いがより大きく食べ応えあり。パサつきやすいのでソース付きが安心。",
+    "similarItems": [
+      {
+        "id": "roast",
+        "name": "ロースト",
+        "difference": "ターキーは食材で、ローストは代表的な調理法"
+      },
+      {
+        "id": "gravy",
+        "name": "グレイビー",
+        "difference": "グレイビーはターキーによく添える肉汁ソース"
+      }
+    ],
+    "relatedIds": [
+      "roast",
+      "gravy",
+      "fry"
+    ],
+    "tags": [
+      "七面鳥",
+      "アメリカ料理",
+      "ロースト",
+      "鳥肉",
+      "サンドイッチ",
+      "淡白",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "七面鳥",
+      "ローストターキー",
+      "感謝祭",
+      "大きな鶏肉",
+      "ターキーサンド"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0
+  },
+  {
+    "id": "veal",
+    "name": "ヴェール",
+    "kana": "ゔぇーる",
+    "englishName": "Veal",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "フランス"
+      },
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "仔牛肉。淡い色で柔らかく、上品な旨みがあり、カツレツや煮込み、ソテーに使う。",
+    "menuDescription": "柔らかい仔牛肉の料理。牛肉より軽く、豚や鶏より上品な旨みを持つ。",
+    "whatComesOut": [
+      "薄切りのカツレツやソテー",
+      "煮込みの柔らかい肉",
+      "淡い色の肉料理"
+    ],
+    "tasteAndTexture": [
+      "柔らかい",
+      "上品で軽い旨み",
+      "脂は控えめ"
+    ],
+    "orderAdvice": "重すぎない肉料理が欲しいときに。仔牛に抵抗がある場合は避ける。",
+    "similarItems": [
+      {
+        "id": "ris-de-veau",
+        "name": "リ・ド・ヴォ",
+        "difference": "リ・ド・ヴォは仔牛の胸腺で、ヴェールは仔牛肉全般"
+      },
+      {
+        "id": "filet-mignon",
+        "name": "フィレ肉",
+        "difference": "フィレ肉は部位名で、ヴェールは動物種"
+      }
+    ],
+    "relatedIds": [
+      "ris-de-veau",
+      "schnitzel",
+      "saute"
+    ],
+    "tags": [
+      "仔牛肉",
+      "フランス料理",
+      "イタリア料理",
+      "柔らかい",
+      "カツレツ",
+      "ソテー",
+      "肉"
+    ],
+    "reverseKeywords": [
+      "仔牛",
+      "柔らかい牛肉",
+      "ヴィール",
+      "仔牛カツレツ",
+      "淡い肉"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0
+  },
+  {
+    "id": "gibier",
+    "name": "ジビエ",
+    "kana": "じびえ",
+    "englishName": "Game meat",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "フランス"
+      },
+      {
+        "area": "ヨーロッパ"
+      }
+    ],
+    "summary": "狩猟で得る野生鳥獣肉。鹿、猪、野鳥などがあり、濃い旨みと野性味が特徴。",
+    "menuDescription": "季節の肉料理として出る野生肉。赤ワインソースやベリー系ソースと合わせることが多い。",
+    "whatComesOut": [
+      "鹿や猪などの肉料理",
+      "濃いソースや煮込み",
+      "季節限定の主菜"
+    ],
+    "tasteAndTexture": [
+      "野性味がある",
+      "赤身の旨みが濃い",
+      "香りが強い"
+    ],
+    "orderAdvice": "肉の個性を楽しみたい人向け。クセが苦手なら避ける。",
+    "similarItems": [
+      {
+        "id": "lamb",
+        "name": "ラム",
+        "difference": "ラムは家畜の羊で、ジビエは野生鳥獣肉全般"
+      },
+      {
+        "id": "duck",
+        "name": "ダック",
+        "difference": "鴨は家禽または野鳥の場合があり、ジビエは野生由来を指す"
+      }
+    ],
+    "relatedIds": [
+      "roast",
+      "braise",
+      "demiglace"
+    ],
+    "tags": [
+      "ジビエ",
+      "野生肉",
+      "フランス料理",
+      "鹿",
+      "猪",
+      "季節料理",
+      "赤ワイン"
+    ],
+    "reverseKeywords": [
+      "鹿肉",
+      "猪肉",
+      "野生の肉",
+      "クセのある肉",
+      "ゲームミート"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 0
+  },
+  {
+    "id": "salmon",
+    "name": "サーモン",
+    "kana": "さーもん",
+    "englishName": "Salmon",
+    "category": "魚介",
+    "regions": [
+      {
+        "area": "北欧"
+      },
+      {
+        "area": "北米"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "脂ののった鮭・サーモン。生食、スモーク、グリル、ポワレなど幅広く使われる。",
+    "menuDescription": "オレンジ色の魚。刺身風、スモーク、焼き物、クリーム系ソースで出る。",
+    "whatComesOut": [
+      "オレンジ色の切り身",
+      "グリルやポワレ",
+      "生またはスモークの前菜"
+    ],
+    "tasteAndTexture": [
+      "脂がありしっとり",
+      "甘い旨み",
+      "加熱でほぐれる"
+    ],
+    "orderAdvice": "魚が苦手でも食べやすい定番。脂が重い場合あり。",
+    "similarItems": [
+      {
+        "id": "smoked_salmon",
+        "name": "スモークサーモン",
+        "difference": "スモークサーモンは燻製加工した料理で、サーモンは食材名"
+      },
+      {
+        "id": "maguro",
+        "name": "マグロ",
+        "difference": "マグロは赤身中心で、サーモンは脂と甘みが強い"
+      }
+    ],
+    "relatedIds": [
+      "smoked_salmon",
+      "poele",
+      "grill"
+    ],
+    "tags": [
+      "魚介",
+      "鮭",
+      "サーモン",
+      "刺身",
+      "グリル",
+      "スモーク",
+      "脂"
+    ],
+    "reverseKeywords": [
+      "オレンジ色の魚",
+      "鮭",
+      "サーモン切り身",
+      "脂のある魚",
+      "スモークサーモン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "maguro",
+    "name": "マグロ",
+    "kana": "まぐろ",
+    "englishName": "Tuna",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "area": "地中海"
+      }
+    ],
+    "summary": "赤身が中心の大型魚。刺身、タルタル、カルパッチョ、グリルに使われる。",
+    "menuDescription": "赤い身の魚。生ならさっぱり、トロなら脂が強く、加熱ではステーキ風にもなる。",
+    "whatComesOut": [
+      "赤い魚の切り身",
+      "刺身風やタルタル",
+      "グリルしたステーキ"
+    ],
+    "tasteAndTexture": [
+      "赤身はさっぱり",
+      "旨みが濃い",
+      "部位で脂が大きく変わる"
+    ],
+    "orderAdvice": "生魚が好きなら安心。脂を求めるならトロ系、軽さなら赤身。",
+    "similarItems": [
+      {
+        "id": "tartar",
+        "name": "タルタル",
+        "difference": "タルタルは刻んだ生食の仕立てで、マグロは素材"
+      },
+      {
+        "id": "carpaccio",
+        "name": "カルパッチョ",
+        "difference": "カルパッチョは薄切りの前菜仕立て"
+      }
+    ],
+    "relatedIds": [
+      "tartar",
+      "carpaccio",
+      "grill"
+    ],
+    "tags": [
+      "魚介",
+      "マグロ",
+      "赤身",
+      "刺身",
+      "タルタル",
+      "カルパッチョ",
+      "寿司"
+    ],
+    "reverseKeywords": [
+      "赤い魚",
+      "ツナ",
+      "まぐろ赤身",
+      "トロ",
+      "マグロステーキ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "octopus",
+    "name": "タコ",
+    "kana": "たこ",
+    "englishName": "Octopus",
+    "category": "魚介",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "弾力のある食感が特徴の頭足類。地中海料理や和食で、茹で、グリル、マリネに使われる。",
+    "menuDescription": "輪切りや足の形で出る魚介。柔らかく煮たり、香ばしく焼いたりする。",
+    "whatComesOut": [
+      "輪切りまたは足の魚介",
+      "マリネやカルパッチョ",
+      "グリルした一皿"
+    ],
+    "tasteAndTexture": [
+      "弾力がある",
+      "噛むほど旨み",
+      "加熱で香ばしい"
+    ],
+    "orderAdvice": "食感を楽しむ魚介。硬さは調理で差が出る。",
+    "similarItems": [
+      {
+        "id": "squid",
+        "name": "イカ",
+        "difference": "イカはより柔らかく甘みがあり、タコは弾力が強い"
+      },
+      {
+        "id": "marine",
+        "name": "マリネ",
+        "difference": "マリネはタコによく使う仕立て"
+      }
+    ],
+    "relatedIds": [
+      "marine",
+      "grill",
+      "carpaccio"
+    ],
+    "tags": [
+      "魚介",
+      "タコ",
+      "地中海料理",
+      "和食",
+      "グリル",
+      "マリネ",
+      "弾力"
+    ],
+    "reverseKeywords": [
+      "蛸",
+      "タコ足",
+      "弾力ある魚介",
+      "タコマリネ",
+      "グリルタコ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "squid",
+    "name": "イカ",
+    "kana": "いか",
+    "englishName": "Squid",
+    "category": "魚介",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "柔らかな身と甘みを持つ頭足類。フリット、グリル、パスタ、刺身に使う。",
+    "menuDescription": "輪切りや細切りで出る白い魚介。揚げ物ではカラマリとして出ることもある。",
+    "whatComesOut": [
+      "白い輪切りや細切り",
+      "フリットやグリル",
+      "パスタや前菜の具"
+    ],
+    "tasteAndTexture": [
+      "柔らかい弾力",
+      "軽い甘み",
+      "加熱しすぎると硬い"
+    ],
+    "orderAdvice": "軽い魚介料理として選びやすい。揚げ物なら食べ応えあり。",
+    "similarItems": [
+      {
+        "id": "octopus",
+        "name": "タコ",
+        "difference": "タコは弾力が強く、イカは柔らかい甘みがある"
+      },
+      {
+        "id": "fritto",
+        "name": "フリット",
+        "difference": "フリットはイカによく使う揚げ物技法"
+      }
+    ],
+    "relatedIds": [
+      "fritto",
+      "grill",
+      "marine"
+    ],
+    "tags": [
+      "魚介",
+      "イカ",
+      "カラマリ",
+      "フリット",
+      "パスタ",
+      "地中海料理",
+      "和食"
+    ],
+    "reverseKeywords": [
+      "烏賊",
+      "カラマリ",
+      "白い魚介",
+      "イカフライ",
+      "イカリング"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "mussel",
+    "name": "ムール貝",
+    "kana": "むーるがい",
+    "englishName": "Mussel",
+    "category": "魚介",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "country": "ベルギー"
+      }
+    ],
+    "summary": "黒い殻を持つ二枚貝。白ワイン蒸し、パスタ、スープ、ブイヤベースに使う。",
+    "menuDescription": "殻付きで出ることが多い貝。白ワインやにんにく、ハーブの香りと合う。",
+    "whatComesOut": [
+      "黒い殻付きの貝",
+      "白ワイン蒸しやスープ",
+      "貝のだしを含むソース"
+    ],
+    "tasteAndTexture": [
+      "磯の旨み",
+      "身は柔らかい",
+      "だしが濃い"
+    ],
+    "orderAdvice": "貝の旨みが好きなら良い。殻付きなので手間は少しある。",
+    "similarItems": [
+      {
+        "id": "bouillabaisse",
+        "name": "ブイヤベース",
+        "difference": "ブイヤベースは魚介スープ料理で、ムール貝は素材の一つ"
+      },
+      {
+        "id": "scallop",
+        "name": "ホタテ",
+        "difference": "ホタテは甘みと厚い貝柱、ムール貝は磯の旨みが強い"
+      }
+    ],
+    "relatedIds": [
+      "bouillabaisse",
+      "sauce-vin-blanc",
+      "pochee"
+    ],
+    "tags": [
+      "魚介",
+      "貝",
+      "ムール貝",
+      "白ワイン",
+      "地中海料理",
+      "ベルギー料理",
+      "スープ"
+    ],
+    "reverseKeywords": [
+      "黒い貝",
+      "白ワイン蒸し",
+      "ムール貝の鍋",
+      "貝のだし",
+      "ムールフリット"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "scallop",
+    "name": "ホタテ",
+    "kana": "ほたて",
+    "englishName": "Scallop",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "area": "北米"
+      },
+      {
+        "area": "ヨーロッパ"
+      }
+    ],
+    "summary": "甘みの強い貝柱が特徴の二枚貝。刺身、ソテー、グリル、クリームソースに使う。",
+    "menuDescription": "丸い白い貝柱として出ることが多い。表面を焼くと香ばしく、中は甘い。",
+    "whatComesOut": [
+      "丸い白い貝柱",
+      "ソテーやグリル",
+      "クリーム系ソースの魚介"
+    ],
+    "tasteAndTexture": [
+      "甘い",
+      "柔らかい弾力",
+      "焼くと香ばしい"
+    ],
+    "orderAdvice": "上品な魚介が欲しいときに。火入れが軽いほど甘みが出る。",
+    "similarItems": [
+      {
+        "id": "mussel",
+        "name": "ムール貝",
+        "difference": "ムール貝は殻付きで磯の旨み、ホタテは貝柱の甘みが中心"
+      },
+      {
+        "id": "poele",
+        "name": "ポワレ",
+        "difference": "ポワレはホタテによく使う焼き技法"
+      }
+    ],
+    "relatedIds": [
+      "poele",
+      "sauce-vin-blanc",
+      "carpaccio"
+    ],
+    "tags": [
+      "魚介",
+      "貝柱",
+      "ホタテ",
+      "ソテー",
+      "グリル",
+      "甘い",
+      "フランス料理"
+    ],
+    "reverseKeywords": [
+      "帆立",
+      "貝柱",
+      "甘い貝",
+      "ホタテソテー",
+      "白い丸い魚介"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "anchovy",
+    "name": "アンチョビ",
+    "kana": "あんちょび",
+    "englishName": "Anchovy",
+    "category": "魚介",
+    "regions": [
+      {
+        "area": "地中海"
+      }
+    ],
+    "summary": "カタクチイワシを塩漬け・発酵させた食材。強い塩気と旨みでソースやピザ、サラダに使う。",
+    "menuDescription": "小さな魚の塩漬け。料理に溶けて旨みを加えることも、フィレで乗ることもある。",
+    "whatComesOut": [
+      "塩漬け魚のフィレ",
+      "ソースに溶け込んだ旨み",
+      "ピザやサラダのトッピング"
+    ],
+    "tasteAndTexture": [
+      "塩気が強い",
+      "発酵した魚の旨み",
+      "少量で味が強い"
+    ],
+    "orderAdvice": "魚介の香りと塩気が好きなら良い。苦手なら抜けるか確認。",
+    "similarItems": [
+      {
+        "id": "caesar-dressing",
+        "name": "シーザードレッシング",
+        "difference": "シーザードレッシングにはアンチョビの旨みを使うことが多い"
+      },
+      {
+        "id": "nam-pla",
+        "name": "ナンプラー",
+        "difference": "ナンプラーは液体魚醤、アンチョビは塩漬け魚"
+      }
+    ],
+    "relatedIds": [
+      "caesar-dressing",
+      "salsa_verde",
+      "tapenade"
+    ],
+    "tags": [
+      "魚介",
+      "塩漬け",
+      "イタリア料理",
+      "地中海",
+      "旨み",
+      "ピザ",
+      "ソース"
+    ],
+    "reverseKeywords": [
+      "塩辛い魚",
+      "アンチョビフィレ",
+      "ピザの魚",
+      "魚の旨み",
+      "シーザーの隠し味"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "caviar",
+    "name": "キャビア",
+    "kana": "きゃびあ",
+    "englishName": "Caviar",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "ロシア"
+      },
+      {
+        "country": "イラン"
+      },
+      {
+        "area": "ヨーロッパ"
+      }
+    ],
+    "summary": "チョウザメの卵を塩漬けした高級食材。小粒の食感と磯の香り、塩気を楽しむ。",
+    "menuDescription": "前菜やカナッペに少量添えられる黒い粒。クリームや卵料理と合わせることが多い。",
+    "whatComesOut": [
+      "黒い小粒の魚卵",
+      "カナッペや前菜",
+      "クリームやブリニの添え物"
+    ],
+    "tasteAndTexture": [
+      "ぷちっとした粒感",
+      "強い塩気",
+      "磯の香りと旨み"
+    ],
+    "orderAdvice": "高級感ある前菜向け。塩気と魚卵感が苦手なら避ける。",
+    "caution": "魚卵。塩気が強い。",
+    "similarItems": [
+      {
+        "id": "bottarga",
+        "name": "ボッタルガ",
+        "difference": "ボッタルガは魚卵を乾燥させた食材で、キャビアは塩漬けの粒を楽しむ"
+      },
+      {
+        "id": "smoked_salmon",
+        "name": "スモークサーモン",
+        "difference": "どちらも前菜で出るが、キャビアは魚卵の高級食材"
+      }
+    ],
+    "relatedIds": [
+      "bottarga",
+      "smoked_salmon",
+      "creme-brulee"
+    ],
+    "tags": [
+      "魚卵",
+      "高級食材",
+      "前菜",
+      "塩気",
+      "ロシア料理",
+      "カナッペ",
+      "チョウザメ"
+    ],
+    "reverseKeywords": [
+      "黒い魚卵",
+      "高級魚卵",
+      "キャビア添え",
+      "粒々の前菜",
+      "ブリニ"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "quinoa",
+    "name": "キヌア",
+    "kana": "きぬあ",
+    "englishName": "Quinoa",
+    "category": "食材",
+    "regions": [
+      {
+        "area": "南米"
+      }
+    ],
+    "summary": "南米原産の小さな疑似穀物。ぷちぷちした食感で、サラダや付け合わせに使う。",
+    "menuDescription": "穀物のように炊いて出る小粒食材。サラダやボウル料理で軽い主食代わりになる。",
+    "whatComesOut": [
+      "小さな粒状の付け合わせ",
+      "サラダやボウルのベース",
+      "野菜や豆との混ぜ物"
+    ],
+    "tasteAndTexture": [
+      "ぷちぷち",
+      "軽い香ばしさ",
+      "あっさり"
+    ],
+    "orderAdvice": "軽い主食やサラダ感が欲しいときに。米より軽い印象。",
+    "similarItems": [
+      {
+        "id": "couscous",
+        "name": "クスクス",
+        "difference": "クスクスは小麦粉粒で、キヌアは南米原産の疑似穀物"
+      },
+      {
+        "id": "bulgur",
+        "name": "ブルグル",
+        "difference": "ブルグルは挽き割り小麦で、キヌアはぷちぷち感が強い"
+      }
+    ],
+    "relatedIds": [
+      "couscous",
+      "bulgur",
+      "taboule"
+    ],
+    "tags": [
+      "疑似穀物",
+      "南米",
+      "サラダ",
+      "グルテンフリー",
+      "付け合わせ",
+      "ヘルシー",
+      "粒"
+    ],
+    "reverseKeywords": [
+      "小粒の穀物",
+      "キノア",
+      "サラダの粒",
+      "ヘルシー主食",
+      "ぷちぷち"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "polenta",
+    "name": "ポレンタ",
+    "kana": "ぽれんた",
+    "englishName": "Polenta",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "とうもろこし粉を煮て作るイタリアの主食・付け合わせ。柔らかい粥状や焼き固めで出る。",
+    "menuDescription": "肉の煮込みやソースの下に敷かれる黄色い付け合わせ。クリーミーまたは焼き目付き。",
+    "whatComesOut": [
+      "黄色い粥状の付け合わせ",
+      "焼き固めた四角い切り身",
+      "肉やソースの土台"
+    ],
+    "tasteAndTexture": [
+      "とうもろこしの甘み",
+      "クリーミー",
+      "焼くと香ばしい"
+    ],
+    "orderAdvice": "肉の煮込みや濃いソースと相性良い。主食代わりとして見る。",
+    "similarItems": [
+      {
+        "id": "risotto",
+        "name": "リゾット",
+        "difference": "リゾットは米料理で、ポレンタはとうもろこし粉"
+      },
+      {
+        "id": "couscous",
+        "name": "クスクス",
+        "difference": "クスクスは粒状、ポレンタは粥状または固めた形"
+      }
+    ],
+    "relatedIds": [
+      "ragu",
+      "braise",
+      "demiglace"
+    ],
+    "tags": [
+      "イタリア料理",
+      "とうもろこし",
+      "付け合わせ",
+      "主食",
+      "煮込み",
+      "クリーミー",
+      "黄色"
+    ],
+    "reverseKeywords": [
+      "黄色い付け合わせ",
+      "とうもろこし粥",
+      "肉料理の土台",
+      "ポレンタ添え",
+      "北イタリア"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "chickpea",
+    "name": "ひよこ豆",
+    "kana": "ひよこまめ",
+    "englishName": "Chickpea",
+    "category": "食材",
+    "regions": [
+      {
+        "area": "中東"
+      },
+      {
+        "area": "地中海"
+      },
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "ほくほくした食感と豆の甘みを持つ豆。フムス、ファラフェル、カレー、サラダに使う。",
+    "menuDescription": "丸い淡黄色の豆。ペースト、揚げ団子、煮込み、サラダで出る。",
+    "whatComesOut": [
+      "丸い淡黄色の豆",
+      "ペーストや煮込み",
+      "サラダやカレーの具"
+    ],
+    "tasteAndTexture": [
+      "ほくほく",
+      "豆の甘み",
+      "腹持ちがよい"
+    ],
+    "orderAdvice": "植物性で満足感が欲しいときに。豆が苦手なら避ける。",
+    "similarItems": [
+      {
+        "id": "hummus",
+        "name": "フムス",
+        "difference": "フムスはひよこ豆のペースト料理で、ひよこ豆は食材"
+      },
+      {
+        "id": "falafel",
+        "name": "ファラフェル",
+        "difference": "ファラフェルはひよこ豆を使う揚げ団子"
+      }
+    ],
+    "relatedIds": [
+      "hummus",
+      "falafel",
+      "dal"
+    ],
+    "tags": [
+      "豆",
+      "中東料理",
+      "地中海料理",
+      "インド料理",
+      "フムス",
+      "サラダ",
+      "植物性"
+    ],
+    "reverseKeywords": [
+      "ガルバンゾー",
+      "ひよこ豆サラダ",
+      "豆のペースト",
+      "フムス材料",
+      "ほくほく豆"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "white-bean",
+    "name": "白いんげん豆",
+    "kana": "しろいんげんまめ",
+    "englishName": "White bean",
+    "category": "食材",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "country": "フランス"
+      },
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "白く大きめのいんげん豆。煮込み、スープ、サラダ、ペーストに使われる。",
+    "menuDescription": "白い豆の煮込みや付け合わせ。肉料理やトマト煮込みに入ることが多い。",
+    "whatComesOut": [
+      "白い豆の煮込み",
+      "スープやサラダの具",
+      "肉料理の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "ほくほく",
+      "やさしい甘み",
+      "煮るとクリーミー"
+    ],
+    "orderAdvice": "やさしい豆料理が欲しいときに。腹持ちは良い。",
+    "similarItems": [
+      {
+        "id": "lentilles",
+        "name": "レンズ豆",
+        "difference": "レンズ豆は小さく火通りが早いが、白いんげん豆は大きくクリーミー"
+      },
+      {
+        "id": "chickpea",
+        "name": "ひよこ豆",
+        "difference": "ひよこ豆は丸くほくほく、白いんげん豆はよりなめらか"
+      }
+    ],
+    "relatedIds": [
+      "cassoulet",
+      "minestrone",
+      "lentilles"
+    ],
+    "tags": [
+      "豆",
+      "白いんげん豆",
+      "煮込み",
+      "スープ",
+      "地中海料理",
+      "フランス料理",
+      "イタリア料理"
+    ],
+    "reverseKeywords": [
+      "白豆",
+      "白い豆",
+      "カスレの豆",
+      "豆の煮込み",
+      "クリーミーな豆"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "butter-chicken-curry",
+    "name": "バターチキンカレー",
+    "kana": "ばたーちきんかれー",
+    "englishName": "Butter chicken curry",
+    "originalName": "Murgh makhani",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "トマト、バター、クリームを使う北インド系の鶏カレー。まろやかで甘みとコクが強い。",
+    "menuDescription": "赤橙色のクリーミーなチキンカレー。ナンやライスと一緒に出ることが多い。",
+    "whatComesOut": [
+      "鶏肉入りの濃厚なカレー",
+      "ナンまたはライス",
+      "バターやクリームの香り"
+    ],
+    "tasteAndTexture": [
+      "まろやか",
+      "トマトの酸味と甘み",
+      "スパイスは穏やかめ"
+    ],
+    "orderAdvice": "辛いカレーが苦手でも選びやすい。乳製品が多いので重さはある。",
+    "similarItems": [
+      {
+        "id": "tandoori",
+        "name": "タンドリーチキン",
+        "difference": "タンドリーチキンは焼いた鶏料理で、バターチキンはソースで煮込むカレー"
+      },
+      {
+        "id": "dal",
+        "name": "ダル",
+        "difference": "ダルは豆カレーで、バターチキンは鶏肉と乳製品のコクが中心"
+      }
+    ],
+    "relatedIds": [
+      "tandoori",
+      "dal",
+      "raita"
+    ],
+    "tags": [
+      "インド料理",
+      "カレー",
+      "鶏肉",
+      "バター",
+      "クリーム",
+      "トマト",
+      "ナン"
+    ],
+    "reverseKeywords": [
+      "甘いカレー",
+      "辛くないカレー",
+      "チキンカレー",
+      "ナンに合う",
+      "濃厚インドカレー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 2
+  },
+  {
+    "id": "green-curry",
+    "name": "グリーンカレー",
+    "kana": "ぐりーんかれー",
+    "englishName": "Green curry",
+    "originalName": "แกงเขียวหวาน",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "青唐辛子、ハーブ、ココナッツミルクで作るタイのカレー。甘み、辛味、香りが強い。",
+    "menuDescription": "緑色のさらっとしたカレー。鶏肉、なす、たけのこ、ハーブが入り、ライスと食べる。",
+    "whatComesOut": [
+      "緑色のカレーソース",
+      "肉や野菜の具",
+      "ジャスミンライス"
+    ],
+    "tasteAndTexture": [
+      "ココナッツの甘み",
+      "強い辛味",
+      "ハーブの香り"
+    ],
+    "orderAdvice": "タイ料理らしい香りと辛さを楽しみたいときに。辛さは強め。",
+    "similarItems": [
+      {
+        "id": "laksa",
+        "name": "ラクサ",
+        "difference": "ラクサもココナッツ系だが麺料理で、グリーンカレーはライスと食べるカレー"
+      },
+      {
+        "id": "gapao",
+        "name": "ガパオ",
+        "difference": "ガパオは炒め物で、グリーンカレーは汁気のあるカレー"
+      }
+    ],
+    "relatedIds": [
+      "laksa",
+      "gapao",
+      "pakuchi"
+    ],
+    "tags": [
+      "タイ料理",
+      "カレー",
+      "ココナッツミルク",
+      "青唐辛子",
+      "ハーブ",
+      "辛い",
+      "ライス"
+    ],
+    "reverseKeywords": [
+      "緑のカレー",
+      "タイカレー",
+      "ココナッツカレー",
+      "辛いカレー",
+      "グリーンチリ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 4
+  },
+  {
+    "id": "tom-yum-goong",
+    "name": "トムヤムクン",
+    "kana": "とむやむくん",
+    "englishName": "Tom yum goong",
+    "originalName": "ต้มยำกุ้ง",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "海老、レモングラス、こぶみかん、唐辛子、ナンプラーで作るタイの酸っぱく辛いスープ。",
+    "menuDescription": "赤みのある酸辛スープ。海老とハーブの香りが強く、前菜やスープとして出る。",
+    "whatComesOut": [
+      "海老入りのスープ",
+      "レモングラスやハーブ",
+      "赤い油や唐辛子"
+    ],
+    "tasteAndTexture": [
+      "酸っぱい",
+      "辛い",
+      "海老の旨みとハーブ香"
+    ],
+    "orderAdvice": "酸味と辛味が好きなら定番。辛さとハーブ感が強い。",
+    "similarItems": [
+      {
+        "id": "laksa",
+        "name": "ラクサ",
+        "difference": "ラクサはココナッツ麺料理で、トムヤムクンは酸辛い海老スープ"
+      },
+      {
+        "id": "nam-pla",
+        "name": "ナンプラー",
+        "difference": "ナンプラーは味付けに使う魚醤"
+      }
+    ],
+    "relatedIds": [
+      "nam-pla",
+      "pakuchi",
+      "sambal"
+    ],
+    "tags": [
+      "タイ料理",
+      "スープ",
+      "海老",
+      "酸味",
+      "辛味",
+      "ハーブ",
+      "レモングラス"
+    ],
+    "reverseKeywords": [
+      "酸っぱい辛いスープ",
+      "タイの海老スープ",
+      "トムヤム",
+      "レモングラス",
+      "酸辣スープ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 4
+  },
+  {
+    "id": "bun-cha",
+    "name": "ブンチャー",
+    "kana": "ぶんちゃー",
+    "englishName": "Bun cha",
+    "originalName": "Bún chả",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      },
+      {
+        "locality": "ハノイ"
+      }
+    ],
+    "summary": "焼いた豚肉と米麺を、甘酸っぱいつけだれとハーブで食べるベトナム・ハノイの料理。",
+    "menuDescription": "米麺、焼き豚、野菜、ハーブ、つけだれが別々に出ることが多い。",
+    "whatComesOut": [
+      "米麺のブン",
+      "炭火焼き風の豚肉",
+      "甘酸っぱいつけだれとハーブ"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい",
+      "焼き肉の香ばしさ",
+      "ハーブで爽やか"
+    ],
+    "orderAdvice": "ベトナム料理で軽さと肉の満足感を両方欲しいときに。",
+    "similarItems": [
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーは汁麺、ブンチャーはつけ麺風で焼き豚を合わせる"
+      },
+      {
+        "id": "banhmi",
+        "name": "バインミー",
+        "difference": "バインミーはサンドイッチで、ブンチャーは米麺料理"
+      }
+    ],
+    "relatedIds": [
+      "pho",
+      "banhmi",
+      "nam-pla"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "米麺",
+      "豚肉",
+      "ハーブ",
+      "つけだれ",
+      "ハノイ",
+      "甘酸っぱい"
+    ],
+    "reverseKeywords": [
+      "ベトナムつけ麺",
+      "焼き豚と米麺",
+      "ハノイ名物",
+      "ブン料理",
+      "甘酸っぱいタレ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1
+  },
+  {
+    "id": "caprese",
+    "name": "カプレーゼ",
+    "kana": "かぷれーぜ",
+    "englishName": "Caprese",
+    "originalName": "Insalata Caprese",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      },
+      {
+        "locality": "カプリ"
+      }
+    ],
+    "summary": "トマト、モッツァレラ、バジルを重ね、オリーブオイルで仕上げるイタリアの前菜。",
+    "menuDescription": "赤白緑のシンプルな前菜。チーズのミルキーさとトマトの酸味、バジルの香りを楽しむ。",
+    "whatComesOut": [
+      "トマトとモッツァレラのスライス",
+      "バジルの葉",
+      "オリーブオイルや塩"
+    ],
+    "tasteAndTexture": [
+      "フレッシュ",
+      "ミルキー",
+      "酸味と香りが軽い"
+    ],
+    "orderAdvice": "軽い前菜として安心。素材の質が味を大きく左右する。",
+    "similarItems": [
+      {
+        "id": "mozzarella",
+        "name": "モッツァレラ",
+        "difference": "モッツァレラはチーズ単体で、カプレーゼはトマトとバジルを合わせる前菜"
+      },
+      {
+        "id": "bruschetta",
+        "name": "ブルスケッタ",
+        "difference": "ブルスケッタはパンに具をのせる前菜"
+      }
+    ],
+    "relatedIds": [
+      "mozzarella",
+      "basil",
+      "balsamic"
+    ],
+    "tags": [
+      "イタリア料理",
+      "前菜",
+      "トマト",
+      "モッツァレラ",
+      "バジル",
+      "サラダ",
+      "軽い"
+    ],
+    "reverseKeywords": [
+      "トマトとモッツァレラ",
+      "赤白緑の前菜",
+      "カプリ風サラダ",
+      "バジルチーズ",
+      "イタリア前菜"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0
+  },
+  {
+    "id": "crepe",
+    "name": "クレープ",
+    "kana": "くれーぷ",
+    "englishName": "Crêpe",
+    "originalName": "Crêpe",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "小麦粉生地を薄く焼いたフランスの料理。甘いデザートにも、具を包む食事系にもなる。",
+    "menuDescription": "薄い生地で果物、クリーム、チョコ、チーズ、ハムなどを包む料理。",
+    "whatComesOut": [
+      "薄く焼いた生地",
+      "甘いまたは塩味の具",
+      "折りたたみや巻いた形"
+    ],
+    "tasteAndTexture": [
+      "もちっと薄い",
+      "具で味が変わる",
+      "甘いものは軽いデザート感"
+    ],
+    "orderAdvice": "デザートにも軽食にもなる。甘いか食事系か確認。",
+    "similarItems": [
+      {
+        "id": "galette",
+        "name": "ガレット",
+        "difference": "ガレットはそば粉を使う塩味系が多く、クレープは小麦粉で甘いものも多い"
+      },
+      {
+        "id": "panna-cotta",
+        "name": "パンナコッタ",
+        "difference": "パンナコッタは冷たいクリームデザートで、クレープは焼き生地"
+      }
+    ],
+    "relatedIds": [
+      "galette",
+      "creme-brulee",
+      "confiture"
+    ],
+    "tags": [
+      "フランス料理",
+      "デザート",
+      "薄焼き生地",
+      "軽食",
+      "クリーム",
+      "果物",
+      "屋台"
+    ],
+    "reverseKeywords": [
+      "薄いパンケーキ",
+      "甘い包み菓子",
+      "フランスのデザート",
+      "クレープ生地",
+      "チョコバナナ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0
+  },
+  {
+    "id": "piroshki",
+    "name": "ピロシキ",
+    "kana": "ぴろしき",
+    "englishName": "Pirozhki",
+    "originalName": "Пирожки",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ロシア"
+      }
+    ],
+    "summary": "肉、野菜、卵などの具をパン生地で包み、焼くまたは揚げるロシアの惣菜パン。",
+    "menuDescription": "小型の包みパン。中に挽き肉、キャベツ、じゃがいもなどの具が入る。",
+    "whatComesOut": [
+      "具入りの小さなパン",
+      "揚げまたは焼き生地",
+      "肉や野菜のフィリング"
+    ],
+    "tasteAndTexture": [
+      "外はふかふかまたはカリッと",
+      "中は旨みのある具",
+      "食べ応えがある"
+    ],
+    "orderAdvice": "軽食や前菜として便利。揚げタイプはやや重い。",
+    "similarItems": [
+      {
+        "id": "pierogi",
+        "name": "ピエロギ",
+        "difference": "ピエロギは茹でる東欧の餃子状料理で、ピロシキはパン生地で包む"
+      },
+      {
+        "id": "baozi",
+        "name": "包子",
+        "difference": "包子は蒸す中華まんで、ピロシキは焼きまたは揚げが多い"
+      }
+    ],
+    "relatedIds": [
+      "pierogi",
+      "borscht",
+      "baozi"
+    ],
+    "tags": [
+      "ロシア料理",
+      "惣菜パン",
+      "挽き肉",
+      "揚げ物",
+      "軽食",
+      "包み料理",
+      "東欧"
+    ],
+    "reverseKeywords": [
+      "ロシアの揚げパン",
+      "具入りパン",
+      "惣菜パン",
+      "ピロシキ屋",
+      "肉入りパン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0
+  },
+  {
+    "id": "enchilada",
+    "name": "エンチラーダ",
+    "kana": "えんちらーだ",
+    "englishName": "Enchilada",
+    "originalName": "Enchilada",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "トルティーヤで肉や豆を巻き、チリソースとチーズをかけて焼くメキシコ料理。",
+    "menuDescription": "赤または緑のソースをまとったトルティーヤロール。中に肉、豆、チーズが入る。",
+    "whatComesOut": [
+      "ソースのかかったトルティーヤ巻き",
+      "チーズやクリーム",
+      "豆やライスの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "チリソースの辛味",
+      "チーズのコク",
+      "中身は柔らかい"
+    ],
+    "orderAdvice": "タコスよりソース感とボリュームが欲しいときに。辛さは確認。",
+    "similarItems": [
+      {
+        "id": "tacos",
+        "name": "タコス",
+        "difference": "タコスは具を挟んで手で食べるが、エンチラーダは巻いてソースをかけて焼く"
+      },
+      {
+        "id": "quesadilla",
+        "name": "ケサディーヤ",
+        "difference": "ケサディーヤはチーズ入りトルティーヤを焼く料理で、エンチラーダはソースで覆う"
+      }
+    ],
+    "relatedIds": [
+      "tacos",
+      "quesadilla",
+      "gochujang"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "トルティーヤ",
+      "チリソース",
+      "チーズ",
+      "肉",
+      "豆",
+      "焼き料理"
+    ],
+    "reverseKeywords": [
+      "ソースがかかったタコス",
+      "メキシコの巻き料理",
+      "チーズ焼きトルティーヤ",
+      "赤いソース",
+      "辛いトルティーヤ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 3
+  },
+  {
+    "id": "nachos",
+    "name": "ナチョス",
+    "kana": "なちょす",
+    "englishName": "Nachos",
+    "originalName": "Nachos",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      },
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "トルティーヤチップスにチーズ、サルサ、肉、豆、ハラペーニョなどをのせる料理。",
+    "menuDescription": "チップスに具材とチーズをのせたシェア向けの一皿。バー料理としても定番。",
+    "whatComesOut": [
+      "トルティーヤチップス",
+      "溶けたチーズやサルサ",
+      "肉、豆、アボカドなどのトッピング"
+    ],
+    "tasteAndTexture": [
+      "カリカリ",
+      "チーズのコク",
+      "トッピングで辛味や酸味"
+    ],
+    "orderAdvice": "シェア前菜に向く。冷めるとチップスが湿りやすい。",
+    "similarItems": [
+      {
+        "id": "tacos",
+        "name": "タコス",
+        "difference": "タコスはトルティーヤに具を挟む主食寄り、ナチョスはチップスに具をのせる"
+      },
+      {
+        "id": "guacamole",
+        "name": "ワカモレ",
+        "difference": "ワカモレはナチョスに添えることが多いアボカドディップ"
+      }
+    ],
+    "relatedIds": [
+      "tacos",
+      "guacamole",
+      "quesadilla"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "アメリカ料理",
+      "チップス",
+      "チーズ",
+      "サルサ",
+      "シェア",
+      "前菜"
+    ],
+    "reverseKeywords": [
+      "チーズチップス",
+      "トルティーヤチップス",
+      "メキシカン前菜",
+      "バーのつまみ",
+      "サルサチップス"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 2
+  },
+  {
+    "id": "hamburger",
+    "name": "ハンバーガー",
+    "kana": "はんばーがー",
+    "englishName": "Hamburger",
+    "originalName": "Hamburger",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "パンにビーフパティや野菜、ソースを挟むアメリカ発祥の料理。具材で幅広く変化する。",
+    "menuDescription": "バンズに肉、レタス、トマト、チーズ、ソースを挟んだ料理。フライドポテトが添えられることも多い。",
+    "whatComesOut": [
+      "バンズに挟んだ肉料理",
+      "野菜やチーズ、ソース",
+      "ポテトなどの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "肉の旨み",
+      "パンの甘み",
+      "ソースと具材で味が変わる"
+    ],
+    "orderAdvice": "満足感ある定番。肉の焼き加減やサイズで重さが変わる。",
+    "similarItems": [
+      {
+        "id": "hot-dog",
+        "name": "ホットドッグ",
+        "difference": "ホットドッグはソーセージを細長いパンに挟む"
+      },
+      {
+        "id": "meatloaf",
+        "name": "ミートローフ",
+        "difference": "ミートローフは挽き肉を型焼きにする料理"
+      }
+    ],
+    "relatedIds": [
+      "ketchup",
+      "mustard",
+      "fry"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "ファストフード",
+      "牛肉",
+      "パン",
+      "チーズ",
+      "ソース",
+      "肉料理"
+    ],
+    "reverseKeywords": [
+      "バーガー",
+      "ビーフパティ",
+      "バンズ",
+      "チーズバーガー",
+      "ポテト付き"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 5,
+    "spicinessScore": 0
+  },
+  {
+    "id": "hot-dog",
+    "name": "ホットドッグ",
+    "kana": "ほっとどっぐ",
+    "englishName": "Hot dog",
+    "originalName": "Hot dog",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "細長いパンにソーセージを挟み、ケチャップやマスタードをかける軽食。",
+    "menuDescription": "ソーセージ入りのパン。玉ねぎ、ピクルス、チリ、チーズなどをのせることもある。",
+    "whatComesOut": [
+      "細長いパンとソーセージ",
+      "ケチャップやマスタード",
+      "軽い付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "ソーセージの塩気",
+      "パンの柔らかさ",
+      "ソースで甘酸っぱさや辛味"
+    ],
+    "orderAdvice": "軽食向け。ソーセージの塩気が強いことが多い。",
+    "similarItems": [
+      {
+        "id": "hamburger",
+        "name": "ハンバーガー",
+        "difference": "ハンバーガーはパティを丸いバンズに挟むが、ホットドッグはソーセージを挟む"
+      },
+      {
+        "id": "mustard",
+        "name": "マスタード",
+        "difference": "マスタードは定番の調味料"
+      }
+    ],
+    "relatedIds": [
+      "ketchup",
+      "mustard",
+      "chorizo"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "ソーセージ",
+      "パン",
+      "軽食",
+      "ケチャップ",
+      "マスタード",
+      "屋台"
+    ],
+    "reverseKeywords": [
+      "ソーセージパン",
+      "アメリカ軽食",
+      "細長いパン",
+      "マスタード付き",
+      "球場グルメ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 1
+  },
+  {
+    "id": "meatloaf",
+    "name": "ミートローフ",
+    "kana": "みーとろーふ",
+    "englishName": "Meatloaf",
+    "originalName": "Meatloaf",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      },
+      {
+        "area": "ヨーロッパ"
+      }
+    ],
+    "summary": "挽き肉にパン粉や卵、香味野菜を混ぜ、型に入れて焼く家庭料理。",
+    "menuDescription": "厚切りにした挽き肉の焼き料理。グレイビーやケチャップ系ソースを添える。",
+    "whatComesOut": [
+      "厚切りの挽き肉料理",
+      "グレイビーやトマト系ソース",
+      "マッシュポテトなどの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "肉の旨みがしっかり",
+      "柔らかく詰まった食感",
+      "ソースで甘みやコクが出る"
+    ],
+    "orderAdvice": "家庭的で食べ応えある肉料理が欲しいときに。軽さは少ない。",
+    "similarItems": [
+      {
+        "id": "hamburger",
+        "name": "ハンバーガー",
+        "difference": "どちらも挽き肉だが、ハンバーガーはパティをパンに挟み、ミートローフは型焼きにする"
+      },
+      {
+        "id": "gravy",
+        "name": "グレイビー",
+        "difference": "グレイビーはミートローフに添えることが多い肉汁ソース"
+      }
+    ],
+    "relatedIds": [
+      "gravy",
+      "ketchup",
+      "roast"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "挽き肉",
+      "家庭料理",
+      "オーブン",
+      "肉料理",
+      "グレイビー",
+      "ケチャップ"
+    ],
+    "reverseKeywords": [
+      "挽き肉の型焼き",
+      "アメリカ家庭料理",
+      "肉のローフ",
+      "厚切りハンバーグ風",
+      "グレイビー付き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 5,
+    "spicinessScore": 0
   }
 ]
