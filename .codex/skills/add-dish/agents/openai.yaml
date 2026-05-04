@@ -1,0 +1,7 @@
+interface:
+  display_name: "Add Dish"
+  short_description: "rdishの料理データを1件追加する"
+  default_prompt: "Use $add-dish to add a new dish entry to rdish."
+
+policy:
+  allow_implicit_invocation: true
