@@ -4,11 +4,18 @@ import { Breadcrumb } from "../../components/elements/Breadcrumb"
 
 export const metadata: Metadata = {
   title: "RDishについて",
-  description: "RDishは、メニューで見かけた料理名をその場でさっと調べられる、飾らない料理図鑑です。",
+  description:
+    "RDishは、メニューで見かけた料理名をその場でさっと調べられる、飾らない料理図鑑です。",
   alternates: { canonical: "/about/" },
 }
 
-const Section = ({ title, children }: { title: string; children: React.ReactNode }) => (
+const Section = ({
+  title,
+  children,
+}: {
+  title: string
+  children: React.ReactNode
+}) => (
   <section style={{ marginBottom: "2rem" }}>
     <h2
       style={{
@@ -36,8 +43,11 @@ const orgJsonLd = {
 
 export default function AboutPage() {
   return (
-    <div style={{ maxWidth: "36rem" }}>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }} />
+    <div>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }}
+      />
       <Breadcrumb items={[{ label: "about" }]} />
       <div style={{ marginBottom: "2.5rem" }}>
         <h1
@@ -48,13 +58,22 @@ export default function AboutPage() {
             lineHeight: 1.3,
           }}
         >
-          いつでも聞ける、<br />飾らない料理図鑑。
+          いつでも聞ける、
+          <br />
+          飾らない料理図鑑。
         </h1>
         <p style={{ color: "#a89080", fontSize: "0.875rem" }}>RDish について</p>
       </div>
 
       <Section title="つくった理由">
-        <p style={{ fontSize: "0.95rem", lineHeight: 1.8, color: "#5a3e2b", marginBottom: "0.75rem" }}>
+        <p
+          style={{
+            fontSize: "0.95rem",
+            lineHeight: 1.8,
+            color: "#5a3e2b",
+            marginBottom: "0.75rem",
+          }}
+        >
           レストランのメニューに知らない料理名が並んでいても、
           となりの人に聞くのはちょっと恥ずかしい。
           スマホで調べると長い解説が出てきて、結局よくわからない。
@@ -66,7 +85,15 @@ export default function AboutPage() {
       </Section>
 
       <Section title="こんな人に">
-        <ul style={{ listStyle: "none", padding: 0, display: "flex", flexDirection: "column", gap: "0.625rem" }}>
+        <ul
+          style={{
+            listStyle: "none",
+            padding: 0,
+            display: "flex",
+            flexDirection: "column",
+            gap: "0.625rem",
+          }}
+        >
           {[
             "メニューの料理名が読めなくて困ったことがある",
             "頼んだら想像と全然違うものが来た経験がある",
@@ -92,7 +119,9 @@ export default function AboutPage() {
       </Section>
 
       <Section title="できること">
-        <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+        <div
+          style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}
+        >
           {[
             {
               label: "料理名から検索",
@@ -123,10 +152,25 @@ export default function AboutPage() {
                 display: "block",
               }}
             >
-              <p style={{ fontWeight: 700, fontSize: "0.95rem", marginBottom: "0.25rem", color: "#b45309" }}>
+              <p
+                style={{
+                  fontWeight: 700,
+                  fontSize: "0.95rem",
+                  marginBottom: "0.25rem",
+                  color: "#b45309",
+                }}
+              >
                 {label}
               </p>
-              <p style={{ fontSize: "0.85rem", color: "#7a6655", lineHeight: 1.6 }}>{desc}</p>
+              <p
+                style={{
+                  fontSize: "0.85rem",
+                  color: "#7a6655",
+                  lineHeight: 1.6,
+                }}
+              >
+                {desc}
+              </p>
             </Link>
           ))}
         </div>
