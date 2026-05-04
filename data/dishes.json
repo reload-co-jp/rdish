@@ -1241,7 +1241,9 @@
     "uniquenessScore": 4,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/cartoccio/1.jpg"
+    ]
   },
   {
     "id": "tagliate",
@@ -1958,7 +1960,9 @@
     "uniquenessScore": 4,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/trevisso/1.jpg"
+    ]
   },
   {
     "id": "califlore",
@@ -4890,7 +4894,9 @@
     "uniquenessScore": 3,
     "heavinessScore": 3,
     "spicinessScore": 3,
-    "images": []
+    "images": [
+      "/images/dishes/gapao/1.jpg"
+    ]
   },
   {
     "id": "pho",
@@ -6617,7 +6623,7 @@
     "heavinessScore": 4,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/baklava/1.jpg",
+      "/images/dishes/baklava/1.png",
       "/images/dishes/baklava/2.jpg",
       "/images/dishes/baklava/3.jpg"
     ]
@@ -6819,7 +6825,7 @@
     "heavinessScore": 2,
     "spicinessScore": 2,
     "images": [
-      "/images/dishes/dal/1.jpg",
+      "/images/dishes/dal/1.png",
       "/images/dishes/dal/2.jpg",
       "/images/dishes/dal/3.jpg"
     ]
@@ -7408,7 +7414,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 3,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/garlic_shrimp/1.jpg",
+      "/images/dishes/garlic_shrimp/2.jpg",
+      "/images/dishes/garlic_shrimp/3.jpg"
+    ]
   },
   {
     "id": "nanbanzuke",
@@ -7468,7 +7479,10 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/nanbanzuke/1.jpg"
+    ]
   },
   {
     "id": "tempura",
@@ -7527,7 +7541,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tempura/1.jpg",
+      "/images/dishes/tempura/2.jpg",
+      "/images/dishes/tempura/3.jpg"
+    ]
   },
   {
     "id": "fritter",
@@ -7589,7 +7608,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fritter/1.jpg",
+      "/images/dishes/fritter/2.jpg",
+      "/images/dishes/fritter/3.jpg"
+    ]
   },
   {
     "id": "en_papillote",
@@ -7645,7 +7669,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/en_papillote/1.jpg",
+      "/images/dishes/en_papillote/2.jpg",
+      "/images/dishes/en_papillote/3.jpg"
+    ]
   },
   {
     "id": "cauliflower",
@@ -7708,7 +7737,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cauliflower/1.jpg",
+      "/images/dishes/cauliflower/2.jpg",
+      "/images/dishes/cauliflower/3.jpg"
+    ]
   },
   {
     "id": "red_daikon",
@@ -7771,7 +7805,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/red_daikon/1.jpg",
+      "/images/dishes/red_daikon/2.jpg",
+      "/images/dishes/red_daikon/3.jpg"
+    ]
   },
   {
     "id": "celery",
@@ -7833,7 +7872,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/celery/1.jpg",
+      "/images/dishes/celery/2.jpg",
+      "/images/dishes/celery/3.jpg"
+    ]
   },
   {
     "id": "onion",
@@ -7883,7 +7927,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 1,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/onion/1.jpg",
+      "/images/dishes/onion/2.jpg",
+      "/images/dishes/onion/3.jpg"
+    ]
   },
   {
     "id": "spinach",
@@ -7938,7 +7987,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/spinach/1.jpg",
+      "/images/dishes/spinach/2.jpg",
+      "/images/dishes/spinach/3.jpg"
+    ]
   },
   {
     "id": "mushroom",
@@ -7994,7 +8048,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mushroom/1.jpg",
+      "/images/dishes/mushroom/2.jpg",
+      "/images/dishes/mushroom/3.jpg"
+    ]
   },
   {
     "id": "cucumber",
@@ -8048,7 +8107,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cucumber/1.jpg",
+      "/images/dishes/cucumber/2.jpg",
+      "/images/dishes/cucumber/3.jpg"
+    ]
   },
   {
     "id": "daikon",
@@ -8106,7 +8170,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 1,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/daikon/1.png",
+      "/images/dishes/daikon/2.jpg",
+      "/images/dishes/daikon/3.jpg"
+    ]
   },
   {
     "id": "roquefort",
@@ -8164,7 +8233,12 @@
     "beginnerFriendlyScore": 1,
     "uniquenessScore": 5,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/roquefort/1.jpg",
+      "/images/dishes/roquefort/2.jpg",
+      "/images/dishes/roquefort/3.jpg"
+    ]
   },
   {
     "id": "mayonnaise",
@@ -8221,7 +8295,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mayonnaise/1.jpg",
+      "/images/dishes/mayonnaise/2.jpg",
+      "/images/dishes/mayonnaise/3.jpg"
+    ]
   },
   {
     "id": "sriracha",
@@ -8279,7 +8358,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 3,
     "heavinessScore": 1,
-    "spicinessScore": 3
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/sriracha/1.jpg",
+      "/images/dishes/sriracha/2.jpg",
+      "/images/dishes/sriracha/3.jpg"
+    ]
   },
   {
     "id": "tzatziki",
@@ -8343,7 +8427,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 3,
     "heavinessScore": 1,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/tzatziki/1.jpg",
+      "/images/dishes/tzatziki/2.jpg",
+      "/images/dishes/tzatziki/3.jpg"
+    ]
   },
   {
     "id": "confiture",
@@ -8398,7 +8487,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/confiture/1.jpg",
+      "/images/dishes/confiture/2.jpg",
+      "/images/dishes/confiture/3.jpg"
+    ]
   },
   {
     "id": "bolognese",
@@ -8456,7 +8550,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 4,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bolognese/1.jpg",
+      "/images/dishes/bolognese/2.jpg",
+      "/images/dishes/bolognese/3.jpg"
+    ]
   },
   {
     "id": "pilaf",
@@ -8518,7 +8617,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pilaf/1.jpg",
+      "/images/dishes/pilaf/2.jpg",
+      "/images/dishes/pilaf/3.jpg"
+    ]
   },
   {
     "id": "bulgur",
@@ -8576,7 +8680,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bulgur/1.jpg",
+      "/images/dishes/bulgur/2.jpg",
+      "/images/dishes/bulgur/3.jpg"
+    ]
   },
   {
     "id": "croque_madame",
@@ -8632,7 +8741,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 3,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/croque_madame/1.jpg",
+      "/images/dishes/croque_madame/2.jpg",
+      "/images/dishes/croque_madame/3.jpg"
+    ]
   },
   {
     "id": "kataifi",
@@ -8695,7 +8809,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 4,
     "heavinessScore": 4,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kataifi/1.jpg",
+      "/images/dishes/kataifi/2.jpg",
+      "/images/dishes/kataifi/3.jpg"
+    ]
   },
   {
     "id": "smoked_salmon",
@@ -8757,7 +8876,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/smoked_salmon/1.jpg",
+      "/images/dishes/smoked_salmon/2.jpg",
+      "/images/dishes/smoked_salmon/3.jpg"
+    ]
   },
   {
     "id": "pelmeni",
@@ -8816,7 +8940,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 4,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pelmeni/1.jpg",
+      "/images/dishes/pelmeni/2.jpg",
+      "/images/dishes/pelmeni/3.jpg"
+    ]
   },
   {
     "id": "tonkatsu",
@@ -8873,7 +9002,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 4,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tonkatsu/1.jpg",
+      "/images/dishes/tonkatsu/2.jpg",
+      "/images/dishes/tonkatsu/3.jpg"
+    ]
   },
   {
     "id": "beef-bourguignon",
@@ -8952,7 +9086,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 3,
     "heavinessScore": 5,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/beef-bourguignon/1.jpg",
+      "/images/dishes/beef-bourguignon/2.jpg",
+      "/images/dishes/beef-bourguignon/3.jpg"
+    ]
   },
   {
     "id": "acqua-pazza",
@@ -9022,7 +9161,11 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/acqua-pazza/1.jpg",
+      "/images/dishes/acqua-pazza/2.jpg"
+    ]
   },
   {
     "id": "scamorza-affumicata",
@@ -9093,7 +9236,10 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 4,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/scamorza-affumicata/1.jpg"
+    ]
   },
   {
     "id": "ballotine",
@@ -9157,7 +9303,12 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 4,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ballotine/1.jpg",
+      "/images/dishes/ballotine/2.jpg",
+      "/images/dishes/ballotine/3.jpg"
+    ]
   },
   {
     "id": "aroser",
@@ -9220,7 +9371,12 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 4,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/aroser/1.jpg",
+      "/images/dishes/aroser/2.jpg",
+      "/images/dishes/aroser/3.jpg"
+    ]
   },
   {
     "id": "cacciatore",
@@ -9288,7 +9444,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 3,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/cacciatore/1.jpg",
+      "/images/dishes/cacciatore/2.jpg",
+      "/images/dishes/cacciatore/3.jpg"
+    ]
   },
   {
     "id": "peking-duck",
@@ -9353,7 +9514,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 4,
     "heavinessScore": 4,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/peking-duck/1.jpg",
+      "/images/dishes/peking-duck/2.jpg",
+      "/images/dishes/peking-duck/3.jpg"
+    ]
   },
   {
     "id": "suan-la-tang-mian",
@@ -9414,7 +9580,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 3,
     "heavinessScore": 3,
-    "spicinessScore": 3
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/suan-la-tang-mian/1.jpg",
+      "/images/dishes/suan-la-tang-mian/2.jpg",
+      "/images/dishes/suan-la-tang-mian/3.jpg"
+    ]
   },
   {
     "id": "mozuku",
@@ -9469,7 +9640,10 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 3,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mozuku/1.jpg"
+    ]
   },
   {
     "id": "san-nakji",
@@ -9540,7 +9714,12 @@
     "beginnerFriendlyScore": 1,
     "uniquenessScore": 5,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/san-nakji/1.jpg",
+      "/images/dishes/san-nakji/2.jpg",
+      "/images/dishes/san-nakji/3.jpg"
+    ]
   },
   {
     "id": "tofuyo",
@@ -9604,7 +9783,10 @@
     "beginnerFriendlyScore": 1,
     "uniquenessScore": 5,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tofuyo/1.jpg"
+    ]
   },
   {
     "id": "vichyssoise",
@@ -9678,7 +9860,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/vichyssoise/1.jpg",
+      "/images/dishes/vichyssoise/2.jpg",
+      "/images/dishes/vichyssoise/3.jpg"
+    ]
   },
   {
     "id": "fricassee",
@@ -9749,7 +9936,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 4,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fricassee/1.jpg",
+      "/images/dishes/fricassee/2.jpg",
+      "/images/dishes/fricassee/3.jpg"
+    ]
   },
   {
     "id": "aglio-e-olio",
@@ -9826,7 +10018,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/aglio-e-olio/1.jpg",
+      "/images/dishes/aglio-e-olio/2.jpg",
+      "/images/dishes/aglio-e-olio/3.jpg"
+    ]
   },
   {
     "id": "homard-bleu",
@@ -9901,7 +10098,12 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 5,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/homard-bleu/1.jpg",
+      "/images/dishes/homard-bleu/2.jpg",
+      "/images/dishes/homard-bleu/3.jpg"
+    ]
   },
   {
     "id": "boeuf-sale",
@@ -9970,7 +10172,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 4,
     "heavinessScore": 4,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/boeuf-sale/1.jpg",
+      "/images/dishes/boeuf-sale/2.jpg",
+      "/images/dishes/boeuf-sale/3.jpg"
+    ]
   },
   {
     "id": "ris-de-veau",
@@ -10041,7 +10248,10 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 5,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ris-de-veau/1.jpg"
+    ]
   },
   {
     "id": "lentilles",
@@ -10117,7 +10327,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/lentilles/1.png",
+      "/images/dishes/lentilles/2.jpg",
+      "/images/dishes/lentilles/3.jpg"
+    ]
   },
   {
     "id": "sauce-americaine",
@@ -10186,7 +10401,12 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 4,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sauce-americaine/1.jpg",
+      "/images/dishes/sauce-americaine/2.jpg",
+      "/images/dishes/sauce-americaine/3.jpg"
+    ]
   },
   {
     "id": "filet-mignon",
@@ -10259,7 +10479,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 3,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/filet-mignon/1.png",
+      "/images/dishes/filet-mignon/2.jpg",
+      "/images/dishes/filet-mignon/3.jpg"
+    ]
   },
   {
     "id": "tartare",
@@ -10328,7 +10553,12 @@
     "beginnerFriendlyScore": 1,
     "uniquenessScore": 4,
     "heavinessScore": 2,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/tartare/1.jpg",
+      "/images/dishes/tartare/2.jpg",
+      "/images/dishes/tartare/3.jpg"
+    ]
   },
   {
     "id": "bruschetta",
@@ -10394,7 +10624,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bruschetta/1.jpg",
+      "/images/dishes/bruschetta/2.jpg",
+      "/images/dishes/bruschetta/3.jpg"
+    ]
   },
   {
     "id": "tortilla",
@@ -10464,7 +10699,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tortilla/1.jpg",
+      "/images/dishes/tortilla/2.jpg",
+      "/images/dishes/tortilla/3.jpg"
+    ]
   },
   {
     "id": "jingisukan",
@@ -10528,7 +10768,11 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 4,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/jingisukan/1.jpg",
+      "/images/dishes/jingisukan/2.jpg"
+    ]
   },
   {
     "id": "suan-la-tang",
@@ -10595,7 +10839,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 2
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/suan-la-tang/1.jpg",
+      "/images/dishes/suan-la-tang/2.jpg",
+      "/images/dishes/suan-la-tang/3.jpg"
+    ]
   },
   {
     "id": "mantou",
@@ -10657,7 +10906,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mantou/1.jpg",
+      "/images/dishes/mantou/2.jpg",
+      "/images/dishes/mantou/3.jpg"
+    ]
   },
   {
     "id": "baozi",
@@ -10726,7 +10980,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/baozi/1.jpg",
+      "/images/dishes/baozi/2.jpg",
+      "/images/dishes/baozi/3.jpg"
+    ]
   },
   {
     "id": "xingren-gao",
@@ -10781,7 +11040,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/xingren-gao/1.jpg",
+      "/images/dishes/xingren-gao/2.jpg",
+      "/images/dishes/xingren-gao/3.jpg"
+    ]
   },
   {
     "id": "yu-xiang-rou-si",
@@ -10844,7 +11108,10 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 2
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/yu-xiang-rou-si/1.jpg"
+    ]
   },
   {
     "id": "da-qian-gan-shao-yu",
@@ -10915,7 +11182,10 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 5,
     "heavinessScore": 3,
-    "spicinessScore": 3
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/da-qian-gan-shao-yu/1.jpg"
+    ]
   },
   {
     "id": "gong-bao-ji-ding",
@@ -10981,7 +11251,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 3
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/gong-bao-ji-ding/1.jpg",
+      "/images/dishes/gong-bao-ji-ding/2.jpg",
+      "/images/dishes/gong-bao-ji-ding/3.jpg"
+    ]
   },
   {
     "id": "fu-qi-fei-pian",
@@ -11046,7 +11321,10 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 5,
     "heavinessScore": 2,
-    "spicinessScore": 4
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/fu-qi-fei-pian/1.jpg"
+    ]
   },
   {
     "id": "ji-dou-hua",
@@ -11109,7 +11387,10 @@
     "beginnerFriendlyScore": 1,
     "uniquenessScore": 5,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ji-dou-hua/1.jpg"
+    ]
   },
   {
     "id": "kai-shui-bai-cai",
@@ -11176,7 +11457,10 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 5,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kai-shui-bai-cai/1.jpg"
+    ]
   },
   {
     "id": "hui-guo-rou",
@@ -11246,7 +11530,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 3,
-    "spicinessScore": 2
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/hui-guo-rou/1.jpg",
+      "/images/dishes/hui-guo-rou/2.jpg",
+      "/images/dishes/hui-guo-rou/3.jpg"
+    ]
   },
   {
     "id": "gan-shao-xia-ren",
@@ -11316,7 +11605,10 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 2
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/gan-shao-xia-ren/1.jpg"
+    ]
   },
   {
     "id": "bang-bang-ji",
@@ -11380,7 +11672,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 2
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/bang-bang-ji/1.jpg",
+      "/images/dishes/bang-bang-ji/2.jpg",
+      "/images/dishes/bang-bang-ji/3.jpg"
+    ]
   },
   {
     "id": "kou-shui-ji",
@@ -11445,7 +11742,10 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 4,
     "heavinessScore": 2,
-    "spicinessScore": 4
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/kou-shui-ji/1.jpg"
+    ]
   },
   {
     "id": "xiang-cu-rou-kuai",
@@ -11515,7 +11815,10 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 4,
     "heavinessScore": 4,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/xiang-cu-rou-kuai/1.jpg"
+    ]
   },
   {
     "id": "yu-chi-tang",
@@ -11579,7 +11882,12 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 5,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/yu-chi-tang/1.jpg",
+      "/images/dishes/yu-chi-tang/2.jpg",
+      "/images/dishes/yu-chi-tang/3.jpg"
+    ]
   },
   {
     "id": "fu-rong-xie",
@@ -11644,7 +11952,10 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 4,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fu-rong-xie/1.jpg"
+    ]
   },
   {
     "id": "xiaolongbao",
@@ -11714,7 +12025,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/xiaolongbao/1.jpg",
+      "/images/dishes/xiaolongbao/2.jpg",
+      "/images/dishes/xiaolongbao/3.jpg"
+    ]
   },
   {
     "id": "shanghai-chao-mian",
@@ -11782,7 +12098,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/shanghai-chao-mian/1.jpg",
+      "/images/dishes/shanghai-chao-mian/2.jpg",
+      "/images/dishes/shanghai-chao-mian/3.jpg"
+    ]
   },
   {
     "id": "yangzhou-chao-fan",
@@ -11840,7 +12161,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/yangzhou-chao-fan/1.jpg",
+      "/images/dishes/yangzhou-chao-fan/2.jpg",
+      "/images/dishes/yangzhou-chao-fan/3.jpg"
+    ]
   },
   {
     "id": "qing-zheng-da-zha-xie",
@@ -11906,7 +12232,10 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 5,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/qing-zheng-da-zha-xie/1.jpg"
+    ]
   },
   {
     "id": "dong-po-rou",
@@ -11982,7 +12311,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 4,
     "heavinessScore": 5,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/dong-po-rou/1.jpg",
+      "/images/dishes/dong-po-rou/2.jpg",
+      "/images/dishes/dong-po-rou/3.jpg"
+    ]
   },
   {
     "id": "mefun",
@@ -12053,7 +12387,11 @@
     "beginnerFriendlyScore": 1,
     "uniquenessScore": 5,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mefun/1.jpg",
+      "/images/dishes/mefun/2.jpg"
+    ]
   },
   {
     "id": "kanzuri",
@@ -12123,7 +12461,11 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 5,
     "heavinessScore": 1,
-    "spicinessScore": 3
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/kanzuri/1.jpg",
+      "/images/dishes/kanzuri/2.jpg"
+    ]
   },
   {
     "id": "nobiru",
@@ -12191,7 +12533,10 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 4,
     "heavinessScore": 1,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/nobiru/1.jpg"
+    ]
   },
   {
     "id": "ikanago",
@@ -12265,7 +12610,11 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 4,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ikanago/1.jpg",
+      "/images/dishes/ikanago/2.jpg"
+    ]
   },
   {
     "id": "jibuni",
@@ -12335,7 +12684,10 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 4,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/jibuni/1.jpg"
+    ]
   },
   {
     "id": "kajika-jiru",
@@ -12405,7 +12757,10 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 5,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kajika-jiru/1.jpg"
+    ]
   },
   {
     "id": "hegi-soba",
@@ -12469,7 +12824,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 4,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hegi-soba/1.jpg",
+      "/images/dishes/hegi-soba/2.jpg",
+      "/images/dishes/hegi-soba/3.jpg"
+    ]
   },
   {
     "id": "hizu-namasu",
@@ -12539,7 +12899,10 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 5,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hizu-namasu/1.jpg"
+    ]
   },
   {
     "id": "shippoku-udon",
@@ -12608,7 +12971,10 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/shippoku-udon/1.jpg"
+    ]
   },
   {
     "id": "hibayaki",
@@ -12677,7 +13043,10 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 5,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hibayaki/1.jpg"
+    ]
   },
   {
     "id": "obi-ten",
@@ -12746,7 +13115,10 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 4,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/obi-ten/1.jpg"
+    ]
   },
   {
     "id": "sawachi-ryori",
@@ -12817,7 +13189,10 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 5,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sawachi-ryori/1.jpg"
+    ]
   },
   {
     "id": "sangoha-chi-zuke",
@@ -12888,7 +13263,10 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 4,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sangoha-chi-zuke/1.jpg"
+    ]
   },
   {
     "id": "scamorza-bianca",
@@ -12959,7 +13337,10 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/scamorza-bianca/1.jpg"
+    ]
   },
   {
     "id": "provola-affumicata",
@@ -13029,7 +13410,10 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 4,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/provola-affumicata/1.jpg"
+    ]
   },
   {
     "id": "crema-catalana",
@@ -13091,7 +13475,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/crema-catalana/1.jpg",
+      "/images/dishes/crema-catalana/2.jpg",
+      "/images/dishes/crema-catalana/3.jpg"
+    ]
   },
   {
     "id": "bottarga",
@@ -13162,7 +13551,12 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 5,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bottarga/1.jpg",
+      "/images/dishes/bottarga/2.jpg",
+      "/images/dishes/bottarga/3.jpg"
+    ]
   },
   {
     "id": "affettato-misto",
@@ -13237,7 +13631,10 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/affettato-misto/1.jpg"
+    ]
   },
   {
     "id": "peverada",
@@ -13316,7 +13713,10 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 5,
     "heavinessScore": 3,
-    "spicinessScore": 2
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/peverada/1.jpg"
+    ]
   },
   {
     "id": "agrodolce",
@@ -13388,7 +13788,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/agrodolce/1.jpg",
+      "/images/dishes/agrodolce/2.jpg",
+      "/images/dishes/agrodolce/3.jpg"
+    ]
   },
   {
     "id": "minestrone",
@@ -13465,7 +13870,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/minestrone/1.jpg",
+      "/images/dishes/minestrone/2.jpg",
+      "/images/dishes/minestrone/3.jpg"
+    ]
   },
   {
     "id": "prosciutto",
@@ -13546,7 +13956,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/prosciutto/1.jpg",
+      "/images/dishes/prosciutto/2.jpg",
+      "/images/dishes/prosciutto/3.jpg"
+    ]
   },
   {
     "id": "bisque",
@@ -13622,7 +14037,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 3,
     "heavinessScore": 4,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bisque/1.jpg",
+      "/images/dishes/bisque/2.jpg",
+      "/images/dishes/bisque/3.jpg"
+    ]
   },
   {
     "id": "meringue",
@@ -13699,7 +14119,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/meringue/1.jpg",
+      "/images/dishes/meringue/2.jpg",
+      "/images/dishes/meringue/3.jpg"
+    ]
   },
   {
     "id": "sachertorte",
@@ -13774,7 +14199,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 4,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sachertorte/1.jpg",
+      "/images/dishes/sachertorte/2.jpg",
+      "/images/dishes/sachertorte/3.jpg"
+    ]
   },
   {
     "id": "ganjang-gejang",
@@ -13851,7 +14281,11 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 4,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ganjang-gejang/1.jpg",
+      "/images/dishes/ganjang-gejang/2.jpg"
+    ]
   },
   {
     "id": "japchae",
@@ -13921,7 +14355,10 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/japchae/1.jpg"
+    ]
   },
   {
     "id": "dak-hanmari",
@@ -13996,7 +14433,11 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 3,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/dak-hanmari/1.jpg",
+      "/images/dishes/dak-hanmari/2.jpg"
+    ]
   },
   {
     "id": "chukkumi",
@@ -14067,7 +14508,10 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 4
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/chukkumi/1.jpg"
+    ]
   },
   {
     "id": "gamjatang",
@@ -14144,7 +14588,10 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 3,
     "heavinessScore": 4,
-    "spicinessScore": 4
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/gamjatang/1.jpg"
+    ]
   },
   {
     "id": "bossam",
@@ -14219,7 +14666,11 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 3,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/bossam/1.jpg",
+      "/images/dishes/bossam/2.jpg"
+    ]
   },
   {
     "id": "seolleongtang",
@@ -14298,7 +14749,10 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/seolleongtang/1.jpg"
+    ]
   },
   {
     "id": "jumeokbap",
@@ -14369,7 +14823,11 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/jumeokbap/1.jpg",
+      "/images/dishes/jumeokbap/2.jpg"
+    ]
   },
   {
     "id": "boil",
@@ -14426,7 +14884,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/boil/1.jpg",
+      "/images/dishes/boil/2.jpg",
+      "/images/dishes/boil/3.jpg"
+    ]
   },
   {
     "id": "steam",
@@ -14483,7 +14946,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/steam/1.jpg",
+      "/images/dishes/steam/2.jpg",
+      "/images/dishes/steam/3.jpg"
+    ]
   },
   {
     "id": "fry",
@@ -14545,7 +15013,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 4,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fry/1.jpg",
+      "/images/dishes/fry/2.jpg",
+      "/images/dishes/fry/3.jpg"
+    ]
   },
   {
     "id": "oil-ni",
@@ -14610,7 +15083,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/oil-ni/1.jpg",
+      "/images/dishes/oil-ni/2.jpg",
+      "/images/dishes/oil-ni/3.jpg"
+    ]
   },
   {
     "id": "mousse",
@@ -14673,7 +15151,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mousse/1.jpg",
+      "/images/dishes/mousse/2.jpg",
+      "/images/dishes/mousse/3.jpg"
+    ]
   },
   {
     "id": "gelee",
@@ -14731,7 +15214,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gelee/1.jpg",
+      "/images/dishes/gelee/2.jpg",
+      "/images/dishes/gelee/3.jpg"
+    ]
   },
   {
     "id": "roti",
@@ -14789,7 +15277,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 4,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/roti/1.jpg",
+      "/images/dishes/roti/2.jpg",
+      "/images/dishes/roti/3.jpg"
+    ]
   },
   {
     "id": "gratine",
@@ -14847,7 +15340,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gratine/1.jpg",
+      "/images/dishes/gratine/2.jpg",
+      "/images/dishes/gratine/3.jpg"
+    ]
   },
   {
     "id": "caramelize",
@@ -14904,7 +15402,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/caramelize/1.jpg",
+      "/images/dishes/caramelize/2.jpg",
+      "/images/dishes/caramelize/3.jpg"
+    ]
   },
   {
     "id": "flambe",
@@ -14963,7 +15466,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 4,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/flambe/1.jpg",
+      "/images/dishes/flambe/2.jpg",
+      "/images/dishes/flambe/3.jpg"
+    ]
   },
   {
     "id": "smoke",
@@ -15020,7 +15528,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/smoke/1.jpg",
+      "/images/dishes/smoke/2.jpg",
+      "/images/dishes/smoke/3.jpg"
+    ]
   },
   {
     "id": "dry-aging",
@@ -15082,7 +15595,11 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 4,
     "heavinessScore": 4,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/dry-aging/1.jpg",
+      "/images/dishes/dry-aging/2.jpg"
+    ]
   },
   {
     "id": "mixing",
@@ -15139,7 +15656,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mixing/1.jpg",
+      "/images/dishes/mixing/2.png",
+      "/images/dishes/mixing/3.jpg"
+    ]
   },
   {
     "id": "puree",
@@ -15202,7 +15724,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/puree/1.jpg",
+      "/images/dishes/puree/2.jpg",
+      "/images/dishes/puree/3.jpg"
+    ]
   },
   {
     "id": "paste",
@@ -15264,7 +15791,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/paste/1.jpg",
+      "/images/dishes/paste/2.jpg",
+      "/images/dishes/paste/3.jpg"
+    ]
   },
   {
     "id": "emulsion",
@@ -15326,7 +15858,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/emulsion/1.jpg",
+      "/images/dishes/emulsion/2.jpg",
+      "/images/dishes/emulsion/3.jpg"
+    ]
   },
   {
     "id": "deglaze",
@@ -15388,7 +15925,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/deglaze/1.jpg",
+      "/images/dishes/deglaze/2.jpg",
+      "/images/dishes/deglaze/3.jpg"
+    ]
   },
   {
     "id": "reduce",
@@ -15450,7 +15992,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/reduce/1.jpg",
+      "/images/dishes/reduce/2.jpg",
+      "/images/dishes/reduce/3.jpg"
+    ]
   },
   {
     "id": "infuse",
@@ -15507,7 +16054,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/infuse/1.jpg",
+      "/images/dishes/infuse/2.jpg",
+      "/images/dishes/infuse/3.jpg"
+    ]
   },
   {
     "id": "tempering",
@@ -15567,7 +16119,12 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 4,
     "heavinessScore": 2,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/tempering/1.jpg",
+      "/images/dishes/tempering/2.jpg",
+      "/images/dishes/tempering/3.jpg"
+    ]
   },
   {
     "id": "blanching",
@@ -15624,7 +16181,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/blanching/1.jpg",
+      "/images/dishes/blanching/2.jpg",
+      "/images/dishes/blanching/3.png"
+    ]
   },
   {
     "id": "wrapping",
@@ -15686,7 +16248,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/wrapping/1.jpg",
+      "/images/dishes/wrapping/2.jpg",
+      "/images/dishes/wrapping/3.jpg"
+    ]
   },
   {
     "id": "coating",
@@ -15748,7 +16315,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/coating/1.jpg",
+      "/images/dishes/coating/2.jpg",
+      "/images/dishes/coating/3.jpg"
+    ]
   },
   {
     "id": "maceration",
@@ -15812,7 +16384,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/maceration/1.jpg",
+      "/images/dishes/maceration/2.jpg",
+      "/images/dishes/maceration/3.jpg"
+    ]
   },
   {
     "id": "syrup-ni",
@@ -15874,7 +16451,10 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/syrup-ni/1.jpg"
+    ]
   },
   {
     "id": "nage",
@@ -15937,7 +16517,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 4,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/nage/1.jpg",
+      "/images/dishes/nage/2.jpg",
+      "/images/dishes/nage/3.jpg"
+    ]
   },
   {
     "id": "sauce-vin-blanc",
@@ -16000,7 +16585,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sauce-vin-blanc/1.jpg",
+      "/images/dishes/sauce-vin-blanc/2.jpg",
+      "/images/dishes/sauce-vin-blanc/3.jpg"
+    ]
   },
   {
     "id": "baba-ganoush",
@@ -16062,7 +16652,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/baba-ganoush/1.jpg",
+      "/images/dishes/baba-ganoush/2.jpg",
+      "/images/dishes/baba-ganoush/3.jpg"
+    ]
   },
   {
     "id": "sambal",
@@ -16127,7 +16722,12 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 3,
     "heavinessScore": 1,
-    "spicinessScore": 5
+    "spicinessScore": 5,
+    "images": [
+      "/images/dishes/sambal/1.jpg",
+      "/images/dishes/sambal/2.jpg",
+      "/images/dishes/sambal/3.jpg"
+    ]
   },
   {
     "id": "nam-pla",
@@ -16189,7 +16789,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 4,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/nam-pla/1.jpg",
+      "/images/dishes/nam-pla/2.jpg",
+      "/images/dishes/nam-pla/3.jpg"
+    ]
   },
   {
     "id": "oyster-sauce",
@@ -16252,7 +16857,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/oyster-sauce/1.jpg",
+      "/images/dishes/oyster-sauce/2.jpg",
+      "/images/dishes/oyster-sauce/3.jpg"
+    ]
   },
   {
     "id": "tianmianjiang",
@@ -16315,7 +16925,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tianmianjiang/1.jpg",
+      "/images/dishes/tianmianjiang/2.jpg",
+      "/images/dishes/tianmianjiang/3.jpg"
+    ]
   },
   {
     "id": "doubanjiang",
@@ -16381,7 +16996,10 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 4,
     "heavinessScore": 2,
-    "spicinessScore": 4
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/doubanjiang/1.jpg"
+    ]
   },
   {
     "id": "xo-sauce",
@@ -16445,7 +17063,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 5,
     "heavinessScore": 3,
-    "spicinessScore": 2
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/xo-sauce/1.jpg",
+      "/images/dishes/xo-sauce/2.jpg",
+      "/images/dishes/xo-sauce/3.jpg"
+    ]
   },
   {
     "id": "gochujang",
@@ -16508,7 +17131,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 3
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/gochujang/1.jpg",
+      "/images/dishes/gochujang/2.jpg",
+      "/images/dishes/gochujang/3.jpg"
+    ]
   },
   {
     "id": "ssamjang",
@@ -16571,7 +17199,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 2
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/ssamjang/1.png",
+      "/images/dishes/ssamjang/2.jpg",
+      "/images/dishes/ssamjang/3.jpg"
+    ]
   },
   {
     "id": "ketchup",
@@ -16633,7 +17266,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ketchup/1.jpg",
+      "/images/dishes/ketchup/2.jpg",
+      "/images/dishes/ketchup/3.jpg"
+    ]
   },
   {
     "id": "mustard",
@@ -16698,7 +17336,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 2
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/mustard/1.jpg",
+      "/images/dishes/mustard/2.jpg",
+      "/images/dishes/mustard/3.jpg"
+    ]
   },
   {
     "id": "dijon-mustard",
@@ -16764,7 +17407,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 1,
-    "spicinessScore": 2
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/dijon-mustard/1.jpg",
+      "/images/dishes/dijon-mustard/2.jpg",
+      "/images/dishes/dijon-mustard/3.jpg"
+    ]
   },
   {
     "id": "horseradish",
@@ -16826,7 +17474,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 3,
     "heavinessScore": 1,
-    "spicinessScore": 3
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/horseradish/1.jpg",
+      "/images/dishes/horseradish/2.jpg",
+      "/images/dishes/horseradish/3.jpg"
+    ]
   },
   {
     "id": "island-dressing",
@@ -16888,7 +17541,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/island-dressing/1.jpg",
+      "/images/dishes/island-dressing/2.jpg",
+      "/images/dishes/island-dressing/3.jpg"
+    ]
   },
   {
     "id": "caesar-dressing",
@@ -16954,7 +17612,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/caesar-dressing/1.jpg",
+      "/images/dishes/caesar-dressing/2.jpg",
+      "/images/dishes/caesar-dressing/3.jpg"
+    ]
   },
   {
     "id": "coleslaw-dressing",
@@ -17016,7 +17679,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/coleslaw-dressing/1.jpg",
+      "/images/dishes/coleslaw-dressing/2.jpg",
+      "/images/dishes/coleslaw-dressing/3.jpg"
+    ]
   },
   {
     "id": "paprika",
@@ -17081,7 +17749,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/paprika/1.jpg",
+      "/images/dishes/paprika/2.jpg",
+      "/images/dishes/paprika/3.jpg"
+    ]
   },
   {
     "id": "okra",
@@ -17146,7 +17819,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/okra/1.jpg",
+      "/images/dishes/okra/2.jpg",
+      "/images/dishes/okra/3.jpg"
+    ]
   },
   {
     "id": "molokhia",
@@ -17211,7 +17889,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 3,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/molokhia/1.jpg",
+      "/images/dishes/molokhia/2.jpg",
+      "/images/dishes/molokhia/3.jpg"
+    ]
   },
   {
     "id": "rosemary",
@@ -17273,7 +17956,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/rosemary/1.jpg",
+      "/images/dishes/rosemary/2.jpg",
+      "/images/dishes/rosemary/3.jpg"
+    ]
   },
   {
     "id": "mint",
@@ -17338,7 +18026,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mint/1.jpg",
+      "/images/dishes/mint/2.jpg",
+      "/images/dishes/mint/3.jpg"
+    ]
   },
   {
     "id": "truffle",
@@ -17403,7 +18096,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 5,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/truffle/1.jpg",
+      "/images/dishes/truffle/2.jpg",
+      "/images/dishes/truffle/3.jpg"
+    ]
   },
   {
     "id": "eringi",
@@ -17468,7 +18166,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/eringi/1.jpg",
+      "/images/dishes/eringi/2.jpg",
+      "/images/dishes/eringi/3.jpg"
+    ]
   },
   {
     "id": "shiitake",
@@ -17533,7 +18236,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/shiitake/1.jpg",
+      "/images/dishes/shiitake/2.jpg",
+      "/images/dishes/shiitake/3.jpg"
+    ]
   },
   {
     "id": "pancetta",
@@ -17595,7 +18303,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 4,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pancetta/1.jpg",
+      "/images/dishes/pancetta/2.jpg",
+      "/images/dishes/pancetta/3.jpg"
+    ]
   },
   {
     "id": "salami",
@@ -17660,7 +18373,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 4,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/salami/1.jpg",
+      "/images/dishes/salami/2.jpg",
+      "/images/dishes/salami/3.jpg"
+    ]
   },
   {
     "id": "chorizo",
@@ -17725,7 +18443,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 4,
-    "spicinessScore": 3
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/chorizo/1.jpg",
+      "/images/dishes/chorizo/2.jpg",
+      "/images/dishes/chorizo/3.jpg"
+    ]
   },
   {
     "id": "guanciale",
@@ -17787,7 +18510,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 4,
     "heavinessScore": 5,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/guanciale/1.jpg",
+      "/images/dishes/guanciale/2.jpg",
+      "/images/dishes/guanciale/3.jpg"
+    ]
   },
   {
     "id": "lamb",
@@ -17855,7 +18583,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 4,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/lamb/1.jpg",
+      "/images/dishes/lamb/2.jpg",
+      "/images/dishes/lamb/3.jpg"
+    ]
   },
   {
     "id": "duck",
@@ -17920,7 +18653,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 4,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/duck/1.jpg",
+      "/images/dishes/duck/2.jpg",
+      "/images/dishes/duck/3.jpg"
+    ]
   },
   {
     "id": "turkey",
@@ -17985,7 +18723,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/turkey/1.png",
+      "/images/dishes/turkey/2.jpg",
+      "/images/dishes/turkey/3.jpg"
+    ]
   },
   {
     "id": "veal",
@@ -18050,7 +18793,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 4,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/veal/1.jpg",
+      "/images/dishes/veal/2.jpg",
+      "/images/dishes/veal/3.jpg"
+    ]
   },
   {
     "id": "gibier",
@@ -18115,7 +18863,12 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 5,
     "heavinessScore": 4,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gibier/1.jpg",
+      "/images/dishes/gibier/2.jpg",
+      "/images/dishes/gibier/3.jpg"
+    ]
   },
   {
     "id": "salmon",
@@ -18183,7 +18936,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/salmon/1.jpg",
+      "/images/dishes/salmon/2.jpg",
+      "/images/dishes/salmon/3.jpg"
+    ]
   },
   {
     "id": "maguro",
@@ -18248,7 +19006,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/maguro/1.png",
+      "/images/dishes/maguro/2.jpg",
+      "/images/dishes/maguro/3.jpg"
+    ]
   },
   {
     "id": "octopus",
@@ -18313,7 +19076,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/octopus/1.jpg",
+      "/images/dishes/octopus/2.jpg",
+      "/images/dishes/octopus/3.jpg"
+    ]
   },
   {
     "id": "squid",
@@ -18378,7 +19146,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/squid/1.jpg",
+      "/images/dishes/squid/2.jpg",
+      "/images/dishes/squid/3.jpg"
+    ]
   },
   {
     "id": "mussel",
@@ -18443,7 +19216,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mussel/1.jpg",
+      "/images/dishes/mussel/2.jpg",
+      "/images/dishes/mussel/3.jpg"
+    ]
   },
   {
     "id": "scallop",
@@ -18511,7 +19289,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/scallop/1.jpg",
+      "/images/dishes/scallop/2.jpg",
+      "/images/dishes/scallop/3.jpg"
+    ]
   },
   {
     "id": "anchovy",
@@ -18573,7 +19356,12 @@
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/anchovy/1.jpg",
+      "/images/dishes/anchovy/2.jpg",
+      "/images/dishes/anchovy/3.jpg"
+    ]
   },
   {
     "id": "caviar",
@@ -18642,7 +19430,12 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 5,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/caviar/1.jpg",
+      "/images/dishes/caviar/2.jpg",
+      "/images/dishes/caviar/3.jpg"
+    ]
   },
   {
     "id": "quinoa",
@@ -18704,7 +19497,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 3,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/quinoa/1.jpg",
+      "/images/dishes/quinoa/2.jpg",
+      "/images/dishes/quinoa/3.jpg"
+    ]
   },
   {
     "id": "polenta",
@@ -18766,7 +19564,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/polenta/1.jpg",
+      "/images/dishes/polenta/2.jpg",
+      "/images/dishes/polenta/3.jpg"
+    ]
   },
   {
     "id": "chickpea",
@@ -18834,7 +19637,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chickpea/1.jpg",
+      "/images/dishes/chickpea/2.jpg",
+      "/images/dishes/chickpea/3.jpg"
+    ]
   },
   {
     "id": "white-bean",
@@ -18902,7 +19710,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/white-bean/1.jpg",
+      "/images/dishes/white-bean/2.jpg",
+      "/images/dishes/white-bean/3.jpg"
+    ]
   },
   {
     "id": "butter-chicken-curry",
@@ -18965,7 +19778,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 3,
     "heavinessScore": 4,
-    "spicinessScore": 2
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/butter-chicken-curry/1.jpg",
+      "/images/dishes/butter-chicken-curry/2.jpg",
+      "/images/dishes/butter-chicken-curry/3.jpg"
+    ]
   },
   {
     "id": "green-curry",
@@ -19028,7 +19846,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 4,
     "heavinessScore": 3,
-    "spicinessScore": 4
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/green-curry/1.jpg",
+      "/images/dishes/green-curry/2.jpg",
+      "/images/dishes/green-curry/3.jpg"
+    ]
   },
   {
     "id": "tom-yum-goong",
@@ -19091,7 +19914,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 4,
     "heavinessScore": 2,
-    "spicinessScore": 4
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/tom-yum-goong/1.jpg",
+      "/images/dishes/tom-yum-goong/2.jpg",
+      "/images/dishes/tom-yum-goong/3.jpg"
+    ]
   },
   {
     "id": "bun-cha",
@@ -19157,7 +19985,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 4,
     "heavinessScore": 2,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/bun-cha/1.jpg",
+      "/images/dishes/bun-cha/2.jpg",
+      "/images/dishes/bun-cha/3.jpg"
+    ]
   },
   {
     "id": "caprese",
@@ -19223,7 +20056,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 1,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/caprese/1.jpg",
+      "/images/dishes/caprese/2.jpg",
+      "/images/dishes/caprese/3.jpg"
+    ]
   },
   {
     "id": "crepe",
@@ -19286,7 +20124,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/crepe/1.jpg",
+      "/images/dishes/crepe/2.jpg",
+      "/images/dishes/crepe/3.jpg"
+    ]
   },
   {
     "id": "piroshki",
@@ -19349,7 +20192,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/piroshki/1.jpg",
+      "/images/dishes/piroshki/2.jpg",
+      "/images/dishes/piroshki/3.jpg"
+    ]
   },
   {
     "id": "enchilada",
@@ -19412,7 +20260,12 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 4,
-    "spicinessScore": 3
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/enchilada/1.jpg",
+      "/images/dishes/enchilada/2.jpg",
+      "/images/dishes/enchilada/3.jpg"
+    ]
   },
   {
     "id": "nachos",
@@ -19478,7 +20331,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 4,
-    "spicinessScore": 2
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/nachos/1.jpg",
+      "/images/dishes/nachos/2.jpg",
+      "/images/dishes/nachos/3.jpg"
+    ]
   },
   {
     "id": "hamburger",
@@ -19541,7 +20399,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 5,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hamburger/1.jpg",
+      "/images/dishes/hamburger/2.jpg",
+      "/images/dishes/hamburger/3.jpg"
+    ]
   },
   {
     "id": "hot-dog",
@@ -19604,7 +20467,12 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 1,
     "heavinessScore": 3,
-    "spicinessScore": 1
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/hot-dog/1.png",
+      "/images/dishes/hot-dog/2.jpg",
+      "/images/dishes/hot-dog/3.jpg"
+    ]
   },
   {
     "id": "meatloaf",
@@ -19670,6 +20538,11 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 2,
     "heavinessScore": 5,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/meatloaf/1.jpg",
+      "/images/dishes/meatloaf/2.png",
+      "/images/dishes/meatloaf/3.jpg"
+    ]
   }
 ]
