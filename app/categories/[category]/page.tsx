@@ -2,15 +2,11 @@ import { notFound } from "next/navigation"
 import { Breadcrumb } from "../../../components/elements/Breadcrumb"
 import { DishCard } from "../../../components/features/DishCard"
 import dishes from "../../../data/dishes.json"
-import type { DishCategory, DishItem } from "../../../types/dish"
-
-const CATEGORIES: DishCategory[] = [
-  "料理", "食材", "調理法", "ソース", "香辛料",
-  "チーズ", "野菜", "肉", "魚介", "デザート", "飲み物",
-]
+import { categoryItems, taxonomyById } from "../../../lib/taxonomy"
+import type { DishItem } from "../../../types/dish"
 
 export function generateStaticParams() {
-  return CATEGORIES.map((category) => ({ category }))
+  return categoryItems.map(({ id }) => ({ category: id }))
 }
 
 export async function generateMetadata({
@@ -19,16 +15,16 @@ export async function generateMetadata({
   params: Promise<{ category: string }>
 }) {
   const { category } = await params
-  const decoded = decodeURIComponent(category) as DishCategory
-  const encoded = encodeURIComponent(decoded)
-  const count = (dishes as DishItem[]).filter((d) => d.category === decoded).length
-  const title = `${decoded}カテゴリの料理一覧`
-  const description = `${decoded}カテゴリの料理・食材・調理法 ${count}件。外食メニューで役立つ料理図鑑 RDish。`
+  const item = taxonomyById(categoryItems, category)
+  if (!item) notFound()
+  const count = (dishes as DishItem[]).filter((d) => d.category === item.label).length
+  const title = `${item.label}カテゴリの料理一覧`
+  const description = `${item.label}カテゴリの料理・食材・調理法 ${count}件。外食メニューで役立つ料理図鑑 RDish。`
   return {
     title,
     description,
-    alternates: { canonical: `/categories/${encoded}/` },
-    openGraph: { title, description, url: `/categories/${encoded}/` },
+    alternates: { canonical: `/categories/${item.id}/` },
+    openGraph: { title, description, url: `/categories/${item.id}/` },
   }
 }
 
@@ -38,16 +34,16 @@ export default async function CategoryPage({
   params: Promise<{ category: string }>
 }) {
   const { category } = await params
-  const decoded = decodeURIComponent(category) as DishCategory
-  const encoded = encodeURIComponent(decoded)
-  const results = (dishes as DishItem[]).filter((d) => d.category === decoded)
+  const item = taxonomyById(categoryItems, category)
+  if (!item) notFound()
+  const results = (dishes as DishItem[]).filter((d) => d.category === item.label)
   if (results.length === 0) notFound()
 
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    name: `${decoded}カテゴリの料理一覧`,
-    url: `https://rdish.reload.co.jp/categories/${encoded}/`,
+    name: `${item.label}カテゴリの料理一覧`,
+    url: `https://rdish.reload.co.jp/categories/${item.id}/`,
     numberOfItems: results.length,
     itemListElement: results.map((dish, i) => ({
       "@type": "ListItem",
@@ -60,9 +56,9 @@ export default async function CategoryPage({
   return (
     <div>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-      <Breadcrumb items={[{ label: "カテゴリ", href: "/" }, { label: decoded }]} />
+      <Breadcrumb items={[{ label: "カテゴリ", href: "/" }, { label: item.label }]} />
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}>
-        {decoded}
+        {item.label}
       </h1>
       <p style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "1.5rem" }}>
         {results.length}件

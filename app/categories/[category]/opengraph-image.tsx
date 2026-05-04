@@ -1,19 +1,15 @@
 import { ImageResponse } from "next/og"
 import dishes from "../../../data/dishes.json"
-import type { DishCategory, DishItem } from "../../../types/dish"
+import { categoryItems, taxonomyById } from "../../../lib/taxonomy"
+import type { DishItem } from "../../../types/dish"
 
 export const dynamic = "force-static"
 export const alt = "カテゴリ別 料理一覧 | RDish"
 export const size = { width: 1200, height: 630 }
 export const contentType = "image/png"
 
-const CATEGORIES: DishCategory[] = [
-  "料理", "食材", "調理法", "ソース", "香辛料",
-  "チーズ", "野菜", "肉", "魚介", "デザート", "飲み物",
-]
-
 export function generateStaticParams() {
-  return CATEGORIES.map((category) => ({ category }))
+  return categoryItems.map(({ id }) => ({ category: id }))
 }
 
 export default async function Image({
@@ -22,8 +18,9 @@ export default async function Image({
   params: Promise<{ category: string }>
 }) {
   const { category } = await params
-  const decoded = decodeURIComponent(category) as DishCategory
-  const count = (dishes as DishItem[]).filter((d) => d.category === decoded).length
+  const item = taxonomyById(categoryItems, category)
+  if (!item) return new Response("Not found", { status: 404 })
+  const count = (dishes as DishItem[]).filter((d) => d.category === item.label).length
 
   return new ImageResponse(
     (
@@ -51,7 +48,7 @@ export default async function Image({
             RDish — 料理図鑑
           </div>
           <div style={{ display: "flex", fontSize: 72, fontWeight: 800, color: "#2d1f0e", marginBottom: 24 }}>
-            {decoded}
+            {item.label}
           </div>
           <div
             style={{

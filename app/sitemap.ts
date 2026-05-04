@@ -1,8 +1,8 @@
 export const dynamic = "force-static"
 
 import type { MetadataRoute } from "next"
-import { regionLabel } from "../lib/region"
 import dishes from "../data/dishes.json"
+import { categoryItems, countryItems, tagItems } from "../lib/taxonomy"
 import type { DishItem } from "../types/dish"
 
 const SITE_URL = "https://rdish.reload.co.jp"
@@ -15,23 +15,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }))
 
-  const allTags = [...new Set(allDishes.flatMap((d) => d.tags))]
-  const tagUrls = allTags.map((tag) => ({
-    url: `${SITE_URL}/tags/${encodeURIComponent(tag)}/`,
+  const tagUrls = tagItems.map(({ id }) => ({
+    url: `${SITE_URL}/tags/${id}/`,
     changeFrequency: "monthly" as const,
     priority: 0.5,
   }))
 
-  const allCategories = [...new Set(allDishes.map((d) => d.category))]
-  const categoryUrls = allCategories.map((cat) => ({
-    url: `${SITE_URL}/categories/${encodeURIComponent(cat)}/`,
+  const categoryUrls = categoryItems.map(({ id }) => ({
+    url: `${SITE_URL}/categories/${id}/`,
     changeFrequency: "monthly" as const,
     priority: 0.6,
   }))
 
-  const allRegions = [...new Set(allDishes.flatMap((d) => d.regions.map(regionLabel)))]
-  const countryUrls = allRegions.map((region) => ({
-    url: `${SITE_URL}/countries/${encodeURIComponent(region)}/`,
+  const countryUrls = countryItems.map(({ id }) => ({
+    url: `${SITE_URL}/countries/${id}/`,
     changeFrequency: "monthly" as const,
     priority: 0.6,
   }))

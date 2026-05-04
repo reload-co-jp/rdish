@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { FC } from "react"
+import { tagPath } from "../../lib/taxonomy"
 
 type Props = {
   tags: string[]
@@ -10,7 +11,7 @@ export const TagList: FC<Props> = ({ tags }) => (
     {tags.map((tag) => (
       <Link
         key={tag}
-        href={`/tags/${encodeURIComponent(tag)}/`}
+        href={tagPath(tag)}
         style={{
           display: "inline-block",
           padding: "0.125rem 0.5rem",

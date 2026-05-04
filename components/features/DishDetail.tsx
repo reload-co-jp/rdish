@@ -2,6 +2,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { FC } from "react"
 import { regionLabel } from "../../lib/region"
+import { categoryPath } from "../../lib/taxonomy"
 import type { DishItem } from "../../types/dish"
 import { LinkedText } from "../elements/LinkedText"
 import { FavoriteButton } from "./FavoriteButton"
@@ -73,7 +74,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
           </div>
           <div style={{ marginTop: "0.375rem" }}>
             <Link
-              href={`/categories/${encodeURIComponent(dish.category)}/`}
+              href={categoryPath(dish.category)}
               style={{
                 fontSize: "0.75rem",
                 color: "#7a6655",

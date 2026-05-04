@@ -1,5 +1,6 @@
 import { ImageResponse } from "next/og"
 import dishes from "../../../data/dishes.json"
+import { tagItems, taxonomyById } from "../../../lib/taxonomy"
 import type { DishItem } from "../../../types/dish"
 
 export const dynamic = "force-static"
@@ -8,8 +9,7 @@ export const size = { width: 1200, height: 630 }
 export const contentType = "image/png"
 
 export function generateStaticParams() {
-  const allTags = [...new Set((dishes as DishItem[]).flatMap((d) => d.tags))]
-  return allTags.map((tag) => ({ tag }))
+  return tagItems.map(({ id }) => ({ tag: id }))
 }
 
 export default async function Image({
@@ -18,8 +18,9 @@ export default async function Image({
   params: Promise<{ tag: string }>
 }) {
   const { tag } = await params
-  const decoded = decodeURIComponent(tag)
-  const count = (dishes as DishItem[]).filter((d) => d.tags.includes(decoded)).length
+  const item = taxonomyById(tagItems, tag)
+  if (!item) return new Response("Not found", { status: 404 })
+  const count = (dishes as DishItem[]).filter((d) => d.tags.includes(item.label)).length
 
   return new ImageResponse(
     (
@@ -47,7 +48,7 @@ export default async function Image({
             RDish — 料理図鑑
           </div>
           <div style={{ display: "flex", fontSize: 72, fontWeight: 800, color: "#2d1f0e", marginBottom: 24 }}>
-            {decoded}
+            {item.label}
           </div>
           <div
             style={{

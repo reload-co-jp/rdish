@@ -2,6 +2,7 @@ import Link from "next/link"
 import { DishCard } from "../components/features/DishCard"
 import { SearchBox } from "../components/features/SearchBox"
 import dishes from "../data/dishes.json"
+import { categoryPath } from "../lib/taxonomy"
 import type { DishItem } from "../types/dish"
 
 const POPULAR_IDS = [
@@ -104,7 +105,7 @@ export default function TopPage() {
           {CATEGORIES.map((cat) => (
             <Link
               key={cat}
-              href={`/categories/${encodeURIComponent(cat)}/`}
+              href={categoryPath(cat)}
               style={{
                 background: "#f0e6d6",
                 border: "1px solid #e8ddd0",

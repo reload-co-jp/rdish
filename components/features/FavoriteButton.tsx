@@ -1,22 +1,21 @@
 "use client"
 
-import { FC, useEffect, useState } from "react"
-import { isFavorite, toggleFavorite } from "../../lib/storage"
+import { FC, useSyncExternalStore } from "react"
+import { isFavorite, subscribeFavorites, toggleFavorite } from "../../lib/storage"
 
 type Props = {
   id: string
 }
 
 export const FavoriteButton: FC<Props> = ({ id }) => {
-  const [fav, setFav] = useState(false)
-
-  useEffect(() => {
-    setFav(isFavorite(id))
-  }, [id])
+  const fav = useSyncExternalStore(
+    subscribeFavorites,
+    () => isFavorite(id),
+    () => false,
+  )
 
   const handleClick = () => {
-    const next = toggleFavorite(id)
-    setFav(next)
+    toggleFavorite(id)
   }
 
   return (

@@ -2,6 +2,7 @@ import Link from "next/link"
 import type { Metadata } from "next"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
 import dishes from "../../data/dishes.json"
+import { countryPath } from "../../lib/taxonomy"
 import type { DishItem } from "../../types/dish"
 
 export const metadata: Metadata = {
@@ -74,14 +75,14 @@ export default function CountriesPage() {
       "@type": "ListItem",
       position: i + 1,
       name: region,
-      url: `https://rdish.reload.co.jp/countries/${encodeURIComponent(region)}/`,
+      url: `https://rdish.reload.co.jp${countryPath(region)}`,
     })),
   }
 
   const renderLinks = (list: Section[]) => (
     <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>
       {list.map(({ region, count }) => (
-        <Link key={region} href={`/countries/${encodeURIComponent(region)}/`} style={linkStyle}>
+        <Link key={region} href={countryPath(region)} style={linkStyle}>
           {region}
           <span style={countStyle}>{count}</span>
         </Link>

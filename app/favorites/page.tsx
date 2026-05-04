@@ -4,13 +4,8 @@ import { useMemo, useSyncExternalStore } from "react"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
 import { DishCard } from "../../components/features/DishCard"
 import dishes from "../../data/dishes.json"
-import { getFavorites } from "../../lib/storage"
+import { getFavorites, subscribeFavorites } from "../../lib/storage"
 import type { DishItem } from "../../types/dish"
-
-const subscribeFavorites = (onStoreChange: () => void) => {
-  window.addEventListener("storage", onStoreChange)
-  return () => window.removeEventListener("storage", onStoreChange)
-}
 
 const getFavoritesSnapshot = () => JSON.stringify(getFavorites())
 
