@@ -84,6 +84,18 @@ export default function TopPage() {
         >
           → 「白くてとろっとしたチーズ」「緑色で渦巻きの野菜」など 逆引き検索
         </Link>
+        <Link
+          href="/dishes/"
+          style={{
+            display: "block",
+            color: "#b45309",
+            textDecoration: "none",
+            fontSize: "0.9rem",
+            marginTop: "0.5rem",
+          }}
+        >
+          → 最新登録順で見る
+        </Link>
       </div>
 
       <section style={{ marginBottom: "2rem" }}>

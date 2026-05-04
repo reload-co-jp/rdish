@@ -35,6 +35,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return [
     { url: `${SITE_URL}/`, changeFrequency: "weekly", priority: 1.0 },
+    { url: `${SITE_URL}/dishes/`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/reverse/`, changeFrequency: "monthly", priority: 0.7 },
     { url: `${SITE_URL}/countries/`, changeFrequency: "monthly", priority: 0.7 },
     ...categoryUrls,
