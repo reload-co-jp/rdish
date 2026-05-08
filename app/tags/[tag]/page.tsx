@@ -2,6 +2,7 @@ import { notFound } from "next/navigation"
 import { Breadcrumb } from "../../../components/elements/Breadcrumb"
 import { DishCard } from "../../../components/features/DishCard"
 import dishes from "../../../data/dishes.json"
+import { buildTagDescription } from "../../../lib/tagDescription"
 import { tagItems, taxonomyById } from "../../../lib/taxonomy"
 import type { DishItem } from "../../../types/dish"
 
@@ -17,11 +18,12 @@ export async function generateMetadata({
   const { tag } = await params
   const item = taxonomyById(tagItems, tag)
   if (!item) notFound()
-  const count = (dishes as DishItem[]).filter((d) =>
+  const results = (dishes as DishItem[]).filter((d) =>
     d.tags.includes(item.label)
-  ).length
+  )
+  const count = results.length
   const title = `#${item.label}の料理一覧`
-  const description = `「${item.label}」タグが付いた料理・食材・調理法 ${count}件。外食メニューで役立つ料理図鑑 RDish。`
+  const description = `${buildTagDescription(item.label, results)} 全${count}件。`
   return {
     title,
     description,
@@ -40,6 +42,7 @@ export default async function TagPage({
   if (!item) notFound()
   const results = (dishes as DishItem[]).filter((d) => d.tags.includes(item.label))
   if (results.length === 0) notFound()
+  const description = buildTagDescription(item.label, results)
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -74,9 +77,19 @@ export default async function TagPage({
         #{item.label}
       </h1>
       <p
-        style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "1.5rem" }}
+        style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}
       >
         {results.length}件
+      </p>
+      <p
+        style={{
+          color: "#7a6655",
+          fontSize: "0.9375rem",
+          lineHeight: 1.8,
+          margin: "0 0 1.5rem",
+        }}
+      >
+        {description}
       </p>
       <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
         {results.map((dish) => (
