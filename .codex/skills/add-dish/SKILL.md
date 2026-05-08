@@ -13,7 +13,15 @@ When invoked, add the requested dish to `/Users/kixixixixi/Documents/Develop/Rel
 2. Read `types/dish.ts` to confirm the current schema.
 3. Generate one complete `DishItem` JSON object for the requested dish.
 4. Append it to the JSON array in `data/dishes.json`.
-5. Validate JSON:
+5. Download images for the added dish only:
+
+```bash
+node scripts/download-images.mjs <dish-id>
+```
+
+This updates the added object's `images` field and stores files under `public/images/dishes/<dish-id>/`.
+
+6. Validate JSON:
 
 ```bash
 python3 -c "import json; json.load(open('data/dishes.json')); print('JSON valid')"
@@ -25,14 +33,16 @@ Do not run `pnpm typecheck` for a JSON-only change.
 
 - Before editing, say: `[料理名] を追加する`
 - After completion, show the generated JSON object.
+- Include the downloaded image paths in the final output.
 
 ## Data Rules
 
 - `id`: lowercase romanized slug with hyphens, e.g. `beef-bourguignon`.
-- If the id already exists, append `-2`.
+- If the id or name already exists, do not add a duplicate entry. Report that it already exists.
 - `regions`: use the object schema from `types/dish.ts`, e.g. `{ "country": "フランス" }`.
 - `relatedIds`: only existing ids from `data/dishes.json`.
-- Do not add `images`; images are added later.
+- Do not hand-write `images`; run `node scripts/download-images.mjs <dish-id>` after adding the entry.
+- If image download returns no images, keep `images: []` and mention that no image was found.
 - Scores are judgment calls from the dish's nature.
 
 ## Required Fields

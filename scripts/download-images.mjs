@@ -9,6 +9,7 @@ const IMAGES_DIR = join(ROOT, 'public', 'images', 'dishes')
 const UA = 'RDish/1.0 (https://rdish.reload.co.jp; yamamoto@reload.co.jp)'
 
 const dishes = JSON.parse(readFileSync(DISHES_PATH, 'utf-8'))
+const targetIds = new Set(process.argv.slice(2))
 
 const sleep = ms => new Promise(r => setTimeout(r, ms))
 
@@ -120,10 +121,27 @@ async function processDish(dish) {
 // Main
 const updated = []
 const imageMap = {}
+const targets = targetIds.size > 0 ? dishes.filter(dish => targetIds.has(dish.id)) : dishes
+
+if (targetIds.size > 0) {
+  const foundIds = new Set(targets.map(dish => dish.id))
+  const missingIds = [...targetIds].filter(id => !foundIds.has(id))
+  if (missingIds.length > 0) {
+    console.error(`Dish id not found: ${missingIds.join(', ')}`)
+    process.exit(1)
+  }
+}
 
 for (let i = 0; i < dishes.length; i++) {
   const dish = dishes[i]
-  process.stdout.write(`[${i + 1}/${dishes.length}] ${dish.id} ... `)
+  if (targetIds.size > 0 && !targetIds.has(dish.id)) {
+    updated.push(dish)
+    continue
+  }
+
+  const targetIndex = targets.findIndex(target => target.id === dish.id) + 1
+  const label = targetIds.size > 0 ? `[${targetIndex}/${targets.length}]` : `[${i + 1}/${dishes.length}]`
+  process.stdout.write(`${label} ${dish.id} ... `)
 
   // Skip if already downloaded
   const dir = join(IMAGES_DIR, dish.id)
@@ -147,5 +165,5 @@ for (let i = 0; i < dishes.length; i++) {
   await sleep(800)
 }
 
-writeFileSync(DISHES_PATH, JSON.stringify(updated, null, 2))
+writeFileSync(DISHES_PATH, JSON.stringify(updated, null, 2) + '\n')
 console.log('\nDone. dishes.json updated.')
