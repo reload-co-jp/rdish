@@ -19,7 +19,9 @@ export async function generateMetadata({
   if (!item) notFound()
   const count = (dishes as DishItem[]).filter((d) => d.category === item.label).length
   const title = `${item.label}カテゴリの料理一覧`
-  const description = `${item.label}カテゴリの料理・食材・調理法 ${count}件。外食メニューで役立つ料理図鑑 RDish。`
+  const categoryDescription =
+    item.description ?? `${item.label}カテゴリの料理・食材・調理法をまとめています。`
+  const description = `${categoryDescription} 全${count}件。`
   return {
     title,
     description,
@@ -38,6 +40,8 @@ export default async function CategoryPage({
   if (!item) notFound()
   const results = (dishes as DishItem[]).filter((d) => d.category === item.label)
   if (results.length === 0) notFound()
+  const description =
+    item.description ?? `${item.label}カテゴリの料理・食材・調理法をまとめています。`
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -60,8 +64,18 @@ export default async function CategoryPage({
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}>
         {item.label}
       </h1>
-      <p style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "1.5rem" }}>
+      <p style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}>
         {results.length}件
+      </p>
+      <p
+        style={{
+          color: "#7a6655",
+          fontSize: "0.9375rem",
+          lineHeight: 1.8,
+          margin: "0 0 1.5rem",
+        }}
+      >
+        {description}
       </p>
       <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
         {results.map((dish) => (

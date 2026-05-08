@@ -2,7 +2,6 @@ import { notFound } from "next/navigation"
 import { Breadcrumb } from "../../../components/elements/Breadcrumb"
 import { DishCard } from "../../../components/features/DishCard"
 import dishes from "../../../data/dishes.json"
-import { buildTagDescription } from "../../../lib/tagDescription"
 import { tagItems, taxonomyById } from "../../../lib/taxonomy"
 import type { DishItem } from "../../../types/dish"
 
@@ -23,7 +22,10 @@ export async function generateMetadata({
   )
   const count = results.length
   const title = `#${item.label}の料理一覧`
-  const description = `${buildTagDescription(item.label, results)} 全${count}件。`
+  const tagDescription =
+    item.description ??
+    `「${item.label}」は、料理を整理するためのキーワードです。`
+  const description = `${tagDescription} 全${count}件。`
   return {
     title,
     description,
@@ -42,7 +44,9 @@ export default async function TagPage({
   if (!item) notFound()
   const results = (dishes as DishItem[]).filter((d) => d.tags.includes(item.label))
   if (results.length === 0) notFound()
-  const description = buildTagDescription(item.label, results)
+  const description =
+    item.description ??
+    `「${item.label}」は、料理を整理するためのキーワードです。`
 
   const jsonLd = {
     "@context": "https://schema.org",

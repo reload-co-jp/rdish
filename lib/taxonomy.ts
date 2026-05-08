@@ -1,29 +1,16 @@
+import categories from "../data/categories.json"
 import dishes from "../data/dishes.json"
+import tags from "../data/tags.json"
 import type { DishCategory, DishItem } from "../types/dish"
 import { regionLabel } from "./region"
 
 type TaxonomyItem<T extends string = string> = {
   id: string
   label: T
+  description?: string
 }
 
-const categoryLabels = [
-  "料理",
-  "食材",
-  "調理法",
-  "ソース",
-  "香辛料",
-  "チーズ",
-  "野菜",
-  "肉",
-  "魚介",
-  "デザート",
-  "飲み物",
-] as const satisfies readonly DishCategory[]
-
-export const categoryItems: TaxonomyItem<DishCategory>[] = categoryLabels.map(
-  (label, i) => ({ id: String(i + 1), label }),
-)
+export const categoryItems = categories as TaxonomyItem<DishCategory>[]
 
 const allDishes = dishes as DishItem[]
 
@@ -33,7 +20,7 @@ function toItems(labels: string[]): TaxonomyItem[] {
     .map((label, i) => ({ id: String(i + 1), label }))
 }
 
-export const tagItems = toItems(allDishes.flatMap((dish) => dish.tags))
+export const tagItems = tags as TaxonomyItem[]
 
 export const countryItems = toItems(
   allDishes.flatMap((dish) => dish.regions.map(regionLabel)),
