@@ -20544,5 +20544,403 @@
       "/images/dishes/meatloaf/2.png",
       "/images/dishes/meatloaf/3.jpg"
     ]
+  },
+  {
+    "id": "bouillon",
+    "name": "ブイヨン",
+    "kana": "ぶいよん",
+    "aliases": [
+      "だし",
+      "出汁",
+      "ストック"
+    ],
+    "englishName": "Bouillon",
+    "originalName": "Bouillon",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "フランス"
+      },
+      {
+        "area": "ヨーロッパ"
+      }
+    ],
+    "summary": "肉、魚、野菜、香味野菜を水で煮出した洋風の出汁。スープやソース、煮込みの土台になる。",
+    "menuDescription": "料理名にある場合は、澄んだ旨みのあるスープや、出汁を効かせた煮込み・ソースを指すことが多い。",
+    "whatComesOut": [
+      "澄んだスープ状の出汁",
+      "ソースや煮込みのベース",
+      "香味野菜や肉、魚介の旨み"
+    ],
+    "tasteAndTexture": [
+      "軽く澄んだ口当たり",
+      "素材由来の旨みが中心",
+      "脂や塩分は店や用途で変わる"
+    ],
+    "orderAdvice": "濃厚さより旨みの土台を楽しみたいときに。単品スープなら軽い前菜向き。",
+    "caution": "市販品や店の仕込みにより塩分が強い場合がある。ベジタリアンは肉や魚由来か確認。",
+    "similarItems": [
+      {
+        "name": "フォン",
+        "difference": "フォンはソース作り向けにより濃く取ることが多く、ブイヨンはスープにも使いやすい軽めの出汁"
+      },
+      {
+        "name": "コンソメ",
+        "difference": "コンソメはブイヨンをさらに澄ませて味を整えた完成スープ"
+      },
+      {
+        "id": "nage",
+        "name": "ナージュ",
+        "difference": "ナージュは魚介や野菜を軽く煮る香味液で、ブイヨンより料理としての使い方が前に出る"
+      }
+    ],
+    "relatedIds": [
+      "nage",
+      "pot-au-feu",
+      "minestrone",
+      "bisque",
+      "sauce-vin-blanc",
+      "sauce-americaine",
+      "gravy"
+    ],
+    "tags": [
+      "フランス料理",
+      "洋風だし",
+      "出汁",
+      "スープベース",
+      "ソースベース",
+      "煮込み",
+      "香味野菜"
+    ],
+    "reverseKeywords": [
+      "洋風の出汁",
+      "スープのベース",
+      "ソースの土台",
+      "肉や野菜の煮出し汁",
+      "コンソメの元"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bouillon/1.jpg",
+      "/images/dishes/bouillon/2.jpg",
+      "/images/dishes/bouillon/3.jpg"
+    ]
+  },
+  {
+    "id": "tagliatelle",
+    "name": "タリアテッレ",
+    "kana": "たりあてっれ",
+    "aliases": [
+      "タリアテルレ"
+    ],
+    "englishName": "Tagliatelle",
+    "originalName": "Tagliatelle",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "イタリア",
+        "locality": "エミリア＝ロマーニャ"
+      },
+      {
+        "country": "イタリア",
+        "locality": "マルケ"
+      }
+    ],
+    "summary": "卵入り生地を薄くのばして幅広い帯状に切るイタリアのロングパスタ。ラグーやクリーム系ソースと合わせやすい。",
+    "menuDescription": "平たいリボン状のパスタ。ボロネーゼやきのこ、クリーム系など、絡みのよい濃厚ソースで出ることが多い。",
+    "whatComesOut": [
+      "幅5〜8mmほどの平たいロングパスタ",
+      "肉のラグーやクリームソース",
+      "ソースがよく絡む一皿"
+    ],
+    "tasteAndTexture": [
+      "卵生地のコクがある",
+      "もちっとして歯切れがよい",
+      "濃いソースと一体感が出る"
+    ],
+    "orderAdvice": "スパゲッティよりソースの絡みと生地感を楽しみたいときに。肉系ラグーと相性がよい。",
+    "similarItems": [
+      {
+        "id": "pappardelle",
+        "name": "パッパルデッレ",
+        "difference": "どちらも幅広パスタだが、パッパルデッレの方がさらに幅広く、より重いソース向き"
+      },
+      {
+        "id": "bolognese",
+        "name": "ボロネーゼ",
+        "difference": "ボロネーゼは肉ソースで、タリアテッレは合わせるパスタ形状"
+      },
+      {
+        "id": "gnocchi",
+        "name": "ニョッキ",
+        "difference": "ニョッキはじゃがいもなどの団子状パスタで、タリアテッレは帯状の麺"
+      }
+    ],
+    "relatedIds": [
+      "pappardelle",
+      "ragu",
+      "bolognese",
+      "gnocchi",
+      "risotto"
+    ],
+    "tags": [
+      "イタリア料理",
+      "パスタ",
+      "ロングパスタ",
+      "卵麺",
+      "幅広麺",
+      "ラグー",
+      "ボロネーゼ"
+    ],
+    "reverseKeywords": [
+      "平たいパスタ",
+      "リボン状パスタ",
+      "ボロネーゼに合う麺",
+      "幅広ロングパスタ",
+      "卵入りパスタ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tagliatelle/1.jpg",
+      "/images/dishes/tagliatelle/2.png",
+      "/images/dishes/tagliatelle/3.jpg"
+    ]
+  },
+  {
+    "id": "pappardelle",
+    "name": "パッパルデッレ",
+    "kana": "ぱっぱるでっれ",
+    "englishName": "Pappardelle",
+    "originalName": "Pappardelle",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "イタリア",
+        "locality": "トスカーナ"
+      }
+    ],
+    "summary": "タリアテッレよりさらに幅広いリボン状のイタリアンパスタ。猪肉や牛肉のラグーなど力強いソースに合わせる。",
+    "menuDescription": "非常に幅広い平打ちパスタ。肉の煮込みソースやジビエのラグーと合わせた、食べ応えある皿で出ることが多い。",
+    "whatComesOut": [
+      "幅広いリボン状のロングパスタ",
+      "肉やジビエの濃厚ラグー",
+      "麺の存在感が強い一皿"
+    ],
+    "tasteAndTexture": [
+      "もちっと厚みがある",
+      "ソースを大きく受け止める",
+      "食べ応えが強い"
+    ],
+    "orderAdvice": "濃厚な肉ソースやジビエ系をしっかり食べたいときに。軽いオイル系より重めのソース向き。",
+    "similarItems": [
+      {
+        "id": "tagliatelle",
+        "name": "タリアテッレ",
+        "difference": "タリアテッレより幅広く、より重厚なソースやジビエ料理に合わせやすい"
+      },
+      {
+        "id": "ragu",
+        "name": "ラグー",
+        "difference": "ラグーは煮込みソースで、パッパルデッレはそのソースを受けるパスタ形状"
+      },
+      {
+        "id": "bolognese",
+        "name": "ボロネーゼ",
+        "difference": "ボロネーゼは肉ソースの一種で、パッパルデッレは合わせる麺"
+      }
+    ],
+    "relatedIds": [
+      "tagliatelle",
+      "ragu",
+      "bolognese",
+      "gibier",
+      "gnocchi"
+    ],
+    "tags": [
+      "イタリア料理",
+      "パスタ",
+      "ロングパスタ",
+      "幅広麺",
+      "トスカーナ料理",
+      "ラグー",
+      "ジビエ"
+    ],
+    "reverseKeywords": [
+      "太い平打ちパスタ",
+      "幅広リボンパスタ",
+      "ジビエのラグーに合う麺",
+      "肉ソース向けパスタ",
+      "食べ応えあるパスタ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pappardelle/1.jpg",
+      "/images/dishes/pappardelle/2.jpg",
+      "/images/dishes/pappardelle/3.jpg"
+    ]
+  },
+  {
+    "id": "saffron",
+    "name": "サフラン",
+    "kana": "さふらん",
+    "englishName": "Saffron",
+    "originalName": "Saffron",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "地中海沿岸"
+      },
+      {
+        "country": "イラン"
+      },
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "クロッカスの雌しべを乾燥させた高価な香辛料。料理に黄金色と花のような香りを加える。",
+    "menuDescription": "米料理や魚介料理に使われる黄色い香り付け。パエリアやリゾットでは色と香りの主役になる。",
+    "whatComesOut": [
+      "黄金色に染まった料理",
+      "花のような香り",
+      "米料理や魚介料理の風味付け"
+    ],
+    "tasteAndTexture": [
+      "繊細で少し薬草のような香り",
+      "苦みは控えめだが使いすぎると強い",
+      "食感はほぼ出ない"
+    ],
+    "orderAdvice": "香りのある米料理や魚介料理を楽しみたいときに。鮮やかな黄色はターメリックとは別物。",
+    "caution": "高価な香辛料なので、色だけでなく香りが弱い場合は代用品の可能性がある。",
+    "similarItems": [
+      {
+        "name": "ターメリック",
+        "difference": "ターメリックも黄色くするが、サフランは花のような香りがあり、より繊細で高価"
+      },
+      {
+        "id": "paella",
+        "name": "パエリア",
+        "difference": "パエリアはサフランを使う代表的な米料理"
+      },
+      {
+        "id": "risotto",
+        "name": "リゾット",
+        "difference": "リゾット・アッラ・ミラネーゼなどでサフランが主役になる"
+      }
+    ],
+    "relatedIds": [
+      "paella",
+      "risotto",
+      "bouillon",
+      "butter-chicken-curry"
+    ],
+    "tags": [
+      "香辛料",
+      "スパイス",
+      "サフラン",
+      "米料理",
+      "地中海料理",
+      "スペイン料理",
+      "イタリア料理"
+    ],
+    "reverseKeywords": [
+      "黄色い高級スパイス",
+      "パエリアの香り",
+      "ミラノ風リゾットの香り",
+      "花のような香辛料",
+      "黄金色の米料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/saffron/1.jpg",
+      "/images/dishes/saffron/2.jpg",
+      "/images/dishes/saffron/3.jpg"
+    ]
+  },
+  {
+    "id": "al-dente",
+    "name": "アルデンテ",
+    "kana": "あるでんて",
+    "englishName": "Al dente",
+    "originalName": "Al dente",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "パスタや米を、中心にわずかな芯と歯ごたえが残る状態に仕上げる調理加減。",
+    "menuDescription": "メニューでは硬めに茹でたパスタや、粒感のあるリゾットを示す表現。柔らかすぎない食感が狙い。",
+    "whatComesOut": [
+      "中心に軽い芯が残る麺や米",
+      "歯切れのよい食感",
+      "ソースと合わせても崩れにくい仕上がり"
+    ],
+    "tasteAndTexture": [
+      "噛むと芯の抵抗が少しある",
+      "もちっとしすぎず歯切れがよい",
+      "料理全体が締まった印象になる"
+    ],
+    "orderAdvice": "やわらかい麺より、歯ごたえと小麦や米の粒感を楽しみたいときに。",
+    "caution": "日本の柔らかい茹で加減に慣れていると硬く感じる場合がある。",
+    "similarItems": [
+      {
+        "id": "tagliatelle",
+        "name": "タリアテッレ",
+        "difference": "タリアテッレはパスタ形状で、アルデンテは茹で加減"
+      },
+      {
+        "id": "pappardelle",
+        "name": "パッパルデッレ",
+        "difference": "パッパルデッレもアルデンテに仕上げることが多い幅広パスタ"
+      },
+      {
+        "id": "risotto",
+        "name": "リゾット",
+        "difference": "リゾットは米料理で、米粒の芯を残す仕上げにもアルデンテを使う"
+      }
+    ],
+    "relatedIds": [
+      "tagliatelle",
+      "pappardelle",
+      "risotto",
+      "gnocchi"
+    ],
+    "tags": [
+      "イタリア料理",
+      "調理法",
+      "パスタ",
+      "茹で加減",
+      "食感",
+      "歯ごたえ",
+      "リゾット"
+    ],
+    "reverseKeywords": [
+      "硬めのパスタ",
+      "芯のある茹で加減",
+      "歯ごたえを残す",
+      "イタリア式の硬め仕上げ",
+      "米粒の芯を残す"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/al-dente/1.jpg",
+      "/images/dishes/al-dente/2.jpg",
+      "/images/dishes/al-dente/3.jpg"
+    ]
   }
 ]
