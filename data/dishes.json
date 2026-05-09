@@ -20840,5 +20840,1233 @@
       "/images/dishes/al-dente/2.jpg",
       "/images/dishes/al-dente/3.jpg"
     ]
+  },
+  {
+    "id": "flautas",
+    "name": "フラウタス",
+    "kana": "ふらうたす",
+    "aliases": [
+      "タキートス"
+    ],
+    "englishName": "Flautas",
+    "originalName": "Flautas",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "具を詰めたトルティーヤを細長く巻き、油でカリッと揚げたメキシコ料理。鶏肉や牛肉の具に、サルサやサワークリームを添える。",
+    "menuDescription": "細いロール状の揚げトルティーヤ。中にほぐし肉やチーズを入れ、レタス・チーズ・サルサ・ワカモレをのせて出ることが多い。",
+    "whatComesOut": [
+      "細長い揚げトルティーヤのロール",
+      "鶏肉や牛肉の詰め物",
+      "サルサ・クリーム・チーズのトッピング"
+    ],
+    "tasteAndTexture": [
+      "外側はパリパリで香ばしい",
+      "中は肉の旨みがありしっとり",
+      "サルサの酸味とクリームのコクが加わる"
+    ],
+    "orderAdvice": "揚げ物が食べたいときに向く。前菜なら数人でシェア、本格的に食べるならライスや豆付きの皿を選ぶ。",
+    "caution": "揚げ物なので軽そうに見えて油分は多い。",
+    "similarItems": [
+      {
+        "id": "tacos",
+        "name": "タコス",
+        "difference": "タコスは具をのせて折る料理。フラウタスは巻いて揚げる"
+      },
+      {
+        "id": "enchilada",
+        "name": "エンチラーダ",
+        "difference": "エンチラーダはソースをかけて焼く。フラウタスは揚げてカリッと仕上げる"
+      }
+    ],
+    "relatedIds": [
+      "tacos",
+      "guacamole",
+      "salsa_verde",
+      "enchilada"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "トルティーヤ",
+      "揚げ物",
+      "肉料理",
+      "前菜",
+      "サルサ"
+    ],
+    "reverseKeywords": [
+      "タキートス",
+      "細い揚げタコス",
+      "巻いたトルティーヤ",
+      "パリパリのメキシコ料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "pozole",
+    "name": "ポソレ",
+    "kana": "ぽそれ",
+    "aliases": [
+      "ポソーレ"
+    ],
+    "englishName": "Pozole",
+    "originalName": "Pozole",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "大粒のトウモロコシ（ホミニー）と肉を煮込むメキシコの具だくさんスープ。赤・緑・白のタイプがあり、祭りや祝いの食事にも出る。",
+    "menuDescription": "ホミニーと豚肉または鶏肉を煮たスープ。キャベツ、ラディッシュ、ライム、オレガノ、チリを好みで加えて食べる。",
+    "whatComesOut": [
+      "大きな椀の具だくさんスープ",
+      "粒の大きい白いトウモロコシ",
+      "肉と野菜、ライムやチリの薬味"
+    ],
+    "tasteAndTexture": [
+      "スープは肉の旨みが濃い",
+      "ホミニーはもちっとして噛みごたえがある",
+      "薬味で酸味、辛味、香りを調整できる"
+    ],
+    "orderAdvice": "一皿で満腹になる料理。辛さが心配ならチリを別添えにして、ライムと野菜から足すと食べやすい。",
+    "caution": "豚肉ベースが多い。赤いポソレはチリ風味が強い場合がある。",
+    "similarItems": [
+      {
+        "id": "tacos",
+        "name": "タコス",
+        "difference": "タコスは手で食べる軽食寄り。ポソレはスープ主体の食事"
+      },
+      {
+        "id": "menudo",
+        "name": "メヌード",
+        "difference": "メヌードは牛胃のスープ。ポソレはホミニーと肉が主役"
+      }
+    ],
+    "relatedIds": [
+      "tacos",
+      "pakuchi",
+      "chorizo",
+      "menudo"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "スープ",
+      "煮込み",
+      "トウモロコシ",
+      "豚肉",
+      "具だくさん"
+    ],
+    "reverseKeywords": [
+      "メキシコの白い粒入りスープ",
+      "ホミニーの煮込み",
+      "祝い料理のスープ",
+      "具だくさんチリスープ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/pozole/1.jpg",
+      "/images/dishes/pozole/2.jpg",
+      "/images/dishes/pozole/3.jpg"
+    ]
+  },
+  {
+    "id": "menudo",
+    "name": "メヌード",
+    "kana": "めぬーど",
+    "englishName": "Menudo",
+    "originalName": "Menudo",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "牛の胃（トリッパ）をチリベースのスープでじっくり煮込むメキシコ料理。ホミニーを加えることもあり、週末や二日酔い明けの定番として親しまれる。",
+    "menuDescription": "赤いチリスープに牛胃、ホミニー、玉ねぎ、オレガノ、ライムを合わせた具だくさんの煮込みスープ。薬味で香りと酸味を足して食べる。",
+    "whatComesOut": [
+      "赤みのある大きな椀のスープ",
+      "やわらかく煮た牛胃の具",
+      "ライム、玉ねぎ、オレガノ、チリの薬味"
+    ],
+    "tasteAndTexture": [
+      "チリと肉だしの深い旨み",
+      "牛胃は弾力があり独特の噛みごたえ",
+      "ライムや薬味で後味が引き締まる"
+    ],
+    "orderAdvice": "内臓料理が好きなら試す価値あり。初めてならライムと玉ねぎを多めに入れると食べやすい。",
+    "caution": "牛胃の香りと食感にクセがある。内臓が苦手な人には向きにくい。",
+    "similarItems": [
+      {
+        "id": "pozole",
+        "name": "ポソレ",
+        "difference": "ポソレはホミニーと肉が主役。メヌードは牛胃の風味と食感が中心"
+      },
+      {
+        "id": "trippa",
+        "name": "トリッパ",
+        "difference": "トリッパは牛胃そのものやイタリア風煮込みを指す。メヌードはメキシコのチリスープ"
+      }
+    ],
+    "relatedIds": [
+      "pozole",
+      "chorizo",
+      "pakuchi",
+      "salsa_verde"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "スープ",
+      "煮込み",
+      "内臓料理",
+      "牛肉",
+      "チリ"
+    ],
+    "reverseKeywords": [
+      "牛胃のメキシコスープ",
+      "トリッパ入りチリスープ",
+      "二日酔いに食べるスープ",
+      "赤い内臓煮込み"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/menudo/1.jpg",
+      "/images/dishes/menudo/2.jpg",
+      "/images/dishes/menudo/3.jpg"
+    ]
+  },
+  {
+    "id": "carne-asada",
+    "name": "カルネ・アサダ",
+    "kana": "かるねあさだ",
+    "englishName": "Carne Asada",
+    "originalName": "Carne asada",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "牛肉を柑橘や香辛料でマリネし、炭火や鉄板で焼くメキシコの肉料理。単品の皿でもタコスの具でも定番。",
+    "menuDescription": "薄めの牛ステーキまたは刻んだ焼き牛肉。ライム、玉ねぎ、コリアンダー、サルサ、トルティーヤと一緒に出ることが多い。",
+    "whatComesOut": [
+      "香ばしく焼いた牛肉",
+      "ライムとサルサの付け合わせ",
+      "トルティーヤや米、豆を添えた皿"
+    ],
+    "tasteAndTexture": [
+      "炭火焼きの香ばしさ",
+      "牛肉の旨みと柑橘のさっぱり感",
+      "部位により歯ごたえがある"
+    ],
+    "orderAdvice": "肉をしっかり食べたいときに。タコスで頼むと軽く、プレートで頼むと主食付きで満足度が高い。",
+    "caution": "焼き加減や部位によって硬めのことがある。",
+    "similarItems": [
+      {
+        "id": "tacos",
+        "name": "タコス",
+        "difference": "カルネ・アサダは焼き牛肉そのもの。タコスは包む料理形式"
+      },
+      {
+        "id": "chorizo",
+        "name": "チョリソー",
+        "difference": "チョリソーは香辛料入りソーセージ。カルネ・アサダは焼いた牛肉"
+      }
+    ],
+    "relatedIds": [
+      "tacos",
+      "guacamole",
+      "salsa_verde",
+      "pakuchi"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "牛肉",
+      "グリル",
+      "タコスの具",
+      "炭火焼き",
+      "肉料理"
+    ],
+    "reverseKeywords": [
+      "メキシコの焼き牛肉",
+      "タコスの牛肉具材",
+      "炭火焼きステーキ",
+      "ライムをかける肉"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/carne-asada/1.jpg",
+      "/images/dishes/carne-asada/2.jpg",
+      "/images/dishes/carne-asada/3.jpg"
+    ]
+  },
+  {
+    "id": "tamales",
+    "name": "タマル",
+    "kana": "たまる",
+    "aliases": [
+      "タマレス"
+    ],
+    "englishName": "Tamales",
+    "originalName": "Tamal",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      },
+      {
+        "area": "中米"
+      }
+    ],
+    "summary": "トウモロコシ生地（マサ）に肉やソースを包み、トウモロコシの皮やバナナの葉で蒸す料理。メキシコから中米に広くある伝統食。",
+    "menuDescription": "葉で包まれた蒸し料理。中は柔らかいトウモロコシ生地で、鶏肉、豚肉、チリソース、チーズ、甘い具などバリエーションがある。",
+    "whatComesOut": [
+      "葉に包まれた蒸し包み",
+      "ほろっと柔らかいトウモロコシ生地",
+      "肉やチリソース、チーズなどの具"
+    ],
+    "tasteAndTexture": [
+      "マサの素朴な甘みと香り",
+      "蒸し生地のしっとりした食感",
+      "具のソースが生地に染みている"
+    ],
+    "orderAdvice": "葉は包み材なので外して食べる。小腹満たしなら1個、食事なら複数個とソース付きがよい。",
+    "caution": "葉は食べない。具が見えにくいので肉・辛さ・甘いタイプを確認すると安心。",
+    "similarItems": [
+      {
+        "name": "ちまき",
+        "difference": "ちまきは米を包んで蒸す料理。タマルはトウモロコシ生地が主役"
+      },
+      {
+        "id": "enchilada",
+        "name": "エンチラーダ",
+        "difference": "エンチラーダはトルティーヤを巻いてソースをかける。タマルはマサ生地を葉で包んで蒸す"
+      }
+    ],
+    "relatedIds": [
+      "enchilada",
+      "tacos",
+      "salsa_verde"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "中米料理",
+      "トウモロコシ",
+      "蒸し料理",
+      "包み料理",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "葉で包んだメキシコ料理",
+      "トウモロコシ生地の蒸し物",
+      "マサの包み料理",
+      "メキシコ版ちまき"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/tamales/1.jpg",
+      "/images/dishes/tamales/2.jpg",
+      "/images/dishes/tamales/3.jpg"
+    ]
+  },
+  {
+    "id": "huevos-rancheros",
+    "name": "ウェボス・ランチェロス",
+    "kana": "うぇぼすらんちぇろす",
+    "englishName": "Huevos Rancheros",
+    "originalName": "Huevos rancheros",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "トルティーヤに目玉焼きをのせ、トマトやチリのソースをかけるメキシコの朝食料理。豆やアボカドを添えることも多い。",
+    "menuDescription": "軽く焼いたトルティーヤの上に卵、サルサ、豆、チーズ、アボカドをのせた朝食プレート。辛さはソースで変わる。",
+    "whatComesOut": [
+      "卵をのせたトルティーヤ",
+      "赤または緑のサルサ",
+      "豆、チーズ、アボカドなどの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "卵のコクとサルサの酸味",
+      "トルティーヤの香ばしさ",
+      "豆やアボカドでまろやかになる"
+    ],
+    "orderAdvice": "朝食やブランチに最適。辛さが苦手ならサルサを別添えにして、卵の焼き加減も好みで確認する。",
+    "caution": "半熟卵が苦手な場合はよく焼き指定が必要。",
+    "similarItems": [
+      {
+        "id": "tacos",
+        "name": "タコス",
+        "difference": "タコスは具を包んで食べる。ウェボス・ランチェロスは卵をのせた皿料理"
+      },
+      {
+        "name": "シャクシュカ",
+        "difference": "シャクシュカはトマトソースで卵を煮る中東・北アフリカ料理。こちらはトルティーヤに卵をのせる"
+      }
+    ],
+    "relatedIds": [
+      "tacos",
+      "guacamole",
+      "salsa_verde",
+      "pakuchi"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "朝食",
+      "卵料理",
+      "トルティーヤ",
+      "サルサ",
+      "ブランチ"
+    ],
+    "reverseKeywords": [
+      "メキシコの朝食卵",
+      "トルティーヤに目玉焼き",
+      "サルサ卵プレート",
+      "牧場風卵料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/huevos-rancheros/1.jpg",
+      "/images/dishes/huevos-rancheros/2.jpg",
+      "/images/dishes/huevos-rancheros/3.jpg"
+    ]
+  },
+  {
+    "id": "sopa-de-lima",
+    "name": "ソパ・デ・リマ",
+    "kana": "そぱでりま",
+    "englishName": "Sopa de Lima",
+    "originalName": "Sopa de lima",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ",
+        "locality": "ユカタン半島"
+      }
+    ],
+    "summary": "ライムに近い柑橘の香りを効かせた、ユカタン半島の鶏スープ。揚げトルティーヤを添え、軽い酸味と香ばしさを楽しむ。",
+    "menuDescription": "鶏だしの澄んだスープに鶏肉、トマト、玉ねぎ、柑橘果汁を加え、揚げトルティーヤの細切りをのせる。",
+    "whatComesOut": [
+      "澄んだ鶏スープ",
+      "ほぐした鶏肉と野菜",
+      "揚げトルティーヤとライムの香り"
+    ],
+    "tasteAndTexture": [
+      "鶏だしのやさしい旨み",
+      "柑橘の爽やかな酸味",
+      "揚げトルティーヤの香ばしい食感"
+    ],
+    "orderAdvice": "重い料理の前に向く。辛さより酸味と香りが主役なので、辛い料理が苦手な人にも選びやすい。",
+    "caution": "酸味が苦手な場合はライム量を確認するとよい。",
+    "similarItems": [
+      {
+        "id": "pozole",
+        "name": "ポソレ",
+        "difference": "ポソレはホミニー入りで重め。ソパ・デ・リマは柑橘香る軽い鶏スープ"
+      },
+      {
+        "name": "トルティーヤスープ",
+        "difference": "トルティーヤスープはチリやトマトが強いことが多い。ソパ・デ・リマは柑橘の香りが中心"
+      }
+    ],
+    "relatedIds": [
+      "tacos",
+      "pakuchi",
+      "salsa_verde"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "ユカタン料理",
+      "スープ",
+      "鶏肉",
+      "ライム",
+      "トルティーヤ"
+    ],
+    "reverseKeywords": [
+      "ライムの鶏スープ",
+      "ユカタンのスープ",
+      "酸味のあるメキシコスープ",
+      "揚げトルティーヤ入りスープ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/sopa-de-lima/1.jpg",
+      "/images/dishes/sopa-de-lima/2.jpg",
+      "/images/dishes/sopa-de-lima/3.jpg"
+    ]
+  },
+  {
+    "id": "brik",
+    "name": "ブリック",
+    "kana": "ぶりっく",
+    "englishName": "Brik",
+    "originalName": "بريك",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "チュニジア"
+      }
+    ],
+    "summary": "薄いワルカ生地で卵やツナ、じゃがいも、香草を包み、油でカリッと揚げるチュニジアの定番前菜。",
+    "menuDescription": "三角形や半月形の薄い揚げ包み。中に半熟卵、ツナ、ケッパー、じゃがいもなどが入り、レモンを絞って食べる。",
+    "whatComesOut": [
+      "薄く大きな揚げ包み",
+      "半熟卵やツナの具",
+      "レモンとハリッサの添え物"
+    ],
+    "tasteAndTexture": [
+      "外側はパリパリで軽い",
+      "卵の黄身がとろっと流れる",
+      "ツナや香草の塩気とレモンの酸味"
+    ],
+    "orderAdvice": "揚げたてが命。卵入りなら黄身をこぼさないよう、レモンを絞って熱いうちに食べる。",
+    "caution": "半熟卵が苦手なら卵なしや固めを確認するとよい。",
+    "similarItems": [
+      {
+        "id": "flautas",
+        "name": "フラウタス",
+        "difference": "フラウタスはトルティーヤを巻いて揚げる。ブリックは薄い生地で卵などを包む"
+      },
+      {
+        "name": "サモサ",
+        "difference": "サモサは厚めの生地で具を包む南アジア系の揚げ物。ブリックは薄く半熟卵入りが多い"
+      }
+    ],
+    "relatedIds": [
+      "harissa",
+      "shakshuka",
+      "couscous"
+    ],
+    "tags": [
+      "チュニジア料理",
+      "揚げ物",
+      "卵料理",
+      "前菜",
+      "ツナ",
+      "薄皮"
+    ],
+    "reverseKeywords": [
+      "チュニジアの揚げ包み",
+      "半熟卵の揚げ春巻き",
+      "ワルカ生地",
+      "レモンを絞る前菜"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/brik/1.jpg",
+      "/images/dishes/brik/2.jpg",
+      "/images/dishes/brik/3.jpg"
+    ]
+  },
+  {
+    "id": "fatima-fingers",
+    "name": "ファティマの指",
+    "kana": "ふぁてぃまのゆび",
+    "aliases": [
+      "ドワ・ド・ファティマ"
+    ],
+    "englishName": "Fatima Fingers",
+    "originalName": "Doigts de Fatma",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "チュニジア"
+      },
+      {
+        "area": "マグリブ"
+      }
+    ],
+    "summary": "薄い生地で肉や卵、チーズ、香草を細長く巻いて揚げるマグリブの前菜。名前は「ファティマの指」の意味。",
+    "menuDescription": "春巻きのような細長い揚げ包み。ひき肉、ツナ、卵、チーズ、パセリなどを詰め、レモンやハリッサを添える。",
+    "whatComesOut": [
+      "細長い揚げロール",
+      "肉や卵、チーズの詰め物",
+      "レモンや辛いソース"
+    ],
+    "tasteAndTexture": [
+      "皮はパリッと軽い",
+      "中は肉や卵でしっとり",
+      "香草とスパイスの香りがある"
+    ],
+    "orderAdvice": "前菜や軽い一品向き。ブリックより食べやすく、シェアもしやすい。",
+    "caution": "揚げ物で、具材に卵やチーズが入ることが多い。",
+    "similarItems": [
+      {
+        "id": "brik",
+        "name": "ブリック",
+        "difference": "ブリックは大きな包みで半熟卵入りが定番。ファティマの指は細長く巻く"
+      },
+      {
+        "name": "春巻き",
+        "difference": "春巻きは東アジア系の揚げ巻き。こちらはマグリブ系の香草とスパイスが特徴"
+      }
+    ],
+    "relatedIds": [
+      "brik",
+      "harissa",
+      "lamb"
+    ],
+    "tags": [
+      "チュニジア料理",
+      "マグリブ料理",
+      "揚げ物",
+      "前菜",
+      "包み料理",
+      "香草"
+    ],
+    "reverseKeywords": [
+      "細長いブリック",
+      "チュニジアの揚げ春巻き",
+      "ファティマの指",
+      "肉入り揚げロール"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "mechouia-salad",
+    "name": "メシュイアサラダ",
+    "kana": "めしゅいあさらだ",
+    "aliases": [
+      "サラダ・メシュイア"
+    ],
+    "englishName": "Mechouia Salad",
+    "originalName": "Salade méchouia",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "チュニジア"
+      }
+    ],
+    "summary": "焼いたピーマンや唐辛子、トマト、玉ねぎを刻み、オリーブオイルで和えるチュニジアの焼き野菜サラダ。",
+    "menuDescription": "香ばしく焼いた野菜を細かく刻んだ前菜。ツナ、ゆで卵、オリーブをのせることが多く、パンですくって食べる。",
+    "whatComesOut": [
+      "刻んだ焼き野菜のサラダ",
+      "ツナ、卵、オリーブのトッピング",
+      "パンやハリッサの添え物"
+    ],
+    "tasteAndTexture": [
+      "焼き野菜の香ばしさ",
+      "トマトの酸味と唐辛子の辛み",
+      "オリーブオイルでしっとり"
+    ],
+    "orderAdvice": "前菜として便利。辛さは店により大きく違うので、辛いものが苦手なら確認する。",
+    "caution": "青唐辛子入りで見た目以上に辛い場合がある。",
+    "similarItems": [
+      {
+        "id": "baba-ganoush",
+        "name": "ババガヌーシュ",
+        "difference": "ババガヌーシュは焼きなすペースト。メシュイアサラダは焼きピーマンやトマトの刻みサラダ"
+      },
+      {
+        "id": "gazpacho",
+        "name": "ガスパチョ",
+        "difference": "ガスパチョは冷製スープ。メシュイアサラダは焼き野菜を刻んだ前菜"
+      }
+    ],
+    "relatedIds": [
+      "harissa",
+      "brik",
+      "couscous"
+    ],
+    "tags": [
+      "チュニジア料理",
+      "サラダ",
+      "焼き野菜",
+      "前菜",
+      "唐辛子",
+      "オリーブオイル"
+    ],
+    "reverseKeywords": [
+      "焼きピーマンサラダ",
+      "チュニジアの辛いサラダ",
+      "ツナと卵の焼き野菜前菜",
+      "メシュイア"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/mechouia-salad/1.jpg",
+      "/images/dishes/mechouia-salad/2.jpg",
+      "/images/dishes/mechouia-salad/3.jpg"
+    ]
+  },
+  {
+    "id": "hsou",
+    "name": "ホウ",
+    "kana": "ほう",
+    "aliases": [
+      "ハスー",
+      "フスー"
+    ],
+    "englishName": "Hsou",
+    "originalName": "حسو",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "チュニジア"
+      }
+    ],
+    "summary": "セモリナや小麦粉を使う、チュニジアの軽いスープ。トマト、ハリッサ、香辛料を効かせる家庭的な一品。",
+    "menuDescription": "赤みのあるさらっとしたスープ。セモリナのとろみ、トマト、にんにく、唐辛子、オリーブオイルの風味がある。",
+    "whatComesOut": [
+      "小さめの椀の赤いスープ",
+      "セモリナ由来の軽いとろみ",
+      "ハリッサや香辛料の香り"
+    ],
+    "tasteAndTexture": [
+      "トマトと唐辛子の素朴な旨み",
+      "粒感または軽いとろみがある",
+      "温かく胃にやさしい"
+    ],
+    "orderAdvice": "軽いスープが欲しいときに。辛さ控えめ希望ならハリッサ量を確認する。",
+    "caution": "店や家庭で具材と辛さがかなり変わる。",
+    "similarItems": [
+      {
+        "id": "chorba",
+        "name": "チョルバ",
+        "difference": "チョルバは肉や豆、麦が入る具だくさんスープ。ホウはより軽いセモリナ系スープ"
+      },
+      {
+        "id": "harissa",
+        "name": "ハリッサ",
+        "difference": "ハリッサは辛味調味料。ホウはそれを使うことがあるスープ"
+      }
+    ],
+    "relatedIds": [
+      "harissa",
+      "couscous",
+      "chorba"
+    ],
+    "tags": [
+      "チュニジア料理",
+      "スープ",
+      "セモリナ",
+      "トマト",
+      "唐辛子",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "チュニジアの軽いスープ",
+      "セモリナのスープ",
+      "赤い朝食スープ",
+      "ハリッサ入りスープ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "chorba",
+    "name": "チョルバ",
+    "kana": "ちょるば",
+    "englishName": "Chorba",
+    "originalName": "شربة",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "マグリブ"
+      },
+      {
+        "country": "チュニジア"
+      }
+    ],
+    "summary": "肉、トマト、豆、香草、フリックや細いパスタなどを煮るマグリブのスープ。ラマダンの食卓にもよく出る。",
+    "menuDescription": "赤い具だくさんスープ。ラムや鶏肉、ひよこ豆、セロリ、コリアンダー、麦や小さなパスタが入り、レモンを添える。",
+    "whatComesOut": [
+      "深皿の赤いスープ",
+      "肉、豆、麦やパスタの具",
+      "レモンと香草"
+    ],
+    "tasteAndTexture": [
+      "トマトと肉だしの旨み",
+      "豆や麦で食べごたえがある",
+      "香草とレモンで後味が軽い"
+    ],
+    "orderAdvice": "前菜にも軽い食事にもなる。ラム入りは香りが強め、鶏肉入りは食べやすい。",
+    "caution": "地域差が大きく、辛さや具材が店により違う。",
+    "similarItems": [
+      {
+        "id": "hsou",
+        "name": "ホウ",
+        "difference": "ホウは軽いセモリナ系スープ。チョルバは肉や豆入りで具だくさん"
+      },
+      {
+        "id": "minestrone",
+        "name": "ミネストローネ",
+        "difference": "ミネストローネはイタリアの野菜スープ。チョルバはマグリブの香草とスパイスが強い"
+      }
+    ],
+    "relatedIds": [
+      "lamb",
+      "chickpea",
+      "harissa",
+      "hsou"
+    ],
+    "tags": [
+      "マグリブ料理",
+      "チュニジア料理",
+      "スープ",
+      "ラム",
+      "豆",
+      "ラマダン"
+    ],
+    "reverseKeywords": [
+      "マグリブの赤いスープ",
+      "ラマダンのスープ",
+      "ラムと豆のスープ",
+      "チュニジアの具だくさんスープ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/chorba/1.jpg",
+      "/images/dishes/chorba/2.jpg",
+      "/images/dishes/chorba/3.jpg"
+    ]
+  },
+  {
+    "id": "ojja",
+    "name": "オジャ",
+    "kana": "おじゃ",
+    "englishName": "Ojja",
+    "originalName": "عجة",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "チュニジア"
+      }
+    ],
+    "summary": "トマト、唐辛子、にんにく、ハリッサのソースに卵を加えるチュニジア料理。メルゲーズや魚介入りも多い。",
+    "menuDescription": "赤く辛いトマトソースに卵を混ぜたり落としたりした一皿。ソーセージ、エビ、肉を加えることもある。",
+    "whatComesOut": [
+      "フライパン風の赤い卵料理",
+      "トマトと唐辛子の濃いソース",
+      "メルゲーズや魚介の追加具材"
+    ],
+    "tasteAndTexture": [
+      "ハリッサの辛みがしっかり効く",
+      "卵で少しまろやか",
+      "パンに合う濃いソース"
+    ],
+    "orderAdvice": "辛い卵料理が好きならおすすめ。メルゲーズ入りはより重く、魚介入りは香りが出る。",
+    "caution": "シャクシュカより卵が混ざり、辛めに仕上がることが多い。",
+    "similarItems": [
+      {
+        "id": "shakshuka",
+        "name": "シャクシュカ",
+        "difference": "シャクシュカは卵をソースに落として煮る。オジャは卵を混ぜ込むことが多く、より辛い"
+      },
+      {
+        "id": "huevos-rancheros",
+        "name": "ウェボス・ランチェロス",
+        "difference": "ウェボス・ランチェロスはトルティーヤに卵をのせるメキシコ料理。オジャはチュニジアの辛い卵煮"
+      }
+    ],
+    "relatedIds": [
+      "shakshuka",
+      "harissa",
+      "chorizo"
+    ],
+    "tags": [
+      "チュニジア料理",
+      "卵料理",
+      "トマト",
+      "ハリッサ",
+      "辛い",
+      "メルゲーズ"
+    ],
+    "reverseKeywords": [
+      "チュニジアの辛い卵料理",
+      "ハリッサ卵",
+      "メルゲーズ入り卵煮",
+      "赤い卵ソース"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/ojja/1.jpg",
+      "/images/dishes/ojja/2.jpg",
+      "/images/dishes/ojja/3.jpg"
+    ]
+  },
+  {
+    "id": "kafteji",
+    "name": "カフテジ",
+    "kana": "かふてじ",
+    "englishName": "Kafteji",
+    "originalName": "كفتاجي",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "チュニジア"
+      }
+    ],
+    "summary": "じゃがいも、かぼちゃ、ピーマン、唐辛子、卵などを揚げて刻み、混ぜ合わせるチュニジアの庶民的な野菜料理。",
+    "menuDescription": "揚げ野菜と卵を細かく刻んだ一皿。パンに挟んだり、肉やソーセージの付け合わせとして出る。",
+    "whatComesOut": [
+      "刻んだ揚げ野菜の盛り合わせ",
+      "卵や唐辛子入りのミックス",
+      "パンや肉料理の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "揚げ野菜の甘みと油のコク",
+      "唐辛子の辛みが混ざる",
+      "細かく刻まれ一体感がある"
+    ],
+    "orderAdvice": "屋台飯感を楽しみたいときに。辛さと油分があるので、パンやサラダと合わせると食べやすい。",
+    "caution": "野菜料理だが揚げ物なので重め。辛い唐辛子入りの場合がある。",
+    "similarItems": [
+      {
+        "id": "mechouia-salad",
+        "name": "メシュイアサラダ",
+        "difference": "メシュイアサラダは焼き野菜の前菜。カフテジは揚げ野菜と卵を刻む"
+      },
+      {
+        "id": "ratatouille",
+        "name": "ラタトゥイユ",
+        "difference": "ラタトゥイユは煮込み野菜。カフテジは揚げ野菜を刻んだ料理"
+      }
+    ],
+    "relatedIds": [
+      "harissa",
+      "mechouia-salad",
+      "shakshuka"
+    ],
+    "tags": [
+      "チュニジア料理",
+      "野菜料理",
+      "揚げ物",
+      "卵料理",
+      "屋台料理",
+      "唐辛子"
+    ],
+    "reverseKeywords": [
+      "揚げ野菜のチュニジア料理",
+      "刻んだ野菜と卵",
+      "チュニジア屋台飯",
+      "かぼちゃと唐辛子の炒め風"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/kafteji/1.jpg",
+      "/images/dishes/kafteji/2.jpg",
+      "/images/dishes/kafteji/3.jpg"
+    ]
+  },
+  {
+    "id": "kamounia",
+    "name": "カムニア",
+    "kana": "かむにあ",
+    "englishName": "Kamounia",
+    "originalName": "كمونية",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "チュニジア"
+      },
+      {
+        "area": "マグリブ"
+      }
+    ],
+    "summary": "牛肉や羊肉、レバーなどをクミンの効いた赤いソースで煮込むチュニジアの肉料理。名前もクミンに由来する。",
+    "menuDescription": "小さく切った肉や内臓をトマト、唐辛子、にんにく、たっぷりのクミンで煮た濃い煮込み。パンでソースをすくって食べる。",
+    "whatComesOut": [
+      "赤茶色の濃い肉煮込み",
+      "牛肉、羊肉、レバーなどの具",
+      "クミンが強く香るソース"
+    ],
+    "tasteAndTexture": [
+      "クミンの香りが前面に出る",
+      "肉や内臓の旨みが濃い",
+      "ソースは辛く重め"
+    ],
+    "orderAdvice": "クミンや内臓料理が好きなら合う。パンやクスクスと合わせると満足度が高い。",
+    "caution": "レバーや内臓入りの場合があり、香りが強い。",
+    "similarItems": [
+      {
+        "id": "menudo",
+        "name": "メヌード",
+        "difference": "メヌードは牛胃のスープ。カムニアはクミン主体の濃い肉・内臓煮込み"
+      },
+      {
+        "id": "tajin",
+        "name": "タジン",
+        "difference": "タジンは土鍋煮込みの総称寄り。カムニアはクミン味の肉煮込み"
+      }
+    ],
+    "relatedIds": [
+      "lamb",
+      "harissa",
+      "couscous",
+      "menudo"
+    ],
+    "tags": [
+      "チュニジア料理",
+      "肉料理",
+      "煮込み",
+      "クミン",
+      "内臓料理",
+      "スパイス"
+    ],
+    "reverseKeywords": [
+      "クミン煮込み",
+      "チュニジアの肉煮込み",
+      "レバー入りスパイス煮",
+      "赤いクミンソース"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/kamounia/1.jpg",
+      "/images/dishes/kamounia/2.jpg",
+      "/images/dishes/kamounia/3.jpg"
+    ]
+  },
+  {
+    "id": "loubia",
+    "name": "ルビア",
+    "kana": "るびあ",
+    "englishName": "Loubia",
+    "originalName": "لوبيا",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "マグリブ"
+      },
+      {
+        "country": "チュニジア"
+      }
+    ],
+    "summary": "白いんげん豆をトマト、にんにく、唐辛子、スパイスで煮るマグリブの豆煮込み。肉入りも肉なしもある。",
+    "menuDescription": "白豆の赤い煮込み。牛肉や羊肉を加えることもあり、パンやクスクスと一緒に食べる家庭的な料理。",
+    "whatComesOut": [
+      "白豆のトマト煮込み",
+      "赤いスパイスソース",
+      "肉入りまたは豆だけの皿"
+    ],
+    "tasteAndTexture": [
+      "白豆がほくほくでクリーミー",
+      "トマトとにんにくの旨み",
+      "唐辛子でじんわり辛い"
+    ],
+    "orderAdvice": "豆の煮込みが好きなら安心。肉入りは主菜、豆だけなら軽めの一皿として選べる。",
+    "caution": "豆料理なので腹持ちがよい。辛さは店により違う。",
+    "similarItems": [
+      {
+        "id": "white-bean",
+        "name": "白いんげん豆",
+        "difference": "白いんげん豆は食材。ルビアは白豆のマグリブ風煮込み"
+      },
+      {
+        "id": "cassoulet",
+        "name": "カスレ",
+        "difference": "カスレはフランスの肉と白豆の重い煮込み。ルビアはトマトと唐辛子の豆煮込み"
+      }
+    ],
+    "relatedIds": [
+      "white-bean",
+      "harissa",
+      "lamb",
+      "couscous"
+    ],
+    "tags": [
+      "マグリブ料理",
+      "チュニジア料理",
+      "豆料理",
+      "白いんげん豆",
+      "煮込み",
+      "トマト"
+    ],
+    "reverseKeywords": [
+      "白豆のチュニジア煮込み",
+      "マグリブの豆料理",
+      "赤い白いんげん豆煮",
+      "ルビヤ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/loubia/1.jpg",
+      "/images/dishes/loubia/2.jpg"
+    ]
+  },
+  {
+    "id": "madfouna",
+    "name": "マドフナ",
+    "kana": "まどふな",
+    "englishName": "Madfouna",
+    "originalName": "مدفونة",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "チュニジア"
+      }
+    ],
+    "summary": "青菜や豆、肉をスパイスでじっくり煮るチュニジアの家庭的な煮込み。名前は「埋められたもの」に由来する。",
+    "menuDescription": "ほうれん草やフダンソウなどの青菜、豆、牛肉や羊肉を濃く煮た緑がかった煮込み。パンやクスクスと合わせる。",
+    "whatComesOut": [
+      "青菜の濃い煮込み",
+      "肉と豆が入った深い皿",
+      "パンやクスクスの添え物"
+    ],
+    "tasteAndTexture": [
+      "青菜の土っぽい旨み",
+      "豆と肉で厚みがある",
+      "スパイスと油で濃厚"
+    ],
+    "orderAdvice": "素朴な煮込みが好きな人向き。見た目より重く、主菜として考えるとよい。",
+    "caution": "青菜の風味と濃い煮込み感で好みが分かれる。",
+    "similarItems": [
+      {
+        "id": "loubia",
+        "name": "ルビア",
+        "difference": "ルビアは白豆の赤い煮込み。マドフナは青菜と肉、豆の濃い煮込み"
+      },
+      {
+        "id": "couscous",
+        "name": "クスクス",
+        "difference": "クスクスは粒状の主食と煮込みの組み合わせ。マドフナは青菜煮込みそのもの"
+      }
+    ],
+    "relatedIds": [
+      "loubia",
+      "couscous",
+      "lamb",
+      "chickpea"
+    ],
+    "tags": [
+      "チュニジア料理",
+      "煮込み",
+      "青菜",
+      "豆料理",
+      "肉料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "青菜のチュニジア煮込み",
+      "肉と豆の緑の煮込み",
+      "フダンソウ煮込み",
+      "マドフーナ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "koucha-allouche",
+    "name": "コウシャ・アルーシュ",
+    "kana": "こうしゃあるーしゅ",
+    "aliases": [
+      "クーシャ・アルーシュ"
+    ],
+    "englishName": "Koucha Allouche",
+    "originalName": "كوشة علوش",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "チュニジア"
+      }
+    ],
+    "summary": "羊肉をスパイスで味付けし、じゃがいもなどとオーブンで焼くチュニジアの祝祭的な肉料理。名前は羊のオーブン焼きの意味。",
+    "menuDescription": "ラムまたは羊肉のロースト。ターメリック、唐辛子、にんにく、ローズマリーなどで香りをつけ、じゃがいもを添えることが多い。",
+    "whatComesOut": [
+      "大きな羊肉のロースト",
+      "じゃがいもや野菜の付け合わせ",
+      "スパイスの効いた肉汁"
+    ],
+    "tasteAndTexture": [
+      "羊肉の濃い旨み",
+      "表面は香ばしく中は柔らかい",
+      "スパイスとにんにくの香り"
+    ],
+    "orderAdvice": "羊肉好き向けの主菜。数人で取り分ける量になることも多いので、サイズ確認が大事。",
+    "caution": "羊肉特有の香りがある。部位により骨付きで出る。",
+    "similarItems": [
+      {
+        "id": "lamb",
+        "name": "ラム",
+        "difference": "ラムは食材名。コウシャ・アルーシュは羊肉のチュニジア風オーブン焼き"
+      },
+      {
+        "id": "tajin",
+        "name": "タジン",
+        "difference": "タジンは煮込み寄り。コウシャ・アルーシュはオーブン焼きの羊肉"
+      }
+    ],
+    "relatedIds": [
+      "lamb",
+      "harissa",
+      "couscous",
+      "rosemary"
+    ],
+    "tags": [
+      "チュニジア料理",
+      "羊肉",
+      "ラム",
+      "ロースト",
+      "オーブン焼き",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "チュニジアの羊ロースト",
+      "ラムのオーブン焼き",
+      "羊肉とじゃがいも",
+      "クーシャ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 2,
+    "images": []
   }
 ]
