@@ -42,7 +42,8 @@ argument-hint: <料理名>
 
 4. 生成したJSONオブジェクトを dishes.json の配列末尾に追加（Edit使用）
 5. `python3 -c "import json; json.load(open('data/dishes.json')); print('JSON valid')"` で検証
-6. `pnpm typecheck` は不要（JSONファイルのみの変更）
+6. `node scripts/download-images.mjs <追加したidをスペース区切り>` で画像ダウンロード（dishes.jsonも自動更新される）
+7. `pnpm typecheck` は不要（JSONファイルのみの変更）
 
 ## タグ方針
 
@@ -68,6 +69,7 @@ argument-hint: <料理名>
 - `id` は既存と重複禁止。
 - `relatedIds` は必ず既存dishesに存在するidのみ使用
 - スコアは独断で設定（料理の性質から判断）
-- `images` フィールドは追加しない（後で別途追加）
+- `images` フィールドは追加しない（download-images.mjs が自動追加する）
 - 生成前に「[料理名] を追加する」と1行表示
 - 追加完了後に生成したJSONを表示
+- 画像ダウンロード完了後、取得できた枚数を報告
