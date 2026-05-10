@@ -22272,5 +22272,77 @@
       "/images/dishes/hiyashi-ramen/2.jpg",
       "/images/dishes/hiyashi-ramen/3.jpg"
     ]
+  },
+  {
+    "id": "dondonyaki",
+    "name": "どんどん焼き",
+    "kana": "どんどんやき",
+    "aliases": [
+      "ドンドン焼き"
+    ],
+    "englishName": "Dondonyaki",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "東北",
+        "locality": "山形"
+      }
+    ],
+    "summary": "山形県発祥の屋台料理。薄く溶いた小麦粉生地をソース・ネギ・天かすで味付けして鉄板で焼き、割り箸に巻いて提供する昭和の庶民的軽食。",
+    "menuDescription": "小麦粉を薄く溶いた生地をソースで味付けし、刻みネギや天かすをのせて鉄板で焼き上げた山形発祥の屋台料理。割り箸に巻かれた独特のスタイルで、手軽に食べ歩きができます。",
+    "whatComesOut": [
+      "割り箸に巻き付けられた薄焼き生地",
+      "ウスターソース・甘辛ソース",
+      "刻みネギ・天かす（トッピング）"
+    ],
+    "tasteAndTexture": [
+      "もちもちした薄い生地",
+      "ソースの甘辛い香ばしさ",
+      "ネギのシャキシャキ感"
+    ],
+    "orderAdvice": "お好み焼きより軽く手軽。屋台・縁日で見かけたら試す価値あり。シンプルな味付けで食べやすく、1本でちょうどよい量。",
+    "caution": "小麦アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "crepe",
+        "name": "クレープ",
+        "difference": "クレープは薄い生地に甘いフィリングを包むが、どんどん焼きはソース味で割り箸に巻く"
+      },
+      {
+        "name": "お好み焼き",
+        "difference": "お好み焼きは厚みがあり具材豊富だが、どんどん焼きは生地が薄くシンプルな構成"
+      },
+      {
+        "name": "もんじゃ焼き",
+        "difference": "もんじゃは水分多く鉄板でそのまま食べるが、どんどん焼きは割り箸に巻いて携帯して食べる"
+      }
+    ],
+    "relatedIds": [
+      "crepe"
+    ],
+    "tags": [
+      "日本料理",
+      "軽食",
+      "小麦",
+      "焼き物",
+      "香ばしい",
+      "東北",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "こってり料理",
+      "肉料理",
+      "ガッツリ系",
+      "スパイシー",
+      "洋食"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/dondonyaki/1.jpg"
+    ]
   }
 ]
