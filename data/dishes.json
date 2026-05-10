@@ -22033,16 +22033,13 @@
       "boil"
     ],
     "tags": [
-      "郷土料理",
-      "東北",
-      "山形",
+      "日本料理",
       "鍋料理",
-      "里芋",
-      "醤油仕立て",
-      "秋の料理",
-      "和食",
-      "煮物",
-      "野外鍋"
+      "牛肉",
+      "野菜",
+      "煮込み",
+      "あっさり",
+      "東北"
     ],
     "reverseKeywords": [
       "こんにゃく不使用",
@@ -22053,6 +22050,227 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/imoni/1.jpg",
+      "/images/dishes/imoni/2.jpg"
+    ]
+  },
+  {
+    "id": "tori-chuka",
+    "name": "鳥中華",
+    "kana": "とりちゅうか",
+    "aliases": [
+      "鶏中華",
+      "とりちゅうか"
+    ],
+    "englishName": "Tori Chuka",
+    "originalName": "鳥中華（とりちゅうか）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "locality": "山形"
+      }
+    ],
+    "summary": "山形県で親しまれる郷土の麺料理。そば麺を鶏ガラベースの中華風しょうゆスープで食べる一品で、温・冷どちらでも楽しめる。",
+    "menuDescription": "そば（蕎麦）を中華スタイルのしょうゆベース鶏スープで仕上げた山形の名物麺料理。澄んだ鶏の旨みが蕎麦によく合い、あっさりながら奥深い一杯。",
+    "whatComesOut": [
+      "そば麺（温または冷）",
+      "鶏ガラしょうゆベースの澄んだスープ",
+      "鶏肉・メンマ・ネギなどのトッピング"
+    ],
+    "tasteAndTexture": [
+      "澄んだ鶏ガラしょうゆスープのあっさりとした旨み",
+      "蕎麦のコシと独特の風味",
+      "蕎麦と中華スープの意外な調和"
+    ],
+    "orderAdvice": "蕎麦と中華スープの組み合わせに興味があれば迷わず選ぶべき。あっさり系が好きな人にも向いている。",
+    "caution": "蕎麦アレルギーの方は不可。小麦・大豆（しょうゆ）を含む。",
+    "similarItems": [
+      {
+        "id": "hegi-soba",
+        "name": "片木蕎麦",
+        "difference": "へぎそばは布海苔入りの新潟蕎麦で冷たいつゆに浸けて食べる。鳥中華は鶏ガラ中華スープに蕎麦を入れた山形の麺料理"
+      },
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーはベトナムの米粉スープ麺。鳥中華は蕎麦を中華しょうゆスープで食べる山形の郷土料理"
+      }
+    ],
+    "relatedIds": [
+      "hegi-soba",
+      "pho",
+      "imoni"
+    ],
+    "tags": [
+      "日本料理",
+      "麺料理",
+      "鶏肉",
+      "あっさり",
+      "東北"
+    ],
+    "reverseKeywords": [
+      "蕎麦嫌い",
+      "こってり系",
+      "辛い",
+      "洋食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "niku-soba",
+    "name": "肉そば",
+    "kana": "にくそば",
+    "aliases": [
+      "にくそば",
+      "肉蕎麦"
+    ],
+    "englishName": "Niku Soba",
+    "originalName": "肉そば（にくそば）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "locality": "山形・上山"
+      }
+    ],
+    "summary": "山形県上山市周辺で広まった郷土そば。甘辛のしょうゆ出汁で煮た鶏もも肉をたっぷりのせた蕎麦で、温・冷どちらでも楽しめる。",
+    "menuDescription": "甘辛のしょうゆ出汁でじっくり煮た鶏もも肉をのせた山形の蕎麦料理。温かいそばとしてだけでなく、冷たい「冷やし肉そば」も夏の定番として人気。",
+    "whatComesOut": [
+      "そば（蕎麦）",
+      "甘辛く煮た鶏もも肉",
+      "ネギなどの薬味",
+      "温または冷で提供"
+    ],
+    "tasteAndTexture": [
+      "甘辛しょうゆ出汁の深いコク",
+      "やわらかい鶏もも肉のジューシーな食感",
+      "蕎麦のつるっとした喉越し"
+    ],
+    "orderAdvice": "鶏肉の甘辛煮がのったそばを楽しみたい人向け。冷たい肉そばは夏の絶品グルメ。",
+    "caution": "蕎麦アレルギーの方は不可。大豆（しょうゆ）を含む。",
+    "similarItems": [
+      {
+        "id": "tori-chuka",
+        "name": "鳥中華",
+        "difference": "鳥中華は中華風しょうゆスープに蕎麦を入れた料理。肉そばは甘辛煮の鶏もも肉をのせた蕎麦料理"
+      },
+      {
+        "id": "hegi-soba",
+        "name": "片木蕎麦",
+        "difference": "へぎそばは布海苔入りの新潟蕎麦でつゆ浸けスタイル。肉そばは甘辛鶏肉トッピングの山形郷土蕎麦"
+      }
+    ],
+    "relatedIds": [
+      "tori-chuka",
+      "hegi-soba",
+      "pho",
+      "imoni"
+    ],
+    "tags": [
+      "日本料理",
+      "麺料理",
+      "鶏肉",
+      "煮込み",
+      "あっさり",
+      "東北"
+    ],
+    "reverseKeywords": [
+      "蕎麦嫌い",
+      "肉不要",
+      "洋食",
+      "デザート",
+      "辛い"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/niku-soba/1.jpg"
+    ]
+  },
+  {
+    "id": "hiyashi-ramen",
+    "name": "冷やしラーメン",
+    "kana": "ひやしらーめん",
+    "aliases": [
+      "冷しラーメン",
+      "ひやしらーめん"
+    ],
+    "englishName": "Hiyashi Ramen",
+    "originalName": "冷やしラーメン",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "locality": "山形"
+      }
+    ],
+    "summary": "山形市発祥とされる冷たいラーメン。冷たいしょうゆベースの透明スープに中華麺を合わせた夏の名物で、全国のラーメン店にも広まっている。",
+    "menuDescription": "冷たいしょうゆ（または塩・鶏ガラ）ベースのスープに中華麺を合わせ、チャーシュー・きゅうり・メンマ・卵などをのせた山形発祥の冷麺料理。冷たくても旨みが凝縮されたスープが特徴。",
+    "whatComesOut": [
+      "冷たい中華麺",
+      "冷たいしょうゆベーススープ",
+      "チャーシュー・きゅうり・メンマ・卵などのトッピング"
+    ],
+    "tasteAndTexture": [
+      "キリッと冷えた澄んだしょうゆスープの旨み",
+      "中華麺のコシと喉越し",
+      "冷たさの中に凝縮された旨み"
+    ],
+    "orderAdvice": "暑い季節に食べたい山形発の冷麺スタイル。冷たいスープが苦手でなければ積極的に試してほしい一品。",
+    "caution": "小麦（麺）・大豆（しょうゆ）を含む。卵アレルギーにも注意。",
+    "similarItems": [
+      {
+        "id": "tori-chuka",
+        "name": "鳥中華",
+        "difference": "鳥中華は蕎麦を使った山形の麺料理。冷やしラーメンは中華麺を使った冷たいラーメン"
+      },
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーはベトナムの温かい米粉スープ麺。冷やしラーメンは冷たいスープで食べる日本の中華麺料理"
+      },
+      {
+        "name": "冷麺",
+        "difference": "韓国の冷麺はそば粉や澱粉の細麺を使う。冷やしラーメンは中華麺を使った日本式冷麺"
+      }
+    ],
+    "relatedIds": [
+      "tori-chuka",
+      "niku-soba",
+      "pho",
+      "hegi-soba"
+    ],
+    "tags": [
+      "日本料理",
+      "麺料理",
+      "あっさり",
+      "東北"
+    ],
+    "reverseKeywords": [
+      "冷たい麺苦手",
+      "温かいスープ派",
+      "こってり",
+      "洋食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hiyashi-ramen/1.jpg",
+      "/images/dishes/hiyashi-ramen/2.jpg",
+      "/images/dishes/hiyashi-ramen/3.jpg"
+    ]
   }
 ]
