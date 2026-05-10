@@ -35,6 +35,24 @@ Do not run `pnpm typecheck` for a JSON-only change.
 - After completion, show the generated JSON object.
 - Include the downloaded image paths in the final output.
 
+## Tag Policy
+
+Tags use **5 dimensions** (4–8 total per dish):
+
+| Dimension | Examples |
+|-----------|---------|
+| Cuisine | `フランス料理` / `イタリア料理` / `中国料理` / `四川料理` — country-level only |
+| Dish type | `前菜` / `主菜` / `スープ` / `サラダ` / `デザート` / `ソース` |
+| Main ingredient | `牛肉` / `豚肉` / `魚介` / `チーズ` / `野菜` / `ハーブ` / `スパイス` |
+| Cooking method | `煮込み` / `揚げ物` / `焼き物` / `蒸し料理` / `炒め物` / `グリル` / `燻製` |
+| Flavor/texture | `ピリ辛` / `こってり` / `あっさり` / `クリーミー` / `香ばしい` |
+
+**Prohibited patterns:**
+- City/region name tags (`ナポリ`, `プロヴァンス`, `ブルゴーニュ`) → use country cuisine tag
+- Dimension-mixed tags (`イタリアチーズ`, `フランスソース`, `地中海野菜`) → use single-dimension tags instead
+
+See `CLAUDE.md` Tag Policy section for the full canonical tag list.
+
 ## Data Rules
 
 - `id`: lowercase romanized slug with hyphens, e.g. `beef-bourguignon`.
@@ -65,7 +83,7 @@ Do not run `pnpm typecheck` for a JSON-only change.
   caution?: string
   similarItems: { id?: string; name: string; difference: string }[]
   relatedIds: string[]
-  tags: string[]
+  tags: string[]  // 4–8 tags. See Tag Policy below.
   reverseKeywords: string[]
   beginnerFriendlyScore: 1 | 2 | 3 | 4 | 5
   uniquenessScore: 1 | 2 | 3 | 4 | 5
