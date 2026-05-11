@@ -22344,5 +22344,2939 @@
     "images": [
       "/images/dishes/dondonyaki/1.jpg"
     ]
+  },
+  {
+    "id": "dadacha-mame",
+    "name": "だだちゃ豆",
+    "kana": "だだちゃまめ",
+    "aliases": [
+      "ダダチャ豆",
+      "だだちゃまめ"
+    ],
+    "englishName": "Dadacha Edamame",
+    "originalName": "だだちゃ豆",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "東北",
+        "locality": "山形・庄内"
+      }
+    ],
+    "summary": "山形県庄内地方で栽培される在来系の枝豆。小ぶりで茶色い産毛があり、強い香りと濃い甘み、深い豆の旨みが特徴。",
+    "menuDescription": "香りの強い山形の枝豆。塩ゆでで出ることが多く、一般的な枝豆より甘みと豆のコクが濃く感じられる。",
+    "whatComesOut": [
+      "塩ゆでした枝付きまたはさや付きの枝豆",
+      "茶色い産毛がある小ぶりのさや",
+      "夏から初秋の季節メニューとして出ることが多い"
+    ],
+    "tasteAndTexture": [
+      "強い豆の香り",
+      "濃い甘みと旨み",
+      "ほくっとした粒感",
+      "塩味で甘みが引き立つ"
+    ],
+    "orderAdvice": "枝豆好きなら積極的に選びたい季節の一品。酒のつまみや軽い前菜に向く。",
+    "caution": "大豆アレルギーの方は不可。旬が短く、冷凍品の場合もある。",
+    "similarItems": [
+      {
+        "name": "枝豆",
+        "difference": "枝豆は若い大豆全般。だだちゃ豆は山形・庄内の在来系品種で香りと甘みが強い"
+      },
+      {
+        "id": "chickpea",
+        "name": "ひよこ豆",
+        "difference": "ひよこ豆は乾燥豆として煮込みやペーストに使う。だだちゃ豆は若い大豆を塩ゆでで食べる"
+      },
+      {
+        "name": "茶豆",
+        "difference": "茶豆は茶色い薄皮を持つ枝豆系統の総称。だだちゃ豆は庄内地方の代表的な茶豆"
+      }
+    ],
+    "relatedIds": [
+      "chickpea",
+      "boil"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "豆",
+      "茹で物",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "大豆アレルギー",
+      "豆が苦手",
+      "温かい主菜",
+      "肉料理",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "tama-konnyaku",
+    "name": "玉こんにゃく",
+    "kana": "たまこんにゃく",
+    "aliases": [
+      "玉こん",
+      "玉蒟蒻"
+    ],
+    "englishName": "Tama Konnyaku",
+    "originalName": "玉こんにゃく",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "東北",
+        "locality": "山形"
+      }
+    ],
+    "summary": "丸いこんにゃくを醤油だれで煮含めた山形の郷土的な軽食。串に刺して出ることも多く、素朴な弾力と甘辛い味が特徴。",
+    "menuDescription": "丸いこんにゃくを醤油・酒・するめなどの旨みで煮た山形名物。屋台や観光地では串に刺した熱々の玉こんとして出る。",
+    "whatComesOut": [
+      "丸いこんにゃく数個",
+      "醤油色に煮含めた甘辛い味付け",
+      "串刺しまたは小鉢で提供",
+      "辛子が添えられることがある"
+    ],
+    "tasteAndTexture": [
+      "ぷりぷりした強い弾力",
+      "醤油の香ばしい塩気",
+      "するめやだしの旨み",
+      "軽くてあっさりした後味"
+    ],
+    "orderAdvice": "軽い郷土料理や酒のつまみが欲しいときに向く。満腹感は控えめなので、主食ではなく小腹満たし向け。",
+    "caution": "弾力が強いので小さな子どもや高齢者は一口サイズに注意。大豆（しょうゆ）を含む。",
+    "similarItems": [
+      {
+        "id": "imoni",
+        "name": "芋煮",
+        "difference": "芋煮は里芋・肉・こんにゃく入りの鍋料理。玉こんにゃくはこんにゃく単体を甘辛く煮た軽食"
+      },
+      {
+        "name": "おでん",
+        "difference": "おでんは大根や練り物など多品目をだしで煮る。玉こんにゃくは丸こんにゃく中心で醤油味が濃い"
+      },
+      {
+        "name": "味噌こんにゃく",
+        "difference": "味噌こんにゃくは味噌だれをかけることが多い。玉こんにゃくは醤油で煮含める"
+      }
+    ],
+    "relatedIds": [
+      "imoni",
+      "boil"
+    ],
+    "tags": [
+      "日本料理",
+      "軽食",
+      "野菜",
+      "煮込み",
+      "あっさり",
+      "香ばしい",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "こんにゃく苦手",
+      "肉料理",
+      "主食",
+      "こってり",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "lagman",
+    "name": "ラグマン",
+    "kana": "らぐまん",
+    "aliases": [
+      "ラグメン",
+      "ラグモン"
+    ],
+    "englishName": "Lagman",
+    "originalName": "Lag'mon",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウズベキスタン"
+      },
+      {
+        "country": "キルギス"
+      },
+      {
+        "country": "中国",
+        "area": "新疆"
+      }
+    ],
+    "summary": "中央アジアで広く食べられる手延べ麺料理。羊肉や牛肉、野菜をトマト風味の汁または炒め煮にし、太めの麺にかける。",
+    "menuDescription": "手延べの太麺に、肉と野菜のトマト系ソースを合わせた中央アジアの麺料理。汁多めのスープ麺風から、汁少なめの和え麺風まで店により違う。",
+    "whatComesOut": [
+      "太めの手延べ麺",
+      "羊肉または牛肉と野菜のトマト風味ソース",
+      "ピーマン・玉ねぎ・にんじんなどの具",
+      "香菜や唐辛子酢が添えられることがある"
+    ],
+    "tasteAndTexture": [
+      "もちもちした太麺",
+      "肉と野菜の旨みが濃い",
+      "トマトの軽い酸味",
+      "クミンなどの香り"
+    ],
+    "orderAdvice": "麺料理が食べたいときの安定選択。辛さは控えめな店が多いが、香辛料の香りはある。",
+    "caution": "小麦（麺）を含む。羊肉を使う場合は独特の香りがある。",
+    "similarItems": [
+      {
+        "name": "うどん",
+        "difference": "うどんは和風だしで食べる小麦麺。ラグマンは肉野菜のトマト系ソースをかける中央アジア麺"
+      },
+      {
+        "id": "pelmeni",
+        "name": "ペリメニ",
+        "difference": "ペリメニは包み生地の水餃子。ラグマンは長い手延べ麺料理"
+      },
+      {
+        "name": "拌面",
+        "difference": "拌面は中国系の和え麺一般。ラグマンは中央アジアで発展した肉野菜麺"
+      }
+    ],
+    "relatedIds": [
+      "boil",
+      "lamb",
+      "pelmeni"
+    ],
+    "tags": [
+      "ウズベキスタン料理",
+      "麺料理",
+      "羊肉",
+      "野菜",
+      "煮込み",
+      "スパイス",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "小麦アレルギー",
+      "羊肉苦手",
+      "冷たい料理",
+      "軽い前菜",
+      "米料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/lagman/1.jpg",
+      "/images/dishes/lagman/2.jpg",
+      "/images/dishes/lagman/3.jpg"
+    ]
+  },
+  {
+    "id": "manti",
+    "name": "マントゥ",
+    "kana": "まんとぅ",
+    "aliases": [
+      "マンティ",
+      "Manti",
+      "Manty"
+    ],
+    "englishName": "Manti",
+    "originalName": "Manti",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウズベキスタン"
+      },
+      {
+        "country": "トルコ"
+      },
+      {
+        "country": "カザフスタン"
+      }
+    ],
+    "summary": "中央アジアからトルコ圏に広がる肉入り蒸し餃子。大きめの小麦生地に羊肉や牛肉、玉ねぎを包み、ヨーグルトやトマトソースを添える地域もある。",
+    "menuDescription": "肉と玉ねぎを包んだ大きめの蒸し餃子。もちっとした皮と肉汁が特徴で、中央アジア料理店では主菜として出ることが多い。",
+    "whatComesOut": [
+      "肉入りの大きな蒸し餃子",
+      "羊肉または牛肉と玉ねぎの餡",
+      "ヨーグルトソースやトマトソース",
+      "黒胡椒や唐辛子油が添えられることがある"
+    ],
+    "tasteAndTexture": [
+      "厚めの皮のもちもち感",
+      "肉汁と玉ねぎの甘み",
+      "羊肉の力強い旨み",
+      "ソースで酸味やコクが加わる"
+    ],
+    "orderAdvice": "餃子や小籠包が好きなら選びやすい。量が多いことがあるので、前菜より主菜感覚で。",
+    "caution": "小麦を含む。羊肉使用時は香りが強め。中の肉汁が熱い。",
+    "similarItems": [
+      {
+        "id": "baozi",
+        "name": "包子",
+        "difference": "包子は発酵生地の中華まん。マントゥは薄い小麦皮で肉餡を包む蒸し餃子"
+      },
+      {
+        "id": "pelmeni",
+        "name": "ペリメニ",
+        "difference": "ペリメニは小型で茹でることが多い。マントゥは大きめで蒸すことが多い"
+      },
+      {
+        "name": "小籠包",
+        "difference": "小籠包はスープ入りの中華点心。マントゥは中央アジア系で羊肉や玉ねぎの風味が強い"
+      }
+    ],
+    "relatedIds": [
+      "baozi",
+      "pelmeni",
+      "steam",
+      "lamb"
+    ],
+    "tags": [
+      "ウズベキスタン料理",
+      "主菜",
+      "羊肉",
+      "小麦",
+      "蒸し料理",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "小麦アレルギー",
+      "羊肉苦手",
+      "軽いサラダ",
+      "汁麺",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/manti/1.jpg",
+      "/images/dishes/manti/2.jpg",
+      "/images/dishes/manti/3.jpg"
+    ]
+  },
+  {
+    "id": "shivit-oshi",
+    "name": "シヴィット・オシィ",
+    "kana": "しゔぃっとおしぃ",
+    "aliases": [
+      "シヴィットオシ",
+      "シュヴィット・オシ",
+      "Shivit oshi"
+    ],
+    "englishName": "Shivit Oshi",
+    "originalName": "Shivit oshi",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウズベキスタン",
+        "locality": "ヒヴァ"
+      }
+    ],
+    "summary": "ディルを練り込んだ緑色の麺に、肉と野菜の煮込みやヨーグルトを添えるヒヴァ周辺の名物料理。香草の爽やかさが特徴。",
+    "menuDescription": "鮮やかな緑のディル麺に、肉野菜のソースとヨーグルトを合わせるウズベキスタン料理。見た目は個性的だが味は意外に食べやすい。",
+    "whatComesOut": [
+      "ディル入りの緑色の小麦麺",
+      "肉と野菜の煮込みソース",
+      "ヨーグルトまたはサワークリーム系ソース",
+      "刻みディルや香草"
+    ],
+    "tasteAndTexture": [
+      "ディルの爽やかな香り",
+      "もちっとした麺",
+      "ヨーグルトの酸味",
+      "肉野菜ソースの旨み"
+    ],
+    "orderAdvice": "香草が平気なら試す価値が高い名物。普通の麺料理より軽く感じやすい。",
+    "caution": "小麦と乳製品を含む。ディルなど香草が苦手なら避ける。",
+    "similarItems": [
+      {
+        "id": "lagman",
+        "name": "ラグマン",
+        "difference": "ラグマンは肉野菜ソースの手延べ麺。シヴィット・オシィはディル入りの緑麺とヨーグルトが特徴"
+      },
+      {
+        "name": "ほうれん草パスタ",
+        "difference": "ほうれん草パスタは野菜の色味が中心。シヴィット・オシィはディルの香りが主役"
+      },
+      {
+        "id": "tzatziki",
+        "name": "ザジキ",
+        "difference": "ザジキはヨーグルトソース。シヴィット・オシィはヨーグルトを添える麺料理"
+      }
+    ],
+    "relatedIds": [
+      "lagman",
+      "boil",
+      "lamb"
+    ],
+    "tags": [
+      "ウズベキスタン料理",
+      "麺料理",
+      "ハーブ",
+      "羊肉",
+      "煮込み",
+      "あっさり",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "香草苦手",
+      "乳製品不可",
+      "小麦アレルギー",
+      "濃い肉料理",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "nohat-shorak",
+    "name": "ノハット・ショラック",
+    "kana": "のはっとしょらっく",
+    "aliases": [
+      "ノハット・ショラク",
+      "ノハト・ショラク",
+      "Nohat shorak"
+    ],
+    "englishName": "Nohat Shorak",
+    "originalName": "Nohat shorak",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウズベキスタン"
+      }
+    ],
+    "summary": "ひよこ豆を羊肉のだしや香辛料で柔らかく煮るウズベキスタンの豆料理。肉を添えて主菜のように食べることも多い。",
+    "menuDescription": "ほくほくのひよこ豆を、羊肉の旨みとスパイスで煮た素朴な一皿。豆料理だが肉のコクがあり、パンと一緒に食べやすい。",
+    "whatComesOut": [
+      "柔らかく煮たひよこ豆",
+      "羊肉または牛肉の切り身",
+      "玉ねぎや香草",
+      "クミンや黒胡椒の香り"
+    ],
+    "tasteAndTexture": [
+      "ひよこ豆のほくほく感",
+      "羊肉だしの旨み",
+      "素朴な塩味",
+      "スパイスの穏やかな香り"
+    ],
+    "orderAdvice": "豆料理と肉料理の中間。重すぎない主菜が欲しいときに向く。",
+    "caution": "豆料理なので腹持ちがよい。羊肉の香りがある場合あり。",
+    "similarItems": [
+      {
+        "id": "chickpea",
+        "name": "ひよこ豆",
+        "difference": "ひよこ豆は食材。ノハット・ショラックは肉だしで煮たウズベキスタンの豆料理"
+      },
+      {
+        "id": "hummus",
+        "name": "フムス",
+        "difference": "フムスはひよこ豆ペースト。ノハット・ショラックは粒のまま煮る温かい料理"
+      },
+      {
+        "id": "loubia",
+        "name": "ルビア",
+        "difference": "ルビアは白豆のトマト煮込み。ノハット・ショラックはひよこ豆と羊肉だしが中心"
+      }
+    ],
+    "relatedIds": [
+      "chickpea",
+      "lamb",
+      "boil",
+      "hummus"
+    ],
+    "tags": [
+      "ウズベキスタン料理",
+      "主菜",
+      "豆",
+      "羊肉",
+      "煮込み",
+      "スパイス",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "豆が苦手",
+      "羊肉苦手",
+      "軽いサラダ",
+      "麺料理",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "shashlik",
+    "name": "シャシリック",
+    "kana": "しゃしりっく",
+    "aliases": [
+      "シャシュリク",
+      "Shashlik",
+      "Shashlyk"
+    ],
+    "englishName": "Shashlik",
+    "originalName": "Shashlik",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウズベキスタン"
+      },
+      {
+        "country": "ロシア"
+      },
+      {
+        "country": "ジョージア"
+      }
+    ],
+    "summary": "中央アジアから旧ソ連圏で親しまれる串焼き肉。羊肉、牛肉、鶏肉などを串に刺し、炭火で香ばしく焼く。",
+    "menuDescription": "肉を串に刺して炭火で焼いた中央アジア風グリル。玉ねぎや酢、スパイスで下味をつけることが多く、香ばしい肉感が強い。",
+    "whatComesOut": [
+      "串焼きの肉",
+      "生玉ねぎや香草",
+      "パンまたは付け合わせ野菜",
+      "酢やトマト系ソースが添えられることがある"
+    ],
+    "tasteAndTexture": [
+      "炭火の香ばしさ",
+      "肉のジューシーさ",
+      "玉ねぎの辛みと酸味",
+      "クミンや黒胡椒の香り"
+    ],
+    "orderAdvice": "肉をしっかり食べたいときの鉄板。羊肉が苦手なら肉の種類を確認。",
+    "caution": "羊肉・牛肉・鶏肉など店で肉種が違う。焼き加減と脂の量に差がある。",
+    "similarItems": [
+      {
+        "id": "kebab",
+        "name": "ケバブ",
+        "difference": "ケバブは中東から周辺地域の焼き肉料理全般。シャシリックは串焼き肉として旧ソ連圏で広まった呼び名"
+      },
+      {
+        "id": "grill",
+        "name": "グリル",
+        "difference": "グリルは調理法。シャシリックは串に刺した肉を焼く具体的な料理"
+      },
+      {
+        "name": "焼き鳥",
+        "difference": "焼き鳥は鶏肉中心の日本の串焼き。シャシリックは羊肉や牛肉も多い中央アジア系串焼き"
+      }
+    ],
+    "relatedIds": [
+      "kebab",
+      "grill",
+      "lamb"
+    ],
+    "tags": [
+      "ウズベキスタン料理",
+      "主菜",
+      "羊肉",
+      "牛肉",
+      "グリル",
+      "スパイス",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "肉料理苦手",
+      "ベジタリアン",
+      "軽い前菜",
+      "汁物",
+      "甘い料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/shashlik/1.jpg",
+      "/images/dishes/shashlik/2.jpg",
+      "/images/dishes/shashlik/3.jpg"
+    ]
+  },
+  {
+    "id": "chuchvara",
+    "name": "チュチュヴァラ",
+    "kana": "ちゅちゅゔぁら",
+    "aliases": [
+      "チュチュバラ",
+      "Chuchvara",
+      "Chuchpara"
+    ],
+    "englishName": "Chuchvara",
+    "originalName": "Chuchvara",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウズベキスタン"
+      }
+    ],
+    "summary": "小さな肉入り餃子をスープで食べるウズベキスタン料理。羊肉や牛肉の餡を薄い皮で包み、澄んだスープやヨーグルトと合わせる。",
+    "menuDescription": "小ぶりの肉餃子が入った温かいスープ。ペリメニに似るが、香辛料や香草、スープの組み合わせに中央アジアらしさがある。",
+    "whatComesOut": [
+      "小さな肉入り餃子",
+      "澄んだ肉だしスープ",
+      "香草や黒胡椒",
+      "サワークリームやヨーグルトが添えられることがある"
+    ],
+    "tasteAndTexture": [
+      "薄い皮のつるっとした食感",
+      "肉餡の旨み",
+      "温かいスープのやさしい味",
+      "香草と胡椒の香り"
+    ],
+    "orderAdvice": "軽めの温かい主菜やスープが欲しいときに向く。餃子系が好きなら食べやすい。",
+    "caution": "小麦を含む。羊肉使用時は香りが出る。",
+    "similarItems": [
+      {
+        "id": "pelmeni",
+        "name": "ペリメニ",
+        "difference": "ペリメニはロシア系の水餃子。チュチュヴァラはウズベキスタンの小型餃子スープとして出ることが多い"
+      },
+      {
+        "id": "manti",
+        "name": "マントゥ",
+        "difference": "マントゥは大きめで蒸すことが多い。チュチュヴァラは小さくスープで食べる"
+      },
+      {
+        "name": "ワンタン",
+        "difference": "ワンタンは中華の薄皮包み。チュチュヴァラは羊肉やクミン香る中央アジア風"
+      }
+    ],
+    "relatedIds": [
+      "pelmeni",
+      "manti",
+      "boil",
+      "lamb"
+    ],
+    "tags": [
+      "ウズベキスタン料理",
+      "スープ",
+      "羊肉",
+      "小麦",
+      "煮込み",
+      "あっさり",
+      "スパイス"
+    ],
+    "reverseKeywords": [
+      "小麦アレルギー",
+      "羊肉苦手",
+      "焼き物",
+      "冷たい料理",
+      "米料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/chuchvara/1.jpg"
+    ]
+  },
+  {
+    "id": "tukhum-barak",
+    "name": "トフム・バラク",
+    "kana": "とふむばらく",
+    "aliases": [
+      "トゥフム・バラク",
+      "Tukhum barak",
+      "Tuxum barak"
+    ],
+    "englishName": "Tukhum Barak",
+    "originalName": "Tuxum barak",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウズベキスタン",
+        "locality": "ホラズム"
+      }
+    ],
+    "summary": "卵液を薄い小麦生地で包んで茹でるホラズム地方の名物料理。卵のやさしいコクとつるっとした皮が特徴。",
+    "menuDescription": "卵を包んだウズベキスタンの水餃子。肉餃子より軽く、バターやヨーグルトを添えて食べることが多い。",
+    "whatComesOut": [
+      "卵入りの茹で餃子",
+      "薄い小麦生地",
+      "溶き卵のやわらかな中身",
+      "バターやヨーグルトソース"
+    ],
+    "tasteAndTexture": [
+      "つるっとした皮",
+      "卵のまろやかなコク",
+      "バターの香り",
+      "やさしい塩味"
+    ],
+    "orderAdvice": "肉料理が重いときの珍しい選択。卵料理と餃子が好きなら試す価値あり。",
+    "caution": "卵・小麦・乳製品を含む場合が多い。",
+    "similarItems": [
+      {
+        "id": "chuchvara",
+        "name": "チュチュヴァラ",
+        "difference": "チュチュヴァラは肉入り小型餃子。トフム・バラクは卵を包む"
+      },
+      {
+        "id": "pelmeni",
+        "name": "ペリメニ",
+        "difference": "ペリメニは肉餡が基本。トフム・バラクは卵液が主役"
+      },
+      {
+        "name": "ラビオリ",
+        "difference": "ラビオリはイタリアの詰め物パスタ。トフム・バラクは中央アジアの卵入り茹で餃子"
+      }
+    ],
+    "relatedIds": [
+      "chuchvara",
+      "pelmeni",
+      "boil"
+    ],
+    "tags": [
+      "ウズベキスタン料理",
+      "主菜",
+      "卵",
+      "小麦",
+      "茹で物",
+      "あっさり",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "卵アレルギー",
+      "小麦アレルギー",
+      "肉料理",
+      "焼き物",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "non",
+    "name": "ノン",
+    "kana": "のん",
+    "aliases": [
+      "ナン",
+      "ウズベク・ノン",
+      "Lepyoshka"
+    ],
+    "englishName": "Non",
+    "originalName": "Non",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウズベキスタン"
+      },
+      {
+        "country": "タジキスタン"
+      },
+      {
+        "country": "カザフスタン"
+      }
+    ],
+    "summary": "中央アジアで主食として食べられる丸い平焼きパン。中央に模様を押し、タンドール窯で香ばしく焼く。",
+    "menuDescription": "丸く厚みのある中央アジアのパン。スープ、肉料理、ピラフに添えられ、外は香ばしく中はもっちりしている。",
+    "whatComesOut": [
+      "丸い平焼きパン",
+      "中央に押し模様のある厚めの生地",
+      "ごまやニゲラがのることがある",
+      "スープや串焼きの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "外側の香ばしさ",
+      "中のもっちり感",
+      "小麦の素朴な甘み",
+      "焼きたては軽い弾力"
+    ],
+    "orderAdvice": "スープや肉料理と一緒に頼むと便利。単品より主菜の受け皿として活躍する。",
+    "caution": "小麦を含む。店によりごまを使う。",
+    "similarItems": [
+      {
+        "name": "ナン",
+        "difference": "インド系ナンは薄く伸ばして焼くことが多い。中央アジアのノンは丸く厚めで中央に模様がある"
+      },
+      {
+        "name": "ピタパン",
+        "difference": "ピタは中が空洞になりやすい薄いパン。ノンは厚みがあり、そのままちぎって食べる"
+      },
+      {
+        "id": "baozi",
+        "name": "包子",
+        "difference": "包子は具入りの蒸しパン。ノンは具なしの焼きパン"
+      }
+    ],
+    "relatedIds": [
+      "shashlik",
+      "shurpa",
+      "lagman"
+    ],
+    "tags": [
+      "ウズベキスタン料理",
+      "パン",
+      "小麦",
+      "焼き物",
+      "香ばしい",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "小麦アレルギー",
+      "米料理",
+      "汁物",
+      "肉料理",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/non/1.jpg",
+      "/images/dishes/non/2.png",
+      "/images/dishes/non/3.jpg"
+    ]
+  },
+  {
+    "id": "shurpa",
+    "name": "シュルパ",
+    "kana": "しゅるぱ",
+    "aliases": [
+      "ショルパ",
+      "シュルヴァ",
+      "Shorpa",
+      "Shurva"
+    ],
+    "englishName": "Shurpa",
+    "originalName": "Sho'rva",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウズベキスタン"
+      },
+      {
+        "country": "カザフスタン"
+      },
+      {
+        "country": "キルギス"
+      }
+    ],
+    "summary": "羊肉や牛肉、じゃがいも、にんじんなどを大きめに煮た中央アジアの具だくさんスープ。肉の旨みと野菜の甘みが素直に出る。",
+    "menuDescription": "大きな肉と野菜が入った中央アジアのスープ。澄んだだしに羊肉の旨みが出て、ノンと一緒に食べやすい。",
+    "whatComesOut": [
+      "骨付きまたは大きめの羊肉・牛肉",
+      "じゃがいも・にんじん・玉ねぎ",
+      "澄んだ肉だしスープ",
+      "香草や黒胡椒"
+    ],
+    "tasteAndTexture": [
+      "肉だしの深い旨み",
+      "野菜の甘み",
+      "羊肉の香り",
+      "あっさりした塩味"
+    ],
+    "orderAdvice": "温かいスープと肉を同時に食べたいとき向き。羊肉が苦手なら肉種確認。",
+    "caution": "羊肉特有の香りあり。骨付きで出ることがある。",
+    "similarItems": [
+      {
+        "id": "couscous",
+        "name": "クスクス",
+        "difference": "クスクスは粒状小麦と煮込みを合わせる料理。シュルパは肉と野菜のスープ"
+      },
+      {
+        "name": "ポトフ",
+        "difference": "ポトフは洋風の肉野菜スープ。シュルパは羊肉と中央アジアの香辛料感がある"
+      },
+      {
+        "id": "lagman",
+        "name": "ラグマン",
+        "difference": "ラグマンは麺料理。シュルパは麺なしの肉野菜スープ"
+      }
+    ],
+    "relatedIds": [
+      "lamb",
+      "boil",
+      "lagman",
+      "non"
+    ],
+    "tags": [
+      "ウズベキスタン料理",
+      "スープ",
+      "羊肉",
+      "野菜",
+      "煮込み",
+      "あっさり",
+      "スパイス"
+    ],
+    "reverseKeywords": [
+      "羊肉苦手",
+      "冷たい料理",
+      "麺料理",
+      "軽いサラダ",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/shurpa/1.jpg"
+    ]
+  },
+  {
+    "id": "mastava-shurva",
+    "name": "マスタヴァ・シュルヴァ",
+    "kana": "ますたゔぁしゅるゔぁ",
+    "aliases": [
+      "マスタヴァ",
+      "マストヴァ",
+      "Mastava",
+      "Mastoba"
+    ],
+    "englishName": "Mastava Shurva",
+    "originalName": "Mastava sho'rva",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウズベキスタン"
+      }
+    ],
+    "summary": "米、肉、野菜を煮込むウズベキスタンの米入りスープ。小さく切った具材とトマトの酸味、ヨーグルトのコクが特徴。",
+    "menuDescription": "米と肉野菜の入ったウズベキスタンの具だくさんスープ。軽い雑炊のような食べやすさがあり、サワークリームやヨーグルトを添えることもある。",
+    "whatComesOut": [
+      "米入りの赤みがかったスープ",
+      "羊肉または牛肉の小切り",
+      "にんじん・じゃがいも・玉ねぎ",
+      "ヨーグルトや香草"
+    ],
+    "tasteAndTexture": [
+      "米のやわらかな食感",
+      "肉と野菜の旨み",
+      "トマトの軽い酸味",
+      "ヨーグルトのまろやかさ"
+    ],
+    "orderAdvice": "重すぎない一皿飯感覚。スープだけでなく腹持ちも欲しいときに向く。",
+    "caution": "羊肉を使う場合あり。乳製品が添えられることがある。",
+    "similarItems": [
+      {
+        "id": "shurpa",
+        "name": "シュルパ",
+        "difference": "シュルパは大きな肉野菜のスープ。マスタヴァは米入りで細かい具材のスープ"
+      },
+      {
+        "id": "pilaf",
+        "name": "ピラフ",
+        "difference": "ピラフは米を炊く料理。マスタヴァは米をスープとして煮る"
+      },
+      {
+        "name": "ミネストローネ",
+        "difference": "ミネストローネはイタリアの野菜スープ。マスタヴァは米と羊肉の中央アジア風"
+      }
+    ],
+    "relatedIds": [
+      "shurpa",
+      "pilaf",
+      "boil",
+      "lamb"
+    ],
+    "tags": [
+      "ウズベキスタン料理",
+      "スープ",
+      "米",
+      "羊肉",
+      "野菜",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "米が苦手",
+      "羊肉苦手",
+      "焼き物",
+      "冷たいサラダ",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "achichuk-salad",
+    "name": "アチック・チュチュックサラダ",
+    "kana": "あちっくちゅちゅっくさらだ",
+    "aliases": [
+      "アチチュク",
+      "アチチュック",
+      "Achichuk",
+      "Achik-chuchuk"
+    ],
+    "englishName": "Achichuk Salad",
+    "originalName": "Achichuk",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウズベキスタン"
+      }
+    ],
+    "summary": "薄切りトマトと玉ねぎを合わせたウズベキスタンの定番サラダ。油をほとんど使わず、ピラフや串焼きの口直しに食べる。",
+    "menuDescription": "トマトと玉ねぎのシンプルなサラダ。酸味と辛みが肉料理やプロフの脂を切ってくれる。",
+    "whatComesOut": [
+      "薄切りトマト",
+      "薄切り玉ねぎ",
+      "塩・黒胡椒",
+      "唐辛子や香草が加わることがある"
+    ],
+    "tasteAndTexture": [
+      "トマトの酸味と甘み",
+      "玉ねぎの辛み",
+      "みずみずしい食感",
+      "油控えめでさっぱり"
+    ],
+    "orderAdvice": "プロフ、シャシリックなど重い料理の横に置くとよい。生玉ねぎが苦手なら注意。",
+    "caution": "生玉ねぎの辛みが強い場合あり。店により唐辛子入り。",
+    "similarItems": [
+      {
+        "id": "gazpacho",
+        "name": "ガスパチョ",
+        "difference": "ガスパチョはトマト主体の冷製スープ。アチック・チュチュックは切ったトマトと玉ねぎのサラダ"
+      },
+      {
+        "name": "カチュンバル",
+        "difference": "カチュンバルはインド系の刻み野菜サラダ。アチック・チュチュックはトマトと玉ねぎ中心"
+      },
+      {
+        "name": "ピコ・デ・ガヨ",
+        "difference": "ピコ・デ・ガヨはメキシコのサルサ。アチック・チュチュックはより簡素な付け合わせサラダ"
+      }
+    ],
+    "relatedIds": [
+      "shashlik",
+      "pilaf",
+      "gazpacho"
+    ],
+    "tags": [
+      "ウズベキスタン料理",
+      "サラダ",
+      "野菜",
+      "あっさり",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "生玉ねぎ苦手",
+      "トマト苦手",
+      "温かい料理",
+      "肉料理",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "baklajon-qovurma",
+    "name": "バクラジョン・クォヴルマ",
+    "kana": "ばくらじょんくぉゔるま",
+    "aliases": [
+      "バクラジャン・コヴルマ",
+      "Baqlajon qovurma",
+      "Baklajon qovurma"
+    ],
+    "englishName": "Baklajon Qovurma",
+    "originalName": "Baqlajon qovurma",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウズベキスタン"
+      }
+    ],
+    "summary": "なすを油で炒め揚げにし、トマト、玉ねぎ、にんにくなどと合わせるウズベキスタンの副菜。なすのとろみと油のコクが特徴。",
+    "menuDescription": "揚げ焼きなすの野菜料理。トマトや玉ねぎの酸味と甘みが入り、肉料理の付け合わせにも前菜にもなる。",
+    "whatComesOut": [
+      "揚げ焼きまたは炒めたなす",
+      "トマト・玉ねぎ・にんにく",
+      "香草",
+      "温製または冷製の副菜"
+    ],
+    "tasteAndTexture": [
+      "なすのとろっとした食感",
+      "油のコク",
+      "トマトの酸味",
+      "にんにくの香り"
+    ],
+    "orderAdvice": "なす料理好き向け。軽い前菜にもよいが、油を吸うので見た目よりコクがある。",
+    "caution": "油を多めに使う。にんにくが効くことがある。",
+    "similarItems": [
+      {
+        "id": "baba-ganoush",
+        "name": "ババガヌーシュ",
+        "difference": "ババガヌーシュは焼きなすのペースト。バクラジョン・クォヴルマはなすの形を残す炒め揚げ副菜"
+      },
+      {
+        "id": "ratatouille",
+        "name": "ラタトゥイユ",
+        "difference": "ラタトゥイユは南仏の野菜煮込み。バクラジョン・クォヴルマはなす中心で油のコクが強い"
+      },
+      {
+        "id": "qaynona-tili",
+        "name": "カイノナ・ティリ",
+        "difference": "カイノナ・ティリは薄切りなすを巻く前菜。バクラジョン・クォヴルマは炒め揚げのなす副菜"
+      }
+    ],
+    "relatedIds": [
+      "baba-ganoush",
+      "ratatouille",
+      "grill"
+    ],
+    "tags": [
+      "ウズベキスタン料理",
+      "前菜",
+      "野菜",
+      "炒め物",
+      "揚げ物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "なす苦手",
+      "油っこい料理苦手",
+      "肉料理",
+      "スープ",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "qaynona-tili",
+    "name": "カイノナ・ティリ",
+    "kana": "かいのなてぃり",
+    "aliases": [
+      "カイノナティリ",
+      "義母の舌",
+      "Qaynona tili",
+      "Kaynonaning tili"
+    ],
+    "englishName": "Qaynona Tili",
+    "originalName": "Qaynona tili",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウズベキスタン"
+      }
+    ],
+    "summary": "薄く切ったなすを焼く、または揚げ、トマトやにんにく、ハーブを巻く前菜。名前は「義母の舌」を意味する。",
+    "menuDescription": "薄切りなすのロール前菜。中にトマト、にんにく、香草などを入れ、冷菜として出ることが多い。",
+    "whatComesOut": [
+      "薄切りなすのロール",
+      "トマト・にんにく・ハーブの具",
+      "マヨネーズやヨーグルト系ソースの場合あり",
+      "冷たい前菜として提供"
+    ],
+    "tasteAndTexture": [
+      "なすのやわらかさ",
+      "にんにくのパンチ",
+      "トマトの酸味",
+      "香草の爽やかさ"
+    ],
+    "orderAdvice": "なす前菜を少しつまみたいとき向き。にんにくが強い店もあるので会食前は注意。",
+    "caution": "にんにく・油・乳製品や卵入りソースを使う場合あり。",
+    "similarItems": [
+      {
+        "id": "baklajon-qovurma",
+        "name": "バクラジョン・クォヴルマ",
+        "difference": "バクラジョン・クォヴルマはなすの炒め揚げ副菜。カイノナ・ティリは薄切りなすのロール前菜"
+      },
+      {
+        "id": "baba-ganoush",
+        "name": "ババガヌーシュ",
+        "difference": "ババガヌーシュはなすペースト。カイノナ・ティリはなすの形を残して巻く"
+      },
+      {
+        "name": "なすのインボルティーニ",
+        "difference": "インボルティーニはイタリア系の巻き物。カイノナ・ティリはウズベキスタン風のにんにく香る冷前菜"
+      }
+    ],
+    "relatedIds": [
+      "baklajon-qovurma",
+      "baba-ganoush",
+      "grill"
+    ],
+    "tags": [
+      "ウズベキスタン料理",
+      "前菜",
+      "野菜",
+      "焼き物",
+      "揚げ物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "なす苦手",
+      "にんにく苦手",
+      "温かい主菜",
+      "肉料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "tavche-gravche",
+    "name": "タヴチェ・グラヴチェ",
+    "kana": "たゔちぇぐらゔちぇ",
+    "aliases": [
+      "タフチェ・グラフチェ",
+      "Tavce gravce",
+      "Tavche gravche"
+    ],
+    "englishName": "Tavche Gravche",
+    "originalName": "Тавче гравче",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "北マケドニア"
+      }
+    ],
+    "summary": "白いんげん豆を玉ねぎ、パプリカ、油と一緒に土鍋で焼く北マケドニアの代表的な豆料理。素朴な豆の甘みと香ばしさが特徴。",
+    "menuDescription": "白豆を煮てから土鍋で焼いた豆料理。パプリカと玉ねぎの香りがあり、パンやサラダと合わせて主菜にも副菜にもなる。",
+    "whatComesOut": [
+      "土鍋または耐熱皿の白豆焼き",
+      "玉ねぎ・パプリカ・油で味付けした豆",
+      "上面が軽く焼けた香ばしい仕上がり",
+      "パンやサラダが添えられることがある"
+    ],
+    "tasteAndTexture": [
+      "白豆のほくほく感",
+      "パプリカの甘い香り",
+      "焼き目の香ばしさ",
+      "油のコク"
+    ],
+    "orderAdvice": "豆料理好きなら安心。肉なしでも腹持ちがよく、シェア用の副菜にも向く。",
+    "caution": "豆料理なので腹持ちがよい。店により油が多め。",
+    "similarItems": [
+      {
+        "id": "loubia",
+        "name": "ルビア",
+        "difference": "ルビアは白豆のトマト煮込み。タヴチェ・グラヴチェは白豆を土鍋で焼く"
+      },
+      {
+        "id": "nohat-shorak",
+        "name": "ノハット・ショラック",
+        "difference": "ノハット・ショラックはひよこ豆と羊肉だし。タヴチェ・グラヴチェは白豆とパプリカが中心"
+      },
+      {
+        "name": "ベイクドビーンズ",
+        "difference": "ベイクドビーンズは甘いトマト系が多い。タヴチェ・グラヴチェはパプリカと玉ねぎの素朴な味"
+      }
+    ],
+    "relatedIds": [
+      "loubia",
+      "chickpea",
+      "boil"
+    ],
+    "tags": [
+      "北マケドニア料理",
+      "主菜",
+      "豆",
+      "野菜",
+      "焼き物",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "豆が苦手",
+      "軽いサラダ",
+      "肉料理",
+      "汁物",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/tavche-gravche/1.jpg",
+      "/images/dishes/tavche-gravche/2.jpg"
+    ]
+  },
+  {
+    "id": "shopska-salad",
+    "name": "ショプスカ・サラダ",
+    "kana": "しょぷすかさらだ",
+    "aliases": [
+      "ショプスカサラダ",
+      "Shopska salad",
+      "Shopska salata"
+    ],
+    "englishName": "Shopska Salad",
+    "originalName": "Шопска салата",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ブルガリア"
+      },
+      {
+        "country": "セルビア"
+      },
+      {
+        "country": "北マケドニア"
+      }
+    ],
+    "summary": "トマト、きゅうり、ピーマン、玉ねぎに白いチーズをたっぷり削りかけるバルカンの定番サラダ。肉料理の前菜や付け合わせに使いやすい。",
+    "menuDescription": "角切り野菜に白いチーズを山のようにのせたさっぱりサラダ。トマトの酸味、きゅうりの歯ごたえ、チーズの塩気が合う。",
+    "whatComesOut": [
+      "トマト・きゅうり・ピーマン・玉ねぎ",
+      "削った白い羊乳または牛乳チーズ",
+      "油と酢のシンプルな味付け",
+      "冷たい前菜サラダ"
+    ],
+    "tasteAndTexture": [
+      "野菜のみずみずしさ",
+      "白チーズの塩気",
+      "玉ねぎの辛み",
+      "油と酢のさっぱり感"
+    ],
+    "orderAdvice": "焼き肉料理や重い豆料理の横におすすめ。チーズ入りなので完全な軽食より満足感あり。",
+    "caution": "乳製品を含む。生玉ねぎが苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "achichuk-salad",
+        "name": "アチック・チュチュックサラダ",
+        "difference": "アチック・チュチュックはトマトと玉ねぎ中心。ショプスカはきゅうりや白チーズも入る"
+      },
+      {
+        "id": "feta",
+        "name": "フェタ",
+        "difference": "フェタはチーズ単体。ショプスカ・サラダは白チーズを野菜にのせる料理"
+      },
+      {
+        "name": "ギリシャサラダ",
+        "difference": "ギリシャサラダはオリーブや大きなフェタが特徴。ショプスカは削った白チーズを多くのせる"
+      }
+    ],
+    "relatedIds": [
+      "achichuk-salad",
+      "feta",
+      "gazpacho"
+    ],
+    "tags": [
+      "ブルガリア料理",
+      "サラダ",
+      "野菜",
+      "チーズ",
+      "あっさり",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "乳製品不可",
+      "生玉ねぎ苦手",
+      "温かい料理",
+      "肉料理",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/shopska-salad/1.jpg",
+      "/images/dishes/shopska-salad/2.jpg",
+      "/images/dishes/shopska-salad/3.jpg"
+    ]
+  },
+  {
+    "id": "yayla-corbasi",
+    "name": "ヤイラチョルバス",
+    "kana": "やいらちょるばす",
+    "aliases": [
+      "ヤイラ・チョルバス",
+      "ヨーグルトスープ",
+      "Yayla corbasi",
+      "Yayla çorbası"
+    ],
+    "englishName": "Yayla Corbasi",
+    "originalName": "Yayla çorbası",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "トルコ"
+      }
+    ],
+    "summary": "ヨーグルト、米、ミントで作るトルコの白いスープ。酸味と乳製品のまろやかさがあり、軽い前菜として親しまれる。",
+    "menuDescription": "ヨーグルトと米の白いスープ。仕上げに乾燥ミントやバターをかけ、酸味がありながらやさしい味わい。",
+    "whatComesOut": [
+      "白いヨーグルトベースのスープ",
+      "少量の米",
+      "乾燥ミント入りのバター",
+      "温製または冷製に近い温度で出ることがある"
+    ],
+    "tasteAndTexture": [
+      "ヨーグルトの酸味",
+      "米のやわらかな食感",
+      "ミントの爽やかな香り",
+      "バターの軽いコク"
+    ],
+    "orderAdvice": "重い肉料理の前に合う。酸味のある乳製品が好きなら選びやすい。",
+    "caution": "乳製品を含む。ヨーグルトの酸味が苦手なら避ける。",
+    "similarItems": [
+      {
+        "id": "tzatziki",
+        "name": "ザジキ",
+        "difference": "ザジキはヨーグルトソース。ヤイラチョルバスは米入りの温かいスープ"
+      },
+      {
+        "id": "chorba",
+        "name": "チョルバ",
+        "difference": "チョルバは地域により肉や豆入りの具だくさんスープ。ヤイラチョルバスはヨーグルトと米が中心"
+      },
+      {
+        "name": "リゾット",
+        "difference": "リゾットは米を主役に煮る料理。ヤイラチョルバスは米入りの軽いヨーグルトスープ"
+      }
+    ],
+    "relatedIds": [
+      "tzatziki",
+      "chorba",
+      "boil"
+    ],
+    "tags": [
+      "トルコ料理",
+      "スープ",
+      "米",
+      "ハーブ",
+      "煮込み",
+      "あっさり",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "乳製品不可",
+      "酸味苦手",
+      "肉料理",
+      "焼き物",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/yayla-corbasi/1.jpg",
+      "/images/dishes/yayla-corbasi/2.jpg"
+    ]
+  },
+  {
+    "id": "sharska-pljeskavica",
+    "name": "シャルスカ・プレスカヴィツァ",
+    "kana": "しゃるすかぷれすかゔぃつぁ",
+    "aliases": [
+      "シャールスカ・プレスカヴィツァ",
+      "Šarska pljeskavica",
+      "Sharska pljeskavica"
+    ],
+    "englishName": "Sharska Pljeskavica",
+    "originalName": "Šarska pljeskavica",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      },
+      {
+        "country": "北マケドニア"
+      }
+    ],
+    "summary": "挽き肉にチーズを入れて平たく焼くバルカンの大型肉料理。プレスカヴィツァのチーズ入り版で、香ばしい肉汁と溶けたチーズが特徴。",
+    "menuDescription": "チーズ入りの大きな挽き肉パティ。グリルで焼き、玉ねぎ、パン、ポテト、アイバルなどと一緒に出る。",
+    "whatComesOut": [
+      "大きく平たい挽き肉パティ",
+      "中に溶けたチーズ",
+      "生玉ねぎ・パン・ポテト",
+      "アイバルやヨーグルト系ソース"
+    ],
+    "tasteAndTexture": [
+      "炭火焼きの香ばしさ",
+      "ジューシーな挽き肉",
+      "チーズの塩気とコク",
+      "外側の焼き目"
+    ],
+    "orderAdvice": "肉をがっつり食べたいとき向き。通常のハンバーグより大きいことが多く、シェアもあり。",
+    "caution": "肉量が多く重め。乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "hamburger",
+        "name": "ハンバーガー",
+        "difference": "ハンバーガーはパンに挟む料理。シャルスカ・プレスカヴィツァは皿で出るチーズ入り挽き肉グリル"
+      },
+      {
+        "id": "kebab",
+        "name": "ケバブ",
+        "difference": "ケバブは焼き肉料理全般。シャルスカ・プレスカヴィツァは平たい挽き肉パティ"
+      },
+      {
+        "id": "cevapcici",
+        "name": "ケバプチチ",
+        "difference": "ケバプチチは小さな棒状挽き肉。シャルスカ・プレスカヴィツァは大きな円盤状でチーズ入り"
+      }
+    ],
+    "relatedIds": [
+      "hamburger",
+      "kebab",
+      "grill"
+    ],
+    "tags": [
+      "セルビア料理",
+      "主菜",
+      "牛肉",
+      "チーズ",
+      "グリル",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "肉料理苦手",
+      "乳製品不可",
+      "軽いサラダ",
+      "スープ",
+      "ベジタリアン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/sharska-pljeskavica/1.jpg",
+      "/images/dishes/sharska-pljeskavica/2.jpg",
+      "/images/dishes/sharska-pljeskavica/3.jpg"
+    ]
+  },
+  {
+    "id": "cevapcici",
+    "name": "ケバプチチ",
+    "kana": "けばぷちち",
+    "aliases": [
+      "チェヴァプチチ",
+      "チェヴァピ",
+      "Ćevapčići",
+      "Cevapcici"
+    ],
+    "englishName": "Cevapcici",
+    "originalName": "Ćevapčići",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      },
+      {
+        "country": "ボスニア・ヘルツェゴビナ"
+      },
+      {
+        "country": "クロアチア"
+      }
+    ],
+    "summary": "ひき肉を小さな棒状にまとめてグリルするバルカンの定番肉料理。玉ねぎ、パン、アイバルなどを添えて食べる。",
+    "menuDescription": "小さな棒状の挽き肉グリル。香ばしく焼かれ、玉ねぎや平たいパンと合わせると食べやすい。",
+    "whatComesOut": [
+      "棒状の挽き肉グリル数本",
+      "刻み生玉ねぎ",
+      "平たいパン",
+      "アイバルやサワークリーム系ソース"
+    ],
+    "tasteAndTexture": [
+      "焼き目の香ばしさ",
+      "挽き肉のジューシーさ",
+      "玉ねぎの辛み",
+      "スパイスの軽い香り"
+    ],
+    "orderAdvice": "バルカン料理の肉入門に向く。クセが少なく、ケバブやハンバーグ好きなら選びやすい。",
+    "caution": "牛肉・羊肉・豚肉の配合は店により違う。生玉ねぎが添えられる。",
+    "similarItems": [
+      {
+        "id": "kebab",
+        "name": "ケバブ",
+        "difference": "ケバブは焼き肉料理全般。ケバプチチは小さな棒状の挽き肉グリル"
+      },
+      {
+        "id": "shashlik",
+        "name": "シャシリック",
+        "difference": "シャシリックは串焼き肉。ケバプチチは串なしの挽き肉棒"
+      },
+      {
+        "id": "sharska-pljeskavica",
+        "name": "シャルスカ・プレスカヴィツァ",
+        "difference": "シャルスカ・プレスカヴィツァはチーズ入りの大きな肉パティ。ケバプチチは小型の棒状"
+      }
+    ],
+    "relatedIds": [
+      "kebab",
+      "shashlik",
+      "grill"
+    ],
+    "tags": [
+      "セルビア料理",
+      "主菜",
+      "牛肉",
+      "羊肉",
+      "グリル",
+      "スパイス",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "肉料理苦手",
+      "ベジタリアン",
+      "軽いサラダ",
+      "魚料理",
+      "汁物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/cevapcici/1.jpg",
+      "/images/dishes/cevapcici/2.jpg",
+      "/images/dishes/cevapcici/3.jpg"
+    ]
+  },
+  {
+    "id": "tarator",
+    "name": "タラトール",
+    "kana": "たらとーる",
+    "aliases": [
+      "タラトル",
+      "Tarator"
+    ],
+    "englishName": "Tarator",
+    "originalName": "Таратор",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ブルガリア"
+      },
+      {
+        "area": "バルカン"
+      }
+    ],
+    "summary": "ヨーグルト、きゅうり、にんにく、ディル、くるみで作る冷たいスープ。暑い季節の前菜として親しまれるブルガリア料理。",
+    "menuDescription": "きゅうり入りの冷たいヨーグルトスープ。にんにくとディルが香り、くるみの食感が入ることもある。",
+    "whatComesOut": [
+      "白い冷製ヨーグルトスープ",
+      "刻みきゅうり",
+      "ディル・にんにく・くるみ",
+      "油を少量たらした器"
+    ],
+    "tasteAndTexture": [
+      "ヨーグルトの酸味",
+      "きゅうりのみずみずしさ",
+      "ディルの爽やかな香り",
+      "にんにくの軽い辛み"
+    ],
+    "orderAdvice": "暑い日の前菜向き。酸味のある乳製品と香草が好きなら選びやすい。",
+    "caution": "乳製品・くるみを含む場合あり。にんにくが効くことがある。",
+    "similarItems": [
+      {
+        "id": "tzatziki",
+        "name": "ザジキ",
+        "difference": "ザジキはヨーグルトソース。タラトールは水分を足した冷製スープ"
+      },
+      {
+        "id": "yayla-corbasi",
+        "name": "ヤイラチョルバス",
+        "difference": "ヤイラチョルバスは米入りの温かいヨーグルトスープ。タラトールはきゅうり入り冷製"
+      },
+      {
+        "id": "gazpacho",
+        "name": "ガスパチョ",
+        "difference": "ガスパチョはトマト主体の冷製スープ。タラトールはヨーグルト主体"
+      }
+    ],
+    "relatedIds": [
+      "tzatziki",
+      "yayla-corbasi",
+      "gazpacho"
+    ],
+    "tags": [
+      "ブルガリア料理",
+      "スープ",
+      "野菜",
+      "ハーブ",
+      "あっさり",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "乳製品不可",
+      "にんにく苦手",
+      "温かい料理",
+      "肉料理",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tarator/1.jpg",
+      "/images/dishes/tarator/2.jpg",
+      "/images/dishes/tarator/3.jpg"
+    ]
+  },
+  {
+    "id": "fergese",
+    "name": "フェルゲサ",
+    "kana": "ふぇるげさ",
+    "aliases": [
+      "フェルゲセ",
+      "Fergese",
+      "Fërgesë"
+    ],
+    "englishName": "Fergese",
+    "originalName": "Fërgesë",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アルバニア"
+      }
+    ],
+    "summary": "ピーマン、トマト、玉ねぎ、白チーズを炒め煮して焼くアルバニアの家庭料理。野菜の甘みとチーズの塩気が重なる濃厚な前菜または副菜。",
+    "menuDescription": "ピーマンとトマトを白チーズでまとめた温かい野菜料理。パンにつけて食べるとおいしい、濃い味の前菜。",
+    "whatComesOut": [
+      "赤や緑のピーマンとトマトの煮込み",
+      "白チーズやカッテージチーズ状の乳製品",
+      "土鍋または小皿で焼いた仕上がり",
+      "パンの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "ピーマンとトマトの甘酸っぱさ",
+      "チーズの塩気とコク",
+      "とろっとした野菜",
+      "軽い焼き目の香ばしさ"
+    ],
+    "orderAdvice": "パンと一緒に前菜として頼むとよい。野菜料理だがチーズでしっかり濃厚。",
+    "caution": "乳製品を含む。ピーマンの香りが強い。",
+    "similarItems": [
+      {
+        "id": "ratatouille",
+        "name": "ラタトゥイユ",
+        "difference": "ラタトゥイユは野菜の煮込み。フェルゲサは白チーズで濃厚にまとめる"
+      },
+      {
+        "id": "feta",
+        "name": "フェタ",
+        "difference": "フェタはチーズ単体。フェルゲサは野菜と白チーズを合わせた料理"
+      },
+      {
+        "id": "shopska-salad",
+        "name": "ショプスカ・サラダ",
+        "difference": "ショプスカは生野菜と白チーズの冷菜。フェルゲサは加熱した温菜"
+      }
+    ],
+    "relatedIds": [
+      "ratatouille",
+      "feta",
+      "shopska-salad"
+    ],
+    "tags": [
+      "アルバニア料理",
+      "前菜",
+      "野菜",
+      "チーズ",
+      "煮込み",
+      "クリーミー",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "乳製品不可",
+      "ピーマン苦手",
+      "肉料理",
+      "冷たいサラダ",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/fergese/1.jpg",
+      "/images/dishes/fergese/2.jpg",
+      "/images/dishes/fergese/3.jpg"
+    ]
+  },
+  {
+    "id": "byrek",
+    "name": "ビレク",
+    "kana": "びれく",
+    "aliases": [
+      "ブレク",
+      "バイレク",
+      "Byrek",
+      "Burek"
+    ],
+    "englishName": "Byrek",
+    "originalName": "Byrek",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アルバニア"
+      },
+      {
+        "area": "バルカン"
+      }
+    ],
+    "summary": "薄いフィロ生地にチーズ、ほうれん草、肉などを包んで焼くバルカンのパイ料理。朝食や軽食、前菜として幅広く食べられる。",
+    "menuDescription": "薄い生地が何層にも重なった惣菜パイ。中身は白チーズ、ほうれん草、肉などで、外は香ばしく中はしっとり。",
+    "whatComesOut": [
+      "切り分けたフィロ生地のパイ",
+      "白チーズ・ほうれん草・肉などの具",
+      "焼き色のついた薄い層",
+      "ヨーグルトが添えられることがある"
+    ],
+    "tasteAndTexture": [
+      "薄い生地のサクサク感",
+      "チーズや肉の塩気",
+      "中身のしっとり感",
+      "焼き目の香ばしさ"
+    ],
+    "orderAdvice": "軽食にも前菜にも便利。中身が店ごとに違うので、チーズ入りか肉入りか確認。",
+    "caution": "小麦・乳製品・卵を含むことが多い。",
+    "similarItems": [
+      {
+        "id": "quiche",
+        "name": "キッシュ",
+        "difference": "キッシュは卵液とタルト生地。ビレクは薄いフィロ生地を重ねる"
+      },
+      {
+        "name": "スパナコピタ",
+        "difference": "スパナコピタはギリシャのほうれん草パイ。ビレクは具材の幅が広いバルカンの惣菜パイ"
+      },
+      {
+        "id": "samsa",
+        "name": "サムサ",
+        "difference": "サムサは中央アジアの肉入り焼きパイ。ビレクはフィロ生地の層が特徴"
+      }
+    ],
+    "relatedIds": [
+      "quiche",
+      "feta",
+      "fritto"
+    ],
+    "tags": [
+      "アルバニア料理",
+      "軽食",
+      "小麦",
+      "チーズ",
+      "焼き物",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "小麦アレルギー",
+      "乳製品不可",
+      "軽いサラダ",
+      "汁物",
+      "米料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/byrek/1.jpg",
+      "/images/dishes/byrek/2.jpg",
+      "/images/dishes/byrek/3.jpg"
+    ]
+  },
+  {
+    "id": "pace",
+    "name": "パチェ",
+    "kana": "ぱちぇ",
+    "aliases": [
+      "パーチェ",
+      "Paçe",
+      "Pache"
+    ],
+    "englishName": "Pace",
+    "originalName": "Paçe",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アルバニア"
+      }
+    ],
+    "summary": "羊や牛の頭、足、内臓などを長時間煮るアルバニアの濃厚スープ。ゼラチン質のとろみと強い肉の旨みが特徴。",
+    "menuDescription": "内臓や骨付き部位を煮込んだ濃いスープ。にんにく、酢、唐辛子を加えることがあり、朝食や寒い日の食事に出る。",
+    "whatComesOut": [
+      "深皿の肉だしスープ",
+      "頭肉・足・内臓などの具",
+      "にんにく酢や唐辛子",
+      "パンの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "ゼラチン質のとろみ",
+      "強い肉の旨み",
+      "内臓の独特な香り",
+      "酢やにんにくの刺激"
+    ],
+    "orderAdvice": "内臓料理が好きな人向け。初心者は具材を確認してから頼むと安心。",
+    "caution": "内臓や頭肉が入る。香りと食感にクセがある。",
+    "similarItems": [
+      {
+        "id": "shurpa",
+        "name": "シュルパ",
+        "difference": "シュルパは大きな肉と野菜のスープ。パチェは頭肉や内臓の濃厚スープ"
+      },
+      {
+        "id": "chorba",
+        "name": "チョルバ",
+        "difference": "チョルバは肉や豆の具だくさんスープ。パチェはゼラチン質の部位が主役"
+      },
+      {
+        "name": "トリッパ",
+        "difference": "トリッパは牛胃の料理。パチェは頭・足・内臓など幅広い部位を煮る"
+      }
+    ],
+    "relatedIds": [
+      "shurpa",
+      "chorba",
+      "boil"
+    ],
+    "tags": [
+      "アルバニア料理",
+      "スープ",
+      "牛肉",
+      "羊肉",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "内臓苦手",
+      "軽いサラダ",
+      "ベジタリアン",
+      "冷たい料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/pace/1.jpg",
+      "/images/dishes/pace/2.jpg",
+      "/images/dishes/pace/3.jpg"
+    ]
+  },
+  {
+    "id": "tave-kosi",
+    "name": "タヴェ・コシ",
+    "kana": "たゔぇこし",
+    "aliases": [
+      "タヴァ・コシ",
+      "Tave kosi",
+      "Tavë kosi"
+    ],
+    "englishName": "Tave Kosi",
+    "originalName": "Tavë kosi",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アルバニア"
+      }
+    ],
+    "summary": "羊肉と米をヨーグルトと卵のソースで焼くアルバニアの代表料理。酸味のあるクリーミーな焼き上がりが特徴。",
+    "menuDescription": "羊肉と米をヨーグルト卵ソースで包んでオーブン焼きにした料理。肉の旨み、乳製品の酸味、焼き目の香ばしさがある。",
+    "whatComesOut": [
+      "耐熱皿で焼いた羊肉と米",
+      "ヨーグルトと卵の白いソース",
+      "表面のこんがりした焼き目",
+      "切り分けたキャセロール状の一皿"
+    ],
+    "tasteAndTexture": [
+      "ヨーグルトの酸味",
+      "羊肉の旨み",
+      "卵ソースのふんわり感",
+      "焼き目の香ばしさ"
+    ],
+    "orderAdvice": "アルバニア料理らしさを試すなら有力。乳製品の酸味と羊肉が平気な人向け。",
+    "caution": "羊肉・卵・乳製品を含む。酸味のある味わい。",
+    "similarItems": [
+      {
+        "id": "moussaka",
+        "name": "ムサカ",
+        "difference": "ムサカはナスやひき肉の層焼き。タヴェ・コシは羊肉と米をヨーグルト卵で焼く"
+      },
+      {
+        "id": "gratin",
+        "name": "グラタン",
+        "difference": "グラタンはベシャメルやチーズの焼き物。タヴェ・コシはヨーグルトの酸味が中心"
+      },
+      {
+        "id": "lamb",
+        "name": "ラム",
+        "difference": "ラムは食材。タヴェ・コシは羊肉をヨーグルト卵ソースで焼く料理"
+      }
+    ],
+    "relatedIds": [
+      "moussaka",
+      "gratin",
+      "lamb"
+    ],
+    "tags": [
+      "アルバニア料理",
+      "主菜",
+      "羊肉",
+      "米",
+      "焼き物",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "羊肉苦手",
+      "乳製品不可",
+      "卵アレルギー",
+      "軽いサラダ",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tave-kosi/1.jpg",
+      "/images/dishes/tave-kosi/2.jpg",
+      "/images/dishes/tave-kosi/3.jpg"
+    ]
+  },
+  {
+    "id": "biftek-roli",
+    "name": "ビフテク・ロリ",
+    "kana": "びふてくろり",
+    "aliases": [
+      "ビフテック・ロリ",
+      "Biftek roli",
+      "Roli me biftek"
+    ],
+    "englishName": "Biftek Roli",
+    "originalName": "Biftek roli",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アルバニア"
+      }
+    ],
+    "summary": "薄く叩いた牛肉で具材を巻いて焼く、または煮込むアルバニア風の牛肉ロール。中にチーズ、ハム、野菜などを入れることが多い。",
+    "menuDescription": "牛肉で具を巻いた肉料理。切ると中のチーズや野菜が見え、ソースやポテトを添えて主菜として出る。",
+    "whatComesOut": [
+      "牛肉のロール",
+      "チーズ・ハム・ピーマンなどの詰め物",
+      "焼き汁またはソース",
+      "ポテトや野菜の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "牛肉のしっかりした旨み",
+      "詰め物の塩気とコク",
+      "焼き目の香ばしさ",
+      "ソースの濃厚さ"
+    ],
+    "orderAdvice": "ステーキより変化が欲しいとき向き。中身に乳製品や豚肉が入ることがあるので確認。",
+    "caution": "乳製品や豚肉加工品を含む場合あり。肉料理として重め。",
+    "similarItems": [
+      {
+        "id": "sharska-pljeskavica",
+        "name": "シャルスカ・プレスカヴィツァ",
+        "difference": "シャルスカは挽き肉のチーズ入りパティ。ビフテク・ロリは薄切り牛肉で具を巻く"
+      },
+      {
+        "id": "grill",
+        "name": "グリル",
+        "difference": "グリルは調理法。ビフテク・ロリは牛肉ロールの具体的な料理"
+      },
+      {
+        "name": "インボルティーニ",
+        "difference": "インボルティーニはイタリアの巻き物料理。ビフテク・ロリはアルバニア風の牛肉ロール"
+      }
+    ],
+    "relatedIds": [
+      "sharska-pljeskavica",
+      "grill",
+      "braise"
+    ],
+    "tags": [
+      "アルバニア料理",
+      "主菜",
+      "牛肉",
+      "チーズ",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "牛肉苦手",
+      "乳製品不可",
+      "軽い前菜",
+      "スープ",
+      "ベジタリアン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "kofte",
+    "name": "キョフテ",
+    "kana": "きょふて",
+    "aliases": [
+      "キョフテシ",
+      "Kofte",
+      "Köfte"
+    ],
+    "englishName": "Kofte",
+    "originalName": "Köfte",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "トルコ"
+      },
+      {
+        "area": "バルカン"
+      },
+      {
+        "area": "中東"
+      }
+    ],
+    "summary": "挽き肉に玉ねぎ、ハーブ、香辛料を混ぜて丸め、焼くまたは煮る肉団子料理。トルコからバルカン、中東まで広く食べられる。",
+    "menuDescription": "スパイス入りの挽き肉団子または小判型パティ。グリルで香ばしく焼き、パン、サラダ、ヨーグルトソースと合わせることが多い。",
+    "whatComesOut": [
+      "小判型または丸い挽き肉",
+      "グリルまたは煮込み仕立て",
+      "玉ねぎ・ハーブ・スパイス",
+      "パンやサラダ、ヨーグルトソース"
+    ],
+    "tasteAndTexture": [
+      "挽き肉のジューシーさ",
+      "スパイスとハーブの香り",
+      "焼き目の香ばしさ",
+      "玉ねぎの甘み"
+    ],
+    "orderAdvice": "肉料理入門として選びやすい。辛さは店により違うが、基本は香辛料の香り中心。",
+    "caution": "牛肉・羊肉・豚肉など肉種は店により違う。香辛料入り。",
+    "similarItems": [
+      {
+        "id": "kebab",
+        "name": "ケバブ",
+        "difference": "ケバブは焼き肉料理全般。キョフテは挽き肉を丸めた肉団子・パティ"
+      },
+      {
+        "id": "cevapcici",
+        "name": "ケバプチチ",
+        "difference": "ケバプチチは棒状のバルカン挽き肉グリル。キョフテは形や調理法の幅が広い"
+      },
+      {
+        "id": "meatloaf",
+        "name": "ミートローフ",
+        "difference": "ミートローフは型で焼く大型挽き肉料理。キョフテは小型に丸める"
+      }
+    ],
+    "relatedIds": [
+      "kebab",
+      "cevapcici",
+      "grill"
+    ],
+    "tags": [
+      "トルコ料理",
+      "主菜",
+      "牛肉",
+      "羊肉",
+      "グリル",
+      "スパイス",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "肉料理苦手",
+      "ベジタリアン",
+      "軽いサラダ",
+      "魚料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/kofte/1.jpg",
+      "/images/dishes/kofte/2.jpg",
+      "/images/dishes/kofte/3.jpg"
+    ]
+  },
+  {
+    "id": "khachapuri",
+    "name": "ハチャプリ",
+    "kana": "はちゃぷり",
+    "aliases": [
+      "ハチャプーリ",
+      "Khachapuri"
+    ],
+    "englishName": "Khachapuri",
+    "originalName": "ხაჭაპური",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ジョージア"
+      }
+    ],
+    "summary": "チーズ入りパンのジョージア代表料理。丸型、舟形、卵入りなど地域差があり、熱いチーズと生地の香ばしさが主役。",
+    "menuDescription": "焼きたてパンにチーズを詰めた一品。アジャルリ型は舟形で中央に卵とバターがのる。",
+    "whatComesOut": [
+      "チーズ入りの焼きパン",
+      "溶けた白チーズ",
+      "型により卵・バター",
+      "切り分けまたは丸ごと"
+    ],
+    "tasteAndTexture": [
+      "焼き生地の香ばしさ",
+      "チーズの塩気とコク",
+      "もちっとしたパン",
+      "卵入りは濃厚"
+    ],
+    "orderAdvice": "チーズとパン好きなら鉄板。重めなのでシェア向き。",
+    "caution": "小麦・乳製品・卵を含む場合あり。",
+    "similarItems": [
+      {
+        "id": "byrek",
+        "name": "ビレク",
+        "difference": "ビレクは薄生地パイ。ハチャプリはパン生地とチーズが主役"
+      },
+      {
+        "name": "チーズピザ",
+        "difference": "チーズピザは平たいピザ生地。ハチャプリはチーズを包むまたは詰めるパン"
+      },
+      {
+        "id": "non",
+        "name": "ノン",
+        "difference": "ノンは主食パン。ハチャプリはチーズ入りの料理パン"
+      }
+    ],
+    "relatedIds": [
+      "byrek",
+      "feta",
+      "non"
+    ],
+    "tags": [
+      "ジョージア料理",
+      "軽食",
+      "小麦",
+      "チーズ",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "乳製品不可",
+      "小麦アレルギー",
+      "軽いサラダ",
+      "肉料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "shkmeruli",
+    "name": "シュクメルリ",
+    "kana": "しゅくめるり",
+    "aliases": [
+      "シュクメルリチキン",
+      "Shkmeruli"
+    ],
+    "englishName": "Shkmeruli",
+    "originalName": "შქმერული",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ジョージア"
+      }
+    ],
+    "summary": "鶏肉をにんにくと乳製品のソースで煮るジョージア料理。強いにんにく香とクリーミーなソースが特徴。",
+    "menuDescription": "焼いた鶏肉をにんにくたっぷりのミルクまたはクリームソースで仕上げる濃厚な主菜。",
+    "whatComesOut": [
+      "骨付きまたは骨なし鶏肉",
+      "白いにんにくソース",
+      "パン向きの濃い煮汁",
+      "熱い鉄鍋や皿"
+    ],
+    "tasteAndTexture": [
+      "にんにくの強い香り",
+      "クリーミーなコク",
+      "鶏肉の旨み",
+      "塩気のある濃厚ソース"
+    ],
+    "orderAdvice": "にんにく料理が好きなら有力。パンや米と合わせるとよい。",
+    "caution": "にんにくが非常に強い。乳製品を含む場合が多い。",
+    "similarItems": [
+      {
+        "id": "tave-kosi",
+        "name": "タヴェ・コシ",
+        "difference": "タヴェ・コシは羊肉とヨーグルト卵の焼き物。シュクメルリは鶏肉とにんにく乳ソース"
+      },
+      {
+        "id": "gratin",
+        "name": "グラタン",
+        "difference": "グラタンは焼き目重視。シュクメルリはにんにくソース煮に近い"
+      },
+      {
+        "id": "khachapuri",
+        "name": "ハチャプリ",
+        "difference": "ハチャプリはチーズパン。シュクメルリは鶏肉主菜"
+      }
+    ],
+    "relatedIds": [
+      "tave-kosi",
+      "gratin",
+      "khachapuri"
+    ],
+    "tags": [
+      "ジョージア料理",
+      "主菜",
+      "鶏肉",
+      "クリーミー",
+      "煮込み",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "にんにく苦手",
+      "乳製品不可",
+      "軽いサラダ",
+      "魚料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "khinkali",
+    "name": "ヒンカリ",
+    "kana": "ひんかり",
+    "aliases": [
+      "ヒンカーリ",
+      "Khinkali"
+    ],
+    "englishName": "Khinkali",
+    "originalName": "ხინკალი",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ジョージア"
+      }
+    ],
+    "summary": "肉汁を包んだジョージアの大型水餃子。上部をつまんだ形で、まず中のスープを吸ってから食べる。",
+    "menuDescription": "大きな包み餃子。中に牛肉や羊肉の肉汁が入り、黒胡椒をかけて手で食べることが多い。",
+    "whatComesOut": [
+      "大きなひだ付き餃子",
+      "牛肉・豚肉・羊肉などの餡",
+      "中の熱い肉汁",
+      "黒胡椒"
+    ],
+    "tasteAndTexture": [
+      "厚めの皮のもちもち感",
+      "熱い肉汁",
+      "挽き肉の旨み",
+      "黒胡椒の香り"
+    ],
+    "orderAdvice": "餃子好きなら必食。肉汁が熱いので一口目注意。",
+    "caution": "小麦を含む。肉汁が熱い。肉種は店により違う。",
+    "similarItems": [
+      {
+        "id": "manti",
+        "name": "マントゥ",
+        "difference": "マントゥは蒸し餃子寄り。ヒンカリは肉汁入りの茹で餃子"
+      },
+      {
+        "id": "chuchvara",
+        "name": "チュチュヴァラ",
+        "difference": "チュチュヴァラは小型餃子スープ。ヒンカリは大型で単体提供"
+      },
+      {
+        "name": "小籠包",
+        "difference": "小籠包は薄皮点心。ヒンカリは厚めの皮と大きなつまみが特徴"
+      }
+    ],
+    "relatedIds": [
+      "manti",
+      "chuchvara",
+      "boil"
+    ],
+    "tags": [
+      "ジョージア料理",
+      "主菜",
+      "牛肉",
+      "小麦",
+      "茹で物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "小麦アレルギー",
+      "肉料理苦手",
+      "軽いサラダ",
+      "汁物",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "nigvziani-badrijani",
+    "name": "ニグジアニ・バドリジャニ",
+    "kana": "にぐじあにばどりじゃに",
+    "aliases": [
+      "なすのくるみペースト巻き",
+      "Nigvziani badrijani"
+    ],
+    "englishName": "Nigvziani Badrijani",
+    "originalName": "ნიგვზიანი ბადრიჯანი",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ジョージア"
+      }
+    ],
+    "summary": "薄切りなすを焼くまたは揚げ、くるみ・にんにく・香辛料のペーストを巻く冷前菜。",
+    "menuDescription": "なすのロール前菜。中に濃厚なくるみペーストを詰め、ザクロを散らすこともある。",
+    "whatComesOut": [
+      "薄切りなすのロール",
+      "くるみとにんにくのペースト",
+      "香草やザクロ",
+      "冷たい前菜"
+    ],
+    "tasteAndTexture": [
+      "なすのやわらかさ",
+      "くるみのコク",
+      "にんにくと香辛料の香り",
+      "軽い酸味"
+    ],
+    "orderAdvice": "ジョージア前菜の定番。なすとナッツ好きなら選びやすい。",
+    "caution": "くるみ・にんにくを含む。油を吸ったなすでやや重い。",
+    "similarItems": [
+      {
+        "id": "qaynona-tili",
+        "name": "カイノナ・ティリ",
+        "difference": "カイノナ・ティリはなす巻き前菜。ニグジアニはくるみペーストが主役"
+      },
+      {
+        "id": "baba-ganoush",
+        "name": "ババガヌーシュ",
+        "difference": "ババガヌーシュはなすペースト。ニグジアニはなすでペーストを巻く"
+      },
+      {
+        "id": "pkhali",
+        "name": "プハリ",
+        "difference": "プハリは野菜とくるみの和え物。ニグジアニはなすロール"
+      }
+    ],
+    "relatedIds": [
+      "qaynona-tili",
+      "baba-ganoush",
+      "grill"
+    ],
+    "tags": [
+      "ジョージア料理",
+      "前菜",
+      "野菜",
+      "ナッツ",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "なす苦手",
+      "ナッツアレルギー",
+      "にんにく苦手",
+      "肉料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "chakapuli",
+    "name": "チャカプーリ",
+    "kana": "ちゃかぷーり",
+    "aliases": [
+      "チャカプリ",
+      "Chakapuli"
+    ],
+    "englishName": "Chakapuli",
+    "originalName": "ჩაქაფული",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ジョージア"
+      }
+    ],
+    "summary": "羊肉や子牛肉をタラゴン、青梅、白ワインで煮るジョージアの春の煮込み料理。酸味とハーブ香が特徴。",
+    "menuDescription": "肉をハーブと酸味で煮た緑がかった煮込み。タラゴンの香りと青梅の酸味で後味は軽い。",
+    "whatComesOut": [
+      "羊肉または子牛肉の煮込み",
+      "タラゴンなど大量のハーブ",
+      "青梅や酸味のある煮汁",
+      "パン向きのスープ状ソース"
+    ],
+    "tasteAndTexture": [
+      "ハーブの強い香り",
+      "青梅の酸味",
+      "肉の旨み",
+      "さっぱりした煮汁"
+    ],
+    "orderAdvice": "ハーブと酸味が好きならおすすめ。一般的な肉煮込みより爽やか。",
+    "caution": "タラゴンの香りが強い。羊肉の場合あり。",
+    "similarItems": [
+      {
+        "id": "shurpa",
+        "name": "シュルパ",
+        "difference": "シュルパは肉野菜スープ。チャカプーリはハーブと酸味の肉煮込み"
+      },
+      {
+        "id": "lamb",
+        "name": "ラム",
+        "difference": "ラムは食材。チャカプーリは羊肉をハーブで煮る料理"
+      },
+      {
+        "id": "braise",
+        "name": "ブレゼ",
+        "difference": "ブレゼは調理法。チャカプーリはジョージアの具体的な酸味煮込み"
+      }
+    ],
+    "relatedIds": [
+      "shurpa",
+      "lamb",
+      "braise"
+    ],
+    "tags": [
+      "ジョージア料理",
+      "主菜",
+      "羊肉",
+      "ハーブ",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "香草苦手",
+      "羊肉苦手",
+      "酸味苦手",
+      "こってり料理",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "shila-plavi",
+    "name": "シーラプラヴィ",
+    "kana": "しーらぷらゔぃ",
+    "aliases": [
+      "シラ・プラヴィ",
+      "Shila plavi"
+    ],
+    "englishName": "Shila Plavi",
+    "originalName": "შილაფლავი",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ジョージア"
+      }
+    ],
+    "summary": "米を肉、玉ねぎ、香辛料と煮るジョージア風ピラフ。やわらかめに仕上げることが多く、羊肉や牛肉の旨みが染みる。",
+    "menuDescription": "肉入りの米料理。ピラフと雑炊の中間のようにしっとりし、スパイスと肉だしの味が米に入る。",
+    "whatComesOut": [
+      "肉入りの米料理",
+      "羊肉または牛肉",
+      "玉ねぎと香辛料",
+      "しっとりした米"
+    ],
+    "tasteAndTexture": [
+      "米のやわらかさ",
+      "肉だしの旨み",
+      "玉ねぎの甘み",
+      "胡椒や香辛料の香り"
+    ],
+    "orderAdvice": "米料理が欲しいとき向き。肉の種類と量を確認。",
+    "caution": "羊肉を使う場合あり。脂が多めのことがある。",
+    "similarItems": [
+      {
+        "id": "pilaf",
+        "name": "ピラフ",
+        "difference": "ピラフは炊き込み米料理一般。シーラプラヴィはジョージアのしっとり肉米料理"
+      },
+      {
+        "id": "mastava-shurva",
+        "name": "マスタヴァ・シュルヴァ",
+        "difference": "マスタヴァは米入りスープ。シーラプラヴィは米料理"
+      },
+      {
+        "id": "risotto",
+        "name": "リゾット",
+        "difference": "リゾットはイタリアの米料理。シーラプラヴィは肉だしと香辛料中心"
+      }
+    ],
+    "relatedIds": [
+      "pilaf",
+      "mastava-shurva",
+      "risotto"
+    ],
+    "tags": [
+      "ジョージア料理",
+      "主菜",
+      "米",
+      "牛肉",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "米が苦手",
+      "肉料理苦手",
+      "軽いサラダ",
+      "パン料理",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "chashushuli",
+    "name": "チャシュシュリ",
+    "kana": "ちゃしゅしゅり",
+    "aliases": [
+      "チャシュシュリ",
+      "Chashushuli"
+    ],
+    "englishName": "Chashushuli",
+    "originalName": "ჩაშუშული",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ジョージア"
+      }
+    ],
+    "summary": "牛肉や子牛肉をトマト、玉ねぎ、ハーブ、香辛料で煮込むジョージア料理。濃いトマト味と香草が特徴。",
+    "menuDescription": "肉のトマト煮込み。パンに合う濃いソースで、香草とスパイスが効く。",
+    "whatComesOut": [
+      "牛肉または子牛肉の煮込み",
+      "トマトと玉ねぎのソース",
+      "香草",
+      "パン向きの濃い煮汁"
+    ],
+    "tasteAndTexture": [
+      "肉の旨み",
+      "トマトの酸味",
+      "香草の香り",
+      "軽い辛み"
+    ],
+    "orderAdvice": "濃い肉煮込みが欲しいとき向き。パンと合わせるとよい。",
+    "caution": "香草とにんにくが効く。辛さは店により違う。",
+    "similarItems": [
+      {
+        "id": "braise",
+        "name": "ブレゼ",
+        "difference": "ブレゼは調理法。チャシュシュリはトマトと香草のジョージア煮込み"
+      },
+      {
+        "id": "shurpa",
+        "name": "シュルパ",
+        "difference": "シュルパは澄んだスープ寄り。チャシュシュリは濃いトマト煮込み"
+      },
+      {
+        "id": "kofte",
+        "name": "キョフテ",
+        "difference": "キョフテは挽き肉を丸める料理。チャシュシュリは角切り肉のトマト煮込み"
+      }
+    ],
+    "relatedIds": [
+      "braise",
+      "shurpa",
+      "kofte"
+    ],
+    "tags": [
+      "ジョージア料理",
+      "主菜",
+      "牛肉",
+      "ハーブ",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "牛肉苦手",
+      "香草苦手",
+      "トマト苦手",
+      "軽いサラダ",
+      "乳製品料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "pkhali",
+    "name": "プハリ",
+    "kana": "ぷはり",
+    "aliases": [
+      "プハリ",
+      "Pkhali"
+    ],
+    "englishName": "Pkhali",
+    "originalName": "ფხალი",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ジョージア"
+      }
+    ],
+    "summary": "ほうれん草、ビーツ、豆などの野菜をくるみ、にんにく、香辛料で和えて丸めるジョージアの冷前菜。",
+    "menuDescription": "野菜とくるみのペースト前菜。色違いで盛られることが多く、ザクロを飾る。",
+    "whatComesOut": [
+      "野菜とくるみの小さな団子またはペースト",
+      "ほうれん草・ビーツ・豆など",
+      "にんにくと香辛料",
+      "ザクロや香草"
+    ],
+    "tasteAndTexture": [
+      "くるみのコク",
+      "野菜の青みや甘み",
+      "にんにくの香り",
+      "しっとりした口当たり"
+    ],
+    "orderAdvice": "冷前菜の盛り合わせで便利。ナッツと香草が平気なら食べやすい。",
+    "caution": "くるみ・にんにくを含む。",
+    "similarItems": [
+      {
+        "id": "nigvziani-badrijani",
+        "name": "ニグジアニ・バドリジャニ",
+        "difference": "ニグジアニはなすロール。プハリは野菜とくるみの和え物"
+      },
+      {
+        "id": "baba-ganoush",
+        "name": "ババガヌーシュ",
+        "difference": "ババガヌーシュはなすペースト。プハリは複数野菜とくるみが中心"
+      },
+      {
+        "id": "shopska-salad",
+        "name": "ショプスカ・サラダ",
+        "difference": "ショプスカは生野菜サラダ。プハリは野菜ペーストの冷前菜"
+      }
+    ],
+    "relatedIds": [
+      "baba-ganoush",
+      "shopska-salad",
+      "feta"
+    ],
+    "tags": [
+      "ジョージア料理",
+      "前菜",
+      "野菜",
+      "ナッツ",
+      "あっさり",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "ナッツアレルギー",
+      "にんにく苦手",
+      "温かい主菜",
+      "肉料理",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "ajapsandali",
+    "name": "アジャプサンダリ",
+    "kana": "あじゃぷさんだり",
+    "aliases": [
+      "アジャプサンダル",
+      "Ajapsandali"
+    ],
+    "englishName": "Ajapsandali",
+    "originalName": "აჯაფსანდალი",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ジョージア"
+      }
+    ],
+    "summary": "なす、トマト、ピーマン、じゃがいもなどを香草と煮るジョージアの野菜料理。ラタトゥイユに近い家庭的な一皿。",
+    "menuDescription": "なすとトマト中心の野菜煮込み。温かくても冷たくても食べられ、香草が効く。",
+    "whatComesOut": [
+      "なす・トマト・ピーマンの煮込み",
+      "じゃがいもや玉ねぎ",
+      "香草",
+      "副菜または前菜の皿"
+    ],
+    "tasteAndTexture": [
+      "なすのとろみ",
+      "トマトの酸味",
+      "野菜の甘み",
+      "香草の爽やかさ"
+    ],
+    "orderAdvice": "肉なしのジョージア料理が欲しいときに便利。副菜にも前菜にもなる。",
+    "caution": "にんにくや香草が効く場合あり。",
+    "similarItems": [
+      {
+        "id": "ratatouille",
+        "name": "ラタトゥイユ",
+        "difference": "ラタトゥイユは南仏の野菜煮込み。アジャプサンダリはジョージア香草が効く"
+      },
+      {
+        "id": "baklajon-qovurma",
+        "name": "バクラジョン・クォヴルマ",
+        "difference": "バクラジョンはなすの炒め揚げ。アジャプサンダリは野菜煮込み"
+      },
+      {
+        "id": "fergese",
+        "name": "フェルゲサ",
+        "difference": "フェルゲサはチーズ入り。アジャプサンダリは野菜中心"
+      }
+    ],
+    "relatedIds": [
+      "ratatouille",
+      "baklajon-qovurma",
+      "fergese"
+    ],
+    "tags": [
+      "ジョージア料理",
+      "前菜",
+      "野菜",
+      "煮込み",
+      "あっさり",
+      "ハーブ"
+    ],
+    "reverseKeywords": [
+      "なす苦手",
+      "香草苦手",
+      "肉料理",
+      "チーズ料理",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "ojakhuri",
+    "name": "オジャクリ",
+    "kana": "おじゃくり",
+    "aliases": [
+      "オジャフリ",
+      "Ojakhuri"
+    ],
+    "englishName": "Ojakhuri",
+    "originalName": "ოჯახური",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ジョージア"
+      }
+    ],
+    "summary": "肉とじゃがいもを炒め焼きにするジョージアの家庭料理。豚肉が多く、玉ねぎや香草、にんにくで香ばしく仕上げる。",
+    "menuDescription": "肉とじゃがいもの鉄板風炒め。外側が香ばしく、ボリュームのある家庭的な主菜。",
+    "whatComesOut": [
+      "豚肉または牛肉の焼き炒め",
+      "揚げ焼きじゃがいも",
+      "玉ねぎ・にんにく・香草",
+      "大皿または鉄鍋"
+    ],
+    "tasteAndTexture": [
+      "肉の香ばしさ",
+      "じゃがいものほくほく感",
+      "にんにくの香り",
+      "油のコク"
+    ],
+    "orderAdvice": "腹持ちのよい肉じゃが系が欲しいとき向き。複数人でシェアしやすい。",
+    "caution": "豚肉使用が多い。油とにんにくが強い場合あり。",
+    "similarItems": [
+      {
+        "id": "shashlik",
+        "name": "シャシリック",
+        "difference": "シャシリックは串焼き。オジャクリは肉とじゃがいもの炒め焼き"
+      },
+      {
+        "id": "grill",
+        "name": "グリル",
+        "difference": "グリルは調理法。オジャクリは肉とじゃがいもの家庭料理"
+      },
+      {
+        "id": "cevapcici",
+        "name": "ケバプチチ",
+        "difference": "ケバプチチは挽き肉グリル。オジャクリは角切り肉とじゃがいも"
+      }
+    ],
+    "relatedIds": [
+      "shashlik",
+      "grill",
+      "kofte"
+    ],
+    "tags": [
+      "ジョージア料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "豚肉不可",
+      "軽いサラダ",
+      "魚料理",
+      "乳製品料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": []
   }
 ]
