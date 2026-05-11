@@ -8,6 +8,16 @@ import type { DishItem } from "../types/dish"
 const SITE_URL = "https://rdish.reload.co.jp"
 const allDishes = dishes as DishItem[]
 
+const page = (
+  path: string,
+  changeFrequency: MetadataRoute.Sitemap[number]["changeFrequency"],
+  priority: number,
+) => ({
+  url: `${SITE_URL}${path}`,
+  changeFrequency,
+  priority,
+})
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const dishUrls = allDishes.map((dish) => ({
     url: `${SITE_URL}/dishes/${dish.id}/`,
@@ -34,10 +44,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }))
 
   return [
-    { url: `${SITE_URL}/`, changeFrequency: "weekly", priority: 1.0 },
-    { url: `${SITE_URL}/dishes/`, changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/reverse/`, changeFrequency: "monthly", priority: 0.7 },
-    { url: `${SITE_URL}/countries/`, changeFrequency: "monthly", priority: 0.7 },
+    page("/", "weekly", 1.0),
+    page("/dishes/", "weekly", 0.8),
+    page("/reverse/", "monthly", 0.7),
+    page("/countries/", "monthly", 0.7),
+    page("/about/", "yearly", 0.4),
     ...categoryUrls,
     ...countryUrls,
     ...dishUrls,
