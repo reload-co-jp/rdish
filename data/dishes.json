@@ -223,13 +223,13 @@
     "caution": "生肉・生魚を使用するため、妊婦や免疫が低下している方は注意。",
     "similarItems": [
       {
-        "id": "tartar",
+        "id": "tartare",
         "name": "タルタル",
         "difference": "タルタルは生肉や魚を細かく刻んで調味するが、カルパッチョは薄切りのまま提供される"
       }
     ],
     "relatedIds": [
-      "tartar",
+      "tartare",
       "marine",
       "escabeche"
     ],
@@ -977,69 +977,6 @@
       "/images/dishes/pate/1.jpg",
       "/images/dishes/pate/2.jpg",
       "/images/dishes/pate/3.jpg"
-    ]
-  },
-  {
-    "id": "tartar",
-    "name": "タルタル",
-    "kana": "たるたる",
-    "englishName": "Tartare",
-    "originalName": "Tartare",
-    "category": "調理法",
-    "regions": [
-      {
-        "country": "フランス"
-      }
-    ],
-    "summary": "生の牛肉や魚を細かく刻んでケッパー・玉ねぎ・卵黄などで調味した冷前菜。新鮮な素材の旨みを直接楽しめる。",
-    "menuDescription": "生の食材（特に牛肉・マグロ・サーモン）を細かく刻んで調味したフランス料理。卵黄を中央に乗せた見た目が印象的。",
-    "whatComesOut": [
-      "細かく刻んだ生肉または生魚",
-      "卵黄や薬味のトッピング",
-      "トースト或いはチップス"
-    ],
-    "tasteAndTexture": [
-      "生素材の繊細な旨みと食感",
-      "ケッパーや玉ねぎのアクセント",
-      "卵黄のコクとのなじみ"
-    ],
-    "orderAdvice": "生肉・生魚の新鮮な味わいを楽しみたいときに。食材の品質が直に伝わる一品。",
-    "caution": "生食のため妊婦や免疫が低下している方は控えること。",
-    "similarItems": [
-      {
-        "id": "carpaccio",
-        "name": "カルパッチョ",
-        "difference": "カルパッチョは薄切りで提供するが、タルタルは刻んで混ぜ合わせる"
-      }
-    ],
-    "relatedIds": [
-      "carpaccio",
-      "marine"
-    ],
-    "tags": [
-      "フランス料理",
-      "前菜",
-      "生食",
-      "牛肉",
-      "魚介",
-      "冷製",
-      "卵黄"
-    ],
-    "reverseKeywords": [
-      "加熱",
-      "揚げ物",
-      "温かい",
-      "スパイシー",
-      "辛い"
-    ],
-    "beginnerFriendlyScore": 2,
-    "uniquenessScore": 4,
-    "heavinessScore": 2,
-    "spicinessScore": 0,
-    "images": [
-      "/images/dishes/tartar/1.jpg",
-      "/images/dishes/tartar/2.jpg",
-      "/images/dishes/tartar/3.jpg"
     ]
   },
   {
@@ -8742,7 +8679,7 @@
     "relatedIds": [
       "gravlax",
       "carpaccio",
-      "tartar"
+      "tartare"
     ],
     "tags": [
       "魚介",
@@ -18784,7 +18721,7 @@
     "orderAdvice": "生魚が好きなら安心。脂を求めるならトロ系、軽さなら赤身。",
     "similarItems": [
       {
-        "id": "tartar",
+        "id": "tartare",
         "name": "タルタル",
         "difference": "タルタルは刻んだ生食の仕立てで、マグロは素材"
       },
@@ -18795,7 +18732,7 @@
       }
     ],
     "relatedIds": [
-      "tartar",
+      "tartare",
       "carpaccio",
       "grill"
     ],
