@@ -25215,5 +25215,234 @@
     "heavinessScore": 4,
     "spicinessScore": 1,
     "images": []
+  },
+  {
+    "id": "laurier",
+    "name": "ローリエ",
+    "kana": "ろーりえ",
+    "aliases": [
+      "月桂樹の葉",
+      "ベイリーフ",
+      "Bay leaf"
+    ],
+    "englishName": "Bay leaf",
+    "originalName": "Laurier",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "フランス"
+      },
+      {
+        "area": "地中海"
+      }
+    ],
+    "summary": "月桂樹の葉を乾燥させた香辛料。煮込みやスープに入れて、清涼感のある樹脂系の香りを移す。",
+    "menuDescription": "料理名に出る場合は月桂樹の香りづけ。煮込みやソースの奥に、すっとしたハーブ香を加える。",
+    "whatComesOut": [
+      "乾燥した月桂樹の葉",
+      "煮込み・スープ・ソースの香りづけ",
+      "皿には葉が残る場合あり"
+    ],
+    "tasteAndTexture": [
+      "清涼感のあるハーブ香",
+      "樹脂のようなほろ苦い香り",
+      "味は前面に出にくい",
+      "葉自体は硬い"
+    ],
+    "orderAdvice": "ローリエ風味と書かれていたら、強い辛味や酸味ではなく煮込み系の香りづけと考えるとよい。",
+    "caution": "葉は食べずに取り除くことが多い。細かく砕けた葉は口に残る場合あり。",
+    "similarItems": [
+      {
+        "name": "ブーケガルニ",
+        "difference": "ブーケガルニは複数の香草を束ねたもの。ローリエはその一部として使われる葉"
+      },
+      {
+        "name": "タイム",
+        "difference": "タイムは小さな葉の香草でより草っぽい香り。ローリエは樹脂系で煮込み向き"
+      },
+      {
+        "name": "セージ",
+        "difference": "セージは肉やバターに合う強い香り。ローリエは控えめに香りを移す"
+      }
+    ],
+    "relatedIds": [
+      "pot-au-feu",
+      "beef-bourguignon",
+      "sauce-vin-blanc"
+    ],
+    "tags": [
+      "フランス料理",
+      "香辛料",
+      "ハーブ",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "主菜そのもの",
+      "辛いスパイス",
+      "甘い香り",
+      "食べる葉物野菜",
+      "濃厚ソース"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/laurier/1.jpg",
+      "/images/dishes/laurier/2.jpg",
+      "/images/dishes/laurier/3.jpg"
+    ]
+  },
+  {
+    "id": "cornichon",
+    "name": "コルニション",
+    "kana": "こるにしょん",
+    "aliases": [
+      "小きゅうりのピクルス",
+      "ガーキン",
+      "Cornichon"
+    ],
+    "englishName": "Cornichon",
+    "originalName": "Cornichon",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "小型きゅうりを酢漬けにしたフランスの付け合わせ。シャルキュトリやパテ、サンドイッチに酸味と歯切れを添える。",
+    "menuDescription": "小さなきゅうりのピクルス。肉加工品や濃い前菜に添えられ、口をさっぱり戻す。",
+    "whatComesOut": [
+      "小ぶりなきゅうりの酢漬け",
+      "丸ごとまたは縦割り",
+      "シャルキュトリの付け合わせ",
+      "酸味の強い箸休め"
+    ],
+    "tasteAndTexture": [
+      "はっきりした酸味",
+      "軽い塩気",
+      "ぱりっとした歯ざわり",
+      "後味がさっぱり"
+    ],
+    "orderAdvice": "パテやハムなど脂のある前菜と相性がよい。酸っぱい付け合わせが苦手なら少量から試す。",
+    "caution": "酢漬けなので酸味と塩気が強い。甘いピクルスではない場合が多い。",
+    "similarItems": [
+      {
+        "name": "ピクルス",
+        "difference": "ピクルスは酢漬け全般。コルニションは小きゅうりのフランス系ピクルス"
+      },
+      {
+        "name": "ケイパー",
+        "difference": "ケイパーは花のつぼみの酢漬けで粒状。コルニションは小きゅうり"
+      },
+      {
+        "id": "dijon-mustard",
+        "name": "ディジョンマスタード",
+        "difference": "ディジョンマスタードは辛味のある調味料。コルニションは酸味のある野菜の付け合わせ"
+      }
+    ],
+    "relatedIds": [
+      "dijon-mustard",
+      "mustard",
+      "vinaigrette"
+    ],
+    "tags": [
+      "フランス料理",
+      "前菜",
+      "野菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "甘い漬物",
+      "温かい主菜",
+      "辛いソース",
+      "こってり",
+      "きゅうり不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cornichon/1.jpg",
+      "/images/dishes/cornichon/2.jpg",
+      "/images/dishes/cornichon/3.jpg"
+    ]
+  },
+  {
+    "id": "garniture",
+    "name": "ガルニチュール",
+    "kana": "がるにちゅーる",
+    "aliases": [
+      "付け合わせ",
+      "ガルニ",
+      "Garniture"
+    ],
+    "englishName": "Garnish",
+    "originalName": "Garniture",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "主菜やスープに添える付け合わせの総称。野菜、じゃがいも、米、パスタ、きのこなどで皿全体の味と量を整える。",
+    "menuDescription": "料理に添えられる付け合わせ。肉や魚の横に出る野菜、ポテト、きのこ、米などを指す。",
+    "whatComesOut": [
+      "主菜横の野菜や芋",
+      "ソースを受ける米・パスタ類",
+      "小さな盛り合わせ",
+      "料理名に応じた定番の添え物"
+    ],
+    "tasteAndTexture": [
+      "主菜を補う味",
+      "野菜の甘み",
+      "芋や穀物のほくほく感",
+      "ソースとの一体感"
+    ],
+    "orderAdvice": "メニューでgarnitureとあれば付け合わせ内容の確認ポイント。苦手な野菜や炭水化物がある場合は店員に聞くとよい。",
+    "caution": "単品料理名ではなく構成要素として書かれることが多い。内容は店や料理で大きく変わる。",
+    "similarItems": [
+      {
+        "name": "ガルニ",
+        "difference": "ガルニは略称として使われる。意味はほぼ同じ"
+      },
+      {
+        "name": "付け合わせ",
+        "difference": "付け合わせは日本語の一般表現。ガルニチュールはフランス料理文脈で使う"
+      },
+      {
+        "name": "ミルポワ",
+        "difference": "ミルポワは香味野菜の切り物やベース。ガルニチュールは皿に添える付け合わせ"
+      }
+    ],
+    "relatedIds": [
+      "pot-au-feu",
+      "beef-bourguignon",
+      "salade_nicoise"
+    ],
+    "tags": [
+      "フランス料理",
+      "主菜",
+      "野菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "主材料そのもの",
+      "ソース単体",
+      "デザート",
+      "飲み物",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/garniture/1.jpg",
+      "/images/dishes/garniture/2.jpg",
+      "/images/dishes/garniture/3.jpg"
+    ]
   }
 ]
