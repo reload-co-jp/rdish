@@ -20333,7 +20333,8 @@
       },
       {
         "name": "コンソメ",
-        "difference": "コンソメはブイヨンをさらに澄ませて味を整えた完成スープ"
+        "difference": "コンソメはブイヨンをさらに澄ませて味を整えた完成スープ",
+        "id": "consomme"
       },
       {
         "id": "nage",
@@ -20569,7 +20570,8 @@
     "similarItems": [
       {
         "name": "ターメリック",
-        "difference": "ターメリックも黄色くするが、サフランは花のような香りがあり、より繊細で高価"
+        "difference": "ターメリックも黄色くするが、サフランは花のような香りがあり、より繊細で高価",
+        "id": "turmeric"
       },
       {
         "id": "paella",
@@ -21137,7 +21139,8 @@
       },
       {
         "name": "トルティーヤスープ",
-        "difference": "トルティーヤスープはチリやトマトが強いことが多い。ソパ・デ・リマは柑橘の香りが中心"
+        "difference": "トルティーヤスープはチリやトマトが強いことが多い。ソパ・デ・リマは柑橘の香りが中心",
+        "id": "tortilla-soup"
       }
     ],
     "relatedIds": [
@@ -22180,7 +22183,8 @@
       },
       {
         "name": "冷麺",
-        "difference": "韓国の冷麺はそば粉や澱粉の細麺を使う。冷やしラーメンは中華麺を使った日本式冷麺"
+        "difference": "韓国の冷麺はそば粉や澱粉の細麺を使う。冷やしラーメンは中華麺を使った日本式冷麺",
+        "id": "naengmyeon"
       }
     ],
     "relatedIds": [
@@ -22404,7 +22408,8 @@
       },
       {
         "name": "味噌こんにゃく",
-        "difference": "味噌こんにゃくは味噌だれをかけることが多い。玉こんにゃくは醤油で煮含める"
+        "difference": "味噌こんにゃくは味噌だれをかけることが多い。玉こんにゃくは醤油で煮含める",
+        "id": "miso-konnyaku"
       }
     ],
     "relatedIds": [
@@ -22484,7 +22489,8 @@
       },
       {
         "name": "拌面",
-        "difference": "拌面は中国系の和え麺一般。ラグマンは中央アジアで発展した肉野菜麺"
+        "difference": "拌面は中国系の和え麺一般。ラグマンは中央アジアで発展した肉野菜麺",
+        "id": "banmian"
       }
     ],
     "relatedIds": [
@@ -22973,7 +22979,8 @@
       },
       {
         "name": "ラビオリ",
-        "difference": "ラビオリはイタリアの詰め物パスタ。トフム・バラクは中央アジアの卵入り茹で餃子"
+        "difference": "ラビオリはイタリアの詰め物パスタ。トフム・バラクは中央アジアの卵入り茹で餃子",
+        "id": "ravioli"
       }
     ],
     "relatedIds": [
@@ -23296,11 +23303,13 @@
       },
       {
         "name": "カチュンバル",
-        "difference": "カチュンバルはインド系の刻み野菜サラダ。アチック・チュチュックはトマトと玉ねぎ中心"
+        "difference": "カチュンバルはインド系の刻み野菜サラダ。アチック・チュチュックはトマトと玉ねぎ中心",
+        "id": "kachumbari"
       },
       {
         "name": "ピコ・デ・ガヨ",
-        "difference": "ピコ・デ・ガヨはメキシコのサルサ。アチック・チュチュックはより簡素な付け合わせサラダ"
+        "difference": "ピコ・デ・ガヨはメキシコのサルサ。アチック・チュチュックはより簡素な付け合わせサラダ",
+        "id": "pico-de-gallo"
       }
     ],
     "relatedIds": [
@@ -23452,7 +23461,8 @@
       },
       {
         "name": "なすのインボルティーニ",
-        "difference": "インボルティーニはイタリア系の巻き物。カイノナ・ティリはウズベキスタン風のにんにく香る冷前菜"
+        "difference": "インボルティーニはイタリア系の巻き物。カイノナ・ティリはウズベキスタン風のにんにく香る冷前菜",
+        "id": "involtini"
       }
     ],
     "relatedIds": [
@@ -23528,7 +23538,8 @@
       },
       {
         "name": "ベイクドビーンズ",
-        "difference": "ベイクドビーンズは甘いトマト系が多い。タヴチェ・グラヴチェはパプリカと玉ねぎの素朴な味"
+        "difference": "ベイクドビーンズは甘いトマト系が多い。タヴチェ・グラヴチェはパプリカと玉ねぎの素朴な味",
+        "id": "baked-beans"
       }
     ],
     "relatedIds": [
@@ -23613,7 +23624,8 @@
       },
       {
         "name": "ギリシャサラダ",
-        "difference": "ギリシャサラダはオリーブや大きなフェタが特徴。ショプスカは削った白チーズを多くのせる"
+        "difference": "ギリシャサラダはオリーブや大きなフェタが特徴。ショプスカは削った白チーズを多くのせる",
+        "id": "greek-salad"
       }
     ],
     "relatedIds": [
@@ -25421,11 +25433,13 @@
     "similarItems": [
       {
         "name": "ガルニ",
-        "difference": "ガルニは略称として使われる。意味はほぼ同じ"
+        "difference": "ガルニは略称として使われる。意味はほぼ同じ",
+        "id": "garniture"
       },
       {
         "name": "付け合わせ",
-        "difference": "付け合わせは日本語の一般表現。ガルニチュールはフランス料理文脈で使う"
+        "difference": "付け合わせは日本語の一般表現。ガルニチュールはフランス料理文脈で使う",
+        "id": "garniture"
       },
       {
         "name": "ミルポワ",
@@ -26247,7 +26261,8 @@
       },
       {
         "name": "ナン",
-        "difference": "ナンはインド周辺の発酵パン。ピタパンは薄くポケット状になりやすい"
+        "difference": "ナンはインド周辺の発酵パン。ピタパンは薄くポケット状になりやすい",
+        "id": "non"
       }
     ],
     "relatedIds": [
@@ -27046,7 +27061,8 @@
       },
       {
         "name": "サモサ",
-        "difference": "サモサは揚げることが多い南アジア系。サムサは中央アジアの焼き包みが多い"
+        "difference": "サモサは揚げることが多い南アジア系。サムサは中央アジアの焼き包みが多い",
+        "id": "samsa"
       }
     ],
     "relatedIds": [
@@ -27076,6 +27092,853 @@
       "/images/dishes/samsa/1.jpg",
       "/images/dishes/samsa/2.jpg",
       "/images/dishes/samsa/3.jpg"
+    ]
+  },
+  {
+    "id": "consomme",
+    "name": "コンソメ",
+    "kana": "こんそめ",
+    "aliases": [
+      "コンソメスープ",
+      "澄ましスープ",
+      "Consomme",
+      "Consommé"
+    ],
+    "englishName": "Consomme",
+    "originalName": "Consommé",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "ブイヨンを卵白などで澄ませ、旨味と透明感を高めたフランス料理のスープ。濁りが少なく、香りと出汁の輪郭を味わう。",
+    "menuDescription": "透明な旨味スープ。軽い見た目だが、肉や野菜の出汁が強く、前菜スープとして出る。",
+    "whatComesOut": [
+      "澄んだ琥珀色のスープ",
+      "小さな浮き身",
+      "肉や野菜の香り",
+      "カップまたは深皿"
+    ],
+    "tasteAndTexture": [
+      "澄んだ旨味",
+      "軽い塩気",
+      "香味野菜の香り",
+      "口当たりはさらっとしている"
+    ],
+    "orderAdvice": "重い前菜を避けたい時向き。出汁の味を静かに楽しむスープ。",
+    "caution": "肉由来の出汁を使うことが多い。見た目より塩気がある場合あり。",
+    "similarItems": [
+      {
+        "id": "bouillon",
+        "name": "ブイヨン",
+        "difference": "ブイヨンは出汁。コンソメはブイヨンを澄ませて味を整えた完成スープ"
+      },
+      {
+        "id": "fonds",
+        "name": "フォン",
+        "difference": "フォンはソース用の濃い出汁。コンソメはそのまま飲む澄んだスープ"
+      },
+      {
+        "id": "pot-au-feu",
+        "name": "ポトフ",
+        "difference": "ポトフは具入り煮込み。コンソメは澄んだスープ"
+      }
+    ],
+    "relatedIds": [
+      "bouillon",
+      "fonds",
+      "pot-au-feu"
+    ],
+    "tags": [
+      "フランス料理",
+      "スープ",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "濃厚ポタージュ",
+      "具だくさん煮込み",
+      "辛いスープ",
+      "乳製品スープ",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/consomme/1.jpg",
+      "/images/dishes/consomme/2.jpg",
+      "/images/dishes/consomme/3.jpg"
+    ]
+  },
+  {
+    "id": "turmeric",
+    "name": "ターメリック",
+    "kana": "たーめりっく",
+    "aliases": [
+      "ウコン",
+      "鬱金",
+      "Turmeric"
+    ],
+    "englishName": "Turmeric",
+    "originalName": "Turmeric",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "ウコンの根茎を乾燥させた黄色い香辛料。土っぽい香りとほろ苦さがあり、カレーや米料理、ソースの色づけに使う。",
+    "menuDescription": "黄色いスパイス。辛味は弱く、料理に色と土っぽい香りを足す。",
+    "whatComesOut": [
+      "黄色い粉末",
+      "カレーや米料理の色づけ",
+      "スパイスミックスの一部",
+      "ソースの黄色い色"
+    ],
+    "tasteAndTexture": [
+      "土っぽい香り",
+      "ほろ苦さ",
+      "辛味は弱い",
+      "色が強い"
+    ],
+    "orderAdvice": "黄色いスパイス風味が好きなら問題ない。サフランの代用的に色づけで使われることもある。",
+    "caution": "衣服や器に色がつきやすい。香りは控えめだが苦味が出る場合あり。",
+    "similarItems": [
+      {
+        "id": "saffron",
+        "name": "サフラン",
+        "difference": "サフランは花の香りと高価さが特徴。ターメリックは根茎由来で土っぽい香り"
+      },
+      {
+        "name": "カレー粉",
+        "difference": "カレー粉は複数スパイスの配合。ターメリックはその一部として使われる"
+      },
+      {
+        "name": "クミン",
+        "difference": "クミンは強い芳香と香ばしさ。ターメリックは色づけとほろ苦さが中心"
+      }
+    ],
+    "relatedIds": [
+      "saffron"
+    ],
+    "tags": [
+      "インド料理",
+      "香辛料",
+      "スパイス",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "辛い唐辛子",
+      "甘い香辛料",
+      "主菜そのもの",
+      "白いソース",
+      "香りなし"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/turmeric/1.jpg",
+      "/images/dishes/turmeric/2.jpg",
+      "/images/dishes/turmeric/3.jpg"
+    ]
+  },
+  {
+    "id": "tortilla-soup",
+    "name": "トルティーヤスープ",
+    "kana": "とるてぃーやすーぷ",
+    "aliases": [
+      "ソパ・デ・トルティーヤ",
+      "Sopa de tortilla",
+      "Tortilla soup"
+    ],
+    "englishName": "Tortilla soup",
+    "originalName": "Sopa de tortilla",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "トマトやチリを効かせたスープに、揚げたトルティーヤ、アボカド、チーズなどを加えるメキシコ料理。",
+    "menuDescription": "トマトとチリのスープに揚げトルティーヤをのせた一皿。香ばしく、軽い辛味がある。",
+    "whatComesOut": [
+      "赤いトマト系スープ",
+      "揚げたトルティーヤ片",
+      "アボカドやチーズ",
+      "ライムや香草"
+    ],
+    "tasteAndTexture": [
+      "トマトの酸味",
+      "チリの軽い辛味",
+      "揚げトルティーヤの香ばしさ",
+      "具の食感"
+    ],
+    "orderAdvice": "温かいメキシコ風スープが欲しい時向き。辛さは店で差がある。",
+    "caution": "チリ、乳製品、揚げ物を含む場合あり。",
+    "similarItems": [
+      {
+        "id": "sopa-de-lima",
+        "name": "ソパ・デ・リマ",
+        "difference": "ソパ・デ・リマは柑橘の香りが中心。トルティーヤスープはトマトやチリの印象が強い"
+      },
+      {
+        "id": "tomatillo",
+        "name": "トマティーヨ",
+        "difference": "トマティーヨは緑の野菜。トルティーヤスープはトマトやチリの温かいスープ"
+      },
+      {
+        "name": "ミネストローネ",
+        "difference": "ミネストローネはイタリアの野菜スープ。トルティーヤスープは揚げトルティーヤが特徴"
+      }
+    ],
+    "relatedIds": [
+      "sopa-de-lima",
+      "tomatillo"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "スープ",
+      "野菜",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "冷たいスープ",
+      "辛味なし",
+      "揚げ物なし",
+      "乳製品不可",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/tortilla-soup/1.jpg",
+      "/images/dishes/tortilla-soup/2.jpg",
+      "/images/dishes/tortilla-soup/3.jpg"
+    ]
+  },
+  {
+    "id": "naengmyeon",
+    "name": "冷麺",
+    "kana": "れいめん",
+    "aliases": [
+      "ネンミョン",
+      "冷麵",
+      "Naengmyeon"
+    ],
+    "englishName": "Naengmyeon",
+    "originalName": "냉면",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "そば粉やでんぷんの弾力ある麺を冷たいスープや辛い和えだれで食べる韓国料理。焼肉後の締めにも選ばれる。",
+    "menuDescription": "冷たい韓国麺。強いコシの麺を、冷たいスープまたは辛いタレで食べる。",
+    "whatComesOut": [
+      "冷たい麺",
+      "牛出汁や水キムチのスープ",
+      "梨やきゅうり",
+      "ゆで卵や肉"
+    ],
+    "tasteAndTexture": [
+      "麺の強い弾力",
+      "冷たい口当たり",
+      "酸味と塩気",
+      "辛いタイプもある"
+    ],
+    "orderAdvice": "さっぱり締めたい時向き。辛いビビン冷麺か、スープ冷麺か確認するとよい。",
+    "caution": "そば粉を含む場合あり。麺が噛み切りにくいことがある。",
+    "similarItems": [
+      {
+        "id": "hiyashi-ramen",
+        "name": "冷やしラーメン",
+        "difference": "冷やしラーメンは中華麺の日本式冷麺。冷麺は韓国の弾力麺"
+      },
+      {
+        "name": "キムチ",
+        "difference": "キムチは発酵野菜。冷麺に辛味や酸味として添えられることがある"
+      },
+      {
+        "name": "冷やし中華",
+        "difference": "冷やし中華は中華麺と甘酸っぱいタレ。冷麺は麺の弾力と冷たいスープが特徴"
+      }
+    ],
+    "relatedIds": [
+      "hiyashi-ramen"
+    ],
+    "tags": [
+      "韓国料理",
+      "主食",
+      "あっさり",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "温かい麺",
+      "小麦麺だけ",
+      "こってり",
+      "そば不可",
+      "辛味不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/naengmyeon/1.jpg",
+      "/images/dishes/naengmyeon/2.jpg",
+      "/images/dishes/naengmyeon/3.jpg"
+    ]
+  },
+  {
+    "id": "miso-konnyaku",
+    "name": "味噌こんにゃく",
+    "kana": "みそこんにゃく",
+    "aliases": [
+      "みそこんにゃく",
+      "味噌田楽こんにゃく",
+      "Miso konnyaku"
+    ],
+    "englishName": "Miso konnyaku",
+    "originalName": "味噌こんにゃく",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "こんにゃくを茹でる、温める、または焼いて甘味噌だれをかける日本の軽い惣菜。田楽として出ることも多い。",
+    "menuDescription": "こんにゃくに甘味噌をかけた一品。軽く、ぷるっとした食感と味噌の甘辛さがある。",
+    "whatComesOut": [
+      "温かいこんにゃく",
+      "甘味噌だれ",
+      "串刺しまたは小鉢",
+      "田楽風の盛り付け"
+    ],
+    "tasteAndTexture": [
+      "ぷるっとした食感",
+      "味噌の甘辛さ",
+      "軽い香ばしさ",
+      "脂は少ない"
+    ],
+    "orderAdvice": "軽い和風つまみが欲しい時向き。満腹感は控えめ。",
+    "caution": "こんにゃく独特の香りがある。味噌だれは甘め。",
+    "similarItems": [
+      {
+        "id": "tama-konnyaku",
+        "name": "玉こんにゃく",
+        "difference": "玉こんにゃくは丸こんにゃくを醤油で煮る。味噌こんにゃくは味噌だれをかける"
+      },
+      {
+        "name": "田楽",
+        "difference": "田楽は味噌を塗って焼く料理全般。味噌こんにゃくはこんにゃくが主役"
+      },
+      {
+        "name": "おでん",
+        "difference": "おでんは多品目のだし煮。味噌こんにゃくはこんにゃく単体に味噌だれ"
+      }
+    ],
+    "relatedIds": [
+      "tama-konnyaku"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "肉料理",
+      "こってり",
+      "辛い料理",
+      "味噌不可",
+      "甘味なし"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/miso-konnyaku/1.jpg",
+      "/images/dishes/miso-konnyaku/2.jpg",
+      "/images/dishes/miso-konnyaku/3.jpg"
+    ]
+  },
+  {
+    "id": "banmian",
+    "name": "拌面",
+    "kana": "ばんめん",
+    "aliases": [
+      "バンミェン",
+      "和え麺",
+      "Banmian"
+    ],
+    "englishName": "Mixed noodles",
+    "originalName": "拌面",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "茹でた麺にタレ、油、肉味噌、野菜などを絡める中国系の和え麺。汁なしで食べることが多い。",
+    "menuDescription": "タレで和えた汁なし麺。肉味噌や野菜、香味油が絡み、麺の食感を楽しむ。",
+    "whatComesOut": [
+      "汁なし麺",
+      "醤油系またはごま系のタレ",
+      "肉味噌や野菜",
+      "香味油"
+    ],
+    "tasteAndTexture": [
+      "タレの旨味",
+      "油のコク",
+      "麺のもちっと感",
+      "具材の食感"
+    ],
+    "orderAdvice": "スープ麺より濃い味の麺が欲しい時向き。辛味有無を確認。",
+    "caution": "油分と塩気が強い場合あり。辛いタイプもある。",
+    "similarItems": [
+      {
+        "id": "lagman",
+        "name": "ラグマン",
+        "difference": "ラグマンは中央アジアの肉野菜麺。拌面は中国系の和え麺一般"
+      },
+      {
+        "name": "ジャージャー麺",
+        "difference": "ジャージャー麺は肉味噌が主役。拌面はタレで和える麺の広い呼び方"
+      },
+      {
+        "name": "油そば",
+        "difference": "油そばは日本の汁なし中華麺。拌面は中国語圏の和え麺"
+      }
+    ],
+    "relatedIds": [
+      "lagman"
+    ],
+    "tags": [
+      "中国料理",
+      "主食",
+      "野菜",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "スープ麺",
+      "あっさり",
+      "米料理",
+      "麺なし",
+      "油控えめ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/banmian/1.jpg",
+      "/images/dishes/banmian/2.jpg",
+      "/images/dishes/banmian/3.jpg"
+    ]
+  },
+  {
+    "id": "ravioli",
+    "name": "ラビオリ",
+    "kana": "らびおり",
+    "aliases": [
+      "ラヴィオリ",
+      "Ravioli"
+    ],
+    "englishName": "Ravioli",
+    "originalName": "Ravioli",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "薄いパスタ生地で肉、チーズ、野菜などの詰め物を包んだイタリア料理。ソースやスープと合わせて食べる。",
+    "menuDescription": "詰め物入りの小さなパスタ。チーズや肉の中身を、ソースと一緒に食べる。",
+    "whatComesOut": [
+      "四角や半月形の詰め物パスタ",
+      "チーズや肉のフィリング",
+      "トマトソースやバターソース",
+      "少量の前菜または主菜"
+    ],
+    "tasteAndTexture": [
+      "パスタのもちっと感",
+      "中身の旨味",
+      "ソースのコク",
+      "チーズのクリーミーさ"
+    ],
+    "orderAdvice": "パスタだが具入りで満足感あり。中身とソースを確認して選ぶ。",
+    "caution": "小麦、卵、乳製品を含むことが多い。",
+    "similarItems": [
+      {
+        "id": "tukhum-barak",
+        "name": "トフム・バラク",
+        "difference": "トフム・バラクは中央アジアの卵入り茹で餃子。ラビオリはイタリアの詰め物パスタ"
+      },
+      {
+        "id": "manti",
+        "name": "マントゥ",
+        "difference": "マントゥは肉入りの蒸し包み料理。ラビオリはパスタ生地で包む"
+      },
+      {
+        "id": "lasagna",
+        "name": "ラザニア",
+        "difference": "ラザニアは層状の焼きパスタ。ラビオリは詰め物入りの小型パスタ"
+      }
+    ],
+    "relatedIds": [
+      "tukhum-barak",
+      "manti",
+      "lasagna"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主食",
+      "チーズ",
+      "煮込み",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "小麦不可",
+      "詰め物なし",
+      "軽いサラダ",
+      "米料理",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ravioli/1.jpg",
+      "/images/dishes/ravioli/2.jpg",
+      "/images/dishes/ravioli/3.jpg"
+    ]
+  },
+  {
+    "id": "kachumbari",
+    "name": "カチュンバル",
+    "kana": "かちゅんばる",
+    "aliases": [
+      "カチュンバリ",
+      "Kachumbari"
+    ],
+    "englishName": "Kachumbari",
+    "originalName": "Kachumbari",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ケニア"
+      },
+      {
+        "country": "タンザニア"
+      }
+    ],
+    "summary": "トマト、玉ねぎ、唐辛子、香草を刻んで和える東アフリカの生野菜サラダ。肉料理や米料理の付け合わせに使う。",
+    "menuDescription": "刻みトマトと玉ねぎのさっぱりサラダ。肉や炭水化物の横に添え、酸味と辛味で口を軽くする。",
+    "whatComesOut": [
+      "刻んだトマト",
+      "玉ねぎと香草",
+      "唐辛子やライム",
+      "小皿の生野菜"
+    ],
+    "tasteAndTexture": [
+      "トマトの酸味",
+      "玉ねぎの辛味",
+      "しゃきっとした食感",
+      "軽い辛さ"
+    ],
+    "orderAdvice": "焼き肉や米料理の付け合わせに向く。生玉ねぎが苦手なら注意。",
+    "caution": "生玉ねぎと唐辛子が強い場合あり。",
+    "similarItems": [
+      {
+        "id": "achichuk-salad",
+        "name": "アチック・チュチュックサラダ",
+        "difference": "アチック・チュチュックは中央アジアのトマト玉ねぎサラダ。カチュンバルは東アフリカの刻みサラダ"
+      },
+      {
+        "id": "pico-de-gallo",
+        "name": "ピコ・デ・ガヨ",
+        "difference": "ピコ・デ・ガヨはメキシコのサルサ。カチュンバルは東アフリカの付け合わせサラダ"
+      },
+      {
+        "id": "shopska-salad",
+        "name": "ショプスカ・サラダ",
+        "difference": "ショプスカはチーズをのせるバルカン系。カチュンバルは生野菜中心"
+      }
+    ],
+    "relatedIds": [
+      "achichuk-salad",
+      "shopska-salad"
+    ],
+    "tags": [
+      "ケニア料理",
+      "サラダ",
+      "野菜",
+      "あっさり",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "温かい煮込み",
+      "生玉ねぎ不可",
+      "辛味なし",
+      "こってり",
+      "乳製品サラダ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/kachumbari/1.jpg",
+      "/images/dishes/kachumbari/2.jpg",
+      "/images/dishes/kachumbari/3.jpg"
+    ]
+  },
+  {
+    "id": "pico-de-gallo",
+    "name": "ピコ・デ・ガヨ",
+    "kana": "ぴこでがよ",
+    "aliases": [
+      "ピコデガヨ",
+      "サルサ・フレスカ",
+      "Pico de gallo"
+    ],
+    "englishName": "Pico de gallo",
+    "originalName": "Pico de gallo",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "トマト、玉ねぎ、唐辛子、香菜、ライムを刻んで混ぜるメキシコの生サルサ。タコスや肉料理に添える。",
+    "menuDescription": "刻みトマトの生サルサ。タコスやグリルに酸味、辛味、香りを足す。",
+    "whatComesOut": [
+      "刻んだトマト",
+      "玉ねぎと香菜",
+      "ライム果汁",
+      "唐辛子の辛味"
+    ],
+    "tasteAndTexture": [
+      "トマトの酸味",
+      "生玉ねぎの辛味",
+      "香菜の香り",
+      "さっぱりした後味"
+    ],
+    "orderAdvice": "タコスや肉料理を軽くしたい時に合う。香菜が苦手なら確認。",
+    "caution": "唐辛子、生玉ねぎ、香菜が入ることが多い。",
+    "similarItems": [
+      {
+        "id": "achichuk-salad",
+        "name": "アチック・チュチュックサラダ",
+        "difference": "アチック・チュチュックは中央アジアの付け合わせ。ピコ・デ・ガヨはメキシコの生サルサ"
+      },
+      {
+        "id": "kachumbari",
+        "name": "カチュンバル",
+        "difference": "カチュンバルは東アフリカの刻みサラダ。ピコ・デ・ガヨはタコスに合うメキシコのサルサ"
+      },
+      {
+        "id": "tomatillo",
+        "name": "トマティーヨ",
+        "difference": "トマティーヨは緑の野菜。ピコ・デ・ガヨは赤いトマト主体の生サルサ"
+      }
+    ],
+    "relatedIds": [
+      "achichuk-salad",
+      "tomatillo"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "ソース",
+      "野菜",
+      "あっさり",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "加熱ソース",
+      "香菜不可",
+      "辛味なし",
+      "こってり",
+      "甘いソース"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/pico-de-gallo/1.jpg",
+      "/images/dishes/pico-de-gallo/2.jpg",
+      "/images/dishes/pico-de-gallo/3.jpg"
+    ]
+  },
+  {
+    "id": "baked-beans",
+    "name": "ベイクドビーンズ",
+    "kana": "べいくどびーんず",
+    "aliases": [
+      "ベイクトビーンズ",
+      "Baked beans"
+    ],
+    "englishName": "Baked beans",
+    "originalName": "Baked beans",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イギリス"
+      },
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "豆をトマトソースや甘辛いソースで煮るまたは焼く料理。朝食、付け合わせ、バーベキューのサイドに出る。",
+    "menuDescription": "豆の甘辛い煮込み。トマトや糖蜜のソースで柔らかく、肉料理の横に添えられる。",
+    "whatComesOut": [
+      "柔らかく煮た豆",
+      "トマト系または甘辛いソース",
+      "朝食の付け合わせ",
+      "肉料理のサイド"
+    ],
+    "tasteAndTexture": [
+      "豆のほくほく感",
+      "甘味と酸味",
+      "ソースのコク",
+      "軽いスモーキーさ"
+    ],
+    "orderAdvice": "肉料理のサイドや朝食向き。甘めの豆料理が好きなら選びやすい。",
+    "caution": "甘味が強いタイプがある。豆の量が多く腹にたまりやすい。",
+    "similarItems": [
+      {
+        "id": "tavche-gravche",
+        "name": "タヴチェ・グラヴチェ",
+        "difference": "タヴチェ・グラヴチェはパプリカと玉ねぎの素朴な豆料理。ベイクドビーンズは甘いトマト系が多い"
+      },
+      {
+        "id": "asado",
+        "name": "アサード",
+        "difference": "アサードは焼き肉料理。ベイクドビーンズは肉の横に添える豆料理"
+      },
+      {
+        "name": "チリコンカン",
+        "difference": "チリコンカンは唐辛子と肉の豆煮込み。ベイクドビーンズは甘めで辛さ控えめが多い"
+      }
+    ],
+    "relatedIds": [
+      "tavche-gravche",
+      "asado"
+    ],
+    "tags": [
+      "イギリス料理",
+      "アメリカ料理",
+      "主菜",
+      "野菜",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "豆不可",
+      "甘味なし",
+      "軽いサラダ",
+      "辛い豆料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/baked-beans/1.jpg",
+      "/images/dishes/baked-beans/2.jpg",
+      "/images/dishes/baked-beans/3.jpg"
+    ]
+  },
+  {
+    "id": "greek-salad",
+    "name": "ギリシャサラダ",
+    "kana": "ぎりしゃさらだ",
+    "aliases": [
+      "ホリアティキ",
+      "グリークサラダ",
+      "Greek salad"
+    ],
+    "englishName": "Greek salad",
+    "originalName": "Horiatiki",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ギリシャ"
+      }
+    ],
+    "summary": "トマト、きゅうり、玉ねぎ、オリーブ、フェタチーズをオリーブオイルで合わせるギリシャの定番サラダ。",
+    "menuDescription": "野菜、オリーブ、フェタチーズのサラダ。酸味と塩気があり、前菜や付け合わせに向く。",
+    "whatComesOut": [
+      "大きめに切ったトマトときゅうり",
+      "フェタチーズ",
+      "オリーブ",
+      "オリーブオイルとハーブ"
+    ],
+    "tasteAndTexture": [
+      "野菜のみずみずしさ",
+      "フェタの塩気",
+      "オリーブのコク",
+      "さっぱりした酸味"
+    ],
+    "orderAdvice": "軽い前菜や肉料理の横に向く。チーズとオリーブが好きなら選びやすい。",
+    "caution": "乳製品、オリーブ、生玉ねぎを含むことが多い。",
+    "similarItems": [
+      {
+        "id": "shopska-salad",
+        "name": "ショプスカ・サラダ",
+        "difference": "ショプスカは削った白チーズを多くのせる。ギリシャサラダはオリーブと大きなフェタが特徴"
+      },
+      {
+        "id": "spanakopita",
+        "name": "スパナコピタ",
+        "difference": "スパナコピタは焼きパイ。ギリシャサラダは生野菜のサラダ"
+      },
+      {
+        "id": "kachumbari",
+        "name": "カチュンバル",
+        "difference": "カチュンバルは東アフリカの刻みサラダ。ギリシャサラダはフェタとオリーブを使う"
+      }
+    ],
+    "relatedIds": [
+      "shopska-salad",
+      "spanakopita",
+      "kachumbari"
+    ],
+    "tags": [
+      "ギリシャ料理",
+      "サラダ",
+      "野菜",
+      "チーズ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "乳製品不可",
+      "オリーブ不可",
+      "温かい料理",
+      "肉料理",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/greek-salad/1.jpg",
+      "/images/dishes/greek-salad/2.jpg",
+      "/images/dishes/greek-salad/3.jpg"
     ]
   }
 ]
