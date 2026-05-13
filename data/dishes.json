@@ -25444,5 +25444,254 @@
       "/images/dishes/garniture/2.jpg",
       "/images/dishes/garniture/3.jpg"
     ]
+  },
+  {
+    "id": "charcuterie",
+    "name": "シャルキュトリ",
+    "kana": "しゃるきゅとり",
+    "aliases": [
+      "シャルキュトリー",
+      "食肉加工品",
+      "Charcuterie"
+    ],
+    "englishName": "Charcuterie",
+    "originalName": "Charcuterie",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "ハム、ソーセージ、パテ、テリーヌ、リエットなど食肉加工品の総称。前菜盛り合わせやワインのつまみとして出ることが多い。",
+    "menuDescription": "肉加工品の盛り合わせ。生ハム、サラミ、パテ、テリーヌなどを少量ずつ楽しむ前菜。",
+    "whatComesOut": [
+      "ハムやサラミの薄切り",
+      "パテやテリーヌ",
+      "リエットやソーセージ",
+      "コルニションやマスタード"
+    ],
+    "tasteAndTexture": [
+      "肉の旨味と塩気",
+      "脂のコク",
+      "燻製や熟成の香り",
+      "なめらかさと歯ごたえの混在"
+    ],
+    "orderAdvice": "ワイン前菜やシェア向き。肉加工品を少しずつ食べたいときに選ぶ。",
+    "caution": "豚肉使用が多い。塩気、脂、内臓系の風味が強い品が含まれる場合あり。",
+    "similarItems": [
+      {
+        "id": "prosciutto",
+        "name": "プロシュート",
+        "difference": "プロシュートは生ハム単品。シャルキュトリは肉加工品全般や盛り合わせ"
+      },
+      {
+        "id": "salami",
+        "name": "サラミ",
+        "difference": "サラミは乾燥ソーセージ。シャルキュトリはサラミを含む広い分類"
+      },
+      {
+        "id": "terrine",
+        "name": "テリーヌ",
+        "difference": "テリーヌは型で固めた料理。シャルキュトリ盛りに含まれることがある"
+      }
+    ],
+    "relatedIds": [
+      "prosciutto",
+      "salami",
+      "terrine",
+      "pate",
+      "cornichon",
+      "dijon-mustard"
+    ],
+    "tags": [
+      "フランス料理",
+      "前菜",
+      "豚肉",
+      "肉",
+      "燻製",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "魚料理",
+      "野菜だけ",
+      "軽いサラダ",
+      "豚肉不可",
+      "塩気控えめ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/charcuterie/1.jpg",
+      "/images/dishes/charcuterie/2.jpg",
+      "/images/dishes/charcuterie/3.jpg"
+    ]
+  },
+  {
+    "id": "caper",
+    "name": "ケイパー",
+    "kana": "けいぱー",
+    "aliases": [
+      "ケッパー",
+      "ケーパー",
+      "Caper"
+    ],
+    "englishName": "Caper",
+    "originalName": "Câpre",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "country": "フランス"
+      },
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "ケイパーのつぼみを塩漬けや酢漬けにした食材。小粒ながら酸味、塩気、青い香りが強く、魚料理やソースに使う。",
+    "menuDescription": "小さな粒状の酢漬け。魚、肉、サラダ、ソースに酸味と塩気を足す薬味的な食材。",
+    "whatComesOut": [
+      "緑色の小さなつぼみ",
+      "酢漬けまたは塩漬け",
+      "ソースやサラダの中の粒",
+      "魚料理の薬味"
+    ],
+    "tasteAndTexture": [
+      "鋭い酸味",
+      "強い塩気",
+      "青いハーブの香り",
+      "ぷちっとした歯ざわり"
+    ],
+    "orderAdvice": "酸味で魚や脂を軽くしたい料理に向く。粒が苦手ならソースの中に入るか確認。",
+    "caution": "塩気と酸味が強い。オリーブやピクルスが苦手なら目立つ場合あり。",
+    "similarItems": [
+      {
+        "id": "cornichon",
+        "name": "コルニション",
+        "difference": "コルニションは小きゅうりの酢漬け。ケイパーは花のつぼみで粒状"
+      },
+      {
+        "id": "tapenade",
+        "name": "タプナード",
+        "difference": "タプナードはオリーブ主体のペースト。ケイパーは粒の薬味"
+      },
+      {
+        "id": "vinaigrette",
+        "name": "ヴィネグレット",
+        "difference": "ヴィネグレットは酸味のあるソース。ケイパーは酸味と塩気を足す具材"
+      }
+    ],
+    "relatedIds": [
+      "cornichon",
+      "tapenade",
+      "vinaigrette",
+      "sauce-vin-blanc"
+    ],
+    "tags": [
+      "フランス料理",
+      "イタリア料理",
+      "野菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "甘い薬味",
+      "辛い香辛料",
+      "主菜",
+      "塩気控えめ",
+      "酸味なし"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/caper/1.jpg",
+      "/images/dishes/caper/2.jpg",
+      "/images/dishes/caper/3.jpg"
+    ]
+  },
+  {
+    "id": "mirepoix",
+    "name": "ミルポワ",
+    "kana": "みるぽわ",
+    "aliases": [
+      "香味野菜",
+      "ミルポワ野菜",
+      "Mirepoix"
+    ],
+    "englishName": "Mirepoix",
+    "originalName": "Mirepoix",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "玉ねぎ、にんじん、セロリなどを刻んだ香味野菜の組み合わせ。スープ、ソース、煮込みの香りと甘みの土台になる。",
+    "menuDescription": "料理のベースになる刻み香味野菜。皿の主役ではなく、煮込みやソースの奥行きを作る。",
+    "whatComesOut": [
+      "刻んだ玉ねぎ",
+      "にんじんとセロリ",
+      "炒めた香味野菜のベース",
+      "ソースや煮込みの中に溶けた野菜"
+    ],
+    "tasteAndTexture": [
+      "野菜の甘み",
+      "穏やかな香味",
+      "煮込みの深み",
+      "具としては目立ちにくい"
+    ],
+    "orderAdvice": "メニューで見る場合は味の土台を示す語。野菜の付け合わせではなく、ソースや煮込みのベースと考えるとよい。",
+    "caution": "セロリや玉ねぎが苦手な場合、香りとして残ることがある。",
+    "similarItems": [
+      {
+        "id": "garniture",
+        "name": "ガルニチュール",
+        "difference": "ガルニチュールは皿に添える付け合わせ。ミルポワは調理の土台になる香味野菜"
+      },
+      {
+        "id": "laurier",
+        "name": "ローリエ",
+        "difference": "ローリエは香りを移す葉。ミルポワは複数の野菜を刻んだベース"
+      },
+      {
+        "id": "pot-au-feu",
+        "name": "ポトフ",
+        "difference": "ポトフは煮込み料理。ミルポワは煮込みやスープを支える香味野菜"
+      }
+    ],
+    "relatedIds": [
+      "garniture",
+      "laurier",
+      "pot-au-feu",
+      "beef-bourguignon",
+      "sauce-vin-blanc"
+    ],
+    "tags": [
+      "フランス料理",
+      "野菜",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "付け合わせ",
+      "肉料理そのもの",
+      "辛いスパイス",
+      "デザート",
+      "飲み物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mirepoix/1.jpg",
+      "/images/dishes/mirepoix/2.jpg",
+      "/images/dishes/mirepoix/3.jpg"
+    ]
   }
 ]
