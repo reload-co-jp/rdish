@@ -25693,5 +25693,1370 @@
       "/images/dishes/mirepoix/2.jpg",
       "/images/dishes/mirepoix/3.jpg"
     ]
+  },
+  {
+    "id": "bouquet-garni",
+    "name": "ブーケガルニ",
+    "kana": "ぶーけがるに",
+    "aliases": [
+      "ブーケ・ガルニ",
+      "香草の束",
+      "Bouquet garni"
+    ],
+    "englishName": "Bouquet garni",
+    "originalName": "Bouquet garni",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "ローリエ、タイム、パセリなどの香草を束ねた香りづけ用の組み合わせ。煮込み、スープ、ソースに入れて香りを移し、仕上げ前に取り出す。",
+    "menuDescription": "煮込みやスープの香りづけ用ハーブ束。食べる具ではなく、料理に穏やかな香草の奥行きを加える。",
+    "whatComesOut": [
+      "束ねた香草",
+      "ローリエやタイム",
+      "煮込み・スープの香りづけ",
+      "仕上げ前に取り出すハーブ"
+    ],
+    "tasteAndTexture": [
+      "清涼感のある香草香",
+      "煮込みの奥行き",
+      "味は前面に出にくい",
+      "葉や茎は硬い"
+    ],
+    "orderAdvice": "メニューに出る場合は香草で香りをつけた煮込みやソース。強い辛味ではなく穏やかな香りづけ。",
+    "caution": "束は食べないことが多い。香草の香りが苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "laurier",
+        "name": "ローリエ",
+        "difference": "ローリエは月桂樹の葉単体。ブーケガルニは複数の香草の束"
+      },
+      {
+        "id": "mirepoix",
+        "name": "ミルポワ",
+        "difference": "ミルポワは刻んだ香味野菜。ブーケガルニは香草の束"
+      },
+      {
+        "id": "pot-au-feu",
+        "name": "ポトフ",
+        "difference": "ポトフは煮込み料理。ブーケガルニはその香りづけに使う素材"
+      }
+    ],
+    "relatedIds": [
+      "laurier",
+      "mirepoix",
+      "pot-au-feu",
+      "beef-bourguignon"
+    ],
+    "tags": [
+      "フランス料理",
+      "香辛料",
+      "ハーブ",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "食べる野菜",
+      "主菜そのもの",
+      "辛いスパイス",
+      "甘い香り",
+      "濃厚ソース"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bouquet-garni/1.jpg",
+      "/images/dishes/bouquet-garni/2.jpg",
+      "/images/dishes/bouquet-garni/3.png"
+    ]
+  },
+  {
+    "id": "sage",
+    "name": "セージ",
+    "kana": "せーじ",
+    "aliases": [
+      "サルビア",
+      "Sage"
+    ],
+    "englishName": "Sage",
+    "originalName": "Sage",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "country": "イタリア"
+      },
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "灰緑色の葉を使う香りの強いハーブ。肉、バター、豆、詰め物に合わせ、少量で薬草的な香りとほろ苦さを足す。",
+    "menuDescription": "強い香りのハーブ。バターソースや肉料理に使われ、こっくりした料理を引き締める。",
+    "whatComesOut": [
+      "刻んだ葉または丸い葉",
+      "バターで香りを出したソース",
+      "肉や詰め物の香りづけ",
+      "豆料理の風味づけ"
+    ],
+    "tasteAndTexture": [
+      "薬草のような香り",
+      "ほろ苦さ",
+      "バターと合うコク",
+      "香りが強い"
+    ],
+    "orderAdvice": "セージバターや肉料理で見かける。香草の香りが好きなら相性がよい。",
+    "caution": "香りが強く、入れすぎると薬っぽく感じる。",
+    "similarItems": [
+      {
+        "id": "thyme",
+        "name": "タイム",
+        "difference": "タイムはより軽い草の香り。セージは重めで薬草的"
+      },
+      {
+        "id": "laurier",
+        "name": "ローリエ",
+        "difference": "ローリエは煮込みに香りを移す葉。セージは葉自体を油脂と合わせることも多い"
+      },
+      {
+        "name": "ローズマリー",
+        "difference": "ローズマリーは松のような香り。セージは丸みのある薬草香"
+      }
+    ],
+    "relatedIds": [
+      "thyme",
+      "laurier",
+      "sauce-vin-blanc"
+    ],
+    "tags": [
+      "イタリア料理",
+      "フランス料理",
+      "香辛料",
+      "ハーブ",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "辛いスパイス",
+      "甘いハーブ",
+      "軽いサラダ",
+      "主菜そのもの",
+      "香草なし"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sage/1.jpg",
+      "/images/dishes/sage/2.jpg",
+      "/images/dishes/sage/3.jpg"
+    ]
+  },
+  {
+    "id": "lasagna",
+    "name": "ラザニア",
+    "kana": "らざにあ",
+    "aliases": [
+      "ラザーニャ",
+      "Lasagne",
+      "Lasagna"
+    ],
+    "englishName": "Lasagna",
+    "originalName": "Lasagne",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "板状パスタ、ミートソース、ベシャメル、チーズを重ねて焼くイタリア料理。層のある濃厚なグラタン状のパスタ。",
+    "menuDescription": "ミートソースとホワイトソースを重ねた焼きパスタ。チーズが溶け、食べ応えのある主菜。",
+    "whatComesOut": [
+      "板状パスタの層",
+      "ミートソース",
+      "ベシャメルソース",
+      "焼けたチーズ"
+    ],
+    "tasteAndTexture": [
+      "濃厚な肉の旨味",
+      "クリーミー",
+      "チーズの香ばしさ",
+      "パスタのもちっと感"
+    ],
+    "orderAdvice": "しっかり食べたい時向き。シェア前菜より一皿の満足感が高い。",
+    "caution": "乳製品、小麦、肉を含むことが多い。熱々で出る場合あり。",
+    "similarItems": [
+      {
+        "id": "bolognese",
+        "name": "ボロネーゼ",
+        "difference": "ボロネーゼは肉ソース。ラザニアはソースと板パスタを重ねて焼く料理"
+      },
+      {
+        "id": "bechamel",
+        "name": "ベシャメル",
+        "difference": "ベシャメルは白いソース。ラザニアの層に使われる"
+      },
+      {
+        "name": "グラタン",
+        "difference": "グラタンは焼き料理全般。ラザニアは板パスタの層が特徴"
+      }
+    ],
+    "relatedIds": [
+      "bolognese",
+      "bechamel",
+      "mozzarella"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "牛肉",
+      "チーズ",
+      "焼き物",
+      "こってり",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "軽いサラダ",
+      "乳製品不可",
+      "小麦不可",
+      "肉なし",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/lasagna/1.jpg",
+      "/images/dishes/lasagna/2.jpg",
+      "/images/dishes/lasagna/3.jpg"
+    ]
+  },
+  {
+    "id": "gruyere-cheese",
+    "name": "グリュイエールチーズ",
+    "kana": "ぐりゅいえーるちーず",
+    "aliases": [
+      "グリュイエール",
+      "Gruyere",
+      "Gruyère"
+    ],
+    "englishName": "Gruyere cheese",
+    "originalName": "Gruyère",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "スイス"
+      }
+    ],
+    "summary": "スイスの牛乳製ハードチーズ。ナッツのような香りと旨味があり、加熱するとよく溶けるためフォンデュやグラタンに使う。",
+    "menuDescription": "ナッツ香のある溶けるチーズ。フォンデュ、グラタン、キッシュなどで濃厚な旨味を出す。",
+    "whatComesOut": [
+      "硬めのチーズ",
+      "溶けたチーズソース",
+      "焼けたチーズの層",
+      "フォンデュの材料"
+    ],
+    "tasteAndTexture": [
+      "ナッツのような香り",
+      "強い旨味",
+      "加熱でなめらか",
+      "塩気とコク"
+    ],
+    "orderAdvice": "チーズの旨味と香りが欲しい料理向き。フォンデュや焼き料理でよく出る。",
+    "caution": "乳製品。熟成香と塩気がある。",
+    "similarItems": [
+      {
+        "id": "raclette",
+        "name": "ラクレット",
+        "difference": "ラクレットは溶かして食べるチーズ料理やチーズ。グリュイエールはフォンデュなどに使う硬質チーズ"
+      },
+      {
+        "id": "fondue",
+        "name": "フォンデュ",
+        "difference": "フォンデュは溶かしたチーズ料理。グリュイエールはその材料になる"
+      },
+      {
+        "id": "mozzarella",
+        "name": "モッツァレラ",
+        "difference": "モッツァレラは水分が多くミルキー。グリュイエールは熟成香と旨味が強い"
+      }
+    ],
+    "relatedIds": [
+      "fondue",
+      "raclette",
+      "mozzarella"
+    ],
+    "tags": [
+      "スイス料理",
+      "チーズ",
+      "こってり",
+      "クリーミー",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "乳製品不可",
+      "軽い野菜料理",
+      "辛い料理",
+      "あっさり",
+      "魚料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gruyere-cheese/1.jpg",
+      "/images/dishes/gruyere-cheese/2.jpg",
+      "/images/dishes/gruyere-cheese/3.jpg"
+    ]
+  },
+  {
+    "id": "glaze",
+    "name": "グレイズ",
+    "kana": "ぐれいず",
+    "aliases": [
+      "グラッセ",
+      "つや出しソース",
+      "Glaze"
+    ],
+    "englishName": "Glaze",
+    "originalName": "Glaze",
+    "category": "ソース",
+    "regions": [
+      {
+        "area": "西洋"
+      }
+    ],
+    "summary": "煮詰めたソースや糖分を含む液体を表面に塗り、つやと味の層をつける仕上げ。肉、魚、野菜、菓子に使う。",
+    "menuDescription": "照りを出す仕上げソース。表面がつやっとし、甘味や旨味が凝縮する。",
+    "whatComesOut": [
+      "つやのある表面",
+      "煮詰めたソース",
+      "甘辛いまたは旨味の濃い膜",
+      "焼き上げの仕上げ"
+    ],
+    "tasteAndTexture": [
+      "凝縮した甘味",
+      "照りのある口当たり",
+      "ソースの濃い旨味",
+      "表面の軽い粘り"
+    ],
+    "orderAdvice": "glazedとあれば照り焼きに近い仕上げを想像するとよい。甘味が苦手なら内容確認。",
+    "caution": "砂糖、蜂蜜、果汁を使う場合があり甘いことがある。",
+    "similarItems": [
+      {
+        "id": "deglaze",
+        "name": "デグラッセ",
+        "difference": "デグラッセは鍋底の旨味を液体で溶かす調理法。グレイズは表面に照りをつける仕上げ"
+      },
+      {
+        "id": "sauce-vin-blanc",
+        "name": "ソース・ヴァンブラン",
+        "difference": "ソース・ヴァンブランは白ワインソース。グレイズは照りを作る仕上げ全般"
+      },
+      {
+        "name": "照り焼き",
+        "difference": "照り焼きは甘辛い日本料理の調理。グレイズは西洋料理や菓子にも使う広い技法"
+      }
+    ],
+    "relatedIds": [
+      "deglaze",
+      "sauce-vin-blanc",
+      "beef-bourguignon"
+    ],
+    "tags": [
+      "ソース",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "つやなし",
+      "甘味なし",
+      "軽いサラダ",
+      "生料理",
+      "辛いソース"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/glaze/1.jpg",
+      "/images/dishes/glaze/2.jpg",
+      "/images/dishes/glaze/3.jpg"
+    ]
+  },
+  {
+    "id": "tahini",
+    "name": "タヒニ",
+    "kana": "たひに",
+    "aliases": [
+      "タヒーナ",
+      "練りごまペースト",
+      "Tahini"
+    ],
+    "englishName": "Tahini",
+    "originalName": "Tahini",
+    "category": "ソース",
+    "regions": [
+      {
+        "area": "中東"
+      },
+      {
+        "country": "トルコ"
+      }
+    ],
+    "summary": "白ごまをすりつぶしたペースト。フムス、ソース、ドレッシングに使われ、香ばしさとクリーミーなコクを加える。",
+    "menuDescription": "ごまの濃厚ペースト。フムスやケバブのソースに使われ、ナッツのような香りとコクが出る。",
+    "whatComesOut": [
+      "白ごまペースト",
+      "クリーム状のソース",
+      "フムスの材料",
+      "肉や野菜にかけるソース"
+    ],
+    "tasteAndTexture": [
+      "ごまの香ばしさ",
+      "クリーミー",
+      "軽い苦味",
+      "油脂のコク"
+    ],
+    "orderAdvice": "ごま風味が好きなら選びやすい。フムスやファラフェルと相性がよい。",
+    "caution": "ごまアレルギー注意。濃厚で油分がある。",
+    "similarItems": [
+      {
+        "id": "hummus",
+        "name": "フムス",
+        "difference": "フムスはひよこ豆のペースト料理。タヒニはその材料になるごまペースト"
+      },
+      {
+        "id": "tapenade",
+        "name": "タプナード",
+        "difference": "タプナードはオリーブのペースト。タヒニはごま主体"
+      },
+      {
+        "id": "vinaigrette",
+        "name": "ヴィネグレット",
+        "difference": "ヴィネグレットは油と酢のソース。タヒニはごまの濃厚ペースト"
+      }
+    ],
+    "relatedIds": [
+      "hummus",
+      "falafel",
+      "kebab",
+      "shawarma"
+    ],
+    "tags": [
+      "トルコ料理",
+      "ソース",
+      "スパイス",
+      "こってり",
+      "クリーミー",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ごま不可",
+      "あっさり",
+      "酸味ソース",
+      "辛いソース",
+      "乳製品ソース"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tahini/1.jpg",
+      "/images/dishes/tahini/2.jpg",
+      "/images/dishes/tahini/3.jpg"
+    ]
+  },
+  {
+    "id": "pita-bread",
+    "name": "ピタパン",
+    "kana": "ぴたぱん",
+    "aliases": [
+      "ピタ",
+      "ポケットパン",
+      "Pita bread"
+    ],
+    "englishName": "Pita bread",
+    "originalName": "Pita",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "中東"
+      },
+      {
+        "country": "ギリシャ"
+      },
+      {
+        "country": "トルコ"
+      }
+    ],
+    "summary": "平たく焼く小麦のパン。中が空洞になりやすく、具やソースを挟んでサンドにしたり、ディップをすくったりする。",
+    "menuDescription": "薄い丸パン。ケバブやファラフェルを挟むほか、フムスなどのディップにつけて食べる。",
+    "whatComesOut": [
+      "丸く平たいパン",
+      "中が開くポケット状の生地",
+      "焼いた小麦の香り",
+      "具を挟む器"
+    ],
+    "tasteAndTexture": [
+      "小麦の素朴な香り",
+      "軽いもちっと感",
+      "表面の香ばしさ",
+      "味は穏やか"
+    ],
+    "orderAdvice": "ソースや具を包んで食べたい時に便利。ディップ系料理と一緒に頼むと使いやすい。",
+    "caution": "小麦使用。冷めると硬くなる場合あり。",
+    "similarItems": [
+      {
+        "id": "kebab",
+        "name": "ケバブ",
+        "difference": "ケバブは肉料理。ピタパンに挟んで出ることがある"
+      },
+      {
+        "id": "hummus",
+        "name": "フムス",
+        "difference": "フムスは豆のディップ。ピタパンですくって食べることが多い"
+      },
+      {
+        "name": "ナン",
+        "difference": "ナンはインド周辺の発酵パン。ピタパンは薄くポケット状になりやすい"
+      }
+    ],
+    "relatedIds": [
+      "hummus",
+      "falafel",
+      "kebab",
+      "shawarma"
+    ],
+    "tags": [
+      "ギリシャ料理",
+      "トルコ料理",
+      "主食",
+      "焼き物",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "小麦不可",
+      "米料理",
+      "甘いパン",
+      "揚げ物",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pita-bread/1.jpg",
+      "/images/dishes/pita-bread/2.jpg",
+      "/images/dishes/pita-bread/3.jpg"
+    ]
+  },
+  {
+    "id": "semolina",
+    "name": "セモリナ",
+    "kana": "せもりな",
+    "aliases": [
+      "セモリナ粉",
+      "デュラムセモリナ",
+      "Semolina"
+    ],
+    "englishName": "Semolina",
+    "originalName": "Semolina",
+    "category": "食材",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "デュラム小麦などを粗く挽いた粉。パスタ、クスクス、パン、菓子に使われ、粒感としっかりした食感を作る。",
+    "menuDescription": "粗挽き小麦粉。パスタやクスクスの材料で、もちっとした弾力や粒感を出す。",
+    "whatComesOut": [
+      "粗い小麦粉",
+      "パスタ生地",
+      "クスクスの粒",
+      "パンや菓子の材料"
+    ],
+    "tasteAndTexture": [
+      "小麦の香り",
+      "粒感",
+      "しっかりした弾力",
+      "素朴な甘み"
+    ],
+    "orderAdvice": "料理名にsemolinaとあれば小麦由来の食感が特徴。パスタや粉ものが好きなら選びやすい。",
+    "caution": "小麦・グルテンを含む。粉自体が単品で出ることは少ない。",
+    "similarItems": [
+      {
+        "id": "couscous",
+        "name": "クスクス",
+        "difference": "クスクスはセモリナから作る粒状食品。セモリナは原料の粉"
+      },
+      {
+        "id": "polenta",
+        "name": "ポレンタ",
+        "difference": "ポレンタはとうもろこし粉料理。セモリナは小麦由来"
+      },
+      {
+        "id": "lasagna",
+        "name": "ラザニア",
+        "difference": "ラザニアはパスタ料理。セモリナはパスタ生地の材料になる"
+      }
+    ],
+    "relatedIds": [
+      "couscous",
+      "polenta",
+      "lasagna"
+    ],
+    "tags": [
+      "イタリア料理",
+      "食材",
+      "主食",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "小麦不可",
+      "米粉",
+      "肉料理",
+      "辛い料理",
+      "乳製品"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/semolina/1.jpg",
+      "/images/dishes/semolina/2.jpg",
+      "/images/dishes/semolina/3.jpg"
+    ]
+  },
+  {
+    "id": "asado",
+    "name": "アサード",
+    "kana": "あさーど",
+    "aliases": [
+      "アサド",
+      "Asado"
+    ],
+    "englishName": "Asado",
+    "originalName": "Asado",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アルゼンチン"
+      },
+      {
+        "country": "ウルグアイ"
+      }
+    ],
+    "summary": "南米の焼き肉料理やバーベキュー文化。牛肉を中心に炭火でじっくり焼き、チミチュリなどを添えて食べる。",
+    "menuDescription": "炭火焼き肉の盛り合わせ。牛肉の旨味と焼き香が主役で、チミチュリを添えることが多い。",
+    "whatComesOut": [
+      "炭火焼きの牛肉",
+      "ソーセージや内臓肉",
+      "チミチュリソース",
+      "大皿の肉盛り"
+    ],
+    "tasteAndTexture": [
+      "牛肉の旨味",
+      "炭火の香ばしさ",
+      "肉汁と脂のコク",
+      "塩気のシンプルな味"
+    ],
+    "orderAdvice": "肉をしっかり食べたい時向き。複数人でシェアしやすい。",
+    "caution": "牛肉中心で量が多い。内臓やソーセージが含まれる場合あり。",
+    "similarItems": [
+      {
+        "id": "chimichurri",
+        "name": "チミチュリ",
+        "difference": "チミチュリはハーブソース。アサードに添えることが多い"
+      },
+      {
+        "id": "kebab",
+        "name": "ケバブ",
+        "difference": "ケバブは中東系の串焼きや肉料理。アサードは南米の炭火焼き肉"
+      },
+      {
+        "name": "バーベキュー",
+        "difference": "バーベキューは焼き料理全般。アサードはアルゼンチンなどの牛肉中心の焼き肉文化"
+      }
+    ],
+    "relatedIds": [
+      "chimichurri",
+      "kebab"
+    ],
+    "tags": [
+      "アルゼンチン料理",
+      "主菜",
+      "牛肉",
+      "グリル",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "魚料理",
+      "野菜だけ",
+      "軽いサラダ",
+      "肉不可",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/asado/1.jpg",
+      "/images/dishes/asado/2.jpg",
+      "/images/dishes/asado/3.jpg"
+    ]
+  },
+  {
+    "id": "tomatillo",
+    "name": "トマティーヨ",
+    "kana": "とまてぃーよ",
+    "aliases": [
+      "トマティージョ",
+      "メキシコほおずき",
+      "Tomatillo"
+    ],
+    "englishName": "Tomatillo",
+    "originalName": "Tomatillo",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "薄い殻に包まれた緑色のナス科野菜。酸味が強く、サルサベルデなどメキシコ料理のソースに使う。",
+    "menuDescription": "酸味のある緑の野菜。サルサや煮込みに使われ、青い香りとさっぱりした酸味を出す。",
+    "whatComesOut": [
+      "薄皮つきの緑色の実",
+      "刻んだサルサ",
+      "緑色のソース",
+      "酸味のある野菜具材"
+    ],
+    "tasteAndTexture": [
+      "明るい酸味",
+      "青い香り",
+      "軽い果実感",
+      "加熱でまろやか"
+    ],
+    "orderAdvice": "サルサベルデや緑のメキシコ系ソースが好きなら相性がよい。酸味が苦手なら量に注意。",
+    "caution": "トマトとは別物だがナス科。酸味が目立つ。",
+    "similarItems": [
+      {
+        "name": "トマト",
+        "difference": "トマトは赤く甘味も強い。トマティーヨは緑で酸味と青い香りが強い"
+      },
+      {
+        "id": "caper",
+        "name": "ケイパー",
+        "difference": "ケイパーは酢漬けのつぼみ。トマティーヨはソースに使う生鮮野菜"
+      },
+      {
+        "id": "tapenade",
+        "name": "タプナード",
+        "difference": "タプナードはオリーブのペースト。トマティーヨは緑のサルサ材料"
+      }
+    ],
+    "relatedIds": [
+      "caper",
+      "tapenade"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "野菜",
+      "ソース",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "甘いトマト",
+      "こってり",
+      "辛いソースだけ",
+      "肉料理そのもの",
+      "酸味なし"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tomatillo/1.jpg",
+      "/images/dishes/tomatillo/2.jpg",
+      "/images/dishes/tomatillo/3.jpg"
+    ]
+  },
+  {
+    "id": "pomegranate",
+    "name": "ザクロ",
+    "kana": "ざくろ",
+    "aliases": [
+      "石榴",
+      "ポメグラネート",
+      "Pomegranate"
+    ],
+    "englishName": "Pomegranate",
+    "originalName": "Pomegranate",
+    "category": "食材",
+    "regions": [
+      {
+        "area": "中東"
+      },
+      {
+        "country": "トルコ"
+      }
+    ],
+    "summary": "赤い粒を食べる果実。甘酸っぱさとみずみずしい粒感があり、中東や地中海料理でサラダ、ソース、肉料理のアクセントに使う。",
+    "menuDescription": "赤い粒状の甘酸っぱい果実。サラダや肉料理に散らして、酸味と色を足す。",
+    "whatComesOut": [
+      "赤い果粒",
+      "果汁やシロップ",
+      "サラダのトッピング",
+      "肉料理の甘酸っぱいソース"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい",
+      "ぷちっとした粒感",
+      "果汁のみずみずしさ",
+      "軽い渋み"
+    ],
+    "orderAdvice": "重い肉料理やサラダに明るい酸味が欲しい時向き。甘酸っぱいアクセントとして考える。",
+    "caution": "粒の中に小さな種がある。酸味と渋みが苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "tomatillo",
+        "name": "トマティーヨ",
+        "difference": "トマティーヨは緑の野菜で酸味が中心。ザクロは赤い果実で甘酸っぱい"
+      },
+      {
+        "id": "caper",
+        "name": "ケイパー",
+        "difference": "ケイパーは塩気のある酢漬け。ザクロは果実の甘酸っぱさを足す"
+      },
+      {
+        "name": "ベリー",
+        "difference": "ベリーは果肉の甘酸っぱさ。ザクロは粒と種の食感が特徴"
+      }
+    ],
+    "relatedIds": [
+      "tomatillo",
+      "caper",
+      "tahini"
+    ],
+    "tags": [
+      "トルコ料理",
+      "食材",
+      "果物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "辛いスパイス",
+      "主菜そのもの",
+      "甘味なし",
+      "種なし果実",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pomegranate/1.jpg",
+      "/images/dishes/pomegranate/2.jpg",
+      "/images/dishes/pomegranate/3.jpg"
+    ]
+  },
+  {
+    "id": "involtini",
+    "name": "インボルティーニ",
+    "kana": "いんぼるてぃーに",
+    "aliases": [
+      "インヴォルティーニ",
+      "巻き物料理",
+      "Involtini"
+    ],
+    "englishName": "Involtini",
+    "originalName": "Involtini",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "薄切りの肉、魚、野菜で具材を巻いて焼く、煮る、または揚げるイタリア料理。中身とソースで印象が変わる。",
+    "menuDescription": "薄切り素材で具を巻いた一皿。肉巻き、魚巻き、野菜巻きなどがあり、ソース付きで出る。",
+    "whatComesOut": [
+      "巻いた肉や野菜",
+      "チーズやハーブの詰め物",
+      "トマトソースや肉汁ソース",
+      "小さなロール状の主菜"
+    ],
+    "tasteAndTexture": [
+      "中身の旨味",
+      "焼き目の香ばしさ",
+      "ソースのコク",
+      "巻いた層の食感"
+    ],
+    "orderAdvice": "内容確認が大事。肉、魚、野菜のどれを巻くかで軽さも味も変わる。",
+    "caution": "チーズ、ハム、ナッツを詰める場合あり。苦手食材は確認。",
+    "similarItems": [
+      {
+        "id": "lasagna",
+        "name": "ラザニア",
+        "difference": "ラザニアは層に重ねる焼きパスタ。インボルティーニは薄切り素材で巻く料理"
+      },
+      {
+        "id": "prosciutto",
+        "name": "プロシュート",
+        "difference": "プロシュートは生ハム単品。インボルティーニの具や巻き材に使われることがある"
+      },
+      {
+        "id": "sage",
+        "name": "セージ",
+        "difference": "セージは香草。インボルティーニの香りづけに使われることがある"
+      }
+    ],
+    "relatedIds": [
+      "lasagna",
+      "prosciutto",
+      "sage",
+      "mozzarella"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "肉",
+      "野菜",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "巻き物不可",
+      "軽いサラダ",
+      "スープ",
+      "中身不明が苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/involtini/1.jpg",
+      "/images/dishes/involtini/2.jpg",
+      "/images/dishes/involtini/3.jpg"
+    ]
+  },
+  {
+    "id": "trippa",
+    "name": "トリッパ",
+    "kana": "とりっぱ",
+    "aliases": [
+      "牛ハチノス",
+      "トライプ",
+      "Trippa"
+    ],
+    "englishName": "Tripe",
+    "originalName": "Trippa",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "牛の胃、特にハチノスを使う食材または煮込み料理。トマト、香味野菜、チーズと煮て、弾力のある食感を楽しむ。",
+    "menuDescription": "牛胃の煮込み。くにゅっとした歯ごたえと、トマトや香味野菜のソースが特徴。",
+    "whatComesOut": [
+      "細切りの牛胃",
+      "トマト煮込み",
+      "香味野菜のソース",
+      "粉チーズやハーブ"
+    ],
+    "tasteAndTexture": [
+      "弾力のある食感",
+      "煮込みの旨味",
+      "内臓の風味",
+      "トマトの酸味"
+    ],
+    "orderAdvice": "内臓料理が好きなら試しやすい。食感が独特なので初回はシェア向き。",
+    "caution": "内臓特有の香りと弾力あり。苦手な人には重い。",
+    "similarItems": [
+      {
+        "id": "mirepoix",
+        "name": "ミルポワ",
+        "difference": "ミルポワは香味野菜のベース。トリッパは牛胃の煮込み"
+      },
+      {
+        "id": "beef-bourguignon",
+        "name": "ビーフバーガニョン",
+        "difference": "ビーフバーガニョンは牛肉のワイン煮。トリッパは牛胃を使う"
+      },
+      {
+        "id": "lasagna",
+        "name": "ラザニア",
+        "difference": "ラザニアはパスタ料理。トリッパは内臓の煮込み"
+      }
+    ],
+    "relatedIds": [
+      "mirepoix",
+      "laurier",
+      "beef-bourguignon"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "牛肉",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "内臓不可",
+      "軽いサラダ",
+      "魚料理",
+      "弾力食感なし",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/trippa/1.jpg",
+      "/images/dishes/trippa/2.jpg",
+      "/images/dishes/trippa/3.jpg"
+    ]
+  },
+  {
+    "id": "spanakopita",
+    "name": "スパナコピタ",
+    "kana": "すぱなこぴた",
+    "aliases": [
+      "ほうれん草パイ",
+      "Spanakopita"
+    ],
+    "englishName": "Spanakopita",
+    "originalName": "Σπανακόπιτα",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ギリシャ"
+      }
+    ],
+    "summary": "ほうれん草とフェタチーズをフィロ生地で包んで焼くギリシャのパイ料理。薄い生地のサクサク感と青菜の風味が特徴。",
+    "menuDescription": "ほうれん草とチーズの薄皮パイ。前菜や軽食として出ることが多い。",
+    "whatComesOut": [
+      "薄いフィロ生地のパイ",
+      "ほうれん草の詰め物",
+      "フェタチーズ",
+      "三角形または大きな切り分け"
+    ],
+    "tasteAndTexture": [
+      "生地のサクサク感",
+      "ほうれん草の青い香り",
+      "チーズの塩気",
+      "バターや油のコク"
+    ],
+    "orderAdvice": "軽めの前菜やワインのつまみに向く。チーズ入り青菜パイが好きなら選びやすい。",
+    "caution": "小麦、乳製品を含む。冷めると油分を感じる場合あり。",
+    "similarItems": [
+      {
+        "id": "pita-bread",
+        "name": "ピタパン",
+        "difference": "ピタパンは具を挟むパン。スパナコピタは具を包んで焼いたパイ"
+      },
+      {
+        "id": "tahini",
+        "name": "タヒニ",
+        "difference": "タヒニはごまペースト。スパナコピタはほうれん草とチーズの焼き料理"
+      },
+      {
+        "name": "ブレク",
+        "difference": "ブレクは類似の薄皮包み料理。スパナコピタはギリシャのほうれん草パイ"
+      }
+    ],
+    "relatedIds": [
+      "pita-bread",
+      "tahini",
+      "gruyere-cheese"
+    ],
+    "tags": [
+      "ギリシャ料理",
+      "前菜",
+      "野菜",
+      "チーズ",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "乳製品不可",
+      "小麦不可",
+      "肉料理",
+      "スープ",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/spanakopita/1.jpg",
+      "/images/dishes/spanakopita/2.jpg",
+      "/images/dishes/spanakopita/3.jpg"
+    ]
+  },
+  {
+    "id": "appareil",
+    "name": "アパレイユ",
+    "kana": "あぱれいゆ",
+    "aliases": [
+      "アパレイユ液",
+      "卵液",
+      "Appareil"
+    ],
+    "englishName": "Custard mixture",
+    "originalName": "Appareil",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "卵、牛乳、クリーム、砂糖や塩などを混ぜた生地や液体の総称。キッシュ、プリン、フレンチトーストなどの土台になる。",
+    "menuDescription": "卵や乳製品を混ぜたベース液。キッシュや菓子で、固まる部分やなめらかな中身を作る。",
+    "whatComesOut": [
+      "卵と乳製品の混合液",
+      "焼くと固まる中身",
+      "キッシュのフィリング",
+      "プリン状の生地"
+    ],
+    "tasteAndTexture": [
+      "卵のコク",
+      "クリーミー",
+      "なめらか",
+      "焼くとふるっと固まる"
+    ],
+    "orderAdvice": "メニューでは料理の構成説明として出やすい。卵やクリーム感があると考えるとよい。",
+    "caution": "卵、乳製品を含むことが多い。甘い場合と塩味の場合がある。",
+    "similarItems": [
+      {
+        "id": "bechamel",
+        "name": "ベシャメル",
+        "difference": "ベシャメルは小麦と牛乳の白いソース。アパレイユは卵を含む混合液"
+      },
+      {
+        "id": "quiche",
+        "name": "キッシュ",
+        "difference": "キッシュは料理。アパレイユはキッシュの中身を固める液"
+      },
+      {
+        "id": "gruyere-cheese",
+        "name": "グリュイエールチーズ",
+        "difference": "グリュイエールはチーズ。アパレイユに混ぜて使うことがある"
+      }
+    ],
+    "relatedIds": [
+      "bechamel",
+      "quiche",
+      "gruyere-cheese"
+    ],
+    "tags": [
+      "フランス料理",
+      "食材",
+      "チーズ",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "卵不可",
+      "乳製品不可",
+      "固形具材",
+      "辛いソース",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/appareil/1.jpg",
+      "/images/dishes/appareil/2.jpg",
+      "/images/dishes/appareil/3.jpg"
+    ]
+  },
+  {
+    "id": "quiche-lorraine",
+    "name": "キッシュ・ロレーヌ",
+    "kana": "きっしゅろれーぬ",
+    "aliases": [
+      "ロレーヌ",
+      "ロレーヌ風キッシュ",
+      "Quiche Lorraine"
+    ],
+    "englishName": "Quiche Lorraine",
+    "originalName": "Quiche lorraine",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "ベーコンや卵、クリームのアパレイユをタルト生地に流して焼くフランスの定番キッシュ。チーズを加える店もある。",
+    "menuDescription": "ベーコン入りの卵クリームタルト。香ばしい生地と塩気のある具で、前菜や軽食に向く。",
+    "whatComesOut": [
+      "焼いたタルト生地",
+      "卵とクリームのアパレイユ",
+      "ベーコンやラルドン",
+      "切り分けたキッシュ"
+    ],
+    "tasteAndTexture": [
+      "卵とクリームのコク",
+      "ベーコンの塩気",
+      "生地の香ばしさ",
+      "なめらかな中身"
+    ],
+    "orderAdvice": "軽めの昼食や前菜向き。クリーミーな塩味タルトが食べたい時に選ぶ。",
+    "caution": "卵、乳製品、小麦、豚肉を含むことが多い。",
+    "similarItems": [
+      {
+        "id": "quiche",
+        "name": "キッシュ",
+        "difference": "キッシュは塩味タルト全般。キッシュ・ロレーヌはベーコン入りの定番"
+      },
+      {
+        "id": "appareil",
+        "name": "アパレイユ",
+        "difference": "アパレイユは卵クリーム液。キッシュ・ロレーヌはそれを焼いた料理"
+      },
+      {
+        "id": "spanakopita",
+        "name": "スパナコピタ",
+        "difference": "スパナコピタはほうれん草の薄皮パイ。キッシュ・ロレーヌは卵クリームのタルト"
+      }
+    ],
+    "relatedIds": [
+      "quiche",
+      "appareil",
+      "gruyere-cheese"
+    ],
+    "tags": [
+      "フランス料理",
+      "前菜",
+      "豚肉",
+      "チーズ",
+      "焼き物",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "豚肉不可",
+      "乳製品不可",
+      "卵不可",
+      "軽いサラダ",
+      "甘いタルト"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/quiche-lorraine/1.jpg",
+      "/images/dishes/quiche-lorraine/2.jpg",
+      "/images/dishes/quiche-lorraine/3.jpg"
+    ]
+  },
+  {
+    "id": "samsa",
+    "name": "サムサ",
+    "kana": "さむさ",
+    "aliases": [
+      "サムサー",
+      "サモサ",
+      "Samsa"
+    ],
+    "englishName": "Samsa",
+    "originalName": "Samsa",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウズベキスタン"
+      },
+      {
+        "area": "中央アジア"
+      }
+    ],
+    "summary": "肉や玉ねぎを生地で包んで窯やオーブンで焼く中央アジアの包み料理。インドのサモサより焼きパンに近いことが多い。",
+    "menuDescription": "肉や玉ねぎ入りの焼き包みパイ。外は香ばしく、中は肉汁のある軽食または前菜。",
+    "whatComesOut": [
+      "三角形または丸い焼き包み",
+      "羊肉や牛肉の具",
+      "玉ねぎとスパイス",
+      "香ばしい焼き生地"
+    ],
+    "tasteAndTexture": [
+      "肉の旨味",
+      "玉ねぎの甘み",
+      "生地の香ばしさ",
+      "軽いスパイス感"
+    ],
+    "orderAdvice": "軽食や前菜に向く。羊肉が苦手なら具材を確認。",
+    "caution": "羊肉や牛脂を使うことがある。小麦使用。",
+    "similarItems": [
+      {
+        "id": "manti",
+        "name": "マントゥ",
+        "difference": "マントゥは蒸し・茹での小さな包み料理。サムサは焼いた包みパイ"
+      },
+      {
+        "id": "pita-bread",
+        "name": "ピタパン",
+        "difference": "ピタパンは具を挟むパン。サムサは具を包んで焼く"
+      },
+      {
+        "name": "サモサ",
+        "difference": "サモサは揚げることが多い南アジア系。サムサは中央アジアの焼き包みが多い"
+      }
+    ],
+    "relatedIds": [
+      "manti",
+      "pita-bread",
+      "kebab"
+    ],
+    "tags": [
+      "ウズベキスタン料理",
+      "前菜",
+      "牛肉",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "小麦不可",
+      "肉なし",
+      "軽いサラダ",
+      "甘い菓子",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/samsa/1.jpg",
+      "/images/dishes/samsa/2.jpg",
+      "/images/dishes/samsa/3.jpg"
+    ]
   }
 ]
