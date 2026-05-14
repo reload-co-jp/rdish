@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { DishCard } from "../components/features/DishCard"
+import { FavoriteRelated } from "../components/features/FavoriteRelated"
 import { SearchBox } from "../components/features/SearchBox"
 import dishes from "../data/dishes.json"
 import { categoryPath } from "../lib/taxonomy"
@@ -97,6 +98,8 @@ export default function TopPage() {
           → 最新登録順で見る
         </Link>
       </div>
+
+      <FavoriteRelated allDishes={dishes as DishItem[]} />
 
       <section style={{ marginBottom: "2rem" }}>
         <h2 style={{ fontSize: "0.875rem", color: "#aaa", marginBottom: "1rem", fontWeight: 600 }}>
