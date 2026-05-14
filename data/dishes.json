@@ -30307,5 +30307,1001 @@
       "/images/dishes/tamari-soy-sauce/2.jpg",
       "/images/dishes/tamari-soy-sauce/3.jpg"
     ]
+  },
+  {
+    "id": "mapo-tofu",
+    "name": "麻婆豆腐",
+    "kana": "まーぼーどうふ",
+    "aliases": [
+      "マーボー豆腐",
+      "麻婆豆腐"
+    ],
+    "englishName": "Mapo Tofu",
+    "originalName": "麻婆豆腐 (Mápó Dòufu)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "四川"
+      }
+    ],
+    "summary": "豆腐と牛肉または豚肉のひき肉を、豆板醤・豆鼓・花椒で煮込む四川料理。唐辛子の辛さと花椒の痺れが一体になった麻辣味が特徴。",
+    "menuDescription": "豆腐を角切りにし、ひき肉・豆板醤・豆鼓・にんにく・生姜・花椒とともに煮て、とろみをつけた料理。白ごはんに合う四川定番の一皿。",
+    "whatComesOut": [
+      "赤い油が浮いた豆腐とひき肉の煮込み",
+      "花椒粉をふった麻辣ソース",
+      "白ごはんと合わせる主菜"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の辛さと花椒の痺れ",
+      "やわらかい豆腐と濃厚なひき肉の旨み",
+      "豆板醤と豆鼓の発酵香"
+    ],
+    "orderAdvice": "四川料理の代表格。辛さ指定できる店なら中辛から。ご飯と合わせると食べやすい。",
+    "caution": "大豆、肉、辛味、花椒が苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "doubanjiang",
+        "name": "豆板醤",
+        "difference": "豆板醤は辛味調味料。麻婆豆腐は豆板醤を使う豆腐料理"
+      },
+      {
+        "id": "hui-guo-rou",
+        "name": "回鍋肉",
+        "difference": "回鍋肉は豚肉と野菜の炒め物。麻婆豆腐は豆腐を煮込む麻辣料理"
+      }
+    ],
+    "relatedIds": [
+      "doubanjiang",
+      "hui-guo-rou",
+      "gong-bao-ji-ding"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "主菜",
+      "豆腐",
+      "豚肉",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いの苦手",
+      "花椒嫌い",
+      "大豆不可",
+      "肉なし",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/mapo-tofu/1.jpg",
+      "/images/dishes/mapo-tofu/2.jpg",
+      "/images/dishes/mapo-tofu/3.jpg"
+    ]
+  },
+  {
+    "id": "dan-dan-mian",
+    "name": "担担麺",
+    "kana": "たんたんめん",
+    "aliases": [
+      "担々麺",
+      "タンタンメン",
+      "ダンダンミエン"
+    ],
+    "englishName": "Dan Dan Noodles",
+    "originalName": "担担面 (Dàndàn Miàn)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "四川"
+      }
+    ],
+    "summary": "ごまや花椒の効いた辛いタレに中華麺を絡め、ひき肉や青菜をのせる四川の麺料理。汁なしが原型で、日本では汁ありも多い。",
+    "menuDescription": "中華麺に芝麻醤・辣油・花椒・醤油・黒酢のタレを絡め、甘辛いひき肉、青菜、刻みネギをのせた麺料理。店により汁あり・汁なしがある。",
+    "whatComesOut": [
+      "赤い辣油とごまダレの麺",
+      "甘辛いひき肉そぼろ",
+      "青菜やネギのトッピング"
+    ],
+    "tasteAndTexture": [
+      "ごまのコクと辣油の辛み",
+      "花椒の痺れ",
+      "麺に絡む濃厚なタレ"
+    ],
+    "orderAdvice": "汁ありか汁なしか確認。辛さが苦手ならごま強めの日本式、刺激重視なら汁なし四川式。",
+    "caution": "ごま、小麦、肉、辛味、花椒に注意。",
+    "similarItems": [
+      {
+        "id": "hot-and-sour-noodle-soup",
+        "name": "酸辣湯麺",
+        "difference": "酸辣湯麺は酸味あるスープ麺。担担麺はごま・辣油・花椒の濃厚麺"
+      },
+      {
+        "id": "doubanjiang",
+        "name": "豆板醤",
+        "difference": "豆板醤は辛味調味料。担担麺は辛味調味料をごまダレと合わせる麺料理"
+      }
+    ],
+    "relatedIds": [
+      "doubanjiang",
+      "soy-sauce",
+      "hot-and-sour-noodle-soup"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "主菜",
+      "豚肉",
+      "麺料理",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いの苦手",
+      "ごま嫌い",
+      "小麦不可",
+      "あっさり",
+      "汁物以外"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/dan-dan-mian/1.jpg",
+      "/images/dishes/dan-dan-mian/2.jpg",
+      "/images/dishes/dan-dan-mian/3.jpg"
+    ]
+  },
+  {
+    "id": "qing-jiao-rou-si",
+    "name": "青椒肉絲",
+    "kana": "ちんじゃおろーす",
+    "aliases": [
+      "チンジャオロース",
+      "青椒肉丝"
+    ],
+    "englishName": "Green Pepper Shredded Pork",
+    "originalName": "青椒肉丝 (Qīngjiāo Ròusī)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "細切りの豚肉または牛肉をピーマン、たけのこと炒める中国料理。醤油やオイスターソースの旨みで食べやすい定番炒め。",
+    "menuDescription": "肉、ピーマン、たけのこを細切りにして強火で炒め、醤油・オイスターソース・酒・生姜で味付けした料理。ご飯に合う中華定番。",
+    "whatComesOut": [
+      "肉とピーマンの細切り炒め",
+      "照りのある醤油系ソース",
+      "たけのこ入りのシャキシャキした一皿"
+    ],
+    "tasteAndTexture": [
+      "醤油とオイスターソースの旨み",
+      "ピーマンとたけのこの歯ざわり",
+      "細切り肉のやわらかい食感"
+    ],
+    "orderAdvice": "辛くない中華を食べたい時に安全。ピーマンの香りが好きなら頼みやすい主菜。",
+    "caution": "店により豚肉または牛肉。オイスターソース使用時は魚介由来成分あり。",
+    "similarItems": [
+      {
+        "id": "yu-xiang-rou-si",
+        "name": "魚香肉絲",
+        "difference": "魚香肉絲は甘酸辛の四川炒め。青椒肉絲はピーマン主体で辛くない醤油系炒め"
+      },
+      {
+        "id": "oyster-sauce",
+        "name": "オイスターソース",
+        "difference": "オイスターソースは調味料。青椒肉絲はそれを使うことが多い肉野菜炒め"
+      }
+    ],
+    "relatedIds": [
+      "yu-xiang-rou-si",
+      "oyster-sauce",
+      "soy-sauce"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "炒め物",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ピーマン嫌い",
+      "肉なし",
+      "辛い料理好き",
+      "濃厚ソース",
+      "魚介不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/qing-jiao-rou-si/1.jpg"
+    ]
+  },
+  {
+    "id": "lazi-ji",
+    "name": "辣子鶏",
+    "kana": "らーずーじー",
+    "aliases": [
+      "ラーズージー",
+      "辣子鸡",
+      "重慶辣子鶏"
+    ],
+    "englishName": "Chongqing Spicy Chicken",
+    "originalName": "辣子鸡 (Làzǐ Jī)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "重慶・四川"
+      }
+    ],
+    "summary": "小さく切った鶏肉を揚げ、山盛りの乾燥唐辛子と花椒で炒める四川・重慶系の激辛料理。香ばしさと麻辣の刺激が強い。",
+    "menuDescription": "鶏肉を一口大に切って下味をつけ、油でカリッと揚げてから大量の乾燥唐辛子、花椒、にんにく、ネギと炒めた料理。唐辛子は香り付けで残すことも多い。",
+    "whatComesOut": [
+      "乾燥唐辛子の山に埋もれた揚げ鶏",
+      "花椒とごまをまとった小さな鶏肉",
+      "つまみや主菜向きの辛い一皿"
+    ],
+    "tasteAndTexture": [
+      "強い唐辛子の香りと辛さ",
+      "花椒の痺れ",
+      "カリッと香ばしい鶏肉"
+    ],
+    "orderAdvice": "辛い料理好き向け。唐辛子を全部食べる料理ではないことが多い。ビールや白ごはんと相性良い。",
+    "caution": "辛味と花椒が非常に強い。骨付きの場合あり。",
+    "similarItems": [
+      {
+        "id": "gong-bao-ji-ding",
+        "name": "宮保鶏丁",
+        "difference": "宮保鶏丁は甘辛くナッツ入りで食べやすい。辣子鶏は唐辛子量が多く辛さと香ばしさ重視"
+      },
+      {
+        "id": "tandoori-chicken",
+        "name": "タンドリーチキン",
+        "difference": "タンドリーチキンはヨーグルトとスパイスで焼く料理。辣子鶏は揚げ鶏を唐辛子で炒める"
+      }
+    ],
+    "relatedIds": [
+      "gong-bao-ji-ding",
+      "tandoori-chicken",
+      "doubanjiang"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "主菜",
+      "鶏肉",
+      "揚げ物",
+      "炒め物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "辛いの苦手",
+      "花椒嫌い",
+      "骨付き不可",
+      "あっさり",
+      "鶏肉不可"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 5,
+    "images": []
+  },
+  {
+    "id": "gan-bian-si-ji-dou",
+    "name": "乾煸四季豆",
+    "kana": "がんびぇんすーじーどう",
+    "aliases": [
+      "干煸四季豆",
+      "インゲンの四川炒め"
+    ],
+    "englishName": "Dry-Fried Green Beans",
+    "originalName": "干煸四季豆 (Gānbiān Sìjìdòu)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "四川"
+      }
+    ],
+    "summary": "いんげんを油でしわが寄るまで炒め、ひき肉、芽菜、唐辛子、花椒で香ばしく仕上げる四川料理。野菜料理ながら旨みと香りが強い。",
+    "menuDescription": "いんげんを高温の油で乾煸し、ひき肉・漬物・唐辛子・花椒・にんにくと炒め合わせた料理。水分を飛ばした香ばしさが特徴。",
+    "whatComesOut": [
+      "しわの寄ったいんげんの炒め物",
+      "少量のひき肉と漬物の旨み",
+      "赤唐辛子と花椒が見える一皿"
+    ],
+    "tasteAndTexture": [
+      "いんげんの香ばしさ",
+      "ひき肉と漬物の塩気とうま味",
+      "軽い辛みと花椒の香り"
+    ],
+    "orderAdvice": "野菜も食べたいが味は濃いめがよい時に最適。肉なし対応できる店もある。",
+    "caution": "少量の肉や漬物を使うことが多い。辛味と花椒あり。",
+    "similarItems": [
+      {
+        "id": "yu-xiang-rou-si",
+        "name": "魚香肉絲",
+        "difference": "魚香肉絲は豚肉主体の甘酸辛炒め。乾煸四季豆はいんげん主体の香ばしい乾式炒め"
+      },
+      {
+        "id": "saute",
+        "name": "ソテー",
+        "difference": "ソテーは広い炒め技法。乾煸四季豆は水分を飛ばす四川の乾煸技法"
+      }
+    ],
+    "relatedIds": [
+      "yu-xiang-rou-si",
+      "doubanjiang",
+      "soy-sauce"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "主菜",
+      "野菜",
+      "豚肉",
+      "炒め物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "辛いの苦手",
+      "肉なし必須",
+      "油っこい料理不可",
+      "やわらかい食感",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "fen-zheng-rou",
+    "name": "粉蒸肉",
+    "kana": "ふぇんじょんろう",
+    "aliases": [
+      "米粉蒸肉",
+      "フェンジェンロウ"
+    ],
+    "englishName": "Steamed Pork with Rice Flour",
+    "originalName": "粉蒸肉 (Fěnzhēng Ròu)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "下味をつけた豚肉に炒った米粉をまぶし、芋やかぼちゃなどと蒸す中国料理。米粉が肉汁を吸い、ほろっとした食感になる。",
+    "menuDescription": "豚バラ肉などを豆板醤・甜麺醤・醤油・酒で漬け、香辛料入りの米粉をまぶして蒸した料理。下に芋やかぼちゃを敷くこともある。",
+    "whatComesOut": [
+      "米粉をまとった蒸し豚肉",
+      "芋やかぼちゃを敷いた深皿",
+      "ほろっと崩れる濃厚な肉料理"
+    ],
+    "tasteAndTexture": [
+      "豚肉の脂とうま味",
+      "米粉のほろほろした食感",
+      "発酵調味料と香辛料の深い香り"
+    ],
+    "orderAdvice": "柔らかい豚肉と米粉の食感を楽しむ料理。辛さは店により差があるため確認。",
+    "caution": "豚肉と米粉を使う。脂が多い部位の場合は重め。",
+    "similarItems": [
+      {
+        "id": "hui-guo-rou",
+        "name": "回鍋肉",
+        "difference": "回鍋肉は豚肉の炒め物。粉蒸肉は米粉をまぶして蒸す柔らかい豚肉料理"
+      },
+      {
+        "id": "tamales",
+        "name": "タマレス",
+        "difference": "タマレスはトウモロコシ生地で具を包む中南米料理。粉蒸肉は米粉をまとわせた中国の蒸し肉"
+      }
+    ],
+    "relatedIds": [
+      "hui-guo-rou",
+      "tianmianjiang",
+      "doubanjiang"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "豚肉",
+      "蒸し料理",
+      "スパイス",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "豚肉嫌い",
+      "脂っこい料理不可",
+      "米粉不可",
+      "軽い前菜",
+      "辛い料理限定"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "suan-ni-bai-rou",
+    "name": "蒜泥白肉",
+    "kana": "すわんにーぱいろう",
+    "aliases": [
+      "スワンニーパイロウ",
+      "ガーリックポーク"
+    ],
+    "englishName": "Garlic Pork Slices",
+    "originalName": "蒜泥白肉 (Suàn Ní Bái Ròu)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "四川"
+      }
+    ],
+    "summary": "ゆでた豚バラ肉を薄切りにして冷やし、大量のにんにくペーストと辣油・醤油で和えた四川の定番冷菜。にんにくの香りが主役。",
+    "menuDescription": "豚バラ肉を丸ごとゆでて薄切りにし、蒜泥（にんにくすりおろし）・辣油・醤油・ごま油をかけた冷菜。きゅうりを下に敷くことも多い。",
+    "whatComesOut": [
+      "薄切り豚バラ肉が皿に並んだ冷菜",
+      "にんにくペーストと辣油がかかった状態",
+      "きゅうりなど野菜の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "強いにんにくの香りと旨み",
+      "辣油の辛みと香ばしさ",
+      "豚バラのしっとりした食感",
+      "醤油ベースのあっさりした塩味"
+    ],
+    "orderAdvice": "にんにく好きに最適。辛さは辣油量で変わるため確認。前菜として少量から試しやすい。",
+    "caution": "にんにくが非常に強い。辣油で辛みあり。",
+    "similarItems": [
+      {
+        "id": "fu-qi-fei-pian",
+        "name": "夫妻肺片",
+        "difference": "夫妻肺片は牛内臓の冷菜で麻辣が主役。蒜泥白肉は豚バラ肉でにんにくが主役"
+      },
+      {
+        "id": "hui-guo-rou",
+        "name": "回鍋肉",
+        "difference": "回鍋肉は豚肉の温菜炒め物。蒜泥白肉はゆで豚を冷やした冷菜"
+      },
+      {
+        "name": "口水鶏",
+        "difference": "口水鶏は鶏肉の麻辣冷菜。蒜泥白肉は豚肉でにんにくペーストが主役"
+      }
+    ],
+    "relatedIds": [
+      "fu-qi-fei-pian",
+      "hui-guo-rou",
+      "fen-zheng-rou",
+      "doubanjiang"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "前菜",
+      "豚肉",
+      "煮込み",
+      "ピリ辛",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "にんにく嫌い",
+      "辛いの苦手",
+      "温かい料理",
+      "豚肉不可",
+      "こってり好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/suan-ni-bai-rou/1.jpg",
+      "/images/dishes/suan-ni-bai-rou/2.jpg",
+      "/images/dishes/suan-ni-bai-rou/3.jpg"
+    ]
+  },
+  {
+    "id": "suan-cai-yu",
+    "name": "酸菜魚",
+    "kana": "さんつぁいゆー",
+    "aliases": [
+      "サンツァイユー",
+      "酸菜魚スープ",
+      "泡菜魚"
+    ],
+    "englishName": "Pickled Cabbage Fish Soup",
+    "originalName": "酸菜鱼 (Suāncài yú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "発酵白菜（酸菜・パオツァイ）と白身魚を使った四川発祥のスープ料理。酸味と辛みが絶妙に絡み合い、魚の旨みが溶け込んだ複雑な味わいが特徴。",
+    "menuDescription": "発酵漬け白菜（酸菜）と薄切りの白身魚を唐辛子・花椒入りのスープで煮込んだ四川料理。酸味・辛み・旨みが層を成すスープで、魚は滑らかな食感に仕上がる。",
+    "whatComesOut": [
+      "薄くスライスした白身魚（草魚・鱸など）",
+      "酸菜（発酵漬け白菜）",
+      "唐辛子・花椒入りの赤いスープ",
+      "もやし・豆腐などの具材"
+    ],
+    "tasteAndTexture": [
+      "酸味と辛みが一体となった複雑な旨み",
+      "魚のやわらかく滑らかな食感",
+      "発酵白菜の独特な酸っぱさ",
+      "花椒のしびれる辛さ"
+    ],
+    "orderAdvice": "酸味と辛みの両方が得意なら必食。麻辣系より酸味が前面に出るので、辛さだけでなく酸っぱさも楽しみたい人向け。",
+    "caution": "魚の骨が含まれる場合あり。花椒のしびれ（麻）が苦手な方は注意。",
+    "similarItems": [
+      {
+        "id": "suan-la-tang",
+        "name": "酸辣湯",
+        "difference": "酸辣湯はとろみのある中華スープ全般。酸菜魚は魚と発酵白菜が主役で、より濃厚な酸辛スープ"
+      },
+      {
+        "id": "mapo-tofu",
+        "name": "麻婆豆腐",
+        "difference": "麻婆豆腐は豆腐と挽き肉の炒め料理。酸菜魚は魚と発酵白菜主体のスープ料理"
+      },
+      {
+        "name": "水煮魚",
+        "difference": "水煮魚も白身魚を辛いスープで煮るが、酸菜（発酵白菜）を使わず純粋な麻辣が主役"
+      }
+    ],
+    "relatedIds": [
+      "suan-la-tang",
+      "mapo-tofu",
+      "dan-dan-mian",
+      "doubanjiang",
+      "lazi-ji"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "スープ",
+      "魚介",
+      "発酵",
+      "ピリ辛",
+      "酸味",
+      "煮込み"
+    ],
+    "reverseKeywords": [
+      "酸味が苦手",
+      "辛いの苦手",
+      "魚介アレルギー",
+      "あっさり",
+      "洋食"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/suan-cai-yu/1.jpg"
+    ]
+  },
+  {
+    "id": "mao-xue-wang",
+    "name": "毛血旺",
+    "kana": "まおしぇえわん",
+    "aliases": [
+      "マオシェエワン",
+      "毛血旺鍋"
+    ],
+    "englishName": "Maoxuewang",
+    "originalName": "毛血旺 (Máo xuě wàng)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "重慶"
+      }
+    ],
+    "summary": "鴨血豆腐・豚の内臓・豆腐・野菜などを麻辣スープで煮込んだ重慶発祥の鍋料理。強烈な辛さと痺れが特徴で、中国でも屈指の刺激的な一皿。",
+    "menuDescription": "鴨血（血豆腐）・豚肺・豚の大腸・豆腐・もやし・豆腐皮などを、豆板醤と花椒の麻辣スープで煮込んだ重慶料理。仕上げに熱した油を回しかける。",
+    "whatComesOut": [
+      "鴨血豆腐（血豆腐）",
+      "豚の内臓（肺・大腸など）",
+      "豆腐・もやし・春雨などの具材",
+      "真っ赤な麻辣スープ",
+      "仕上げの熱油と唐辛子・花椒"
+    ],
+    "tasteAndTexture": [
+      "強烈な麻辣（辛さとしびれ）",
+      "血豆腐のぷるぷるとした独特な食感",
+      "内臓のコクと旨み",
+      "スープの深い辛味と香り"
+    ],
+    "orderAdvice": "麻辣料理の上級者向け。鴨血や内臓が苦手なら避けるべき。本場の辛さを体験したい人には最高の一皿。",
+    "caution": "鴨血（血豆腐）・豚の内臓を含む。非常に辛く、花椒のしびれが強い。内臓・血食品が苦手な方は不向き。",
+    "similarItems": [
+      {
+        "id": "mapo-tofu",
+        "name": "麻婆豆腐",
+        "difference": "麻婆豆腐は豆腐と挽き肉の炒め料理。毛血旺は多種の食材を麻辣スープで煮込む鍋料理"
+      },
+      {
+        "id": "lazi-ji",
+        "name": "辣子鶏",
+        "difference": "辣子鶏は鶏肉を唐辛子で炒めた料理。毛血旺は血豆腐・内臓を使うスープ鍋"
+      },
+      {
+        "id": "fu-qi-fei-pian",
+        "name": "夫妻肺片",
+        "difference": "夫妻肺片は牛の内臓の冷製和え物。毛血旺は豚・鴨の内臓を熱いスープで煮る"
+      }
+    ],
+    "relatedIds": [
+      "mapo-tofu",
+      "lazi-ji",
+      "fu-qi-fei-pian",
+      "doubanjiang",
+      "dan-dan-mian",
+      "suan-cai-yu"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "鍋料理",
+      "豚肉",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "内臓が苦手",
+      "辛いの苦手",
+      "あっさり",
+      "和食",
+      "洋食"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 5,
+    "spicinessScore": 5,
+    "images": []
+  },
+  {
+    "id": "qing-zheng-jiang-tuan",
+    "name": "清蒸江団",
+    "kana": "ちんじぇんじゃんとぅあん",
+    "aliases": [
+      "チンジェンジャントゥアン",
+      "清蒸ジャントゥアン",
+      "蒸しスッポン"
+    ],
+    "englishName": "Steamed Yangtze Softshell Turtle",
+    "originalName": "清蒸江团 (Qīngzhēng jiāng tuán)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖北・長江流域"
+      }
+    ],
+    "summary": "長江産のスッポン（江団）をシンプルに蒸し上げた高級中国料理。素材の旨みを最大限に引き出す蒸し調理で、滋養強壮の食材として珍重される。",
+    "menuDescription": "長江流域産のスッポン（江団）を生姜・ネギ・紹興酒とともに蒸し上げた料理。コラーゲン豊富なゼラチン質のスカートと繊細な身が特徴。",
+    "whatComesOut": [
+      "丸ごとまたは半身のスッポン",
+      "ゼラチン質のスカート部分",
+      "生姜・ネギを添えた蒸し汁",
+      "薬味や醤油ベースのたれ"
+    ],
+    "tasteAndTexture": [
+      "上品でクリアなコクと旨み",
+      "スカート部分のぷるぷるしたゼラチン質の食感",
+      "身のやわらかく繊細な味わい",
+      "素材の風味を活かしたあっさりした仕上がり"
+    ],
+    "orderAdvice": "珍しい高級食材を体験したい人向け。スッポンに抵抗がなければ、繊細な旨みは必見。",
+    "caution": "スッポンが食材のため、爬虫類食材に抵抗がある方は注意。高級料理のため価格が高い場合が多い。",
+    "similarItems": [
+      {
+        "id": "qing-zheng-da-zha-xie",
+        "name": "清蒸大閘蟹",
+        "difference": "同じ清蒸（蒸し）調理だが、大閘蟹はカニ。江団はスッポンで食感・旨みの性質が異なる"
+      },
+      {
+        "name": "スッポン鍋",
+        "difference": "日本のスッポン鍋は出汁で煮るが、清蒸江団は蒸すことで素材の旨みをより濃縮させる"
+      }
+    ],
+    "relatedIds": [
+      "qing-zheng-da-zha-xie",
+      "suan-cai-yu",
+      "peking-duck"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "蒸し料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "爬虫類が苦手",
+      "ピリ辛好き",
+      "こってり",
+      "洋食",
+      "カジュアル"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "yu-xiang-qie-zi",
+    "name": "魚香茄子",
+    "kana": "ゆいしゃんなす",
+    "aliases": [
+      "ユイシャンナス",
+      "魚香茄子煲",
+      "ユイシャンチエズ"
+    ],
+    "englishName": "Fish-Fragrant Eggplant",
+    "originalName": "鱼香茄子 (Yúxiāng qiézi)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "四川料理の魚香（ユイシャン）調味料で炒めた茄子料理。魚を使わないのに「魚香」を名乗る複雑な旨みが特徴で、甘・辛・酸が絶妙に絡み合う。",
+    "menuDescription": "豆板醤・甜麺醤・醤油・酢・砂糖・生姜・にんにく・ネギで作る魚香ソースで茄子を炒めた四川料理。とろりと絡む濃厚なソースと柔らかい茄子が一体となる。",
+    "whatComesOut": [
+      "柔らかく揚げ炒めた茄子",
+      "豚ひき肉入りの濃厚な魚香ソース",
+      "ネギ・生姜・にんにくの香り",
+      "白ご飯（セットの場合）"
+    ],
+    "tasteAndTexture": [
+      "甘・辛・酸が一体となった複雑な旨み",
+      "とろりと柔らかい茄子の食感",
+      "豆板醤のコクと辛みのバランス",
+      "香り豊かで食欲をそそる仕上がり"
+    ],
+    "orderAdvice": "茄子好きなら必食。辛いが強烈ではなく、甘みと酸味がバランスをとるので四川料理入門にも向く。",
+    "caution": "豚ひき肉を使う場合が多い。ベジタリアン・ハラール対応は要確認。",
+    "similarItems": [
+      {
+        "id": "yu-xiang-rou-si",
+        "name": "魚香肉絲",
+        "difference": "同じ魚香ソースだが、魚香肉絲は豚肉の細切りが主役。魚香茄子は茄子が主役"
+      },
+      {
+        "id": "mapo-tofu",
+        "name": "麻婆豆腐",
+        "difference": "麻婆豆腐は豆腐と挽き肉の麻辣料理。魚香茄子は茄子主体で甘酸辛のバランス型"
+      },
+      {
+        "id": "qing-jiao-rou-si",
+        "name": "青椒肉絲",
+        "difference": "青椒肉絲はシンプルな塩味炒め。魚香茄子は複雑な魚香ソースを使った濃厚な仕上がり"
+      }
+    ],
+    "relatedIds": [
+      "yu-xiang-rou-si",
+      "mapo-tofu",
+      "qing-jiao-rou-si",
+      "doubanjiang",
+      "dan-dan-mian",
+      "gan-bian-si-ji-dou"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "主菜",
+      "野菜",
+      "炒め物",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "茄子が苦手",
+      "あっさり好き",
+      "洋食",
+      "辛いの苦手",
+      "刺身好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "shui-zhu-rou-pian",
+    "name": "水煮肉片",
+    "kana": "すいじゅーろうぴぇん",
+    "aliases": [
+      "スイジューロウピェン",
+      "水煮牛肉（豚版）",
+      "麻辣水煮肉"
+    ],
+    "englishName": "Water-Boiled Pork Slices",
+    "originalName": "水煮肉片 (Shuǐzhǔ ròupiàn)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "薄切り豚肉を豆板醤・花椒ベースの麻辣スープで煮た四川料理。仕上げに熱した油を豪快にかけることで香りと辛みが一気に引き立つ。",
+    "menuDescription": "薄切り豚肉・もやし・白菜などを豆板醤と花椒のスープで煮込み、仕上げに唐辛子と花椒を散らして熱油を回しかける四川料理。見た目の赤さと辛さが特徴。",
+    "whatComesOut": [
+      "薄切り豚肉（やわらか仕上げ）",
+      "もやし・白菜・豆腐などの具材",
+      "真っ赤な麻辣スープ",
+      "仕上げの唐辛子・花椒・熱油"
+    ],
+    "tasteAndTexture": [
+      "強烈な辛さとしびれる麻辣の刺激",
+      "豚肉のやわらかくなめらかな食感",
+      "豆板醤の深いコクと旨み",
+      "熱油で引き出した香ばしい香り"
+    ],
+    "orderAdvice": "四川料理の麻辣が好きなら外せない一品。辛さは強烈なので、辛さに自信がある人向け。",
+    "caution": "非常に辛く、花椒のしびれが強い。豚肉使用のためハラール非対応。",
+    "similarItems": [
+      {
+        "id": "mapo-tofu",
+        "name": "麻婆豆腐",
+        "difference": "麻婆豆腐は豆腐が主役の炒め料理。水煮肉片は薄切り肉をスープで煮て熱油をかける"
+      },
+      {
+        "id": "mao-xue-wang",
+        "name": "毛血旺",
+        "difference": "毛血旺は血豆腐・内臓など多種の食材を煮る。水煮肉片は豚肉がシンプルに主役"
+      },
+      {
+        "id": "suan-cai-yu",
+        "name": "酸菜魚",
+        "difference": "酸菜魚は魚と発酵白菜で酸味が前面に出る。水煮肉片は豚肉主体で純粋な麻辣が主役"
+      },
+      {
+        "id": "lazi-ji",
+        "name": "辣子鶏",
+        "difference": "辣子鶏は鶏肉を唐辛子で炒める乾式の辛さ。水煮肉片は豚肉をスープで煮る湿式の麻辣"
+      }
+    ],
+    "relatedIds": [
+      "mapo-tofu",
+      "mao-xue-wang",
+      "suan-cai-yu",
+      "lazi-ji",
+      "doubanjiang",
+      "dan-dan-mian",
+      "yu-xiang-qie-zi"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "主菜",
+      "豚肉",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いの苦手",
+      "あっさり好き",
+      "洋食",
+      "刺身好き",
+      "ハラール"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/shui-zhu-rou-pian/1.jpg",
+      "/images/dishes/shui-zhu-rou-pian/2.jpg"
+    ]
+  },
+  {
+    "id": "sha-guo-ya-yu",
+    "name": "砂鍋雅魚",
+    "kana": "しゃーぐぉやーゆー",
+    "aliases": [
+      "シャーグォヤーユー",
+      "砂鍋雅魚煮",
+      "四川砂鍋魚"
+    ],
+    "englishName": "Clay Pot Ya Fish",
+    "originalName": "砂锅雅鱼 (Shāguō yǎ yú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川・雅安"
+      }
+    ],
+    "summary": "四川省雅安の清流に生息する希少な雅魚（ヤーユー）を砂鍋（土鍋）でじっくり煮た郷土料理。淡白でクセのない白身と濃厚なスープが特徴。",
+    "menuDescription": "雅安産の雅魚を砂鍋（土鍋）に入れ、豆板醤・生姜・花椒などとともに煮込んだ四川の郷土料理。土鍋が保温性を高め、魚の旨みをスープに溶け込ませる。",
+    "whatComesOut": [
+      "丸ごとまたは大きく切った雅魚",
+      "土鍋（砂鍋）ごと提供",
+      "生姜・ネギ・唐辛子入りのスープ",
+      "豆腐・野菜などの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "淡白でクセのない繊細な白身の味わい",
+      "ふわりとやわらかい魚の食感",
+      "四川スパイスが溶け込んだ複雑なスープの旨み",
+      "土鍋でじっくり煮込まれた深いコク"
+    ],
+    "orderAdvice": "雅安を訪れた際は必食の郷土料理。希少な淡水魚を体験したい人向け。辛さは店によって調整可能。",
+    "caution": "雅魚は四川省雅安産の希少種で、他地域では入手困難。魚の小骨あり。",
+    "similarItems": [
+      {
+        "id": "suan-cai-yu",
+        "name": "酸菜魚",
+        "difference": "酸菜魚は発酵白菜と薄切り魚のスープ。砂鍋雅魚は希少な雅魚を土鍋でじっくり煮る郷土料理"
+      },
+      {
+        "id": "qing-zheng-jiang-tuan",
+        "name": "清蒸江団",
+        "difference": "清蒸江団はスッポンを蒸す料理。砂鍋雅魚は白身魚を土鍋で煮込む"
+      },
+      {
+        "name": "水煮魚",
+        "difference": "水煮魚は薄切り白身魚の麻辣スープ料理。砂鍋雅魚は一尾丸ごとの土鍋煮込み"
+      }
+    ],
+    "relatedIds": [
+      "suan-cai-yu",
+      "qing-zheng-jiang-tuan",
+      "shui-zhu-rou-pian",
+      "mapo-tofu",
+      "doubanjiang"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "ピリ辛",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "魚介アレルギー",
+      "辛いの苦手",
+      "洋食",
+      "肉料理好き",
+      "揚げ物好き"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": []
   }
 ]
