@@ -16512,7 +16512,8 @@
     "similarItems": [
       {
         "name": "醤油",
-        "difference": "醤油は大豆由来の発酵調味料で、ナンプラーは魚由来"
+        "difference": "醤油は大豆由来の発酵調味料で、ナンプラーは魚由来",
+        "id": "soy-sauce"
       },
       {
         "id": "oyster-sauce",
@@ -20999,7 +21000,8 @@
     "similarItems": [
       {
         "name": "ちまき",
-        "difference": "ちまきは米を包んで蒸す料理。タマルはトウモロコシ生地が主役"
+        "difference": "ちまきは米を包んで蒸す料理。タマルはトウモロコシ生地が主役",
+        "id": "chimaki"
       },
       {
         "id": "enchilada",
@@ -21205,7 +21207,8 @@
       },
       {
         "name": "サモサ",
-        "difference": "サモサは厚めの生地で具を包む南アジア系の揚げ物。ブリックは薄く半熟卵入りが多い"
+        "difference": "サモサは厚めの生地で具を包む南アジア系の揚げ物。ブリックは薄く半熟卵入りが多い",
+        "id": "samosa"
       }
     ],
     "relatedIds": [
@@ -21277,7 +21280,8 @@
       },
       {
         "name": "春巻き",
-        "difference": "春巻きは東アジア系の揚げ巻き。こちらはマグリブ系の香草とスパイスが特徴"
+        "difference": "春巻きは東アジア系の揚げ巻き。こちらはマグリブ系の香草とスパイスが特徴",
+        "id": "spring-roll"
       }
     ],
     "relatedIds": [
@@ -21965,7 +21969,8 @@
       },
       {
         "name": "おでん",
-        "difference": "おでんは練り物・大根が主役のだし仕立て。芋煮は里芋・牛肉が主役の醤油または味噌仕立て"
+        "difference": "おでんは練り物・大根が主役のだし仕立て。芋煮は里芋・牛肉が主役の醤油または味噌仕立て",
+        "id": "oden"
       }
     ],
     "relatedIds": [
@@ -22254,11 +22259,13 @@
       },
       {
         "name": "お好み焼き",
-        "difference": "お好み焼きは厚みがあり具材豊富だが、どんどん焼きは生地が薄くシンプルな構成"
+        "difference": "お好み焼きは厚みがあり具材豊富だが、どんどん焼きは生地が薄くシンプルな構成",
+        "id": "okonomiyaki"
       },
       {
         "name": "もんじゃ焼き",
-        "difference": "もんじゃは水分多く鉄板でそのまま食べるが、どんどん焼きは割り箸に巻いて携帯して食べる"
+        "difference": "もんじゃは水分多く鉄板でそのまま食べるが、どんどん焼きは割り箸に巻いて携帯して食べる",
+        "id": "monjayaki"
       }
     ],
     "relatedIds": [
@@ -22324,7 +22331,8 @@
     "similarItems": [
       {
         "name": "枝豆",
-        "difference": "枝豆は若い大豆全般。だだちゃ豆は山形・庄内の在来系品種で香りと甘みが強い"
+        "difference": "枝豆は若い大豆全般。だだちゃ豆は山形・庄内の在来系品種で香りと甘みが強い",
+        "id": "edamame"
       },
       {
         "id": "chickpea",
@@ -22333,7 +22341,8 @@
       },
       {
         "name": "茶豆",
-        "difference": "茶豆は茶色い薄皮を持つ枝豆系統の総称。だだちゃ豆は庄内地方の代表的な茶豆"
+        "difference": "茶豆は茶色い薄皮を持つ枝豆系統の総称。だだちゃ豆は庄内地方の代表的な茶豆",
+        "id": "chamame"
       }
     ],
     "relatedIds": [
@@ -22404,7 +22413,8 @@
       },
       {
         "name": "おでん",
-        "difference": "おでんは大根や練り物など多品目をだしで煮る。玉こんにゃくは丸こんにゃく中心で醤油味が濃い"
+        "difference": "おでんは大根や練り物など多品目をだしで煮る。玉こんにゃくは丸こんにゃく中心で醤油味が濃い",
+        "id": "oden"
       },
       {
         "name": "味噌こんにゃく",
@@ -22480,7 +22490,8 @@
     "similarItems": [
       {
         "name": "うどん",
-        "difference": "うどんは和風だしで食べる小麦麺。ラグマンは肉野菜のトマト系ソースをかける中央アジア麺"
+        "difference": "うどんは和風だしで食べる小麦麺。ラグマンは肉野菜のトマト系ソースをかける中央アジア麺",
+        "id": "udon"
       },
       {
         "id": "pelmeni",
@@ -22819,7 +22830,8 @@
       },
       {
         "name": "焼き鳥",
-        "difference": "焼き鳥は鶏肉中心の日本の串焼き。シャシリックは羊肉や牛肉も多い中央アジア系串焼き"
+        "difference": "焼き鳥は鶏肉中心の日本の串焼き。シャシリックは羊肉や牛肉も多い中央アジア系串焼き",
+        "id": "yakitori"
       }
     ],
     "relatedIds": [
@@ -22899,7 +22911,8 @@
       },
       {
         "name": "ワンタン",
-        "difference": "ワンタンは中華の薄皮包み。チュチュヴァラは羊肉やクミン香る中央アジア風"
+        "difference": "ワンタンは中華の薄皮包み。チュチュヴァラは羊肉やクミン香る中央アジア風",
+        "id": "wonton"
       }
     ],
     "relatedIds": [
@@ -23052,7 +23065,8 @@
     "similarItems": [
       {
         "name": "ナン",
-        "difference": "インド系ナンは薄く伸ばして焼くことが多い。中央アジアのノンは丸く厚めで中央に模様がある"
+        "difference": "インド系ナンは薄く伸ばして焼くことが多い。中央アジアのノンは丸く厚めで中央に模様がある",
+        "id": "naan"
       },
       {
         "name": "ピタパン",
@@ -25356,7 +25370,8 @@
     "similarItems": [
       {
         "name": "ピクルス",
-        "difference": "ピクルスは酢漬け全般。コルニションは小きゅうりのフランス系ピクルス"
+        "difference": "ピクルスは酢漬け全般。コルニションは小きゅうりのフランス系ピクルス",
+        "id": "pickles"
       },
       {
         "name": "ケイパー",
@@ -26094,7 +26109,8 @@
       },
       {
         "name": "照り焼き",
-        "difference": "照り焼きは甘辛い日本料理の調理。グレイズは西洋料理や菓子にも使う広い技法"
+        "difference": "照り焼きは甘辛い日本料理の調理。グレイズは西洋料理や菓子にも使う広い技法",
+        "id": "teriyaki"
       }
     ],
     "relatedIds": [
@@ -26425,7 +26441,8 @@
       },
       {
         "name": "バーベキュー",
-        "difference": "バーベキューは焼き料理全般。アサードはアルゼンチンなどの牛肉中心の焼き肉文化"
+        "difference": "バーベキューは焼き料理全般。アサードはアルゼンチンなどの牛肉中心の焼き肉文化",
+        "id": "barbecue"
       }
     ],
     "relatedIds": [
@@ -26493,7 +26510,8 @@
     "similarItems": [
       {
         "name": "トマト",
-        "difference": "トマトは赤く甘味も強い。トマティーヨは緑で酸味と青い香りが強い"
+        "difference": "トマトは赤く甘味も強い。トマティーヨは緑で酸味と青い香りが強い",
+        "id": "tomato"
       },
       {
         "id": "caper",
@@ -27062,7 +27080,7 @@
       {
         "name": "サモサ",
         "difference": "サモサは揚げることが多い南アジア系。サムサは中央アジアの焼き包みが多い",
-        "id": "samsa"
+        "id": "samosa"
       }
     ],
     "relatedIds": [
@@ -27218,7 +27236,8 @@
       },
       {
         "name": "クミン",
-        "difference": "クミンは強い芳香と香ばしさ。ターメリックは色づけとほろ苦さが中心"
+        "difference": "クミンは強い芳香と香ばしさ。ターメリックは色づけとほろ苦さが中心",
+        "id": "cumin"
       }
     ],
     "relatedIds": [
@@ -27293,7 +27312,8 @@
       },
       {
         "name": "ミネストローネ",
-        "difference": "ミネストローネはイタリアの野菜スープ。トルティーヤスープは揚げトルティーヤが特徴"
+        "difference": "ミネストローネはイタリアの野菜スープ。トルティーヤスープは揚げトルティーヤが特徴",
+        "id": "minestrone"
       }
     ],
     "relatedIds": [
@@ -27365,11 +27385,13 @@
       },
       {
         "name": "キムチ",
-        "difference": "キムチは発酵野菜。冷麺に辛味や酸味として添えられることがある"
+        "difference": "キムチは発酵野菜。冷麺に辛味や酸味として添えられることがある",
+        "id": "kimchi"
       },
       {
         "name": "冷やし中華",
-        "difference": "冷やし中華は中華麺と甘酸っぱいタレ。冷麺は麺の弾力と冷たいスープが特徴"
+        "difference": "冷やし中華は中華麺と甘酸っぱいタレ。冷麺は麺の弾力と冷たいスープが特徴",
+        "id": "hiyashi-chuka"
       }
     ],
     "relatedIds": [
@@ -27439,11 +27461,13 @@
       },
       {
         "name": "田楽",
-        "difference": "田楽は味噌を塗って焼く料理全般。味噌こんにゃくはこんにゃくが主役"
+        "difference": "田楽は味噌を塗って焼く料理全般。味噌こんにゃくはこんにゃくが主役",
+        "id": "dengaku"
       },
       {
         "name": "おでん",
-        "difference": "おでんは多品目のだし煮。味噌こんにゃくはこんにゃく単体に味噌だれ"
+        "difference": "おでんは多品目のだし煮。味噌こんにゃくはこんにゃく単体に味噌だれ",
+        "id": "oden"
       }
     ],
     "relatedIds": [
@@ -27513,11 +27537,13 @@
       },
       {
         "name": "ジャージャー麺",
-        "difference": "ジャージャー麺は肉味噌が主役。拌面はタレで和える麺の広い呼び方"
+        "difference": "ジャージャー麺は肉味噌が主役。拌面はタレで和える麺の広い呼び方",
+        "id": "zhajiangmian"
       },
       {
         "name": "油そば",
-        "difference": "油そばは日本の汁なし中華麺。拌面は中国語圏の和え麺"
+        "difference": "油そばは日本の汁なし中華麺。拌面は中国語圏の和え麺",
+        "id": "abura-soba"
       }
     ],
     "relatedIds": [
@@ -27830,7 +27856,8 @@
       },
       {
         "name": "チリコンカン",
-        "difference": "チリコンカンは唐辛子と肉の豆煮込み。ベイクドビーンズは甘めで辛さ控えめが多い"
+        "difference": "チリコンカンは唐辛子と肉の豆煮込み。ベイクドビーンズは甘めで辛さ控えめが多い",
+        "id": "chili-con-carne"
       }
     ],
     "relatedIds": [
@@ -27939,6 +27966,2346 @@
       "/images/dishes/greek-salad/1.jpg",
       "/images/dishes/greek-salad/2.jpg",
       "/images/dishes/greek-salad/3.jpg"
+    ]
+  },
+  {
+    "id": "samosa",
+    "name": "サモサ",
+    "kana": "さもさ",
+    "aliases": [
+      "サモーサ",
+      "Samosa"
+    ],
+    "englishName": "Samosa",
+    "originalName": "Samosa",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "じゃがいも、豆、肉などをスパイスとともに生地で包んで揚げる南アジアの軽食。三角形が多く、チャツネを添える。",
+    "menuDescription": "スパイス具材入りの揚げ包み。外はさくっと、中はじゃがいもや豆のほくほく感。",
+    "whatComesOut": [
+      "三角形の揚げ包み",
+      "じゃがいもや豆の具",
+      "スパイス風味",
+      "チャツネやソース"
+    ],
+    "tasteAndTexture": [
+      "外側はさくさく",
+      "中はほくほく",
+      "スパイスの香り",
+      "軽い辛味"
+    ],
+    "orderAdvice": "前菜や軽食向き。辛さは店で差があるため、苦手なら確認。",
+    "caution": "小麦、揚げ油、スパイスを使う。肉入りの場合あり。",
+    "similarItems": [
+      {
+        "id": "samsa",
+        "name": "サムサ",
+        "difference": "サムサは中央アジアの焼き包みが多い。サモサは南アジアの揚げ包みが多い"
+      },
+      {
+        "id": "brik",
+        "name": "ブリック",
+        "difference": "ブリックは薄皮で卵入りが多い北アフリカ料理。サモサは厚めの生地とスパイス具材"
+      },
+      {
+        "id": "fatima-fingers",
+        "name": "ファティマの指",
+        "difference": "ファティマの指は細長い揚げ巻き。サモサは三角形の包みが多い"
+      }
+    ],
+    "relatedIds": [
+      "samsa",
+      "brik",
+      "fatima-fingers"
+    ],
+    "tags": [
+      "インド料理",
+      "前菜",
+      "野菜",
+      "揚げ物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "揚げ物不可",
+      "小麦不可",
+      "辛味なし",
+      "軽いサラダ",
+      "生野菜"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/samosa/1.jpg",
+      "/images/dishes/samosa/2.jpg",
+      "/images/dishes/samosa/3.jpg"
+    ]
+  },
+  {
+    "id": "monjayaki",
+    "name": "もんじゃ焼き",
+    "kana": "もんじゃやき",
+    "aliases": [
+      "もんじゃ",
+      "Monjayaki"
+    ],
+    "englishName": "Monjayaki",
+    "originalName": "もんじゃ焼き",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "小麦粉のゆるい生地に具材を混ぜ、鉄板で焼きながら小さなへらで食べる東京下町の粉もの料理。",
+    "menuDescription": "ゆるい生地の鉄板粉もの。具材を混ぜて焼き、香ばしい焦げととろっとした食感を楽しむ。",
+    "whatComesOut": [
+      "ゆるい小麦粉生地",
+      "キャベツや具材",
+      "鉄板で焼く料理",
+      "小さなへら"
+    ],
+    "tasteAndTexture": [
+      "とろっとした食感",
+      "焦げの香ばしさ",
+      "ソースの甘辛さ",
+      "具材の歯ざわり"
+    ],
+    "orderAdvice": "鉄板を囲んで食べる軽い粉もの向き。作り方は店員に聞くとよい。",
+    "caution": "小麦使用。熱い鉄板で食べるため火傷注意。",
+    "similarItems": [
+      {
+        "id": "dondonyaki",
+        "name": "どんどん焼き",
+        "difference": "どんどん焼きは薄い生地を巻く屋台料理。もんじゃ焼きは鉄板でゆるい生地を食べる"
+      },
+      {
+        "id": "okonomiyaki",
+        "name": "お好み焼き",
+        "difference": "お好み焼きは厚めに固めて焼く。もんじゃ焼きは水分が多くとろっとしている"
+      },
+      {
+        "name": "たこ焼き",
+        "difference": "たこ焼きは球状に焼く粉もの。もんじゃ焼きは鉄板上で広げて食べる",
+        "id": "takoyaki"
+      }
+    ],
+    "relatedIds": [
+      "dondonyaki"
+    ],
+    "tags": [
+      "日本料理",
+      "主食",
+      "野菜",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "小麦不可",
+      "鉄板不可",
+      "汁物",
+      "甘い菓子",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/monjayaki/1.jpg",
+      "/images/dishes/monjayaki/2.jpg",
+      "/images/dishes/monjayaki/3.jpg"
+    ]
+  },
+  {
+    "id": "okonomiyaki",
+    "name": "お好み焼き",
+    "kana": "おこのみやき",
+    "aliases": [
+      "関西風お好み焼き",
+      "Okonomiyaki"
+    ],
+    "englishName": "Okonomiyaki",
+    "originalName": "お好み焼き",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "小麦粉生地にキャベツ、豚肉、魚介などを混ぜて鉄板で焼き、ソース、マヨネーズ、かつお節をのせる日本の粉もの料理。",
+    "menuDescription": "キャベツ入りの厚い鉄板焼き。甘辛ソースとマヨネーズでこってり食べる。",
+    "whatComesOut": [
+      "丸く焼いた粉もの",
+      "キャベツと豚肉や魚介",
+      "甘辛いソース",
+      "マヨネーズとかつお節"
+    ],
+    "tasteAndTexture": [
+      "ソースの甘辛さ",
+      "キャベツの甘み",
+      "表面の香ばしさ",
+      "ふんわりした生地"
+    ],
+    "orderAdvice": "しっかり食べたい粉もの向き。具材を選べる店が多い。",
+    "caution": "小麦、卵、豚肉、魚介、マヨネーズを含む場合あり。",
+    "similarItems": [
+      {
+        "id": "dondonyaki",
+        "name": "どんどん焼き",
+        "difference": "どんどん焼きは薄く巻いて食べる。お好み焼きは厚みと具材が多い"
+      },
+      {
+        "id": "monjayaki",
+        "name": "もんじゃ焼き",
+        "difference": "もんじゃ焼きは水分が多く鉄板で直接食べる。お好み焼きは固めて切る"
+      },
+      {
+        "name": "チヂミ",
+        "difference": "チヂミは薄く焼く韓国料理。お好み焼きはキャベツとソースが特徴",
+        "id": "buchimgae"
+      }
+    ],
+    "relatedIds": [
+      "dondonyaki",
+      "monjayaki"
+    ],
+    "tags": [
+      "日本料理",
+      "主食",
+      "豚肉",
+      "野菜",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "小麦不可",
+      "卵不可",
+      "軽いサラダ",
+      "ソースなし",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/okonomiyaki/1.jpg",
+      "/images/dishes/okonomiyaki/2.jpg",
+      "/images/dishes/okonomiyaki/3.jpg"
+    ]
+  },
+  {
+    "id": "chamame",
+    "name": "茶豆",
+    "kana": "ちゃまめ",
+    "aliases": [
+      "茶まめ",
+      "Brown edamame"
+    ],
+    "englishName": "Brown edamame",
+    "originalName": "茶豆",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "薄皮が茶色がかった枝豆系統。普通の枝豆より香りが強く、甘みとコクがある品種群として扱われる。",
+    "menuDescription": "香りの強い枝豆。塩ゆでで出ることが多く、甘みと豆の風味を楽しむ。",
+    "whatComesOut": [
+      "さや付きの枝豆",
+      "茶色がかった薄皮",
+      "塩ゆで",
+      "小鉢やつまみ"
+    ],
+    "tasteAndTexture": [
+      "豆の甘み",
+      "強い香り",
+      "ほくっとした食感",
+      "軽い塩気"
+    ],
+    "orderAdvice": "枝豆より香り重視で選ぶ。ビールや日本酒のつまみに向く。",
+    "caution": "大豆アレルギー注意。",
+    "similarItems": [
+      {
+        "id": "dadacha-mame",
+        "name": "だだちゃ豆",
+        "difference": "だだちゃ豆は山形・庄内の代表的な茶豆。茶豆は茶色い薄皮を持つ枝豆系統の総称"
+      },
+      {
+        "name": "枝豆",
+        "difference": "枝豆は若い大豆全般。茶豆は香りと甘みが強い系統",
+        "id": "edamame"
+      },
+      {
+        "id": "miso-konnyaku",
+        "name": "味噌こんにゃく",
+        "difference": "味噌こんにゃくはこんにゃく料理。茶豆は豆のつまみ"
+      }
+    ],
+    "relatedIds": [
+      "dadacha-mame"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "大豆不可",
+      "肉料理",
+      "揚げ物",
+      "こってり",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chamame/1.jpg"
+    ]
+  },
+  {
+    "id": "wonton",
+    "name": "ワンタン",
+    "kana": "わんたん",
+    "aliases": [
+      "雲呑",
+      "Wonton"
+    ],
+    "englishName": "Wonton",
+    "originalName": "雲呑",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "薄い小麦皮で肉や海老の餡を包み、茹でる、スープに入れる、揚げるなどして食べる中国料理。",
+    "menuDescription": "薄皮の包み料理。スープ入りならつるっと、揚げならぱりっとした前菜になる。",
+    "whatComesOut": [
+      "薄い皮の包み",
+      "豚肉や海老の餡",
+      "スープ仕立てまたは揚げ",
+      "小皿や麺の具"
+    ],
+    "tasteAndTexture": [
+      "皮のつるっと感",
+      "餡の旨味",
+      "スープの出汁",
+      "揚げは香ばしい"
+    ],
+    "orderAdvice": "軽い点心やスープ具材として選びやすい。海老や豚肉の有無を確認。",
+    "caution": "小麦、豚肉、海老を含む場合あり。",
+    "similarItems": [
+      {
+        "id": "chuchvara",
+        "name": "チュチュヴァラ",
+        "difference": "チュチュヴァラは中央アジアの小型包み料理。ワンタンは中華の薄皮包み"
+      },
+      {
+        "id": "xiaolongbao",
+        "name": "小籠包",
+        "difference": "小籠包はスープ入り点心。ワンタンはスープに入れることはあるが包みの中に汁を閉じ込めない"
+      },
+      {
+        "id": "manti",
+        "name": "マントゥ",
+        "difference": "マントゥは肉入りの蒸し包み料理。ワンタンは薄皮で小さめ"
+      }
+    ],
+    "relatedIds": [
+      "chuchvara",
+      "xiaolongbao",
+      "manti"
+    ],
+    "tags": [
+      "中国料理",
+      "前菜",
+      "豚肉",
+      "魚介",
+      "蒸し料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "小麦不可",
+      "豚肉不可",
+      "海老不可",
+      "包み料理不可",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/wonton/1.jpg",
+      "/images/dishes/wonton/2.jpg",
+      "/images/dishes/wonton/3.jpg"
+    ]
+  },
+  {
+    "id": "pickles",
+    "name": "ピクルス",
+    "kana": "ぴくるす",
+    "aliases": [
+      "酢漬け",
+      "Pickles"
+    ],
+    "englishName": "Pickles",
+    "originalName": "Pickles",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "西洋"
+      }
+    ],
+    "summary": "野菜や果物を酢、塩、香辛料で漬けた保存食。付け合わせや箸休めとして酸味と歯切れを添える。",
+    "menuDescription": "酸味のある漬け野菜。肉料理やサンドイッチの横に添えて口をさっぱりさせる。",
+    "whatComesOut": [
+      "酢漬け野菜",
+      "きゅうりや玉ねぎ",
+      "酸味のある付け合わせ",
+      "小皿や添え物"
+    ],
+    "tasteAndTexture": [
+      "はっきりした酸味",
+      "軽い甘味や塩気",
+      "ぱりっとした食感",
+      "香辛料の香り"
+    ],
+    "orderAdvice": "脂のある料理と合わせると口が軽くなる。酸味が苦手なら少量から。",
+    "caution": "酢の酸味と塩気が強い。甘いタイプと甘くないタイプがある。",
+    "similarItems": [
+      {
+        "id": "cornichon",
+        "name": "コルニション",
+        "difference": "コルニションは小きゅうりのフランス系ピクルス。ピクルスは酢漬け全般"
+      },
+      {
+        "id": "caper",
+        "name": "ケイパー",
+        "difference": "ケイパーは花のつぼみの酢漬け。ピクルスは野菜全般の酢漬け"
+      },
+      {
+        "id": "tama-konnyaku",
+        "name": "玉こんにゃく",
+        "difference": "玉こんにゃくは醤油煮のこんにゃく。ピクルスは酢漬け"
+      }
+    ],
+    "relatedIds": [
+      "cornichon",
+      "caper"
+    ],
+    "tags": [
+      "前菜",
+      "野菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "酸味なし",
+      "温かい主菜",
+      "甘いデザート",
+      "こってり",
+      "酢不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pickles/1.jpg",
+      "/images/dishes/pickles/2.jpg",
+      "/images/dishes/pickles/3.jpg"
+    ]
+  },
+  {
+    "id": "cumin",
+    "name": "クミン",
+    "kana": "くみん",
+    "aliases": [
+      "キュミン",
+      "Cumin"
+    ],
+    "englishName": "Cumin",
+    "originalName": "Cumin",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "インド"
+      },
+      {
+        "area": "中東"
+      }
+    ],
+    "summary": "セリ科植物の種子を使う香辛料。カレー、チリ、ケバブなどに使われ、強い香ばしさと土っぽい香りを出す。",
+    "menuDescription": "香りの強いスパイス。カレーや肉料理に、ほろ苦く香ばしい風味を加える。",
+    "whatComesOut": [
+      "粒または粉のスパイス",
+      "カレーや煮込みの香り",
+      "肉料理の下味",
+      "スパイスミックスの一部"
+    ],
+    "tasteAndTexture": [
+      "強い芳香",
+      "土っぽい香り",
+      "軽い苦味",
+      "香ばしい後味"
+    ],
+    "orderAdvice": "スパイス感が欲しい料理向き。カレーらしい香りの中心になりやすい。",
+    "caution": "香りが強い。クミンが苦手だと料理全体で目立つ。",
+    "similarItems": [
+      {
+        "id": "turmeric",
+        "name": "ターメリック",
+        "difference": "ターメリックは黄色い色づけとほろ苦さ。クミンは強い芳香と香ばしさ"
+      },
+      {
+        "id": "saffron",
+        "name": "サフラン",
+        "difference": "サフランは花のような香り。クミンは土っぽくスパイス感が強い"
+      },
+      {
+        "name": "コリアンダー",
+        "difference": "コリアンダー種子は柑橘っぽい香り。クミンはより重く香ばしい",
+        "id": "coriander-seed"
+      }
+    ],
+    "relatedIds": [
+      "turmeric",
+      "saffron"
+    ],
+    "tags": [
+      "インド料理",
+      "香辛料",
+      "スパイス",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "香りなし",
+      "甘いスパイス",
+      "辛い唐辛子",
+      "主菜そのもの",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cumin/1.jpg",
+      "/images/dishes/cumin/2.jpg",
+      "/images/dishes/cumin/3.jpg"
+    ]
+  },
+  {
+    "id": "dengaku",
+    "name": "田楽",
+    "kana": "でんがく",
+    "aliases": [
+      "味噌田楽",
+      "Dengaku"
+    ],
+    "englishName": "Dengaku",
+    "originalName": "田楽",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "豆腐、こんにゃく、なすなどに味噌だれを塗って焼く日本料理。甘辛い味噌と香ばしさを楽しむ。",
+    "menuDescription": "味噌だれを塗った焼き物。豆腐やこんにゃく、なすが多く、甘辛く香ばしい。",
+    "whatComesOut": [
+      "豆腐やこんにゃく",
+      "甘味噌だれ",
+      "串または皿盛り",
+      "焼き目"
+    ],
+    "tasteAndTexture": [
+      "味噌の甘辛さ",
+      "焼き目の香ばしさ",
+      "具材のやわらかさ",
+      "軽いコク"
+    ],
+    "orderAdvice": "和風の軽い前菜やつまみに向く。具材が何か確認すると選びやすい。",
+    "caution": "味噌だれは甘め。具材に豆腐やこんにゃく、なすを使う。",
+    "similarItems": [
+      {
+        "id": "miso-konnyaku",
+        "name": "味噌こんにゃく",
+        "difference": "味噌こんにゃくはこんにゃくが主役。田楽は豆腐やなすも含む味噌焼き全般"
+      },
+      {
+        "id": "tama-konnyaku",
+        "name": "玉こんにゃく",
+        "difference": "玉こんにゃくは醤油煮。田楽は味噌を塗って焼く"
+      },
+      {
+        "name": "焼きなす",
+        "difference": "焼きなすはなす単体の焼き料理。田楽は味噌だれが特徴"
+      }
+    ],
+    "relatedIds": [
+      "miso-konnyaku",
+      "tama-konnyaku"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "味噌不可",
+      "甘味なし",
+      "肉料理",
+      "スープ",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/dengaku/1.jpg",
+      "/images/dishes/dengaku/2.jpg",
+      "/images/dishes/dengaku/3.jpg"
+    ]
+  },
+  {
+    "id": "zhajiangmian",
+    "name": "ジャージャー麺",
+    "kana": "じゃーじゃーめん",
+    "aliases": [
+      "炸醤麺",
+      "Zhajiangmian"
+    ],
+    "englishName": "Zhajiangmian",
+    "originalName": "炸醤麺",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "麺に肉味噌をかけて、きゅうりや野菜と混ぜて食べる中国系の麺料理。濃い味噌だれの旨味が主役。",
+    "menuDescription": "肉味噌をのせた汁なし麺。濃い味のタレを麺と野菜に絡めて食べる。",
+    "whatComesOut": [
+      "麺",
+      "肉味噌だれ",
+      "きゅうりや野菜",
+      "混ぜて食べる皿"
+    ],
+    "tasteAndTexture": [
+      "味噌だれの旨味",
+      "肉のコク",
+      "麺のもちっと感",
+      "野菜の歯ざわり"
+    ],
+    "orderAdvice": "濃い味の汁なし麺が食べたい時向き。辛味の有無は店で違う。",
+    "caution": "小麦、豚肉、大豆系調味料を含むことが多い。",
+    "similarItems": [
+      {
+        "id": "banmian",
+        "name": "拌面",
+        "difference": "拌面は和え麺全般。ジャージャー麺は肉味噌が主役"
+      },
+      {
+        "id": "lagman",
+        "name": "ラグマン",
+        "difference": "ラグマンは中央アジアの肉野菜麺。ジャージャー麺は中華の肉味噌麺"
+      },
+      {
+        "id": "abura-soba",
+        "name": "油そば",
+        "difference": "油そばは香味油とタレを絡める日本の汁なし麺。ジャージャー麺は肉味噌をかける"
+      }
+    ],
+    "relatedIds": [
+      "banmian",
+      "lagman"
+    ],
+    "tags": [
+      "中国料理",
+      "主食",
+      "豚肉",
+      "野菜",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "肉なし",
+      "小麦不可",
+      "薄味",
+      "スープ麺",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/zhajiangmian/1.jpg",
+      "/images/dishes/zhajiangmian/2.jpg",
+      "/images/dishes/zhajiangmian/3.jpg"
+    ]
+  },
+  {
+    "id": "abura-soba",
+    "name": "油そば",
+    "kana": "あぶらそば",
+    "aliases": [
+      "まぜそば",
+      "Abura soba"
+    ],
+    "englishName": "Abura soba",
+    "originalName": "油そば",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "スープのない中華麺に醤油だれ、香味油、酢、ラー油などを絡めて食べる日本の汁なし麺。",
+    "menuDescription": "汁なしラーメン系の麺料理。油とタレを底から混ぜ、濃い味で食べる。",
+    "whatComesOut": [
+      "中華麺",
+      "醤油だれと香味油",
+      "チャーシューやねぎ",
+      "酢やラー油"
+    ],
+    "tasteAndTexture": [
+      "油のコク",
+      "濃い醤油だれ",
+      "麺のもちっと感",
+      "ラー油の辛味"
+    ],
+    "orderAdvice": "ラーメンより汁なしで濃い麺が欲しい時向き。酢やラー油で調整しやすい。",
+    "caution": "油分と塩気が強い。小麦、豚肉を含むことが多い。",
+    "similarItems": [
+      {
+        "id": "banmian",
+        "name": "拌面",
+        "difference": "拌面は中国系の和え麺一般。油そばは日本の汁なしラーメン系"
+      },
+      {
+        "id": "zhajiangmian",
+        "name": "ジャージャー麺",
+        "difference": "ジャージャー麺は肉味噌が主役。油そばは油と醤油だれが中心"
+      },
+      {
+        "id": "hiyashi-ramen",
+        "name": "冷やしラーメン",
+        "difference": "冷やしラーメンは冷たいスープ麺。油そばは温かい汁なし麺が多い"
+      }
+    ],
+    "relatedIds": [
+      "banmian",
+      "hiyashi-ramen"
+    ],
+    "tags": [
+      "日本料理",
+      "主食",
+      "豚肉",
+      "こってり",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "油控えめ",
+      "スープ麺",
+      "あっさり",
+      "小麦不可",
+      "冷たい麺"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/abura-soba/1.jpg",
+      "/images/dishes/abura-soba/2.jpg",
+      "/images/dishes/abura-soba/3.jpg"
+    ]
+  },
+  {
+    "id": "chili-con-carne",
+    "name": "チリコンカン",
+    "kana": "ちりこんかん",
+    "aliases": [
+      "チリコンカルネ",
+      "チリ",
+      "Chili con carne"
+    ],
+    "englishName": "Chili con carne",
+    "originalName": "Chili con carne",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      },
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "肉、豆、トマト、唐辛子を煮込むテクス・メクス系の料理。スパイシーで、米やパン、チップスと合わせる。",
+    "menuDescription": "肉と豆の辛い煮込み。トマトとチリの濃い味で、主菜やサイドに出る。",
+    "whatComesOut": [
+      "挽き肉と豆の煮込み",
+      "トマトと唐辛子のソース",
+      "スパイスの香り",
+      "米やパンの添え物"
+    ],
+    "tasteAndTexture": [
+      "肉と豆のコク",
+      "チリの辛味",
+      "トマトの酸味",
+      "煮込みの濃厚さ"
+    ],
+    "orderAdvice": "辛めの豆と肉の煮込みが欲しい時向き。辛さは店で差が大きい。",
+    "caution": "唐辛子、豆、牛肉や豚肉を使う。辛味が強い場合あり。",
+    "similarItems": [
+      {
+        "id": "baked-beans",
+        "name": "ベイクドビーンズ",
+        "difference": "ベイクドビーンズは甘めの豆料理が多い。チリコンカンは肉と唐辛子で辛い"
+      },
+      {
+        "id": "asado",
+        "name": "アサード",
+        "difference": "アサードは焼き肉料理。チリコンカンは肉と豆の煮込み"
+      },
+      {
+        "id": "tortilla-soup",
+        "name": "トルティーヤスープ",
+        "difference": "トルティーヤスープは汁物。チリコンカンは濃い煮込み"
+      }
+    ],
+    "relatedIds": [
+      "baked-beans",
+      "asado",
+      "tortilla-soup"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "メキシコ料理",
+      "主菜",
+      "牛肉",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "豆不可",
+      "肉なし",
+      "辛味なし",
+      "軽いサラダ",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/chili-con-carne/1.jpg",
+      "/images/dishes/chili-con-carne/2.jpg",
+      "/images/dishes/chili-con-carne/3.jpg"
+    ]
+  },
+  {
+    "id": "coriander-seed",
+    "name": "コリアンダー",
+    "kana": "こりあんだー",
+    "aliases": [
+      "コリアンダーシード",
+      "香菜子",
+      "Coriander seed"
+    ],
+    "englishName": "Coriander seed",
+    "originalName": "Coriander",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "中東"
+      },
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "コリアンダーの種子を乾燥させた香辛料。葉のパクチーとは香りが異なり、柑橘のような甘い香りと穏やかなスパイス感がある。",
+    "menuDescription": "柑橘っぽい香りのスパイス。カレー、煮込み、肉料理にさわやかな香りを足す。",
+    "whatComesOut": [
+      "粒または粉のスパイス",
+      "カレーや煮込みの香りづけ",
+      "スパイスミックスの一部",
+      "肉や豆料理の下味"
+    ],
+    "tasteAndTexture": [
+      "柑橘のような香り",
+      "軽い甘み",
+      "穏やかなスパイス感",
+      "辛味は弱い"
+    ],
+    "orderAdvice": "パクチーの葉が苦手でも種子は別の香り。スパイス料理の香りづけとして考える。",
+    "caution": "香草のパクチーとは風味が違うが、同じ植物由来。",
+    "similarItems": [
+      {
+        "id": "cumin",
+        "name": "クミン",
+        "difference": "クミンは重く土っぽい香り。コリアンダーは柑橘っぽく軽い香り"
+      },
+      {
+        "id": "turmeric",
+        "name": "ターメリック",
+        "difference": "ターメリックは黄色い色づけとほろ苦さ。コリアンダーは香りづけが中心"
+      },
+      {
+        "id": "pakuchi",
+        "name": "パクチー",
+        "difference": "パクチーは葉を食べるハーブ。コリアンダーは種子のスパイス"
+      }
+    ],
+    "relatedIds": [
+      "cumin",
+      "turmeric",
+      "pakuchi"
+    ],
+    "tags": [
+      "インド料理",
+      "香辛料",
+      "スパイス",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "葉のパクチー",
+      "辛い唐辛子",
+      "甘い菓子",
+      "主菜そのもの",
+      "香りなし"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/coriander-seed/1.jpg",
+      "/images/dishes/coriander-seed/2.jpg",
+      "/images/dishes/coriander-seed/3.jpg"
+    ]
+  },
+  {
+    "id": "edamame",
+    "name": "枝豆",
+    "kana": "えだまめ",
+    "aliases": [
+      "えだ豆",
+      "Edamame"
+    ],
+    "englishName": "Edamame",
+    "originalName": "枝豆",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "未成熟の大豆をさやごと茹で、塩を振って食べる日本の定番つまみ。豆の甘みとほくほく感がある。",
+    "menuDescription": "塩ゆでした若い大豆。さやから豆を出して食べる軽いつまみ。",
+    "whatComesOut": [
+      "さや付きの緑色の豆",
+      "塩ゆで",
+      "小鉢または皿盛り",
+      "ビールのつまみ"
+    ],
+    "tasteAndTexture": [
+      "豆の甘み",
+      "軽い塩気",
+      "ほくっとした食感",
+      "青い香り"
+    ],
+    "orderAdvice": "軽い前菜やつまみに最適。辛味や脂が少ないものが欲しい時に選ぶ。",
+    "caution": "大豆アレルギー注意。さやは食べないことが多い。",
+    "similarItems": [
+      {
+        "id": "dadacha-mame",
+        "name": "だだちゃ豆",
+        "difference": "だだちゃ豆は山形の香りが強い枝豆系品種。枝豆は若い大豆全般"
+      },
+      {
+        "id": "chamame",
+        "name": "茶豆",
+        "difference": "茶豆は薄皮が茶色く香りが強い系統。枝豆はより広い総称"
+      },
+      {
+        "id": "miso-konnyaku",
+        "name": "味噌こんにゃく",
+        "difference": "味噌こんにゃくはこんにゃく料理。枝豆は豆の塩ゆで"
+      }
+    ],
+    "relatedIds": [
+      "dadacha-mame",
+      "chamame"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "大豆不可",
+      "肉料理",
+      "揚げ物",
+      "こってり",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/edamame/1.jpg",
+      "/images/dishes/edamame/2.jpg",
+      "/images/dishes/edamame/3.jpg"
+    ]
+  },
+  {
+    "id": "chimaki",
+    "name": "ちまき",
+    "kana": "ちまき",
+    "aliases": [
+      "粽",
+      "Chimaki"
+    ],
+    "englishName": "Chimaki",
+    "originalName": "粽",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "米やもち米を笹、竹皮、葉などで包んで蒸す料理。日本では菓子系、中国系では具入りの食事系もある。",
+    "menuDescription": "米を葉で包んで蒸した料理。甘い菓子系と、肉や具入りの食事系がある。",
+    "whatComesOut": [
+      "葉で包んだ米料理",
+      "もち米または米粉生地",
+      "甘い餅または具入りご飯",
+      "蒸した包み"
+    ],
+    "tasteAndTexture": [
+      "もちっとした食感",
+      "米の甘み",
+      "葉の香り",
+      "具入りは旨味が強い"
+    ],
+    "orderAdvice": "甘味か食事系か確認。中華系なら具入りもち米、日本系なら菓子のことも多い。",
+    "caution": "小豆、肉、卵など中身が地域で変わる。葉は通常食べない。",
+    "similarItems": [
+      {
+        "id": "tamales",
+        "name": "タマル",
+        "difference": "タマルはトウモロコシ生地を包んで蒸す。ちまきは米やもち米が主役"
+      },
+      {
+        "id": "samsa",
+        "name": "サムサ",
+        "difference": "サムサは小麦生地で具を包んで焼く。ちまきは葉で米を包んで蒸す"
+      },
+      {
+        "name": "おこわ",
+        "difference": "おこわはもち米料理全般。ちまきは葉で包む形が特徴",
+        "id": "okowa"
+      }
+    ],
+    "relatedIds": [
+      "tamales",
+      "samsa"
+    ],
+    "tags": [
+      "日本料理",
+      "中国料理",
+      "主食",
+      "蒸し料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "米不可",
+      "葉包み不可",
+      "揚げ物",
+      "辛い料理",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chimaki/1.jpg",
+      "/images/dishes/chimaki/2.jpg",
+      "/images/dishes/chimaki/3.jpg"
+    ]
+  },
+  {
+    "id": "spring-roll",
+    "name": "春巻き",
+    "kana": "はるまき",
+    "aliases": [
+      "春卷",
+      "スプリングロール",
+      "Spring roll"
+    ],
+    "englishName": "Spring roll",
+    "originalName": "春卷",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "薄い皮で野菜、肉、春雨などを巻き、揚げるまたは生で食べる料理。日本では揚げ春巻きが一般的。",
+    "menuDescription": "薄皮で具を巻いた前菜。揚げならぱりっと香ばしく、生春巻きならさっぱり。",
+    "whatComesOut": [
+      "薄皮の巻き物",
+      "野菜や肉の具",
+      "揚げた皮または生の皮",
+      "甘酢やチリソース"
+    ],
+    "tasteAndTexture": [
+      "揚げ皮のぱりっと感",
+      "具の旨味",
+      "野菜の歯ざわり",
+      "ソースの酸味"
+    ],
+    "orderAdvice": "軽い前菜向き。揚げ春巻きか生春巻きか確認するとよい。",
+    "caution": "小麦、揚げ油、豚肉、海老を含む場合あり。",
+    "similarItems": [
+      {
+        "id": "fatima-fingers",
+        "name": "ファティマの指",
+        "difference": "ファティマの指はマグリブ系の細長い揚げ巻き。春巻きは東アジア系"
+      },
+      {
+        "id": "samosa",
+        "name": "サモサ",
+        "difference": "サモサは三角形のスパイス包み。春巻きは薄皮で筒状に巻く"
+      },
+      {
+        "id": "wonton",
+        "name": "ワンタン",
+        "difference": "ワンタンは薄皮包みでスープにも使う。春巻きは巻いて揚げることが多い"
+      }
+    ],
+    "relatedIds": [
+      "fatima-fingers",
+      "samosa",
+      "wonton"
+    ],
+    "tags": [
+      "中国料理",
+      "前菜",
+      "野菜",
+      "豚肉",
+      "揚げ物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "揚げ物不可",
+      "小麦不可",
+      "皮なし料理",
+      "汁物",
+      "あっさりのみ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/spring-roll/1.jpg",
+      "/images/dishes/spring-roll/2.jpg",
+      "/images/dishes/spring-roll/3.jpg"
+    ]
+  },
+  {
+    "id": "teriyaki",
+    "name": "照り焼き",
+    "kana": "てりやき",
+    "aliases": [
+      "テリヤキ",
+      "Teriyaki"
+    ],
+    "englishName": "Teriyaki",
+    "originalName": "照り焼き",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "醤油、みりん、砂糖などの甘辛いたれを絡め、焼きながら照りを出す日本の調理法。鶏、魚、肉に使う。",
+    "menuDescription": "甘辛いたれでつやを出した焼き料理。醤油の香ばしさと砂糖の甘みがある。",
+    "whatComesOut": [
+      "つやのある焼き物",
+      "甘辛い醤油だれ",
+      "鶏肉や魚の切り身",
+      "照りのある表面"
+    ],
+    "tasteAndTexture": [
+      "甘辛い味",
+      "醤油の香ばしさ",
+      "たれの照りと粘り",
+      "焼き目の香り"
+    ],
+    "orderAdvice": "日本風の甘辛味が欲しい時向き。魚か鶏か、素材を確認。",
+    "caution": "砂糖やみりんで甘め。醤油だれなので塩気もある。",
+    "similarItems": [
+      {
+        "id": "glaze",
+        "name": "グレイズ",
+        "difference": "グレイズは照りをつける仕上げ全般。照り焼きは醤油ベースの日本式甘辛焼き"
+      },
+      {
+        "id": "dengaku",
+        "name": "田楽",
+        "difference": "田楽は味噌だれを塗って焼く。照り焼きは醤油とみりんのたれを絡める"
+      },
+      {
+        "name": "蒲焼き",
+        "difference": "蒲焼きは魚を甘辛だれで焼く料理。照り焼きは肉や魚に使う広い調理法",
+        "id": "kabayaki"
+      }
+    ],
+    "relatedIds": [
+      "glaze",
+      "dengaku"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "甘味なし",
+      "醤油不可",
+      "あっさり",
+      "生料理",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/teriyaki/1.jpg",
+      "/images/dishes/teriyaki/2.jpg",
+      "/images/dishes/teriyaki/3.jpg"
+    ]
+  },
+  {
+    "id": "buchimgae",
+    "name": "チヂミ",
+    "kana": "ちぢみ",
+    "aliases": [
+      "韓国風お好み焼き",
+      "ジョン",
+      "Buchimgae"
+    ],
+    "englishName": "Buchimgae",
+    "originalName": "부침개",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "小麦粉や米粉の生地に野菜、海鮮、肉などを混ぜて薄く焼く韓国料理。外は香ばしく、中はもちっとした前菜やつまみ。",
+    "menuDescription": "薄く焼いた韓国風の粉もの。野菜や海鮮入りで、酢醤油系のたれにつけて食べる。",
+    "whatComesOut": [
+      "薄く焼いた粉もの",
+      "ニラやねぎなどの野菜",
+      "海鮮や肉の具",
+      "酢醤油だれ"
+    ],
+    "tasteAndTexture": [
+      "表面の香ばしさ",
+      "生地のもちっと感",
+      "野菜の甘み",
+      "たれの酸味と塩気"
+    ],
+    "orderAdvice": "シェア前菜や酒のつまみに向く。海鮮入りか野菜中心か確認するとよい。",
+    "caution": "小麦、卵、海鮮を含む場合あり。油で焼くためやや重い。",
+    "similarItems": [
+      {
+        "id": "okonomiyaki",
+        "name": "お好み焼き",
+        "difference": "お好み焼きは厚みとソースが特徴。チヂミは薄く焼き、たれにつける"
+      },
+      {
+        "id": "monjayaki",
+        "name": "もんじゃ焼き",
+        "difference": "もんじゃ焼きは水分が多く鉄板で直接食べる。チヂミは薄く固めて焼く"
+      },
+      {
+        "id": "spring-roll",
+        "name": "春巻き",
+        "difference": "春巻きは皮で具を巻く。チヂミは生地に具を混ぜて焼く"
+      }
+    ],
+    "relatedIds": [
+      "okonomiyaki",
+      "monjayaki",
+      "spring-roll"
+    ],
+    "tags": [
+      "韓国料理",
+      "前菜",
+      "野菜",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "小麦不可",
+      "油控えめ",
+      "汁物",
+      "甘い料理",
+      "あっさりだけ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/buchimgae/1.jpg",
+      "/images/dishes/buchimgae/2.jpg",
+      "/images/dishes/buchimgae/3.jpg"
+    ]
+  },
+  {
+    "id": "hiyashi-chuka",
+    "name": "冷やし中華",
+    "kana": "ひやしちゅうか",
+    "aliases": [
+      "冷し中華",
+      "Hiyashi chuka"
+    ],
+    "englishName": "Hiyashi chuka",
+    "originalName": "冷やし中華",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "冷たい中華麺に錦糸卵、きゅうり、ハム、トマトなどをのせ、甘酸っぱい醤油だれやごまだれで食べる日本の麺料理。",
+    "menuDescription": "具だくさんの冷たい中華麺。甘酸っぱいたれでさっぱり食べる夏向きの一皿。",
+    "whatComesOut": [
+      "冷たい中華麺",
+      "錦糸卵やきゅうり",
+      "ハムや蒸し鶏",
+      "甘酸っぱいたれ"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい味",
+      "冷たい口当たり",
+      "麺のつるっと感",
+      "具材の食感"
+    ],
+    "orderAdvice": "暑い日の軽めの麺に向く。ごまだれか醤油だれか確認。",
+    "caution": "小麦、卵、ハムを含むことが多い。酸味が強い場合あり。",
+    "similarItems": [
+      {
+        "id": "naengmyeon",
+        "name": "冷麺",
+        "difference": "冷麺は韓国の弾力麺と冷たいスープ。冷やし中華は中華麺と甘酸っぱいたれ"
+      },
+      {
+        "id": "hiyashi-ramen",
+        "name": "冷やしラーメン",
+        "difference": "冷やしラーメンは冷たいスープ麺。冷やし中華は汁なしに近いたれ麺"
+      },
+      {
+        "id": "abura-soba",
+        "name": "油そば",
+        "difference": "油そばは温かい汁なし麺が多い。冷やし中華は冷たい具だくさん麺"
+      }
+    ],
+    "relatedIds": [
+      "naengmyeon",
+      "hiyashi-ramen",
+      "abura-soba"
+    ],
+    "tags": [
+      "日本料理",
+      "主食",
+      "野菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "温かい麺",
+      "酸味なし",
+      "小麦不可",
+      "卵不可",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hiyashi-chuka/1.jpg",
+      "/images/dishes/hiyashi-chuka/2.jpg",
+      "/images/dishes/hiyashi-chuka/3.jpg"
+    ]
+  },
+  {
+    "id": "takoyaki",
+    "name": "たこ焼き",
+    "kana": "たこやき",
+    "aliases": [
+      "蛸焼き",
+      "Takoyaki"
+    ],
+    "englishName": "Takoyaki",
+    "originalName": "たこ焼き",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "小麦粉生地にタコを入れて球状に焼き、ソース、マヨネーズ、かつお節などをかける日本の粉もの料理。",
+    "menuDescription": "タコ入りの丸い粉もの。外は香ばしく中はとろっとして、甘辛ソースで食べる。",
+    "whatComesOut": [
+      "丸い焼き生地",
+      "タコの具",
+      "甘辛ソースとマヨネーズ",
+      "かつお節や青のり"
+    ],
+    "tasteAndTexture": [
+      "外側の香ばしさ",
+      "中のとろっと感",
+      "タコの弾力",
+      "ソースの甘辛さ"
+    ],
+    "orderAdvice": "軽食やシェア向き。熱々で出るので少し冷まして食べる。",
+    "caution": "小麦、卵、タコ、マヨネーズを含む。中が非常に熱い場合あり。",
+    "similarItems": [
+      {
+        "id": "monjayaki",
+        "name": "もんじゃ焼き",
+        "difference": "もんじゃ焼きは鉄板でゆるい生地を食べる。たこ焼きは球状に焼く"
+      },
+      {
+        "id": "okonomiyaki",
+        "name": "お好み焼き",
+        "difference": "お好み焼きは平たく厚く焼く。たこ焼きは一口サイズの球状"
+      },
+      {
+        "id": "dondonyaki",
+        "name": "どんどん焼き",
+        "difference": "どんどん焼きは薄い生地を巻く。たこ焼きはタコ入りの球状粉もの"
+      }
+    ],
+    "relatedIds": [
+      "monjayaki",
+      "okonomiyaki",
+      "dondonyaki"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "魚介",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "タコ不可",
+      "小麦不可",
+      "軽いサラダ",
+      "ソースなし",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/takoyaki/1.jpg",
+      "/images/dishes/takoyaki/2.jpg",
+      "/images/dishes/takoyaki/3.jpg"
+    ]
+  },
+  {
+    "id": "barbecue",
+    "name": "バーベキュー",
+    "kana": "ばーべきゅー",
+    "aliases": [
+      "BBQ",
+      "Barbecue"
+    ],
+    "englishName": "Barbecue",
+    "originalName": "Barbecue",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "肉や野菜を炭火やグリルで焼く料理、または低温で燻しながら調理するアメリカ系の肉料理。地域によりソースや部位が変わる。",
+    "menuDescription": "グリルや炭火で焼いた肉料理。香ばしい焼き目、燻製香、甘辛いソースが特徴。",
+    "whatComesOut": [
+      "グリルした肉",
+      "甘辛いBBQソース",
+      "炭火や燻製の香り",
+      "豆やコールスローなどの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "肉の旨味",
+      "燻製の香り",
+      "甘辛いソース",
+      "焼き目の香ばしさ"
+    ],
+    "orderAdvice": "肉をしっかり食べたい時向き。アメリカ式は低温調理の塊肉、一般的には屋外グリル料理も指す。",
+    "caution": "量が多く、甘いソースや脂が強い場合あり。",
+    "similarItems": [
+      {
+        "id": "asado",
+        "name": "アサード",
+        "difference": "アサードは南米の牛肉中心の炭火焼き文化。バーベキューはアメリカ式や一般的なグリル料理を含む"
+      },
+      {
+        "id": "chili-con-carne",
+        "name": "チリコンカン",
+        "difference": "チリコンカンは肉と豆の煮込み。バーベキューは焼きや燻製の肉料理"
+      },
+      {
+        "id": "teriyaki",
+        "name": "照り焼き",
+        "difference": "照り焼きは醤油ベースの甘辛焼き。バーベキューは燻製香やBBQソースが中心"
+      }
+    ],
+    "relatedIds": [
+      "asado",
+      "chili-con-carne",
+      "teriyaki"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "主菜",
+      "牛肉",
+      "グリル",
+      "燻製",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "肉不可",
+      "軽いサラダ",
+      "燻製なし",
+      "甘いソース不可",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 5,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/barbecue/1.jpg",
+      "/images/dishes/barbecue/2.jpg",
+      "/images/dishes/barbecue/3.jpg"
+    ]
+  },
+  {
+    "id": "naan",
+    "name": "ナン",
+    "kana": "なん",
+    "aliases": [
+      "ナーン",
+      "Naan"
+    ],
+    "englishName": "Naan",
+    "originalName": "Naan",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "小麦粉生地を発酵させ、タンドールなどで焼く南アジアの平たいパン。カレーやタンドリー料理と一緒に食べる。",
+    "menuDescription": "カレーに添えるもっちりした焼きパン。表面は香ばしく、バターを塗ることも多い。",
+    "whatComesOut": [
+      "平たい焼きパン",
+      "もっちりした小麦生地",
+      "焼き目",
+      "バターやギーの香り"
+    ],
+    "tasteAndTexture": [
+      "小麦の甘み",
+      "もちっとした食感",
+      "焼き目の香ばしさ",
+      "バターのコク"
+    ],
+    "orderAdvice": "カレーやタンドリー料理と一緒に頼む主食。ライスよりパンで食べたい時向き。",
+    "caution": "小麦、乳製品を含む場合あり。大きくて腹にたまりやすい。",
+    "similarItems": [
+      {
+        "id": "non",
+        "name": "ノン",
+        "difference": "ノンは中央アジアの厚めの丸パン。ナンは南アジアのタンドール焼きパン"
+      },
+      {
+        "id": "pita-bread",
+        "name": "ピタパン",
+        "difference": "ピタパンは薄くポケット状になりやすい。ナンはもちっと厚みがある"
+      },
+      {
+        "id": "samosa",
+        "name": "サモサ",
+        "difference": "サモサは具入り揚げ包み。ナンはカレーに添えるパン"
+      }
+    ],
+    "relatedIds": [
+      "non",
+      "pita-bread",
+      "samosa"
+    ],
+    "tags": [
+      "インド料理",
+      "主食",
+      "焼き物",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "小麦不可",
+      "米料理",
+      "揚げ物",
+      "甘いパン",
+      "低糖質"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/naan/1.jpg",
+      "/images/dishes/naan/2.jpg",
+      "/images/dishes/naan/3.jpg"
+    ]
+  },
+  {
+    "id": "yakitori",
+    "name": "焼き鳥",
+    "kana": "やきとり",
+    "aliases": [
+      "やきとり",
+      "Yakitori"
+    ],
+    "englishName": "Yakitori",
+    "originalName": "焼き鳥",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "鶏肉や鶏の内臓を串に刺して炭火などで焼き、塩またはたれで味付けする日本の串焼き料理。",
+    "menuDescription": "鶏の串焼き。塩ならシンプル、たれなら甘辛く、部位ごとの食感を楽しむ。",
+    "whatComesOut": [
+      "鶏肉の串焼き",
+      "塩または甘辛だれ",
+      "炭火の香り",
+      "部位ごとの串"
+    ],
+    "tasteAndTexture": [
+      "鶏肉の旨味",
+      "炭火の香ばしさ",
+      "塩のすっきり感",
+      "たれの甘辛さ"
+    ],
+    "orderAdvice": "少量ずつ頼めるつまみ向き。苦手な内臓部位は避けて選ぶ。",
+    "caution": "鶏内臓や皮など部位が多い。たれは甘め。",
+    "similarItems": [
+      {
+        "id": "shashlik",
+        "name": "シャシリック",
+        "difference": "シャシリックは羊肉や牛肉も多い中央アジア系串焼き。焼き鳥は鶏肉中心"
+      },
+      {
+        "id": "kebab",
+        "name": "ケバブ",
+        "difference": "ケバブは中東系の串焼きや肉料理。焼き鳥は日本の鶏串焼き"
+      },
+      {
+        "id": "teriyaki",
+        "name": "照り焼き",
+        "difference": "照り焼きは甘辛だれの調理法。焼き鳥は串焼き料理で塩味もある"
+      }
+    ],
+    "relatedIds": [
+      "shashlik",
+      "kebab",
+      "teriyaki"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "鶏肉",
+      "焼き物",
+      "グリル",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "鶏肉不可",
+      "串焼き不可",
+      "魚料理",
+      "野菜だけ",
+      "あっさりだけ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/yakitori/1.jpg",
+      "/images/dishes/yakitori/2.jpg",
+      "/images/dishes/yakitori/3.jpg"
+    ]
+  },
+  {
+    "id": "okowa",
+    "name": "おこわ",
+    "kana": "おこわ",
+    "aliases": [
+      "御強",
+      "Okowa"
+    ],
+    "englishName": "Okowa",
+    "originalName": "おこわ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "もち米を蒸して作る日本の米料理。赤飯、山菜おこわ、栗おこわなどがあり、もちっとした食感が特徴。",
+    "menuDescription": "もち米の蒸しご飯。具入りや赤飯風があり、普通のご飯よりもちもちして腹持ちがよい。",
+    "whatComesOut": [
+      "もち米の蒸しご飯",
+      "豆や山菜などの具",
+      "小鉢または主食",
+      "葉包みや弁当形式"
+    ],
+    "tasteAndTexture": [
+      "もちもちした食感",
+      "米の甘み",
+      "具材の香り",
+      "腹持ちがよい"
+    ],
+    "orderAdvice": "少量でも満足感がある主食。甘い菓子ではなく食事系か確認。",
+    "caution": "もち米なので粘りが強い。具材に豆や肉を含む場合あり。",
+    "similarItems": [
+      {
+        "id": "chimaki",
+        "name": "ちまき",
+        "difference": "ちまきは葉で包む米料理。おこわはもち米の蒸しご飯全般"
+      },
+      {
+        "id": "tamales",
+        "name": "タマル",
+        "difference": "タマルはトウモロコシ生地の包み蒸し。おこわはもち米が主役"
+      },
+      {
+        "name": "炊き込みご飯",
+        "difference": "炊き込みご飯はうるち米を炊くことが多い。おこわはもち米を蒸す"
+      }
+    ],
+    "relatedIds": [
+      "chimaki",
+      "tamales"
+    ],
+    "tags": [
+      "日本料理",
+      "主食",
+      "蒸し料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "米不可",
+      "もち米不可",
+      "軽いサラダ",
+      "揚げ物",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/okowa/1.jpg",
+      "/images/dishes/okowa/2.jpg"
+    ]
+  },
+  {
+    "id": "oden",
+    "name": "おでん",
+    "kana": "おでん",
+    "aliases": [
+      "御田",
+      "Oden"
+    ],
+    "englishName": "Oden",
+    "originalName": "おでん",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "大根、卵、こんにゃく、練り物などをだしで煮込む日本の鍋料理。具ごとに味と食感が違い、寒い時期に多い。",
+    "menuDescription": "だしで煮た具だくさん料理。大根、卵、こんにゃく、練り物などを選んで食べる。",
+    "whatComesOut": [
+      "だしで煮た大根",
+      "卵やこんにゃく",
+      "練り物や厚揚げ",
+      "辛子や味噌だれ"
+    ],
+    "tasteAndTexture": [
+      "だしの旨味",
+      "やさしい塩気",
+      "具材ごとの食感",
+      "体が温まる"
+    ],
+    "orderAdvice": "軽くも重くも調整しやすい。具材を選べる店では大根や卵から試すとよい。",
+    "caution": "練り物に魚介、卵、大豆製品を含む。地域で味噌味や醤油味が変わる。",
+    "similarItems": [
+      {
+        "id": "tama-konnyaku",
+        "name": "玉こんにゃく",
+        "difference": "玉こんにゃくは丸こんにゃく中心の醤油煮。おでんは多品目のだし煮"
+      },
+      {
+        "id": "miso-konnyaku",
+        "name": "味噌こんにゃく",
+        "difference": "味噌こんにゃくはこんにゃくに味噌だれ。おでんはだしで煮た具を食べる"
+      },
+      {
+        "id": "dengaku",
+        "name": "田楽",
+        "difference": "田楽は味噌を塗って焼く。おでんはだしで煮る"
+      }
+    ],
+    "relatedIds": [
+      "tama-konnyaku",
+      "miso-konnyaku",
+      "dengaku"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "冷たい料理",
+      "揚げ物",
+      "辛い料理",
+      "魚介不可",
+      "具なしスープ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/oden/1.jpg",
+      "/images/dishes/oden/2.jpg",
+      "/images/dishes/oden/3.jpg"
+    ]
+  },
+  {
+    "id": "soy-sauce",
+    "name": "醤油",
+    "kana": "しょうゆ",
+    "aliases": [
+      "しょう油",
+      "Soy sauce",
+      "Shoyu"
+    ],
+    "englishName": "Soy sauce",
+    "originalName": "醤油",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "大豆と小麦を発酵させて作る塩味とうま味の強い調味料。和食の味付け、つけだれ、煮物、焼き物に広く使う。",
+    "menuDescription": "大豆由来の発酵調味料。塩気とうま味が強く、たれやソースの土台になる。",
+    "whatComesOut": [
+      "黒褐色の液体調味料",
+      "つけだれ",
+      "煮物や焼き物の味付け",
+      "小皿の調味料"
+    ],
+    "tasteAndTexture": [
+      "強い塩気",
+      "発酵の旨味",
+      "軽い甘みや香ばしさ",
+      "さらっとした液体"
+    ],
+    "orderAdvice": "メニューに醤油味とあれば塩気とうま味が中心。減塩したい場合は注意。",
+    "caution": "大豆、小麦を含むことが多い。塩分が高い。",
+    "similarItems": [
+      {
+        "id": "nam-pla",
+        "name": "ナンプラー",
+        "difference": "ナンプラーは魚由来の発酵調味料。醤油は大豆由来"
+      },
+      {
+        "id": "teriyaki",
+        "name": "照り焼き",
+        "difference": "照り焼きは醤油を使う甘辛い調理法。醤油は調味料そのもの"
+      },
+      {
+        "name": "たまり醤油",
+        "difference": "たまり醤油は大豆比率が高く濃厚。醤油は濃口、薄口などを含む広い調味料",
+        "id": "tamari-soy-sauce"
+      }
+    ],
+    "relatedIds": [
+      "nam-pla",
+      "teriyaki",
+      "tamari-soy-sauce"
+    ],
+    "tags": [
+      "日本料理",
+      "中国料理",
+      "ソース",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "大豆不可",
+      "小麦不可",
+      "減塩",
+      "甘いソース",
+      "魚醤"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/soy-sauce/1.jpg",
+      "/images/dishes/soy-sauce/2.jpg",
+      "/images/dishes/soy-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "tomato",
+    "name": "トマト",
+    "kana": "とまと",
+    "aliases": [
+      "Tomato"
+    ],
+    "englishName": "Tomato",
+    "originalName": "Tomato",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "世界各地"
+      }
+    ],
+    "summary": "赤く熟すナス科の果菜。生食、煮込み、ソース、サラダに使われ、甘み、酸味、うま味を料理に加える。",
+    "menuDescription": "甘酸っぱい赤い野菜。サラダ、ソース、煮込みに使われ、料理をさっぱりさせる。",
+    "whatComesOut": [
+      "赤い果肉の野菜",
+      "生のスライスや角切り",
+      "トマトソース",
+      "煮込みのベース"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい",
+      "みずみずしい",
+      "加熱で旨味が増す",
+      "種と果肉の食感"
+    ],
+    "orderAdvice": "酸味と軽さが欲しい料理に向く。生トマトかソースかで印象が変わる。",
+    "caution": "酸味が強い場合あり。ナス科野菜。",
+    "similarItems": [
+      {
+        "id": "tomatillo",
+        "name": "トマティーヨ",
+        "difference": "トマティーヨは緑で酸味と青い香りが強い。トマトは赤く甘みとうま味がある"
+      },
+      {
+        "id": "pico-de-gallo",
+        "name": "ピコ・デ・ガヨ",
+        "difference": "ピコ・デ・ガヨは刻みトマトの生サルサ。トマトは素材そのもの"
+      },
+      {
+        "id": "minestrone",
+        "name": "ミネストローネ",
+        "difference": "ミネストローネはトマトを使うことが多い野菜スープ"
+      }
+    ],
+    "relatedIds": [
+      "tomatillo",
+      "pico-de-gallo",
+      "minestrone"
+    ],
+    "tags": [
+      "野菜",
+      "食材",
+      "ソース",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "トマト不可",
+      "酸味なし",
+      "こってり",
+      "肉料理そのもの",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tomato/1.jpg",
+      "/images/dishes/tomato/2.jpg",
+      "/images/dishes/tomato/3.jpg"
+    ]
+  },
+  {
+    "id": "kimchi",
+    "name": "キムチ",
+    "kana": "きむち",
+    "aliases": [
+      "김치",
+      "Kimchi"
+    ],
+    "englishName": "Kimchi",
+    "originalName": "김치",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "白菜や大根などを唐辛子、にんにく、魚介の発酵調味料で漬ける韓国の発酵食品。酸味、辛味、うま味がある。",
+    "menuDescription": "辛く酸っぱい発酵野菜。焼肉や麺料理の付け合わせ、鍋や炒め物の具にも使う。",
+    "whatComesOut": [
+      "赤い漬け野菜",
+      "白菜や大根",
+      "唐辛子とにんにくの風味",
+      "小皿の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "辛味",
+      "発酵の酸味",
+      "にんにくの香り",
+      "しゃきっとした食感"
+    ],
+    "orderAdvice": "辛味と発酵感が欲しい時向き。辛さや酸味は店で差がある。",
+    "caution": "唐辛子、にんにく、魚介系調味料を含むことが多い。",
+    "similarItems": [
+      {
+        "id": "naengmyeon",
+        "name": "冷麺",
+        "difference": "冷麺は冷たい麺料理。キムチは付け合わせや具になる発酵野菜"
+      },
+      {
+        "id": "pickles",
+        "name": "ピクルス",
+        "difference": "ピクルスは酢漬け野菜。キムチは唐辛子と発酵の酸味が特徴"
+      },
+      {
+        "id": "buchimgae",
+        "name": "チヂミ",
+        "difference": "チヂミは焼き粉もの。キムチ入りチヂミの具になることがある"
+      }
+    ],
+    "relatedIds": [
+      "naengmyeon",
+      "pickles",
+      "buchimgae"
+    ],
+    "tags": [
+      "韓国料理",
+      "前菜",
+      "野菜",
+      "ピリ辛",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "辛味不可",
+      "にんにく不可",
+      "発酵味なし",
+      "甘い漬物",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/kimchi/1.jpg",
+      "/images/dishes/kimchi/2.jpg",
+      "/images/dishes/kimchi/3.jpg"
+    ]
+  },
+  {
+    "id": "kabayaki",
+    "name": "蒲焼き",
+    "kana": "かばやき",
+    "aliases": [
+      "蒲焼",
+      "Kabayaki"
+    ],
+    "englishName": "Kabayaki",
+    "originalName": "蒲焼き",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "魚を開いて串打ちし、甘辛いたれを塗りながら焼く日本料理。うなぎの蒲焼きが代表的で、ご飯にのせることも多い。",
+    "menuDescription": "甘辛だれを塗って焼いた魚料理。照りがあり、香ばしく濃い味。",
+    "whatComesOut": [
+      "たれを塗った焼き魚",
+      "照りのある表面",
+      "白ご飯や丼",
+      "山椒や薬味"
+    ],
+    "tasteAndTexture": [
+      "甘辛いたれ",
+      "焼き目の香ばしさ",
+      "魚の脂のコク",
+      "ふっくらした身"
+    ],
+    "orderAdvice": "濃い味の魚料理が欲しい時向き。うなぎ、穴子、さんまなど素材を確認。",
+    "caution": "魚の小骨、甘いたれ、醤油を含む。",
+    "similarItems": [
+      {
+        "id": "teriyaki",
+        "name": "照り焼き",
+        "difference": "照り焼きは肉や魚に使う調理法。蒲焼きは開いた魚を甘辛だれで焼く料理"
+      },
+      {
+        "id": "soy-sauce",
+        "name": "醤油",
+        "difference": "醤油は調味料。蒲焼きのたれの土台になる"
+      },
+      {
+        "id": "glaze",
+        "name": "グレイズ",
+        "difference": "グレイズは照りを出す仕上げ全般。蒲焼きは日本の魚料理"
+      }
+    ],
+    "relatedIds": [
+      "teriyaki",
+      "soy-sauce",
+      "glaze"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "魚介",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "魚不可",
+      "甘味なし",
+      "醤油不可",
+      "軽いサラダ",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kabayaki/1.jpg",
+      "/images/dishes/kabayaki/2.jpg",
+      "/images/dishes/kabayaki/3.jpg"
+    ]
+  },
+  {
+    "id": "udon",
+    "name": "うどん",
+    "kana": "うどん",
+    "aliases": [
+      "饂飩",
+      "Udon"
+    ],
+    "englishName": "Udon",
+    "originalName": "うどん",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "太い小麦麺をだしやつゆで食べる日本の麺料理。温かい汁麺、冷たいつけ麺、煮込みなど形が多い。",
+    "menuDescription": "太くもちっとした日本の小麦麺。だしつゆで温かく、または冷たく食べる。",
+    "whatComesOut": [
+      "太い小麦麺",
+      "だしつゆ",
+      "ねぎや天ぷらなどの具",
+      "温かいまたは冷たい麺"
+    ],
+    "tasteAndTexture": [
+      "もちっとした麺",
+      "だしの旨味",
+      "つゆの塩気",
+      "具材で重さが変わる"
+    ],
+    "orderAdvice": "軽く食べたい時から満腹主食まで幅広い。天ぷら入りは重くなる。",
+    "caution": "小麦使用。つゆに魚介だしを使うことが多い。",
+    "similarItems": [
+      {
+        "id": "lagman",
+        "name": "ラグマン",
+        "difference": "ラグマンは中央アジアの肉野菜麺。うどんは和風だしの小麦麺"
+      },
+      {
+        "id": "shippoku-udon",
+        "name": "卓袱饂飩",
+        "difference": "卓袱饂飩は具入りの地方うどん。うどんは麺料理全般"
+      },
+      {
+        "id": "hiyashi-chuka",
+        "name": "冷やし中華",
+        "difference": "冷やし中華は中華麺と甘酸っぱいたれ。うどんは太い小麦麺"
+      }
+    ],
+    "relatedIds": [
+      "lagman",
+      "shippoku-udon",
+      "hiyashi-chuka"
+    ],
+    "tags": [
+      "日本料理",
+      "主食",
+      "スープ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "小麦不可",
+      "米料理",
+      "こってり",
+      "辛い麺",
+      "パスタ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/udon/1.jpg",
+      "/images/dishes/udon/2.jpg",
+      "/images/dishes/udon/3.jpg"
+    ]
+  },
+  {
+    "id": "tamari-soy-sauce",
+    "name": "たまり醤油",
+    "kana": "たまりしょうゆ",
+    "aliases": [
+      "溜まり醤油",
+      "たまり",
+      "Tamari"
+    ],
+    "englishName": "Tamari soy sauce",
+    "originalName": "たまり醤油",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "大豆を多く使い、とろみと濃いうま味を持つ日本の醤油。刺身、照り焼き、煮物、たれに使われ、色と味が強く出る。",
+    "menuDescription": "濃厚な醤油。普通の醤油より色とうま味が強く、刺身や焼き物のたれに使う。",
+    "whatComesOut": [
+      "濃い色の液体調味料",
+      "刺身用のつけ醤油",
+      "照り焼きや蒲焼きのたれ",
+      "煮物や焼き物の味付け"
+    ],
+    "tasteAndTexture": [
+      "濃いうま味",
+      "強い塩気",
+      "軽い甘み",
+      "少しとろみのある口当たり"
+    ],
+    "orderAdvice": "たまり醤油使用とあれば、通常の醤油より濃い色と深いうま味を想定。刺身や焼き物向き。",
+    "caution": "大豆を多く含む。商品により小麦を含む場合あり。塩分が高い。",
+    "similarItems": [
+      {
+        "id": "soy-sauce",
+        "name": "醤油",
+        "difference": "醤油は濃口や薄口を含む広い調味料。たまり醤油は大豆比率が高く濃厚"
+      },
+      {
+        "id": "nam-pla",
+        "name": "ナンプラー",
+        "difference": "ナンプラーは魚由来の発酵調味料。たまり醤油は大豆由来"
+      },
+      {
+        "id": "teriyaki",
+        "name": "照り焼き",
+        "difference": "照り焼きは甘辛い調理法。たまり醤油はそのたれに使える調味料"
+      }
+    ],
+    "relatedIds": [
+      "soy-sauce",
+      "teriyaki",
+      "kabayaki"
+    ],
+    "tags": [
+      "日本料理",
+      "ソース",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "大豆不可",
+      "減塩",
+      "薄口醤油",
+      "魚醤",
+      "甘いソース"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tamari-soy-sauce/1.jpg",
+      "/images/dishes/tamari-soy-sauce/2.jpg",
+      "/images/dishes/tamari-soy-sauce/3.jpg"
     ]
   }
 ]
