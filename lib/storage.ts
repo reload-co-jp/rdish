@@ -3,21 +3,32 @@ const FAVORITES_EVENT = "rdish:favoritesChange"
 const RECENTLY_VIEWED_KEY = "rdish:recentlyViewed"
 const MAX_RECENT = 20
 
+let favoritesSnapshot: string[] = []
+
+function loadFavoritesSnapshot(): void {
+  try {
+    favoritesSnapshot = JSON.parse(localStorage.getItem(FAVORITES_KEY) ?? "[]")
+  } catch {
+    favoritesSnapshot = []
+  }
+}
+
 export function subscribeFavorites(onStoreChange: () => void): () => void {
-  window.addEventListener("storage", onStoreChange)
-  window.addEventListener(FAVORITES_EVENT, onStoreChange)
+  const handler = () => {
+    loadFavoritesSnapshot()
+    onStoreChange()
+  }
+  window.addEventListener("storage", handler)
+  window.addEventListener(FAVORITES_EVENT, handler)
+  loadFavoritesSnapshot()
   return () => {
-    window.removeEventListener("storage", onStoreChange)
-    window.removeEventListener(FAVORITES_EVENT, onStoreChange)
+    window.removeEventListener("storage", handler)
+    window.removeEventListener(FAVORITES_EVENT, handler)
   }
 }
 
 export function getFavorites(): string[] {
-  try {
-    return JSON.parse(localStorage.getItem(FAVORITES_KEY) ?? "[]")
-  } catch {
-    return []
-  }
+  return favoritesSnapshot
 }
 
 export function toggleFavorite(id: string): boolean {

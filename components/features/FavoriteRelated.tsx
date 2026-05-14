@@ -9,11 +9,13 @@ type Props = {
   allDishes: DishItem[]
 }
 
+const EMPTY_FAVORITES: string[] = []
+
 export const FavoriteRelated: FC<Props> = ({ allDishes }) => {
   const favoriteIds = useSyncExternalStore(
     subscribeFavorites,
-    () => getFavorites(),
-    () => [],
+    getFavorites,
+    () => EMPTY_FAVORITES,
   )
 
   if (favoriteIds.length === 0) return null
