@@ -1,4 +1,5 @@
 import categories from "../data/categories.json"
+import countriesData from "../data/countries.json"
 import dishes from "../data/dishes.json"
 import tags from "../data/tags.json"
 import type { DishCategory, DishItem } from "../types/dish"
@@ -14,10 +15,14 @@ export const categoryItems = categories as TaxonomyItem<DishCategory>[]
 
 const allDishes = dishes as DishItem[]
 
+const countryDescriptions = new Map(
+  (countriesData as { label: string; description: string }[]).map((c) => [c.label, c.description]),
+)
+
 function toItems(labels: string[]): TaxonomyItem[] {
   return [...new Set(labels)]
     .filter(Boolean)
-    .map((label, i) => ({ id: String(i + 1), label }))
+    .map((label, i) => ({ id: String(i + 1), label, description: countryDescriptions.get(label) }))
 }
 
 export const tagItems = tags as TaxonomyItem[]
