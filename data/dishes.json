@@ -31534,5 +31534,893 @@
     "images": [
       "/images/dishes/he-hua-su/1.jpg"
     ]
+  },
+  {
+    "id": "steak",
+    "name": "ステーキ",
+    "kana": "すてーき",
+    "aliases": [
+      "ビーフステーキ",
+      "Steak"
+    ],
+    "englishName": "Steak",
+    "originalName": "Steak",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      },
+      {
+        "area": "ヨーロッパ"
+      }
+    ],
+    "summary": "厚切りの肉を高温で焼き上げる料理。牛肉が代表的で、焼き加減や部位で味と食感が大きく変わる。",
+    "menuDescription": "サーロイン、リブアイ、フィレなどの肉をグリルや鉄板で焼いた主菜。ソースや付け合わせの野菜、ポテトと一緒に出ることが多い。",
+    "whatComesOut": [
+      "焼き目のついた厚切り肉",
+      "好みの焼き加減の牛肉",
+      "ソースやバター、ポテトなどの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "肉の強い旨み",
+      "表面の香ばしさ",
+      "部位により赤身の噛み応えや脂のジューシーさ"
+    ],
+    "orderAdvice": "肉をしっかり食べたい時向き。柔らかさ重視ならフィレ、脂の旨み重視ならリブアイやサーロイン。",
+    "caution": "焼き加減と部位で硬さや脂の量が変わる。レアが苦手なら注文時に確認。",
+    "similarItems": [
+      {
+        "id": "carne-asada",
+        "name": "カルネ・アサダ",
+        "difference": "カルネ・アサダは柑橘や香辛料でマリネしたメキシコ風の焼き牛肉。ステーキは部位と焼き加減を楽しむ単体の肉料理"
+      },
+      {
+        "id": "asado",
+        "name": "アサード",
+        "difference": "アサードは南米の炭火焼き肉文化。ステーキは一枚肉を焼く料理として提供される"
+      }
+    ],
+    "relatedIds": [
+      "grill",
+      "roast",
+      "carne-asada",
+      "asado"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "主菜",
+      "牛肉",
+      "グリル",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "厚切り肉",
+      "ビーフステーキ",
+      "焼き加減",
+      "サーロイン",
+      "リブアイ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/steak/1.jpg",
+      "/images/dishes/steak/2.jpg",
+      "/images/dishes/steak/3.jpg"
+    ]
+  },
+  {
+    "id": "clam-chowder",
+    "name": "クラムチャウダー",
+    "kana": "くらむちゃうだー",
+    "aliases": [
+      "クラムチャウダー",
+      "Clam chowder"
+    ],
+    "englishName": "Clam chowder",
+    "originalName": "Clam chowder",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "アサリやハマグリなどの貝、じゃがいも、玉ねぎを煮込むアメリカのスープ。クリーム仕立ての白いニューイングランド風が定番。",
+    "menuDescription": "貝の旨みが溶けたクリーミーなスープ。角切りじゃがいもやベーコンが入り、クラッカーを添えることも多い。",
+    "whatComesOut": [
+      "白く濃厚なクリームスープ",
+      "貝とじゃがいも、玉ねぎ",
+      "クラッカーやパンの添え物"
+    ],
+    "tasteAndTexture": [
+      "貝の旨みと塩気",
+      "クリームのまろやかなコク",
+      "じゃがいものほくほく感"
+    ],
+    "orderAdvice": "寒い日や軽めの食事に向く。貝とクリームが好きなら選びやすい。",
+    "caution": "貝類、乳製品、小麦を含む場合あり。貝アレルギーは注意。",
+    "similarItems": [
+      {
+        "id": "bisque",
+        "name": "ビスク",
+        "difference": "ビスクはエビやロブスターなど甲殻類を裏ごしした濃厚スープ。クラムチャウダーは貝と野菜の具感があるクリームスープ"
+      },
+      {
+        "id": "vichyssoise",
+        "name": "ヴィシソワーズ",
+        "difference": "ヴィシソワーズは冷製のじゃがいもクリームスープ。クラムチャウダーは温かい貝のスープ"
+      }
+    ],
+    "relatedIds": [
+      "bisque",
+      "vichyssoise",
+      "mussel",
+      "scallop"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "スープ",
+      "魚介",
+      "野菜",
+      "煮込み",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "白い貝スープ",
+      "ニューイングランド",
+      "アサリスープ",
+      "クリームスープ",
+      "クラッカー付き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/clam-chowder/1.jpg",
+      "/images/dishes/clam-chowder/2.jpg",
+      "/images/dishes/clam-chowder/3.jpg"
+    ]
+  },
+  {
+    "id": "spare-ribs",
+    "name": "スペアリブ",
+    "kana": "すぺありぶ",
+    "aliases": [
+      "ポークリブ",
+      "Spare ribs"
+    ],
+    "englishName": "Spare ribs",
+    "originalName": "Spare ribs",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      },
+      {
+        "area": "国際"
+      }
+    ],
+    "summary": "豚の骨付きばら肉を焼く、煮る、または燻製にする肉料理。甘辛いソースやスパイスで味付けされ、骨まわりの旨みが濃い。",
+    "menuDescription": "骨付き豚肉を柔らかく火入れし、BBQソースやスパイスで仕上げた主菜。手でかぶりつく豪快な料理。",
+    "whatComesOut": [
+      "骨付きの豚ばら肉",
+      "甘辛いBBQソースやスパイス",
+      "コールスローや豆料理などの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "脂のコクと肉の旨み",
+      "骨まわりのジューシーさ",
+      "ソースの甘辛さと香ばしさ"
+    ],
+    "orderAdvice": "濃い味の肉を楽しみたい時に。ナイフとフォークより手で食べる店も多い。",
+    "caution": "脂が多く、ソースが甘めまたは濃いめ。骨付きなので食べにくい場合あり。",
+    "similarItems": [
+      {
+        "id": "barbecue",
+        "name": "バーベキュー",
+        "difference": "バーベキューは調理法や料理ジャンル全体。スペアリブは豚骨付きばら肉の部位料理"
+      },
+      {
+        "id": "asado",
+        "name": "アサード",
+        "difference": "アサードは南米の炭火焼き肉文化。スペアリブは骨付き豚肉を甘辛く仕上げることが多い"
+      }
+    ],
+    "relatedIds": [
+      "barbecue",
+      "grill",
+      "smoke",
+      "baked-beans"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "主菜",
+      "豚肉",
+      "グリル",
+      "燻製",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "骨付き肉",
+      "ポークリブ",
+      "BBQリブ",
+      "甘辛い肉",
+      "かぶりつく肉"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 5,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/spare-ribs/1.jpg",
+      "/images/dishes/spare-ribs/2.jpg",
+      "/images/dishes/spare-ribs/3.jpg"
+    ]
+  },
+  {
+    "id": "jambalaya",
+    "name": "ジャンバラヤ",
+    "kana": "じゃんばらや",
+    "aliases": [
+      "ジャンバラヤライス",
+      "Jambalaya"
+    ],
+    "englishName": "Jambalaya",
+    "originalName": "Jambalaya",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ",
+        "locality": "ルイジアナ"
+      }
+    ],
+    "summary": "米、肉、ソーセージ、魚介、野菜をスパイスと一緒に炊き込むルイジアナの米料理。ケイジャンやクレオール料理の代表格。",
+    "menuDescription": "トマトやスパイスで味付けした炊き込みご飯。鶏肉、ソーセージ、エビなどが入り、ピリ辛で香りが強い。",
+    "whatComesOut": [
+      "スパイス香る炊き込みご飯",
+      "ソーセージ、鶏肉、エビなどの具材",
+      "トマトベースまたは茶色いケイジャン風の米料理"
+    ],
+    "tasteAndTexture": [
+      "スパイスの香りと軽い辛味",
+      "肉と魚介の旨みが染みた米",
+      "具だくさんで満足感がある"
+    ],
+    "orderAdvice": "ご飯ものが欲しく、少しスパイシーな味を楽しみたい時に。辛さは店で差がある。",
+    "caution": "エビやソーセージを含むことが多い。辛味、甲殻類、豚肉が苦手なら確認。",
+    "similarItems": [
+      {
+        "id": "paella",
+        "name": "パエリア",
+        "difference": "パエリアはスペインのサフラン風味の米料理。ジャンバラヤはルイジアナのスパイスと肉、魚介の炊き込みご飯"
+      },
+      {
+        "id": "pilaf",
+        "name": "ピラフ",
+        "difference": "ピラフは穏やかな炊き込みご飯。ジャンバラヤはスパイスと具材が強く、辛味がある"
+      },
+      {
+        "id": "biryani",
+        "name": "ビリヤニ",
+        "difference": "ビリヤニは南アジアの香り高いスパイス米料理。ジャンバラヤはアメリカ南部の米料理"
+      }
+    ],
+    "relatedIds": [
+      "paella",
+      "pilaf",
+      "biryani",
+      "chorizo"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "主菜",
+      "米料理",
+      "魚介",
+      "スパイス",
+      "煮込み",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "ルイジアナ料理",
+      "ケイジャンライス",
+      "スパイシー炊き込みご飯",
+      "ソーセージ入りご飯",
+      "エビ入り米料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/jambalaya/1.jpg",
+      "/images/dishes/jambalaya/2.jpg",
+      "/images/dishes/jambalaya/3.jpg"
+    ]
+  },
+  {
+    "id": "macaroni-and-cheese",
+    "name": "マカロニチーズ",
+    "kana": "まかろにちーず",
+    "aliases": [
+      "マックアンドチーズ",
+      "マカロニ・アンド・チーズ",
+      "Mac and cheese"
+    ],
+    "englishName": "Macaroni and cheese",
+    "originalName": "Macaroni and cheese",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      },
+      {
+        "country": "イギリス"
+      }
+    ],
+    "summary": "マカロニにチーズソースを絡める料理。アメリカの家庭料理として定番で、焼き上げるタイプは表面が香ばしい。",
+    "menuDescription": "短いパスタに濃厚なチーズソースを絡めた料理。オーブン焼きの場合はパン粉やチーズの焦げ目がつく。",
+    "whatComesOut": [
+      "チーズソースをまとったマカロニ",
+      "熱々でとろけるチーズ",
+      "焼きタイプなら香ばしい表面"
+    ],
+    "tasteAndTexture": [
+      "チーズの濃厚なコク",
+      "マカロニのもちっとした食感",
+      "焼き目の香ばしさ"
+    ],
+    "orderAdvice": "チーズ好き向け。主菜にもサイドにもなるが、量が多いと重い。",
+    "caution": "乳製品と小麦を多く含む。チーズの塩気が強い場合あり。",
+    "similarItems": [
+      {
+        "id": "gratin",
+        "name": "グラタン",
+        "difference": "グラタンはベシャメルやクリームで具材を焼く料理。マカロニチーズはチーズソースが主役"
+      },
+      {
+        "id": "bechamel",
+        "name": "ベシャメル",
+        "difference": "ベシャメルは白ソース。マカロニチーズはチーズソースを絡めたパスタ料理"
+      }
+    ],
+    "relatedIds": [
+      "gratin",
+      "bechamel",
+      "parmigiano"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "主菜",
+      "チーズ",
+      "パスタ",
+      "焼き物",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "マックアンドチーズ",
+      "チーズパスタ",
+      "黄色いチーズソース",
+      "アメリカ家庭料理",
+      "マカロニ料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/macaroni-and-cheese/1.jpg",
+      "/images/dishes/macaroni-and-cheese/2.jpg",
+      "/images/dishes/macaroni-and-cheese/3.jpg"
+    ]
+  },
+  {
+    "id": "bananas-foster",
+    "name": "バナナフォスター",
+    "kana": "ばななふぉすたー",
+    "aliases": [
+      "バナナズフォスター",
+      "Bananas Foster"
+    ],
+    "englishName": "Bananas Foster",
+    "originalName": "Bananas Foster",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "アメリカ",
+        "locality": "ニューオーリンズ"
+      }
+    ],
+    "summary": "バナナをバター、砂糖、ラムで温め、フランベしてアイスクリームにかけるニューオーリンズ発祥のデザート。",
+    "menuDescription": "温かいキャラメル風味のバナナソースをバニラアイスにかけたデザート。ラム酒を使い、テーブルで炎を上げる演出があることも多い。",
+    "whatComesOut": [
+      "温かいバナナとキャラメルソース",
+      "バニラアイスクリーム",
+      "ラム酒の香りとフランベ演出"
+    ],
+    "tasteAndTexture": [
+      "バナナの甘みととろりとした食感",
+      "バターと砂糖の濃いキャラメル風味",
+      "冷たいアイスと温かいソースの対比"
+    ],
+    "orderAdvice": "甘く濃厚なデザートが欲しい時に。食後にシェアしてもよい。",
+    "caution": "ラム酒を使う。アルコールが苦手な場合や子ども向けには確認。",
+    "similarItems": [
+      {
+        "id": "flambe",
+        "name": "フランベ",
+        "difference": "フランベは炎で香りをつける調理法。バナナフォスターはフランベを使うデザート"
+      },
+      {
+        "id": "creme-brulee",
+        "name": "クレームブリュレ",
+        "difference": "クレームブリュレは冷たいカスタードと焦がし砂糖。バナナフォスターは温かいバナナソースとアイス"
+      }
+    ],
+    "relatedIds": [
+      "flambe",
+      "caramelize",
+      "syrup-ni",
+      "creme-brulee"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "デザート",
+      "果物",
+      "酒",
+      "フランベ",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "温かいバナナデザート",
+      "ラム酒デザート",
+      "アイスにかける",
+      "ニューオーリンズ",
+      "炎の演出"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bananas-foster/1.jpg",
+      "/images/dishes/bananas-foster/2.jpg",
+      "/images/dishes/bananas-foster/3.jpg"
+    ]
+  },
+  {
+    "id": "xiang-la",
+    "name": "香辣",
+    "kana": "しゃんらー",
+    "aliases": [
+      "香辣味",
+      "シャンラー"
+    ],
+    "englishName": "Fragrant spicy flavor",
+    "originalName": "香辣",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "唐辛子や香味油、香辛料の香りを前面に出した中国料理の辛味表現。単に辛いだけでなく、香ばしい香りと油のコクを伴う。",
+    "menuDescription": "香辛料の香りが強いピリ辛味。唐辛子、花椒、にんにく、ねぎ、生姜などで、炒め物や和え物、肉料理を香り高く仕上げる。",
+    "whatComesOut": [
+      "赤い油や唐辛子の香りが立つ料理",
+      "肉、魚介、野菜の炒め物や和え物",
+      "香味野菜とスパイスの強い風味"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の辛味",
+      "香辛料と香味油の香り",
+      "こってりした油のコク"
+    ],
+    "orderAdvice": "香りの強い辛味が欲しい時に向く。激辛より香り重視だが、店で辛さは変わる。",
+    "caution": "唐辛子と香辛料、油を多く使う場合がある。辛味や油が苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "ma-la",
+        "name": "麻辣",
+        "difference": "麻辣は花椒のしびれが主役。香辣は香辛料と香味油の香りが主役"
+      },
+      {
+        "id": "suan-la",
+        "name": "酸辣",
+        "difference": "酸辣は酸味と辛味の組み合わせ。香辣は香りと辛味の組み合わせ"
+      }
+    ],
+    "relatedIds": [
+      "doubanjiang",
+      "sriracha",
+      "harissa",
+      "lazi-ji"
+    ],
+    "tags": [
+      "中国料理",
+      "香辛料",
+      "スパイス",
+      "唐辛子",
+      "ピリ辛",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "香りの辛味",
+      "香味油",
+      "赤い辛味",
+      "唐辛子風味",
+      "中華の香る辛さ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/xiang-la/1.jpg",
+      "/images/dishes/xiang-la/2.jpg"
+    ]
+  },
+  {
+    "id": "ma-la",
+    "name": "麻辣",
+    "kana": "まーらー",
+    "aliases": [
+      "麻辣味",
+      "マーラー"
+    ],
+    "englishName": "Mala spicy-numbing flavor",
+    "originalName": "麻辣",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "花椒のしびれる刺激「麻」と唐辛子の辛味「辣」を合わせた中国料理の代表的な辛味。四川料理で特に多い。",
+    "menuDescription": "舌がしびれる花椒の刺激と唐辛子の辛さを組み合わせた味。麻婆豆腐、火鍋、よだれ鶏などでよく見かける。",
+    "whatComesOut": [
+      "花椒が効いたしびれる辛味",
+      "赤い辣油や唐辛子の香り",
+      "肉、豆腐、麺、鍋料理など幅広い料理"
+    ],
+    "tasteAndTexture": [
+      "舌に残るしびれ",
+      "唐辛子の鋭い辛味",
+      "香辛料の複雑な香り"
+    ],
+    "orderAdvice": "辛さだけでなくしびれを楽しみたい時に選ぶ。しびれが苦手なら避けるか弱め指定。",
+    "caution": "花椒のしびれと唐辛子が強い場合あり。辛味が苦手な人には不向き。",
+    "similarItems": [
+      {
+        "id": "xiang-la",
+        "name": "香辣",
+        "difference": "香辣は香りの辛味。麻辣は花椒のしびれが強い"
+      },
+      {
+        "id": "suan-la",
+        "name": "酸辣",
+        "difference": "酸辣は酸味と辛味。麻辣はしびれと辛味"
+      }
+    ],
+    "relatedIds": [
+      "mapo-tofu",
+      "kou-shui-ji",
+      "fu-qi-fei-pian",
+      "mao-xue-wang"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "香辛料",
+      "スパイス",
+      "唐辛子",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "しびれる辛さ",
+      "花椒",
+      "マーラー味",
+      "四川の辛味",
+      "麻婆の味"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 5,
+    "images": [
+      "/images/dishes/ma-la/1.png"
+    ]
+  },
+  {
+    "id": "hu-la",
+    "name": "煳辣",
+    "kana": "ふーらー",
+    "aliases": [
+      "糊辣",
+      "煳辣味",
+      "フーラー"
+    ],
+    "englishName": "Scorched chili flavor",
+    "originalName": "煳辣",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "唐辛子を焦がし気味に炒めて出す、香ばしくほろ苦い辛味。四川料理や貴州料理で使われ、焼けた唐辛子の香りが特徴。",
+    "menuDescription": "乾燥唐辛子を油で炒め、焦げ香と辛味を出した味。香ばしいが、苦味が出すぎないよう仕上げる。",
+    "whatComesOut": [
+      "乾燥唐辛子の香ばしい香り",
+      "焦げ茶から赤い油の色",
+      "炒め物や和え物の辛味"
+    ],
+    "tasteAndTexture": [
+      "焦がし唐辛子の香ばしさ",
+      "ほろ苦さを伴う辛味",
+      "油で立つ強い香り"
+    ],
+    "orderAdvice": "香ばしい辛味が好きなら選びやすい。普通の唐辛子味より大人っぽい苦味がある。",
+    "caution": "焦げ香と辛味が強い。苦味や辛味が苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "xiang-la",
+        "name": "香辣",
+        "difference": "香辣は香辛料全体の香り。煳辣は焦がし唐辛子の香ばしさが主役"
+      },
+      {
+        "id": "ma-la",
+        "name": "麻辣",
+        "difference": "麻辣は花椒のしびれが主役。煳辣は焦がした唐辛子の香りが主役"
+      }
+    ],
+    "relatedIds": [
+      "lazi-ji",
+      "gan-bian-si-ji-dou",
+      "doubanjiang",
+      "paprika"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "香辛料",
+      "唐辛子",
+      "炒め物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "焦がし唐辛子",
+      "香ばしい辛さ",
+      "乾燥唐辛子炒め",
+      "ほろ苦い辛味",
+      "煳辣味"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/hu-la/1.jpg"
+    ]
+  },
+  {
+    "id": "zao-la",
+    "name": "糟辣",
+    "kana": "ざおらー",
+    "aliases": [
+      "糟辣味",
+      "ザオラー"
+    ],
+    "englishName": "Fermented chili flavor",
+    "originalName": "糟辣",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "発酵させた唐辛子や酒粕系の香りを生かす辛味表現。貴州料理で特に知られ、酸味、発酵香、辛味が合わさる。",
+    "menuDescription": "発酵唐辛子を使った赤い辛味。生の唐辛子だけでは出ない酸味と旨みがあり、魚、肉、野菜の炒め煮に使われる。",
+    "whatComesOut": [
+      "発酵唐辛子の赤いソースや炒め物",
+      "酸味を帯びた辛味",
+      "魚や肉、野菜に絡む濃い味"
+    ],
+    "tasteAndTexture": [
+      "発酵の酸味と旨み",
+      "唐辛子の辛味",
+      "塩気と香りの強さ"
+    ],
+    "orderAdvice": "酸味のある発酵辛味が好きなら向く。普通の辣油系よりクセがある。",
+    "caution": "発酵香、酸味、塩気が強い場合あり。クセのある味が苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "suan-la",
+        "name": "酸辣",
+        "difference": "酸辣は酢などの酸味と辛味。糟辣は発酵唐辛子由来の酸味と旨み"
+      },
+      {
+        "id": "doubanjiang",
+        "name": "豆板醤",
+        "difference": "豆板醤は豆と唐辛子の発酵調味料。糟辣は発酵唐辛子の味型として使われる"
+      }
+    ],
+    "relatedIds": [
+      "doubanjiang",
+      "kimchi",
+      "kanzuri",
+      "xiang-cu-rou-kuai"
+    ],
+    "tags": [
+      "中国料理",
+      "香辛料",
+      "唐辛子",
+      "発酵",
+      "ピリ辛",
+      "酸味",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "発酵唐辛子",
+      "貴州の辛味",
+      "酸味のある辛味",
+      "糟辣椒",
+      "発酵香"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": []
+  },
+  {
+    "id": "suan-la",
+    "name": "酸辣",
+    "kana": "すーらー",
+    "aliases": [
+      "酸辣味",
+      "サンラー",
+      "スーラー"
+    ],
+    "englishName": "Hot and sour flavor",
+    "originalName": "酸辣",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "酢の酸味と唐辛子や胡椒の辛味を合わせた中国料理の味型。酸辣湯のように、さっぱりした刺激が特徴。",
+    "menuDescription": "酸っぱく辛い味。酢、唐辛子、胡椒などで、スープ、麺、和え物を後味の軽い刺激に仕上げる。",
+    "whatComesOut": [
+      "酸味と辛味のあるスープや麺",
+      "酢の香りが立つ赤または褐色の料理",
+      "野菜、豆腐、肉、きのこなどの具材"
+    ],
+    "tasteAndTexture": [
+      "酢のはっきりした酸味",
+      "唐辛子や胡椒の辛味",
+      "後味が比較的軽い刺激"
+    ],
+    "orderAdvice": "こってりより酸味で食べ進めたい時に。辛さが弱めでも酸味は強いことがある。",
+    "caution": "酢の酸味が強い場合あり。酸っぱい味が苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "ma-la",
+        "name": "麻辣",
+        "difference": "麻辣はしびれと辛味。酸辣は酸味と辛味"
+      },
+      {
+        "id": "zao-la",
+        "name": "糟辣",
+        "difference": "糟辣は発酵唐辛子の酸味と旨み。酸辣は酢の酸味が中心"
+      }
+    ],
+    "relatedIds": [
+      "suan-la-tang",
+      "suan-la-tang-mian",
+      "xiang-cu-rou-kuai",
+      "sriracha"
+    ],
+    "tags": [
+      "中国料理",
+      "香辛料",
+      "唐辛子",
+      "スープ",
+      "ピリ辛",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "酸っぱ辛い",
+      "サンラー味",
+      "酸辣湯の味",
+      "酢の辛味",
+      "ホットアンドサワー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": []
+  },
+  {
+    "id": "xian-la",
+    "name": "鮮辣",
+    "kana": "しぇんらー",
+    "aliases": [
+      "鮮辣味",
+      "シェンラー"
+    ],
+    "englishName": "Fresh umami spicy flavor",
+    "originalName": "鮮辣",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "新鮮な唐辛子の明るい辛味と、素材の鮮味や旨みを合わせた味型。重い油より、みずみずしい辛味と後味の鮮やかさが出る。",
+    "menuDescription": "生唐辛子や青唐辛子のようなフレッシュな辛味。魚介、鶏、野菜などを軽く辛く、香りよく仕上げる。",
+    "whatComesOut": [
+      "生唐辛子や青唐辛子の香り",
+      "魚介や鶏肉、野菜の軽い辛味料理",
+      "油より素材感を残した仕上がり"
+    ],
+    "tasteAndTexture": [
+      "フレッシュな唐辛子の辛味",
+      "素材の旨みや甘み",
+      "後味の軽さと香り"
+    ],
+    "orderAdvice": "重い辛味より、すっきりした辛味が欲しい時に向く。青唐辛子系は見た目以上に辛いことがある。",
+    "caution": "生唐辛子や青唐辛子で辛味が鋭い場合あり。辛さ指定できるなら確認。",
+    "similarItems": [
+      {
+        "id": "xiang-la",
+        "name": "香辣",
+        "difference": "香辣は香味油と香辛料の香り。鮮辣は生唐辛子系の新鮮な辛味と素材の旨み"
+      },
+      {
+        "id": "suan-la",
+        "name": "酸辣",
+        "difference": "酸辣は酸味と辛味。鮮辣は酸味より新鮮な唐辛子の香りが中心"
+      }
+    ],
+    "relatedIds": [
+      "qing-jiao-rou-si",
+      "pakuchi",
+      "sambal",
+      "sriracha"
+    ],
+    "tags": [
+      "中国料理",
+      "香辛料",
+      "唐辛子",
+      "野菜",
+      "魚介",
+      "ピリ辛",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "新鮮な辛味",
+      "生唐辛子",
+      "青唐辛子",
+      "軽い辛味",
+      "鮮味のある辛さ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 4,
+    "images": []
   }
 ]
