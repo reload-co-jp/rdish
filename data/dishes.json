@@ -31303,5 +31303,236 @@
     "heavinessScore": 3,
     "spicinessScore": 2,
     "images": []
+  },
+  {
+    "id": "xiao-su-rou",
+    "name": "小酥肉",
+    "kana": "しょうすーろう",
+    "aliases": [
+      "シャオスーロウ",
+      "小酥肉",
+      "四川風豚肉唐揚げ"
+    ],
+    "englishName": "Crispy Fried Pork Strips",
+    "originalName": "小酥肉 (Xiǎosū Ròu)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "四川"
+      }
+    ],
+    "summary": "下味をつけた豚肉にでんぷんや卵の衣をまとわせ、カリッと揚げる四川・中国各地の定番料理。花椒や五香粉が香り、鍋具材としても使われる。",
+    "menuDescription": "細長く切った豚肉を塩、醤油、酒、花椒、五香粉などで下味し、卵とでんぷんの衣で揚げた料理。揚げたてをそのまま食べるほか、火鍋やスープに入れることもある。",
+    "whatComesOut": [
+      "細長い豚肉の唐揚げ",
+      "薄い衣がついたカリッとした揚げ物",
+      "椒塩や唐辛子粉を添えた一皿"
+    ],
+    "tasteAndTexture": [
+      "外はカリッと香ばしい",
+      "中は豚肉の旨みと脂が残る",
+      "花椒や五香粉のスパイス香"
+    ],
+    "orderAdvice": "辛すぎない四川料理を食べたい時に頼みやすい。揚げ物好き、ビールのつまみ、火鍋の追加具材として向く。",
+    "caution": "豚肉、小麦またはでんぷん、卵を使うことが多い。揚げ物なので重め。",
+    "similarItems": [
+      {
+        "id": "lazi-ji",
+        "name": "辣子鶏",
+        "difference": "辣子鶏は鶏肉を唐辛子と花椒で炒める激辛料理。小酥肉は豚肉の香ばしい揚げ物で辛さは控えめ"
+      },
+      {
+        "id": "tonkatsu",
+        "name": "とんかつ",
+        "difference": "とんかつはパン粉衣の厚い豚カツ。小酥肉は細切り豚肉に薄い衣をつける中華揚げ物"
+      },
+      {
+        "id": "fen-zheng-rou",
+        "name": "粉蒸肉",
+        "difference": "粉蒸肉は米粉をまぶして蒸す柔らかい豚肉料理。小酥肉は衣をつけて揚げるカリッとした豚肉料理"
+      }
+    ],
+    "relatedIds": [
+      "lazi-ji",
+      "fen-zheng-rou",
+      "hui-guo-rou",
+      "fritto"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "主菜",
+      "豚肉",
+      "揚げ物",
+      "スパイス",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "豚肉嫌い",
+      "揚げ物不可",
+      "軽い前菜",
+      "あっさり",
+      "ベジタリアン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/xiao-su-rou/1.jpg",
+      "/images/dishes/xiao-su-rou/2.jpg"
+    ]
+  },
+  {
+    "id": "zhou-sha-hun-tun",
+    "name": "绉纱馄饨",
+    "kana": "じょうしゃわんたん",
+    "aliases": [
+      "皺紗餛飩",
+      "绉纱云吞",
+      "薄皮ワンタン"
+    ],
+    "englishName": "Crepe-Silk Wonton",
+    "originalName": "绉纱馄饨 (Zhòushā Húntun)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "広州・広東"
+      }
+    ],
+    "summary": "絹のように薄くしわの寄る皮で小さな餡を包む広東系ワンタン。皮のなめらかさとスープのあっさりした旨みを楽しむ点心・麺料理の具。",
+    "menuDescription": "極薄の小麦皮に豚肉や海老の餡を少量包み、澄んだスープで茹でて提供するワンタン。皮が湯の中で薄い紗のようにひらひらする見た目が特徴。",
+    "whatComesOut": [
+      "澄んだスープに入った小さな薄皮ワンタン",
+      "豚肉や海老の餡",
+      "ネギや青菜を添えた椀",
+      "麺と合わせる場合もある"
+    ],
+    "tasteAndTexture": [
+      "薄皮のつるっとした口当たり",
+      "餡のやさしい旨み",
+      "澄んだスープのあっさりした味",
+      "軽くなめらかな食感"
+    ],
+    "orderAdvice": "軽い点心や締めのスープに向く。ワンタン麺として出る場合もあるため、単品か麺入りか確認。",
+    "caution": "小麦、豚肉、海老を含む場合あり。皮が薄いためボリュームは控えめ。",
+    "similarItems": [
+      {
+        "id": "wonton",
+        "name": "ワンタン",
+        "difference": "ワンタンは広い薄皮包み料理。绉纱馄饨はしわの寄る極薄皮と軽いスープ仕立てが特徴"
+      },
+      {
+        "id": "xiaolongbao",
+        "name": "小籠包",
+        "difference": "小籠包は厚めの皮でスープを包む蒸し点心。绉纱馄饨は薄皮をスープで茹でる"
+      },
+      {
+        "id": "dan-dan-mian",
+        "name": "担担麺",
+        "difference": "担担麺は辛いごまダレの麺料理。绉纱馄饨はあっさりした薄皮ワンタン"
+      }
+    ],
+    "relatedIds": [
+      "wonton",
+      "xiaolongbao",
+      "soy-sauce",
+      "dan-dan-mian"
+    ],
+    "tags": [
+      "中国料理",
+      "前菜",
+      "豚肉",
+      "魚介",
+      "スープ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "小麦不可",
+      "豚肉不可",
+      "海老不可",
+      "こってり",
+      "辛い料理好き"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "he-hua-su",
+    "name": "荷花酥",
+    "kana": "ほーふぁすー",
+    "aliases": [
+      "蓮花酥",
+      "莲花酥",
+      "ロータスパイ"
+    ],
+    "englishName": "Lotus Flower Pastry",
+    "originalName": "荷花酥 (Héhuā Sū)",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "安徽・徽州"
+      }
+    ],
+    "summary": "蓮の花の形に成形した中国の揚げ菓子。層になった生地が花びらのように開き、あんやナッツ餡の甘みとサクサクした食感を楽しむ。",
+    "menuDescription": "油酥生地を薄く重ねて蓮の花形に整え、豆沙餡やナッツ餡を包んで揚げた点心菓子。花びらのように開いた見た目が華やか。",
+    "whatComesOut": [
+      "蓮の花形に開いた揚げ菓子",
+      "薄い層の花びら状パイ生地",
+      "中に入った甘い餡",
+      "一口から小皿サイズの点心"
+    ],
+    "tasteAndTexture": [
+      "外側はサクサクで香ばしい",
+      "中の餡はしっとり甘い",
+      "油酥生地の軽い層感",
+      "見た目に反して繊細な口当たり"
+    ],
+    "orderAdvice": "食後の甘い点心や茶請け向き。見た目重視の菓子なので、コースの締めや写真映えする一品を選びたい時に。",
+    "caution": "小麦、油、砂糖を多く使う。餡にナッツや豆を含む場合あり。",
+    "similarItems": [
+      {
+        "id": "xingren-gao",
+        "name": "杏仁豆腐",
+        "difference": "杏仁豆腐は冷たいゼリー状デザート。荷花酥は揚げた層状生地の温かい菓子"
+      },
+      {
+        "id": "fritto",
+        "name": "フリット",
+        "difference": "フリットは揚げ調理全般。荷花酥は蓮の花形に成形する中国菓子"
+      }
+    ],
+    "relatedIds": [
+      "xingren-gao",
+      "fritto"
+    ],
+    "tags": [
+      "中国料理",
+      "デザート",
+      "揚げ物",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "甘いもの嫌い",
+      "小麦不可",
+      "揚げ物不可",
+      "ナッツ不可",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/he-hua-su/1.jpg"
+    ]
   }
 ]
