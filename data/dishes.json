@@ -32422,5 +32422,468 @@
     "heavinessScore": 2,
     "spicinessScore": 4,
     "images": []
+  },
+  {
+    "id": "enban-gyoza",
+    "name": "円盤餃子",
+    "kana": "えんばんぎょうざ",
+    "aliases": [
+      "エンバン餃子",
+      "宇都宮円盤餃子"
+    ],
+    "englishName": "Disc Gyoza",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関東",
+        "country": "日本",
+        "locality": "宇都宮"
+      }
+    ],
+    "summary": "宇都宮発祥のご当地餃子スタイル。複数個の餃子を円形に並べて鉄板で焼き上げ、皮同士がくっついた円盤状に仕上がる。",
+    "menuDescription": "餃子を円形（円盤状）に並べて鉄板で焼いた宇都宮のご当地グルメ。底面はパリッと香ばしく、皮同士が連なってもちもちした部分も楽しめる。豚肉・キャベツ・ニラの餡がジューシー。",
+    "whatComesOut": [
+      "円形に並んだ焼き餃子（10〜15個程度）",
+      "酢・醤油・ラー油",
+      "鉄板またはプレートに乗って提供"
+    ],
+    "tasteAndTexture": [
+      "底面はパリッと香ばしくカリカリ",
+      "豚肉・キャベツ・ニラの旨みが詰まったジューシーな餡",
+      "隣接した皮がくっついてもちもちした部分もある",
+      "シンプルな塩・醤油ベースの素直な味"
+    ],
+    "orderAdvice": "餃子好きなら必食。宇都宮らしさを楽しむなら円盤スタイルを選ぶべき。ビールとの相性は抜群。",
+    "caution": "小麦・豚肉・ニラを含む。",
+    "similarItems": [
+      {
+        "id": "wonton",
+        "name": "ワンタン",
+        "difference": "ワンタンはスープで茹でる薄皮包み。円盤餃子は鉄板で焼いてパリッと仕上げる"
+      },
+      {
+        "id": "xiaolongbao",
+        "name": "小籠包",
+        "difference": "小籠包は蒸して肉汁を閉じ込める。円盤餃子は焼き餃子を円形に並べた日本式スタイル"
+      },
+      {
+        "id": "pierogi",
+        "name": "ピエロギ",
+        "difference": "ピエロギは茹でてからバターで炒めるポーランドの包み料理。円盤餃子は鉄板で焼き上げる"
+      }
+    ],
+    "relatedIds": [
+      "wonton",
+      "xiaolongbao",
+      "pelmeni",
+      "pierogi",
+      "manti",
+      "spring-roll"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "香ばしい",
+      "ジューシー",
+      "関東"
+    ],
+    "reverseKeywords": [
+      "餃子が苦手",
+      "ニラ不使用",
+      "あっさり",
+      "デザート",
+      "生食"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "namie-yakisoba",
+    "name": "なみえ焼きそば",
+    "kana": "なみえやきそば",
+    "aliases": [
+      "浪江焼きそば",
+      "浪江焼そば"
+    ],
+    "englishName": "Namie Yakisoba",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東北",
+        "country": "日本",
+        "locality": "福島・浪江"
+      }
+    ],
+    "summary": "福島県浪江町発祥のB級グルメ焼きそば。極太麺を豚バラ肉・もやしとともに濃いソースで炒めた、ボリューム満点のご当地料理。",
+    "menuDescription": "うどんほどの極太麺を使い、豚バラ肉ともやしをたっぷり合わせて濃厚ソースで炒め上げた焼きそば。浪江町の食文化を代表するB級グルメで、その太麺の存在感が最大の特徴。",
+    "whatComesOut": [
+      "極太麺（うどん並みの太さ）の焼きそば",
+      "豚バラ肉ともやしがたっぷり",
+      "濃いソースで炒めた一皿、紅しょうが添えが定番"
+    ],
+    "tasteAndTexture": [
+      "極太麺のもちもちとした強い食感",
+      "濃厚でコクのあるソース味",
+      "豚バラの脂の旨みともやしのシャキシャキ感",
+      "香ばしい炒め焦げがアクセント"
+    ],
+    "orderAdvice": "太麺が好き・ボリューム重視・B級グルメ好きなら迷わず注文。細麺焼きそばとは別物の食べごたえ。",
+    "caution": "小麦・豚肉・大豆（ソース）を含む。",
+    "similarItems": [
+      {
+        "id": "okonomiyaki",
+        "name": "お好み焼き",
+        "difference": "お好み焼きは粉もの生地に具を混ぜて焼く。なみえ焼きそばは極太麺主役の炒め麺"
+      },
+      {
+        "id": "pad-thai",
+        "name": "パッタイ",
+        "difference": "パッタイはライスヌードルをナンプラーと卵で炒めるタイ麺。なみえ焼きそばは極太小麦麺をソースで炒める日本のB級グルメ"
+      },
+      {
+        "id": "abura-soba",
+        "name": "油そば",
+        "difference": "油そばはスープなしで麺にタレと油を絡める。なみえ焼きそばは鉄板で炒めた焼き麺"
+      }
+    ],
+    "relatedIds": [
+      "okonomiyaki",
+      "monjayaki",
+      "pad-thai",
+      "abura-soba",
+      "udon"
+    ],
+    "tags": [
+      "日本料理",
+      "麺料理",
+      "豚肉",
+      "炒め物",
+      "こってり",
+      "東北"
+    ],
+    "reverseKeywords": [
+      "細麺派",
+      "あっさり",
+      "スープ麺",
+      "洋食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "ika-ninjin",
+    "name": "いかにんじん",
+    "kana": "いかにんじん",
+    "aliases": [
+      "イカニンジン",
+      "するめにんじん"
+    ],
+    "englishName": "Squid and Carrot Salad",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東北",
+        "country": "日本",
+        "locality": "福島"
+      }
+    ],
+    "summary": "福島県を代表する郷土料理。細切りにしたするめ（乾燥イカ）と人参を醤油・みりん・酒で和えた常備菜。",
+    "menuDescription": "するめ（乾燥したイカ）と千切り人参を、醤油・みりん・酒のタレに漬け込んだ郷土料理。するめが戻りながら旨みが人参に染み込み、素朴でやみつきになる味に仕上がる。",
+    "whatComesOut": [
+      "細切りのするめと人参の和え物",
+      "醤油ベースのタレがしっかり絡んだ状態",
+      "小鉢や前菜として提供"
+    ],
+    "tasteAndTexture": [
+      "するめの濃厚な旨みと噛み応え",
+      "人参のシャキシャキした食感",
+      "醤油・みりんの甘辛い風味",
+      "漬け込み時間が長いほど旨みが深まる"
+    ],
+    "orderAdvice": "酒の肴・ご飯のお供として最適。福島の食文化を手軽に体験できる一品。",
+    "caution": "イカ（甲殻類アレルギーとは別だがイカアレルギーに注意）・小麦（醤油）・大豆を含む。",
+    "similarItems": [
+      {
+        "id": "nanbanzuke",
+        "name": "南蛮漬け",
+        "difference": "南蛮漬けは揚げた魚を酢と野菜で漬ける。いかにんじんは生のするめを醤油で和える常備菜"
+      },
+      {
+        "id": "gravlax",
+        "name": "グラブラックス",
+        "difference": "グラブラックスはサーモンを塩・砂糖・ディルで締める北欧料理。いかにんじんはするめと人参を醤油で和える日本の郷土料理"
+      },
+      {
+        "id": "mozuku",
+        "name": "莫久来",
+        "difference": "モズクは海藻を酢で和えた沖縄料理。いかにんじんはするめと人参を醤油で和えた福島の郷土料理"
+      }
+    ],
+    "relatedIds": [
+      "squid",
+      "nanbanzuke",
+      "gravlax",
+      "soy-sauce",
+      "daikon"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "魚介",
+      "野菜",
+      "マリネ",
+      "あっさり",
+      "東北"
+    ],
+    "reverseKeywords": [
+      "イカ嫌い",
+      "温かい料理派",
+      "洋食",
+      "デザート",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ika-ninjin/1.jpg",
+      "/images/dishes/ika-ninjin/2.jpg"
+    ]
+  },
+  {
+    "id": "kozuyu",
+    "name": "こづゆ",
+    "kana": "こづゆ",
+    "aliases": [
+      "小づゆ",
+      "会津こづゆ"
+    ],
+    "englishName": "Kozuyu",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東北",
+        "country": "日本",
+        "locality": "福島・会津"
+      }
+    ],
+    "summary": "福島県会津地方の伝統的な郷土料理。干し貝柱のだしで野菜・里芋・きのこ・しらたきを薄味に煮た汁物で、冠婚葬祭などの晴れの席に欠かせない。",
+    "menuDescription": "干し貝柱から引いた上品なだしに、にんじん・里芋・しいたけ・しらたき・豆麩などを加えて薄口醤油で仕上げた会津の伝統的な汁物。浅い朱塗りの椀で供されるのが作法。",
+    "whatComesOut": [
+      "干し貝柱だしの澄んだ薄味のスープ",
+      "里芋・にんじん・しいたけ・しらたき・豆麩などの具材",
+      "朱塗りの小椀で提供されることが多い"
+    ],
+    "tasteAndTexture": [
+      "干し貝柱の上品で深みのあるだしの旨み",
+      "薄口醤油のさっぱりした味つけ",
+      "里芋のほっくりした食感としらたきのぷりぷり感",
+      "豆麩のやわらかい食感"
+    ],
+    "orderAdvice": "会津の伝統の味を体験するなら必食。あっさりした上品なスープが好みなら迷わず注文。",
+    "caution": "大豆（醤油）・こんにゃく（しらたき）・小麦（麩）を含む。",
+    "similarItems": [
+      {
+        "id": "imoni",
+        "name": "芋煮",
+        "difference": "芋煮は里芋と牛肉の醤油仕立て鍋。こづゆは干し貝柱だしの薄味汁物で量は少なく上品"
+      },
+      {
+        "id": "jibuni",
+        "name": "治部煮",
+        "difference": "治部煮は鴨肉に小麦粉をまぶした甘辛の煮物。こづゆは貝柱だしの野菜入り薄味汁物"
+      },
+      {
+        "id": "oden",
+        "name": "おでん",
+        "difference": "おでんは練り物・大根中心のだし仕立て。こづゆは干し貝柱だしの会津伝統汁物で量が少ない"
+      }
+    ],
+    "relatedIds": [
+      "imoni",
+      "jibuni",
+      "oden",
+      "scallop",
+      "shiitake",
+      "boil"
+    ],
+    "tags": [
+      "日本料理",
+      "スープ",
+      "魚介",
+      "野菜",
+      "煮込み",
+      "あっさり",
+      "東北"
+    ],
+    "reverseKeywords": [
+      "こってり派",
+      "肉系スープ",
+      "洋食",
+      "デザート",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "negi-soba",
+    "name": "ねぎそば",
+    "kana": "ねぎそば",
+    "aliases": [
+      "ネギそば",
+      "葱そば"
+    ],
+    "englishName": "Negi Soba",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東北",
+        "country": "日本",
+        "locality": "福島・会津"
+      }
+    ],
+    "summary": "会津地方を代表するそば料理。刻んだ長ねぎをたっぷり乗せたシンプルな蕎麦で、ねぎの辛みと蕎麦の風味が合わさった素朴な一品。",
+    "menuDescription": "盛り蕎麦または温かい蕎麦の上に、白ねぎをたっぷり乗せたシンプルな構成の蕎麦料理。薬味ではなく主役としてねぎを盛り、ねぎの甘さと辛みが蕎麦のだしと絡む。",
+    "whatComesOut": [
+      "盛り蕎麦または温かい蕎麦",
+      "たっぷりの刻みねぎ（白ねぎまたは長ねぎ）",
+      "そばつゆまたはだし"
+    ],
+    "tasteAndTexture": [
+      "蕎麦の香りとコシのある食感",
+      "ねぎの辛みと甘みが口に広がる",
+      "さっぱりとした後味",
+      "シンプルながら素材の旨みが際立つ"
+    ],
+    "orderAdvice": "蕎麦好き・ねぎ好きには迷わずおすすめ。シンプルな素材の組み合わせで食べ飽きない。",
+    "caution": "蕎麦アレルギーの方は不可。小麦を含む場合あり。",
+    "similarItems": [
+      {
+        "id": "hegi-soba",
+        "name": "片木蕎麦",
+        "difference": "へぎそばは布海苔を練り込んだ新潟の蕎麦。ねぎそばはねぎを主役に乗せる会津の蕎麦スタイル"
+      },
+      {
+        "id": "niku-soba",
+        "name": "肉そば",
+        "difference": "肉そばは鶏肉と甘辛だしが特徴。ねぎそばはねぎだけをたっぷり乗せたシンプルスタイル"
+      },
+      {
+        "id": "udon",
+        "name": "うどん",
+        "difference": "うどんは小麦の太麺。ねぎそばは蕎麦粉の麺にねぎをたっぷり乗せた料理"
+      }
+    ],
+    "relatedIds": [
+      "hegi-soba",
+      "niku-soba",
+      "namie-yakisoba",
+      "udon"
+    ],
+    "tags": [
+      "日本料理",
+      "麺料理",
+      "野菜",
+      "あっさり",
+      "東北"
+    ],
+    "reverseKeywords": [
+      "蕎麦アレルギー",
+      "こってり派",
+      "洋食",
+      "デザート",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "radium-tamago",
+    "name": "ラジウム玉子",
+    "kana": "らじうむたまご",
+    "aliases": [
+      "ラジウム卵",
+      "温泉卵（ラジウム）"
+    ],
+    "englishName": "Radium Hot Spring Egg",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東北",
+        "country": "日本",
+        "locality": "福島"
+      }
+    ],
+    "summary": "ラジウム成分を含む温泉水で低温加熱した温泉卵。黄身がとろりと半熟でありながら白身が柔らかく固まった独特の食感が特徴。",
+    "menuDescription": "ラジウム泉（微量の放射性鉱物を含む温泉）の一定温度の湯でゆっくり加熱した温泉卵。白身がふるふるとゼリー状に固まり、黄身がとろりとした特有の食感に仕上がる温泉地の名物。",
+    "whatComesOut": [
+      "殻付きまたは剥いた温泉卵",
+      "だし醤油や塩などのシンプルな調味料",
+      "温泉地のお土産・食事として提供"
+    ],
+    "tasteAndTexture": [
+      "白身がぷるぷるとしたゼリー状の柔らかさ",
+      "黄身はとろりとして濃厚",
+      "温泉水のほのかなミネラル感",
+      "そのまま食べてもだし醤油でも旨い"
+    ],
+    "orderAdvice": "温泉地で食べるなら必食の定番。卵が好きなら外れなし。シンプルな調理だが素材の旨みが際立つ。",
+    "caution": "卵アレルギーの方は不可。",
+    "similarItems": [
+      {
+        "id": "dengaku",
+        "name": "田楽",
+        "difference": "田楽は豆腐や野菜に味噌を塗って焼く料理。ラジウム玉子は温泉で低温加熱した卵"
+      },
+      {
+        "id": "oden",
+        "name": "おでん",
+        "difference": "おでんは練り物・大根などをだしで煮込む鍋料理。ラジウム玉子は温泉水で加熱した卵単体"
+      }
+    ],
+    "relatedIds": [
+      "dengaku",
+      "oden",
+      "boil",
+      "steam"
+    ],
+    "tags": [
+      "日本料理",
+      "卵",
+      "低温調理",
+      "あっさり",
+      "東北"
+    ],
+    "reverseKeywords": [
+      "卵アレルギー",
+      "こってり派",
+      "洋食",
+      "揚げ物",
+      "麺料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/radium-tamago/1.jpg"
+    ]
   }
 ]
