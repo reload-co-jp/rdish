@@ -32885,5 +32885,2749 @@
     "images": [
       "/images/dishes/radium-tamago/1.jpg"
     ]
+  },
+  {
+    "id": "dote-yaki",
+    "name": "どて焼き",
+    "kana": "どてやき",
+    "aliases": [
+      "どて煮",
+      "みそ煮込み"
+    ],
+    "englishName": "Dote-yaki",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "牛すじ肉やモツを白味噌・みりんで長時間煮込んだ大阪の串料理。土手（どて）状に味噌を盛った鍋で煮るのが名前の由来。",
+    "menuDescription": "牛すじやホルモンを白味噌とみりんでじっくり煮込み、甘みと旨みが凝縮した串料理です。とろとろに柔らかくなった肉と濃厚な味噌だれが絡み合います。",
+    "whatComesOut": [
+      "串に刺した牛すじ・こんにゃくなどの具材",
+      "白味噌ベースの濃い煮汁",
+      "薬味（青ねぎ・一味唐辛子など）"
+    ],
+    "tasteAndTexture": [
+      "白味噌の甘みと旨みが凝縮した濃厚な味",
+      "牛すじがとろとろに溶けるほど柔らかい",
+      "こんにゃくや豆腐が煮汁をたっぷり吸う",
+      "一味唐辛子をかけるとピリッとした刺激"
+    ],
+    "orderAdvice": "居酒屋や串焼き屋の定番。こってりした味噌味が好きなら迷わず注文。白ご飯や熱燗との相性も抜群。",
+    "similarItems": [
+      {
+        "id": "oden",
+        "name": "おでん",
+        "difference": "おでんは出汁ベースのあっさりした煮込み。どて焼きは白味噌ベースで甘みとコクが強い"
+      },
+      {
+        "id": "dengaku",
+        "name": "田楽",
+        "difference": "田楽は豆腐などに味噌を塗って焼く。どて焼きは味噌で長時間煮込む"
+      },
+      {
+        "id": "miso-konnyaku",
+        "name": "味噌こんにゃく",
+        "difference": "味噌こんにゃくはこんにゃく単体に味噌だれ。どて焼きは牛すじや複数食材を一緒に煮込む"
+      }
+    ],
+    "relatedIds": [
+      "oden",
+      "dengaku",
+      "miso-konnyaku",
+      "okonomiyaki",
+      "takoyaki"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "煮込み",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "あっさり派",
+      "魚料理",
+      "洋食",
+      "辛い料理",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "kasu-udon",
+    "name": "かすうどん",
+    "kana": "かすうどん",
+    "aliases": [
+      "油かすうどん"
+    ],
+    "englishName": "Kasu Udon",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の小腸を高温の油で揚げて乾燥させた「油かす」を乗せたうどん。かすはだし汁を吸ってジューシーになる大阪南部発祥の麺料理。",
+    "menuDescription": "牛の小腸を揚げて作る「油かす」が主役のうどんです。最初はカリッとした食感が、だし汁を吸ってじわりとジューシーに変化。独特の旨みと香ばしさが楽しめます。",
+    "whatComesOut": [
+      "関西風だし汁のうどん",
+      "油かす（揚げた牛小腸）",
+      "ねぎ・七味唐辛子"
+    ],
+    "tasteAndTexture": [
+      "かすが汁を吸うことで旨みが広がるだし",
+      "牛小腸由来の独特な香ばしさと濃厚な旨み",
+      "最初サクッ、時間が経つとジューシーに変わるかすの食感",
+      "関西風の甘めで上品なつゆ"
+    ],
+    "orderAdvice": "「かす」の風味が独特で好みが分かれる。内臓系の香りが苦手でなければ、大阪ならではの味として試す価値あり。",
+    "caution": "牛の内臓を使用。内臓系が苦手な方は注意。",
+    "similarItems": [
+      {
+        "id": "udon",
+        "name": "うどん",
+        "difference": "通常のうどんはシンプルな具材。かすうどんは油かすという特殊食材が主役"
+      },
+      {
+        "id": "niku-sui",
+        "name": "肉吸い",
+        "difference": "肉吸いは麺なしの牛肉スープ。かすうどんは麺あり・内臓由来のかすを使う"
+      }
+    ],
+    "relatedIds": [
+      "udon",
+      "oden",
+      "okonomiyaki",
+      "takoyaki"
+    ],
+    "tags": [
+      "日本料理",
+      "麺料理",
+      "牛肉",
+      "揚げ物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "内臓が苦手",
+      "あっさり",
+      "洋食",
+      "魚料理",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "niku-sui",
+    "name": "肉吸い",
+    "kana": "にくすい",
+    "englishName": "Niku-sui",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "「肉うどんからうどん抜き」を発祥とする大阪の汁物。薄切り牛肉を昆布・かつおの合わせだしで煮た、うどん抜きの肉スープ。",
+    "menuDescription": "うどんを入れない肉うどんのだし汁に、薄切り牛肉をたっぷり入れた大阪発祥の汁物です。澄んだ黄金色のだしに牛肉の旨みが溶け込み、シンプルながら深みのある味わいです。",
+    "whatComesOut": [
+      "澄んだ関西風だし汁",
+      "薄切り牛肉（すき焼き風）",
+      "九条ねぎ・溶き卵（店によって異なる）"
+    ],
+    "tasteAndTexture": [
+      "昆布とかつおの合わせだしに牛肉の旨みが加わった深いコク",
+      "薄切り牛肉のやわらかくジューシーな食感",
+      "甘みのある醤油ベースの関西風つゆ",
+      "炭水化物なしで肉の旨みだけを堪能できる"
+    ],
+    "orderAdvice": "うどんを食べたくないが肉と出汁を楽しみたいときに最適。二日酔いや食欲がないときにも好まれる大阪の定番。小腹が空いたときに卵かけご飯と合わせる食べ方も有名。",
+    "similarItems": [
+      {
+        "id": "udon",
+        "name": "うどん（肉うどん）",
+        "difference": "肉うどんはうどんあり。肉吸いはうどんなしで肉とだしに集中する"
+      },
+      {
+        "id": "kasu-udon",
+        "name": "かすうどん",
+        "difference": "かすうどんは麺あり・油かす使用。肉吸いは麺なし・薄切り牛肉使用"
+      },
+      {
+        "id": "oden",
+        "name": "おでん",
+        "difference": "おでんは多種の具材を煮込む。肉吸いは牛肉主体の澄んだスープ"
+      }
+    ],
+    "relatedIds": [
+      "udon",
+      "kasu-udon",
+      "oden",
+      "dote-yaki"
+    ],
+    "tags": [
+      "日本料理",
+      "スープ",
+      "牛肉",
+      "あっさり",
+      "煮込み"
+    ],
+    "reverseKeywords": [
+      "炭水化物が食べたい",
+      "洋食",
+      "揚げ物",
+      "辛い料理",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "negiyaki",
+    "name": "ねぎ焼き",
+    "kana": "ねぎやき",
+    "englishName": "Negiyaki",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "お好み焼きの生地にたっぷりの青ねぎと牛すじを混ぜ込んで薄く焼いた大阪発祥の鉄板料理。お好み焼きより薄くクレープ状に仕上げる。",
+    "menuDescription": "青ねぎをたっぷり使い、牛すじと合わせた生地を薄く伸ばして焼き上げた鉄板料理です。ねぎの甘みと香り、牛すじのコクが一体になった大阪ならではの味わいです。",
+    "whatComesOut": [
+      "薄く焼いたねぎたっぷりの鉄板料理",
+      "ソース・かつお節・青のり",
+      "折りたたんだ状態で提供されることが多い"
+    ],
+    "tasteAndTexture": [
+      "青ねぎの甘みと香りが全体を包む",
+      "お好み焼きより薄くモチッとした食感",
+      "牛すじのゼラチン質がコクを加える",
+      "ソースとかつお節の香ばしさ"
+    ],
+    "orderAdvice": "お好み焼きが好きならほぼ確実に気に入る。ねぎの風味が強いのでねぎ嫌いは注意。",
+    "similarItems": [
+      {
+        "id": "okonomiyaki",
+        "name": "お好み焼き",
+        "difference": "お好み焼きは厚みがあり多種の具材。ねぎ焼きはねぎ主役で薄く仕上げる"
+      },
+      {
+        "id": "monjayaki",
+        "name": "もんじゃ焼き",
+        "difference": "もんじゃは水分多くトロトロ。ねぎ焼きは薄く焼き上げた固形"
+      }
+    ],
+    "relatedIds": [
+      "okonomiyaki",
+      "monjayaki",
+      "takoyaki",
+      "dote-yaki"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "野菜",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ねぎ嫌い",
+      "洋食",
+      "あっさり",
+      "魚料理",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/negiyaki/1.jpg"
+    ]
+  },
+  {
+    "id": "ikayaki",
+    "name": "いか焼き",
+    "kana": "いかやき",
+    "aliases": [
+      "烏賊焼き"
+    ],
+    "englishName": "Ikayaki",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "大阪では小麦粉生地にイカを混ぜ込んで薄く焼いた鉄板料理を指す（全国的にはイカ丸ごとを焼いた串焼きも同名）。阪神百貨店の名物として有名。",
+    "menuDescription": "小麦粉を溶いた生地にイカの切り身を混ぜ込み、鉄板で薄く焼き上げた大阪名物の軽食です。ソースを塗ってシンプルに仕上げ、イカの旨みと香ばしい焼き目が楽しめます。",
+    "whatComesOut": [
+      "薄く焼いた小判形の鉄板料理",
+      "ソース塗り（マヨネーズ追加も可）",
+      "紙やアルミで包んで手渡し提供が多い"
+    ],
+    "tasteAndTexture": [
+      "イカの旨みと歯ごたえが生地全体に広がる",
+      "外はカリッと内はモチッとした食感",
+      "ソースの甘辛さとイカの風味のバランス",
+      "シンプルで食べやすい軽食感"
+    ],
+    "orderAdvice": "阪神梅田本店など関西の商業施設で売られる立ち食い軽食。イカが好きなら試す価値あり。食べ歩きに向く。",
+    "similarItems": [
+      {
+        "id": "okonomiyaki",
+        "name": "お好み焼き",
+        "difference": "お好み焼きは多種具材で厚め。いか焼きはイカ特化で薄く軽食サイズ"
+      },
+      {
+        "id": "takoyaki",
+        "name": "たこ焼き",
+        "difference": "たこ焼きは球形でタコ使用。いか焼きは平らな鉄板焼きでイカ使用"
+      }
+    ],
+    "relatedIds": [
+      "okonomiyaki",
+      "takoyaki",
+      "negiyaki",
+      "monjayaki"
+    ],
+    "tags": [
+      "日本料理",
+      "軽食",
+      "魚介",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "洋食",
+      "こってり",
+      "辛い料理",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ikayaki/1.jpg",
+      "/images/dishes/ikayaki/2.jpg",
+      "/images/dishes/ikayaki/3.jpg"
+    ]
+  },
+  {
+    "id": "horumon-yaki",
+    "name": "ホルモン焼き",
+    "kana": "ほるもんやき",
+    "aliases": [
+      "もつ焼き",
+      "ホルモン"
+    ],
+    "englishName": "Horumon-yaki",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛・豚の内臓（ホルモン）を炭火やガス火で焼く料理。大阪発祥とされ、シマチョウ・マルチョウ・ハツなど部位ごとに異なる食感と風味が楽しめる。",
+    "menuDescription": "牛や豚の内臓各部位を炭火で焼き上げたホルモン料理です。脂の甘みと独特の旨み、部位ごとに変わる食感が特徴。タレや塩でシンプルに味わいます。",
+    "whatComesOut": [
+      "各部位のホルモン（シマチョウ・マルチョウ・ハツ等）",
+      "タレまたは塩の味付け",
+      "网(あみ)や鉄板での卓上焼き"
+    ],
+    "tasteAndTexture": [
+      "部位によって大きく異なる食感（コリコリ・プリプリ・もっちり）",
+      "脂の甘みと内臓特有の濃厚な旨み",
+      "炭火の香ばしい焼き目が加わる",
+      "タレは甘辛・塩はシンプルに旨みが際立つ"
+    ],
+    "orderAdvice": "内臓系の風味が苦手でなければ焼肉の中でもコスパ最高クラス。シマチョウ（大腸）は脂が多くジューシー、ハツ（心臓）はクセが少なく初心者向け。",
+    "caution": "牛・豚の内臓使用。内臓系が苦手な方は注意。",
+    "similarItems": [
+      {
+        "id": "dote-yaki",
+        "name": "どて焼き",
+        "difference": "どて焼きは白味噌で煮込む。ホルモン焼きは炭火で焼く"
+      },
+      {
+        "id": "yakitori",
+        "name": "焼き鳥",
+        "difference": "焼き鳥は鶏肉・鶏内臓が中心。ホルモン焼きは牛・豚の内臓が主役"
+      },
+      {
+        "id": "kasu-udon",
+        "name": "かすうどん",
+        "difference": "かすうどんは牛小腸を揚げてうどんに乗せる。ホルモン焼きは直火焼き"
+      }
+    ],
+    "relatedIds": [
+      "yakitori",
+      "dote-yaki",
+      "kasu-udon",
+      "okonomiyaki"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "豚肉",
+      "グリル",
+      "こってり",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "内臓が苦手",
+      "あっさり",
+      "洋食",
+      "魚料理",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "tessa",
+    "name": "てっさ",
+    "kana": "てっさ",
+    "aliases": [
+      "ふぐ刺し",
+      "河豚刺し"
+    ],
+    "englishName": "Tessa",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "フグの身を薄く引いた刺身。「てっ」はフグの隠語（鉄砲＝当たると死ぬ）、「さ」は刺身の略。透き通るほど薄く切り、皿の柄が透けて見えるのが特徴。",
+    "menuDescription": "フグの白身を紙のように薄く引いた刺身です。淡白ながら噛むほどに旨みが増す上品な味わいで、ポン酢ともみじおろしでいただきます。皿が透けて見えるほどの薄切りは職人技の象徴です。",
+    "whatComesOut": [
+      "菊花状に盛り付けられた薄切りフグ刺し",
+      "ポン酢・もみじおろし・細ねぎ",
+      "フグの皮の湯引き（ともかわ）が付く場合も"
+    ],
+    "tasteAndTexture": [
+      "淡白でありながら噛むほどに広がる上品な旨み",
+      "コリコリとした独特の弾力ある食感",
+      "ポン酢の酸味ともみじおろしの辛みが引き立てる",
+      "薄切りゆえに一枚ずつの風味は繊細"
+    ],
+    "orderAdvice": "ふぐ料理の代名詞。高級食材だが一度は食べる価値あり。刺身が好きでシンプルな旨みを楽しみたい人向け。",
+    "caution": "フグは処理に免許が必要。専門店でのみ提供。",
+    "similarItems": [
+      {
+        "id": "carpaccio",
+        "name": "カルパッチョ",
+        "difference": "カルパッチョは薄切り肉・魚にドレッシング。てっさはポン酢でシンプルに"
+      },
+      {
+        "id": "tartare",
+        "name": "タルタル",
+        "difference": "タルタルは叩いた生肉。てっさは薄切り白身魚の刺身"
+      }
+    ],
+    "relatedIds": [
+      "tetchiri",
+      "carpaccio",
+      "ikanago"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "魚介",
+      "生食",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "生魚が苦手",
+      "こってり",
+      "肉料理",
+      "辛い料理",
+      "洋食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tessa/1.jpg",
+      "/images/dishes/tessa/2.jpg"
+    ]
+  },
+  {
+    "id": "tetchiri",
+    "name": "てっちり",
+    "kana": "てっちり",
+    "aliases": [
+      "ふぐ鍋",
+      "河豚鍋"
+    ],
+    "englishName": "Tetchiri",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "フグを使った鍋料理。「てっ」はフグの隠語、「ちり」は野菜や豆腐と一緒に水炊きにする調理法を指す。フグから出る上品な出汁が鍋全体に広がる。",
+    "menuDescription": "フグの切り身・皮・白子などを昆布だしで炊いた鍋料理です。フグから溶け出す繊細な旨みが野菜・豆腐・きのこに染み渡り、食べ終わった後の雑炊も絶品です。",
+    "whatComesOut": [
+      "フグの切り身・皮・アラ",
+      "白菜・春菊・豆腐・えのき等の野菜",
+      "ポン酢・もみじおろし・細ねぎ",
+      "締めの雑炊（別料金の場合あり）"
+    ],
+    "tasteAndTexture": [
+      "フグ由来の透明感ある上品な出汁",
+      "フグ身のプリプリとした食感",
+      "皮のコラーゲン質なとろみ",
+      "ポン酢で食べると爽やかにまとまる"
+    ],
+    "orderAdvice": "フグのコースでてっさとセットで出ることが多い。雑炊まで食べると満足感が高い。寒い季節に特に向く。",
+    "caution": "フグは処理に免許が必要。専門店でのみ提供。",
+    "similarItems": [
+      {
+        "id": "tessa",
+        "name": "てっさ",
+        "difference": "てっさは刺身。てっちりは鍋料理"
+      },
+      {
+        "id": "oden",
+        "name": "おでん",
+        "difference": "おでんは醤油ベースの煮込み。てっちりはフグの澄んだ水炊き"
+      },
+      {
+        "id": "niku-sui",
+        "name": "肉吸い",
+        "difference": "肉吸いは牛肉のすまし汁。てっちりはフグを主役にした鍋"
+      }
+    ],
+    "relatedIds": [
+      "tessa",
+      "oden",
+      "niku-sui",
+      "jibuni"
+    ],
+    "tags": [
+      "日本料理",
+      "鍋料理",
+      "魚介",
+      "あっさり",
+      "煮込み"
+    ],
+    "reverseKeywords": [
+      "生魚が苦手",
+      "こってり",
+      "肉料理",
+      "洋食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "bara-zushi",
+    "name": "ばらすし",
+    "kana": "ばらずし",
+    "aliases": [
+      "ばらずし",
+      "ちらしずし",
+      "散らし寿司"
+    ],
+    "englishName": "Bara-zushi",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "酢飯の上に魚介・錦糸卵・野菜などの具材をばら（散らし）と盛り付けた関西の寿司。具材を酢飯に混ぜ込む場合と上に並べる場合がある。",
+    "menuDescription": "甘みのある関西風酢飯の上に、海老・イカ・穴子・椎茸・錦糸卵などの具材を彩りよく散らした寿司です。見た目も華やかで、具材それぞれの味が一度に楽しめます。",
+    "whatComesOut": [
+      "関西風甘みのある酢飯",
+      "海老・イカ・穴子・卵焼き・しいたけ等の具材",
+      "三つ葉・紅しょうが・海苔の飾り"
+    ],
+    "tasteAndTexture": [
+      "甘みのある関西風酢飯のまろやかな酸味",
+      "多彩な具材それぞれの食感と旨み",
+      "錦糸卵の甘みと魚介の旨みのハーモニー",
+      "彩りよく盛り付けられた華やかさ"
+    ],
+    "orderAdvice": "祝いの席や特別な日の定番。具材が多く様々な味が楽しめるので、寿司ネタの好みが分かれる家族連れにも向く。",
+    "similarItems": [
+      {
+        "id": "battera",
+        "name": "ばってら",
+        "difference": "ばってらは鯖を押し固めた押し寿司。ばらすしは具材を散らした盛り寿司"
+      }
+    ],
+    "relatedIds": [
+      "battera",
+      "shippoku-udon",
+      "oden"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "魚介",
+      "米",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "酢が苦手",
+      "肉料理",
+      "洋食",
+      "こってり",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bara-zushi/1.jpg"
+    ]
+  },
+  {
+    "id": "battera",
+    "name": "ばってら",
+    "kana": "ばってら",
+    "aliases": [
+      "鯖寿司",
+      "押し寿司"
+    ],
+    "englishName": "Battera",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "酢で締めた鯖を酢飯の上に乗せ木型で押し固めた大阪発祥の押し寿司。名前はポルトガル語の「bateira（小船）」に由来し、形が小舟に似ていることから。",
+    "menuDescription": "酢で締めた肉厚の鯖と甘みのある酢飯を昆布で挟み、木型でしっかり押し固めた大阪の伝統的な押し寿司です。鯖の旨みと酢飯の酸味、昆布の風味が一体になった濃厚な味わいです。",
+    "whatComesOut": [
+      "切り分けられたばってら（数切れ）",
+      "ガリ（甘酢生姜）",
+      "醤油（別添えの場合あり）"
+    ],
+    "tasteAndTexture": [
+      "酢で締めた鯖の凝縮した旨みと適度な酸味",
+      "しっかり押されてほどよく固まった酢飯",
+      "昆布の旨みが鯖と酢飯に染み渡る",
+      "食べごたえのあるしっかりした構造"
+    ],
+    "orderAdvice": "鯖が好きなら大阪に来たら必食。コンビニや駅弁でも買えるが専門店のものは格別。鯖の生臭みが苦手な人は注意。",
+    "caution": "鯖アレルギーに注意。青魚が苦手な方は向かない。",
+    "similarItems": [
+      {
+        "id": "bara-zushi",
+        "name": "ばらすし",
+        "difference": "ばらすしは具材を散らした盛り寿司。ばってらは鯖一種を押し固めた押し寿司"
+      }
+    ],
+    "relatedIds": [
+      "bara-zushi",
+      "ikanago",
+      "kabayaki"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "魚介",
+      "米",
+      "あっさり",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "青魚が苦手",
+      "酢が苦手",
+      "肉料理",
+      "洋食",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "hari-hari-nabe",
+    "name": "ハリハリ鍋",
+    "kana": "はりはりなべ",
+    "englishName": "Hari-hari Nabe",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "水菜と鯨肉（現在は牛肉・豚肉も使用）を昆布だしで煮る大阪の伝統的な鍋料理。「ハリハリ」は水菜をかじったときのシャキシャキした音から。",
+    "menuDescription": "たっぷりの水菜と薄切り肉を昆布だしの鍋で煮ていただく、大阪の冬の定番鍋料理です。水菜のシャキッとした食感が鍋の中でも保たれ、ポン酢でさっぱりいただきます。",
+    "whatComesOut": [
+      "大量の水菜と薄切り肉（牛・豚・鯨）",
+      "昆布だしの鍋",
+      "ポン酢・もみじおろし・薬味",
+      "締めの雑炊または麺（別途注文）"
+    ],
+    "tasteAndTexture": [
+      "昆布だしのシンプルで上品な旨み",
+      "水菜のシャキシャキとした独特の食感",
+      "肉の旨みがだしに溶け出して深みが増す",
+      "ポン酢の酸味がさっぱり締める"
+    ],
+    "orderAdvice": "水菜が嫌いでなければ冬に食べたい鍋の一択。あっさりしているのでたくさん食べられる。鯨肉バージョンがあれば希少体験。",
+    "similarItems": [
+      {
+        "id": "tetchiri",
+        "name": "てっちり",
+        "difference": "てっちりはフグ主役の高級鍋。ハリハリ鍋は水菜主役のあっさり大衆鍋"
+      },
+      {
+        "id": "oden",
+        "name": "おでん",
+        "difference": "おでんは醤油ベースで具材を長時間煮込む。ハリハリ鍋は昆布だしで野菜をシャキッと煮る"
+      }
+    ],
+    "relatedIds": [
+      "tetchiri",
+      "oden",
+      "niku-sui",
+      "dote-yaki"
+    ],
+    "tags": [
+      "日本料理",
+      "鍋料理",
+      "野菜",
+      "牛肉",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "野菜が嫌い",
+      "こってり",
+      "洋食",
+      "揚げ物",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "akaneko",
+    "name": "あかねこ",
+    "kana": "あかねこ",
+    "aliases": [
+      "赤猫"
+    ],
+    "englishName": "Akaneko",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "大阪・難波周辺で親しまれてきた鶏の赤みそ煮込み料理。「あか」は赤みそ、「ねこ」は鶏肉の隠語（猫が好む食材）とする説があり、庶民の居酒屋文化から生まれた。",
+    "menuDescription": "鶏肉を赤みそとみりんでじっくり煮込んだ大阪の居酒屋料理です。白みそを使うどて焼きと対をなす存在で、赤みそのコクと鶏肉の旨みが合わさった濃厚な味わいです。",
+    "whatComesOut": [
+      "赤みそで煮込んだ鶏肉（手羽先・もも肉等）",
+      "煮汁を絡めた状態で提供",
+      "青ねぎ・一味唐辛子"
+    ],
+    "tasteAndTexture": [
+      "赤みその深いコクと旨みが染み込んだ鶏肉",
+      "骨付き部位は特にトロッと柔らかい",
+      "甘辛い煮汁がご飯に合う濃厚さ",
+      "一味をかけると辛みがアクセントに"
+    ],
+    "orderAdvice": "どて焼きが好きなら間違いない。赤みそが白みその代わりに使われる鶏版どて焼きのイメージ。居酒屋でのつまみに最適。",
+    "similarItems": [
+      {
+        "id": "dote-yaki",
+        "name": "どて焼き",
+        "difference": "どて焼きは白みそ・牛すじ。あかねこは赤みそ・鶏肉"
+      },
+      {
+        "id": "yakitori",
+        "name": "焼き鳥",
+        "difference": "焼き鳥は炭火焼き。あかねこは赤みそで煮込む"
+      }
+    ],
+    "relatedIds": [
+      "dote-yaki",
+      "yakitori",
+      "oden",
+      "miso-konnyaku"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "鶏肉",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "あっさり派",
+      "洋食",
+      "魚料理",
+      "辛い料理",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "hansuke-dofu",
+    "name": "半助豆腐",
+    "kana": "はんすけどうふ",
+    "aliases": [
+      "半助"
+    ],
+    "englishName": "Hansuke-dofu",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "鰻の頭部や安価な部位（半助）と豆腐を出汁・醤油・みりんで炊いた大阪の煮物料理。鰻専門店が出した安い端切れを使った庶民の知恵から生まれた節約料理。",
+    "menuDescription": "鰻の頭や小骨がついた部位（半助）から出るエキスが豆腐に染み渡った、大阪らしい滋味深い煮物です。鰻の旨みを凝縮したコクのある出汁が豆腐の味をぐっと引き立てます。",
+    "whatComesOut": [
+      "鰻の半助と豆腐の煮物",
+      "出汁がたっぷり含まれた豆腐",
+      "山椒・青ねぎの薬味"
+    ],
+    "tasteAndTexture": [
+      "鰻のエキスが染み込んだ豆腐の深い旨み",
+      "滑らかな豆腐と鰻の身のほぐれる食感",
+      "醤油とみりんの甘辛い出汁のコク",
+      "山椒の香りが鰻の旨みを引き立てる"
+    ],
+    "orderAdvice": "鰻が好きで出汁の旨みを楽しみたい人に最適。見た目は地味だが豆腐に染みた鰻のエキスが絶品。大阪の老舗や割烹での一品料理として注目。",
+    "similarItems": [
+      {
+        "id": "dengaku",
+        "name": "田楽",
+        "difference": "田楽は豆腐に味噌を塗って焼く。半助豆腐は鰻と豆腐を出汁で炊く"
+      },
+      {
+        "id": "kabayaki",
+        "name": "蒲焼き",
+        "difference": "蒲焼きは鰻の主役部位を焼く高級料理。半助豆腐は端材を豆腐と炊く庶民料理"
+      },
+      {
+        "id": "oden",
+        "name": "おでん",
+        "difference": "おでんは多種具材の煮込み。半助豆腐は鰻と豆腐に特化した旨みの煮物"
+      }
+    ],
+    "relatedIds": [
+      "kabayaki",
+      "dengaku",
+      "oden",
+      "dote-yaki",
+      "tetchiri"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "鰻が苦手",
+      "洋食",
+      "こってり",
+      "揚げ物",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "gaccho",
+    "name": "がっちょ",
+    "kana": "がっちょ",
+    "aliases": [
+      "メゴチ",
+      "ネズッポ",
+      "テンプラゴチ"
+    ],
+    "englishName": "Gaccho",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "大阪湾で獲れる小型の平べったい魚（ネズッポ科）を天ぷらにした大阪の郷土料理。「がっちょ」は大阪弁での呼び名で、江戸前天ぷらのメゴチに相当する。",
+    "menuDescription": "大阪湾産の小型底魚「がっちょ」を丸ごと天ぷらにした大阪の旬の一品です。身は淡白で上品な甘みがあり、骨まで食べられるほどサクッと揚げた軽い仕上がりが特徴です。",
+    "whatComesOut": [
+      "がっちょの天ぷら（数尾）",
+      "天つゆまたは塩",
+      "大根おろし・すだち"
+    ],
+    "tasteAndTexture": [
+      "淡白で上品な甘みの白身",
+      "衣がサクッと軽く揚がった食感",
+      "小骨まで食べられるほど骨が柔らかい",
+      "素材の旨みを活かしたシンプルな味わい"
+    ],
+    "orderAdvice": "大阪の鮮魚店や天ぷら屋で旬（春〜夏）に出る地魚。珍しい体験を求めるなら注文価値あり。白身天ぷら好きには間違いない。",
+    "similarItems": [
+      {
+        "id": "tessa",
+        "name": "てっさ",
+        "difference": "てっさは生食のフグ刺し。がっちょは揚げた小型地魚の天ぷら"
+      },
+      {
+        "id": "ikayaki",
+        "name": "いか焼き",
+        "difference": "いか焼きはイカを鉄板で焼く。がっちょは魚を丸ごと揚げる"
+      }
+    ],
+    "relatedIds": [
+      "tessa",
+      "ikanago",
+      "ikayaki",
+      "kabayaki"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "魚介",
+      "揚げ物",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "肉料理",
+      "洋食",
+      "こってり",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "senba-jiru",
+    "name": "船場汁",
+    "kana": "せんばじる",
+    "aliases": [
+      "船場スープ"
+    ],
+    "englishName": "Senba-jiru",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "大阪の商人の町・船場で生まれた塩鮭のアラと大根を使ったすまし汁。「始末の料理」精神の代表格で、鮭の頭や骨から取った旨みの深い澄んだ汁物。",
+    "menuDescription": "塩鮭のアラ（頭・骨・皮）と大根を昆布だしで煮た、大阪船場発祥の澄んだ汁物です。余すところなく食材を使い切る「始末」の精神から生まれた、旨みの凝縮したシンプルなスープです。",
+    "whatComesOut": [
+      "透き通った澄んだ汁",
+      "塩鮭のアラ（骨付き）と大根",
+      "三つ葉・ゆずの香り"
+    ],
+    "tasteAndTexture": [
+      "塩鮭と昆布が合わさった深みのある旨み",
+      "塩気と旨みのバランスが整った繊細な澄んだ味",
+      "大根が汁を吸って柔らかくなった食感",
+      "ゆずや三つ葉の香りが品を添える"
+    ],
+    "orderAdvice": "大阪の料理屋や和食店で提供される上品な汁物。派手さはないが滋味深い味。日本料理のエッセンスを体験したい人向け。",
+    "similarItems": [
+      {
+        "id": "niku-sui",
+        "name": "肉吸い",
+        "difference": "肉吸いは牛肉のすまし汁。船場汁は塩鮭のアラを使った澄んだ汁物"
+      },
+      {
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは乾物を使った福島の汁物。船場汁は生鮭のアラを使う大阪の澄まし汁"
+      }
+    ],
+    "relatedIds": [
+      "niku-sui",
+      "oden",
+      "tetchiri",
+      "jibuni"
+    ],
+    "tags": [
+      "日本料理",
+      "スープ",
+      "魚介",
+      "あっさり",
+      "煮込み"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "こってり",
+      "肉料理",
+      "洋食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "renkon-mochi",
+    "name": "蓮根餅",
+    "kana": "れんこんもち",
+    "aliases": [
+      "れんこん餅",
+      "蓮根もち"
+    ],
+    "englishName": "Renkon-mochi",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "すりおろした蓮根を小判形に成形して焼いた大阪・京都の伝統料理。蓮根自体のでんぷんでつなぎ不要で、外はカリッと内はもちもちした独特の食感が特徴。",
+    "menuDescription": "蓮根をすりおろして丸め、ごま油で香ばしく焼き上げた和の料理です。外側のカリッとした焼き目と、内側のもちもちした食感のコントラストが楽しく、あんかけや甘醤油でいただきます。",
+    "whatComesOut": [
+      "小判形の蓮根餅（2〜3個）",
+      "あんかけソースまたは甘醤油",
+      "生姜おろし・青ねぎ"
+    ],
+    "tasteAndTexture": [
+      "外側カリッと、内側はもちもちした食感のコントラスト",
+      "蓮根本来の淡白な甘みとほのかな土の香り",
+      "ごま油の香ばしさが食欲をそそる",
+      "あんかけの優しい甘みと生姜の辛みが合わさる"
+    ],
+    "orderAdvice": "蓮根が好きなら必食。もちもちした食感が珍しく、和食初心者にも食べやすい。精進料理としても人気。",
+    "similarItems": [
+      {
+        "id": "dengaku",
+        "name": "田楽",
+        "difference": "田楽は豆腐や野菜に味噌を塗って焼く。蓮根餅は蓮根だけで成形して焼く"
+      },
+      {
+        "id": "miso-konnyaku",
+        "name": "味噌こんにゃく",
+        "difference": "味噌こんにゃくはこんにゃく主役。蓮根餅は蓮根のでんぷんを活かした餅状料理"
+      }
+    ],
+    "relatedIds": [
+      "dengaku",
+      "miso-konnyaku",
+      "oden",
+      "jibuni"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "焼き物",
+      "あっさり",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "肉料理",
+      "洋食",
+      "こってり",
+      "揚げ物",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "odamaki-mushi",
+    "name": "小田巻き蒸し",
+    "kana": "おだまきむし",
+    "aliases": [
+      "小田巻蒸し",
+      "おだまき蒸し"
+    ],
+    "englishName": "Odamaki-mushi",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "茶碗蒸しの中にうどんを入れた大阪の蒸し料理。「小田巻き」とはうどんが糸巻き（苧環）に似た形に巻かれて入ることから。出汁の旨みが染みた茶碗蒸しとうどんが一体になる。",
+    "menuDescription": "茶碗蒸しの中にうどんを忍ばせた大阪の伝統的な蒸し料理です。昆布とかつおの合わせ出汁が効いた玉子液がうどんに染み渡り、一品でうどんと茶碗蒸しの両方が楽しめます。",
+    "whatComesOut": [
+      "うどんが入った大きめの茶碗蒸し",
+      "海老・鶏肉・三つ葉・銀杏等の具材",
+      "あんかけ（とろみのある出汁）"
+    ],
+    "tasteAndTexture": [
+      "出汁の旨みを吸い込んだうどんのもちもち食感",
+      "なめらかでふわっとした茶碗蒸しの玉子",
+      "あんかけの優しいとろみが全体をまとめる",
+      "一品で茶碗蒸しとうどんの両方を満足できる"
+    ],
+    "orderAdvice": "茶碗蒸しとうどんが両方好きなら大当たり。寒い季節に特に嬉しい体が温まる一品。関西の料亭や老舗うどん店で出会える。",
+    "similarItems": [
+      {
+        "id": "udon",
+        "name": "うどん",
+        "difference": "うどんは麺料理。小田巻き蒸しはうどんを茶碗蒸しに組み込んだ蒸し料理"
+      },
+      {
+        "id": "shippoku-udon",
+        "name": "卓袱饂飩",
+        "difference": "卓袱うどんは精進料理系の鍋。小田巻き蒸しは茶碗蒸しにうどんを入れた蒸し料理"
+      }
+    ],
+    "relatedIds": [
+      "udon",
+      "shippoku-udon",
+      "jibuni",
+      "oden"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "卵",
+      "小麦",
+      "蒸し料理",
+      "あっさり",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "卵アレルギー",
+      "肉料理",
+      "洋食",
+      "こってり",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "hamo-nabe",
+    "name": "鱧鍋",
+    "kana": "はもなべ",
+    "aliases": [
+      "はも鍋",
+      "鱧しゃぶ"
+    ],
+    "englishName": "Hamo-nabe",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "ハモ（鱧）を昆布だしの鍋でしゃぶしゃぶ・水炊きにした夏の高級鍋料理。小骨が多い鱧を特殊な骨切り技術で処理し、ふわっとした食感に仕上げる関西の夏の風物詩。",
+    "menuDescription": "骨切りした鱧の切り身を昆布だしの鍋でさっとしゃぶしゃぶしていただく、夏の風物詩となった高級鍋料理です。ふわっとした食感と上品な旨みが特徴で、梅肉ポン酢でさっぱりといただきます。",
+    "whatComesOut": [
+      "骨切りした鱧の切り身",
+      "昆布だしの鍋（水菜・豆腐・松茸等）",
+      "梅肉ポン酢・もみじおろし",
+      "締めの雑炊"
+    ],
+    "tasteAndTexture": [
+      "ふわっと広がる上品な白身の旨み",
+      "骨切りにより滑らかで食べやすい食感",
+      "梅肉の酸味がさっぱり引き立てる",
+      "夏の高級食材ならではの繊細な味わい"
+    ],
+    "orderAdvice": "夏（6〜8月）の旬の時期に食べるのがベスト。小骨の多い魚だが骨切りされているので食べやすい。梅肉との組み合わせは絶品。鱧料理初体験なら鱧鍋が入門に向く。",
+    "similarItems": [
+      {
+        "id": "tetchiri",
+        "name": "てっちり",
+        "difference": "てっちりは冬のフグ鍋。鱧鍋は夏の鱧鍋で季節が対照的"
+      },
+      {
+        "id": "hari-hari-nabe",
+        "name": "ハリハリ鍋",
+        "difference": "ハリハリ鍋は水菜が主役の大衆鍋。鱧鍋は鱧が主役の高級夏鍋"
+      }
+    ],
+    "relatedIds": [
+      "tetchiri",
+      "hari-hari-nabe",
+      "tessa",
+      "hansuke-dofu"
+    ],
+    "tags": [
+      "日本料理",
+      "鍋料理",
+      "魚介",
+      "蒸し料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "こってり",
+      "肉料理",
+      "洋食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "zuiki",
+    "name": "ずいき",
+    "kana": "ずいき",
+    "aliases": [
+      "芋茎",
+      "いもがら",
+      "干しずいき"
+    ],
+    "englishName": "Zuiki",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "里芋の葉柄（茎部分）を使った関西の伝統的な食材・料理。生のずいきを酢の物や煮物にしたり、乾燥させた干しずいきを炊いたりする。京都・大阪で古くから食べられてきた野菜。",
+    "menuDescription": "里芋の茎（ずいき）を甘酢や出汁醤油で仕立てた関西の伝統食です。シャキシャキとした独特の食感と、酢の物にしたときの爽やかな酸味が特徴で、精進料理や家庭料理として親しまれてきました。",
+    "whatComesOut": [
+      "ずいきの酢の物または煮物（小鉢）",
+      "白ごま・三つ葉の飾り",
+      "甘酢ソースまたは出汁醤油"
+    ],
+    "tasteAndTexture": [
+      "シャキシャキとした軽い食感",
+      "甘酢仕立てで爽やかな酸味と甘み",
+      "里芋の茎特有のほのかなえぐみ（下処理で軽減）",
+      "淡白で胃に優しいあっさりした味わい"
+    ],
+    "orderAdvice": "あまり知られていない伝統野菜料理。和食好きや食文化に興味がある人は試してみる価値あり。酢の物として夏に食べるのが定番。",
+    "similarItems": [
+      {
+        "id": "dengaku",
+        "name": "田楽",
+        "difference": "田楽は根菜に味噌を塗って焼く。ずいきは里芋の茎を酢の物や煮物にする"
+      },
+      {
+        "id": "gouko-gouko",
+        "name": "ごうこごうこ",
+        "difference": "ごうこごうこはごぼう主役の炒め煮。ずいきは里芋の茎を使った酢の物系"
+      }
+    ],
+    "relatedIds": [
+      "dengaku",
+      "miso-konnyaku",
+      "jibuni"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "あっさり",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "肉料理",
+      "洋食",
+      "こってり",
+      "辛い料理",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/zuiki/1.jpg",
+      "/images/dishes/zuiki/2.jpg"
+    ]
+  },
+  {
+    "id": "osaka-zuke",
+    "name": "大阪漬",
+    "kana": "おおさかづけ",
+    "aliases": [
+      "大阪漬け",
+      "なにわ漬"
+    ],
+    "englishName": "Osaka-zuke",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "大根・きゅうり・なすなどの野菜を塩・酢・みりんで漬け込んだ大阪の郷土漬物。甘みが強く酸味が穏やかなのが特徴で、大阪の商人文化とともに発展してきた。",
+    "menuDescription": "大阪の老舗漬物店が手がける伝統的な浅漬けです。甘みを活かした関西風の漬け地に、季節の野菜をさっぱりと漬け込みました。ご飯のお供として、また箸休めとして重宝する一品です。",
+    "whatComesOut": [
+      "大根・きゅうり・なす等の切り漬け物",
+      "小皿に数種類盛り合わせて提供",
+      "白ごま・昆布など"
+    ],
+    "tasteAndTexture": [
+      "甘みが前面に出た関西風の穏やかな味付け",
+      "野菜のパリパリとした食感が残る浅漬け",
+      "塩気が控えめで昆布の旨みが効いている",
+      "後味がさっぱりして口をリセットする"
+    ],
+    "orderAdvice": "定食や和食コースの箸休めとして提供されることが多い。大阪の漬物文化を感じたいなら黒門市場や老舗漬物店で購入を。",
+    "similarItems": [
+      {
+        "id": "gouko-gouko",
+        "name": "ごうこごうこ",
+        "difference": "ごうこごうこはごぼうの炒め煮。大阪漬は野菜を甘酢で漬け込んだ漬物"
+      },
+      {
+        "id": "zuiki",
+        "name": "ずいき",
+        "difference": "ずいきは里芋の茎の酢の物。大阪漬は複数野菜の甘味噌・塩漬け"
+      }
+    ],
+    "relatedIds": [
+      "zuiki",
+      "oden",
+      "bara-zushi"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "発酵",
+      "あっさり",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "漬物が苦手",
+      "肉料理",
+      "洋食",
+      "こってり",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "jako-gouko",
+    "name": "じゃこごうこ",
+    "kana": "じゃこごうこ",
+    "aliases": [
+      "じゃこごぼう",
+      "ちりめんごぼう"
+    ],
+    "englishName": "Jako-Gouko",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "ちりめんじゃこ（小魚の乾燥品）とごぼう（関西方言でごうこ）をごま油で炒め、醤油・みりん・ごまで仕上げたきんぴら風の関西定番副菜。",
+    "menuDescription": "関西で「ごうこ」と呼ぶごぼうと、ちりめんじゃこをごま油で炒め合わせた副菜です。じゃこの旨みと塩気がごぼうの土の香りと合わさり、ご飯に合う深みのある味わいに仕上がります。",
+    "whatComesOut": [
+      "ごぼうとじゃこのきんぴら（小鉢）",
+      "白ごま・一味唐辛子の仕上げ",
+      "小鉢または皿で提供"
+    ],
+    "tasteAndTexture": [
+      "じゃこの旨みと塩気がごぼうに染み込んだ深い味",
+      "ごぼうのシャキシャキ食感とじゃこのカリッとした食感の対比",
+      "ごま油の香ばしさが全体を引き締める",
+      "醤油とみりんの甘辛いコクがご飯に合う"
+    ],
+    "orderAdvice": "ご飯の友として抜群。居酒屋では箸休めに、定食屋では副菜として定番。じゃこの旨みがごぼうをより美味しくする組み合わせで、どちらか一方の料理より格段に味が深い。",
+    "similarItems": [
+      {
+        "id": "gouko-gouko",
+        "name": "ごうこごうこ",
+        "difference": "ごうこごうこはごぼう単体のきんぴら。じゃこごうこはじゃこが加わり旨みが格段に増す"
+      },
+      {
+        "id": "zuiki",
+        "name": "ずいき",
+        "difference": "ずいきは里芋茎の酢の物。じゃこごうこはごぼうとじゃこの炒め煮"
+      },
+      {
+        "id": "dengaku",
+        "name": "田楽",
+        "difference": "田楽は味噌塗り焼き料理。じゃこごうこは炒め煮の副菜"
+      }
+    ],
+    "relatedIds": [
+      "zuiki",
+      "dengaku",
+      "osaka-zuke",
+      "oden"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "魚介",
+      "野菜",
+      "炒め物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "洋食",
+      "こってり",
+      "辛い料理",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "furofuki-daikon",
+    "name": "ふろふき大根",
+    "kana": "ふろふきだいこん",
+    "aliases": [
+      "風呂吹き大根"
+    ],
+    "englishName": "Furofuki Daikon",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "大根を昆布だしでじっくり下茹でし、白みそや田楽みそをかけていただく冬の定番料理。大根の芯まで柔らかく煮含めることで、出汁の旨みが染み渡る。",
+    "menuDescription": "厚切りにした大根を昆布だしでじっくり炊き上げ、白みそや柚子みそをかけた和食の定番です。大根がとろけるほど柔らかく、出汁の旨みと甘みをたっぷり含んだ滋味深い一品です。",
+    "whatComesOut": [
+      "厚切り大根の煮物（1〜2切れ）",
+      "白みそ・田楽みそ・柚子みそ等のかけだれ",
+      "柚子皮・木の芽などの飾り"
+    ],
+    "tasteAndTexture": [
+      "とろけるほど柔らかく出汁が染みた大根",
+      "白みそのまろやかな甘みとコク",
+      "口の中でほろりと崩れる食感",
+      "柚子の香りが品よく香る"
+    ],
+    "orderAdvice": "冬に食べる和食の定番。大根の甘みを最大限引き出した料理で、派手さはないが滋味深い。みそのタイプによって味が変わるので食べ比べも楽しい。",
+    "similarItems": [
+      {
+        "id": "dengaku",
+        "name": "田楽",
+        "difference": "田楽は豆腐や野菜に味噌を塗って焼く。ふろふき大根は大根を柔らかく煮てからみそをかける"
+      },
+      {
+        "id": "oden",
+        "name": "おでん",
+        "difference": "おでんは醤油だしで多種具材を煮込む。ふろふき大根は大根だけを主役に白みそを合わせる"
+      },
+      {
+        "id": "miso-konnyaku",
+        "name": "味噌こんにゃく",
+        "difference": "味噌こんにゃくはこんにゃくに味噌をかける。ふろふき大根は大根を主役にした白みそ仕立て"
+      }
+    ],
+    "relatedIds": [
+      "dengaku",
+      "oden",
+      "miso-konnyaku",
+      "senba-jiru",
+      "jibuni"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "野菜",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "肉料理",
+      "洋食",
+      "こってり",
+      "揚げ物",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/furofuki-daikon/1.jpg",
+      "/images/dishes/furofuki-daikon/2.jpg"
+    ]
+  },
+  {
+    "id": "arame",
+    "name": "あらめ",
+    "kana": "あらめ",
+    "aliases": [
+      "荒布",
+      "アラメ"
+    ],
+    "englishName": "Arame",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "褐藻類の海藻（荒布）を醤油・みりん・砂糖で甘辛く炊いた和食の定番副菜。伊勢志摩地方が有名な産地で、油揚げや人参と一緒に炊くことが多い。",
+    "menuDescription": "細く刻んだあらめ（荒布）を油揚げや人参と合わせ、醤油・みりん・砂糖で甘辛く炊いた副菜です。海藻独特の旨みと磯の香りが広がり、ご飯のお供として親しまれてきた伝統的な家庭料理です。",
+    "whatComesOut": [
+      "あらめと油揚げ・人参の炊き合わせ（小鉢）",
+      "白ごまの仕上げ",
+      "小鉢で提供"
+    ],
+    "tasteAndTexture": [
+      "甘辛い醤油だれが染みた海藻の深い旨み",
+      "柔らかくしんなりした食感",
+      "磯の香りと油揚げの甘みが合わさる",
+      "こってりしすぎない穏やかな甘辛さ"
+    ],
+    "orderAdvice": "和食の副菜として定番。海藻の旨みを手軽に楽しめる。健康志向の方にも人気。",
+    "similarItems": [
+      {
+        "id": "zuiki",
+        "name": "ずいき",
+        "difference": "ずいきは里芋茎の酢の物。あらめは海藻を甘辛く炊いた煮物"
+      },
+      {
+        "id": "jako-gouko",
+        "name": "じゃこごうこ",
+        "difference": "じゃこごうこはごぼうとじゃこの炒め煮。あらめは海藻主役の甘辛煮"
+      }
+    ],
+    "relatedIds": [
+      "zuiki",
+      "jako-gouko",
+      "oden",
+      "osaka-zuke"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "海藻が苦手",
+      "肉料理",
+      "洋食",
+      "こってり",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/arame/1.png",
+      "/images/dishes/arame/2.jpg",
+      "/images/dishes/arame/3.jpg"
+    ]
+  },
+  {
+    "id": "sasage",
+    "name": "ささげ",
+    "kana": "ささげ",
+    "aliases": [
+      "大角豆",
+      "ささげ豆"
+    ],
+    "englishName": "Sasage",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東海",
+        "country": "日本"
+      }
+    ],
+    "summary": "小豆に似た豆で、皮が薄く煮ても破けにくいことから「腹が割れない」縁起物として名古屋・愛知を中心とした東海地方のお赤飯に使われる。",
+    "menuDescription": "名古屋・東海地方のお赤飯に欠かせない豆です。皮が破けにくいため「切腹しない」縁起物として武家文化のなごりが残る東海地方で定着しました。もちもちとした赤飯に映える鮮やかな豆の色も特徴です。",
+    "whatComesOut": [
+      "ささげが入った赤飯（お赤飯として提供）",
+      "黒ごまと塩",
+      "小皿・折り箱で提供されることが多い"
+    ],
+    "tasteAndTexture": [
+      "皮が薄くホクホクした豆の食感",
+      "もち米との組み合わせでもちもち感が強い",
+      "小豆より淡白でほのかな甘み",
+      "赤飯全体をほんのり赤く染める色合い"
+    ],
+    "orderAdvice": "名古屋の赤飯を食べるなら関西の小豆赤飯との違いに注目。ささげは破けにくいので豆の形がきれいに残る。お祝いの席では東海地方の定番。",
+    "similarItems": [
+      {
+        "id": "okowa",
+        "name": "おこわ",
+        "difference": "おこわはもち米を蒸す料理全般。ささげは東海地方の赤飯に使う特定の豆"
+      },
+      {
+        "id": "edamame",
+        "name": "枝豆",
+        "difference": "枝豆は大豆の未熟豆で塩茹で。ささげは乾燥豆でお赤飯に炊き込む"
+      }
+    ],
+    "relatedIds": [
+      "okowa",
+      "edamame",
+      "chimaki"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "豆類",
+      "蒸し料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "豆が苦手",
+      "洋食",
+      "肉料理",
+      "こってり",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sasage/1.jpg",
+      "/images/dishes/sasage/2.jpg"
+    ]
+  },
+  {
+    "id": "kishimen",
+    "name": "きしめん",
+    "kana": "きしめん",
+    "aliases": [
+      "棊子麺",
+      "ひもかわうどん"
+    ],
+    "englishName": "Kishimen",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東海",
+        "country": "日本"
+      }
+    ],
+    "summary": "愛知県（名古屋）発祥の幅広・薄い平打ち麺料理。一般的なうどんより幅広でぺらぺらとした形状が特徴で、つるっとした喉越しと出汁が絡みやすい食感を持つ。",
+    "menuDescription": "幅2〜3cmの平たい麺を醤油ベースの関東風出汁で仕立てた名古屋の郷土麺料理です。薄くてつるっとした麺は喉越しがよく、かまぼこ・油揚げ・かつお節を添えた基本の一杯が定番です。",
+    "whatComesOut": [
+      "幅広の平打ち麺（きしめん）",
+      "かまぼこ・油揚げ・ほうれん草",
+      "かつお節・七味唐辛子",
+      "醤油ベースの出汁スープ"
+    ],
+    "tasteAndTexture": [
+      "幅広薄い麺のつるっとした独特の喉越し",
+      "出汁が絡みやすく染み込んだ旨み",
+      "うどんよりやわらかくモチモチ感が少ない",
+      "名古屋らしい濃いめの醤油出汁"
+    ],
+    "orderAdvice": "名古屋駅や名古屋城付近の麺処で定番。うどんとそばの中間のような食感で食べやすい。名古屋めし入門としておすすめ。",
+    "similarItems": [
+      {
+        "id": "udon",
+        "name": "うどん",
+        "difference": "うどんは丸い断面の太麺。きしめんは幅広で薄い平打ち麺"
+      },
+      {
+        "id": "shippoku-udon",
+        "name": "卓袱饂飩",
+        "difference": "卓袱うどんは関西の精進料理系うどん。きしめんは名古屋の平打ち麺"
+      }
+    ],
+    "relatedIds": [
+      "udon",
+      "shippoku-udon",
+      "kasu-udon",
+      "niku-sui"
+    ],
+    "tags": [
+      "日本料理",
+      "麺料理",
+      "小麦",
+      "あっさり",
+      "煮込み"
+    ],
+    "reverseKeywords": [
+      "麺が苦手",
+      "洋食",
+      "肉料理",
+      "こってり",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kishimen/1.jpg",
+      "/images/dishes/kishimen/2.jpg",
+      "/images/dishes/kishimen/3.jpg"
+    ]
+  },
+  {
+    "id": "fuki",
+    "name": "ふき",
+    "kana": "ふき",
+    "aliases": [
+      "蕗",
+      "ふきの煮物",
+      "ふき佃煮"
+    ],
+    "englishName": "Fuki",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "フキ（蕗）の茎を出汁・醤油・みりんで炊いた春の山菜料理。独特のほろ苦さと香りが春を告げる食材で、煮物・佃煮・炒め物など様々な形で食される。",
+    "menuDescription": "春に旬を迎えるふき（蕗）の茎を、だし醤油で甘辛く炊いた煮物です。日本の春の山菜を代表する食材で、ほのかな苦みと独特の香りが春の訪れを感じさせてくれます。",
+    "whatComesOut": [
+      "ふきの茎の煮物（小鉢）",
+      "油揚げや人参を加えた炊き合わせの場合も",
+      "白ごまの仕上げ"
+    ],
+    "tasteAndTexture": [
+      "ふき特有のほのかな苦みと清々しい香り",
+      "やわらかく炊かれた茎のしなやかな食感",
+      "だし醤油の甘辛い味が染み込む",
+      "春らしい後味の爽やかさ"
+    ],
+    "orderAdvice": "春（3〜5月）が旬。ほろ苦さが苦手な人には向かないが、山菜が好きなら食べてみる価値あり。日本料理の春の風物詩。",
+    "similarItems": [
+      {
+        "id": "zuiki",
+        "name": "ずいき",
+        "difference": "ずいきは里芋茎の酢の物。ふきは蕗茎の煮物で苦みが特徴"
+      },
+      {
+        "id": "nobiru",
+        "name": "野蒜",
+        "difference": "野蒜は野生のネギ系山菜。ふきは茎が主役のほろ苦い山菜"
+      }
+    ],
+    "relatedIds": [
+      "zuiki",
+      "nobiru",
+      "jako-gouko",
+      "jibuni"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "苦みが苦手",
+      "肉料理",
+      "洋食",
+      "こってり",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fuki/1.jpg",
+      "/images/dishes/fuki/2.jpg",
+      "/images/dishes/fuki/3.jpg"
+    ]
+  },
+  {
+    "id": "tako-meshi",
+    "name": "たこ飯",
+    "kana": "たこめし",
+    "aliases": [
+      "蛸飯",
+      "タコ飯"
+    ],
+    "englishName": "Tako-meshi",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "タコ（蛸）を醤油・みりん・酒で炊き込んだご飯。瀬戸内海沿岸や明石・須磨など各地に郷土料理として根付いており、タコの旨みがご飯全体に染み渡る。",
+    "menuDescription": "生タコや茹でタコと一緒に醤油・みりんで炊き込んだご飯です。タコから出る旨みと出汁がご飯一粒一粒に染み込み、噛むほどにタコの香りと甘みが広がります。",
+    "whatComesOut": [
+      "タコと一緒に炊かれたご飯",
+      "タコの切り身（ゴロッとしたものが多い）",
+      "三つ葉・ごま・刻み生姜の薬味"
+    ],
+    "tasteAndTexture": [
+      "タコの旨みが染みた風味豊かなご飯",
+      "タコのコリコリとした食感",
+      "醤油とみりんの甘辛い炊き込み風味",
+      "磯の香りとタコの甘みが重なる"
+    ],
+    "orderAdvice": "たこ焼きと並ぶタコ料理の定番。明石や瀬戸内方面の料理屋や道の駅でよく見かける。タコ好きには外せない一品。",
+    "similarItems": [
+      {
+        "id": "takoyaki",
+        "name": "たこ焼き",
+        "difference": "たこ焼きは小麦粉生地にタコを入れて焼く。たこ飯はタコを炊き込みご飯にする"
+      },
+      {
+        "id": "ikayaki",
+        "name": "いか焼き",
+        "difference": "いか焼きはイカの鉄板焼き。たこ飯はタコを米と一緒に炊く"
+      }
+    ],
+    "relatedIds": [
+      "takoyaki",
+      "ikayaki",
+      "bara-zushi",
+      "okowa"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "魚介",
+      "米",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "洋食",
+      "肉料理",
+      "こってり",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "oni-manju",
+    "name": "鬼まんじゅう",
+    "kana": "おにまんじゅう",
+    "aliases": [
+      "鬼饅頭",
+      "おにまん"
+    ],
+    "englishName": "Oni-manju",
+    "category": "デザート",
+    "regions": [
+      {
+        "area": "東海",
+        "country": "日本"
+      }
+    ],
+    "summary": "角切りのさつまいもを小麦粉・砂糖で作った生地に混ぜ込んで蒸した愛知県の郷土菓子。表面にごつごつと飛び出したさつまいもが鬼の金棒に似ていることが名前の由来。",
+    "menuDescription": "角切りにしたさつまいもを薄い小麦粉生地と合わせて蒸し上げた、愛知県の素朴な郷土菓子です。ごつごつとしたさつまいもの凹凸が鬼のような見た目で、甘みは控えめでほっこりとした素朴な味わいです。",
+    "whatComesOut": [
+      "角切りさつまいもがごつごつと飛び出した蒸し菓子",
+      "1〜2個で提供（おやつサイズ）",
+      "温かい状態または常温で提供"
+    ],
+    "tasteAndTexture": [
+      "さつまいもの自然な甘みとほっくりした食感",
+      "外側の生地はもっちりとした蒸し上がり",
+      "砂糖控えめのシンプルで素朴な甘み",
+      "冷めても美味しくおやつや手土産に適した食べやすさ"
+    ],
+    "orderAdvice": "名古屋・愛知の和菓子店や道の駅で買える郷土菓子。素朴でシンプルな甘みで、洋菓子が苦手な人にも食べやすい。さつまいも好きには必食。",
+    "similarItems": [
+      {
+        "id": "sachertorte",
+        "name": "ザッハトルテ",
+        "difference": "ザッハトルテはチョコレートの濃厚な洋菓子。鬼まんじゅうは素朴でシンプルな和の蒸し菓子"
+      },
+      {
+        "id": "dondonyaki",
+        "name": "どんどん焼き",
+        "difference": "どんどん焼きは小麦粉の焼き菓子系軽食。鬼まんじゅうはさつまいも入りの蒸し菓子"
+      }
+    ],
+    "relatedIds": [
+      "dondonyaki",
+      "okowa",
+      "chimaki"
+    ],
+    "tags": [
+      "日本料理",
+      "デザート",
+      "野菜",
+      "蒸し料理",
+      "あっさり",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "甘いもの苦手",
+      "洋菓子派",
+      "肉料理",
+      "辛い料理",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/oni-manju/1.jpg",
+      "/images/dishes/oni-manju/2.jpg"
+    ]
+  },
+  {
+    "id": "jojokiri",
+    "name": "じょじょきり",
+    "kana": "じょじょきり",
+    "aliases": [
+      "じょうじょきり",
+      "手打ちうどん"
+    ],
+    "englishName": "Jojokiri",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東海",
+        "country": "日本"
+      }
+    ],
+    "summary": "愛知・岐阜の山間地域に伝わる手打ちの太平打ち麺料理。「じょじょ」は方言でぐにゃりとした・やわらかいの意で、不揃いな厚めの手切り麺を味噌や醤油の汁で煮る。",
+    "menuDescription": "小麦粉を手でこねて不揃いに切り出した太平打ち麺を、地元の味噌だしで煮込んだ東海山間の郷土料理です。手打ちならではの素朴な食感と、根菜・芋を一緒に煮込んだ具だくさんの汁が特徴です。",
+    "whatComesOut": [
+      "不揃いの太平打ち麺",
+      "根菜・さつまいも・ごぼう等の具材",
+      "味噌または醤油ベースの汁"
+    ],
+    "tasteAndTexture": [
+      "手打ちならではの不揃いな食感とモチッとした歯ごたえ",
+      "根菜の旨みが溶け込んだ濃厚な汁",
+      "表面がざらついた素朴な手作り感のある麺",
+      "具材と麺が一体化した食べごたえ"
+    ],
+    "orderAdvice": "愛知・岐阜の山村地域の民宿や郷土料理店でのみ体験できる。ほうとうや大阪のきしめんに似ているが素朴さが全く異なる。食文化探求者向け。",
+    "similarItems": [
+      {
+        "id": "kishimen",
+        "name": "きしめん",
+        "difference": "きしめんは機械製造の均一な平打ち麺。じょじょきりは手打ちの不揃い太麺"
+      },
+      {
+        "id": "udon",
+        "name": "うどん",
+        "difference": "うどんは丸い均一麺。じょじょきりは手打ちの不揃い平打ち麺"
+      }
+    ],
+    "relatedIds": [
+      "kishimen",
+      "udon",
+      "oni-manju",
+      "fuki"
+    ],
+    "tags": [
+      "日本料理",
+      "麺料理",
+      "小麦",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "麺が苦手",
+      "洋食",
+      "肉料理",
+      "こってり",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "karimori",
+    "name": "かりもり",
+    "kana": "かりもり",
+    "aliases": [
+      "カリモリ",
+      "菜瓜"
+    ],
+    "englishName": "Karimori",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東海",
+        "country": "日本"
+      }
+    ],
+    "summary": "愛知県の伝統野菜・かりもり瓜を浅漬けや奈良漬け風に漬け込んだ名古屋の郷土漬物。「かりもり」は緑と白の縞模様の小型の瓜で、パリパリした食感が特徴。",
+    "menuDescription": "愛知県特産のかりもり瓜を塩・酢・酒粕などで漬け込んだ郷土の漬物です。パリパリとした独特の食感と、瓜の瑞々しい甘みが特徴で、名古屋の夏の食卓に欠かせない一品です。",
+    "whatComesOut": [
+      "薄切りまたは角切りのかりもり瓜の漬物",
+      "小皿で提供",
+      "塩漬け・浅漬け・奈良漬け風など複数タイプ"
+    ],
+    "tasteAndTexture": [
+      "パリパリとした瓜特有の軽快な食感",
+      "瓜の瑞々しい甘みと漬け地の塩気",
+      "奈良漬け風では酒粕の風味が加わる",
+      "後味がすっきりして箸休めに最適"
+    ],
+    "orderAdvice": "名古屋の夏の郷土食材。漬物好きなら試す価値あり。愛知の道の駅や市場で購入できる。",
+    "similarItems": [
+      {
+        "id": "osaka-zuke",
+        "name": "大阪漬",
+        "difference": "大阪漬は大根・なす等を甘酢漬け。かりもりは愛知特産の瓜を使った漬物"
+      },
+      {
+        "id": "zuiki",
+        "name": "ずいき",
+        "difference": "ずいきは里芋茎の酢の物。かりもりは瓜の漬物でパリパリ食感"
+      }
+    ],
+    "relatedIds": [
+      "osaka-zuke",
+      "zuiki",
+      "jako-gouko"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "発酵",
+      "あっさり",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "漬物が苦手",
+      "肉料理",
+      "洋食",
+      "こってり",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "hebo",
+    "name": "へぼ",
+    "kana": "へぼ",
+    "aliases": [
+      "蜂の子",
+      "クロスズメバチ",
+      "へぼ飯"
+    ],
+    "englishName": "Hebo",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東海",
+        "country": "日本"
+      }
+    ],
+    "summary": "クロスズメバチ（地蜂）の幼虫・蛹・成虫を食べる長野・岐阜・愛知の山間地域の伝統食。「へぼ」はクロスズメバチの方言名で、佃煮や炊き込みご飯にして食べる。",
+    "menuDescription": "クロスズメバチの幼虫や蛹を醤油・みりん・砂糖で炊いた山間地域の珍味です。タンパク質が豊富で、ナッツのような香ばしさとほのかな甘みが特徴。秋の収穫の時期に地元で珍重されます。",
+    "whatComesOut": [
+      "へぼの佃煮または炊き込みご飯（へぼ飯）",
+      "甘辛い醤油だれ仕立て",
+      "小皿または茶碗で提供"
+    ],
+    "tasteAndTexture": [
+      "ナッツに似た香ばしく独特の旨み",
+      "幼虫はプチッとした食感",
+      "甘辛い佃煮だれとの相性が良い",
+      "慣れると病みつきになる深いコク"
+    ],
+    "orderAdvice": "食べ物として昆虫に抵抗がない人限定の体験。秋（9〜10月）の収穫期に長野・岐阜・愛知の山間地域でのみ出会える。一度食べると意外なおいしさに驚く。",
+    "caution": "昆虫アレルギーの方は注意。エビ・カニアレルギーと交差反応がある場合あり。",
+    "similarItems": [
+      {
+        "id": "fuki",
+        "name": "ふき",
+        "difference": "ふきは山菜の植物料理。へぼは昆虫食で全く異なるカテゴリ"
+      },
+      {
+        "id": "jibuni",
+        "name": "治部煮",
+        "difference": "治部煮は鴨肉の煮物。へぼは昆虫（蜂の子）の佃煮"
+      }
+    ],
+    "relatedIds": [
+      "fuki",
+      "oni-manju",
+      "jojokiri"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "煮込み",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "昆虫食に抵抗あり",
+      "洋食",
+      "魚料理",
+      "デザート",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hebo/1.png"
+    ]
+  },
+  {
+    "id": "haze",
+    "name": "はぜ",
+    "kana": "はぜ",
+    "aliases": [
+      "鯊",
+      "ハゼ",
+      "はぜの天ぷら"
+    ],
+    "englishName": "Haze",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東海",
+        "country": "日本"
+      }
+    ],
+    "summary": "川と海の境界域（汽水域）に生息するハゼ（鯊）を天ぷらや唐揚げ・佃煮にした日本の秋の風物詩的な料理。愛知では庄内川河口での釣りと天ぷらが有名。",
+    "menuDescription": "秋に旬を迎えるハゼを丸ごと天ぷらにした料理です。小骨が多い小魚ですが揚げることで骨まで食べられ、淡白な白身に天ぷらの衣がサクッと絡まった食べやすい一品です。",
+    "whatComesOut": [
+      "はぜの天ぷら（数尾）",
+      "天つゆ・塩・大根おろし・すだち",
+      "唐揚げや佃煮で提供される場合も"
+    ],
+    "tasteAndTexture": [
+      "淡白でほんのり甘みのある白身",
+      "天ぷらにすると骨まで食べられるサクサク食感",
+      "素材の繊細な旨みが引き立つ軽い仕上がり",
+      "秋の旬の時期は特に身がしまって美味"
+    ],
+    "orderAdvice": "秋（9〜11月）が旬。釣り堀や川沿いの料理屋で体験できる。がっちょと並ぶ小型地魚天ぷらの定番。淡白な白身が好きなら外れなし。",
+    "similarItems": [
+      {
+        "id": "gaccho",
+        "name": "がっちょ",
+        "difference": "がっちょは大阪湾の平べったい底魚。はぜは河口域の小型魚で東海が有名"
+      },
+      {
+        "id": "ikanago",
+        "name": "玉筋魚",
+        "difference": "いかなごは春の小魚の佃煮が有名。はぜは秋の天ぷらが主な食べ方"
+      }
+    ],
+    "relatedIds": [
+      "gaccho",
+      "ikanago",
+      "kabayaki",
+      "senba-jiru"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "魚介",
+      "揚げ物",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "肉料理",
+      "洋食",
+      "こってり",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/haze/1.jpg",
+      "/images/dishes/haze/2.jpg",
+      "/images/dishes/haze/3.jpg"
+    ]
+  },
+  {
+    "id": "gohei-mochi",
+    "name": "五平餅",
+    "kana": "ごへいもち",
+    "aliases": [
+      "御幣餅",
+      "ごへい餅"
+    ],
+    "englishName": "Gohei-mochi",
+    "category": "デザート",
+    "regions": [
+      {
+        "area": "東海",
+        "country": "日本"
+      }
+    ],
+    "summary": "炊いたうるち米を半つきにして平たく形成し、串に刺してくるみ・ごま・味噌を合わせたたれを塗って炭火で焼いた長野・岐阜・愛知の山間郷土料理。",
+    "menuDescription": "炊いたご飯を半つきにして串に平たく付け、くるみや胡麻を混ぜた甘みそだれを塗り炭火で香ばしく焼き上げた郷土食です。外はカリッと、中はもっちりとした食感で、みその香ばしい香りが食欲をそそります。",
+    "whatComesOut": [
+      "平たく成形した米団子を串に刺した五平餅（1〜2本）",
+      "くるみ・ごま・みそのたれが塗られた状態",
+      "炭火焼きの焼き色がついた状態で提供"
+    ],
+    "tasteAndTexture": [
+      "外側カリッと、内側もっちりした食感の対比",
+      "くるみ・ごま・みその複雑で深みのある甘辛さ",
+      "炭火焼きの香ばしさが全体を包む",
+      "素朴でご飯本来の旨みが活きる"
+    ],
+    "orderAdvice": "長野・岐阜・愛知の道の駅や観光地で広く販売される定番郷土食。おやつとして食べやすく初心者にもおすすめ。炭火焼きの香りに誘われたらぜひ。",
+    "similarItems": [
+      {
+        "id": "oni-manju",
+        "name": "鬼まんじゅう",
+        "difference": "鬼まんじゅうは蒸し菓子。五平餅は串刺しのご飯を炭火で焼く"
+      },
+      {
+        "id": "dengaku",
+        "name": "田楽",
+        "difference": "田楽は豆腐やこんにゃくに味噌を塗って焼く。五平餅は半つきご飯を串に刺して焼く"
+      }
+    ],
+    "relatedIds": [
+      "dengaku",
+      "miso-konnyaku",
+      "oni-manju",
+      "okowa"
+    ],
+    "tags": [
+      "日本料理",
+      "軽食",
+      "米",
+      "焼き物",
+      "香ばしい",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "甘いもの苦手",
+      "洋食",
+      "肉料理",
+      "こってり",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "togan",
+    "name": "とうがん",
+    "kana": "とうがん",
+    "aliases": [
+      "冬瓜",
+      "トウガン"
+    ],
+    "englishName": "Togan",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "冬瓜（とうがん）を出汁や鶏肉・海老と合わせて炊いた和食の定番煮物。冬まで保存できることから「冬瓜」の名が付き、夏に収穫されながら冬に食べられる伝統野菜。",
+    "menuDescription": "大型の瓜（冬瓜）を鶏肉や海老のだしで炊いた優しい煮物料理です。冬瓜は出汁を吸ってとろけるほど柔らかくなり、透明に近いその美しさも楽しめる夏から初秋の風物詩料理です。",
+    "whatComesOut": [
+      "角切りまたは厚切りの冬瓜の煮物",
+      "鶏肉・海老・枝豆等の具材",
+      "あんかけまたは澄んだ出汁"
+    ],
+    "tasteAndTexture": [
+      "出汁を吸ってとろとろに柔らかくなった冬瓜",
+      "瓜本来の淡白でみずみずしい風味",
+      "鶏や海老の旨みが染み込んだ深いコク",
+      "半透明になった冬瓜の美しい見た目"
+    ],
+    "orderAdvice": "夏〜初秋が旬。地味な見た目だが出汁を吸った冬瓜の滋味は格別。和食の煮物が好きなら注文して損なし。",
+    "similarItems": [
+      {
+        "id": "furofuki-daikon",
+        "name": "ふろふき大根",
+        "difference": "ふろふき大根は大根を主役に白みそをかける。とうがんは出汁で炊いたあっさり煮物"
+      },
+      {
+        "id": "oden",
+        "name": "おでん",
+        "difference": "おでんは多種具材を醤油だしで煮込む。とうがんは瓜単体を繊細な出汁で仕立てる"
+      }
+    ],
+    "relatedIds": [
+      "furofuki-daikon",
+      "oden",
+      "zuiki",
+      "senba-jiru"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "野菜",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "肉料理",
+      "洋食",
+      "こってり",
+      "揚げ物",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "funa-miso",
+    "name": "ふな味噌",
+    "kana": "ふなみそ",
+    "aliases": [
+      "鮒味噌",
+      "フナ味噌"
+    ],
+    "englishName": "Funa-miso",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東海",
+        "country": "日本"
+      }
+    ],
+    "summary": "フナ（鮒）を八丁味噌と砂糖・みりんで長時間煮込んだ愛知の伝統郷土料理。骨まで柔らかくなるまで炊き込むことで、フナのクセが和らぎ八丁味噌の濃厚な旨みと一体化する。",
+    "menuDescription": "フナを八丁味噌とともに長時間炊き続け、骨まで食べられるほど柔らかく仕上げた名古屋の伝統料理です。八丁味噌の深いコクとフナの旨みが溶け合い、濃厚でご飯が進む力強い味わいです。",
+    "whatComesOut": [
+      "フナの切り身（骨まで食べられる状態）",
+      "八丁味噌の濃い煮汁",
+      "生姜・山椒の薬味"
+    ],
+    "tasteAndTexture": [
+      "八丁味噌の深いコクと旨みが骨まで染みた川魚",
+      "長時間煮込みでほろほろ崩れる柔らかさ",
+      "濃厚な甘辛い味噌だれとフナの旨みの融合",
+      "独特の川魚の風味が八丁味噌で昇華される"
+    ],
+    "orderAdvice": "愛知・名古屋の郷土料理店や居酒屋でのみ出会える。フナのクセと八丁味噌の強さが合わさった個性的な味。川魚と濃い味噌が好きな人向け。",
+    "similarItems": [
+      {
+        "id": "furofuki-daikon",
+        "name": "ふろふき大根",
+        "difference": "ふろふき大根は白みそを使った上品な煮物。ふな味噌は八丁味噌で力強く煮込む"
+      },
+      {
+        "id": "kabayaki",
+        "name": "蒲焼き",
+        "difference": "蒲焼きは川魚を焼いて甘辛タレをかける。ふな味噌はフナを八丁味噌で長時間炊き込む"
+      }
+    ],
+    "relatedIds": [
+      "kabayaki",
+      "furofuki-daikon",
+      "miso-konnyaku",
+      "dengaku"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "川魚が苦手",
+      "洋食",
+      "あっさり派",
+      "デザート",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "miso-nikomi-udon",
+    "name": "味噌煮込みうどん",
+    "kana": "みそにこみうどん",
+    "aliases": [
+      "みそにこみ",
+      "名古屋味噌煮込みうどん"
+    ],
+    "englishName": "Miso Nikomi Udon",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東海",
+        "country": "日本"
+      }
+    ],
+    "summary": "生のまま（茹でずに）土鍋に入れた固めのうどんを八丁味噌ベースの濃厚な汁で煮込む名古屋の名物鍋料理。蓋を器として使い、麺がほんのり固めの状態で食べるのが正式スタイル。",
+    "menuDescription": "八丁味噌の濃厚な汁で生うどんを直接土鍋で煮込んだ名古屋名物です。鶏肉・かまぼこ・油揚げ・卵などの具材とともに펄펄 煮えた状態で提供され、蓋を皿代わりに使いながら固めのうどんを楽しみます。",
+    "whatComesOut": [
+      "ぐつぐつ煮えた土鍋",
+      "固めの生うどん（茹でずに煮込む）",
+      "鶏肉・かまぼこ・油揚げ・卵・ねぎ",
+      "土鍋の蓋（器として使用）"
+    ],
+    "tasteAndTexture": [
+      "八丁味噌の濃厚で深みのある塩辛さとコク",
+      "わざと固めに仕上げたうどんのボキボキとした食感",
+      "具材と味噌が渾然一体となった力強い味",
+      "熱々の土鍋から直接食べる満足感"
+    ],
+    "orderAdvice": "名古屋めしの代名詞的一品。八丁味噌の強い味と固い麺が好みを分けるが、一度食べれば病みつきになる。冬の寒い日に特に映える。「山本屋」等の老舗で体験を。",
+    "similarItems": [
+      {
+        "id": "kishimen",
+        "name": "きしめん",
+        "difference": "きしめんは醤油だしの平打ち麺。味噌煮込みうどんは八丁味噌の土鍋で煮る固い丸麺"
+      },
+      {
+        "id": "udon",
+        "name": "うどん",
+        "difference": "通常のうどんは茹でた柔らかい麺。味噌煮込みは生のまま煮込むため固い食感"
+      }
+    ],
+    "relatedIds": [
+      "kishimen",
+      "udon",
+      "funa-miso",
+      "oden"
+    ],
+    "tags": [
+      "日本料理",
+      "麺料理",
+      "小麦",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "あっさり派",
+      "麺が苦手",
+      "洋食",
+      "魚料理",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "oshimon",
+    "name": "おしもん",
+    "kana": "おしもん",
+    "aliases": [
+      "押し物",
+      "おしもの"
+    ],
+    "englishName": "Oshimon",
+    "category": "デザート",
+    "regions": [
+      {
+        "area": "東海",
+        "country": "日本"
+      }
+    ],
+    "summary": "愛知・名古屋に伝わる押し型で形成した伝統的な和菓子。米粉や砂糖を型に押し込んで形成した干菓子で、神事や祭礼で供えられてきた。",
+    "menuDescription": "米粉と砂糖を木型に押し固めて作る愛知の伝統干菓子です。型に花や家紋の模様が施され、祭礼や茶席のお供として長く親しまれてきた素朴な甘みの和菓子です。",
+    "whatComesOut": [
+      "型押しで成形された干菓子（数個）",
+      "花・家紋・縁起物の模様入り",
+      "箱や折り紙に並べて提供"
+    ],
+    "tasteAndTexture": [
+      "口の中でほろりと崩れる軽い食感",
+      "米粉の素朴でやさしい甘み",
+      "砂糖の結晶のようにサラッとした口溶け",
+      "着色料で彩られた見た目の美しさ"
+    ],
+    "orderAdvice": "神社の授与品や和菓子店のお土産として手に入る。茶席や行事の席での供物として意味を持つ。食べるものより見て楽しむ美しさが特徴。",
+    "similarItems": [
+      {
+        "id": "oni-manju",
+        "name": "鬼まんじゅう",
+        "difference": "鬼まんじゅうは蒸した素朴な菓子。おしもんは米粉を型押しした干菓子"
+      },
+      {
+        "id": "xingren-gao",
+        "name": "杏仁羹",
+        "difference": "杏仁羹は中国の冷たいゼリー。おしもんは日本の型押し干菓子"
+      }
+    ],
+    "relatedIds": [
+      "oni-manju",
+      "gohei-mochi",
+      "dondonyaki"
+    ],
+    "tags": [
+      "日本料理",
+      "デザート",
+      "小麦",
+      "あっさり",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "甘いもの苦手",
+      "洋菓子派",
+      "肉料理",
+      "辛い料理",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "miso-dengaku",
+    "name": "味噌田楽",
+    "kana": "みそでんがく",
+    "aliases": [
+      "でんがく",
+      "八丁味噌田楽"
+    ],
+    "englishName": "Miso Dengaku",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東海",
+        "country": "日本"
+      }
+    ],
+    "summary": "豆腐・こんにゃく・大根・なすなどを串に刺して八丁味噌だれを塗り炭火で焼いた名古屋の郷土料理。既存の「田楽」に対し、八丁味噌を使う名古屋スタイルを特に指す。",
+    "menuDescription": "豆腐やこんにゃくを串に刺し、八丁味噌を砂糖・みりんで調えた濃厚な味噌だれを塗って炭火で焼き上げた料理です。白みそ田楽と比べて色が深く、コクと甘みのバランスが力強い名古屋ならではの味わいです。",
+    "whatComesOut": [
+      "串刺しの豆腐・こんにゃく・大根など（複数本）",
+      "八丁味噌だれが塗られた状態",
+      "炭火の焼き色がついた香ばしい仕上がり"
+    ],
+    "tasteAndTexture": [
+      "八丁味噌の深い赤みと濃厚なコク",
+      "白みそ田楽より力強い甘辛さ",
+      "炭火で香ばしく焦げた味噌の香り",
+      "豆腐やこんにゃくがだれを吸い込んだ満足感"
+    ],
+    "orderAdvice": "名古屋の居酒屋や郷土料理店で田楽として出てくることが多い。白みそ田楽と食べ比べると八丁味噌の力強さが際立つ。みそカツと並ぶ名古屋の八丁味噌料理として外せない。",
+    "similarItems": [
+      {
+        "id": "dengaku",
+        "name": "田楽",
+        "difference": "田楽は全国的な料理で白みそ・赤みそ両方使う。味噌田楽は八丁味噌を使った名古屋スタイル"
+      },
+      {
+        "id": "miso-konnyaku",
+        "name": "味噌こんにゃく",
+        "difference": "味噌こんにゃくはこんにゃく単体に味噌をかける。味噌田楽は串刺し炭火焼きで複数食材"
+      },
+      {
+        "id": "funa-miso",
+        "name": "ふな味噌",
+        "difference": "ふな味噌は川魚を八丁味噌で煮込む。味噌田楽は豆腐・野菜に味噌だれを塗って焼く"
+      }
+    ],
+    "relatedIds": [
+      "dengaku",
+      "miso-konnyaku",
+      "furofuki-daikon",
+      "funa-miso",
+      "miso-nikomi-udon"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "あっさり派",
+      "洋食",
+      "肉料理",
+      "魚料理",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/miso-dengaku/1.jpg",
+      "/images/dishes/miso-dengaku/2.jpg",
+      "/images/dishes/miso-dengaku/3.jpg"
+    ]
+  },
+  {
+    "id": "moriguchi-zuke",
+    "name": "守口漬",
+    "kana": "もりぐちづけ",
+    "aliases": [
+      "守口漬け",
+      "守口大根の粕漬け"
+    ],
+    "englishName": "Moriguchi-zuke",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東海",
+        "country": "日本"
+      },
+      {
+        "area": "関西",
+        "country": "日本"
+      }
+    ],
+    "summary": "全長1〜2メートルにもなる守口大根を酒粕に1〜3年かけて漬け込んだ奈良漬け系の伝統漬物。大阪・守口市発祥で愛知・名古屋でも広く親しまれ、深い琥珀色と濃厚な旨みが特徴。",
+    "menuDescription": "極細長い守口大根を酒粕と砂糖で何年もかけて漬け込んだ伝統の粕漬けです。年月をかけて熟成した琥珀色の大根は、酒粕の旨みと甘みが凝縮した複雑な風味を持ち、奈良漬けとは異なる独特の深みがあります。",
+    "whatComesOut": [
+      "薄切りにした琥珀色の守口大根の漬物",
+      "小皿に並べて提供",
+      "土産品では真空パック・折り箱で販売"
+    ],
+    "tasteAndTexture": [
+      "酒粕の旨みと甘みが長期熟成で凝縮した深い風味",
+      "シャキシャキとした守口大根の独特の食感",
+      "琥珀色に染まった美しい見た目",
+      "後味に残るほのかな酒粕の香りと甘み"
+    ],
+    "orderAdvice": "名古屋・大阪の土産として定番。漬物の中では個性が強く好みが分かれるが、日本酒好きには特に刺さる。ご飯のお供として、また酒の肴として優秀。",
+    "caution": "アルコール分が残る場合あり。アルコールに敏感な方・子供は注意。",
+    "similarItems": [
+      {
+        "id": "osaka-zuke",
+        "name": "大阪漬",
+        "difference": "大阪漬は塩・酢の浅漬け。守口漬は酒粕で1〜3年熟成させた深みのある粕漬け"
+      },
+      {
+        "id": "karimori",
+        "name": "かりもり",
+        "difference": "かりもりはパリパリの瓜の浅漬け。守口漬は長期熟成の複雑な旨みを持つ粕漬け"
+      },
+      {
+        "id": "zuiki",
+        "name": "ずいき",
+        "difference": "ずいきは里芋茎の酢の物。守口漬は守口大根の長期粕漬けで全く異なる製法"
+      }
+    ],
+    "relatedIds": [
+      "osaka-zuke",
+      "karimori",
+      "zuiki",
+      "jako-gouko"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "発酵",
+      "甘み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "漬物が苦手",
+      "アルコールNG",
+      "肉料理",
+      "洋食",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
   }
 ]
