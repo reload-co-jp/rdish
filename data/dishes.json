@@ -31226,6 +31226,91 @@
     ]
   },
   {
+    "id": "shui-zhu-yu",
+    "name": "水煮魚",
+    "kana": "すいじゅーゆー",
+    "aliases": [
+      "水煮鱼",
+      "スイジューユー",
+      "麻辣水煮魚"
+    ],
+    "englishName": "Water-Boiled Fish",
+    "originalName": "水煮鱼 (Shuǐzhǔ yú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "薄切りの白身魚を豆板醤・唐辛子・花椒の麻辣スープで煮込み、仕上げに熱油をかける四川料理。赤い油と痺れる辛さが特徴。",
+    "menuDescription": "白身魚の薄切りをもやし・白菜・青菜などと一緒に麻辣スープで煮込み、唐辛子・花椒・熱油で香りを立てた魚料理。魚はふんわり、スープは強い辛みと痺れがある。",
+    "whatComesOut": [
+      "薄切りの白身魚",
+      "もやし・白菜・青菜などの具材",
+      "真っ赤な麻辣スープ",
+      "仕上げの唐辛子・花椒・熱油"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の強い辛さと花椒の痺れ",
+      "白身魚のやわらかく滑らかな食感",
+      "豆板醤と香味油の深いコク",
+      "熱油で立つ香ばしい香り"
+    ],
+    "orderAdvice": "麻辣系の辛い魚料理を食べたい時に選ぶ。辛さと花椒が強いため、辛さ調整できる店なら控えめから。",
+    "caution": "非常に辛く、花椒のしびれが強い。魚の骨が入る場合あり。",
+    "similarItems": [
+      {
+        "id": "suan-cai-yu",
+        "name": "酸菜魚",
+        "difference": "酸菜魚は発酵白菜の酸味が主役。水煮魚は酸味を出さず麻辣の辛さと痺れが主役"
+      },
+      {
+        "id": "shui-zhu-rou-pian",
+        "name": "水煮肉片",
+        "difference": "水煮肉片は豚肉を使う。水煮魚は白身魚を使い、身がよりふんわり軽い"
+      },
+      {
+        "id": "mao-xue-wang",
+        "name": "毛血旺",
+        "difference": "毛血旺は血豆腐や内臓など具材が多い鍋料理。水煮魚は魚が主役"
+      }
+    ],
+    "relatedIds": [
+      "suan-cai-yu",
+      "shui-zhu-rou-pian",
+      "mao-xue-wang",
+      "mapo-tofu",
+      "doubanjiang"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "ピリ辛",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "辛いの苦手",
+      "花椒嫌い",
+      "魚介アレルギー",
+      "骨なし必須",
+      "あっさり好き"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 5,
+    "images": [
+      "/images/dishes/shui-zhu-yu/1.jpg",
+      "/images/dishes/shui-zhu-yu/2.jpg",
+      "/images/dishes/shui-zhu-yu/3.jpg"
+    ]
+  },
+  {
     "id": "sha-guo-ya-yu",
     "name": "砂鍋雅魚",
     "kana": "しゃーぐぉやーゆー",
@@ -35627,6 +35712,2038 @@
     "beginnerFriendlyScore": 2,
     "uniquenessScore": 5,
     "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "hong-shao-pai-gu",
+    "name": "紅焼排骨",
+    "kana": "ほんしゃおぱいぐー",
+    "aliases": [
+      "红烧排骨",
+      "ホンシャオパイグー",
+      "豚スペアリブの醤油煮込み"
+    ],
+    "englishName": "Red-Braised Pork Ribs",
+    "originalName": "红烧排骨 (Hóngshāo páigǔ)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "豚スペアリブを醤油・砂糖・紹興酒・香辛料で照りよく煮込む中国の家庭料理。紅焼らしい濃い茶色のつやと甘辛いコクが特徴。",
+    "menuDescription": "骨付き豚肉を下ゆでまたは焼き付けし、醤油・砂糖・紹興酒・生姜・八角などで煮詰めた料理。骨まわりの旨みと甘辛いタレをご飯と楽しむ主菜。",
+    "whatComesOut": [
+      "濃い茶色につやのある骨付き豚スペアリブ",
+      "煮詰まった甘辛い醤油ダレ",
+      "生姜・ネギ・八角などの香り",
+      "ご飯に合う濃い味の主菜"
+    ],
+    "tasteAndTexture": [
+      "醤油と砂糖の甘辛いコク",
+      "骨まわりの濃い肉の旨み",
+      "煮込みでほろっとした肉質",
+      "紹興酒と香辛料の深い香り"
+    ],
+    "orderAdvice": "甘辛い豚肉料理や角煮が好きなら頼みやすい。骨付きなので手や箸で骨を外しながら食べる。",
+    "caution": "豚肉使用。骨付きで食べにくい場合あり。砂糖と醤油で味は濃いめ。",
+    "similarItems": [
+      {
+        "id": "dong-po-rou",
+        "name": "東坡肉",
+        "difference": "東坡肉は豚バラ肉の大きな塊を長時間煮る。紅焼排骨は骨付きスペアリブを甘辛く煮る"
+      },
+      {
+        "id": "spare-ribs",
+        "name": "スペアリブ",
+        "difference": "スペアリブは部位や料理全般。紅焼排骨は中国式の醤油・砂糖煮込み"
+      },
+      {
+        "id": "braise",
+        "name": "ブレゼ",
+        "difference": "ブレゼは蒸し煮技法。紅焼排骨は紅焼という中国式の甘辛い煮込み"
+      }
+    ],
+    "relatedIds": [
+      "spare-ribs",
+      "dong-po-rou",
+      "braise",
+      "soy-sauce",
+      "glaze"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "豚肉",
+      "煮込み",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "豚肉嫌い",
+      "骨付き肉が苦手",
+      "あっさり好き",
+      "甘辛い味が苦手",
+      "辛い料理好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hong-shao-pai-gu/1.jpg"
+    ]
+  },
+  {
+    "id": "ya-cai",
+    "name": "芽菜",
+    "kana": "やーつぁい",
+    "aliases": [
+      "宜賓芽菜",
+      "碎米芽菜",
+      "ヤーツァイ",
+      "四川漬け菜"
+    ],
+    "englishName": "Ya Cai",
+    "originalName": "芽菜 (Yácài)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "四川・宜賓名物の発酵漬け菜。からし菜系の若い茎や葉を塩漬け・発酵させ、細かく刻んで担担麺や乾煸四季豆の旨みづけに使う。",
+    "menuDescription": "細かく刻まれた濃い茶色の漬け菜。炒め物、麺の肉味噌、蒸し料理などに少量加えると、発酵の香りと塩気、深い旨みが出る。",
+    "whatComesOut": [
+      "細かく刻まれた茶色い漬け菜",
+      "肉味噌や炒め物に混ざった状態",
+      "塩気と発酵香のある薬味・具材",
+      "袋入りや瓶入りの保存食"
+    ],
+    "tasteAndTexture": [
+      "発酵漬物らしい深い旨み",
+      "しっかりした塩気とほのかな甘み",
+      "細かく刻んだシャキッとした歯ざわり",
+      "炒めると香ばしく立つ漬け菜の香り"
+    ],
+    "orderAdvice": "担担麺や四川炒めの具材名として見かける。単体で大量に食べるより、料理に旨みを足す脇役として理解するとよい。",
+    "caution": "塩分が強い。発酵漬物の香りが苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "pickles",
+        "name": "ピクルス",
+        "difference": "ピクルスは酢漬けが多い西洋漬物。芽菜は四川の発酵塩漬け菜で、調味素材として使うことが多い"
+      },
+      {
+        "id": "kimchi",
+        "name": "キムチ",
+        "difference": "キムチは唐辛子と乳酸発酵の辛い漬物。芽菜は辛味より塩気と発酵旨みが中心"
+      },
+      {
+        "name": "ザーサイ",
+        "difference": "ザーサイは肥大した茎を漬ける中国漬物。芽菜は若い茎や葉を細かく刻んで使う四川の漬け菜"
+      }
+    ],
+    "relatedIds": [
+      "dan-dan-mian",
+      "gan-bian-si-ji-dou",
+      "pickles",
+      "kimchi"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "野菜",
+      "発酵",
+      "香ばしい",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "漬物が苦手",
+      "塩分控えめ",
+      "発酵臭が苦手",
+      "辛い料理",
+      "主菜"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ya-cai/1.jpg",
+      "/images/dishes/ya-cai/2.jpg",
+      "/images/dishes/ya-cai/3.jpg"
+    ]
+  },
+  {
+    "id": "suan-xiang-dou-chi",
+    "name": "蒜香豆豉",
+    "kana": "すわんしゃんどうちー",
+    "aliases": [
+      "蒜香豆豉醤",
+      "蒜蓉豆豉",
+      "ガーリック豆豉",
+      "にんにく豆豉ソース"
+    ],
+    "englishName": "Garlic Fermented Black Bean Sauce",
+    "originalName": "蒜香豆豉 (Suànxiāng dòuchǐ)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "発酵黒豆の豆豉に、にんにくや油を合わせた中華の香味調味料。塩気、発酵旨み、にんにくの香りで炒め物や蒸し料理に深いコクを出す。",
+    "menuDescription": "刻んだ豆豉とにんにくを油で香ばしく仕上げた調味ソース。魚介、豚肉、鶏肉、野菜の炒め物や蒸し物に使われ、少量でも濃い旨みと香りがつく。",
+    "whatComesOut": [
+      "黒っぽい粒状の豆豉入りソース",
+      "にんにくの香りが強い香味油",
+      "炒め物や蒸し魚に絡んだ濃い調味だれ",
+      "瓶入りまたは小皿の調味料"
+    ],
+    "tasteAndTexture": [
+      "豆豉の発酵した塩気とうま味",
+      "にんにくの強い香り",
+      "油で引き出した香ばしさ",
+      "細かい豆粒のほろっとした食感"
+    ],
+    "orderAdvice": "豆豉炒め、蒜香、ブラックビーンズソース表記の料理で出会いやすい。にんにくと濃い中華味が好きなら相性よい。",
+    "caution": "塩分とにんにくの香りが強い。大豆由来の発酵食品。",
+    "similarItems": [
+      {
+        "id": "soy-sauce",
+        "name": "醤油",
+        "difference": "醤油は液体の大豆発酵調味料。蒜香豆豉は粒状の豆豉とにんにくを使う香味ソース"
+      },
+      {
+        "id": "oyster-sauce",
+        "name": "オイスターソース",
+        "difference": "オイスターソースは牡蠣の甘いうま味が中心。蒜香豆豉は発酵黒豆とにんにくの香りが中心"
+      },
+      {
+        "id": "doubanjiang",
+        "name": "豆板醤",
+        "difference": "豆板醤は唐辛子入りの辛味調味料。蒜香豆豉は辛味より豆豉の塩気とにんにく香が主役"
+      }
+    ],
+    "relatedIds": [
+      "soy-sauce",
+      "oyster-sauce",
+      "doubanjiang",
+      "xo-sauce",
+      "sambal"
+    ],
+    "tags": [
+      "中国料理",
+      "ソース",
+      "大豆",
+      "発酵",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "にんにく嫌い",
+      "塩分控えめ",
+      "大豆不可",
+      "発酵臭が苦手",
+      "あっさり好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/suan-xiang-dou-chi/1.jpg",
+      "/images/dishes/suan-xiang-dou-chi/2.jpg",
+      "/images/dishes/suan-xiang-dou-chi/3.jpg"
+    ]
+  },
+  {
+    "id": "yong-chong-cao",
+    "name": "蛹虫草",
+    "kana": "ようちゅうそう",
+    "aliases": [
+      "サナギタケ",
+      "コルディセプス・ミリタリス",
+      "虫草花",
+      "Cordyceps militaris"
+    ],
+    "englishName": "Cordyceps Militaris",
+    "originalName": "蛹虫草 (Yǒngchóngcǎo)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "area": "東アジア"
+      }
+    ],
+    "summary": "鮮やかな橙色をした食用・薬膳系のきのこ。中国料理では虫草花とも呼ばれ、スープ、蒸し物、炒め物に使われる。",
+    "menuDescription": "細長い橙色のきのこ状食材。鶏スープ、薬膳鍋、蒸し鶏、野菜炒めなどに入り、穏やかな旨みと薬膳らしい香りを加える。",
+    "whatComesOut": [
+      "細長い橙色のきのこ状食材",
+      "スープや蒸し料理に入った状態",
+      "乾燥品または戻した柔らかい状態",
+      "薬膳料理の具材"
+    ],
+    "tasteAndTexture": [
+      "穏やかなきのこの旨み",
+      "軽い甘みと薬膳風の香り",
+      "細くしなやかな歯ざわり",
+      "乾物を戻すと柔らかい食感"
+    ],
+    "orderAdvice": "薬膳スープや滋味系中華で見かける。強い味ではなく、体にやさしい印象の具材として選ぶとよい。",
+    "caution": "きのこ類が苦手な人は注意。薬膳風の香りが好みを分ける場合あり。",
+    "similarItems": [
+      {
+        "id": "mushroom",
+        "name": "マッシュルーム",
+        "difference": "マッシュルームは洋食で使う穏やかなきのこ。蛹虫草は橙色で薬膳スープに使われやすい"
+      },
+      {
+        "id": "shiitake",
+        "name": "しいたけ",
+        "difference": "しいたけは傘のある強いうま味のきのこ。蛹虫草は細長く、薬膳的な香りがある"
+      },
+      {
+        "id": "truffle",
+        "name": "トリュフ",
+        "difference": "トリュフは強い芳香の高級きのこ。蛹虫草はスープや蒸し物の具材として使う薬膳系食材"
+      }
+    ],
+    "relatedIds": [
+      "mushroom",
+      "shiitake",
+      "truffle",
+      "dak-hanmari",
+      "steam"
+    ],
+    "tags": [
+      "中国料理",
+      "食材",
+      "きのこ",
+      "スープ",
+      "蒸し料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "きのこ嫌い",
+      "薬膳が苦手",
+      "濃い味",
+      "辛い料理",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/yong-chong-cao/1.jpg"
+    ]
+  },
+  {
+    "id": "yong-chuan-dou-chi",
+    "name": "永川豆豉",
+    "kana": "よんちゅわんどうちー",
+    "aliases": [
+      "永川豆鼓",
+      "永川黒豆豆豉",
+      "ヨンチュワンドウチー",
+      "重慶豆豉"
+    ],
+    "englishName": "Yongchuan Fermented Black Beans",
+    "originalName": "永川豆豉 (Yǒngchuān dòuchǐ)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "重慶"
+      }
+    ],
+    "summary": "重慶・永川名産の発酵黒豆調味料。黒大豆を発酵・熟成させ、塩気と深い旨みで四川料理や炒め物、蒸し魚の味の土台になる。",
+    "menuDescription": "黒い豆粒状の発酵調味料。刻んでにんにくや油と炒めたり、肉・魚・野菜の蒸し物に加えたりして、濃い発酵旨みと香りを出す。",
+    "whatComesOut": [
+      "黒い豆粒状の発酵調味料",
+      "炒め物や蒸し料理に混ざった状態",
+      "塩気と発酵香の強い調味素材",
+      "袋入りや瓶入りの保存食"
+    ],
+    "tasteAndTexture": [
+      "発酵黒豆の濃い旨み",
+      "強めの塩気",
+      "味噌や醤油に近い熟成香",
+      "豆粒のほろっとした食感"
+    ],
+    "orderAdvice": "豆豉、ブラックビーンズ、鼓汁表記の中華料理で味の核になる。発酵調味料のコクが好きなら相性よい。",
+    "caution": "塩分が強い。大豆由来食品で、発酵香が苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "suan-xiang-dou-chi",
+        "name": "蒜香豆豉",
+        "difference": "蒜香豆豉はにんにく入りの調味ソース。永川豆豉は発酵黒豆そのものに近い素材"
+      },
+      {
+        "id": "soy-sauce",
+        "name": "醤油",
+        "difference": "醤油は液体調味料。永川豆豉は粒状の発酵黒豆で、料理に豆の食感も残る"
+      },
+      {
+        "id": "doubanjiang",
+        "name": "豆板醤",
+        "difference": "豆板醤は辛い発酵ペースト。永川豆豉は辛味より黒豆の塩気と発酵旨みが中心"
+      }
+    ],
+    "relatedIds": [
+      "suan-xiang-dou-chi",
+      "soy-sauce",
+      "doubanjiang",
+      "mapo-tofu",
+      "steam"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "大豆",
+      "発酵",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "大豆不可",
+      "塩分控えめ",
+      "発酵臭が苦手",
+      "あっさり好き",
+      "辛味調味料"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "xiang-cui-jiao",
+    "name": "香脆椒",
+    "kana": "しゃんついじゃお",
+    "aliases": [
+      "香酥椒",
+      "クリスピーチリ",
+      "揚げ唐辛子",
+      "香辣脆椒"
+    ],
+    "englishName": "Crispy Chili",
+    "originalName": "香脆椒 (Xiāngcuìjiāo)",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "乾燥唐辛子に衣やごま、ナッツなどを合わせてカリッと揚げた中華の香ばしい辛味食材。料理の具、つまみ、トッピングに使われる。",
+    "menuDescription": "サクサクした唐辛子チップ。鶏肉や海老の炒め物、冷菜、麺、火鍋のトッピングに使われ、辛味より香ばしさと食感が前に出る。",
+    "whatComesOut": [
+      "赤い乾燥唐辛子のサクサクしたチップ",
+      "ごまやナッツをまとった揚げ唐辛子",
+      "料理の上に散らした香ばしいトッピング",
+      "袋入りの辛味スナック"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の香りと軽い辛味",
+      "揚げた香ばしさ",
+      "サクサクした食感",
+      "ごまやナッツのコク"
+    ],
+    "orderAdvice": "辛さより香ばしさと食感を足したい時に向く。辛味が苦手なら量を少なめに。",
+    "caution": "唐辛子、油、ごま、ナッツ類を含む場合あり。商品や店により辛さ差が大きい。",
+    "similarItems": [
+      {
+        "id": "hu-la",
+        "name": "煳辣",
+        "difference": "煳辣は焦がし唐辛子の味型。香脆椒はサクサク食感の揚げ唐辛子食材"
+      },
+      {
+        "id": "xiang-la",
+        "name": "香辣",
+        "difference": "香辣は香りある辛味全般。香脆椒は香辣な風味を持つ唐辛子チップ"
+      },
+      {
+        "id": "sambal",
+        "name": "サンバル",
+        "difference": "サンバルはペースト状の辛味調味料。香脆椒は乾いたサクサクの唐辛子"
+      }
+    ],
+    "relatedIds": [
+      "hu-la",
+      "xiang-la",
+      "ma-la",
+      "lazi-ji",
+      "sambal"
+    ],
+    "tags": [
+      "中国料理",
+      "香辛料",
+      "唐辛子",
+      "揚げ物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "辛いの苦手",
+      "油っこい料理不可",
+      "ごま不可",
+      "ナッツ不可",
+      "あっさり好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/xiang-cui-jiao/1.jpg",
+      "/images/dishes/xiang-cui-jiao/2.jpg",
+      "/images/dishes/xiang-cui-jiao/3.jpg"
+    ]
+  },
+  {
+    "id": "la-xian-lu",
+    "name": "辣鮮露",
+    "kana": "らーしぇんるー",
+    "aliases": [
+      "辣鲜露",
+      "ラーシェンルー",
+      "辛味鮮味調味料"
+    ],
+    "englishName": "Spicy Umami Seasoning Sauce",
+    "originalName": "辣鲜露 (Làxiānlù)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "唐辛子の辛味と液体調味料の鮮味を合わせた中華の業務用系調味ソース。炒め物、和え物、冷菜に少量加えて辛味とうま味を補う。",
+    "menuDescription": "赤褐色の液体調味料。醤油系の塩気、唐辛子の刺激、うま味調味料の鮮味があり、料理の味を手早く強める。",
+    "whatComesOut": [
+      "赤褐色の液体調味料",
+      "冷菜や炒め物に絡む辛味だれ",
+      "小瓶入りの業務用調味料",
+      "辛味とうま味の強い下味"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の鋭い辛味",
+      "醤油系の塩気",
+      "鮮味調味料の強いうま味",
+      "さらっとした液体の口当たり"
+    ],
+    "orderAdvice": "料理名より調味料として出ることが多い。辛味と中華らしい鮮味を足す裏方と理解するとよい。",
+    "caution": "辛味と塩分が強い。商品により添加物やアレルゲンが異なる。",
+    "similarItems": [
+      {
+        "id": "soy-sauce",
+        "name": "醤油",
+        "difference": "醤油は塩気と大豆発酵香が中心。辣鮮露は辛味と鮮味を足した液体調味料"
+      },
+      {
+        "id": "sambal",
+        "name": "サンバル",
+        "difference": "サンバルは唐辛子ペースト。辣鮮露は液体で、辛味より調味の鮮味も強い"
+      },
+      {
+        "id": "xian-la",
+        "name": "鮮辣",
+        "difference": "鮮辣は味型。辣鮮露は鮮辣な味を作る調味ソース"
+      }
+    ],
+    "relatedIds": [
+      "soy-sauce",
+      "sambal",
+      "xian-la",
+      "xiang-la",
+      "nam-pla"
+    ],
+    "tags": [
+      "中国料理",
+      "ソース",
+      "唐辛子",
+      "ピリ辛",
+      "あっさり",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いの苦手",
+      "塩分控えめ",
+      "添加物が気になる",
+      "自然な発酵調味料",
+      "甘いソース"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 3,
+    "images": []
+  },
+  {
+    "id": "jiu-niang",
+    "name": "酒醸",
+    "kana": "ちゅーにゃん",
+    "aliases": [
+      "酒酿",
+      "醪糟",
+      "チューニャン",
+      "甘酒粕"
+    ],
+    "englishName": "Sweet Fermented Rice",
+    "originalName": "酒酿 (Jiǔniàng)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "もち米や米を麹で発酵させた甘い発酵食品。中国の甘いスープ、団子、デザート、料理の香りづけに使われる。",
+    "menuDescription": "白く粒感のある甘い発酵米。酒醸円子や卵入り甘湯に使われ、穏やかな甘みとほのかな酒香がある。",
+    "whatComesOut": [
+      "米粒が残る白い発酵ペースト",
+      "甘い汁物や団子のスープ",
+      "瓶入りの発酵米",
+      "料理の甘みと香りづけ"
+    ],
+    "tasteAndTexture": [
+      "米由来のやさしい甘み",
+      "ほのかな酒の香り",
+      "粒の残るとろっとした食感",
+      "発酵由来の丸い旨み"
+    ],
+    "orderAdvice": "中国デザートや甘いスープで見かける。甘酒に近い印象で、温かい汁物に入ると食べやすい。",
+    "caution": "アルコール分が残る場合あり。米と麹由来食品。",
+    "similarItems": [
+      {
+        "name": "甘酒",
+        "difference": "甘酒は日本の米麹飲料。酒醸は粒感が残り、中国料理の具材やデザート素材になる"
+      },
+      {
+        "id": "okowa",
+        "name": "おこわ",
+        "difference": "おこわはもち米料理。酒醸はもち米を甘く発酵させた食材"
+      },
+      {
+        "id": "xingren-gao",
+        "name": "杏仁豆腐",
+        "difference": "杏仁豆腐は冷たい杏仁風味デザート。酒醸は発酵米を使う甘い素材"
+      }
+    ],
+    "relatedIds": [
+      "xingren-gao",
+      "okowa",
+      "chimaki",
+      "mantou"
+    ],
+    "tags": [
+      "中国料理",
+      "デザート",
+      "米",
+      "発酵",
+      "甘み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "アルコールNG",
+      "甘いもの苦手",
+      "米不可",
+      "発酵臭が苦手",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/jiu-niang/1.jpg",
+      "/images/dishes/jiu-niang/2.jpg",
+      "/images/dishes/jiu-niang/3.jpg"
+    ]
+  },
+  {
+    "id": "bai-jiu",
+    "name": "白酒",
+    "kana": "ばいじゅう",
+    "aliases": [
+      "白酒",
+      "バイジウ",
+      "中国白酒",
+      "高粱酒"
+    ],
+    "englishName": "Baijiu",
+    "originalName": "白酒 (Báijiǔ)",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "高粱などの穀物を発酵・蒸留して作る中国の蒸留酒。強い香りと高いアルコール度数が特徴で、宴席や料理酒に使われる。",
+    "menuDescription": "透明な強い蒸留酒。杯で少量ずつ飲むほか、中華料理の香りづけや肉・魚の臭み消しにも使われる。",
+    "whatComesOut": [
+      "透明な蒸留酒",
+      "小さな杯で提供",
+      "強い穀物発酵香",
+      "料理酒として使う香りづけ"
+    ],
+    "tasteAndTexture": [
+      "強いアルコール感",
+      "穀物発酵由来の濃い香り",
+      "銘柄により甘い香りや醤香",
+      "後味に残る力強さ"
+    ],
+    "orderAdvice": "度数が高いので少量から。料理と合わせるなら濃い中華、肉料理、辛い料理と相性がよい。",
+    "caution": "高アルコール。香りが強く、酒に弱い人は注意。",
+    "similarItems": [
+      {
+        "name": "紹興酒",
+        "difference": "紹興酒は醸造酒。白酒は蒸留酒で度数と香りがより強い"
+      },
+      {
+        "name": "焼酎",
+        "difference": "焼酎も蒸留酒だが、白酒は中国独自の麹と香型で香りが強い"
+      },
+      {
+        "name": "ウォッカ",
+        "difference": "ウォッカはクセを抑えた蒸留酒が多い。白酒は発酵香を強く残す"
+      }
+    ],
+    "relatedIds": [
+      "hong-shao-pai-gu",
+      "dong-po-rou",
+      "la-xian-lu"
+    ],
+    "tags": [
+      "中国料理",
+      "飲み物",
+      "発酵",
+      "蒸留酒",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "アルコールNG",
+      "酒が弱い",
+      "香り強い酒が苦手",
+      "甘い飲み物",
+      "ノンアルコール"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bai-jiu/1.jpg",
+      "/images/dishes/bai-jiu/2.jpg",
+      "/images/dishes/bai-jiu/3.jpg"
+    ]
+  },
+  {
+    "id": "you-po-la-zi",
+    "name": "油溌辣子",
+    "kana": "ようぽーらーずー",
+    "aliases": [
+      "油泼辣子",
+      "油辣子",
+      "ヨウポーラーズー",
+      "中華ラー油"
+    ],
+    "englishName": "Hot Oil Chili",
+    "originalName": "油泼辣子 (Yóupō làzi)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "陝西・四川"
+      }
+    ],
+    "summary": "唐辛子粉や香辛料に熱い油を注いで香りを立てる中華の辛味油。麺、餃子、冷菜、和え物に香ばしい辛味を加える。",
+    "menuDescription": "赤い辣油に唐辛子粉やごま、香辛料が沈んだ調味料。熱油で唐辛子の香りを引き出しており、辛味と香ばしさが強い。",
+    "whatComesOut": [
+      "赤い辛味油",
+      "唐辛子粉やごまの沈んだ調味料",
+      "麺や餃子にかけるトッピング",
+      "香辛料の香りが立つ油"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の辛味",
+      "熱油で立つ香ばしさ",
+      "ごまや香辛料のコク",
+      "油のこってりした口当たり"
+    ],
+    "orderAdvice": "辛味と香りを足したい時に少量から。ビャンビャン麺、餃子、冷菜と相性よい。",
+    "caution": "辛味と油分が強い。ごまを含む場合あり。",
+    "similarItems": [
+      {
+        "id": "xiang-la",
+        "name": "香辣",
+        "difference": "香辣は香りある辛味の味型。油溌辣子は香辣を作る辛味油"
+      },
+      {
+        "id": "sambal",
+        "name": "サンバル",
+        "difference": "サンバルは唐辛子ペースト。油溌辣子は熱油を注いだ中華の辛味油"
+      },
+      {
+        "id": "kanzuri",
+        "name": "かんずり",
+        "difference": "かんずりは発酵唐辛子ペースト。油溌辣子は油と唐辛子の香ばしさが主役"
+      }
+    ],
+    "relatedIds": [
+      "xiang-la",
+      "ma-la",
+      "hu-la",
+      "sambal",
+      "xiang-cui-jiao"
+    ],
+    "tags": [
+      "中国料理",
+      "ソース",
+      "唐辛子",
+      "油",
+      "ピリ辛",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いの苦手",
+      "油っこい料理不可",
+      "ごま不可",
+      "あっさり好き",
+      "低脂質"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/you-po-la-zi/1.jpg",
+      "/images/dishes/you-po-la-zi/2.jpg",
+      "/images/dishes/you-po-la-zi/3.jpg"
+    ]
+  },
+  {
+    "id": "ma-la-jiang",
+    "name": "麻辣醤",
+    "kana": "まーらーじゃん",
+    "aliases": [
+      "麻辣酱",
+      "マーラージャン",
+      "麻辣ソース",
+      "しびれ辛味噌"
+    ],
+    "englishName": "Mala Sauce",
+    "originalName": "麻辣酱 (Málà jiàng)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "唐辛子、花椒、豆板醤、油などを合わせたしびれる辛味ソース。火鍋、和え物、炒め物、麺の味付けに使う。",
+    "menuDescription": "赤褐色の辛味ペーストまたは油だれ。唐辛子の辛さと花椒の痺れがあり、少量で四川風の麻辣味になる。",
+    "whatComesOut": [
+      "赤い辛味ペースト",
+      "花椒が効いたしびれるソース",
+      "火鍋や麺に溶かす調味料",
+      "炒め物に絡む濃い辛味だれ"
+    ],
+    "tasteAndTexture": [
+      "花椒のしびれ",
+      "唐辛子の強い辛味",
+      "発酵調味料のコク",
+      "油を含むこってりした口当たり"
+    ],
+    "orderAdvice": "麻辣味をはっきり出したい時の調味料。しびれが苦手なら避けるか量を少なめに。",
+    "caution": "辛味と花椒のしびれが強い。油分・塩分も高め。",
+    "similarItems": [
+      {
+        "id": "ma-la",
+        "name": "麻辣",
+        "difference": "麻辣は味型。麻辣醤はその味を作るペースト状調味料"
+      },
+      {
+        "id": "doubanjiang",
+        "name": "豆板醤",
+        "difference": "豆板醤は唐辛子と豆の発酵調味料。麻辣醤は花椒や香辛料も合わせたしびれ辛味ソース"
+      },
+      {
+        "id": "you-po-la-zi",
+        "name": "油溌辣子",
+        "difference": "油溌辣子は辛味油。麻辣醤は花椒と発酵調味料を含む濃いソース"
+      }
+    ],
+    "relatedIds": [
+      "ma-la",
+      "doubanjiang",
+      "you-po-la-zi",
+      "xiang-la",
+      "mapo-tofu"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "ソース",
+      "唐辛子",
+      "スパイス",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いの苦手",
+      "花椒嫌い",
+      "油っこい料理不可",
+      "あっさり好き",
+      "甘いソース"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 5,
+    "images": [
+      "/images/dishes/ma-la-jiang/1.jpg",
+      "/images/dishes/ma-la-jiang/2.jpg",
+      "/images/dishes/ma-la-jiang/3.jpg"
+    ]
+  },
+  {
+    "id": "tian-jiang-you",
+    "name": "甜醤油",
+    "kana": "てんじゃんゆー",
+    "aliases": [
+      "甜酱油",
+      "甘醤油",
+      "中華甘醤油",
+      "複製醤油"
+    ],
+    "englishName": "Sweet Soy Sauce",
+    "originalName": "甜酱油 (Tián jiàngyóu)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川・雲南"
+      }
+    ],
+    "summary": "醤油に砂糖や香辛料を加えて煮詰めた甘い中華醤油。冷菜、麺、蒸し鶏、四川小吃のたれに使う。",
+    "menuDescription": "黒くとろみのある甘い醤油だれ。塩気、甘み、香辛料の香りがあり、料理に照りと丸いコクを出す。",
+    "whatComesOut": [
+      "黒い甘醤油だれ",
+      "冷菜や麺にかかる濃いソース",
+      "煮詰めたとろみ",
+      "香辛料の香る調味液"
+    ],
+    "tasteAndTexture": [
+      "醤油の塩気",
+      "砂糖由来の甘み",
+      "八角などの香辛料の香り",
+      "とろっとした口当たり"
+    ],
+    "orderAdvice": "甘辛い中華だれが好きなら合う。辛味調味料と合わせて担担麺や冷菜の味を丸くする。",
+    "caution": "砂糖を多く含む。甘い味付けが苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "soy-sauce",
+        "name": "醤油",
+        "difference": "醤油は塩気中心。甜醤油は砂糖と香辛料で甘く煮詰める"
+      },
+      {
+        "id": "glaze",
+        "name": "グレイズ",
+        "difference": "グレイズは照りを出す仕上げ全般。甜醤油は中華の甘い醤油だれ"
+      },
+      {
+        "id": "teriyaki",
+        "name": "照り焼き",
+        "difference": "照り焼きは日本の甘辛い焼き調理。甜醤油は中国料理の調味ソース"
+      }
+    ],
+    "relatedIds": [
+      "soy-sauce",
+      "glaze",
+      "teriyaki",
+      "dan-dan-mian",
+      "kou-shui-ji"
+    ],
+    "tags": [
+      "中国料理",
+      "ソース",
+      "大豆",
+      "甘み",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "甘い味が苦手",
+      "糖質控えめ",
+      "大豆不可",
+      "辛い料理好き",
+      "あっさり好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tian-jiang-you/1.jpg",
+      "/images/dishes/tian-jiang-you/2.jpg",
+      "/images/dishes/tian-jiang-you/3.jpg"
+    ]
+  },
+  {
+    "id": "fu-shun-xiang-la-jiang",
+    "name": "富順香辣醬",
+    "kana": "ふーしゅんしゃんらーじゃん",
+    "aliases": [
+      "富顺香辣酱",
+      "富順香辣醤",
+      "富順辛味噌",
+      "香辣醤"
+    ],
+    "englishName": "Fushun Fragrant Chili Sauce",
+    "originalName": "富顺香辣酱 (Fùshùn xiānglàjiàng)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "四川・富順系の香り高い唐辛子味噌。唐辛子、発酵豆、香辛料、油のコクで麺、炒め物、和え物に香辣味を加える。",
+    "menuDescription": "赤褐色の辛味ペースト。唐辛子の香り、発酵調味料の旨み、油のコクがあり、少量で料理を香ばしく辛くする。",
+    "whatComesOut": [
+      "赤褐色の辛味味噌",
+      "油を含む香辣ペースト",
+      "麺や炒め物に絡む調味だれ",
+      "瓶入りの中華辛味ソース"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の香りある辛味",
+      "発酵豆の旨み",
+      "油と香辛料のこってりしたコク",
+      "ペースト状の濃い口当たり"
+    ],
+    "orderAdvice": "香辣系の辛味が好きなら使いやすい。豆板醤より香味油と複合スパイス感を期待するとよい。",
+    "caution": "辛味、油分、塩分が強い。大豆やごまを含む場合あり。",
+    "similarItems": [
+      {
+        "id": "xiang-la",
+        "name": "香辣",
+        "difference": "香辣は味型。富順香辣醬は香辣味を出す地域色ある辛味ソース"
+      },
+      {
+        "id": "doubanjiang",
+        "name": "豆板醤",
+        "difference": "豆板醤は発酵そら豆と唐辛子が核。富順香辣醬は香辛料と油の香りも強い"
+      },
+      {
+        "id": "ma-la-jiang",
+        "name": "麻辣醤",
+        "difference": "麻辣醤は花椒のしびれが主役。富順香辣醬は香りある唐辛子の辛味が主役"
+      }
+    ],
+    "relatedIds": [
+      "xiang-la",
+      "doubanjiang",
+      "ma-la-jiang",
+      "you-po-la-zi",
+      "xiang-cui-jiao"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "ソース",
+      "唐辛子",
+      "スパイス",
+      "ピリ辛",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いの苦手",
+      "油っこい料理不可",
+      "大豆不可",
+      "あっさり好き",
+      "甘いソース"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": []
+  },
+  {
+    "id": "suan-tang-jiang",
+    "name": "酸湯醤",
+    "kana": "すわんたんじゃん",
+    "aliases": [
+      "酸汤酱",
+      "酸湯醬",
+      "サワースープソース",
+      "酸湯調味料"
+    ],
+    "englishName": "Sour Soup Sauce",
+    "originalName": "酸汤酱 (Suāntāngjiàng)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "貴州・四川"
+      }
+    ],
+    "summary": "発酵唐辛子やトマト、酸味素材を使い、酸っぱく辛いスープを作る中華調味ソース。魚、牛肉、野菜の酸湯料理に使われる。",
+    "menuDescription": "赤や黄みを帯びた酸辛いペーストまたはソース。鍋やスープに溶くと、発酵由来の酸味、唐辛子の辛味、野菜の旨みが出る。",
+    "whatComesOut": [
+      "酸っぱく辛いスープベース",
+      "赤または黄色の調味ペースト",
+      "魚や肉の鍋に溶いた状態",
+      "発酵香のある酸辛だれ"
+    ],
+    "tasteAndTexture": [
+      "発酵由来の酸味",
+      "唐辛子の辛味",
+      "トマトや野菜の旨み",
+      "スープに溶ける濃いペースト感"
+    ],
+    "orderAdvice": "酸味のある辛い鍋や魚料理が好きなら向く。酸辣湯より発酵感が強いことが多い。",
+    "caution": "酸味、辛味、発酵香が強い。辛さや酸っぱさが苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "suan-la",
+        "name": "酸辣",
+        "difference": "酸辣は酸味と辛味の味型。酸湯醤は酸湯料理のスープベース調味料"
+      },
+      {
+        "id": "zao-la",
+        "name": "糟辣",
+        "difference": "糟辣は発酵唐辛子の味型。酸湯醤はそれを含む酸っぱいスープ用ソース"
+      },
+      {
+        "id": "suan-cai-yu",
+        "name": "酸菜魚",
+        "difference": "酸菜魚は発酵白菜と魚の料理。酸湯醤は酸辛スープを作る調味料"
+      }
+    ],
+    "relatedIds": [
+      "suan-la",
+      "zao-la",
+      "suan-cai-yu",
+      "xian-la",
+      "doubanjiang"
+    ],
+    "tags": [
+      "中国料理",
+      "ソース",
+      "唐辛子",
+      "発酵",
+      "酸味",
+      "ピリ辛",
+      "スープ"
+    ],
+    "reverseKeywords": [
+      "酸味が苦手",
+      "辛いの苦手",
+      "発酵臭が苦手",
+      "甘いソース",
+      "あっさり薄味"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/suan-tang-jiang/1.jpg",
+      "/images/dishes/suan-tang-jiang/2.jpg"
+    ]
+  },
+  {
+    "id": "kao-ya-bing",
+    "name": "カオヤーピン",
+    "kana": "かおやーぴん",
+    "aliases": [
+      "烤鴨餅",
+      "荷葉餅",
+      "北京ダックの薄餅",
+      "カオヤービン"
+    ],
+    "englishName": "Peking Duck Pancake",
+    "originalName": "烤鸭饼 (Kǎoyābǐng)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "北京"
+      }
+    ],
+    "summary": "北京ダックを包む薄い小麦粉の蒸し皮。甜麺醤、ねぎ、きゅうり、鴨肉を包んで食べる。",
+    "menuDescription": "白く薄い丸い皮。北京ダックの卓上で蒸籠や皿に重ねて出され、具とソースを包む。",
+    "whatComesOut": [
+      "薄い白い小麦粉の皮",
+      "蒸籠や皿に重ねた状態",
+      "北京ダックや薬味を包む皮",
+      "しっとり柔らかい包み生地"
+    ],
+    "tasteAndTexture": [
+      "小麦の淡い甘み",
+      "しっとり柔らかい食感",
+      "具材を包むもちっとした口当たり",
+      "ソースを受け止める穏やかな味"
+    ],
+    "orderAdvice": "北京ダックで一緒に出る皮。単体料理ではなく、鴨肉と薬味を包むためのもの。",
+    "caution": "小麦使用。冷めると乾きやすい。",
+    "similarItems": [
+      {
+        "id": "peking-duck",
+        "name": "北京ダック",
+        "difference": "北京ダックは鴨料理本体。カオヤーピンはそれを包む薄餅"
+      },
+      {
+        "id": "tortilla",
+        "name": "トルティージャ",
+        "difference": "トルティージャは卵料理。カオヤーピンは小麦の薄い包み皮"
+      },
+      {
+        "id": "spring-roll",
+        "name": "春巻き",
+        "difference": "春巻きは皮で具を巻いて揚げる。カオヤーピンは蒸した薄皮で具を包む"
+      }
+    ],
+    "relatedIds": [
+      "peking-duck",
+      "tianmianjiang",
+      "baozi",
+      "mantou",
+      "spring-roll"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "小麦",
+      "蒸し料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "小麦不可",
+      "皮もの苦手",
+      "単品主菜",
+      "揚げ物",
+      "濃い味"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "egg-tart",
+    "name": "エッグタルト",
+    "kana": "えっぐたると",
+    "aliases": [
+      "蛋撻",
+      "蛋挞",
+      "ダンタッ",
+      "ポルトガル風エッグタルト"
+    ],
+    "englishName": "Egg Tart",
+    "originalName": "蛋挞 (Dàntà)",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "香港・マカオ"
+      },
+      {
+        "country": "ポルトガル"
+      }
+    ],
+    "summary": "サクサクのタルト生地に卵カスタードを流して焼いた菓子。香港式はなめらか、マカオ式は焼き色が強い。",
+    "menuDescription": "小さな丸いタルト。パイまたはクッキー状の皮に黄色い卵カスタードが入り、焼きたては香ばしく甘い。",
+    "whatComesOut": [
+      "手のひらサイズの丸いタルト",
+      "黄色い卵カスタード",
+      "サクサクまたはほろほろの生地",
+      "表面に焼き色があるタイプ"
+    ],
+    "tasteAndTexture": [
+      "卵とミルクのやさしい甘み",
+      "カスタードのなめらかさ",
+      "生地の香ばしさ",
+      "焼きたての軽いサクサク感"
+    ],
+    "orderAdvice": "点心や中華系ベーカリーの定番。焼きたてがあれば優先。甘さ控えめが好きでも食べやすい。",
+    "caution": "卵、乳、小麦を使う。",
+    "similarItems": [
+      {
+        "id": "creme-brulee",
+        "name": "クレームブリュレ",
+        "difference": "クレームブリュレはカスタードを器で焼く。エッグタルトは生地に入れて焼く"
+      },
+      {
+        "id": "crema-catalana",
+        "name": "クレマカタラーナ",
+        "difference": "クレマカタラーナはクリーム主体のデザート。エッグタルトはタルト生地つき"
+      },
+      {
+        "id": "panna-cotta",
+        "name": "パンナコッタ",
+        "difference": "パンナコッタは冷たい固めるデザート。エッグタルトは焼き菓子"
+      }
+    ],
+    "relatedIds": [
+      "creme-brulee",
+      "crema-catalana",
+      "panna-cotta",
+      "xingren-gao"
+    ],
+    "tags": [
+      "中国料理",
+      "デザート",
+      "卵",
+      "小麦",
+      "焼き物",
+      "甘み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "卵不可",
+      "乳製品不可",
+      "小麦不可",
+      "甘いもの苦手",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "chen-nian-hua-diao-jiu",
+    "name": "陳年花彫酒",
+    "kana": "ちんねんふぁーでぃゃおじゅう",
+    "aliases": [
+      "陳年花雕酒",
+      "花彫酒",
+      "紹興花彫酒",
+      "老花雕"
+    ],
+    "englishName": "Aged Huadiao Wine",
+    "originalName": "陈年花雕酒 (Chénnián huādiāojiǔ)",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "浙江・紹興"
+      }
+    ],
+    "summary": "紹興酒の一種で、熟成香と甘みを持つ黄酒。飲用のほか、肉や魚介料理の香りづけにも使われる。",
+    "menuDescription": "琥珀色の中国酒。常温、燗、ロックで飲まれ、干し梅や氷砂糖を添えることもある。",
+    "whatComesOut": [
+      "琥珀色の醸造酒",
+      "小さな杯または酒器",
+      "熟成した穀物香",
+      "料理酒としての香りづけ"
+    ],
+    "tasteAndTexture": [
+      "米由来の甘みとうま味",
+      "熟成した香ばしい香り",
+      "穏やかな酸味",
+      "白酒より低いアルコール感"
+    ],
+    "orderAdvice": "中華の肉料理や上海・浙江料理と相性よい。強い酒が苦手なら白酒より飲みやすい。",
+    "caution": "アルコール飲料。甘い香りが苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "bai-jiu",
+        "name": "白酒",
+        "difference": "白酒は蒸留酒で度数が高い。陳年花彫酒は醸造酒でまろやか"
+      },
+      {
+        "id": "jiu-niang",
+        "name": "酒醸",
+        "difference": "酒醸は甘い発酵米食材。陳年花彫酒は飲用の熟成酒"
+      },
+      {
+        "id": "hong-shao-pai-gu",
+        "name": "紅焼排骨",
+        "difference": "紅焼排骨は料理。陳年花彫酒は香りづけにも使う酒"
+      }
+    ],
+    "relatedIds": [
+      "bai-jiu",
+      "jiu-niang",
+      "hong-shao-pai-gu",
+      "dong-po-rou"
+    ],
+    "tags": [
+      "中国料理",
+      "飲み物",
+      "米",
+      "発酵",
+      "甘み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "アルコールNG",
+      "酒が弱い",
+      "甘い酒が苦手",
+      "ノンアルコール",
+      "辛い飲み物"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "zhenjiang-xiang-cu",
+    "name": "鎮江香酢",
+    "kana": "ちんこうこうず",
+    "aliases": [
+      "镇江香醋",
+      "鎮江黒酢",
+      "中国黒酢",
+      "香醋"
+    ],
+    "englishName": "Zhenjiang Black Vinegar",
+    "originalName": "镇江香醋 (Zhènjiāng xiāngcù)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "江蘇・鎮江"
+      }
+    ],
+    "summary": "もち米や穀物を発酵させた中国の黒酢。深い酸味、甘み、香ばしい熟成香があり、点心のたれや煮込みに使う。",
+    "menuDescription": "黒褐色の酢。餃子や小籠包につけたり、酢豚、冷菜、黒酢煮込みでコクと酸味を出す。",
+    "whatComesOut": [
+      "黒褐色の液体酢",
+      "小皿のつけだれ",
+      "煮込みや冷菜に使う酸味調味料",
+      "熟成香のある黒酢"
+    ],
+    "tasteAndTexture": [
+      "丸い酸味",
+      "穀物発酵の旨み",
+      "ほのかな甘み",
+      "香ばしい熟成香"
+    ],
+    "orderAdvice": "小籠包や餃子のたれで見かける。酸味が好きなら黒酢料理も選びやすい。",
+    "caution": "酸味が強い。穀物由来の発酵調味料。",
+    "similarItems": [
+      {
+        "id": "suan-la",
+        "name": "酸辣",
+        "difference": "酸辣は酸味と辛味の味型。鎮江香酢は酸味を作る黒酢"
+      },
+      {
+        "id": "xiang-cu-rou-kuai",
+        "name": "香醋肉塊",
+        "difference": "香醋肉塊は黒酢煮込み料理。鎮江香酢はその調味料"
+      },
+      {
+        "id": "vinaigrette",
+        "name": "ヴィネグレット",
+        "difference": "ヴィネグレットは油と酢のソース。鎮江香酢は中国の黒酢単体"
+      }
+    ],
+    "relatedIds": [
+      "suan-la",
+      "xiang-cu-rou-kuai",
+      "xiaolongbao",
+      "vinaigrette",
+      "agrodolce"
+    ],
+    "tags": [
+      "中国料理",
+      "ソース",
+      "発酵",
+      "酸味",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "酸味が苦手",
+      "酢が苦手",
+      "甘いソース",
+      "辛味調味料",
+      "こってり好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "pao-la-jiao",
+    "name": "泡辣椒",
+    "kana": "ぱおらーじゃお",
+    "aliases": [
+      "泡椒",
+      "泡唐辛子",
+      "発酵唐辛子",
+      "ピクルドチリ"
+    ],
+    "englishName": "Pickled Chili",
+    "originalName": "泡辣椒 (Pào làjiāo)",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "唐辛子を塩水で乳酸発酵させた四川系の辛味食材。酸味、辛味、発酵旨みで魚香味や酸湯系料理に使う。",
+    "menuDescription": "赤や青の発酵唐辛子。刻んで炒め物、煮込み、ソースに加え、普通の唐辛子より酸味と旨みを出す。",
+    "whatComesOut": [
+      "塩水漬けの唐辛子",
+      "刻んだ赤い発酵唐辛子",
+      "酸味ある辛味ペースト状の具材",
+      "瓶入りの泡菜系食材"
+    ],
+    "tasteAndTexture": [
+      "発酵由来の酸味",
+      "唐辛子の辛味",
+      "塩気と旨み",
+      "皮の残るシャキッとした食感"
+    ],
+    "orderAdvice": "魚香、泡椒、酸湯の料理で重要。辛味だけでなく酸味が欲しい人向け。",
+    "caution": "辛味、酸味、塩分が強い。",
+    "similarItems": [
+      {
+        "id": "zao-la",
+        "name": "糟辣",
+        "difference": "糟辣は発酵唐辛子の味型。泡辣椒は実際の塩水発酵唐辛子"
+      },
+      {
+        "id": "doubanjiang",
+        "name": "豆板醤",
+        "difference": "豆板醤は豆入り発酵ペースト。泡辣椒は唐辛子の漬物"
+      },
+      {
+        "id": "sambal",
+        "name": "サンバル",
+        "difference": "サンバルは東南アジアの辛味ペースト。泡辣椒は中国の発酵唐辛子"
+      }
+    ],
+    "relatedIds": [
+      "zao-la",
+      "doubanjiang",
+      "suan-tang-jiang",
+      "yu-xiang-rou-si",
+      "sambal"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "香辛料",
+      "唐辛子",
+      "発酵",
+      "酸味",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "辛いの苦手",
+      "酸味が苦手",
+      "塩分控えめ",
+      "発酵臭が苦手",
+      "甘い味"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 4,
+    "images": []
+  },
+  {
+    "id": "hua-jiao",
+    "name": "花椒",
+    "kana": "ほわじゃお",
+    "aliases": [
+      "四川花椒",
+      "中国山椒",
+      "ホアジャオ",
+      "Sichuan pepper"
+    ],
+    "englishName": "Sichuan Pepper",
+    "originalName": "花椒 (Huājiāo)",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "舌がしびれる刺激を持つミカン科の香辛料。四川料理の麻味を作り、麻婆豆腐や火鍋、よだれ鶏に欠かせない。",
+    "menuDescription": "赤褐色の小さな果皮を乾燥させたスパイス。粉末、粒、油で使われ、柑橘の香りとしびれを加える。",
+    "whatComesOut": [
+      "赤褐色の乾燥果皮",
+      "粉末の花椒",
+      "料理に散る小さな粒",
+      "しびれる香りのスパイス"
+    ],
+    "tasteAndTexture": [
+      "舌に残るしびれ",
+      "柑橘に似た爽やかな香り",
+      "軽い苦み",
+      "辛味油と合う強い香り"
+    ],
+    "orderAdvice": "麻辣のしびれが好きなら重要食材。苦手なら花椒少なめ指定が必要。",
+    "caution": "しびれと香りが強い。山椒系が苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "ma-la",
+        "name": "麻辣",
+        "difference": "麻辣は味型。花椒は麻辣のしびれを作る香辛料"
+      },
+      {
+        "id": "hua-jiao-you",
+        "name": "花椒油",
+        "difference": "花椒油は花椒の香りを移した油。花椒は粒や粉の香辛料"
+      },
+      {
+        "id": "teng-jiao-you",
+        "name": "藤椒油",
+        "difference": "藤椒油は青い藤椒の油。花椒はより乾いた果皮香としびれが中心"
+      }
+    ],
+    "relatedIds": [
+      "ma-la",
+      "ma-la-jiang",
+      "mapo-tofu",
+      "kou-shui-ji",
+      "xiang-la"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "香辛料",
+      "スパイス",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "花椒嫌い",
+      "しびれが苦手",
+      "辛いの苦手",
+      "香り強いスパイス不可",
+      "甘い味"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 3,
+    "images": []
+  },
+  {
+    "id": "pao-jiao-lao-you",
+    "name": "泡椒老油",
+    "kana": "ぱおじゃおらおよう",
+    "aliases": [
+      "泡椒老油醤",
+      "泡椒油",
+      "発酵唐辛子老油",
+      "泡椒香味油"
+    ],
+    "englishName": "Pickled Chili Aged Oil",
+    "originalName": "泡椒老油 (Pàojiāo lǎoyóu)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "泡辣椒や香辛料を油に移した酸辛い香味油。炒め物、魚料理、麺、冷菜に発酵唐辛子の香りと赤い油を加える。",
+    "menuDescription": "赤みのある辛味油。泡椒の酸味、唐辛子の辛味、油のコクがあり、料理に酸辛い香りをまとわせる。",
+    "whatComesOut": [
+      "赤い香味油",
+      "泡椒の香りが移った油",
+      "炒め物に絡む酸辛い油だれ",
+      "瓶入りの調味油"
+    ],
+    "tasteAndTexture": [
+      "泡椒の酸味",
+      "唐辛子の辛味",
+      "油のこってりしたコク",
+      "発酵唐辛子の香り"
+    ],
+    "orderAdvice": "泡椒味や酸辛い魚料理が好きなら合う。辛味と油分が強いので少量から。",
+    "caution": "辛味、酸味、油分、塩分が強い。",
+    "similarItems": [
+      {
+        "id": "pao-la-jiao",
+        "name": "泡辣椒",
+        "difference": "泡辣椒は発酵唐辛子そのもの。泡椒老油はその香りを移した油"
+      },
+      {
+        "id": "you-po-la-zi",
+        "name": "油溌辣子",
+        "difference": "油溌辣子は熱油唐辛子。泡椒老油は泡椒由来の酸味がある"
+      },
+      {
+        "id": "suan-tang-jiang",
+        "name": "酸湯醤",
+        "difference": "酸湯醤はスープベース。泡椒老油は仕上げや炒め用の香味油"
+      }
+    ],
+    "relatedIds": [
+      "pao-la-jiao",
+      "you-po-la-zi",
+      "suan-tang-jiang",
+      "zao-la",
+      "xiang-la"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "ソース",
+      "唐辛子",
+      "油",
+      "発酵",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "辛いの苦手",
+      "酸味が苦手",
+      "油っこい料理不可",
+      "塩分控えめ",
+      "あっさり好き"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": []
+  },
+  {
+    "id": "mu-jiang-you",
+    "name": "木姜油",
+    "kana": "むーじゃんよう",
+    "aliases": [
+      "木姜子油",
+      "山胡椒油",
+      "リツェア油",
+      "山蒼子油"
+    ],
+    "englishName": "Litsea Oil",
+    "originalName": "木姜油 (Mùjiāngyóu)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "貴州・雲南"
+      }
+    ],
+    "summary": "木姜子の強い柑橘香を油に移した香味油。貴州や雲南の酸湯、和え物、魚料理に爽やかな香りを加える。",
+    "menuDescription": "黄色みのある香味油。レモングラスや山椒に近い鮮烈な香りがあり、酸っぱいスープや冷菜に少量使う。",
+    "whatComesOut": [
+      "香りの強い黄色系の油",
+      "酸湯や冷菜に垂らす香味油",
+      "柑橘に似た香り",
+      "瓶入りの調味油"
+    ],
+    "tasteAndTexture": [
+      "強い柑橘系の香り",
+      "山椒に近い爽やかな刺激",
+      "油の軽いコク",
+      "後味に残る清涼感"
+    ],
+    "orderAdvice": "貴州系の酸湯や香り強い料理で見かける。香りがかなり個性的なので少量から。",
+    "caution": "香りが非常に強い。柑橘・山椒系の香りが苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "teng-jiao-you",
+        "name": "藤椒油",
+        "difference": "藤椒油はしびれと青い山椒香。木姜油は柑橘系の清涼香が強い"
+      },
+      {
+        "id": "hua-jiao-you",
+        "name": "花椒油",
+        "difference": "花椒油はしびれが中心。木姜油は爽やかな香りが中心"
+      },
+      {
+        "id": "suan-tang-jiang",
+        "name": "酸湯醤",
+        "difference": "酸湯醤は酸辛スープベース。木姜油は仕上げに香りを足す油"
+      }
+    ],
+    "relatedIds": [
+      "teng-jiao-you",
+      "hua-jiao-you",
+      "suan-tang-jiang",
+      "xian-la"
+    ],
+    "tags": [
+      "中国料理",
+      "ソース",
+      "ハーブ",
+      "油",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "香り強い油が苦手",
+      "油っこい料理不可",
+      "山椒嫌い",
+      "柑橘香が苦手",
+      "甘い味"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "teng-jiao-you",
+    "name": "藤椒油",
+    "kana": "とんじゃおよう",
+    "aliases": [
+      "青花椒油",
+      "藤椒香油",
+      "テンジャオ油",
+      "グリーン四川ペッパーオイル"
+    ],
+    "englishName": "Green Sichuan Pepper Oil",
+    "originalName": "藤椒油 (Téngjiāoyóu)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "青い藤椒の香りとしびれを移した香味油。花椒油より爽やかで青い香りがあり、魚、鶏、冷菜に使われる。",
+    "menuDescription": "淡い緑から黄色のしびれ油。料理の仕上げにかけると、青い柑橘風の香りと舌のしびれが出る。",
+    "whatComesOut": [
+      "青みのある香味油",
+      "冷菜や魚料理にかけるしびれ油",
+      "藤椒の爽やかな香り",
+      "瓶入りの調味油"
+    ],
+    "tasteAndTexture": [
+      "爽やかな青い香り",
+      "花椒系のしびれ",
+      "油の軽いコク",
+      "後味の清涼感"
+    ],
+    "orderAdvice": "麻辣より軽く爽やかなしびれが欲しい時に向く。藤椒魚、椒麻鶏系で出会いやすい。",
+    "caution": "しびれと香りが強い。油分あり。",
+    "similarItems": [
+      {
+        "id": "hua-jiao-you",
+        "name": "花椒油",
+        "difference": "花椒油は赤花椒寄りの強いしびれ。藤椒油は青く爽やかな香りが強い"
+      },
+      {
+        "id": "hua-jiao",
+        "name": "花椒",
+        "difference": "花椒は粒や粉の香辛料。藤椒油は油に香りとしびれを移した調味料"
+      },
+      {
+        "id": "mu-jiang-you",
+        "name": "木姜油",
+        "difference": "木姜油は柑橘香が主役。藤椒油は藤椒のしびれと青い香りが主役"
+      }
+    ],
+    "relatedIds": [
+      "hua-jiao",
+      "hua-jiao-you",
+      "mu-jiang-you",
+      "ma-la",
+      "xian-la"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "ソース",
+      "スパイス",
+      "油",
+      "ピリ辛",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "しびれが苦手",
+      "花椒嫌い",
+      "油っこい料理不可",
+      "香り強い油が苦手",
+      "甘い味"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "hua-jiao-you",
+    "name": "花椒油",
+    "kana": "ほわじゃおよう",
+    "aliases": [
+      "四川花椒油",
+      "ホアジャオ油",
+      "しびれ油",
+      "Sichuan pepper oil"
+    ],
+    "englishName": "Sichuan Pepper Oil",
+    "originalName": "花椒油 (Huājiāoyóu)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "花椒の香りとしびれを油に移した中華の香味油。冷菜、麺、火鍋、麻辣料理の仕上げに使う。",
+    "menuDescription": "透明から淡い黄色の香味油。数滴で花椒の香りと舌のしびれを足せる。",
+    "whatComesOut": [
+      "花椒の香りがする油",
+      "冷菜や麺にかけるしびれ油",
+      "瓶入りの調味油",
+      "麻辣料理の仕上げ油"
+    ],
+    "tasteAndTexture": [
+      "花椒のしびれ",
+      "柑橘に似た香り",
+      "油のなめらかな口当たり",
+      "後味に残るスパイス感"
+    ],
+    "orderAdvice": "しびれを足したい時に少量使う。辛さより花椒の麻味を強めたい人向け。",
+    "caution": "しびれと香りが強い。油分あり。",
+    "similarItems": [
+      {
+        "id": "hua-jiao",
+        "name": "花椒",
+        "difference": "花椒は粒や粉の香辛料。花椒油は油に香りを移した調味料"
+      },
+      {
+        "id": "teng-jiao-you",
+        "name": "藤椒油",
+        "difference": "藤椒油は青く爽やかな香り。花椒油は花椒らしい乾いたしびれが中心"
+      },
+      {
+        "id": "you-po-la-zi",
+        "name": "油溌辣子",
+        "difference": "油溌辣子は唐辛子の辛味油。花椒油はしびれが主役"
+      }
+    ],
+    "relatedIds": [
+      "hua-jiao",
+      "teng-jiao-you",
+      "you-po-la-zi",
+      "ma-la",
+      "ma-la-jiang"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "ソース",
+      "スパイス",
+      "油",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "しびれが苦手",
+      "花椒嫌い",
+      "油っこい料理不可",
+      "辛いの苦手",
+      "あっさり好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "xia-huang-jiang",
+    "name": "蝦黄醬",
+    "kana": "しゃーほわんじゃん",
+    "aliases": [
+      "虾黄酱",
+      "蝦黄醤",
+      "海老みそソース",
+      "シュリンプロウソース"
+    ],
+    "englishName": "Shrimp Roe Sauce",
+    "originalName": "虾黄酱 (Xiāhuángjiàng)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "海老の卵やみそを使う濃厚な海鮮調味ソース。炒め物、麺、豆腐、魚介料理に海老の強いうま味と香りを加える。",
+    "menuDescription": "橙色から赤褐色の濃いペースト状ソース。海老の香り、塩気、油のコクが強く、少量で海鮮風味が出る。",
+    "whatComesOut": [
+      "橙色から赤褐色の海老ソース",
+      "濃いペースト状の調味料",
+      "炒め物や麺に絡む海鮮だれ",
+      "海老の卵やみその濃厚な香り"
+    ],
+    "tasteAndTexture": [
+      "海老の濃いうま味",
+      "魚介発酵系に近い香り",
+      "塩気と油のコク",
+      "ねっとりしたペースト感"
+    ],
+    "orderAdvice": "海老みそや魚介の濃い味が好きなら合う。苦手なら香りが強く感じる。",
+    "caution": "海老・甲殻類アレルギー注意。塩分と魚介香が強い。",
+    "similarItems": [
+      {
+        "id": "xo-sauce",
+        "name": "XO醤",
+        "difference": "XO醤は干し貝柱や干し海老の複合旨み。蝦黄醬は海老の卵やみその風味が中心"
+      },
+      {
+        "id": "oyster-sauce",
+        "name": "オイスターソース",
+        "difference": "オイスターソースは牡蠣の甘いうま味。蝦黄醬は海老の濃い香りが主役"
+      },
+      {
+        "id": "gan-shao-xia-ren",
+        "name": "干焼蝦仁",
+        "difference": "干焼蝦仁は海老料理。蝦黄醬は海老風味を足す調味ソース"
+      }
+    ],
+    "relatedIds": [
+      "xo-sauce",
+      "oyster-sauce",
+      "gan-shao-xia-ren",
+      "garlic_shrimp",
+      "nam-pla"
+    ],
+    "tags": [
+      "中国料理",
+      "ソース",
+      "魚介",
+      "発酵",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "甲殻類アレルギー",
+      "海老嫌い",
+      "魚介臭が苦手",
+      "塩分控えめ",
+      "あっさり好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
     "spicinessScore": 0,
     "images": []
   }
