@@ -18,9 +18,12 @@ const page = (
   priority,
 })
 
+const BUILD_DATE = new Date()
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const dishUrls = allDishes.map((dish) => ({
     url: `${SITE_URL}/dishes/${dish.id}/`,
+    lastModified: BUILD_DATE,
     changeFrequency: "monthly" as const,
     priority: 0.8,
   }))

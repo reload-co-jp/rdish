@@ -51,25 +51,55 @@ export default async function DishPage({
   const dish = (dishes as DishItem[]).find((d) => d.id === id)
   if (!dish) notFound()
 
-  const jsonLd = {
+  const SITE_URL = "https://rdish.reload.co.jp"
+
+  const definedTermLd = {
     "@context": "https://schema.org",
-    "@type": "Article",
-    headline: `${dish.name}とは？外食メニューで見たときの意味・味・頼む判断`,
-    description: dish.summary,
+    "@type": "DefinedTerm",
     name: dish.name,
-    url: `https://rdish.reload.co.jp/dishes/${dish.id}/`,
+    description: dish.summary,
+    inDefinedTermSet: { "@type": "DefinedTermSet", name: "RDish 料理図鑑", url: SITE_URL },
+    url: `${SITE_URL}/dishes/${dish.id}/`,
     inLanguage: "ja",
-    publisher: { "@type": "Organization", name: "RDish", url: "https://rdish.reload.co.jp" },
-    ...(dish.images?.[0] ? { image: `https://rdish.reload.co.jp${dish.images[0]}` } : {}),
+    ...(dish.englishName ? { alternateName: dish.englishName } : {}),
+    ...(dish.images?.[0] ? { image: `${SITE_URL}${dish.images[0]}` } : {}),
   }
+
+  const faqEntries = [
+    dish.whatComesOut.length > 0 && {
+      "@type": "Question",
+      name: `${dish.name}を注文すると何が出てくる？`,
+      acceptedAnswer: { "@type": "Answer", text: dish.whatComesOut.join("、") },
+    },
+    dish.tasteAndTexture.length > 0 && {
+      "@type": "Question",
+      name: `${dish.name}の味・食感は？`,
+      acceptedAnswer: { "@type": "Answer", text: dish.tasteAndTexture.join("、") },
+    },
+    dish.orderAdvice && {
+      "@type": "Question",
+      name: `${dish.name}を注文するときのコツは？`,
+      acceptedAnswer: { "@type": "Answer", text: dish.orderAdvice },
+    },
+  ].filter(Boolean)
+
+  const faqLd = faqEntries.length > 0
+    ? { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqEntries }
+    : null
 
   return (
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(definedTermLd) }}
       />
-      <Breadcrumb items={[{ label: dish.name }]} />
+      {faqLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
+        />
+      )}
+      <Breadcrumb items={[{ label: "料理一覧", href: "/dishes/" }, { label: dish.name }]} />
       <DishPageContent dish={dish} allDishes={dishes as DishItem[]} />
     </>
   )
