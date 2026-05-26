@@ -140,7 +140,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
             >
               <Image
                 src={src}
-                alt={`${dish.name} ${i + 1}`}
+                alt={i === 0 ? `${dish.name}の料理写真` : `${dish.name}の料理写真 ${i + 1}`}
                 fill
                 style={{ objectFit: "cover" }}
                 sizes="(max-width: 768px) 80vw, 24rem"
