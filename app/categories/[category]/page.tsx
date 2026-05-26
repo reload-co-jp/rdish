@@ -48,7 +48,7 @@ export default async function CategoryPage({
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    name: `${item.label}カテゴリの料理一覧`,
+    name: `${item.label}の料理一覧`,
     url: `https://rdish.reload.co.jp/categories/${item.id}/`,
     numberOfItems: results.length,
     itemListElement: results.map((dish, i) => ({
