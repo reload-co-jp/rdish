@@ -2,6 +2,7 @@ export const dynamic = "force-static"
 
 import type { MetadataRoute } from "next"
 import dishes from "../data/dishes.json"
+import { PAGE_SIZE, totalPages } from "../components/features/DishesPageContent"
 import { categoryItems, countryItems, tagItems } from "../lib/taxonomy"
 import type { DishItem } from "../types/dish"
 
@@ -46,9 +47,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }))
 
+  const total = totalPages(allDishes.length)
+  const paginatedUrls = Array.from({ length: total - 1 }, (_, i) => ({
+    url: `${SITE_URL}/dishes/p/${i + 2}/`,
+    changeFrequency: "weekly" as const,
+    priority: 0.6,
+  }))
+
   return [
     page("/", "weekly", 1.0),
     page("/dishes/", "weekly", 0.8),
+    ...paginatedUrls,
     page("/reverse/", "monthly", 0.7),
     page("/countries/", "monthly", 0.7),
     page("/about/", "yearly", 0.4),

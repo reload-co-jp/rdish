@@ -89,6 +89,11 @@ export default async function DishPage({
       name: `${dish.name}を注文するときのコツは？`,
       acceptedAnswer: { "@type": "Answer", text: dish.orderAdvice },
     },
+    dish.caution && {
+      "@type": "Question",
+      name: `${dish.name}を食べるときの注意点は？`,
+      acceptedAnswer: { "@type": "Answer", text: dish.caution },
+    },
   ].filter(Boolean)
 
   const faqLd = faqEntries.length > 0

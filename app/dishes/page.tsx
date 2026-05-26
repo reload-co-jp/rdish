@@ -1,39 +1,43 @@
 import type { Metadata } from "next"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
-import { DishCard } from "../../components/features/DishCard"
+import { DishesPageContent, PAGE_SIZE, paginateDishes, totalPages } from "../../components/features/DishesPageContent"
 import dishes from "../../data/dishes.json"
 import type { DishItem } from "../../types/dish"
 
 const allDishes = dishes as DishItem[]
 const latestDishes = [...allDishes].reverse()
-
-const count = (dishes as DishItem[]).length
+const count = allDishes.length
+const SITE_URL = "https://rdish.reload.co.jp"
 
 export const metadata: Metadata = {
   title: `料理・食材図鑑 全${count}件一覧`,
-  description:
-    `外食メニューで気になった料理・食材・調理法を調べられる図鑑。フランス料理・イタリア料理・アジア料理など全${count}件収録。`,
-  alternates: { canonical: "/dishes/" },
+  description: `外食メニューで気になった料理・食材・調理法を調べられる図鑑。フランス料理・イタリア料理・アジア料理など全${count}件収録。`,
+  alternates: {
+    canonical: "/dishes/",
+  },
   openGraph: {
     title: `料理・食材図鑑 全${count}件一覧`,
-    description:
-      `外食メニューで気になった料理・食材・調理法を調べられる図鑑。フランス料理・イタリア料理・アジア料理など全${count}件収録。`,
+    description: `外食メニューで気になった料理・食材・調理法を調べられる図鑑。フランス料理・イタリア料理・アジア料理など全${count}件収録。`,
     url: "/dishes/",
   },
 }
 
 export default function DishesPage() {
+  const page = 1
+  const pageDishes = paginateDishes(latestDishes, page)
+  const total = totalPages(count)
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    name: "最新登録順 料理一覧",
-    url: "https://rdish.reload.co.jp/dishes/",
-    numberOfItems: latestDishes.length,
-    itemListElement: latestDishes.map((dish, index) => ({
+    name: `料理・食材図鑑 全${count}件一覧`,
+    url: `${SITE_URL}/dishes/`,
+    numberOfItems: pageDishes.length,
+    itemListElement: pageDishes.map((dish, i) => ({
       "@type": "ListItem",
-      position: index + 1,
+      position: i + 1,
       name: dish.name,
-      url: `https://rdish.reload.co.jp/dishes/${dish.id}/`,
+      url: `${SITE_URL}/dishes/${dish.id}/`,
     })),
   }
 
@@ -44,40 +48,20 @@ export default function DishesPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <Breadcrumb items={[{ label: "料理一覧" }]} />
-
       <div style={{ marginBottom: "1.5rem" }}>
         <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}>
-          最新登録順
+          料理・食材図鑑 一覧
         </h1>
         <p style={{ color: "#a89080", fontSize: "0.875rem" }}>
-          登録が新しい順に {latestDishes.length} 件表示
+          全{count}件 / {total}ページ中 1ページ目
         </p>
       </div>
-
-      <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
-        {latestDishes.map((dish, index) => (
-          <div key={dish.id} style={{ position: "relative" }}>
-            <div
-              style={{
-                position: "absolute",
-                top: "0.75rem",
-                right: "0.75rem",
-                zIndex: 1,
-                color: "#a89080",
-                fontSize: "0.7rem",
-                fontWeight: 700,
-                background: "#fffdf8",
-                border: "1px solid #e8ddd0",
-                borderRadius: "0.25rem",
-                padding: "0.125rem 0.375rem",
-              }}
-            >
-              #{index + 1}
-            </div>
-            <DishCard dish={dish} />
-          </div>
-        ))}
-      </div>
+      <DishesPageContent
+        dishes={pageDishes}
+        page={page}
+        totalCount={count}
+        offset={0}
+      />
     </div>
   )
 }
