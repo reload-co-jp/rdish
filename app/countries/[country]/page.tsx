@@ -18,10 +18,12 @@ export async function generateMetadata({
   const { country } = await params
   const item = taxonomyById(countryItems, country)
   if (!item) notFound()
-  const count = (dishes as DishItem[]).filter((d) => dishMatchesRegion(d, item.label)).length
-  const title = `${item.label}の料理一覧`
+  const countryResults = (dishes as DishItem[]).filter((d) => dishMatchesRegion(d, item.label))
+  const count = countryResults.length
+  const top3 = countryResults.slice(0, 3).map((d) => d.name).join("、")
+  const title = `${item.label}の料理一覧（全${count}件）`
   const countryDesc = item.description ?? `${item.label}の料理・食材・調理法をまとめています。`
-  const description = `${countryDesc} 全${count}件。外食メニューで役立つ料理図鑑 RDish。`
+  const description = `${countryDesc} ${top3}など${count}件。外食メニューを調べるなら RDish。`
   return {
     title,
     description,

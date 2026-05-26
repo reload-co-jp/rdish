@@ -21,11 +21,11 @@ export async function generateMetadata({
     d.tags.includes(item.label)
   )
   const count = results.length
-  const title = `#${item.label}の料理一覧`
+  const top3 = results.slice(0, 3).map((d) => d.name).join("、")
+  const title = `${item.label}の料理一覧（全${count}件）`
   const tagDescription =
-    item.description ??
-    `「${item.label}」は、料理を整理するためのキーワードです。`
-  const description = `${tagDescription} 全${count}件。`
+    item.description ?? `外食メニューで見かける「${item.label}」の料理をまとめています。`
+  const description = `${tagDescription} ${top3}など${count}件。外食メニューを調べるなら RDish。`
   return {
     title,
     description,
@@ -69,7 +69,7 @@ export default async function TagPage({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <Breadcrumb
-        items={[{ label: "タグ", href: "/" }, { label: `#${item.label}` }]}
+        items={[{ label: "タグ" }, { label: item.label }]}
       />
       <h1
         style={{
@@ -78,7 +78,7 @@ export default async function TagPage({
           marginBottom: "0.375rem",
         }}
       >
-        #{item.label}
+        {item.label}の料理一覧
       </h1>
       <p
         style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}

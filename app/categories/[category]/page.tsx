@@ -17,11 +17,13 @@ export async function generateMetadata({
   const { category } = await params
   const item = taxonomyById(categoryItems, category)
   if (!item) notFound()
-  const count = (dishes as DishItem[]).filter((d) => d.category === item.label).length
-  const title = `${item.label}カテゴリの料理一覧`
+  const results = (dishes as DishItem[]).filter((d) => d.category === item.label)
+  const count = results.length
+  const top3 = results.slice(0, 3).map((d) => d.name).join("、")
+  const title = `${item.label}の料理一覧（全${count}件）`
   const categoryDescription =
     item.description ?? `${item.label}カテゴリの料理・食材・調理法をまとめています。`
-  const description = `${categoryDescription} 全${count}件。`
+  const description = `${categoryDescription} ${top3}など${count}件。外食メニューを調べるなら RDish。`
   return {
     title,
     description,
@@ -60,7 +62,7 @@ export default async function CategoryPage({
   return (
     <div>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-      <Breadcrumb items={[{ label: "カテゴリ", href: "/" }, { label: item.label }]} />
+      <Breadcrumb items={[{ label: "カテゴリ" }, { label: item.label }]} />
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}>
         {item.label}
       </h1>
