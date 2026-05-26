@@ -71,6 +71,11 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
                   / {dish.originalName}
                 </span>
               )}
+            {dish.aliases && dish.aliases.length > 0 && dish.aliases.map((alias) => (
+              <span key={alias} style={{ color: "#a89080", fontSize: "0.875rem" }}>
+                / {alias}
+              </span>
+            ))}
           </div>
           <div style={{ marginTop: "0.375rem" }}>
             <Link

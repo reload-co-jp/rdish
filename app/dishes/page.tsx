@@ -7,15 +7,17 @@ import type { DishItem } from "../../types/dish"
 const allDishes = dishes as DishItem[]
 const latestDishes = [...allDishes].reverse()
 
+const count = (dishes as DishItem[]).length
+
 export const metadata: Metadata = {
-  title: "最新登録順 料理一覧",
+  title: `料理・食材図鑑 全${count}件一覧`,
   description:
-    "RDishに登録された料理・食材・調理法・ソースを新しい順に一覧できます。",
+    `外食メニューで気になった料理・食材・調理法を調べられる図鑑。フランス料理・イタリア料理・アジア料理など全${count}件収録。`,
   alternates: { canonical: "/dishes/" },
   openGraph: {
-    title: "最新登録順 料理一覧",
+    title: `料理・食材図鑑 全${count}件一覧`,
     description:
-      "RDishに登録された料理・食材・調理法・ソースを新しい順に一覧できます。",
+      `外食メニューで気になった料理・食材・調理法を調べられる図鑑。フランス料理・イタリア料理・アジア料理など全${count}件収録。`,
     url: "/dishes/",
   },
 }

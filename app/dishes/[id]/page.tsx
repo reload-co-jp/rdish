@@ -19,13 +19,14 @@ export async function generateMetadata({
   const dish = (dishes as DishItem[]).find((d) => d.id === id)
   if (!dish) return {}
   const title = `${dish.name}とは？外食メニューで見たときの意味・味・頼む判断`
+  const description = `${dish.summary} ${dish.menuDescription}`.slice(0, 160).trimEnd()
   return {
     title,
-    description: dish.summary,
+    description,
     alternates: { canonical: `/dishes/${dish.id}/` },
     openGraph: {
       title,
-      description: dish.summary,
+      description,
       url: `/dishes/${dish.id}/`,
       type: "article",
     },
@@ -61,7 +62,14 @@ export default async function DishPage({
     inDefinedTermSet: { "@type": "DefinedTermSet", name: "RDish 料理図鑑", url: SITE_URL },
     url: `${SITE_URL}/dishes/${dish.id}/`,
     inLanguage: "ja",
-    ...(dish.englishName ? { alternateName: dish.englishName } : {}),
+    ...(() => {
+      const names = [
+        dish.englishName,
+        dish.originalName && dish.originalName !== dish.englishName ? dish.originalName : null,
+        ...(dish.aliases ?? []),
+      ].filter(Boolean)
+      return names.length > 0 ? { alternateName: names } : {}
+    })(),
     ...(dish.images?.[0] ? { image: `${SITE_URL}${dish.images[0]}` } : {}),
   }
 
