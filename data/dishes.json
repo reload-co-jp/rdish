@@ -1472,8 +1472,7 @@
       }
     ],
     "relatedIds": [
-      "vinaigrette",
-      "bearnaise"
+      "vinaigrette"
     ],
     "tags": [
       "フランス料理",
@@ -3869,7 +3868,7 @@
     "relatedIds": [
       "gratin",
       "croque_monsieur",
-      "lasagne"
+      "lasagna"
     ],
     "tags": [
       "ソース",
@@ -6648,7 +6647,7 @@
     "relatedIds": [
       "hummus",
       "biryani",
-      "tandoori-chicken"
+      "tandoori"
     ],
     "tags": [
       "インド料理",
@@ -6781,7 +6780,7 @@
       }
     ],
     "relatedIds": [
-      "borsch"
+      "borscht"
     ],
     "tags": [
       "ポーランド料理",
@@ -7169,7 +7168,7 @@
     ],
     "relatedIds": [
       "braise",
-      "borsch",
+      "borscht",
       "cassoulet"
     ],
     "tags": [
@@ -30417,7 +30416,7 @@
     "caution": "ごま、小麦、肉、辛味、花椒に注意。",
     "similarItems": [
       {
-        "id": "hot-and-sour-noodle-soup",
+        "id": "suan-la-tang-mian",
         "name": "酸辣湯麺",
         "difference": "酸辣湯麺は酸味あるスープ麺。担担麺はごま・辣油・花椒の濃厚麺"
       },
@@ -30430,7 +30429,7 @@
     "relatedIds": [
       "doubanjiang",
       "soy-sauce",
-      "hot-and-sour-noodle-soup"
+      "suan-la-tang-mian"
     ],
     "tags": [
       "中国料理",
@@ -30568,14 +30567,14 @@
         "difference": "宮保鶏丁は甘辛くナッツ入りで食べやすい。辣子鶏は唐辛子量が多く辛さと香ばしさ重視"
       },
       {
-        "id": "tandoori-chicken",
+        "id": "tandoori",
         "name": "タンドリーチキン",
         "difference": "タンドリーチキンはヨーグルトとスパイスで焼く料理。辣子鶏は揚げ鶏を唐辛子で炒める"
       }
     ],
     "relatedIds": [
       "gong-bao-ji-ding",
-      "tandoori-chicken",
+      "tandoori",
       "doubanjiang"
     ],
     "tags": [
@@ -30785,6 +30784,7 @@
         "difference": "回鍋肉は豚肉の温菜炒め物。蒜泥白肉はゆで豚を冷やした冷菜"
       },
       {
+        "id": "kou-shui-ji",
         "name": "口水鶏",
         "difference": "口水鶏は鶏肉の麻辣冷菜。蒜泥白肉は豚肉でにんにくペーストが主役"
       }
@@ -30867,6 +30867,7 @@
         "difference": "麻婆豆腐は豆腐と挽き肉の炒め料理。酸菜魚は魚と発酵白菜主体のスープ料理"
       },
       {
+        "id": "shui-zhu-yu",
         "name": "水煮魚",
         "difference": "水煮魚も白身魚を辛いスープで煮るが、酸菜（発酵白菜）を使わず純粋な麻辣が主役"
       }
@@ -31356,6 +31357,7 @@
         "difference": "清蒸江団はスッポンを蒸す料理。砂鍋雅魚は白身魚を土鍋で煮込む"
       },
       {
+        "id": "shui-zhu-yu",
         "name": "水煮魚",
         "difference": "水煮魚は薄切り白身魚の麻辣スープ料理。砂鍋雅魚は一尾丸ごとの土鍋煮込み"
       }
@@ -34259,11 +34261,6 @@
         "id": "dengaku",
         "name": "田楽",
         "difference": "田楽は根菜に味噌を塗って焼く。ずいきは里芋の茎を酢の物や煮物にする"
-      },
-      {
-        "id": "gouko-gouko",
-        "name": "ごうこごうこ",
-        "difference": "ごうこごうこはごぼう主役の炒め煮。ずいきは里芋の茎を使った酢の物系"
       }
     ],
     "relatedIds": [
@@ -34325,11 +34322,6 @@
     ],
     "orderAdvice": "定食や和食コースの箸休めとして提供されることが多い。大阪の漬物文化を感じたいなら黒門市場や老舗漬物店で購入を。",
     "similarItems": [
-      {
-        "id": "gouko-gouko",
-        "name": "ごうこごうこ",
-        "difference": "ごうこごうこはごぼうの炒め煮。大阪漬は野菜を甘酢で漬け込んだ漬物"
-      },
       {
         "id": "zuiki",
         "name": "ずいき",
@@ -34393,11 +34385,6 @@
     ],
     "orderAdvice": "ご飯の友として抜群。居酒屋では箸休めに、定食屋では副菜として定番。じゃこの旨みがごぼうをより美味しくする組み合わせで、どちらか一方の料理より格段に味が深い。",
     "similarItems": [
-      {
-        "id": "gouko-gouko",
-        "name": "ごうこごうこ",
-        "difference": "ごうこごうこはごぼう単体のきんぴら。じゃこごうこはじゃこが加わり旨みが格段に増す"
-      },
       {
         "id": "zuiki",
         "name": "ずいき",
@@ -35842,6 +35829,7 @@
         "difference": "キムチは唐辛子と乳酸発酵の辛い漬物。芽菜は辛味より塩気と発酵旨みが中心"
       },
       {
+        "id": "zha-cai",
         "name": "ザーサイ",
         "difference": "ザーサイは肥大した茎を漬ける中国漬物。芽菜は若い茎や葉を細かく刻んで使う四川の漬け菜"
       }
@@ -36321,6 +36309,7 @@
     "caution": "アルコール分が残る場合あり。米と麹由来食品。",
     "similarItems": [
       {
+        "id": "amazake",
         "name": "甘酒",
         "difference": "甘酒は日本の米麹飲料。酒醸は粒感が残り、中国料理の具材やデザート素材になる"
       },
@@ -36402,14 +36391,17 @@
     "caution": "高アルコール。香りが強く、酒に弱い人は注意。",
     "similarItems": [
       {
+        "id": "shaoxing-wine",
         "name": "紹興酒",
         "difference": "紹興酒は醸造酒。白酒は蒸留酒で度数と香りがより強い"
       },
       {
+        "id": "shochu",
         "name": "焼酎",
         "difference": "焼酎も蒸留酒だが、白酒は中国独自の麹と香型で香りが強い"
       },
       {
+        "id": "vodka",
         "name": "ウォッカ",
         "difference": "ウォッカはクセを抑えた蒸留酒が多い。白酒は発酵香を強く残す"
       }
@@ -37780,6 +37772,7 @@
     "orderAdvice": "ステーキ・アッシェなどで見たら挽き肉系と考えるとよい。塊肉より食べやすい。",
     "similarItems": [
       {
+        "id": "mince",
         "name": "ミンチ",
         "difference": "ミンチは挽き肉そのものを指しやすい。アッシェは刻む調理法や刻んだ状態も含む"
       },
@@ -37869,7 +37862,7 @@
         "difference": "ソース・ヴァン・ブランは白ワイン系。ブルギニョンは赤ワイン系でより重い"
       },
       {
-        "id": "demi-glace",
+        "id": "demiglace",
         "name": "デミグラス",
         "difference": "デミグラスは肉のフォンを煮詰めた褐色ソース。ブルギニョンは赤ワイン風味が主役"
       }
@@ -37951,7 +37944,7 @@
         "difference": "コルニションは具材。シャルキュティエールでは刻んで酸味のアクセントにする"
       },
       {
-        "id": "demi-glace",
+        "id": "demiglace",
         "name": "デミグラス",
         "difference": "デミグラスは甘みとコクが中心。シャルキュティエールは酸味とマスタードが加わる"
       }
@@ -38103,6 +38096,7 @@
         "difference": "ブフ・ブルギニョンは赤ワイン主体のフランス煮込み。ビーフシチューはデミグラス系で洋食寄り"
       },
       {
+        "id": "hayashi-rice",
         "name": "ハヤシライス",
         "difference": "ハヤシライスは薄切り牛肉のソースをご飯にかける。ビーフシチューは大きめの牛肉を煮込む"
       },
@@ -38186,6 +38180,7 @@
         "difference": "フリカッセは白いクリーム煮込みで鶏や仔牛が多い。ストロガノフは牛肉とサワークリームが主役"
       },
       {
+        "id": "goulash",
         "name": "グーラッシュ",
         "difference": "グーラッシュはパプリカ風味の煮込み。ストロガノフはクリーム系"
       }
@@ -38265,6 +38260,7 @@
         "difference": "ポワレはフライパン焼き全般。ピカタは卵衣焼き"
       },
       {
+        "id": "cotelette",
         "name": "カツレツ",
         "difference": "カツレツはパン粉をつけて揚げ焼き。ピカタは卵衣で焼く"
       }
@@ -39289,6 +39285,7 @@
         "difference": "リゾットは料理。カルナローリはその米品種"
       },
       {
+        "id": "arborio",
         "name": "アルボリオ",
         "difference": "アルボリオもリゾット米。カルナローリは粒が崩れにくく高級扱いされやすい"
       },
@@ -39755,6 +39752,7 @@
     "orderAdvice": "小皿の温かい前菜や卵料理として出ることが多い。量は店により大きく違う。",
     "similarItems": [
       {
+        "id": "oeuf-cocotte",
         "name": "ウフ・ココット",
         "difference": "ウフ・ココットは卵をココットで焼く料理。ココットは器や調理法"
       },
@@ -41177,6 +41175,7 @@
     "orderAdvice": "見た目重視のデザートで出る用語。味より表面の艶や仕上げを示す。",
     "similarItems": [
       {
+        "id": "nappage",
         "name": "ナパージュ",
         "difference": "ナパージュは果物などに塗る艶出し。ミロワールは鏡面の仕上げ全般"
       },
@@ -41414,6 +41413,7 @@
         "difference": "ハリッサは唐辛子ペースト。カイエンヌ・ペパは粉末唐辛子"
       },
       {
+        "id": "paprika",
         "name": "パプリカ",
         "difference": "パプリカは甘みや香り中心。カイエンヌ・ペパは辛味中心"
       },
@@ -41809,6 +41809,7 @@
         "difference": "ローストはオーブンなどで焼く調理法。リソレは表面をこんがりさせる"
       },
       {
+        "id": "suer",
         "name": "シュエ",
         "difference": "シュエは色づけず汗をかかせるように炒める。リソレは焼き色をつける"
       }
@@ -42319,6 +42320,1051 @@
       "/images/dishes/yorkshire-pudding/1.jpg",
       "/images/dishes/yorkshire-pudding/2.jpg",
       "/images/dishes/yorkshire-pudding/3.jpg"
+    ]
+  },
+  {
+    "id": "achar",
+    "name": "アチャール",
+    "kana": "あちゃーる",
+    "aliases": [
+      "アチャー",
+      "インド風ピクルス",
+      "南アジアの漬物"
+    ],
+    "englishName": "Achar",
+    "originalName": "Achar",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インド"
+      },
+      {
+        "country": "ネパール"
+      }
+    ],
+    "summary": "野菜や果物をスパイス、塩、油、酢やレモンで漬ける南アジアの漬物。カレーやビリヤニに酸味と辛味を添える。",
+    "menuDescription": "小皿で出るスパイス漬けの野菜や果物。マンゴー、レモン、大根、玉ねぎなどが使われ、酸味・塩気・辛味が強い。",
+    "whatComesOut": [
+      "小皿のスパイス漬け",
+      "酸味の強い野菜や果物",
+      "油やスパイスをまとった漬物",
+      "カレーや米料理の添え物"
+    ],
+    "tasteAndTexture": [
+      "酸味が強い",
+      "塩気がある",
+      "スパイスの香り",
+      "種類により辛味がある"
+    ],
+    "orderAdvice": "カレーやビリヤニの味変に少量ずつ使うと良い。酸っぱい漬物や辛味が苦手なら控えめに。",
+    "caution": "酸味、塩気、辛味が強い場合あり。油を多く使うタイプもある。",
+    "similarItems": [
+      {
+        "id": "pickles",
+        "name": "ピクルス",
+        "difference": "ピクルスは酢漬け全般。アチャールはスパイスと油の風味が強い南アジア系"
+      },
+      {
+        "id": "chutney",
+        "name": "チャツネ",
+        "difference": "チャツネはソース状やペースト状が多い。アチャールは具材感のある漬物"
+      },
+      {
+        "id": "raita",
+        "name": "ライタ",
+        "difference": "ライタはヨーグルトの冷たい副菜。アチャールは酸味とスパイスの漬物"
+      }
+    ],
+    "relatedIds": [
+      "pickles",
+      "chutney",
+      "raita",
+      "biryani",
+      "dal",
+      "samosa"
+    ],
+    "tags": [
+      "インド料理",
+      "前菜",
+      "野菜",
+      "スパイス",
+      "発酵",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "酸味が苦手",
+      "辛いものが苦手",
+      "塩分控えめ",
+      "油っぽさが苦手",
+      "甘い副菜"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/achar/1.jpg",
+      "/images/dishes/achar/2.jpg",
+      "/images/dishes/achar/3.jpg"
+    ]
+  },
+  {
+    "id": "nappage",
+    "name": "ナパージュ",
+    "kana": "なぱーじゅ",
+    "aliases": [
+      "ナパージュソース",
+      "艶出しゼリー",
+      "上掛け"
+    ],
+    "englishName": "Nappage",
+    "originalName": "Nappage",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "果物やタルト、ケーキの表面に塗る艶出し用のゼリー状ソース。乾燥を防ぎ、見た目を美しく仕上げる。",
+    "menuDescription": "フルーツタルトやムースの表面に薄く塗られた透明または果実色の艶出し。甘みと軽い酸味を足し、果物をみずみずしく見せる。",
+    "whatComesOut": [
+      "果物の表面のつや",
+      "透明または果実色の薄いゼリー層",
+      "タルトやケーキの上掛け",
+      "乾燥しにくいデザート表面"
+    ],
+    "tasteAndTexture": [
+      "つるっとした薄いゼリー感",
+      "甘みがある",
+      "果実系なら軽い酸味",
+      "見た目がみずみずしい"
+    ],
+    "orderAdvice": "フルーツタルトなどで見たら艶出しの仕上げ。味の主役ではなく、見た目と口当たりを整える役。",
+    "similarItems": [
+      {
+        "id": "miroir",
+        "name": "ミロワール",
+        "difference": "ミロワールは鏡面仕上げ全般。ナパージュは果物やタルトに塗る艶出しが中心"
+      },
+      {
+        "id": "confiture",
+        "name": "コンフィチュール",
+        "difference": "コンフィチュールは果物の保存食。ナパージュは薄く塗る艶出しソース"
+      },
+      {
+        "id": "mousse",
+        "name": "ムース",
+        "difference": "ムースは泡を含むデザート本体。ナパージュは表面の仕上げ"
+      }
+    ],
+    "relatedIds": [
+      "miroir",
+      "confiture",
+      "mousse",
+      "panna-cotta",
+      "caramelize"
+    ],
+    "tags": [
+      "フランス料理",
+      "デザート",
+      "ソース",
+      "果物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "艶なし",
+      "焼き色",
+      "香ばしい",
+      "肉料理",
+      "塩味"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/nappage/1.jpg",
+      "/images/dishes/nappage/2.jpg",
+      "/images/dishes/nappage/3.jpg"
+    ]
+  },
+  {
+    "id": "oeuf-cocotte",
+    "name": "ウフ・ココット",
+    "kana": "うふここっと",
+    "aliases": [
+      "ウフココット",
+      "卵のココット",
+      "エッグココット"
+    ],
+    "englishName": "Egg Cocotte",
+    "originalName": "Oeuf cocotte",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "卵を小さなココット型に割り入れ、クリームや具材と一緒に湯煎焼き・オーブン焼きにするフランスの卵料理。",
+    "menuDescription": "小さな耐熱容器で出る半熟卵料理。生クリーム、きのこ、ほうれん草、ハム、チーズなどが入り、スプーンで食べる。",
+    "whatComesOut": [
+      "小さなココット型",
+      "半熟の卵",
+      "クリームやチーズのソース",
+      "きのこやほうれん草などの具材"
+    ],
+    "tasteAndTexture": [
+      "卵黄がとろりと濃厚",
+      "クリームでまろやか",
+      "具材の旨みが卵に絡む",
+      "温かくやさしい口当たり"
+    ],
+    "orderAdvice": "卵料理や温かい前菜が好きなら選びやすい。半熟卵が苦手なら火入れを確認するとよい。",
+    "caution": "卵、乳製品を使うことが多い。半熟の場合あり。",
+    "similarItems": [
+      {
+        "id": "cocotte",
+        "name": "ココット",
+        "difference": "ココットは器や調理法。ウフ・ココットは卵をココットで焼く具体的な料理"
+      },
+      {
+        "id": "quiche",
+        "name": "キッシュ",
+        "difference": "キッシュはタルト生地に卵液を流して焼く。ウフ・ココットは器の中で卵を焼く"
+      },
+      {
+        "id": "pochee",
+        "name": "ポシェ",
+        "difference": "ポシェは液体で火入れする技法。ウフ・ココットは容器ごと焼く・蒸し焼きにする"
+      }
+    ],
+    "relatedIds": [
+      "cocotte",
+      "appareil",
+      "quiche",
+      "gratin",
+      "mushroom",
+      "spinach"
+    ],
+    "tags": [
+      "フランス料理",
+      "前菜",
+      "卵",
+      "乳製品",
+      "焼き物",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "卵アレルギー",
+      "半熟卵が苦手",
+      "乳製品なし",
+      "あっさり",
+      "冷菜"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/oeuf-cocotte/1.jpg",
+      "/images/dishes/oeuf-cocotte/2.jpg"
+    ]
+  },
+  {
+    "id": "arborio",
+    "name": "アルボリオ",
+    "kana": "あるぼりお",
+    "aliases": [
+      "アルボリオ米",
+      "リゾット米"
+    ],
+    "englishName": "Arborio Rice",
+    "originalName": "Arborio",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "リゾットに使われるイタリアの短粒米。でんぷんが多く、煮ると外側がクリーミーになり、中心にほどよい歯ごたえが残る。",
+    "menuDescription": "リゾット向けの丸みのある米。ブイヨンを吸いながら粘りとクリーミーさを出し、米粒の存在感も残る。",
+    "whatComesOut": [
+      "丸みのある短粒米",
+      "リゾットの米粒",
+      "クリーミーな煮上がり",
+      "中心に少し残る歯ごたえ"
+    ],
+    "tasteAndTexture": [
+      "外側はなめらか",
+      "米の甘みがある",
+      "芯に軽い歯ごたえ",
+      "ソースやブイヨンをよく吸う"
+    ],
+    "orderAdvice": "リゾット用米として定番。カルナローリより親しみやすく、クリーミーな食感が好きなら向く。",
+    "similarItems": [
+      {
+        "id": "carnaroli",
+        "name": "カルナローリ",
+        "difference": "カルナローリは粒が崩れにくく高級扱いされやすい。アルボリオはより一般的でクリーミーになりやすい"
+      },
+      {
+        "id": "risotto",
+        "name": "リゾット",
+        "difference": "リゾットは料理。アルボリオはその材料になる米"
+      },
+      {
+        "id": "pilaf",
+        "name": "ピラフ",
+        "difference": "ピラフは炒めて炊く米料理。アルボリオは主にリゾット用の米品種"
+      }
+    ],
+    "relatedIds": [
+      "risotto",
+      "carnaroli",
+      "al-dente",
+      "parmigiano",
+      "grana-padano",
+      "porcini"
+    ],
+    "tags": [
+      "イタリア料理",
+      "食材",
+      "米",
+      "煮込み",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "パスタ",
+      "パン",
+      "低糖質",
+      "あっさりサラダ",
+      "粒感が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/arborio/1.jpg",
+      "/images/dishes/arborio/2.jpg"
+    ]
+  },
+  {
+    "id": "cutlet",
+    "name": "カツレツ",
+    "kana": "かつれつ",
+    "aliases": [
+      "カツレット",
+      "カットレット",
+      "洋風カツ"
+    ],
+    "englishName": "Cutlet",
+    "originalName": "Cutlet",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "薄くした肉に小麦粉、卵、パン粉をつけて揚げ焼きまたは揚げる洋食系の肉料理。仔牛、豚、鶏などで作られる。",
+    "menuDescription": "パン粉衣をまとった肉の揚げ焼き。外はサクッと香ばしく、中は肉の旨みがあり、デミグラスやレモン、マスタードを添えることが多い。",
+    "whatComesOut": [
+      "パン粉衣の肉料理",
+      "揚げ焼きまたは揚げた一枚肉",
+      "レモンやソース",
+      "サラダやポテトの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "衣がサクサク",
+      "表面は香ばしい",
+      "肉はジューシー",
+      "油のコクがある"
+    ],
+    "orderAdvice": "揚げ物系の洋食を食べたい時に選びやすい。軽い料理が欲しい時は重め。",
+    "caution": "小麦、卵、パン粉を使うことが多い。揚げ物なので油分あり。",
+    "similarItems": [
+      {
+        "id": "schnitzel",
+        "name": "シュニッツェル",
+        "difference": "シュニッツェルは薄く叩いた肉の中欧系カツレツ。カツレツは洋食や広い揚げ焼き肉料理として使われる"
+      },
+      {
+        "id": "tonkatsu",
+        "name": "トンカツ",
+        "difference": "トンカツは豚肉を厚めに揚げる日本式。カツレツはより広く、仔牛や鶏でも作る"
+      },
+      {
+        "id": "piccata",
+        "name": "ピカタ",
+        "difference": "ピカタは卵衣で焼く。カツレツはパン粉衣で揚げ焼きにする"
+      }
+    ],
+    "relatedIds": [
+      "schnitzel",
+      "tonkatsu",
+      "piccata",
+      "fariner",
+      "demiglace",
+      "garniture"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "肉",
+      "小麦",
+      "揚げ物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "揚げ物が苦手",
+      "小麦アレルギー",
+      "卵アレルギー",
+      "あっさり",
+      "生料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cutlet/1.jpg",
+      "/images/dishes/cutlet/2.jpg",
+      "/images/dishes/cutlet/3.jpg"
+    ]
+  },
+  {
+    "id": "goulash",
+    "name": "グーラッシュ",
+    "kana": "ぐーらっしゅ",
+    "aliases": [
+      "グヤーシュ",
+      "グラーシュ"
+    ],
+    "englishName": "Goulash",
+    "originalName": "Gulyas",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "牛肉や玉ねぎをパプリカで煮込むハンガリーの代表料理。スープ状から濃い煮込みまで幅があり、赤い色と香りが特徴。",
+    "menuDescription": "牛肉、玉ねぎ、パプリカを使った赤い煮込みまたはスープ。じゃがいもやにんじんが入ることもあり、パンと合わせやすい。",
+    "whatComesOut": [
+      "赤い牛肉煮込み",
+      "パプリカ風味のスープ",
+      "玉ねぎやじゃがいも",
+      "パンや付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "パプリカの甘い香り",
+      "牛肉の旨み",
+      "玉ねぎの甘み",
+      "軽い辛味がある場合もある"
+    ],
+    "orderAdvice": "パプリカ香る肉煮込みが好きなら合う。辛さは店や地域で違うため確認すると安全。",
+    "similarItems": [
+      {
+        "id": "beef-stew",
+        "name": "ビーフシチュー",
+        "difference": "ビーフシチューはデミグラス系。グーラッシュはパプリカと玉ねぎの香りが主役"
+      },
+      {
+        "id": "beef-stroganoff",
+        "name": "ビーフストロガノフ",
+        "difference": "ビーフストロガノフはサワークリーム系。グーラッシュはパプリカ風味の煮込み"
+      },
+      {
+        "id": "chili-con-carne",
+        "name": "チリコンカン",
+        "difference": "チリコンカンは豆と唐辛子の煮込み。グーラッシュは牛肉とパプリカ中心"
+      }
+    ],
+    "relatedIds": [
+      "beef-stew",
+      "beef-stroganoff",
+      "paprika",
+      "onion",
+      "cayenne-pepper",
+      "garniture"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "主菜",
+      "牛肉",
+      "スパイス",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "パプリカが苦手",
+      "あっさり",
+      "魚料理",
+      "冷菜",
+      "クリーム系"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/goulash/1.jpg",
+      "/images/dishes/goulash/2.jpg",
+      "/images/dishes/goulash/3.jpg"
+    ]
+  },
+  {
+    "id": "hayashi-rice",
+    "name": "ハヤシライス",
+    "kana": "はやしらいす",
+    "aliases": [
+      "ハッシュドビーフライス",
+      "ハヤシ"
+    ],
+    "englishName": "Hayashi Rice",
+    "originalName": "ハヤシライス",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "薄切り牛肉と玉ねぎをデミグラスやトマト系のソースで煮込み、ご飯にかける日本の洋食。",
+    "menuDescription": "ご飯に茶色い牛肉ソースをかけた一皿。ビーフシチューより肉は薄く、ソースは甘みと酸味があり食べやすい。",
+    "whatComesOut": [
+      "白ご飯",
+      "薄切り牛肉のソース",
+      "玉ねぎ",
+      "デミグラスやトマト風味のルー"
+    ],
+    "tasteAndTexture": [
+      "甘みのあるデミグラス感",
+      "玉ねぎの甘み",
+      "牛肉の旨み",
+      "カレーより辛くない"
+    ],
+    "orderAdvice": "辛くない洋食ご飯が欲しい時に良い。濃厚だがカレーより穏やか。",
+    "similarItems": [
+      {
+        "id": "beef-stew",
+        "name": "ビーフシチュー",
+        "difference": "ビーフシチューは大きめ牛肉の煮込み。ハヤシライスは薄切り牛肉のソースをご飯にかける"
+      },
+      {
+        "id": "demiglace",
+        "name": "デミグラス",
+        "difference": "デミグラスはソース。ハヤシライスはそれを使うご飯料理"
+      },
+      {
+        "id": "beef-stroganoff",
+        "name": "ビーフストロガノフ",
+        "difference": "ビーフストロガノフはサワークリーム系。ハヤシライスはデミグラスやトマト系"
+      }
+    ],
+    "relatedIds": [
+      "beef-stew",
+      "demiglace",
+      "beef-stroganoff",
+      "onion",
+      "tomato",
+      "garniture"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "米",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いカレー",
+      "あっさり",
+      "魚料理",
+      "パン料理",
+      "冷菜"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hayashi-rice/1.jpg",
+      "/images/dishes/hayashi-rice/2.jpg",
+      "/images/dishes/hayashi-rice/3.jpg"
+    ]
+  },
+  {
+    "id": "mince",
+    "name": "ミンチ",
+    "kana": "みんち",
+    "aliases": [
+      "挽き肉",
+      "ひき肉",
+      "ミンチ肉"
+    ],
+    "englishName": "Minced Meat",
+    "originalName": "Mince",
+    "category": "肉",
+    "regions": [
+      {
+        "area": "国際"
+      }
+    ],
+    "summary": "肉を細かく挽いた食材。牛、豚、鶏、羊などがあり、ハンバーグ、ミートソース、詰め物、餃子など幅広く使う。",
+    "menuDescription": "細かく挽いた肉。パティ、肉団子、ソース、詰め物として料理に入り、塊肉より食べやすく味がなじみやすい。",
+    "whatComesOut": [
+      "細かく挽いた肉",
+      "パティや肉団子",
+      "ミートソースの具",
+      "詰め物や餡"
+    ],
+    "tasteAndTexture": [
+      "肉の旨みが全体に広がる",
+      "柔らかく食べやすい",
+      "脂が混ざるとジューシー",
+      "調味料がなじみやすい"
+    ],
+    "orderAdvice": "ハンバーグやミートソース系が好きなら安心。脂が多い場合は重く感じる。",
+    "caution": "部位や脂の量で重さが変わる。加熱不足には注意。",
+    "similarItems": [
+      {
+        "id": "hache",
+        "name": "アッシェ",
+        "difference": "アッシェは刻む技法や刻んだ状態。ミンチは挽き肉そのものを指しやすい"
+      },
+      {
+        "id": "meatloaf",
+        "name": "ミートローフ",
+        "difference": "ミートローフはミンチを型に入れて焼く料理"
+      },
+      {
+        "id": "kofte",
+        "name": "キョフテ",
+        "difference": "キョフテはスパイス入りミンチを丸める料理"
+      }
+    ],
+    "relatedIds": [
+      "hache",
+      "meatloaf",
+      "hamburger",
+      "kofte",
+      "bolognese",
+      "farci"
+    ],
+    "tags": [
+      "肉",
+      "牛肉",
+      "豚肉",
+      "主菜",
+      "焼き物",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "塊肉",
+      "魚料理",
+      "野菜だけ",
+      "脂が苦手",
+      "生野菜"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mince/1.jpg",
+      "/images/dishes/mince/2.jpg",
+      "/images/dishes/mince/3.jpg"
+    ]
+  },
+  {
+    "id": "shaoxing-wine",
+    "name": "紹興酒",
+    "kana": "しょうこうしゅ",
+    "aliases": [
+      "シャオシン酒",
+      "紹興老酒",
+      "老酒"
+    ],
+    "englishName": "Shaoxing wine",
+    "originalName": "绍兴酒",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "紹興"
+      }
+    ],
+    "summary": "中国浙江省紹興の黄酒。もち米や麦麹を発酵・熟成させ、ナッツやカラメルを思わせる香りとまろやかな旨みを持つ。",
+    "menuDescription": "温めて飲むほか、東坡肉や上海蟹などの香りづけにも使う中国の代表的な醸造酒。熟成タイプは琥珀色でコクが強い。",
+    "whatComesOut": [
+      "琥珀色の中国酒がグラスや徳利で出る",
+      "燗酒として温かく提供されることがある",
+      "料理酒として煮込みや蒸し物に使われる"
+    ],
+    "tasteAndTexture": [
+      "熟成由来のナッツ香とカラメル香",
+      "米の甘みと酸み、深い旨み",
+      "日本酒より重く、ワインより穀物感がある"
+    ],
+    "orderAdvice": "中華料理の脂や甘辛い煮込みに合わせやすい。初めてなら温めたものを少量から試すと香りが立って飲みやすい。",
+    "caution": "アルコール飲料。料理用でもアルコールが残る場合がある。",
+    "similarItems": [
+      {
+        "id": "chen-nian-hua-diao-jiu",
+        "name": "陳年花彫酒",
+        "difference": "陳年花彫酒は紹興酒の熟成銘柄。紹興酒はより広い分類"
+      },
+      {
+        "id": "bai-jiu",
+        "name": "白酒",
+        "difference": "白酒は中国の蒸留酒。紹興酒は醸造酒で度数が低く旨みが強い"
+      },
+      {
+        "name": "日本酒",
+        "difference": "日本酒は日本の米醸造酒。紹興酒は麦麹由来の熟成香と酸みが強い"
+      }
+    ],
+    "relatedIds": [
+      "chen-nian-hua-diao-jiu",
+      "bai-jiu",
+      "dong-po-rou",
+      "hong-shao-pai-gu",
+      "qing-zheng-da-zha-xie",
+      "deglaze"
+    ],
+    "tags": [
+      "中国料理",
+      "米",
+      "発酵",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ノンアルコール",
+      "蒸留酒",
+      "軽い白ワイン",
+      "甘いジュース",
+      "炭酸"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/shaoxing-wine/1.jpg",
+      "/images/dishes/shaoxing-wine/2.jpg",
+      "/images/dishes/shaoxing-wine/3.jpg"
+    ]
+  },
+  {
+    "id": "shochu",
+    "name": "焼酎",
+    "kana": "しょうちゅう",
+    "englishName": "Shochu",
+    "originalName": "焼酎",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "芋・麦・米などを原料にする日本の蒸留酒。ロック、水割り、お湯割り、ソーダ割りなど幅広い飲み方がある。",
+    "menuDescription": "和食店や居酒屋で定番の蒸留酒。芋焼酎は甘い香り、麦焼酎は軽快、米焼酎はすっきりした印象になりやすい。",
+    "whatComesOut": [
+      "グラス入りの蒸留酒が出る",
+      "ロック、水割り、お湯割り、ソーダ割りを選ぶことが多い",
+      "銘柄や原料で香りが大きく変わる"
+    ],
+    "tasteAndTexture": [
+      "芋は甘い香りとふくよかなコク",
+      "麦は香ばしく軽い後味",
+      "米は澄んだ甘みとすっきり感"
+    ],
+    "orderAdvice": "食中酒なら水割りやソーダ割り、香りを楽しむならロックやお湯割り。原料で印象が違うので好みを伝えると選びやすい。",
+    "caution": "アルコール度数が高い。飲み方で濃さが変わる。",
+    "similarItems": [
+      {
+        "id": "bai-jiu",
+        "name": "白酒",
+        "difference": "白酒も蒸留酒だが、中国独自の強い発酵香と高い度数が特徴"
+      },
+      {
+        "name": "泡盛",
+        "difference": "泡盛は沖縄の米蒸留酒。焼酎より黒麹と長期熟成の個性が前に出やすい"
+      },
+      {
+        "id": "vodka",
+        "name": "ウォッカ",
+        "difference": "ウォッカはクセを抑えた蒸留酒が多い。焼酎は原料香を楽しむ"
+      }
+    ],
+    "relatedIds": [
+      "bai-jiu",
+      "cognac",
+      "calvados",
+      "drambuie",
+      "vermouth",
+      "cidre"
+    ],
+    "tags": [
+      "日本料理",
+      "米",
+      "香ばしい",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ノンアルコール",
+      "甘いカクテル",
+      "ワイン",
+      "ビール",
+      "濃厚ソース"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/shochu/1.jpg",
+      "/images/dishes/shochu/2.jpg",
+      "/images/dishes/shochu/3.jpg"
+    ]
+  },
+  {
+    "id": "vodka",
+    "name": "ウォッカ",
+    "kana": "うぉっか",
+    "englishName": "Vodka",
+    "originalName": "Vodka",
+    "category": "飲み物",
+    "regions": [
+      {
+        "area": "東欧"
+      },
+      {
+        "country": "ロシア"
+      },
+      {
+        "country": "ポーランド"
+      }
+    ],
+    "summary": "穀物や芋類を原料にする透明な蒸留酒。クセを抑えたクリアな味わいで、ストレートにもカクテルベースにも使われる。",
+    "menuDescription": "冷やしてショットで飲むほか、トニックやジュースと割るカクテルのベースになる。料理店では食前酒やバー注文で見かける。",
+    "whatComesOut": [
+      "透明な蒸留酒が小さなグラスで出る",
+      "よく冷やして提供されることが多い",
+      "カクテルでは他の素材の味を支える"
+    ],
+    "tasteAndTexture": [
+      "すっきりしたアルコール感",
+      "香りは控えめでクリア",
+      "冷やすと口当たりがなめらか"
+    ],
+    "orderAdvice": "強い酒が苦手ならカクテルで注文。ストレートはよく冷えたものを少量ずつ飲むと香りの違いがわかりやすい。",
+    "caution": "アルコール度数が高い。無色で飲みやすく見えても強い。",
+    "similarItems": [
+      {
+        "id": "shochu",
+        "name": "焼酎",
+        "difference": "焼酎は原料香を楽しむ日本の蒸留酒。ウォッカはよりニュートラル"
+      },
+      {
+        "id": "bai-jiu",
+        "name": "白酒",
+        "difference": "白酒は強い発酵香が特徴。ウォッカは香りを抑えたものが多い"
+      },
+      {
+        "id": "cognac",
+        "name": "コニャック",
+        "difference": "コニャックはブドウ由来で樽熟成する。ウォッカは透明で熟成香が少ない"
+      }
+    ],
+    "relatedIds": [
+      "bai-jiu",
+      "cognac",
+      "calvados",
+      "drambuie",
+      "vermouth",
+      "cidre"
+    ],
+    "tags": [
+      "ロシア料理",
+      "米",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ノンアルコール",
+      "甘いリキュール",
+      "樽熟成ブランデー",
+      "ビール",
+      "ワイン"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/vodka/1.jpg",
+      "/images/dishes/vodka/2.jpg",
+      "/images/dishes/vodka/3.jpg"
+    ]
+  },
+  {
+    "id": "amazake",
+    "name": "甘酒",
+    "kana": "あまざけ",
+    "englishName": "Amazake",
+    "originalName": "甘酒",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "米麹や酒粕から作る日本の甘い発酵飲料。米の自然な甘みととろみがあり、温かくても冷たくても飲まれる。",
+    "menuDescription": "米麹を糖化させたノンアルコール寄りの甘酒と、酒粕を溶いて作る香りの強い甘酒がある。和カフェや季節メニューで出る。",
+    "whatComesOut": [
+      "白く濁った甘い飲み物が湯呑みやカップで出る",
+      "米粒感が残ることがある",
+      "温製、冷製どちらもある"
+    ],
+    "tasteAndTexture": [
+      "米由来のやさしい甘み",
+      "とろりとした口当たり",
+      "酒粕タイプは日本酒の香りがある"
+    ],
+    "orderAdvice": "甘い飲み物や発酵食品が好きなら相性がよい。アルコールを避ける場合は米麹タイプか酒粕タイプか確認すると安心。",
+    "caution": "酒粕タイプは微量のアルコールを含むことがある。",
+    "similarItems": [
+      {
+        "id": "jiu-niang",
+        "name": "酒醸",
+        "difference": "酒醸は中国の米発酵食品で粒感が強く、デザートや料理にも使う"
+      },
+      {
+        "id": "shaoxing-wine",
+        "name": "紹興酒",
+        "difference": "紹興酒はアルコール飲料。甘酒は甘い発酵飲料で度数が低いかほぼない"
+      },
+      {
+        "name": "どぶろく",
+        "difference": "どぶろくはアルコールを含む濁り酒。甘酒は飲料として甘みが中心"
+      }
+    ],
+    "relatedIds": [
+      "jiu-niang",
+      "tofuyo",
+      "sangoha-chi-zuke",
+      "gochujang",
+      "cidre",
+      "shaoxing-wine"
+    ],
+    "tags": [
+      "日本料理",
+      "米",
+      "発酵",
+      "デザート",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "辛い酒",
+      "蒸留酒",
+      "炭酸",
+      "苦い酒",
+      "すっきり辛口"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/amazake/1.jpg",
+      "/images/dishes/amazake/2.jpg",
+      "/images/dishes/amazake/3.jpg"
+    ]
+  },
+  {
+    "id": "zha-cai",
+    "name": "ザーサイ",
+    "kana": "ざーさい",
+    "aliases": [
+      "搾菜",
+      "榨菜"
+    ],
+    "englishName": "Zha cai",
+    "originalName": "榨菜",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "四川"
+      }
+    ],
+    "summary": "からし菜の肥大した茎を塩漬け・発酵させ、唐辛子や香辛料で風味づけする中国の漬物。コリコリ食感と塩気が特徴。",
+    "menuDescription": "薄切りや細切りで前菜、小皿、炒め物、麺の具に使う。塩抜きしてごま油や唐辛子で和えることも多い。",
+    "whatComesOut": [
+      "茶色がかった薄切りの漬物が小皿で出る",
+      "細切りで炒め物や麺に入る",
+      "瓶詰めや袋入りの加工品も多い"
+    ],
+    "tasteAndTexture": [
+      "コリコリした歯ごたえ",
+      "強い塩気とうま味",
+      "唐辛子やごま油の香り"
+    ],
+    "orderAdvice": "中華の前菜やおつまみに便利。塩気が強いので、ご飯や粥、麺と合わせると食べやすい。",
+    "caution": "塩分が強いことがある。辛味つきの商品もある。",
+    "similarItems": [
+      {
+        "id": "ya-cai",
+        "name": "芽菜",
+        "difference": "芽菜は若い茎や葉を刻んだ四川の漬け菜。ザーサイは肥大した茎をコリコリ食べる"
+      },
+      {
+        "id": "pickles",
+        "name": "ピクルス",
+        "difference": "ピクルスは酢漬け中心。ザーサイは塩漬け発酵と香辛料の旨みが強い"
+      },
+      {
+        "id": "cornichon",
+        "name": "コルニション",
+        "difference": "コルニションは小きゅうりの酸味ある酢漬け。ザーサイは中国漬物で塩気と歯ごたえが主役"
+      }
+    ],
+    "relatedIds": [
+      "ya-cai",
+      "pickles",
+      "cornichon",
+      "achar",
+      "osaka-zuke",
+      "sangoha-chi-zuke"
+    ],
+    "tags": [
+      "中国料理",
+      "前菜",
+      "野菜",
+      "発酵",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "甘いデザート",
+      "生野菜サラダ",
+      "肉料理",
+      "淡白なスープ",
+      "乳製品"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/zha-cai/1.jpg",
+      "/images/dishes/zha-cai/2.jpg",
+      "/images/dishes/zha-cai/3.jpg"
     ]
   }
 ]
