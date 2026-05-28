@@ -43763,5 +43763,514 @@
       "/images/dishes/ghee/2.jpg",
       "/images/dishes/ghee/3.jpg"
     ]
+  },
+  {
+    "id": "curry-leaf",
+    "name": "カレーリーフ",
+    "kana": "かれーりーふ",
+    "aliases": [
+      "カリーパッタ",
+      "カリベパク",
+      "ナンヨウザンショウ"
+    ],
+    "englishName": "Curry leaf",
+    "originalName": "कढ़ी पत्ता",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "インド"
+      },
+      {
+        "country": "スリランカ"
+      }
+    ],
+    "summary": "南インドやスリランカ料理で油に入れて香りを移す葉の香辛料。柑橘、ナッツ、青い香りが混ざり、カレーやダルに独特の風味を加える。",
+    "menuDescription": "テンパリングで油に香りを移すハーブ状のスパイス。カレー、ダル、炒め物、チャツネに青く香ばしい香りを足す。",
+    "whatComesOut": [
+      "小さな緑の葉が料理に混ざる",
+      "油で炒めた香りの強い葉",
+      "カレーやダルの表面に浮く香味油",
+      "南インド系の炒め物やチャツネ"
+    ],
+    "tasteAndTexture": [
+      "柑橘に似た青い香り",
+      "ナッツのような香ばしさ",
+      "軽い苦み",
+      "葉は薄く、炒めると少しぱりっとする"
+    ],
+    "orderAdvice": "南インド料理やスリランカ料理の香りが好きなら歓迎材料。葉そのものを食べるより、香りづけとして考えると選びやすい。",
+    "caution": "香りが独特。葉が硬い場合は避けて食べてもよい。",
+    "similarItems": [
+      {
+        "name": "ローリエ",
+        "difference": "ローリエは煮込みに使う月桂樹の葉。カレーリーフは油で炒めて南インド風の香りを出す"
+      },
+      {
+        "id": "pakuchi",
+        "name": "パクチー",
+        "difference": "パクチーは生葉の香草。カレーリーフは加熱して香りを油に移す葉の香辛料"
+      },
+      {
+        "id": "mustard-seed",
+        "name": "マスタードシード",
+        "difference": "マスタードシードは粒スパイス。カレーリーフは葉で、同じテンパリングに使われることが多い"
+      }
+    ],
+    "relatedIds": [
+      "mustard-seed",
+      "cumin-seed",
+      "coriander-seed",
+      "turmeric",
+      "garam-masala",
+      "dal"
+    ],
+    "tags": [
+      "インド料理",
+      "香辛料",
+      "ハーブ",
+      "スパイス",
+      "香ばしい",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "無香料",
+      "甘いデザート",
+      "辛い唐辛子",
+      "主菜そのもの",
+      "西洋ハーブ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/curry-leaf/1.jpg",
+      "/images/dishes/curry-leaf/2.jpg",
+      "/images/dishes/curry-leaf/3.jpg"
+    ]
+  },
+  {
+    "id": "dal-khichuri",
+    "name": "ダルキチュリ",
+    "kana": "だるきちゅり",
+    "aliases": [
+      "ダル・キチュリ",
+      "キチュリ",
+      "キッチャリー",
+      "ダルキチディ"
+    ],
+    "englishName": "Dal khichuri",
+    "originalName": "ডাল খিচুড়ি",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "バングラデシュ"
+      },
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "米と豆を一緒に炊き込む南アジアの家庭料理。やわらかい粥状から粒感のある炊き込み飯まで幅があり、ギーやスパイスで香りを足す。",
+    "menuDescription": "米とダルを煮込んだやさしい主食。ターメリック、クミン、ギーの香りがあり、アチャールやライタと合わせることが多い。",
+    "whatComesOut": [
+      "黄色みのある米と豆の炊き込み",
+      "やわらかい粥状またはしっとりした米料理",
+      "ギーやスパイスの香り",
+      "アチャール、ライタ、パパドなどの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "豆のやさしい甘み",
+      "米のほっとする食感",
+      "クミンやターメリックの穏やかな香り",
+      "ギーを使うと香ばしく少しこってり"
+    ],
+    "orderAdvice": "辛さ控えめで腹持ちのよいインド・ベンガル系主食が欲しい時向き。刺激より安心感を求める時に選びやすい。",
+    "caution": "店によって水分量と辛さが大きく違う。ギーを使う場合は乳製品由来。",
+    "similarItems": [
+      {
+        "id": "dal",
+        "name": "ダル",
+        "difference": "ダルは豆の煮込みやスープ。ダルキチュリは米と豆を一緒に炊く主食"
+      },
+      {
+        "id": "biryani",
+        "name": "ビリヤニ",
+        "difference": "ビリヤニは香り米と肉などの華やかな炊き込み。ダルキチュリは豆と米の素朴な炊き込み"
+      },
+      {
+        "name": "リゾット",
+        "difference": "リゾットはイタリアの米料理。ダルキチュリは豆とスパイスを使う南アジアの米料理"
+      }
+    ],
+    "relatedIds": [
+      "dal",
+      "ghee",
+      "cumin-seed",
+      "turmeric",
+      "raita",
+      "achar",
+      "biryani"
+    ],
+    "tags": [
+      "インド料理",
+      "主食",
+      "米",
+      "豆",
+      "煮込み",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "肉たっぷり",
+      "揚げ物",
+      "強い辛味",
+      "汁なし麺",
+      "軽いサラダ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/dal-khichuri/1.jpg",
+      "/images/dishes/dal-khichuri/2.jpg"
+    ]
+  },
+  {
+    "id": "chapati",
+    "name": "チャパティ",
+    "kana": "ちゃぱてぃ",
+    "aliases": [
+      "チャパーティ",
+      "チャパティー",
+      "ロティ"
+    ],
+    "englishName": "Chapati",
+    "originalName": "चपाती",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "全粒小麦粉の生地を薄く伸ばして焼く、インドの日常的な無発酵平焼きパン。カレーやダルをすくって食べる主食。",
+    "menuDescription": "薄くやわらかい無発酵パン。ナンより軽く、家庭的なカレーやダルに合わせやすい。",
+    "whatComesOut": [
+      "丸く薄い平焼きパン",
+      "軽い焼き目のある小麦生地",
+      "カレーやダルの添え物",
+      "手でちぎって食べる主食"
+    ],
+    "tasteAndTexture": [
+      "小麦の素朴な甘み",
+      "しなやかでちぎりやすい",
+      "焼き目の軽い香ばしさ",
+      "油脂は控えめで軽い"
+    ],
+    "orderAdvice": "ナンより軽いパンでカレーを食べたい時向き。日常的で素朴なインド料理に合わせやすい。",
+    "caution": "小麦を含む。冷めると硬くなることがある。",
+    "similarItems": [
+      {
+        "id": "bhakri",
+        "name": "バクリ",
+        "difference": "バクリは雑穀や米粉を使うことが多く、チャパティより厚めでほろっとした食感になりやすい"
+      },
+      {
+        "id": "naan",
+        "name": "ナン",
+        "difference": "ナンは発酵生地をタンドールで焼くふっくらしたパン。チャパティは無発酵で薄く軽い"
+      },
+      {
+        "id": "paratha",
+        "name": "パラタ",
+        "difference": "パラタは油脂を折り込む層のあるパン。チャパティはより素朴で軽い"
+      }
+    ],
+    "relatedIds": [
+      "bhakri",
+      "naan",
+      "paratha",
+      "dal",
+      "dal-khichuri",
+      "achar",
+      "raita"
+    ],
+    "tags": [
+      "インド料理",
+      "主食",
+      "小麦",
+      "焼き物",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "米料理",
+      "揚げ物",
+      "発酵パン",
+      "こってり",
+      "甘いパン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chapati/1.jpg",
+      "/images/dishes/chapati/2.jpg",
+      "/images/dishes/chapati/3.jpg"
+    ]
+  },
+  {
+    "id": "bhakri",
+    "name": "バクリ",
+    "kana": "ばくり",
+    "aliases": [
+      "バクリー",
+      "バクリロティ",
+      "バクリ・ロティ"
+    ],
+    "englishName": "Bhakri",
+    "originalName": "भाकरी",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インド",
+        "locality": "マハラシュトラ"
+      }
+    ],
+    "summary": "雑穀粉や米粉で作ることが多い、インド西部の日常的な無発酵平焼きパン。厚めで素朴な食感があり、ピトラやなす料理と合わせる。",
+    "menuDescription": "やや厚めの素朴な平パン。チャパティより噛みごたえがあり、ピトラ、バリト、チャツネなどをのせて食べる。",
+    "whatComesOut": [
+      "丸く平たい焼きパン",
+      "やや厚めで割って食べる生地",
+      "焦げ目のある素朴な表面",
+      "ピトラや野菜料理の添え物"
+    ],
+    "tasteAndTexture": [
+      "雑穀や米粉の素朴な香り",
+      "焼き目の香ばしさ",
+      "ほろっとした噛みごたえ",
+      "水分のある料理とよく合う"
+    ],
+    "orderAdvice": "マハラシュトラ系の素朴な定食やピトラと合わせたい時向き。乾きやすいので汁気のある料理と食べるとよい。",
+    "caution": "粉の種類は店で違う。雑穀粉でも小麦を混ぜる場合があるため、グルテン回避時は確認。",
+    "similarItems": [
+      {
+        "id": "chapati",
+        "name": "チャパティ",
+        "difference": "チャパティは小麦主体で薄くしなやか。バクリは雑穀や米粉を使い、厚めで素朴"
+      },
+      {
+        "id": "naan",
+        "name": "ナン",
+        "difference": "ナンは発酵生地のふっくらしたパン。バクリは無発酵で素朴な平焼きパン"
+      },
+      {
+        "id": "paratha",
+        "name": "パラタ",
+        "difference": "パラタは油脂感と層がある。バクリは油脂控えめで粉の風味が中心"
+      }
+    ],
+    "relatedIds": [
+      "chapati",
+      "naan",
+      "paratha",
+      "dal",
+      "vangyacha-bharit",
+      "kanda-bhaji-pithla",
+      "chutney"
+    ],
+    "tags": [
+      "インド料理",
+      "主食",
+      "米",
+      "焼き物",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ふっくら発酵パン",
+      "揚げ物",
+      "甘いパン",
+      "こってり",
+      "汁気なし"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bhakri/1.jpg",
+      "/images/dishes/bhakri/2.jpg",
+      "/images/dishes/bhakri/3.jpg"
+    ]
+  },
+  {
+    "id": "vangyacha-bharit",
+    "name": "ヴァンギャチャ・バリト",
+    "kana": "ゔぁんぎゃちゃばりと",
+    "aliases": [
+      "ヴァンギャチャバリト",
+      "ヴァンギャーチャ・バリット",
+      "ヴァンギ・バリト",
+      "ベイガン・バルタ",
+      "焼きなすバリト"
+    ],
+    "englishName": "Vangyacha bharit",
+    "originalName": "वांग्याचे भरीत",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インド",
+        "locality": "マハラシュトラ"
+      }
+    ],
+    "summary": "焼いたなすをつぶし、玉ねぎ、唐辛子、香菜、スパイスなどと和えるマハラシュトラのなす料理。スモーキーな香りと素朴な味が特徴。",
+    "menuDescription": "焼きなすのマッシュ。チャパティやバクリにのせて食べることが多く、なすの甘み、青唐辛子、香菜の香りが合わさる。",
+    "whatComesOut": [
+      "つぶした焼きなすの和え物",
+      "玉ねぎや香菜が混ざったやわらかい副菜",
+      "青唐辛子やスパイスの香り",
+      "チャパティやバクリの添え物"
+    ],
+    "tasteAndTexture": [
+      "焼きなすのスモーキーな香り",
+      "なすのとろっとした甘み",
+      "玉ねぎのしゃきっとした食感",
+      "青唐辛子の軽い辛味"
+    ],
+    "orderAdvice": "なす料理や素朴なインド家庭料理が好きなら相性がよい。パン系主食と一緒に頼むと食べやすい。",
+    "caution": "青唐辛子、玉ねぎ、香菜が入ることが多い。辛さと香菜の有無は店で差がある。",
+    "similarItems": [
+      {
+        "id": "baba-ganoush",
+        "name": "ババガヌーシュ",
+        "difference": "ババガヌーシュはタヒニやレモンを使う中東の焼きなすディップ。ヴァンギャチャ・バリトはインド式で玉ねぎや唐辛子が効く"
+      },
+      {
+        "name": "ベイガン・バルタ",
+        "difference": "ベイガン・バルタは北インド寄りの焼きなすカレー。ヴァンギャチャ・バリトはマハラシュトラの素朴な和え物として出ることが多い"
+      },
+      {
+        "id": "ratatouille",
+        "name": "ラタトゥイユ",
+        "difference": "ラタトゥイユは複数野菜の煮込み。ヴァンギャチャ・バリトは焼きなすをつぶした副菜"
+      }
+    ],
+    "relatedIds": [
+      "chapati",
+      "bhakri",
+      "dal",
+      "chutney",
+      "pakuchi",
+      "cumin-seed",
+      "mustard-seed",
+      "baba-ganoush"
+    ],
+    "tags": [
+      "インド料理",
+      "前菜",
+      "野菜",
+      "焼き物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "なす苦手",
+      "生野菜サラダ",
+      "肉料理",
+      "甘いデザート",
+      "香菜不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "kanda-bhaji-pithla",
+    "name": "カンダバジ ピトラ",
+    "kana": "かんだばじぴとら",
+    "aliases": [
+      "カンダバジ・ピトラ",
+      "カンダバジ",
+      "カンダバジー",
+      "ピトラ",
+      "ピトゥラ",
+      "ピトラバクリ"
+    ],
+    "englishName": "Kanda bhaji and pithla",
+    "originalName": "कांदा भजी / पिठलं",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インド",
+        "locality": "マハラシュトラ"
+      }
+    ],
+    "summary": "玉ねぎのスパイス衣揚げカンダバジと、ひよこ豆粉を煮たピトラを組み合わせるマハラシュトラ系の素朴な食事。バクリやチャパティと相性がよい。",
+    "menuDescription": "玉ねぎの揚げ物と、黄色い豆粉カレーの組み合わせ。香ばしい揚げ物、なめらかなピトラ、バクリ系の主食を一緒に食べる。",
+    "whatComesOut": [
+      "玉ねぎのかき揚げ風スナック",
+      "ひよこ豆粉を煮た黄色いピトラ",
+      "青唐辛子やスパイスの香り",
+      "バクリ、チャパティ、チャツネなどの添え物"
+    ],
+    "tasteAndTexture": [
+      "カンダバジは外がカリッと香ばしい",
+      "玉ねぎの甘みと軽い辛味",
+      "ピトラはとろっとなめらか",
+      "豆粉の素朴なコクとスパイス香"
+    ],
+    "orderAdvice": "軽い揚げ物も豆粉カレーも食べたい時向き。バクリやチャパティと一緒なら満足感が出る。",
+    "caution": "カンダバジは揚げ物で油分がある。ピトラは青唐辛子やにんにくが効く場合あり。",
+    "similarItems": [
+      {
+        "name": "パコラ",
+        "difference": "パコラは野菜などの衣揚げ全般。カンダバジは玉ねぎ中心で、ここではピトラと組み合わせる"
+      },
+      {
+        "id": "dal",
+        "name": "ダル",
+        "difference": "ダルは豆そのものを煮る。ピトラはひよこ豆粉を溶いて煮るため、よりなめらかで粉の風味が出る"
+      },
+      {
+        "id": "bhakri",
+        "name": "バクリ",
+        "difference": "バクリは主食の平パン。カンダバジ ピトラはその横に合わせる揚げ物と豆粉料理"
+      }
+    ],
+    "relatedIds": [
+      "chapati",
+      "bhakri",
+      "vangyacha-bharit",
+      "dal",
+      "chutney",
+      "achar",
+      "mustard-seed",
+      "turmeric"
+    ],
+    "tags": [
+      "インド料理",
+      "主菜",
+      "野菜",
+      "豆",
+      "揚げ物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "揚げ物なし",
+      "玉ねぎ不可",
+      "豆粉不可",
+      "あっさりサラダ",
+      "甘いデザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": []
   }
 ]
