@@ -43366,5 +43366,402 @@
       "/images/dishes/zha-cai/2.jpg",
       "/images/dishes/zha-cai/3.jpg"
     ]
+  },
+  {
+    "id": "garam-masala",
+    "name": "ガラムマサラ",
+    "kana": "がらむまさら",
+    "aliases": [
+      "ガラム・マサラ"
+    ],
+    "englishName": "Garam masala",
+    "originalName": "गरम मसाला",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "クミン、コリアンダー、カルダモン、クローブ、シナモンなどを合わせたインドのミックススパイス。仕上げに加えて香りを立たせることが多い。",
+    "menuDescription": "カレー、ダル、肉料理、炒め物の仕上げに少量使われる香りの強いスパイスブレンド。辛さよりも温かい香りと奥行きを足す。",
+    "whatComesOut": [
+      "茶色い粉末スパイス",
+      "カレーや煮込みの香りづけ",
+      "仕上げに振られて香りが立つ料理"
+    ],
+    "tasteAndTexture": [
+      "温かいスパイス香",
+      "クミンやコリアンダーの土っぽい香り",
+      "クローブやシナモンの甘い香り",
+      "辛味より香りが中心"
+    ],
+    "orderAdvice": "メニュー名より説明文やカレーの香りで出会うことが多い。強い香りが苦手なら控えめな料理を選ぶとよい。",
+    "caution": "スパイス香が強い。辛くない場合も香りは濃い。",
+    "similarItems": [
+      {
+        "name": "カレー粉",
+        "difference": "カレー粉はターメリック主体で黄色いことが多い。ガラムマサラは仕上げ香用で甘い香りが強い"
+      },
+      {
+        "id": "cumin",
+        "name": "クミン",
+        "difference": "クミンは単体スパイス。ガラムマサラは複数スパイスのブレンド"
+      },
+      {
+        "id": "quatre-epices",
+        "name": "キャトル・エピス",
+        "difference": "キャトル・エピスはフランス系の混合香辛料。ガラムマサラはインド料理向け"
+      }
+    ],
+    "relatedIds": [
+      "cumin",
+      "turmeric",
+      "coriander-seed",
+      "dal",
+      "biryani",
+      "tandoori"
+    ],
+    "tags": [
+      "インド料理",
+      "香辛料",
+      "スパイス",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "無香料",
+      "和風だし",
+      "甘いデザート",
+      "生野菜",
+      "淡白な味"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/garam-masala/1.jpg",
+      "/images/dishes/garam-masala/2.jpg",
+      "/images/dishes/garam-masala/3.jpg"
+    ]
+  },
+  {
+    "id": "mustard-seed",
+    "name": "マスタードシード",
+    "kana": "ますたーどしーど",
+    "aliases": [
+      "からし種",
+      "芥子の種"
+    ],
+    "englishName": "Mustard seed",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "国際"
+      },
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "アブラナ科植物の小さな種子。油で弾けさせるテンパリングや、粉砕してマスタードの原料に使う香辛料。",
+    "menuDescription": "インド料理では油で炒めて香ばしい香りを出し、南インドのカレーやアチャールに使う。西洋ではマスタードやピクルスの風味づけにもなる。",
+    "whatComesOut": [
+      "小さな丸い粒状スパイス",
+      "油で弾けた香ばしい粒",
+      "漬物やカレーの中に混ざる粒"
+    ],
+    "tasteAndTexture": [
+      "噛むと軽い辛味と苦み",
+      "炒めるとナッツのように香ばしい",
+      "粒のプチプチした食感",
+      "酸味のある漬物と相性がよい"
+    ],
+    "orderAdvice": "南インド料理やアチャールで見かけやすい。粒が苦手ならソース状のマスタードの方が食べやすい。",
+    "caution": "からし・マスタード系アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "mustard",
+        "name": "マスタード",
+        "difference": "マスタードは加工調味料。マスタードシードは原料の粒スパイス"
+      },
+      {
+        "id": "cumin-seed",
+        "name": "クミンシード",
+        "difference": "クミンシードは土っぽい香り。マスタードシードは辛味と香ばしさが中心"
+      },
+      {
+        "id": "achar",
+        "name": "アチャール",
+        "difference": "アチャールは漬物料理。マスタードシードはその香りづけに使う"
+      }
+    ],
+    "relatedIds": [
+      "mustard",
+      "dijon-mustard",
+      "cumin",
+      "turmeric",
+      "coriander-seed",
+      "achar"
+    ],
+    "tags": [
+      "インド料理",
+      "香辛料",
+      "スパイス",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "甘いソース",
+      "辛味なし",
+      "なめらか食感",
+      "乳製品",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/mustard-seed/1.png",
+      "/images/dishes/mustard-seed/2.jpg",
+      "/images/dishes/mustard-seed/3.jpg"
+    ]
+  },
+  {
+    "id": "cumin-seed",
+    "name": "クミンシード",
+    "kana": "くみんしーど",
+    "aliases": [
+      "クミン種子"
+    ],
+    "englishName": "Cumin seed",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "中東"
+      },
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "セリ科植物クミンの種子状スパイス。油で炒めるとカレーらしい土っぽく香ばしい香りが立つ。",
+    "menuDescription": "インド料理や中東料理でテンパリング、煮込み、米料理に使う粒スパイス。粉末クミンより噛んだ時の香りがはっきり出る。",
+    "whatComesOut": [
+      "細長い茶色の粒スパイス",
+      "油で炒めた香りの粒",
+      "カレーや米料理に混ざる粒"
+    ],
+    "tasteAndTexture": [
+      "土っぽく温かい香り",
+      "炒めると香ばしい",
+      "噛むと強いクミン香",
+      "粒の軽い食感"
+    ],
+    "orderAdvice": "カレーらしい香りが好きなら相性がよい。粒感が気になる人は粉末クミン主体の料理が食べやすい。",
+    "similarItems": [
+      {
+        "id": "cumin",
+        "name": "クミン",
+        "difference": "クミンは粉末や総称を含む。クミンシードは粒のまま使う"
+      },
+      {
+        "id": "mustard-seed",
+        "name": "マスタードシード",
+        "difference": "マスタードシードは辛味と弾ける香ばしさ。クミンシードは土っぽいカレー香"
+      },
+      {
+        "id": "coriander-seed",
+        "name": "コリアンダー",
+        "difference": "コリアンダーは柑橘系で軽い。クミンシードは重く温かい香り"
+      }
+    ],
+    "relatedIds": [
+      "cumin",
+      "turmeric",
+      "coriander-seed",
+      "biryani",
+      "dal",
+      "raita"
+    ],
+    "tags": [
+      "インド料理",
+      "香辛料",
+      "スパイス",
+      "香ばしい",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "無香料",
+      "甘い飲み物",
+      "生野菜",
+      "乳製品だけ",
+      "淡白な味"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cumin-seed/1.jpg",
+      "/images/dishes/cumin-seed/2.jpg",
+      "/images/dishes/cumin-seed/3.jpg"
+    ]
+  },
+  {
+    "id": "paratha",
+    "name": "パラタ",
+    "kana": "ぱらた",
+    "aliases": [
+      "パラーター",
+      "パロタ"
+    ],
+    "englishName": "Paratha",
+    "originalName": "पराठा",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "小麦粉の生地に油脂を折り込み、薄く伸ばして焼くインドの平焼きパン。層があり、外は香ばしく中はもっちりする。",
+    "menuDescription": "カレーやダルに添えるほか、じゃがいもや野菜を詰めたものもある。ナンより平たく、ロティより油脂感と層が強い。",
+    "whatComesOut": [
+      "薄く丸い焼きパン",
+      "層のある香ばしい生地",
+      "カレーやダルの添え物",
+      "具入りの場合は主食として出る"
+    ],
+    "tasteAndTexture": [
+      "外側は香ばしく軽くサクッとする",
+      "内側はもっちり",
+      "ギーや油のコク",
+      "小麦の甘み"
+    ],
+    "orderAdvice": "ナンより重めで香ばしいパンが欲しい時に向く。カレーをすくって食べると油脂のコクがよく合う。",
+    "caution": "小麦を含む。具入りは辛い場合がある。",
+    "similarItems": [
+      {
+        "id": "naan",
+        "name": "ナン",
+        "difference": "ナンはタンドールで焼くふっくらしたパン。パラタは層と油脂感が強い平焼きパン"
+      },
+      {
+        "id": "roti",
+        "name": "ロティ",
+        "difference": "ロティは素朴な無発酵パン。パラタは油脂を折り込み層を作る"
+      },
+      {
+        "name": "チャパティ",
+        "difference": "チャパティは薄い日常的な無発酵パン。パラタはよりリッチで香ばしい"
+      }
+    ],
+    "relatedIds": [
+      "naan",
+      "roti",
+      "dal",
+      "biryani",
+      "achar",
+      "raita"
+    ],
+    "tags": [
+      "インド料理",
+      "主菜",
+      "小麦",
+      "焼き物",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "米料理",
+      "グルテンフリー",
+      "軽いサラダ",
+      "甘いデザート",
+      "スープだけ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/paratha/1.jpg",
+      "/images/dishes/paratha/2.jpg",
+      "/images/dishes/paratha/3.jpg"
+    ]
+  },
+  {
+    "id": "ghee",
+    "name": "ギー",
+    "kana": "ぎー",
+    "englishName": "Ghee",
+    "originalName": "घी",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "バターから水分と乳固形分を除いた精製バター。インド料理で炒め油、仕上げ、菓子に使われ、ナッツのような香りを持つ。",
+    "menuDescription": "ダルの仕上げ、カレーの炒め油、パラタやナンの香りづけに使う濃厚な乳脂肪。少量でもコクと香ばしさが出る。",
+    "whatComesOut": [
+      "黄金色の澄んだ油脂",
+      "料理表面に香りのよい油として浮く",
+      "パンや米料理の仕上げに塗られる"
+    ],
+    "tasteAndTexture": [
+      "ナッツのような香ばしさ",
+      "濃い乳脂肪のコク",
+      "口当たりはなめらか",
+      "バターより焦げにくい"
+    ],
+    "orderAdvice": "濃厚で香ばしいインド料理が好きなら歓迎材料。軽く食べたい時はギー少なめの料理を選ぶとよい。",
+    "caution": "乳由来。乳製品アレルギーや高脂質を避けたい場合は注意。",
+    "similarItems": [
+      {
+        "id": "beurre-clarifie",
+        "name": "ブール・クラリフィエ",
+        "difference": "ブール・クラリフィエは澄ましバター全般。ギーは加熱香とインド料理での用途が特徴"
+      },
+      {
+        "id": "beurre-noisette",
+        "name": "ブール・ノワゼット",
+        "difference": "ブール・ノワゼットは焦がしバター。ギーは乳固形分を除いた精製バター"
+      },
+      {
+        "id": "paratha",
+        "name": "パラタ",
+        "difference": "パラタはギーを使うことがあるパン料理。ギーは油脂そのもの"
+      }
+    ],
+    "relatedIds": [
+      "beurre-clarifie",
+      "beurre-noisette",
+      "paratha",
+      "naan",
+      "dal",
+      "butter-chicken-curry"
+    ],
+    "tags": [
+      "インド料理",
+      "食材",
+      "乳製品",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "低脂質",
+      "乳製品なし",
+      "あっさり",
+      "生野菜",
+      "辛味"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ghee/1.jpg",
+      "/images/dishes/ghee/2.jpg",
+      "/images/dishes/ghee/3.jpg"
+    ]
   }
 ]
