@@ -1,6 +1,6 @@
 import type { Metadata } from "next"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
-import { DishesPageContent, PAGE_SIZE, paginateDishes, totalPages } from "../../components/features/DishesPageContent"
+import { DishesPageContent, paginateDishes, totalPages } from "../../components/features/DishesPageContent"
 import dishes from "../../data/dishes.json"
 import type { DishItem } from "../../types/dish"
 

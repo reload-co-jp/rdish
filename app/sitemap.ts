@@ -2,7 +2,7 @@ export const dynamic = "force-static"
 
 import type { MetadataRoute } from "next"
 import dishes from "../data/dishes.json"
-import { PAGE_SIZE, totalPages } from "../components/features/DishesPageContent"
+import { totalPages } from "../components/features/DishesPageContent"
 import { categoryItems, countryItems, tagItems } from "../lib/taxonomy"
 import type { DishItem } from "../types/dish"
 
