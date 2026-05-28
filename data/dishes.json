@@ -44272,5 +44272,2147 @@
     "heavinessScore": 3,
     "spicinessScore": 2,
     "images": []
+  },
+  {
+    "id": "fideua",
+    "name": "フィデウア",
+    "kana": "ふぃでうあ",
+    "englishName": "Fideuà",
+    "originalName": "Fideuà",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "パエリア鍋で魚介の出汁とともに短いパスタを炒め煮にするスペインの料理。米の代わりにパスタを使うパエリアの変形版で、鍋底のカリカリとした焦げが醍醐味。",
+    "menuDescription": "パエリア鍋で魚介の出汁と一緒に炒め煮にした短いパスタ料理。表面はカリッとした焦げめが特徴で、アイオリをつけて食べるスペイン・バレンシア地方の郷土料理。",
+    "whatComesOut": [
+      "パエリア鍋に盛られた短いパスタ（フィデオ）",
+      "エビ・イカ・貝などの魚介",
+      "アイオリソース"
+    ],
+    "tasteAndTexture": [
+      "魚介の濃厚な旨みが染みたパスタ",
+      "鍋底のカリカリとした焦げ（ソカラ）の香ばしさ",
+      "アイオリのまろやかなコク"
+    ],
+    "orderAdvice": "パエリアが好きなら必ず食べたい一品。パスタで魚介の旨みを余さず楽しめる。",
+    "similarItems": [
+      {
+        "id": "paella",
+        "name": "パエリア",
+        "difference": "パエリアは米を使うが、フィデウアは短いパスタ（フィデオ）を使う"
+      },
+      {
+        "id": "risotto",
+        "name": "リゾット",
+        "difference": "リゾットはイタリア発祥で米を使い、出汁を少しずつ加えながら仕上げる"
+      }
+    ],
+    "relatedIds": [
+      "paella",
+      "ahijo",
+      "aioli",
+      "saffron"
+    ],
+    "tags": [
+      "スペイン料理",
+      "主菜",
+      "魚介",
+      "炒め物",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "肉料理",
+      "あっさり",
+      "和食",
+      "生魚"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fideua/1.jpg",
+      "/images/dishes/fideua/2.jpg",
+      "/images/dishes/fideua/3.jpg"
+    ]
+  },
+  {
+    "id": "jamon-serrano",
+    "name": "ハモン・セラーノ",
+    "kana": "はもんせらーの",
+    "aliases": [
+      "ハモンセラーノ",
+      "セラーノハム"
+    ],
+    "englishName": "Jamón Serrano",
+    "originalName": "Jamón Serrano",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン産の塩蔵風乾生ハム。白豚のもも肉を塩漬けにして山岳地帯の乾燥した空気の中で長期熟成させたもの。薄切りにして前菜や軽食に使われる。",
+    "menuDescription": "白豚のもも肉を塩漬けして山岳地帯で風乾熟成させたスペインの生ハム。薄くスライスしてそのまま食べるか、パンやクロケッタの具材として提供される。",
+    "whatComesOut": [
+      "薄切りの生ハム数枚",
+      "パンまたはグリッシーニ（付け合わせによる）"
+    ],
+    "tasteAndTexture": [
+      "深みのある塩気と凝縮した旨み",
+      "サラリとした口溶け",
+      "熟成感のある香り"
+    ],
+    "orderAdvice": "ワインやシェリーとの相性が抜群。スペイン料理の前菜として定番で迷わず選べる。",
+    "caution": "塩分が高め。",
+    "similarItems": [
+      {
+        "name": "ハモン・イベリコ",
+        "difference": "イベリコ豚を使いさらに長期熟成、脂の甘みが際立つ高級品"
+      },
+      {
+        "name": "プロシュート",
+        "difference": "イタリア産の生ハム。製法は似ているがイタリアの豚と熟成環境が異なる"
+      }
+    ],
+    "relatedIds": [
+      "chorizo",
+      "paella",
+      "aioli"
+    ],
+    "tags": [
+      "スペイン料理",
+      "前菜",
+      "軽食",
+      "豚肉",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "塩分が苦手",
+      "ベジタリアン",
+      "温かい料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/jamon-serrano/1.jpg",
+      "/images/dishes/jamon-serrano/2.jpg",
+      "/images/dishes/jamon-serrano/3.jpg"
+    ]
+  },
+  {
+    "id": "pintxos",
+    "name": "ピンチョス",
+    "kana": "ぴんちょす",
+    "aliases": [
+      "ピンチョ",
+      "ピンチョ・モルノ"
+    ],
+    "englishName": "Pintxos",
+    "originalName": "Pintxos",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペインのバスク地方発祥の一口サイズのタパス。バゲットのスライスにハム・チーズ・魚介などを乗せ、爪楊枝（ピンチョ）で固定したスナック料理。",
+    "menuDescription": "バゲットのスライスにさまざまな具材を乗せた一口サイズの料理。バースタイルで数種類が並べて出されることが多く、好きなものを選んで食べる。",
+    "whatComesOut": [
+      "バゲットのスライス数切れ",
+      "ハム・チーズ・魚介などのトッピング",
+      "爪楊枝"
+    ],
+    "tasteAndTexture": [
+      "トッピングによって多様な風味",
+      "バゲットのサクサク感",
+      "具材の旨みが一口に凝縮"
+    ],
+    "orderAdvice": "気軽に色々な味を試せる。何種類か選んでシェアするのがおすすめ。",
+    "similarItems": [
+      {
+        "name": "タパス",
+        "difference": "タパスはスペイン全土の小皿料理全般を指す広い概念。ピンチョスはバスク地方特有のスタイル"
+      },
+      {
+        "name": "カナッペ",
+        "difference": "フランス発祥のパンや生地に具材を乗せた前菜。ピンチョスと構造は似るが爪楊枝文化はない"
+      }
+    ],
+    "relatedIds": [
+      "ahijo",
+      "tortilla",
+      "chorizo"
+    ],
+    "tags": [
+      "スペイン料理",
+      "前菜",
+      "軽食",
+      "小麦",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "大盛り",
+      "主菜",
+      "お腹いっぱい食べたい",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pintxos/1.jpg",
+      "/images/dishes/pintxos/2.jpg",
+      "/images/dishes/pintxos/3.jpg"
+    ]
+  },
+  {
+    "id": "patatas-bravas",
+    "name": "パタタス・ブラバス",
+    "kana": "ぱたたすぶらばす",
+    "aliases": [
+      "パタタスブラバス",
+      "ブラバスポテト"
+    ],
+    "englishName": "Patatas Bravas",
+    "originalName": "Patatas Bravas",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペインのタパスの定番。角切りにして揚げたじゃがいもにピリ辛のブラバスソースをかけた一品。シンプルながら満足度が高い。",
+    "menuDescription": "角切りじゃがいもを揚げてスパイシーなトマトベースのブラバスソースやアイオリをかけたスペインのタパス。外カリ中ホクの食感が特徴。",
+    "whatComesOut": [
+      "揚げたじゃがいもの角切り",
+      "ブラバスソース（赤いスパイシーソース）",
+      "アイオリまたはマヨネーズ"
+    ],
+    "tasteAndTexture": [
+      "外カリッと中ホクホクのじゃがいも",
+      "ピリ辛のソースの刺激",
+      "アイオリのまろやかなコク"
+    ],
+    "orderAdvice": "スペイン料理の定番タパス。辛いものが好きなら必ず頼みたい。ビールによく合う。",
+    "similarItems": [
+      {
+        "name": "フライドポテト",
+        "difference": "フライドポテトはソースなしが基本。パタタス・ブラバスはピリ辛ソースが決め手"
+      },
+      {
+        "id": "ahijo",
+        "name": "アヒージョ",
+        "difference": "アヒージョはオイル煮。パタタス・ブラバスは揚げてソースをかける"
+      }
+    ],
+    "relatedIds": [
+      "ahijo",
+      "aioli",
+      "tortilla",
+      "gazpacho"
+    ],
+    "tags": [
+      "スペイン料理",
+      "前菜",
+      "野菜",
+      "揚げ物",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "あっさり",
+      "ヘルシー",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/patatas-bravas/1.jpg",
+      "/images/dishes/patatas-bravas/2.jpg",
+      "/images/dishes/patatas-bravas/3.jpg"
+    ]
+  },
+  {
+    "id": "croqueta",
+    "name": "クロケッタ",
+    "kana": "くろけった",
+    "aliases": [
+      "クロケタ",
+      "スペインコロッケ"
+    ],
+    "englishName": "Croqueta",
+    "originalName": "Croqueta",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペインのタパスの定番。ベシャメルベースのクリーム状の具材をパン粉で包んで揚げた一口コロッケ。ハムやタラが代表的な具材。",
+    "menuDescription": "ベシャメルソースにハム・タラ・チーズなどを混ぜてパン粉をつけて揚げた一口サイズのコロッケ。外はサクサク、中はとろっとクリーミー。",
+    "whatComesOut": [
+      "一口サイズの揚げ物（3〜6個程度）",
+      "マヨネーズやアイオリ（店によって異なる）"
+    ],
+    "tasteAndTexture": [
+      "サクサクのパン粉の衣",
+      "とろりとクリーミーな中身",
+      "ハムまたはタラの凝縮した旨み"
+    ],
+    "orderAdvice": "コロッケ好きなら必ず食べたい。ビールやワインによく合い、シェアしやすい。",
+    "caution": "小麦粉・パン粉（グルテン）および乳製品を含む。",
+    "similarItems": [
+      {
+        "name": "コロッケ",
+        "difference": "日本版はポテトベースが主流。クロケッタはベシャメルベースでよりクリーミー"
+      },
+      {
+        "name": "コロッケ・フランセーズ",
+        "difference": "フランス版コロッケ。製法は似るが具材や形が異なる"
+      }
+    ],
+    "relatedIds": [
+      "ahijo",
+      "bechamel",
+      "aioli"
+    ],
+    "tags": [
+      "スペイン料理",
+      "前菜",
+      "揚げ物",
+      "豚肉",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "ヘルシー",
+      "揚げ物が苦手",
+      "あっさり",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/croqueta/1.jpg",
+      "/images/dishes/croqueta/2.jpg",
+      "/images/dishes/croqueta/3.jpg"
+    ]
+  },
+  {
+    "id": "salmorejo",
+    "name": "サルモレホ",
+    "kana": "さるもれほ",
+    "englishName": "Salmorejo",
+    "originalName": "Salmorejo",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン・アンダルシア地方の冷製トマトスープ。パンを加えてとろみをつけた濃厚なクリーム状のスープで、ゆで卵と生ハムをトッピングして提供される。",
+    "menuDescription": "トマト・パン・オリーブオイル・ニンニクをミキサーにかけたとろみのある冷製スープ。ガスパチョより濃厚で、硬いゆで卵と生ハムをトッピングして提供される。",
+    "whatComesOut": [
+      "濃厚な赤いクリーム状のスープ",
+      "ゆで卵のスライス",
+      "生ハムのトッピング"
+    ],
+    "tasteAndTexture": [
+      "とろりとした濃厚なテクスチャー",
+      "トマトの甘みと酸味",
+      "パンが加わった深みのある旨み"
+    ],
+    "orderAdvice": "ガスパチョより食べ応えがある。冷製スープが好きなら夏の定番として選びたい。",
+    "similarItems": [
+      {
+        "id": "gazpacho",
+        "name": "ガスパチョ",
+        "difference": "ガスパチョはさらさらとしてさっぱり。サルモレホはパンを加えてとろみが強く濃厚"
+      },
+      {
+        "name": "アホブランコ",
+        "difference": "同じアンダルシアの冷製スープだがアーモンドとニンニクベースで白い"
+      }
+    ],
+    "relatedIds": [
+      "gazpacho",
+      "aioli",
+      "escabeche",
+      "tortilla"
+    ],
+    "tags": [
+      "スペイン料理",
+      "スープ",
+      "野菜",
+      "生食",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "温かいスープ",
+      "肉料理",
+      "和食",
+      "辛いもの"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/salmorejo/1.jpg",
+      "/images/dishes/salmorejo/2.jpg",
+      "/images/dishes/salmorejo/3.jpg"
+    ]
+  },
+  {
+    "id": "sopa-de-ajo",
+    "name": "ソパ・デ・アホ",
+    "kana": "そぱであほ",
+    "aliases": [
+      "ガーリックスープ",
+      "ソパデアホ"
+    ],
+    "englishName": "Sopa de Ajo",
+    "originalName": "Sopa de Ajo",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン・カスティーリャ地方の伝統的なにんにくスープ。薄切りのにんにくをオリーブオイルで炒めパプリカとスープで煮込み、古くなったパンを浸して食べる農村料理。",
+    "menuDescription": "にんにくとパプリカをオリーブオイルで炒めてスープで煮込み、固くなったパンを浸して食べるスペインの農村料理。卵を落として提供されることも多い。",
+    "whatComesOut": [
+      "深い土鍋または器に入った赤みがかったスープ",
+      "浸したパンの切れ端",
+      "落とし卵（店によって異なる）"
+    ],
+    "tasteAndTexture": [
+      "にんにくの香ばしい深い香り",
+      "パプリカの甘みと赤みがかった色",
+      "パンが溶け込んだとろみのある旨み"
+    ],
+    "orderAdvice": "シンプルながら深い味わい。スペイン農村料理の原点を味わいたいなら外せない一品。",
+    "similarItems": [
+      {
+        "name": "フレンチオニオンスープ",
+        "difference": "同じくパンを浸すスタイルだが、玉ねぎベースでチーズをトッピングするフランス版"
+      },
+      {
+        "id": "ahijo",
+        "name": "アヒージョ",
+        "difference": "アヒージョも同じくにんにく主役だが、オイル煮のタパスでスープではない"
+      }
+    ],
+    "relatedIds": [
+      "ahijo",
+      "gazpacho",
+      "aioli",
+      "tortilla"
+    ],
+    "tags": [
+      "スペイン料理",
+      "スープ",
+      "野菜",
+      "炒め物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "にんにくが苦手",
+      "さっぱり",
+      "和食",
+      "生食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/sopa-de-ajo/1.jpg",
+      "/images/dishes/sopa-de-ajo/2.jpg",
+      "/images/dishes/sopa-de-ajo/3.jpg"
+    ]
+  },
+  {
+    "id": "churros",
+    "name": "チュロス",
+    "kana": "ちゅーろす",
+    "englishName": "Churros",
+    "originalName": "Churros",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "星型の口金から絞り出した生地を揚げたスペインの揚げ菓子。シナモンシュガーをまぶして濃厚なチョコレートソースに浸して食べるのが定番スタイル。",
+    "menuDescription": "星型の口金で絞り出した細長い生地を揚げたもの。シナモンシュガーをまぶし、濃厚なチョコレートソース（チョコラテ）に浸して食べる。朝食やおやつに広く食べられる。",
+    "whatComesOut": [
+      "棒状または輪状の揚げ菓子（数本）",
+      "シナモンシュガー",
+      "濃厚なチョコレートソース"
+    ],
+    "tasteAndTexture": [
+      "外サクサク中ふわの揚げ生地",
+      "シナモンの甘い香り",
+      "チョコレートソースのリッチな甘さ"
+    ],
+    "orderAdvice": "朝食やおやつとして定番。チョコレート好きなら迷わず選べる。",
+    "caution": "揚げ菓子のため脂質が高め。小麦・卵・乳製品を含む。",
+    "similarItems": [
+      {
+        "name": "ドーナツ",
+        "difference": "アメリカ発祥の揚げ菓子。チュロスより生地が柔らかく形が異なる"
+      },
+      {
+        "id": "crema-catalana",
+        "name": "クレマカタラーナ",
+        "difference": "同じスペイン菓子だがクリームベースの冷製デザートで揚げ物ではない"
+      }
+    ],
+    "relatedIds": [
+      "crema-catalana",
+      "tiramisu",
+      "baklava"
+    ],
+    "tags": [
+      "スペイン料理",
+      "デザート",
+      "小麦",
+      "揚げ物",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "甘いものが苦手",
+      "揚げ物が苦手",
+      "ヘルシー",
+      "さっぱり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/churros/1.jpg",
+      "/images/dishes/churros/2.jpg",
+      "/images/dishes/churros/3.jpg"
+    ]
+  },
+  {
+    "id": "sangria",
+    "name": "サングリア",
+    "kana": "さんぐりあ",
+    "englishName": "Sangría",
+    "originalName": "Sangría",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "赤ワインにフルーツ・砂糖・ブランデーを加えた冷たいスペインのカクテル。夏の定番ドリンクでピッチャーでシェアして飲むスタイルが多い。",
+    "menuDescription": "赤ワインにオレンジ・レモン・リンゴなどのフルーツとブランデー・シロップを加えてピッチャーで提供されるスペイン発祥のカクテル。白ワイン版のサングリア・ブランカもある。",
+    "whatComesOut": [
+      "ピッチャーまたはグラスに入った赤い飲み物",
+      "フルーツのスライス（オレンジ・レモンなど）"
+    ],
+    "tasteAndTexture": [
+      "ワインのコクにフルーツの甘酸っぱさ",
+      "さわやかな口当たり",
+      "アルコール感はまろやかで飲みやすい"
+    ],
+    "orderAdvice": "スペイン料理との相性が抜群。暑い日やシェアドリンクとして最適。",
+    "caution": "アルコールを含む（ワイン・ブランデー）。",
+    "similarItems": [
+      {
+        "name": "ティントデベラノ",
+        "difference": "スペインのシンプルな夏のドリンク。ワインとソーダ水だけを混ぜたもの"
+      },
+      {
+        "name": "カリモーチョ",
+        "difference": "スペインのカクテル。赤ワインとコーラを混ぜたもの"
+      }
+    ],
+    "relatedIds": [
+      "chorizo",
+      "paella",
+      "gazpacho",
+      "ahijo"
+    ],
+    "tags": [
+      "スペイン料理",
+      "飲み物",
+      "甘み",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "アルコール不可",
+      "甘いものが苦手",
+      "ビール派",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sangria/1.jpg",
+      "/images/dishes/sangria/2.jpg",
+      "/images/dishes/sangria/3.jpg"
+    ]
+  },
+  {
+    "id": "pulpo-a-feira",
+    "name": "プルポ・ア・フェイラ",
+    "kana": "ぷるぽあふぇいら",
+    "aliases": [
+      "プルポ・ア・ラ・ガジェガ",
+      "ガリシア風タコ"
+    ],
+    "englishName": "Pulpo a Feira",
+    "originalName": "Pulpo á feira",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン・ガリシア地方の郷土料理。茹でたタコを輪切りにして木の皿に盛り、オリーブオイル・粗塩・パプリカをかけたシンプルな一品。",
+    "menuDescription": "ガリシア地方の伝統的なタコ料理。柔らかく茹でたタコを木の皿に並べ、オリーブオイルと粗塩、パプリカ（ピメントン）をかけて提供される。",
+    "whatComesOut": [
+      "木の皿に並んだタコの輪切り",
+      "オリーブオイルとパプリカがかかった赤みがかった見た目",
+      "粗塩のトッピング"
+    ],
+    "tasteAndTexture": [
+      "柔らかくもちもちとしたタコの食感",
+      "オリーブオイルのまろやかなコク",
+      "パプリカの甘みと香り、粗塩の塩気"
+    ],
+    "orderAdvice": "タコが好きなら必ず食べたい定番タパス。シンプルな素材の旨みを楽しめる。ワインとの相性も抜群。",
+    "similarItems": [
+      {
+        "id": "ahijo",
+        "name": "アヒージョ",
+        "difference": "アヒージョはオリーブオイルで煮る調理法。プルポ・ア・フェイラは茹でて油とパプリカをかけるだけのシンプルな仕上げ"
+      },
+      {
+        "id": "carpaccio",
+        "name": "カルパッチョ",
+        "difference": "カルパッチョは生食材を薄切りにする。プルポ・ア・フェイラは加熱したタコに調味料をかける"
+      }
+    ],
+    "relatedIds": [
+      "ahijo",
+      "paella",
+      "fideua",
+      "aioli",
+      "escabeche"
+    ],
+    "tags": [
+      "スペイン料理",
+      "前菜",
+      "魚介",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "タコが苦手",
+      "魚介が苦手",
+      "肉料理",
+      "甘いもの",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pulpo-a-feira/1.jpg",
+      "/images/dishes/pulpo-a-feira/2.jpg",
+      "/images/dishes/pulpo-a-feira/3.jpg"
+    ]
+  },
+  {
+    "id": "fabada",
+    "name": "ファバーダ",
+    "kana": "ふぁばーだ",
+    "aliases": [
+      "ファバーダ・アストゥリアーナ"
+    ],
+    "englishName": "Fabada",
+    "originalName": "Fabada Asturiana",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン・アストゥリアス地方の伝統的な白いんげん豆の煮込み料理。チョリソーやモルシージャ（血のソーセージ）、豚バラとともに長時間煮込んだ濃厚な豆のスープ。",
+    "menuDescription": "大粒の白いんげん豆とチョリソー・モルシージャ・豚バラを一緒に煮込んだアストゥリアス地方の郷土料理。スペイン版カスレとも呼ばれる豪快な一品。",
+    "whatComesOut": [
+      "深い皿または土鍋に盛られた豆の煮込み",
+      "チョリソーとモルシージャ（血のソーセージ）のスライス",
+      "豚バラ肉"
+    ],
+    "tasteAndTexture": [
+      "とろりとしたクリーミーな豆の食感",
+      "チョリソーの香辛料と旨みが全体に染み込んだ深い味わい",
+      "ズッシリとした満腹感"
+    ],
+    "orderAdvice": "ガッツリ食べたいときに。スペインの郷土料理を体験したいなら外せないが、かなりボリュームがある。",
+    "caution": "豚肉・血のソーセージを含む。",
+    "similarItems": [
+      {
+        "id": "cassoulet",
+        "name": "カスレ",
+        "difference": "フランスの白いんげん豆煮込み。鴨コンフィや羊が入るがファバーダよりスパイスが控えめ"
+      },
+      {
+        "name": "コシード・マドリレーニョ",
+        "difference": "マドリード風のひよこ豆の煮込み。野菜も多く入り複数皿に分けて食べるスタイル"
+      }
+    ],
+    "relatedIds": [
+      "chorizo",
+      "cassoulet",
+      "paella"
+    ],
+    "tags": [
+      "スペイン料理",
+      "主菜",
+      "豆類",
+      "豚肉",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "あっさり",
+      "ダイエット",
+      "魚介",
+      "和食",
+      "軽食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 5,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/fabada/1.jpg",
+      "/images/dishes/fabada/2.jpg",
+      "/images/dishes/fabada/3.jpg"
+    ]
+  },
+  {
+    "id": "pil-pil",
+    "name": "ピルピル",
+    "kana": "ぴるぴる",
+    "aliases": [
+      "バカラオ・アル・ピルピル",
+      "ピル・ピル"
+    ],
+    "englishName": "Pil-pil",
+    "originalName": "Bacalao al pil-pil",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン・バスク地方の名物塩タラ料理。タラから溶け出すゼラチンがオリーブオイルとにんにくと乳化し、独特のとろみのある白いソースを形成する。",
+    "menuDescription": "塩タラをオリーブオイルとにんにくで低温加熱し、鍋を揺らしながらタラのゼラチンとオイルを乳化させてソースを作るバスク地方の伝統料理。乳化の技術が料理名の由来とも言われる。",
+    "whatComesOut": [
+      "タラの切り身",
+      "白くとろみのある乳化ソース",
+      "薄切りにんにくのトッピング"
+    ],
+    "tasteAndTexture": [
+      "ふっくら柔らかい塩タラの食感",
+      "クリーミーで滑らかな乳化ソース",
+      "にんにくと塩気の深みのある旨み"
+    ],
+    "orderAdvice": "塩タラが好きなら必ず試したい。シンプルな素材から生まれる複雑な風味と技術の結晶。",
+    "caution": "塩分が高め（塩タラ使用）。魚介アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "ahijo",
+        "name": "アヒージョ",
+        "difference": "アヒージョも同じくオリーブオイル・にんにくで調理するが、ソースが乳化せずオイルのまま"
+      },
+      {
+        "id": "munieru",
+        "name": "ムニエル",
+        "difference": "ムニエルはバター焼きの魚料理。ピルピルはオイル乳化という全く異なる技法"
+      }
+    ],
+    "relatedIds": [
+      "ahijo",
+      "aioli",
+      "munieru",
+      "escabeche"
+    ],
+    "tags": [
+      "スペイン料理",
+      "主菜",
+      "魚介",
+      "低温調理",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "塩分が苦手",
+      "あっさり",
+      "和食",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pil-pil/1.jpg",
+      "/images/dishes/pil-pil/2.jpg",
+      "/images/dishes/pil-pil/3.jpg"
+    ]
+  },
+  {
+    "id": "marmitako",
+    "name": "マルミタコ",
+    "kana": "まるみたこ",
+    "englishName": "Marmitako",
+    "originalName": "Marmitako",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン・バスク地方の漁師料理。カツオやマグロとじゃがいもを一緒に煮込んだ素朴なシチュー。漁船上で作られていた伝統料理で、魚の旨みがじゃがいもに染み込む。",
+    "menuDescription": "カツオ（またはマグロ）とじゃがいも・玉ねぎ・パプリカ・トマトを煮込んだバスク地方の漁師スープ。素朴ながら魚介の旨みが凝縮した温かみのある一品。",
+    "whatComesOut": [
+      "深い皿のスープ",
+      "カツオまたはマグロの切り身",
+      "じゃがいもと野菜"
+    ],
+    "tasteAndTexture": [
+      "魚の旨みが染み込んだほくほくのじゃがいも",
+      "トマトとパプリカのほのかな甘みと酸味",
+      "ざっくりとした素朴で豊かな味わい"
+    ],
+    "orderAdvice": "漁師料理らしい豪快な旨みが好きなら。スペイン料理の素朴な一面を体験できる。",
+    "similarItems": [
+      {
+        "id": "bouillabaisse",
+        "name": "ブイヤベース",
+        "difference": "フランス式の魚介シチュー。サフランや多種の魚介を使い格式がある"
+      },
+      {
+        "id": "fideua",
+        "name": "フィデウア",
+        "difference": "同じくバスク・バレンシア系の魚介料理だが、フィデウアはパスタを使う"
+      }
+    ],
+    "relatedIds": [
+      "bouillabaisse",
+      "paella",
+      "fideua",
+      "ahijo"
+    ],
+    "tags": [
+      "スペイン料理",
+      "スープ",
+      "魚介",
+      "野菜",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "こってり",
+      "甘いもの",
+      "和食",
+      "サラダ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/marmitako/1.jpg",
+      "/images/dishes/marmitako/2.jpg",
+      "/images/dishes/marmitako/3.jpg"
+    ]
+  },
+  {
+    "id": "sofrito",
+    "name": "ソフリト",
+    "kana": "そふりと",
+    "aliases": [
+      "ソフリット",
+      "ソフレヒト"
+    ],
+    "englishName": "Sofrito",
+    "originalName": "Sofrito",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "玉ねぎ・トマト・にんにく・パプリカなどをオリーブオイルでじっくり炒めたスペイン料理の基本ベース。パエリアや煮込み料理の土台として多用される万能ソース。",
+    "menuDescription": "玉ねぎ・トマト・にんにくをオリーブオイルで長時間炒めて旨みを凝縮したスペインの基本ソース。単体でパンに添えて提供されることもある。",
+    "whatComesOut": [
+      "濃縮した赤茶色のペースト状のソース",
+      "パンまたは料理のベースとして"
+    ],
+    "tasteAndTexture": [
+      "玉ねぎとトマトの甘みが凝縮した深いコク",
+      "オリーブオイルのまろやかさ",
+      "にんにくの香ばしい風味"
+    ],
+    "orderAdvice": "単体で提供される場合はパンに合わせて。他の料理のベースとして使われているかを確認するとスペイン料理への理解が深まる。",
+    "similarItems": [
+      {
+        "id": "piperade",
+        "name": "ピピラーダ",
+        "difference": "ピピラーダはバスク地方のピーマン・トマト炒め。ソフリトより野菜感が強い"
+      },
+      {
+        "id": "ratatouille",
+        "name": "ラタトゥイユ",
+        "difference": "ラタトゥイユはフランスの野菜煮込みで独立した料理として提供される"
+      }
+    ],
+    "relatedIds": [
+      "piperade",
+      "ratatouille",
+      "paella",
+      "ahijo"
+    ],
+    "tags": [
+      "スペイン料理",
+      "ソース",
+      "野菜",
+      "炒め物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "トマトが苦手",
+      "にんにくが苦手",
+      "和食",
+      "甘いもの"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sofrito/1.jpg",
+      "/images/dishes/sofrito/2.jpg",
+      "/images/dishes/sofrito/3.jpg"
+    ]
+  },
+  {
+    "id": "tapas",
+    "name": "タパス",
+    "kana": "たぱす",
+    "aliases": [
+      "タパ"
+    ],
+    "englishName": "Tapas",
+    "originalName": "Tapas",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン全土で親しまれる小皿料理の総称。バーや居酒屋でドリンクとともに提供され、様々な料理を少しずつシェアして楽しむスタイル。",
+    "menuDescription": "スペインのバルで提供される一口〜小皿サイズの料理の総称。アヒージョ・クロケッタ・パタタス・ブラバスなど多彩な料理が並び、好みのものを複数選んで楽しむ。",
+    "whatComesOut": [
+      "小皿に盛られた一口サイズの料理（種類は店によって多彩）",
+      "パンまたはバゲット",
+      "ドリンク（ワイン・ビール・サングリアなど）と一緒に"
+    ],
+    "tasteAndTexture": [
+      "料理によって多彩な味・食感",
+      "一口サイズで食べやすい",
+      "複数の料理をシェアして食事を楽しむスタイル"
+    ],
+    "orderAdvice": "スペイン料理を初めて食べるなら最適。複数頼んでシェアすると色々な味を試せる。",
+    "similarItems": [
+      {
+        "id": "pintxos",
+        "name": "ピンチョス",
+        "difference": "ピンチョスはバスク地方特有のバゲット上の一口料理。タパスはスペイン全土の小皿料理の総称"
+      },
+      {
+        "name": "メゼ",
+        "difference": "トルコ・中東の小皿料理スタイル。構成は異なるがシェアして食べる点は共通"
+      }
+    ],
+    "relatedIds": [
+      "ahijo",
+      "pintxos",
+      "patatas-bravas",
+      "croqueta",
+      "tortilla",
+      "chorizo"
+    ],
+    "tags": [
+      "スペイン料理",
+      "前菜",
+      "軽食",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "大盛り",
+      "一人で食べたい",
+      "和食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tapas/1.jpg",
+      "/images/dishes/tapas/2.jpg",
+      "/images/dishes/tapas/3.jpg"
+    ]
+  },
+  {
+    "id": "bocadillo",
+    "name": "ボカディージョ",
+    "kana": "ぼかでぃーじょ",
+    "aliases": [
+      "ボカディロ",
+      "スペインサンドイッチ"
+    ],
+    "englishName": "Bocadillo",
+    "originalName": "Bocadillo",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペインのバゲット（バラ）を使ったサンドイッチ。ハム・チーズ・トルティージャ・チョリソーなどの具材を挟んだシンプルな軽食で、スペイン人の日常食。",
+    "menuDescription": "硬めのスペインバゲット（バラ）を縦半分に切り、ハモン・チーズ・トルティージャ・チョリソーなどを挟んだサンドイッチ。シンプルながら具材の旨みが引き立つ。",
+    "whatComesOut": [
+      "半分に切ったバゲットに具材を挟んだサンドイッチ",
+      "具材はハム・チーズ・トルティージャ・チョリソーなど店によって異なる",
+      "そのまままたは軽くトーストされた状態で"
+    ],
+    "tasteAndTexture": [
+      "硬めのバゲットのサクサクとした食感",
+      "具材の旨みと塩気",
+      "シンプルで食べ応えのある軽食"
+    ],
+    "orderAdvice": "スペインの日常食を体験したいなら。ランチや軽食に最適でコスパも高い。",
+    "similarItems": [
+      {
+        "name": "バゲットサンドイッチ（フランス）",
+        "difference": "フランスのバゲットサンドイッチと構造は同じだが、スペインのバラはより硬めで風味が異なる"
+      },
+      {
+        "id": "pintxos",
+        "name": "ピンチョス",
+        "difference": "ピンチョスは一口サイズのオープンサンド。ボカディージョは具を挟んだ本格的なサンドイッチ"
+      }
+    ],
+    "relatedIds": [
+      "pintxos",
+      "jamon-serrano",
+      "tortilla",
+      "chorizo",
+      "aioli"
+    ],
+    "tags": [
+      "スペイン料理",
+      "軽食",
+      "豚肉",
+      "小麦",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "グルテンフリー",
+      "温かい料理",
+      "和食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bocadillo/1.jpg",
+      "/images/dishes/bocadillo/2.jpg",
+      "/images/dishes/bocadillo/3.jpg"
+    ]
+  },
+  {
+    "id": "pisto-manchego",
+    "name": "ピスト・マンチェゴ",
+    "kana": "ぴすとまんちぇご",
+    "aliases": [
+      "ピスト"
+    ],
+    "englishName": "Pisto Manchego",
+    "originalName": "Pisto Manchego",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン・ラ・マンチャ地方の野菜煮込み料理。ズッキーニ・パプリカ・トマト・玉ねぎをオリーブオイルでじっくり炒め煮にしたスペイン版ラタトゥイユ。",
+    "menuDescription": "ズッキーニ・パプリカ・トマト・玉ねぎをオリーブオイルでじっくり炒め煮にしたラ・マンチャ地方の郷土料理。卵やハムを添えて提供されることも多い。",
+    "whatComesOut": [
+      "彩り豊かな野菜の煮込み",
+      "オリーブオイルの光沢",
+      "卵または生ハムのトッピング（店によって異なる）"
+    ],
+    "tasteAndTexture": [
+      "トマトと野菜の甘みが凝縮した旨み",
+      "柔らかく煮込まれた野菜のやさしい食感",
+      "オリーブオイルのまろやかなコク"
+    ],
+    "orderAdvice": "ベジタリアンにも向いている。ラタトゥイユが好きなら必ず試したい。パンに合わせると美味しい。",
+    "similarItems": [
+      {
+        "id": "ratatouille",
+        "name": "ラタトゥイユ",
+        "difference": "フランスの野菜煮込み。構成は似るがラタトゥイユはズッキーニ・なす主役でより南仏らしい風味"
+      },
+      {
+        "id": "piperade",
+        "name": "ピピラーダ",
+        "difference": "バスク地方のパプリカ・トマト炒め。ピスト・マンチェゴよりシンプルで辛みがある"
+      }
+    ],
+    "relatedIds": [
+      "ratatouille",
+      "piperade",
+      "sofrito",
+      "gazpacho",
+      "tortilla"
+    ],
+    "tags": [
+      "スペイン料理",
+      "主菜",
+      "野菜",
+      "炒め物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "肉料理",
+      "こってり",
+      "和食",
+      "デザート",
+      "スープ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pisto-manchego/1.jpg",
+      "/images/dishes/pisto-manchego/2.jpg",
+      "/images/dishes/pisto-manchego/3.jpg"
+    ]
+  },
+  {
+    "id": "huevos-rotos",
+    "name": "ウエボス・ロトス",
+    "kana": "うえぼすろとす",
+    "aliases": [
+      "ウェボス・ロトス",
+      "壊れた卵"
+    ],
+    "englishName": "Huevos Rotos",
+    "originalName": "Huevos Rotos",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペインの定番家庭料理。揚げたじゃがいもの上に目玉焼きを乗せ、卵黄を崩してソースのように絡めながら食べる。ハモンやチョリソーを添えることが多い。",
+    "menuDescription": "フライドポテトの上に半熟の目玉焼きを乗せ、卵黄を崩してじゃがいもに絡めながら食べるスペインの家庭料理。ハモンやチョリソーを添えるのが定番。",
+    "whatComesOut": [
+      "揚げたじゃがいも（細切りまたは角切り）",
+      "目玉焼き1〜2個",
+      "ハモンまたはチョリソーのスライス"
+    ],
+    "tasteAndTexture": [
+      "揚げたじゃがいものカリカリとホクホクの食感",
+      "とろける卵黄のまろやかなソース感",
+      "ハムの塩気と旨み"
+    ],
+    "orderAdvice": "卵とじゃがいもが好きなら外せない。ガッツリ食べたいランチや夕食に最適。",
+    "caution": "卵を含む。",
+    "similarItems": [
+      {
+        "id": "patatas-bravas",
+        "name": "パタタス・ブラバス",
+        "difference": "同じく揚げじゃがいもが主役だが、パタタス・ブラバスはスパイシーソースが主役で卵は乗らない"
+      },
+      {
+        "id": "tortilla",
+        "name": "トルティージャ",
+        "difference": "同じくじゃがいもと卵が主役だが、トルティージャはオムレツ状に固めて提供される"
+      }
+    ],
+    "relatedIds": [
+      "patatas-bravas",
+      "tortilla",
+      "chorizo",
+      "jamon-serrano",
+      "aioli"
+    ],
+    "tags": [
+      "スペイン料理",
+      "主菜",
+      "卵",
+      "野菜",
+      "揚げ物",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ヘルシー",
+      "揚げ物が苦手",
+      "あっさり",
+      "魚介",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/huevos-rotos/1.jpg",
+      "/images/dishes/huevos-rotos/2.jpg"
+    ]
+  },
+  {
+    "id": "pimiento-piquillo",
+    "name": "ピミエント・ピキージョ・レジェノ",
+    "kana": "ぴみえんとぴきーじょれじぇの",
+    "aliases": [
+      "ピキージョの詰め物",
+      "ピキージョペッパー詰め"
+    ],
+    "englishName": "Stuffed Piquillo Peppers",
+    "originalName": "Pimiento del Piquillo Relleno",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン産ピキージョペッパー（甘みのある小型赤ピーマン）にタラ・エビ・チーズなどの具材を詰めたスペインのタパス。ナバラ地方特産のペッパーとその詰め物が織りなす旨みの一品。",
+    "menuDescription": "ナバラ地方特産のピキージョペッパーに魚介やチーズを詰め、クリームソースまたはトマトソースをかけて提供されるタパス。甘みのあるペッパーと詰め物のハーモニーが特徴。",
+    "whatComesOut": [
+      "赤いピキージョペッパー2〜4個",
+      "クリームまたはトマトソース",
+      "詰め物（タラ・エビ・チーズなど店によって異なる）"
+    ],
+    "tasteAndTexture": [
+      "甘みのある柔らかいペッパーの薄い皮",
+      "詰め物の旨みとクリーミーさ",
+      "ソースとペッパーの一体感"
+    ],
+    "orderAdvice": "スペイン料理の上品なタパスを体験したいなら。詰め物の種類が変わるので何が入っているか必ず確認を。",
+    "caution": "詰め物によってアレルギーに注意（魚介・乳製品など）。",
+    "similarItems": [
+      {
+        "id": "pimientos-padron",
+        "name": "ピミエント・デ・パドロン",
+        "difference": "パドロンは素揚げするだけのシンプルな青ピーマン。ピキージョは赤くて甘く詰め物がある"
+      },
+      {
+        "id": "dolma",
+        "name": "ドルマ",
+        "difference": "中東・トルコの詰め物料理。ブドウの葉や野菜に米や肉を詰める"
+      }
+    ],
+    "relatedIds": [
+      "ahijo",
+      "piperade",
+      "patatas-bravas",
+      "tapas",
+      "sofrito"
+    ],
+    "tags": [
+      "スペイン料理",
+      "前菜",
+      "野菜",
+      "焼き物",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "ピーマンが苦手",
+      "和食",
+      "こってり",
+      "揚げ物",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pimiento-piquillo/1.jpg"
+    ]
+  },
+  {
+    "id": "pimientos-padron",
+    "name": "ピミエント・デ・パドロン",
+    "kana": "ぴみえんとでぱどろん",
+    "aliases": [
+      "パドロンペッパー",
+      "パドロンピーマン"
+    ],
+    "englishName": "Pimientos de Padrón",
+    "originalName": "Pimientos de Padrón",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "ガリシア地方パドロン産の小型青ピーマンをオリーブオイルで素揚げし粗塩をふったシンプルなタパス。「10個に1個は辛い」というロシアンルーレット的な楽しみが特徴。",
+    "menuDescription": "パドロン産の小型緑ピーマンをオリーブオイルで揚げて粗塩をふったシンプルなタパス。ほとんどは辛くないが、まれに激辛の一個が混じる。",
+    "whatComesOut": [
+      "素揚げした小型緑ピーマン（10〜15個程度）",
+      "粗塩"
+    ],
+    "tasteAndTexture": [
+      "香ばしく柔らかい素揚げのピーマン",
+      "薄い皮のパリっとした食感",
+      "シンプルな塩気と旨み、ときに突然の辛み"
+    ],
+    "orderAdvice": "シンプルさの中にロシアンルーレット的な辛みの楽しさがある。スペインの酒場文化を体験するのに最適。",
+    "similarItems": [
+      {
+        "id": "pimiento-piquillo",
+        "name": "ピミエント・ピキージョ・レジェノ",
+        "difference": "ピキージョは赤くて甘く詰め物がある。パドロンは青くシンプルな揚げ物"
+      },
+      {
+        "id": "patatas-bravas",
+        "name": "パタタス・ブラバス",
+        "difference": "同じく揚げ物のタパスだが、パタタス・ブラバスはじゃがいもでソースが主役"
+      }
+    ],
+    "relatedIds": [
+      "ahijo",
+      "patatas-bravas",
+      "tapas",
+      "pulpo-a-feira"
+    ],
+    "tags": [
+      "スペイン料理",
+      "前菜",
+      "野菜",
+      "揚げ物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ピーマンが苦手",
+      "こってり",
+      "和食",
+      "デザート",
+      "辛さゼロ希望"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/pimientos-padron/1.jpg",
+      "/images/dishes/pimientos-padron/2.jpg",
+      "/images/dishes/pimientos-padron/3.jpg"
+    ]
+  },
+  {
+    "id": "boquerones-vinagre",
+    "name": "ボケロネス・アラ・ビナグレタ",
+    "kana": "ぼけろねすあらびなぐれた",
+    "aliases": [
+      "ボケロネス・エン・ビナグレ",
+      "アンチョビマリネ"
+    ],
+    "englishName": "Boquerones en Vinagre",
+    "originalName": "Boquerones en Vinagre",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "新鮮なカタクチイワシを酢でマリネして白く変性させたスペインのタパス。オリーブオイル・にんにく・パセリをかけて提供されるさっぱりとした前菜。",
+    "menuDescription": "カタクチイワシを酢漬けにして白く変性させ、オリーブオイル・にんにく・パセリで仕上げたタパス。缶詰のアンチョビとは別物の、酸味と旨みが調和した冷製前菜。",
+    "whatComesOut": [
+      "白く変色したカタクチイワシのフィレ",
+      "オリーブオイルとパセリがかかった見た目",
+      "にんにくのスライス"
+    ],
+    "tasteAndTexture": [
+      "酢で締まったほどよい弾力の食感",
+      "酸味が効いたさっぱりとした味わい",
+      "オリーブオイルのまろやかさとにんにくの香り"
+    ],
+    "orderAdvice": "魚介好きなら必ず試したい。缶詰アンチョビとは全く異なる新鮮な味わいで、ワインのお供に最適。",
+    "caution": "魚介アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "boquerones-fritos",
+        "name": "ボケロネス・フリートス",
+        "difference": "同じカタクチイワシだが揚げたもの。こちらは酢マリネで生に近い食感"
+      },
+      {
+        "id": "escabeche",
+        "name": "エスカベッシュ",
+        "difference": "エスカベッシュは揚げてから酢漬けにする。ボケロネスは生のまま酢で変性させる"
+      }
+    ],
+    "relatedIds": [
+      "escabeche",
+      "marine",
+      "ahijo",
+      "tapas",
+      "carpaccio"
+    ],
+    "tags": [
+      "スペイン料理",
+      "前菜",
+      "魚介",
+      "マリネ",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "酸味が苦手",
+      "こってり",
+      "和食",
+      "温かい料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/boquerones-vinagre/1.jpg",
+      "/images/dishes/boquerones-vinagre/2.jpg",
+      "/images/dishes/boquerones-vinagre/3.jpg"
+    ]
+  },
+  {
+    "id": "boquerones-fritos",
+    "name": "ボケロネス・フリートス",
+    "kana": "ぼけろねすふりーとす",
+    "aliases": [
+      "揚げカタクチイワシ",
+      "アンチョビフライ"
+    ],
+    "englishName": "Boquerones Fritos",
+    "originalName": "Boquerones Fritos",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "カタクチイワシに薄く小麦粉をつけてオリーブオイルで揚げたスペインのタパス。アンダルシア地方の揚げ物（フリトゥーラ）の定番で、レモンを絞って食べる。",
+    "menuDescription": "小麦粉をまぶしたカタクチイワシをオリーブオイルで揚げたアンダルシア地方の揚げ物タパス。サクサクの衣と香ばしさ、魚の旨みが詰まった一口サイズ。",
+    "whatComesOut": [
+      "小ぶりの揚げイワシ（10〜20尾程度）",
+      "レモンのスライス"
+    ],
+    "tasteAndTexture": [
+      "サクサクの薄い衣と香ばしい揚げ油",
+      "ジューシーな魚の旨み",
+      "レモンの酸味でさっぱり"
+    ],
+    "orderAdvice": "揚げ物好きなら迷わず。ビールとの相性が抜群。マリネ版と食べ比べるのも楽しい。",
+    "caution": "小麦（グルテン）・魚介を含む。",
+    "similarItems": [
+      {
+        "id": "boquerones-vinagre",
+        "name": "ボケロネス・アラ・ビナグレタ",
+        "difference": "同じカタクチイワシの酢マリネ版。こちらは揚げて香ばしい"
+      },
+      {
+        "id": "fritto",
+        "name": "フリット",
+        "difference": "イタリアの揚げ物料理。カラッとした揚げ方は共通だが素材と衣が異なる"
+      }
+    ],
+    "relatedIds": [
+      "fritto",
+      "patatas-bravas",
+      "ahijo",
+      "tapas",
+      "boquerones-vinagre"
+    ],
+    "tags": [
+      "スペイン料理",
+      "前菜",
+      "魚介",
+      "揚げ物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "揚げ物が苦手",
+      "ヘルシー",
+      "和食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/boquerones-fritos/1.jpg",
+      "/images/dishes/boquerones-fritos/2.jpg",
+      "/images/dishes/boquerones-fritos/3.jpg"
+    ]
+  },
+  {
+    "id": "pan-con-tomate",
+    "name": "パン・コン・トマテ",
+    "kana": "ぱんこんとまて",
+    "aliases": [
+      "パ・アン・トマケット",
+      "トマトパン"
+    ],
+    "englishName": "Pan con Tomate",
+    "originalName": "Pa amb tomàquet",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン・カタルーニャ地方発祥の定番料理。焼いたパンに完熟トマトをこすりつけ、良質なオリーブオイルと粗塩をかけたシンプルな朝食・軽食。",
+    "menuDescription": "軽くトーストしたパンの断面に完熟トマトをこすりつけ、オリーブオイルと粗塩をかけたカタルーニャの定番料理。ハモンやチーズを乗せて提供されることも多い。",
+    "whatComesOut": [
+      "トーストしたパン（バゲットまたは食パン）",
+      "すりこんだトマトの赤み",
+      "オリーブオイルと粗塩"
+    ],
+    "tasteAndTexture": [
+      "パンのサクサクした食感",
+      "完熟トマトの甘みと酸味",
+      "良質なオリーブオイルのフルーティーなまろやかさ"
+    ],
+    "orderAdvice": "素材の良さが際立つシンプルな一品。良質なオリーブオイルの風味を楽しみたいときや食前のひと口に最適。",
+    "similarItems": [
+      {
+        "name": "ブルスケッタ",
+        "difference": "イタリアのトマトパン。カットトマトを乗せるスタイルでパン・コン・トマテよりトッピングが多め"
+      },
+      {
+        "id": "pintxos",
+        "name": "ピンチョス",
+        "difference": "ピンチョスはパンに様々な具材を乗せたもの。パン・コン・トマテはトマトを擦り込むシンプルなスタイル"
+      }
+    ],
+    "relatedIds": [
+      "pintxos",
+      "bocadillo",
+      "sofrito",
+      "aioli",
+      "tapas"
+    ],
+    "tags": [
+      "スペイン料理",
+      "軽食",
+      "野菜",
+      "焼き物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "トマトが苦手",
+      "こってり",
+      "和食",
+      "デザート",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pan-con-tomate/1.jpg",
+      "/images/dishes/pan-con-tomate/2.jpg",
+      "/images/dishes/pan-con-tomate/3.jpg"
+    ]
+  },
+  {
+    "id": "calamares-en-su-tinta",
+    "name": "カラマレス・エン・ス・ティンタ",
+    "kana": "からまれすえんすてぃんた",
+    "aliases": [
+      "イカの墨煮",
+      "イカ墨煮込み"
+    ],
+    "englishName": "Squid in its own ink",
+    "originalName": "Calamares en su tinta",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "イカをイカ墨のソースで煮込んだスペイン料理。真っ黒な見た目ながらイカの旨みが凝縮した深いコクのソースが特徴で、バスク地方を代表するひと皿。",
+    "menuDescription": "イカを自らの墨で作ったソースと一緒に煮込んだスペイン料理。真っ黒な見た目が特徴で、旨みが凝縮した黒いソースにご飯やパンを合わせて食べる。",
+    "whatComesOut": [
+      "黒いソースで煮込まれたイカの切り身",
+      "白いご飯またはパン（付け合わせ）"
+    ],
+    "tasteAndTexture": [
+      "イカ墨の独特の深いコクと旨み",
+      "柔らかく煮込まれたイカの食感",
+      "ほのかな磯の香りと凝縮した塩気"
+    ],
+    "orderAdvice": "見た目に勇気がいるが、イカ好きなら必ず試したい。口が黒くなることを覚悟の上で。",
+    "caution": "口や歯が黒く染まる場合あり。魚介アレルギーに注意。",
+    "similarItems": [
+      {
+        "name": "アロス・ネグロ",
+        "difference": "同じくイカ墨を使うが、こちらは米料理（パエリア風）"
+      },
+      {
+        "id": "ahijo",
+        "name": "アヒージョ",
+        "difference": "アヒージョはオリーブオイル・にんにくで煮る。カラマレスはイカ墨ソースで煮込む"
+      }
+    ],
+    "relatedIds": [
+      "ahijo",
+      "paella",
+      "fideua",
+      "marmitako"
+    ],
+    "tags": [
+      "スペイン料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "あっさり",
+      "見た目重視",
+      "和食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "tortita-camaron",
+    "name": "トルティータ・デ・カマロン",
+    "kana": "とるてぃーたでかまろん",
+    "aliases": [
+      "カディス風エビフリッター",
+      "エビパンケーキ"
+    ],
+    "englishName": "Shrimp Fritter",
+    "originalName": "Tortillita de Camarones",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン・カディス地方の名物小エビのフリッター。小エビを薄い衣に混ぜ込んでカリカリに揚げた一口サイズの軽食で、パリパリの食感と凝縮したエビの旨みが特徴。",
+    "menuDescription": "カディス産の小エビを薄い小麦粉と水の衣に混ぜ込んでカリカリに揚げたフリッター。エビの旨みが凝縮した香ばしい軽食で、シェリー酒との相性が抜群。",
+    "whatComesOut": [
+      "薄くカリカリに揚げた小エビのフリッター（5〜8枚程度）",
+      "レモンのスライス"
+    ],
+    "tasteAndTexture": [
+      "薄くパリパリのカリカリ食感",
+      "小エビの凝縮した旨みと香ばしさ",
+      "レモンの酸味でさっぱり"
+    ],
+    "orderAdvice": "カディス地方ならではの一品。エビ好きなら必ず試したい。シェリー酒のお供に最適。",
+    "caution": "小麦（グルテン）・甲殻類を含む。",
+    "similarItems": [
+      {
+        "id": "boquerones-fritos",
+        "name": "ボケロネス・フリートス",
+        "difference": "同じく揚げ物のタパスだがボケロネスはイワシ。こちらは小エビの薄いフリッター"
+      },
+      {
+        "id": "fritto",
+        "name": "フリット",
+        "difference": "イタリアの揚げ物料理。揚げ方は似るが素材と衣の薄さが異なる"
+      }
+    ],
+    "relatedIds": [
+      "boquerones-fritos",
+      "fritto",
+      "tapas",
+      "ahijo"
+    ],
+    "tags": [
+      "スペイン料理",
+      "前菜",
+      "魚介",
+      "揚げ物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "ヘルシー",
+      "和食",
+      "デザート",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tortita-camaron/1.jpg",
+      "/images/dishes/tortita-camaron/2.jpg",
+      "/images/dishes/tortita-camaron/3.jpg"
+    ]
+  },
+  {
+    "id": "changurro",
+    "name": "チャングロ",
+    "kana": "ちゃんぐろ",
+    "aliases": [
+      "チャングロ・アル・オルノ",
+      "セントジャの詰め物"
+    ],
+    "englishName": "Changurro",
+    "originalName": "Txangurro al horno",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン・バスク地方の高級タラバガニ（セントジャ）料理。カニの身を野菜・コニャックと合わせて甲羅に詰め直しオーブンで焼いた贅沢な一品。",
+    "menuDescription": "バスク地方特産のセントジャ（蜘蛛ガニ）の身を玉ねぎ・トマト・コニャックなどと炒め合わせ、カニの甲羅に詰め直してオーブンで焼いた高級タパス。",
+    "whatComesOut": [
+      "カニの甲羅に盛られたカニ身の詰め物",
+      "焦げ目がついたオーブン焼きの見た目"
+    ],
+    "tasteAndTexture": [
+      "カニの凝縮した甘い旨み",
+      "コニャックと野菜のリッチなソース感",
+      "オーブン焼きの香ばしさ"
+    ],
+    "orderAdvice": "高級食材だが価値がある。バスク料理のスペシャリティとして積極的に試したい。",
+    "caution": "甲殻類アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "pulpo-a-feira",
+        "name": "プルポ・ア・フェイラ",
+        "difference": "同じくガリシア・バスク系の甲殻類料理だが、プルポはタコを茹でるシンプルな仕上げ"
+      },
+      {
+        "id": "ahijo",
+        "name": "アヒージョ",
+        "difference": "アヒージョはオイル煮のタパス。チャングロはオーブン焼きで詰め物という手間をかけた料理"
+      }
+    ],
+    "relatedIds": [
+      "pulpo-a-feira",
+      "ahijo",
+      "marmitako",
+      "paella"
+    ],
+    "tags": [
+      "スペイン料理",
+      "主菜",
+      "魚介",
+      "ロースト",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "甲殻類が苦手",
+      "あっさり",
+      "和食",
+      "ベジタリアン",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "cocido",
+    "name": "コシード",
+    "kana": "こしーど",
+    "aliases": [
+      "コシード・マドリレーニョ"
+    ],
+    "englishName": "Cocido Madrileño",
+    "originalName": "Cocido Madrileño",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン・マドリードの伝統的なひよこ豆と肉の煮込み料理。スープ・豆・肉の3皿構成で順番に食べる豪快な一品で、冬の定番家庭料理。",
+    "menuDescription": "ひよこ豆・豚肉・鶏肉・チョリソー・野菜を長時間煮込んだマドリードの郷土料理。スープ→豆→肉の順に3皿構成で提供されることが多い豪快な煮込み。",
+    "whatComesOut": [
+      "コンソメベースのスープ（1皿目）",
+      "ひよこ豆と野菜の皿（2皿目）",
+      "各種肉（豚・鶏・チョリソーなど、3皿目）"
+    ],
+    "tasteAndTexture": [
+      "深みのある肉のコクが染み込んだひよこ豆",
+      "柔らかく煮えた各種肉",
+      "濃厚な旨みのスープ"
+    ],
+    "orderAdvice": "スペインの本格的な家庭料理を体験したいなら。ボリューム満点で2人でシェアしてもいい。",
+    "similarItems": [
+      {
+        "id": "fabada",
+        "name": "ファバーダ",
+        "difference": "ファバーダは白いんげん豆とチョリソーの煮込み。コシードはひよこ豆で3皿構成のより豪快なスタイル"
+      },
+      {
+        "name": "ポ・ト・フー",
+        "difference": "フランスの肉と野菜の煮込み。シンプルさは似るがひよこ豆は使わない"
+      }
+    ],
+    "relatedIds": [
+      "fabada",
+      "chorizo",
+      "paella"
+    ],
+    "tags": [
+      "スペイン料理",
+      "主菜",
+      "豆類",
+      "豚肉",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "あっさり",
+      "ベジタリアン",
+      "魚介",
+      "和食",
+      "軽食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 5,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/cocido/1.jpg",
+      "/images/dishes/cocido/2.jpg",
+      "/images/dishes/cocido/3.jpg"
+    ]
+  },
+  {
+    "id": "chuleta-cordero",
+    "name": "チュレタ・デ・コルデロ・レチャル",
+    "kana": "ちゅれたでこるでろれちゃる",
+    "aliases": [
+      "仔羊チョップ",
+      "レチャルの仔羊"
+    ],
+    "englishName": "Baby Lamb Chops",
+    "originalName": "Chuleta de Cordero Lechal",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "乳飲み子羊（レチャル）のリブチョップを炭火やグリルでシンプルに焼いたスペイン料理。臭みが少なく上品な旨みが特徴で、羊肉が苦手な人でも食べやすい。",
+    "menuDescription": "生後数週間の乳飲み子羊のリブチョップを強火でシンプルに焼いた料理。一般的な羊肉より癖がなく柔らかい肉質で、仔羊本来の上品な旨みをダイレクトに楽しめる。",
+    "whatComesOut": [
+      "骨付き仔羊のリブチョップ（3〜5本）",
+      "シンプルな付け合わせ（野菜またはポテト）"
+    ],
+    "tasteAndTexture": [
+      "クセのない上品な旨み",
+      "柔らかくジューシーな肉質",
+      "炭火の香ばしさ"
+    ],
+    "orderAdvice": "羊肉が苦手な人でも食べやすい。上質な肉の旨みをシンプルに楽しみたいなら積極的に選びたい。",
+    "similarItems": [
+      {
+        "id": "kebab",
+        "name": "ケバブ",
+        "difference": "ケバブは中東・トルコ発祥で羊肉にスパイスをつけて焼く。チュレタはシンプルに塩だけで焼く"
+      },
+      {
+        "name": "チュレトン",
+        "difference": "同じくスペインのシンプルなグリル料理だが、チュレトンは牛の巨大リブステーキ"
+      }
+    ],
+    "relatedIds": [
+      "kebab",
+      "grill",
+      "paella",
+      "chorizo"
+    ],
+    "tags": [
+      "スペイン料理",
+      "主菜",
+      "羊肉",
+      "グリル",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "肉が苦手",
+      "魚介",
+      "ベジタリアン",
+      "あっさり",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chuleta-cordero/1.jpg"
+    ]
+  },
+  {
+    "id": "albondigas",
+    "name": "アルボンディガス",
+    "kana": "あるぼんでぃがす",
+    "aliases": [
+      "スペイン風ミートボール"
+    ],
+    "englishName": "Albóndigas",
+    "originalName": "Albóndigas",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペインの定番タパスで、豚・牛の合い挽きミートボールをトマトソースや出汁で煮込んだ料理。柔らかく煮込んだミートボールにソースが絡んだ親しみやすい一品。",
+    "menuDescription": "豚と牛の合い挽きで作ったミートボールをトマトソースまたはスープで煮込んだスペインのタパス。ガーリックとハーブ風味の肉団子がソースと一体化した定番料理。",
+    "whatComesOut": [
+      "小さめのミートボール（5〜8個）",
+      "トマトソースまたはスープ"
+    ],
+    "tasteAndTexture": [
+      "柔らかくジューシーなミートボール",
+      "トマトソースの甘みと酸味",
+      "肉の旨みとスパイスの香り"
+    ],
+    "orderAdvice": "子供から大人まで親しみやすいタパス。初めてスペイン料理を食べる人にも向いている。",
+    "similarItems": [
+      {
+        "id": "mince",
+        "name": "ミンス",
+        "difference": "ミンスは挽き肉料理全般の概念。アルボンディガスはトマトソースで煮込むスペイン流"
+      },
+      {
+        "name": "ポルペッタ",
+        "difference": "イタリアのミートボール。トマトソースと合わせる点は似るがスパイスの配合が異なる"
+      }
+    ],
+    "relatedIds": [
+      "mince",
+      "sofrito",
+      "chorizo",
+      "tapas"
+    ],
+    "tags": [
+      "スペイン料理",
+      "前菜",
+      "牛肉",
+      "豚肉",
+      "煮込み",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "ベジタリアン",
+      "あっさり",
+      "魚介",
+      "和食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/albondigas/1.jpg",
+      "/images/dishes/albondigas/2.jpg",
+      "/images/dishes/albondigas/3.jpg"
+    ]
+  },
+  {
+    "id": "chuleton",
+    "name": "チュレトン",
+    "kana": "ちゅれとん",
+    "aliases": [
+      "チュレトン・デ・ブエイ",
+      "巨大ビーフリブステーキ"
+    ],
+    "englishName": "Chuletón",
+    "originalName": "Chuletón de buey",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン・バスク地方を代表する巨大な骨付き牛リブステーキ。年老いた乳牛や去勢牛の肉を炭火でシンプルに焼く豪快な一品で、600g〜1kg以上の大きさが定番。",
+    "menuDescription": "骨付きの巨大なリブアイステーキ（600g〜1kg超）を炭火でシンプルに焼いたスペイン・バスク地方の名物。熟成した牛肉の旨みを最大限に引き出す豪快なステーキ。",
+    "whatComesOut": [
+      "巨大な骨付きリブステーキ（切り分けられて提供されることも）",
+      "ポテトや野菜の付け合わせ",
+      "粗塩"
+    ],
+    "tasteAndTexture": [
+      "熟成した牛肉の濃厚な旨みと深いコク",
+      "炭火の香ばしさ",
+      "ジューシーでしっかりとした肉の噛み応え"
+    ],
+    "orderAdvice": "肉好きなら生涯に一度は食べたい一品。2〜3人でシェアするのが一般的。",
+    "similarItems": [
+      {
+        "id": "tagliata",
+        "name": "タリアータ",
+        "difference": "タリアータはイタリア式で薄くスライスして提供。チュレトンはドン!と豪快にそのまま提供"
+      },
+      {
+        "name": "チュレタ・デ・コルデロ",
+        "difference": "同じくスペインのシンプルなグリル料理だが、チュレタは仔羊の小さなチョップ"
+      }
+    ],
+    "relatedIds": [
+      "tagliata",
+      "grill",
+      "chorizo",
+      "aioli"
+    ],
+    "tags": [
+      "スペイン料理",
+      "主菜",
+      "牛肉",
+      "炭火焼き",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "ベジタリアン",
+      "魚介",
+      "あっさり",
+      "和食",
+      "一人前"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chuleton/1.jpg",
+      "/images/dishes/chuleton/2.jpg",
+      "/images/dishes/chuleton/3.jpg"
+    ]
+  },
+  {
+    "id": "arroz-negro",
+    "name": "アロス・ネグロ",
+    "kana": "あろすねぐろ",
+    "aliases": [
+      "黒いパエリア",
+      "イカ墨ライス"
+    ],
+    "englishName": "Arroz Negro",
+    "originalName": "Arroz Negro",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "イカ墨で真っ黒に染めた米料理。パエリア鍋で魚介とイカ墨を使って炊き込んだスペインの名物で、アイオリを混ぜながら食べるのが定番スタイル。",
+    "menuDescription": "イカ墨と魚介の出汁で炊いた真っ黒なパエリア風米料理。見た目は黒いがイカ墨の深い旨みとオリーブオイルの香りが凝縮している。アイオリを混ぜながら食べる。",
+    "whatComesOut": [
+      "真っ黒なパエリア鍋に盛られたご飯",
+      "エビ・イカなどの魚介",
+      "アイオリソース"
+    ],
+    "tasteAndTexture": [
+      "イカ墨の深いコクと旨み",
+      "魚介だしが染み込んだ米",
+      "アイオリのまろやかなクリーミーさ"
+    ],
+    "orderAdvice": "見た目に驚くが深い旨みがある。パエリアが好きなら必ず試したい変化球。",
+    "caution": "口や歯が黒く染まる場合あり。魚介アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "paella",
+        "name": "パエリア",
+        "difference": "パエリアも同じくパエリア鍋の米料理だが、こちらはイカ墨で真っ黒に仕上げる"
+      },
+      {
+        "name": "カラマレス・エン・ス・ティンタ",
+        "difference": "同じくイカ墨料理だが、こちらはイカの煮込みでご飯ではなく具が主役"
+      }
+    ],
+    "relatedIds": [
+      "paella",
+      "fideua",
+      "ahijo",
+      "aioli",
+      "saffron"
+    ],
+    "tags": [
+      "スペイン料理",
+      "主菜",
+      "魚介",
+      "米",
+      "焼き物",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "あっさり",
+      "見た目重視",
+      "和食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/arroz-negro/1.jpg",
+      "/images/dishes/arroz-negro/2.jpg",
+      "/images/dishes/arroz-negro/3.jpg"
+    ]
   }
 ]
