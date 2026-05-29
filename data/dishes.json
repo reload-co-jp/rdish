@@ -51425,5 +51425,1755 @@
       "/images/dishes/arroz-negro/2.jpg",
       "/images/dishes/arroz-negro/3.jpg"
     ]
+  },
+  {
+    "id": "doburoku",
+    "name": "どぶろく",
+    "kana": "どぶろく",
+    "englishName": "Doburoku",
+    "originalName": "どぶろく",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "米・麹・水を発酵させた日本古来の白濁した濁り酒。醪（もろみ）を濾過しないためとろみと米の旨みが残る。",
+    "menuDescription": "濾過していない米の発酵酒。白濁したとろりとした飲み口で、甘みと酸味・米の旨みが凝縮されている。アルコール度数は日本酒より低めなことが多い。",
+    "whatComesOut": [
+      "白濁した液体",
+      "やや粒感が残る場合あり",
+      "カップや徳利で提供"
+    ],
+    "tasteAndTexture": [
+      "甘みと乳酸系の酸味",
+      "米の濃厚な旨み",
+      "とろりとした飲み口",
+      "アルコール感はおだやか"
+    ],
+    "orderAdvice": "日本酒よりも素朴でどっしりした味を求めるなら。甘酒が好きな人にも合う。",
+    "similarItems": [
+      {
+        "id": "amazake",
+        "name": "甘酒",
+        "difference": "甘酒はアルコールを含まないかごく微量。どぶろくは発酵が進みアルコールを含む"
+      },
+      {
+        "id": "nihonshu",
+        "name": "日本酒",
+        "difference": "日本酒は醪を濾過して透明に仕上げる。どぶろくは濾過せず白濁したまま"
+      }
+    ],
+    "relatedIds": [
+      "amazake",
+      "shochu"
+    ],
+    "tags": [
+      "日本料理",
+      "飲み物",
+      "米",
+      "発酵",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "すっきりしたお酒",
+      "ビール",
+      "ワイン",
+      "透明なお酒"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/doburoku/1.jpg"
+    ]
+  },
+  {
+    "id": "spinach-pasta",
+    "name": "ほうれん草パスタ",
+    "kana": "ほうれんそうぱすた",
+    "englishName": "Spinach Pasta",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "ほうれん草を練り込んだ緑色の生パスタ、またはほうれん草ソースを使ったパスタ料理。",
+    "menuDescription": "ほうれん草の緑が鮮やかなパスタ。クリームやバターと合わせるタイプが多く、チーズで仕上げることが多い。",
+    "whatComesOut": [
+      "緑色または緑がかったパスタ",
+      "クリームまたはバターソース",
+      "粉チーズ"
+    ],
+    "tasteAndTexture": [
+      "ほうれん草の風味がやさしく広がる",
+      "クリームタイプはまろやかでコク深い",
+      "生パスタならもちもちした食感"
+    ],
+    "orderAdvice": "野菜感と見た目の鮮やかさが欲しいときに。重いソースが苦手な人にも選びやすい。",
+    "similarItems": [
+      {
+        "id": "genovese",
+        "name": "ジェノベーゼ",
+        "difference": "ジェノベーゼはバジルのソース。ほうれん草パスタはほうれん草を使う"
+      },
+      {
+        "id": "spinach",
+        "name": "ほうれん草",
+        "difference": "ほうれん草は食材。ほうれん草パスタはそれを使った料理"
+      }
+    ],
+    "relatedIds": [
+      "spinach",
+      "genovese",
+      "pesto",
+      "risotto"
+    ],
+    "tags": [
+      "イタリア料理",
+      "パスタ",
+      "野菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "肉料理",
+      "辛い料理",
+      "重いソース"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/spinach-pasta/1.jpg",
+      "/images/dishes/spinach-pasta/2.jpg",
+      "/images/dishes/spinach-pasta/3.jpg"
+    ]
+  },
+  {
+    "id": "ajo-blanco",
+    "name": "アホブランコ",
+    "kana": "あほぶらんこ",
+    "englishName": "Ajo Blanco",
+    "originalName": "Ajo blanco",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "アーモンド・にんにく・パンをオリーブオイルと合わせた白い冷製スープ。アンダルシア地方発祥。",
+    "menuDescription": "アーモンドとにんにくをベースにした白濁した冷たいスープ。ガスパチョと並ぶスペインの冷製スープで、マスカットやメロンを添えて供することが多い。",
+    "whatComesOut": [
+      "白濁した冷たいスープ",
+      "マスカットやメロンのトッピング（場合による）",
+      "オリーブオイルがけ"
+    ],
+    "tasteAndTexture": [
+      "アーモンドのまろやかなコク",
+      "にんにくのしっかりした風味",
+      "ひんやり滑らか",
+      "果実トッピングで甘酸っぱいアクセント"
+    ],
+    "orderAdvice": "暑い季節にガスパチョの代わりに試す価値あり。アーモンドが苦手でなければ。",
+    "caution": "アーモンド（ナッツ）アレルギーに注意",
+    "similarItems": [
+      {
+        "id": "gazpacho",
+        "name": "ガスパチョ",
+        "difference": "ガスパチョはトマトベースの赤い冷製スープ。アホブランコはアーモンドベースの白いスープ"
+      }
+    ],
+    "relatedIds": [
+      "gazpacho",
+      "tapas",
+      "pintxos"
+    ],
+    "tags": [
+      "スペイン料理",
+      "スープ",
+      "ナッツ",
+      "生食",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "温かいスープ",
+      "にんにく苦手",
+      "トマトスープ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ajo-blanco/1.jpg",
+      "/images/dishes/ajo-blanco/2.jpg",
+      "/images/dishes/ajo-blanco/3.jpg"
+    ]
+  },
+  {
+    "id": "canape",
+    "name": "カナッペ",
+    "kana": "かなっぺ",
+    "englishName": "Canapé",
+    "originalName": "Canapé",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "薄切りパンやクラッカーの上にバター・クリームチーズ・具材をのせた一口サイズの前菜。",
+    "menuDescription": "小さなパンやクラッカーをベースに、スモークサーモン・キャビア・フォアグラなどの具材を盛り付けた前菜。パーティやコース料理の前に提供されることが多い。",
+    "whatComesOut": [
+      "一口サイズの前菜が数種類",
+      "パンまたはクラッカーベース",
+      "彩りよく盛り付けられたトレイ"
+    ],
+    "tasteAndTexture": [
+      "具材によって味が変わる",
+      "パリッとしたベースのコントラスト",
+      "一口で食べられる小ぶりなサイズ"
+    ],
+    "orderAdvice": "コース料理の最初やパーティで軽くつまむ前菜。特定の具材が苦手な場合は確認を。",
+    "similarItems": [
+      {
+        "id": "bruschetta",
+        "name": "ブルスケッタ",
+        "difference": "ブルスケッタはトーストしたパンにトマトなどをのせたイタリア発祥。カナッペはより小さく多様なトッピング"
+      },
+      {
+        "id": "pintxos",
+        "name": "ピンチョス",
+        "difference": "ピンチョスはスペイン・バスクのつまみ食い文化。カナッペはフランス発祥でよりエレガントな前菜スタイル"
+      }
+    ],
+    "relatedIds": [
+      "bruschetta",
+      "pintxos",
+      "tapas"
+    ],
+    "tags": [
+      "フランス料理",
+      "前菜",
+      "小麦",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ボリュームある料理",
+      "温かい料理",
+      "主菜"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/canape/1.jpg",
+      "/images/dishes/canape/2.jpg",
+      "/images/dishes/canape/3.jpg"
+    ]
+  },
+  {
+    "id": "kalimotxo",
+    "name": "カリモーチョ",
+    "kana": "かりもーちょ",
+    "englishName": "Kalimotxo",
+    "originalName": "Kalimotxo",
+    "aliases": [
+      "カリモチョ"
+    ],
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "赤ワインとコーラを1:1で割ったスペイン・バスク発祥のカジュアルな混合飲料。",
+    "menuDescription": "安価な赤ワインをコーラで割った庶民的なドリンク。甘みとワインの渋みが程よく混ざり、飲みやすい。",
+    "whatComesOut": [
+      "赤黒い液体のグラス",
+      "氷入り"
+    ],
+    "tasteAndTexture": [
+      "コーラの甘みとワインの渋み",
+      "炭酸でさっぱり飲みやすい",
+      "アルコール感は控えめ"
+    ],
+    "orderAdvice": "ワインが苦手だが試したい人に。甘め好きに向く。",
+    "similarItems": [
+      {
+        "id": "sangria",
+        "name": "サングリア",
+        "difference": "サングリアは果物・シロップを加えて仕込む。カリモーチョはワイン+コーラの即席割り"
+      }
+    ],
+    "relatedIds": [
+      "sangria",
+      "tinto-de-verano"
+    ],
+    "tags": [
+      "スペイン料理",
+      "飲み物",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "ビール",
+      "すっきりした飲み物",
+      "アルコール強め"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kalimotxo/1.jpg"
+    ]
+  },
+  {
+    "id": "curry-powder",
+    "name": "カレー粉",
+    "kana": "かれーこ",
+    "englishName": "Curry Powder",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "インド"
+      },
+      {
+        "country": "イギリス"
+      }
+    ],
+    "summary": "ターメリック・クミン・コリアンダー・チリなど複数のスパイスをブレンドした黄色い混合香辛料。",
+    "menuDescription": "インドのスパイス料理をベースにイギリスで体系化された混合スパイス。カレー料理全般に使われるほか、炒め物・ドレッシングなどにも応用が広い。",
+    "whatComesOut": [
+      "黄色い粉末",
+      "パッケージまたは小皿で提供（調理前）"
+    ],
+    "tasteAndTexture": [
+      "ターメリックの土っぽい風味が基調",
+      "クミンの香ばしさ",
+      "チリによる辛み（商品による）"
+    ],
+    "orderAdvice": "料理の風味付けに使われる調味料。単体で食べるものではなく料理の構成要素として理解する。",
+    "similarItems": [
+      {
+        "id": "garam-masala",
+        "name": "ガラムマサラ",
+        "difference": "ガラムマサラは仕上げ香用のスパイスブレンドで甘い香りが強い。カレー粉はターメリック主体で黄色く色づく"
+      },
+      {
+        "id": "curry-leaf",
+        "name": "カレーリーフ",
+        "difference": "カレーリーフは葉のハーブ。カレー粉は複数スパイスのブレンド粉末"
+      }
+    ],
+    "relatedIds": [
+      "garam-masala",
+      "curry-leaf",
+      "dal",
+      "butter-chicken-curry",
+      "samosa"
+    ],
+    "tags": [
+      "インド料理",
+      "香辛料",
+      "スパイス"
+    ],
+    "reverseKeywords": [
+      "スパイス苦手",
+      "あっさり",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/curry-powder/1.jpg",
+      "/images/dishes/curry-powder/2.jpg",
+      "/images/dishes/curry-powder/3.jpg"
+    ]
+  },
+  {
+    "id": "cocido-madrileno",
+    "name": "コシード・マドリレーニョ",
+    "kana": "こしーどまどりれーにょ",
+    "englishName": "Cocido Madrileño",
+    "originalName": "Cocido madrileño",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "ひよこ豆・豚肉・鶏肉・野菜を長時間煮込んだマドリード風のボリュームある煮込み料理。",
+    "menuDescription": "ひよこ豆を中心に豚肉・鶏肉・腸詰・野菜を丸ごと煮込んだ一品。スープ・豆・肉と三段階に分けて食べるのが伝統的なスタイル。",
+    "whatComesOut": [
+      "ひよこ豆と野菜のスープ",
+      "大きめに切った豚肉・鶏肉",
+      "腸詰（モルシージャ等）"
+    ],
+    "tasteAndTexture": [
+      "豆とコラーゲンの深いコク",
+      "野菜の甘みが溶け込んだスープ",
+      "肉はほろほろ柔らか",
+      "非常にボリュームがある"
+    ],
+    "orderAdvice": "一皿でお腹いっぱいになる。スペインの家庭料理を体験したいなら最良の選択。",
+    "similarItems": [
+      {
+        "id": "cocido",
+        "name": "コシード",
+        "difference": "コシードはスペイン各地の豆煮込み全般。コシード・マドリレーニョはマドリード特有のレシピ"
+      },
+      {
+        "id": "fabada",
+        "name": "ファバーダ",
+        "difference": "ファバーダはアストゥリアス地方の白いんげん豆煮込み。コシード・マドリレーニョはひよこ豆ベース"
+      }
+    ],
+    "relatedIds": [
+      "cocido",
+      "fabada",
+      "paella",
+      "tapas"
+    ],
+    "tags": [
+      "スペイン料理",
+      "主菜",
+      "豆類",
+      "豚肉",
+      "鶏肉",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "あっさり",
+      "軽い料理",
+      "小食向け"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cocido-madrileno/1.jpg",
+      "/images/dishes/cocido-madrileno/2.jpg",
+      "/images/dishes/cocido-madrileno/3.jpg"
+    ]
+  },
+  {
+    "id": "korokke",
+    "name": "コロッケ",
+    "kana": "ころっけ",
+    "englishName": "Korokke",
+    "aliases": [
+      "日本のコロッケ",
+      "ポテトコロッケ"
+    ],
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "マッシュポテトや挽き肉を混ぜてパン粉をつけて揚げた日本のソウルフード。",
+    "menuDescription": "ゆでてつぶしたじゃがいもに炒めた玉ねぎと挽き肉を混ぜ、小麦粉・溶き卵・パン粉をつけて揚げた惣菜。ウスターソースをかけて食べるのが定番。",
+    "whatComesOut": [
+      "サクサクのパン粉揚げ",
+      "ソース（ウスターソース）添え",
+      "キャベツの千切りが付く場合あり"
+    ],
+    "tasteAndTexture": [
+      "外はサクサク、中はほくほく",
+      "じゃがいもの甘み",
+      "ソースの甘辛さがよく合う"
+    ],
+    "orderAdvice": "日本の定番惣菜。誰にでも馴染みやすい味。",
+    "similarItems": [
+      {
+        "id": "croqueta",
+        "name": "クロケッタ",
+        "difference": "クロケッタはベシャメルベースでクリーミー。コロッケはマッシュポテトベースでほくほく"
+      },
+      {
+        "id": "croquette-francaise",
+        "name": "コロッケ・フランセーズ",
+        "difference": "フランス版はベシャメルソースベースのクリーミーな中身。日本のコロッケはポテトベース"
+      },
+      {
+        "id": "tonkatsu",
+        "name": "トンカツ",
+        "difference": "トンカツは豚肉をパン粉揚げ。コロッケはポテトと挽き肉の混合物を揚げる"
+      }
+    ],
+    "relatedIds": [
+      "croqueta",
+      "tonkatsu",
+      "tempura"
+    ],
+    "tags": [
+      "日本料理",
+      "揚げ物",
+      "野菜",
+      "豚肉",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "揚げ物苦手",
+      "あっさり",
+      "ヘルシー志向"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/korokke/1.jpg",
+      "/images/dishes/korokke/2.jpg",
+      "/images/dishes/korokke/3.jpg"
+    ]
+  },
+  {
+    "id": "croquette-francaise",
+    "name": "コロッケ・フランセーズ",
+    "kana": "ころっけふらんせーず",
+    "englishName": "Croquette",
+    "originalName": "Croquette",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "ベシャメルソースベースのクリーミーな中身をパン粉で包んで揚げたフランス発祥の揚げ料理。",
+    "menuDescription": "濃厚なベシャメルソースにチキン・ハム・チーズなどを加えて固め、パン粉をつけて揚げた料理。外はサクサク、中は溶けるようなクリーミーな食感が特徴。",
+    "whatComesOut": [
+      "細長い楕円形の揚げ物",
+      "クリーミーなベシャメルフィリング",
+      "ソースまたはサラダ添え"
+    ],
+    "tasteAndTexture": [
+      "外はサクサク",
+      "中はとろけるようなクリームの食感",
+      "ベシャメルのコクと塩気"
+    ],
+    "orderAdvice": "日本のコロッケとは別物。クリーム好きなら試す価値あり。",
+    "similarItems": [
+      {
+        "id": "croqueta",
+        "name": "クロケッタ",
+        "difference": "スペインのクロケッタも同じベシャメルベースだが、ハモン・セラーノ等を使うスペイン風の具材が多い"
+      },
+      {
+        "id": "korokke",
+        "name": "コロッケ",
+        "difference": "日本のコロッケはポテトベースでほくほく。フランス版はベシャメルベースでクリーミー"
+      },
+      {
+        "id": "bechamel",
+        "name": "ベシャメル",
+        "difference": "ベシャメルはソース。コロッケ・フランセーズはそのソースを固めて揚げた料理"
+      }
+    ],
+    "relatedIds": [
+      "croqueta",
+      "bechamel",
+      "korokke"
+    ],
+    "tags": [
+      "フランス料理",
+      "前菜",
+      "揚げ物",
+      "クリーミー",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "揚げ物苦手",
+      "あっさり",
+      "ポテト好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/croquette-francaise/1.jpg",
+      "/images/dishes/croquette-francaise/2.jpg",
+      "/images/dishes/croquette-francaise/3.jpg"
+    ]
+  },
+  {
+    "id": "suppon-nabe",
+    "name": "スッポン鍋",
+    "kana": "すっぽんなべ",
+    "englishName": "Snapping Turtle Hot Pot",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "スッポン（軟甲類の亀）を丸ごと使った滋養強壮に優れるとされる高級鍋料理。",
+    "menuDescription": "スッポンの肉・血・骨からとった濃厚なコラーゲンたっぷりのスープが特徴の鍋。料亭で提供される高級料理で、滋養強壮・美容効果でも知られる。",
+    "whatComesOut": [
+      "スッポンの肉（骨付き）",
+      "野菜・豆腐など",
+      "コラーゲン豊富なスープ"
+    ],
+    "tasteAndTexture": [
+      "スープは濃厚でゼラチン質",
+      "鶏肉に似た淡白な旨み",
+      "コラーゲンで冷えるとゼリー状になる"
+    ],
+    "orderAdvice": "高価だが滋養強壮・コラーゲン補給を求めるなら。独特の風味があるので初めてなら料亭で試すべき。",
+    "caution": "非常に高価。稀にアレルギー反応あり",
+    "similarItems": [
+      {
+        "id": "hamo-nabe",
+        "name": "鱧鍋",
+        "difference": "鱧鍋は魚（ハモ）の鍋。スッポン鍋は爬虫類（軟甲類）を使い独特の滋養感がある"
+      },
+      {
+        "id": "oden",
+        "name": "おでん",
+        "difference": "おでんは多種具材を出汁で煮込む庶民的な鍋。スッポン鍋は高級食材のみを使う"
+      }
+    ],
+    "relatedIds": [
+      "hamo-nabe",
+      "oden",
+      "hari-hari-nabe"
+    ],
+    "tags": [
+      "日本料理",
+      "鍋料理",
+      "魚介",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "安価な料理",
+      "あっさり",
+      "食材の見た目が気になる人"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "cheese-pizza",
+    "name": "チーズピザ",
+    "kana": "ちーずぴざ",
+    "englishName": "Cheese Pizza",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      },
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "トマトソースと溶けたチーズを主役にしたシンプルなピザ。マルゲリータが代表的。",
+    "menuDescription": "薄いまたは厚めの生地にトマトソースを塗り、モッツァレラなどのチーズをたっぷりのせて焼いたピザ。具材のないシンプルさでチーズの旨みが際立つ。",
+    "whatComesOut": [
+      "丸いまたは四角いピザ",
+      "とろけたチーズのかかった表面",
+      "適宜カットして提供"
+    ],
+    "tasteAndTexture": [
+      "チーズのコクと塩気",
+      "トマトソースの酸味とのバランス",
+      "生地はサクサクまたはもちもち（スタイルによる）"
+    ],
+    "orderAdvice": "ピザの中で最もシンプル。チーズ好きなら外れなし。",
+    "caution": "乳製品（チーズ）アレルギーに注意",
+    "similarItems": [
+      {
+        "id": "mozzarella",
+        "name": "モッツァレラ",
+        "difference": "モッツァレラは食材。チーズピザはそれを使った料理"
+      },
+      {
+        "id": "bruschetta",
+        "name": "ブルスケッタ",
+        "difference": "ブルスケッタはトーストにトッピング。チーズピザは生地から焼く"
+      }
+    ],
+    "relatedIds": [
+      "mozzarella",
+      "bruschetta",
+      "macaroni-and-cheese"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "チーズ",
+      "小麦",
+      "焼き物"
+    ],
+    "reverseKeywords": [
+      "乳製品苦手",
+      "あっさり",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cheese-pizza/1.jpg",
+      "/images/dishes/cheese-pizza/2.jpg",
+      "/images/dishes/cheese-pizza/3.jpg"
+    ]
+  },
+  {
+    "id": "tinto-de-verano",
+    "name": "ティントデベラノ",
+    "kana": "てぃんとでべらの",
+    "englishName": "Tinto de Verano",
+    "originalName": "Tinto de verano",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "赤ワインとレモン風味の炭酸飲料（ガセオサ）を半々で割ったスペインの夏の定番ドリンク。",
+    "menuDescription": "赤ワインをシトラス系の炭酸飲料で割ったさっぱりした夏向けのドリンク。サングリアより手軽で後味が軽い。",
+    "whatComesOut": [
+      "赤ワイン色の炭酸ドリンク",
+      "氷入りグラス",
+      "レモンスライス添えの場合あり"
+    ],
+    "tasteAndTexture": [
+      "赤ワインの渋みと柑橘の爽やかさ",
+      "炭酸でさっぱり",
+      "甘みは控えめでドライ"
+    ],
+    "orderAdvice": "サングリアより軽くすっきり飲みたい人に。夏の昼間にぴったり。",
+    "similarItems": [
+      {
+        "id": "sangria",
+        "name": "サングリア",
+        "difference": "サングリアは果物・シロップで甘く仕込む。ティントデベラノはワイン+炭酸のシンプルな割り"
+      },
+      {
+        "id": "kalimotxo",
+        "name": "カリモーチョ",
+        "difference": "カリモーチョはコーラで割る甘め。ティントデベラノはシトラス炭酸でよりさっぱり"
+      }
+    ],
+    "relatedIds": [
+      "sangria",
+      "kalimotxo"
+    ],
+    "tags": [
+      "スペイン料理",
+      "飲み物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ビール",
+      "ノンアルコール",
+      "甘い飲み物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tinto-de-verano/1.jpg",
+      "/images/dishes/tinto-de-verano/2.jpg",
+      "/images/dishes/tinto-de-verano/3.jpg"
+    ]
+  },
+  {
+    "id": "donut",
+    "name": "ドーナツ",
+    "kana": "どーなつ",
+    "englishName": "Donut",
+    "originalName": "Doughnut",
+    "aliases": [
+      "ドーナッツ"
+    ],
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "小麦粉生地を油で揚げたリング状または丸型の菓子。砂糖・チョコ・グレーズなど多彩なトッピングがある。",
+    "menuDescription": "イースト発酵またはケーキタイプの生地を揚げた菓子。グレーズドやチョコがけ、クリーム入りなど多種類。",
+    "whatComesOut": [
+      "リング状または丸い揚げ菓子",
+      "砂糖・グレーズ・チョコのトッピング",
+      "クリームや餡入りの場合あり"
+    ],
+    "tasteAndTexture": [
+      "外は薄くサクッとした揚げ感",
+      "中はふんわり柔らかい",
+      "甘いコーティング"
+    ],
+    "orderAdvice": "甘みと揚げた香ばしさが両立する菓子。チュロスが好きなら合う。",
+    "similarItems": [
+      {
+        "id": "churros",
+        "name": "チュロス",
+        "difference": "チュロスは棒状でサクサク食感。ドーナツはリング状でふんわりした食感"
+      }
+    ],
+    "relatedIds": [
+      "churros",
+      "crepe"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "デザート",
+      "揚げ物",
+      "小麦",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "甘いもの苦手",
+      "揚げ物苦手",
+      "塩味菓子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/donut/1.jpg",
+      "/images/dishes/donut/2.jpg",
+      "/images/dishes/donut/3.jpg"
+    ]
+  },
+  {
+    "id": "jamon-iberico",
+    "name": "ハモン・イベリコ",
+    "kana": "はもんいべりこ",
+    "englishName": "Jamón Ibérico",
+    "originalName": "Jamón ibérico",
+    "aliases": [
+      "イベリコハム"
+    ],
+    "category": "食材",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "イベリコ豚を塩漬けして長期熟成させたスペイン最高級の生ハム。ドングリを食べて育った豚（ベジョータ）ものが最高級品。",
+    "menuDescription": "イベリコ種の豚の後脚を塩漬けし2〜4年以上熟成させた生ハム。薄くスライスして単体で食べるのが基本。脂の甘みと旨みが凝縮されている。",
+    "whatComesOut": [
+      "薄切りのスライスが皿に盛られた状態",
+      "パンやオリーブオイルが添えられる場合あり",
+      "室温で提供"
+    ],
+    "tasteAndTexture": [
+      "脂の甘みとコクが強烈",
+      "ナッツのような風味（ベジョータ）",
+      "口の中でとろける脂質感",
+      "塩気が凝縮されている"
+    ],
+    "orderAdvice": "スペイン料理の精髄。単体でそのまま食べるのが最良。高価だが一度は試す価値あり。",
+    "similarItems": [
+      {
+        "id": "jamon-serrano",
+        "name": "ハモン・セラーノ",
+        "difference": "セラーノは白豚を使った廉価版の生ハム。イベリコは黒豚で脂の質・熟成期間が格段に上"
+      },
+      {
+        "id": "prosciutto",
+        "name": "プロシュート",
+        "difference": "プロシュートはイタリアの生ハム。ハモン・イベリコよりさっぱりした味わいが多い"
+      }
+    ],
+    "relatedIds": [
+      "jamon-serrano",
+      "prosciutto",
+      "tapas",
+      "pintxos"
+    ],
+    "tags": [
+      "スペイン料理",
+      "前菜",
+      "豚肉",
+      "燻製",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "豚肉苦手",
+      "あっさり",
+      "加熱済みの肉"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/jamon-iberico/1.jpg",
+      "/images/dishes/jamon-iberico/2.jpg",
+      "/images/dishes/jamon-iberico/3.jpg"
+    ]
+  },
+  {
+    "id": "baguette-sandwich",
+    "name": "バゲットサンドイッチ",
+    "kana": "ばげっとさんどいっち",
+    "englishName": "Baguette Sandwich",
+    "originalName": "Sandwich baguette",
+    "aliases": [
+      "フランスのサンドイッチ"
+    ],
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランスのバゲットを横に切り、ハム・チーズ・バターなどを挟んだ軽食。パリジャンの定番ランチ。",
+    "menuDescription": "パリッとしたバゲットにバター・ハム（ジャンボン）・コルニション（ピクルス）を挟むシンプルな構成が基本。ジャンボン・ブールが代表的。",
+    "whatComesOut": [
+      "バゲットを横割りにしたサンドイッチ",
+      "ハム・チーズ・バターが基本",
+      "包み紙に包まれた状態で提供されることも"
+    ],
+    "tasteAndTexture": [
+      "パリッとしたバゲットの食感",
+      "バターの豊かなコク",
+      "ハムの塩気とチーズのまろやかさ"
+    ],
+    "orderAdvice": "フランスの軽食として最もシンプルで確実な選択。ジャンボン・ブールを基本に。",
+    "similarItems": [
+      {
+        "id": "bruschetta",
+        "name": "ブルスケッタ",
+        "difference": "ブルスケッタはオープンサンド形式でトマト等をのせる。バゲットサンドイッチはパンで挟む"
+      },
+      {
+        "id": "canape",
+        "name": "カナッペ",
+        "difference": "カナッペは一口サイズの前菜。バゲットサンドイッチは食事用の軽食サイズ"
+      },
+      {
+        "id": "hamburger",
+        "name": "ハンバーガー",
+        "difference": "ハンバーガーはミートパティが主役。バゲットサンドイッチはハムやチーズが主役"
+      }
+    ],
+    "relatedIds": [
+      "bruschetta",
+      "canape",
+      "hamburger"
+    ],
+    "tags": [
+      "フランス料理",
+      "軽食",
+      "豚肉",
+      "チーズ",
+      "小麦",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "温かい料理",
+      "主菜",
+      "グルテン苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/baguette-sandwich/1.jpg",
+      "/images/dishes/baguette-sandwich/2.jpg",
+      "/images/dishes/baguette-sandwich/3.jpg"
+    ]
+  },
+  {
+    "id": "pakora",
+    "name": "パコラ",
+    "kana": "ぱこら",
+    "englishName": "Pakora",
+    "originalName": "Pakora / Pakoda",
+    "aliases": [
+      "パコーラ",
+      "パコダ"
+    ],
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "野菜や肉にひよこ豆粉のバッターをつけて揚げたインドの定番揚げ物スナック。",
+    "menuDescription": "玉ねぎ・じゃがいも・ほうれん草などをひよこ豆粉（ベサン）にスパイスを混ぜたバッターで包んで揚げる。チャツネと一緒に食べるのが定番。",
+    "whatComesOut": [
+      "不規則な形の揚げ物",
+      "チャツネ（ミントや甘酸っぱいタマリンド等）添え",
+      "熱々で提供"
+    ],
+    "tasteAndTexture": [
+      "外はサクサク、中はしっとり",
+      "スパイスの香りが口に広がる",
+      "豆粉特有のやや重めのコク"
+    ],
+    "orderAdvice": "インド料理の前菜として安定した選択。揚げ物好きなら外れなし。辛さはチャツネで調整。",
+    "caution": "ひよこ豆（豆類）アレルギーに注意",
+    "similarItems": [
+      {
+        "id": "samosa",
+        "name": "サモサ",
+        "difference": "サモサは三角形の皮で具材を包んで揚げる。パコラは具材をバッターで直接コーティングして揚げる"
+      },
+      {
+        "id": "fritter",
+        "name": "フリッター",
+        "difference": "フリッターは欧米の衣揚げ全般。パコラはひよこ豆粉とスパイスを使うインドスタイル"
+      },
+      {
+        "id": "tempura",
+        "name": "天ぷら",
+        "difference": "天ぷらは薄い卵白バッターでさっくりした食感。パコラはひよこ豆粉バッターでスパイシー"
+      }
+    ],
+    "relatedIds": [
+      "samosa",
+      "fritter",
+      "tempura",
+      "dal"
+    ],
+    "tags": [
+      "インド料理",
+      "前菜",
+      "野菜",
+      "豆類",
+      "揚げ物",
+      "スパイス"
+    ],
+    "reverseKeywords": [
+      "揚げ物苦手",
+      "スパイス苦手",
+      "あっさり志向"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/pakora/1.jpg",
+      "/images/dishes/pakora/2.jpg",
+      "/images/dishes/pakora/3.jpg"
+    ]
+  },
+  {
+    "id": "french-fries",
+    "name": "フライドポテト",
+    "kana": "ふらいどぽてと",
+    "englishName": "French Fries",
+    "aliases": [
+      "フレンチフライ",
+      "ポテトフライ"
+    ],
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベルギー"
+      },
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "じゃがいもを細切りにして揚げたシンプルな料理。世界中のファストフードに欠かせない定番サイドメニュー。",
+    "menuDescription": "塩で味付けするシンプルな揚げじゃがいも。ケチャップやマヨネーズ、塩など様々な調味料で食べる。ファットのサクサク感と塩気が特徴。",
+    "whatComesOut": [
+      "細長い揚げたじゃがいも",
+      "塩がけ済み",
+      "ケチャップまたは各種ソース添え"
+    ],
+    "tasteAndTexture": [
+      "外はサクサク、中はふんわり",
+      "塩と油の組み合わせ",
+      "じゃがいもの甘みと香ばしさ"
+    ],
+    "orderAdvice": "外れがない定番。温かいうちに食べること。",
+    "similarItems": [
+      {
+        "id": "patatas-bravas",
+        "name": "パタタス・ブラバス",
+        "difference": "パタタス・ブラバスはピリ辛ソースが決め手のスペイン風。フライドポテトはシンプルな塩味"
+      },
+      {
+        "id": "korokke",
+        "name": "コロッケ",
+        "difference": "コロッケはじゃがいもを潰して成形・揚げ。フライドポテトはじゃがいもをそのまま揚げる"
+      }
+    ],
+    "relatedIds": [
+      "patatas-bravas",
+      "korokke",
+      "tempura",
+      "hamburger"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "軽食",
+      "野菜",
+      "揚げ物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "揚げ物苦手",
+      "ヘルシー志向",
+      "グルテン含有主食"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/french-fries/1.jpg",
+      "/images/dishes/french-fries/2.jpg",
+      "/images/dishes/french-fries/3.jpg"
+    ]
+  },
+  {
+    "id": "french-onion-soup",
+    "name": "フレンチオニオンスープ",
+    "kana": "ふれんちおにおんすーぷ",
+    "englishName": "French Onion Soup",
+    "originalName": "Soupe à l'oignon",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "じっくり炒めた玉ねぎの甘みを活かしたブイヨンスープ。溶けたチーズとクルトンをのせて焼き上げる。",
+    "menuDescription": "飴色に炒めた玉ねぎをビーフブイヨンで煮込み、バゲットのクルトンとグリュイエールチーズをのせてオーブンで焼いたスープ。",
+    "whatComesOut": [
+      "耐熱皿に入ったグラタン状のスープ",
+      "溶けて焦げ目のついたチーズの層",
+      "スープはブラウン色で濃厚"
+    ],
+    "tasteAndTexture": [
+      "玉ねぎの濃縮された甘み",
+      "牛出汁の深いコク",
+      "チーズのとろけるリッチな旨み",
+      "クルトンの食感が残る"
+    ],
+    "orderAdvice": "寒い日の前菜として理想的。玉ねぎ嫌いな人には実は甘くて食べやすい。",
+    "caution": "非常に熱いので注意",
+    "similarItems": [
+      {
+        "id": "sopa-de-ajo",
+        "name": "ソパ・デ・アホ",
+        "difference": "ソパ・デ・アホはにんにくベースのスペインのスープ。フレンチオニオンスープは玉ねぎとチーズが主役"
+      },
+      {
+        "id": "pot-au-feu",
+        "name": "ポトフ",
+        "difference": "ポトフは野菜と肉の煮込み料理。フレンチオニオンスープは玉ねぎ主体のチーズがけスープ"
+      }
+    ],
+    "relatedIds": [
+      "sopa-de-ajo",
+      "pot-au-feu",
+      "gazpacho"
+    ],
+    "tags": [
+      "フランス料理",
+      "スープ",
+      "野菜",
+      "チーズ",
+      "焼き物",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "あっさりスープ",
+      "冷たい料理",
+      "乳製品苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/french-onion-soup/1.jpg",
+      "/images/dishes/french-onion-soup/2.jpg",
+      "/images/dishes/french-onion-soup/3.jpg"
+    ]
+  },
+  {
+    "id": "baingan-bharta",
+    "name": "ベイガン・バルタ",
+    "kana": "べいがんばるた",
+    "englishName": "Baingan Bharta",
+    "originalName": "Baingan Bharta",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "なすを直火で焼いてつぶし、玉ねぎ・トマト・スパイスと炒めた北インドの煮込み料理。",
+    "menuDescription": "なすをタンドールや直火で丸ごと焼いて皮をむき、スモーキーな果肉をスパイスと炒めて仕上げる。ロティやナンと一緒に食べるのが基本。",
+    "whatComesOut": [
+      "ペースト状のなす料理",
+      "ロティまたはナン添え",
+      "玉ねぎ・コリアンダーで飾ることが多い"
+    ],
+    "tasteAndTexture": [
+      "焼きなすのスモーキーな香り",
+      "スパイスの複雑な風味",
+      "なめらかでとろっとした食感"
+    ],
+    "orderAdvice": "スモーキーな焼き野菜が好きなら選ぶ。ヴィーガン食としても人気。",
+    "similarItems": [
+      {
+        "id": "vangyacha-bharit",
+        "name": "ヴァンギャチャ・バリト",
+        "difference": "ヴァンギャチャ・バリトはマハラシュトラの素朴な焼きなす和え物。ベイガン・バルタは北インド風で玉ねぎとトマトを加えて炒める"
+      },
+      {
+        "id": "baba-ganoush",
+        "name": "ババガヌーシュ",
+        "difference": "ババガヌーシュは中東の焼きなすディップでタヒニを加える。ベイガン・バルタはインドスパイスで炒める"
+      },
+      {
+        "id": "ajapsandali",
+        "name": "アジャプサンダリ",
+        "difference": "アジャプサンダリはジョージアの野菜炒め。ベイガン・バルタはインドのスパイスと焼きなすが主役"
+      }
+    ],
+    "relatedIds": [
+      "vangyacha-bharit",
+      "baba-ganoush",
+      "dal",
+      "naan",
+      "tandoori"
+    ],
+    "tags": [
+      "インド料理",
+      "主菜",
+      "野菜",
+      "ロースト",
+      "スパイス"
+    ],
+    "reverseKeywords": [
+      "スパイス苦手",
+      "なす嫌い",
+      "肉料理志向"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/baingan-bharta/1.jpg",
+      "/images/dishes/baingan-bharta/2.jpg",
+      "/images/dishes/baingan-bharta/3.jpg"
+    ]
+  },
+  {
+    "id": "berry",
+    "name": "ベリー",
+    "kana": "べりー",
+    "englishName": "Berries",
+    "aliases": [
+      "ベリー類",
+      "果実"
+    ],
+    "category": "食材",
+    "regions": [
+      {
+        "country": "アメリカ"
+      },
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "ストロベリー・ブルーベリー・ラズベリーなど小粒で甘酸っぱい果実の総称。デザートや料理に幅広く使われる。",
+    "menuDescription": "様々な種類の小果実の総称。生で食べるほか、ソース・ジャム・デザートのトッピングとして使われる。",
+    "whatComesOut": [
+      "小粒の果実（単体または盛り合わせ）",
+      "デザートやサラダのトッピング",
+      "ソース・クーリーの形でも使われる"
+    ],
+    "tasteAndTexture": [
+      "甘みと酸味のバランス（種類による）",
+      "果汁が豊か",
+      "種類によって異なる食感"
+    ],
+    "orderAdvice": "デザートのトッピングや彩りとして定番。鮮度が重要なので旬の時期がベスト。",
+    "similarItems": [
+      {
+        "id": "pomegranate",
+        "name": "ザクロ",
+        "difference": "ザクロはつぶつぶの種と果汁が特徴。ベリーは丸い果実で食べやすい"
+      }
+    ],
+    "relatedIds": [
+      "pomegranate",
+      "creme-brulee",
+      "tiramisu"
+    ],
+    "tags": [
+      "フランス料理",
+      "デザート",
+      "生食",
+      "甘み",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "甘いもの苦手",
+      "酸味苦手",
+      "温かいデザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/berry/1.jpg",
+      "/images/dishes/berry/2.jpg",
+      "/images/dishes/berry/3.jpg"
+    ]
+  },
+  {
+    "id": "polpetta",
+    "name": "ポルペッタ",
+    "kana": "ぽるぺった",
+    "englishName": "Polpette",
+    "originalName": "Polpette",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "牛・豚の合い挽き肉にパルメザンチーズやパン粉を混ぜて丸め、焼いたり煮込んだりするイタリアのミートボール。",
+    "menuDescription": "挽き肉にチーズ・パン粉・卵・ハーブを混ぜて丸めた肉団子。トマトソースで煮込むか焼いて前菜やセコンドとして提供される。",
+    "whatComesOut": [
+      "丸い肉団子3〜5個",
+      "トマトソースがけまたは素焼き",
+      "パルメザンやバジルで仕上げ"
+    ],
+    "tasteAndTexture": [
+      "ジューシーでやわらかい肉の食感",
+      "チーズの旨みが全体に広がる",
+      "トマトソースの酸味とよく合う"
+    ],
+    "orderAdvice": "イタリアンのミートボールはアメリカ版とは別物。柔らかく軽いので試しやすい。",
+    "similarItems": [
+      {
+        "id": "albondigas",
+        "name": "アルボンディガス",
+        "difference": "アルボンディガスはスペインのミートボールでトマトソース等で煮込む。ポルペッタはイタリア版でチーズを入れることが多い"
+      },
+      {
+        "id": "ragu",
+        "name": "ラグー",
+        "difference": "ラグーは挽き肉のソース。ポルペッタは肉を丸めた料理"
+      }
+    ],
+    "relatedIds": [
+      "albondigas",
+      "ragu",
+      "hamburger"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "牛肉",
+      "豚肉",
+      "焼き物",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "肉苦手",
+      "あっさり",
+      "魚介料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/polpetta/1.jpg",
+      "/images/dishes/polpetta/2.jpg",
+      "/images/dishes/polpetta/3.jpg"
+    ]
+  },
+  {
+    "id": "mezze",
+    "name": "メゼ",
+    "kana": "めぜ",
+    "englishName": "Mezze",
+    "originalName": "Mezze / Meze",
+    "aliases": [
+      "メッゼ",
+      "メゼ"
+    ],
+    "category": "料理",
+    "regions": [
+      {
+        "country": "トルコ"
+      },
+      {
+        "country": "レバノン"
+      },
+      {
+        "country": "中東"
+      }
+    ],
+    "summary": "中東・地中海地域の小皿料理の盛り合わせ。フムス・ババガヌーシュ・ファラフェルなど多種のディップや前菜が並ぶ。",
+    "menuDescription": "フムス・ツァジキ・ファラフェル・ピタなど多種の小皿料理を一度に楽しめる盛り合わせスタイル。食事の始まりにシェアしながら食べる。",
+    "whatComesOut": [
+      "複数の小皿料理のセット",
+      "ピタパンまたはパン",
+      "ディップ類・揚げ物・サラダなど"
+    ],
+    "tasteAndTexture": [
+      "料理ごとに異なる味と食感",
+      "全体的にハーブとレモンが効いている",
+      "豆類のコクと野菜のさっぱり感が同居"
+    ],
+    "orderAdvice": "中東料理を初めて試すなら最良の入門。少量ずつ多様な味が楽しめる。",
+    "similarItems": [
+      {
+        "id": "tapas",
+        "name": "タパス",
+        "difference": "タパスはスペインの小皿料理文化。メゼは中東・地中海の小皿文化で豆類・ディップが中心"
+      },
+      {
+        "id": "hummus",
+        "name": "フムス",
+        "difference": "フムスはひよこ豆のディップ。メゼはフムスを含む小皿料理の盛り合わせ全体を指す"
+      }
+    ],
+    "relatedIds": [
+      "tapas",
+      "hummus",
+      "falafel",
+      "tzatziki",
+      "baba-ganoush"
+    ],
+    "tags": [
+      "中東料理",
+      "前菜",
+      "豆類",
+      "野菜",
+      "生食"
+    ],
+    "reverseKeywords": [
+      "一皿でたっぷり食べたい",
+      "主菜志向",
+      "ガッツリ肉料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/mezze/1.jpg",
+      "/images/dishes/mezze/2.jpg",
+      "/images/dishes/mezze/3.jpg"
+    ]
+  },
+  {
+    "id": "nihonshu",
+    "name": "日本酒",
+    "kana": "にほんしゅ",
+    "englishName": "Sake",
+    "originalName": "日本酒",
+    "aliases": [
+      "清酒",
+      "お酒"
+    ],
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "米・麹・水を原料に醸造した日本の代表的な醸造酒。精米度・発酵スタイルにより多様な味わいがある。",
+    "menuDescription": "米を糖化・発酵させた透明または淡黄色の醸造酒。純米・吟醸・大吟醸など精米度で分類され、温度によって燗酒・冷酒・常温と楽しみ方も変わる。",
+    "whatComesOut": [
+      "透明または淡黄色の液体",
+      "徳利とぐい呑み（温酒）またはグラス（冷酒）",
+      "ワイングラスで提供する場合も増加"
+    ],
+    "tasteAndTexture": [
+      "米の甘みと旨み",
+      "吟醸系はフルーティな香り",
+      "純米系は米の力強い旨み",
+      "後味のキレ（辛口）またはふくよかな余韻（甘口）"
+    ],
+    "orderAdvice": "料理との相性を考えて選ぶ。和食全般との相性が最高。辛口・甘口の好みを伝えると選びやすい。",
+    "similarItems": [
+      {
+        "id": "shochu",
+        "name": "焼酎",
+        "difference": "焼酎は蒸留酒でアルコール度数が高い。日本酒は醸造酒で風味が豊か"
+      },
+      {
+        "id": "amazake",
+        "name": "甘酒",
+        "difference": "甘酒はアルコールを含まない甘い米飲料。日本酒は発酵を進めたアルコール飲料"
+      },
+      {
+        "id": "doburoku",
+        "name": "どぶろく",
+        "difference": "どぶろくは濾過しない白濁した濁り酒。日本酒は濾過して透明に仕上げる"
+      },
+      {
+        "id": "shaoxing-wine",
+        "name": "紹興酒",
+        "difference": "紹興酒は中国の熟成米酒で独特の色と酸み。日本酒は淡麗でより軽やか"
+      }
+    ],
+    "relatedIds": [
+      "shochu",
+      "amazake",
+      "doburoku",
+      "shaoxing-wine"
+    ],
+    "tags": [
+      "日本料理",
+      "飲み物",
+      "米",
+      "発酵",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ビール",
+      "ワイン",
+      "カクテル",
+      "ノンアルコール"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/nihonshu/1.jpg",
+      "/images/dishes/nihonshu/2.jpg",
+      "/images/dishes/nihonshu/3.jpg"
+    ]
+  },
+  {
+    "id": "awamori",
+    "name": "泡盛",
+    "kana": "あわもり",
+    "englishName": "Awamori",
+    "originalName": "泡盛",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "area": "沖縄"
+      }
+    ],
+    "summary": "沖縄県固有の米蒸留酒。黒麹で仕込み長期熟成した「古酒（クース）」は特に珍重される。",
+    "menuDescription": "タイ米を黒麹で仕込んで蒸留した沖縄固有の蒸留酒。アルコール度数は20〜43度程度。水割り・ロックが基本。古酒は5〜10年以上熟成させた高級品。",
+    "whatComesOut": [
+      "透明または淡黄色の液体",
+      "ロックまたは水割りでグラス提供",
+      "古酒は香りが立つ"
+    ],
+    "tasteAndTexture": [
+      "黒麹由来のコクと独特の風味",
+      "古酒は丸みがあり甘い熟成香",
+      "若い泡盛はシャープでクセがある",
+      "アルコール感が強め"
+    ],
+    "orderAdvice": "沖縄料理との相性が抜群。古酒は高価だが別次元の味わい。初めてなら水割り・薄めから。",
+    "similarItems": [
+      {
+        "id": "shochu",
+        "name": "焼酎",
+        "difference": "焼酎は本土の蒸留酒で原料が多様。泡盛は沖縄固有のタイ米+黒麹で独特の風味"
+      },
+      {
+        "id": "nihonshu",
+        "name": "日本酒",
+        "difference": "日本酒は醸造酒でアルコール度数が低め。泡盛は蒸留酒で度数が高い"
+      }
+    ],
+    "relatedIds": [
+      "shochu",
+      "nihonshu"
+    ],
+    "tags": [
+      "日本料理",
+      "沖縄料理",
+      "飲み物",
+      "米",
+      "発酵"
+    ],
+    "reverseKeywords": [
+      "低アルコール",
+      "ビール",
+      "ワイン",
+      "甘い飲み物"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/awamori/1.jpg",
+      "/images/dishes/awamori/2.jpg",
+      "/images/dishes/awamori/3.jpg"
+    ]
+  },
+  {
+    "id": "takikomi-gohan",
+    "name": "炊き込みご飯",
+    "kana": "たきこみごはん",
+    "englishName": "Takikomi Gohan",
+    "originalName": "炊き込みご飯",
+    "aliases": [
+      "かやくご飯",
+      "五目ご飯"
+    ],
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "米に出汁・醤油・みりんで味をつけ、鶏肉・きのこ・ごぼうなどを加えて炊いたご飯料理。",
+    "menuDescription": "だし汁・醤油・みりんで調味した水で米と具材を一緒に炊く日本の定番ご飯。季節の具材を使い、秋はきのこ・栗などが代表的。",
+    "whatComesOut": [
+      "具材入りの茶色がかったご飯",
+      "茶碗または土鍋で提供",
+      "お新香が添えられることが多い"
+    ],
+    "tasteAndTexture": [
+      "出汁と醤油の旨み",
+      "具材の味がご飯に染みている",
+      "各具材の食感が残る"
+    ],
+    "orderAdvice": "白ご飯より風味豊か。季節の具材を楽しむなら定食メニューで積極的に選ぶ価値あり。",
+    "similarItems": [
+      {
+        "id": "okowa",
+        "name": "おこわ",
+        "difference": "おこわはもち米を蒸す。炊き込みご飯はうるち米を炊く。食感がもちもちか普通かの違い"
+      },
+      {
+        "id": "risotto",
+        "name": "リゾット",
+        "difference": "リゾットはイタリアの米料理で出汁を加えながら炒め煮にする。炊き込みご飯は醤油出汁で一気に炊く"
+      }
+    ],
+    "relatedIds": [
+      "okowa",
+      "risotto",
+      "paella"
+    ],
+    "tags": [
+      "日本料理",
+      "ご飯もの",
+      "米",
+      "鶏肉",
+      "きのこ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "洋食",
+      "パスタ",
+      "白いご飯だけ欲しい"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/takikomi-gohan/1.jpg",
+      "/images/dishes/takikomi-gohan/2.jpg",
+      "/images/dishes/takikomi-gohan/3.jpg"
+    ]
+  },
+  {
+    "id": "yaki-nasu",
+    "name": "焼きなす",
+    "kana": "やきなす",
+    "englishName": "Grilled Eggplant",
+    "originalName": "焼きなす",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "なすを直火または網で焼いて皮をむき、生姜・鰹節・醤油などで食べるシンプルな和の一品。",
+    "menuDescription": "なすを丸ごと直火で焦がすように焼き、冷水にとって皮をむく。薬味と一緒にさっぱりした冷菜として提供されることが多い。",
+    "whatComesOut": [
+      "皮をむいた焼きなす（冷または温）",
+      "生姜・鰹節・ねぎなどの薬味",
+      "醤油または出汁しょうゆがけ"
+    ],
+    "tasteAndTexture": [
+      "直火の香ばしいスモーキーさ",
+      "とろりとやわらかいなすの食感",
+      "薬味がさっぱりした後口を作る"
+    ],
+    "orderAdvice": "暑い季節にさっぱりした副菜として最適。なす嫌いも焼くと甘みが出て食べやすくなる。",
+    "similarItems": [
+      {
+        "id": "dengaku",
+        "name": "田楽",
+        "difference": "田楽は味噌だれをのせて焼く甘辛い料理。焼きなすは皮を焼いてむく調理法でシンプルな仕上げ"
+      },
+      {
+        "id": "baingan-bharta",
+        "name": "ベイガン・バルタ",
+        "difference": "ベイガン・バルタは焼きなすをスパイスと炒めるインド料理。焼きなすは和の薬味でシンプルに食べる"
+      },
+      {
+        "id": "baba-ganoush",
+        "name": "ババガヌーシュ",
+        "difference": "ババガヌーシュは焼きなすをタヒニと混ぜたディップ。焼きなすはなすをそのままシンプルに食べる"
+      }
+    ],
+    "relatedIds": [
+      "dengaku",
+      "baingan-bharta",
+      "baba-ganoush",
+      "miso-dengaku"
+    ],
+    "tags": [
+      "日本料理",
+      "野菜",
+      "焼き物",
+      "生食",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "こってり",
+      "肉料理",
+      "ボリュームある一品"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/yaki-nasu/1.jpg",
+      "/images/dishes/yaki-nasu/2.jpg",
+      "/images/dishes/yaki-nasu/3.jpg"
+    ]
   }
 ]
