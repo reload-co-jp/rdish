@@ -53327,5 +53327,188 @@
       "/images/dishes/pani-puri/2.jpg",
       "/images/dishes/pani-puri/3.jpg"
     ]
+  },
+  {
+    "id": "dumpling",
+    "name": "ダンプリング",
+    "kana": "だんぷりんぐ",
+    "aliases": [
+      "餃子",
+      "水餃子",
+      "蒸し餃子",
+      "ジャオズ"
+    ],
+    "englishName": "Dumpling",
+    "originalName": "饺子 (Jiǎozi)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "小麦粉の皮に豚肉・野菜などの具材を包み、蒸す・茹でる・焼くなどして仕上げる中国発祥の料理。英語メニューでは餃子全般を指す。",
+    "menuDescription": "薄い小麦粉の皮に豚ひき肉、ニラ、キャベツなどを包んだ一品。蒸し・茹で・焼きで異なる食感に仕上がります。黒酢やラー油を添えたタレと一緒にどうぞ。",
+    "whatComesOut": [
+      "薄皮で包まれた一口大の餃子が数個",
+      "醤油・黒酢・ラー油のタレ",
+      "蒸しは竹せいろ、焼きは鉄板盛り、茹では椀盛りが多い",
+      "調理法により異なる外観と食感"
+    ],
+    "tasteAndTexture": [
+      "もちもちした皮と肉汁あふれる具材",
+      "豚肉・ニラ・生姜の旨味",
+      "焼きは底面が香ばしく、蒸し・茹ではしっとり柔らか",
+      "タレの黒酢・ラー油がアクセント"
+    ],
+    "orderAdvice": "定番の点心。焼き・蒸し・茹でで食感が大きく異なるので調理法を確認。小籠包やワンタンとは別物なので混同注意。",
+    "caution": "小麦・豚肉を含む。海老入りの場合は甲殻類アレルギーも確認。",
+    "similarItems": [
+      {
+        "id": "xiaolongbao",
+        "name": "小籠包",
+        "difference": "皮の中にスープが封入。食べ方に作法があり食べ応えも大きい"
+      },
+      {
+        "id": "wonton",
+        "name": "ワンタン",
+        "difference": "皮が薄く小ぶり。主にスープに入れて提供"
+      },
+      {
+        "id": "manti",
+        "name": "マントゥ",
+        "difference": "中央アジア版。羊肉が多く蒸して酸味ソースで食べる"
+      },
+      {
+        "id": "pierogi",
+        "name": "ピエロギ",
+        "difference": "東欧版。ジャガイモ・チーズ・肉の具材で茹でて仕上げる"
+      }
+    ],
+    "relatedIds": [
+      "wonton",
+      "xiaolongbao",
+      "pierogi",
+      "pelmeni",
+      "ravioli",
+      "manti",
+      "khinkali",
+      "spring-roll",
+      "baozi",
+      "chuchvara",
+      "enban-gyoza"
+    ],
+    "tags": [
+      "中国料理",
+      "点心",
+      "豚肉",
+      "小麦",
+      "蒸し料理",
+      "もちもち",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "小麦不可",
+      "豚肉不可",
+      "包み料理不可",
+      "軽い料理",
+      "魚介中心"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/dumpling/1.jpg",
+      "/images/dishes/dumpling/2.jpg",
+      "/images/dishes/dumpling/3.jpg"
+    ]
+  },
+  {
+    "id": "blini",
+    "name": "ブリヌイ",
+    "kana": "ぶりぬい",
+    "aliases": [
+      "ブリン",
+      "Blini",
+      "ロシアンパンケーキ"
+    ],
+    "englishName": "Blini",
+    "originalName": "Блины (Bliny)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ロシア"
+      },
+      {
+        "area": "東ヨーロッパ"
+      }
+    ],
+    "summary": "イースト発酵の薄い生地を焼いたロシアのパンケーキ。サワークリーム、キャビア、スモークサーモン、ジャムなどと合わせて食べる。",
+    "menuDescription": "ロシア伝統の薄焼きパンケーキ。ほんのり酸味ある発酵生地をバターで焼き上げ、サワークリームやキャビア、スモークサーモンを添えてご提供します。",
+    "whatComesOut": [
+      "薄い円形の発酵パンケーキが数枚",
+      "サワークリーム（スメタナ）が添えられる",
+      "トッピングにキャビア・スモークサーモン・ジャム等",
+      "バターが塗られていることも多い"
+    ],
+    "tasteAndTexture": [
+      "ふわっとしつつ薄くしっとりした食感",
+      "イースト発酵由来のほのかな酸味",
+      "バターの香ばしさ",
+      "トッピングにより塩味系・甘味系で大きく変わる"
+    ],
+    "orderAdvice": "トッピング内容を確認して選ぶ。キャビアや高級食材添えは価格が跳ね上がることあり。甘味系ならジャム添えが手頃で食べやすい。",
+    "caution": "小麦・卵・乳製品を含む。キャビア添えの場合は魚卵アレルギーも確認。",
+    "similarItems": [
+      {
+        "id": "crepe",
+        "name": "クレープ",
+        "difference": "フランス版の薄焼きパンケーキ。イースト不使用で生地の酸味がなく、より薄い"
+      },
+      {
+        "id": "galette",
+        "name": "ガレット",
+        "difference": "そば粉使用のフランス薄焼き。グルテンフリーで食感が異なる"
+      },
+      {
+        "id": "piroshki",
+        "name": "ピロシキ",
+        "difference": "ロシアの揚げパン。包み料理で持ち運べる形状が違う"
+      }
+    ],
+    "relatedIds": [
+      "crepe",
+      "galette",
+      "piroshki",
+      "pelmeni",
+      "borscht",
+      "gravlax",
+      "smoked_salmon",
+      "caviar"
+    ],
+    "tags": [
+      "ロシア料理",
+      "前菜",
+      "小麦",
+      "卵",
+      "焼き物",
+      "ふわふわ"
+    ],
+    "reverseKeywords": [
+      "小麦不可",
+      "乳製品不可",
+      "重い食事希望",
+      "肉料理希望",
+      "ピリ辛"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/blini/1.jpg",
+      "/images/dishes/blini/2.jpg",
+      "/images/dishes/blini/3.jpg"
+    ]
   }
 ]
