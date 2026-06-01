@@ -3,8 +3,10 @@ import { DishCard } from "../components/features/DishCard"
 import { FavoriteRelated } from "../components/features/FavoriteRelated"
 import { SearchBox } from "../components/features/SearchBox"
 import dishes from "../data/dishes.json"
+import articlesData from "../data/articles.json"
 import { categoryPath } from "../lib/taxonomy"
 import type { DishItem } from "../types/dish"
+import type { Article } from "../types/article"
 
 const POPULAR_IDS = [
   "confit",
@@ -26,6 +28,11 @@ const CATEGORIES = [
 const popularDishes = POPULAR_IDS.map((id) =>
   (dishes as DishItem[]).find((d) => d.id === id),
 ).filter(Boolean) as DishItem[]
+
+const latestArticles = (articlesData as Article[])
+  .slice()
+  .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
+  .slice(0, 3)
 
 const websiteJsonLd = {
   "@context": "https://schema.org",
@@ -100,6 +107,53 @@ export default function TopPage() {
       </div>
 
       <FavoriteRelated allDishes={dishes as DishItem[]} />
+
+      {latestArticles.length > 0 && (
+        <section style={{ marginBottom: "2rem" }}>
+          <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: "0.75rem" }}>
+            <h2 style={{ fontSize: "0.875rem", color: "#aaa", fontWeight: 600 }}>読みもの</h2>
+            <Link
+              href="/articles/"
+              style={{ fontSize: "0.75rem", color: "#b45309", textDecoration: "none" }}
+            >
+              すべて見る →
+            </Link>
+          </div>
+          <div style={{ display: "flex", flexDirection: "column", gap: "0.625rem" }}>
+            {latestArticles.map((article) => (
+              <Link
+                key={article.slug}
+                href={`/articles/${article.slug}/`}
+                style={{ textDecoration: "none", color: "inherit" }}
+              >
+                <div
+                  style={{
+                    background: "#faf7f2",
+                    border: "1px solid #e8ddd0",
+                    borderRadius: "0.5rem",
+                    padding: "0.75rem 1rem",
+                  }}
+                >
+                  <p style={{ fontSize: "0.65rem", color: "#a89080", marginBottom: "0.25rem" }}>
+                    {article.publishedAt}
+                  </p>
+                  <p style={{ fontSize: "0.9375rem", fontWeight: 700, color: "#2d1f0e", marginBottom: "0.25rem", lineHeight: 1.35 }}>
+                    {article.title}
+                    {article.subtitle && (
+                      <span style={{ color: "#7a6655", fontWeight: 400, fontSize: "0.875rem" }}>
+                        {" "}——{article.subtitle}
+                      </span>
+                    )}
+                  </p>
+                  <p style={{ fontSize: "0.8rem", color: "#7a6655", margin: 0, lineHeight: 1.55 }}>
+                    {article.description}
+                  </p>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
 
       <section style={{ marginBottom: "2rem" }}>
         <h2 style={{ fontSize: "0.875rem", color: "#aaa", marginBottom: "1rem", fontWeight: 600 }}>

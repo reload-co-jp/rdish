@@ -2,12 +2,15 @@ export const dynamic = "force-static"
 
 import type { MetadataRoute } from "next"
 import dishes from "../data/dishes.json"
+import articles from "../data/articles.json"
 import { totalPages } from "../components/features/DishesPageContent"
 import { categoryItems, countryItems, tagItems } from "../lib/taxonomy"
 import type { DishItem } from "../types/dish"
+import type { Article } from "../types/article"
 
 const SITE_URL = "https://rdish.reload.co.jp"
 const allDishes = dishes as DishItem[]
+const allArticles = articles as Article[]
 
 const page = (
   path: string,
@@ -54,9 +57,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }))
 
+  const articleUrls = allArticles.map((article) => ({
+    url: `${SITE_URL}/articles/${article.slug}/`,
+    lastModified: new Date(article.publishedAt),
+    changeFrequency: "monthly" as const,
+    priority: 0.75,
+  }))
+
   return [
     page("/", "weekly", 1.0),
     page("/dishes/", "weekly", 0.8),
+    page("/articles/", "monthly", 0.7),
     ...paginatedUrls,
     page("/reverse/", "monthly", 0.7),
     page("/countries/", "monthly", 0.7),
@@ -65,5 +76,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...countryUrls,
     ...dishUrls,
     ...tagUrls,
+    ...articleUrls,
   ]
 }

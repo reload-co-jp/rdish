@@ -53592,5 +53592,416 @@
     "heavinessScore": 1,
     "spicinessScore": 2,
     "images": []
+  },
+  {
+    "id": "jiaozi",
+    "name": "ジャオズ",
+    "kana": "じゃおず",
+    "aliases": [
+      "饺子",
+      "水餃子",
+      "中国餃子"
+    ],
+    "englishName": "Jiaozi",
+    "originalName": "饺子 (Jiǎozi)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "薄い小麦粉生地に豚肉・白菜・ニラなどを包み茹でる・蒸す・焼くいずれかで仕上げる中国の包み料理。春節に家族で作る伝統があり、水餃子が原形。",
+    "menuDescription": "豚肉や野菜を小麦粉の皮で包んだ中国の餃子。茹で（水餃子）・蒸し・焼き（鍋貼）があり、醤油・酢・ラー油のタレで食べる。",
+    "whatComesOut": [
+      "薄い皮に包まれた餃子（1人前6〜10個程度）",
+      "醤油・酢・ラー油のタレ",
+      "茹で・蒸し・焼きのいずれか"
+    ],
+    "tasteAndTexture": [
+      "もちもちした皮と豚肉のジューシーな旨み",
+      "ニラや白菜の香りと甘み",
+      "焼き（鍋貼）はパリッとした底面とジューシーな内部のコントラスト",
+      "醤油・酢タレが全体を引き締める"
+    ],
+    "orderAdvice": "日本の焼き餃子と近いが中国では水餃子が主役。にんにくは控えめなことが多く食後の匂いが気になる人にも向く。",
+    "caution": "小麦アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "dumpling",
+        "name": "ダンプリング",
+        "difference": "ダンプリングは英語メニューでの呼称で包み料理全般を指す。ジャオズは中国語の固有名称で主に中国式の餃子を指す"
+      },
+      {
+        "id": "wonton",
+        "name": "ワンタン",
+        "difference": "ワンタンは極薄の皮でひだなしに包みスープに入れる。ジャオズはひだを寄せて閉じ単体でも食べる"
+      },
+      {
+        "id": "baozi",
+        "name": "包子",
+        "difference": "包子は発酵させたふわふわ生地。ジャオズは発酵なし薄い生地"
+      }
+    ],
+    "relatedIds": [
+      "dumpling",
+      "wonton",
+      "xiaolongbao",
+      "baozi",
+      "enban-gyoza",
+      "manti",
+      "khinkali",
+      "pierogi",
+      "pelmeni"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "豚肉",
+      "煮込み",
+      "ジューシー",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "揚げ物希望",
+      "こってりソース",
+      "肉なし",
+      "甘いデザート",
+      "サラダ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/jiaozi/1.jpg",
+      "/images/dishes/jiaozi/2.jpg",
+      "/images/dishes/jiaozi/3.jpg"
+    ]
+  },
+  {
+    "id": "varenyky",
+    "name": "ヴァレニキ",
+    "kana": "ゔぁれにき",
+    "aliases": [
+      "ヴァレーニキ",
+      "バレニキ"
+    ],
+    "englishName": "Varenyky",
+    "originalName": "Вареники",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウクライナ"
+      }
+    ],
+    "summary": "じゃがいも・チーズ・キャベツ・サクランボなど多彩な具材を包んだウクライナの茹で餃子。ピエロギより大きく具のバリエーションが広く、甘い具のデザート版もある。",
+    "menuDescription": "小麦粉生地に様々な具を包み茹でたウクライナの伝統料理。じゃがいも＋チーズが定番で、炒め玉ねぎ・サワークリームを添えて食べる。",
+    "whatComesOut": [
+      "半月形の茹で餃子（1人前5〜8個）",
+      "炒めた玉ねぎ",
+      "サワークリーム",
+      "具によってはバター"
+    ],
+    "tasteAndTexture": [
+      "もちもちとした厚めの皮",
+      "じゃがいも＋チーズのほくほくしたクリーミーな具",
+      "サワークリームの軽い酸味が全体を引き締める",
+      "甘い具（サクランボ）版はデザートに近い"
+    ],
+    "orderAdvice": "具のバリエーションが多いので何が入るか確認を。肉なし版もあり野菜・乳製品が好きなら合う。",
+    "caution": "具によって肉・乳製品・果物が異なる。注文前に確認を。",
+    "similarItems": [
+      {
+        "id": "pierogi",
+        "name": "ピエロギ",
+        "difference": "ピエロギはポーランド版で茹でた後バターで焼く工程が多い。ヴァレニキはウクライナ版で茹でのみが多い"
+      },
+      {
+        "id": "pelmeni",
+        "name": "ペリメニ",
+        "difference": "ペリメニは肉のみの具で小さい。ヴァレニキは野菜・チーズ・果物など幅広い具でやや大きい"
+      },
+      {
+        "id": "manti",
+        "name": "マントゥ",
+        "difference": "マントゥは中央アジアの蒸し餃子で肉が主体。ヴァレニキは茹でで野菜系の具も多い"
+      }
+    ],
+    "relatedIds": [
+      "pierogi",
+      "pelmeni",
+      "manti",
+      "dumpling"
+    ],
+    "tags": [
+      "ウクライナ料理",
+      "主菜",
+      "野菜",
+      "煮込み",
+      "クリーミー",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "揚げ物希望",
+      "ピリ辛",
+      "魚介希望",
+      "サラダ",
+      "洋食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/varenyky/1.jpg",
+      "/images/dishes/varenyky/2.jpg",
+      "/images/dishes/varenyky/3.jpg"
+    ]
+  },
+  {
+    "id": "momo",
+    "name": "モモ",
+    "kana": "もも",
+    "aliases": [],
+    "englishName": "Momo",
+    "originalName": "मम",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ネパール"
+      },
+      {
+        "country": "チベット"
+      }
+    ],
+    "summary": "ネパール・チベット発祥の蒸し餃子。薄い小麦粉生地に水牛肉・鶏肉・野菜を包み、辛いトマトベースのアチャールと共に食べる。",
+    "menuDescription": "ネパールの蒸し餃子。薄い皮にひき肉・玉ねぎ・ショウガ・コリアンダーを包み蒸したもの。辛いトマトソース（アチャール）が添えられる。揚げ版（フライドモモ）もある。",
+    "whatComesOut": [
+      "蒸した餃子（1人前6〜10個）",
+      "辛いトマトベースのアチャール（必須）",
+      "揚げ版（フライドモモ）の場合はカリッとした外皮"
+    ],
+    "tasteAndTexture": [
+      "薄くもちもちした皮と肉の旨み",
+      "ショウガ・コリアンダーの爽やかな香り",
+      "アチャールの強い酸味と辛味がアクセント",
+      "フライドモモはサクサクした食感"
+    ],
+    "orderAdvice": "アチャールが辛いので辛いもの好きに向く。辛さが苦手なら別添えで注文できるか確認を。ネパール料理店の看板メニュー。",
+    "caution": "アチャールは辛いことが多い。パクチーが入る場合あり。",
+    "similarItems": [
+      {
+        "id": "dumpling",
+        "name": "ダンプリング",
+        "difference": "ダンプリングは中国系の包み料理全般。モモはネパール・チベット固有でスパイスの使い方がインド式"
+      },
+      {
+        "id": "manti",
+        "name": "マントゥ",
+        "difference": "マントゥは中央アジアの蒸し餃子でヨーグルトソース添え。モモは辛いトマトアチャールが必須"
+      },
+      {
+        "id": "samosa",
+        "name": "サモサ",
+        "difference": "サモサは三角形の揚げ包み料理。モモは蒸しが基本で丸みのある形"
+      }
+    ],
+    "relatedIds": [
+      "dumpling",
+      "manti",
+      "khinkali",
+      "samosa",
+      "pakuchi",
+      "chuchvara"
+    ],
+    "tags": [
+      "アジア料理",
+      "主菜",
+      "鶏肉",
+      "蒸し料理",
+      "ピリ辛",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "辛いもの不可",
+      "パクチー不可",
+      "あっさり希望",
+      "洋食希望",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/momo/1.jpg",
+      "/images/dishes/momo/2.jpg",
+      "/images/dishes/momo/3.jpg"
+    ]
+  },
+  {
+    "id": "tortellini",
+    "name": "トルテッリーニ",
+    "kana": "とるてっりーに",
+    "aliases": [
+      "トルテッリ"
+    ],
+    "englishName": "Tortellini",
+    "originalName": "Tortellini",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "豚肉・プロシュット・パルミジャーノを包んだイタリア・エミリア＝ロマーニャ州発祥の環状パスタ。ブロード（澄ましスープ）で食べるのが伝統的で、クリームソースを合わせることもある。",
+    "menuDescription": "豚肉・プロシュットなどを詰めた小さな環状のパスタ。チキンブロードで煮て食べるのが正統派。クリームソース和えも広く食べられる。",
+    "whatComesOut": [
+      "小さなヘソ形の詰め物パスタ",
+      "ブロード（ブイヨンスープ）またはクリームソース",
+      "パルミジャーノ・レッジャーノ"
+    ],
+    "tasteAndTexture": [
+      "弾力のある卵パスタ生地",
+      "豚肉・プロシュットの塩気と旨みが凝縮した具",
+      "ブロード版は上品であっさり、クリーム版はリッチでこってり",
+      "一口サイズで具とパスタのバランスが良い"
+    ],
+    "orderAdvice": "スープ仕立てかソース仕立てかで印象が大きく変わる。ブロード版はあっさり上品、クリーム版はこってり。",
+    "caution": "小麦・卵アレルギーに注意。豚肉が入る。",
+    "similarItems": [
+      {
+        "id": "ravioli",
+        "name": "ラビオリ",
+        "difference": "ラビオリは四角い詰め物パスタでソース和えが主流。トルテッリーニは環状でブロード（スープ）で食べることが多い"
+      },
+      {
+        "id": "gnocchi",
+        "name": "ニョッキ",
+        "difference": "ニョッキはじゃがいも生地の小塊。トルテッリーニは薄い卵パスタに具を包んだ"
+      },
+      {
+        "id": "pelmeni",
+        "name": "ペリメニ",
+        "difference": "ペリメニはロシアの茹で餃子でサワークリーム添え。トルテッリーニはイタリアのパスタ料理"
+      }
+    ],
+    "relatedIds": [
+      "ravioli",
+      "gnocchi",
+      "pelmeni",
+      "lasagna",
+      "tagliatelle",
+      "pappardelle",
+      "parmigiano",
+      "bouillon",
+      "ricotta"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "豚肉",
+      "煮込み",
+      "こってり",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "グルテン不可",
+      "肉なし希望",
+      "あっさり希望",
+      "米料理希望",
+      "辛いもの希望"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tortellini/1.jpg",
+      "/images/dishes/tortellini/2.jpg",
+      "/images/dishes/tortellini/3.jpg"
+    ]
+  },
+  {
+    "id": "kreplach",
+    "name": "クレプラッハ",
+    "kana": "くれぷらっは",
+    "aliases": [
+      "クレプラフ"
+    ],
+    "englishName": "Kreplach",
+    "originalName": "קרעפלעך",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ポーランド"
+      },
+      {
+        "country": "ロシア"
+      }
+    ],
+    "summary": "アシュケナージ系ユダヤ料理の茹で餃子。牛ひき肉・鶏肉を包んでチキンスープに入れるか揚げて食べる。ヨム・キプル（贖罪の日）などの節目に食べる伝統がある。",
+    "menuDescription": "ユダヤ料理の詰め物生地料理。牛肉や鶏肉を包みチキンスープの中に入れたもの、または揚げたもの。安息日や宗教的行事に食べる伝統食。",
+    "whatComesOut": [
+      "茹でた詰め物生地（スープの中）または揚げたもの",
+      "チキンスープ（スープ版の場合）",
+      "玉ねぎ炒めやサワークリームを添えることもある"
+    ],
+    "tasteAndTexture": [
+      "もちもちとした生地と肉の旨み",
+      "チキンスープとの組み合わせで温かみのある味",
+      "揚げ版はサクサクした外皮と肉汁",
+      "あっさりとした素朴な風味"
+    ],
+    "orderAdvice": "ユダヤ料理レストランでの特別な体験として。スープ仕立てで出る場合は一品料理というよりスープの一部として楽しむ。",
+    "caution": "ユダヤの食事規定（コシェル）に従い乳製品と肉を同時に提供しないことが多い。",
+    "similarItems": [
+      {
+        "id": "pelmeni",
+        "name": "ペリメニ",
+        "difference": "ペリメニはロシアの茹で餃子でサワークリーム添え。クレプラッハは宗教的行事と結びついたユダヤ料理"
+      },
+      {
+        "id": "wonton",
+        "name": "ワンタン",
+        "difference": "ワンタンは中国のスープ餃子。クレプラッハはユダヤ文化圏で発展した類似構造の料理"
+      },
+      {
+        "id": "pierogi",
+        "name": "ピエロギ",
+        "difference": "ピエロギはポーランドの茹で餃子で具が幅広い。クレプラッハは肉が主体でユダヤの食規定に沿う"
+      }
+    ],
+    "relatedIds": [
+      "pelmeni",
+      "wonton",
+      "pierogi",
+      "dumpling",
+      "manti"
+    ],
+    "tags": [
+      "東欧料理",
+      "主菜",
+      "牛肉",
+      "煮込み",
+      "あっさり",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "豚肉希望",
+      "乳製品希望",
+      "ピリ辛",
+      "揚げ物希望",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kreplach/1.jpg",
+      "/images/dishes/kreplach/2.jpg",
+      "/images/dishes/kreplach/3.jpg"
+    ]
   }
 ]
