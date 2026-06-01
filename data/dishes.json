@@ -53245,5 +53245,87 @@
       "/images/dishes/yaki-nasu/2.jpg",
       "/images/dishes/yaki-nasu/3.jpg"
     ]
+  },
+  {
+    "id": "pani-puri",
+    "name": "パニプリ",
+    "kana": "ぱにぷり",
+    "aliases": [
+      "ゴルガッパ",
+      "プーチカ",
+      "ゴルガッペ"
+    ],
+    "englishName": "Pani puri",
+    "originalName": "पानी पूरी",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インド",
+        "locality": "北インド・西インド"
+      }
+    ],
+    "summary": "小麦粉や米粉で作った薄くて丸い揚げ菓子（プリ）に穴を開け、スパイス入りのタマリンド水やミント水を注いで一口で食べるインドの定番ストリートフード。",
+    "menuDescription": "一口サイズの中空の揚げ球。穴を開けてスパイス水やひよこ豆・マッシュポテトを詰め、タマリンドのすっぱ辛い水とともに一気に食べる。",
+    "whatComesOut": [
+      "乒乓球大の薄い中空の揚げ球（プリ）が数個",
+      "タマリンドやミントのスパイス水（パニ）",
+      "ひよこ豆やマッシュポテトの詰め物",
+      "チャツネやマサラの小皿"
+    ],
+    "tasteAndTexture": [
+      "パリッとした薄い揚げ生地が口の中で割れる",
+      "酸味・辛味・甘みが一度に広がる",
+      "スパイス水の爽快なミントとタマリンドの酸味",
+      "詰め物のホクホクした食感"
+    ],
+    "orderAdvice": "一口で食べ切るのがルール。酸味・辛味・炭酸感が苦手なら合わない。ストリートフードとして数個セットで提供されることが多い。",
+    "caution": "辛さは店によって大きく異なる。生水使用の屋台では衛生面に注意。",
+    "similarItems": [
+      {
+        "id": "samosa",
+        "name": "サモサ",
+        "difference": "サモサは三角形の揚げ包み。パニプリは球形でスパイス水を注いで食べる"
+      },
+      {
+        "id": "chutney",
+        "name": "チャツネ",
+        "difference": "チャツネはパニプリのパニ（水）やトッピングに使うソース。単体では主役にならない"
+      },
+      {
+        "id": "kanda-bhaji",
+        "name": "カンダバジ",
+        "difference": "カンダバジは玉ねぎの揚げ物スナック。パニプリは中空で液体を注いで食べる点が異なる"
+      }
+    ],
+    "relatedIds": [
+      "samosa",
+      "chutney",
+      "dal",
+      "pithla",
+      "raita"
+    ],
+    "tags": [
+      "インド料理",
+      "軽食",
+      "小麦",
+      "揚げ物",
+      "ピリ辛",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "酸味が苦手",
+      "辛いもの不可",
+      "ボリュームある主食",
+      "甘いデザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/pani-puri/1.jpg",
+      "/images/dishes/pani-puri/2.jpg",
+      "/images/dishes/pani-puri/3.jpg"
+    ]
   }
 ]
