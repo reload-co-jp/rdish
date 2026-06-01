@@ -8434,8 +8434,8 @@
         "difference": "ダルは豆の煮込みやスープ。ダルキチュリは米と豆を一緒に炊く主食"
       },
       {
-        "id": "kanda-bhaji-pithla",
-        "name": "カンダバジ ピトラ",
+        "id": "pithla",
+        "name": "ピトラ",
         "difference": "ダルは豆そのものを煮る。ピトラはひよこ豆粉を溶いて煮るため、よりなめらかで粉の風味が出る"
       }
     ],
@@ -49026,9 +49026,14 @@
         "difference": "パラタは油脂感と層がある。バクリは油脂控えめで粉の風味が中心"
       },
       {
-        "id": "kanda-bhaji-pithla",
-        "name": "カンダバジ ピトラ",
-        "difference": "バクリは主食の平パン。カンダバジ ピトラはその横に合わせる揚げ物と豆粉料理"
+        "id": "kanda-bhaji",
+        "name": "カンダバジ",
+        "difference": "バクリは主食の平パン。カンダバジは合わせる揚げ物スナック"
+      },
+      {
+        "id": "pithla",
+        "name": "ピトラ",
+        "difference": "バクリは主食の平パン。ピトラはつけて食べる豆粉料理"
       }
     ],
     "relatedIds": [
@@ -49037,7 +49042,8 @@
       "paratha",
       "dal",
       "vangyacha-bharit",
-      "kanda-bhaji-pithla",
+      "kanda-bhaji",
+      "pithla",
       "chutney"
     ],
     "tags": [
@@ -49149,19 +49155,14 @@
     "images": []
   },
   {
-    "id": "kanda-bhaji-pithla",
-    "name": "カンダバジ ピトラ",
-    "kana": "かんだばじぴとら",
+    "id": "kanda-bhaji",
+    "name": "カンダバジ",
+    "kana": "かんだばじ",
     "aliases": [
-      "カンダバジ・ピトラ",
-      "カンダバジ",
-      "カンダバジー",
-      "ピトラ",
-      "ピトゥラ",
-      "ピトラバクリ"
+      "カンダバジー"
     ],
-    "englishName": "Kanda bhaji and pithla",
-    "originalName": "कांदा भजी / पिठलं",
+    "englishName": "Kanda bhaji",
+    "originalName": "कांदा भजी",
     "category": "料理",
     "regions": [
       {
@@ -49169,67 +49170,136 @@
         "locality": "マハラシュトラ"
       }
     ],
-    "summary": "玉ねぎのスパイス衣揚げカンダバジと、ひよこ豆粉を煮たピトラを組み合わせるマハラシュトラ系の素朴な食事。バクリやチャパティと相性がよい。",
-    "menuDescription": "玉ねぎの揚げ物と、黄色い豆粉カレーの組み合わせ。香ばしい揚げ物、なめらかなピトラ、バクリ系の主食を一緒に食べる。",
+    "summary": "玉ねぎをひよこ豆粉のスパイス衣で揚げたマハラシュトラ州の定番スナック。外がカリッと香ばしく、ピトラやチャツネと合わせて食べることが多い。",
+    "menuDescription": "玉ねぎのかき揚げ風揚げ物。外がカリッと香ばしく、玉ねぎの甘みとスパイスの香りが広がる。",
     "whatComesOut": [
       "玉ねぎのかき揚げ風スナック",
-      "ひよこ豆粉を煮た黄色いピトラ",
-      "青唐辛子やスパイスの香り",
-      "バクリ、チャパティ、チャツネなどの添え物"
+      "ひよこ豆粉とスパイスの衣",
+      "青唐辛子やコリアンダーの香り"
     ],
     "tasteAndTexture": [
-      "カンダバジは外がカリッと香ばしい",
+      "外がカリッと香ばしい",
       "玉ねぎの甘みと軽い辛味",
-      "ピトラはとろっとなめらか",
-      "豆粉の素朴なコクとスパイス香"
+      "豆粉衣の素朴なコク"
     ],
-    "orderAdvice": "軽い揚げ物も豆粉カレーも食べたい時向き。バクリやチャパティと一緒なら満足感が出る。",
-    "caution": "カンダバジは揚げ物で油分がある。ピトラは青唐辛子やにんにくが効く場合あり。",
+    "orderAdvice": "軽い揚げ物スナックとして単体でも、ピトラやバクリと組み合わせても満足感がある。",
+    "caution": "揚げ物で油分がある。青唐辛子入りのものは辛めになることあり。",
     "similarItems": [
       {
         "name": "パコラ",
-        "difference": "パコラは野菜などの衣揚げ全般。カンダバジは玉ねぎ中心で、ここではピトラと組み合わせる"
+        "difference": "パコラは野菜などの衣揚げ全般。カンダバジは玉ねぎ中心"
       },
       {
-        "id": "dal",
-        "name": "ダル",
-        "difference": "ダルは豆そのものを煮る。ピトラはひよこ豆粉を溶いて煮るため、よりなめらかで粉の風味が出る"
+        "id": "pithla",
+        "name": "ピトラ",
+        "difference": "ピトラはひよこ豆粉を煮た料理。カンダバジとセットで食べることが多い"
       },
       {
         "id": "bhakri",
         "name": "バクリ",
-        "difference": "バクリは主食の平パン。カンダバジ ピトラはその横に合わせる揚げ物と豆粉料理"
+        "difference": "バクリは主食の平パン。カンダバジの揚げ物と合わせて食べる"
       }
     ],
     "relatedIds": [
-      "chapati",
+      "pithla",
       "bhakri",
-      "vangyacha-bharit",
-      "dal",
+      "chapati",
       "chutney",
-      "achar",
-      "mustard-seed",
-      "turmeric"
+      "dal"
     ],
     "tags": [
       "インド料理",
-      "主菜",
+      "前菜",
       "野菜",
-      "豆",
+      "豆類",
       "揚げ物",
       "ピリ辛",
       "香ばしい"
     ],
     "reverseKeywords": [
       "揚げ物なし",
-      "玉ねぎ不可",
+      "玉ねぎ不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "pithla",
+    "name": "ピトラ",
+    "kana": "ぴとら",
+    "aliases": [
+      "ピトゥラ",
+      "ピトラバクリ"
+    ],
+    "englishName": "Pithla",
+    "originalName": "पिठलं",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インド",
+        "locality": "マハラシュトラ"
+      }
+    ],
+    "summary": "ひよこ豆粉を水やスパイスで溶いて煮たマハラシュトラ州の伝統的な豆粉料理。とろっとなめらかな食感で、バクリやチャパティと合わせて食べる。",
+    "menuDescription": "黄色い豆粉カレー。ひよこ豆粉のとろとろした食感にスパイスと青唐辛子の香りが合わさる。",
+    "whatComesOut": [
+      "ひよこ豆粉を煮た黄色いとろとろの料理",
+      "青唐辛子やスパイスの香り",
+      "バクリやチャパティの添え"
+    ],
+    "tasteAndTexture": [
+      "とろっとなめらか",
+      "豆粉の素朴なコクとスパイス香",
+      "青唐辛子の辛味"
+    ],
+    "orderAdvice": "バクリやチャパティと一緒に食べると満足感が出る。カンダバジと合わせるのが定番。",
+    "caution": "青唐辛子やにんにくが効く場合あり。",
+    "similarItems": [
+      {
+        "id": "dal",
+        "name": "ダル",
+        "difference": "ダルは豆そのものを煮る。ピトラはひよこ豆粉を溶いて煮るため、よりなめらかで粉の風味が出る"
+      },
+      {
+        "id": "kanda-bhaji",
+        "name": "カンダバジ",
+        "difference": "カンダバジは玉ねぎの揚げ物。ピトラと組み合わせて食べることが多い"
+      },
+      {
+        "id": "bhakri",
+        "name": "バクリ",
+        "difference": "バクリは主食の平パン。ピトラをつけながら食べる"
+      }
+    ],
+    "relatedIds": [
+      "kanda-bhaji",
+      "bhakri",
+      "chapati",
+      "dal",
+      "chutney",
+      "vangyacha-bharit",
+      "mustard-seed",
+      "turmeric"
+    ],
+    "tags": [
+      "インド料理",
+      "主菜",
+      "豆類",
+      "煮込み",
+      "こってり",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
       "豆粉不可",
       "あっさりサラダ",
       "甘いデザート"
     ],
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 4,
-    "heavinessScore": 3,
+    "heavinessScore": 2,
     "spicinessScore": 2,
     "images": []
   },
