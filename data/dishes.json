@@ -54003,5 +54003,1197 @@
       "/images/dishes/kreplach/2.jpg",
       "/images/dishes/kreplach/3.jpg"
     ]
+  },
+  {
+    "id": "farikal",
+    "name": "フォーリコール",
+    "kana": "ふぉーりこーる",
+    "aliases": [
+      "ファーリコール",
+      "フォーリカール"
+    ],
+    "englishName": "Farikal",
+    "originalName": "Fårikål",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ノルウェー"
+      }
+    ],
+    "summary": "羊肉とキャベツを粒胡椒で煮込むノルウェーの家庭料理。秋の定番で、じゃがいもを添えて食べることが多い。",
+    "menuDescription": "骨付き羊肉とキャベツを重ね、粒胡椒と少量の水でじっくり煮た素朴な煮込み。北欧らしい穏やかな旨みの主菜。",
+    "whatComesOut": [
+      "羊肉とキャベツの煮込み",
+      "茹でじゃがいも",
+      "粒胡椒入りの澄んだ煮汁"
+    ],
+    "tasteAndTexture": [
+      "羊肉の脂とキャベツの甘み",
+      "粒胡椒の穏やかな香り",
+      "肉はほろりと柔らかい",
+      "味付けは塩主体で素朴"
+    ],
+    "orderAdvice": "羊肉の香りが好きなら本命。北欧料理店やノルウェー料理イベントで、寒い季節の煮込みとして選ぶとよい。",
+    "caution": "骨付き肉で出ることが多い。羊肉特有の香りが苦手な人は避けた方がよい。",
+    "similarItems": [
+      {
+        "id": "pot-au-feu",
+        "name": "ポトフ",
+        "difference": "ポトフは牛肉や野菜を煮るフランス料理。フォーリコールは羊肉とキャベツに絞ったノルウェー料理"
+      },
+      {
+        "id": "cassoulet",
+        "name": "カスレ",
+        "difference": "カスレは豆と肉の濃厚な煮込み。フォーリコールはキャベツ主体でより素朴"
+      },
+      {
+        "id": "lamb",
+        "name": "ラム",
+        "difference": "ラムは羊肉そのもの。フォーリコールは羊肉をキャベツと煮込む料理"
+      }
+    ],
+    "relatedIds": [
+      "pot-au-feu",
+      "cassoulet",
+      "lamb"
+    ],
+    "tags": [
+      "ノルウェー料理",
+      "主菜",
+      "羊肉",
+      "野菜",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "羊肉苦手",
+      "魚料理希望",
+      "スパイシー",
+      "揚げ物希望",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/farikal/1.jpg",
+      "/images/dishes/farikal/2.jpg"
+    ]
+  },
+  {
+    "id": "bacalhau",
+    "name": "バカラオ",
+    "kana": "ばからお",
+    "aliases": [
+      "バカリャウ",
+      "バカラウ",
+      "干しダラ"
+    ],
+    "englishName": "Bacalhau",
+    "originalName": "Bacalhau",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "ポルトガル"
+      },
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "塩漬けにして乾燥させたタラ、またはそれを使う料理の総称。水で戻して焼く、煮る、揚げるなど多様に調理される。",
+    "menuDescription": "塩干しダラを戻して使うイベリアの定番食材。ポルトガル料理ではグラタン、コロッケ、煮込み、炒め物など幅広い形で出る。",
+    "whatComesOut": [
+      "戻した塩ダラの身",
+      "じゃがいもや玉ねぎとの煮込み・焼き物",
+      "コロッケ状の前菜で出ることもある"
+    ],
+    "tasteAndTexture": [
+      "凝縮した魚の旨みと塩気",
+      "繊維感のあるほぐれる身",
+      "オリーブオイルやにんにくと相性がよい",
+      "料理によりクリーミーにも香ばしくもなる"
+    ],
+    "orderAdvice": "ポルトガル料理店で魚介の定番を試したい時に。塩気が強い場合があるため、ワインやパン、じゃがいもと合わせると食べやすい。",
+    "caution": "塩抜き具合により塩気が強い。タラの乾物特有の香りがある。",
+    "similarItems": [
+      {
+        "id": "pil-pil",
+        "name": "ピルピル",
+        "difference": "ピルピルは干しダラをオリーブオイルで乳化させるバスク料理。バカラオは素材名・料理総称として広い"
+      },
+      {
+        "id": "marmitako",
+        "name": "マルミタコ",
+        "difference": "マルミタコはマグロとじゃがいもの煮込み。バカラオは塩干しダラが中心"
+      },
+      {
+        "id": "boquerones-vinagre",
+        "name": "ボケロネス・エン・ビナグレ",
+        "difference": "ボケロネスは酢漬けのカタクチイワシ。バカラオは塩干しダラで旨みが濃い"
+      }
+    ],
+    "relatedIds": [
+      "pil-pil",
+      "marmitako",
+      "boquerones-vinagre",
+      "boquerones-fritos"
+    ],
+    "tags": [
+      "ポルトガル料理",
+      "スペイン料理",
+      "魚介",
+      "塩漬け",
+      "主菜",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "減塩中",
+      "魚介苦手",
+      "生魚希望",
+      "肉料理希望",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bacalhau/1.jpg",
+      "/images/dishes/bacalhau/2.jpg",
+      "/images/dishes/bacalhau/3.jpg"
+    ]
+  },
+  {
+    "id": "rakfisk",
+    "name": "ラクフィスク",
+    "kana": "らくふぃすく",
+    "aliases": [
+      "ラケフィスク"
+    ],
+    "englishName": "Rakfisk",
+    "originalName": "Rakfisk",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "ノルウェー"
+      }
+    ],
+    "summary": "マスなどの淡水魚を塩漬けにして発酵させるノルウェーの伝統食。加熱せず、フラットブレッドやサワークリーム、玉ねぎと食べる。",
+    "menuDescription": "発酵させた魚を薄く切って食べる北欧の珍味。香りは強いが、脂と塩気、発酵の旨みを楽しむ料理。",
+    "whatComesOut": [
+      "発酵させた魚の切り身",
+      "フラットブレッドまたはじゃがいも",
+      "サワークリーム、玉ねぎ、ビーツなどの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "強い発酵香と魚の旨み",
+      "塩気と酸味を感じる",
+      "身はしっとり柔らかい",
+      "サワークリームで丸くなる味"
+    ],
+    "orderAdvice": "発酵食品や珍味が好きな人向け。初めてなら少量を前菜として、付け合わせと一緒に食べるのがよい。",
+    "caution": "香りが強く、加熱しない発酵魚。魚の発酵臭が苦手な人、妊娠中や免疫が弱い人は避ける方が安全。",
+    "similarItems": [
+      {
+        "id": "gravlax",
+        "name": "グラブラックス",
+        "difference": "グラブラックスは鮭を塩・砂糖・ディルで熟成。ラクフィスクは淡水魚を発酵させ香りが強い"
+      },
+      {
+        "id": "smoked_salmon",
+        "name": "スモークサーモン",
+        "difference": "スモークサーモンは燻製香が中心。ラクフィスクは発酵香と塩気が中心"
+      },
+      {
+        "id": "bottarga",
+        "name": "ボッタルガ",
+        "difference": "ボッタルガは魚卵の塩漬け乾燥品。ラクフィスクは魚の身を発酵させる"
+      }
+    ],
+    "relatedIds": [
+      "gravlax",
+      "smoked_salmon",
+      "bottarga"
+    ],
+    "tags": [
+      "ノルウェー料理",
+      "魚介",
+      "発酵",
+      "塩漬け",
+      "前菜",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "発酵臭苦手",
+      "魚介苦手",
+      "加熱料理希望",
+      "初心者向け",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/rakfisk/1.jpg",
+      "/images/dishes/rakfisk/2.jpg",
+      "/images/dishes/rakfisk/3.jpg"
+    ]
+  },
+  {
+    "id": "brunost",
+    "name": "ブルノスト",
+    "kana": "ぶるのすと",
+    "aliases": [
+      "ブラウンチーズ",
+      "イェトスト",
+      "ゲートオスト",
+      "Brunost"
+    ],
+    "englishName": "Brunost",
+    "originalName": "Brunost",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "ノルウェー"
+      }
+    ],
+    "summary": "乳清を煮詰めて作るノルウェーの茶色い乳製品。厳密にはチーズと少し異なり、キャラメルのような甘みと乳のコクが特徴。",
+    "menuDescription": "薄く削ってパンやワッフルにのせる北欧のブラウンチーズ。甘じょっぱく、キャラメルに近い乳の風味がある。",
+    "whatComesOut": [
+      "薄くスライスした茶色いチーズ状の乳製品",
+      "パン、クラッカー、ワッフルの添え物",
+      "ジャムやバターと合わせることもある"
+    ],
+    "tasteAndTexture": [
+      "キャラメルのような甘み",
+      "乳清由来のコク",
+      "ねっとりとした口どけ",
+      "塩気は穏やかで香ばしい"
+    ],
+    "orderAdvice": "北欧の朝食やカフェメニューで見かけたら試す価値あり。薄く削ってパンやワッフルと食べると特徴が分かりやすい。",
+    "caution": "一般的な塩味のチーズを想像すると甘く感じる。乳糖の甘みと独特の香りがある。",
+    "similarItems": [
+      {
+        "id": "chevre",
+        "name": "シェーブル",
+        "difference": "シェーブルは山羊乳チーズで酸味が特徴。ブルノストは乳清を煮詰めた甘い茶色の乳製品"
+      },
+      {
+        "id": "gruyere-cheese",
+        "name": "グリュイエールチーズ",
+        "difference": "グリュイエールは熟成チーズでナッツ香と塩気。ブルノストはキャラメル状の甘みが強い"
+      },
+      {
+        "id": "raclette",
+        "name": "ラクレット",
+        "difference": "ラクレットは溶かして食べる塩味のチーズ。ブルノストは薄く削って甘じょっぱく食べる"
+      }
+    ],
+    "relatedIds": [
+      "chevre",
+      "gruyere-cheese",
+      "raclette",
+      "fondue"
+    ],
+    "tags": [
+      "ノルウェー料理",
+      "チーズ",
+      "食材",
+      "乳製品",
+      "クリーミー",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "甘いチーズ苦手",
+      "乳製品苦手",
+      "塩味チーズ希望",
+      "肉料理希望",
+      "ピリ辛"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/brunost/1.jpg"
+    ]
+  },
+  {
+    "id": "kottbullar",
+    "name": "ショットブッラル",
+    "kana": "しょっとぶっらる",
+    "aliases": [
+      "スウェーデン風ミートボール",
+      "ミートボール",
+      "Köttbullar"
+    ],
+    "englishName": "Swedish Meatballs",
+    "originalName": "Köttbullar",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "牛肉や豚肉の小さなミートボールを焼き、クリームソースやリンゴンベリージャム、マッシュポテトと食べるスウェーデンの定番料理。",
+    "menuDescription": "小ぶりな肉団子にクリームソースをかけた北欧の家庭料理。甘酸っぱいリンゴンベリーとじゃがいもを添えることが多い。",
+    "whatComesOut": [
+      "小さなミートボール",
+      "クリームソースまたはグレービー",
+      "マッシュポテト、リンゴンベリージャム、きゅうりの酢漬け"
+    ],
+    "tasteAndTexture": [
+      "肉の旨みと玉ねぎの甘み",
+      "クリームソースでまろやか",
+      "リンゴンベリーの甘酸っぱさがアクセント",
+      "やわらかく食べやすい"
+    ],
+    "orderAdvice": "北欧料理の入口として選びやすい。甘いジャムが添えられても肉と一緒に少量合わせると味が締まる。",
+    "caution": "クリームソースとじゃがいもで見た目以上に重い。乳製品が苦手なら確認した方がよい。",
+    "similarItems": [
+      {
+        "id": "polpetta",
+        "name": "ポルペッタ",
+        "difference": "ポルペッタはイタリアの肉団子でトマト煮や揚げ物も多い。ショットブッラルはクリームソースとジャムを合わせる"
+      },
+      {
+        "id": "albondigas",
+        "name": "アルボンディガス",
+        "difference": "アルボンディガスはスペイン語圏の肉団子。ショットブッラルは北欧の乳製品ソースが特徴"
+      },
+      {
+        "id": "meatloaf",
+        "name": "ミートローフ",
+        "difference": "ミートローフは大きく成形して焼く。ショットブッラルは一口大の肉団子"
+      }
+    ],
+    "relatedIds": [
+      "polpetta",
+      "albondigas",
+      "meatloaf",
+      "mince"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "牛肉",
+      "豚肉",
+      "焼き物",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "肉料理苦手",
+      "乳製品苦手",
+      "軽い前菜希望",
+      "魚介希望",
+      "ピリ辛"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kottbullar/1.jpg",
+      "/images/dishes/kottbullar/2.jpg",
+      "/images/dishes/kottbullar/3.jpg"
+    ]
+  },
+  {
+    "id": "janssons-frestelse",
+    "name": "ヤンソンの誘惑",
+    "kana": "やんそんのゆうわく",
+    "aliases": [
+      "ヤンソンス・フレステルセ",
+      "Jansson's Temptation",
+      "Janssons frestelse"
+    ],
+    "englishName": "Jansson's Temptation",
+    "originalName": "Janssons frestelse",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "じゃがいも、玉ねぎ、アンチョビ風の小魚、クリームを重ねて焼くスウェーデンのグラタン料理。クリスマス料理としても定番。",
+    "menuDescription": "細切りじゃがいもと玉ねぎをクリームで焼いた濃厚なオーブン料理。小魚の塩気と旨みが全体に広がる。",
+    "whatComesOut": [
+      "じゃがいもと玉ねぎのクリームグラタン",
+      "アンチョビ風小魚の塩気",
+      "焼き色のついた表面"
+    ],
+    "tasteAndTexture": [
+      "クリームのまろやかさ",
+      "小魚の塩気とうま味",
+      "じゃがいものほくほく感",
+      "焼いた表面は香ばしい"
+    ],
+    "orderAdvice": "濃厚な付け合わせやシェア料理として向く。小魚の風味があるため、魚介の塩気が好きなら楽しめる。",
+    "caution": "名前のアンチョビは地中海アンチョビではなく、スウェーデン式の甘いスパイス漬け小魚を指すことが多い。乳製品と魚の香りあり。",
+    "similarItems": [
+      {
+        "id": "gratin",
+        "name": "グラタン",
+        "difference": "グラタンは広い焼き料理。ヤンソンの誘惑はじゃがいも、玉ねぎ、小魚、クリームの組み合わせが固定的"
+      },
+      {
+        "id": "anchovy",
+        "name": "アンチョビ",
+        "difference": "アンチョビは塩漬け魚。ヤンソンの誘惑は小魚を風味づけに使うクリーム焼き"
+      },
+      {
+        "id": "bacalhau",
+        "name": "バカラオ",
+        "difference": "バカラオは塩干しダラが主役。ヤンソンの誘惑はじゃがいもとクリームが主役"
+      }
+    ],
+    "relatedIds": [
+      "gratin",
+      "anchovy",
+      "bacalhau",
+      "onion"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "魚介",
+      "野菜",
+      "焼き物",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "乳製品苦手",
+      "魚介苦手",
+      "軽い料理希望",
+      "生魚希望",
+      "ピリ辛"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/janssons-frestelse/1.jpg",
+      "/images/dishes/janssons-frestelse/2.jpg",
+      "/images/dishes/janssons-frestelse/3.jpg"
+    ]
+  },
+  {
+    "id": "pyttipanna",
+    "name": "ピッティパンナ",
+    "kana": "ぴってぃぱんな",
+    "aliases": [
+      "ピッティ・パンナ",
+      "Pytt i panna",
+      "Pyttipanna"
+    ],
+    "englishName": "Pyttipanna",
+    "originalName": "Pytt i panna",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "角切りのじゃがいも、肉、玉ねぎを炒め、目玉焼きやビーツのピクルスを添えるスウェーデンの家庭料理。残り物活用料理として親しまれる。",
+    "menuDescription": "細かく切った肉とじゃがいもの炒め物。目玉焼きとピクルスを添えた、素朴で満足感のある一皿。",
+    "whatComesOut": [
+      "角切りじゃがいもと肉の炒め物",
+      "目玉焼き",
+      "ビーツのピクルスやきゅうりの酢漬け"
+    ],
+    "tasteAndTexture": [
+      "じゃがいもの香ばしさ",
+      "肉の塩気とうま味",
+      "玉ねぎの甘み",
+      "卵黄でまろやかになる"
+    ],
+    "orderAdvice": "気取らない北欧の食事を食べたい時に。ランチやビールの相手として向く。",
+    "caution": "料理店では家庭的な炒め物として出るため、華やかな盛り付けより素朴な満腹感が中心。",
+    "similarItems": [
+      {
+        "id": "french-fries",
+        "name": "フライドポテト",
+        "difference": "フライドポテトはじゃがいもの揚げ物。ピッティパンナは肉や玉ねぎと炒める主菜"
+      },
+      {
+        "id": "korokke",
+        "name": "コロッケ",
+        "difference": "コロッケはじゃがいもをまとめて揚げる。ピッティパンナは角切り具材を炒める"
+      },
+      {
+        "id": "pickles",
+        "name": "ピクルス",
+        "difference": "ピクルスは付け合わせ。ピッティパンナでは酸味のアクセントとして添える"
+      }
+    ],
+    "relatedIds": [
+      "french-fries",
+      "korokke",
+      "pickles",
+      "onion",
+      "mince"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "肉",
+      "野菜",
+      "炒め物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "軽い前菜希望",
+      "魚介希望",
+      "揚げ物希望",
+      "クリーミー希望",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pyttipanna/1.jpg",
+      "/images/dishes/pyttipanna/2.jpg",
+      "/images/dishes/pyttipanna/3.jpg"
+    ]
+  },
+  {
+    "id": "surstromming",
+    "name": "シュールストレミング",
+    "kana": "しゅーるすとれみんぐ",
+    "aliases": [
+      "発酵ニシン",
+      "Surströmming"
+    ],
+    "englishName": "Surstromming",
+    "originalName": "Surströmming",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "バルト海のニシンを塩漬け発酵させたスウェーデンの保存食。非常に強い発酵臭で知られ、薄いパンやじゃがいも、玉ねぎと食べる。",
+    "menuDescription": "強烈な香りを持つ発酵ニシン。缶詰を開け、フラットブレッドやじゃがいも、玉ねぎ、サワークリームと合わせて少量食べる珍味。",
+    "whatComesOut": [
+      "発酵ニシンの切り身",
+      "薄いパンまたはじゃがいも",
+      "玉ねぎ、サワークリーム、ディルなどの薬味"
+    ],
+    "tasteAndTexture": [
+      "非常に強い発酵香",
+      "強い塩気とうま味",
+      "魚の身は柔らかい",
+      "薬味や乳製品で味を和らげる"
+    ],
+    "orderAdvice": "珍味や発酵食品に強い興味がある人向け。屋外や専門イベントで、経験者と少量試すのが無難。",
+    "caution": "缶内で発酵が進みガスがたまる。開封時の臭いが非常に強く、屋内や公共の場での開封は避けるべき。",
+    "similarItems": [
+      {
+        "id": "rakfisk",
+        "name": "ラクフィスク",
+        "difference": "ラクフィスクはノルウェーの発酵淡水魚。シュールストレミングはスウェーデンの発酵ニシンで臭いがさらに強い"
+      },
+      {
+        "id": "gravlax",
+        "name": "グラブラックス",
+        "difference": "グラブラックスは発酵ではなく塩砂糖で熟成した鮭。シュールストレミングはニシンを発酵させる"
+      },
+      {
+        "id": "anchovy",
+        "name": "アンチョビ",
+        "difference": "アンチョビは塩漬け小魚で調味料的にも使う。シュールストレミングは発酵臭の強い主役級の珍味"
+      }
+    ],
+    "relatedIds": [
+      "rakfisk",
+      "gravlax",
+      "anchovy",
+      "pickles",
+      "onion"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "魚介",
+      "発酵",
+      "塩漬け",
+      "前菜",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "発酵臭苦手",
+      "初心者向け",
+      "魚介苦手",
+      "屋内で食べたい",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/surstromming/1.jpg",
+      "/images/dishes/surstromming/2.jpg",
+      "/images/dishes/surstromming/3.jpg"
+    ]
+  },
+  {
+    "id": "stamppot",
+    "name": "スタンポット",
+    "kana": "すたんぽっと",
+    "aliases": [
+      "スタムポット",
+      "Stamppot"
+    ],
+    "englishName": "Stamppot",
+    "originalName": "Stamppot",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "オランダ"
+      }
+    ],
+    "summary": "じゃがいもと野菜を一緒につぶし、ソーセージや肉汁を添えるオランダの家庭料理。ケール、ザワークラウト、エンダイブなど具材違いがある。",
+    "menuDescription": "マッシュポテトに野菜を混ぜ込んだ素朴な一皿。燻製ソーセージやベーコン、グレービーと合わせることが多い。",
+    "whatComesOut": [
+      "野菜入りマッシュポテト",
+      "燻製ソーセージやベーコン",
+      "グレービーまたは肉汁"
+    ],
+    "tasteAndTexture": [
+      "じゃがいものほくほく感",
+      "野菜の青みや酸味",
+      "肉の塩気と脂で満足感が出る",
+      "全体は素朴でクリーミー"
+    ],
+    "orderAdvice": "オランダ料理の定番を食べたい時に。寒い季節の主菜として、ソーセージ付きなら満腹感が強い。",
+    "caution": "見た目は地味だが量が多い。肉や乳製品を含むことが多い。",
+    "similarItems": [
+      {
+        "id": "pyttipanna",
+        "name": "ピッティパンナ",
+        "difference": "ピッティパンナは角切り具材の炒め物。スタンポットはじゃがいもと野菜をつぶしてまとめる"
+      },
+      {
+        "id": "pot-au-feu",
+        "name": "ポトフ",
+        "difference": "ポトフは肉と野菜の煮込み。スタンポットは煮た野菜をマッシュして肉を添える"
+      },
+      {
+        "id": "gratin",
+        "name": "グラタン",
+        "difference": "グラタンはオーブン焼き。スタンポットは焼かずにマッシュ状で出ることが多い"
+      }
+    ],
+    "relatedIds": [
+      "pyttipanna",
+      "pot-au-feu",
+      "gratin",
+      "onion"
+    ],
+    "tags": [
+      "オランダ料理",
+      "主菜",
+      "野菜",
+      "豚肉",
+      "煮込み",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "軽い前菜希望",
+      "魚介希望",
+      "じゃがいも苦手",
+      "乳製品苦手",
+      "ピリ辛"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/stamppot/1.jpg",
+      "/images/dishes/stamppot/2.jpg",
+      "/images/dishes/stamppot/3.jpg"
+    ]
+  },
+  {
+    "id": "hutspot",
+    "name": "ヒュッツポット",
+    "kana": "ひゅっつぽっと",
+    "aliases": [
+      "フッツポット",
+      "Hutspot"
+    ],
+    "englishName": "Hutspot",
+    "originalName": "Hutspot",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "オランダ"
+      }
+    ],
+    "summary": "じゃがいも、にんじん、玉ねぎを煮てつぶすオランダ料理。煮込み肉やソーセージを添える、スタンポットの代表的な一種。",
+    "menuDescription": "にんじんの甘みがあるオランダ式マッシュ。牛肉の煮込みや燻製ソーセージを添え、家庭的な主菜として食べる。",
+    "whatComesOut": [
+      "じゃがいも、にんじん、玉ねぎのマッシュ",
+      "煮込み牛肉またはソーセージ",
+      "肉汁やグレービー"
+    ],
+    "tasteAndTexture": [
+      "にんじんと玉ねぎの甘み",
+      "じゃがいものなめらかさ",
+      "肉を添えると濃厚",
+      "香辛料は控えめでやさしい味"
+    ],
+    "orderAdvice": "スタンポットの中でも甘みがあり食べやすい。肉付きの冬料理として選ぶとよい。",
+    "caution": "野菜料理に見えて肉の付け合わせや肉汁を含むことが多い。",
+    "similarItems": [
+      {
+        "id": "stamppot",
+        "name": "スタンポット",
+        "difference": "スタンポットは野菜入りマッシュ全般。ヒュッツポットはにんじん、玉ねぎ、じゃがいもの組み合わせ"
+      },
+      {
+        "id": "pot-au-feu",
+        "name": "ポトフ",
+        "difference": "ポトフは具材を形のまま煮る。ヒュッツポットは煮た野菜をつぶす"
+      },
+      {
+        "id": "borscht",
+        "name": "ボルシチ",
+        "difference": "ボルシチはビーツ主体のスープ。ヒュッツポットはにんじん主体のマッシュ料理"
+      }
+    ],
+    "relatedIds": [
+      "stamppot",
+      "pot-au-feu",
+      "borscht",
+      "onion"
+    ],
+    "tags": [
+      "オランダ料理",
+      "主菜",
+      "野菜",
+      "牛肉",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "じゃがいも苦手",
+      "にんじん苦手",
+      "魚介希望",
+      "揚げ物希望",
+      "ピリ辛"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hutspot/1.jpg"
+    ]
+  },
+  {
+    "id": "erwtensoep",
+    "name": "エルテンスープ",
+    "kana": "えるてんすーぷ",
+    "aliases": [
+      "スネルト",
+      "スプリットピースープ",
+      "Snert",
+      "Erwtensoep"
+    ],
+    "englishName": "Dutch Split Pea Soup",
+    "originalName": "Erwtensoep",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "オランダ"
+      }
+    ],
+    "summary": "割ったグリーンピースを豚肉やソーセージ、野菜と煮込む濃厚なオランダの豆スープ。冬の定番料理。",
+    "menuDescription": "スプーンが立つほど濃いこともある豆の煮込みスープ。燻製ソーセージや豚肉、セロリ、ねぎなどが入る。",
+    "whatComesOut": [
+      "濃厚なグリーンピースのスープ",
+      "豚肉や燻製ソーセージ",
+      "セロリ、ねぎ、にんじんなどの野菜",
+      "ライ麦パンを添えることもある"
+    ],
+    "tasteAndTexture": [
+      "豆の甘みととろみ",
+      "豚肉の塩気と燻製香",
+      "野菜の旨みが強い",
+      "かなり濃厚で腹持ちがよい"
+    ],
+    "orderAdvice": "寒い日のスープ主菜として選ぶ。軽いスープではなく、食事としての満足感を期待するとよい。",
+    "caution": "豚肉やソーセージ入りが一般的。豆のとろみで重く感じることがある。",
+    "similarItems": [
+      {
+        "id": "lentilles",
+        "name": "レンズ豆",
+        "difference": "レンズ豆は食材。エルテンスープは割りエンドウと豚肉を煮込む完成料理"
+      },
+      {
+        "id": "minestrone",
+        "name": "ミネストローネ",
+        "difference": "ミネストローネは野菜主体のトマト系スープ。エルテンスープは豆主体でより濃厚"
+      },
+      {
+        "id": "cassoulet",
+        "name": "カスレ",
+        "difference": "カスレは白いんげん豆と肉の焼き煮込み。エルテンスープは豆を煮崩したスープ"
+      }
+    ],
+    "relatedIds": [
+      "lentilles",
+      "minestrone",
+      "cassoulet",
+      "pot-au-feu"
+    ],
+    "tags": [
+      "オランダ料理",
+      "スープ",
+      "豆",
+      "豚肉",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "豚肉苦手",
+      "豆苦手",
+      "軽いスープ希望",
+      "魚介希望",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "kroket",
+    "name": "クロケット",
+    "kana": "くろけっと",
+    "aliases": [
+      "オランダ風コロッケ",
+      "Kroket"
+    ],
+    "englishName": "Dutch Croquette",
+    "originalName": "Kroket",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "オランダ"
+      }
+    ],
+    "summary": "肉のラグーやベシャメル状の具をパン粉で包んで揚げるオランダの軽食。パンにはさんだり、マスタードを添えて食べる。",
+    "menuDescription": "外はカリッと、中は熱い肉入りクリーム状フィリングの揚げ物。スナックバーやカフェの定番。",
+    "whatComesOut": [
+      "円筒形の揚げコロッケ",
+      "肉入りラグー状の中身",
+      "マスタード",
+      "パンにはさんで出ることもある"
+    ],
+    "tasteAndTexture": [
+      "衣はサクサク",
+      "中はとろりと熱い",
+      "肉の旨みとクリーム感",
+      "マスタードで味が締まる"
+    ],
+    "orderAdvice": "オランダの軽食を試すなら定番。中身が非常に熱いので一口目は注意。",
+    "caution": "揚げたては中身が熱い。肉入りが多く、ベジタリアン向けでない場合が多い。",
+    "similarItems": [
+      {
+        "id": "korokke",
+        "name": "コロッケ",
+        "difference": "日本のコロッケはじゃがいも主体が多い。クロケットは肉ラグーやクリーム状の中身が中心"
+      },
+      {
+        "id": "croquette-francaise",
+        "name": "コロッケ・フランセーズ",
+        "difference": "フランス風は料理技法として幅広い。クロケットはオランダのスナックとして定着"
+      },
+      {
+        "id": "croqueta",
+        "name": "クロケタ",
+        "difference": "クロケタはスペインの小ぶりなベシャメル揚げ。クロケットは円筒形でパンに挟むことも多い"
+      }
+    ],
+    "relatedIds": [
+      "korokke",
+      "croquette-francaise",
+      "croqueta",
+      "fritter"
+    ],
+    "tags": [
+      "オランダ料理",
+      "前菜",
+      "牛肉",
+      "揚げ物",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "揚げ物苦手",
+      "肉料理苦手",
+      "軽い料理希望",
+      "冷たい前菜希望",
+      "ピリ辛"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "bitterballen",
+    "name": "ビターバレン",
+    "kana": "びたーばれん",
+    "aliases": [
+      "ビターバル",
+      "Bitterballen"
+    ],
+    "englishName": "Bitterballen",
+    "originalName": "Bitterballen",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "オランダ"
+      }
+    ],
+    "summary": "肉のラグーを丸めてパン粉で揚げるオランダの定番スナック。ビールのつまみとしてマスタードを添えて食べる。",
+    "menuDescription": "丸い小型クロケットのような揚げ物。外はカリッと、中は肉の旨みのあるとろりとしたフィリング。",
+    "whatComesOut": [
+      "丸い揚げスナック",
+      "肉入りラグー状の熱い中身",
+      "マスタード",
+      "ビールと合わせることが多い"
+    ],
+    "tasteAndTexture": [
+      "衣はカリカリ",
+      "中身はとろりと濃厚",
+      "牛肉の旨み",
+      "マスタードの酸味と辛み"
+    ],
+    "orderAdvice": "バーやカフェでつまみとして頼むとよい。数人でシェアしやすい。",
+    "caution": "揚げたては中が非常に熱い。丸ごと口に入れず少し冷ますと安全。",
+    "similarItems": [
+      {
+        "id": "kroket",
+        "name": "クロケット",
+        "difference": "クロケットは円筒形で単品軽食になりやすい。ビターバレンは丸く小さく、つまみ向き"
+      },
+      {
+        "id": "croqueta",
+        "name": "クロケタ",
+        "difference": "クロケタはスペインの小型揚げ物。ビターバレンは牛肉ラグーとマスタードが定番"
+      },
+      {
+        "id": "korokke",
+        "name": "コロッケ",
+        "difference": "コロッケはじゃがいも主体が多い。ビターバレンは肉ラグー主体"
+      }
+    ],
+    "relatedIds": [
+      "kroket",
+      "croqueta",
+      "korokke",
+      "fritter"
+    ],
+    "tags": [
+      "オランダ料理",
+      "前菜",
+      "牛肉",
+      "揚げ物",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "揚げ物苦手",
+      "肉料理苦手",
+      "乳製品苦手",
+      "軽い前菜希望",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bitterballen/1.jpg",
+      "/images/dishes/bitterballen/2.jpg",
+      "/images/dishes/bitterballen/3.jpg"
+    ]
+  },
+  {
+    "id": "haring",
+    "name": "ハーリング",
+    "kana": "はーりんぐ",
+    "aliases": [
+      "ハリング",
+      "Harling",
+      "Hollandse Nieuwe",
+      "Maatjesharing"
+    ],
+    "englishName": "Dutch Herring",
+    "originalName": "Haring",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "オランダ"
+      }
+    ],
+    "summary": "塩漬けにした若いニシンを生に近い状態で食べるオランダの名物。玉ねぎやピクルスを添え、屋台で食べることも多い。",
+    "menuDescription": "脂ののったニシンを軽く塩漬け熟成した魚介の軽食。刻み玉ねぎやピクルスと一緒に食べる。",
+    "whatComesOut": [
+      "塩漬け熟成ニシンの切り身",
+      "刻み玉ねぎ",
+      "ピクルス",
+      "パンにはさんで出ることもある"
+    ],
+    "tasteAndTexture": [
+      "脂の甘みとうま味",
+      "ほどよい塩気",
+      "身はしっとり柔らかい",
+      "玉ねぎとピクルスで後味が締まる"
+    ],
+    "orderAdvice": "魚介の珍味が好きなら試す価値あり。初心者はパンにはさんだ版か、玉ねぎ多めで食べると入りやすい。",
+    "caution": "生に近い熟成魚なので、魚の香りや柔らかい食感が苦手な人には向かない。",
+    "similarItems": [
+      {
+        "id": "gravlax",
+        "name": "グラブラックス",
+        "difference": "グラブラックスは鮭の塩砂糖熟成。ハーリングは若いニシンの塩漬け熟成"
+      },
+      {
+        "id": "smoked_salmon",
+        "name": "スモークサーモン",
+        "difference": "スモークサーモンは燻製香がある。ハーリングは燻製ではなく塩漬け熟成"
+      },
+      {
+        "id": "surstromming",
+        "name": "シュールストレミング",
+        "difference": "シュールストレミングは強く発酵したニシン。ハーリングは発酵臭が穏やかな塩漬け熟成"
+      }
+    ],
+    "relatedIds": [
+      "gravlax",
+      "smoked_salmon",
+      "surstromming",
+      "pickles",
+      "onion"
+    ],
+    "tags": [
+      "オランダ料理",
+      "魚介",
+      "塩漬け",
+      "前菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "生魚苦手",
+      "魚介苦手",
+      "加熱料理希望",
+      "肉料理希望",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/haring/1.jpg",
+      "/images/dishes/haring/2.jpg",
+      "/images/dishes/haring/3.jpg"
+    ]
+  },
+  {
+    "id": "poffertjes",
+    "name": "ポッフェルチェ",
+    "kana": "ぽっふぇるちぇ",
+    "aliases": [
+      "ポッフェルチェス",
+      "Poffertjes"
+    ],
+    "englishName": "Poffertjes",
+    "originalName": "Poffertjes",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "オランダ"
+      }
+    ],
+    "summary": "小さく丸いオランダのパンケーキ。専用のくぼみ付き鉄板で焼き、バターと粉砂糖をかけて食べる。",
+    "menuDescription": "一口サイズのふんわりしたミニパンケーキ。粉砂糖とバターのシンプルな甘さが定番。",
+    "whatComesOut": [
+      "小さな丸いパンケーキ",
+      "粉砂糖",
+      "バター",
+      "シロップや果物を添えることもある"
+    ],
+    "tasteAndTexture": [
+      "外は軽く香ばしい",
+      "中はふんわり",
+      "バターのコク",
+      "粉砂糖でやさしい甘さ"
+    ],
+    "orderAdvice": "屋台やカフェでデザートとして頼みやすい。熱いうちにバターを溶かして食べるのがよい。",
+    "caution": "甘さは控えめでもバター量が多いことがある。小さいが数が多く出る。",
+    "similarItems": [
+      {
+        "id": "crepe",
+        "name": "クレープ",
+        "difference": "クレープは薄く大きい生地。ポッフェルチェは小さく厚みのあるミニパンケーキ"
+      },
+      {
+        "id": "blini",
+        "name": "ブリニ",
+        "difference": "ブリニは東欧の小型パンケーキで食事系にも使う。ポッフェルチェは甘いデザート寄り"
+      },
+      {
+        "id": "churros",
+        "name": "チュロス",
+        "difference": "チュロスは揚げ菓子。ポッフェルチェは鉄板で焼く"
+      }
+    ],
+    "relatedIds": [
+      "crepe",
+      "blini",
+      "churros",
+      "donut",
+      "galette"
+    ],
+    "tags": [
+      "オランダ料理",
+      "デザート",
+      "焼き物",
+      "クリーミー",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "甘いもの苦手",
+      "軽い主菜希望",
+      "魚介希望",
+      "乳製品苦手",
+      "ピリ辛"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/poffertjes/1.jpg",
+      "/images/dishes/poffertjes/2.jpg",
+      "/images/dishes/poffertjes/3.jpg"
+    ]
   }
 ]
