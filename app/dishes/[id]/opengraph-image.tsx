@@ -19,7 +19,7 @@ async function loadImageDataUrl(imagePath: string): Promise<string | null> {
     const filePath = path.join(process.cwd(), "public", imagePath)
     const buffer = readFileSync(filePath)
     const resized = await sharp(buffer)
-      .resize(540, 630, { fit: "cover", position: "centre" })
+      .resize(720, 630, { fit: "cover", position: "centre" })
       .jpeg({ quality: 80 })
       .toBuffer()
     return `data:image/jpeg;base64,${resized.toString("base64")}`
@@ -53,30 +53,16 @@ export default async function Image({
       >
         {imageDataUrl ? (
           <>
-            {/* 左: 料理写真 */}
+            {/* 左: テキスト */}
             <div
               style={{
-                width: "45%",
-                height: "100%",
-                display: "flex",
-                flexShrink: 0,
-              }}
-            >
-              <img
-                src={imageDataUrl}
-                alt={dish.name}
-                style={{ width: "100%", height: "100%", objectFit: "cover" }}
-              />
-            </div>
-            {/* 右: テキスト */}
-            <div
-              style={{
-                flex: 1,
+                width: "40%",
                 display: "flex",
                 flexDirection: "column",
                 justifyContent: "center",
-                padding: "48px 56px",
-                borderLeft: "4px solid #b45309",
+                padding: "48px 48px",
+                flexShrink: 0,
+                borderRight: "4px solid #b45309",
               }}
             >
               <div style={{ display: "flex", fontSize: 20, color: "#a89080", marginBottom: 16 }}>
@@ -124,6 +110,20 @@ export default async function Image({
               >
                 {dish.category}
               </div>
+            </div>
+            {/* 右: 料理写真 */}
+            <div
+              style={{
+                flex: 1,
+                height: "100%",
+                display: "flex",
+              }}
+            >
+              <img
+                src={imageDataUrl}
+                alt={dish.name}
+                style={{ width: "100%", height: "100%", objectFit: "cover" }}
+              />
             </div>
           </>
         ) : (

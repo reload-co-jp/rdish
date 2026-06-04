@@ -30,6 +30,11 @@ export async function generateMetadata({
       url: `/dishes/${dish.id}/`,
       type: "article",
     },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+    },
   }
 }
 
