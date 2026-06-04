@@ -55195,5 +55195,1065 @@
       "/images/dishes/poffertjes/2.jpg",
       "/images/dishes/poffertjes/3.jpg"
     ]
+  },
+  {
+    "id": "bo-bo-ji",
+    "name": "鉢鉢鶏",
+    "kana": "はちはちけい",
+    "aliases": [
+      "ボーボージー",
+      "串串香",
+      "串串"
+    ],
+    "englishName": "Bo Bo Ji",
+    "originalName": "钵钵鸡",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "四川・成都"
+      }
+    ],
+    "summary": "四川発祥のスパイシー串料理。鶏肉や野菜を竹串に刺し、麻辣ダレに浸した冷菜。",
+    "menuDescription": "四川省成都発祥の伝統的な冷菜串料理。鶏肉・野菜・豆腐などを竹串に刺し、花椒と唐辛子が効いた麻辣ダレに漬け込んでいます。シビレる辛さとコクのある風味が特徴で、串を好きなだけ選んで楽しめます。",
+    "whatComesOut": [
+      "竹串に刺した鶏肉・野菜・豆腐など各種具材",
+      "麻辣（花椒＋唐辛子）ベースの冷たいタレ",
+      "鉢や容器に盛られた複数の串"
+    ],
+    "tasteAndTexture": [
+      "花椒のシビレる麻感と唐辛子の辛味が強い",
+      "冷たい状態で食べる（凉鍋）",
+      "鶏肉はしっとりやわらか",
+      "ごま・ピーナッツの香ばしさ"
+    ],
+    "orderAdvice": "辛さ・シビレに強い人向け。複数人でシェアして様々な串を楽しむのがベスト。辛さ調整可能な店もある。",
+    "caution": "花椒（山椒）と唐辛子を多量に使用。辛味・シビレが非常に強い。",
+    "similarItems": [
+      {
+        "id": "bang-bang-ji",
+        "name": "棒棒鶏",
+        "difference": "棒棒鶏は鶏肉のみの冷菜。鉢鉢鶏は串刺しで野菜・豆腐など多様な具材を含む。"
+      },
+      {
+        "id": "kou-shui-ji",
+        "name": "口水鶏",
+        "difference": "口水鶏も四川式冷製鶏料理だが、鉢鉢鶏はタレに漬けた串で提供する点が異なる。"
+      },
+      {
+        "id": "lazi-ji",
+        "name": "辣子鶏",
+        "difference": "辣子鶏は揚げた鶏肉を乾燥唐辛子で炒める温かい料理。鉢鉢鶏は冷菜串料理。"
+      }
+    ],
+    "relatedIds": [
+      "bang-bang-ji",
+      "kou-shui-ji",
+      "lazi-ji",
+      "ma-la",
+      "hua-jiao",
+      "doubanjiang",
+      "fu-qi-fei-pian"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "前菜",
+      "鶏肉",
+      "野菜",
+      "マリネ",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "辛いのが苦手",
+      "シビレが嫌い",
+      "温かい料理希望",
+      "あっさり希望"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/bo-bo-ji/1.jpg",
+      "/images/dishes/bo-bo-ji/2.png",
+      "/images/dishes/bo-bo-ji/3.jpg"
+    ]
+  },
+  {
+    "id": "tai-hang-jin-xie",
+    "name": "太行金蠍",
+    "kana": "たいこうきんかつ",
+    "englishName": "Taihang Golden Scorpion",
+    "originalName": "太行金蠍",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "河南・山西"
+      }
+    ],
+    "summary": "太行山脈産の金色サソリを丸揚げした珍味料理。外はサクサク、エビに近い風味。",
+    "menuDescription": "中国・太行山脈に生息する金色のサソリを丸ごと素揚げした珍味料理です。外側はカリッと香ばしく、エビやナッツに近い風味があります。薬膳的観点から滋養強壮効果があるとされる一品です。",
+    "whatComesOut": [
+      "揚げた金色のサソリ（数匹）",
+      "塩・花椒などのスパイス",
+      "薬味の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "外側カリッとした食感",
+      "エビ・ナッツに近い風味",
+      "塩気と香ばしさが特徴",
+      "後味に軽いえぐみ"
+    ],
+    "orderAdvice": "珍味・ゲテモノ好き向け。外見への抵抗がなければ意外に食べやすい。中国の薬膳では滋養強壮食材とされる。",
+    "caution": "甲殻類アレルギーに注意（サソリはエビ・カニと同じ節足動物）。",
+    "similarItems": [
+      {
+        "name": "揚げ昆虫（全般）",
+        "difference": "昆虫食より大きく食べ応えがある。味はエビに近い。"
+      },
+      {
+        "id": "he-hua-su",
+        "name": "荷花酥",
+        "difference": "荷花酥は甘い揚げ菓子。太行金蠍は塩味の珍味料理。"
+      }
+    ],
+    "relatedIds": [
+      "he-hua-su",
+      "xiao-su-rou"
+    ],
+    "tags": [
+      "中国料理",
+      "前菜",
+      "揚げ物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "虫が苦手",
+      "見た目重視",
+      "シンプル希望",
+      "定番食材希望"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "jiao-yan-niu-wa",
+    "name": "椒塩牛蛙",
+    "kana": "じょうえんぎゅうあ",
+    "englishName": "Salt and Pepper Bullfrog",
+    "originalName": "椒盐牛蛙",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "広東・四川"
+      }
+    ],
+    "summary": "牛ガエルをカラリと揚げ、花椒塩で仕上げた料理。鶏肉に近い淡白な旨味とサクサクの衣が特徴。",
+    "menuDescription": "牛ガエルをサクッと揚げて、花椒・唐辛子・塩をまとわせた料理です。鶏肉に近い淡白でジューシーな肉質に、スパイシーな塩味の衣がよく合います。",
+    "whatComesOut": [
+      "揚げた牛ガエルのぶつ切り",
+      "唐辛子・花椒・青ねぎの炒め合わせ",
+      "椒塩（花椒塩）"
+    ],
+    "tasteAndTexture": [
+      "淡白で鶏肉に近い蛙の身",
+      "衣はサクサク・パリッと",
+      "花椒と塩のピリッとした香り",
+      "ジューシーな肉汁"
+    ],
+    "orderAdvice": "カエル肉に抵抗がなければ鶏肉感覚で楽しめる。揚げ物・スパイス好きに向く。",
+    "caution": "カエル（両生類）の使用。骨が多いため食べ慣れが必要。",
+    "similarItems": [
+      {
+        "id": "lazi-ji",
+        "name": "辣子鶏",
+        "difference": "辣子鶏は鶏肉を唐辛子大量で炒める。椒塩牛蛙は揚げ後に椒塩をまとわせる。"
+      },
+      {
+        "id": "xiao-su-rou",
+        "name": "小酥肉",
+        "difference": "小酥肉は豚肉の揚げ物。椒塩牛蛙は蛙で食感・風味が異なる。"
+      }
+    ],
+    "relatedIds": [
+      "lazi-ji",
+      "xiao-su-rou",
+      "hua-jiao",
+      "xiang-la",
+      "bo-bo-ji"
+    ],
+    "tags": [
+      "中国料理",
+      "広東料理",
+      "主菜",
+      "揚げ物",
+      "香ばしい",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "カエルが苦手",
+      "揚げ物が苦手",
+      "シンプルな料理希望"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "gu-wei-tian-ji",
+    "name": "鼓味田鶏",
+    "kana": "こみでんけい",
+    "englishName": "Frog with Fermented Black Bean",
+    "originalName": "鼓味田鸡",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "広東"
+      }
+    ],
+    "summary": "豆豉（発酵黒豆）の風味を効かせたカエル料理。発酵の深いコクと旨味が特徴。",
+    "menuDescription": "田鶏（カエル）を豆豉（発酵黒豆ペースト）・ニンニク・唐辛子と合わせて調理した料理です。豆豉の発酵した深いコクがカエルの淡白な身によく染み込んでいます。",
+    "whatComesOut": [
+      "カエルのぶつ切りと豆豉ソース",
+      "ニンニク・生姜・唐辛子の炒め合わせ",
+      "青ねぎの飾り"
+    ],
+    "tasteAndTexture": [
+      "豆豉の発酵した深いコクと塩味",
+      "カエルの身はやわらかく淡白",
+      "ニンニクの香ばしい風味",
+      "やや辛みのある後味"
+    ],
+    "orderAdvice": "豆豉（発酵黒豆）の風味が好きな人に向く。カエル肉の食感は鶏に近く食べやすい。",
+    "caution": "カエル（両生類）使用。",
+    "similarItems": [
+      {
+        "id": "gu-wei-chao-tian-ji",
+        "name": "鼓味炒田鶏",
+        "difference": "同じ豆豉風味だが、鼓味炒田鶏は強火炒めでより香ばしい。"
+      },
+      {
+        "id": "kou-shui-ji",
+        "name": "口水鶏",
+        "difference": "口水鶏は鶏の冷菜。鼓味田鶏はカエルを豆豉で温かく調理。"
+      }
+    ],
+    "relatedIds": [
+      "lazi-ji",
+      "kou-shui-ji",
+      "doubanjiang"
+    ],
+    "tags": [
+      "中国料理",
+      "広東料理",
+      "主菜",
+      "蒸し料理",
+      "発酵",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "カエルが苦手",
+      "発酵風味が苦手",
+      "あっさり希望"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "gu-wei-chao-tian-ji",
+    "name": "鼓味炒田鶏",
+    "kana": "こみいためでんけい",
+    "englishName": "Stir-Fried Frog with Fermented Black Bean",
+    "originalName": "鼓味炒田鸡",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "広東"
+      }
+    ],
+    "summary": "豆豉風味でカエルを強火で炒めた料理。鼓味田鶏の炒めバリエーションで鑊気が強い。",
+    "menuDescription": "田鶏（カエル）を豆豉・ニンニク・唐辛子と高温強火で炒めた料理です。蒸しバージョンの鼓味田鶏より香ばしさが強く、炒め特有の香気（鑊気）が楽しめます。",
+    "whatComesOut": [
+      "カエルのぶつ切りと豆豉の炒め合わせ",
+      "唐辛子・ニンニク・生姜",
+      "青ねぎ・パクチーの飾り"
+    ],
+    "tasteAndTexture": [
+      "豆豉の発酵コクと炒めの香ばしさ",
+      "強火炒めによる香気（鑊気）",
+      "カエルの身はジューシー",
+      "ニンニクと生姜の風味"
+    ],
+    "orderAdvice": "豆豉が好きで炒め料理を好む人に向く。鼓味田鶏より香ばしさ重視。",
+    "caution": "カエル（両生類）使用。",
+    "similarItems": [
+      {
+        "id": "gu-wei-tian-ji",
+        "name": "鼓味田鶏",
+        "difference": "同じ豆豉風味だが、こちらは炒め調理でより香ばしい。"
+      },
+      {
+        "id": "hui-guo-rou",
+        "name": "回鍋肉",
+        "difference": "回鍋肉は豚肉の炒め。鼓味炒田鶏はカエル肉で豆豉ベース。"
+      }
+    ],
+    "relatedIds": [
+      "hui-guo-rou",
+      "lazi-ji",
+      "doubanjiang"
+    ],
+    "tags": [
+      "中国料理",
+      "広東料理",
+      "主菜",
+      "炒め物",
+      "発酵",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "カエルが苦手",
+      "発酵風味が苦手",
+      "あっさり希望"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "hong-shao-zhu-nao",
+    "name": "紅焼猪脳",
+    "kana": "こうしょうちょのう",
+    "englishName": "Red-Braised Pig Brain",
+    "originalName": "红烧猪脑",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "四川・湖南"
+      }
+    ],
+    "summary": "豚の脳みそを醤油・砂糖ベースで煮込んだ料理。クリーミーで濃厚な珍味。",
+    "menuDescription": "豚の脳みそを醤油・砂糖・紹興酒・生姜などで赤く煮込んだ料理です。とろけるようなクリーミーな食感に、甘辛い紅焼ソースが絡みます。薬膳では脳を補う食材とされます。",
+    "whatComesOut": [
+      "煮込まれた豚の脳みそ（丸ごとまたはカット）",
+      "濃い茶色の紅焼ソース",
+      "生姜・ねぎの添え"
+    ],
+    "tasteAndTexture": [
+      "豆腐より柔らかく崩れやすい食感",
+      "クリーミーでコクのある味わい",
+      "甘辛い醤油ベースの濃厚なソース",
+      "独特のミルキーな風味"
+    ],
+    "orderAdvice": "内臓料理が好きな人向け。食感は豆腐に近く崩れやすい。珍味として試したい冒険者向け。",
+    "caution": "豚の脳みそ使用。コレステロールが非常に高い。内臓が苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "hong-shao-pai-gu",
+        "name": "紅焼排骨",
+        "difference": "同じ紅焼調理法だが、食材が豚骨付き肉から豚脳みそへ。食感が全く異なる。"
+      },
+      {
+        "id": "dong-po-rou",
+        "name": "東坡肉",
+        "difference": "東坡肉は豚バラの角煮。紅焼猪脳は脳みそでとろける食感。"
+      }
+    ],
+    "relatedIds": [
+      "hong-shao-pai-gu",
+      "dong-po-rou"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "内臓が苦手",
+      "珍食材が苦手",
+      "あっさり希望",
+      "定番肉料理希望"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "zhu-nao-zheng-doufu",
+    "name": "猪脳蒸豆腐",
+    "kana": "ちょのうむしどうふ",
+    "englishName": "Steamed Pig Brain with Tofu",
+    "originalName": "猪脑蒸豆腐",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "四川・湖南"
+      }
+    ],
+    "summary": "豚の脳みそと豆腐を蒸し上げた料理。ダブルのクリーミー食感とあっさりした蒸し風味。",
+    "menuDescription": "豚の脳みそと絹ごし豆腐を重ねて蒸し、醤油・生姜・ごま油などで仕上げた料理です。脳みそと豆腐の両方がとろけるような柔らかさで、蒸し調理が内臓の臭みを抑えます。",
+    "whatComesOut": [
+      "蒸した豚脳みそと豆腐の重ね",
+      "醤油・ごま油・生姜のソース",
+      "青ねぎ・唐辛子の飾り"
+    ],
+    "tasteAndTexture": [
+      "とろけるような二重のクリーミー食感",
+      "あっさりした蒸し料理の風味",
+      "豆腐が脳みその風味を和らげる",
+      "生姜・ごま油の香り"
+    ],
+    "orderAdvice": "紅焼猪脳より臭みが少なく食べやすい。内臓料理初挑戦者への入門としてはやや適している。",
+    "caution": "豚の脳みそ使用。コレステロールが非常に高い。",
+    "similarItems": [
+      {
+        "id": "hong-shao-zhu-nao",
+        "name": "紅焼猪脳",
+        "difference": "同じ豚脳みそだが、紅焼はこってり煮込み。こちらは蒸しであっさり。"
+      },
+      {
+        "id": "ji-dou-hua",
+        "name": "鶏豆花",
+        "difference": "鶏豆花は鶏肉を豆腐状に仕立てた宮廷料理。こちらは実際の豆腐と脳みそ。"
+      }
+    ],
+    "relatedIds": [
+      "fen-zheng-rou",
+      "ji-dou-hua",
+      "mapo-tofu"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "蒸し料理",
+      "豆類",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "内臓が苦手",
+      "珍食材が苦手",
+      "コレステロール制限中",
+      "定番豆腐料理希望"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "niu-jin-niu-bian",
+    "name": "牛筋牛鞭",
+    "kana": "ぎゅうすじぎゅうべん",
+    "englishName": "Beef Tendon and Bull Penis",
+    "originalName": "牛筋牛鞭",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "広東・香港"
+      }
+    ],
+    "summary": "牛すじと牛の陰茎を煮込んだ料理。コラーゲン豊富でとろけるような食感。薬膳的滋養強壮食材。",
+    "menuDescription": "牛すじと牛の陰茎（牛鞭）を長時間煮込んだ料理です。どちらもコラーゲンが豊富でゼラチン質のとろける食感が特徴。醤油・スパイスベースのソースとともに供されます。",
+    "whatComesOut": [
+      "煮込まれた牛すじのスライス",
+      "牛鞭（輪切りまたはぶつ切り）",
+      "濃いブラウンソース・薬味"
+    ],
+    "tasteAndTexture": [
+      "ゼラチン質のとろとろした食感",
+      "コラーゲン豊富でもちもち",
+      "濃厚な醤油ベースの旨味",
+      "牛すじより弾力のある牛鞭の食感"
+    ],
+    "orderAdvice": "コラーゲン・薬膳食材に興味がある人向け。食感はすじ肉好きなら食べやすい。",
+    "caution": "牛の内臓・生殖器使用。珍食材への抵抗がある人は注意。",
+    "similarItems": [
+      {
+        "id": "hong-shao-pai-gu",
+        "name": "紅焼排骨",
+        "difference": "紅焼排骨は骨付き豚肉の煮込み。こちらは牛の筋・鞭でより珍しい食材。"
+      },
+      {
+        "id": "mao-xue-wang",
+        "name": "毛血旺",
+        "difference": "毛血旺は血・内臓の辛鍋。牛筋牛鞭はやや淡泊な煮込みスタイル。"
+      }
+    ],
+    "relatedIds": [
+      "hong-shao-pai-gu",
+      "mao-xue-wang"
+    ],
+    "tags": [
+      "中国料理",
+      "広東料理",
+      "主菜",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "内臓が苦手",
+      "珍食材が苦手",
+      "あっさり希望",
+      "定番肉料理希望"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "jia-li-niu-bian-zi",
+    "name": "加厘牛鞭子",
+    "kana": "かりーぎゅうべんし",
+    "aliases": [
+      "カレー牛鞭子"
+    ],
+    "englishName": "Curry Bull Penis",
+    "originalName": "加喱牛鞭子",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "香港・広東"
+      }
+    ],
+    "summary": "牛の陰茎（牛鞭子）をカレーソースで煮込んだ香港スタイルの珍味料理。",
+    "menuDescription": "牛の陰茎（牛鞭子）をカレースパイスで長時間煮込んだ香港スタイルの料理です。カレーのスパイシーな風味が牛鞭の独特の旨味と合わさり、コラーゲン豊富なゼラチン質の食感が楽しめます。",
+    "whatComesOut": [
+      "カレーソースで煮込まれた牛鞭の輪切り",
+      "カレーベースのグレービーソース",
+      "ご飯または麺の添え"
+    ],
+    "tasteAndTexture": [
+      "カレーのスパイシーな香りとコク",
+      "ゼラチン質のとろとろした食感",
+      "コラーゲン豊富なもちもち感",
+      "カレーが食材の臭みを和らげる"
+    ],
+    "orderAdvice": "カレーが好きで珍食材に抵抗がない人向け。カレー風味で食べやすい部類の牛鞭料理。",
+    "caution": "牛の生殖器使用。珍食材への抵抗がある人は注意。",
+    "similarItems": [
+      {
+        "id": "niu-jin-niu-bian",
+        "name": "牛筋牛鞭",
+        "difference": "牛筋牛鞭は醤油ベース煮込み。こちらはカレーソースで香港スタイル。"
+      },
+      {
+        "id": "hong-shao-pai-gu",
+        "name": "紅焼排骨",
+        "difference": "紅焼排骨は一般的な豚肉料理。加厘牛鞭子はカレー風味の珍食材料理。"
+      }
+    ],
+    "relatedIds": [
+      "hong-shao-pai-gu"
+    ],
+    "tags": [
+      "中国料理",
+      "広東料理",
+      "主菜",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "内臓が苦手",
+      "カレーが苦手",
+      "珍食材が苦手",
+      "定番肉料理希望"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "da-he-ya-xue",
+    "name": "大赫鴨血",
+    "kana": "だいかくあひるち",
+    "englishName": "Da He Duck Blood",
+    "originalName": "大赫鸭血",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "四川"
+      }
+    ],
+    "summary": "鴨の血を固めた食材を麻辣スープで煮込んだ料理。毛血旺スタイルの鴨血特化版。",
+    "menuDescription": "鴨の血を固めたブロックを麻辣（花椒・唐辛子）ベースのスープで煮込んだ四川スタイルの料理です。プルプルとした独特の食感と麻辣の刺激的な風味の組み合わせが特徴です。",
+    "whatComesOut": [
+      "鴨血の固めたブロック（スライスまたはキューブ）",
+      "麻辣（花椒＋唐辛子）ベースの真っ赤なスープ",
+      "もやし・春雨・豆腐など具材"
+    ],
+    "tasteAndTexture": [
+      "プルプルとしたゼリー状の食感",
+      "鉄分を感じるまろやかな風味",
+      "麻辣スープのシビレる辛さ",
+      "スープが具材によく絡む"
+    ],
+    "orderAdvice": "麻辣料理と血の食材に慣れた人向け。食感は独特だが麻辣スープがよく合う。",
+    "caution": "動物の血（鴨血）使用。血の食材への抵抗がある人は注意。",
+    "similarItems": [
+      {
+        "id": "mao-xue-wang",
+        "name": "毛血旺",
+        "difference": "毛血旺は豚血・内臓・鴨血混合の鍋。大赫鴨血は鴨血特化。"
+      },
+      {
+        "id": "suan-cai-yu",
+        "name": "酸菜魚",
+        "difference": "酸菜魚は酸味ベース魚スープ。大赫鴨血は麻辣ベースの血料理。"
+      }
+    ],
+    "relatedIds": [
+      "mao-xue-wang",
+      "suan-cai-yu",
+      "bo-bo-ji"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "主菜",
+      "鍋料理",
+      "煮込み",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "血の食材が苦手",
+      "辛いのが苦手",
+      "あっさり希望",
+      "定番料理希望"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 4,
+    "images": []
+  },
+  {
+    "id": "jiao-yan-she-lu",
+    "name": "椒鹽蛇碌",
+    "kana": "じょうえんじゃろく",
+    "englishName": "Salt and Pepper Snake",
+    "originalName": "椒鹽蛇碌",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "広東"
+      }
+    ],
+    "summary": "ヘビをぶつ切りにして衣揚げし、花椒塩で仕上げた広東の珍味料理。",
+    "menuDescription": "ヘビをぶつ切り（碌）にして衣揚げし、花椒・塩をまとわせた広東スタイルの料理です。ヘビの身は淡白で鶏肉に近い風味があり、カリッとした衣とのコントラストが楽しめます。",
+    "whatComesOut": [
+      "ヘビのぶつ切りを揚げたもの（骨つき）",
+      "椒塩（花椒塩）",
+      "唐辛子・ニンニクの炒め合わせ"
+    ],
+    "tasteAndTexture": [
+      "淡白で鶏肉に近いヘビの身",
+      "衣はカリッとサクサク",
+      "花椒塩の香ばしいスパイシーな風味",
+      "細かい骨があり食べ慣れが必要"
+    ],
+    "orderAdvice": "ヘビへの抵抗がなければ意外に食べやすい。広東の珍味として定番。細かい骨に注意。",
+    "caution": "爬虫類（ヘビ）使用。骨が多く食べにくい部分あり。",
+    "similarItems": [
+      {
+        "id": "jiao-yan-niu-wa",
+        "name": "椒塩牛蛙",
+        "difference": "同じ椒塩揚げスタイルだが、食材がカエルからヘビへ。ヘビは骨が多く淡白。"
+      },
+      {
+        "id": "lazi-ji",
+        "name": "辣子鶏",
+        "difference": "辣子鶏は鶏の唐辛子炒め。椒鹽蛇碌はヘビの揚げ物で珍しさが際立つ。"
+      }
+    ],
+    "relatedIds": [
+      "lazi-ji",
+      "he-hua-su"
+    ],
+    "tags": [
+      "中国料理",
+      "広東料理",
+      "前菜",
+      "揚げ物",
+      "香ばしい",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "爬虫類が苦手",
+      "見た目重視",
+      "定番食材希望",
+      "シンプルな料理希望"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "xiang-la-xue",
+    "name": "香辣血",
+    "kana": "こうらちけつ",
+    "englishName": "Spicy Blood",
+    "originalName": "香辣血",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "四川・湖南"
+      }
+    ],
+    "summary": "豚・鴨などの血を固めたものを香辣（唐辛子・スパイス）で炒め煮した料理。",
+    "menuDescription": "豚または鴨の血を固めたブロックを唐辛子・豆板醤・ニンニク・生姜などで炒め煮した料理です。プルプルとした血の食感に、辛くて香ばしいソースが絡みます。",
+    "whatComesOut": [
+      "血の固めたブロック（スライス）",
+      "唐辛子・豆板醤ベースの赤いソース",
+      "ねぎ・パクチーの飾り"
+    ],
+    "tasteAndTexture": [
+      "プルプルとしたゼリー状の食感",
+      "鉄分のまろやかな風味",
+      "唐辛子・豆板醤の辛くて香ばしい味",
+      "ソースが血の風味を引き立てる"
+    ],
+    "orderAdvice": "血の食材が好きで辛い料理を求める人向け。毛血旺より血に特化したシンプルな構成。",
+    "caution": "動物の血使用。血の食材への抵抗がある人は注意。",
+    "similarItems": [
+      {
+        "id": "mao-xue-wang",
+        "name": "毛血旺",
+        "difference": "毛血旺は内臓・血混合の大鍋料理。香辣血はより血に特化したシンプルな炒め。"
+      },
+      {
+        "id": "shui-zhu-rou-pian",
+        "name": "水煮肉片",
+        "difference": "水煮肉片は豚肉の辛い水煮。香辣血は食材が血に特化。"
+      }
+    ],
+    "relatedIds": [
+      "mao-xue-wang",
+      "shui-zhu-rou-pian"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "主菜",
+      "炒め物",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "血の食材が苦手",
+      "辛いのが苦手",
+      "あっさり希望",
+      "定番食材希望"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/xiang-la-xue/1.jpg",
+      "/images/dishes/xiang-la-xue/2.jpg",
+      "/images/dishes/xiang-la-xue/3.jpg"
+    ]
+  },
+  {
+    "id": "xiang-rou-fen-si-bao",
+    "name": "香肉粉絲堡",
+    "kana": "こうにくはるさめなべ",
+    "englishName": "Dog Meat and Glass Noodle Casserole",
+    "originalName": "香肉粉丝煲",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "広西・広東"
+      }
+    ],
+    "summary": "香肉（犬肉の婉曲表現）と春雨を砂鍋で煮込んだ料理。中国南部の一部地域で食される。",
+    "menuDescription": "香肉（犬肉）と粉絲（春雨）を砂鍋（土鍋）で煮込んだ料理です。犬肉は「香肉」と婉曲的に呼ばれ、主に中国南部（広西・広東）の一部地域で伝統的に食されます。濃厚なスープに春雨が絡みます。",
+    "whatComesOut": [
+      "犬肉のぶつ切り（骨つき）",
+      "春雨（粉絲）",
+      "濃い醤油・スパイスベースのスープ"
+    ],
+    "tasteAndTexture": [
+      "豚・牛より濃厚で独特の風味の肉",
+      "春雨がスープを吸いもちもちした食感",
+      "ニンニク・生姜・スパイスの香り",
+      "こってりとした深いスープ"
+    ],
+    "orderAdvice": "文化的・倫理的抵抗がなく冒険的食体験を求める人向け。地域によって提供する店が限られる。",
+    "caution": "犬肉（香肉）使用。犬を食べることへの文化的・倫理的抵抗がある人は注意。",
+    "similarItems": [
+      {
+        "id": "dong-po-rou",
+        "name": "東坡肉",
+        "difference": "東坡肉は豚バラの角煮で広く親しまれる。香肉粉絲堡は犬肉使用の珍しい料理。"
+      },
+      {
+        "id": "fen-zheng-rou",
+        "name": "粉蒸肉",
+        "difference": "粉蒸肉は豚肉の蒸し物。香肉粉絲堡は犬肉の鍋料理。"
+      }
+    ],
+    "relatedIds": [
+      "dong-po-rou",
+      "fen-zheng-rou"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "鍋料理",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "犬が好き",
+      "倫理的抵抗あり",
+      "あっさり希望",
+      "定番肉料理希望"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "xiao-long-xia",
+    "name": "小龍蝦",
+    "kana": "しょうりゅうえび",
+    "aliases": [
+      "ザリガニ料理",
+      "麻辣小龍蝦",
+      "克氏原螯蝦"
+    ],
+    "englishName": "Spiced Crayfish",
+    "originalName": "小龙虾",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "湖南・湖北"
+      }
+    ],
+    "summary": "ザリガニを麻辣スパイスで煮込んだ中国の夏の定番料理。屋台・夜市の人気メニュー。",
+    "menuDescription": "ザリガニ（小龍蝦）を花椒・唐辛子・ニンニクなどのスパイスで豪快に煮込んだ料理です。夏の夜市の定番で、ビールとの相性が抜群。手でむきながら食べるスタイルが醍醐味です。",
+    "whatComesOut": [
+      "ザリガニ丸ごと（大量）",
+      "麻辣スパイスの真っ赤なソース",
+      "ニンニク・生姜・ねぎ"
+    ],
+    "tasteAndTexture": [
+      "エビに近い甘みとプリプリした食感",
+      "麻辣（花椒＋唐辛子）の強い刺激",
+      "殻をむく手間と充実感",
+      "ニンニク・スパイスの香ばしい余韻"
+    ],
+    "orderAdvice": "辛さと殻むきが苦にならない人に最適。大人数でシェアして食べるのが一番楽しい。",
+    "caution": "甲殻類アレルギーに注意。殻が鋭いため手の怪我に注意。辛さが強い。",
+    "similarItems": [
+      {
+        "id": "gan-shao-xia-ren",
+        "name": "干焼蝦仁",
+        "difference": "干焼蝦仁は殻をむいたエビの干焼き。小龍蝦は殻ごと丸ごとザリガニを使う豪快な料理。"
+      },
+      {
+        "id": "bo-bo-ji",
+        "name": "鉢鉢鶏",
+        "difference": "鉢鉢鶏は串料理の冷菜。小龍蝦は熱々の辛い鍋スタイル。"
+      }
+    ],
+    "relatedIds": [
+      "gan-shao-xia-ren",
+      "bo-bo-ji",
+      "ma-la"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "甲殻類アレルギー",
+      "辛いのが苦手",
+      "手を汚したくない",
+      "殻むきが面倒"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": []
+  },
+  {
+    "id": "she-tang",
+    "name": "蛇湯",
+    "kana": "じゃたん",
+    "englishName": "Snake Soup",
+    "originalName": "蛇羹",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "広東"
+      }
+    ],
+    "summary": "ヘビの肉を使った広東の伝統スープ。滋養強壮・体を温める薬膳料理として知られる。",
+    "menuDescription": "複数種類のヘビの肉をきのこ・生姜・漢方食材などと長時間煮込んだ広東の伝統スープです。あっさりとした透明〜薄濁りのスープで、ヘビの身は細く淡白な鶏肉風の食感があります。秋冬に特に人気があります。",
+    "whatComesOut": [
+      "ヘビの細切り肉入りスープ",
+      "きのこ・生姜・漢方食材の具",
+      "揚げワンタンの皮など付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "あっさりとした澄んだスープ",
+      "鶏肉に近い淡白なヘビの肉",
+      "生姜と漢方の温かみのある香り",
+      "とろみのついた滑らかなスープ感"
+    ],
+    "orderAdvice": "広東の薬膳スープとして試したい人向け。見た目よりも食べやすく、スープ自体はあっさり系。",
+    "caution": "爬虫類（ヘビ）使用。ヘビ食への文化的抵抗がある人は注意。",
+    "similarItems": [
+      {
+        "id": "yu-chi-tang",
+        "name": "魚翅湯",
+        "difference": "魚翅湯はフカヒレスープで高級宴席料理。蛇湯は薬膳的な滋養スープ。"
+      },
+      {
+        "id": "sha-guo-ya-yu",
+        "name": "砂鍋雅魚",
+        "difference": "砂鍋雅魚は四川の魚鍋。蛇湯は広東の薬膳ヘビスープ。"
+      }
+    ],
+    "relatedIds": [
+      "yu-chi-tang",
+      "sha-guo-ya-yu"
+    ],
+    "tags": [
+      "中国料理",
+      "広東料理",
+      "スープ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "爬虫類が苦手",
+      "珍食材が苦手",
+      "こってりスープ希望",
+      "定番食材希望"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/she-tang/1.jpg",
+      "/images/dishes/she-tang/2.jpg",
+      "/images/dishes/she-tang/3.jpg"
+    ]
+  },
+  {
+    "id": "chou-doufu",
+    "name": "臭豆腐",
+    "kana": "くさどうふ",
+    "aliases": [
+      "くさとうふ",
+      "チョウドウフ",
+      "stinky tofu"
+    ],
+    "englishName": "Stinky Tofu",
+    "originalName": "臭豆腐",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "湖南"
+      }
+    ],
+    "summary": "発酵させた豆腐を揚げた強烈な匂いで知られる中国・台湾の屋台料理。外カリ中トロの食感。",
+    "menuDescription": "豆腐を植物・海産物の発酵液に漬け込み、独特の強い匂いを出した後に揚げた屋台料理です。外はカリッと、中はとろけるような食感で、辛みのあるソースや薬味と合わせて食べます。匂いは強烈ですが、食べると意外にクセになる味です。",
+    "whatComesOut": [
+      "揚げた発酵豆腐（大きめのブロック）",
+      "辛みのあるソースまたは辛みそ",
+      "漬け物・ねぎの添え"
+    ],
+    "tasteAndTexture": [
+      "外側カリッと、内側とろとろ",
+      "強い発酵臭とは裏腹なまろやかな旨味",
+      "豆腐のクリーミーさが残る",
+      "ソースの辛みと発酵の酸味"
+    ],
+    "orderAdvice": "匂いで敬遠されやすいが食べると意外にマイルド。青カビチーズが好きな人は挑戦しやすい。屋台で人気の定番。",
+    "caution": "発酵した強烈な匂いあり。大豆アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "mapo-tofu",
+        "name": "麻婆豆腐",
+        "difference": "麻婆豆腐は新鮮な豆腐を辛いソースで炒め煮。臭豆腐は発酵豆腐の揚げ物。"
+      },
+      {
+        "id": "mao-xue-wang",
+        "name": "毛血旺",
+        "difference": "毛血旺は内臓・血の辛鍋。臭豆腐は発酵豆腐の屋台スナック。"
+      }
+    ],
+    "relatedIds": [
+      "mapo-tofu",
+      "mao-xue-wang"
+    ],
+    "tags": [
+      "中国料理",
+      "前菜",
+      "豆類",
+      "発酵",
+      "揚げ物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "強い匂いが苦手",
+      "発酵食品が苦手",
+      "シンプルな豆腐希望",
+      "においに敏感"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/chou-doufu/1.jpg",
+      "/images/dishes/chou-doufu/2.jpg",
+      "/images/dishes/chou-doufu/3.jpg"
+    ]
   }
 ]
