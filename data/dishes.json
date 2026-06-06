@@ -56376,6 +56376,7 @@
         "difference": "とんちゃんは豚腸を使用。てっちゃんは牛大腸。脂の風味と旨味の質が異なる"
       },
       {
+        "id": "kopchang",
         "name": "コプチャン",
         "difference": "韓国の牛大腸焼き。てっちゃんの文化的ルーツ。ニンニクやごま油の風味が強め"
       },
@@ -56389,7 +56390,8 @@
       "horumon-yaki",
       "tonchan",
       "dote-yaki",
-      "yakitori"
+      "yakitori",
+      "kopchang"
     ],
     "tags": [
       "日本料理",
@@ -56699,6 +56701,170 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/denki-bran/1.jpg"
+    ]
+  },
+  {
+    "id": "kopchang",
+    "name": "コプチャン",
+    "kana": "こぷちゃん",
+    "aliases": [
+      "곱창",
+      "コプチャン焼き",
+      "牛小腸焼き"
+    ],
+    "englishName": "Gopchang",
+    "originalName": "곱창",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "牛や豚の小腸を使った韓国のホルモン焼き。コリコリとした食感と内側に詰まった脂の濃厚な旨みが特徴で、韓国の居酒屋文化を代表する一品。",
+    "menuDescription": "牛または豚の小腸を炭火やホットプレートで焼き上げた韓国式ホルモン料理。コリコリとした独特の歯ごたえと内臓脂の濃厚な旨みが魅力で、ゴマ油と塩でシンプルに、またはヤンニョム（韓国の合わせ調味料）で甘辛に味付けされます。",
+    "whatComesOut": [
+      "下処理済みの小腸が卓上グリルまたは鉄板で焼かれて提供",
+      "ゴマ油・塩・刻みネギなどの薬味が付属",
+      "キムチや野菜のサイドディッシュが一緒に並ぶ",
+      "ハサミで食べやすいサイズに切りながら食べるスタイルが一般的"
+    ],
+    "tasteAndTexture": [
+      "コリコリとした独特の歯ごたえと弾力ある食感",
+      "小腸内側の脂が溶け出す濃厚なコクと旨み",
+      "ゴマ油との相性抜群の香ばしい焼き風味",
+      "噛むほどに広がる内臓特有の深い旨み"
+    ],
+    "orderAdvice": "ホルモン系が好きなら試す価値大。においが気になる人はまず塩・ゴマ油シンプル版から。ヤンニョム（タレ）版は甘辛で食べやすく初心者向け。",
+    "caution": "臓物料理のため内臓特有のにおいがある。においに敏感な人は注意。",
+    "similarItems": [
+      {
+        "id": "horumon-yaki",
+        "name": "ホルモン焼き",
+        "difference": "日本のホルモン焼きは豚腸が多く甘辛タレが定番。コプチャンは牛小腸中心でゴマ油塩が基本"
+      },
+      {
+        "id": "tecchan",
+        "name": "テッチャン（大腸焼き）",
+        "difference": "同じ腸系だが大腸使用。コプチャンより肉厚でジューシーな脂感が強い"
+      },
+      {
+        "id": "makchang",
+        "name": "マッチャン（直腸）",
+        "difference": "直腸部位。コプチャンより脂が多くとろとろした食感"
+      }
+    ],
+    "relatedIds": [
+      "horumon-yaki",
+      "kimchi",
+      "gochujang",
+      "tecchan",
+      "makchang"
+    ],
+    "tags": [
+      "韓国料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "あっさり",
+      "魚介",
+      "野菜中心",
+      "クセのない肉",
+      "においなし"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/kopchang/1.jpg",
+      "/images/dishes/kopchang/2.jpg",
+      "/images/dishes/kopchang/3.jpg"
+    ]
+  },
+  {
+    "id": "makchang",
+    "name": "マッチャン",
+    "kana": "まっちゃん",
+    "aliases": [
+      "막창",
+      "マクチャン",
+      "豚直腸焼き"
+    ],
+    "englishName": "Makchang",
+    "originalName": "막창",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "豚の直腸または牛の第四胃を焼いた韓国のホルモン料理。腸系の中でも脂が多くとろとろした食感が特徴で、大邱発祥の名物として知られる。",
+    "menuDescription": "豚の直腸（または牛の第四胃）を炭火で焼き上げた韓国式ホルモン料理。脂の多い部位ならではのとろとろした食感と濃厚な旨みが魅力で、ゴマ油と塩またはヤンニョムで味付けされます。大邱の名物料理としても有名です。",
+    "whatComesOut": [
+      "下処理済みの直腸または第四胃が炭火グリルで焼かれて提供",
+      "ゴマ油・塩・刻みネギ・にんにくの薬味が付属",
+      "キムチやサンチュなどの葉野菜と一緒に提供",
+      "ハサミで切りながら食べるスタイルが一般的"
+    ],
+    "tasteAndTexture": [
+      "コプチャンよりとろとろした柔らかい食感と豊富な脂",
+      "内側の脂が溶け出す極濃なコクと旨み",
+      "焼いた香ばしさと脂の甘みが重なる",
+      "噛むほどに深まる濃厚な内臓の旨み"
+    ],
+    "orderAdvice": "ホルモン系の中でも脂が最も多い部位。こってり系が好きな人向け。においと脂感が強いのでホルモン上級者向け。ゴマ油塩よりヤンニョムの方が脂をカバーして食べやすい。",
+    "caution": "豚または牛の内臓使用。脂肪分が非常に多く、内臓特有の強いにおいがある。においに敏感な人は注意。",
+    "similarItems": [
+      {
+        "id": "kopchang",
+        "name": "コプチャン",
+        "difference": "コプチャンは小腸。マッチャンより脂が少なくコリコリした食感"
+      },
+      {
+        "id": "tecchan",
+        "name": "テッチャン",
+        "difference": "テッチャンは牛大腸。マッチャンと同系統だが部位が異なり食感も若干違う"
+      },
+      {
+        "id": "horumon-yaki",
+        "name": "ホルモン焼き",
+        "difference": "ホルモン焼きは内臓全般の総称。マッチャンはその中でも特に脂が多い希少部位"
+      }
+    ],
+    "relatedIds": [
+      "kopchang",
+      "tecchan",
+      "horumon-yaki",
+      "kimchi",
+      "gochujang"
+    ],
+    "tags": [
+      "韓国料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "こってり",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "あっさり",
+      "においなし",
+      "ヘルシー志向",
+      "魚介",
+      "野菜中心"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 5,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/makchang/1.jpg",
+      "/images/dishes/makchang/2.jpg",
+      "/images/dishes/makchang/3.jpg"
     ]
   }
 ]
