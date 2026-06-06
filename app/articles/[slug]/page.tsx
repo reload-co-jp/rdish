@@ -30,6 +30,10 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const title = article.subtitle
     ? `${article.title}——${article.subtitle}`
     : article.title
+  const relatedDishes = article.relatedDishIds
+    .map((id) => dishes.find((d) => d.id === id))
+    .filter(Boolean) as DishItem[]
+  const firstImage = relatedDishes.find((d) => d.images && d.images.length > 0)?.images?.[0]
   return {
     title,
     description: article.description,
@@ -40,6 +44,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       url: `/articles/${article.slug}/`,
       type: "article",
       publishedTime: article.publishedAt,
+      ...(article.updatedAt ? { modifiedTime: article.updatedAt } : {}),
+      ...(firstImage ? { images: [{ url: firstImage }] } : {}),
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description: article.description,
     },
   }
 }
@@ -373,10 +384,14 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
   const articleLd = {
     "@context": "https://schema.org",
     "@type": "Article",
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `${SITE_URL}/articles/${article.slug}/`,
+    },
     headline: article.subtitle ? `${article.title}——${article.subtitle}` : article.title,
     description: article.description,
     datePublished: article.publishedAt,
-    url: `${SITE_URL}/articles/${article.slug}/`,
+    ...(article.updatedAt ? { dateModified: article.updatedAt } : {}),
     inLanguage: "ja",
     ...(firstImage ? { image: `${SITE_URL}${firstImage}` } : {}),
     author: {
@@ -389,11 +404,6 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
       name: "RDish",
       url: SITE_URL,
     },
-    about: relatedDishes.map((d) => ({
-      "@type": "Thing",
-      name: d.name,
-      url: `${SITE_URL}/dishes/${d.id}/`,
-    })),
     mentions: relatedDishes.map((d) => ({
       "@type": "Thing",
       name: d.name,

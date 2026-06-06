@@ -12,6 +12,12 @@ export const metadata: Metadata = {
   title: "記事",
   description: "料理にまつわる読み物。各地の包み料理の違いなど、料理の背景を掘り下げる記事。",
   alternates: { canonical: "/articles/" },
+  openGraph: {
+    title: "記事",
+    description: "料理にまつわる読み物。各地の包み料理の違いなど、料理の背景を掘り下げる記事。",
+    url: "/articles/",
+    type: "website",
+  },
 }
 
 export default function ArticlesPage() {

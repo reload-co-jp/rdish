@@ -58,6 +58,7 @@ export type Article = {
   subtitle?: string
   description: string
   publishedAt: string
+  updatedAt?: string
   intro: string
   history?: ArticleHistoryEntry[]
   regions: ArticleRegion[]
