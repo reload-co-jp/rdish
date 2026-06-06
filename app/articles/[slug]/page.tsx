@@ -12,6 +12,7 @@ import type {
   ArticleCallout,
   ArticleComparisonRow,
   ArticleHistoryEntry,
+  ArticleSource,
 } from "../../../types/article"
 import type { DishItem } from "../../../types/dish"
 
@@ -315,6 +316,47 @@ const CalloutSection: FC<{ callout: ArticleCallout }> = ({ callout }) => (
   </section>
 )
 
+const SourcesSection: FC<{ sources: ArticleSource[] }> = ({ sources }) => (
+  <section style={{ marginTop: "2.5rem", paddingTop: "1.5rem", borderTop: "1px solid #e8ddd0" }}>
+    <h2
+      style={{
+        fontSize: "0.75rem",
+        fontWeight: 700,
+        color: "#a89080",
+        letterSpacing: "0.08em",
+        textTransform: "uppercase",
+        marginBottom: "0.75rem",
+      }}
+    >
+      参考資料
+    </h2>
+    <ol style={{ margin: 0, paddingLeft: "1.25rem", display: "flex", flexDirection: "column", gap: "0.5rem" }}>
+      {sources.map((source, i) => (
+        <li key={i} style={{ fontSize: "0.8125rem", color: "#7a6655", lineHeight: 1.6 }}>
+          {source.author && (
+            <span style={{ color: "#5a4a3a" }}>{source.author}. </span>
+          )}
+          {source.url ? (
+            <a
+              href={source.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "#b87a50", textDecoration: "underline", textDecorationColor: "#e8ddd0" }}
+            >
+              {source.title}
+            </a>
+          ) : (
+            <span style={{ color: "#5a4a3a", fontStyle: "italic" }}>{source.title}</span>
+          )}
+          {source.note && (
+            <span style={{ color: "#a89080" }}> — {source.note}</span>
+          )}
+        </li>
+      ))}
+    </ol>
+  </section>
+)
+
 export default async function ArticlePage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
   const article = articles.find((a) => a.slug === slug)
@@ -398,6 +440,10 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         {article.callouts.map((callout) => (
           <CalloutSection key={callout.heading} callout={callout} />
         ))}
+
+        {article.sources && article.sources.length > 0 && (
+          <SourcesSection sources={article.sources} />
+        )}
 
         {article.relatedDishIds.length > 0 && (
           <section style={{ marginTop: "2rem" }}>

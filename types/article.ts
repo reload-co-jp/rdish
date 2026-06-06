@@ -44,6 +44,13 @@ export type ArticleHistoryEntry = {
   body: string
 }
 
+export type ArticleSource = {
+  title: string
+  url?: string
+  author?: string
+  note?: string
+}
+
 export type Article = {
   id: string
   slug: string
@@ -57,4 +64,5 @@ export type Article = {
   comparison: ArticleComparisonRow[]
   callouts: ArticleCallout[]
   relatedDishIds: string[]
+  sources?: ArticleSource[]
 }
