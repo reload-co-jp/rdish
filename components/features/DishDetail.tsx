@@ -297,6 +297,34 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
       <Section title="タグ">
         <TagList tags={dish.tags} />
       </Section>
+
+      {dish.source && dish.source.length > 0 && (
+        <Section title="参考">
+          <ul style={{ paddingLeft: 0, listStyle: "none" }}>
+            {dish.source.map((url) => {
+              const label = url.includes("ja.wikipedia.org")
+                ? "Wikipedia（日本語）"
+                : url.includes("en.wikipedia.org")
+                  ? "Wikipedia（英語）"
+                  : url.includes("it.wikipedia.org")
+                    ? "Wikipedia（イタリア語）"
+                    : url
+              return (
+                <li key={url} style={{ marginBottom: "0.25rem" }}>
+                  <a
+                    href={url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: "#7a6655", fontSize: "0.8rem" }}
+                  >
+                    {label}
+                  </a>
+                </li>
+              )
+            })}
+          </ul>
+        </Section>
+      )}
     </article>
   )
 }
