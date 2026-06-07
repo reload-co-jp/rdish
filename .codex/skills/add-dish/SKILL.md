@@ -11,8 +11,9 @@ When invoked, add the requested dish to `/Users/kixixixixi/Documents/Develop/Rel
 
 1. Read `data/dishes.json` to check duplicate ids and gather valid `relatedIds`.
 2. Read `types/dish.ts` to confirm the current schema.
-3. Generate one complete `DishItem` JSON object for the requested dish.
-4. Append it to the JSON array in `data/dishes.json`.
+3. **Search and fetch sources**: Use WebSearch to find authoritative references (Wikipedia JP/EN, official sites) for the dish. Fetch the top 2–3 pages and collect the URLs. Use the fetched content as the factual basis for all description fields (`summary`, `menuDescription`, `whatComesOut`, `tasteAndTexture`, `orderAdvice`).
+4. Generate one complete `DishItem` JSON object for the requested dish. Set `source` to the array of fetched URLs.
+5. Append it to the JSON array in `data/dishes.json`.
 5. Download images for the added dish only:
 
 ```bash
@@ -59,6 +60,7 @@ See `CLAUDE.md` Tag Policy section for the full canonical tag list.
 - If the id or name already exists, do not add a duplicate entry. Report that it already exists.
 - `regions`: use the object schema from `types/dish.ts`, e.g. `{ "country": "フランス" }`.
 - `relatedIds`: only existing ids from `data/dishes.json`.
+- `source`: always populate by fetching real URLs during step 3. Never fabricate sources.
 - Do not hand-write `images`; run `node scripts/download-images.mjs <dish-id>` after adding the entry.
 - If image download returns no images, keep `images: []` and mention that no image was found.
 - Scores are judgment calls from the dish's nature.
@@ -83,6 +85,7 @@ See `CLAUDE.md` Tag Policy section for the full canonical tag list.
   caution?: string
   similarItems: { id?: string; name: string; difference: string }[]
   relatedIds: string[]
+  source: string[]  // URLs fetched during research
   tags: string[]  // 4–8 tags. See Tag Policy below.
   reverseKeywords: string[]
   beginnerFriendlyScore: 1 | 2 | 3 | 4 | 5

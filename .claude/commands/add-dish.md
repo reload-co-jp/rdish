@@ -11,7 +11,8 @@ argument-hint: <料理名>
 
 1. `/Users/kixixixixi/Documents/Develop/Reload/rdish/data/dishes.json` を Read して既存エントリ確認（重複チェック・relatedIds候補収集）
 2. `/Users/kixixixixi/Documents/Develop/Reload/rdish/types/dish.ts` を Read して型確認
-3. `$ARGUMENTS` の料理について以下フィールドを全て生成:
+3. **ソース調査**: WebSearch で `$ARGUMENTS` の信頼性の高い参考情報（Wikipedia日本語・英語版、公式サイト等）を検索し、上位2〜3件を WebFetch で取得。取得内容を `summary`・`menuDescription`・`whatComesOut`・`tasteAndTexture`・`orderAdvice` の記述根拠として使用。URLは `source` フィールドに格納。
+4. `$ARGUMENTS` の料理について以下フィールドを全て生成:
 
 ```typescript
 {
@@ -31,6 +32,7 @@ argument-hint: <料理名>
   caution?: string     // アレルギー・注意事項（必要なら）
   similarItems: SimilarItem[] // 似ている料理と違い（2〜4項目）
   relatedIds: string[] // 既存dishesのidから関連するもの
+  source: string[]     // ソース調査で取得したURLの配列
   tags: string[]       // 検索・フィルタ用タグ（4〜8個）— タグ方針参照
   reverseKeywords: string[] // この料理が苦手な人が好むもの（3〜5個）
   beginnerFriendlyScore: 1|2|3|4|5  // 初心者に向いているか
@@ -40,10 +42,10 @@ argument-hint: <料理名>
 }
 ```
 
-4. 生成したJSONオブジェクトを dishes.json の配列末尾に追加（Edit使用）
-5. `python3 -c "import json; json.load(open('data/dishes.json')); print('JSON valid')"` で検証
-6. `node scripts/download-images.mjs <追加したidをスペース区切り>` で画像ダウンロード（dishes.jsonも自動更新される）
-7. `pnpm typecheck` は不要（JSONファイルのみの変更）
+5. 生成したJSONオブジェクトを dishes.json の配列末尾に追加（Edit使用）
+6. `python3 -c "import json; json.load(open('data/dishes.json')); print('JSON valid')"` で検証
+7. `node scripts/download-images.mjs <追加したidをスペース区切り>` で画像ダウンロード（dishes.jsonも自動更新される）
+8. `pnpm typecheck` は不要（JSONファイルのみの変更）
 
 ## タグ方針
 
@@ -69,6 +71,7 @@ argument-hint: <料理名>
 - `id` は既存と重複禁止。
 - `relatedIds` は必ず既存dishesに存在するidのみ使用
 - スコアは独断で設定（料理の性質から判断）
+- `source` は必ず実際にfetchしたURLを格納。URL を捏造しない
 - `images` フィールドは追加しない（download-images.mjs が自動追加する）
 - 生成前に「[料理名] を追加する」と1行表示
 - 追加完了後に生成したJSONを表示
