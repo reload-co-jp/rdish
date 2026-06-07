@@ -308,7 +308,11 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
                   ? "Wikipedia（英語）"
                   : url.includes("it.wikipedia.org")
                     ? "Wikipedia（イタリア語）"
-                    : url
+                    : url.includes("britannica.com")
+                      ? "Britannica"
+                      : url.includes("tasteatlas.com")
+                        ? "TasteAtlas"
+                        : url
               return (
                 <li key={url} style={{ marginBottom: "0.25rem" }}>
                   <a
