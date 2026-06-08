@@ -22,7 +22,7 @@ import glob
 import sys
 
 DISHES_PATH = "data/dishes.json"
-PATCHES_GLOB = "data/patches/batch_*.json"
+PATCHES_GLOB = "data/patches/*.json"
 
 PATCHABLE_FIELDS = ["summary", "menuDescription", "whatComesOut", "tasteAndTexture", "orderAdvice", "caution", "source"]
 
