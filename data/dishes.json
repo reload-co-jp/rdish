@@ -59559,5 +59559,259 @@
       "https://en.wikipedia.org/wiki/Makchang",
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A0%E3%83%BB%E3%83%86%E3%82%A6%E3%83%B3"
     ]
+  },
+  {
+    "id": "lemon-sour",
+    "name": "レモンサワー",
+    "kana": "れもんさわー",
+    "aliases": [
+      "レモンハイ",
+      "レモンチューハイ"
+    ],
+    "englishName": "Lemon Sour",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "焼酎にレモン果汁と炭酸水を合わせた日本の居酒屋定番ドリンク。1960年代に東京・目黒のもつ焼き店「ばん」が発祥とされ、1980年代のハイサワー発売で全国に広まった。",
+    "menuDescription": "焼酎にたっぷりのレモン果汁を絞り、強炭酸で仕上げた爽快な一杯。キリッとした酸味と炭酸の清涼感が特徴で、揚げ物や焼き物など油っぽい料理との相性が抜群です。甘さ控えめで飲み飽きません。",
+    "whatComesOut": [
+      "タンブラーまたはジョッキに注がれた炭酸入りのレモン色ドリンク",
+      "くし形または輪切りのレモンが添えられることが多い",
+      "氷入りで提供",
+      "店によっては生レモンを丸ごと搾るスタイル"
+    ],
+    "tasteAndTexture": [
+      "鮮烈なレモンの酸味と炭酸の爽やかな後味",
+      "焼酎のすっきりした辛味とレモンの香りが調和",
+      "甘み控えめでキレのある飲み口",
+      "アルコール度数5〜7%程度で飲みやすい"
+    ],
+    "orderAdvice": "居酒屋では最もポピュラーな選択肢のひとつ。揚げ物・焼き物との相性が特によい。甘いドリンクが苦手な人向け。生レモン使用店はより香り高く、コスパも良好。",
+    "similarItems": [
+      {
+        "id": "hoppy",
+        "name": "ホッピー",
+        "difference": "ホッピーはビール風味ノンアルコール飲料で焼酎割り。麦の風味があり、レモンサワーより苦味がある"
+      },
+      {
+        "id": "baisu",
+        "name": "バイス",
+        "difference": "バイスはシソ風味の炭酸飲料割り。レモンサワーより甘みがあり独特の風味"
+      },
+      {
+        "name": "グレープフルーツサワー",
+        "difference": "同じ柑橘系サワーだが、グレープフルーツは苦味が強くレモンより甘みがある"
+      },
+      {
+        "id": "ume-sour",
+        "name": "梅サワー",
+        "difference": "梅サワーは梅の甘酸っぱさが加わりまろやかな風味。レモンサワーよりやや甘め"
+      }
+    ],
+    "relatedIds": [
+      "shochu",
+      "hoppy",
+      "baisu",
+      "akadama",
+      "denki-bran",
+      "ume-sour"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AF%E3%83%BC",
+      "https://shochupress.com/2024/09/24/colum_lemon_sour/"
+    ],
+    "tags": [
+      "日本料理",
+      "飲み物",
+      "あっさり",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "甘いお酒",
+      "ビール",
+      "ワイン",
+      "ノンアルコール",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/lemon-sour/1.jpg",
+      "/images/dishes/lemon-sour/2.jpg",
+      "/images/dishes/lemon-sour/3.jpg"
+    ]
+  },
+  {
+    "id": "ume-sour",
+    "name": "梅サワー",
+    "kana": "うめさわー",
+    "aliases": [
+      "梅ハイ",
+      "梅チューハイ",
+      "梅干しサワー",
+      "梅割り"
+    ],
+    "englishName": "Ume Sour",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "焼酎に梅干しや梅リキュールを加えて炭酸水で割った居酒屋定番ドリンク。梅の甘酸っぱさが焼酎の辛味をまろやかにし、幅広い層に支持される。",
+    "menuDescription": "焼酎をベースに梅干しや梅リキュールの風味を合わせ、強炭酸で仕上げた甘酸っぱい一杯。グラスに沈む梅の実が見た目にも映え、爽やかな後味と食欲増進効果が魅力です。",
+    "whatComesOut": [
+      "タンブラーまたはジョッキに注がれた薄ピンク〜透明の炭酸ドリンク",
+      "梅干しが1〜2粒グラスの底または縁に添えられる",
+      "氷入りで提供",
+      "店によっては梅リキュールや梅シロップ使用で甘めに仕上げる"
+    ],
+    "tasteAndTexture": [
+      "梅特有の甘酸っぱさと炭酸の爽快感",
+      "焼酎のアルコール感を梅の酸味がやわらげたまろやかな飲み口",
+      "梅干し使用時は塩味がアクセントになる",
+      "レモンサワーよりやや甘みがあり飲みやすい"
+    ],
+    "orderAdvice": "お酒が苦手な人でも飲みやすい甘酸っぱい味わい。梅干し使用の「梅割り」スタイルは塩気と酸味が強め。甘めが好みならリキュール使用店を選ぶとよい。揚げ物・焼き鳥との相性が良い。",
+    "similarItems": [
+      {
+        "id": "lemon-sour",
+        "name": "レモンサワー",
+        "difference": "レモンサワーは柑橘の鮮烈な酸味が主役。梅サワーより甘みが少なくキレが強い"
+      },
+      {
+        "id": "hoppy",
+        "name": "ホッピー",
+        "difference": "ホッピーはビール風味。梅サワーの甘酸っぱさとは対照的な苦味系"
+      },
+      {
+        "name": "梅酒ソーダ",
+        "difference": "梅酒ソーダは梅酒ベースで甘みが強い。梅サワーより甘く、焼酎感が少ない"
+      }
+    ],
+    "relatedIds": [
+      "shochu",
+      "lemon-sour",
+      "hoppy",
+      "baisu",
+      "akadama"
+    ],
+    "source": [
+      "https://miraizaka.com/blog_list/11441/",
+      "https://tanoshiiosake.jp/10030"
+    ],
+    "tags": [
+      "日本料理",
+      "飲み物",
+      "あっさり",
+      "酸味",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "甘くないお酒",
+      "ビール",
+      "ワイン",
+      "辛口",
+      "ノンアルコール"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "beer",
+    "name": "ビール",
+    "kana": "びーる",
+    "aliases": [
+      "生ビール",
+      "麦酒",
+      "ドラフトビール"
+    ],
+    "englishName": "Beer",
+    "originalName": "Bier",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "ドイツ"
+      }
+    ],
+    "summary": "大麦麦芽を酵母で発酵させ、ホップで苦味と香りを加えた世界最古かつ最も広く飲まれる醸造酒。ラガーとエールの2系統があり、日本ではラガーが主流。",
+    "menuDescription": "大麦麦芽・ホップ・水・酵母を原料に醸造した炭酸入りアルコール飲料。ホップの爽やかな苦味と麦の旨みが特徴で、キンキンに冷やして提供されます。生ビールはサーバーから注がれたもの、瓶・缶と飲み方も多彩です。",
+    "whatComesOut": [
+      "冷やされたグラスまたはジョッキに注がれた黄金色の液体",
+      "上部にきめ細かいクリーミーな泡（泡と液体の比率は3:7が目安）",
+      "生ビールはサーバーから注ぎたてで提供",
+      "瓶ビールは栓抜きとグラスが付くことも"
+    ],
+    "tasteAndTexture": [
+      "ホップ由来のキリッとした苦味と爽やかな後味",
+      "麦芽の甘みと旨みが苦味を下支え",
+      "炭酸の清涼感と喉越し",
+      "ラガーはすっきり、エールはコクと香りが豊か"
+    ],
+    "orderAdvice": "食事の最初の一杯として最適。揚げ物・焼き物・枝豆など塩系のつまみと相性抜群。苦味が苦手なら甘みの強いフルーツビールや黒ビールを試す手もある。",
+    "caution": "グルテンを含む麦芽使用。小麦アレルギーの方は注意。アルコール度数4〜6%が一般的。",
+    "similarItems": [
+      {
+        "id": "hoppy",
+        "name": "ホッピー",
+        "difference": "ホッピーはビール風味のノンアルコール飲料。焼酎と割って飲む。ビールより低カロリー"
+      },
+      {
+        "id": "cidre",
+        "name": "シードル",
+        "difference": "シードルはリンゴ由来の醸造酒。ビールより甘みが強く苦味がない"
+      },
+      {
+        "name": "クラフトビール",
+        "difference": "小規模醸造所製の個性派ビール。IPAやスタウトなど風味が多様でビールより個性が強い"
+      },
+      {
+        "id": "lemon-sour",
+        "name": "レモンサワー",
+        "difference": "レモンサワーは焼酎ベース。ビールより苦味がなく酸味が主役"
+      }
+    ],
+    "relatedIds": [
+      "hoppy",
+      "cidre",
+      "lemon-sour",
+      "ume-sour",
+      "shochu"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%BC%E3%83%AB",
+      "https://yonasato.com/column/guide/detail/beginner_beer_history/"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "飲み物",
+      "小麦",
+      "発酵",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "苦いお酒が苦手",
+      "ワイン",
+      "日本酒",
+      "ノンアルコール",
+      "甘いドリンク"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/beer/1.jpg",
+      "/images/dishes/beer/2.jpg",
+      "/images/dishes/beer/3.jpg"
+    ]
   }
 ]
