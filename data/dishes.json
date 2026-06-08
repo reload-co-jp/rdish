@@ -59838,5 +59838,1335 @@
       "/images/dishes/beer/2.jpg",
       "/images/dishes/beer/3.jpg"
     ]
+  },
+  {
+    "id": "kashira",
+    "name": "カシラ",
+    "kana": "かしら",
+    "aliases": [
+      "かしら",
+      "コメカミ",
+      "ツラミ",
+      "カシラ肉"
+    ],
+    "englishName": "Pork Cheek / Temple Meat",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "豚のこめかみ〜頬にかけた部位を串に刺した焼き物。やきとん文化の定番で、脂身が少なく旨味が濃い希少部位。",
+    "menuDescription": "豚のこめかみから頬にかけた筋肉部位を串に刺して炭火焼きにしたもの。コメカミはあっさりした弾力、ツラミは噛むほどに旨味が引き出されるのが特徴で、塩またはみそだれで提供されます。",
+    "whatComesOut": [
+      "串に刺した豚の頬・こめかみ肉（2〜3切れ）",
+      "塩またはみそだれで味付け",
+      "炭火焼きで表面に軽い焦げ目",
+      "1本あたり約70kcalと低カロリー"
+    ],
+    "tasteAndTexture": [
+      "脂身が少なくあっさりしているが旨味が濃い",
+      "弾力のある歯ごたえで噛むほどに旨味が出る",
+      "コメカミはクセが少なくジューシー",
+      "ツラミは筋肉質でしっかりした食感"
+    ],
+    "orderAdvice": "脂っこいものが苦手でもつまめる旨味系の一本。みそだれと相性が良く、埼玉・東松山スタイルのみそだれは独特の風味。塩でさっぱり食べたいならコメカミ、噛み応えを楽しむならツラミを選ぶと良い。",
+    "caution": "豚の頭部筋肉。アレルギーの観点では通常の豚肉に準ずる。",
+    "similarItems": [
+      {
+        "id": "yakitori",
+        "name": "焼き鳥",
+        "difference": "焼き鳥は鶏肉の串焼き。カシラはやきとん（豚串）に分類される"
+      },
+      {
+        "id": "horumon-yaki",
+        "name": "ホルモン焼き",
+        "difference": "ホルモン焼きは内臓が主役。カシラは頭部の筋肉部位で内臓ではない"
+      },
+      {
+        "name": "トントロ",
+        "difference": "トントロは豚の頬下〜首の脂身多めの部位。カシラより脂が多くこってり"
+      }
+    ],
+    "relatedIds": [
+      "yakitori",
+      "horumon-yaki",
+      "dote-yaki"
+    ],
+    "source": [
+      "https://gourmet-note.jp/posts/22032",
+      "https://tasob.com/oniku/2019/11/29/templemeat/"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "脂っこい肉が好き",
+      "内臓系が苦手",
+      "鶏肉派",
+      "あっさりが嫌い",
+      "やわらかい肉が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kashira/1.jpg"
+    ]
+  },
+  {
+    "id": "karubi",
+    "name": "カルビ",
+    "kana": "かるび",
+    "aliases": [
+      "バラ肉",
+      "上カルビ",
+      "牛バラ"
+    ],
+    "englishName": "Short Rib",
+    "originalName": "갈비",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "牛のあばら骨周辺のバラ肉。豊富な霜降りと脂の甘みが特徴で、焼肉の定番中の定番。",
+    "menuDescription": "牛のあばら骨まわりからとれるバラ肉。霜降りの脂がたっぷり入り、焼くと脂が溶け出してとろけるような柔らかさと濃厚な甘みが楽しめます。タレ焼きが定番スタイルです。",
+    "whatComesOut": [
+      "薄切りまたは厚切りの牛バラ肉",
+      "タレまたは塩で味付け（タレが多い）",
+      "焼き網で自分で焼くスタイル",
+      "サンチュや白ご飯が添えられることも"
+    ],
+    "tasteAndTexture": [
+      "霜降りの脂の甘みと肉の旨味が濃厚",
+      "火を通すととろけるような柔らかさ",
+      "タレで焼くと甘辛く香ばしい仕上がり",
+      "脂が多くこってりとした後味"
+    ],
+    "orderAdvice": "焼肉の定番。脂っこいものが好きなら迷わず選べる。上カルビはサシが多く高価だが一度は試す価値あり。ヘルシー志向ならハラミかロースのほうが向いている。",
+    "similarItems": [
+      {
+        "id": "rosu",
+        "name": "ロース",
+        "difference": "ロースは背中側の赤身と脂のバランス型。カルビより脂が少なくさっぱり"
+      },
+      {
+        "id": "harami",
+        "name": "ハラミ",
+        "difference": "ハラミは横隔膜筋肉でホルモン扱い。カルビより低カロリーでヘルシー"
+      },
+      {
+        "id": "steak",
+        "name": "ステーキ",
+        "difference": "ステーキは厚切り単品提供。カルビは薄切りの焼肉スタイルが主流"
+      }
+    ],
+    "relatedIds": [
+      "rosu",
+      "harami",
+      "steak"
+    ],
+    "source": [
+      "https://karubikazan.com/44/"
+    ],
+    "tags": [
+      "韓国料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "こってり",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "脂っこいのが苦手",
+      "ヘルシー志向",
+      "赤身派",
+      "あっさり好き",
+      "低カロリー希望"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/karubi/1.jpg",
+      "/images/dishes/karubi/2.jpg",
+      "/images/dishes/karubi/3.jpg"
+    ]
+  },
+  {
+    "id": "rosu",
+    "name": "ロース",
+    "kana": "ろーす",
+    "aliases": [
+      "肩ロース",
+      "リブロース",
+      "サーロイン",
+      "背ロース"
+    ],
+    "englishName": "Loin",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の背中側、肩から腰にかけての部位の総称。赤身の旨味と上品な脂のバランスが良く、焼肉の定番。",
+    "menuDescription": "牛の背中側から取れる肩ロース・リブロース・サーロインなどを総称してロースと呼びます。赤身の旨味と適度な脂のコクが調和した、焼肉で最もバランスの良い部位です。",
+    "whatComesOut": [
+      "薄切りまたは中厚切りの牛ロース肉",
+      "塩またはタレで味付け",
+      "焼き網で自分で焼くスタイル",
+      "脂の少ない赤身中心の見た目"
+    ],
+    "tasteAndTexture": [
+      "赤身の旨味と上品な脂のコクがバランス良く共存",
+      "カルビより脂が少なくさっぱりした後味",
+      "適度な弾力で噛み応えがある",
+      "どんな味付けにも合う万能な味わい"
+    ],
+    "orderAdvice": "脂の多いカルビとヘルシーなハラミの中間を求めるなら最適。焼肉初心者にも食べやすく万能。肩ロースは価格が手ごろで、リブロースやサーロインになるほど脂が増して高価。",
+    "similarItems": [
+      {
+        "id": "karubi",
+        "name": "カルビ",
+        "difference": "カルビはバラ肉で脂が多くこってり。ロースはより赤身寄りでさっぱり"
+      },
+      {
+        "id": "harami",
+        "name": "ハラミ",
+        "difference": "ハラミは横隔膜筋肉でホルモン扱い。ロースより旨味が強くヘルシー"
+      },
+      {
+        "id": "hire",
+        "name": "ヒレ",
+        "difference": "ヒレは最も脂が少なく柔らかい高級部位。ロースより淡白"
+      }
+    ],
+    "relatedIds": [
+      "karubi",
+      "harami",
+      "hire",
+      "steak"
+    ],
+    "source": [
+      "https://karubikazan.com/44/"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "脂たっぷりが好き",
+      "ホルモン派",
+      "豚肉派",
+      "魚派"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/rosu/1.jpg",
+      "/images/dishes/rosu/2.jpg",
+      "/images/dishes/rosu/3.jpg"
+    ]
+  },
+  {
+    "id": "harami",
+    "name": "ハラミ",
+    "kana": "はらみ",
+    "aliases": [
+      "スカートステーキ",
+      "ハラミ肉"
+    ],
+    "englishName": "Skirt Steak",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の横隔膜の肋骨側の筋肉。見た目は赤身肉に近いがホルモン扱い。1頭から約2〜3kgの希少部位。",
+    "menuDescription": "牛の横隔膜（肋骨側）からとれる筋肉で、見た目は赤身肉に似ていますがホルモン（内臓肉）に分類されます。適度な脂とジューシーな肉汁が特徴で、カルビより低カロリーながら満足感が高い人気部位です。",
+    "whatComesOut": [
+      "薄切りまたは中厚切りの赤身に近い外観の肉",
+      "塩またはタレで味付け",
+      "焼き網で自分で焼くスタイル",
+      "希少なため1人前の量が少ないこともある"
+    ],
+    "tasteAndTexture": [
+      "濃厚な旨味とジューシーな肉汁",
+      "しっかりした歯ごたえと適度な弾力",
+      "カルビより低カロリーでヘルシー",
+      "タレでも塩でも合う万能な味わい"
+    ],
+    "orderAdvice": "ヘルシーに焼肉を楽しみたいときの鉄板選択肢。赤身の風味と適度な脂のバランスが良く、カルビが重いと感じる人に向いている。見た目は赤身肉に近いがホルモン扱いである点に注意。",
+    "caution": "牛の内臓（横隔膜筋）のため、内臓が苦手な人は注意。見た目は赤身肉に近いがホルモン分類。",
+    "similarItems": [
+      {
+        "id": "sagari",
+        "name": "サガリ",
+        "difference": "サガリも横隔膜筋肉だが腰椎側。1頭1本しか取れずより希少"
+      },
+      {
+        "id": "karubi",
+        "name": "カルビ",
+        "difference": "カルビはバラ肉で正肉扱い。ハラミよりこってりでカロリーが高い"
+      },
+      {
+        "id": "steak",
+        "name": "ステーキ",
+        "difference": "欧米ではスカートステーキとしてステーキに使われる部位"
+      }
+    ],
+    "relatedIds": [
+      "sagari",
+      "karubi",
+      "steak"
+    ],
+    "source": [
+      "https://karubikazan.com/44/",
+      "https://www.hokubee.co.jp/blog/20220106"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "あっさり",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "脂たっぷりが好き",
+      "正肉のみ希望",
+      "ホルモン嫌い",
+      "豚肉派"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/harami/1.png",
+      "/images/dishes/harami/2.jpg",
+      "/images/dishes/harami/3.jpg"
+    ]
+  },
+  {
+    "id": "sagari",
+    "name": "サガリ",
+    "kana": "さがり",
+    "aliases": [
+      "ビワハラミ",
+      "サガリ肉"
+    ],
+    "englishName": "Hanging Tender",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の横隔膜の腰椎側の筋肉。ハラミの兄弟部位で1頭から1本しか取れない希少部位。",
+    "menuDescription": "牛の横隔膜のうち腰椎側にある筋肉で、ハラミと区別して呼ばれます。琵琶の葉のような形状から「ビワハラミ」とも呼ばれ、1頭から1本しか取れない希少部位。柔らかい赤身肉に近い食感が特徴です。",
+    "whatComesOut": [
+      "中厚切りの赤身に近い外観の肉",
+      "塩またはタレで味付け",
+      "焼き網で自分で焼くスタイル",
+      "中央に厚いスジが入った特徴的な形状"
+    ],
+    "tasteAndTexture": [
+      "柔らかく赤身に近い食感",
+      "ハラミと似た濃厚な旨味とジューシーさ",
+      "脂が少なくあっさりしているが旨味は豊か",
+      "中央のスジが若干硬いが全体は柔らかい"
+    ],
+    "orderAdvice": "ハラミと食べ比べてみたい部位。希少なため置いていない店もある。ハラミより若干あっさりした印象で、赤身の旨味をシンプルに楽しむなら塩がおすすめ。",
+    "caution": "牛の内臓（横隔膜筋）のため、内臓が苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "harami",
+        "name": "ハラミ",
+        "difference": "ハラミは横隔膜の肋骨側で1頭2本取れる。サガリは腰椎側で1本のみ"
+      },
+      {
+        "id": "karubi",
+        "name": "カルビ",
+        "difference": "カルビは正肉のバラ肉。サガリはホルモン扱いで脂が少ない"
+      },
+      {
+        "id": "steak",
+        "name": "ステーキ",
+        "difference": "ステーキ用としても使われるが焼肉での提供が主流"
+      }
+    ],
+    "relatedIds": [
+      "harami",
+      "karubi",
+      "steak"
+    ],
+    "source": [
+      "https://www.hokubee.co.jp/blog/20220106"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "脂たっぷりが好き",
+      "ホルモン嫌い",
+      "定番部位のみ希望",
+      "柔らかい肉が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sagari/1.jpg"
+    ]
+  },
+  {
+    "id": "misuji",
+    "name": "ミスジ",
+    "kana": "みすじ",
+    "aliases": [
+      "三筋",
+      "フラットアイアン"
+    ],
+    "englishName": "Flat Iron Steak",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の肩甲骨裏にある部位。肩肉の中で最も霜降りが多く、1頭から約3kgしか取れない希少部位。",
+    "menuDescription": "牛の肩甲骨の裏側にある筋肉で、葉脈のようなサシが特徴的に入ります。ウデ肉の中で最も霜降りが多く、焼肉では「特上カルビ」として提供されることもある希少部位です。",
+    "whatComesOut": [
+      "葉脈状のサシが入った中厚切りの肉",
+      "塩またはタレで味付け",
+      "焼き網で自分で焼くスタイル",
+      "1頭3kg程度の希少部位のため少量提供のことも"
+    ],
+    "tasteAndTexture": [
+      "霜降りの脂がしっかり入りつつ肉の旨味も濃い",
+      "非常に柔らかくとろけるような食感",
+      "カルビに近い濃厚さながら上品な脂の口どけ",
+      "葉脈状のサシが見た目にも美しい"
+    ],
+    "orderAdvice": "カルビより洗練された霜降り体験を求めるなら最高の選択肢。希少で価格が高いが牛肉好きなら必食。塩でもポン酢でもタレでも合う。",
+    "similarItems": [
+      {
+        "id": "zabuton",
+        "name": "ザブトン",
+        "difference": "ザブトンも肩ロースの希少霜降り部位。ミスジより更に全体的な霜降りが多い"
+      },
+      {
+        "id": "karubi",
+        "name": "カルビ",
+        "difference": "カルビはバラ肉。ミスジは肩甲骨裏でより希少かつ上品な霜降り"
+      },
+      {
+        "id": "steak",
+        "name": "ステーキ",
+        "difference": "フラットアイアンステーキとして欧米でもステーキに使われる部位"
+      }
+    ],
+    "relatedIds": [
+      "zabuton",
+      "karubi",
+      "steak"
+    ],
+    "source": [
+      "https://nikuzou.jp/blog/rare_part_of_beef/"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "こってり",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "脂っこいのが苦手",
+      "ヘルシー志向",
+      "定番のみ希望",
+      "あっさり好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/misuji/1.jpg",
+      "/images/dishes/misuji/2.jpg",
+      "/images/dishes/misuji/3.jpg"
+    ]
+  },
+  {
+    "id": "zabuton",
+    "name": "ザブトン",
+    "kana": "ざぶとん",
+    "aliases": [
+      "座布団",
+      "チャックフラップ"
+    ],
+    "englishName": "Chuck Flap",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "肩ロースの中で最もサシが入りやすい部位。座布団のような形状が名の由来で、牛肉全体の中でもトップクラスの霜降りを誇る。",
+    "menuDescription": "肩ロース芯にかぶさる形で位置する部位で、座布団のような形から「ザブトン」と命名されました。牛肉全体でも最高クラスの霜降りが入り、コクのある脂の甘みと赤身の旨味を兼ね備えた最上位の希少部位です。",
+    "whatComesOut": [
+      "細かい霜降りが全体に広がった中厚切りの肉",
+      "塩またはタレで味付け",
+      "焼き網で自分で焼くスタイル",
+      "非常に希少なため少量・高価格で提供"
+    ],
+    "tasteAndTexture": [
+      "牛肉全体でも最高クラスの霜降りによる濃厚な脂の甘み",
+      "非常に柔らかくとろけるような食感",
+      "コクのある脂と赤身の旨味の絶妙なバランス",
+      "口の中で脂が溶けるような上品な風味"
+    ],
+    "orderAdvice": "焼肉の最高峰の一つ。霜降り牛肉の醍醐味を最大限に味わいたいなら必注文。価格は高いが少量でも満足感が高い。脂が多いため食べ過ぎ注意。",
+    "similarItems": [
+      {
+        "id": "misuji",
+        "name": "ミスジ",
+        "difference": "ミスジも肩の希少部位だが葉脈状のサシ。ザブトンのほうが全体的な霜降りが多い"
+      },
+      {
+        "id": "karubi",
+        "name": "カルビ",
+        "difference": "カルビはバラ肉。ザブトンは肩ロース部位でより上品な霜降り"
+      },
+      {
+        "id": "steak",
+        "name": "ステーキ",
+        "difference": "デンバーステーキとして欧米でも注目される部位"
+      }
+    ],
+    "relatedIds": [
+      "misuji",
+      "karubi",
+      "steak"
+    ],
+    "source": [
+      "https://nikuzou.jp/blog/rare_part_of_beef/"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "脂っこいのが苦手",
+      "ヘルシー志向",
+      "あっさり好き",
+      "コスパ重視"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "hire",
+    "name": "ヒレ",
+    "kana": "ひれ",
+    "aliases": [
+      "フィレ",
+      "テンダーロイン",
+      "ヒレ肉"
+    ],
+    "englishName": "Tenderloin / Filet",
+    "originalName": "Filet",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の背骨内側にある最も運動量の少ない部位。牛肉の中で最もやわらかく脂が少ない高級部位。",
+    "menuDescription": "牛の背骨内側にある、最も運動量が少ない筋肉です。脂身が少ない赤身肉でありながら牛肉の中で最もやわらかく、口の中でほぐれるような食感が特徴。焼肉・ステーキ両方で高級部位として扱われます。",
+    "whatComesOut": [
+      "脂が少なく鮮やかな赤色の厚切り肉",
+      "塩または軽いタレで味付け",
+      "ステーキなら分厚いメダリオン状で提供",
+      "焼肉なら中厚切りスライスで提供"
+    ],
+    "tasteAndTexture": [
+      "牛肉中で最もやわらかくバターのようにほぐれる",
+      "脂が少なくあっさりした中に上品な旨味",
+      "噛むと滲み出る肉の甘みと繊細な風味",
+      "カロリーが低くヘルシーな部位"
+    ],
+    "orderAdvice": "脂が苦手で柔らかい肉を求めるなら最高の選択肢。価格は高いが贅沢したいときに。焼きすぎると固くなるのでレア〜ミディアムレアで食べること。中心部のシャトーブリアンが最高峰。",
+    "similarItems": [
+      {
+        "id": "chateaubriand",
+        "name": "シャトーブリアン",
+        "difference": "シャトーブリアンはヒレの中心の最高峰部位。ヒレの上位グレード"
+      },
+      {
+        "id": "rosu",
+        "name": "ロース",
+        "difference": "ロースは脂と赤身のバランス型。ヒレより脂が多くこってり"
+      },
+      {
+        "id": "steak",
+        "name": "ステーキ",
+        "difference": "ヒレステーキはステーキの王道メニューの一つ"
+      }
+    ],
+    "relatedIds": [
+      "chateaubriand",
+      "rosu",
+      "steak"
+    ],
+    "source": [
+      "https://nikuzou.jp/blog/rare_part_of_beef/",
+      "https://karubikazan.com/44/"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "ロースト",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "脂たっぷりが好き",
+      "こってり派",
+      "コスパ重視",
+      "ホルモン好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hire/1.jpg",
+      "/images/dishes/hire/2.jpg",
+      "/images/dishes/hire/3.jpg"
+    ]
+  },
+  {
+    "id": "chateaubriand",
+    "name": "シャトーブリアン",
+    "kana": "しゃとーぶりあん",
+    "englishName": "Chateaubriand",
+    "originalName": "Chateaubriand",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "牛ヒレ肉の中心部にある最高級部位。1頭からわずか600gしか取れず、牛肉の中で最も柔らかく贅沢な部位。",
+    "menuDescription": "牛ヒレ肉の中心部分のみを指す最高級部位です。1頭からわずか600g程度しか取れない究極の希少部位で、牛肉の中で最もやわらかく上品な旨味が特徴。フランス料理ではソースを添えたステーキとして供されます。",
+    "whatComesOut": [
+      "分厚い円形または楕円形のステーキ",
+      "ベアルネーズやペリゴールソースが添えられることが多い",
+      "野菜のガルニチュール付き",
+      "焼肉店では厚切りスライスで提供することも"
+    ],
+    "tasteAndTexture": [
+      "牛肉最高峰の柔らかさ、バターのようにほぐれる",
+      "脂が少なく上品な赤身の甘みと旨味",
+      "口の中でとろける絹のような食感",
+      "繊細な風味のため過度な味付けは不要"
+    ],
+    "orderAdvice": "特別な日に一度は食べる価値がある最高峰の牛肉。価格が非常に高いため記念日・贅沢な外食向け。焼き加減はレア〜ミディアムレアが必須。ヒレが好きな人にとっての究極形。",
+    "similarItems": [
+      {
+        "id": "hire",
+        "name": "ヒレ",
+        "difference": "シャトーブリアンはヒレの中心部のみ。より希少で高価な最高峰"
+      },
+      {
+        "id": "steak",
+        "name": "ステーキ",
+        "difference": "ステーキの一種だがシャトーブリアンは特定の部位を指す専用語"
+      },
+      {
+        "id": "ranpu",
+        "name": "ランプ",
+        "difference": "ランプも赤身系だが若干脂が多い。シャトーブリアンより価格は手ごろ"
+      }
+    ],
+    "relatedIds": [
+      "hire",
+      "steak",
+      "ranpu"
+    ],
+    "source": [
+      "https://nikuzou.jp/blog/rare_part_of_beef/"
+    ],
+    "tags": [
+      "フランス料理",
+      "主菜",
+      "牛肉",
+      "ロースト",
+      "グリル",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "コスパ重視",
+      "脂たっぷり派",
+      "ホルモン好き",
+      "こってり好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chateaubriand/1.jpg",
+      "/images/dishes/chateaubriand/2.jpg",
+      "/images/dishes/chateaubriand/3.jpg"
+    ]
+  },
+  {
+    "id": "ichibo",
+    "name": "イチボ",
+    "kana": "いちぼ",
+    "aliases": [
+      "エイチボーン",
+      "ランプキャップ"
+    ],
+    "englishName": "Rump Cap / Sirloin Cap",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛のお尻付近にある希少な赤身部位。脂と赤身のバランスが良く、しっかりした噛み応えと濃い旨味が特徴。",
+    "menuDescription": "牛のお尻上部から取れる赤身主体の希少部位です。適度なサシが入りながら赤身の旨味も存分に楽しめる、脂と赤身のバランスが絶妙な部位。ステーキや焼肉で人気が高まっています。",
+    "whatComesOut": [
+      "適度なサシが入った赤身主体の中厚切り肉",
+      "塩またはタレで味付け",
+      "焼き網で自分で焼くスタイル",
+      "ステーキとして厚切り提供のこともある"
+    ],
+    "tasteAndTexture": [
+      "脂と赤身のバランスが良く両方の旨味を楽しめる",
+      "しっかりした噛み応えと濃厚な肉の旨味",
+      "霜降りと赤身の中間的な味わい",
+      "上部は柔らかくステーキ向き、下部は噛み応えあり"
+    ],
+    "orderAdvice": "霜降りと赤身どちらも楽しみたいときの理想的な選択肢。ランプより若干サシが多いためやや濃厚。焼きすぎると硬くなるのでミディアムレアが最適。",
+    "similarItems": [
+      {
+        "id": "ranpu",
+        "name": "ランプ",
+        "difference": "ランプはイチボより脂が少なくあっさり。同じ腰回りの部位だが赤身度が高い"
+      },
+      {
+        "id": "hire",
+        "name": "ヒレ",
+        "difference": "ヒレは脂がほぼなく最も柔らか。イチボより淡白で価格が高い"
+      },
+      {
+        "id": "steak",
+        "name": "ステーキ",
+        "difference": "ランプキャップステーキとして欧米でも親しまれる部位"
+      }
+    ],
+    "relatedIds": [
+      "ranpu",
+      "hire",
+      "steak"
+    ],
+    "source": [
+      "https://nikuzou.jp/blog/rare_part_of_beef/"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "脂たっぷり派",
+      "柔らかい肉のみ希望",
+      "あっさり好き",
+      "ホルモン好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "ranpu",
+    "name": "ランプ",
+    "kana": "らんぷ",
+    "aliases": [
+      "ラン",
+      "ランプ肉"
+    ],
+    "englishName": "Rump",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の腰からお尻にかけての赤身部位。脂が少なくヘルシーながら旨味が強く、ステーキや焼肉・ローストビーフに活躍する万能部位。",
+    "menuDescription": "牛の腰からモモ、お尻にかけての上質な赤身肉です。脂が控えめながら赤身の旨味が強く、肉本来の味を楽しめます。鉄分・タンパク質も豊富で栄養価が高く、ヘルシーに本格的な牛肉の旨味を楽しめます。",
+    "whatComesOut": [
+      "脂が少なく鮮やかな赤色の肉",
+      "塩またはタレで味付け",
+      "ステーキなら厚切り、焼肉なら中厚切り",
+      "ローストビーフの材料としても定番"
+    ],
+    "tasteAndTexture": [
+      "赤身の旨味が濃く肉本来の味わいが前面に出る",
+      "脂が少なくあっさりした後味",
+      "火を入れすぎると固くなるためレア〜ミディアムレアが最適",
+      "100gあたりタンパク質21.6gと栄養価が高い"
+    ],
+    "orderAdvice": "赤身の旨味を純粋に楽しみたい人向け。ヘルシーに本格的な牛肉を楽しめる。ローストビーフにも最適。焼きすぎ厳禁のため焼肉では注意が必要。シンプルな塩・胡椒が最も旨味を引き立てる。",
+    "similarItems": [
+      {
+        "id": "ichibo",
+        "name": "イチボ",
+        "difference": "イチボはランプより若干サシが多い。ランプのほうがより赤身度が高い"
+      },
+      {
+        "id": "hire",
+        "name": "ヒレ",
+        "difference": "ヒレのほうが柔らかく高価。ランプは噛み応えがありコスパが良い"
+      },
+      {
+        "id": "steak",
+        "name": "ステーキ",
+        "difference": "ランプステーキとして欧米でも定番の部位"
+      }
+    ],
+    "relatedIds": [
+      "ichibo",
+      "hire",
+      "steak"
+    ],
+    "source": [
+      "https://store.yazawa-meat.com/blogs/column/rump"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "ロースト",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "霜降り派",
+      "脂たっぷり好き",
+      "こってり好き",
+      "ホルモン好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ranpu/1.jpg",
+      "/images/dishes/ranpu/2.jpg",
+      "/images/dishes/ranpu/3.jpg"
+    ]
+  },
+  {
+    "id": "mino",
+    "name": "ミノ",
+    "kana": "みの",
+    "aliases": [
+      "上ミノ",
+      "ミノサンド",
+      "第一胃"
+    ],
+    "englishName": "Beef Tripe (First Stomach)",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の第一胃にあたるホルモン。4つの胃袋の中で最大で、コリコリとした独特の食感が特徴。ホルモンの中では臭みが少なく食べやすい。",
+    "menuDescription": "牛の4つの胃袋のうち最大の第一胃を使ったホルモンです。「蓑（みの）」に似た形状が名前の由来。肉厚でコリコリとした歯ごたえが特徴で、ホルモンの中では臭みが少なく食べやすい部位です。上ミノとミノサンドで食感が異なります。",
+    "whatComesOut": [
+      "白または薄灰色の肉厚なシート状の部位",
+      "細かい切り込みが入った状態で提供されることが多い",
+      "塩またはタレで味付け",
+      "焼くと切り込みが開いて花のように広がる"
+    ],
+    "tasteAndTexture": [
+      "コリコリとした独特の歯ごたえと弾力",
+      "噛むほどに甘みと旨味が染み出す",
+      "ホルモン中では臭みが少なくあっさりした味",
+      "上ミノは肉厚で固め、ミノサンドは脂がサンドされてジューシー"
+    ],
+    "orderAdvice": "ホルモン入門に最適な部位。臭みが少なく食感が楽しい。初めてホルモンを試すなら塩から始めると食べやすい。切り込みが開いたタイミングが食べごろで、焼きすぎると固くなる。",
+    "caution": "牛の内臓（胃袋）。内臓が苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "tecchan",
+        "name": "テッチャン（シマチョウ）",
+        "difference": "テッチャンは牛の大腸。ミノより脂が多く濃厚でプリプリ食感"
+      },
+      {
+        "id": "horumon-yaki",
+        "name": "ホルモン焼き",
+        "difference": "ホルモン焼きは内臓全般の焼き物。ミノはその中の一部位"
+      },
+      {
+        "id": "kashira",
+        "name": "カシラ",
+        "difference": "カシラは豚の頭部筋肉。ミノより柔らかく歯ごたえが少ない"
+      }
+    ],
+    "relatedIds": [
+      "tecchan",
+      "horumon-yaki",
+      "kashira"
+    ],
+    "source": [
+      "https://store.yazawa-meat.com/blogs/column/mino"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ホルモン嫌い",
+      "内臓が苦手",
+      "脂たっぷり希望",
+      "柔らかい肉のみ希望"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "gatsu",
+    "name": "ガツ",
+    "kana": "がつ",
+    "aliases": [
+      "ガツ芯",
+      "豚胃袋",
+      "豚胃"
+    ],
+    "englishName": "Pork Stomach",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "豚の胃袋。クセが少なくコリコリとした歯ごたえが特徴で、焼肉・ガツ刺しなど多様な食べ方が楽しめるホルモン。",
+    "menuDescription": "豚の胃袋からとれるホルモンです。白い部分はシャキシャキとした適度な歯ごたえがあり、クセが少なくあっさりした風味。焼き・ボイル・刺しと様々な調理法で楽しめます。",
+    "whatComesOut": [
+      "白〜薄ピンク色の肉厚なシート状の部位",
+      "塩またはタレで味付け",
+      "焼き網で自分で焼くスタイルが多い",
+      "「ガツ刺し」としてボイルしてタレで出ることも"
+    ],
+    "tasteAndTexture": [
+      "シャキシャキとしたコリコリ食感",
+      "クセが少なくあっさりした味わい",
+      "白い部分は食べやすく、赤い部分はやや硬め",
+      "鶏の砂肝に近い歯切れの良さ"
+    ],
+    "orderAdvice": "ホルモン初心者にも食べやすい部位。クセが少なくあっさりしているので、ホルモンが苦手な人の入門にも向いている。塩でさっぱりか、タレで風味豊かに食べるかはお好みで。",
+    "caution": "豚の内臓（胃袋）。内臓が苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "mino",
+        "name": "ミノ",
+        "difference": "ミノは牛の第一胃。ガツは豚の胃で牛ミノより小ぶりだがクセの少なさは同様"
+      },
+      {
+        "id": "tecchan",
+        "name": "テッチャン（シマチョウ）",
+        "difference": "テッチャンは牛の大腸で脂が多くこってり。ガツはよりあっさりした胃袋"
+      },
+      {
+        "id": "horumon-yaki",
+        "name": "ホルモン焼き",
+        "difference": "ホルモン焼きは内臓全般の焼き物。ガツはその中の豚胃袋"
+      }
+    ],
+    "relatedIds": [
+      "mino",
+      "tecchan",
+      "horumon-yaki"
+    ],
+    "source": [
+      "https://note.com/naizo29/n/n48c995f73b7a"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ホルモン嫌い",
+      "内臓が苦手",
+      "柔らかい肉のみ希望",
+      "脂たっぷり希望"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gatsu/1.jpg",
+      "/images/dishes/gatsu/2.jpg"
+    ]
+  },
+  {
+    "id": "kobukuro",
+    "name": "コブクロ",
+    "kana": "こぶくろ",
+    "aliases": [
+      "豚子宮",
+      "モト",
+      "カタ"
+    ],
+    "englishName": "Pork Uterus",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "豚の子宮にあたるホルモン。低脂質・低カロリーでコリコリとした独特の食感が特徴。焼肉のつまみとして人気の希少部位。",
+    "menuDescription": "豚の子宮からとれるホルモンで、焼肉店では細かい隠し包丁を入れた状態で提供されます。低脂質・低カロリーながらコリコリ・ザクザクとした独特の食感が楽しめ、塩でシンプルに食べるのがおすすめの希少部位です。",
+    "whatComesOut": [
+      "白〜薄ピンク色の細長い部位（隠し包丁入り）",
+      "塩またはタレで味付け",
+      "焼き網で自分で焼くスタイル",
+      "ボイルしてポン酢で出ることも"
+    ],
+    "tasteAndTexture": [
+      "軟骨のようなコリコリ・ザクザクとした独特の食感",
+      "淡白でさっぱりした味わい",
+      "低脂質・低カロリーでヘルシー",
+      "焼くと食感が楽しくお酒が進む"
+    ],
+    "orderAdvice": "珍しい部位を試したいホルモン好きに向いている。低カロリーでヘルシーなため女性にも人気。塩とごま油でシンプルに食べるのが最も旨味が引き立つ。",
+    "caution": "豚の内臓（子宮）。内臓が苦手な人は注意。希少部位のため置いていない店もある。",
+    "similarItems": [
+      {
+        "id": "gatsu",
+        "name": "ガツ",
+        "difference": "ガツは豚の胃袋。コブクロと同様にあっさりしているが食感が異なる"
+      },
+      {
+        "id": "kashira",
+        "name": "カシラ",
+        "difference": "カシラは豚の頭部筋肉。コブクロより柔らかく食べやすい"
+      },
+      {
+        "id": "horumon-yaki",
+        "name": "ホルモン焼き",
+        "difference": "ホルモン焼きは内臓全般。コブクロはその中でも希少な豚子宮"
+      }
+    ],
+    "relatedIds": [
+      "gatsu",
+      "kashira",
+      "horumon-yaki"
+    ],
+    "source": [
+      "https://note.com/naizo29/n/n1692057a4a5d"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ホルモン嫌い",
+      "内臓が苦手",
+      "脂たっぷり希望",
+      "柔らかい肉のみ希望"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "korikori",
+    "name": "コリコリ",
+    "kana": "こりこり",
+    "aliases": [
+      "大動脈",
+      "牛大動脈",
+      "ハツモト"
+    ],
+    "englishName": "Beef Aorta",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の心臓に繋がる大動脈。名前の通りコリコリとした食感が特徴で、1頭からわずかしか取れない希少部位。",
+    "menuDescription": "牛の心臓のつけ根にある大動脈からとれるホルモンです。血管の壁が厚く硬い組織のため、その名の通りコリコリとした独特の食感が楽しめます。脂が少なくさっぱりした味わいで、塩ダレ・レモンとの相性が抜群の希少部位です。",
+    "whatComesOut": [
+      "輪切りまたは開いた状態の白い厚肉の部位",
+      "塩ダレまたはレモン塩で提供されることが多い",
+      "焼き網で自分で焼くスタイル",
+      "希少なため少量・高価格で提供"
+    ],
+    "tasteAndTexture": [
+      "名前の通りコリコリとした強い歯ごたえ",
+      "脂が少なくさっぱりとした味わい",
+      "噛みしめるほど旨味が出る",
+      "塩ダレやレモンのさっぱりした味付けと相性が良い"
+    ],
+    "orderAdvice": "食感を楽しむホルモン好きに向いている。脂が少なくヘルシーで、あっさり系ホルモンの中でも際立った食感が特徴。希少なため見かけたら注文する価値あり。レモン塩が最もおすすめ。",
+    "caution": "牛の内臓（大動脈）。内臓が苦手な人は注意。希少部位のため置いていない店も多い。",
+    "similarItems": [
+      {
+        "id": "mino",
+        "name": "ミノ",
+        "difference": "ミノは牛の第一胃。コリコリと同様にコリコリ食感だが、ミノのほうが旨味が濃い"
+      },
+      {
+        "id": "tecchan",
+        "name": "テッチャン（シマチョウ）",
+        "difference": "テッチャンは大腸で脂が多くプリプリ。コリコリは血管でよりあっさり"
+      },
+      {
+        "id": "horumon-yaki",
+        "name": "ホルモン焼き",
+        "difference": "ホルモン焼きは内臓全般。コリコリはその中でも特に希少な大動脈"
+      }
+    ],
+    "relatedIds": [
+      "mino",
+      "tecchan",
+      "horumon-yaki"
+    ],
+    "source": [
+      "https://xn--0tr555cxse3z5c.com/basic/gyu_hormone/"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ホルモン嫌い",
+      "内臓が苦手",
+      "柔らかい肉のみ希望",
+      "こってり好き"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "tan",
+    "name": "タン",
+    "kana": "たん",
+    "aliases": [
+      "牛タン",
+      "タン塩",
+      "タン中",
+      "タンモト"
+    ],
+    "englishName": "Beef Tongue",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の舌。焼肉の定番部位で、コリッとした弾力ある食感と脂の少ないあっさりした風味が特徴。仙台では名物料理として有名。",
+    "menuDescription": "牛の舌全体を指すホルモンで、タン先・タン中・タンモトに分かれます。焼肉では最もポピュラーなホルモンの一つ。薄切りで提供されるタン塩がスタンダードで、レモン汁を絞って食べるスタイルが定番です。",
+    "whatComesOut": [
+      "薄切りのタン肉が数枚（タン塩が定番）",
+      "塩またはタレで味付け",
+      "レモンが添えられることが多い",
+      "仙台スタイルでは厚切りで提供されることも"
+    ],
+    "tasteAndTexture": [
+      "コリッとした弾力と適度な歯ごたえ",
+      "脂が少なくあっさりした後味",
+      "タンモトは脂がのって柔らかく、タン先は硬め",
+      "レモン塩との相性が抜群"
+    ],
+    "orderAdvice": "焼肉のホルモン入門として最適。クセが少なく食べやすく、ホルモンが苦手な人でも楽しめる。まずタン塩レモンから食べ始めると焼肉の幕開けとして最高。仙台厚切りタンは別格の満足感。",
+    "similarItems": [
+      {
+        "id": "harami",
+        "name": "ハラミ",
+        "difference": "ハラミも焼肉の人気ホルモン。タンより柔らかく肉汁が豊富"
+      },
+      {
+        "id": "korikori",
+        "name": "コリコリ",
+        "difference": "コリコリも牛のあっさりホルモン。タンより食感が強くより希少"
+      },
+      {
+        "id": "horumon-yaki",
+        "name": "ホルモン焼き",
+        "difference": "ホルモン焼き全般の中でタンは最も食べやすい定番部位"
+      }
+    ],
+    "relatedIds": [
+      "harami",
+      "korikori",
+      "horumon-yaki"
+    ],
+    "source": [
+      "https://xn--0tr555cxse3z5c.com/basic/gyu_hormone/",
+      "https://furunavi.jp/discovery/knowledge_food/202406-innards/"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ホルモン嫌い",
+      "内臓が苦手",
+      "脂たっぷり派",
+      "こってり好き"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tan/1.jpg",
+      "/images/dishes/tan/2.jpg",
+      "/images/dishes/tan/3.jpg"
+    ]
+  },
+  {
+    "id": "teppou",
+    "name": "テッポー",
+    "kana": "てっぽー",
+    "aliases": [
+      "テッポウ",
+      "豚直腸",
+      "直腸"
+    ],
+    "englishName": "Pork Rectum",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "豚の直腸。捌いたときに鉄砲のような見た目になることが名の由来。弾力のある歯ごたえとジューシーな脂の旨味が特徴。",
+    "menuDescription": "豚の直腸からとれるホルモンで、開いたときに鉄砲（テッポウ）のような形になることが名前の由来です。弾力のある噛み応えとジューシーな脂の甘みが特徴で、噛むごとに旨味が溢れ出す濃厚なホルモンです。",
+    "whatComesOut": [
+      "白〜薄ピンク色の筒状または開いた肉厚の部位",
+      "塩またはタレで味付け",
+      "焼き網で自分で焼くスタイル",
+      "もつ鍋の具材として出ることも"
+    ],
+    "tasteAndTexture": [
+      "弾力のある強い歯ごたえ",
+      "噛むごとに脂の旨味とジューシーさが溢れ出す",
+      "濃厚でコク深い味わい",
+      "シマチョウより脂が控えめだが十分な旨味"
+    ],
+    "orderAdvice": "ホルモン好きなら一度は試したい部位。弾力のある食感と脂の旨味がクセになる。タレとの相性が良く、辛みそとも合う。初心者にはやや個性が強いが、ホルモン好きには堪らない一品。",
+    "caution": "豚の内臓（直腸）。内臓が苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "tecchan",
+        "name": "テッチャン（シマチョウ）",
+        "difference": "テッチャンは大腸でより脂が多くプリプリ。テッポーは直腸でやや脂が控えめ"
+      },
+      {
+        "id": "gatsu",
+        "name": "ガツ",
+        "difference": "ガツは豚の胃袋でよりあっさり。テッポーのほうが脂の旨味が強い"
+      },
+      {
+        "id": "horumon-yaki",
+        "name": "ホルモン焼き",
+        "difference": "ホルモン焼きは内臓全般。テッポーは豚直腸で比較的珍しい部位"
+      }
+    ],
+    "relatedIds": [
+      "tecchan",
+      "gatsu",
+      "horumon-yaki"
+    ],
+    "source": [
+      "https://furunavi.jp/discovery/knowledge_food/202406-innards/"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "こってり",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "ホルモン嫌い",
+      "内臓が苦手",
+      "あっさり好き",
+      "脂が苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
   }
 ]
