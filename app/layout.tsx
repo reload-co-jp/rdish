@@ -91,6 +91,16 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
             </Link>
             <nav style={{ display: "flex", gap: "1rem" }}>
               <Link
+                href="/countries/"
+                style={{
+                  color: "#7a6655",
+                  fontSize: "0.875rem",
+                  textDecoration: "none",
+                }}
+              >
+                国から探す
+              </Link>
+              <Link
                 href="/reverse/"
                 style={{
                   color: "#7a6655",
@@ -119,16 +129,6 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
                 }}
               >
                 お気に入り
-              </Link>
-              <Link
-                href="/about/"
-                style={{
-                  color: "#7a6655",
-                  fontSize: "0.875rem",
-                  textDecoration: "none",
-                }}
-              >
-                このサイトについて
               </Link>
             </nav>
           </div>
