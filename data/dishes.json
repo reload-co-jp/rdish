@@ -61168,5 +61168,255 @@
     "heavinessScore": 3,
     "spicinessScore": 0,
     "images": []
+  },
+  {
+    "id": "gomtang",
+    "name": "コムタン",
+    "kana": "こむたん",
+    "aliases": [
+      "コムグク",
+      "곰탕",
+      "곰국"
+    ],
+    "englishName": "Gomtang",
+    "originalName": "곰탕",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "牛骨・牛すじ・すね肉・テール・内臓などを弱火で長時間煮出す韓国の牛スープ。白濁または淡い乳白色の滋味深い broth に肉やご飯を合わせ、塩・こしょう・ねぎで味を整えて食べる。",
+    "menuDescription": "牛骨や牛肉を長時間煮込んだ、辛くない韓国のスープ。澄んだタイプから白濁タイプまであり、牛肉の旨みが溶けたやさしい味。ご飯を入れてクッパのように食べることも多く、カクテキやキムチと相性がよい。",
+    "whatComesOut": [
+      "牛骨・牛肉を煮出した熱いスープの椀",
+      "薄切りまたはほぐした牛肉、牛すじ、内臓などの具",
+      "刻みねぎ、こしょう、塩が添えられることが多い",
+      "ご飯やカクテキ、キムチと一緒に出ることが多い"
+    ],
+    "tasteAndTexture": [
+      "牛骨由来のまろやかな旨みとコク",
+      "辛さはほぼなく、塩味は自分で調整する店も多い",
+      "肉はやわらかく、スープはさらっとしつつ滋味深い",
+      "カクテキを合わせると酸味と食感が加わる"
+    ],
+    "orderAdvice": "辛くない韓国料理を食べたい時、朝食や締めの一杯に向く。ソルロンタンより肉の旨みを前に感じたい人、牛スープ系を試したい人におすすめ。",
+    "caution": "牛肉・牛骨を使用。部位に内臓が含まれる場合あり。",
+    "similarItems": [
+      {
+        "id": "seolleongtang",
+        "name": "ソルロンタン",
+        "difference": "ソルロンタンは牛骨を白濁するまで煮る印象が強い。コムタンは牛肉や内臓の旨みを活かす澄んだタイプもある"
+      },
+      {
+        "name": "カルビタン",
+        "difference": "カルビタンは骨付きカルビが主役。コムタンは牛骨・牛肉・内臓など部位の幅が広い"
+      },
+      {
+        "id": "dak-hanmari",
+        "name": "タッカンマリ",
+        "difference": "タッカンマリは鶏を丸ごと煮る鍋料理。コムタンは牛ベースのスープ"
+      }
+    ],
+    "relatedIds": [
+      "seolleongtang",
+      "kimchi",
+      "dak-hanmari"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Gomguk",
+      "https://www.maangchi.com/recipe/gomtang"
+    ],
+    "tags": [
+      "韓国料理",
+      "スープ",
+      "牛肉",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "辛い料理が食べたい",
+      "牛肉が苦手",
+      "内臓が苦手",
+      "こってりチーズ系",
+      "焼き物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gomtang/1.jpg",
+      "/images/dishes/gomtang/2.jpg",
+      "/images/dishes/gomtang/3.jpg"
+    ]
+  },
+  {
+    "id": "samgyetang",
+    "name": "参鶏湯",
+    "kana": "さむげたん",
+    "aliases": [
+      "サムゲタン",
+      "蔘鷄湯",
+      "삼계탕"
+    ],
+    "englishName": "Samgye-tang",
+    "originalName": "삼계탕",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "若鶏の腹にもち米・にんにく・高麗人参・ナツメなどを詰めて煮る韓国の薬膳的な鶏スープ。暑い時期に体力を補う料理として親しまれ、丸鶏一羽が一人前で出ることも多い。",
+    "menuDescription": "小ぶりの丸鶏にもち米や高麗人参、ナツメ、にんにくを詰め、じっくり煮込んだ滋養系スープ。味付けは穏やかで、卓上の塩・こしょうで調整する。鶏肉はほろほろ、もち米は鶏と薬味の旨みを吸って雑炊のようになる。",
+    "whatComesOut": [
+      "小ぶりの丸鶏が入った熱いスープ",
+      "鶏の中にもち米、にんにく、高麗人参、ナツメなど",
+      "塩・こしょう、ねぎ、キムチが添えられることが多い",
+      "店によって高麗人参酒が添えられることもある"
+    ],
+    "tasteAndTexture": [
+      "鶏のやさしい旨みと高麗人参のほろ苦い香り",
+      "鶏肉はやわらかく、骨から外れやすい",
+      "もち米がスープを吸ってとろみと甘みを出す",
+      "辛さはなく、塩で輪郭を調整する淡い味"
+    ],
+    "orderAdvice": "辛くない韓国料理、体が温まるスープ、鶏料理を探す時に向く。高麗人参の香りが苦手でなければ、韓国料理初心者にも食べやすい。",
+    "caution": "鶏肉使用。高麗人参や薬膳系の香りが強い店あり。骨付き丸鶏なので食べる時は小骨に注意。",
+    "similarItems": [
+      {
+        "id": "dak-hanmari",
+        "name": "タッカンマリ",
+        "difference": "タッカンマリは鶏を鍋でシェアして食べる。参鶏湯はもち米や高麗人参を詰めた一人前スープの印象が強い"
+      },
+      {
+        "name": "ペクスク",
+        "difference": "ペクスクは鶏や肉を素朴に煮る料理。参鶏湯は高麗人参ともち米を入れる薬膳色が強い"
+      },
+      {
+        "id": "gomtang",
+        "name": "コムタン",
+        "difference": "コムタンは牛ベース。参鶏湯は鶏と高麗人参が主役"
+      }
+    ],
+    "relatedIds": [
+      "dak-hanmari",
+      "gomtang",
+      "kimchi"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Samgye-tang",
+      "https://www.koreanbapsang.com/samgyetang/"
+    ],
+    "tags": [
+      "韓国料理",
+      "スープ",
+      "鶏肉",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "鶏肉が苦手",
+      "薬膳の香りが苦手",
+      "辛い料理が食べたい",
+      "骨付き肉が苦手",
+      "冷たい料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/samgyetang/1.jpg",
+      "/images/dishes/samgyetang/2.jpg",
+      "/images/dishes/samgyetang/3.jpg"
+    ]
+  },
+  {
+    "id": "budae-jjigae",
+    "name": "プデチゲ",
+    "kana": "ぷでちげ",
+    "aliases": [
+      "ブデチゲ",
+      "部隊チゲ",
+      "부대찌개",
+      "アーミースチュー"
+    ],
+    "englishName": "Budae-jjigae",
+    "originalName": "부대찌개",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "ハム、ソーセージ、スパム、キムチ、インスタント麺、コチュジャン、チーズなどを煮込む韓国の辛い鍋・チゲ。朝鮮戦争後、米軍基地周辺の加工肉を韓国式の鍋に取り入れた料理として広まった。",
+    "menuDescription": "キムチと辛いスープに、スパム・ソーセージ・ハム・豆腐・ラーメン・チーズなどを入れて煮る韓国のジャンキーな鍋。赤いスープは濃く、加工肉の塩気とキムチの酸味、麺の食べ応えが合わさる。卓上鍋でシェアする店が多い。",
+    "whatComesOut": [
+      "赤い辛味スープの浅い鍋",
+      "スパム、ソーセージ、ハム、ベーコンなどの加工肉",
+      "キムチ、豆腐、ねぎ、きのこ、餅、ラーメンなど",
+      "チーズや追加麺を選べる店も多い"
+    ],
+    "tasteAndTexture": [
+      "コチュジャンや唐辛子のピリ辛さ",
+      "加工肉の塩気と脂、キムチの酸味が強い",
+      "ラーメンや餅で食べ応えがある",
+      "チーズ入りはまろやかでこってりする"
+    ],
+    "orderAdvice": "数人で鍋を囲みたい時、辛くて濃い韓国料理を食べたい時に向く。加工肉とインスタント麺の味が前面に出るため、上品なスープよりジャンクな旨みを求める人向け。",
+    "caution": "豚肉加工品を含むことが多い。辛味、塩分、加工肉、チーズが苦手な場合は注意。",
+    "similarItems": [
+      {
+        "id": "kimchi",
+        "name": "キムチチゲ",
+        "difference": "キムチチゲはキムチと豚肉・豆腐などが中心。プデチゲはスパム、ソーセージ、ラーメン、チーズなど加工食品が主役"
+      },
+      {
+        "id": "gamjatang",
+        "name": "カムジャタン",
+        "difference": "カムジャタンは豚骨とじゃがいもの辛い鍋。プデチゲは加工肉と麺のジャンクな旨みが特徴"
+      },
+      {
+        "id": "gochujang",
+        "name": "コチュジャン",
+        "difference": "コチュジャンは辛味噌調味料。プデチゲはそれを使うことが多い鍋料理"
+      }
+    ],
+    "relatedIds": [
+      "kimchi",
+      "gochujang",
+      "gamjatang"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Budae-jjigae",
+      "https://www.koreanbapsang.com/budae-jjigae-army-stew/",
+      "https://en.wikipedia.org/wiki/Kimchi-jjigae"
+    ],
+    "tags": [
+      "韓国料理",
+      "スープ",
+      "豚肉",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "加工肉が苦手",
+      "あっさり料理",
+      "チーズが苦手",
+      "低塩分"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/budae-jjigae/1.jpg",
+      "/images/dishes/budae-jjigae/2.jpg",
+      "/images/dishes/budae-jjigae/3.jpg"
+    ]
   }
 ]
