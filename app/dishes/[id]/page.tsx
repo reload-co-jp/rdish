@@ -3,6 +3,7 @@ import { notFound } from "next/navigation"
 import { Breadcrumb } from "../../../components/elements/Breadcrumb"
 import { DishDetail } from "../../../components/features/DishDetail"
 import { RecentlyViewedTracker } from "../../../components/features/RecentlyViewedTracker"
+import AdSense from "../../../components/elements/AdSense"
 import dishes from "../../../data/dishes.json"
 import type { DishItem } from "../../../types/dish"
 
@@ -119,6 +120,7 @@ export default async function DishPage({
       )}
       <Breadcrumb items={[{ label: "料理一覧", href: "/dishes/" }, { label: dish.name }]} />
       <DishPageContent dish={dish} allDishes={dishes as DishItem[]} />
+      <AdSense />
     </>
   )
 }

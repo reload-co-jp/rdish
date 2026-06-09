@@ -2,6 +2,7 @@ import Link from "next/link"
 import { DishCard } from "../components/features/DishCard"
 import { FavoriteRelated } from "../components/features/FavoriteRelated"
 import { SearchBox } from "../components/features/SearchBox"
+import AdSense from "../components/elements/AdSense"
 import dishes from "../data/dishes.json"
 import articlesData from "../data/articles.json"
 import { categoryPath } from "../lib/taxonomy"
@@ -190,6 +191,8 @@ export default function TopPage() {
           ))}
         </div>
       </section>
+
+      <AdSense />
     </div>
   )
 }

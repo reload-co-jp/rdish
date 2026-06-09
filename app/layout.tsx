@@ -4,6 +4,7 @@ import Link from "next/link"
 import "./reset.css"
 
 const GA_ID = "G-Y2D3TYWS2Q"
+const ADSENSE_ID = "ca-pub-6542845006087970"
 
 const SITE_URL = "https://rdish.reload.co.jp"
 
@@ -46,6 +47,11 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
               gtag('js', new Date());
               gtag('config', '${GA_ID}');
             `}</Script>
+            <Script
+              src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_ID}`}
+              strategy="afterInteractive"
+              crossOrigin="anonymous"
+            />
           </>
         )}
         <header
