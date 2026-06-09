@@ -61334,6 +61334,175 @@
     ]
   },
   {
+    "id": "baeksuk",
+    "name": "ペクスク",
+    "kana": "ぺくすく",
+    "aliases": [
+      "白熟",
+      "タッペクスク",
+      "ダッペクスク",
+      "백숙",
+      "닭백숙"
+    ],
+    "englishName": "Baeksuk",
+    "originalName": "백숙",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "鶏などの肉を調味せず、またはごく薄味で水からじっくり煮る韓国の素朴な煮込み料理。一般には丸鶏をにんにくやねぎと煮るタッペクスクを指し、塩・こしょうを各自で足して食べる。",
+    "menuDescription": "丸鶏を水、にんにく、ねぎなどでやわらかく煮た、辛くない韓国の鶏スープ。参鶏湯より薬膳感は控えめで、鶏の旨みを淡く味わう。もち米入りや、残ったスープで粥にするタイプもある。",
+    "whatComesOut": [
+      "丸鶏または骨付き鶏肉を煮た白っぽいスープ",
+      "にんにく、ねぎ、もち米が入ることがある",
+      "塩・こしょう、刻みねぎ、キムチなどの添え物",
+      "店によって鶏肉と粥を分けて出すこともある"
+    ],
+    "tasteAndTexture": [
+      "鶏の澄んだ旨みとにんにくの穏やかな香り",
+      "味付けは淡く、塩やこしょうで自分好みに整える",
+      "鶏肉はほろほろで骨から外れやすい",
+      "もち米や粥付きなら、スープを吸ってやさしいとろみが出る"
+    ],
+    "orderAdvice": "辛くない韓国料理、体が温まる鶏スープ、薬膳香が控えめな滋養系料理を食べたい時に向く。参鶏湯の高麗人参が苦手な人にも選びやすい。",
+    "caution": "鶏肉使用。骨付きで出ることが多いので小骨に注意。店によって量が多く、シェア向きの場合あり。",
+    "similarItems": [
+      {
+        "id": "samgyetang",
+        "name": "参鶏湯",
+        "difference": "参鶏湯は高麗人参、ナツメ、もち米などを詰める薬膳色が強い。ペクスクはより素朴で調味も控えめ"
+      },
+      {
+        "id": "dak-hanmari",
+        "name": "タッカンマリ",
+        "difference": "タッカンマリは鍋で煮ながらタレにつけて食べるシェア料理。ペクスクは煮上げた鶏と淡いスープを味わう"
+      },
+      {
+        "id": "gomtang",
+        "name": "コムタン",
+        "difference": "コムタンは牛骨や牛肉のスープ。ペクスクは主に鶏を丸ごと煮る"
+      }
+    ],
+    "relatedIds": [
+      "samgyetang",
+      "dak-hanmari",
+      "gomtang",
+      "kimchi"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Baeksuk",
+      "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178531",
+      "https://www.koreanbapsang.com/pressure-cooker-nurungji-baeksuk-boiled-chicken-rice/"
+    ],
+    "tags": [
+      "韓国料理",
+      "スープ",
+      "鶏肉",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "鶏肉が苦手",
+      "辛い料理が食べたい",
+      "濃い味が好き",
+      "骨付き肉が苦手",
+      "こってり料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/baeksuk/1.jpg"
+    ]
+  },
+  {
+    "id": "galbi-tang",
+    "name": "カルビタン",
+    "kana": "かるびたん",
+    "aliases": [
+      "ガルビタン",
+      "カルビ湯",
+      "갈비탕"
+    ],
+    "englishName": "Galbi-tang",
+    "originalName": "갈비탕",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "牛の骨付きカルビを大根、ねぎ、にんにくなどと煮込む韓国の澄んだ牛スープ。骨付きカルビの旨みを引き出した滋養系の湯料理で、結婚式など特別な席でも出される。",
+    "menuDescription": "骨付き牛カルビが入った、辛くない韓国のスープ。澄んだ牛だしに大根やねぎの甘みが入り、肉は骨から外れるほどやわらかい。春雨や錦糸卵が入る店もあり、ご飯とキムチを合わせて食べる。",
+    "whatComesOut": [
+      "骨付き牛カルビが入った熱い透明スープ",
+      "大根、ねぎ、にんにく、卵飾り、春雨が入ることがある",
+      "塩・こしょう、刻みねぎで味を整えることが多い",
+      "ご飯、キムチ、カクテキなどの副菜が添えられることが多い"
+    ],
+    "tasteAndTexture": [
+      "牛カルビ由来の深い旨みと澄んだ後味",
+      "辛さはなく、塩味は控えめで上品",
+      "骨付き肉はやわらかく、脂の甘みもある",
+      "大根はスープを吸って甘く、春雨入りならつるっとした食感"
+    ],
+    "orderAdvice": "辛くない韓国料理、牛肉の澄んだスープ、骨付き肉をしっかり食べたい時に向く。焼肉より軽く、ソルロンタンより肉の存在感が欲しい人向け。",
+    "caution": "牛肉・牛骨使用。骨付きで出るため小骨に注意。脂が浮く店もあり、完全なあっさり味ではない場合あり。",
+    "similarItems": [
+      {
+        "id": "gomtang",
+        "name": "コムタン",
+        "difference": "コムタンは牛骨・牛肉・内臓など部位の幅が広い。カルビタンは骨付きカルビが主役"
+      },
+      {
+        "id": "seolleongtang",
+        "name": "ソルロンタン",
+        "difference": "ソルロンタンは牛骨を長く煮た白濁スープ。カルビタンは澄んだスープに骨付きカルビを入れる"
+      },
+      {
+        "id": "karubi",
+        "name": "カルビ",
+        "difference": "カルビは牛ばら肉・あばら周辺の部位名や焼肉メニュー。カルビタンは骨付きカルビを煮たスープ料理"
+      }
+    ],
+    "relatedIds": [
+      "gomtang",
+      "seolleongtang",
+      "karubi",
+      "kimchi"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Galbi-tang",
+      "https://www.korea.net/NewsFocus/Culture/view?articleId=141860",
+      "https://www.koreanbapsang.com/galbitang-beef-short-rib-soup/"
+    ],
+    "tags": [
+      "韓国料理",
+      "スープ",
+      "牛肉",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "牛肉が苦手",
+      "骨付き肉が苦手",
+      "辛い料理が食べたい",
+      "軽い野菜料理",
+      "脂が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/galbi-tang/1.jpg",
+      "/images/dishes/galbi-tang/2.jpg"
+    ]
+  },
+  {
     "id": "budae-jjigae",
     "name": "プデチゲ",
     "kana": "ぷでちげ",
