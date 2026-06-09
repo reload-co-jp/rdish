@@ -14,16 +14,11 @@ export const metadata: Metadata = {
 }
 
 const linkStyle = {
-  background: "#f0e6d6",
-  border: "1px solid #e8ddd0",
-  borderRadius: "0.375rem",
   color: "#7a4f2a",
   fontSize: "0.875rem",
-  padding: "0.5rem 1rem",
-  textDecoration: "none",
-  display: "flex",
-  alignItems: "center",
-  gap: "0.375rem",
+  textDecoration: "underline",
+  textDecorationColor: "#d4b896",
+  textUnderlineOffset: "3px",
 } as const
 
 const countStyle = { color: "#a89080", fontSize: "0.75rem" }
@@ -36,34 +31,59 @@ function toLabel(r: { area?: string; country?: string; locality?: string }): str
   return r.area ?? ""
 }
 
+type CountryGroup = {
+  country: string
+  countryCount: number
+  localities: Section[]
+}
+
 export default function CountriesPage() {
   const allDishes = dishes as DishItem[]
 
-  const areaMap = new Map<string, number>()
-  const countryMap = new Map<string, number>()
+  const countryOnlyMap = new Map<string, number>()
   const localityMap = new Map<string, number>()
+  const countryForLocalityMap = new Map<string, number>()
+  const areaMap = new Map<string, number>()
 
   for (const dish of allDishes) {
     for (const region of dish.regions) {
       const label = toLabel(region)
       if (region.country && region.locality) {
         localityMap.set(label, (localityMap.get(label) ?? 0) + 1)
-        countryMap.set(region.country, (countryMap.get(region.country) ?? 0) + 1)
+        countryForLocalityMap.set(region.country, (countryForLocalityMap.get(region.country) ?? 0) + 1)
       } else if (region.country) {
-        countryMap.set(label, (countryMap.get(label) ?? 0) + 1)
+        countryOnlyMap.set(label, (countryOnlyMap.get(label) ?? 0) + 1)
       } else {
         areaMap.set(label, (areaMap.get(label) ?? 0) + 1)
       }
     }
   }
 
-  const toList = (map: Map<string, number>): Section[] =>
-    [...map.entries()].sort((a, b) => b[1] - a[1]).map(([region, count]) => ({ region, count }))
+  const allCountries = new Set([...countryOnlyMap.keys(), ...countryForLocalityMap.keys()])
+  const countryGroups: CountryGroup[] = [...allCountries]
+    .map((country) => {
+      const countryCount = countryOnlyMap.get(country) ?? 0
+      const localities = [...localityMap.entries()]
+        .filter(([label]) => label.startsWith(`${country}（`))
+        .sort((a, b) => b[1] - a[1])
+        .map(([region, count]) => ({ region, count }))
+      return { country, countryCount, localities }
+    })
+    .sort((a, b) => {
+      const aTotal = a.countryCount + a.localities.reduce((s, l) => s + l.count, 0)
+      const bTotal = b.countryCount + b.localities.reduce((s, l) => s + l.count, 0)
+      return bTotal - aTotal
+    })
 
-  const countries = toList(countryMap)
-  const localities = toList(localityMap)
-  const areas = toList(areaMap)
-  const allRegions = [...countries, ...localities, ...areas]
+  const areas = [...areaMap.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .map(([region, count]) => ({ region, count }))
+
+  const allRegions: Section[] = [
+    ...countryGroups.map(({ country, countryCount }) => ({ region: country, count: countryCount })).filter(({ count }) => count > 0),
+    ...countryGroups.flatMap(({ localities }) => localities),
+    ...areas,
+  ]
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -79,17 +99,6 @@ export default function CountriesPage() {
     })),
   }
 
-  const renderLinks = (list: Section[]) => (
-    <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>
-      {list.map(({ region, count }) => (
-        <Link key={region} href={countryPath(region)} style={linkStyle}>
-          {region}
-          <span style={countStyle}>{count}</span>
-        </Link>
-      ))}
-    </div>
-  )
-
   return (
     <div>
       <script
@@ -104,25 +113,52 @@ export default function CountriesPage() {
       </h1>
 
       <section style={{ marginBottom: "2rem" }}>
-        <h2 style={{ fontSize: "1rem", fontWeight: 700, color: "#7a4f2a", marginBottom: "0.75rem" }}>
+        <h2 style={{ fontSize: "1rem", fontWeight: 700, color: "#7a4f2a", marginBottom: "1rem" }}>
           国
         </h2>
-        {renderLinks(countries)}
+        <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+          {countryGroups.map(({ country, countryCount, localities }) => (
+            <div key={country}>
+              {countryCount > 0 ? (
+                <Link href={countryPath(country)} style={{ ...linkStyle, fontWeight: 600 }}>
+                  {country}
+                  {" "}<span style={countStyle}>{countryCount}</span>
+                </Link>
+              ) : (
+                <span style={{ fontSize: "0.875rem", fontWeight: 600, color: "#7a4f2a" }}>
+                  {country}
+                </span>
+              )}
+              {localities.length > 0 && (
+                <div style={{ display: "flex", flexWrap: "wrap", gap: "0.375rem 0.75rem", marginTop: "0.375rem", paddingLeft: "1rem" }}>
+                  {localities.map(({ region, count }) => (
+                    <Link key={region} href={countryPath(region)} style={linkStyle}>
+                      {region.replace(`${country}（`, "").replace(/）$/, "")}
+                      {" "}<span style={countStyle}>{count}</span>
+                    </Link>
+                  ))}
+                </div>
+              )}
+            </div>
+          ))}
+        </div>
       </section>
 
-      <section style={{ marginBottom: "2rem" }}>
-        <h2 style={{ fontSize: "1rem", fontWeight: 700, color: "#7a4f2a", marginBottom: "0.75rem" }}>
-          地方
-        </h2>
-        {renderLinks(localities)}
-      </section>
-
-      <section>
-        <h2 style={{ fontSize: "1rem", fontWeight: 700, color: "#7a4f2a", marginBottom: "0.75rem" }}>
-          地域
-        </h2>
-        {renderLinks(areas)}
-      </section>
+      {areas.length > 0 && (
+        <section>
+          <h2 style={{ fontSize: "1rem", fontWeight: 700, color: "#7a4f2a", marginBottom: "0.75rem" }}>
+            地域
+          </h2>
+          <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>
+            {areas.map(({ region, count }) => (
+              <Link key={region} href={countryPath(region)} style={linkStyle}>
+                {region}
+                <span style={countStyle}>{count}</span>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
     </div>
   )
 }
