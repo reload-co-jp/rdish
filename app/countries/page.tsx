@@ -25,12 +25,6 @@ const countStyle = { color: "#a89080", fontSize: "0.75rem" }
 
 type Section = { region: string; count: number }
 
-function toLabel(r: { area?: string; country?: string; locality?: string }): string {
-  if (r.country && r.locality) return `${r.country}（${r.locality}）`
-  if (r.country) return r.country
-  return r.area ?? ""
-}
-
 type CountryGroup = {
   country: string
   countryCount: number
@@ -47,14 +41,14 @@ export default function CountriesPage() {
 
   for (const dish of allDishes) {
     for (const region of dish.regions) {
-      const label = toLabel(region)
       if (region.country && region.locality) {
+        const label = `${region.country}（${region.locality}）`
         localityMap.set(label, (localityMap.get(label) ?? 0) + 1)
         countryForLocalityMap.set(region.country, (countryForLocalityMap.get(region.country) ?? 0) + 1)
       } else if (region.country) {
-        countryOnlyMap.set(label, (countryOnlyMap.get(label) ?? 0) + 1)
-      } else {
-        areaMap.set(label, (areaMap.get(label) ?? 0) + 1)
+        countryOnlyMap.set(region.country, (countryOnlyMap.get(region.country) ?? 0) + 1)
+      } else if (region.area) {
+        areaMap.set(region.area, (areaMap.get(region.area) ?? 0) + 1)
       }
     }
   }
