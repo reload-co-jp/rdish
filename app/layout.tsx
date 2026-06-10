@@ -97,6 +97,16 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
             </Link>
             <nav style={{ display: "flex", gap: "1rem" }}>
               <Link
+                href="/categories/"
+                style={{
+                  color: "#7a6655",
+                  fontSize: "0.875rem",
+                  textDecoration: "none",
+                }}
+              >
+                カテゴリ
+              </Link>
+              <Link
                 href="/countries/"
                 style={{
                   color: "#7a6655",
@@ -172,6 +182,12 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
               style={{ color: "#a89080", textDecoration: "underline" }}
             >
               新着
+            </Link>
+            <Link
+              href="/categories/"
+              style={{ color: "#a89080", textDecoration: "underline" }}
+            >
+              カテゴリ
             </Link>
             <Link
               href="/countries/"

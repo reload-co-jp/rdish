@@ -62,7 +62,7 @@ export default async function CategoryPage({
   return (
     <div>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-      <Breadcrumb items={[{ label: "カテゴリ" }, { label: item.label }]} />
+      <Breadcrumb items={[{ label: "カテゴリ", href: "/categories/" }, { label: item.label }]} />
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}>
         {item.label}の料理一覧
       </h1>

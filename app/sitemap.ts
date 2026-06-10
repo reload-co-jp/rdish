@@ -70,6 +70,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     page("/articles/", "monthly", 0.7),
     ...paginatedUrls,
     page("/reverse/", "monthly", 0.7),
+    page("/categories/", "monthly", 0.7),
     page("/countries/", "monthly", 0.7),
     page("/about/", "yearly", 0.4),
     ...categoryUrls,
