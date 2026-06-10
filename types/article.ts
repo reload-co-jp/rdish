@@ -26,11 +26,12 @@ export type ArticleComparisonRow = {
   name: string
   dishId?: string
   region: string
-  skin: string
-  filling: string
-  cooking: string
-  eatStyle: string
+  skin?: string
+  filling?: string
+  cooking?: string
+  eatStyle?: string
   soupInside?: boolean
+  details?: { label: string; value: string }[]
 }
 
 export type ArticleCallout = {

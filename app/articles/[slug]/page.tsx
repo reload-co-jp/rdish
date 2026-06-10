@@ -283,10 +283,18 @@ const ComparisonSection: FC<{ rows: ArticleComparisonRow[] }> = ({ rows }) => (
           <span style={{ fontSize: "0.75rem", color: "#7a6655", background: "#f0e6d6", padding: "0.1rem 0.5rem", borderRadius: "0.25rem" }}>
             {row.region}
           </span>
-          <span style={{ fontSize: "0.8125rem", color: "#5a4a3a" }}>皮: {row.skin}</span>
-          <span style={{ fontSize: "0.8125rem", color: "#5a4a3a" }}>具: {row.filling}</span>
-          <span style={{ fontSize: "0.8125rem", color: "#5a4a3a" }}>調理: {row.cooking}</span>
-          <span style={{ fontSize: "0.8125rem", color: "#5a4a3a" }}>食べ方: {row.eatStyle}</span>
+          {row.details ? (
+            row.details.map((d) => (
+              <span key={d.label} style={{ fontSize: "0.8125rem", color: "#5a4a3a" }}>{d.label}: {d.value}</span>
+            ))
+          ) : (
+            <>
+              {row.skin && <span style={{ fontSize: "0.8125rem", color: "#5a4a3a" }}>皮: {row.skin}</span>}
+              {row.filling && <span style={{ fontSize: "0.8125rem", color: "#5a4a3a" }}>具: {row.filling}</span>}
+              {row.cooking && <span style={{ fontSize: "0.8125rem", color: "#5a4a3a" }}>調理: {row.cooking}</span>}
+              {row.eatStyle && <span style={{ fontSize: "0.8125rem", color: "#5a4a3a" }}>食べ方: {row.eatStyle}</span>}
+            </>
+          )}
         </div>
       ))}
     </div>
