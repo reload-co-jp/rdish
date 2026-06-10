@@ -66482,5 +66482,894 @@
       "/images/dishes/cheese-curd/2.jpg",
       "/images/dishes/cheese-curd/3.jpg"
     ]
+  },
+  {
+    "id": "pilsner",
+    "name": "ピルスナー",
+    "kana": "ぴるすなー",
+    "aliases": [
+      "ピルゼン",
+      "ピルス",
+      "ピルスナー・ラガー"
+    ],
+    "englishName": "Pilsner",
+    "originalName": "Pilsner",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "チェコ"
+      }
+    ],
+    "summary": "チェコのプルゼニで1842年に生まれた淡色ラガー。軟水、淡色麦芽、ザーツ系ホップ、低温発酵で澄んだ黄金色と爽快な苦みを出す。現在の世界的なラガービールの基礎になった代表的ビアスタイル。",
+    "menuDescription": "淡い黄金色の下面発酵ビール。ホップの香りとさわやかな苦み、すっきりした後味が特徴。日本の大手ビールにも近い感覚で選びやすい。",
+    "whatComesOut": [
+      "グラスまたはジョッキに注がれた黄金色のビール",
+      "白い泡がしっかり立ったクリアな液色",
+      "瓶・缶・ドラフトで提供されることが多い"
+    ],
+    "tasteAndTexture": [
+      "軽快でドライな飲み口",
+      "ホップ由来のさわやかな苦み",
+      "炭酸のキレとすっきりした後味"
+    ],
+    "orderAdvice": "最初の一杯や揚げ物、焼き鳥、塩味の料理に合わせやすい。苦みが苦手ならヘレスの方が穏やか。",
+    "similarItems": [
+      {
+        "id": "beer",
+        "name": "ビール",
+        "difference": "ビール全体の一種。ピルスナーは淡色ラガーで、苦みとキレがはっきりしている"
+      },
+      {
+        "id": "helles",
+        "name": "ヘレス",
+        "difference": "ヘレスも淡色ラガーだが、ピルスナーよりホップ苦味が控えめで麦芽の甘みが出やすい"
+      },
+      {
+        "id": "marzen",
+        "name": "メルツェン",
+        "difference": "メルツェンは琥珀色で麦芽感とボディが強く、ピルスナーは淡色で軽快"
+      }
+    ],
+    "relatedIds": [
+      "beer"
+    ],
+    "source": [
+      "https://torimero.com/topics/9683/",
+      "https://en.wikipedia.org/wiki/Pilsner"
+    ],
+    "tags": [
+      "チェコ料理",
+      "飲み物",
+      "ビール",
+      "ラガー",
+      "麦芽",
+      "ホップ",
+      "あっさり",
+      "苦味"
+    ],
+    "reverseKeywords": [
+      "黒ビール",
+      "甘いカクテル",
+      "濃厚",
+      "フルーティーなエール",
+      "ノンアルコール"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pilsner/1.jpg",
+      "/images/dishes/pilsner/2.jpg",
+      "/images/dishes/pilsner/3.jpg"
+    ]
+  },
+  {
+    "id": "marzen",
+    "name": "メルツェン",
+    "kana": "めるつぇん",
+    "aliases": [
+      "メルツェンビア",
+      "オクトーバーフェストビア"
+    ],
+    "englishName": "Märzen",
+    "originalName": "Märzenbier",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "ドイツ"
+      },
+      {
+        "country": "オーストリア"
+      }
+    ],
+    "summary": "バイエルン発祥のラガー。暑い季節の醸造を避けるため3月に仕込み、秋まで低温熟成した歴史を持つ。淡色から琥珀、濃色まで幅があり、伝統的には麦芽の厚みとやや高めのアルコール感が特徴。",
+    "menuDescription": "琥珀色寄りのラガー。モルトのコク、ほどよい甘み、なめらかなボディがあり、オクトーバーフェスト系ビールとして出ることも多い。",
+    "whatComesOut": [
+      "琥珀色から銅色のラガービール",
+      "厚みのある泡を持つグラスまたはジョッキ",
+      "秋季限定やフェストビア名義で提供されることがある"
+    ],
+    "tasteAndTexture": [
+      "麦芽由来の甘みと香ばしさ",
+      "中程度からしっかりめのボディ",
+      "苦みは穏やかで後味は比較的なめらか"
+    ],
+    "orderAdvice": "ソーセージ、ロースト肉、揚げ物など濃いめの料理と相性が良い。軽さ重視ならピルスナーかヘレス。",
+    "similarItems": [
+      {
+        "id": "beer",
+        "name": "ビール",
+        "difference": "ビール全体の一種。メルツェンはラガーの中でも麦芽感と季節性が強い"
+      },
+      {
+        "id": "pilsner",
+        "name": "ピルスナー",
+        "difference": "ピルスナーは淡色でホップの苦みが主役。メルツェンは琥珀色でモルト感が主役"
+      },
+      {
+        "id": "dunkel",
+        "name": "デュンケル",
+        "difference": "デュンケルはより濃色でカラメルやナッツ感が強い"
+      }
+    ],
+    "relatedIds": [
+      "beer",
+      "pilsner"
+    ],
+    "source": [
+      "https://torimero.com/topics/9683/",
+      "https://en.wikipedia.org/wiki/M%C3%A4rzen"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "飲み物",
+      "ビール",
+      "ラガー",
+      "麦芽",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "淡色ビール",
+      "軽いビール",
+      "甘いカクテル",
+      "ノンアルコール",
+      "強いホップ香"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/marzen/1.jpg"
+    ]
+  },
+  {
+    "id": "helles",
+    "name": "ヘレス",
+    "kana": "へれす",
+    "aliases": [
+      "へレス",
+      "ミュンヘン・ヘレス",
+      "ヘル"
+    ],
+    "englishName": "Helles",
+    "originalName": "Helles",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "ドイツ",
+        "locality": "ミュンヘン"
+      }
+    ],
+    "summary": "南ドイツ、とくにミュンヘン周辺で親しまれる淡色ラガー。「hell」は明るい・淡いという意味。ピルスナーよりホップの主張を抑え、淡色麦芽の丸い甘みと穏やかな苦みをバランス良く出す。",
+    "menuDescription": "淡い黄金色のドイツ系ラガー。苦みは控えめで、モルトのやさしい甘みと柔らかな口当たりがある。ビールの苦味が苦手な人にも選びやすい。",
+    "whatComesOut": [
+      "明るい黄金色のクリアなビール",
+      "白い泡をのせたグラスまたはジョッキ",
+      "ドイツ料理店では樽生で出ることもある"
+    ],
+    "tasteAndTexture": [
+      "モルトの軽い甘みとパンのような香り",
+      "苦み控えめで丸い飲み口",
+      "中程度の炭酸とすっきりした後味"
+    ],
+    "orderAdvice": "苦いビールが苦手なら最初に試しやすい。ソーセージ、白身魚、鶏料理など幅広く合わせられる。",
+    "similarItems": [
+      {
+        "id": "beer",
+        "name": "ビール",
+        "difference": "ビール全体の一種。ヘレスは淡色ラガーで苦みより麦芽の穏やかさを楽しむ"
+      },
+      {
+        "id": "pilsner",
+        "name": "ピルスナー",
+        "difference": "ピルスナーはホップの苦みがより強くシャープ。ヘレスは丸く甘みがある"
+      },
+      {
+        "id": "marzen",
+        "name": "メルツェン",
+        "difference": "メルツェンはより濃色でボディと香ばしさが強い"
+      }
+    ],
+    "relatedIds": [
+      "beer",
+      "pilsner",
+      "marzen"
+    ],
+    "source": [
+      "https://torimero.com/topics/9683/",
+      "https://en.wikipedia.org/wiki/Helles"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "飲み物",
+      "ビール",
+      "ラガー",
+      "麦芽",
+      "あっさり",
+      "甘味"
+    ],
+    "reverseKeywords": [
+      "強い苦味",
+      "黒ビール",
+      "濃厚",
+      "ロースト香",
+      "辛い酒"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/helles/1.jpg",
+      "/images/dishes/helles/2.jpg",
+      "/images/dishes/helles/3.jpg"
+    ]
+  },
+  {
+    "id": "dunkel",
+    "name": "デュンケル",
+    "kana": "でゅんける",
+    "aliases": [
+      "ドゥンケル",
+      "ミュンヘン・デュンケル",
+      "ダークラガー"
+    ],
+    "englishName": "Dunkel",
+    "originalName": "Dunkel",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "ドイツ",
+        "locality": "バイエルン"
+      }
+    ],
+    "summary": "ドイツ語で「暗い」を意味する濃色ラガー。バイエルン、とくにミュンヘンの伝統的スタイルで、ミュンヘン麦芽などが深い茶色と滑らかなモルト風味を作る。黒く見えても苦みは強すぎず、カラメルやナッツ感が出やすい。",
+    "menuDescription": "深い茶色のラガービール。焙煎麦芽由来のカラメル、ナッツ、パンのような香ばしさがあり、見た目より苦みは穏やか。",
+    "whatComesOut": [
+      "濃い琥珀色から暗褐色のビール",
+      "泡持ちのよいグラスまたはジョッキ",
+      "ドイツ料理店やクラフトビール店で提供されることがある"
+    ],
+    "tasteAndTexture": [
+      "カラメルやナッツのようなモルト香",
+      "なめらかでやや甘い飲み口",
+      "ロースト感はあるが焦げ苦さは控えめ"
+    ],
+    "orderAdvice": "黒っぽいビールを試したいがスタウトほど重いものは避けたい時に向く。肉料理、ソーセージ、煮込みと好相性。",
+    "similarItems": [
+      {
+        "id": "beer",
+        "name": "ビール",
+        "difference": "ビール全体の一種。デュンケルは濃色ラガーでモルトの香ばしさが中心"
+      },
+      {
+        "id": "schwarzbier",
+        "name": "シュバルツ",
+        "difference": "シュバルツはより黒く、コーヒーやチョコレート寄りのロースト感が出やすい"
+      },
+      {
+        "id": "marzen",
+        "name": "メルツェン",
+        "difference": "メルツェンは琥珀色でやや軽く、デュンケルは濃色でナッツ感が強い"
+      }
+    ],
+    "relatedIds": [
+      "beer",
+      "marzen"
+    ],
+    "source": [
+      "https://torimero.com/topics/9683/",
+      "https://en.wikipedia.org/wiki/Dunkel"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "飲み物",
+      "ビール",
+      "ラガー",
+      "麦芽",
+      "香ばしい",
+      "甘味"
+    ],
+    "reverseKeywords": [
+      "淡色ビール",
+      "強いホップ香",
+      "ドライ",
+      "ノンアルコール",
+      "辛い酒"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/dunkel/1.jpg",
+      "/images/dishes/dunkel/2.jpg",
+      "/images/dishes/dunkel/3.jpg"
+    ]
+  },
+  {
+    "id": "schwarzbier",
+    "name": "シュバルツ",
+    "kana": "しゅばるつ",
+    "aliases": [
+      "シュヴァルツ",
+      "シュバルツビア",
+      "ブラックラガー"
+    ],
+    "englishName": "Schwarzbier",
+    "originalName": "Schwarzbier",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "ドイツ"
+      }
+    ],
+    "summary": "ドイツ語で「黒ビール」を意味する濃色ラガー。チューリンゲンやザクセンに歴史があり、ロースト麦芽による黒い色、コーヒーやチョコレートを思わせる香り、ラガーらしいすっきりした後味を併せ持つ。",
+    "menuDescription": "黒色のラガービール。ロースト麦芽の香ばしさ、軽いコーヒーやチョコレート風味があり、スタウトよりすっきり飲めることが多い。",
+    "whatComesOut": [
+      "黒から濃い茶色のビール",
+      "淡い褐色の泡をのせたグラス",
+      "瓶・缶・クラフトビール店のタップで出ることがある"
+    ],
+    "tasteAndTexture": [
+      "コーヒーやチョコレートを思わせる軽いロースト香",
+      "見た目より軽くドライな飲み口",
+      "苦みと甘みは控えめで後味はすっきり"
+    ],
+    "orderAdvice": "黒ビール入門に向く。スタウトの重さが苦手でも、香ばしいビールを飲みたい時に選びやすい。焼き肉、燻製、チョコ系デザートにも合う。",
+    "similarItems": [
+      {
+        "id": "beer",
+        "name": "ビール",
+        "difference": "ビール全体の一種。シュバルツは黒色ラガーでロースト香と軽さの両立が特徴"
+      },
+      {
+        "id": "dunkel",
+        "name": "デュンケル",
+        "difference": "デュンケルは暗褐色でカラメルやナッツ寄り。シュバルツはより黒くコーヒー寄り"
+      },
+      {
+        "name": "スタウト",
+        "difference": "スタウトは上面発酵の黒ビールでロースト感とボディが強め。シュバルツは下面発酵で軽快"
+      }
+    ],
+    "relatedIds": [
+      "beer",
+      "dunkel"
+    ],
+    "source": [
+      "https://torimero.com/topics/9683/",
+      "https://en.wikipedia.org/wiki/Schwarzbier"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "飲み物",
+      "ビール",
+      "ラガー",
+      "麦芽",
+      "燻製",
+      "香ばしい",
+      "苦味"
+    ],
+    "reverseKeywords": [
+      "淡色ビール",
+      "フルーティー",
+      "甘いカクテル",
+      "重いスタウト",
+      "ノンアルコール"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/schwarzbier/1.jpg"
+    ]
+  },
+  {
+    "id": "ale",
+    "name": "エール",
+    "kana": "えーる",
+    "aliases": [
+      "エールビール",
+      "上面発酵ビール"
+    ],
+    "englishName": "Ale",
+    "originalName": "Ale",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "イギリス"
+      }
+    ],
+    "summary": "上面発酵酵母を比較的高い温度で発酵させるビールの総称。中世イングランドではホップなしの麦酒を指したが、現代ではペールエール、IPA、スタウトなど幅広いスタイルを含む。ラガーより果実香や複雑な香りが出やすい。",
+    "menuDescription": "上面発酵で造るビールの大分類。フルーティーな香り、豊かな味わい、スタイルごとの個性が出やすい。クラフトビール店では最も幅広く見かける系統。",
+    "whatComesOut": [
+      "グラスに注がれたビール",
+      "黄金色から黒色までスタイルにより幅広い液色",
+      "ペールエール、IPA、スタウトなど具体的なスタイル名で出ることが多い"
+    ],
+    "tasteAndTexture": [
+      "酵母由来のフルーティーな香りが出やすい",
+      "麦芽のコクとホップの香りがスタイルごとに変わる",
+      "ラガーより温度を少し上げると香りを感じやすい"
+    ],
+    "orderAdvice": "クラフトビールの香りや個性を楽しみたい時に向く。すっきり軽い味ならラガー、香り重視ならエール系を選ぶ。",
+    "similarItems": [
+      {
+        "id": "beer",
+        "name": "ビール",
+        "difference": "ビール全体の一種。エールは上面発酵で、香りや味の個性が出やすい"
+      },
+      {
+        "id": "pilsner",
+        "name": "ピルスナー",
+        "difference": "ピルスナーは下面発酵のラガー。エールより軽快でクリアな味になりやすい"
+      },
+      {
+        "name": "ペールエール",
+        "difference": "ペールエールはエールの一種で、淡色麦芽とホップのバランスが特徴"
+      }
+    ],
+    "relatedIds": [
+      "beer",
+      "pilsner",
+      "helles"
+    ],
+    "source": [
+      "https://torimero.com/topics/9683/",
+      "https://en.wikipedia.org/wiki/Ale",
+      "https://en.wikipedia.org/wiki/Beer_style"
+    ],
+    "tags": [
+      "イギリス料理",
+      "飲み物",
+      "ビール",
+      "麦芽",
+      "ホップ",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ラガー",
+      "ピルスナー",
+      "すっきり",
+      "ノンアルコール",
+      "甘いカクテル"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ale/1.jpg",
+      "/images/dishes/ale/2.jpg",
+      "/images/dishes/ale/3.jpg"
+    ]
+  },
+  {
+    "id": "pale-ale",
+    "name": "ペールエール",
+    "kana": "ぺーるえーる",
+    "aliases": [
+      "ペイルエール",
+      "ビター"
+    ],
+    "englishName": "Pale Ale",
+    "originalName": "Pale Ale",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "イギリス"
+      }
+    ],
+    "summary": "淡色麦芽を使った黄金色から琥珀色のエール。18世紀初頭のイングランドで、コークス乾燥麦芽により従来より明るい色のビールとして広まった。ホップ量や醸造法により、英国型、アメリカ型、IPAなど多様な派生を持つ。",
+    "menuDescription": "淡い色のエールビール。麦芽の軽いコク、ホップの香りと苦み、フルーティーな風味がバランスよく出る。クラフトビール入門にも選びやすい。",
+    "whatComesOut": [
+      "黄金色から琥珀色のビール",
+      "白から淡いベージュの泡をのせたグラス",
+      "パイントグラスやタンブラーで出ることが多い"
+    ],
+    "tasteAndTexture": [
+      "ホップの香りとほどよい苦み",
+      "麦芽の軽い甘みと香ばしさ",
+      "フルーティーさと飲みやすさのバランス"
+    ],
+    "orderAdvice": "クラフトビールを試す最初の一杯に向く。IPAほど苦くなく、ラガーより香りが欲しい時に選びやすい。",
+    "similarItems": [
+      {
+        "id": "beer",
+        "name": "ビール",
+        "difference": "ビール全体の一種。ペールエールは淡色麦芽を使う上面発酵ビール"
+      },
+      {
+        "name": "インディアペールエール（IPA）",
+        "difference": "IPAはペールエール系だが、ホップ量と苦み、香りがより強い"
+      },
+      {
+        "name": "ゴールデンエール",
+        "difference": "ゴールデンエールはより淡色で軽快。ペールエールは琥珀寄りでコクが出やすい"
+      }
+    ],
+    "relatedIds": [
+      "beer"
+    ],
+    "source": [
+      "https://torimero.com/topics/9683/",
+      "https://en.wikipedia.org/wiki/Pale_ale"
+    ],
+    "tags": [
+      "イギリス料理",
+      "飲み物",
+      "ビール",
+      "麦芽",
+      "ホップ",
+      "香ばしい",
+      "苦味"
+    ],
+    "reverseKeywords": [
+      "黒ビール",
+      "強烈な苦味",
+      "甘いカクテル",
+      "ノンアルコール",
+      "ラガー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pale-ale/1.jpg",
+      "/images/dishes/pale-ale/2.jpg",
+      "/images/dishes/pale-ale/3.jpg"
+    ]
+  },
+  {
+    "id": "india-pale-ale",
+    "name": "インディアペールエール（IPA）",
+    "kana": "いんでぃあぺーるえーる",
+    "aliases": [
+      "IPA",
+      "アイピーエー",
+      "インディア・ペールエール"
+    ],
+    "englishName": "India Pale Ale",
+    "originalName": "India Pale Ale",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "イギリス"
+      }
+    ],
+    "summary": "ペールエールの一種で、ホップを多く使った香り高く苦みの強いビアスタイル。イギリスからインドへ輸出する長い船旅に耐えるため、ホップを増やしたことが背景とされる。現代クラフトビールでは柑橘、松、トロピカル果実の香りを強調する派生も多い。",
+    "menuDescription": "ホップの香りと苦みを強く楽しむエール。柑橘、ハーブ、松、トロピカル果実のような香りが出ることが多く、クラフトビールの定番。",
+    "whatComesOut": [
+      "黄金色から琥珀色のビール",
+      "香りを感じやすいグラスやパイントで提供",
+      "銘柄により濁りのあるタイプや高アルコール版もある"
+    ],
+    "tasteAndTexture": [
+      "ホップ由来の強い苦み",
+      "柑橘やトロピカル果実のような香り",
+      "ドライでシャープ、またはジューシーな飲み口"
+    ],
+    "orderAdvice": "苦いビールや香りの強いクラフトビールが好きなら選ぶ価値大。苦みが苦手ならペールエールかゴールデンエールから試す。",
+    "similarItems": [
+      {
+        "id": "beer",
+        "name": "ビール",
+        "difference": "ビール全体の一種。IPAはホップの香りと苦みを強く打ち出す"
+      },
+      {
+        "name": "ペールエール",
+        "difference": "ペールエールよりIPAの方がホップ量、苦み、香りが強い"
+      },
+      {
+        "name": "アメリカンペールエール",
+        "difference": "アメリカンペールエールは米国ホップの香りが特徴だが、IPAより苦みやアルコールは控えめなことが多い"
+      }
+    ],
+    "relatedIds": [
+      "beer"
+    ],
+    "source": [
+      "https://torimero.com/topics/9683/",
+      "https://en.wikipedia.org/wiki/India_pale_ale"
+    ],
+    "tags": [
+      "イギリス料理",
+      "飲み物",
+      "ビール",
+      "麦芽",
+      "ホップ",
+      "苦味",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "苦くないビール",
+      "甘い酒",
+      "黒ビール",
+      "軽いラガー",
+      "ノンアルコール"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/india-pale-ale/1.jpg",
+      "/images/dishes/india-pale-ale/2.jpg",
+      "/images/dishes/india-pale-ale/3.jpg"
+    ]
+  },
+  {
+    "id": "american-pale-ale",
+    "name": "アメリカンペールエール",
+    "kana": "あめりかんぺーるえーる",
+    "aliases": [
+      "APA",
+      "アメリカン・ペールエール"
+    ],
+    "englishName": "American Pale Ale",
+    "originalName": "American Pale Ale",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "1980年前後にアメリカで発展したペールエール。カスケードなどアメリカ産ホップを多く使い、柑橘や松を思わせる明るい香りを出す。英国系ペールエールよりホップの印象が強く、IPAほど重くない中間的なクラフトビール定番。",
+    "menuDescription": "アメリカ産ホップの柑橘系・松系の香りが特徴のペールエール。IPAより穏やかで、ペールエールより華やかな印象になりやすい。",
+    "whatComesOut": [
+      "明るい琥珀色から濃い黄金色のビール",
+      "ホップの香りを感じやすいグラス",
+      "クラフトビール店で定番タップとして出ることが多い"
+    ],
+    "tasteAndTexture": [
+      "柑橘や松を思わせるホップ香",
+      "中程度の苦みと軽いモルト感",
+      "IPAより飲み疲れしにくいバランス"
+    ],
+    "orderAdvice": "ホップ香を楽しみたいがIPAほど苦いものは避けたい時に向く。ハンバーガー、揚げ物、スパイス料理に合わせやすい。",
+    "similarItems": [
+      {
+        "id": "beer",
+        "name": "ビール",
+        "difference": "ビール全体の一種。アメリカンペールエールは米国ホップの香りが主役"
+      },
+      {
+        "name": "ペールエール",
+        "difference": "英国系ペールエールよりホップ香が明るく強い傾向"
+      },
+      {
+        "name": "インディアペールエール（IPA）",
+        "difference": "IPAの方が苦み、香り、アルコール感が強いことが多い"
+      }
+    ],
+    "relatedIds": [
+      "beer"
+    ],
+    "source": [
+      "https://torimero.com/topics/9683/",
+      "https://en.wikipedia.org/wiki/American_pale_ale",
+      "https://en.wikipedia.org/wiki/Pale_ale"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "飲み物",
+      "ビール",
+      "麦芽",
+      "ホップ",
+      "苦味",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "黒ビール",
+      "甘いカクテル",
+      "苦くないビール",
+      "ノンアルコール",
+      "ラガー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/american-pale-ale/1.jpg",
+      "/images/dishes/american-pale-ale/2.jpg",
+      "/images/dishes/american-pale-ale/3.jpg"
+    ]
+  },
+  {
+    "id": "golden-ale",
+    "name": "ゴールデンエール",
+    "kana": "ごーるでんえーる",
+    "aliases": [
+      "ブロンドエール",
+      "サマーエール",
+      "ゴールデン・エール"
+    ],
+    "englishName": "Golden Ale",
+    "originalName": "Golden Ale",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "イギリス"
+      },
+      {
+        "country": "ベルギー"
+      }
+    ],
+    "summary": "淡い黄金色のエール。英国では20世紀後半、淡色ラガーに対抗する軽快なエールとして広まった。ブロンドエールと近い扱いをされることもあり、低から中程度の苦み、軽い麦芽の甘み、爽やかなホップ香が特徴。",
+    "menuDescription": "黄金色の軽やかなエール。清涼感があり、ホップの香りとフルーティーさをほどよく楽しめる。エール初心者にも飲みやすいタイプ。",
+    "whatComesOut": [
+      "淡い黄金色のビール",
+      "白い泡をのせたグラス",
+      "夏季限定や軽めのクラフトビールとして出ることがある"
+    ],
+    "tasteAndTexture": [
+      "軽快で爽やかな飲み口",
+      "控えめな苦みとほのかな麦芽の甘み",
+      "柑橘や花を思わせる穏やかな香り"
+    ],
+    "orderAdvice": "ラガーからクラフトビールへ移りたい時に試しやすい。軽い前菜、魚料理、鶏料理と合わせやすい。",
+    "similarItems": [
+      {
+        "id": "beer",
+        "name": "ビール",
+        "difference": "ビール全体の一種。ゴールデンエールは淡色で軽快な上面発酵ビール"
+      },
+      {
+        "name": "ペールエール",
+        "difference": "ペールエールの方が琥珀寄りでモルトや苦みが出やすい"
+      },
+      {
+        "id": "helles",
+        "name": "ヘレス",
+        "difference": "ヘレスは下面発酵ラガーで、ゴールデンエールよりクリアで酵母香が控えめ"
+      }
+    ],
+    "relatedIds": [
+      "beer",
+      "helles",
+      "pilsner"
+    ],
+    "source": [
+      "https://torimero.com/topics/9683/",
+      "https://en.wikipedia.org/wiki/Pale_ale"
+    ],
+    "tags": [
+      "イギリス料理",
+      "ベルギー料理",
+      "飲み物",
+      "ビール",
+      "麦芽",
+      "ホップ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "黒ビール",
+      "濃厚",
+      "強い苦味",
+      "甘いカクテル",
+      "ノンアルコール"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/golden-ale/1.jpg",
+      "/images/dishes/golden-ale/2.jpg",
+      "/images/dishes/golden-ale/3.jpg"
+    ]
+  },
+  {
+    "id": "stout",
+    "name": "スタウト（黒ビール）",
+    "kana": "すたうと",
+    "aliases": [
+      "スタウト",
+      "黒ビール",
+      "ドライスタウト"
+    ],
+    "englishName": "Stout",
+    "originalName": "Stout",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "イギリス"
+      },
+      {
+        "country": "アイルランド"
+      }
+    ],
+    "summary": "ロンドンのポーターから派生した濃色エール。もとは強いポーターを「スタウト・ポーター」と呼んだことに由来し、現在はドライスタウト、ミルクスタウト、オートミールスタウト、インペリアルスタウトなど多様な黒ビールを含む。焙煎麦芽のコーヒーやチョコレート風味が特徴。",
+    "menuDescription": "黒色のエールビール。焙煎麦芽の香ばしさ、コーヒーやチョコレートのような風味、しっかりした苦みやクリーミーな泡が楽しめる。",
+    "whatComesOut": [
+      "黒色から濃い茶色のビール",
+      "ベージュから褐色の泡をのせたグラス",
+      "窒素ガス入りのクリーミーな注ぎ方で出ることもある"
+    ],
+    "tasteAndTexture": [
+      "焙煎麦芽のコーヒーやチョコレート風味",
+      "ドライな苦みから甘く濃厚なタイプまで幅広い",
+      "泡が細かくクリーミーな銘柄も多い"
+    ],
+    "orderAdvice": "黒ビールの香ばしさを楽しみたい時に向く。肉の煮込み、ロースト、チョコレート系デザートと相性が良い。軽い黒ビールならシュバルツも候補。",
+    "similarItems": [
+      {
+        "id": "beer",
+        "name": "ビール",
+        "difference": "ビール全体の一種。スタウトは黒色の上面発酵ビールで焙煎香が強い"
+      },
+      {
+        "id": "schwarzbier",
+        "name": "シュバルツ",
+        "difference": "シュバルツは下面発酵の黒ラガー。スタウトより軽くすっきりしやすい"
+      },
+      {
+        "id": "dunkel",
+        "name": "デュンケル",
+        "difference": "デュンケルは暗褐色ラガーでカラメルやナッツ寄り。スタウトはより黒くロースト感が強い"
+      }
+    ],
+    "relatedIds": [
+      "beer",
+      "schwarzbier",
+      "dunkel"
+    ],
+    "source": [
+      "https://torimero.com/topics/9683/",
+      "https://en.wikipedia.org/wiki/Stout"
+    ],
+    "tags": [
+      "イギリス料理",
+      "アイルランド料理",
+      "飲み物",
+      "ビール",
+      "麦芽",
+      "燻製",
+      "香ばしい",
+      "苦味"
+    ],
+    "reverseKeywords": [
+      "淡色ビール",
+      "軽いラガー",
+      "フルーティー",
+      "ノンアルコール",
+      "甘いカクテル"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/stout/1.png",
+      "/images/dishes/stout/2.jpg",
+      "/images/dishes/stout/3.jpg"
+    ]
   }
 ]
