@@ -33,6 +33,7 @@ export default [
         "error",
         {
           argsIgnorePattern: "^_",
+          caughtErrorsIgnorePattern: "^_",
         },
       ],
       "react/react-in-jsx-scope": "off",

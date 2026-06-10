@@ -12,7 +12,9 @@ const AdSense = () => {
   useEffect(() => {
     try {
       ;(window.adsbygoogle = window.adsbygoogle || []).push({})
-    } catch {}
+    } catch (_e) {
+      // adsbygoogle push errors are non-fatal
+    }
   }, [])
 
   if (process.env.NODE_ENV !== "production") return null

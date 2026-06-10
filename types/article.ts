@@ -18,6 +18,7 @@ export type ArticleDishEntry = {
 
 export type ArticleRegion = {
   heading: string
+  intro?: string
   dishes: ArticleDishEntry[]
 }
 

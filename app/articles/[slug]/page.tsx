@@ -194,6 +194,11 @@ const DishEntry: FC<{ entry: ArticleDishEntry; allDishes: DishItem[] }> = ({ ent
 const RegionSection: FC<{ region: ArticleRegion; allDishes: DishItem[] }> = ({ region, allDishes }) => (
   <section style={{ marginBottom: "2rem" }}>
     <h2 style={sectionHeadingStyle}>{region.heading}</h2>
+    {region.intro && (
+      <p style={{ fontSize: "0.875rem", color: "#5a4a3a", lineHeight: 1.75, marginBottom: "1.25rem" }}>
+        {region.intro}
+      </p>
+    )}
     {region.dishes.map((dish) => (
       <DishEntry key={dish.heading} entry={dish} allDishes={allDishes} />
     ))}

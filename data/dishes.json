@@ -66389,5 +66389,98 @@
       "/images/dishes/smoked-cheese/2.jpg",
       "/images/dishes/smoked-cheese/3.jpg"
     ]
+  },
+  {
+    "id": "cheese-curd",
+    "name": "チーズカード",
+    "kana": "ちーずかーど",
+    "aliases": [
+      "スクィーキーチーズ",
+      "フロマージュ・アン・グラン"
+    ],
+    "englishName": "Cheese Curd",
+    "originalName": "fromage en grain",
+    "category": "チーズ",
+    "regions": [
+      {
+        "area": "北米",
+        "country": "カナダ（ケベック州）・アメリカ（ウィスコンシン州・ミネソタ州）"
+      }
+    ],
+    "summary": "チーズカードは、チェダーなどのチーズ製造過程で生まれる熟成前の凝乳の塊。新鮮なうちだけ噛むとキュッキュッと音が鳴る独特の食感があり「スクィーキーチーズ」とも呼ばれる。スナックとして、またはプーティンの主役として食べる北米の名物食材。",
+    "menuDescription": "チーズ製造時に生まれるフレッシュな凝乳の塊。マイルドな乳の風味と、新鮮なうちだけ楽しめるキュッキュッとした弾力ある食感が特徴。そのままスナックとして、または衣をつけて揚げたフライドチーズカードとして、あるいはプーティンの具材として食べる。",
+    "whatComesOut": [
+      "白〜淡黄色の不規則な塊状チーズ（2〜4cm角程度）",
+      "スナック用の小袋包装または皿盛り",
+      "フライドチーズカード（衣揚げ）として提供されることも",
+      "プーティン（フライドポテト＋グレービー）の具材として"
+    ],
+    "tasteAndTexture": [
+      "マイルドでミルクの風味がある、かすかな塩気",
+      "新鮮なうちは噛むとキュッキュッと歯に当たる独特の弾力",
+      "ゴムのようなもちもちした食感（製造から12時間以内が最も顕著）",
+      "揚げると外サクサク・中はとろけるクリーミーな食感に変わる"
+    ],
+    "orderAdvice": "鮮度が命で、製造から12時間以内が最もキュッキュッとした食感を楽しめる。チーズ工場や地元の市場で買うのがベスト。プーティンの具として食べるのが最も定番の楽しみ方。フライドチーズカードは揚げ物好きなら試す価値あり。マイルドな味が好みの人向き。",
+    "caution": "乳製品アレルギーに注意。揚げ版（フライドチーズカード）はカロリーが高い。",
+    "similarItems": [
+      {
+        "id": "mozzarella",
+        "name": "モッツァレラ",
+        "difference": "モッツァレラもフレッシュチーズだが水分が多くなめらか。チーズカードのキュッキュッとした食感はない"
+      },
+      {
+        "id": "halloumi",
+        "name": "ハルミ",
+        "difference": "ハルミも弾力ある食感だが塩気が強くグリルしても溶けない。チーズカードはよりマイルドで生食向き"
+      },
+      {
+        "id": "cottage-cheese",
+        "name": "カッテージチーズ",
+        "difference": "カッテージチーズも凝乳が原料だが細かく砕かれクリーミー。チーズカードは塊のまま食べる"
+      },
+      {
+        "id": "ricotta",
+        "name": "リコッタ",
+        "difference": "リコッタはホエイから作るフレッシュチーズでなめらか。チーズカードはカードそのものでより弾力がある"
+      }
+    ],
+    "relatedIds": [
+      "mozzarella",
+      "halloumi",
+      "ricotta",
+      "cottage-cheese",
+      "cream-cheese",
+      "burrata",
+      "fromage-blanc"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%BC%E3%82%BA%E3%82%AB%E3%83%BC%E3%83%89",
+      "https://en.wikipedia.org/wiki/Cheese_curd"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "食材",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "熟成チーズ",
+      "ブルーチーズ",
+      "強い風味のチーズ",
+      "乳製品不可",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cheese-curd/1.png",
+      "/images/dishes/cheese-curd/2.jpg",
+      "/images/dishes/cheese-curd/3.jpg"
+    ]
   }
 ]
