@@ -25003,7 +25003,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Hamburger",
-      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC",
+      "https://www.britannica.com/topic/hamburger"
     ]
   },
   {
@@ -25075,7 +25076,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Hot_dog",
-      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%83%E3%83%88%E3%83%89%E3%83%83%E3%82%B0"
+      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%83%E3%83%88%E3%83%89%E3%83%83%E3%82%B0",
+      "https://www.britannica.com/topic/hot-dog"
     ]
   },
   {
@@ -25160,7 +25162,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Meatloaf",
-      "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%83%95"
+      "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%83%95",
+      "https://www.tasteatlas.com/meatloaf"
     ]
   },
   {
@@ -25250,7 +25253,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bouillon",
-      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%A4%E3%83%A8%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%A4%E3%83%A8%E3%83%B3",
+      "https://www.larousse.fr/dictionnaires/francais/bouillon/10531"
     ]
   },
   {
@@ -25341,7 +25345,8 @@
       "/images/dishes/tagliatelle/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Tagliatelle"
+      "https://en.wikipedia.org/wiki/Tagliatelle",
+      "https://www.greatitalianchefs.com/recipes/tagliatelle-al-ragu-recipe"
     ]
   },
   {
@@ -25425,7 +25430,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pappardelle",
-      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%83%E3%83%91%E3%83%AB%E3%83%87%E3%83%83%E3%83%AC"
+      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%83%E3%83%91%E3%83%AB%E3%83%87%E3%83%83%E3%83%AC",
+      "https://www.greatitalianchefs.com/collections/pappardelle-recipes"
     ]
   },
   {
@@ -25515,7 +25521,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Saffron",
-      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%95%E3%83%A9%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%95%E3%83%A9%E3%83%B3",
+      "https://www.britannica.com/plant/saffron"
     ]
   },
   {
@@ -25593,7 +25600,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Al_dente",
-      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%87%E3%83%B3%E3%83%86"
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%87%E3%83%B3%E3%83%86",
+      "https://www.merriam-webster.com/dictionary/al%20dente"
     ]
   },
   {
@@ -25668,7 +25676,8 @@
     "spicinessScore": 2,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Taquito"
+      "https://en.wikipedia.org/wiki/Taquito",
+      "https://www.tasteatlas.com/flautas"
     ]
   },
   {
@@ -25748,7 +25757,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pozole",
-      "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%BD%E3%83%AC"
+      "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%BD%E3%83%AC",
+      "https://www.tasteatlas.com/pozole"
     ]
   },
   {
@@ -25825,7 +25835,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Menudo_(soup)",
-      "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%8C%E3%83%BC%E3%83%89_(%E6%96%99%E7%90%86)"
+      "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%8C%E3%83%BC%E3%83%89_(%E6%96%99%E7%90%86)",
+      "https://www.tasteatlas.com/menudo"
     ]
   },
   {
@@ -25902,7 +25913,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Carne_asada",
-      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%8D%E3%83%BB%E3%82%A2%E3%82%B5%E3%83%80"
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%8D%E3%83%BB%E3%82%A2%E3%82%B5%E3%83%80",
+      "https://www.tasteatlas.com/carne-asada"
     ]
   },
   {
@@ -25966,7 +25978,7 @@
     ],
     "tags": [
       "メキシコ料理",
-      "南米料理",
+      "中米料理",
       "トウモロコシ",
       "蒸し料理",
       "包み料理",
@@ -25989,7 +26001,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tamale",
-      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AB"
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AB",
+      "https://www.britannica.com/topic/tamale"
     ]
   },
   {
@@ -26066,7 +26079,7 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Huevos_rancheros",
-      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A8%E3%83%B3%E3%83%86%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%81%E3%82%A7%E3%83%AD%E3%82%B9"
+      "https://www.tasteatlas.com/huevos-rancheros"
     ]
   },
   {
@@ -26136,7 +26149,8 @@
       "/images/dishes/sopa-de-lima/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Sopa_de_lima"
+      "https://en.wikipedia.org/wiki/Sopa_de_lima",
+      "https://www.tasteatlas.com/sopa-de-lima"
     ]
   },
   {
@@ -26211,7 +26225,8 @@
       "/images/dishes/brik/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Brik"
+      "https://en.wikipedia.org/wiki/Brik",
+      "https://www.tasteatlas.com/brik"
     ]
   },
   {
@@ -26288,7 +26303,8 @@
     "spicinessScore": 1,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Fatima%27s_fingers"
+      "https://en.wikipedia.org/wiki/Fatima%27s_fingers",
+      "https://www.tasteatlas.com/fatima-fingers"
     ]
   },
   {
@@ -26366,7 +26382,8 @@
       "/images/dishes/mechouia-salad/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Mechouia_salad"
+      "https://en.wikipedia.org/wiki/Mechouia_salad",
+      "https://www.pbs.org/food/recipes/tunisian-grilled-salad-slata-mechouia/"
     ]
   },
   {
@@ -26436,7 +26453,8 @@
     "spicinessScore": 2,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Hsou"
+      "https://en.wikipedia.org/wiki/Hsou",
+      "https://www.tasteatlas.com/tunisian-soups"
     ]
   },
   {
@@ -26521,7 +26539,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Chorba",
-      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%AB%E3%83%90"
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%AB%E3%83%90",
+      "https://www.tasteatlas.com/chorba"
     ]
   },
   {
@@ -26592,7 +26611,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Ojja",
-      "https://fr.wikipedia.org/wiki/Ojja"
+      "https://fr.wikipedia.org/wiki/Ojja",
+      "https://www.tasteatlas.com/ojja"
     ]
   },
   {
@@ -26662,7 +26682,8 @@
       "/images/dishes/kafteji/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Kafteji"
+      "https://en.wikipedia.org/wiki/Kafteji",
+      "https://www.tasteatlas.com/kafteji"
     ]
   },
   {
@@ -26736,7 +26757,8 @@
       "/images/dishes/kamounia/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Kamounia"
+      "https://en.wikipedia.org/wiki/Kamounia",
+      "https://www.tasteatlas.com/kamounia"
     ]
   },
   {
@@ -26824,7 +26846,8 @@
       "/images/dishes/loubia/2.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Loubia"
+      "https://en.wikipedia.org/wiki/Loubia",
+      "https://www.tasteatlas.com/loubia"
     ]
   },
   {
@@ -26891,7 +26914,8 @@
     "spicinessScore": 2,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Tunisian_cuisine"
+      "https://en.wikipedia.org/wiki/Tunisian_cuisine",
+      "https://www.tasteatlas.com/madfouna"
     ]
   },
   {
@@ -26959,7 +26983,10 @@
     "uniquenessScore": 3,
     "heavinessScore": 5,
     "spicinessScore": 2,
-    "images": []
+    "images": [],
+    "source": [
+      "https://www.tasteatlas.com/koucha-allouche"
+    ]
   },
   {
     "id": "imoni",
@@ -27052,7 +27079,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Imoni",
-      "https://ja.wikipedia.org/wiki/%E8%8A%8B%E7%85%AE%E4%BC%9A"
+      "https://ja.wikipedia.org/wiki/%E8%8A%8B%E7%85%AE%E4%BC%9A",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/imoni_yamagata.html"
     ]
   },
   {
@@ -27133,7 +27161,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E9%B3%A5%E4%B8%AD%E8%8F%AF"
+      "https://ja.wikipedia.org/wiki/%E9%B3%A5%E4%B8%AD%E8%8F%AF",
+      "https://suisyasoba.com/"
     ]
   },
   {
@@ -27151,10 +27180,6 @@
       {
         "country": "日本",
         "locality": "山形"
-      },
-      {
-        "country": "日本",
-        "locality": "上山"
       }
     ],
     "summary": "山形県河北町谷地が発祥の郷土そば。甘辛のしょうゆ出汁で煮た歯ごたえのある親鶏のもも肉をたっぷりのせた蕎麦で、スープを冷ましてから提供する「冷たい肉そば」がとくに有名。2011年B-1グランプリで全国区に。",
@@ -27218,7 +27243,8 @@
       "/images/dishes/niku-soba/1.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E5%86%B7%E3%81%9F%E3%81%84%E8%82%89%E3%81%9D%E3%81%B0"
+      "https://ja.wikipedia.org/wiki/%E5%86%B7%E3%81%9F%E3%81%84%E8%82%89%E3%81%9D%E3%81%B0",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
     ]
   },
   {
@@ -27308,7 +27334,8 @@
       "/images/dishes/hiyashi-ramen/3.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E5%86%B7%E3%82%84%E3%81%97%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E5%86%B7%E3%82%84%E3%81%97%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3",
+      "https://www.sakaeya-honten.com/"
     ]
   },
   {
@@ -27328,7 +27355,7 @@
       }
     ],
     "summary": "山形県発祥の屋台料理。薄く溶いた小麦粉生地をソース・ネギ・天かすで味付けして鉄板で焼き、割り箸に巻いて提供する昭和の庶民的軽食。",
-    "menuDescription": "小麦粉を薄く溶いた生地をソースで味付けし、刻みネギや天かすをのせて鉄板で焼き上げた山形発祥の屋台料理。割り箸に巻かれた独特のスタイルで、手軽に食べ歩きができます。",
+    "menuDescription": "小麦粉を薄く溶いた生地をソースで味付けし、刻みネギや天かすをのせて鉄板で焼き上げた山形発祥の屋台料理。割り箸に巻かれた独特のスタイルで、手軽に食べ歩きできる。",
     "whatComesOut": [
       "割り箸に巻き付けられた薄焼き生地",
       "ウスターソース・甘辛ソース",
@@ -27395,7 +27422,8 @@
       "/images/dishes/dondonyaki/1.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%81%A9%E3%82%93%E3%81%A9%E3%82%93%E7%84%BC%E3%81%8D"
+      "https://ja.wikipedia.org/wiki/%E3%81%A9%E3%82%93%E3%81%A9%E3%82%93%E7%84%BC%E3%81%8D",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
     ]
   },
   {
@@ -27480,7 +27508,8 @@
     "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Tsuruoka",
-      "https://ja.wikipedia.org/wiki/%E3%81%A0%E3%81%A0%E3%81%A1%E3%82%83%E8%B1%86"
+      "https://ja.wikipedia.org/wiki/%E3%81%A0%E3%81%A0%E3%81%A1%E3%82%83%E8%B1%86",
+      "https://www.tsuruokacity.com/"
     ]
   },
   {
@@ -27570,7 +27599,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%8B%E3%83%A3%E3%82%AF"
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%8B%E3%83%A3%E3%82%AF",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/imoni_yamagata.html"
     ]
   },
   {
@@ -27676,7 +27706,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Lagman",
-      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B0%E3%83%9E%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B0%E3%83%9E%E3%83%B3",
+      "https://www.tasteatlas.com/lagman"
     ]
   },
   {
@@ -27793,7 +27824,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Manti_(food)",
-      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3"
+      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3",
+      "https://www.tasteatlas.com/manti"
     ]
   },
   {
@@ -27874,7 +27906,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Shivit_oshi"
+      "https://en.wikipedia.org/wiki/Shivit_oshi",
+      "https://www.tasteatlas.com/shivit-oshi"
     ]
   },
   {
@@ -27960,7 +27993,8 @@
     "spicinessScore": 1,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Uzbek_cuisine"
+      "https://en.wikipedia.org/wiki/Uzbek_cuisine",
+      "https://www.tasteatlas.com/nohat-shorak"
     ]
   },
   {
@@ -28061,7 +28095,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Shashlik",
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%B7%E3%83%AA%E3%82%AF"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%B7%E3%83%AA%E3%82%AF",
+      "https://www.tasteatlas.com/shashlik"
     ]
   },
   {
@@ -28154,7 +28189,8 @@
       "/images/dishes/chuchvara/1.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Chuchvara"
+      "https://en.wikipedia.org/wiki/Chuchvara",
+      "https://www.tasteatlas.com/chuchvara"
     ]
   },
   {
@@ -28235,7 +28271,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Uzbek_cuisine"
+      "https://en.wikipedia.org/wiki/Uzbek_cuisine",
+      "https://www.tasteatlas.com/tukhum-barak"
     ]
   },
   {
@@ -28330,7 +28367,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Non",
-      "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%B3",
+      "https://www.tasteatlas.com/non"
     ]
   },
   {
@@ -28441,7 +28479,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Chorba",
-      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%AB%E3%83%90"
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%AB%E3%83%90",
+      "https://www.tasteatlas.com/shurpa"
     ]
   },
   {
@@ -28528,7 +28567,8 @@
     "spicinessScore": 1,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Mastava"
+      "https://en.wikipedia.org/wiki/Mastava",
+      "https://www.tasteatlas.com/mastava"
     ]
   },
   {
@@ -28610,7 +28650,10 @@
     "uniquenessScore": 2,
     "heavinessScore": 1,
     "spicinessScore": 1,
-    "images": []
+    "images": [],
+    "source": [
+      "https://www.tasteatlas.com/achichuk"
+    ]
   },
   {
     "id": "baklajon-qovurma",
@@ -28692,7 +28735,10 @@
     "uniquenessScore": 3,
     "heavinessScore": 3,
     "spicinessScore": 1,
-    "images": []
+    "images": [],
+    "source": [
+      "https://www.advantour.com/uzbekistan/uzbek-food.htm"
+    ]
   },
   {
     "id": "qaynona-tili",
@@ -28777,7 +28823,8 @@
     "spicinessScore": 1,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Eggplant"
+      "https://en.wikipedia.org/wiki/Eggplant",
+      "https://www.advantour.com/uzbekistan/uzbek-food.htm"
     ]
   },
   {
@@ -28860,7 +28907,8 @@
       "/images/dishes/tavche-gravche/2.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Tav%C4%8De_grav%C4%8De"
+      "https://en.wikipedia.org/wiki/Tav%C4%8De_grav%C4%8De",
+      "https://www.tasteatlas.com/tavce-gravce"
     ]
   },
   {
@@ -28965,7 +29013,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Shopska_salad",
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%83%97%E3%82%B9%E3%82%AB%E3%83%BB%E3%82%B5%E3%83%A9%E3%83%80"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%83%97%E3%82%B9%E3%82%AB%E3%83%BB%E3%82%B5%E3%83%A9%E3%83%80",
+      "https://www.tasteatlas.com/shopska-salad"
     ]
   },
   {
@@ -29054,7 +29103,8 @@
       "/images/dishes/yayla-corbasi/2.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Yayla_%C3%A7orbas%C4%B1"
+      "https://en.wikipedia.org/wiki/Yayla_%C3%A7orbas%C4%B1",
+      "https://www.tasteatlas.com/yayla-corbasi"
     ]
   },
   {
@@ -29146,7 +29196,8 @@
       "/images/dishes/sharska-pljeskavica/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Pljeskavica"
+      "https://en.wikipedia.org/wiki/Pljeskavica",
+      "https://www.tasteatlas.com/pljeskavica"
     ]
   },
   {
@@ -29248,7 +29299,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/%C4%86evap%C4%8Di%C4%87i",
-      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%B4%E3%82%A1%E3%83%94"
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%B4%E3%82%A1%E3%83%94",
+      "https://www.tasteatlas.com/cevapi"
     ]
   },
   {
@@ -29334,7 +29386,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tarator",
-      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%A9%E3%83%88%E3%83%BC%E3%83%AB"
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%A9%E3%83%88%E3%83%BC%E3%83%AB",
+      "https://www.tasteatlas.com/tarator"
     ]
   },
   {
@@ -29423,7 +29476,8 @@
       "/images/dishes/fergese/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/F%C3%ABrges%C3%AB"
+      "https://en.wikipedia.org/wiki/F%C3%ABrges%C3%AB",
+      "https://www.tasteatlas.com/fergese"
     ]
   },
   {
@@ -29516,7 +29570,8 @@
       "/images/dishes/byrek/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/B%C3%B6rek"
+      "https://en.wikipedia.org/wiki/B%C3%B6rek",
+      "https://www.tasteatlas.com/byrek"
     ]
   },
   {
@@ -29599,7 +29654,8 @@
       "/images/dishes/pace/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Pa%C3%A7e"
+      "https://en.wikipedia.org/wiki/Pa%C3%A7e",
+      "https://www.tasteatlas.com/pace"
     ]
   },
   {
@@ -29688,7 +29744,8 @@
       "/images/dishes/tave-kosi/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Tav%C3%AB_kosi"
+      "https://en.wikipedia.org/wiki/Tav%C3%AB_kosi",
+      "https://www.tasteatlas.com/tave-kosi"
     ]
   },
   {
@@ -29768,7 +29825,8 @@
     "spicinessScore": 1,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Roulade"
+      "https://en.wikipedia.org/wiki/Roulade",
+      "https://www.larousse.fr/dictionnaires/francais/roulade/70070"
     ]
   },
   {
@@ -29869,7 +29927,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Kofta",
-      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A7%E3%83%95%E3%83%86"
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A7%E3%83%95%E3%83%86",
+      "https://www.tasteatlas.com/kofta"
     ]
   },
   {
@@ -29954,7 +30013,8 @@
     "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Khachapuri",
-      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%81%E3%83%A3%E3%83%97%E3%83%AA"
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%81%E3%83%A3%E3%83%97%E3%83%AA",
+      "https://www.tasteatlas.com/khachapuri"
     ]
   },
   {
@@ -30034,7 +30094,8 @@
     "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Shkmeruli",
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%A1%E3%83%AB%E3%83%AA"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%A1%E3%83%AB%E3%83%AA",
+      "https://www.tasteatlas.com/shkmeruli"
     ]
   },
   {
@@ -30114,7 +30175,8 @@
     "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Khinkali",
-      "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%B3%E3%82%AB%E3%83%AA"
+      "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%B3%E3%82%AB%E3%83%AA",
+      "https://www.tasteatlas.com/khinkali"
     ]
   },
   {
@@ -30193,7 +30255,8 @@
     "spicinessScore": 1,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Nigvziani_badrijani"
+      "https://en.wikipedia.org/wiki/Nigvziani_badrijani",
+      "https://www.tasteatlas.com/badrijani"
     ]
   },
   {
@@ -30271,7 +30334,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Chakapuli"
+      "https://en.wikipedia.org/wiki/Chakapuli",
+      "https://www.tasteatlas.com/chakapuli"
     ]
   },
   {
@@ -30350,7 +30414,8 @@
     "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Shila_plavi",
-      "https://ka.wikipedia.org/wiki/%E1%83%A8%E1%83%98%E1%83%9A%E1%83%90%E1%83%9E%E1%83%9A%E1%83%90%E1%83%95%E1%83%98"
+      "https://ka.wikipedia.org/wiki/%E1%83%A8%E1%83%98%E1%83%9A%E1%83%90%E1%83%9E%E1%83%9A%E1%83%90%E1%83%95%E1%83%98",
+      "https://www.tasteatlas.com/shila-plavi"
     ]
   },
   {
@@ -30430,7 +30495,8 @@
     "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Chashushuli",
-      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%A5%E3%83%AA"
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%A5%E3%83%AA",
+      "https://www.tasteatlas.com/chashushuli"
     ]
   },
   {
@@ -30509,7 +30575,8 @@
     "spicinessScore": 1,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Pkhali"
+      "https://en.wikipedia.org/wiki/Pkhali",
+      "https://www.bonappetit.com/story/georgian-pkhali"
     ]
   },
   {
@@ -30589,7 +30656,8 @@
     "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Ajapsandali",
-      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%83%A3%E3%83%97%E3%82%B5%E3%83%B3%E3%83%80%E3%83%AA"
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%83%A3%E3%83%97%E3%82%B5%E3%83%B3%E3%83%80%E3%83%AA",
+      "https://www.tasteatlas.com/ajapsandali"
     ]
   },
   {
@@ -30668,7 +30736,8 @@
     "spicinessScore": 1,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Ojakhuri"
+      "https://en.wikipedia.org/wiki/Ojakhuri",
+      "https://www.tasteatlas.com/ojakhuri"
     ]
   },
   {
@@ -30763,7 +30832,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bay_leaf",
-      "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%AA%E3%82%A8"
+      "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%AA%E3%82%A8",
+      "https://www.britannica.com/topic/bay-leaf"
     ]
   },
   {
@@ -30855,7 +30925,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pickled_cucumber",
-      "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A%E3%83%94%E3%82%AF%E3%83%AB%E3%82%B9"
+      "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%85%E3%81%86%E3%82%8A%E3%83%94%E3%82%AF%E3%83%AB%E3%82%B9",
+      "https://www.larousse.fr/dictionnaires/francais/cornichon/19420"
     ]
   },
   {
@@ -30971,7 +31042,8 @@
       "/images/dishes/garniture/3.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E4%BB%98%E3%81%91%E5%90%88%E3%82%8F%E3%81%9B"
+      "https://ja.wikipedia.org/wiki/%E4%BB%98%E3%81%91%E5%90%88%E3%82%8F%E3%81%9B",
+      "https://www.larousse.fr/dictionnaires/francais/garniture/36277"
     ]
   },
   {
@@ -31059,7 +31131,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Charcuterie",
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%88%E3%83%AA%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%88%E3%83%AA%E3%83%BC",
+      "https://www.britannica.com/topic/charcuterie"
     ]
   },
   {
@@ -31163,7 +31236,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Caper",
-      "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%83%E3%83%91%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%83%E3%83%91%E3%83%BC",
+      "https://www.britannica.com/plant/caper-plant"
     ]
   },
   {
@@ -31262,7 +31336,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mirepoix",
-      "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AB%E3%83%9D%E3%83%AF"
+      "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AB%E3%83%9D%E3%83%AF",
+      "https://www.larousse.fr/dictionnaires/francais/mirepoix/51765"
     ]
   },
   {
@@ -31356,7 +31431,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bouquet_garni",
-      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%82%B1%E3%82%AC%E3%83%AB%E3%83%8B"
+      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%82%B1%E3%82%AC%E3%83%AB%E3%83%8B",
+      "https://www.larousse.fr/dictionnaires/francais/bouquet%20garni/10583"
     ]
   },
   {
@@ -31448,7 +31524,8 @@
       "/images/dishes/sage/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Sage"
+      "https://en.wikipedia.org/wiki/Sage",
+      "https://www.britannica.com/plant/sage-plant"
     ]
   },
   {
@@ -31554,7 +31631,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Lasagna",
-      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B6%E3%83%8B%E3%82%A2"
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B6%E3%83%8B%E3%82%A2",
+      "https://www.britannica.com/topic/lasagna"
     ]
   },
   {
@@ -31647,7 +31725,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Gruy%C3%A8re_cheese",
-      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%A5%E3%82%A4%E3%82%A8%E3%83%BC%E3%83%AB%E3%83%81%E3%83%BC%E3%82%BA"
+      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%A5%E3%82%A4%E3%82%A8%E3%83%BC%E3%83%AB%E3%83%81%E3%83%BC%E3%82%BA",
+      "https://www.gruyere.com/en"
     ]
   },
   {
@@ -31739,7 +31818,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Glaze",
-      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%BA"
+      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%BA",
+      "https://www.larousse.fr/dictionnaires/francais/gla%C3%A7age/36895"
     ]
   },
   {
@@ -31832,7 +31912,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tahini",
-      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%92%E3%83%BC%E3%83%8A"
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%92%E3%83%BC%E3%83%8A",
+      "https://www.britannica.com/topic/tahini"
     ]
   },
   {
@@ -31938,7 +32019,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pita",
-      "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%BF"
+      "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%BF",
+      "https://www.britannica.com/topic/pita"
     ]
   },
   {
@@ -32023,7 +32105,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Semolina",
-      "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%A2%E3%83%AA%E3%83%8A"
+      "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%A2%E3%83%AA%E3%83%8A",
+      "https://www.britannica.com/topic/semolina"
     ]
   },
   {
@@ -32045,7 +32128,7 @@
         "country": "ウルグアイ"
       }
     ],
-    "summary": "アルゼンチンをはじめ南米各国に根付いた炭火・薪火焼き肉文化。牛肉のあばら（アシエント・コスティージャス）や内臓（チョリパン・モルシージャ）を塩だけで仕上げるシンプルさが特徴で、社交と文化のシンボルでもある。チミチュリソースを添えるのが定番。",
+    "summary": "アルゼンチンをはじめ南米各国に根付いた炭火・薪火焼き肉文化。牛のリブ、チョリソー、モルシージャ、内臓肉などを塩中心の味付けで焼き、家族や仲間と分け合う社交的な食事でもある。チミチュリソースを添えるのが定番。",
     "menuDescription": "炭火または薪火でじっくり焼いた牛肉の盛り合わせ。アルゼンチン式では塩のみで味付けし、チミチュリ（パセリ・にんにく・酢のソース）を添える。ソーセージ（チョリソー）や内臓肉が含まれることも多い。",
     "whatComesOut": [
       "炭火焼きの牛肉",
@@ -32129,7 +32212,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Asado",
-      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B5%E3%83%BC%E3%83%89"
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B5%E3%83%BC%E3%83%89",
+      "https://www.tasteatlas.com/asado"
     ]
   },
   {
@@ -32225,7 +32309,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tomatillo",
-      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%9E%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A8"
+      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%9E%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A8",
+      "https://www.britannica.com/plant/tomatillo"
     ]
   },
   {
@@ -32310,7 +32395,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pomegranate",
-      "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%AF%E3%83%AD"
+      "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%AF%E3%83%AD",
+      "https://www.britannica.com/plant/pomegranate"
     ]
   },
   {
@@ -32404,7 +32490,8 @@
       "/images/dishes/involtini/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Involtini"
+      "https://en.wikipedia.org/wiki/Involtini",
+      "https://www.tasteatlas.com/involtini"
     ]
   },
   {
@@ -32497,7 +32584,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tripe",
-      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%83%83%E3%83%91"
+      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%83%83%E3%83%91",
+      "https://www.greatitalianchefs.com/recipes/trippa-alla-romana-recipe"
     ]
   },
   {
@@ -32590,7 +32678,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Spanakopita",
-      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%83%8A%E3%82%B3%E3%83%94%E3%82%BF"
+      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%83%8A%E3%82%B3%E3%83%94%E3%82%BF",
+      "https://www.tasteatlas.com/spanakopita"
     ]
   },
   {
@@ -32661,7 +32750,6 @@
     "tags": [
       "フランス料理",
       "食材",
-      "チーズ",
       "クリーミー",
       "こってり"
     ],
@@ -32683,7 +32771,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Custard",
-      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%91%E3%83%AC%E3%82%A4%E3%83%A6"
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%91%E3%83%AC%E3%82%A4%E3%83%A6",
+      "https://www.larousse.fr/dictionnaires/francais/appareil/4681"
     ]
   },
   {
@@ -32745,7 +32834,6 @@
       "フランス料理",
       "前菜",
       "豚肉",
-      "チーズ",
       "焼き物",
       "クリーミー",
       "こってり"
@@ -32768,7 +32856,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Quiche_Lorraine",
-      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5"
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5",
+      "https://www.britannica.com/topic/quiche"
     ]
   },
   {
@@ -32864,7 +32953,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Samsa_(food)",
-      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A0%E3%82%B5"
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A0%E3%82%B5",
+      "https://www.tasteatlas.com/samsa"
     ]
   },
   {
@@ -32947,7 +33037,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Consomm%C3%A9",
-      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%A1"
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%A1",
+      "https://www.britannica.com/topic/consomme"
     ]
   },
   {
@@ -33032,7 +33123,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Turmeric",
-      "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%B3%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%B3%E3%83%B3",
+      "https://www.britannica.com/plant/turmeric"
     ]
   },
   {
@@ -33119,7 +33211,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tortilla_soup",
-      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A4%E3%82%B9%E3%83%BC%E3%83%97"
+      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A4%E3%82%B9%E3%83%BC%E3%83%97",
+      "https://www.tasteatlas.com/tortilla-soup"
     ]
   },
   {
@@ -33199,7 +33292,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Naengmyeon",
-      "https://ja.wikipedia.org/wiki/%E5%86%B7%E9%BA%BA"
+      "https://ja.wikipedia.org/wiki/%E5%86%B7%E9%BA%BA",
+      "https://www.maangchi.com/recipe/naengmyeon"
     ]
   },
   {
@@ -33309,7 +33403,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Konjac",
-      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%8B%E3%83%A3%E3%82%AF"
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%8B%E3%83%A3%E3%82%AF",
+      "https://www.eatingwell.com/article/7595496/what-is-konjac/"
     ]
   },
   {
@@ -33389,7 +33484,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Noodle",
-      "https://ja.wikipedia.org/wiki/%E6%8B%8C%E9%BA%BA"
+      "https://ja.wikipedia.org/wiki/%E6%8B%8C%E9%BA%BA",
+      "https://thewoksoflife.com/ban-mian/"
     ]
   },
   {
@@ -33470,7 +33566,8 @@
       "/images/dishes/ravioli/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Ravioli"
+      "https://en.wikipedia.org/wiki/Ravioli",
+      "https://www.britannica.com/topic/ravioli"
     ]
   },
   {
@@ -33559,7 +33656,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Kachumbari",
-      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%81%E3%83%A5%E3%83%B3%E3%83%90%E3%83%AA"
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%81%E3%83%A5%E3%83%B3%E3%83%90%E3%83%AA",
+      "https://www.tasteatlas.com/kachumbari"
     ]
   },
   {
@@ -33646,7 +33744,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pico_de_gallo",
-      "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B3%E3%83%BB%E3%83%87%E3%83%BB%E3%82%AC%E3%83%A8"
+      "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B3%E3%83%BB%E3%83%87%E3%83%BB%E3%82%AC%E3%83%A8",
+      "https://www.tasteatlas.com/pico-de-gallo"
     ]
   },
   {
@@ -33731,7 +33830,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Baked_beans",
-      "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AF%E3%83%89%E3%83%93%E3%83%BC%E3%83%B3%E3%82%BA"
+      "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AF%E3%83%89%E3%83%93%E3%83%BC%E3%83%B3%E3%82%BA",
+      "https://www.tasteatlas.com/baked-beans"
     ]
   },
   {
@@ -33814,7 +33914,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Greek_salad",
-      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AA%E3%82%A2%E3%83%86%E3%82%A3%E3%82%AD"
+      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AA%E3%82%A2%E3%83%86%E3%82%A3%E3%82%AD",
+      "https://www.tasteatlas.com/greek-salad"
     ]
   },
   {
@@ -33907,7 +34008,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Samosa",
-      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A2%E3%82%B5"
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A2%E3%82%B5",
+      "https://www.britannica.com/topic/samosa"
     ]
   },
   {
@@ -33997,7 +34099,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Monjayaki",
-      "https://ja.wikipedia.org/wiki/%E3%82%82%E3%82%93%E3%81%98%E3%82%83%E7%84%BC%E3%81%8D"
+      "https://ja.wikipedia.org/wiki/%E3%82%82%E3%82%93%E3%81%98%E3%82%83%E7%84%BC%E3%81%8D",
+      "https://www.justonecookbook.com/monjayaki/"
     ]
   },
   {
@@ -34100,7 +34203,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Okonomiyaki",
-      "https://ja.wikipedia.org/wiki/%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D"
+      "https://ja.wikipedia.org/wiki/%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D",
+      "https://www.justonecookbook.com/okonomiyaki/"
     ]
   },
   {
@@ -34177,7 +34281,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Edamame",
-      "https://ja.wikipedia.org/wiki/%E3%81%A0%E3%81%A0%E3%81%A1%E3%82%83%E3%81%BE%E3%82%81"
+      "https://ja.wikipedia.org/wiki/%E3%81%A0%E3%81%A0%E3%81%A1%E3%82%83%E3%81%BE%E3%82%81",
+      "https://www.tsuruokacity.com/"
     ]
   },
   {
@@ -34275,7 +34380,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Wonton",
-      "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%B3%E3%82%BF%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%B3%E3%82%BF%E3%83%B3",
+      "https://thewoksoflife.com/wonton-soup/"
     ]
   },
   {
@@ -34374,7 +34480,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pickle",
-      "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AF%E3%83%AB%E3%82%B9"
+      "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AF%E3%83%AB%E3%82%B9",
+      "https://www.britannica.com/topic/pickle-food"
     ]
   },
   {
@@ -34466,7 +34573,8 @@
       "/images/dishes/cumin/3.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%9F%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%9F%E3%83%B3",
+      "https://www.britannica.com/plant/cumin"
     ]
   },
   {
@@ -34602,7 +34710,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Dengaku",
-      "https://ja.wikipedia.org/wiki/%E7%94%B0%E6%A5%BD"
+      "https://ja.wikipedia.org/wiki/%E7%94%B0%E6%A5%BD",
+      "https://www.justonecookbook.com/miso-dengaku/"
     ]
   },
   {
@@ -34683,7 +34792,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Zhajiangmian",
-      "https://ja.wikipedia.org/wiki/%E7%82%B8%E9%86%A4%E9%BA%BA"
+      "https://ja.wikipedia.org/wiki/%E7%82%B8%E9%86%A4%E9%BA%BA",
+      "https://thewoksoflife.com/beijing-fried-sauce-noodles-zha-jiang-mian/"
     ]
   },
   {
@@ -34774,7 +34884,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mazemen",
-      "https://ja.wikipedia.org/wiki/%E6%B2%B9%E3%81%9D%E3%81%B0"
+      "https://ja.wikipedia.org/wiki/%E6%B2%B9%E3%81%9D%E3%81%B0",
+      "https://www.seriouseats.com/abura-soba-brothless-ramen-recipe"
     ]
   },
   {
@@ -34872,7 +34983,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Chili_con_carne",
-      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%AA%E3%82%B3%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%AA%E3%82%B3%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%B3",
+      "https://www.tasteatlas.com/chili-con-carne"
     ]
   },
   {
@@ -34972,7 +35084,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Coriander",
-      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC",
+      "https://www.britannica.com/plant/coriander"
     ]
   },
   {
@@ -35057,7 +35170,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Edamame",
-      "https://ja.wikipedia.org/wiki/%E6%9E%9D%E8%B1%86"
+      "https://ja.wikipedia.org/wiki/%E6%9E%9D%E8%B1%86",
+      "https://www.britannica.com/topic/edamame"
     ]
   },
   {
@@ -35140,7 +35254,8 @@
       "/images/dishes/chimaki/3.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%81%A1%E3%81%BE%E3%81%8D"
+      "https://ja.wikipedia.org/wiki/%E3%81%A1%E3%81%BE%E3%81%8D",
+      "https://www.tasteatlas.com/zongzi"
     ]
   },
   {
@@ -35234,7 +35349,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Spring_roll",
-      "https://ja.wikipedia.org/wiki/%E6%98%A5%E5%B7%BB%E3%81%8D"
+      "https://ja.wikipedia.org/wiki/%E6%98%A5%E5%B7%BB%E3%81%8D",
+      "https://www.britannica.com/topic/spring-roll"
     ]
   },
   {
@@ -35340,7 +35456,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Teriyaki",
-      "https://ja.wikipedia.org/wiki/%E7%85%A7%E3%82%8A%E7%84%BC%E3%81%8D"
+      "https://ja.wikipedia.org/wiki/%E7%85%A7%E3%82%8A%E7%84%BC%E3%81%8D",
+      "https://www.justonecookbook.com/teriyaki-sauce/"
     ]
   },
   {
@@ -35428,7 +35545,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Buchimgae",
-      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%82%E3%83%9F"
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%82%E3%83%9F",
+      "https://www.maangchi.com/recipe/buchujeon"
     ]
   },
   {
@@ -35513,7 +35631,8 @@
       "/images/dishes/hiyashi-chuka/3.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E5%86%B7%E3%82%84%E3%81%97%E4%B8%AD%E8%8F%AF"
+      "https://ja.wikipedia.org/wiki/%E5%86%B7%E3%82%84%E3%81%97%E4%B8%AD%E8%8F%AF",
+      "https://www.thespruceeats.com/hiyashi-chuka-recipe-2031218"
     ]
   },
   {
@@ -35606,7 +35725,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Takoyaki",
-      "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%93%E7%84%BC%E3%81%8D"
+      "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%93%E7%84%BC%E3%81%8D",
+      "https://www.justonecookbook.com/takoyaki-recipe/"
     ]
   },
   {
@@ -35695,7 +35815,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Barbecue",
-      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC",
+      "https://www.britannica.com/topic/barbecue"
     ]
   },
   {
@@ -35792,7 +35913,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Naan",
-      "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%B3",
+      "https://www.britannica.com/topic/naan"
     ]
   },
   {
@@ -35885,7 +36007,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Yakitori",
-      "https://ja.wikipedia.org/wiki/%E7%84%BC%E3%81%8D%E9%B3%A5"
+      "https://ja.wikipedia.org/wiki/%E7%84%BC%E3%81%8D%E9%B3%A5",
+      "https://www.justonecookbook.com/yakitori/"
     ]
   },
   {
@@ -35974,7 +36097,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Okowa",
-      "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%93%E3%82%8F"
+      "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%93%E3%82%8F",
+      "https://www.justonecookbook.com/okowa/"
     ]
   },
   {
@@ -36105,7 +36229,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Oden",
-      "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%A7%E3%82%93"
+      "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%A7%E3%82%93",
+      "https://www.justonecookbook.com/oden/"
     ]
   },
   {
@@ -36215,7 +36340,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Soy_sauce",
-      "https://ja.wikipedia.org/wiki/%E9%86%A4%E6%B2%B9"
+      "https://ja.wikipedia.org/wiki/%E9%86%A4%E6%B2%B9",
+      "https://www.kikkoman.com/en/culture/soysaucemuseum/"
     ]
   },
   {
@@ -36305,7 +36431,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tomato",
-      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%9E%E3%83%88"
+      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%9E%E3%83%88",
+      "https://www.britannica.com/plant/tomato"
     ]
   },
   {
@@ -36392,7 +36519,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Kimchi",
-      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A0%E3%83%81"
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A0%E3%83%81",
+      "https://www.britannica.com/topic/kimchi"
     ]
   },
   {
@@ -36485,7 +36613,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Kabayaki",
-      "https://ja.wikipedia.org/wiki/%E8%92%B2%E7%84%BC"
+      "https://ja.wikipedia.org/wiki/%E8%92%B2%E7%84%BC",
+      "https://www.justonecookbook.com/unagi-don/"
     ]
   },
   {
@@ -36601,7 +36730,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Udon",
-      "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A9%E3%82%93"
+      "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A9%E3%82%93",
+      "https://www.justonecookbook.com/udon-noodles/"
     ]
   },
   {
@@ -36683,7 +36813,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Soy_sauce#Tamari",
-      "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%BE%E3%82%8A%E9%86%A4%E6%B2%B9"
+      "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%BE%E3%82%8A%E9%86%A4%E6%B2%B9",
+      "https://san-j.com/about-tamari/"
     ]
   },
   {
@@ -36782,7 +36913,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mapo_tofu",
-      "https://ja.wikipedia.org/wiki/%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90"
+      "https://ja.wikipedia.org/wiki/%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90",
+      "https://thewoksoflife.com/ma-po-tofu-real-deal/"
     ]
   },
   {
@@ -36866,7 +36998,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Dandan_noodles",
-      "https://ja.wikipedia.org/wiki/%E6%8B%85%E6%8B%85%E9%BA%BA"
+      "https://ja.wikipedia.org/wiki/%E6%8B%85%E6%8B%85%E9%BA%BA",
+      "https://thewoksoflife.com/dan-dan-noodles/"
     ]
   },
   {
@@ -36946,7 +37079,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Sichuan_cuisine",
-      "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A4%92%E8%82%89%E7%B5%B2"
+      "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A4%92%E8%82%89%E7%B5%B2",
+      "https://thewoksoflife.com/beef-with-peppers/"
     ]
   },
   {
@@ -37040,7 +37174,8 @@
     "spicinessScore": 5,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E8%BE%A3%E5%AD%90%E9%B6%8F"
+      "https://ja.wikipedia.org/wiki/%E8%BE%A3%E5%AD%90%E9%B6%8F",
+      "https://thewoksoflife.com/chongqing-chicken/"
     ]
   },
   {
@@ -37115,7 +37250,8 @@
     "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Sichuan_cuisine",
-      "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%B7%9D%E6%96%99%E7%90%86"
+      "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%B7%9D%E6%96%99%E7%90%86",
+      "https://thewoksoflife.com/sichuan-dry-fried-string-beans/"
     ]
   },
   {
@@ -37192,7 +37328,8 @@
     "spicinessScore": 2,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E7%B2%89%E8%92%B8%E8%82%89"
+      "https://ja.wikipedia.org/wiki/%E7%B2%89%E8%92%B8%E8%82%89",
+      "https://www.chinasichuanfood.com/steamed-pork-with-rice-powder/"
     ]
   },
   {
@@ -37277,7 +37414,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Sichuan_cuisine",
-      "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%B7%9D%E6%96%99%E7%90%86"
+      "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%B7%9D%E6%96%99%E7%90%86",
+      "https://www.chinasichuanfood.com/sliced-pork-belly-with-garlic-sauce/"
     ]
   },
   {
@@ -37378,7 +37516,8 @@
       "/images/dishes/suan-cai-yu/1.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%B7%9D%E6%96%99%E7%90%86"
+      "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%B7%9D%E6%96%99%E7%90%86",
+      "https://thewoksoflife.com/suan-cai-yu-sichuan-fish-pickled-mustard-greens/"
     ]
   },
   {
@@ -37472,7 +37611,8 @@
     "spicinessScore": 5,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Mao_xue_wang"
+      "https://en.wikipedia.org/wiki/Mao_xue_wang",
+      "https://blog.themalamarket.com/sichuan-maoxuewang-duck-blood-tofu-and-tripe-in-chili-oil/"
     ]
   },
   {
@@ -37490,11 +37630,11 @@
     "regions": [
       {
         "country": "中国",
-        "area": "湖北・長江流域"
+        "area": "四川・長江流域"
       }
     ],
-    "summary": "中国の淡水産スッポン（甲魚・江団）を蒸し調理で仕上げた高級料理。生姜・ネギなどのシンプルな味付けで素材の風味を活かし、コラーゲンを豊富に含むことから美容・滋養強壮の食材として珍重される。",
-    "menuDescription": "長江流域産のスッポン（江団）を生姜・ネギ・紹興酒とともに蒸し上げた料理。コラーゲン豊富なゼラチン質のスカートと繊細な身が特徴。",
+    "summary": "中国四川の名菜で、長江流域の淡水魚「江団（ナマズ類）」を生姜・ねぎ・紹興酒などで蒸し、素材の淡い旨みを生かす料理。辛味を抑えた清蒸系で、白身の柔らかさとゼラチン質の口当たりが特徴。",
+    "menuDescription": "長江流域の淡水魚「江団」を生姜・ねぎ・紹興酒とともに蒸した料理。淡白な白身と上品な脂、清蒸ならではの澄んだ香りを楽しむ四川の魚料理。",
     "whatComesOut": [
       "丸ごとまたは半身のスッポン",
       "ゼラチン質のスカート部分",
@@ -37533,6 +37673,7 @@
     ],
     "tags": [
       "中国料理",
+      "四川料理",
       "主菜",
       "魚介",
       "蒸し料理",
@@ -37551,7 +37692,7 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://en.wikipedia.org/wiki/Chinese_softshell_turtle"
+      "https://www.chinasichuanfood.com/steamed-fish-with-ginger-and-scallion/"
     ]
   },
   {
@@ -37636,7 +37777,8 @@
     "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Sichuan_cuisine",
-      "https://ja.wikipedia.org/wiki/%E9%BA%BB%E5%A9%86%E8%8C%84%E5%AD%90"
+      "https://ja.wikipedia.org/wiki/%E9%BA%BB%E5%A9%86%E8%8C%84%E5%AD%90",
+      "https://thewoksoflife.com/yu-xiang-eggplant/"
     ]
   },
   {
@@ -37734,7 +37876,8 @@
       "/images/dishes/shui-zhu-rou-pian/2.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87"
+      "https://ja.wikipedia.org/wiki/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87",
+      "https://www.chinasichuanfood.com/water-boiled-pork-slices/"
     ]
   },
   {
@@ -37828,7 +37971,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Shui_zhu",
-      "https://ja.wikipedia.org/wiki/%E6%B0%B4%E7%85%AE%E9%AD%9A"
+      "https://ja.wikipedia.org/wiki/%E6%B0%B4%E7%85%AE%E9%AD%9A",
+      "https://thewoksoflife.com/shui-zhu-yu-sichuan-boiled-fish/"
     ]
   },
   {
@@ -37911,7 +38055,8 @@
     "spicinessScore": 2,
     "images": [],
     "source": [
-      "https://zh.wikipedia.org/wiki/%E9%9B%85%E9%AD%9A"
+      "https://zh.wikipedia.org/wiki/%E9%9B%85%E9%AD%9A",
+      "https://www.travelchinaguide.com/cityguides/sichuan/yaan/food.htm"
     ]
   },
   {
@@ -37995,7 +38140,8 @@
       "/images/dishes/xiao-su-rou/2.jpg"
     ],
     "source": [
-      "https://zh.wikipedia.org/wiki/%E5%B0%8F%E9%85%A5%E8%82%89"
+      "https://zh.wikipedia.org/wiki/%E5%B0%8F%E9%85%A5%E8%82%89",
+      "https://www.chinasichuanfood.com/sichuan-crispy-fried-pork/"
     ]
   },
   {
@@ -38080,7 +38226,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://zh.wikipedia.org/wiki/%E9%A6%84%E9%A5%A8"
+      "https://zh.wikipedia.org/wiki/%E9%A6%84%E9%A5%A8",
+      "https://thewoksoflife.com/wonton-soup/"
     ]
   },
   {
@@ -38159,7 +38306,8 @@
       "/images/dishes/he-hua-su/1.jpg"
     ],
     "source": [
-      "https://zh.wikipedia.org/wiki/%E8%8D%B7%E8%8A%B1%E9%85%A5"
+      "https://zh.wikipedia.org/wiki/%E8%8D%B7%E8%8A%B1%E9%85%A5",
+      "https://www.chinasichuanfood.com/chinese-flaky-pastry/"
     ]
   },
   {
@@ -38240,7 +38388,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Steak",
-      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD"
+      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD",
+      "https://www.britannica.com/topic/steak"
     ]
   },
   {
@@ -38317,7 +38466,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Clam_chowder",
-      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%A0%E3%83%81%E3%83%A3%E3%82%A6%E3%83%80%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%A0%E3%83%81%E3%83%A3%E3%82%A6%E3%83%80%E3%83%BC",
+      "https://www.tasteatlas.com/clam-chowder"
     ]
   },
   {
@@ -38403,7 +38553,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Spare_ribs",
-      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A2%E3%83%AA%E3%83%96"
+      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A2%E3%83%AA%E3%83%96",
+      "https://www.tasteatlas.com/barbecue-ribs"
     ]
   },
   {
@@ -38487,7 +38638,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Jambalaya",
-      "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%90%E3%83%A9%E3%83%A4"
+      "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%90%E3%83%A9%E3%83%A4",
+      "https://www.britannica.com/topic/jambalaya"
     ]
   },
   {
@@ -38568,7 +38720,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Macaroni_and_cheese",
-      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AB%E3%83%AD%E3%83%8B%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%81%E3%83%BC%E3%82%BA"
+      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AB%E3%83%AD%E3%83%8B%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%81%E3%83%BC%E3%82%BA",
+      "https://www.tasteatlas.com/mac-and-cheese"
     ]
   },
   {
@@ -38657,7 +38810,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bananas_Foster",
-      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%8A%E3%83%8A%E3%82%BA%E3%83%BB%E3%83%95%E3%82%A9%E3%82%B9%E3%82%BF%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%8A%E3%83%8A%E3%82%BA%E3%83%BB%E3%83%95%E3%82%A9%E3%82%B9%E3%82%BF%E3%83%BC",
+      "https://www.brennansneworleans.com/recipes/bananas-foster/"
     ]
   },
   {
@@ -38758,7 +38912,8 @@
       "/images/dishes/xiang-la/2.jpg"
     ],
     "source": [
-      "https://zh.wikipedia.org/wiki/%E9%A6%99%E8%BE%A3"
+      "https://zh.wikipedia.org/wiki/%E9%A6%99%E8%BE%A3",
+      "https://www.seriouseats.com/what-is-sichuan-szechuan-chinese-cuisine"
     ]
   },
   {
@@ -38849,7 +39004,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mala_%28seasoning%29",
-      "https://ja.wikipedia.org/wiki/%E9%BA%BB%E8%BE%A3%E5%91%B3"
+      "https://ja.wikipedia.org/wiki/%E9%BA%BB%E8%BE%A3%E5%91%B3",
+      "https://www.seriouseats.com/what-is-sichuan-szechuan-chinese-cuisine"
     ]
   },
   {
@@ -38930,7 +39086,8 @@
       "/images/dishes/hu-la/1.jpg"
     ],
     "source": [
-      "https://zh.wikipedia.org/wiki/%E7%B3%8A%E8%BE%A3"
+      "https://zh.wikipedia.org/wiki/%E7%B3%8A%E8%BE%A3",
+      "https://www.seriouseats.com/what-is-sichuan-szechuan-chinese-cuisine"
     ]
   },
   {
@@ -39013,7 +39170,8 @@
     "spicinessScore": 4,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E8%B2%B4%E5%B7%9E%E6%96%99%E7%90%86"
+      "https://ja.wikipedia.org/wiki/%E8%B2%B4%E5%B7%9E%E6%96%99%E7%90%86",
+      "https://www.seriouseats.com/what-is-sichuan-szechuan-chinese-cuisine"
     ]
   },
   {
@@ -39108,7 +39266,8 @@
     "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Hot_and_sour_soup",
-      "https://ja.wikipedia.org/wiki/%E9%85%B8%E8%BE%A3%E6%B9%AF"
+      "https://ja.wikipedia.org/wiki/%E9%85%B8%E8%BE%A3%E6%B9%AF",
+      "https://www.britannica.com/topic/hot-and-sour-soup"
     ]
   },
   {
@@ -39186,7 +39345,8 @@
     "spicinessScore": 4,
     "images": [],
     "source": [
-      "https://zh.wikipedia.org/wiki/%E8%BE%A3%E6%A4%92"
+      "https://zh.wikipedia.org/wiki/%E8%BE%A3%E6%A4%92",
+      "https://www.seriouseats.com/what-is-sichuan-szechuan-chinese-cuisine"
     ]
   },
   {
@@ -39201,13 +39361,13 @@
     "category": "料理",
     "regions": [
       {
-        "area": "関東",
+        "area": "東北",
         "country": "日本",
-        "locality": "宇都宮"
+        "locality": "福島"
       }
     ],
-    "summary": "浜松発祥のご当地餃子スタイル。複数個の餃子を円形に並べて鉄板で焼き上げ、皮同士がくっついた円盤状に仕上がる。中央にもやしを盛り付けるスタイルが浜松の定番。",
-    "menuDescription": "餃子を円形（円盤状）に並べて鉄板で焼いた浜松のご当地グルメ。底面はパリッと香ばしく、皮同士が連なってもちもちした部分も楽しめる。豚肉・キャベツ・ニラの餡がジューシー。中央にもやしナムルを盛るスタイルが多い。",
+    "summary": "福島市発祥のご当地餃子スタイル。小ぶりの餃子をフライパンに円盤状に並べて焼き、外側を香ばしく内側をふっくら仕上げる。戦後の屋台文化から広まり、福島の名物として定着した。",
+    "menuDescription": "餃子を丸く並べて焼いた福島名物。底はパリッと香ばしく、野菜多めの餡は軽い食べ口。皿いっぱいの円盤形で出るため、数人で分けて食べやすい。",
     "whatComesOut": [
       "円形に並んだ焼き餃子（10〜15個程度）",
       "酢・醤油・ラー油",
@@ -39252,8 +39412,7 @@
       "豚肉",
       "焼き物",
       "香ばしい",
-      "ジューシー",
-      "関東"
+      "東北"
     ],
     "reverseKeywords": [
       "餃子が苦手",
@@ -39268,7 +39427,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E5%86%86%E7%9B%A4%E9%A4%83%E5%AD%90"
+      "https://ja.wikipedia.org/wiki/%E5%86%86%E7%9B%A4%E9%A4%83%E5%AD%90",
+      "https://www.f-kankou.jp/gourmet/1051"
     ]
   },
   {
@@ -39353,7 +39513,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%BF%E3%81%88%E7%84%BC%E3%81%9D%E3%81%B0"
+      "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%BF%E3%81%88%E7%84%BC%E3%81%9D%E3%81%B0",
+      "https://namieyakisoba.com/"
     ]
   },
   {
@@ -39437,7 +39598,8 @@
       "/images/dishes/ika-ninjin/2.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%8B%E3%81%AB%E3%82%93%E3%81%98%E3%82%93"
+      "https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%8B%E3%81%AB%E3%82%93%E3%81%98%E3%82%93",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ika_ninjin_fukushima.html"
     ]
   },
   {
@@ -39529,7 +39691,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%A5%E3%82%86"
+      "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%A5%E3%82%86",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kozuyu_fukushima.html"
     ]
   },
   {
@@ -39613,7 +39776,8 @@
     "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Soba",
-      "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%8E%E3%81%9D%E3%81%B0"
+      "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%8E%E3%81%9D%E3%81%B0",
+      "https://ouchi-juku.com/detail/622/menu.html"
     ]
   },
   {
@@ -39688,7 +39852,8 @@
       "/images/dishes/radium-tamago/1.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E6%B8%A9%E6%B3%89%E5%8D%B5"
+      "https://ja.wikipedia.org/wiki/%E6%B8%A9%E6%B3%89%E5%8D%B5",
+      "https://www.f-kankou.jp/souvenir/1296"
     ]
   },
   {
@@ -39776,7 +39941,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%81%A9%E3%81%A6%E7%84%BC%E3%81%8D"
+      "https://ja.wikipedia.org/wiki/%E3%81%A9%E3%81%A6%E7%84%BC%E3%81%8D",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/dote_yaki_osaka.html"
     ],
     "caution": "牛の内臓・すじ肉使用。大豆（味噌）・こんにゃくを含む。"
   },
@@ -39854,7 +40020,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A9%E3%82%93"
+      "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A9%E3%82%93",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
     ]
   },
   {
@@ -39936,7 +40103,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E8%82%89%E5%90%B8%E3%81%84"
+      "https://ja.wikipedia.org/wiki/%E8%82%89%E5%90%B8%E3%81%84",
+      "https://www.chitose-nikusui.com/"
     ]
   },
   {
@@ -40006,7 +40174,8 @@
       "/images/dishes/negiyaki/1.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%8E%E7%84%BC%E3%81%8D"
+      "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%8E%E7%84%BC%E3%81%8D",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
     ]
   },
   {
@@ -40091,7 +40260,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Ikayaki",
-      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AB%E7%84%BC%E3%81%8D"
+      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AB%E7%84%BC%E3%81%8D",
+      "https://www.hanshin-dept.jp/hshonten/restaurantguide/restaurant/restaurant_3f.html/"
     ]
   },
   {
@@ -40170,7 +40340,8 @@
     "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Offal",
-      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3%E7%84%BC%E3%81%8D"
+      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3%E7%84%BC%E3%81%8D",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
     ]
   },
   {
@@ -40254,7 +40425,8 @@
       "/images/dishes/tessa/2.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%90%E6%96%99%E7%90%86"
+      "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%90%E6%96%99%E7%90%86",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
     ]
   },
   {
@@ -40342,7 +40514,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%90%E6%96%99%E7%90%86"
+      "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%90%E6%96%99%E7%90%86",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
     ]
   },
   {
@@ -40410,7 +40583,8 @@
       "/images/dishes/bara-zushi/1.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%81%B0%E3%82%89%E3%81%9A%E3%81%97"
+      "https://ja.wikipedia.org/wiki/%E3%81%B0%E3%82%89%E3%81%9A%E3%81%97",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/bara_zushi_okayama.html"
     ]
   },
   {
@@ -40478,7 +40652,8 @@
     "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Battera",
-      "https://ja.wikipedia.org/wiki/%E3%81%B0%E3%81%A3%E3%81%A6%E3%82%89"
+      "https://ja.wikipedia.org/wiki/%E3%81%B0%E3%81%A3%E3%81%A6%E3%82%89",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/battera_osaka.html"
     ]
   },
   {
@@ -40553,7 +40728,8 @@
     "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Harihari-nabe",
-      "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%82%8A%E3%81%AF%E3%82%8A%E9%8D%8B"
+      "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%82%8A%E3%81%AF%E3%82%8A%E9%8D%8B",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/harihari_nabe_osaka.html"
     ]
   },
   {
@@ -40623,7 +40799,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%81%A9%E3%81%A6%E7%84%BC%E3%81%8D"
+      "https://ja.wikipedia.org/wiki/%E3%81%A9%E3%81%A6%E7%84%BC%E3%81%8D",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/dote_yaki_osaka.html"
     ]
   },
   {
@@ -40699,7 +40876,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E5%8D%8A%E5%8A%A9%E8%B1%86%E8%85%90"
+      "https://ja.wikipedia.org/wiki/%E5%8D%8A%E5%8A%A9%E8%B1%86%E8%85%90",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
     ]
   },
   {
@@ -40777,7 +40955,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%BA%E3%83%9F%E3%82%B4%E3%83%81"
+      "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%BA%E3%83%9F%E3%82%B4%E3%83%81",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
     ]
   },
   {
@@ -40847,7 +41026,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E8%88%B9%E5%A0%B4%E6%B1%81"
+      "https://ja.wikipedia.org/wiki/%E8%88%B9%E5%A0%B4%E6%B1%81",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/senba_jiru_osaka.html"
     ]
   },
   {
@@ -40919,7 +41099,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%B3%E3%82%B3%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%B3%E3%82%B3%E3%83%B3",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/renkon_mochi_ishikawa.html"
     ]
   },
   {
@@ -40992,7 +41173,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%B0%E5%B7%BB%E8%92%B8%E3%81%97"
+      "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%B0%E5%B7%BB%E8%92%B8%E3%81%97",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
     ]
   },
   {
@@ -41048,7 +41230,7 @@
       "日本料理",
       "鍋料理",
       "魚介",
-      "蒸し料理",
+      "煮込み",
       "あっさり"
     ],
     "reverseKeywords": [
@@ -41064,7 +41246,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E9%B1%A7"
+      "https://ja.wikipedia.org/wiki/%E9%B1%A7",
+      "https://www.kyoto.travel/en/other/kyotocuisine.html"
     ]
   },
   {
@@ -41163,7 +41346,8 @@
       "/images/dishes/zuiki/2.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%88%E3%82%A4%E3%83%A2"
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%88%E3%82%A4%E3%83%A2",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/zuiki_no_taitan_kyoto.html"
     ]
   },
   {
@@ -41239,7 +41423,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E6%BC%AC%E7%89%A9"
+      "https://ja.wikipedia.org/wiki/%E6%BC%AC%E7%89%A9",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
     ]
   },
   {
@@ -41316,7 +41501,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%81%94%E3%81%BC%E3%81%86"
+      "https://ja.wikipedia.org/wiki/%E3%81%94%E3%81%BC%E3%81%86",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
     ]
   },
   {
@@ -41405,7 +41591,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Sakurajima_radish",
-      "https://ja.wikipedia.org/wiki/%E9%A2%A8%E5%91%82%E5%90%B9%E3%81%8D"
+      "https://ja.wikipedia.org/wiki/%E9%A2%A8%E5%91%82%E5%90%B9%E3%81%8D",
+      "https://www.justonecookbook.com/furofuki-daikon/"
     ]
   },
   {
@@ -41480,7 +41667,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Arame",
-      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%A1"
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%A1",
+      "https://www.britannica.com/science/arame"
     ]
   },
   {
@@ -41554,7 +41742,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Vigna_unguiculata",
-      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%B5%E3%82%B2"
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%B5%E3%82%B2",
+      "https://www.britannica.com/plant/cowpea"
     ]
   },
   {
@@ -41641,7 +41830,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Udon",
-      "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%81%97%E3%82%81%E3%82%93"
+      "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%81%97%E3%82%81%E3%82%93",
+      "https://www.aichi-now.jp/en/foods/detail/1/"
     ]
   },
   {
@@ -41722,7 +41912,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Petasites_japonicus",
-      "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%8D"
+      "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%8D",
+      "https://www.britannica.com/plant/butterbur"
     ]
   },
   {
@@ -41794,7 +41985,8 @@
     "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Chahan_%28dish%29",
-      "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%93%E3%82%81%E3%81%97"
+      "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%93%E3%82%81%E3%81%97",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tako_meshi_ehime.html"
     ]
   },
   {
@@ -41878,7 +42070,8 @@
       "/images/dishes/oni-manju/2.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E9%AC%BC%E9%A5%85%E9%A0%AD"
+      "https://ja.wikipedia.org/wiki/%E9%AC%BC%E9%A5%85%E9%A0%AD",
+      "https://www.aichi-now.jp/en/foods/detail/10/"
     ]
   },
   {
@@ -41949,7 +42142,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A9%E3%82%93"
+      "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A9%E3%82%93",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
     ]
   },
   {
@@ -42025,7 +42219,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%82%A6%E3%83%AA"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%82%A6%E3%83%AA",
+      "https://tradveggie.or.jp/%E3%81%82%E3%81%84%E3%81%A1%E3%81%AE%E4%BC%9D%E7%B5%B1%E9%87%8E%E8%8F%9C/%E3%81%8B%E3%82%8A%E3%82%82%E3%82%8A/"
     ]
   },
   {
@@ -42099,7 +42294,8 @@
       "/images/dishes/hebo/1.png"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%BA%E3%83%A1%E3%83%90%E3%83%81"
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%BA%E3%83%A1%E3%83%90%E3%83%81",
+      "https://www.kankou-gifu.jp/gourmet/detail_1179.html"
     ]
   },
   {
@@ -42115,8 +42311,9 @@
     "category": "料理",
     "regions": [
       {
-        "area": "東海",
-        "country": "日本"
+        "area": "関東",
+        "country": "日本",
+        "locality": "東京"
       }
     ],
     "summary": "川と海の境界域（汽水域）に生息するハゼ（鯊）を天ぷらや唐揚げ・佃煮にした日本の秋の風物詩的な料理。東京湾・隅田川での釣りと天ぷらが有名で、江戸前料理の代表的な小魚として古くから親しまれてきた。",
@@ -42176,7 +42373,7 @@
       "/images/dishes/haze/3.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%BC"
+      "https://www.tokyo-park.or.jp/special/edomae/"
     ]
   },
   {
@@ -42248,7 +42445,8 @@
     "spicinessScore": 0,
     "images": [],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E4%BA%94%E5%B9%B3%E9%A4%85"
+      "https://ja.wikipedia.org/wiki/%E4%BA%94%E5%B9%B3%E9%A4%85",
+      "https://www.kankou-gifu.jp/gourmet/detail_1180.html"
     ]
   },
   {
