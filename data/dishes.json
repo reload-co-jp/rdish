@@ -63992,5 +63992,102 @@
       "/images/dishes/pizza-quattro-stagioni/2.jpg",
       "/images/dishes/pizza-quattro-stagioni/3.jpg"
     ]
+  },
+  {
+    "id": "focaccia",
+    "name": "フォカッチャ",
+    "kana": "ふぉかっちゃ",
+    "aliases": [
+      "フォカッチャパン",
+      "フォカッチャ・ジェノベーゼ",
+      "Focaccia",
+      "Focaccia genovese",
+      "Panis focacius"
+    ],
+    "englishName": "Focaccia",
+    "originalName": "Focaccia",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "locality": "リグーリア州"
+      },
+      {
+        "country": "イタリア",
+        "locality": "ジェノヴァ"
+      }
+    ],
+    "summary": "小麦粉、水、塩、酵母、オリーブオイルで作るイタリアの平焼きパン。古代ローマのpanis focaciusに語源を持つとされ、現在はリグーリア、とくにジェノヴァの名物として知られる。表面のくぼみに油と塩水が入り、外は香ばしく中はふんわりしっとりする。",
+    "menuDescription": "オリーブオイルと塩を効かせたイタリアの平たいパン。ローズマリーやオリーブをのせることもあり、前菜やパン代わり、サンドイッチに使われる。",
+    "whatComesOut": [
+      "四角または丸く焼いた厚めの平焼きパン",
+      "表面に指で押したくぼみとオリーブオイル",
+      "粗塩、ローズマリー、オリーブなどのトッピングがある場合もある"
+    ],
+    "tasteAndTexture": [
+      "外側は香ばしく、内側はふんわりしっとり",
+      "オリーブオイルのコクと粗塩の塩気",
+      "ローズマリー入りならハーブの香りが強い"
+    ],
+    "orderAdvice": "食事前のパン、軽食、サンドイッチ向き。ピザよりパン寄りで、トマトソースやチーズが必ずのる料理ではない。焼きたては油と塩の香りが強く、シンプルな具材と合う。",
+    "caution": "小麦を含む。オリーブオイル量が多く、塩気も強い場合あり。具入りは乳製品やオリーブを含むことがある。",
+    "similarItems": [
+      {
+        "id": "pizza-bianca",
+        "name": "ビアンカ",
+        "difference": "ビアンカは白いピッツァの総称。フォカッチャはよりパン寄りで、油を含む生地とくぼみのある表面が特徴"
+      },
+      {
+        "id": "pizza-marinara",
+        "name": "マリナーラ",
+        "difference": "マリナーラはトマト、にんにく、オレガノのピッツァ。フォカッチャは通常トマトソースを使わない平焼きパン"
+      },
+      {
+        "id": "pita-bread",
+        "name": "ピタパン",
+        "difference": "ピタパンは中が空洞になりやすい薄いパン。フォカッチャは油を多く含む厚めの平焼きパン"
+      },
+      {
+        "id": "rosemary",
+        "name": "ローズマリー",
+        "difference": "ローズマリーはハーブ。フォカッチャの香り付けに使われる定番トッピング"
+      }
+    ],
+    "relatedIds": [
+      "pizza-bianca",
+      "pizza-marinara",
+      "pita-bread",
+      "rosemary"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Focaccia",
+      "https://it.wikipedia.org/wiki/Focaccia",
+      "https://en.wikipedia.org/wiki/Fougasse_(bread)"
+    ],
+    "tags": [
+      "イタリア料理",
+      "パン",
+      "小麦",
+      "ハーブ",
+      "焼き物",
+      "香ばしい",
+      "ふわふわ"
+    ],
+    "reverseKeywords": [
+      "トマトソースのピザ",
+      "具だくさんピザ",
+      "米料理",
+      "辛い料理",
+      "低糖質"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/focaccia/1.jpg",
+      "/images/dishes/focaccia/2.jpg",
+      "/images/dishes/focaccia/3.jpg"
+    ]
   }
 ]
