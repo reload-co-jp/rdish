@@ -67371,5 +67371,98 @@
       "/images/dishes/stout/2.jpg",
       "/images/dishes/stout/3.jpg"
     ]
+  },
+  {
+    "id": "cheddar-cheese",
+    "name": "チェダーチーズ",
+    "kana": "ちぇだーちーず",
+    "aliases": [
+      "チェダー",
+      "チェダー・チーズ",
+      "ホワイトチェダー",
+      "オレンジチェダー"
+    ],
+    "englishName": "Cheddar Cheese",
+    "originalName": "Cheddar cheese",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "イギリス",
+        "locality": "サマセット州チェダー"
+      }
+    ],
+    "summary": "イングランド南西部サマセット州チェダー村に由来する牛乳製の硬質チーズ。比較的硬く、白から淡黄色、アナトーなどでオレンジ色に着色されるものもある。熟成期間によりマイルドからシャープまで味が変わり、世界中で広く作られる。",
+    "menuDescription": "牛乳から作る硬質チーズ。若いものは穏やかでミルキー、熟成が進むとナッツ感、酸味、鋭い旨みが出る。スライス、シュレッド、ソース、バーガー、マカロニチーズに幅広く使われる。",
+    "whatComesOut": [
+      "黄色または白色のブロック、スライス、シュレッドチーズ",
+      "チーズ盛り合わせの一片",
+      "ハンバーガーやサンドイッチに溶けた状態",
+      "マカロニチーズやチーズソースのベース"
+    ],
+    "tasteAndTexture": [
+      "若いものはマイルドでミルキー",
+      "熟成品はシャープでナッツのような風味",
+      "硬めで締まった食感、熟成品はほろっと崩れることがある",
+      "加熱するとよく溶け、コクのあるソースになる"
+    ],
+    "orderAdvice": "濃いチーズ味を足したい料理に万能。バーガーやホットサンドならよく溶ける若め、チーズ盛り合わせなら熟成タイプを選ぶと香りと旨みを楽しめる。",
+    "caution": "乳製品アレルギーに注意。熟成が長いタイプは塩味と風味が強い。",
+    "similarItems": [
+      {
+        "id": "gruyere-cheese",
+        "name": "グリュイエールチーズ",
+        "difference": "グリュイエールはスイス系でナッツ香と加熱時の伸びが強い。チェダーは酸味とシャープさが出やすい"
+      },
+      {
+        "id": "comte",
+        "name": "コンテ",
+        "difference": "コンテはフランスの山岳チーズで甘みと複雑な熟成香がある。チェダーはより直接的なコクとシャープさ"
+      },
+      {
+        "id": "parmigiano",
+        "name": "パルミジャーノ",
+        "difference": "パルミジャーノは超硬質で削って使うことが多い。チェダーはスライスや溶かしにも使いやすい"
+      },
+      {
+        "id": "cheese-curd",
+        "name": "チーズカード",
+        "difference": "チーズカードは熟成前の凝乳。チェダーはカードを重ねて水分を抜くチェダリング後に熟成させる"
+      }
+    ],
+    "relatedIds": [
+      "cheese-curd",
+      "gruyere-cheese",
+      "comte",
+      "parmigiano",
+      "mozzarella"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Cheddar_cheese",
+      "https://www.thespruceeats.com/white-vs-yellow-cheddar-cheese-2355816"
+    ],
+    "tags": [
+      "イギリス料理",
+      "チーズ",
+      "乳製品",
+      "食材",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "青カビチーズ",
+      "山羊チーズ",
+      "フレッシュチーズ",
+      "乳製品不可",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cheddar-cheese/1.jpg",
+      "/images/dishes/cheddar-cheese/2.jpg",
+      "/images/dishes/cheddar-cheese/3.jpg"
+    ]
   }
 ]
