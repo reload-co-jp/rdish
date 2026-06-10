@@ -64089,5 +64089,2305 @@
       "/images/dishes/focaccia/2.jpg",
       "/images/dishes/focaccia/3.jpg"
     ]
+  },
+  {
+    "id": "cream-cheese",
+    "name": "クリームチーズ",
+    "kana": "くりーむちーず",
+    "englishName": "Cream cheese",
+    "originalName": "Cream cheese",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "牛乳とクリームから作る、熟成させないアメリカ発祥のフレッシュチーズ。やわらかく塗りやすい質感で、乳脂肪が多く、穏やかな酸味とミルクのコクがある。ベーグル、チーズケーキ、ディップ、フロスティングに広く使われる。",
+    "menuDescription": "なめらかで塗りやすい白いフレッシュチーズ。ベーグルやサンドイッチ、チーズケーキ、前菜のディップに使われる。酸味は穏やかで、マスカルポーネより軽く、リコッタより濃厚。",
+    "whatComesOut": [
+      "白いペースト状またはブロック状のチーズ",
+      "ベーグルやパンに塗った状態",
+      "チーズケーキやディップの材料",
+      "ハーブや果物を混ぜたスプレッド"
+    ],
+    "tasteAndTexture": [
+      "ミルキーでやや甘みのあるコク",
+      "軽い酸味と塩気",
+      "なめらかで密度のある口当たり",
+      "冷たいと固め、常温で塗りやすい"
+    ],
+    "orderAdvice": "チーズのクセが少なく初心者向き。ベーグル、サンドイッチ、デザートで出ることが多い。濃厚さが欲しいならマスカルポーネ、軽さが欲しいならリコッタ系も候補。",
+    "caution": "乳製品。脂肪分が高く、商品によって塩分や安定剤を含む。",
+    "similarItems": [
+      {
+        "id": "mascarpone",
+        "name": "マスカルポーネ",
+        "difference": "マスカルポーネはクリーム由来でより濃厚・甘め。クリームチーズは酸味と塩気が出やすい"
+      },
+      {
+        "id": "ricotta",
+        "name": "リコッタ",
+        "difference": "リコッタは軽く粒感があり、クリームチーズはなめらかで密度が高い"
+      },
+      {
+        "id": "brie",
+        "name": "ブリー",
+        "difference": "ブリーは白カビ熟成チーズ。クリームチーズは非熟成でクセが少ない"
+      }
+    ],
+    "relatedIds": [
+      "mascarpone",
+      "ricotta",
+      "fromage-blanc",
+      "tiramisu"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Cream_cheese",
+      "https://www.cheese.com/cream-cheese/"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "チーズ",
+      "乳製品",
+      "デザート",
+      "クリーミー",
+      "こってり",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "熟成チーズ",
+      "硬いチーズ",
+      "青カビチーズ",
+      "辛い料理",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cream-cheese/1.jpg",
+      "/images/dishes/cream-cheese/2.jpg",
+      "/images/dishes/cream-cheese/3.jpg"
+    ]
+  },
+  {
+    "id": "fromage-blanc",
+    "name": "フロマージュブラン",
+    "kana": "ふろまーじゅぶらん",
+    "aliases": [
+      "フロマージュ・ブラン",
+      "フロマージュフレ"
+    ],
+    "englishName": "Fromage blanc",
+    "originalName": "Fromage blanc",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス"
+      },
+      {
+        "country": "ベルギー"
+      }
+    ],
+    "summary": "フランス北部からベルギー南部に由来する、酸凝固タイプの白いフレッシュチーズ。名前はフランス語で「白いチーズ」。ヨーグルトに近いなめらかさと穏やかな酸味があり、ジャムや果物を添えるデザート、パンのスプレッド、料理のソースに使われる。",
+    "menuDescription": "ヨーグルトのようになめらかな白いフレッシュチーズ。甘くしてデザートにしたり、パンに塗ったり、料理の軽いソースに使う。クリームチーズより軽く、シェーヴルよりクセが少ない。",
+    "whatComesOut": [
+      "白くなめらかなクリーム状のチーズ",
+      "ジャムや果物を添えたデザート",
+      "パンに塗るスプレッド",
+      "前菜やソースのベース"
+    ],
+    "tasteAndTexture": [
+      "穏やかな乳酸の酸味",
+      "軽くさっぱりしたミルク風味",
+      "ヨーグルトに近いなめらかな口当たり",
+      "脂肪分により濃厚さが変わる"
+    ],
+    "orderAdvice": "軽いチーズデザートや朝食向き。チーズの強い香りが苦手でも食べやすい。濃厚なチーズケーキ感を期待するならクリームチーズやマスカルポーネ寄りを選ぶ。",
+    "caution": "乳製品。商品によって砂糖入りや果物入りの場合あり。",
+    "similarItems": [
+      {
+        "id": "cottage-cheese",
+        "name": "カッテージチーズ",
+        "difference": "カッテージチーズは粒状のカード感があり、フロマージュブランはより均一でなめらか"
+      },
+      {
+        "id": "ricotta",
+        "name": "リコッタ",
+        "difference": "リコッタはホエー由来でふんわり甘い。フロマージュブランは乳酸の酸味が中心"
+      },
+      {
+        "id": "chevre",
+        "name": "シェーヴル",
+        "difference": "シェーヴルは山羊乳の香りが強い。フロマージュブランは牛乳系で穏やか"
+      }
+    ],
+    "relatedIds": [
+      "cottage-cheese",
+      "ricotta",
+      "chevre",
+      "confiture"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Fromage_blanc",
+      "https://www.cheese.com/fromage-blanc/"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "デザート",
+      "クリーミー",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "熟成チーズ",
+      "硬いチーズ",
+      "塩辛いチーズ",
+      "辛い料理",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fromage-blanc/1.jpg",
+      "/images/dishes/fromage-blanc/2.jpg",
+      "/images/dishes/fromage-blanc/3.jpg"
+    ]
+  },
+  {
+    "id": "cottage-cheese",
+    "name": "カッテージチーズ",
+    "kana": "かってーじちーず",
+    "englishName": "Cottage cheese",
+    "originalName": "Cottage cheese",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "アメリカ"
+      },
+      {
+        "country": "イギリス"
+      }
+    ],
+    "summary": "脱脂乳や低脂肪乳を凝固させたカードを水切りし、クリームや塩を合わせて作る非熟成のフレッシュチーズ。粒状の白いカードと軽い酸味が特徴で、比較的低脂肪・高たんぱくなチーズとしてサラダ、果物、トースト、デザートに使われる。",
+    "menuDescription": "白い粒状のフレッシュチーズ。リコッタに似ているが粒がはっきりし、軽い酸味と塩気がある。サラダ、果物、トースト、ラザニア風の料理に使われる。",
+    "whatComesOut": [
+      "白い小粒または大粒のカード状チーズ",
+      "サラダや果物の横添え",
+      "トーストやボウルのトッピング",
+      "焼き菓子や詰め物の材料"
+    ],
+    "tasteAndTexture": [
+      "穏やかな酸味とミルク風味",
+      "粒状でやわらかいカード感",
+      "クリーム入りはしっとり",
+      "全体は軽くさっぱり"
+    ],
+    "orderAdvice": "軽いチーズや高たんぱく系メニューで出やすい。なめらかさより粒感を楽しむチーズ。デザートにもサラダにも使えるが、濃厚なチーズ感は控えめ。",
+    "caution": "乳製品。商品によって塩分量と脂肪分が大きく変わる。",
+    "similarItems": [
+      {
+        "id": "ricotta",
+        "name": "リコッタ",
+        "difference": "リコッタはよりふんわり甘く、カッテージチーズは粒感と軽い酸味が強い"
+      },
+      {
+        "id": "fromage-blanc",
+        "name": "フロマージュブラン",
+        "difference": "フロマージュブランはなめらかなクリーム状。カッテージチーズはカード粒が残る"
+      },
+      {
+        "id": "cream-cheese",
+        "name": "クリームチーズ",
+        "difference": "クリームチーズは脂肪分が高くなめらか。カッテージチーズは軽く粒状"
+      }
+    ],
+    "relatedIds": [
+      "ricotta",
+      "fromage-blanc",
+      "cream-cheese"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Cottage_cheese",
+      "https://www.cheese.com/cottage-cheese/",
+      "https://www.allrecipes.com/article/what-is-cottage-cheese/"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "チーズ",
+      "乳製品",
+      "サラダ",
+      "クリーミー",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "熟成チーズ",
+      "硬いチーズ",
+      "濃厚チーズ",
+      "辛い料理",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cottage-cheese/1.jpg",
+      "/images/dishes/cottage-cheese/2.jpg",
+      "/images/dishes/cottage-cheese/3.jpg"
+    ]
+  },
+  {
+    "id": "mascarpone",
+    "name": "マスカルポーネ",
+    "kana": "ますかるぽーね",
+    "englishName": "Mascarpone",
+    "originalName": "Mascarpone",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "イタリア",
+        "locality": "ロンバルディア州"
+      }
+    ],
+    "summary": "イタリア北部ロンバルディア由来の、クリームを酸と熱で凝固させて作る白く濃厚な乳製品。技術的にはレンネットを使う一般的なチーズと異なるが、料理ではフレッシュチーズとして扱われる。ティラミスの主材料で、甘いデザートにもリゾットやソースにも使う。",
+    "menuDescription": "白くなめらかなイタリアの濃厚フレッシュチーズ。ティラミスのクリームで有名。クリームチーズより酸味と塩気が少なく、甘みと脂肪感が強い。",
+    "whatComesOut": [
+      "白くなめらかなクリーム状チーズ",
+      "ティラミスやチーズケーキのクリーム",
+      "リゾットやパスタソースの仕上げ",
+      "果物や焼き菓子に添えたデザート"
+    ],
+    "tasteAndTexture": [
+      "ミルクと生クリームの甘いコク",
+      "酸味はごく穏やか",
+      "非常になめらかで重めの口当たり",
+      "塩気が少なくデザート向き"
+    ],
+    "orderAdvice": "ティラミスや濃厚デザート好きなら選びやすい。料理ではソースやリゾットを丸く濃厚にする役割。軽いチーズを求めるならリコッタやフロマージュブランが合う。",
+    "caution": "乳製品。脂肪分が高く、非常にこってりする。",
+    "similarItems": [
+      {
+        "id": "cream-cheese",
+        "name": "クリームチーズ",
+        "difference": "クリームチーズは酸味と塩気があり、マスカルポーネはより甘く濃厚"
+      },
+      {
+        "id": "ricotta",
+        "name": "リコッタ",
+        "difference": "リコッタは軽くふんわり。マスカルポーネは生クリームに近く重い"
+      },
+      {
+        "id": "burrata",
+        "name": "ブッラータ",
+        "difference": "ブッラータは袋状チーズの中にクリームが入る。マスカルポーネは全体が均一なクリーム状"
+      }
+    ],
+    "relatedIds": [
+      "cream-cheese",
+      "ricotta",
+      "burrata",
+      "tiramisu"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Mascarpone",
+      "https://www.cheese.com/mascarpone/",
+      "https://www.realsimple.com/food-recipes/recipe-collections-favorites/popular-ingredients/what-is-mascarpone"
+    ],
+    "tags": [
+      "イタリア料理",
+      "チーズ",
+      "乳製品",
+      "デザート",
+      "クリーミー",
+      "こってり",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "軽いチーズ",
+      "酸味が強いチーズ",
+      "硬いチーズ",
+      "辛い料理",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mascarpone/1.jpg",
+      "/images/dishes/mascarpone/2.jpg",
+      "/images/dishes/mascarpone/3.jpg"
+    ]
+  },
+  {
+    "id": "coulommiers",
+    "name": "クロミエ",
+    "kana": "くろみえ",
+    "aliases": [
+      "クーロミエ",
+      "クーロミエチーズ"
+    ],
+    "englishName": "Coulommiers cheese",
+    "originalName": "Coulommiers",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "セーヌ＝エ＝マルヌ県"
+      }
+    ],
+    "summary": "フランス・セーヌ＝エ＝マルヌ県クロミエ由来の白カビ系ソフトチーズ。ブリーの近縁で、ブリーより小さく厚みがあり、「ブリーの母」と呼ばれることもある。牛乳製で、白いブルーミーな外皮、バターのようなコク、ナッツに似た香りが特徴。",
+    "menuDescription": "ブリーに似たフランスの白カビチーズ。サイズはブリーより小さく厚めで、中心はクリーミー。バター感と軽いナッツ香があり、チーズプレートやパン、果物、ナッツと合う。",
+    "whatComesOut": [
+      "白カビに覆われた小型円盤チーズ",
+      "くさび形に切ったチーズプレート",
+      "バゲット、果物、ナッツを添えた提供",
+      "熟成が進むと中心がとろりとした状態"
+    ],
+    "tasteAndTexture": [
+      "バターのようなコク",
+      "軽いナッツ香と穏やかな酸味",
+      "白カビ外皮はやわらかく食べられる",
+      "中心はしっとりクリーミー"
+    ],
+    "orderAdvice": "ブリーが好きなら試しやすい。ブリーより厚みと密度があり、ナッツ感が出やすい。チーズプレートでは室温に戻すと香りと口溶けが良い。",
+    "caution": "乳製品。白カビチーズ特有の香りがある。非加熱品は妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "brie",
+        "name": "ブリー",
+        "difference": "クロミエはブリーに近いが、より小さく厚みがあり、ナッツ感が出やすい"
+      },
+      {
+        "id": "camembert",
+        "name": "カマンベール",
+        "difference": "カマンベールはより小型で香りが強くなりやすい。クロミエはブリー寄りで穏やか"
+      },
+      {
+        "id": "chaource",
+        "name": "シャウルス",
+        "difference": "シャウルスは乳酸凝固寄りで中心にほろっとした質感があり、クロミエはブリー系でより均一にクリーミー"
+      }
+    ],
+    "relatedIds": [
+      "brie",
+      "camembert",
+      "chaource",
+      "cream-cheese"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Coulommiers_cheese",
+      "https://www.cheese.com/coulommiers/"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "白カビが苦手",
+      "乳製品不可",
+      "硬いチーズ",
+      "辛い料理",
+      "さっぱり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/coulommiers/1.jpg",
+      "/images/dishes/coulommiers/2.jpg",
+      "/images/dishes/coulommiers/3.jpg"
+    ]
+  },
+  {
+    "id": "saint-andre",
+    "name": "サンタンドレ",
+    "kana": "さんたんどれ",
+    "aliases": [
+      "サン・タンドレ",
+      "サンアンドレ",
+      "セントアンドレ"
+    ],
+    "englishName": "Saint-André cheese",
+    "originalName": "Saint-André",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "ノルマンディー"
+      }
+    ],
+    "summary": "フランスの牛乳製トリプルクリーム白カビチーズ。製造時にクリームを加えるため脂肪分が高く、ブリーを濃厚にしたようなバター感と密度のあるなめらかさがある。薄い白カビ外皮は食べられ、果物、パン、発泡性ワインと合わせやすい。",
+    "menuDescription": "非常にリッチな白カビチーズ。ブリーやカマンベールよりバター感が強く、口当たりは濃厚でなめらか。チーズプレートで、洋梨やバゲットと一緒に出ることが多い。",
+    "whatComesOut": [
+      "白カビに覆われた小型円筒チーズ",
+      "濃厚なクリーム色のカットチーズ",
+      "果物やバゲットを添えたチーズプレート",
+      "室温でやわらかくなったクリーミーな状態"
+    ],
+    "tasteAndTexture": [
+      "強いバター感と乳脂肪のコク",
+      "穏やかな酸味",
+      "密度が高くなめらかな口溶け",
+      "白カビ外皮に軽い香り"
+    ],
+    "orderAdvice": "濃厚な白カビチーズが好きなら向く。少量でも満足感が高い。軽いチーズを求めるならブリーやフロマージュブランの方が食べやすい。",
+    "caution": "乳製品。脂肪分が非常に高い。白カビチーズ特有の香りがある。非加熱品は妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "brie",
+        "name": "ブリー",
+        "difference": "ブリーはより穏やか。サンタンドレはトリプルクリームでかなり濃厚"
+      },
+      {
+        "id": "camembert",
+        "name": "カマンベール",
+        "difference": "カマンベールは熟成香が出やすい。サンタンドレはバターのような脂肪感が主役"
+      },
+      {
+        "id": "cream-cheese",
+        "name": "クリームチーズ",
+        "difference": "クリームチーズは非熟成で酸味がある。サンタンドレは白カビ熟成でよりリッチ"
+      }
+    ],
+    "relatedIds": [
+      "brie",
+      "camembert",
+      "cream-cheese",
+      "chaource"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Saint-Andr%C3%A9_cheese",
+      "https://www.cheese.com/saint-andre/"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "軽いチーズ",
+      "白カビが苦手",
+      "乳製品不可",
+      "辛い料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/saint-andre/1.jpg",
+      "/images/dishes/saint-andre/2.jpg",
+      "/images/dishes/saint-andre/3.jpg"
+    ]
+  },
+  {
+    "id": "chaource",
+    "name": "シャウルス",
+    "kana": "しゃうるす",
+    "aliases": [
+      "シャウルスチーズ"
+    ],
+    "englishName": "Chaource cheese",
+    "originalName": "Chaource",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "オーブ県"
+      },
+      {
+        "country": "フランス",
+        "locality": "ヨンヌ県"
+      }
+    ],
+    "summary": "フランスのシャンパーニュ地方シャウルス村に由来する牛乳製の白カビソフトチーズ。AOCに認定され、オーブ県とヨンヌ県の管理区域で作られる。乳酸凝固を主体にゆっくり水切りし、2〜4週間ほど熟成。中心はややほろっとし、熟すと口溶けが増す。",
+    "menuDescription": "円筒形のフランス白カビチーズ。若いと軽くほろっとし、熟成すると中心がクリーミーに溶ける。ブリー系に近いが、乳酸の酸味と塩気があり、シャンパーニュや白ワインと合う。",
+    "whatComesOut": [
+      "白カビに覆われた円筒形チーズ",
+      "小さめの丸いカットチーズ",
+      "チーズプレートの一品",
+      "熟成度により中心がほろほろまたはとろりとした状態"
+    ],
+    "tasteAndTexture": [
+      "穏やかな乳酸の酸味",
+      "軽い塩気とナッツのような後味",
+      "若いものは中心がややほろっとする",
+      "熟成が進むとクリーミーで口溶けが良い"
+    ],
+    "orderAdvice": "白カビチーズの中でも酸味と軽いほろほろ感を楽しみたい時に向く。ブリーより少し個性的だが、青カビほど強くない。シャンパーニュや辛口白ワインと合わせやすい。",
+    "caution": "乳製品。白カビチーズ特有の香りと塩気がある。非加熱品は妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "brie",
+        "name": "ブリー",
+        "difference": "ブリーはより大きくバター感が中心。シャウルスは乳酸の酸味とほろっとした中心が特徴"
+      },
+      {
+        "id": "camembert",
+        "name": "カマンベール",
+        "difference": "カマンベールは熟成香が強くなりやすい。シャウルスは酸味と軽い塩気が出やすい"
+      },
+      {
+        "id": "coulommiers",
+        "name": "クロミエ",
+        "difference": "クロミエはブリー系のクリーミーさ。シャウルスは乳酸凝固寄りで若いとほろっとする"
+      }
+    ],
+    "relatedIds": [
+      "brie",
+      "camembert",
+      "coulommiers",
+      "fromage-blanc"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Chaource_cheese",
+      "https://www.cheese.com/chaource/",
+      "https://es.wikipedia.org/wiki/Chaource_%28queso%29"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "白カビが苦手",
+      "乳製品不可",
+      "硬いチーズ",
+      "辛い料理",
+      "濃厚すぎるチーズ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chaource/1.jpg",
+      "/images/dishes/chaource/2.jpg",
+      "/images/dishes/chaource/3.jpg"
+    ]
+  },
+  {
+    "id": "blue-stilton",
+    "name": "ブルースティルトン",
+    "kana": "ぶるーすてぃるとん",
+    "aliases": [
+      "スティルトン",
+      "ブルー・スティルトン"
+    ],
+    "englishName": "Blue Stilton",
+    "originalName": "Blue Stilton",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "イギリス",
+        "locality": "ダービーシャー、レスターシャー、ノッティンガムシャー"
+      }
+    ],
+    "summary": "イングランドのPDO青カビチーズ。ダービーシャー、レスターシャー、ノッティンガムシャーで、殺菌牛乳を使って作られる。円筒形で自然の外皮を持ち、中心から外側へ青い筋が伸びる。ロックフォール、ゴルゴンゾーラと並ぶ代表的なブルーチーズ。",
+    "menuDescription": "英国を代表する青カビチーズ。ほろっと崩れるが口の中でクリーミーに溶け、ナッツのようなコクと塩気、青カビの刺激がある。ポートワイン、洋梨、クラッカーと合わせる定番。",
+    "whatComesOut": [
+      "青い筋が入ったアイボリー色のチーズ",
+      "厚めのくさび形カット",
+      "クラッカーやパン、洋梨、ナッツを添えたチーズプレート",
+      "スープやステーキソースに崩して使うこともある"
+    ],
+    "tasteAndTexture": [
+      "強い塩気と青カビの刺激",
+      "ナッツのようなコク",
+      "ほろっと崩れてからクリーミーに溶ける",
+      "熟成が進むほど香りと旨みが強い"
+    ],
+    "orderAdvice": "ブルーチーズに慣れた人向き。ロックフォールより牛乳らしい丸みがあり、ゴルゴンゾーラよりほろほろ感が強い。甘口ワインや果物と合わせると食べやすい。",
+    "caution": "乳製品。青カビチーズ特有の強い香りと塩気がある。妊娠中や免疫が弱い方は非加熱の青カビチーズに注意。",
+    "similarItems": [
+      {
+        "id": "roquefort",
+        "name": "ロックフォール",
+        "difference": "ロックフォールは羊乳でより鋭く塩気が強い。ブルースティルトンは牛乳製でナッツ感とほろほろ感がある"
+      },
+      {
+        "id": "gorgonzola",
+        "name": "ゴルゴンゾーラ",
+        "difference": "ゴルゴンゾーラはイタリア産でドルチェはよりクリーミー。ブルースティルトンは英国産で締まった質感"
+      },
+      {
+        "id": "danablu",
+        "name": "ダナブルー",
+        "difference": "ダナブルーはデンマーク産でロックフォール風。ブルースティルトンは英国PDOでナッツ香が特徴"
+      }
+    ],
+    "relatedIds": [
+      "roquefort",
+      "gorgonzola",
+      "danablu",
+      "fourme-d-ambert"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Stilton_cheese",
+      "https://www.cheese.com/stilton/",
+      "https://www.thespruceeats.com/what-is-stilton-cheese-5085858"
+    ],
+    "tags": [
+      "イギリス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "青カビが苦手",
+      "乳製品不可",
+      "軽いチーズ",
+      "辛い料理",
+      "白カビチーズ"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/blue-stilton/1.jpg",
+      "/images/dishes/blue-stilton/2.jpg",
+      "/images/dishes/blue-stilton/3.jpg"
+    ]
+  },
+  {
+    "id": "fourme-d-ambert",
+    "name": "フルムダンベール",
+    "kana": "ふるむだんべーる",
+    "aliases": [
+      "フルム・ダンベール",
+      "フルム ダンベール"
+    ],
+    "englishName": "Fourme d'Ambert",
+    "originalName": "Fourme d'Ambert",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "オーヴェルニュ"
+      }
+    ],
+    "summary": "フランス・オーヴェルニュ地方のAOP青カビチーズ。牛乳で作る半硬質チーズで、細長い円筒形が特徴。ペニシリウム・ロックフォルティを加え、最低28日熟成させる。青カビチーズの中では穏やかで、土っぽい香りとまろやかな口当たりがある。",
+    "menuDescription": "フランスの穏やかな青カビチーズ。ロックフォールほど鋭くなく、ブルー初心者でも比較的試しやすい。チーズプレートのほか、サラダ、肉料理、ソース、デザートにも使われる。",
+    "whatComesOut": [
+      "青緑の筋が入った円筒形チーズのカット",
+      "チーズプレートの一品",
+      "サラダや肉料理のソース",
+      "焼き菓子や甘い料理に合わせることもある"
+    ],
+    "tasteAndTexture": [
+      "青カビの香りは穏やか",
+      "土っぽい香りと丸い旨み",
+      "しっとりした半硬質の口当たり",
+      "塩気はあるがロックフォールほど鋭くない"
+    ],
+    "orderAdvice": "ブルーチーズ入門に向く。強烈な青カビ感を求めるならロックフォール、より甘くクリーミーならゴルゴンゾーラ・ドルチェ寄りを選ぶ。",
+    "caution": "乳製品。青カビチーズ特有の香りと塩気がある。生乳タイプは妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "roquefort",
+        "name": "ロックフォール",
+        "difference": "ロックフォールは羊乳で鋭い塩気と刺激。フルムダンベールは牛乳製でより穏やか"
+      },
+      {
+        "id": "gorgonzola",
+        "name": "ゴルゴンゾーラ",
+        "difference": "ゴルゴンゾーラはよりクリーミーなタイプが多い。フルムダンベールは半硬質で土っぽい香り"
+      },
+      {
+        "id": "blue-stilton",
+        "name": "ブルースティルトン",
+        "difference": "ブルースティルトンはナッツ感とほろほろ感。フルムダンベールはより穏やかでしっとり"
+      }
+    ],
+    "relatedIds": [
+      "roquefort",
+      "gorgonzola",
+      "blue-stilton",
+      "danablu"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Fourme_d%27Ambert",
+      "https://www.fourme-ambert.com/en/",
+      "https://es.wikipedia.org/wiki/Fourme_d%27Ambert"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "青カビが苦手",
+      "乳製品不可",
+      "白カビチーズ",
+      "辛い料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/fourme-d-ambert/1.jpg",
+      "/images/dishes/fourme-d-ambert/2.jpg",
+      "/images/dishes/fourme-d-ambert/3.jpg"
+    ]
+  },
+  {
+    "id": "danablu",
+    "name": "ダナブルー",
+    "kana": "だなぶるー",
+    "aliases": [
+      "ダニッシュブルー",
+      "デンマークブルー",
+      "Danish Blue"
+    ],
+    "englishName": "Danablu",
+    "originalName": "Danablu",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "デンマーク"
+      }
+    ],
+    "summary": "デンマークのPGI青カビチーズ。Danish Blue としても流通し、20世紀初頭にロックフォール風チーズを目指して作られた。牛乳とクリームを使う半軟質チーズで、8〜12週間熟成。鋭い塩気と青カビの香りがありつつ、ロックフォールよりやや穏やか。",
+    "menuDescription": "デンマーク産の青カビチーズ。白〜淡黄色の生地に青緑の筋が入り、シャープで塩気が強い。サラダに崩したり、果物と一緒にデザートチーズとして出る。",
+    "whatComesOut": [
+      "青緑の筋が入った白っぽいチーズ",
+      "ブロックまたはドラム形チーズのカット",
+      "サラダに崩したトッピング",
+      "果物やクラッカーを添えたチーズプレート"
+    ],
+    "tasteAndTexture": [
+      "強めの塩気",
+      "青カビのシャープな香り",
+      "半軟質でクリーミー",
+      "ロックフォール風だが牛乳由来で少し穏やか"
+    ],
+    "orderAdvice": "塩気のあるブルーチーズが好きなら向く。サラダや果物と合わせると食べやすい。初めてなら少量から。",
+    "caution": "乳製品。青カビチーズ特有の強い香りと塩気がある。妊娠中や免疫が弱い方は非加熱の青カビチーズに注意。",
+    "similarItems": [
+      {
+        "id": "roquefort",
+        "name": "ロックフォール",
+        "difference": "ロックフォールは羊乳でより鋭く伝統的。ダナブルーは牛乳製でロックフォール風"
+      },
+      {
+        "id": "blue-stilton",
+        "name": "ブルースティルトン",
+        "difference": "ブルースティルトンはナッツ香とほろほろ感。ダナブルーはより塩気とシャープさが前に出る"
+      },
+      {
+        "id": "gorgonzola",
+        "name": "ゴルゴンゾーラ",
+        "difference": "ゴルゴンゾーラ・ドルチェは甘くクリーミー。ダナブルーは塩気が強い"
+      }
+    ],
+    "relatedIds": [
+      "roquefort",
+      "gorgonzola",
+      "blue-stilton",
+      "fourme-d-ambert"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Danish_Blue_Cheese",
+      "https://www.cheese.com/danablu-danish-blue/",
+      "https://es.wikipedia.org/wiki/Danablu"
+    ],
+    "tags": [
+      "北欧料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "青カビが苦手",
+      "塩気が苦手",
+      "乳製品不可",
+      "白カビチーズ",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/danablu/1.jpg"
+    ]
+  },
+  {
+    "id": "cambozola",
+    "name": "カンボゾーラ",
+    "kana": "かんぼぞーら",
+    "aliases": [
+      "カンボゾラ",
+      "ブルーブリー"
+    ],
+    "englishName": "Cambozola",
+    "originalName": "Cambozola",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "ドイツ",
+        "locality": "アルゴイ"
+      }
+    ],
+    "summary": "ドイツの白カビ外皮を持つソフト青カビチーズ。Champignon社が製造し、カマンベール系の白カビとゴルゴンゾーラ系の青カビを組み合わせたような性格を持つ。牛乳にクリームを加えるため、青カビチーズとしてはかなり穏やかで、なめらかで濃厚。",
+    "menuDescription": "カマンベールとゴルゴンゾーラの中間のようなドイツ産チーズ。白カビ外皮と淡い青カビが入り、味はブルーチーズとしてはマイルド。青カビ初心者でも食べやすい。",
+    "whatComesOut": [
+      "白カビ外皮に覆われたソフトチーズ",
+      "中に淡い青カビの筋が入ったカット",
+      "チーズプレートやカナッペ",
+      "パンや果物、ナッツを添えた提供"
+    ],
+    "tasteAndTexture": [
+      "青カビの風味は控えめ",
+      "白カビチーズに近いクリーミーさ",
+      "生クリームを加えたような濃厚さ",
+      "塩気と刺激はゴルゴンゾーラ・ピカンテより穏やか"
+    ],
+    "orderAdvice": "ブルーチーズが苦手でも試しやすいタイプ。白カビチーズ好き、クリーミーなチーズ好きに向く。強烈な青カビ感を求めるならロックフォールやブルースティルトンを選ぶ。",
+    "caution": "乳製品。白カビと青カビの両方を含む。脂肪分が高くこってりする。",
+    "similarItems": [
+      {
+        "id": "gorgonzola",
+        "name": "ゴルゴンゾーラ",
+        "difference": "ゴルゴンゾーラは青カビ感がより明確。カンボゾーラは白カビ外皮とクリーム感で穏やか"
+      },
+      {
+        "id": "camembert",
+        "name": "カマンベール",
+        "difference": "カマンベールは白カビチーズ。カンボゾーラは青カビも入る"
+      },
+      {
+        "id": "saint-andre",
+        "name": "サンタンドレ",
+        "difference": "サンタンドレは白カビのトリプルクリーム。カンボゾーラはそこに青カビの風味が加わる"
+      }
+    ],
+    "relatedIds": [
+      "gorgonzola",
+      "camembert",
+      "saint-andre",
+      "blue-stilton"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Cambozola",
+      "https://www.cambozola.com/en-us",
+      "https://www.cheese.com/cambozola/"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "強いブルーチーズ",
+      "青カビが苦手",
+      "乳製品不可",
+      "硬いチーズ",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cambozola/1.jpg",
+      "/images/dishes/cambozola/2.jpg",
+      "/images/dishes/cambozola/3.jpg"
+    ]
+  },
+  {
+    "id": "epoisses",
+    "name": "エポワス",
+    "kana": "えぽわす",
+    "aliases": [
+      "エポワス・ド・ブルゴーニュ",
+      "エポワスチーズ"
+    ],
+    "englishName": "Époisses",
+    "originalName": "Époisses de Bourgogne",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "ブルゴーニュ"
+      }
+    ],
+    "summary": "フランス・ブルゴーニュの村エポワス周辺で作られるAOC/AOPのウォッシュチーズ。牛乳製のソフトチーズで、塩水とマール・ド・ブルゴーニュで表面を洗いながら熟成させる。赤橙色の強い香りの外皮と、熟すとスプーンですくえるほどやわらかい中身が特徴。",
+    "menuDescription": "強い香りで有名なブルゴーニュのウォッシュチーズ。外皮は赤橙色で、内側はとろりと濃厚。香りは強烈だが味はクリーミーで旨みが深い。チーズプレートの主役級。",
+    "whatComesOut": [
+      "丸い木箱入りの赤橙色チーズ",
+      "熟成が進んだとろとろの中身",
+      "スプーンですくってパンにのせる提供",
+      "チーズプレートの強い香りの一品"
+    ],
+    "tasteAndTexture": [
+      "強烈なウォッシュチーズ香",
+      "中身は濃厚でとろける",
+      "塩気と発酵由来の旨み",
+      "香りに対して味は丸くクリーミー"
+    ],
+    "orderAdvice": "ウォッシュチーズ上級者向き。香りが強いチーズを試したいなら少量から。赤ワインより白ワインや甘口ワイン、ビールと合わせると食べやすい。",
+    "caution": "乳製品。香りが非常に強い。非加熱品は妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "munster",
+        "name": "マンステール",
+        "difference": "マンステールも強い香りのウォッシュチーズ。エポワスはマール洗いでより濃厚にとろける"
+      },
+      {
+        "id": "livarot",
+        "name": "リヴァロ",
+        "difference": "リヴァロはノルマンディー産で帯巻きの外観。エポワスはブルゴーニュ産で木箱入りが多い"
+      },
+      {
+        "id": "pont-l-eveque",
+        "name": "ポン レベック",
+        "difference": "ポン レベックは四角く比較的穏やか。エポワスは丸く香りととろみが強い"
+      }
+    ],
+    "relatedIds": [
+      "munster",
+      "pont-l-eveque",
+      "livarot",
+      "taleggio"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/%C3%89poisses",
+      "https://fr.wikipedia.org/wiki/%C3%89poisses_%28fromage%29",
+      "https://www.fromage-epoisses.com/index.php?lang=44"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "香りが強いチーズが苦手",
+      "乳製品不可",
+      "軽いチーズ",
+      "白カビチーズ",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/epoisses/1.jpg",
+      "/images/dishes/epoisses/2.jpg",
+      "/images/dishes/epoisses/3.jpg"
+    ]
+  },
+  {
+    "id": "munster",
+    "name": "マンステール",
+    "kana": "まんすてーる",
+    "aliases": [
+      "マンステール・ジェロメ",
+      "Munster-Géromé"
+    ],
+    "englishName": "Munster cheese",
+    "originalName": "Munster-géromé",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "アルザス、ロレーヌ"
+      }
+    ],
+    "summary": "フランス東部ヴォージュ山地周辺で作られるAOC/AOPの牛乳製ウォッシュチーズ。湿った熟成庫で塩水洗いし、表面に橙色の外皮と強い香りを出す。香りはかなり強いが、味わいはミルキーで甘みやナッツ感があり、クミンや茹でじゃがいもと合わせる。",
+    "menuDescription": "アルザスの強い香りのウォッシュチーズ。橙色のしっとりした外皮とクリーミーな中身が特徴。香りは力強いが、味は意外に丸く、クミン、パン、じゃがいも、白ワインと相性が良い。",
+    "whatComesOut": [
+      "橙色の外皮を持つ丸いチーズ",
+      "チーズプレートの香りが強い一品",
+      "クミンや茹でじゃがいもを添えた提供",
+      "タルトやキッシュに溶かした料理"
+    ],
+    "tasteAndTexture": [
+      "強い発酵香",
+      "なめらかでクリーミー",
+      "ナッツのようなコク",
+      "熟成が進むほど香りと辛みが増す"
+    ],
+    "orderAdvice": "香りが強いチーズを楽しみたい人向き。クミンやゲヴュルツトラミネールと合わせると定番。においが苦手なら避ける。",
+    "caution": "乳製品。香りがかなり強い。非加熱品は妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "epoisses",
+        "name": "エポワス",
+        "difference": "エポワスはマール洗いでよりとろける。マンステールはアルザス系でクミンと合わせることが多い"
+      },
+      {
+        "id": "livarot",
+        "name": "リヴァロ",
+        "difference": "リヴァロはノルマンディー産で帯巻き。マンステールはヴォージュ系で香りが太い"
+      },
+      {
+        "id": "taleggio",
+        "name": "タレッジョ",
+        "difference": "タレッジョはイタリア産で香りはあるが味はより穏やか。マンステールは香りが強い"
+      }
+    ],
+    "relatedIds": [
+      "epoisses",
+      "livarot",
+      "taleggio",
+      "pont-l-eveque"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Munster_cheese",
+      "https://fr.wikipedia.org/wiki/Munster_%28fromage%29",
+      "https://www.cheese.com/munster/"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "香りが強いチーズが苦手",
+      "乳製品不可",
+      "軽いチーズ",
+      "白カビチーズ",
+      "甘いデザート"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/munster/1.jpg",
+      "/images/dishes/munster/2.jpg",
+      "/images/dishes/munster/3.jpg"
+    ]
+  },
+  {
+    "id": "pont-l-eveque",
+    "name": "ポン レベック",
+    "kana": "ぽんれべっく",
+    "aliases": [
+      "ポン・レベック",
+      "ポンレヴェック",
+      "ポン・レヴェック"
+    ],
+    "englishName": "Pont-l'Évêque cheese",
+    "originalName": "Pont-l'Évêque",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "ノルマンディー"
+      }
+    ],
+    "summary": "フランス・ノルマンディーのポン＝レヴェック周辺で作られるAOC/AOPの牛乳製ウォッシュチーズ。12世紀から続くとされる古いチーズで、正方形の形が特徴。白〜橙褐色の洗い外皮に包まれ、中身は淡黄色でなめらか、甘みと軽い酸味を持つ。",
+    "menuDescription": "ノルマンディーの四角いウォッシュチーズ。香りはあるがエポワスやリヴァロより穏やかで、甘み、ミルク感、軽い酸味がある。チーズプレートやフォンデュ風料理に使われる。",
+    "whatComesOut": [
+      "四角いウォッシュチーズ",
+      "淡黄色でなめらかなカット面",
+      "チーズプレートの一品",
+      "カマンベールやリヴァロと合わせた温かい料理"
+    ],
+    "tasteAndTexture": [
+      "甘みのあるミルク感",
+      "軽い酸味と発酵香",
+      "なめらかでやわらかい",
+      "外皮に穏やかなウォッシュ香"
+    ],
+    "orderAdvice": "ウォッシュチーズ入門に比較的向く。ノルマンディー産チーズが好きならカマンベール、リヴァロと比べると楽しい。香りが苦手なら外皮少なめで。",
+    "caution": "乳製品。ウォッシュチーズ特有の香りがある。非加熱品は妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "livarot",
+        "name": "リヴァロ",
+        "difference": "リヴァロはより香りが強く帯巻き。ポン レベックは四角く比較的穏やか"
+      },
+      {
+        "id": "camembert",
+        "name": "カマンベール",
+        "difference": "カマンベールは白カビチーズ。ポン レベックは洗い外皮のウォッシュチーズ"
+      },
+      {
+        "id": "epoisses",
+        "name": "エポワス",
+        "difference": "エポワスはより香りが強くとろける。ポン レベックは締まりがあり穏やか"
+      }
+    ],
+    "relatedIds": [
+      "livarot",
+      "camembert",
+      "epoisses",
+      "munster"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pont-l%27%C3%89v%C3%AAque_cheese",
+      "https://www.cheese.com/pont-l-eveque/"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "香りが強いチーズが苦手",
+      "乳製品不可",
+      "硬いチーズ",
+      "辛い料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pont-l-eveque/1.jpg",
+      "/images/dishes/pont-l-eveque/2.jpg",
+      "/images/dishes/pont-l-eveque/3.jpg"
+    ]
+  },
+  {
+    "id": "pied-d-angloys",
+    "name": "ピエ ダングロワ",
+    "kana": "ぴえだんぐろわ",
+    "aliases": [
+      "ピエ・ダングロワ",
+      "ピエダングロワ"
+    ],
+    "englishName": "Pié d'Angloys",
+    "originalName": "Pié d'Angloys",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "ブルゴーニュ"
+      }
+    ],
+    "summary": "フランス・ブルゴーニュ由来の牛乳製ソフトチーズ。白い外皮を持ち、包装内でも熟成が進むタイプとして知られる。味はマイルドでクリーミー、やわらかく塗りやすい。強烈なウォッシュチーズより穏やかで、パンや果物と合わせやすい。",
+    "menuDescription": "ブルゴーニュのやわらかいクリーミーなチーズ。白い外皮で、中は塗れるほどやわらかい。香りはウォッシュ系ほど強くなく、ブリーやカマンベールに近い感覚で食べやすい。",
+    "whatComesOut": [
+      "白い外皮に包まれた丸いソフトチーズ",
+      "塗りやすいやわらかな中身",
+      "パンやクラッカーに添えたチーズプレート",
+      "果物やナッツと合わせた提供"
+    ],
+    "tasteAndTexture": [
+      "マイルドなミルク感",
+      "なめらかでクリーミー",
+      "塗りやすいソフトな質感",
+      "香りは比較的穏やか"
+    ],
+    "orderAdvice": "強い香りのチーズが苦手でも試しやすい。ブリーやカマンベールより少し濃厚なソフトチーズとして考えると選びやすい。",
+    "caution": "乳製品。熟成ソフトチーズのため、妊娠中や免疫が弱い方は非加熱品に注意。",
+    "similarItems": [
+      {
+        "id": "brie",
+        "name": "ブリー",
+        "difference": "ブリーは白カビ熟成の定番。ピエ ダングロワはより塗りやすくマイルドな工業系ソフトチーズ"
+      },
+      {
+        "id": "camembert",
+        "name": "カマンベール",
+        "difference": "カマンベールは熟成香が出やすい。ピエ ダングロワはより穏やかでクリーミー"
+      },
+      {
+        "id": "epoisses",
+        "name": "エポワス",
+        "difference": "エポワスは強いウォッシュ香ととろみ。ピエ ダングロワは香りが穏やか"
+      }
+    ],
+    "relatedIds": [
+      "brie",
+      "camembert",
+      "epoisses",
+      "cream-cheese"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pi%C3%A9_d%27Angloys",
+      "https://en.wikipedia.org/wiki/Savencia_Fromage_%26_Dairy"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "強いウォッシュチーズ",
+      "乳製品不可",
+      "硬いチーズ",
+      "青カビチーズ",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pied-d-angloys/1.jpg"
+    ]
+  },
+  {
+    "id": "taleggio",
+    "name": "タレッジョ",
+    "kana": "たれっじょ",
+    "englishName": "Taleggio cheese",
+    "originalName": "Taleggio",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "イタリア",
+        "locality": "ロンバルディア"
+      }
+    ],
+    "summary": "北イタリアのPDOウォッシュチーズ。ヴァル・タレッジョに由来し、牛乳で作る半軟質の四角いチーズ。塩水で洗いながら熟成させるため外皮は桃色〜橙褐色で香りが強いが、味は比較的穏やかで、バター感、果実味、軽い酸味がある。",
+    "menuDescription": "イタリアの四角いウォッシュチーズ。香りはしっかりあるが味はマイルドで、クリーミーに溶ける。リゾット、パスタ、ピッツァ、ポレンタに使うと濃厚な旨みが出る。",
+    "whatComesOut": [
+      "四角い薄い外皮のチーズ",
+      "淡黄色のクリーミーな中身",
+      "チーズプレートの一品",
+      "リゾットやパスタに溶かした状態"
+    ],
+    "tasteAndTexture": [
+      "外皮は発酵香が強い",
+      "中身はバターのようにクリーミー",
+      "軽い酸味と果実味",
+      "加熱するとよく溶ける"
+    ],
+    "orderAdvice": "ウォッシュチーズ入門に向く。香りに対して味は穏やかで料理にも使いやすい。リゾットやピッツァに入っていたら食べやすい。",
+    "caution": "乳製品。ウォッシュチーズ特有の香りがある。非加熱品は妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "munster",
+        "name": "マンステール",
+        "difference": "マンステールは香りがより強い。タレッジョは味が穏やかで料理に使いやすい"
+      },
+      {
+        "id": "gorgonzola",
+        "name": "ゴルゴンゾーラ",
+        "difference": "ゴルゴンゾーラは青カビチーズ。タレッジョは青カビではなく洗い外皮"
+      },
+      {
+        "id": "pont-l-eveque",
+        "name": "ポン レベック",
+        "difference": "ポン レベックはフランスの四角いウォッシュチーズ。タレッジョはイタリア産で溶かし料理に多い"
+      }
+    ],
+    "relatedIds": [
+      "gorgonzola",
+      "munster",
+      "pont-l-eveque",
+      "epoisses"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Taleggio_cheese",
+      "https://www.cheese.com/taleggio/",
+      "https://www.thespruceeats.com/what-is-taleggio-5086081"
+    ],
+    "tags": [
+      "イタリア料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "香りが強いチーズが苦手",
+      "乳製品不可",
+      "青カビチーズ",
+      "硬いチーズ",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/taleggio/1.jpg",
+      "/images/dishes/taleggio/2.jpg",
+      "/images/dishes/taleggio/3.jpg"
+    ]
+  },
+  {
+    "id": "livarot",
+    "name": "リヴァロ",
+    "kana": "りゔぁろ",
+    "aliases": [
+      "リヴァロチーズ",
+      "リバロ"
+    ],
+    "englishName": "Livarot cheese",
+    "originalName": "Livarot",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "ノルマンディー"
+      }
+    ],
+    "summary": "フランス・ノルマンディーのリヴァロ周辺で作られるAOC/AOPの牛乳製ウォッシュチーズ。橙色の外皮を持つ円筒形で、側面を3〜5本の葦の帯で巻くため「大佐」と呼ばれる。香りが強く、味は濃厚で塩気と発酵の旨みがある。",
+    "menuDescription": "ノルマンディーの強い香りのウォッシュチーズ。橙色の丸いチーズに帯が巻かれた外観が特徴。ポン レベックより香りが強く、しっかりした塩気と濃厚な旨みがある。",
+    "whatComesOut": [
+      "橙色の丸いウォッシュチーズ",
+      "側面に数本の帯を巻いた外観",
+      "チーズプレートの強い香りの一品",
+      "パンやリンゴ、シードルと合わせた提供"
+    ],
+    "tasteAndTexture": [
+      "強いウォッシュチーズ香",
+      "濃厚なミルクの旨み",
+      "塩気と発酵由来のコク",
+      "しっとりやわらかい食感"
+    ],
+    "orderAdvice": "ウォッシュチーズ好き向き。ノルマンディーのシードルやリンゴと合わせると食べやすい。香りが苦手ならポン レベックの方が穏やか。",
+    "caution": "乳製品。香りがかなり強い。非加熱品は妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "pont-l-eveque",
+        "name": "ポン レベック",
+        "difference": "ポン レベックは四角くより穏やか。リヴァロは帯巻きで香りが強い"
+      },
+      {
+        "id": "munster",
+        "name": "マンステール",
+        "difference": "マンステールはアルザス系。リヴァロはノルマンディー系で帯巻きが特徴"
+      },
+      {
+        "id": "epoisses",
+        "name": "エポワス",
+        "difference": "エポワスはとろける木箱チーズ。リヴァロは円筒で締まった質感"
+      }
+    ],
+    "relatedIds": [
+      "pont-l-eveque",
+      "munster",
+      "epoisses",
+      "camembert"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Livarot_cheese",
+      "https://www.cheese.com/livarot/"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "香りが強いチーズが苦手",
+      "乳製品不可",
+      "軽いチーズ",
+      "白カビチーズ",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/livarot/1.jpg",
+      "/images/dishes/livarot/2.jpg",
+      "/images/dishes/livarot/3.jpg"
+    ]
+  },
+  {
+    "id": "mont-d-or",
+    "name": "モンドール",
+    "kana": "もんどーる",
+    "aliases": [
+      "モン ドール",
+      "モン・ドール",
+      "ヴァシュラン・モン・ドール",
+      "ヴァシュラン・デュ・オー・ドゥー"
+    ],
+    "englishName": "Vacherin Mont d'Or",
+    "originalName": "Vacherin Mont d'Or",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "ジュラ、フランシュ＝コンテ"
+      },
+      {
+        "country": "スイス",
+        "locality": "ヴォー州"
+      }
+    ],
+    "summary": "フランスとスイスのジュラ地域で作られる季節限定の牛乳製ソフトウォッシュチーズ。モミの樹皮で巻き、木箱で熟成・販売される。生産は秋冬中心で、熟すと中身がほぼ液状になる。木の香りと濃厚なミルク感があり、箱ごと焼いてフォンデュのように食べる。",
+    "menuDescription": "木箱入りのとろとろチーズ。表面を開けると中は濃厚なクリーム状で、パンやじゃがいもを浸して食べる。焼きモンドールは冬の定番で、白ワインやにんにくを少し入れて温めることもある。",
+    "whatComesOut": [
+      "丸い木箱入りのチーズ",
+      "モミの樹皮で巻かれた外観",
+      "スプーンですくえるとろとろの中身",
+      "箱ごと焼いてフォンデュ状にした提供"
+    ],
+    "tasteAndTexture": [
+      "濃厚なミルクのコク",
+      "木箱とモミ由来の森林の香り",
+      "熟すとほぼ液状のとろみ",
+      "塩気はあるが味は丸い"
+    ],
+    "orderAdvice": "冬に見つけたら頼む価値が高い。焼きモンドールは複数人で分けやすい。パン、じゃがいも、白ワインと合わせると本領発揮。",
+    "caution": "乳製品。非常に濃厚。フランス産は無殺菌乳のものがあり、妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "camembert",
+        "name": "カマンベール",
+        "difference": "カマンベールも焼けるが、モンドールは木箱入りでよりとろとろになり、樹皮香がある"
+      },
+      {
+        "id": "epoisses",
+        "name": "エポワス",
+        "difference": "エポワスは香りが強いウォッシュチーズ。モンドールは木箱と季節性、とろける食べ方が特徴"
+      },
+      {
+        "id": "raclette",
+        "name": "ラクレット",
+        "difference": "ラクレットは溶かしてかける半硬質チーズ。モンドールは箱の中でとろけるソフトチーズ"
+      }
+    ],
+    "relatedIds": [
+      "camembert",
+      "epoisses",
+      "raclette",
+      "fondue"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Vacherin_Mont_d%27Or",
+      "https://es.wikipedia.org/wiki/Vacherin_Mont-d%27Or",
+      "https://www.theguardian.com/food/2021/mar/29/20-best-cheese-recipes-olia-hercules-baked-vacherin-potatoes-cornichons"
+    ],
+    "tags": [
+      "フランス料理",
+      "スイス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "軽いチーズ",
+      "乳製品不可",
+      "硬いチーズ",
+      "青カビチーズ",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mont-d-or/1.jpg",
+      "/images/dishes/mont-d-or/2.jpg",
+      "/images/dishes/mont-d-or/3.jpg"
+    ]
+  },
+  {
+    "id": "sainte-maure-de-touraine",
+    "name": "サントモール",
+    "kana": "さんともーる",
+    "aliases": [
+      "サント・モール",
+      "サントモール・ド・トゥーレーヌ",
+      "サント・モール・ド・トゥーレーヌ"
+    ],
+    "englishName": "Sainte-Maure de Touraine",
+    "originalName": "Sainte-Maure de Touraine",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "トゥーレーヌ"
+      }
+    ],
+    "summary": "フランス・トゥーレーヌ地方のAOC/AOP山羊乳チーズ。灰をまぶした細長い丸太形で、中心に生産者番号入りの藁が通る。若いものは白くやわらかく酸味があり、熟成すると水分が抜けて締まり、山羊乳の香りと旨みが強くなる。",
+    "menuDescription": "灰色の外皮と中心の藁が目印の山羊チーズ。細長い丸太形で、酸味、ミルク感、山羊乳の香りがある。サラダ、ナッツ、パン、ロワールの白ワインと合う。",
+    "whatComesOut": [
+      "灰をまとった細長い山羊チーズ",
+      "中心に藁が通ったカット",
+      "チーズプレートの一品",
+      "サラダやトーストにのせた提供"
+    ],
+    "tasteAndTexture": [
+      "さわやかな酸味",
+      "山羊乳らしい香り",
+      "若いものはクリーミー",
+      "熟成品は締まってほろっと崩れる"
+    ],
+    "orderAdvice": "山羊チーズ入門に向くが、独特の香りはある。若いものは食べやすく、熟成品はより個性的。藁は食べずに外して切る。",
+    "caution": "山羊乳チーズ。香りが苦手な方は注意。無殺菌乳タイプは妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "chevre",
+        "name": "シェーヴル",
+        "difference": "シェーヴルは山羊チーズ全般。サントモールは藁入り丸太形のトゥーレーヌAOP"
+      },
+      {
+        "id": "crottin-de-chavignol",
+        "name": "クロタン ド シャヴィニョル",
+        "difference": "クロタンは小型円筒で熟成により硬くなる。サントモールは細長い丸太形"
+      },
+      {
+        "id": "valencay",
+        "name": "ヴァランセ",
+        "difference": "ヴァランセは切頭ピラミッド形。サントモールは藁入りの長い形"
+      }
+    ],
+    "relatedIds": [
+      "chevre",
+      "crottin-de-chavignol",
+      "valencay",
+      "maconnais"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Sainte-Maure_de_Touraine",
+      "https://es.wikipedia.org/wiki/Sainte-Maure_de_Touraine",
+      "https://www.cheese.com/sainte-maure-de-touraine/"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "山羊乳が苦手",
+      "乳製品不可",
+      "こってり",
+      "青カビチーズ",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sainte-maure-de-touraine/1.jpg",
+      "/images/dishes/sainte-maure-de-touraine/2.jpg"
+    ]
+  },
+  {
+    "id": "crottin-de-chavignol",
+    "name": "クロタン ド シャヴィニョル",
+    "kana": "くろたんどしゃゔぃにょる",
+    "aliases": [
+      "クロタン・ド・シャヴィニョル",
+      "シャヴィニョル",
+      "クロタン"
+    ],
+    "englishName": "Crottin de Chavignol",
+    "originalName": "Crottin de Chavignol",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "ロワール、シャヴィニョル"
+      }
+    ],
+    "summary": "フランス・ロワール地方シャヴィニョル村周辺のAOC/AOP山羊乳チーズ。小さな円筒形で、熟成段階により若い白い状態から、青みを帯びた硬い熟成品まで変化する。若いものは酸味とクリーミーさ、熟成品はナッツ香と強い山羊乳の風味が出る。",
+    "menuDescription": "小さな円筒形の山羊チーズ。若いものはやわらかく酸味があり、熟成すると硬くほろほろして香りが強い。温めてサラダにのせる「シェーヴル・ショー」でも定番。",
+    "whatComesOut": [
+      "小型円筒形の山羊チーズ",
+      "白い若いチーズまたは青みを帯びた熟成品",
+      "焼いてサラダにのせた前菜",
+      "チーズプレートの小さな一品"
+    ],
+    "tasteAndTexture": [
+      "若いものは酸味とクリーミーさ",
+      "熟成するとナッツ香が出る",
+      "時間とともに硬くほろほろする",
+      "山羊乳の香りがはっきり"
+    ],
+    "orderAdvice": "山羊チーズを段階別に楽しめる。初めてなら若いものや温かいサラダから。サンセールなどロワールの白ワインと相性が良い。",
+    "caution": "山羊乳チーズ。熟成品は香りが強い。無殺菌乳タイプは妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "sainte-maure-de-touraine",
+        "name": "サントモール",
+        "difference": "サントモールは藁入りの長い形。クロタンは小さな円筒形"
+      },
+      {
+        "id": "valencay",
+        "name": "ヴァランセ",
+        "difference": "ヴァランセは灰をまとった切頭ピラミッド形。クロタンは小型円筒"
+      },
+      {
+        "id": "chevre",
+        "name": "シェーヴル",
+        "difference": "シェーヴルは山羊チーズ全般。クロタン ド シャヴィニョルはAOPの特定銘柄"
+      }
+    ],
+    "relatedIds": [
+      "chevre",
+      "sainte-maure-de-touraine",
+      "valencay",
+      "maconnais"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Crottin_de_Chavignol",
+      "https://es.wikipedia.org/wiki/Crottin_de_Chavignol",
+      "https://www.cheese.com/crottin-de-chavignol/"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "山羊乳が苦手",
+      "乳製品不可",
+      "こってり",
+      "白カビチーズ",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/crottin-de-chavignol/1.jpg"
+    ]
+  },
+  {
+    "id": "valencay",
+    "name": "ヴァランセ",
+    "kana": "ゔぁらんせ",
+    "aliases": [
+      "バランセ",
+      "ヴァランセチーズ"
+    ],
+    "englishName": "Valençay cheese",
+    "originalName": "Valençay",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "ベリー"
+      }
+    ],
+    "summary": "フランス中部ベリー地方のAOC/AOP山羊乳チーズ。切頭ピラミッド形が特徴で、表面に木炭粉をまぶし、自然のカビで青灰色の外皮になる。若いものは柑橘のような酸味があり、熟成すると山羊乳らしいナッツ香と旨みが増す。",
+    "menuDescription": "上を切ったピラミッド形の山羊チーズ。灰をまとった青灰色の外皮が特徴。若いとフレッシュで酸味があり、熟すとナッツ感が増す。見た目も印象的なチーズプレート向き。",
+    "whatComesOut": [
+      "切頭ピラミッド形の山羊チーズ",
+      "灰をまとった青灰色の外皮",
+      "白い中身のカット",
+      "チーズプレートやサラダの一品"
+    ],
+    "tasteAndTexture": [
+      "若いものは柑橘系の酸味",
+      "熟成するとナッツ香",
+      "山羊乳の香り",
+      "中心はほろっとしつつしっとり"
+    ],
+    "orderAdvice": "見た目で選んでも楽しい山羊チーズ。若いものは初心者向き、熟成品は香りが強い。ロワール系の白ワインと合わせやすい。",
+    "caution": "山羊乳チーズ。香りが苦手な方は注意。無殺菌乳タイプは妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "sainte-maure-de-touraine",
+        "name": "サントモール",
+        "difference": "サントモールは長い丸太形。ヴァランセは切頭ピラミッド形"
+      },
+      {
+        "id": "crottin-de-chavignol",
+        "name": "クロタン ド シャヴィニョル",
+        "difference": "クロタンは小型円筒。ヴァランセは灰をまとった大きめのピラミッド形"
+      },
+      {
+        "id": "chevre",
+        "name": "シェーヴル",
+        "difference": "シェーヴルは山羊チーズ全般。ヴァランセは形と木炭外皮が特徴のAOP"
+      }
+    ],
+    "relatedIds": [
+      "chevre",
+      "sainte-maure-de-touraine",
+      "crottin-de-chavignol",
+      "maconnais"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Valen%C3%A7ay_cheese",
+      "https://www.cheese.com/valencay/"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "山羊乳が苦手",
+      "乳製品不可",
+      "こってり",
+      "青カビチーズ",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/valencay/1.jpg",
+      "/images/dishes/valencay/2.jpg"
+    ]
+  },
+  {
+    "id": "maconnais",
+    "name": "マコネ",
+    "kana": "まこね",
+    "aliases": [
+      "マコネチーズ",
+      "マコネー",
+      "マコネAOP"
+    ],
+    "englishName": "Mâconnais cheese",
+    "originalName": "Mâconnais",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "ブルゴーニュ、マコネ"
+      }
+    ],
+    "summary": "フランス・ブルゴーニュ南部マコネ地方のAOC/AOP小型山羊乳チーズ。小さな切頭円錐形で、山羊乳または山羊乳主体に少量の牛乳を合わせて作られる。若いものは酸味がありクリーミーで、熟成すると締まり、山羊乳の香りと旨みが増す。",
+    "menuDescription": "ブルゴーニュ南部の小さな山羊チーズ。小型の切頭円錐形で、チーズプレートに一口サイズで出る。フレッシュな酸味と山羊乳の香りがあり、マコネの白ワインと合わせやすい。",
+    "whatComesOut": [
+      "小さな切頭円錐形の山羊チーズ",
+      "白〜淡いクリーム色の中身",
+      "チーズプレートの小型チーズ",
+      "パンや果物を添えた提供"
+    ],
+    "tasteAndTexture": [
+      "フレッシュな酸味",
+      "山羊乳の香り",
+      "若いものはクリーミー",
+      "熟成すると締まって旨みが増す"
+    ],
+    "orderAdvice": "小さく試しやすい山羊チーズ。強いクセが苦手なら若いものを選ぶ。ブルゴーニュやマコネの白ワインと合わせると良い。",
+    "caution": "山羊乳チーズ。香りが苦手な方は注意。無殺菌乳タイプは妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "crottin-de-chavignol",
+        "name": "クロタン ド シャヴィニョル",
+        "difference": "クロタンはロワールの小型円筒。マコネはブルゴーニュの小型切頭円錐"
+      },
+      {
+        "id": "valencay",
+        "name": "ヴァランセ",
+        "difference": "ヴァランセは大きめの切頭ピラミッド形。マコネは小型の切頭円錐"
+      },
+      {
+        "id": "chevre",
+        "name": "シェーヴル",
+        "difference": "シェーヴルは山羊チーズ全般。マコネはマコネ地方のAOP小型チーズ"
+      }
+    ],
+    "relatedIds": [
+      "chevre",
+      "crottin-de-chavignol",
+      "valencay",
+      "sainte-maure-de-touraine"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/M%C3%A2connais_cheese",
+      "https://fr.wikipedia.org/wiki/M%C3%A2connais_%28fromage%29",
+      "https://es.wikipedia.org/wiki/Queso_M%C3%A2connais"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "山羊乳が苦手",
+      "乳製品不可",
+      "こってり",
+      "青カビチーズ",
+      "辛い料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/maconnais/1.jpg"
+    ]
+  },
+  {
+    "id": "comte",
+    "name": "コンテ",
+    "kana": "こんて",
+    "aliases": [
+      "コンテチーズ",
+      "グリュイエール・ド・コンテ"
+    ],
+    "englishName": "Comté cheese",
+    "originalName": "Comté",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "フランシュ＝コンテ、ジュラ山地"
+      }
+    ],
+    "summary": "フランス東部ジュラ山地で作られるPDOの牛乳製セミハードチーズ。無殺菌乳を銅釜で加熱し、大きな円盤状に成形して4〜36か月熟成させる。若いものはミルキーでしなやか、熟成品はナッツ、果実、旨み、結晶感が増す。フランスを代表する山のチーズ。",
+    "menuDescription": "ナッツ香と甘みのあるフランスの熟成チーズ。薄く切ってチーズプレートに、削ってグラタンやサンドイッチに、溶かしてフォンデュにも使う。熟成月数で味の深さが大きく変わる。",
+    "whatComesOut": [
+      "淡黄色のセミハードチーズのカット",
+      "チーズプレートの薄切り",
+      "グラタンやキッシュに溶けた状態",
+      "フォンデュ用に刻んだチーズ"
+    ],
+    "tasteAndTexture": [
+      "ナッツのような香り",
+      "ミルクの甘みと果実味",
+      "熟成品は旨みと結晶感",
+      "加熱するとなめらかに溶ける"
+    ],
+    "orderAdvice": "熟成月数を見ると選びやすい。若いコンテは食べやすく、長期熟成は旨みが強い。グリュイエールやボーフォールが好きなら試す価値が高い。",
+    "caution": "乳製品。無殺菌乳製の熟成チーズのため、妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "gruyere-cheese",
+        "name": "グリュイエールチーズ",
+        "difference": "グリュイエールはスイス産で熟成香と溶けやすさが強い。コンテはフランス産で果実味と甘みが出やすい"
+      },
+      {
+        "id": "beaufort",
+        "name": "ボーフォール",
+        "difference": "ボーフォールはサヴォワのアルプス系でよりバター感と力強さがある。コンテはジュラ系でナッツ感が中心"
+      },
+      {
+        "id": "parmigiano",
+        "name": "パルミジャーノ",
+        "difference": "パルミジャーノは削って旨みを足す硬質チーズ。コンテはそのまま食べても溶かしても使いやすい"
+      }
+    ],
+    "relatedIds": [
+      "gruyere-cheese",
+      "beaufort",
+      "fondue",
+      "raclette"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Comt%C3%A9_cheese",
+      "https://www.cheese.com/comte/",
+      "https://www.thespruceeats.com/what-is-comte-cheese-5185298"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "乳製品不可",
+      "フレッシュチーズ",
+      "青カビチーズ",
+      "辛い料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/comte/1.jpg",
+      "/images/dishes/comte/2.jpg",
+      "/images/dishes/comte/3.jpg"
+    ]
+  },
+  {
+    "id": "beaufort",
+    "name": "ボーフォール",
+    "kana": "ぼーふぉーる",
+    "aliases": [
+      "ボーフォールチーズ"
+    ],
+    "englishName": "Beaufort cheese",
+    "originalName": "Beaufort",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "フランス",
+        "locality": "サヴォワ"
+      }
+    ],
+    "summary": "フランス・サヴォワ地方のアルプスで作られるAOC/AOPの牛乳製ハードチーズ。タリーヌ種やアボンダンス種の無殺菌乳を使い、大きな円盤状に成形する。側面が凹んだ独特の形で、夏・山小屋・冬のタイプがあり、バター感、ナッツ香、果実味を持つ。",
+    "menuDescription": "サヴォワの山のチーズ。グリュイエール系だが穴は少なく、濃厚でなめらか、バターとナッツのような香りがある。フォンデュやグラタンに溶かすと力強い旨みが出る。",
+    "whatComesOut": [
+      "淡黄色の大きなハードチーズのカット",
+      "チーズプレートの薄切り",
+      "フォンデュ用に刻んだチーズ",
+      "グラタンや焼き料理に溶けた状態"
+    ],
+    "tasteAndTexture": [
+      "バターのようなコク",
+      "ナッツと果実の香り",
+      "しっかりした旨みと塩気",
+      "加熱でよく溶ける"
+    ],
+    "orderAdvice": "コンテやグリュイエール好きに向く。サヴォワ風フォンデュ、グラタン、白ワインとの組み合わせが定番。夏のアルパージュ品は香りが濃い。",
+    "caution": "乳製品。無殺菌乳製の熟成チーズのため、妊娠中や免疫が弱い方は注意。",
+    "similarItems": [
+      {
+        "id": "comte",
+        "name": "コンテ",
+        "difference": "コンテはジュラ産でナッツ感と甘み。ボーフォールはサヴォワ産でバター感と力強さがある"
+      },
+      {
+        "id": "gruyere-cheese",
+        "name": "グリュイエールチーズ",
+        "difference": "グリュイエールはスイス産。ボーフォールはフランス・サヴォワ産で側面が凹む形が特徴"
+      },
+      {
+        "id": "raclette",
+        "name": "ラクレット",
+        "difference": "ラクレットは溶かしてかける用途が主役。ボーフォールはフォンデュや料理にも使う熟成ハードチーズ"
+      }
+    ],
+    "relatedIds": [
+      "comte",
+      "gruyere-cheese",
+      "fondue",
+      "raclette"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Beaufort_cheese",
+      "https://es.wikipedia.org/wiki/Beaufort_%28queso%29",
+      "https://www.cheese.com/beaufort/"
+    ],
+    "tags": [
+      "フランス料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "乳製品不可",
+      "フレッシュチーズ",
+      "青カビチーズ",
+      "辛い料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/beaufort/1.jpg",
+      "/images/dishes/beaufort/2.jpg",
+      "/images/dishes/beaufort/3.jpg"
+    ]
+  },
+  {
+    "id": "candy-cheese",
+    "name": "キャンディチーズ",
+    "kana": "きゃんでぃちーず",
+    "aliases": [
+      "キャンディーチーズ",
+      "ひとくちチーズ"
+    ],
+    "englishName": "Candy cheese",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "キャンディチーズは、ひと口サイズに個包装された日本のプロセスチーズ。菓子のキャンディのように扱いやすく、おやつ、弁当、つまみ、サラダやピンチョスに使われる。",
+    "menuDescription": "小さく丸い個包装のプロセスチーズ。クセが少なく、子ども向けのおやつから酒のつまみまで使いやすい。",
+    "whatComesOut": [
+      "ひと口サイズの個包装チーズ",
+      "前菜や盛り合わせの小さなチーズ",
+      "サラダ、串、弁当の具材"
+    ],
+    "tasteAndTexture": [
+      "ミルキーで塩気は穏やか",
+      "なめらかで弾力のある食感",
+      "加熱するとやわらかく溶ける"
+    ],
+    "orderAdvice": "軽いチーズつまみや子ども向けメニューで出やすい。ワインよりもビール、ハイボール、弁当・パーティー用途向き。",
+    "caution": "乳製品。小粒のため、幼児や高齢者は喉詰まりに注意。",
+    "similarItems": [
+      {
+        "id": "stick-cheese",
+        "name": "スティックチーズ",
+        "difference": "スティックチーズは細長く料理に差し込みやすい。キャンディチーズは丸いひと口サイズでつまみやすい"
+      },
+      {
+        "id": "cream-cheese",
+        "name": "クリームチーズ",
+        "difference": "クリームチーズは塗る・練る用途が中心。キャンディチーズは固形の個包装プロセスチーズ"
+      },
+      {
+        "id": "camembert",
+        "name": "カマンベール",
+        "difference": "カマンベールは白カビの熟成香がある。キャンディチーズはクセを抑えた加工チーズ"
+      }
+    ],
+    "relatedIds": [
+      "stick-cheese",
+      "cream-cheese",
+      "camembert",
+      "mozzarella"
+    ],
+    "source": [
+      "https://www.qbb.co.jp/products/detail/view_express_entity/1711",
+      "https://www.qbb.co.jp/products/search?keywords=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3",
+      "https://www.qbb.co.jp/products/cheese/"
+    ],
+    "tags": [
+      "日本料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "クリーミー",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "本格熟成チーズ",
+      "青カビチーズ",
+      "燻製香",
+      "辛い料理",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/candy-cheese/1.jpg",
+      "/images/dishes/candy-cheese/2.jpg",
+      "/images/dishes/candy-cheese/3.jpg"
+    ]
+  },
+  {
+    "id": "stick-cheese",
+    "name": "スティックチーズ",
+    "kana": "すてぃっくちーず",
+    "aliases": [
+      "チーズスティック",
+      "スティック状チーズ"
+    ],
+    "englishName": "Stick cheese",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "スティックチーズは、細長い棒状に成形されたプロセスチーズ。手で持って食べやすく、ちくわや肉巻きに入れるなど料理素材にも使われる。",
+    "menuDescription": "棒状の食べやすいプロセスチーズ。おつまみ、弁当、揚げ物や巻き物の芯に使われる。",
+    "whatComesOut": [
+      "細長い棒状のチーズ",
+      "ちくわや肉巻きに入ったチーズ",
+      "チーズフライや弁当のおかず"
+    ],
+    "tasteAndTexture": [
+      "マイルドで塩気のある乳味",
+      "しっかりした弾力",
+      "加熱でとろりと伸びやすい"
+    ],
+    "orderAdvice": "居酒屋や弁当系メニューでは、揚げ物、肉巻き、ちくわチーズとして出ることが多い。手軽なチーズ感が欲しい時に向く。",
+    "caution": "乳製品。加熱直後は中のチーズが熱くなりやすい。",
+    "similarItems": [
+      {
+        "id": "candy-cheese",
+        "name": "キャンディチーズ",
+        "difference": "キャンディチーズはひと口サイズ。スティックチーズは細長く、料理の芯材に使いやすい"
+      },
+      {
+        "id": "mozzarella",
+        "name": "モッツァレラ",
+        "difference": "モッツァレラはフレッシュ感と伸びが特徴。スティックチーズは保存性と扱いやすさ重視のプロセスチーズ"
+      },
+      {
+        "id": "cheese-pizza",
+        "name": "チーズピザ",
+        "difference": "チーズピザは料理名。スティックチーズは具材として使う棒状チーズ"
+      }
+    ],
+    "relatedIds": [
+      "candy-cheese",
+      "mozzarella",
+      "cheese-pizza",
+      "cream-cheese"
+    ],
+    "source": [
+      "https://www.qbb.co.jp/products/detail/view_express_entity/1707",
+      "https://www.qbb.co.jp/products/search?keywords=%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF",
+      "https://www.qbb.co.jp/products/cheese/"
+    ],
+    "tags": [
+      "日本料理",
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "揚げ物",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "本格熟成チーズ",
+      "青カビチーズ",
+      "燻製香",
+      "あっさり",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/stick-cheese/1.jpg",
+      "/images/dishes/stick-cheese/2.jpg",
+      "/images/dishes/stick-cheese/3.jpg"
+    ]
+  },
+  {
+    "id": "smoked-cheese",
+    "name": "スモークチーズ",
+    "kana": "すもーくちーず",
+    "aliases": [
+      "燻製チーズ",
+      "スモークプロセスチーズ"
+    ],
+    "englishName": "Smoked cheese",
+    "category": "チーズ",
+    "regions": [
+      {
+        "area": "欧米・日本"
+      }
+    ],
+    "summary": "スモークチーズは、チーズを燻製して香りを付けたもの。日本の市販品ではプロセスチーズを山桜などのチップで燻したタイプが多く、酒のつまみや前菜に使われる。",
+    "menuDescription": "燻製香のあるチーズ。表面に香ばしさがあり、切るだけで前菜やおつまみになる。",
+    "whatComesOut": [
+      "小さく切った燻製チーズ",
+      "チーズ盛り合わせの一品",
+      "サラダ、ピンチョス、アヒージョの具材"
+    ],
+    "tasteAndTexture": [
+      "山桜チップのような芳醇な燻製香",
+      "塩気と乳脂肪のコク",
+      "表面は香ばしく中はなめらか"
+    ],
+    "orderAdvice": "ビール、ハイボール、ウイスキー、ワインのつまみに向く。燻製香が苦手なら通常のプロセスチーズやキャンディチーズの方が無難。",
+    "caution": "乳製品。燻製香が強い商品は、繊細な白ワインや淡い料理とぶつかることがある。",
+    "similarItems": [
+      {
+        "id": "scamorza-affumicata",
+        "name": "スカモルツァ・アフミカータ",
+        "difference": "スカモルツァ・アフミカータはイタリアの燻製チーズ。スモークチーズは日本ではプロセスチーズの燻製品も指す"
+      },
+      {
+        "id": "provola-affumicata",
+        "name": "プロヴォラ アフミカータ",
+        "difference": "プロヴォラは南イタリア系の燻製チーズ。スモークチーズはより広い総称"
+      },
+      {
+        "id": "candy-cheese",
+        "name": "キャンディチーズ",
+        "difference": "キャンディチーズは燻製香のないマイルドな個包装チーズ。スモークチーズは香ばしい燻製香が主役"
+      }
+    ],
+    "relatedIds": [
+      "scamorza-affumicata",
+      "provola-affumicata",
+      "smoke",
+      "smoked_salmon"
+    ],
+    "source": [
+      "https://www.qbb.co.jp/products/detail/view_express_entity/14677",
+      "https://www.qbb.co.jp/products/cheese/others/",
+      "https://www.qbb.co.jp/products/search?keywords=%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AF"
+    ],
+    "tags": [
+      "チーズ",
+      "乳製品",
+      "前菜",
+      "燻製",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "燻製香なし",
+      "フレッシュチーズ",
+      "青カビチーズ",
+      "辛い料理",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/smoked-cheese/1.jpg",
+      "/images/dishes/smoked-cheese/2.jpg",
+      "/images/dishes/smoked-cheese/3.jpg"
+    ]
   }
 ]
