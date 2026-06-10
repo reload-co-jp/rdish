@@ -2,7 +2,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { FC } from "react"
 import { regionLabel } from "../../lib/region"
-import { categoryPath } from "../../lib/taxonomy"
+import { categoryPath, countryPath } from "../../lib/taxonomy"
 import type { DishItem } from "../../types/dish"
 import { LinkedText } from "../elements/LinkedText"
 import { FavoriteButton } from "./FavoriteButton"
@@ -92,19 +92,23 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
             >
               {dish.category}
             </Link>
-            {dish.regions.map((r) => {
+            {dish.regions.map((r, i) => {
               const label = regionLabel(r)
               return (
-                <span
-                  key={label}
+                <Link
+                  key={`${label}-${i}`}
+                  href={countryPath(label)}
                   style={{
                     fontSize: "0.75rem",
                     color: "#a89080",
                     marginRight: "0.375rem",
+                    textDecoration: "underline",
+                    textDecorationColor: "#d4b896",
+                    textUnderlineOffset: "3px",
                   }}
                 >
                   {label}
-                </span>
+                </Link>
               )
             })}
           </div>
