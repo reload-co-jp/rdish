@@ -62478,5 +62478,1519 @@
       "/images/dishes/budae-jjigae/2.jpg",
       "/images/dishes/budae-jjigae/3.jpg"
     ]
+  },
+  {
+    "id": "pizza-marinara",
+    "name": "マリナーラ",
+    "kana": "まりなーら",
+    "aliases": [
+      "ピッツァ・マリナーラ",
+      "ピザ・マリナーラ",
+      "ピッツァ マリナーラ"
+    ],
+    "englishName": "Pizza Marinara",
+    "originalName": "Pizza marinara",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "locality": "ナポリ"
+      }
+    ],
+    "summary": "トマト、にんにく、オレガノ、エクストラバージンオリーブオイルをのせて焼くナポリの伝統的なピッツァ。モッツァレラを使わないため、トマトの酸味、にんにくとハーブの香り、生地の香ばしさが前面に出る。",
+    "menuDescription": "トマトソース、にんにく、オレガノ、オリーブオイルだけで仕上げるシンプルな赤いピッツァ。チーズなしで軽く、香りははっきり。",
+    "whatComesOut": [
+      "薄く伸ばした丸いピッツァ生地にトマトソースが広がった一枚",
+      "表面に薄切りまたは刻んだにんにくとオレガノ",
+      "チーズなしで、焼き上がりにオリーブオイルの香りが立つ"
+    ],
+    "tasteAndTexture": [
+      "トマトの酸味と旨みが主役",
+      "にんにくとオレガノの香りが強め",
+      "縁は香ばしく、中心はしっとりもちっとした食感"
+    ],
+    "orderAdvice": "チーズなしで軽いピッツァを食べたい時に向く。にんにくの香りが強いので、香味野菜が苦手ならマルゲリータの方が無難。",
+    "caution": "にんにくの香りが強い。乳製品は通常使わないが、店により製法や同一窯での交差接触に注意。",
+    "similarItems": [
+      {
+        "id": "cheese-pizza",
+        "name": "チーズピザ",
+        "difference": "チーズピザはチーズが主役。マリナーラはチーズなしでトマト、にんにく、オレガノが主役"
+      },
+      {
+        "id": "bruschetta",
+        "name": "ブルスケッタ",
+        "difference": "ブルスケッタは焼いたパンに具をのせる前菜。マリナーラはピッツァ生地を具材ごと焼く料理"
+      },
+      {
+        "name": "マルゲリータ",
+        "difference": "マルゲリータはモッツァレラとバジルを使う。マリナーラはチーズなしで、にんにくとオレガノを使う"
+      }
+    ],
+    "relatedIds": [
+      "cheese-pizza",
+      "bruschetta",
+      "basil"
+    ],
+    "source": [
+      "https://www.pizzanapoletana.org/it/ricetta_pizza_napoletana",
+      "https://www.pizzanapoletana.org/public/pdf/Disciplinare-2024-ENG.pdf",
+      "https://en.wikipedia.org/wiki/Pizza_marinara"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "小麦",
+      "野菜",
+      "ハーブ",
+      "焼き物",
+      "酸味",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "チーズたっぷり",
+      "こってりピザ",
+      "にんにく苦手",
+      "辛いピザ",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pizza-marinara/1.jpg",
+      "/images/dishes/pizza-marinara/2.jpg",
+      "/images/dishes/pizza-marinara/3.jpg"
+    ]
+  },
+  {
+    "id": "pizza-margherita",
+    "name": "マルゲリータ",
+    "kana": "まるげりーた",
+    "aliases": [
+      "ピッツァ・マルゲリータ",
+      "ピザ・マルゲリータ",
+      "ピッツァ マルゲリータ"
+    ],
+    "englishName": "Pizza Margherita",
+    "originalName": "Pizza Margherita",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "locality": "ナポリ"
+      }
+    ],
+    "summary": "トマト、モッツァレラ、バジル、エクストラバージンオリーブオイルをのせて焼くナポリの代表的なピッツァ。赤、白、緑のシンプルな具材で、生地、トマト、チーズのバランスを味わう定番。",
+    "menuDescription": "トマトソース、モッツァレラ、バジル、オリーブオイルの定番ピッツァ。チーズのミルキーさとトマトの酸味がわかりやすく、初めての店でも頼みやすい。",
+    "whatComesOut": [
+      "丸いピッツァ生地にトマトソースを広げた一枚",
+      "白いモッツァレラと緑のバジルが点在",
+      "焼けた縁と、とろけたチーズの表面"
+    ],
+    "tasteAndTexture": [
+      "トマトの酸味とモッツァレラのミルキーなコク",
+      "バジルの清涼感とオリーブオイルの香り",
+      "縁は香ばしく、中心はしっとりもちっとした食感"
+    ],
+    "orderAdvice": "ナポリ系ピッツァの基準を見たい時の定番。具材は少ないが、チーズ入りで満足感もある。迷ったら最初の一枚にしやすい。",
+    "caution": "乳製品（モッツァレラ）アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "cheese-pizza",
+        "name": "チーズピザ",
+        "difference": "チーズピザはチーズ主体の広い呼び名。マルゲリータはトマト、モッツァレラ、バジルを組み合わせるナポリ系の定番"
+      },
+      {
+        "id": "mozzarella",
+        "name": "モッツァレラ",
+        "difference": "モッツァレラは食材。マルゲリータはそれをトマトやバジルと焼く料理"
+      },
+      {
+        "name": "マリナーラ",
+        "difference": "マリナーラはチーズなしで、にんにくとオレガノを使う。マルゲリータはモッツァレラとバジルを使う"
+      }
+    ],
+    "relatedIds": [
+      "mozzarella",
+      "basil",
+      "cheese-pizza"
+    ],
+    "source": [
+      "https://www.pizzanapoletana.org/it/ricetta_pizza_napoletana",
+      "https://www.pizzanapoletana.org/public/pdf/Disciplinare-2024-ENG.pdf",
+      "https://en.wikipedia.org/wiki/Pizza_Margherita"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "小麦",
+      "チーズ",
+      "ハーブ",
+      "焼き物",
+      "酸味",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "乳製品苦手",
+      "チーズなし",
+      "辛いピザ",
+      "肉料理",
+      "具だくさんピザ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pizza-margherita/1.jpg",
+      "/images/dishes/pizza-margherita/2.jpg",
+      "/images/dishes/pizza-margherita/3.jpg"
+    ]
+  },
+  {
+    "id": "pizza-pescatore",
+    "name": "ペスカトーレ",
+    "kana": "ぺすかとーれ",
+    "aliases": [
+      "ピッツァ・ペスカトーレ",
+      "ピザ・ペスカトーレ",
+      "ペスカトーレピザ",
+      "Pizza pescatore"
+    ],
+    "englishName": "Pizza Pescatore",
+    "originalName": "Pizza pescatore",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "魚介を主役にしたピッツァ。トマトソースやモッツァレラを土台に、エビ、イカ、ムール貝などをのせて焼く。名前は「漁師風」の意味合いで、魚介の旨みとトマトの酸味を味わう一枚。",
+    "menuDescription": "魚介をのせたシーフードピザ。トマトの赤いソースにエビ、イカ、貝類が入り、香りは海寄りで軽め。",
+    "whatComesOut": [
+      "丸いピッツァにトマトソースと魚介のトッピング",
+      "エビ、イカ、貝類など店ごとに異なる魚介",
+      "焼けた生地に魚介の香りが移った一枚"
+    ],
+    "tasteAndTexture": [
+      "魚介の旨みと塩気",
+      "トマトソースの酸味",
+      "貝やイカの弾力と生地の香ばしさ"
+    ],
+    "orderAdvice": "肉より魚介を食べたい時向き。チーズなしの店もあるため、乳製品を避けたい時は注文前に確認。",
+    "caution": "甲殻類、貝類、魚介アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "pizza-marinara",
+        "name": "マリナーラ",
+        "difference": "マリナーラは魚介なしでトマト、にんにく、オレガノ中心。ペスカトーレは魚介が主役"
+      },
+      {
+        "id": "anchovy",
+        "name": "アンチョビ",
+        "difference": "アンチョビは塩漬け魚の食材。ペスカトーレは複数魚介を使うピッツァ"
+      },
+      {
+        "id": "pizza-margherita",
+        "name": "マルゲリータ",
+        "difference": "マルゲリータはチーズとバジルが主役。ペスカトーレは魚介の旨みが主役"
+      }
+    ],
+    "relatedIds": [
+      "pizza-marinara",
+      "pizza-margherita",
+      "anchovy"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Seafood_pizza",
+      "https://it.wikipedia.org/wiki/Condimenti_della_pizza",
+      "https://www.pizzanapoletana.org/it/ricetta_pizza_napoletana"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "魚介",
+      "小麦",
+      "焼き物",
+      "酸味",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "魚介苦手",
+      "甲殻類アレルギー",
+      "肉ピザ",
+      "チーズたっぷり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pizza-pescatore/1.jpg"
+    ]
+  },
+  {
+    "id": "pizza-parma",
+    "name": "パルマ",
+    "kana": "ぱるま",
+    "aliases": [
+      "ピッツァ・パルマ",
+      "ピザ・パルマ",
+      "パルマピザ",
+      "Pizza Parma"
+    ],
+    "englishName": "Pizza Parma",
+    "originalName": "Pizza Parma",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "locality": "パルマ"
+      }
+    ],
+    "summary": "プロシュット・ディ・パルマなどの生ハムを主役にしたピッツァ。焼き上げたピッツァに生ハムを後のせすることが多く、ルッコラやパルミジャーノを合わせると塩気、香り、旨みがまとまる。",
+    "menuDescription": "生ハムをのせたイタリア系ピッツァ。トマトやチーズの土台に、薄い生ハム、ルッコラ、チーズを合わせることが多い。",
+    "whatComesOut": [
+      "トマトまたはチーズベースのピッツァ",
+      "薄切り生ハムを広げた表面",
+      "ルッコラや削りチーズを添える店もある"
+    ],
+    "tasteAndTexture": [
+      "生ハムの塩気と熟成香",
+      "チーズのコク",
+      "ルッコラが入る場合は軽い苦味と香り"
+    ],
+    "orderAdvice": "生ハム好き向き。塩気は強めなので、軽く食べたい時は野菜入り構成を選ぶとよい。",
+    "caution": "豚肉、乳製品を含むことが多い。生ハムの塩分が高め。",
+    "similarItems": [
+      {
+        "id": "prosciutto",
+        "name": "プロシュット",
+        "difference": "プロシュットは生ハム食材。パルマはそれをピッツァにのせる料理"
+      },
+      {
+        "id": "rucola",
+        "name": "ルッコラ",
+        "difference": "ルッコラは香味野菜。パルマでは生ハムの塩気を軽くする脇役になりやすい"
+      },
+      {
+        "id": "pizza-margherita",
+        "name": "マルゲリータ",
+        "difference": "マルゲリータはトマト、モッツァレラ、バジル。パルマは生ハムの塩気と旨みが中心"
+      }
+    ],
+    "relatedIds": [
+      "prosciutto",
+      "rucola",
+      "parmigiano",
+      "pizza-margherita"
+    ],
+    "source": [
+      "https://it.wikipedia.org/wiki/Prosciutto_di_Parma",
+      "https://it.wikipedia.org/wiki/Condimenti_della_pizza",
+      "https://www.pizzanapoletana.org/it/ricetta_pizza_napoletana"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "豚肉",
+      "チーズ",
+      "小麦",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "豚肉苦手",
+      "生ハム苦手",
+      "塩分控えめ",
+      "野菜だけ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pizza-parma/1.jpg",
+      "/images/dishes/pizza-parma/2.jpg",
+      "/images/dishes/pizza-parma/3.jpg"
+    ]
+  },
+  {
+    "id": "pizza-ortolana",
+    "name": "オルトラーナ",
+    "kana": "おるとらーな",
+    "aliases": [
+      "ピッツァ・オルトラーナ",
+      "ピザ・オルトラーナ",
+      "菜園風ピザ",
+      "Pizza ortolana"
+    ],
+    "englishName": "Pizza Ortolana",
+    "originalName": "Pizza ortolana",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "菜園風を意味する野菜ピッツァ。トマト、モッツァレラを土台に、パプリカ、ナス、ズッキーニなどのグリル野菜をのせる。肉なしでも彩りと野菜の甘みで満足感がある。",
+    "menuDescription": "グリル野菜をのせたイタリアの野菜ピッツァ。パプリカ、ナス、ズッキーニなどが入り、香ばしく軽い。",
+    "whatComesOut": [
+      "トマトとモッツァレラのピッツァ",
+      "焼き野菜が表面にのった一枚",
+      "彩りの強い野菜中心のトッピング"
+    ],
+    "tasteAndTexture": [
+      "野菜の甘みと軽い苦味",
+      "グリル野菜の香ばしさ",
+      "チーズとトマトの穏やかなコク"
+    ],
+    "orderAdvice": "肉なしでピッツァを食べたい時の定番。野菜量は店差が大きいので、具だくさん狙いなら写真や説明を確認。",
+    "caution": "乳製品を含む。野菜の種類は店ごとに変わる。",
+    "similarItems": [
+      {
+        "id": "pizza-margherita",
+        "name": "マルゲリータ",
+        "difference": "マルゲリータはシンプルなチーズとバジル。オルトラーナは複数の野菜が主役"
+      },
+      {
+        "id": "cheese-pizza",
+        "name": "チーズピザ",
+        "difference": "チーズピザはチーズ中心。オルトラーナは野菜の甘みと香ばしさが中心"
+      },
+      {
+        "id": "tomato",
+        "name": "トマト",
+        "difference": "トマトは食材。オルトラーナはトマトを土台に複数野菜をのせる料理"
+      }
+    ],
+    "relatedIds": [
+      "pizza-margherita",
+      "cheese-pizza",
+      "tomato"
+    ],
+    "source": [
+      "https://it.wikipedia.org/wiki/Condimenti_della_pizza",
+      "https://www.lacucinaitaliana.com/italian-food/italian-dishes/linguine-alla-ortolana-recipe",
+      "https://www.pizzanapoletana.org/it/ricetta_pizza_napoletana"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "野菜",
+      "小麦",
+      "焼き物",
+      "グリル",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "肉ピザ",
+      "魚介ピザ",
+      "野菜苦手",
+      "チーズなし"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "pizza-quattro-formaggi",
+    "name": "クアトロ・フォルマッジ",
+    "kana": "くあとろふぉるまっじ",
+    "aliases": [
+      "クワトロフォルマッジ",
+      "4種のチーズピザ",
+      "ピッツァ・クアトロ・フォルマッジ",
+      "Pizza quattro formaggi"
+    ],
+    "englishName": "Pizza Quattro Formaggi",
+    "originalName": "Pizza quattro formaggi",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "4種類のチーズを溶かして焼くイタリアの定番ピッツァ。モッツァレラを軸に、ゴルゴンゾーラ、フォンティーナ、パルミジャーノなどを組み合わせる。トマトありのロッサ、なしのビアンカ両方がある。",
+    "menuDescription": "4種のチーズをのせた濃厚ピッツァ。青カビ系チーズが入ることが多く、香りと塩気が強い。",
+    "whatComesOut": [
+      "複数チーズが溶け合ったピッツァ",
+      "白いチーズベースまたはトマト入りの赤いベース",
+      "店によりはちみつを添える場合もある"
+    ],
+    "tasteAndTexture": [
+      "チーズの濃いコクと塩気",
+      "ゴルゴンゾーラ由来の強い香り",
+      "とろける食感と焼けたチーズの香ばしさ"
+    ],
+    "orderAdvice": "チーズ好き向け。青カビチーズが苦手なら、ゴルゴンゾーラ有無を確認。甘じょっぱい味が好きならはちみつ追加も相性よい。",
+    "caution": "乳製品アレルギーに注意。ブルーチーズの香りが強い場合あり。",
+    "similarItems": [
+      {
+        "id": "cheese-pizza",
+        "name": "チーズピザ",
+        "difference": "チーズピザは広い呼び名。クアトロ・フォルマッジは4種チーズの組み合わせが特徴"
+      },
+      {
+        "id": "gorgonzola",
+        "name": "ゴルゴンゾーラ",
+        "difference": "ゴルゴンゾーラは青カビチーズ。クアトロ・フォルマッジでは主要チーズの一つになりやすい"
+      },
+      {
+        "id": "mozzarella",
+        "name": "モッツァレラ",
+        "difference": "モッツァレラは単体のチーズ。クアトロ・フォルマッジは複数チーズを溶かす料理"
+      }
+    ],
+    "relatedIds": [
+      "cheese-pizza",
+      "mozzarella",
+      "gorgonzola",
+      "parmigiano"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pizza_quattro_formaggi",
+      "https://it.wikipedia.org/wiki/Condimenti_della_pizza",
+      "https://it.wikipedia.org/wiki/Pizza_ai_quattro_formaggi"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "チーズ",
+      "小麦",
+      "焼き物",
+      "こってり",
+      "クリーミー",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "乳製品苦手",
+      "あっさり料理",
+      "チーズ苦手",
+      "軽いピザ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pizza-quattro-formaggi/1.jpg",
+      "/images/dishes/pizza-quattro-formaggi/2.jpg",
+      "/images/dishes/pizza-quattro-formaggi/3.jpg"
+    ]
+  },
+  {
+    "id": "pizza-bambino",
+    "name": "バンビーノ",
+    "kana": "ばんびーの",
+    "aliases": [
+      "ピッツァ・バンビーノ",
+      "ピザ・バンビーノ",
+      "Pizza bambino",
+      "ピザ・ベビー"
+    ],
+    "englishName": "Pizza Bambino",
+    "originalName": "Pizza bambino",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "子ども向けを意識したピッツァ名。イタリア語のbambinoは子どもを指し、ピッツァでは辛味やクセを抑え、モッツァレラ、ハム、コーン、ソーセージ、ポテトなど食べやすい具材で構成されることが多い。",
+    "menuDescription": "子ども向けのやさしい味のピザ。チーズ、ハム、コーン、ソーセージ、ポテトなどを使うことが多く、辛味はほぼない。",
+    "whatComesOut": [
+      "チーズベースの小さめまたは食べやすいピッツァ",
+      "コーン、ハム、ソーセージ、ポテトなど甘みのある具材",
+      "辛味を避けた穏やかな味付け"
+    ],
+    "tasteAndTexture": [
+      "チーズのコクとコーンの甘み",
+      "ソーセージやハムの塩気",
+      "やわらかく食べやすい味"
+    ],
+    "orderAdvice": "子どもや辛味が苦手な人向け。店ごとに具材差が大きいので、コーン、ポテト、マヨネーズの有無は確認。",
+    "caution": "乳製品、小麦、豚肉を含むことが多い。",
+    "similarItems": [
+      {
+        "id": "cheese-pizza",
+        "name": "チーズピザ",
+        "difference": "チーズピザはチーズ中心。バンビーノは子ども向けに甘めの具材を足すことが多い"
+      },
+      {
+        "id": "pizza-ortolana",
+        "name": "オルトラーナ",
+        "difference": "オルトラーナは野菜中心。バンビーノはコーンやハムなど食べやすい具材中心"
+      },
+      {
+        "id": "hawaiian-pizza",
+        "name": "ハワイアンピザ",
+        "difference": "ハワイアンはパイナップルとハムが特徴。バンビーノは子ども向け具材の総称に近い"
+      }
+    ],
+    "relatedIds": [
+      "cheese-pizza",
+      "pizza-margherita"
+    ],
+    "source": [
+      "https://it.wikipedia.org/wiki/Condimenti_della_pizza",
+      "https://en.wikipedia.org/wiki/List_of_pizza_varieties_by_country",
+      "https://www.pizzanapoletana.org/it/ricetta_pizza_napoletana"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "チーズ",
+      "小麦",
+      "豚肉",
+      "焼き物",
+      "甘み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "大人向け",
+      "辛いピザ",
+      "魚介ピザ",
+      "野菜中心"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "pizza-bianca",
+    "name": "ビアンカ",
+    "kana": "びあんか",
+    "aliases": [
+      "ピッツァ・ビアンカ",
+      "ピザ・ビアンカ",
+      "白いピザ",
+      "White pizza",
+      "Pizza bianca"
+    ],
+    "englishName": "Pizza Bianca",
+    "originalName": "Pizza bianca",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      },
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "トマトソースを使わない白いピッツァ。イタリアではローマ風のシンプルな平焼きパンを指すこともあり、米国系のwhite pizzaでは生地にオリーブオイル、にんにく、チーズを合わせる。",
+    "menuDescription": "トマトソースなしの白いピッツァ。チーズ、オリーブオイル、にんにくの香りが中心で、具材は店により大きく変わる。",
+    "whatComesOut": [
+      "トマトソースを使わない白いピッツァ",
+      "チーズやオリーブオイルが主役の表面",
+      "ローマ風では平たいパン状で出る場合もある"
+    ],
+    "tasteAndTexture": [
+      "トマトの酸味がなく、チーズと油脂のコクが出る",
+      "にんにくやハーブの香り",
+      "生地の香ばしさが目立つ"
+    ],
+    "orderAdvice": "トマトソースが苦手な時向き。チーズ量が多い店では重めなので、前菜感覚か主食かはサイズ確認。",
+    "caution": "乳製品、小麦を含むことが多い。にんにくを使う場合あり。",
+    "similarItems": [
+      {
+        "id": "cheese-pizza",
+        "name": "チーズピザ",
+        "difference": "チーズピザはトマトソース入りも多い。ビアンカはトマトソースなしが特徴"
+      },
+      {
+        "id": "pizza-marinara",
+        "name": "マリナーラ",
+        "difference": "マリナーラはトマト、にんにく、オレガノの赤いピッツァ。ビアンカは白いベース"
+      },
+      {
+        "id": "pizza-quattro-formaggi",
+        "name": "クアトロ・フォルマッジ",
+        "difference": "クアトロ・フォルマッジは4種チーズ。ビアンカは白いピッツァ全般を指す"
+      }
+    ],
+    "relatedIds": [
+      "cheese-pizza",
+      "pizza-quattro-formaggi",
+      "pizza-marinara"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pizza_bianca",
+      "https://en.wikipedia.org/wiki/White_pizza",
+      "https://it.wikipedia.org/wiki/Condimenti_della_pizza"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "チーズ",
+      "小麦",
+      "焼き物",
+      "こってり",
+      "クリーミー",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "トマトソース",
+      "あっさり料理",
+      "チーズ苦手",
+      "赤いピザ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pizza-bianca/1.jpg",
+      "/images/dishes/pizza-bianca/2.jpg",
+      "/images/dishes/pizza-bianca/3.jpg"
+    ]
+  },
+  {
+    "id": "hawaiian-pizza",
+    "name": "ハワイアンピザ",
+    "kana": "はわいあんぴざ",
+    "aliases": [
+      "ハワイアン",
+      "ピッツァ・ハワイアン",
+      "Hawaiian pizza",
+      "Pizza hawaiana"
+    ],
+    "englishName": "Hawaiian Pizza",
+    "originalName": "Hawaiian pizza",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "カナダ"
+      }
+    ],
+    "summary": "パイナップル、トマトソース、モッツァレラ、ハムまたはベーコンをのせるカナダ発祥のピザ。甘い果物と塩気のある肉を合わせるため好みが分かれるが、世界的に知られる定番トッピング。",
+    "menuDescription": "パイナップルとハムをのせた甘じょっぱいピザ。トマトソースとチーズに果物の甘みが入る。",
+    "whatComesOut": [
+      "トマトソースとチーズのピザ",
+      "パイナップル片とハムまたはベーコン",
+      "焼けた果物の甘い香り"
+    ],
+    "tasteAndTexture": [
+      "パイナップルの甘酸っぱさ",
+      "ハムやベーコンの塩気",
+      "チーズのコクと生地の香ばしさ"
+    ],
+    "orderAdvice": "甘じょっぱい味が好きなら向く。果物入りピザが苦手なら避ける。シェア時は好みが割れやすい。",
+    "caution": "乳製品、豚肉を含むことが多い。パイナップル苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "cheese-pizza",
+        "name": "チーズピザ",
+        "difference": "チーズピザはチーズ中心。ハワイアンピザはパイナップルとハムの甘じょっぱさが特徴"
+      },
+      {
+        "id": "pizza-bambino",
+        "name": "バンビーノ",
+        "difference": "バンビーノは子ども向け具材が多い。ハワイアンはパイナップルが決定的な特徴"
+      },
+      {
+        "id": "pizza-parma",
+        "name": "パルマ",
+        "difference": "パルマは生ハムの熟成香が主役。ハワイアンはハムとパイナップルの甘じょっぱさが主役"
+      }
+    ],
+    "relatedIds": [
+      "cheese-pizza",
+      "pizza-margherita"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Hawaiian_pizza",
+      "https://it.wikipedia.org/wiki/Condimenti_della_pizza",
+      "https://en.wikipedia.org/wiki/List_of_pizza_varieties_by_country"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "主菜",
+      "豚肉",
+      "チーズ",
+      "小麦",
+      "焼き物",
+      "甘み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "パイナップル苦手",
+      "甘いピザ苦手",
+      "果物なし",
+      "塩味だけ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hawaiian-pizza/1.jpg",
+      "/images/dishes/hawaiian-pizza/2.jpg",
+      "/images/dishes/hawaiian-pizza/3.jpg"
+    ]
+  },
+  {
+    "id": "pizza-bismarck",
+    "name": "ビスマルク",
+    "kana": "びすまるく",
+    "aliases": [
+      "ピッツァ・ビスマルク",
+      "ピザ・ビスマルク",
+      "Pizza Bismarck"
+    ],
+    "englishName": "Pizza Bismarck",
+    "originalName": "Pizza Bismarck",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "卵をのせるピッツァ。一般的にトマト、モッツァレラ、ハムに卵を合わせ、卵好きで知られるオットー・フォン・ビスマルクにちなむ名前とされる。半熟卵なら黄身がソースのように広がる。",
+    "menuDescription": "ハムと卵をのせたピッツァ。チーズとトマトの上に卵が入り、半熟なら黄身が濃厚。",
+    "whatComesOut": [
+      "トマトとモッツァレラのピッツァ",
+      "ハムと卵のトッピング",
+      "半熟または焼き固まった卵"
+    ],
+    "tasteAndTexture": [
+      "卵黄のまろやかなコク",
+      "ハムの塩気",
+      "チーズとトマトの定番バランス"
+    ],
+    "orderAdvice": "卵好き向き。半熟が苦手なら焼き加減を確認。朝食っぽい満足感がある。",
+    "caution": "卵、乳製品、豚肉を含む。半熟卵の場合あり。",
+    "similarItems": [
+      {
+        "id": "pizza-margherita",
+        "name": "マルゲリータ",
+        "difference": "マルゲリータはトマト、モッツァレラ、バジル。ビスマルクは卵とハムが加わり濃厚"
+      },
+      {
+        "id": "prosciutto",
+        "name": "プロシュット",
+        "difference": "プロシュットはハム食材。ビスマルクはハムと卵を使うピッツァ"
+      },
+      {
+        "id": "cheese-pizza",
+        "name": "チーズピザ",
+        "difference": "チーズピザはチーズ中心。ビスマルクは卵が主役級"
+      }
+    ],
+    "relatedIds": [
+      "pizza-margherita",
+      "prosciutto",
+      "cheese-pizza"
+    ],
+    "source": [
+      "https://it.wikipedia.org/wiki/Condimenti_della_pizza",
+      "https://www.pizzanapoletana.org/it/ricetta_pizza_napoletana",
+      "https://en.wikipedia.org/wiki/Pizza_Rossini"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "卵",
+      "豚肉",
+      "チーズ",
+      "小麦",
+      "焼き物",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "卵苦手",
+      "豚肉苦手",
+      "軽いピザ",
+      "チーズなし"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "pizza-genovese",
+    "name": "ジェノベーゼピザ",
+    "kana": "じぇのべーぜぴざ",
+    "aliases": [
+      "ピッツァ・ジェノベーゼ",
+      "ピザ・ジェノベーゼ",
+      "ジェノベーゼ",
+      "Pizza Genovese",
+      "Pesto pizza"
+    ],
+    "englishName": "Pizza Genovese",
+    "originalName": "Pizza genovese",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "locality": "リグーリア州"
+      }
+    ],
+    "summary": "バジル、オリーブオイル、松の実、チーズ、にんにくで作るペスト・ジェノベーゼを使った緑色のピッツァ。トマトソースの代わりにペストを塗る、または焼き上げ後にかける構成が多く、ハーブの香りが主役。",
+    "menuDescription": "バジルペストを使う緑のピッツァ。チーズやトマトより、バジル、にんにく、ナッツ、オリーブオイルの香りが目立つ。",
+    "whatComesOut": [
+      "ペストを塗った緑色のピッツァ",
+      "モッツァレラやトマトを合わせる場合もある",
+      "焼き上げ後にペストを足して香りを残す店もある"
+    ],
+    "tasteAndTexture": [
+      "バジルの強い香り",
+      "松の実とチーズのコク",
+      "にんにくとオリーブオイルの余韻"
+    ],
+    "orderAdvice": "バジル好きなら向く。通常の赤いトマトピザとは印象が違う。ナッツやにんにくが苦手なら注意。",
+    "caution": "ナッツ、乳製品、にんにくを含むことが多い。既存のジェノベーゼソースとは別にピッツァ料理として登録。",
+    "similarItems": [
+      {
+        "id": "genovese",
+        "name": "ジェノベーゼ",
+        "difference": "ジェノベーゼはソース。ジェノベーゼピザはそのソースを使う料理"
+      },
+      {
+        "id": "pesto",
+        "name": "ペスト",
+        "difference": "ペストはソース類の総称。ジェノベーゼピザはペストをピッツァに使う料理"
+      },
+      {
+        "id": "pizza-margherita",
+        "name": "マルゲリータ",
+        "difference": "マルゲリータはトマトとバジルの定番。ジェノベーゼピザはバジルペストが主役"
+      }
+    ],
+    "relatedIds": [
+      "genovese",
+      "pesto",
+      "basil",
+      "mozzarella"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pesto",
+      "https://en.wikipedia.org/wiki/Genovese_basil",
+      "https://www.lacucinaitaliana.com/trip-to-italy/northern-italy/where-to-eat-basil-pesto-genovese-in-italy"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "ハーブ",
+      "チーズ",
+      "ナッツ",
+      "小麦",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ハーブ苦手",
+      "ナッツアレルギー",
+      "にんにく苦手",
+      "赤いトマトピザ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "pepperoni-pizza",
+    "name": "ペパロニ",
+    "kana": "ぺぱろに",
+    "aliases": [
+      "ペパロニピザ",
+      "ペパローニ",
+      "ピッツァ・ペパロニ",
+      "Pepperoni pizza"
+    ],
+    "englishName": "Pepperoni Pizza",
+    "originalName": "Pepperoni pizza",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "薄切りペパロニをのせたアメリカ式ピザ。ペパロニは豚肉や牛肉を使うスパイス入りサラミで、焼くと脂と香辛料の香りが出る。米国のピザ店で特に人気の高い定番トッピング。",
+    "menuDescription": "赤い薄切りサラミをのせたピザ。焼けたペパロニの脂、塩気、軽い辛味がチーズに移る。",
+    "whatComesOut": [
+      "トマトソースとチーズのピザ",
+      "表面に赤いペパロニスライス",
+      "焼けて縁が反ったり脂が浮いたりしたサラミ"
+    ],
+    "tasteAndTexture": [
+      "ペパロニの塩気とスモーキーな香り",
+      "パプリカや唐辛子由来の軽い辛味",
+      "焼けた脂とチーズのこってり感"
+    ],
+    "orderAdvice": "肉感と塩気が欲しい時の定番。辛味は強烈ではないが、脂と塩分は高め。",
+    "caution": "豚肉、牛肉、乳製品を含むことが多い。加工肉の脂と塩分が多い。",
+    "similarItems": [
+      {
+        "id": "salami",
+        "name": "サラミ",
+        "difference": "サラミは広い加工肉名。ペパロニは米国式のスパイス入りサラミで、ピザトッピングとして定番"
+      },
+      {
+        "id": "cheese-pizza",
+        "name": "チーズピザ",
+        "difference": "チーズピザは肉なしが多い。ペパロニはスパイス加工肉が主役"
+      },
+      {
+        "id": "pizza-bismarck",
+        "name": "ビスマルク",
+        "difference": "ビスマルクは卵とハム。ペパロニは辛味のあるサラミが主役"
+      }
+    ],
+    "relatedIds": [
+      "salami",
+      "cheese-pizza",
+      "pizza-margherita"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pepperoni",
+      "https://en.wikipedia.org/wiki/List_of_pizza_varieties_by_country",
+      "https://it.wikipedia.org/wiki/Condimenti_della_pizza"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "主菜",
+      "豚肉",
+      "牛肉",
+      "チーズ",
+      "小麦",
+      "焼き物",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "加工肉苦手",
+      "脂っこいもの苦手",
+      "辛味苦手",
+      "肉なし"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/pepperoni-pizza/1.jpg",
+      "/images/dishes/pepperoni-pizza/2.jpg",
+      "/images/dishes/pepperoni-pizza/3.jpg"
+    ]
+  },
+  {
+    "id": "pizza-calabrese",
+    "name": "カラブレーゼ",
+    "kana": "からぶれーぜ",
+    "aliases": [
+      "ピッツァ・カラブレーゼ",
+      "ピザ・カラブレーゼ",
+      "Pizza Calabrese"
+    ],
+    "englishName": "Pizza Calabrese",
+    "originalName": "Pizza calabrese",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "locality": "カラブリア州"
+      }
+    ],
+    "summary": "カラブリア風の辛いピッツァ。トマト、モッツァレラを土台に、辛いサラミ、ンドゥイヤ、唐辛子、赤玉ねぎなどを合わせることが多い。南イタリアらしい豚肉の旨みと唐辛子の刺激が特徴。",
+    "menuDescription": "辛いサラミやンドゥイヤを使うカラブリア風ピザ。チーズとトマトに、唐辛子の辛味と加工肉の旨みが乗る。",
+    "whatComesOut": [
+      "トマトとモッツァレラのピッツァ",
+      "辛いサラミやンドゥイヤの赤いトッピング",
+      "店により赤玉ねぎや唐辛子を追加"
+    ],
+    "tasteAndTexture": [
+      "唐辛子のはっきりした辛味",
+      "豚肉加工品の塩気と旨み",
+      "チーズのコクとトマトの酸味"
+    ],
+    "orderAdvice": "辛いピザが食べたい時向き。ディアボラよりンドゥイヤ寄りだと脂と辛味が強いので、辛さ耐性を確認。",
+    "caution": "豚肉、乳製品、唐辛子を含むことが多い。辛味が強い場合あり。",
+    "similarItems": [
+      {
+        "id": "pepperoni-pizza",
+        "name": "ペパロニ",
+        "difference": "ペパロニは米国式サラミピザ。カラブレーゼはカラブリア系の辛い豚肉加工品や唐辛子が主役"
+      },
+      {
+        "name": "ディアボラ",
+        "difference": "ディアボラは辛いサラミ中心。カラブレーゼはンドゥイヤやカラブリア唐辛子を使うことが多い"
+      },
+      {
+        "id": "pizza-margherita",
+        "name": "マルゲリータ",
+        "difference": "マルゲリータは辛味なしの定番。カラブレーゼは辛味と肉感が強い"
+      }
+    ],
+    "relatedIds": [
+      "pepperoni-pizza",
+      "salami",
+      "pizza-margherita"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/%27Nduja",
+      "https://it.wikipedia.org/wiki/%27Nduja",
+      "https://it.wikipedia.org/wiki/Condimenti_della_pizza"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "豚肉",
+      "チーズ",
+      "小麦",
+      "焼き物",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛味苦手",
+      "豚肉苦手",
+      "肉なし",
+      "あっさりピザ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": []
+  },
+  {
+    "id": "pizza-diavola",
+    "name": "ディアボラ",
+    "kana": "でぃあぼら",
+    "aliases": [
+      "ピッツァ・ディアボラ",
+      "ピザ・ディアボラ",
+      "Pizza Diavola",
+      "Pizza alla diavola"
+    ],
+    "englishName": "Pizza Diavola",
+    "originalName": "Pizza diavola",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "トマト、モッツァレラ、辛いサラミをのせるイタリアの辛口ピッツァ。名前は「悪魔風」の意味合いで、唐辛子や辛味オイルを加える店もある。マルゲリータに肉の塩気と辛味を足した構成。",
+    "menuDescription": "辛いサラミをのせた赤いピッツァ。チーズのコクに唐辛子系の刺激が入り、肉感もある。",
+    "whatComesOut": [
+      "トマトソースとモッツァレラのピッツァ",
+      "辛いサラミのスライス",
+      "店によりバジルや辛味オイル"
+    ],
+    "tasteAndTexture": [
+      "サラミの塩気と脂の旨み",
+      "唐辛子の辛味",
+      "トマトの酸味とチーズのコク"
+    ],
+    "orderAdvice": "辛いピザの定番。ペパロニ好きなら入りやすいが、店により辛さ差が大きい。",
+    "caution": "豚肉、乳製品、唐辛子を含む。辛味が苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "pepperoni-pizza",
+        "name": "ペパロニ",
+        "difference": "ペパロニはアメリカ式。ディアボラはイタリア式の辛いサラミピッツァ"
+      },
+      {
+        "id": "pizza-calabrese",
+        "name": "カラブレーゼ",
+        "difference": "カラブレーゼはンドゥイヤなどカラブリア色が強い。ディアボラは辛いサラミを軸にした定番名"
+      },
+      {
+        "id": "pizza-margherita",
+        "name": "マルゲリータ",
+        "difference": "マルゲリータは辛味なし。ディアボラは辛いサラミが加わる"
+      }
+    ],
+    "relatedIds": [
+      "pepperoni-pizza",
+      "salami",
+      "pizza-margherita"
+    ],
+    "source": [
+      "https://fr.wikipedia.org/wiki/Pizza_diavola",
+      "https://it.wikipedia.org/wiki/Condimenti_della_pizza",
+      "https://www.pizzanapoletana.org/it/ricetta_pizza_napoletana"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "豚肉",
+      "チーズ",
+      "小麦",
+      "焼き物",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛味苦手",
+      "豚肉苦手",
+      "肉なし",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/pizza-diavola/1.jpg",
+      "/images/dishes/pizza-diavola/2.jpg",
+      "/images/dishes/pizza-diavola/3.jpg"
+    ]
+  },
+  {
+    "id": "pizza-salmone",
+    "name": "サルモーネ",
+    "kana": "さるもーね",
+    "aliases": [
+      "ピッツァ・サルモーネ",
+      "ピザ・サルモーネ",
+      "サーモンピザ",
+      "Pizza al salmone"
+    ],
+    "englishName": "Pizza Salmone",
+    "originalName": "Pizza al salmone",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "サーモンを使うピッツァ。スモークサーモンや鮭を、モッツァレラ、クリーム、ルッコラ、玉ねぎなどと合わせることが多い。魚の旨みと乳製品のまろやかさが出る白系ピッツァとして出ることも多い。",
+    "menuDescription": "サーモンをのせた魚介系ピッツァ。チーズやクリームと合わせることが多く、辛味は少ない。",
+    "whatComesOut": [
+      "チーズまたはクリームベースのピッツァ",
+      "サーモンの切り身またはスモークサーモン",
+      "店によりルッコラ、玉ねぎ、ケッパー"
+    ],
+    "tasteAndTexture": [
+      "サーモンの脂と旨み",
+      "チーズやクリームのまろやかさ",
+      "スモークサーモンなら燻製香と塩気"
+    ],
+    "orderAdvice": "魚介でも濃厚寄りが食べたい時向き。スモークサーモン使用なら塩気が強いので軽い前菜と合わせるとよい。",
+    "caution": "魚、乳製品を含む。スモークサーモンの場合は塩分高め。",
+    "similarItems": [
+      {
+        "id": "pizza-pescatore",
+        "name": "ペスカトーレ",
+        "difference": "ペスカトーレは複数魚介。サルモーネはサーモン単体が主役"
+      },
+      {
+        "id": "pizza-bianca",
+        "name": "ビアンカ",
+        "difference": "ビアンカは白いベース全般。サルモーネはサーモンが主役の具材名"
+      },
+      {
+        "id": "rucola",
+        "name": "ルッコラ",
+        "difference": "ルッコラは香味野菜。サルモーネでは魚の脂を軽くする脇役"
+      }
+    ],
+    "relatedIds": [
+      "pizza-pescatore",
+      "pizza-bianca",
+      "rucola"
+    ],
+    "source": [
+      "https://it.wikipedia.org/wiki/Condimenti_della_pizza",
+      "https://en.wikipedia.org/wiki/Smoked_salmon",
+      "https://en.wikipedia.org/wiki/List_of_pizza_varieties_by_country"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "魚介",
+      "チーズ",
+      "小麦",
+      "焼き物",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "魚苦手",
+      "乳製品苦手",
+      "肉ピザ",
+      "辛いピザ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pizza-salmone/1.jpg"
+    ]
+  },
+  {
+    "id": "pizza-boscaiola",
+    "name": "ボスカイオーラ",
+    "kana": "ぼすかいおーら",
+    "aliases": [
+      "ボスカイモーラ",
+      "ピッツァ・ボスカイオーラ",
+      "ピザ・ボスカイオーラ",
+      "Pizza boscaiola"
+    ],
+    "englishName": "Pizza Boscaiola",
+    "originalName": "Pizza boscaiola",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "きのことソーセージを主役にした「木こり風」のピッツァ。一般的にモッツァレラ、薄切りソーセージ、マッシュルームを使い、トマト入りの赤いタイプもある。きのこの香りと豚肉の旨みが特徴。",
+    "menuDescription": "きのことソーセージのピッツァ。白いチーズベースが多く、店によりトマト入り。肉ときのこの香りが強い。",
+    "whatComesOut": [
+      "モッツァレラベースのピッツァ",
+      "ソーセージときのこがのった表面",
+      "トマトソース入りの店もある"
+    ],
+    "tasteAndTexture": [
+      "きのこの香りと旨み",
+      "ソーセージの脂と塩気",
+      "チーズのコクと生地の香ばしさ"
+    ],
+    "orderAdvice": "肉ときのこの組み合わせが好きなら向く。軽さより満足感重視。ボスカイモーラ表記でも中身はボスカイオーラ系のことが多い。",
+    "caution": "豚肉、乳製品を含む。きのこ苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "mushroom",
+        "name": "マッシュルーム",
+        "difference": "マッシュルームは食材。ボスカイオーラはきのことソーセージを使うピッツァ"
+      },
+      {
+        "id": "pizza-bianca",
+        "name": "ビアンカ",
+        "difference": "ビアンカは白いピッツァ全般。ボスカイオーラはきのこと肉が主役"
+      },
+      {
+        "id": "pizza-bismarck",
+        "name": "ビスマルク",
+        "difference": "ビスマルクは卵とハム。ボスカイオーラはきのことソーセージ"
+      }
+    ],
+    "relatedIds": [
+      "mushroom",
+      "pizza-bianca",
+      "pizza-bismarck"
+    ],
+    "source": [
+      "https://it.wikipedia.org/wiki/Condimenti_della_pizza",
+      "https://it.wikipedia.org/wiki/Boscaiola",
+      "https://www.pizzanapoletana.org/it/ricetta_pizza_napoletana"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "豚肉",
+      "きのこ",
+      "チーズ",
+      "小麦",
+      "焼き物",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "きのこ苦手",
+      "豚肉苦手",
+      "魚介ピザ",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "pizza-capricciosa",
+    "name": "カプリチョーザ",
+    "kana": "かぷりちょーざ",
+    "aliases": [
+      "ピッツァ・カプリチョーザ",
+      "ピザ・カプリチョーザ",
+      "Pizza capricciosa"
+    ],
+    "englishName": "Pizza Capricciosa",
+    "originalName": "Pizza capricciosa",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "locality": "ローマ"
+      }
+    ],
+    "summary": "トマト、モッツァレラ、ハム、きのこ、アーティチョーク、オリーブなどを散らして焼く具だくさんピッツァ。クアトロ・スタジーニと似た材料だが、具材を4区画に分けず全体に混ぜてのせる。",
+    "menuDescription": "ハム、きのこ、アーティチョーク、オリーブなどの具だくさんピザ。塩気、酸味、野菜感が一枚にまとまる。",
+    "whatComesOut": [
+      "トマトとモッツァレラのピッツァ",
+      "ハム、きのこ、アーティチョーク、オリーブなどの散らし具材",
+      "店によりアンチョビや卵が入る場合もある"
+    ],
+    "tasteAndTexture": [
+      "ハムの塩気とチーズのコク",
+      "きのことアーティチョークの旨み",
+      "オリーブの酸味と香り"
+    ],
+    "orderAdvice": "いろいろな具材を一枚で食べたい時向き。苦手具材が多い人は、オリーブやアーティチョーク有無を確認。",
+    "caution": "豚肉、乳製品を含むことが多い。具材は店ごとに変わる。",
+    "similarItems": [
+      {
+        "id": "pizza-quattro-stagioni",
+        "name": "クアトロ・スタジーニ",
+        "difference": "クアトロ・スタジーニは具材を4区画に分ける。カプリチョーザは全体に散らす"
+      },
+      {
+        "id": "pizza-ortolana",
+        "name": "オルトラーナ",
+        "difference": "オルトラーナは野菜中心。カプリチョーザはハム、きのこ、オリーブなど具だくさん"
+      },
+      {
+        "id": "pizza-margherita",
+        "name": "マルゲリータ",
+        "difference": "マルゲリータはシンプル。カプリチョーザは複数具材の盛り合わせ"
+      }
+    ],
+    "relatedIds": [
+      "pizza-ortolana",
+      "pizza-margherita",
+      "prosciutto",
+      "mushroom"
+    ],
+    "source": [
+      "https://it.wikipedia.org/wiki/Pizza_capricciosa",
+      "https://en.wikipedia.org/wiki/Pizza_capricciosa",
+      "https://it.wikipedia.org/wiki/Condimenti_della_pizza"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "豚肉",
+      "きのこ",
+      "チーズ",
+      "野菜",
+      "小麦",
+      "焼き物"
+    ],
+    "reverseKeywords": [
+      "具少なめ",
+      "シンプルなピザ",
+      "豚肉苦手",
+      "オリーブ苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pizza-capricciosa/1.jpg",
+      "/images/dishes/pizza-capricciosa/2.jpg",
+      "/images/dishes/pizza-capricciosa/3.jpg"
+    ]
+  },
+  {
+    "id": "pizza-quattro-stagioni",
+    "name": "クアトロ・スタジーニ",
+    "kana": "くあとろすたじーに",
+    "aliases": [
+      "クアトロ・スタジョーニ",
+      "4種の季節ピザ",
+      "四季のピザ",
+      "Pizza quattro stagioni"
+    ],
+    "englishName": "Pizza Quattro Stagioni",
+    "originalName": "Pizza quattro stagioni",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "カンパニア"
+      }
+    ],
+    "summary": "4つの区画に分けて具材をのせるイタリアの定番ピッツァ。一般的にアーティチョーク、トマトとバジル、きのこ、ハムとオリーブなどで四季を表す。カプリチョーザと同系統だが、具材を混ぜず分ける点が特徴。",
+    "menuDescription": "一枚を4区画に分けた四季のピッツァ。ハム、きのこ、アーティチョーク、オリーブなどを場所ごとに味わえる。",
+    "whatComesOut": [
+      "トマトソースとモッツァレラのピッツァ",
+      "具材が4つの区画に分かれた表面",
+      "アーティチョーク、きのこ、ハム、オリーブなど"
+    ],
+    "tasteAndTexture": [
+      "区画ごとに違う味",
+      "ハムの塩気、きのこの香り、アーティチョークの酸味",
+      "チーズとトマトの定番バランス"
+    ],
+    "orderAdvice": "複数の味を少しずつ食べたい時向き。シェアにも便利。具材を混ぜて食べたいならカプリチョーザ。",
+    "caution": "豚肉、乳製品を含むことが多い。オリーブやアーティチョークなど好みが分かれる具材あり。",
+    "similarItems": [
+      {
+        "id": "pizza-capricciosa",
+        "name": "カプリチョーザ",
+        "difference": "カプリチョーザは同系具材を全体に散らす。クアトロ・スタジーニは4区画に分ける"
+      },
+      {
+        "id": "pizza-ortolana",
+        "name": "オルトラーナ",
+        "difference": "オルトラーナは野菜中心。クアトロ・スタジーニはハムやきのこなど四季の具材を分ける"
+      },
+      {
+        "id": "pizza-quattro-formaggi",
+        "name": "クアトロ・フォルマッジ",
+        "difference": "クアトロ・フォルマッジは4種チーズ。クアトロ・スタジーニは4区画の具材"
+      }
+    ],
+    "relatedIds": [
+      "pizza-capricciosa",
+      "pizza-ortolana",
+      "pizza-quattro-formaggi",
+      "prosciutto",
+      "mushroom"
+    ],
+    "source": [
+      "https://it.wikipedia.org/wiki/Pizza_alle_quattro_stagioni",
+      "https://en.wikipedia.org/wiki/Pizza_quattro_stagioni",
+      "https://it.wikipedia.org/wiki/Condimenti_della_pizza"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "豚肉",
+      "きのこ",
+      "野菜",
+      "チーズ",
+      "小麦",
+      "焼き物"
+    ],
+    "reverseKeywords": [
+      "具少なめ",
+      "シンプルなピザ",
+      "豚肉苦手",
+      "オリーブ苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pizza-quattro-stagioni/1.png",
+      "/images/dishes/pizza-quattro-stagioni/2.jpg",
+      "/images/dishes/pizza-quattro-stagioni/3.jpg"
+    ]
   }
 ]
