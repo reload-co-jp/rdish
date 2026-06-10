@@ -926,5 +926,687 @@
                 "note": "戦後引揚者による焼き餃子文化の伝播に関する記述"
             }
         ]
+    },
+    {
+        "id": "pizza-history-regions-ingredients",
+        "slug": "pizza-history-regions-ingredients",
+        "title": "ピザの旅路",
+        "subtitle": "ナポリの窯から世界の食卓へ",
+        "description": "ピザは小麦の円盤に何をのせるかで、土地の歴史と好みが見える料理。マリナーラ、マルゲリータ、カプリチョーザ、ディアボラ、ハワイアンまで、地域性・食材・食べ方を物語風に比較する。",
+        "publishedAt": "2026-06-11",
+        "intro": "ピザは、貧しい港町の早い食事から始まり、移民の手で海を渡り、地域ごとに別の顔を持った。薄い生地の上には、トマト、チーズ、ハーブ、魚介、肉、果物までのる。皿の上の一枚を見れば、その土地が何を保存し、何を香りと呼び、何を楽しさと呼ぶかが見える。",
+        "history": [
+            {
+                "period": "古代〜10世紀",
+                "heading": "平たいパンという始まり",
+                "body": "ピザ以前にあったのは、穀物をこねて平たく焼く知恵だった。地中海世界では、パンに油、塩、ハーブをのせる食べ方が広く存在した。997年には南イタリア・ガエータの文書に「pizza」という語が記録され、名前だけが先に歴史へ顔を出す。"
+            },
+            {
+                "period": "16〜18世紀",
+                "heading": "トマトがナポリに来る",
+                "body": "アメリカ大陸原産のトマトは、最初からピザの友ではなかった。だがナポリの庶民料理に入ると、酸味と旨みが小麦の生地を一気に料理へ変えた。マリナーラはトマト、にんにく、オレガノ、油だけで成立し、保存性のある材料だけで港町の味を作った。"
+            },
+            {
+                "period": "19世紀",
+                "heading": "窯と街角の食事",
+                "body": "19世紀のナポリでは、ピザは歩きながら食べる庶民の食事であり、やがて客席を持つピッツェリアの料理にもなった。マルゲリータはトマト、モッツァレラ、バジルの三色で語られるが、王妃伝説だけでなく、すでにあったナポリの定番が国民的な物語をまとった料理でもある。"
+            },
+            {
+                "period": "20世紀前半",
+                "heading": "移民と都市の再発明",
+                "body": "イタリア移民はピザをアメリカへ運んだ。ニューヨークでは大きく薄い一切れ、シカゴでは深い器のような生地、家庭用オーブンでは低水分モッツァレラが溶ける形へ変わる。ナポリの窯から出た一枚は、都市の速度とチーズの流通で別の料理になった。"
+            },
+            {
+                "period": "1962年〜現代",
+                "heading": "パイナップルまでのる時代",
+                "body": "カナダのサム・パノプロスがハムとパイナップルをのせたハワイアンピザを出すと、ピザは正統性だけでなく議論を焼く料理になった。辛いサラミのディアボラ、四季を分けるクアトロ・スタジーニ、野菜のオルトラーナ。世界化したピザは、土地の記憶と遊び心を同じ生地にのせている。"
+            }
+        ],
+        "regions": [
+            {
+                "heading": "ナポリ——最小構成の強さ",
+                "dishes": [
+                    {
+                        "heading": "マリナーラ",
+                        "dishId": "pizza-marinara",
+                        "properties": [
+                            {
+                                "label": "生地",
+                                "value": "手で伸ばす薄い中心＋ふくらんだ縁"
+                            },
+                            {
+                                "label": "食材",
+                                "value": "トマト、にんにく、オレガノ、オリーブオイル"
+                            },
+                            {
+                                "label": "地域性",
+                                "value": "港町ナポリの保存性ある材料で成立"
+                            },
+                            {
+                                "label": "印象",
+                                "value": "チーズなし。香りと酸味が前に出る"
+                            }
+                        ],
+                        "differences": [
+                            {
+                                "label": "マルゲリータとの差",
+                                "value": "乳製品を使わず、にんにくとオレガノが主役"
+                            },
+                            {
+                                "label": "現代ピザとの差",
+                                "value": "具を増やすより、生地とトマトを見せる"
+                            }
+                        ],
+                        "note": "最も古いトマト系ピザとして語られることが多い。"
+                    },
+                    {
+                        "heading": "マルゲリータ",
+                        "dishId": "pizza-margherita",
+                        "properties": [
+                            {
+                                "label": "生地",
+                                "value": "柔らかく折れるナポリ式"
+                            },
+                            {
+                                "label": "食材",
+                                "value": "トマト、モッツァレラ、バジル、オリーブオイル"
+                            },
+                            {
+                                "label": "地域性",
+                                "value": "ナポリの定番がイタリア国民食の象徴へ"
+                            },
+                            {
+                                "label": "印象",
+                                "value": "酸味、乳味、ハーブ香の均衡"
+                            }
+                        ],
+                        "differences": [
+                            {
+                                "label": "マリナーラとの差",
+                                "value": "モッツァレラの白とバジルの緑が加わる"
+                            },
+                            {
+                                "label": "チーズピザとの差",
+                                "value": "単なるチーズ増量ではなく、三色のバランスで成り立つ"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "heading": "イタリア各地——具材で土地を語る",
+                "dishes": [
+                    {
+                        "heading": "オルトラーナ",
+                        "dishId": "pizza-ortolana",
+                        "properties": [
+                            {
+                                "label": "生地",
+                                "value": "赤いトマトベースが多い"
+                            },
+                            {
+                                "label": "食材",
+                                "value": "ナス、ズッキーニ、パプリカなど焼き野菜"
+                            },
+                            {
+                                "label": "地域性",
+                                "value": "菜園風。肉なしでも満足する野菜のピザ"
+                            },
+                            {
+                                "label": "印象",
+                                "value": "甘み、香ばしさ、軽さ"
+                            }
+                        ],
+                        "differences": [
+                            {
+                                "label": "カプリチョーザとの差",
+                                "value": "ハムやオリーブより野菜が中心"
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "カプリチョーザ",
+                        "dishId": "pizza-capricciosa",
+                        "properties": [
+                            {
+                                "label": "生地",
+                                "value": "トマトとモッツァレラの土台"
+                            },
+                            {
+                                "label": "食材",
+                                "value": "ハム、きのこ、アーティチョーク、オリーブ"
+                            },
+                            {
+                                "label": "地域性",
+                                "value": "ローマ発祥説を持つ具だくさんの都市型ピザ"
+                            },
+                            {
+                                "label": "印象",
+                                "value": "一枚の上で塩気、酸味、きのこの香りが混ざる"
+                            }
+                        ],
+                        "differences": [
+                            {
+                                "label": "四季との差",
+                                "value": "同系具材を区画に分けず全体へ散らす"
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "クアトロ・スタジーニ",
+                        "dishId": "pizza-quattro-stagioni",
+                        "properties": [
+                            {
+                                "label": "生地",
+                                "value": "一枚を四つの区画として使う"
+                            },
+                            {
+                                "label": "食材",
+                                "value": "アーティチョーク、トマト、きのこ、ハム、オリーブ"
+                            },
+                            {
+                                "label": "地域性",
+                                "value": "四季を具材で見立てるイタリア的な構成"
+                            },
+                            {
+                                "label": "印象",
+                                "value": "一枚で味が移動する"
+                            }
+                        ],
+                        "differences": [
+                            {
+                                "label": "カプリチョーザとの差",
+                                "value": "味を混ぜず、春夏秋冬の区画で食べる"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "heading": "辛味と肉——南イタリアからアメリカへ",
+                "dishes": [
+                    {
+                        "heading": "ディアボラ",
+                        "dishId": "pizza-diavola",
+                        "properties": [
+                            {
+                                "label": "生地",
+                                "value": "トマトとチーズの定番土台"
+                            },
+                            {
+                                "label": "食材",
+                                "value": "辛いサラミ、唐辛子、辛味オイル"
+                            },
+                            {
+                                "label": "地域性",
+                                "value": "イタリアの辛口ピザの代表"
+                            },
+                            {
+                                "label": "印象",
+                                "value": "脂、塩気、辛味が強い"
+                            }
+                        ],
+                        "differences": [
+                            {
+                                "label": "ペパロニとの差",
+                                "value": "米国式の甘い脂より、イタリア式の辛いサラミ感が強い"
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "カラブレーゼ",
+                        "dishId": "pizza-calabrese",
+                        "properties": [
+                            {
+                                "label": "生地",
+                                "value": "赤いトマトベースが多い"
+                            },
+                            {
+                                "label": "食材",
+                                "value": "ンドゥイヤ、辛いサラミ、唐辛子、赤玉ねぎ"
+                            },
+                            {
+                                "label": "地域性",
+                                "value": "カラブリアの唐辛子文化を反映"
+                            },
+                            {
+                                "label": "印象",
+                                "value": "辛味と豚肉の発酵感"
+                            }
+                        ],
+                        "differences": [
+                            {
+                                "label": "ディアボラとの差",
+                                "value": "ンドゥイヤなど土地色のある辛い加工肉に寄る"
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "ペパロニ",
+                        "dishId": "pepperoni-pizza",
+                        "properties": [
+                            {
+                                "label": "生地",
+                                "value": "アメリカ式の大きな円形や厚め生地にも合う"
+                            },
+                            {
+                                "label": "食材",
+                                "value": "ペパロニ、トマトソース、モッツァレラ"
+                            },
+                            {
+                                "label": "地域性",
+                                "value": "イタリア移民文化が米国で再発明した定番"
+                            },
+                            {
+                                "label": "印象",
+                                "value": "焼けたサラミの脂と軽い辛味"
+                            }
+                        ],
+                        "differences": [
+                            {
+                                "label": "サラミとの差",
+                                "value": "ペパロニは米国式ピザに特化したスパイス感がある"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "heading": "白いピザと乳製品——トマトを外す発想",
+                "dishes": [
+                    {
+                        "heading": "ビアンカ",
+                        "dishId": "pizza-bianca",
+                        "properties": [
+                            {
+                                "label": "生地",
+                                "value": "トマトソースなし。生地と油脂を見せる"
+                            },
+                            {
+                                "label": "食材",
+                                "value": "チーズ、オリーブオイル、にんにく、ハーブ"
+                            },
+                            {
+                                "label": "地域性",
+                                "value": "ローマ風の平焼きパンから米国のwhite pizzaまで幅広い"
+                            },
+                            {
+                                "label": "印象",
+                                "value": "酸味よりコクと香ばしさ"
+                            }
+                        ],
+                        "differences": [
+                            {
+                                "label": "赤いピザとの差",
+                                "value": "トマトの酸味を抜き、乳製品と生地を前に出す"
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "クアトロ・フォルマッジ",
+                        "dishId": "pizza-quattro-formaggi",
+                        "properties": [
+                            {
+                                "label": "生地",
+                                "value": "白ベースでも赤ベースでも成立"
+                            },
+                            {
+                                "label": "食材",
+                                "value": "モッツァレラ、ゴルゴンゾーラ、フォンティーナ、パルミジャーノなど"
+                            },
+                            {
+                                "label": "地域性",
+                                "value": "チーズ文化を一枚に集めるピザ"
+                            },
+                            {
+                                "label": "印象",
+                                "value": "塩気、青カビ香、濃厚さ"
+                            }
+                        ],
+                        "differences": [
+                            {
+                                "label": "チーズピザとの差",
+                                "value": "単一チーズではなく、複数チーズの香り差を食べる"
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "ボスカイオーラ",
+                        "dishId": "pizza-boscaiola",
+                        "properties": [
+                            {
+                                "label": "生地",
+                                "value": "白ベースが多い。赤ベースもある"
+                            },
+                            {
+                                "label": "食材",
+                                "value": "きのこ、ソーセージ、モッツァレラ"
+                            },
+                            {
+                                "label": "地域性",
+                                "value": "木こり風。森のきのこと豚肉の組み合わせ"
+                            },
+                            {
+                                "label": "印象",
+                                "value": "きのこの香りと肉の脂"
+                            }
+                        ],
+                        "differences": [
+                            {
+                                "label": "ビアンカとの差",
+                                "value": "白い土台に、きのことソーセージの具材性が強く乗る"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "heading": "海と果物——境界を越えるトッピング",
+                "dishes": [
+                    {
+                        "heading": "ペスカトーレ",
+                        "dishId": "pizza-pescatore",
+                        "properties": [
+                            {
+                                "label": "生地",
+                                "value": "トマトベースが多い"
+                            },
+                            {
+                                "label": "食材",
+                                "value": "エビ、イカ、貝類、にんにく、パセリ"
+                            },
+                            {
+                                "label": "地域性",
+                                "value": "漁師風。海の食材を一枚にのせる"
+                            },
+                            {
+                                "label": "印象",
+                                "value": "魚介の塩気とトマトの酸味"
+                            }
+                        ],
+                        "differences": [
+                            {
+                                "label": "マリナーラとの差",
+                                "value": "名前は海寄りでも、こちらは実際に魚介が主役"
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "サルモーネ",
+                        "dishId": "pizza-salmone",
+                        "properties": [
+                            {
+                                "label": "生地",
+                                "value": "白ベースやクリーム系にも合う"
+                            },
+                            {
+                                "label": "食材",
+                                "value": "サーモン、チーズ、ルッコラ、玉ねぎ"
+                            },
+                            {
+                                "label": "地域性",
+                                "value": "魚介ピザの中でも北方・現代的な印象"
+                            },
+                            {
+                                "label": "印象",
+                                "value": "脂のある魚と乳製品のまろやかさ"
+                            }
+                        ],
+                        "differences": [
+                            {
+                                "label": "ペスカトーレとの差",
+                                "value": "複数魚介ではなく、サーモン単体の脂を見せる"
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "ハワイアンピザ",
+                        "dishId": "hawaiian-pizza",
+                        "properties": [
+                            {
+                                "label": "生地",
+                                "value": "北米式ピザ生地に合う甘じょっぱい構成"
+                            },
+                            {
+                                "label": "食材",
+                                "value": "パイナップル、ハムまたはベーコン、チーズ"
+                            },
+                            {
+                                "label": "地域性",
+                                "value": "カナダ発祥。名前は缶詰パイナップルのブランド由来"
+                            },
+                            {
+                                "label": "印象",
+                                "value": "甘酸っぱさと塩気の衝突"
+                            }
+                        ],
+                        "differences": [
+                            {
+                                "label": "イタリア系との差",
+                                "value": "正統性より、移民都市の遊びと甘じょっぱさが前に出る"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "comparison": [
+            {
+                "name": "マリナーラ",
+                "dishId": "pizza-marinara",
+                "region": "ナポリ",
+                "skin": "薄中心＋高い縁",
+                "filling": "トマト・にんにく・オレガノ",
+                "cooking": "高温窯焼き",
+                "eatStyle": "軽く一枚"
+            },
+            {
+                "name": "マルゲリータ",
+                "dishId": "pizza-margherita",
+                "region": "ナポリ",
+                "skin": "柔らかく折れる",
+                "filling": "トマト・モッツァレラ・バジル",
+                "cooking": "高温窯焼き",
+                "eatStyle": "定番の基準"
+            },
+            {
+                "name": "オルトラーナ",
+                "dishId": "pizza-ortolana",
+                "region": "イタリア",
+                "skin": "赤ベース",
+                "filling": "焼き野菜",
+                "cooking": "窯焼き",
+                "eatStyle": "野菜主役"
+            },
+            {
+                "name": "カプリチョーザ",
+                "dishId": "pizza-capricciosa",
+                "region": "ローマ系",
+                "skin": "赤ベース",
+                "filling": "ハム・きのこ・オリーブ",
+                "cooking": "窯焼き",
+                "eatStyle": "具だくさん"
+            },
+            {
+                "name": "クアトロ・スタジーニ",
+                "dishId": "pizza-quattro-stagioni",
+                "region": "カンパニア",
+                "skin": "4区画",
+                "filling": "アーティチョーク・きのこ・ハム",
+                "cooking": "窯焼き",
+                "eatStyle": "区画ごと"
+            },
+            {
+                "name": "ディアボラ",
+                "dishId": "pizza-diavola",
+                "region": "イタリア",
+                "skin": "赤ベース",
+                "filling": "辛いサラミ",
+                "cooking": "窯焼き",
+                "eatStyle": "辛口"
+            },
+            {
+                "name": "カラブレーゼ",
+                "dishId": "pizza-calabrese",
+                "region": "カラブリア",
+                "skin": "赤ベース",
+                "filling": "ンドゥイヤ・唐辛子",
+                "cooking": "窯焼き",
+                "eatStyle": "強辛口"
+            },
+            {
+                "name": "ペパロニ",
+                "dishId": "pepperoni-pizza",
+                "region": "アメリカ",
+                "skin": "大きめ・多様",
+                "filling": "ペパロニ",
+                "cooking": "オーブン焼き",
+                "eatStyle": "スライス"
+            },
+            {
+                "name": "ビアンカ",
+                "dishId": "pizza-bianca",
+                "region": "ローマ/米国",
+                "skin": "白ベース",
+                "filling": "チーズ・油・にんにく",
+                "cooking": "窯/オーブン",
+                "eatStyle": "トマトなし"
+            },
+            {
+                "name": "クアトロ・フォルマッジ",
+                "dishId": "pizza-quattro-formaggi",
+                "region": "イタリア",
+                "skin": "白/赤両方",
+                "filling": "4種チーズ",
+                "cooking": "窯焼き",
+                "eatStyle": "濃厚"
+            },
+            {
+                "name": "ペスカトーレ",
+                "dishId": "pizza-pescatore",
+                "region": "イタリア",
+                "skin": "赤ベース",
+                "filling": "魚介",
+                "cooking": "窯焼き",
+                "eatStyle": "海の香り"
+            },
+            {
+                "name": "ハワイアンピザ",
+                "dishId": "hawaiian-pizza",
+                "region": "カナダ",
+                "skin": "北米式",
+                "filling": "パイナップル・ハム",
+                "cooking": "オーブン焼き",
+                "eatStyle": "甘じょっぱい"
+            }
+        ],
+        "callouts": [
+            {
+                "heading": "ピザの比較軸は「生地」より「何を許すか」",
+                "body": "ナポリ式は生地、水、塩、酵母、トマト、チーズの精度を守る。アメリカ式は大きさ、チーズ量、肉、果物まで広げる。どちらが本物かではなく、何を守り何を遊ぶかが地域性になる。",
+                "items": [
+                    {
+                        "name": "守るピザ",
+                        "description": "マリナーラ、マルゲリータ。少ない材料で技術を見る"
+                    },
+                    {
+                        "name": "盛るピザ",
+                        "description": "カプリチョーザ、クアトロ・スタジーニ。具材で季節や気分を作る"
+                    },
+                    {
+                        "name": "遊ぶピザ",
+                        "description": "ハワイアン、ペパロニ。移民都市と外食産業で広がる"
+                    }
+                ]
+            },
+            {
+                "heading": "トマト・チーズ・油脂の三角形",
+                "body": "赤いピザはトマトの酸味で軽くなる。白いピザはチーズと油脂で重くなる。辛い加工肉をのせると脂と塩分が増え、魚介をのせると旨みと香りが増える。ピザは同じ生地でも、上にのる食材で料理の重心が変わる。"
+            },
+            {
+                "heading": "名前は地図になる",
+                "body": "マリナーラは海の人の保存食材、カラブレーゼは唐辛子の土地、ボスカイオーラは森、クアトロ・スタジーニは四季、ハワイアンは缶詰パイナップルの記憶。ピザ名は、食材より先に土地の物語を運ぶ。"
+            }
+        ],
+        "relatedDishIds": [
+            "pizza-marinara",
+            "pizza-margherita",
+            "pizza-ortolana",
+            "pizza-capricciosa",
+            "pizza-quattro-stagioni",
+            "pizza-diavola",
+            "pizza-calabrese",
+            "pepperoni-pizza",
+            "pizza-bianca",
+            "pizza-quattro-formaggi",
+            "pizza-boscaiola",
+            "pizza-pescatore",
+            "pizza-salmone",
+            "hawaiian-pizza",
+            "mozzarella",
+            "genovese"
+        ],
+        "sources": [
+            {
+                "title": "AVPN International Regulations - Verace Pizza Napoletana",
+                "url": "https://www.pizzanapoletana.org/public/pdf/Disciplinare-2024-ENG.pdf",
+                "note": "ナポリピッツァの生地、焼成、マリナーラ/マルゲリータ等の基準"
+            },
+            {
+                "title": "Condimenti della pizza",
+                "url": "https://it.wikipedia.org/wiki/Condimenti_della_pizza",
+                "note": "イタリアの主要ピザ具材一覧と地域名の整理"
+            },
+            {
+                "title": "Pizza marinara",
+                "url": "https://en.wikipedia.org/wiki/Pizza_marinara",
+                "note": "マリナーラの材料と歴史整理"
+            },
+            {
+                "title": "Pizza Margherita",
+                "url": "https://en.wikipedia.org/wiki/Pizza_Margherita",
+                "note": "マルゲリータの材料、王妃伝説、19世紀記録"
+            },
+            {
+                "title": "Pizza capricciosa",
+                "url": "https://it.wikipedia.org/wiki/Pizza_capricciosa",
+                "note": "カプリチョーザの具材とクアトロ・スタジーニとの差"
+            },
+            {
+                "title": "Pizza alle quattro stagioni",
+                "url": "https://it.wikipedia.org/wiki/Pizza_alle_quattro_stagioni",
+                "note": "四季の区画と具材構成"
+            },
+            {
+                "title": "Pizza quattro formaggi",
+                "url": "https://en.wikipedia.org/wiki/Pizza_quattro_formaggi",
+                "note": "4種チーズの構成と白/赤ベース"
+            },
+            {
+                "title": "Pizza diavola",
+                "url": "https://fr.wikipedia.org/wiki/Pizza_diavola",
+                "note": "辛いサラミ、唐辛子、ディアボラ名の説明"
+            },
+            {
+                "title": "'Nduja",
+                "url": "https://it.wikipedia.org/wiki/%27Nduja",
+                "note": "カラブリアの辛い豚肉加工品、カラブレーゼ理解の補助"
+            },
+            {
+                "title": "Hawaiian pizza",
+                "url": "https://en.wikipedia.org/wiki/Hawaiian_pizza",
+                "note": "カナダ発祥、パイナップルとハムの構成"
+            },
+            {
+                "title": "History of pizza",
+                "url": "https://en.wikipedia.org/wiki/History_of_pizza",
+                "note": "ナポリ、移民、近代ピザ史の概要"
+            },
+            {
+                "title": "Neapolitan pizza",
+                "url": "https://en.wikipedia.org/wiki/Neapolitan_pizza",
+                "note": "ナポリ式の地域性とUNESCO/STG文脈"
+            }
+        ]
     }
 ]

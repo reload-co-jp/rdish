@@ -285,9 +285,11 @@ const ComparisonSection: FC<{ rows: ArticleComparisonRow[] }> = ({ rows }) => (
         </div>
       ))}
     </div>
-    <p style={{ marginTop: "0.625rem", fontSize: "0.75rem", color: "#a89080" }}>
-      ★ オレンジ背景＝スープが皮の内側に封じ込められている
-    </p>
+    {rows.some((row) => row.soupInside) && (
+      <p style={{ marginTop: "0.625rem", fontSize: "0.75rem", color: "#a89080" }}>
+        ★ オレンジ背景＝スープが皮の内側に封じ込められている
+      </p>
+    )}
   </section>
 )
 
