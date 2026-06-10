@@ -93,7 +93,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Confit",
-      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3"
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3",
+      "https://www.allrecipes.com/what-is-confit-7368187"
     ]
   },
   {
@@ -102,14 +103,14 @@
     "kana": "あひーじょ",
     "englishName": "Ajillo",
     "originalName": "Al ajillo",
-    "category": "調理法",
+    "category": "料理",
     "regions": [
       {
         "country": "スペイン"
       }
     ],
-    "summary": "スペイン語で「ニンニク入り」を意味するタパス料理。16世紀のマドリードで生まれたとされ、素焼きの陶器鍋（カスエラ）でエビやきのこをオリーブオイルとニンニク・鷹の爪とともに低温でじっくり煮る。パンを浸して旨みのしみたオイルまで味わうのがスペイン流。",
-    "menuDescription": "オリーブオイルとニンニク・鷹の爪で食材をじっくり煮込むスペインの調理法。テーブルに鉄鍋ごと提供されることが多い。",
+    "summary": "スペイン語で「ニンニク入り」を意味するスペインのタパス料理。素焼きの陶器鍋（カスエラ）などでエビやきのこをオリーブオイルとニンニク・鷹の爪とともに熱々に加熱する。パンを浸して旨みのしみたオイルまで味わうのが定番。",
+    "menuDescription": "オリーブオイルとニンニク・鷹の爪で食材を熱々に仕上げるスペインのタパス料理。テーブルに小鍋ごと提供されることが多い。",
     "whatComesOut": [
       "小さな鉄鍋または耐熱容器",
       "エビ・きのこ・タコなどの具材",
@@ -193,7 +194,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Al_ajillo",
-      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%92%E3%83%BC%E3%82%B8%E3%83%A7"
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%92%E3%83%BC%E3%82%B8%E3%83%A7",
+      "https://www.epicurious.com/recipes/food/views/mother-pepas-garlic-shrimp-232280"
     ]
   },
   {
@@ -202,7 +204,7 @@
     "kana": "えすかべっしゅ",
     "englishName": "Escabeche",
     "originalName": "Escabeche",
-    "category": "調理法",
+    "category": "料理",
     "regions": [
       {
         "country": "スペイン"
@@ -293,7 +295,10 @@
       "/images/dishes/escabeche/3.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%99%E3%82%B7%E3%83%A5"
+      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%99%E3%82%B7%E3%83%A5",
+      "https://en.wikipedia.org/wiki/Escabeche",
+      "https://es.wikipedia.org/wiki/Escabeche",
+      "https://www.tasteatlas.com/escabeche"
     ]
   },
   {
@@ -302,7 +307,7 @@
     "kana": "かるぱっちょ",
     "englishName": "Carpaccio",
     "originalName": "Carpaccio",
-    "category": "調理法",
+    "category": "料理",
     "regions": [
       {
         "country": "イタリア"
@@ -420,7 +425,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Carpaccio",
-      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%91%E3%83%83%E3%83%81%E3%83%A7"
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%91%E3%83%83%E3%83%81%E3%83%A7",
+      "https://www.tasteatlas.com/carpaccio"
     ]
   },
   {
@@ -429,7 +435,7 @@
     "kana": "たりあーた",
     "englishName": "Tagliata",
     "originalName": "Tagliata di manzo",
-    "category": "調理法",
+    "category": "料理",
     "regions": [
       {
         "country": "イタリア"
@@ -501,7 +507,8 @@
     ],
     "source": [
       "https://it.wikipedia.org/wiki/Tagliata",
-      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%BF"
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%BF",
+      "https://www.allrecipes.com/beef-tagliata-easiest-fancy-dinner-8645914"
     ]
   },
   {
@@ -594,7 +601,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Marination",
-      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%8D"
+      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%8D",
+      "https://www.foodandwine.com/how-to-make-marinades-8668731"
     ]
   },
   {
@@ -680,7 +688,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Saut%C3%A9ing",
-      "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%86%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%86%E3%83%BC",
+      "https://www.bhg.com/recipes/how-to/cooking-basics/how-to-saute/"
     ]
   },
   {
@@ -793,7 +802,8 @@
       "/images/dishes/roast/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Roasting"
+      "https://en.wikipedia.org/wiki/Roasting",
+      "https://www.thespruceeats.com/roasting-and-baking-995496"
     ]
   },
   {
@@ -939,7 +949,10 @@
       "/images/dishes/braise/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Braising"
+      "https://en.wikipedia.org/wiki/Braising",
+      "https://fr.wikipedia.org/wiki/Braiser",
+      "https://www.larousse.fr/dictionnaires/francais/braiser/10874",
+      "https://www.bonappetit.com/test-kitchen/cooking-tips/article/how-to-braise"
     ]
   },
   {
@@ -1032,7 +1045,9 @@
       "/images/dishes/pochee/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Poaching_(cooking)"
+      "https://en.wikipedia.org/wiki/Poaching_(cooking)",
+      "https://en.wikipedia.org/wiki/Court-bouillon",
+      "https://www.larousse.fr/dictionnaires/francais/pocher/62081"
     ]
   },
   {
@@ -1117,7 +1132,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Grill",
-      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%AB"
+      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%AB",
+      "https://www.bhg.com/recipes/grilling/basics/how-to-grill/"
     ]
   },
   {
@@ -1242,7 +1258,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Fritto_misto",
-      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%83%E3%83%88"
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%83%E3%83%88",
+      "https://www.lacucinaitaliana.com/italian-food/italian-dishes/piedmontese-mixed-fried-food-timeless-dish"
     ]
   },
   {
@@ -1251,13 +1268,13 @@
     "kana": "てりーぬ",
     "englishName": "Terrine",
     "originalName": "Terrine",
-    "category": "調理法",
+    "category": "料理",
     "regions": [
       {
         "country": "フランス"
       }
     ],
-    "summary": "型に詰めてオーブンで加熱・冷やし固めるフランスの調理法。野菜・肉・魚介を使った冷前菜として提供され、断面の美しさが特徴。",
+    "summary": "型に詰めて加熱し、冷やしてスライス提供するフランスの型詰め料理。肉・魚介・野菜を使った冷前菜として出され、断面の美しさが特徴。",
     "menuDescription": "専用の型（テリーヌ型）に食材を詰めて加熱後に冷却した冷前菜。スライスして提供され、見た目が美しい。",
     "whatComesOut": [
       "スライスされた冷製の食材の固まり",
@@ -1347,7 +1364,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Terrine_%28food%29",
-      "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AA%E3%83%BC%E3%83%8C"
+      "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AA%E3%83%BC%E3%83%8C",
+      "https://www.epicurious.com/recipes/food/views/country-terrine-233242"
     ]
   },
   {
@@ -1356,14 +1374,14 @@
     "kana": "りえっと",
     "englishName": "Rillette",
     "originalName": "Rillettes",
-    "category": "調理法",
+    "category": "料理",
     "regions": [
       {
         "country": "フランス"
       }
     ],
-    "summary": "フランスのシャルキュトリー（肉加工品）の一種。豚バラや肩肉を脂漬けにして4〜10時間かけてじっくり煮込み、繊維状にほぐしてラードと混ぜたペースト。ルーアンやトゥール・サルト地方のものが名高く、ラブレーは「茶色い豚のジャム」と呼んだ。バゲットに塗り常温で食べるのが正統。",
-    "menuDescription": "豚・鴨・鮭などを脂でじっくり煮込み繊維状にほぐしたフランスのペースト状前菜。トゥール・アンジュー地方が名産地。バゲットやトーストに塗って食べる。",
+    "summary": "フランスのシャルキュトリー（肉加工品）の一種。豚バラや肩肉を脂で4〜10時間かけてじっくり煮込み、繊維状にほぐして脂と混ぜたペースト。サルト（ル・マン）・トゥール・アンジューのものが名高く、常温でバゲットやトーストに塗って食べる。",
+    "menuDescription": "豚・鴨・鮭などを脂でじっくり煮込み繊維状にほぐしたフランスのペースト状前菜。サルト（ル・マン）・トゥール・アンジューが名産地。バゲットやトーストに塗って食べる。",
     "whatComesOut": [
       "瓶やポットに入ったペースト状の食材",
       "バゲットやトースト",
@@ -1425,7 +1443,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Rillettes",
-      "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%A8%E3%83%83%E3%83%88"
+      "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%A8%E3%83%83%E3%83%88",
+      "https://www.epicurious.com/recipes/food/views/sardine-rillettes"
     ]
   },
   {
@@ -1434,7 +1453,7 @@
     "kana": "ぱてぃ",
     "englishName": "Pâté",
     "originalName": "Pâté",
-    "category": "調理法",
+    "category": "料理",
     "regions": [
       {
         "country": "フランス"
@@ -1463,7 +1482,7 @@
       {
         "id": "terrine",
         "name": "テリーヌ",
-        "difference": "パテもテリーヌと似た調理法だが、生地（パイ生地など）に包む場合が多い"
+        "difference": "パテは肉やレバーのペースト状前菜。テリーヌは型に詰めて焼く・固める料理"
       },
       {
         "id": "mousse",
@@ -1512,7 +1531,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/P%C3%A2t%C3%A9",
-      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%86"
+      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%86",
+      "https://www.epicurious.com/recipes/food/views/chicken-liver-pate-105666"
     ]
   },
   {
@@ -1617,7 +1637,9 @@
       "/images/dishes/poele/3.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AF%E3%83%AC"
+      "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AF%E3%83%AC",
+      "https://fr.wikipedia.org/wiki/Po%C3%AAler",
+      "https://www.larousse.fr/dictionnaires/francais/po%C3%AAler/62110"
     ]
   },
   {
@@ -1708,7 +1730,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Sole_meuni%C3%A8re",
-      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%8B%E3%82%A8%E3%83%AB"
+      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%8B%E3%82%A8%E3%83%AB",
+      "https://www.epicurious.com/recipes/food/views/trout-meuniere-old-style-242929"
     ]
   },
   {
@@ -1770,7 +1793,8 @@
       "/images/dishes/cartoccio/1.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/En_papillote"
+      "https://en.wikipedia.org/wiki/En_papillote",
+      "https://www.lacucinaitaliana.com/italian-food/how-to-cook/pesce-al-cartoccio-puttanesca-style-fish-in-a-packet-packed-with-flavor"
     ]
   },
   {
@@ -1839,7 +1863,8 @@
     ],
     "source": [
       "https://it.wikipedia.org/wiki/Tagliata",
-      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%BF"
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%BF",
+      "https://www.allrecipes.com/beef-tagliata-easiest-fancy-dinner-8645914"
     ]
   },
   {
@@ -1908,7 +1933,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Romanesco_broccoli",
-      "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%8D%E3%82%B9%E3%82%B3"
+      "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%8D%E3%82%B9%E3%82%B3",
+      "https://www.specialtyproduce.com/produce/Romanesco_479.php"
     ]
   },
   {
@@ -1929,7 +1955,7 @@
         "area": "地中海"
       }
     ],
-    "summary": "地中海沿岸・中東原産の根菜で、古代エジプト・ギリシャ・ローマでも栽培された。鮮やかな赤紫色の色素はアントシアニン由来で、ボルシチの主役として知られる。強い甘みと独特のアース感を持ち、ローストすると旨みが増す。葉酸・マンガンが豊富な栄養価の高い野菜。",
+    "summary": "地中海沿岸・中東原産の根菜で、古代エジプト・ギリシャ・ローマでも栽培された。鮮やかな赤紫色は主にベタレイン系色素に由来し、ボルシチの主役として知られる。強い甘みと独特のアース感を持ち、ローストすると旨みが増す。葉酸・マンガンが豊富な栄養価の高い野菜。",
     "menuDescription": "濃い赤紫色が特徴の根菜。自然な甘みとアースな風味を持ち、ローストや蒸し、スープに使われる。葉酸が豊富で栄養価も高い。",
     "whatComesOut": [
       "スライスまたはダイス状の赤紫色の根菜",
@@ -1980,7 +2006,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Beetroot",
-      "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%BC%E3%83%88_%28%E6%A4%8D%E7%89%A9%29"
+      "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%BC%E3%83%88_%28%E6%A4%8D%E7%89%A9%29",
+      "https://www.britannica.com/plant/beet"
     ]
   },
   {
@@ -2059,7 +2086,9 @@
       "/images/dishes/fennel/3.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%82%AD%E3%83%A7%E3%82%A6"
+      "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%82%AD%E3%83%A7%E3%82%A6",
+      "https://en.wikipedia.org/wiki/Fennel",
+      "https://www.britannica.com/plant/fennel"
     ]
   },
   {
@@ -2132,7 +2161,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Shallot",
-      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B7%E3%83%A3%E3%83%AD%E3%83%83%E3%83%88"
+      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B7%E3%83%A3%E3%83%AD%E3%83%83%E3%83%88",
+      "https://www.gardeningknowhow.com/edible/vegetables/shallot/tips-for-growing-shallots.htm"
     ]
   },
   {
@@ -2201,7 +2231,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Eruca_sativa",
-      "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%83%E3%82%B3%E3%83%A9"
+      "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%83%E3%82%B3%E3%83%A9",
+      "https://www.britannica.com/plant/arugula"
     ]
   },
   {
@@ -2269,7 +2300,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Endive",
-      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%B3%E3%83%AA%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%B3%E3%83%AA%E3%83%BC",
+      "https://www.britannica.com/plant/chicory"
     ]
   },
   {
@@ -2337,7 +2369,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Kale",
-      "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%BC%E3%83%AB"
+      "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%BC%E3%83%AB",
+      "https://www.britannica.com/plant/kale"
     ]
   },
   {
@@ -2407,7 +2440,9 @@
       "/images/dishes/artichoke/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Artichoke"
+      "https://en.wikipedia.org/wiki/Artichoke",
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%81%E3%83%A7%E3%83%BC%E3%82%AF",
+      "https://www.britannica.com/plant/artichoke"
     ]
   },
   {
@@ -2480,7 +2515,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Boletus_edulis",
-      "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AB%E3%83%81%E3%83%BC%E3%83%8B"
+      "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AB%E3%83%81%E3%83%BC%E3%83%8B",
+      "https://www.lacucinaitaliana.com/italian-food/how-to-cook/how-to-cook-porcini-mushrooms"
     ]
   },
   {
@@ -2543,7 +2579,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Radicchio",
-      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%87%E3%82%A3%E3%83%83%E3%82%AD%E3%82%AA"
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%87%E3%82%A3%E3%83%83%E3%82%AD%E3%82%AA",
+      "https://www.simplyrecipes.com/what-is-radicchio-and-how-do-i-use-it-7110835"
     ]
   },
   {
@@ -2612,7 +2649,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Cauliflower",
-      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC",
+      "https://www.britannica.com/plant/cauliflower"
     ]
   },
   {
@@ -2688,7 +2726,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Zucchini",
-      "https://ja.wikipedia.org/wiki/%E3%82%BA%E3%83%83%E3%82%AD%E3%83%BC%E3%83%8B"
+      "https://ja.wikipedia.org/wiki/%E3%82%BA%E3%83%83%E3%82%AD%E3%83%BC%E3%83%8B",
+      "https://www.britannica.com/plant/zucchini"
     ]
   },
   {
@@ -2757,7 +2796,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Celeriac",
-      "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%AA%E3%82%A2%E3%83%83%E3%82%AF"
+      "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%AA%E3%82%A2%E3%83%83%E3%82%AF",
+      "https://www.allrecipes.com/article/what-is-celeriac/"
     ]
   },
   {
@@ -2828,7 +2868,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Dill",
-      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8E%E3%83%B3%E3%83%89"
+      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8E%E3%83%B3%E3%83%89",
+      "https://www.britannica.com/plant/dill"
     ]
   },
   {
@@ -2897,7 +2938,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Watercress",
-      "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E3%82%AC%E3%83%A9%E3%82%B7"
+      "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E3%82%AC%E3%83%A9%E3%82%B7",
+      "https://www.britannica.com/plant/watercress"
     ]
   },
   {
@@ -2971,7 +3013,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Radish",
-      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5"
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5",
+      "https://www.britannica.com/plant/radish"
     ]
   },
   {
@@ -3058,7 +3101,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Basil",
-      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B8%E3%83%AB"
+      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B8%E3%83%AB",
+      "https://www.britannica.com/plant/basil"
     ]
   },
   {
@@ -3148,7 +3192,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Thyme",
-      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%A0"
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%A0",
+      "https://www.britannica.com/plant/thyme"
     ]
   },
   {
@@ -3234,7 +3279,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Coriander",
-      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC",
+      "https://www.britannica.com/plant/coriander"
     ]
   },
   {
@@ -3305,7 +3351,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tarragon",
-      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%A9%E3%82%B4%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%A9%E3%82%B4%E3%83%B3",
+      "https://www.britannica.com/plant/tarragon"
     ]
   },
   {
@@ -3382,7 +3429,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Burrata",
-      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%83%E3%83%A9%E3%83%BC%E3%82%BF"
+      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%83%E3%83%A9%E3%83%BC%E3%82%BF",
+      "https://www.cheese.com/burrata/"
     ],
     "caution": "牛乳由来のフレッシュチーズのため、乳製品アレルギーの方は注意。非常に生鮮品で日持ちしないため、作りたてを当日中に食べるのが基本。"
   },
@@ -3479,7 +3527,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mozzarella",
-      "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%83%E3%83%84%E3%82%A1%E3%83%AC%E3%83%83%E3%83%A9"
+      "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%83%E3%83%84%E3%82%A1%E3%83%AC%E3%83%83%E3%83%A9",
+      "https://www.cheese.com/mozzarella/"
     ],
     "caution": "乳製品アレルギーの方は注意。"
   },
@@ -3544,7 +3593,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Ricotta",
-      "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B3%E3%83%83%E3%82%BF"
+      "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B3%E3%83%83%E3%82%BF",
+      "https://www.cheese.com/ricotta/"
     ],
     "caution": "乳製品アレルギーの方は注意。"
   },
@@ -3616,7 +3666,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Gorgonzola",
-      "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%AB%E3%82%B4%E3%83%B3%E3%82%BE%E3%83%BC%E3%83%A9"
+      "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%AB%E3%82%B4%E3%83%B3%E3%82%BE%E3%83%BC%E3%83%A9",
+      "https://www.gorgonzola.com/"
     ]
   },
   {
@@ -3633,7 +3684,7 @@
       }
     ],
     "summary": "イタリア・エミリア＝ロマーニャ州のパルマ・レッジョ・エミリア周辺のみで製造が認められたDOP認定の硬質熟成チーズ。「チーズの王様」とも呼ばれ、最低12ヶ月（通常24〜36ヶ月以上）熟成させる。削りかけてパスタ・リゾット・サラダに使われる。",
-    "menuDescription": "24ヶ月以上熟成させたDOP認定の硬質チーズ。削りかけると旨みと白い結晶（チロシン）が料理に広がる。「パルメザン」と名乗れるのはパルミジャーノ・レッジャーノのみ。",
+    "menuDescription": "長期熟成させたDOP認定の硬質チーズ。削りかけると旨みと白い結晶（チロシン）が料理に広がる。外皮に「PARMIGIANO REGGIANO」の点字状刻印が入るのが本物の目印。",
     "whatComesOut": [
       "削りかけた薄片として料理にトッピング",
       "大きな塊をテーブルで削るパフォーマンスがある店も",
@@ -3687,7 +3738,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Parmigiano-Reggiano",
-      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%83%9F%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8E%E3%83%BB%E3%83%AC%E3%83%83%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8E"
+      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%83%9F%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8E%E3%83%BB%E3%83%AC%E3%83%83%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8E",
+      "https://www.parmigianoreggiano.com/product"
     ],
     "caution": "乳製品アレルギーの方は注意。"
   },
@@ -3768,7 +3820,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pecorino",
-      "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%B3%E3%83%AA%E3%83%BC%E3%83%8E"
+      "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%B3%E3%83%AA%E3%83%BC%E3%83%8E",
+      "https://www.cheese.com/pecorino-romano/"
     ]
   },
   {
@@ -3833,7 +3886,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Camembert",
-      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%9E%E3%83%B3%E3%83%99%E3%83%BC%E3%83%AB"
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%9E%E3%83%B3%E3%83%99%E3%83%BC%E3%83%AB",
+      "https://www.cheese.com/camembert/"
     ]
   },
   {
@@ -3902,7 +3956,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Brie",
-      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%BC%E3%83%81%E3%83%BC%E3%82%BA"
+      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%BC%E3%83%81%E3%83%BC%E3%82%BA",
+      "https://www.cheese.com/brie/"
     ],
     "caution": "熟成した白カビチーズ特有の香りが気になる方は注意。乳製品アレルギーの方も注意。妊娠中は非加熱の白カビチーズは避けることが推奨される。"
   },
@@ -3990,7 +4045,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Feta",
-      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%82%BF%E3%83%81%E3%83%BC%E3%82%BA"
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%82%BF%E3%83%81%E3%83%BC%E3%82%BA",
+      "https://www.cheese.com/feta/"
     ]
   },
   {
@@ -4052,7 +4108,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Halloumi",
-      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AB%E3%83%BC%E3%83%9F"
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AB%E3%83%BC%E3%83%9F",
+      "https://www.cheese.com/halloumi/"
     ],
     "caution": "塩気がかなり強いため、塩分が気になる方は注意。乳製品アレルギーの方も注意。"
   },
@@ -4085,7 +4142,7 @@
       "クリーミーでなめらかな食感",
       "後味に残るにんにくの香り"
     ],
-    "orderAdvice": "フリットや魚介料理にディップとして一緒に頼むとより美味しくなる。伝統的なものは卵不使用のため卵アレルギーの方でも食べられる場合があるが、現代版は要確認。",
+    "orderAdvice": "フリットや魚介料理にディップとして一緒に頼むとより美味しくなる。伝統的な卵なしタイプもあるが、現代版は卵黄入りやマヨネーズ風が多いため、卵アレルギーの方は必ず確認。",
     "caution": "にんにくが苦手な方は強い風味があるため注意。現代版は卵黄を含む場合があり、卵アレルギーの方は要確認。",
     "similarItems": [
       {
@@ -4144,7 +4201,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Aioli",
-      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%AA%E3%83%AA"
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%AA%E3%83%AA",
+      "https://www.realsimple.com/what-is-aioli-8391194"
     ]
   },
   {
@@ -4221,7 +4279,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pesto",
-      "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%B9%E3%83%88"
+      "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%B9%E3%83%88",
+      "https://www.lacucinaitaliana.com/trip-to-italy/northern-italy/where-to-eat-basil-pesto-genovese-in-italy"
     ],
     "caution": "松の実（ナッツ類）を含むためナッツアレルギーの方は注意。乳製品（チーズ）も含む。"
   },
@@ -4238,8 +4297,8 @@
         "locality": "モデナ"
       }
     ],
-    "summary": "イタリア・モデナおよびレッジョ・エミリア産のブドウ果汁を長期熟成させた甘酸っぱい高級酢。「アチェート・バルサミコ・トラディツィオナーレ」はDOP認定で12〜25年以上熟成。市販の「バルサミコ酢」は数ヶ月熟成の廉価版も多い。サラダドレッシング・肉料理のソース・デザートに使われる。",
-    "menuDescription": "長期熟成させた濃厚で甘酸っぱい黒い酢。少量でも深い風味を添える。伝統的なものは非常に高価で数滴で使う。イチゴやパルミジャーノにかけても美味しい。",
+    "summary": "ブドウ果汁を使うイタリア系の甘酸っぱい酢。伝統的なDOP品はモデナまたはレッジョ・エミリアで12年以上熟成する高級品で、一般的な「アチェート・バルサミコ・ディ・モデナIGP」はブドウ果汁とワイン酢を使い、最低熟成期間が短い日常向けのものも多い。サラダドレッシング・肉料理のソース・デザートに使われる。",
+    "menuDescription": "濃い色と甘酸っぱさが特徴の酢。伝統的な長期熟成品は数滴で料理に深い風味を添え、IGP品はドレッシングやグレイズに使いやすい。イチゴやパルミジャーノにかけても合う。",
     "whatComesOut": [
       "黒く濃厚な酢またはグレイズ",
       "サラダやカルパッチョのドレッシングに",
@@ -4250,7 +4309,7 @@
       "熟成度に応じたとろみとコク（長期熟成品はシロップ状）",
       "のど越しに残る複雑な余韻"
     ],
-    "orderAdvice": "サラダや肉料理にかかっていれば風味が一段と増す。少量でも存在感がある。「トラディツィオナーレ」と書いてあれば本物の長期熟成品。",
+    "orderAdvice": "ラベルのDOP/IGPで品質と用途が変わる。トラディツィオナーレDOPは少量を仕上げに、IGPはサラダや肉料理に使いやすい。",
     "similarItems": [
       {
         "id": "vinaigrette",
@@ -4290,7 +4349,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Balsamic_vinegar",
-      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%82%B5%E3%83%9F%E3%82%B3%E9%85%A2"
+      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%82%B5%E3%83%9F%E3%82%B3%E9%85%A2",
+      "https://www.consorziobalsamico.it/en/"
     ]
   },
   {
@@ -4388,7 +4448,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tapenade",
-      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%97%E3%83%8A%E3%83%BC%E3%83%89"
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%97%E3%83%8A%E3%83%BC%E3%83%89",
+      "https://www.tasteatlas.com/tapenade"
     ]
   },
   {
@@ -4409,8 +4470,8 @@
         "country": "メキシコ"
       }
     ],
-    "summary": "「緑のソース」を意味し、国によって内容が異なる。イタリア版（サルサ・ヴェルデ）はパセリ・ケッパー・アンチョビ・オリーブオイル・ニンニクのハーブソース。メキシコ版はトマティーヨ（緑のトマト）ベースで全く別物。ドイツ・スイスにも同種のハーブソースがある。",
-    "menuDescription": "パセリや他のハーブをベースにした緑色のソース。イタリア版は肉料理のボッリートミスト（煮込み）の添えが伝統的で、ケッパーとアンチョビの旨みが特徴。メキシコ版はトマティーヨベースで酸味と辛みが特徴的。",
+    "summary": "「緑のソース」を意味し、国によって内容が異なる。イタリア版はパセリ・ケッパー・アンチョビ・オリーブオイル・ニンニクのハーブソース。メキシコ版はトマティーヨベースで全く別物。ドイツ・スイスにも同種のハーブソースがある。",
+    "menuDescription": "パセリや他のハーブをベースにした緑色のソース。イタリア版は肉料理のボッリートミストの添えが伝統的で、ケッパーとアンチョビの旨みが特徴。メキシコ版はトマティーヨベースで酸味と辛みが特徴的。",
     "whatComesOut": [
       "鮮やかな緑のソース",
       "肉料理や魚料理の添えソースとして",
@@ -4468,7 +4529,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Salsa_verde",
-      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AB%E3%82%B5%E3%83%BB%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%87"
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AB%E3%82%B5%E3%83%BB%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%87",
+      "https://www.lacucinaitaliana.com/italian-food/how-to-cook/salsa-verde"
     ],
     "caution": "イタリア版はアンチョビ（魚）を含むため魚アレルギーの方は注意。"
   },
@@ -4543,7 +4605,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Chimichurri",
-      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%9F%E3%83%81%E3%83%A5%E3%83%AA"
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%9F%E3%83%81%E3%83%A5%E3%83%AA",
+      "https://www.seriouseats.com/sauced-chimichurri-sauce-recipe"
     ]
   },
   {
@@ -4629,7 +4692,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Harissa",
-      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%83%E3%82%B5"
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%83%E3%82%B5",
+      "https://ich.unesco.org/en/RL/harissa-knowledge-skills-and-culinary-and-social-practices-01710"
     ]
   },
   {
@@ -4700,7 +4764,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Raita",
-      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%BF"
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%BF",
+      "https://www.bbcgoodfood.com/recipes/raita"
     ],
     "caution": "ヨーグルト（乳製品）を含むため乳製品アレルギーの方は注意。"
   },
@@ -4772,7 +4837,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Chutney",
-      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%84%E3%83%8D"
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%84%E3%83%8D",
+      "https://www.britannica.com/topic/chutney"
     ]
   },
   {
@@ -4857,7 +4923,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Gravy",
-      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%93%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%B9"
+      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%93%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%B9",
+      "https://www.bbcgoodfood.com/recipes/easy-gravy"
     ],
     "caution": "小麦粉を使ってとろみをつけることが多く、グルテンアレルギーの方は注意。"
   },
@@ -4968,7 +5035,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Vinaigrette",
-      "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%8D%E3%82%B0%E3%83%AC%E3%83%83%E3%83%88"
+      "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%8D%E3%82%B0%E3%83%AC%E3%83%83%E3%83%88",
+      "https://www.larousse.fr/dictionnaires/francais/vinaigrette/82018"
     ],
     "caution": "マスタードを含む場合があり、マスタードアレルギーの方は注意。"
   },
@@ -5065,7 +5133,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/B%C3%A9chamel_sauce",
-      "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%82%B9_%28%E8%AA%BF%E5%91%B3%E6%96%99%29"
+      "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%82%B9_%28%E8%AA%BF%E5%91%B3%E6%96%99%29",
+      "https://www.larousse.fr/dictionnaires/francais/b%C3%A9chamel/8495"
     ]
   },
   {
@@ -5080,7 +5149,7 @@
         "country": "イタリア"
       }
     ],
-    "summary": "肉を長時間煮込んで作るイタリアの肉ソース。ボロネーゼはその一種でひき肉ベース。パスタの定番ソースとして世界中で親しまれる。",
+    "summary": "肉や野菜を長時間煮込んで作るイタリアの濃厚なソース。ボロネーゼはラグーの代表的な一種で、ひき肉や香味野菜を使う。パスタの定番ソースとして世界中で親しまれる。",
     "menuDescription": "肉をゆっくり煮込んだ濃厚なソース。ボロネーゼはラグーの代表格で、タリアテッレやパッパルデッレと合わせるのが伝統的。",
     "whatComesOut": [
       "肉が溶け込んだ濃厚な茶色のソース",
@@ -5092,7 +5161,7 @@
       "長時間煮込んだとろっとした食感",
       "トマトの酸味とワインのコク"
     ],
-    "orderAdvice": "パスタの肉ソースが好きなら積極的に選びたい。ボロネーゼとほぼ同じ意味と思っていい。",
+    "orderAdvice": "肉の煮込みソースが好きなら積極的に選びたい。ボロネーゼは代表的なラグーだが、地域や肉の切り方で風味が変わる。",
     "similarItems": [
       {
         "name": "ボロネーゼ",
@@ -5160,7 +5229,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Rag%C3%B9",
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%81%E3%83%A5%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%81%E3%83%A5%E3%83%BC",
+      "https://www.lacucinaitaliana.com/italian-food/how-to-cook/traditional-ragu"
     ]
   },
   {
@@ -5231,7 +5301,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pesto",
-      "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%B9%E3%83%88"
+      "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%B9%E3%83%88",
+      "https://www.lacucinaitaliana.com/italian-food/italian-dishes/welcome-pesto-republic"
     ]
   },
   {
@@ -5312,7 +5383,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Gastrique",
-      "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF"
+      "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF",
+      "https://www.seriouseats.com/how-to-make-a-gastrique"
     ]
   },
   {
@@ -5419,7 +5491,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Demi-glace",
-      "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%82%B0%E3%83%A9%E3%82%B9%E3%82%BD%E3%83%BC%E3%82%B9"
+      "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%82%B0%E3%83%A9%E3%82%B9%E3%82%BD%E3%83%BC%E3%82%B9",
+      "https://www.britannica.com/topic/demi-glace"
     ]
   },
   {
@@ -5505,7 +5578,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Stock",
-      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%B3",
+      "https://www.larousse.fr/dictionnaires/francais/fond/34475"
     ]
   },
   {
@@ -5585,7 +5659,7 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Jus",
-      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AD%E3%83%94%E3%82%AB%E3%83%AB%E3%80%9C%E3%82%B8%E3%83%A5%21%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2"
+      "https://www.larousse.fr/dictionnaires/francais/jus/45003"
     ]
   },
   {
@@ -5649,7 +5723,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Coulis",
-      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%BC%E3%83%AA%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%BC%E3%83%AA%E3%83%BC",
+      "https://www.larousse.fr/dictionnaires/francais/coulis/19956"
     ]
   },
   {
@@ -5737,7 +5812,7 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Piperade",
-      "https://ja.wikipedia.org/wiki/%E3%81%91%E3%82%8D%E3%81%91%E3%82%8D%E3%81%91%E3%82%8D%E3%81%A3%E3%81%B4"
+      "https://www.tasteatlas.com/piperade"
     ],
     "caution": "エスペレット唐辛子による辛みがある。辛さが苦手な場合は確認を。"
   },
@@ -5849,7 +5924,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Hummus",
-      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%B3%E3%83%A0%E3%82%B9"
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%B3%E3%83%A0%E3%82%B9",
+      "https://www.britannica.com/topic/hummus"
     ]
   },
   {
@@ -5915,7 +5991,8 @@
       "/images/dishes/taboule/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Tabbouleh"
+      "https://en.wikipedia.org/wiki/Tabbouleh",
+      "https://www.bbcgoodfood.com/recipes/tabbouleh"
     ]
   },
   {
@@ -5986,7 +6063,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Falafel",
-      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%A9%E3%83%BC%E3%83%95%E3%82%A7%E3%83%AB"
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%A9%E3%83%BC%E3%83%95%E3%82%A7%E3%83%AB",
+      "https://www.britannica.com/topic/falafel"
     ]
   },
   {
@@ -6070,7 +6148,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Biryani",
-      "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AA%E3%83%A4%E3%83%8B"
+      "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AA%E3%83%A4%E3%83%8B",
+      "https://www.britannica.com/topic/biryani"
     ]
   },
   {
@@ -6144,7 +6223,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tandoori_chicken",
-      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E3%83%81%E3%82%AD%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E3%83%81%E3%82%AD%E3%83%B3",
+      "https://www.britannica.com/topic/tandoori-chicken"
     ],
     "caution": "スパイスが多く入る。辛さが苦手な方は確認を。また赤色は食紅による着色の場合もある。"
   },
@@ -6210,7 +6290,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Phat_kaphrao",
-      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%9F%E3%83%A1%E3%83%9C%E3%82%A6%E3%82%AD"
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%9F%E3%83%A1%E3%83%9C%E3%82%A6%E3%82%AD",
+      "https://www.seriouseats.com/phat-kaphrao-thai-basil-stir-fry-recipe"
     ]
   },
   {
@@ -6331,7 +6412,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pho",
-      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC",
+      "https://www.britannica.com/topic/pho"
     ]
   },
   {
@@ -6403,7 +6485,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC",
-      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%83%B3%E3%83%9F%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%83%B3%E3%83%9F%E3%83%BC",
+      "https://www.sbs.com.au/food/article/banh-mi-history/3c9tqk4pu"
     ]
   },
   {
@@ -6505,7 +6588,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Couscous",
-      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B9%E3%82%AF%E3%82%B9"
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B9%E3%82%AF%E3%82%B9",
+      "https://www.britannica.com/topic/couscous"
     ]
   },
   {
@@ -6583,7 +6667,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Shakshouka",
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%AF%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%AB"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%AF%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%AB",
+      "https://www.britannica.com/topic/shakshouka"
     ]
   },
   {
@@ -6678,7 +6763,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Taco",
-      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B3%E3%82%B9"
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B3%E3%82%B9",
+      "https://www.britannica.com/topic/taco"
     ]
   },
   {
@@ -6748,7 +6834,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Quesadilla",
-      "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%B5%E3%83%87%E3%82%A3%E3%83%BC%E3%83%A4"
+      "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%B5%E3%83%87%E3%82%A3%E3%83%BC%E3%83%A4",
+      "https://www.britannica.com/topic/quesadilla"
     ]
   },
   {
@@ -6835,7 +6922,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Paella",
-      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A8%E3%83%AA%E3%82%A2"
+      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A8%E3%83%AA%E3%82%A2",
+      "https://www.britannica.com/topic/paella"
     ]
   },
   {
@@ -6947,7 +7035,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Risotto",
-      "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BE%E3%83%83%E3%83%88"
+      "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BE%E3%83%83%E3%83%88",
+      "https://www.britannica.com/topic/risotto"
     ]
   },
   {
@@ -7019,7 +7108,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Gnocchi",
-      "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A7%E3%83%83%E3%82%AD"
+      "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A7%E3%83%83%E3%82%AD",
+      "https://www.britannica.com/topic/gnocchi"
     ]
   },
   {
@@ -7035,7 +7125,7 @@
         "locality": "ブルターニュ"
       }
     ],
-    "summary": "そば粉を使った薄いクレープ状のブルターニュ地方の料理。ハムやエッグ・チーズを包んだ食事系と甘いデザート系がある。グルテンフリー。",
+    "summary": "そば粉を使った薄いクレープ状のブルターニュ地方の料理。ハム・卵・チーズを包んだ食事系が代表的で、甘いデザート系のガレットもある。",
     "menuDescription": "そば粉のクレープに具材を包んだブルターニュの名物料理。外はパリッと中はもちっとした食感。シードル（リンゴの発泡酒）との相性が良い。",
     "whatComesOut": [
       "四角く折りたたまれた薄いそば粉クレープ",
@@ -7047,7 +7137,7 @@
       "外のパリッとした食感と内のもちもち感",
       "具材の旨みとチーズのコク"
     ],
-    "orderAdvice": "フランスの地方料理を楽しみたいなら選んでみよう。グルテンフリーの方にもおすすめ。",
+    "orderAdvice": "フランスの地方料理を楽しみたいなら選んでみよう。そば粉中心だが、小麦粉混入や同一調理器具の可能性があるのでグルテン制限がある場合は店に確認。",
     "similarItems": [
       {
         "id": "crepe",
@@ -7094,7 +7184,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Galette",
-      "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88"
+      "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88",
+      "https://www.britannica.com/topic/galette"
     ]
   },
   {
@@ -7214,7 +7305,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Ratatouille",
-      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%BF%E3%83%88%E3%82%A5%E3%82%A4%E3%83%A6"
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%BF%E3%83%88%E3%82%A5%E3%82%A4%E3%83%A6",
+      "https://www.britannica.com/topic/ratatouille"
     ]
   },
   {
@@ -7300,7 +7392,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Cassoulet",
-      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%83%AC"
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%83%AC",
+      "https://www.britannica.com/topic/cassoulet"
     ]
   },
   {
@@ -7317,10 +7410,10 @@
       }
     ],
     "summary": "マルセイユ発祥の魚介の贅沢なスープ料理。複数の魚・エビ・貝などを使い、サフランとプロヴァンスハーブで仕上げる豪華な一品。",
-    "menuDescription": "様々な魚介を使ったサフラン色の豪華なスープ。アイオリとクルートン（クルトン）を添えて提供するのが伝統的。",
+    "menuDescription": "様々な魚介を使ったサフラン色の豪華なスープ。ルイユとクルートンを添えて提供するのが伝統的。",
     "whatComesOut": [
       "黄金色の魚介スープと大きな魚・エビ",
-      "アイオリソースとクルートン",
+      "ルイユソースとクルートン",
       "2段階で提供（スープ→魚介）することも"
     ],
     "tasteAndTexture": [
@@ -7406,7 +7499,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bouillabaisse",
-      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%A4%E3%83%A4%E3%83%99%E3%83%BC%E3%82%B9"
+      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%A4%E3%83%A4%E3%83%99%E3%83%BC%E3%82%B9",
+      "https://www.britannica.com/topic/bouillabaisse"
     ]
   },
   {
@@ -7427,7 +7521,7 @@
         "area": "東ヨーロッパ"
       }
     ],
-    "summary": "ビーツを主役にした東ヨーロッパの伝統的なスープ。深い赤紫色が特徴でスメタナ（サワークリーム）を添えて提供される。2022年にユネスコの無形文化遺産としてウクライナ料理に登録された。",
+    "summary": "ビーツを主役にした東ヨーロッパの伝統的なスープ。深い赤紫色が特徴でスメタナ（サワークリーム）を添えて提供される。2022年に「ウクライナのボルシチ料理文化」がユネスコ無形文化遺産の緊急保護リストに登録された。",
     "menuDescription": "ビーツの深い赤色が印象的な東欧の根野菜スープ。牛肉やキャベツが入り、スメタナをのせて提供される。",
     "whatComesOut": [
       "鮮やかな赤紫色のスープ",
@@ -7439,7 +7533,7 @@
       "しっかりとした具だくさんのスープ",
       "スメタナの酸味とクリーミーさ"
     ],
-    "orderAdvice": "見た目のインパクトが大きい一皿。ビーツの甘みと酸味が独特で一度試す価値あり。ウクライナ料理の代表的な一品。",
+    "orderAdvice": "見た目のインパクトが大きい一皿。ビーツの甘みと酸味が独特で一度試す価値あり。ウクライナを含む東欧で広く親しまれる。",
     "caution": "ビーツの着色成分で口周りや便が赤くなることがある（無害）。",
     "similarItems": [
       {
@@ -7478,7 +7572,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Borscht",
-      "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%82%B7%E3%83%81"
+      "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%82%B7%E3%83%81",
+      "https://ich.unesco.org/en/USL/culture-of-ukrainian-borscht-cooking-01852"
     ]
   },
   {
@@ -7497,11 +7592,11 @@
       }
     ],
     "summary": "円錐形の土鍋（タジン鍋）で肉・野菜・スパイスを蒸し煮にするモロッコ料理。複雑なスパイスの香りとしっとりとした食感が特徴。",
-    "menuDescription": "独特の円錐形の土鍋で作るモロッコの煮込み料理。チキン・ラム・野菜を使い、クミン・コリアンダーなどスパイスが豊富。クスクスと一緒に食べるのが定番。",
+    "menuDescription": "独特の円錐形の土鍋で作るモロッコの煮込み料理。チキン・ラム・野菜を使い、クミン・コリアンダーなどスパイスが豊富。パンやクスクスと合わせることが多い。",
     "whatComesOut": [
       "タジン鍋のまま（または移して）テーブルに",
       "スパイシーな肉または野菜の煮込み",
-      "クスクスやパンを添えて"
+      "パンやクスクスを添えて"
     ],
     "tasteAndTexture": [
       "複雑なスパイスの香りと旨み",
@@ -7558,7 +7653,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tagine",
-      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B8%E3%83%B3%E9%8D%8B"
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B8%E3%83%B3%E9%8D%8B",
+      "https://www.britannica.com/topic/tagine-cooking-vessel"
     ]
   },
   {
@@ -7640,7 +7736,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Dolma",
-      "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AB%E3%83%9E"
+      "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AB%E3%83%9E",
+      "https://ich.unesco.org/en/RL/dolma-making-and-sharing-tradition-a-marker-of-cultural-identity-01188"
     ]
   },
   {
@@ -7752,7 +7849,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Kebab",
-      "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%90%E3%83%96"
+      "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%90%E3%83%96",
+      "https://www.britannica.com/topic/kebab"
     ]
   },
   {
@@ -7819,7 +7917,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Shawarma",
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%AB%E3%83%9E"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%AB%E3%83%9E",
+      "https://www.britannica.com/topic/shawarma"
     ]
   },
   {
@@ -7909,7 +8008,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Quiche",
-      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5"
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5",
+      "https://www.britannica.com/topic/quiche"
     ]
   },
   {
@@ -7975,7 +8075,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Croque_monsieur",
-      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%83%A0%E3%83%83%E3%82%B7%E3%83%A5"
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%83%A0%E3%83%83%E3%82%B7%E3%83%A5",
+      "https://www.tasteatlas.com/croque-monsieur"
     ]
   },
   {
@@ -8086,7 +8187,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Gratin",
-      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%82%BF%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%82%BF%E3%83%B3",
+      "https://www.britannica.com/topic/gratin"
     ]
   },
   {
@@ -8173,7 +8275,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Gazpacho",
-      "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%B9%E3%83%91%E3%83%81%E3%83%A7"
+      "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%B9%E3%83%91%E3%83%81%E3%83%A7",
+      "https://www.britannica.com/topic/gazpacho"
     ]
   },
   {
@@ -8243,7 +8346,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Salade_ni%C3%A7oise",
-      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%83%80%E3%83%BB%E3%83%8B%E3%82%BD%E3%83%AF%E3%83%BC%E3%82%BA"
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%83%80%E3%83%BB%E3%83%8B%E3%82%BD%E3%83%AF%E3%83%BC%E3%82%BA",
+      "https://www.theguardian.com/lifeandstyle/wordofmouth/2012/aug/01/how-make-perfect-salade-nicoise"
     ]
   },
   {
@@ -8326,7 +8430,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Moussaka",
-      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%B5%E3%82%AB"
+      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%B5%E3%82%AB",
+      "https://www.britannica.com/topic/moussaka"
     ]
   },
   {
@@ -8397,7 +8502,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tiramisu",
-      "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%A9%E3%83%9F%E3%82%B9"
+      "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%A9%E3%83%9F%E3%82%B9",
+      "https://www.britannica.com/topic/tiramisu"
     ]
   },
   {
@@ -8497,7 +8603,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Cr%C3%A8me_br%C3%BBl%C3%A9e",
-      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%96%E3%83%AA%E3%83%A5%E3%83%AC"
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%96%E3%83%AA%E3%83%A5%E3%83%AC",
+      "https://www.britannica.com/topic/creme-brulee"
     ]
   },
   {
@@ -8513,8 +8620,8 @@
         "locality": "ピエモンテ州"
       }
     ],
-    "summary": "ゼラチンで固めた生クリームのイタリア・ピエモンテ州発祥のデザート。名前は「調理した生クリーム（Panna Cotta）」を意味し、シンプルながら濃厚。ベリーソースやカラメルソースを添えて提供される。",
-    "menuDescription": "生クリームと牛乳にゼラチンを加えて冷やし固めたデザート。バニラ風味が基本で、型から外して皿に盛り、ベリーソースやカラメルソース・ハチミツを添えることが多い。",
+    "summary": "ゼラチンで固めた甘い生クリームのイタリア・ピエモンテ州系デザート。名前は「調理した生クリーム」を意味し、卵で固めるカスタードとは違うぷるんとした食感が特徴。ベリーソースやカラメルソースを添えて提供される。",
+    "menuDescription": "生クリームと牛乳に砂糖・ゼラチンを加えて冷やし固めたデザート。バニラ風味が基本で、型から外して皿に盛り、ベリーソースやカラメルソース・ハチミツを添えることが多い。",
     "whatComesOut": [
       "皿に盛られた白い滑らかなプリン状のデザート",
       "フルーツソースまたはカラメルソース添え",
@@ -8577,7 +8684,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Panna_cotta",
-      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%83%8A%E3%83%BB%E3%82%B3%E3%83%83%E3%82%BF"
+      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%83%8A%E3%83%BB%E3%82%B3%E3%83%83%E3%82%BF",
+      "https://www.lacucinaitaliana.com/italian-food/how-to-cook/how-to-make-classic-panna-cotta"
     ]
   },
   {
@@ -8651,7 +8759,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Baklava",
-      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AF%E3%83%A9%E3%83%B4%E3%82%A1"
+      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AF%E3%83%A9%E3%83%B4%E3%82%A1",
+      "https://www.britannica.com/topic/baklava"
     ]
   },
   {
@@ -8728,7 +8837,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pad_thai",
-      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%83%E3%82%BF%E3%82%A4"
+      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%83%E3%82%BF%E3%82%A4",
+      "https://www.smithsonianmag.com/arts-culture/the-surprising-history-of-pad-thai-180984625/"
     ]
   },
   {
@@ -8750,7 +8860,7 @@
       }
     ],
     "summary": "ココナッツミルクベースのカリーラクサとタマリンドベースのアッサムラクサの2大スタイルがある、東南アジアを代表するスパイシーなスープ麺。マレーシアとシンガポールで広く愛され、プラナカン文化の影響を色濃く受けた料理。",
-    "menuDescription": "レモングラス・チリ・海老ペーストなどのスパイスを合わせたピリ辛ブロスにライスヌードルまたはビーフンを入れ、海老・豆腐・ゆで卵・もやし・コクム（ラクサリーフ）をトッピングした麺料理。ヤシミルクの濃厚なカリーラクサが最もよく知られる。",
+    "menuDescription": "レモングラス・チリ・海老ペーストなどのスパイスを合わせたピリ辛ブロスに米麺を入れ、海老・豆腐・ゆで卵・もやし・ラクサリーフなどを合わせる麺料理。ココナッツミルクの濃厚なカリーラクサと、酸味のあるアッサムラクサが代表的。",
     "whatComesOut": [
       "深いボウルに入った濃厚オレンジ色のスープ",
       "ライスヌードルまたはビーフン",
@@ -8811,7 +8921,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Laksa",
-      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%B5"
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%B5",
+      "https://www.visitsingapore.com/dining-drinks-singapore/local-dishes/laksa/"
     ]
   },
   {
@@ -8905,7 +9016,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Dal",
-      "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%AB"
+      "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%AB",
+      "https://www.bonappetit.com/story/what-is-dal"
     ]
   },
   {
@@ -9012,7 +9124,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Gravlax",
-      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9"
+      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9",
+      "https://www.britannica.com/topic/gravlax"
     ]
   },
   {
@@ -9107,7 +9220,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pierogi",
-      "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%A8%E3%83%AD%E3%82%AE"
+      "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%A8%E3%83%AD%E3%82%AE",
+      "https://www.britannica.com/topic/pierogi"
     ]
   },
   {
@@ -9193,7 +9307,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Ceviche",
-      "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%93%E3%83%81%E3%82%A7"
+      "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%93%E3%83%81%E3%82%A7",
+      "https://www.britannica.com/topic/ceviche"
     ]
   },
   {
@@ -9265,7 +9380,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Guacamole",
-      "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%AB%E3%83%A2%E3%83%AC"
+      "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%AB%E3%83%A2%E3%83%AC",
+      "https://www.britannica.com/topic/guacamole"
     ]
   },
   {
@@ -9343,7 +9459,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Schnitzel",
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%8B%E3%83%83%E3%83%84%E3%82%A7%E3%83%AB"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%8B%E3%83%83%E3%83%84%E3%82%A7%E3%83%AB",
+      "https://www.britannica.com/topic/Wiener-schnitzel"
     ]
   },
   {
@@ -9415,7 +9532,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Raclette",
-      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88"
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88",
+      "https://www.cheese.com/raclette/"
     ]
   },
   {
@@ -9489,7 +9607,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Fondue",
-      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%B3%E3%83%87%E3%83%A5"
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%B3%E3%83%87%E3%83%A5",
+      "https://www.britannica.com/topic/fondue"
     ]
   },
   {
@@ -9625,7 +9744,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pot-au-feu",
-      "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%88%E3%83%95"
+      "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%88%E3%83%95",
+      "https://www.britannica.com/topic/pot-au-feu"
     ]
   },
   {
@@ -9701,7 +9821,8 @@
       "/images/dishes/garlic_shrimp/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Garlic_shrimp"
+      "https://en.wikipedia.org/wiki/Garlic_shrimp",
+      "https://www.hawaiimagazine.com/how-to-make-hawaii-style-garlic-shrimp/"
     ]
   },
   {
@@ -9773,7 +9894,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Nanbanzuke",
-      "https://ja.wikipedia.org/wiki/%E5%8D%97%E8%9B%AE%E6%BC%AC%E3%81%91"
+      "https://ja.wikipedia.org/wiki/%E5%8D%97%E8%9B%AE%E6%BC%AC%E3%81%91",
+      "https://www.justonecookbook.com/salmon-nanbanzuke/"
     ]
   },
   {
@@ -9851,7 +9973,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tempura",
-      "https://ja.wikipedia.org/wiki/%E5%A4%A9%E3%81%B7%E3%82%89"
+      "https://ja.wikipedia.org/wiki/%E5%A4%A9%E3%81%B7%E3%82%89",
+      "https://www.epicurious.com/expert-advice/how-tempura-evolved-from-a-portuguese-staple-to-a-japanese-art-article"
     ]
   },
   {
@@ -9922,7 +10045,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Fritter",
-      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%83%E3%82%BF%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%83%E3%82%BF%E3%83%BC",
+      "https://www.britannica.com/topic/fritter"
     ]
   },
   {
@@ -9991,7 +10115,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/En_papillote",
-      "https://ja.wikipedia.org/wiki/%E7%B4%99%E5%8C%85%E3%81%BF%E7%84%BC%E3%81%8D"
+      "https://ja.wikipedia.org/wiki/%E7%B4%99%E5%8C%85%E3%81%BF%E7%84%BC%E3%81%8D",
+      "https://www.larousse.fr/dictionnaires/francais/papillote/57784"
     ]
   },
   {
@@ -10008,7 +10133,7 @@
         "area": "地中海"
       }
     ],
-    "summary": "地中海東部・南アジア原産のアブラナ科野菜で、約2500年前に品種改良された。キプロス経由のシード取引を経てイタリアには1490年ごろに伝わり、インドには1822年に英国人が持ち込んだ。食べる部分は「カード」と呼ばれる花蕾の集合体で、ビタミンCが豊富。近年は低糖質代替食材としても注目される。",
+    "summary": "地中海方面で発達したアブラナ科野菜。食べる部分は「カード」と呼ばれる未発達の花蕾の集合体で、ビタミンCが豊富。白色が一般的だが、紫・オレンジ・ロマネスコ型などもあり、近年は低糖質代替食材としても使われる。",
     "menuDescription": "白い花蕾が特徴のアブラナ科野菜。ロースト・スープ・ピュレ・生食など幅広い調理法に対応し、近年は米やピザ生地代わりにも使われる。",
     "whatComesOut": [
       "白い花蕾の塊",
@@ -10061,7 +10186,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Cauliflower",
-      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC",
+      "https://www.britannica.com/plant/cauliflower"
     ]
   },
   {
@@ -10078,8 +10204,8 @@
         "country": "中国"
       }
     ],
-    "summary": "中央アジア原産の大根の一品種で、「スイカ大根」とも呼ばれる中国の固定種。外皮はくすんだ緑白色だが、断面は鮮やかな赤〜ピンク色で視覚的インパクトが強い。甘みが強く辛みは少ないため、薄切りにしてサラダや飾り切りに使われるほか、酢漬けにすることで色がより鮮明になる。",
-    "menuDescription": "外は白いが断面が鮮やかな赤〜ピンク色の大根。甘みがあり辛みが少ないため、薄切りサラダや漬物・飾り切りに使われる。",
+    "summary": "赤〜ピンク色の果肉を持つ大根系の根菜。スイカ大根とも呼ばれ、外皮は淡い緑白色、断面は鮮やかな赤色になる。甘みがあり辛みは比較的穏やかで、薄切りサラダや漬物・飾り切りに向く。酢に漬けると色がより鮮明になる。",
+    "menuDescription": "外は淡い色で断面が鮮やかな赤〜ピンク色の大根。甘みがあり辛みは少なめで、薄切りサラダや漬物・飾り切りに使われる。",
     "whatComesOut": [
       "薄切りまたは千切りの赤紫色の野菜",
       "サラダ・前菜・付け合わせとして",
@@ -10134,7 +10260,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Daikon",
-      "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%B3%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%B3%E3%83%B3",
+      "https://specialtyproduce.com/produce/Watermelon_Radish_479.php"
     ]
   },
   {
@@ -10207,7 +10334,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Celery",
-      "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AD%E3%83%AA"
+      "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AD%E3%83%AA",
+      "https://www.britannica.com/plant/celery"
     ]
   },
   {
@@ -10273,7 +10401,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Onion",
-      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%8D%E3%82%AE"
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%8D%E3%82%AE",
+      "https://www.britannica.com/plant/onion-plant"
     ]
   },
   {
@@ -10356,7 +10485,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Spinach",
-      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%A6%E3%83%AC%E3%83%B3%E3%82%BD%E3%82%A6"
+      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%A6%E3%83%AC%E3%83%B3%E3%82%BD%E3%82%A6",
+      "https://www.britannica.com/plant/spinach"
     ],
     "caution": "シュウ酸を多く含み、カルシウムや鉄の吸収を妨げることがある。ワルファリン（抗血液凝固剤）を服用中の方はビタミンK含有量が高いため摂取量に注意。"
   },
@@ -10448,7 +10578,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mushroom",
-      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0"
+      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0",
+      "https://www.britannica.com/science/mushroom"
     ]
   },
   {
@@ -10509,7 +10640,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Cucumber",
-      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%82%A6%E3%83%AA"
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%82%A6%E3%83%AA",
+      "https://www.britannica.com/plant/cucumber"
     ]
   },
   {
@@ -10575,7 +10707,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Daikon",
-      "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%B3%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%B3%E3%83%B3",
+      "https://www.specialtyproduce.com/produce/Daikon_Radish_425.php"
     ]
   },
   {
@@ -10646,7 +10779,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Roquefort",
-      "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB"
+      "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB",
+      "https://www.roquefort.fr/en/"
     ]
   },
   {
@@ -10732,7 +10866,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mayonnaise",
-      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA"
+      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA",
+      "https://www.britannica.com/topic/mayonnaise"
     ]
   },
   {
@@ -10741,7 +10876,7 @@
     "kana": "すりらちゃ",
     "englishName": "Sriracha",
     "originalName": "Sriracha",
-    "category": "香辛料",
+    "category": "ソース",
     "regions": [
       {
         "country": "タイ"
@@ -10750,8 +10885,8 @@
         "country": "アメリカ"
       }
     ],
-    "summary": "1932年にタイのシーラーチャー出身の女性が作り始めた赤唐辛子のホットソース。唐辛子・蒸留酢・漬けにんにく・砂糖・塩が原材料。辛みと甘みと酸みのバランスが特徴で、アメリカではハイフォンフーズの製品（ロースターソース）が有名。",
-    "menuDescription": "赤いとろみのある辛みソース。料理にかけるテーブルソースとして提供されることが多い。タイでは海産物や卵料理のディップとして、ベトナムではフォーのトッピングとして定番。",
+    "summary": "タイのシーラーチャー由来の赤唐辛子ホットソース。唐辛子・酢・にんにく・砂糖・塩をベースにし、辛み・甘み・酸味のバランスが特徴。アメリカではハイフォンフーズの鶏ロゴ入りボトルが有名。",
+    "menuDescription": "赤いとろみのある辛みソース。料理にかけるテーブルソースとして提供されることが多い。タイでは海産物や卵料理のディップとして、ベトナム系料理ではフォーのトッピングとしても使われる。",
     "whatComesOut": [
       "赤いとろみソース（ボトルまたは小皿で）"
     ],
@@ -10804,7 +10939,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Sriracha",
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9",
+      "https://www.britannica.com/topic/sriracha"
     ]
   },
   {
@@ -10893,7 +11029,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tzatziki",
-      "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%B8%E3%82%AD"
+      "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%B8%E3%82%AD",
+      "https://www.britannica.com/topic/tzatziki"
     ]
   },
   {
@@ -10977,7 +11114,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Confiture",
-      "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%A0"
+      "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%A0",
+      "https://www.larousse.fr/dictionnaires/francais/confiture/18142"
     ]
   },
   {
@@ -10993,7 +11131,7 @@
         "locality": "ボローニャ"
       }
     ],
-    "summary": "イタリア・エミリア＝ロマーニャ州ボローニャ発祥のミートソース。挽き肉を玉ねぎ・セロリ・にんじんのソフリットと白ワイン・牛乳・少量のトマトで長時間煮込む。本場ではスパゲッティではなくタリアテッレに合わせる。",
+    "summary": "イタリア・エミリア＝ロマーニャ州ボローニャ発祥のラグー。挽き肉を玉ねぎ・セロリ・にんじんのソフリットとワイン・牛乳・少量のトマトで長時間煮込む。本場ではスパゲッティではなくタリアテッレに合わせるのが定番。",
     "menuDescription": "挽き肉（牛・子牛・豚）と野菜のソフリットをベースに、白ワインと牛乳でコクを出した本格ミートソース。タリアテッレやフェットゥチーネに絡めて提供されることが多い。イタリアではスパゲッティとの組み合わせは本来の食べ方ではない。",
     "whatComesOut": [
       "パスタ（タリアテッレ・フェットゥチーネなど平麺）",
@@ -11070,7 +11208,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bolognese_sauce",
-      "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AD%E3%83%8D%E3%83%BC%E3%82%BC"
+      "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AD%E3%83%8D%E3%83%BC%E3%82%BC",
+      "https://www.accademiaitalianadellacucina.it/en/ricette/ricetta/ragu-alla-bolognese"
     ]
   },
   {
@@ -11167,7 +11306,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pilaf",
-      "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%A9%E3%83%95"
+      "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%A9%E3%83%95",
+      "https://www.britannica.com/topic/pilaf"
     ]
   },
   {
@@ -11239,7 +11379,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bulgur",
-      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%B0%E3%83%AB"
+      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%B0%E3%83%AB",
+      "https://www.britannica.com/topic/bulgur"
     ]
   },
   {
@@ -11304,7 +11445,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Croque_monsieur",
-      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%80%E3%83%A0"
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%80%E3%83%A0",
+      "https://www.tasteatlas.com/croque-madame"
     ]
   },
   {
@@ -11375,7 +11517,8 @@
       "/images/dishes/kataifi/3.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%82%A4%E3%83%95"
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%82%A4%E3%83%95",
+      "https://www.tasteatlas.com/kataifi"
     ]
   },
   {
@@ -11460,7 +11603,8 @@
       "/images/dishes/smoked_salmon/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Smoked_salmon"
+      "https://en.wikipedia.org/wiki/Smoked_salmon",
+      "https://www.britannica.com/topic/smoked-salmon"
     ],
     "caution": "塩分含有量が非常に高い（85gあたり約660mgのナトリウム）。塩分を制限している方は注意。また、コールドスモークは完全には加熱されていないため、免疫力が低い方や妊娠中の方は医師に相談を。"
   },
@@ -11559,7 +11703,8 @@
       "/images/dishes/pelmeni/3.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AA%E3%83%A1%E3%83%8B"
+      "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AA%E3%83%A1%E3%83%8B",
+      "https://www.britannica.com/topic/pelmeni"
     ]
   },
   {
@@ -11635,13 +11780,14 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tonkatsu",
-      "https://ja.wikipedia.org/wiki/%E8%B1%9A%E3%82%AB%E3%83%84"
+      "https://ja.wikipedia.org/wiki/%E8%B1%9A%E3%82%AB%E3%83%84",
+      "https://www.justonecookbook.com/tonkatsu/"
     ]
   },
   {
     "id": "beef-bourguignon",
-    "name": "ビーフバーガニョン",
-    "kana": "びーふばーがにょん",
+    "name": "ブッフ・ブルギニョン",
+    "kana": "ぶっふぶるぎにょん",
     "aliases": [
       "ブフ・ブルギニョン",
       "ビーフブルゴーニュ"
@@ -11655,8 +11801,8 @@
         "locality": "ブルゴーニュ"
       }
     ],
-    "summary": "牛肉を赤ワイン（ブルゴーニュワイン）でじっくり煮込んだフランスの郷土料理。マッシュルームとパールオニオンを加えた濃厚な煮込み。",
-    "menuDescription": "牛肉の塊をブルゴーニュの赤ワイン・ブイヨンで長時間煮込み、マッシュルーム・パールオニオン・ラルドン（拍子切りベーコン）を加えた料理。とろりとした赤ワインのソースが特徴。",
+    "summary": "牛肉を赤ワイン（ブルゴーニュワイン）でじっくり煮込んだフランス・ブルゴーニュ地方の料理。マッシュルーム、パールオニオン、ラルドンを加えた濃厚な煮込み。",
+    "menuDescription": "牛肉の塊を赤ワイン・ブイヨンで長時間煮込み、マッシュルーム・パールオニオン・ラルドンを加えた料理。とろりとした赤ワインのソースが特徴。",
     "whatComesOut": [
       "やわらかく煮込まれた牛肉の塊",
       "マッシュルームとパールオニオン",
@@ -11751,7 +11897,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Beef_bourguignon",
-      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%95%E3%83%BB%E3%83%96%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%A7%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%95%E3%83%BB%E3%83%96%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%A7%E3%83%B3",
+      "https://www.bbcgoodfood.com/recipes/beef-bourguignon"
     ]
   },
   {
@@ -11842,7 +11989,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Acqua_pazza_%28food%29",
-      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%91%E3%83%83%E3%83%84%E3%82%A1"
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%91%E3%83%83%E3%83%84%E3%82%A1",
+      "https://www.lacucinaitaliana.com/italian-food/how-to-cook/acqua-pazza-fish-recipe"
     ]
   },
   {
@@ -11931,7 +12079,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Scamorza",
-      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%83%A2%E3%83%AB%E3%83%84%E3%82%A1"
+      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%83%A2%E3%83%AB%E3%83%84%E3%82%A1",
+      "https://www.thespruceeats.com/what-is-scamorza-cheese-5085854"
     ]
   },
   {
@@ -12003,7 +12152,8 @@
       "/images/dishes/ballotine/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Ballotine"
+      "https://en.wikipedia.org/wiki/Ballotine",
+      "https://www.greatbritishchefs.com/how-to-cook/how-to-make-a-ballotine"
     ]
   },
   {
@@ -12018,8 +12168,8 @@
         "country": "フランス"
       }
     ],
-    "summary": "ロースト中の肉や魚に溶け出した肉汁や油脂を繰り返しかけるフランス料理の調理技法。旨みを閉じ込め乾燥を防ぎ、表面に艶と深みを与える。",
-    "menuDescription": "加熱中の食材にスプーンで肉汁・バター・ソースを何度もかける技法。フランス料理の基本で、ポワレやロティなどの仕上げに欠かせない。",
+    "summary": "加熱中の肉や魚に、溶け出した肉汁・油脂・バターを繰り返しかけるフランス料理の調理技法。乾燥を防ぎ、表面に艶と香ばしさを与える。",
+    "menuDescription": "加熱中の食材にスプーンで肉汁・バター・ソースを何度もかける技法。ポワレやロティの仕上げに使われ、火入れと風味づけを助ける。",
     "whatComesOut": [
       "艶やかで焼き色のついた肉や魚の料理",
       "しっとりジューシーな仕上がり",
@@ -12030,7 +12180,7 @@
       "表面に艶と風味が重なった深い味わい",
       "バターや肉汁の香ばしさ"
     ],
-    "orderAdvice": "メニューにこの言葉がついた料理は丁寧な仕上げが施されている証し。技法名を覚えるとフランス料理の理解が深まる。",
+    "orderAdvice": "メニューにこの言葉があれば、丁寧に火入れした料理のサイン。技法名として覚えるとフランス料理が読みやすい。",
     "similarItems": [
       {
         "id": "confit",
@@ -12074,8 +12224,7 @@
       "/images/dishes/aroser/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Basters",
-      "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%88%E3%83%81%E3%82%AD%E3%83%B3"
+      "https://www.larousse.fr/dictionnaires/francais/arroser"
     ]
   },
   {
@@ -12167,7 +12316,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Cacciatore",
-      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%81%E3%83%A3%E3%83%88%E3%83%BC%E3%83%A9"
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%81%E3%83%A3%E3%83%88%E3%83%BC%E3%83%A9",
+      "https://www.lacucinaitaliana.com/italian-food/italian-dishes/chicken-cacciatore-authentic-italian-recipe"
     ]
   },
   {
@@ -12249,7 +12399,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Peking_duck",
-      "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E3%83%80%E3%83%83%E3%82%AF"
+      "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E3%83%80%E3%83%83%E3%82%AF",
+      "https://www.britannica.com/topic/Peking-duck"
     ]
   },
   {
@@ -12268,8 +12419,8 @@
         "country": "中国"
       }
     ],
-    "summary": "酸辣湯麺は日本発祥のアレンジ料理。1970年に東京・赤坂の中華料理店「榮林」が賄い料理だった酸辣湯に麺を加えてメニュー化したのが始まり。中国本土では酸辣湯に麺を入れる習慣がなく、日本で独自に発展した。1995年ごろにはランチの約8割がこの料理という看板メニューとなり、カップ麺にもなった。",
-    "menuDescription": "黒酢の酸味と白胡椒・唐辛子の辛みが特徴のとろみスープに麺を加えた料理。豆腐・木耳・たけのこ・卵などが入る日本発祥の中華麺。",
+    "summary": "酸辣湯麺は酸辣湯に麺を加えた日本で広まった中華麺。黒酢などの酸味と白胡椒・唐辛子の辛み、とろみのあるスープが特徴。豆腐・木耳・たけのこ・卵などが入り、酸味と辛みで体が温まる。",
+    "menuDescription": "黒酢の酸味と白胡椒・唐辛子の辛みが特徴のとろみスープに麺を加えた料理。豆腐・木耳・たけのこ・卵などが入る中華麺。",
     "whatComesOut": [
       "とろみのある酸辣スープに麺が入った一杯",
       "豆腐・卵・きのこ・たけのこなどの具材",
@@ -12334,12 +12485,13 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Hot_and_sour_soup",
-      "https://ja.wikipedia.org/wiki/%E9%85%B8%E8%BE%A3%E6%B9%AF"
+      "https://ja.wikipedia.org/wiki/%E9%85%B8%E8%BE%A3%E6%B9%AF",
+      "https://www.seriouseats.com/suan-la-tang-hot-and-sour-soup-recipe"
     ]
   },
   {
     "id": "mozuku",
-    "name": "莫久来",
+    "name": "もずく",
     "kana": "もずく",
     "aliases": [
       "もずく",
@@ -12347,7 +12499,7 @@
       "オキナワモズク"
     ],
     "englishName": "Mozuku Seaweed",
-    "originalName": "莫久来 (もずく)",
+    "originalName": "もずく",
     "category": "食材",
     "regions": [
       {
@@ -12355,8 +12507,8 @@
         "locality": "沖縄"
       }
     ],
-    "summary": "沖縄原産の海藻で、ぬめりのある細い糸状が特徴。三杯酢で和えた「もずく酢」として食べることが多く、ぬめり成分フコイダンが豊富。",
-    "menuDescription": "沖縄産のもずく海藻を三杯酢（醤油・酢・みりん）で和えた料理。そのままでも天ぷらや味噌汁の具材としても使われる。",
+    "summary": "沖縄を中心に食べられる褐藻類の海藻で、ぬめりのある細い糸状が特徴。三杯酢で和えた「もずく酢」として食べることが多く、沖縄産のオキナワモズクは養殖も盛ん。ぬめり成分としてフコイダンを含む。",
+    "menuDescription": "沖縄産などのもずく海藻を三杯酢（醤油・酢・みりん）で和えた料理。そのままでも天ぷらや味噌汁の具材としても使われる。",
     "whatComesOut": [
       "黒褐色のぬるぬるした細い海藻",
       "酢醤油で和えたさっぱりした前菜として",
@@ -12367,7 +12519,7 @@
       "三杯酢のさっぱりとした酸み",
       "磯の風味と海藻特有の旨み"
     ],
-    "orderAdvice": "沖縄料理の定番前菜。さっぱりしているため箸休めや食前に最適。フコイダン豊富でヘルシー。",
+    "orderAdvice": "沖縄料理の定番前菜。さっぱりしているため箸休めや食前に向く。健康効果は過度に期待せず、海藻の食感と酸味を楽しむ。",
     "similarItems": [
       {
         "id": "ika-ninjin",
@@ -12401,7 +12553,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mozuku",
-      "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%BA%E3%82%AF"
+      "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%BA%E3%82%AF",
+      "https://www.oist.jp/news-center/news/2019/3/14/scientists-crack-genome-superfood-seaweed-ito-mozuku"
     ]
   },
   {
@@ -12490,7 +12643,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/San-nakji",
-      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%8A%E3%82%AF%E3%83%81"
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%8A%E3%82%AF%E3%83%81",
+      "https://www.atlasobscura.com/foods/sannakji-live-octopus-korea"
     ]
   },
   {
@@ -12571,7 +12725,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Fermented_bean_curd",
-      "https://ja.wikipedia.org/wiki/%E8%B1%86%E8%85%90%E3%82%88%E3%81%86"
+      "https://ja.wikipedia.org/wiki/%E8%B1%86%E8%85%90%E3%82%88%E3%81%86",
+      "https://www.okinawastory.jp/about/know/cuisine/tofuyo"
     ]
   },
   {
@@ -12679,7 +12834,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Vichyssoise",
-      "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%82%B7%E3%82%BD%E3%83%AF%E3%83%BC%E3%82%BA"
+      "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%82%B7%E3%82%BD%E3%83%AF%E3%83%BC%E3%82%BA",
+      "https://www.britannica.com/topic/vichyssoise"
     ]
   },
   {
@@ -12773,7 +12929,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Fricassee",
-      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%82%AB%E3%83%83%E3%82%BB"
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%82%AB%E3%83%83%E3%82%BB",
+      "https://www.britannica.com/topic/fricassee"
     ]
   },
   {
@@ -12861,7 +13018,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Spaghetti_aglio_e_olio",
-      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%AA%E3%82%AA%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%AA%E3%82%AA%E3%83%BB%E3%82%A8%E3%83%BB%E3%83%9A%E3%83%9A%E3%83%AD%E3%83%B3%E3%83%81%E3%83%BC%E3%83%8E"
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%AA%E3%82%AA%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%AA%E3%82%AA%E3%83%BB%E3%82%A8%E3%83%BB%E3%83%9A%E3%83%9A%E3%83%AD%E3%83%B3%E3%83%81%E3%83%BC%E3%83%8E",
+      "https://www.lacucinaitaliana.com/italian-food/how-to-cook/spaghetti-aglio-olio-e-peperoncino-dorotea-mercuri-video-recipe"
     ]
   },
   {
@@ -12885,8 +13043,8 @@
         "locality": "ブルターニュ"
       }
     ],
-    "summary": "ヨーロッパ沿岸から地中海に生息するヨーロッパオマール（Homarus gammarus）。生きているときは鮮やかな青色で加熱すると赤くなる。アメリカンロブスターの最大3倍の価格がつくほど風味が優れ、身は繊細で甘みが強い。フランス料理で最高級の甲殻類食材とされる。",
-    "menuDescription": "ブルターニュ沖産の青いロブスター。加熱すると鮮やかな赤に変わる。アメリカンロブスターより繊細で甘みが強く、フランス料理の最高級食材。",
+    "summary": "ヨーロッパ沿岸から地中海に生息するヨーロッパオマール（Homarus gammarus）。生きているときは青みのある殻で、加熱すると赤くなる。アメリカンロブスターより繊細な身質と甘みで、フランス料理の高級甲殻類食材とされる。",
+    "menuDescription": "ブルターニュ沖などで獲れる青みのあるヨーロッパロブスター。加熱すると鮮やかな赤に変わる。身は繊細で甘みが強く、ロースト・ポシェ・ソースアメリケーヌなどで供される。",
     "whatComesOut": [
       "半身または丸ごとのロブスター",
       "バターソースやコライユ（味噌）を使ったソース",
@@ -12949,7 +13107,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Homarus_gammarus",
-      "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%82%A4%E3%82%BB%E3%82%A8%E3%83%93"
+      "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%82%A4%E3%82%BB%E3%82%A8%E3%83%93",
+      "https://www.britannica.com/animal/European-lobster"
     ]
   },
   {
@@ -12969,8 +13128,8 @@
         "locality": "リヨン"
       }
     ],
-    "summary": "牛肉を塩とハーブで数日漬け込んでから茹でたフランスの伝統料理。リヨンのブション文化を代表する素朴な一品で、マスタードや野菜とともに食べる。",
-    "menuDescription": "塩・ニンニク・タイム・ローリエで漬け込んだ牛肉をじっくり茹でた料理。ポトフに似るが塩味が豊かで香草の風味が強い。レンズ豆やコルニションを添えて提供。",
+    "summary": "牛肉を塩漬けにしてから茹でる、フランスの素朴な塩蔵肉料理。豆やレンズ豆、根菜、マスタード、コルニションなどと合わせる。ポトフに近いが、肉自体に塩漬け由来の旨みがある。",
+    "menuDescription": "塩漬けにした牛肉をじっくり茹で、レンズ豆や野菜、コルニション、マスタードとともに提供する料理。塩味と香草の風味が肉に入り、シンプルだが食べ応えがある。",
     "whatComesOut": [
       "薄切りまたは塊の塩漬け牛肉",
       "レンズ豆やじゃがいものガルニチュール",
@@ -13031,7 +13190,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Salt-cured_meat",
-      "https://ja.wikipedia.org/wiki/%E5%A1%A9%E8%94%B5%E8%82%89"
+      "https://ja.wikipedia.org/wiki/%E5%A1%A9%E8%94%B5%E8%82%89",
+      "https://www.larousse.fr/dictionnaires/francais/sal%C3%A9/70655"
     ]
   },
   {
@@ -13050,7 +13210,7 @@
         "country": "フランス"
       }
     ],
-    "summary": "仔牛の胸腺（thymus）を使ったフランス料理の高級食材。クリームソースやキノコと合わせてソテーまたはブレゼで調理される珍味。英語では「スイートブレッド」と呼ばれる。",
+    "summary": "仔牛の胸腺を使うフランス料理の高級内臓食材。下処理してからソテー、ブレゼ、クリームソース、モリーユ茸などと合わせる。英語ではスイートブレッドと呼ばれる。",
     "menuDescription": "仔牛の胸腺を下処理後にポシェしてから、バターでこんがりソテーした料理。クリームソース・トリュフ・モリーユ茸と合わせる贅沢な一皿。",
     "whatComesOut": [
       "外がカリッと中がクリーミーな白い塊",
@@ -13114,7 +13274,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Sweetbread",
-      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%96%E3%83%AC%E3%83%83%E3%83%89"
+      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%96%E3%83%AC%E3%83%83%E3%83%89",
+      "https://www.larousse.fr/encyclopedie/divers/ris_de_veau/186611"
     ]
   },
   {
@@ -13127,7 +13288,7 @@
     ],
     "englishName": "Lentils",
     "originalName": "Lentilles",
-    "category": "野菜",
+    "category": "食材",
     "regions": [
       {
         "country": "フランス",
@@ -13140,8 +13301,8 @@
         "country": "インド"
       }
     ],
-    "summary": "煮崩れしにくく食物繊維・鉄分が豊富な豆。フランスではピュイ産の緑レンズ豆が有名で、ブッフサレやソーセージの付け合わせとして定番。",
-    "menuDescription": "フランス料理ではブレゼした肉の付け合わせとして、または単独でビネグレットを和えたサラダ仕立てで提供。中東・インドではスパイス煮込みでも使われる。",
+    "summary": "レンズ形の小さな豆で、食物繊維・鉄分・たんぱく質を含む食材。フランスではピュイ産の緑レンズ豆が有名で、ブッフサレやソーセージの付け合わせ、サラダ、煮込みに使われる。",
+    "menuDescription": "フランス料理ではブレゼした肉の付け合わせ、またはヴィネグレットで和えたサラダ仕立てで提供。中東・インドではスパイス煮込みにも使われる。",
     "whatComesOut": [
       "ほくほくと煮えた茶・緑・黒などのレンズ豆",
       "肉料理の付け合わせとして",
@@ -13202,7 +13363,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Lentil",
-      "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%A1"
+      "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%A1",
+      "https://www.britannica.com/plant/lentil"
     ]
   },
   {
@@ -13305,7 +13467,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Sauce_am%C3%A9ricaine",
-      "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%8C"
+      "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%8C",
+      "https://www.larousse.fr/dictionnaires/francais/am%C3%A9ricaine/2841"
     ]
   },
   {
@@ -13392,7 +13555,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Filet_mignon",
-      "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%AC"
+      "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%AC",
+      "https://www.britannica.com/topic/filet-mignon"
     ]
   },
   {
@@ -13485,7 +13649,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Steak_tartare",
-      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AB%E3%82%BF%E3%83%AB"
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AB%E3%82%BF%E3%83%AB",
+      "https://www.britannica.com/topic/steak-tartare"
     ]
   },
   {
@@ -13574,7 +13739,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bruschetta",
-      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%B9%E3%82%B1%E3%83%83%E3%82%BF"
+      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%B9%E3%82%B1%E3%83%83%E3%82%BF",
+      "https://www.britannica.com/topic/bruschetta"
     ]
   },
   {
@@ -13662,7 +13828,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Spanish_omelette",
-      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B8%E3%83%A3"
+      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B8%E3%83%A3",
+      "https://www.britannica.com/topic/tortilla-Egg-dish"
     ]
   },
   {
@@ -13743,7 +13910,8 @@
       "/images/dishes/jingisukan/2.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Jingisukan"
+      "https://en.wikipedia.org/wiki/Jingisukan",
+      "https://www.japan.travel/en/spot/1921/"
     ]
   },
   {
@@ -13829,7 +13997,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Hot_and_sour_soup",
-      "https://ja.wikipedia.org/wiki/%E9%85%B8%E8%BE%A3%E6%B9%AF"
+      "https://ja.wikipedia.org/wiki/%E9%85%B8%E8%BE%A3%E6%B9%AF",
+      "https://www.seriouseats.com/hot-and-sour-soup-food-lab"
     ],
     "caution": "とろみ付けに片栗粉（でんぷん）を使用。卵・豚肉・きのこを含む場合が多い。アレルギーがある方は具材を確認のこと。"
   },
@@ -13905,7 +14074,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mantou",
-      "https://ja.wikipedia.org/wiki/%E9%A5%85%E9%A0%AD"
+      "https://ja.wikipedia.org/wiki/%E9%A5%85%E9%A0%AD",
+      "https://thewoksoflife.com/chinese-steamed-buns-mantou/"
     ]
   },
   {
@@ -14003,7 +14173,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Baozi",
-      "https://ja.wikipedia.org/wiki/%E5%8C%85%E5%AD%90"
+      "https://ja.wikipedia.org/wiki/%E5%8C%85%E5%AD%90",
+      "https://thewoksoflife.com/steamed-bbq-pork-buns-char-siu-bao/"
     ]
   },
   {
@@ -14083,7 +14254,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Xingren_doufu",
-      "https://ja.wikipedia.org/wiki/%E6%9D%8F%E4%BB%81%E8%B1%86%E8%85%90"
+      "https://ja.wikipedia.org/wiki/%E6%9D%8F%E4%BB%81%E8%B1%86%E8%85%90",
+      "https://thewoksoflife.com/almond-jelly/"
     ],
     "caution": "牛乳・ゼラチン（動物性）を使用することがある。乳製品アレルギーの方は確認を。杏仁の独特な香り（ベンズアルデヒド）が苦手な方もいる。"
   },
@@ -14169,7 +14341,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Fish-fragrant_eggplant",
-      "https://ja.wikipedia.org/wiki/%E9%AD%9A%E9%A6%99%E8%82%89%E7%B5%B2"
+      "https://ja.wikipedia.org/wiki/%E9%AD%9A%E9%A6%99%E8%82%89%E7%B5%B2",
+      "https://thewoksoflife.com/yu-xiang-rou-si-sichuan-shredded-pork/"
     ],
     "caution": "豆板醤を使用するため辛さあり。豚肉・きのこ（木耳）アレルギーの方は確認を。"
   },
@@ -14247,7 +14420,8 @@
       "/images/dishes/da-qian-gan-shao-yu/1.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Sichuan_cuisine"
+      "https://en.wikipedia.org/wiki/Sichuan_cuisine",
+      "https://www.chinasichuanfood.com/dry-braised-fish/"
     ]
   },
   {
@@ -14331,7 +14505,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Kung_Pao_chicken",
-      "https://ja.wikipedia.org/wiki/%E5%AE%AE%E4%BF%9D%E9%B6%8F%E4%B8%81"
+      "https://ja.wikipedia.org/wiki/%E5%AE%AE%E4%BF%9D%E9%B6%8F%E4%B8%81",
+      "https://www.seriouseats.com/gong-bao-ji-ding-sichuan-kung-pow-chicken-recipe"
     ]
   },
   {
@@ -14413,7 +14588,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Fuqi_feipian",
-      "https://ja.wikipedia.org/wiki/%E5%A4%AB%E5%A6%BB%E8%82%BA%E7%89%87"
+      "https://ja.wikipedia.org/wiki/%E5%A4%AB%E5%A6%BB%E8%82%BA%E7%89%87",
+      "https://www.chinasichuanfood.com/fu-qi-fei-pian/"
     ]
   },
   {
@@ -14479,7 +14655,8 @@
       "/images/dishes/ji-dou-hua/1.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Sichuan_cuisine"
+      "https://en.wikipedia.org/wiki/Sichuan_cuisine",
+      "https://guide.michelin.com/en/article/dining-in/chengdu-sichuan-chicken-tofu-soup-ji-dou-hua"
     ],
     "caution": "鶏肉・卵白を使用。鶏肉・卵アレルギーの方は不可。高級料理のため提供している店舗は限られる。"
   },
@@ -14551,7 +14728,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Sichuan_cuisine",
-      "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%B7%9D%E6%96%99%E7%90%86"
+      "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%B7%9D%E6%96%99%E7%90%86",
+      "https://guide.michelin.com/en/article/dining-in/sichuan-cuisine-boiled-cabbage-clear-soup"
     ]
   },
   {
@@ -14645,7 +14823,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Twice-cooked_pork",
-      "https://ja.wikipedia.org/wiki/%E5%9B%9E%E9%8D%8B%E8%82%89"
+      "https://ja.wikipedia.org/wiki/%E5%9B%9E%E9%8D%8B%E8%82%89",
+      "https://www.chinasichuanfood.com/twice-cooked-pork-recipe/"
     ]
   },
   {
@@ -14726,7 +14905,8 @@
       "/images/dishes/gan-shao-xia-ren/1.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Sichuan_cuisine"
+      "https://en.wikipedia.org/wiki/Sichuan_cuisine",
+      "https://www.chinasichuanfood.com/szechuan-shrimp/"
     ]
   },
   {
@@ -14803,7 +14983,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bang_bang_chicken",
-      "https://ja.wikipedia.org/wiki/%E6%A3%92%E6%A3%92%E9%B6%8F"
+      "https://ja.wikipedia.org/wiki/%E6%A3%92%E6%A3%92%E9%B6%8F",
+      "https://www.seriouseats.com/bang-bang-chicken-sichuan-recipe"
     ]
   },
   {
@@ -14880,7 +15061,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Saliva_chicken",
-      "https://ja.wikipedia.org/wiki/%E3%82%88%E3%81%A0%E3%82%8C%E9%B6%8F"
+      "https://ja.wikipedia.org/wiki/%E3%82%88%E3%81%A0%E3%82%8C%E9%B6%8F",
+      "https://thewoksoflife.com/sichuan-chicken-with-spicy-sesame-sauce/"
     ]
   },
   {
@@ -14904,8 +15086,8 @@
         "locality": "鎮江"
       }
     ],
-    "summary": "鎮江の名産・香醋（こうず）黒酢で豚肉をじっくり煮込んだ料理。東坡肉に似るが黒酢の酸みとコクが際立つ、南京・鎮江エリアの郷土料理。",
-    "menuDescription": "豚バラ肉を角切りにして醤油・鎮江黒酢・砂糖・紹興酒でじっくり煮込んだ料理。黒酢の酸みとコクがトロトロの豚肉に染み込んだ深い味わい。",
+    "summary": "中国黒酢（香醋）を使い、豚肉を甘酸っぱく煮絡める料理。鎮江香醋の深い酸味とコクが肉の脂を引き締める。東坡肉より酸味が立つ、黒酢系の豚肉料理。",
+    "menuDescription": "豚バラ肉やスペアリブを醤油・黒酢・砂糖・紹興酒で煮絡めた料理。黒酢の酸みとコクが甘辛い豚肉に重なる。",
     "whatComesOut": [
       "トロトロに煮込まれた豚バラ肉の角切り",
       "黒酢の深い色のソース",
@@ -14964,7 +15146,8 @@
       "/images/dishes/xiang-cu-rou-kuai/1.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Sichuan_cuisine"
+      "https://en.wikipedia.org/wiki/Sichuan_cuisine",
+      "https://www.chinasichuanfood.com/sweet-and-sour-spare-ribs/"
     ]
   },
   {
@@ -14984,7 +15167,7 @@
         "locality": "広東"
       }
     ],
-    "summary": "フカヒレを使った中国の高級宴席スープ。澄んだまたはとろみのある鶏ベーススープにフカヒレの糸状の食感が特徴。現代では代替品も増えている。",
+    "summary": "フカヒレを使った中国の高級宴席スープ。澄んだまたはとろみのある鶏ベースのスープに、フカヒレの糸状の食感を合わせる。現代ではサメ資源保護の観点から代替品や提供中止を選ぶ店も増えている。",
     "menuDescription": "フカヒレ（サメのヒレを乾燥処理したもの）を戻して鶏・豚スープで煮込んだ宴席料理。フカヒレの繊維状の食感とスープのコクが特徴。代替品（こんにゃく・大豆タンパク）使用の店も増加。",
     "whatComesOut": [
       "とろみのあるスープの中にフカヒレの繊維",
@@ -15037,7 +15220,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Shark_fin_soup",
-      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%AB%E3%83%92%E3%83%AC"
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%AB%E3%83%92%E3%83%AC",
+      "https://www.worldwildlife.org/pages/shark-fin-soup"
     ]
   },
   {
@@ -15061,8 +15245,8 @@
         "locality": "上海"
       }
     ],
-    "summary": "「芙蓉」は蓮の花を意味し、白くふんわりと仕上がった見た目をその花に見立てた広東発祥の料理。卵とカニ肉を合わせてオムレツ状に焼いたものが原型で、アメリカ華人がアレンジした「エッグ・フー・ヤング」として欧米にも広まった。インドネシアでは「フー・ヤン・ハイ」、日本では「カニ玉」として親しまれる。",
-    "menuDescription": "溶き卵にカニ肉を合わせてふんわり焼き、甘酢あんをかけた広東料理。白い見た目を蓮の花（芙蓉）に見立てた名前を持つ。",
+    "summary": "卵とカニ肉を合わせてふんわり焼く中国系の卵料理。欧米ではエッグ・フー・ヤング、日本ではカニ玉に近い形で広まり、甘酢あんやグレイビーをかける地域もある。",
+    "menuDescription": "溶き卵にカニ肉や野菜を合わせてふんわり焼き、甘酢あんをかける料理。蟹の旨みと卵の柔らかさを楽しむ一皿。",
     "whatComesOut": [
       "白くふわふわした蟹肉と卵白の炒め物",
       "スープやあんをかけて仕上げることも",
@@ -15073,7 +15257,7 @@
       "蟹の繊細な甘みと旨み",
       "上品で軽い口当たり"
     ],
-    "orderAdvice": "蟹が好きで繊細な料理を楽しみたい人向け。卵白との組み合わせで蟹の旨みが際立つ。",
+    "orderAdvice": "蟹と卵のやさしい味を楽しみたい人向け。中華の炒め物より穏やかで食べやすい。",
     "caution": "甲殻類・卵アレルギーの方は注意。",
     "similarItems": [
       {
@@ -15110,8 +15294,7 @@
       "/images/dishes/fu-rong-xie/1.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Coconut_crab",
-      "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%B4%A5%E9%A3%AF"
+      "https://thewoksoflife.com/egg-foo-young/"
     ]
   },
   {
@@ -15218,7 +15401,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Soup_dumpling",
-      "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%B1%A0%E5%8C%85"
+      "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%B1%A0%E5%8C%85",
+      "https://thewoksoflife.com/steamed-shanghai-soup-dumplings-xiaolongbao/"
     ]
   },
   {
@@ -15294,7 +15478,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Shanghai_fried_noodles",
-      "https://ja.wikipedia.org/wiki/%E7%84%BC%E3%81%8D%E3%81%9D%E3%81%B0"
+      "https://ja.wikipedia.org/wiki/%E7%84%BC%E3%81%8D%E3%81%9D%E3%81%B0",
+      "https://thewoksoflife.com/shanghai-fried-noodles/"
     ]
   },
   {
@@ -15358,7 +15543,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Yangzhou_fried_rice",
-      "https://ja.wikipedia.org/wiki/%E6%8F%9A%E5%B7%9E%E3%83%81%E3%83%A3%E3%83%BC%E3%83%8F%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E6%8F%9A%E5%B7%9E%E3%83%81%E3%83%A3%E3%83%BC%E3%83%8F%E3%83%B3",
+      "https://thewoksoflife.com/young-chow-fried-rice/"
     ]
   },
   {
@@ -15439,7 +15625,8 @@
       "/images/dishes/qing-zheng-da-zha-xie/1.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Chinese_mitten_crab"
+      "https://en.wikipedia.org/wiki/Chinese_mitten_crab",
+      "https://www.timeoutshanghai.com/features/Restaurants-Restaurants/41935/The-ultimate-guide-to-Shanghais-hairy-crab-season.html"
     ]
   },
   {
@@ -15531,19 +15718,20 @@
       "/images/dishes/dong-po-rou/3.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9D%A1%E8%82%89"
+      "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9D%A1%E8%82%89",
+      "https://thewoksoflife.com/dong-po-rou/"
     ]
   },
   {
     "id": "mefun",
-    "name": "女奮",
+    "name": "めふん",
     "kana": "めふん",
     "aliases": [
       "めふん",
       "鮭の腎臓の塩辛"
     ],
     "englishName": "Mefun",
-    "originalName": "女奮（めふん）",
+    "originalName": "めふん",
     "category": "食材",
     "regions": [
       {
@@ -15551,8 +15739,8 @@
         "locality": "北海道"
       }
     ],
-    "summary": "アイヌ文化を起源とする北海道の郷土珍味。シロサケ（白鮭）の腎臓を塩漬けにした発酵食品で、黒褐色に変化するほど熟成させた濃厚な旨みが特徴。",
-    "menuDescription": "シロサケの腎臓（背わた）を塩水で漬け込み、黒褐色になるまで熟成させた珍味。甘みのある旨みが凝縮しており、ウニや塩辛に近いポジションで、少量をごはんや酒の肴として提供される。",
+    "summary": "アイヌ文化を背景に持つ北海道の郷土珍味。シロサケの腎臓を塩漬けにした発酵食品で、黒褐色に熟成した濃厚な旨みと塩気が特徴。",
+    "menuDescription": "シロサケの腎臓（背わた）を塩漬け熟成させた珍味。少量をごはんや酒の肴として食べる。ウニや塩辛に近い濃厚なポジション。",
     "whatComesOut": [
       "黒褐色の濃厚な塩辛状の珍味",
       "小皿に少量盛られて提供",
@@ -15614,7 +15802,7 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mefun",
-      "https://ja.wikipedia.org/wiki/%E8%A2%81%E8%A1%93"
+      "https://www.visit-hokkaido.jp/en/foods/seafood/"
     ]
   },
   {
@@ -15702,7 +15890,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Kanzuri",
-      "https://ja.wikipedia.org/wiki/%E5%94%90%E8%BE%9B%E5%AD%90%E5%91%B3%E5%99%8C"
+      "https://ja.wikipedia.org/wiki/%E5%94%90%E8%BE%9B%E5%AD%90%E5%91%B3%E5%99%8C",
+      "https://kanzuri.com/"
     ]
   },
   {
@@ -15779,7 +15968,8 @@
       "/images/dishes/nobiru/1.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E9%87%8E%E8%92%9C"
+      "https://ja.wikipedia.org/wiki/%E9%87%8E%E8%92%9C",
+      "https://www.specialtyproduce.com/produce/Nobiru_13273.php"
     ]
   },
   {
@@ -15869,7 +16059,8 @@
       "/images/dishes/ikanago/2.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AB%E3%83%8A%E3%82%B4"
+      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AB%E3%83%8A%E3%82%B4",
+      "https://web-japan.org/kidsweb/cool/21/202103_ikanago-en.html"
     ]
   },
   {
@@ -15965,7 +16156,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Kanazawa",
-      "https://ja.wikipedia.org/wiki/%E3%81%98%E3%81%B6%E7%85%AE"
+      "https://ja.wikipedia.org/wiki/%E3%81%98%E3%81%B6%E7%85%AE",
+      "https://www.hot-ishikawa.jp/blog/75"
     ]
   },
   {
@@ -16049,7 +16241,8 @@
       "/images/dishes/kajika-jiru/1.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B8%E3%82%AB_%28%E9%AD%9A%29"
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B8%E3%82%AB_%28%E9%AD%9A%29",
+      "https://www.gltjp.com/en/article/item/20433/"
     ]
   },
   {
@@ -16137,7 +16330,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Soba",
-      "https://ja.wikipedia.org/wiki/%E3%81%B8%E3%81%8E%E3%81%9D%E3%81%B0"
+      "https://ja.wikipedia.org/wiki/%E3%81%B8%E3%81%8E%E3%81%9D%E3%81%B0",
+      "https://niigata-kankou.or.jp/feature/hegisoba/top"
     ]
   },
   {
@@ -16161,7 +16355,7 @@
         "locality": "北海道"
       }
     ],
-    "summary": "鮭の頭の軟骨（氷頭）を薄切りにし、酢・砂糖・塩で和えた東北・北海道の正月料理。透き通った軟骨のコリコリした食感と酢の酸みが特徴。",
+    "summary": "鮭の頭の軟骨（氷頭）を薄切りにし、酢・砂糖・塩で和えた北海道・東北の正月料理。透き通った軟骨のコリコリした食感と酢の酸みが特徴。",
     "menuDescription": "鮭の鼻先の部分（氷頭）の軟骨を薄切りにし、大根・にんじんとともに甘酢で和えた料理。正月のお節料理に欠かせない東北の伝統的な一品。",
     "whatComesOut": [
       "透き通った薄切りの軟骨と野菜の和え物",
@@ -16217,8 +16411,7 @@
       "/images/dishes/hizu-namasu/1.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Guepinia",
-      "https://ja.wikipedia.org/wiki/%E8%86%BE"
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hizu_namasu_hokkaido.html"
     ]
   },
   {
@@ -16308,7 +16501,8 @@
       "/images/dishes/shippoku-udon/1.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Meibutsu"
+      "https://en.wikipedia.org/wiki/Meibutsu",
+      "https://www.my-kagawa.jp/udon/feature/udon/shippoku"
     ]
   },
   {
@@ -16332,8 +16526,8 @@
         "locality": "中部山岳地帯"
       }
     ],
-    "summary": "囲炉裏（いろり）の火場で魚や山菜を串刺しにしてじっくり焼く伝統的な郷土料理スタイル。炭火の遠赤外線でふっくらと焼き上げる山村の伝統調理法。",
-    "menuDescription": "囲炉裏の周囲の火場に立てた串刺しの魚や野菜をゆっくり焼く調理法。炭火の遠赤外線でじっくり焼かれ、皮は香ばしく身はふっくらと仕上がる。岩魚・山女魚・栃の実などが定番。",
+    "summary": "囲炉裏の火床で魚や山菜を串刺しにしてじっくり焼く、山村の伝統的な調理スタイル。炭火の遠赤外線で皮は香ばしく、身はふっくら仕上がる。",
+    "menuDescription": "囲炉裏の周囲に立てた串刺しの川魚や野菜をゆっくり焼く調理法。岩魚・山女魚などを炭火で焼き、塩だけで食べることが多い。",
     "whatComesOut": [
       "串刺しにされた魚や野菜の焼き物",
       "囲炉裏端での調理体験とともに",
@@ -16387,7 +16581,7 @@
       "/images/dishes/hibayaki/1.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E7%81%AB%E3%81%AE%E9%B3%A5_%28%E6%BC%AB%E7%94%BB%29"
+      "https://www.gltjp.com/en/article/item/20433/"
     ]
   },
   {
@@ -16467,7 +16661,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Kamaboko",
-      "https://ja.wikipedia.org/wiki/%E9%A3%AB%E8%82%A5%E5%A4%A9"
+      "https://ja.wikipedia.org/wiki/%E9%A3%AB%E8%82%A5%E5%A4%A9",
+      "https://www.kankou-nichinan.jp/tourisms/258/"
     ]
   },
   {
@@ -16549,7 +16744,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Japanese_regional_cuisine",
-      "https://ja.wikipedia.org/wiki/%E7%9A%BF%E9%89%A2%E6%96%99%E7%90%86"
+      "https://ja.wikipedia.org/wiki/%E7%9A%BF%E9%89%A2%E6%96%99%E7%90%86",
+      "https://visitkochijapan.com/en/see-and-do/10029"
     ]
   },
   {
@@ -16562,7 +16758,7 @@
     ],
     "englishName": "Sangoha-chi Zuke",
     "originalName": "三五八漬け（さごはちづけ）",
-    "category": "食材",
+    "category": "料理",
     "regions": [
       {
         "country": "日本",
@@ -16573,8 +16769,8 @@
         "locality": "東北"
       }
     ],
-    "summary": "塩・米・米麹を3:5:8の割合で混ぜた床に野菜や魚を漬け込む福島・山形・秋田の伝統漬物。麹の甘みと旨みが素材に染み込む発酵漬物で、現代の「塩麹」ブームの起源とされる。",
-    "menuDescription": "塩3：米5：米麹8の割合で作った漬け床に、きゅうり・大根・人参のほか、するめ・数の子・魚（秋田沿岸ではハタハタ）などを漬け込んだ料理。米を含むため塩麹よりもまろやかで甘い風味が特徴。野菜は事前に塩漬けにしてから床に入れる。",
+    "summary": "塩・米・米麹を3:5:8の割合で混ぜた漬け床に野菜や魚を漬け込む東北地方の発酵漬物。麹の甘みと旨みが素材に染み込む。",
+    "menuDescription": "塩3：米5：米麹8の割合で作った漬け床に、きゅうり・大根・人参・魚などを漬け込む料理。米を含むため塩麹よりもまろやかで甘い風味がある。",
     "whatComesOut": [
       "薄切りまたは乱切りの漬け野菜（または魚）",
       "麹の白みが残った状態で提供",
@@ -16630,12 +16826,13 @@
       "/images/dishes/sangoha-chi-zuke/1.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%94%E5%85%AB%E6%BC%AC%E3%81%91"
+      "https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BA%94%E5%85%AB%E6%BC%AC%E3%81%91",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_14_fukushima.html"
     ]
   },
   {
     "id": "scamorza-bianca",
-    "name": "スカモルツァ ビアンコ",
+    "name": "スカモルツァ・ビアンカ",
     "kana": "すかもるつぁ びあんこ",
     "aliases": [
       "スカモルツァ・ビアンカ",
@@ -16655,8 +16852,8 @@
         "locality": "プーリア"
       }
     ],
-    "summary": "燻製処理をしていないスカモルツァの白いバージョン。南イタリア（プッリャ州・カラブリア州）のパスタフィラータチーズで、モッツァレラよりも味が強く弾力があり、加熱で均一に溶けるため焼き料理に向く。",
-    "menuDescription": "牛乳（バーリ産は羊乳）で作った洋梨形のパスタフィラータチーズの非燻製版。チーズ職人が上から3分の1のところで結んで吊るし乾燥させた独特の形が特徴。モッツァレラよりも水分が少なくチーズの味が強く、グリルやオーブン料理で溶けやすい。",
+    "summary": "燻製処理をしていない白いスカモルツァ。南イタリアのパスタフィラータチーズで、モッツァレラより水分が少なく弾力があり、加熱でよく溶けるため焼き料理に向く。",
+    "menuDescription": "洋梨形のパスタフィラータチーズの非燻製版。モッツァレラより水分が少なく、グリルやオーブン料理で溶けやすい。アフミカータより風味は穏やか。",
     "whatComesOut": [
       "白くつやのある洋梨形またはスライスされたチーズ",
       "グリルまたは前菜として",
@@ -16709,7 +16906,7 @@
       "/images/dishes/scamorza-bianca/1.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E8%BE%BB%E5%B8%8C%E7%BE%8E"
+      "https://www.thespruceeats.com/what-is-scamorza-cheese-5085854"
     ]
   },
   {
@@ -16787,12 +16984,13 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Provola",
-      "https://en.wikipedia.org/wiki/Pasta_filata"
+      "https://en.wikipedia.org/wiki/Pasta_filata",
+      "https://www.cheese.com/provola/"
     ]
   },
   {
     "id": "crema-catalana",
-    "name": "クレマカタラーナ",
+    "name": "クレマ・カタラーナ",
     "kana": "くれまかたらーな",
     "aliases": [
       "クレマ・カタラーナ",
@@ -16872,7 +17070,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Crema_catalana",
-      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%9E%E3%82%AB%E3%82%BF%E3%83%A9%E3%83%BC%E3%83%8A"
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%9E%E3%82%AB%E3%82%BF%E3%83%A9%E3%83%BC%E3%83%8A",
+      "https://www.tasteatlas.com/crema-catalana"
     ]
   },
   {
@@ -16965,7 +17164,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bottarga",
-      "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%83%E3%82%BF%E3%83%AB%E3%82%AC"
+      "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%83%E3%82%BF%E3%83%AB%E3%82%AC",
+      "https://www.slowfood.com/ark-of-taste/grey-mullet-bottarga/"
     ]
   },
   {
@@ -17047,7 +17247,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Affettato",
-      "https://it.wikipedia.org/wiki/Affettato"
+      "https://it.wikipedia.org/wiki/Affettato",
+      "https://www.lacucinaitaliana.com/italian-food/italian-dishes/affettati-misti-italian-cured-meats"
     ]
   },
   {
@@ -17070,7 +17271,7 @@
         "locality": "ヴェネト州"
       }
     ],
-    "summary": "ヴェネト州トレヴィーゾ発祥の中世由来ソース。鶏レバー・アンチョビ・黒胡椒・白ワインビネガーを合わせた濃厚なソースで、野鳥のロースト・ポレンタ料理に添えられる。ペアラ（pearà）とは別物。",
+    "summary": "ヴェネト地方の胡椒を効かせた伝統ソース。鶏レバー、アンチョビ、黒胡椒、酢やワインなどを合わせ、野鳥や家禽のロースト、ポレンタに添える。ペアラとは別系統。",
     "menuDescription": "鶏レバーとアンチョビを細かく刻み、黒胡椒・白ワインビネガーで仕上げたヴェネト地方の伝統ソース。野鳥や家禽のロースト、ポレンタに添える。",
     "whatComesOut": [
       "こげ茶色のソースが肉料理の上またはそばに",
@@ -17130,7 +17331,7 @@
       "/images/dishes/peverada/1.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Bollito_misto"
+      "https://www.lacucinaitaliana.com/italian-food/how-to-cook/peverada-sauce"
     ]
   },
   {
@@ -17210,7 +17411,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Sweet_and_sour",
-      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B0%E3%83%AD%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7"
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B0%E3%83%AD%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7",
+      "https://www.lacucinaitaliana.com/italian-food/how-to-cook/agrodolce-sauce-sweet-and-sour-italian-condiment"
     ]
   },
   {
@@ -17314,7 +17516,8 @@
       "/images/dishes/minestrone/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Minestrone"
+      "https://en.wikipedia.org/wiki/Minestrone",
+      "https://www.britannica.com/topic/minestrone"
     ]
   },
   {
@@ -17432,7 +17635,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Prosciutto",
-      "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B7%E3%83%A5%E3%83%83%E3%83%88"
+      "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B7%E3%83%A5%E3%83%83%E3%83%88",
+      "https://www.prosciuttodiparma.com/en/product/"
     ]
   },
   {
@@ -17527,7 +17731,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bisque_%28food%29",
-      "https://ja.wikipedia.org/wiki/%E3%83%93%E3%82%B9%E3%82%AF"
+      "https://ja.wikipedia.org/wiki/%E3%83%93%E3%82%B9%E3%82%AF",
+      "https://www.larousse.fr/dictionnaires/francais/bisque/9330"
     ]
   },
   {
@@ -17612,7 +17817,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Meringue",
-      "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AC%E3%83%B3%E3%82%B2_%28%E8%8F%93%E5%AD%90%29"
+      "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AC%E3%83%B3%E3%82%B2_%28%E8%8F%93%E5%AD%90%29",
+      "https://www.britannica.com/topic/meringue"
     ]
   },
   {
@@ -17700,7 +17906,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Sachertorte",
-      "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%83%E3%83%8F%E3%83%88%E3%83%AB%E3%83%86"
+      "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%83%E3%83%8F%E3%83%88%E3%83%AB%E3%83%86",
+      "https://www.sacher.com/en/original-sacher-torte/"
     ]
   },
   {
@@ -17784,7 +17991,8 @@
       "/images/dishes/ganjang-gejang/2.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%B8%E3%83%A3%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%B8%E3%83%A3%E3%83%B3",
+      "https://www.maangchi.com/recipe/ganjang-gejang"
     ]
   },
   {
@@ -17861,7 +18069,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Japchae",
-      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%97%E3%83%81%E3%82%A7"
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%97%E3%83%81%E3%82%A7",
+      "https://www.maangchi.com/recipe/japchae"
     ]
   },
   {
@@ -17944,7 +18153,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Dak_hanmari",
-      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%83%E3%82%AB%E3%83%B3%E3%83%9E%E3%83%AA"
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%83%E3%82%AB%E3%83%B3%E3%83%9E%E3%83%AA",
+      "https://www.maangchi.com/recipe/dakhanmari"
     ]
   },
   {
@@ -18022,7 +18232,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Squid_as_food",
-      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A4%E3%83%80%E3%82%B3"
+      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A4%E3%83%80%E3%82%B3",
+      "https://www.maangchi.com/recipe/jukkumi-bokkeum"
     ]
   },
   {
@@ -18111,7 +18322,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Gamjatang",
-      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A0%E3%82%B8%E3%83%A3%E3%82%BF%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A0%E3%82%B8%E3%83%A3%E3%82%BF%E3%83%B3",
+      "https://www.maangchi.com/recipe/gamjatang"
     ]
   },
   {
@@ -18194,7 +18406,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bossam",
-      "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%83%E3%82%B5%E3%83%A0"
+      "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%83%E3%82%B5%E3%83%A0",
+      "https://www.maangchi.com/recipe/bo-ssam"
     ]
   },
   {
@@ -18295,7 +18508,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Seolleongtang",
-      "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%AB%E3%83%AD%E3%83%B3%E3%82%BF%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%AB%E3%83%AD%E3%83%B3%E3%82%BF%E3%83%B3",
+      "https://www.maangchi.com/recipe/seolleongtang"
     ]
   },
   {
@@ -18374,7 +18588,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Jumeokbap",
-      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%A2%E3%83%83%E3%83%91"
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%A2%E3%83%83%E3%83%91",
+      "https://www.maangchi.com/recipe/jumeokbap"
     ]
   },
   {
@@ -18460,7 +18675,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Boil",
-      "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%A4%E3%83%AB"
+      "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%A4%E3%83%AB",
+      "https://www.britannica.com/topic/boiling-cooking"
     ]
   },
   {
@@ -18523,7 +18739,8 @@
       "/images/dishes/steam/3.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E6%B0%B4%E8%92%B8%E6%B0%97"
+      "https://ja.wikipedia.org/wiki/%E6%B0%B4%E8%92%B8%E6%B0%97",
+      "https://www.britannica.com/topic/steaming-cooking"
     ]
   },
   {
@@ -18599,7 +18816,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Deep_frying",
-      "https://ja.wikipedia.org/wiki/%E6%8F%9A%E3%81%92%E7%89%A9"
+      "https://ja.wikipedia.org/wiki/%E6%8F%9A%E3%81%92%E7%89%A9",
+      "https://www.britannica.com/topic/frying"
     ]
   },
   {
@@ -18672,7 +18890,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Confit",
-      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3"
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3",
+      "https://www.seriouseats.com/how-to-poach-food-in-olive-oil"
     ]
   },
   {
@@ -18768,7 +18987,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mousse",
-      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%BC%E3%82%B9"
+      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%BC%E3%82%B9",
+      "https://www.larousse.fr/dictionnaires/francais/mousse/52855"
     ]
   },
   {
@@ -18834,7 +19054,8 @@
       "/images/dishes/gelee/3.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%AA%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%AA%E3%83%BC",
+      "https://www.larousse.fr/dictionnaires/francais/gel%C3%A9e/36526"
     ]
   },
   {
@@ -18906,7 +19127,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Roasting",
-      "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%86%E3%82%A3"
+      "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%86%E3%82%A3",
+      "https://www.larousse.fr/dictionnaires/francais/r%C3%B4tir/69940"
     ]
   },
   {
@@ -18973,7 +19195,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Gratin",
-      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%82%BF%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%82%BF%E3%83%B3",
+      "https://www.larousse.fr/dictionnaires/francais/gratiner/38009"
     ]
   },
   {
@@ -19054,7 +19277,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Caramelization",
-      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%A1%E3%83%AB%E5%8C%96"
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%A1%E3%83%AB%E5%8C%96",
+      "https://www.britannica.com/topic/caramelization"
     ]
   },
   {
@@ -19127,7 +19351,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Flamb%C3%A9",
-      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%99"
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%99",
+      "https://www.britannica.com/topic/flambe"
     ]
   },
   {
@@ -19192,7 +19417,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Smoking_(cooking)",
-      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AF"
+      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AF",
+      "https://www.britannica.com/topic/smoking-food-preservation"
     ]
   },
   {
@@ -19261,7 +19487,8 @@
       "/images/dishes/dry-aging/2.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Beef_aging"
+      "https://en.wikipedia.org/wiki/Beef_aging",
+      "https://www.seriouseats.com/the-food-lab-complete-guide-to-dry-aging-beef-at-home"
     ],
     "caution": "専用設備と温度・衛生管理が必要なプロセスで、家庭では再現困難。独特の熟成香が強く、慣れていないと苦手と感じる場合がある。"
   },
@@ -19327,7 +19554,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mix",
-      "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%AD%E3%82%B7%E3%83%B3%E3%82%B0"
+      "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%AD%E3%82%B7%E3%83%B3%E3%82%B0",
+      "https://www.larousse.fr/dictionnaires/francais/m%C3%A9langer/50440"
     ]
   },
   {
@@ -19398,7 +19626,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pur%C3%A9e",
-      "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%A5%E3%83%AC"
+      "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%A5%E3%83%AC",
+      "https://www.britannica.com/topic/puree"
     ]
   },
   {
@@ -19469,7 +19698,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Paste",
-      "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%88"
+      "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%88",
+      "https://www.larousse.fr/dictionnaires/francais/p%C3%A2te/58616"
     ]
   },
   {
@@ -19544,7 +19774,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Emulsion",
-      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B7%E3%83%A7%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B7%E3%83%A7%E3%83%B3",
+      "https://www.britannica.com/science/emulsion"
     ]
   },
   {
@@ -19625,7 +19856,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Deglazing_(cooking)",
-      "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B0%E3%83%A9%E3%83%83%E3%82%BB"
+      "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B0%E3%83%A9%E3%83%83%E3%82%BB",
+      "https://www.lacucinaitaliana.com/italian-food/how-to-cook/how-to-deglaze-a-pan"
     ]
   },
   {
@@ -19705,7 +19937,8 @@
       "/images/dishes/reduce/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Reduction_(cooking)"
+      "https://en.wikipedia.org/wiki/Reduction_(cooking)",
+      "https://www.larousse.fr/dictionnaires/francais/r%C3%A9duire/67542"
     ]
   },
   {
@@ -19775,7 +20008,8 @@
       "/images/dishes/infuse/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Infusion"
+      "https://en.wikipedia.org/wiki/Infusion",
+      "https://www.larousse.fr/dictionnaires/francais/infuser/42977"
     ]
   },
   {
@@ -19844,7 +20078,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tempering_(chocolate)",
-      "https://en.wikipedia.org/wiki/Tempering_(spices)"
+      "https://en.wikipedia.org/wiki/Tempering_(spices)",
+      "https://www.larousse.fr/dictionnaires/francais/temp%C3%A9rage/77341"
     ]
   },
   {
@@ -19909,7 +20144,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Blanching_%28cooking%29",
-      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E3%83%B3%E3%82%B0"
+      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E3%83%B3%E3%82%B0",
+      "https://www.britannica.com/topic/blanching-cooking"
     ]
   },
   {
@@ -19980,7 +20216,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Wrapping",
-      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0"
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0",
+      "https://www.larousse.fr/dictionnaires/francais/envelopper/30137"
     ]
   },
   {
@@ -20050,7 +20287,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Coating",
-      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0"
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0",
+      "https://www.larousse.fr/dictionnaires/francais/enrober/29752"
     ]
   },
   {
@@ -20123,7 +20361,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Maceration_(food)",
-      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%BB%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%BB%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+      "https://www.larousse.fr/dictionnaires/francais/mac%C3%A9rer/48513"
     ]
   },
   {
@@ -20190,7 +20429,8 @@
       "/images/dishes/syrup-ni/1.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%83%83%E3%83%97"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%83%83%E3%83%97",
+      "https://www.britannica.com/topic/syrup"
     ]
   },
   {
@@ -20271,7 +20511,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Nage_%28food%29",
-      "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%BC%E3%82%B8%E3%83%A5"
+      "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%BC%E3%82%B8%E3%83%A5",
+      "https://www.larousse.fr/dictionnaires/francais/nage/53852"
     ]
   },
   {
@@ -20358,7 +20599,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Wine_sauce",
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%8A%E3%83%B3%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%8A%E3%83%B3%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3",
+      "https://www.larousse.fr/dictionnaires/francais/vin_blanc/82068"
     ]
   },
   {
@@ -20460,7 +20702,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Baba_ghanoush",
-      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%90%E3%82%AC%E3%83%8C%E3%83%BC%E3%82%B7%E3%83%A5"
+      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%90%E3%82%AC%E3%83%8C%E3%83%BC%E3%82%B7%E3%83%A5",
+      "https://www.britannica.com/topic/baba-ghanoush"
     ]
   },
   {
@@ -20564,7 +20807,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Sambal",
-      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%90%E3%83%AB"
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%90%E3%83%AB",
+      "https://www.britannica.com/topic/sambal"
     ]
   },
   {
@@ -20651,7 +20895,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Fish_sauce",
-      "https://ja.wikipedia.org/wiki/%E9%AD%9A%E9%86%A4"
+      "https://ja.wikipedia.org/wiki/%E9%AD%9A%E9%86%A4",
+      "https://www.britannica.com/topic/fish-sauce"
     ]
   },
   {
@@ -20743,7 +20988,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Oyster_sauce",
-      "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%B9"
+      "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%B9",
+      "https://www.britannica.com/topic/oyster-sauce"
     ]
   },
   {
@@ -20820,7 +21066,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tianmian_sauce",
-      "https://ja.wikipedia.org/wiki/%E7%94%9C%E9%BA%BA%E9%86%A4"
+      "https://ja.wikipedia.org/wiki/%E7%94%9C%E9%BA%BA%E9%86%A4",
+      "https://thewoksoflife.com/sweet-bean-sauce-tian-mian-jiang/"
     ]
   },
   {
@@ -20933,7 +21180,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Doubanjiang",
-      "https://ja.wikipedia.org/wiki/%E8%B1%86%E6%9D%BF%E9%86%A4"
+      "https://ja.wikipedia.org/wiki/%E8%B1%86%E6%9D%BF%E9%86%A4",
+      "https://thewoksoflife.com/doubanjiang/"
     ]
   },
   {
@@ -21011,7 +21259,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/XO_sauce",
-      "https://ja.wikipedia.org/wiki/XO%E9%86%A4"
+      "https://ja.wikipedia.org/wiki/XO%E9%86%A4",
+      "https://thewoksoflife.com/xo-sauce-recipe/"
     ]
   },
   {
@@ -21089,7 +21338,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Gochujang",
-      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%81%E3%83%A5%E3%82%B8%E3%83%A3%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%81%E3%83%A5%E3%82%B8%E3%83%A3%E3%83%B3",
+      "https://www.maangchi.com/ingredient/gochujang"
     ]
   },
   {
@@ -21161,7 +21411,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Ssamjang",
-      "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%B3",
+      "https://www.maangchi.com/recipe/ssamjang"
     ]
   },
   {
@@ -21231,7 +21482,8 @@
       "/images/dishes/ketchup/3.jpg"
     ],
     "source": [
-      "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%81%E3%83%A3%E3%83%83%E3%83%97"
+      "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%81%E3%83%A3%E3%83%83%E3%83%97",
+      "https://www.britannica.com/topic/ketchup"
     ]
   },
   {
@@ -21320,7 +21572,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mustard_%28condiment%29",
-      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%89"
+      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%89",
+      "https://www.britannica.com/topic/mustard-condiment"
     ]
   },
   {
@@ -21404,7 +21657,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Dijon_mustard",
-      "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%89"
+      "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%89",
+      "https://www.larousse.fr/dictionnaires/francais/moutarde/52952"
     ]
   },
   {
@@ -21479,12 +21733,13 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Horseradish",
-      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%82%B9%E3%83%A9%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5"
+      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%82%B9%E3%83%A9%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5",
+      "https://www.britannica.com/plant/horseradish"
     ]
   },
   {
     "id": "island-dressing",
-    "name": "アイランドドレッシング",
+    "name": "サウザンドアイランドドレッシング",
     "kana": "あいらんどどれっしんぐ",
     "englishName": "Thousand Island dressing",
     "category": "ソース",
@@ -21555,7 +21810,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Thousand_Island_dressing",
-      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B6%E3%83%B3%E3%83%89%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%89%E3%83%AC%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0"
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B6%E3%83%B3%E3%83%89%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%89%E3%83%AC%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0",
+      "https://www.britannica.com/topic/Thousand-Island-dressing"
     ]
   },
   {
@@ -21572,8 +21828,8 @@
         "country": "アメリカ"
       }
     ],
-    "summary": "1924年にメキシコ・ティファナのレストランでイタリア系シェフのシーザー・カルディーニが考案したサラダドレッシング。卵黄、オリーブオイル、レモン汁、にんにく、ウスターソース、アンチョビ、パルミジャーノ・レッジャーノで作るクリーミーなエマルジョン。",
-    "menuDescription": "シーザーサラダに使われるクリーミーなドレッシング。アンチョビと熟成チーズの旨みが土台で、にんにくとレモンの風味が強い。カルディーニ考案のオリジナルにはアンチョビが含まれる。",
+    "summary": "1920年代にメキシコ・ティファナのレストランでシーザー・カルディーニが広めたシーザーサラダ用ドレッシング。卵黄または半熟卵、オリーブオイル、レモン汁、にんにく、ウスターソース、パルミジャーノなどで作るエマルジョンで、現代版はアンチョビを加えることも多い。",
+    "menuDescription": "シーザーサラダに使われるクリーミーなドレッシング。熟成チーズの旨み、にんにく、レモンの風味が強く、現代版ではアンチョビの塩気を効かせることも多い。",
     "whatComesOut": [
       "ロメインレタスに絡む白〜クリーム色のドレッシング",
       "パルミジャーノのすりおろしとクルトン",
@@ -21634,7 +21890,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Caesar_salad",
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%B5%E3%83%A9%E3%83%80"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%B5%E3%83%A9%E3%83%80",
+      "https://www.britannica.com/topic/Caesar-salad"
     ]
   },
   {
@@ -21705,7 +21962,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Coleslaw",
-      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%AD%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%AD%E3%83%BC",
+      "https://www.britannica.com/topic/coleslaw"
     ]
   },
   {
@@ -21784,7 +22042,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bell_pepper",
-      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB"
+      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB",
+      "https://www.britannica.com/plant/bell-pepper"
     ]
   },
   {
@@ -21858,7 +22117,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Okra",
-      "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AF%E3%83%A9"
+      "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AF%E3%83%A9",
+      "https://www.britannica.com/plant/okra"
     ]
   },
   {
@@ -21931,7 +22191,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mulukhiyah",
-      "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%98%E3%82%A4%E3%83%A4"
+      "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%98%E3%82%A4%E3%83%A4",
+      "https://specialtyproduce.com/produce/Molokhia_12984.php"
     ]
   },
   {
@@ -22007,7 +22268,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Rosemary",
-      "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%AA%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%AA%E3%83%BC",
+      "https://www.britannica.com/plant/rosemary"
     ]
   },
   {
@@ -22085,7 +22347,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mint",
-      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%AB"
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%AB",
+      "https://www.britannica.com/plant/mint-plant"
     ]
   },
   {
@@ -22164,7 +22427,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Truffle",
-      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%83%A5%E3%83%95"
+      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%83%A5%E3%83%95",
+      "https://www.britannica.com/science/truffle-fungus"
     ]
   },
   {
@@ -22238,7 +22502,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pleurotus_eryngii",
-      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%B3%E3%82%AE"
+      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%B3%E3%82%AE",
+      "https://specialtyproduce.com/produce/King_Trumpet_Mushrooms_965.php"
     ]
   },
   {
@@ -22317,7 +22582,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Shiitake",
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A4%E3%82%BF%E3%82%B1"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A4%E3%82%BF%E3%82%B1",
+      "https://www.britannica.com/science/shiitake"
     ]
   },
   {
@@ -22388,7 +22654,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pancetta",
-      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%83%81%E3%82%A7%E3%83%83%E3%82%BF"
+      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%83%81%E3%82%A7%E3%83%83%E3%82%BF",
+      "https://www.britannica.com/topic/pancetta"
     ],
     "caution": "豚肉と塩分が強い。グアンチャーレ（豚頬肉）とは別素材で、カルボナーラの本場ローマではグアンチャーレが正式材料とされる。"
   },
@@ -22468,7 +22735,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Salami",
-      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%83%9F"
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%83%9F",
+      "https://www.britannica.com/topic/salami"
     ],
     "caution": "豚肉加工品のため宗教上の禁忌に注意。塩分・飽和脂肪酸が高い。"
   },
@@ -22548,7 +22816,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Chorizo",
-      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%AA%E3%82%BD"
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%AA%E3%82%BD",
+      "https://www.britannica.com/topic/chorizo"
     ],
     "caution": "豚肉加工品のため宗教上の禁忌に注意。辛さの度合いは製品・店によって大きな差がある。"
   },
@@ -22620,7 +22889,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Guanciale",
-      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AC"
+      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AC",
+      "https://www.lacucinaitaliana.com/italian-food/italian-dishes/what-is-guanciale"
     ],
     "caution": "豚肉加工品のため宗教上の禁忌に注意。パンチェッタ（豚バラ）とは別物で、風味・脂量ともに異なる。"
   },
@@ -22641,7 +22911,7 @@
         "area": "オセアニア"
       }
     ],
-    "summary": "生後1年未満の羊の肉。ラム特有の「ラム臭（ラム・フレーバー）」は短鎖脂肪酸が主因で、成羊（マトン）より穏やか。地中海・中東・中央アジア・インド・オーストラリアなど羊肉文化圏で主要なタンパク源で、ミント・ローズマリー・クミンなど香草・スパイスとの相性が良い。",
+    "summary": "若い羊の肉。ラム特有の香りは成羊（マトン）より穏やかで、地中海・中東・中央アジア・インド・オーストラリアなど羊肉文化圏で主要なタンパク源。ミント・ローズマリー・クミンなど香草やスパイスと相性が良い。",
     "menuDescription": "骨付きのチョップ・ラック、挽き肉、串焼きなど様々な形で出る若い羊肉。ハーブ・スパイスでマリネしてグリルや煮込みにすることが多い。",
     "whatComesOut": [
       "骨付き肉や挽き肉料理",
@@ -22728,7 +22998,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Lamb_and_mutton",
-      "https://ja.wikipedia.org/wiki/%E7%BE%8A%E8%82%89"
+      "https://ja.wikipedia.org/wiki/%E7%BE%8A%E8%82%89",
+      "https://www.britannica.com/topic/lamb-meat"
     ],
     "caution": "羊特有の香り（ラム臭）があり好みが分かれる。初めてなら香草マリネのグリルなど香りを和らげた調理のものから試すと良い。"
   },
@@ -22808,7 +23079,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Duck_as_food",
-      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A2%E8%82%89"
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A2%E8%82%89",
+      "https://www.britannica.com/animal/duck"
     ]
   },
   {
@@ -22881,7 +23153,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Turkey_as_food",
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%81%E3%83%A1%E3%83%B3%E3%83%81%E3%83%A7%E3%82%A6"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%81%E3%83%A1%E3%83%B3%E3%83%81%E3%83%A7%E3%82%A6",
+      "https://www.britannica.com/animal/turkey-bird"
     ]
   },
   {
@@ -22955,7 +23228,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Veal",
-      "https://ja.wikipedia.org/wiki/%E4%BB%94%E7%89%9B%E8%82%89"
+      "https://ja.wikipedia.org/wiki/%E4%BB%94%E7%89%9B%E8%82%89",
+      "https://www.britannica.com/topic/veal"
     ],
     "caution": "仔牛という食材に倫理的な抵抗を感じる人がいる。ベビーカーフの場合は特に飼育環境への批判が強い。"
   },
@@ -23030,7 +23304,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Game_(hunting)",
-      "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%93%E3%82%A8"
+      "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%93%E3%82%A8",
+      "https://www.larousse.fr/dictionnaires/francais/gibier/36854"
     ],
     "caution": "野生動物のため部位・種類・処理によって風味が大きく変わる。強い臭みが苦手な人は注意。"
   },
@@ -23108,7 +23383,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Salmon",
-      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%B1"
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%B1",
+      "https://www.britannica.com/animal/salmon"
     ]
   },
   {
@@ -23187,7 +23463,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tuna",
-      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B0%E3%83%AD"
+      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B0%E3%83%AD",
+      "https://www.britannica.com/animal/tuna-fish"
     ]
   },
   {
@@ -23261,7 +23538,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Octopus",
-      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B3"
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B3",
+      "https://www.britannica.com/animal/octopus-mollusk"
     ]
   },
   {
@@ -23335,7 +23613,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Squid",
-      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AB"
+      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AB",
+      "https://www.britannica.com/animal/squid"
     ]
   },
   {
@@ -23409,7 +23688,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mussel",
-      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%BC%E3%83%AB%E8%B2%9D"
+      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%BC%E3%83%AB%E8%B2%9D",
+      "https://www.britannica.com/animal/mussel"
     ]
   },
   {
@@ -23486,7 +23766,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Scallop",
-      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BF%E3%83%86%E3%82%AC%E3%82%A4"
+      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BF%E3%83%86%E3%82%AC%E3%82%A4",
+      "https://www.britannica.com/animal/scallop"
     ]
   },
   {
@@ -23557,7 +23838,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Anchovy",
-      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%82%AF%E3%83%81%E3%82%A4%E3%83%AF%E3%82%B7%E7%A7%91"
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%82%AF%E3%83%81%E3%82%A4%E3%83%AF%E3%82%B7%E7%A7%91",
+      "https://www.britannica.com/animal/anchovy"
     ]
   },
   {
@@ -23635,7 +23917,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Caviar",
-      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%93%E3%82%A2"
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%93%E3%82%A2",
+      "https://www.britannica.com/topic/caviar"
     ]
   },
   {
@@ -23705,7 +23988,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Quinoa",
-      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%8C%E3%82%A2"
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%8C%E3%82%A2",
+      "https://www.britannica.com/plant/quinoa"
     ]
   },
   {
@@ -23781,7 +24065,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Polenta",
-      "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AC%E3%83%B3%E3%82%BF"
+      "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AC%E3%83%B3%E3%82%BF",
+      "https://www.britannica.com/topic/polenta"
     ]
   },
   {
@@ -23873,7 +24158,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Chickpea",
-      "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A8%E3%82%B3%E3%83%9E%E3%83%A1"
+      "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A8%E3%82%B3%E3%83%9E%E3%83%A1",
+      "https://www.britannica.com/plant/chickpea"
     ]
   },
   {
@@ -23955,7 +24241,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Phaseolus_vulgaris",
-      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%82%A4%E3%83%B3%E3%82%B2%E3%83%B3%E3%83%9E%E3%83%A1"
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%82%A4%E3%83%B3%E3%82%B2%E3%83%B3%E3%83%9E%E3%83%A1",
+      "https://www.britannica.com/plant/common-bean"
     ]
   },
   {
@@ -24027,7 +24314,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Butter_chicken",
-      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%AB%E3%82%B0%E3%83%9E%E3%82%AB%E3%83%8B"
+      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%AB%E3%82%B0%E3%83%9E%E3%82%AB%E3%83%8B",
+      "https://www.tasteatlas.com/butter-chicken"
     ],
     "caution": "乳製品（バター・生クリーム）を多く使用するため、乳アレルギーの方は確認が必要。"
   },
@@ -24100,7 +24388,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Green_curry",
-      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%AB%E3%83%AC%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%AB%E3%83%AC%E3%83%BC",
+      "https://www.tasteatlas.com/green-curry"
     ]
   },
   {
@@ -24172,7 +24461,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tom_yum",
-      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A0%E3%83%A4%E3%83%A0%E3%82%AF%E3%83%B3"
+      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A0%E3%83%A4%E3%83%A0%E3%82%AF%E3%83%B3",
+      "https://www.tourismthailand.org/Articles/tom-yum-kung"
     ]
   },
   {
@@ -24246,7 +24536,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bun_cha",
-      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC"
+      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC",
+      "https://vietnam.travel/things-to-do/food-guide-bun-cha"
     ]
   },
   {
@@ -24320,7 +24611,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Caprese_salad",
-      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B5%E3%83%A9%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%AB%E3%83%97%E3%83%AC%E3%83%BC%E3%82%BC"
+      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B5%E3%83%A9%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%AB%E3%83%97%E3%83%AC%E3%83%BC%E3%82%BC",
+      "https://www.lacucinaitaliana.com/italian-food/italian-dishes/caprese-salad"
     ]
   },
   {
@@ -24401,7 +24693,8 @@
       "/images/dishes/crepe/3.jpg"
     ],
     "source": [
-      "https://en.wikipedia.org/wiki/Cr%C3%AApe"
+      "https://en.wikipedia.org/wiki/Cr%C3%AApe",
+      "https://www.larousse.fr/dictionnaires/francais/cr%C3%AApe/20389"
     ]
   },
   {
@@ -24473,7 +24766,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pirozhki",
-      "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%AD%E3%82%B7%E3%82%AD"
+      "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%AD%E3%82%B7%E3%82%AD",
+      "https://www.britannica.com/topic/pirozhki"
     ]
   },
   {
@@ -24555,7 +24849,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Enchilada",
-      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%83%81%E3%83%A9%E3%83%BC%E3%83%80"
+      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%83%81%E3%83%A9%E3%83%BC%E3%83%80",
+      "https://www.britannica.com/topic/enchilada"
     ]
   },
   {
@@ -24630,7 +24925,8 @@
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Nachos",
-      "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%81%E3%83%A7%E3%82%B9"
+      "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%81%E3%83%A7%E3%82%B9",
+      "https://www.britannica.com/topic/nachos"
     ]
   },
   {
