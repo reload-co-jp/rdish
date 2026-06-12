@@ -70096,5 +70096,2598 @@
       "/images/dishes/bami/2.jpg",
       "/images/dishes/bami/3.jpg"
     ]
+  },
+  {
+    "id": "prik-pon",
+    "name": "プリック・ポン",
+    "kana": "ぷりっくぽん",
+    "aliases": [
+      "プリックポン",
+      "タイの粉唐辛子",
+      "ローストチリフレーク"
+    ],
+    "englishName": "Prik Pon",
+    "originalName": "พริกป่น",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "乾燥唐辛子を炒る、または軽く焼いてから粗く砕いたタイの粉唐辛子。クイッティアオ屋台の卓上調味料として、辛みと香ばしさを後から足す。",
+    "menuDescription": "小さな調味料入れに入った赤い粗挽き唐辛子。麺料理、ラッナー、炒め麺、スープに少量ずつ振りかけて、辛さとロースト香を自分好みに調整する。",
+    "whatComesOut": [
+      "粗挽きの乾燥唐辛子",
+      "卓上調味料入れ",
+      "麺料理やスープへの後がけ",
+      "砂糖・ナンプラー・唐辛子酢と並ぶ調味料"
+    ],
+    "tasteAndTexture": [
+      "鋭い辛みがある",
+      "乾燥唐辛子の香ばしさ",
+      "粒感があり少量でも効く",
+      "料理の味を大きく辛口に寄せる"
+    ],
+    "orderAdvice": "タイ麺を自分で辛くしたいときに使う。最初から大量に入れず、ひとつまみずつ足すのが安全。",
+    "caution": "少量でも強く辛い。むせやすく、辛味が苦手な人は避ける。",
+    "similarItems": [
+      {
+        "id": "cayenne-pepper",
+        "name": "カイエンペッパー",
+        "difference": "どちらも粉唐辛子だが、プリック・ポンはローストした粗挽き感とタイ麺の卓上調味料としての使い方が特徴"
+      },
+      {
+        "id": "sriracha",
+        "name": "シラチャー",
+        "difference": "シラチャーは酢やにんにくを含む液体ソース、プリック・ポンは乾いた粉唐辛子"
+      }
+    ],
+    "relatedIds": [
+      "kuai-tiao",
+      "kuai-tiao-nam",
+      "kuai-tiao-rat-na",
+      "pad-see-ew",
+      "cayenne-pepper"
+    ],
+    "source": [
+      "https://www.seriouseats.com/a-guide-to-thai-noodle-soups-8414397",
+      "https://en.wikipedia.org/wiki/Rat_na",
+      "https://en.wikipedia.org/wiki/Nam_phrik"
+    ],
+    "tags": [
+      "タイ料理",
+      "調味料",
+      "スパイス",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "タイの粉唐辛子",
+      "卓上調味料",
+      "麺に入れる辛いやつ",
+      "ローストチリ",
+      "辛さ追加"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 5,
+    "images": []
+  },
+  {
+    "id": "prik-nam-som",
+    "name": "プリック・ナムソム",
+    "kana": "ぷりっくなむそむ",
+    "aliases": [
+      "プリックナムソム",
+      "タイの唐辛子酢",
+      "チリビネガー"
+    ],
+    "englishName": "Prik Nam Som",
+    "originalName": "พริกน้ำส้ม",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "刻み唐辛子を酢に漬けた、タイ麺屋台の定番卓上調味料。辛みと酸味を同時に足し、脂っぽい麺や甘い味付けを引き締める。",
+    "menuDescription": "透明な酢に青唐辛子や赤唐辛子が浮いた小瓶の調味料。クイッティアオ、ラッナー、パッシーユなどに少量かけ、酸味と辛みで味を明るくする。",
+    "whatComesOut": [
+      "唐辛子入りの酢",
+      "卓上調味料入れ",
+      "麺料理や炒め物への後がけ",
+      "酸味と辛みの味変"
+    ],
+    "tasteAndTexture": [
+      "酢のはっきりした酸味",
+      "唐辛子のすっきりした辛み",
+      "油っぽさを軽くする",
+      "甘い味付けを引き締める"
+    ],
+    "orderAdvice": "タイの麺が甘い、重い、ぼんやり感じるときに少量足す。酸味が強いのでスプーン半分から試す。",
+    "caution": "酸味と辛みが強い。入れすぎるとスープやあんの味が戻せない。",
+    "similarItems": [
+      {
+        "id": "sriracha",
+        "name": "シラチャー",
+        "difference": "どちらも唐辛子と酢を使うが、プリック・ナムソムは甘みや粘度が少ない卓上の唐辛子酢"
+      },
+      {
+        "id": "nam-pla",
+        "name": "ナンプラー",
+        "difference": "ナンプラーは塩味とうま味を足す魚醤、プリック・ナムソムは酸味と辛みを足す"
+      }
+    ],
+    "relatedIds": [
+      "kuai-tiao",
+      "kuai-tiao-nam",
+      "kuai-tiao-rat-na",
+      "pad-see-ew",
+      "sriracha",
+      "nam-pla"
+    ],
+    "source": [
+      "https://www.seriouseats.com/a-guide-to-thai-noodle-soups-8414397",
+      "https://www.bonappetit.com/story/spicy-garlic-vinegar",
+      "https://en.wikipedia.org/wiki/Rat_na"
+    ],
+    "tags": [
+      "タイ料理",
+      "ソース",
+      "スパイス",
+      "ピリ辛",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "タイの唐辛子酢",
+      "卓上調味料",
+      "麺に入れる酢",
+      "酸っぱ辛い調味料",
+      "味変"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 4,
+    "images": []
+  },
+  {
+    "id": "thot-man-pla",
+    "name": "トード・マン・プラー",
+    "kana": "とーどまんぷらー",
+    "aliases": [
+      "トートマンプラー",
+      "タイ風さつま揚げ",
+      "タイフィッシュケーキ"
+    ],
+    "englishName": "Thot Man Pla",
+    "originalName": "ทอดมันปลา",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "魚のすり身にレッドカレーペースト、こぶみかんの葉、ナンプラー、卵などを練り込み、小判形にして揚げるタイの魚すり身揚げ。",
+    "menuDescription": "赤みのある薄い小判形の魚すり身揚げ。中に細切りのいんげんやこぶみかんの葉が入り、甘いチリソースやきゅうり入りのたれを添えて出ることが多い。",
+    "whatComesOut": [
+      "揚げた魚すり身の小判",
+      "こぶみかんの葉やいんげん",
+      "甘いチリソース",
+      "きゅうりやピーナッツ入りのたれ"
+    ],
+    "tasteAndTexture": [
+      "弾力が強い",
+      "レッドカレーの香り",
+      "魚のうま味",
+      "揚げた香ばしさ",
+      "甘辛いたれで食べやすい"
+    ],
+    "orderAdvice": "前菜で頼みやすい定番。辛さは中程度で、魚すり身の弾力やタイハーブが好きなら合う。",
+    "caution": "魚、卵を使う。レッドカレーペーストやナンプラーの香りがある。",
+    "similarItems": [
+      {
+        "name": "さつま揚げ",
+        "difference": "魚すり身を揚げる点は近いが、トード・マン・プラーはレッドカレーとこぶみかんの香りが強い"
+      },
+      {
+        "id": "spring-roll",
+        "name": "春巻き",
+        "difference": "同じ揚げ前菜だが、春巻きは皮で包み、こちらは魚すり身を直接揚げる"
+      }
+    ],
+    "relatedIds": [
+      "sriracha",
+      "kaffir-lime",
+      "nam-pla",
+      "prik-pon"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Fishcake",
+      "https://en.wikipedia.org/wiki/Red_curry"
+    ],
+    "tags": [
+      "タイ料理",
+      "前菜",
+      "魚介",
+      "揚げ物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "タイ風さつま揚げ",
+      "魚すり身揚げ",
+      "レッドカレー風味",
+      "甘いチリソース",
+      "弾力ある前菜"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/thot-man-pla/1.jpg",
+      "/images/dishes/thot-man-pla/2.jpg"
+    ]
+  },
+  {
+    "id": "bo-pia-thot",
+    "name": "ボーピア・トード",
+    "kana": "ぼーぴあとーど",
+    "aliases": [
+      "ポーピア・トード",
+      "ポピアトード",
+      "タイ風揚げ春巻き"
+    ],
+    "englishName": "Popia Thot",
+    "originalName": "ปอเปี๊ยะทอด",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "野菜、春雨、肉や海老などを薄い皮で包んで揚げるタイの揚げ春巻き。中華・東南アジア系のポピアがタイで屋台前菜化したもの。",
+    "menuDescription": "細長い春巻きをカリッと揚げ、甘いチリソースを添える。具はキャベツ、にんじん、春雨、きくらげ、豚肉や海老などで、前菜や軽食として出る。",
+    "whatComesOut": [
+      "揚げ春巻き",
+      "野菜と春雨の具",
+      "豚肉または海老",
+      "甘いチリソース"
+    ],
+    "tasteAndTexture": [
+      "皮がサクサク",
+      "具はやわらかく軽い",
+      "甘辛いソース",
+      "油の香ばしさ"
+    ],
+    "orderAdvice": "辛くない前菜がほしいときに安全。子どもやタイ料理初心者にも勧めやすい。",
+    "caution": "小麦皮、揚げ油、海老入りの場合あり。甘いチリソースにも唐辛子が入る。",
+    "similarItems": [
+      {
+        "id": "spring-roll",
+        "name": "春巻き",
+        "difference": "同系統だが、ボーピア・トードはタイ料理店の甘いチリソースで食べる揚げ前菜"
+      },
+      {
+        "id": "thot-man-pla",
+        "name": "トード・マン・プラー",
+        "difference": "同じ揚げ前菜だが、トード・マン・プラーは魚すり身で皮はない"
+      }
+    ],
+    "relatedIds": [
+      "spring-roll",
+      "sriracha"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Popiah",
+      "https://en.wikipedia.org/wiki/Spring_roll"
+    ],
+    "tags": [
+      "タイ料理",
+      "前菜",
+      "野菜",
+      "小麦",
+      "揚げ物",
+      "サクサク",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "タイの揚げ春巻き",
+      "ポピアトード",
+      "甘いチリソース",
+      "辛くない前菜",
+      "サクサク春巻き"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/bo-pia-thot/1.jpg",
+      "/images/dishes/bo-pia-thot/2.jpg"
+    ]
+  },
+  {
+    "id": "som-tam-thai",
+    "name": "ソムタム・タイ",
+    "kana": "そむたむたい",
+    "aliases": [
+      "ソムタムタイ",
+      "タイ式青パパイヤサラダ"
+    ],
+    "englishName": "Som Tam Thai",
+    "originalName": "ส้มตำไทย",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "青パパイヤを唐辛子、にんにく、ライム、ナンプラー、パームシュガーで搗き和え、干し海老とピーナッツを加えるタイ式ソムタム。",
+    "menuDescription": "細切りの青パパイヤに、ライム、ナンプラー、パームシュガー、唐辛子、にんにくをすり鉢でなじませる。干し海老、ピーナッツ、トマト、いんげん入りで、プラーラーを使う東北式より食べやすい。",
+    "whatComesOut": [
+      "青パパイヤのサラダ",
+      "干し海老とピーナッツ",
+      "トマトといんげん",
+      "ライムとナンプラーのドレッシング"
+    ],
+    "tasteAndTexture": [
+      "青パパイヤがシャキシャキ",
+      "甘酸っぱく塩気がある",
+      "唐辛子の辛み",
+      "ピーナッツが香ばしい"
+    ],
+    "orderAdvice": "初めてのソムタムならソムタム・タイが無難。辛さは少なめ指定が安全。",
+    "caution": "干し海老、ピーナッツ、魚醤を使う。辛さは店で大きく変わる。",
+    "similarItems": [
+      {
+        "id": "som-tam",
+        "name": "ソムタム",
+        "difference": "ソムタム全般のうち、ソムタム・タイは干し海老とピーナッツを使う中央タイ寄りの食べやすい型"
+      },
+      {
+        "id": "laap",
+        "name": "ラープ",
+        "difference": "ラープは肉とハーブのサラダ、ソムタム・タイは青パパイヤのサラダ"
+      }
+    ],
+    "relatedIds": [
+      "som-tam",
+      "nam-pla",
+      "palm-sugar",
+      "lime",
+      "prik-pon"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Green_papaya_salad",
+      "https://www.bonappetit.com/recipe/thai-green-papaya-salad"
+    ],
+    "tags": [
+      "タイ料理",
+      "サラダ",
+      "野菜",
+      "魚介",
+      "ピリ辛",
+      "酸味",
+      "サクサク"
+    ],
+    "reverseKeywords": [
+      "青パパイヤサラダ",
+      "ソムタムタイ",
+      "干し海老入り",
+      "ピーナッツ入り",
+      "甘酸っぱいサラダ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/som-tam-thai/1.jpg",
+      "/images/dishes/som-tam-thai/2.jpg",
+      "/images/dishes/som-tam-thai/3.jpg"
+    ]
+  },
+  {
+    "id": "yam-wun-sen",
+    "name": "ヤム・ウンセン",
+    "kana": "やむうんせん",
+    "aliases": [
+      "ヤムウンセン",
+      "タイ風春雨サラダ"
+    ],
+    "englishName": "Yam Wun Sen",
+    "originalName": "ยำวุ้นเส้น",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "春雨を海老、豚ひき肉、玉ねぎ、セロリ、トマトなどと和え、ライム、ナンプラー、唐辛子で仕上げるタイの酸辛い春雨サラダ。",
+    "menuDescription": "透明な春雨に、海老や豚ひき肉、玉ねぎ、セロリ、きくらげ、トマトを混ぜ、ライムとナンプラーのドレッシングで温かいうちに和える。酸味と辛みが強く、軽い主菜にも前菜にもなる。",
+    "whatComesOut": [
+      "春雨のサラダ",
+      "海老と豚ひき肉",
+      "玉ねぎやセロリ",
+      "ライム・ナンプラー・唐辛子のドレッシング"
+    ],
+    "tasteAndTexture": [
+      "春雨がつるっとしている",
+      "ライムの酸味が強い",
+      "唐辛子で辛い",
+      "海老と豚肉のうま味がある"
+    ],
+    "orderAdvice": "さっぱりしたタイ料理がほしいときに良い。辛さは高めなので少なめ指定推奨。",
+    "caution": "海老、魚醤を使う。春雨は熱いうちに味を吸うため、味が濃いことがある。",
+    "similarItems": [
+      {
+        "id": "som-tam-thai",
+        "name": "ソムタム・タイ",
+        "difference": "どちらも酸辛いサラダだが、ヤム・ウンセンは春雨と海老・豚肉が中心"
+      },
+      {
+        "name": "春雨サラダ",
+        "difference": "日本の春雨サラダより酸味・辛み・ナンプラー香が強い"
+      }
+    ],
+    "relatedIds": [
+      "nam-pla",
+      "lime",
+      "prik-pon",
+      "prik-nam-som"
+    ],
+    "source": [
+      "https://www.epicurious.com/recipes/food/views/yum-woon-sen-thai-glass-noodle-salad",
+      "https://en.wikipedia.org/wiki/Glass_noodles",
+      "https://www.seriouseats.com/guide-to-thai-salads-5209897"
+    ],
+    "tags": [
+      "タイ料理",
+      "サラダ",
+      "魚介",
+      "豚肉",
+      "ピリ辛",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "タイ風春雨サラダ",
+      "酸っぱ辛い春雨",
+      "海老入りサラダ",
+      "ヤムウンセン",
+      "さっぱりタイ料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/yam-wun-sen/1.jpg",
+      "/images/dishes/yam-wun-sen/2.jpg",
+      "/images/dishes/yam-wun-sen/3.jpg"
+    ]
+  },
+  {
+    "id": "gaeng-chuet-wun-sen",
+    "name": "ゲーン・チュー・ウンセン",
+    "kana": "げーんちゅーうんせん",
+    "aliases": [
+      "ゲーンチューウンセン",
+      "タイ風春雨スープ",
+      "トムチューウンセン"
+    ],
+    "englishName": "Kaeng Chuet Wun Sen",
+    "originalName": "แกงจืดวุ้นเส้น",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "春雨、豆腐、野菜、豚ひき肉団子などを澄んだスープで煮る、辛くないタイの家庭的なクリアスープ。",
+    "menuDescription": "透明な春雨と豆腐、白菜やセロリ、きくらげ、豚ひき肉団子を入れた淡いスープ。辛い料理の合間に飲む、やさしい塩味の汁物として出る。",
+    "whatComesOut": [
+      "澄んだスープ",
+      "春雨",
+      "豆腐",
+      "豚ひき肉団子",
+      "野菜やきくらげ"
+    ],
+    "tasteAndTexture": [
+      "あっさりした塩味",
+      "春雨がつるっと軽い",
+      "豆腐がやわらかい",
+      "辛さはほぼない"
+    ],
+    "orderAdvice": "辛いタイ料理の逃げ場に最適。子どもや辛さが苦手な人にも向く。",
+    "caution": "豚肉、魚醤を使うことがある。透明でも熱いので注意。",
+    "similarItems": [
+      {
+        "id": "tom-kha-gai",
+        "name": "トムカーガイ",
+        "difference": "トムカーガイはココナッツとハーブのスープ、ゲーン・チューは透明で辛くない家庭スープ"
+      },
+      {
+        "id": "yam-wun-sen",
+        "name": "ヤム・ウンセン",
+        "difference": "同じ春雨だが、ヤム・ウンセンは酸辛いサラダ、こちらはあっさりスープ"
+      }
+    ],
+    "relatedIds": [
+      "nam-pla",
+      "tom-kha-gai"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes",
+      "https://en.wikipedia.org/wiki/Glass_noodles"
+    ],
+    "tags": [
+      "タイ料理",
+      "スープ",
+      "豚肉",
+      "野菜",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "辛くないタイスープ",
+      "春雨スープ",
+      "透明スープ",
+      "ゲーンチュー",
+      "家庭料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "gaeng-kari",
+    "name": "ゲーン・カリー",
+    "kana": "げーんかりー",
+    "aliases": [
+      "ゲーンガリー",
+      "タイイエローカレー",
+      "タイ黄カレー"
+    ],
+    "englishName": "Kaeng Kari",
+    "originalName": "แกงกะหรี่",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "ターメリックやカレー粉の香りが前に出る、インド・イスラム系の影響を受けたタイの黄色いカレー。鶏肉とじゃがいも入りが定番。",
+    "menuDescription": "黄色いココナッツカレーに、鶏肉、じゃがいも、玉ねぎを入れて煮込む。グリーンカレーやレッドカレーより辛さが穏やかで、カレー粉の香りが親しみやすい。",
+    "whatComesOut": [
+      "黄色いココナッツカレー",
+      "鶏肉または牛肉",
+      "じゃがいも",
+      "玉ねぎ",
+      "白ご飯またはローティー"
+    ],
+    "tasteAndTexture": [
+      "まろやかで甘みがある",
+      "ターメリックとカレー粉の香り",
+      "辛さは控えめ",
+      "じゃがいもでほくほく"
+    ],
+    "orderAdvice": "タイカレー初心者なら選びやすい。辛さが苦手ならグリーンやレッドよりこちら。",
+    "caution": "ココナッツミルク、魚醤、カレー粉を使う。辛さ控えめでもスパイス香はある。",
+    "similarItems": [
+      {
+        "id": "green-curry",
+        "name": "グリーンカレー",
+        "difference": "グリーンカレーは青唐辛子とハーブが強く辛い。ゲーン・カリーは黄色くマイルド"
+      },
+      {
+        "id": "gaeng-massaman",
+        "name": "ゲーン・マッサマン",
+        "difference": "マッサマンは甘く濃厚でナッツと温かいスパイスが強い。ゲーン・カリーはより軽い黄色カレー"
+      }
+    ],
+    "relatedIds": [
+      "green-curry",
+      "curry-powder",
+      "turmeric",
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Yellow_curry",
+      "https://en.wikipedia.org/wiki/Thai_curry",
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "鶏肉",
+      "野菜",
+      "煮込み",
+      "クリーミー",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "タイの黄色いカレー",
+      "辛くないタイカレー",
+      "じゃがいも入り",
+      "カレー粉風味",
+      "ゲーンガリー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/gaeng-kari/1.jpg",
+      "/images/dishes/gaeng-kari/2.jpg",
+      "/images/dishes/gaeng-kari/3.jpg"
+    ]
+  },
+  {
+    "id": "gaeng-phet",
+    "name": "ゲーン・ペッ",
+    "kana": "げーんぺっ",
+    "aliases": [
+      "ゲーンペット",
+      "タイレッドカレー",
+      "レッドカレー"
+    ],
+    "englishName": "Red Curry",
+    "originalName": "แกงเผ็ด",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "乾燥赤唐辛子、レモングラス、ガランガル、こぶみかん、香辛料の赤いカレーペーストをココナッツミルクで煮るタイの代表的な赤カレー。",
+    "menuDescription": "赤いココナッツカレーに、鶏肉、豚肉、牛肉、海老、豆腐などを入れ、なす、たけのこ、タイバジルを加える。グリーンカレーより香ばしい唐辛子感がある。",
+    "whatComesOut": [
+      "赤いココナッツカレー",
+      "肉または魚介",
+      "なすやたけのこ",
+      "タイバジル",
+      "白ご飯"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の辛みと香り",
+      "ココナッツのコク",
+      "ハーブの香り",
+      "ご飯に合う濃さ"
+    ],
+    "orderAdvice": "定番タイカレーを食べたいときに。辛さは中〜強めなので、辛さ耐性に合わせて。",
+    "caution": "唐辛子、海老ペースト、魚醤を使う。辛さと香りが強い。",
+    "similarItems": [
+      {
+        "id": "green-curry",
+        "name": "グリーンカレー",
+        "difference": "グリーンカレーは青唐辛子とハーブが鮮烈、ゲーン・ペッは赤唐辛子の深い香りが中心"
+      },
+      {
+        "id": "gaeng-kari",
+        "name": "ゲーン・カリー",
+        "difference": "ゲーン・カリーは黄色でマイルド、ゲーン・ペッは赤く辛い"
+      }
+    ],
+    "relatedIds": [
+      "green-curry",
+      "lemongrass",
+      "kaffir-lime",
+      "nam-pla",
+      "prik-pon"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Red_curry",
+      "https://en.wikipedia.org/wiki/Thai_curry",
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "鶏肉",
+      "野菜",
+      "煮込み",
+      "ピリ辛",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "タイの赤カレー",
+      "レッドカレー",
+      "辛いココナッツカレー",
+      "ゲーンペット",
+      "赤唐辛子カレー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/gaeng-phet/1.jpg",
+      "/images/dishes/gaeng-phet/2.jpg",
+      "/images/dishes/gaeng-phet/3.jpg"
+    ]
+  },
+  {
+    "id": "gaeng-som",
+    "name": "ゲーン・ソム",
+    "kana": "げーんそむ",
+    "aliases": [
+      "ゲーンソム",
+      "タイの酸辣カレー",
+      "サワーカレー"
+    ],
+    "englishName": "Kaeng Som",
+    "originalName": "แกงส้ม",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "タマリンドの酸味と唐辛子の辛みを効かせ、魚や海老と野菜を煮るタイの酸っぱいカレー風スープ。ココナッツミルクは使わない。",
+    "menuDescription": "赤橙色のさらっとした酸辛いスープに、魚、海老、青パパイヤ、野菜、チャオム卵焼きなどを入れる。タマリンドの酸味が強く、ご飯と一緒に食べる。",
+    "whatComesOut": [
+      "酸辛いカレースープ",
+      "魚または海老",
+      "野菜",
+      "タマリンド入りのスープ",
+      "白ご飯"
+    ],
+    "tasteAndTexture": [
+      "酸味がはっきり",
+      "唐辛子で辛い",
+      "ココナッツなしで軽い",
+      "魚介のうま味がある"
+    ],
+    "orderAdvice": "甘いココナッツカレーではなく、酸っぱ辛いスープカレーが欲しいときに向く。辛さ強めのことが多い。",
+    "caution": "魚介、海老ペースト、唐辛子を使う。酸味と辛みが強い。",
+    "similarItems": [
+      {
+        "id": "tom-yum-goong",
+        "name": "トムヤムクン",
+        "difference": "どちらも酸辛いが、ゲーン・ソムはタマリンドとカレーペーストのご飯向きスープ"
+      },
+      {
+        "id": "gaeng-phet",
+        "name": "ゲーン・ペッ",
+        "difference": "ゲーン・ペッはココナッツ入り赤カレー、ゲーン・ソムはココナッツなしの酸辛いカレー"
+      }
+    ],
+    "relatedIds": [
+      "tamarind",
+      "nam-pla",
+      "prik-pon",
+      "tom-yum-goong"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Kaeng_som",
+      "https://en.wikipedia.org/wiki/Thai_curry",
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "スープ",
+      "魚介",
+      "野菜",
+      "煮込み",
+      "ピリ辛",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "酸っぱいタイカレー",
+      "ココナッツなしカレー",
+      "タマリンドスープ",
+      "魚の酸辣スープ",
+      "ゲーンソム"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/gaeng-som/1.jpg",
+      "/images/dishes/gaeng-som/2.jpg",
+      "/images/dishes/gaeng-som/3.jpg"
+    ]
+  },
+  {
+    "id": "gaeng-massaman",
+    "name": "ゲーン・マッサマン",
+    "kana": "げーんまっさまん",
+    "aliases": [
+      "マッサマンカレー",
+      "ゲーンマッサマン"
+    ],
+    "englishName": "Massaman Curry",
+    "originalName": "แกงมัสมั่น",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "ココナッツミルク、鶏肉や牛肉、じゃがいも、玉ねぎ、ピーナッツを、シナモンやカルダモンなどの温かい香辛料で煮込む、イスラム系の影響を受けたタイカレー。",
+    "menuDescription": "茶色がかった濃厚なココナッツカレー。鶏肉または牛肉、じゃがいも、玉ねぎ、ピーナッツが入り、タマリンド、パームシュガー、魚醤で甘酸っぱく深い味に仕上げる。",
+    "whatComesOut": [
+      "濃厚なココナッツカレー",
+      "鶏肉または牛肉",
+      "じゃがいもと玉ねぎ",
+      "ピーナッツ",
+      "白ご飯またはローティー"
+    ],
+    "tasteAndTexture": [
+      "甘みとコクが強い",
+      "シナモンやカルダモンの温かい香り",
+      "辛さは比較的穏やか",
+      "肉とじゃがいもで重め"
+    ],
+    "orderAdvice": "辛いタイカレーが苦手でも食べやすい。濃厚で甘めなので、ご飯やローティーと一緒に。",
+    "caution": "ピーナッツ、ココナッツミルク、魚醤を使う。イスラム系由来のため本来は豚肉ではなく鶏・牛が多い。",
+    "similarItems": [
+      {
+        "id": "gaeng-kari",
+        "name": "ゲーン・カリー",
+        "difference": "どちらも黄色〜茶色系で穏やかだが、マッサマンはナッツと温かい香辛料でより濃厚"
+      },
+      {
+        "id": "green-curry",
+        "name": "グリーンカレー",
+        "difference": "グリーンカレーは青唐辛子とハーブで辛く軽い。マッサマンは甘く重い"
+      }
+    ],
+    "relatedIds": [
+      "green-curry",
+      "tamarind",
+      "palm-sugar",
+      "curry-powder"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Massaman_curry",
+      "https://en.wikipedia.org/wiki/Thai_curry",
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "鶏肉",
+      "牛肉",
+      "ナッツ",
+      "煮込み",
+      "こってり",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "マッサマンカレー",
+      "甘いタイカレー",
+      "じゃがいも入り",
+      "ピーナッツ入りカレー",
+      "辛さ控えめカレー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/gaeng-massaman/1.jpg",
+      "/images/dishes/gaeng-massaman/2.jpg",
+      "/images/dishes/gaeng-massaman/3.jpg"
+    ]
+  },
+  {
+    "id": "gai-ho-bai-toei",
+    "name": "ガイ・ホー・バイトゥーイ",
+    "kana": "がいほーばいとぅーい",
+    "aliases": [
+      "ガイホーバイトゥーイ",
+      "パンダンリーフチキン",
+      "鶏肉のパンダンリーフ包み揚げ"
+    ],
+    "englishName": "Gai Hor Bai Toey",
+    "originalName": "ไก่ห่อใบเตย",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "下味をつけた鶏肉をパンダンリーフで包み、香りを移しながら揚げるタイの前菜・主菜。",
+    "menuDescription": "小さく切った鶏肉を醤油、ナンプラー、にんにく、胡椒などで漬け、パンダンリーフで包んで揚げる。葉をほどいて、中の香ばしい鶏肉を甘辛いたれで食べる。",
+    "whatComesOut": [
+      "パンダンリーフで包んだ揚げ鶏",
+      "甘辛いディップ",
+      "一口大の鶏もも肉"
+    ],
+    "tasteAndTexture": [
+      "葉の甘い香り",
+      "鶏肉がジューシー",
+      "外側は香ばしい",
+      "辛さは控えめ"
+    ],
+    "orderAdvice": "辛くないタイ料理を探す時に頼みやすい。葉は香り付けなので食べず、中の鶏肉だけ食べる。",
+    "caution": "パンダンリーフは通常食べない。鶏肉、魚醤、大豆系調味料を使うことがある。",
+    "similarItems": [
+      {
+        "id": "gai-yang",
+        "name": "ガイヤーン",
+        "difference": "ガイヤーンは炭火焼き、ガイ・ホー・バイトゥーイは葉で包んで揚げる"
+      },
+      {
+        "name": "唐揚げ",
+        "difference": "唐揚げよりハーブ香が強く、甘辛いたれで食べる"
+      }
+    ],
+    "relatedIds": [
+      "gai-yang",
+      "nam-pla"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "鶏肉",
+      "揚げ物",
+      "香ばしい",
+      "ハーブ"
+    ],
+    "reverseKeywords": [
+      "パンダンチキン",
+      "葉包み揚げ",
+      "辛くないタイ料理",
+      "鶏の包み揚げ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "nam-tok",
+    "name": "ナムトック",
+    "kana": "なむとっく",
+    "aliases": [
+      "ナムトック・ムー",
+      "ナムトック・ヌア",
+      "タイ風肉のハーブサラダ"
+    ],
+    "englishName": "Nam Tok",
+    "originalName": "น้ำตก",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      },
+      {
+        "country": "ラオス"
+      }
+    ],
+    "summary": "焼いた豚肉または牛肉を薄切りにし、ライム、ナンプラー、唐辛子、炒り米粉、ハーブで和えるイーサーン系の肉サラダ。",
+    "menuDescription": "炭火で焼いた肉を温かいうちに切り、ミント、赤玉ねぎ、パクチー、炒り米粉、唐辛子で和える。ラープに近いが、挽肉ではなく焼き肉の薄切りを使う。",
+    "whatComesOut": [
+      "焼き肉の薄切り",
+      "ミントや赤玉ねぎ",
+      "炒り米粉",
+      "ライム・ナンプラー・唐辛子の和えだれ"
+    ],
+    "tasteAndTexture": [
+      "酸っぱ辛い",
+      "肉の香ばしさ",
+      "炒り米粉のざらっとした香り",
+      "ハーブが強い"
+    ],
+    "orderAdvice": "辛さが強いことが多い。もち米やソムタムと合わせると食べやすい。",
+    "caution": "魚醤、唐辛子、ハーブを多く使う。辛さ控えめ指定推奨。",
+    "similarItems": [
+      {
+        "id": "laap",
+        "name": "ラープ",
+        "difference": "ラープは挽肉中心、ナムトックは焼いた肉の薄切りを使う"
+      },
+      {
+        "id": "yam-nuea",
+        "name": "ヤム・ヌア",
+        "difference": "ヤム・ヌアは炒り米粉を使わない牛肉サラダが多い"
+      }
+    ],
+    "relatedIds": [
+      "laap",
+      "som-tam",
+      "nam-pla",
+      "lime",
+      "prik-pon"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Nam_tok_(food)",
+      "https://en.wikipedia.org/wiki/Larb"
+    ],
+    "tags": [
+      "タイ料理",
+      "サラダ",
+      "牛肉",
+      "豚肉",
+      "グリル",
+      "ピリ辛",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "焼き肉サラダ",
+      "イーサーン料理",
+      "炒り米粉",
+      "酸っぱ辛い肉料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/nam-tok/1.jpg",
+      "/images/dishes/nam-tok/2.jpg",
+      "/images/dishes/nam-tok/3.jpg"
+    ]
+  },
+  {
+    "id": "yam-nuea",
+    "name": "ヤム・ヌア",
+    "kana": "やむぬあ",
+    "aliases": [
+      "ヤムヌア",
+      "タイ風牛肉サラダ",
+      "スパイシービーフサラダ"
+    ],
+    "englishName": "Yam Nuea",
+    "originalName": "ยำเนื้อ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "牛肉をライム、ナンプラー、唐辛子、玉ねぎ、ハーブで和える、酸味と辛みの強いタイの牛肉サラダ。",
+    "menuDescription": "焼くか茹でた牛肉の薄切りに、赤玉ねぎ、きゅうり、トマト、ミント、パクチーを合わせ、ライムとナンプラーのたれで和える。前菜にも主菜にもなる。",
+    "whatComesOut": [
+      "牛肉の薄切り",
+      "玉ねぎやきゅうり",
+      "ミントやパクチー",
+      "酸辛いナンプラーだれ"
+    ],
+    "tasteAndTexture": [
+      "ライムの酸味が強い",
+      "唐辛子で辛い",
+      "牛肉のうま味",
+      "野菜がシャキッとする"
+    ],
+    "orderAdvice": "軽い肉料理がほしい時に合う。辛さは高めなので調整指定が無難。",
+    "caution": "魚醤、唐辛子、香草を使う。牛肉の火入れは店で差が出る。",
+    "similarItems": [
+      {
+        "id": "nam-tok",
+        "name": "ナムトック",
+        "difference": "ナムトックは炒り米粉と焼き肉感が強い"
+      },
+      {
+        "id": "yam-wun-sen",
+        "name": "ヤム・ウンセン",
+        "difference": "ヤム・ウンセンは春雨と魚介・豚肉中心"
+      }
+    ],
+    "relatedIds": [
+      "yam-wun-sen",
+      "nam-pla",
+      "lime",
+      "prik-pon"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes",
+      "https://www.seriouseats.com/guide-to-thai-salads-5209897"
+    ],
+    "tags": [
+      "タイ料理",
+      "サラダ",
+      "牛肉",
+      "野菜",
+      "ピリ辛",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "牛肉サラダ",
+      "タイ風ビーフサラダ",
+      "酸っぱ辛い牛肉",
+      "ヤムヌア"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 4,
+    "images": []
+  },
+  {
+    "id": "nuea-nam-man-hoi",
+    "name": "ヌア・ナムマンホイ",
+    "kana": "ぬあなむまんほい",
+    "aliases": [
+      "ヌアナムマンホイ",
+      "牛肉のオイスターソース炒め"
+    ],
+    "englishName": "Nuea Nam Man Hoi",
+    "originalName": "เนื้อน้ำมันหอย",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "牛肉と野菜をオイスターソースで炒める、タイ中華系の甘じょっぱい炒め物。",
+    "menuDescription": "薄切り牛肉を玉ねぎ、ピーマン、きのこ、青ねぎなどと炒め、オイスターソース、醤油、にんにくでまとめる。白米に合う濃いめの一皿。",
+    "whatComesOut": [
+      "牛肉の炒め物",
+      "玉ねぎや青菜",
+      "オイスターソースのたれ",
+      "白米向きの濃い味"
+    ],
+    "tasteAndTexture": [
+      "甘じょっぱい",
+      "牛肉がやわらかい",
+      "にんにくの香り",
+      "辛さは低い"
+    ],
+    "orderAdvice": "辛い料理が苦手な人に向く。ご飯ものと合わせるか、取り分け主菜にする。",
+    "caution": "オイスターソースを使うため牡蠣由来成分あり。",
+    "similarItems": [
+      {
+        "id": "phat-phak-ruam-mit",
+        "name": "パッ・パック・ルアンミット",
+        "difference": "パッ・パック・ルアンミットは野菜中心、こちらは牛肉中心"
+      },
+      {
+        "name": "青椒肉絲",
+        "difference": "青椒肉絲よりタイの魚醤・オイスターソース感が出やすい"
+      }
+    ],
+    "relatedIds": [
+      "oyster-sauce"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Oyster_sauce",
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "牛肉",
+      "炒め物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "牛肉オイスター炒め",
+      "辛くないタイ料理",
+      "ご飯に合う牛肉",
+      "タイ中華"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "or-suan",
+    "name": "オースワン",
+    "kana": "おーすわん",
+    "aliases": [
+      "オースアン",
+      "タイ風牡蠣オムレツ",
+      "牡蠣の卵とじ鉄板焼き"
+    ],
+    "englishName": "Or Suan",
+    "originalName": "ออส่วน",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "牡蠣を卵とでんぷん生地で焼き、とろみと香ばしさを出すタイ中華系の牡蠣オムレツ。",
+    "menuDescription": "牡蠣、卵、片栗粉やタピオカ粉の生地を熱い鉄板で焼き、もやしや青ねぎを添える。表面は香ばしく、中はとろっとした食感になる。",
+    "whatComesOut": [
+      "牡蠣入りの卵焼き",
+      "とろみのある生地",
+      "もやし",
+      "チリソース"
+    ],
+    "tasteAndTexture": [
+      "牡蠣のうま味が強い",
+      "外側は香ばしい",
+      "中はとろっとする",
+      "油分が多め"
+    ],
+    "orderAdvice": "牡蠣好き向け。軽い前菜より、シェアする濃厚な一皿として頼むとよい。",
+    "caution": "牡蠣、卵を使う。油分が多く、店により火入れが浅めの場合がある。",
+    "similarItems": [
+      {
+        "name": "牡蠣オムレツ",
+        "difference": "台湾や福建系の牡蠣オムレツに近いが、タイではチリソースと鉄板感が強い"
+      },
+      {
+        "id": "khai-chiao",
+        "name": "カイ・チヤオ",
+        "difference": "カイ・チヤオは卵中心の揚げ焼きオムレツ、オースワンは牡蠣とでんぷん生地が主役"
+      }
+    ],
+    "relatedIds": [
+      "sriracha"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Oyster_omelette",
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "魚介",
+      "卵",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "牡蠣オムレツ",
+      "タイ風お好み焼き",
+      "鉄板牡蠣",
+      "オースアン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/or-suan/1.jpg",
+      "/images/dishes/or-suan/2.jpg",
+      "/images/dishes/or-suan/3.jpg"
+    ]
+  },
+  {
+    "id": "ho-mok-thale",
+    "name": "ホーモック・タレー",
+    "kana": "ほーもっくたれー",
+    "aliases": [
+      "ホーモックタレー",
+      "魚介のタイ風カレー蒸し",
+      "シーフードホーモック"
+    ],
+    "englishName": "Ho Mok Thale",
+    "originalName": "ห่อหมกทะเล",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "魚介をレッドカレーペースト、ココナッツミルク、卵でまとめ、バナナの葉や器で蒸すタイのカレー蒸し。",
+    "menuDescription": "海老、魚、いかなどを赤いカレー生地と合わせ、バナナの葉の器や陶器で蒸す。ふわっとした茶碗蒸し状で、こぶみかんの葉とココナッツの香りが立つ。",
+    "whatComesOut": [
+      "魚介入りのカレー蒸し",
+      "ココナッツミルク",
+      "レッドカレーペースト",
+      "バナナの葉または器"
+    ],
+    "tasteAndTexture": [
+      "ふわっとなめらか",
+      "ココナッツでまろやか",
+      "レッドカレーの辛み",
+      "魚介のうま味"
+    ],
+    "orderAdvice": "グリーンカレーより固形で、蒸し料理として食べる。魚介とココナッツが好きなら合う。",
+    "caution": "魚介、卵、ココナッツを使う。辛さは中程度。",
+    "similarItems": [
+      {
+        "id": "green-curry",
+        "name": "グリーンカレー",
+        "difference": "グリーンカレーは汁状のカレー、ホーモックは蒸して固める"
+      },
+      {
+        "id": "gaeng-phet",
+        "name": "ゲーン・ペッ",
+        "difference": "レッドカレー系の味だが、ホーモックは卵と魚介で蒸し固める"
+      }
+    ],
+    "relatedIds": [
+      "green-curry",
+      "gaeng-phet",
+      "kaffir-lime",
+      "nam-pla"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Amok_trey",
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes",
+      "https://en.wikipedia.org/wiki/Thai_curry"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "魚介",
+      "蒸し料理",
+      "ピリ辛",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "タイ風茶碗蒸し",
+      "魚介カレー蒸し",
+      "ココナッツ蒸し",
+      "ホーモック"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": []
+  },
+  {
+    "id": "kung-op-wun-sen",
+    "name": "クン・オップ・ウンセン",
+    "kana": "くんおっぷうんせん",
+    "aliases": [
+      "クンオップウンセン",
+      "海老と春雨の土鍋蒸し",
+      "海老春雨蒸し"
+    ],
+    "englishName": "Kung Op Wun Sen",
+    "originalName": "กุ้งอบวุ้นเส้น",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "海老と春雨を生姜、にんにく、胡椒、醤油系調味料で蒸し煮にする、タイ中華系の土鍋料理。",
+    "menuDescription": "土鍋や鍋に春雨、海老、豚脂、生姜、にんにく、セロリ、胡椒を重ね、調味液を吸わせながら蒸す。春雨が海老のうま味を吸う。",
+    "whatComesOut": [
+      "海老",
+      "味を吸った春雨",
+      "生姜やにんにく",
+      "土鍋または熱い皿"
+    ],
+    "tasteAndTexture": [
+      "春雨がもちっとする",
+      "海老のうま味が濃い",
+      "胡椒と生姜が香る",
+      "辛さは控えめ"
+    ],
+    "orderAdvice": "辛くない魚介料理がほしい時に良い。春雨が主食級なので量はやや重め。",
+    "caution": "海老、魚醤、醤油系調味料を使う。土鍋提供は熱い。",
+    "similarItems": [
+      {
+        "id": "yam-wun-sen",
+        "name": "ヤム・ウンセン",
+        "difference": "ヤム・ウンセンは酸辛いサラダ、こちらは海老春雨の蒸し煮"
+      },
+      {
+        "id": "gaeng-chuet-wun-sen",
+        "name": "ゲーン・チュー・ウンセン",
+        "difference": "ゲーン・チューは汁物、こちらは汁気が少ない土鍋料理"
+      }
+    ],
+    "relatedIds": [
+      "yam-wun-sen",
+      "gaeng-chuet-wun-sen",
+      "nam-pla"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes",
+      "https://en.wikipedia.org/wiki/Glass_noodles"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "魚介",
+      "蒸し料理",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "海老春雨",
+      "土鍋春雨",
+      "辛くないタイ料理",
+      "クンオップウンセン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "pla-nueng-manao",
+    "name": "プラー・ヌン・マナーオ",
+    "kana": "ぷらーぬんまなーお",
+    "aliases": [
+      "プラーヌンマナーオ",
+      "白身魚のライム蒸し",
+      "魚のライム蒸し"
+    ],
+    "englishName": "Pla Nueng Manao",
+    "originalName": "ปลานึ่งมะนาว",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "白身魚を蒸し、ライム、にんにく、唐辛子、ナンプラーの酸辛いソースをかけるタイの魚料理。",
+    "menuDescription": "丸ごとの魚や切り身を蒸し、刻みにんにく、青唐辛子、ライム汁、ナンプラーのソースをたっぷりかける。魚の身は淡白で、ソースは鋭く酸っぱ辛い。",
+    "whatComesOut": [
+      "蒸した白身魚",
+      "ライムと唐辛子のソース",
+      "にんにく",
+      "魚のスープや蒸し汁"
+    ],
+    "tasteAndTexture": [
+      "酸味が鮮烈",
+      "唐辛子で辛い",
+      "魚はふっくら",
+      "にんにくの香りが強い"
+    ],
+    "orderAdvice": "魚をさっぱり食べたい時に最適。辛さと酸味が強いので、辛さ控えめ指定も可。",
+    "caution": "魚、魚醤、唐辛子、にんにくを多く使う。骨付き提供が多い。",
+    "similarItems": [
+      {
+        "id": "pla-jaramet-rad-prik",
+        "name": "プラー・ジャラメー・ラープリック",
+        "difference": "ラープリックは揚げ魚に甘辛いチリソース、こちらは蒸し魚に酸辛いライムソース"
+      },
+      {
+        "id": "gaeng-som",
+        "name": "ゲーン・ソム",
+        "difference": "ゲーン・ソムは酸味のあるカレースープ、こちらは蒸し魚料理"
+      }
+    ],
+    "relatedIds": [
+      "nam-pla",
+      "lime",
+      "prik-pon"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "魚介",
+      "蒸し料理",
+      "ピリ辛",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "魚のライム蒸し",
+      "蒸し魚",
+      "酸っぱ辛い魚",
+      "プラーヌンマナーオ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/pla-nueng-manao/1.jpg",
+      "/images/dishes/pla-nueng-manao/2.jpg",
+      "/images/dishes/pla-nueng-manao/3.jpg"
+    ]
+  },
+  {
+    "id": "pla-jaramet-rad-prik",
+    "name": "プラー・ジャラメー・ラープリック",
+    "kana": "ぷらーじゃらめーらーぷりっく",
+    "aliases": [
+      "プラー・ジャラメット・ラートプリック",
+      "プラーラートプリック",
+      "マナガツオのチリソースがけ"
+    ],
+    "englishName": "Pla Jaramet Rad Prik",
+    "originalName": "ปลาจาระเม็ดราดพริก",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "マナガツオなどの魚を揚げ、甘酸っぱく辛いチリソースをかけるタイの魚料理。",
+    "menuDescription": "丸ごと、または大きな切り身の魚をカリッと揚げ、にんにく、唐辛子、ナンプラー、砂糖、酸味を合わせた赤いソースをかける。外は香ばしく、ソースは甘辛い。",
+    "whatComesOut": [
+      "揚げた魚",
+      "赤いチリソース",
+      "にんにく",
+      "香菜や野菜の飾り"
+    ],
+    "tasteAndTexture": [
+      "魚の皮が香ばしい",
+      "甘辛い",
+      "酸味がある",
+      "身はふっくら"
+    ],
+    "orderAdvice": "辛さと甘さがある魚メイン。白米と合わせると食べやすい。",
+    "caution": "魚、魚醤、唐辛子を使う。骨付き丸魚で出る場合がある。",
+    "similarItems": [
+      {
+        "id": "pla-nueng-manao",
+        "name": "プラー・ヌン・マナーオ",
+        "difference": "プラー・ヌン・マナーオは蒸し魚で酸味が中心、こちらは揚げ魚で甘辛い"
+      },
+      {
+        "name": "魚の甘酢あん",
+        "difference": "甘酸っぱい魚料理に近いが、タイ式はナンプラーと唐辛子が強い"
+      }
+    ],
+    "relatedIds": [
+      "nam-pla",
+      "sriracha",
+      "prik-pon"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes",
+      "https://en.wikipedia.org/wiki/Pomfret",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "魚介",
+      "揚げ物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "揚げ魚チリソース",
+      "マナガツオ",
+      "プラーラートプリック",
+      "甘辛い魚"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": []
+  },
+  {
+    "id": "khai-chiao",
+    "name": "カイ・チヤオ",
+    "kana": "かいちやお",
+    "aliases": [
+      "カイチアオ",
+      "タイ風オムレツ",
+      "タイ風卵焼き"
+    ],
+    "englishName": "Khai Chiao",
+    "originalName": "ไข่เจียว",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "卵にナンプラーなどで味をつけ、多めの油でふくらませるように揚げ焼きするタイのオムレツ。",
+    "menuDescription": "溶き卵を高温の油に流し、縁をカリッと、中をふんわり焼く。豚ひき肉入りのカイチアオ・ムーサップや、白米にのせる屋台飯としても定番。",
+    "whatComesOut": [
+      "揚げ焼き卵",
+      "白米",
+      "チリソース",
+      "豚ひき肉入りの場合あり"
+    ],
+    "tasteAndTexture": [
+      "縁がカリッと香ばしい",
+      "中はふんわり",
+      "魚醤の塩気",
+      "辛さはソースで調整"
+    ],
+    "orderAdvice": "最も初心者向けのタイ料理の一つ。辛い料理の合間や子ども用にも使いやすい。",
+    "caution": "卵、魚醤を使う。油分は多め。",
+    "similarItems": [
+      {
+        "id": "or-suan",
+        "name": "オースワン",
+        "difference": "オースワンは牡蠣とでんぷん生地を使い、とろみが強い"
+      },
+      {
+        "name": "オムレツ",
+        "difference": "西洋オムレツより油で揚げる食感が強い"
+      }
+    ],
+    "relatedIds": [
+      "nam-pla",
+      "sriracha"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Khai_chiao",
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "卵",
+      "揚げ物",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "タイ風オムレツ",
+      "卵焼きご飯",
+      "辛くないタイ料理",
+      "カイチアオ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/khai-chiao/1.jpg",
+      "/images/dishes/khai-chiao/2.jpg",
+      "/images/dishes/khai-chiao/3.jpg"
+    ]
+  },
+  {
+    "id": "phat-phak-ruam-mit",
+    "name": "パッ・パック・ルアンミット",
+    "kana": "ぱっぱっくるあんみっと",
+    "aliases": [
+      "パットパックルアムミット",
+      "タイ風野菜炒め",
+      "ミックス野菜炒め"
+    ],
+    "englishName": "Phat Phak Ruam Mit",
+    "originalName": "ผัดผักรวมมิตร",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "複数の野菜をにんにく、オイスターソース、醤油系調味料で手早く炒めるタイの定番野菜炒め。",
+    "menuDescription": "ブロッコリー、カリフラワー、にんじん、きのこ、青菜などを強火で炒め、オイスターソースとにんにくでまとめる。辛くない副菜・主菜として出る。",
+    "whatComesOut": [
+      "ミックス野菜炒め",
+      "にんにく",
+      "オイスターソース",
+      "きのこや青菜"
+    ],
+    "tasteAndTexture": [
+      "野菜がシャキッとする",
+      "甘じょっぱい",
+      "にんにくが香る",
+      "辛さはほぼない"
+    ],
+    "orderAdvice": "辛い料理の横に置く野菜枠として便利。ベジタリアンはオイスターソース有無を確認。",
+    "caution": "オイスターソースや魚醤を使うことが多い。",
+    "similarItems": [
+      {
+        "id": "nuea-nam-man-hoi",
+        "name": "ヌア・ナムマンホイ",
+        "difference": "ヌア・ナムマンホイは牛肉中心、こちらは野菜中心"
+      },
+      {
+        "name": "野菜炒め",
+        "difference": "日本の野菜炒めよりオイスターソースとにんにくの甘じょっぱさが強い"
+      }
+    ],
+    "relatedIds": [
+      "oyster-sauce",
+      "nam-pla"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes",
+      "https://en.wikipedia.org/wiki/Oyster_sauce"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "野菜",
+      "炒め物",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "タイ野菜炒め",
+      "辛くないタイ料理",
+      "ミックス野菜",
+      "パットパック"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/phat-phak-ruam-mit/1.jpg"
+    ]
+  },
+  {
+    "id": "thai-suki",
+    "name": "タイスキ",
+    "kana": "たいすき",
+    "aliases": [
+      "タイ風スキヤキ",
+      "スキー・タイ",
+      "タイ式鍋"
+    ],
+    "englishName": "Thai Suki",
+    "originalName": "สุกี้ไทย",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "肉、魚介、野菜、春雨などを鍋で煮て、発酵豆腐やチリを使う赤いたれで食べるタイ式の鍋料理。",
+    "menuDescription": "日本のすき焼きから名を借りたタイ式鍋。鶏肉、豚肉、海老、魚団子、白菜、空心菜、春雨などをスープで煮て、甘辛酸っぱいスキーソースにつける。",
+    "whatComesOut": [
+      "卓上鍋または一人前の汁麺風",
+      "肉や魚介",
+      "野菜と春雨",
+      "赤いスキーソース"
+    ],
+    "tasteAndTexture": [
+      "たれが甘辛酸っぱい",
+      "具材はあっさり",
+      "春雨がつるっとする",
+      "辛さはたれで調整"
+    ],
+    "orderAdvice": "グループで食べやすい。辛さが苦手ならソース少なめで始める。",
+    "caution": "魚介、卵、魚醤、発酵豆腐を使う場合がある。",
+    "similarItems": [
+      {
+        "name": "すき焼き",
+        "difference": "日本のすき焼きより甘辛い割下感は弱く、チリソースで食べる鍋"
+      },
+      {
+        "id": "kung-op-wun-sen",
+        "name": "クン・オップ・ウンセン",
+        "difference": "クン・オップ・ウンセンは海老春雨の蒸し煮、タイスキは具材を煮る鍋料理"
+      }
+    ],
+    "relatedIds": [
+      "yam-wun-sen",
+      "sriracha",
+      "nam-pla"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Thai_suki",
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "魚介",
+      "野菜",
+      "煮込み",
+      "ピリ辛",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "タイ式鍋",
+      "タイすき焼き",
+      "スキーソース",
+      "春雨鍋"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/thai-suki/1.jpg",
+      "/images/dishes/thai-suki/2.jpg",
+      "/images/dishes/thai-suki/3.jpg"
+    ]
+  },
+  {
+    "id": "thong-yip",
+    "name": "トーンイップ",
+    "kana": "とーんいっぷ",
+    "aliases": [
+      "トンイップ",
+      "ทองหยิบ",
+      "黄金の花菓子"
+    ],
+    "englishName": "Thong Yip",
+    "originalName": "ทองหยิบ",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "卵黄と砂糖シロップで作る、花形に整えたタイの伝統的な黄金色の菓子。",
+    "menuDescription": "卵黄を泡立てて熱い砂糖シロップで加熱し、小さな器で花のように成形する。祝い菓子として出ることが多く、濃い甘さと卵のコクがある。",
+    "whatComesOut": [
+      "黄金色の花形菓子",
+      "卵黄ベースの生地",
+      "砂糖シロップ"
+    ],
+    "tasteAndTexture": [
+      "強い甘み",
+      "卵黄のコク",
+      "しっとり",
+      "小さく濃厚"
+    ],
+    "orderAdvice": "甘さがかなり強いので、お茶やコーヒーと少量食べるのが向く。",
+    "caution": "卵を使う。砂糖が多く、甘さは強い。",
+    "similarItems": [
+      {
+        "name": "鶏卵素麺",
+        "difference": "卵黄と砂糖を使う点は近いが、トーンイップは花形に成形する"
+      },
+      {
+        "id": "khanom-kleep-lamduan",
+        "name": "カノム・グリープラムドゥワン",
+        "difference": "カノム・グリープラムドゥワンは焼き菓子、トーンイップはシロップ菓子"
+      }
+    ],
+    "relatedIds": [
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Thong_yip",
+      "https://en.wikipedia.org/wiki/List_of_Thai_desserts"
+    ],
+    "tags": [
+      "タイ料理",
+      "デザート",
+      "卵",
+      "甘み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "タイの祝い菓子",
+      "黄金菓子",
+      "卵黄菓子",
+      "甘いタイ菓子"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/thong-yip/1.jpg",
+      "/images/dishes/thong-yip/2.jpg",
+      "/images/dishes/thong-yip/3.jpg"
+    ]
+  },
+  {
+    "id": "tako-thai",
+    "name": "タコー",
+    "kana": "たこー",
+    "aliases": [
+      "タコ",
+      "タコー・タイ",
+      "タイ風ココナッツプリン"
+    ],
+    "englishName": "Tako",
+    "originalName": "ตะโก้",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "米粉や豆粉で作る甘い層に、塩気のあるココナッツクリーム層を重ねたタイの小さな蒸し菓子。",
+    "menuDescription": "バナナの葉の小箱や小カップに、とうもろこし、タロイモ、くわいなどを入れた甘いゼリー状の層を流し、上に濃いココナッツクリームを重ねる。",
+    "whatComesOut": [
+      "小さなカップ菓子",
+      "甘い下層",
+      "塩気のあるココナッツクリーム",
+      "とうもろこしやタロイモ"
+    ],
+    "tasteAndTexture": [
+      "甘じょっぱい",
+      "なめらか",
+      "ココナッツが濃い",
+      "冷やすとぷるっとする"
+    ],
+    "orderAdvice": "ココナッツ系の冷たい甘味が好きなら合う。小さいので食後に頼みやすい。",
+    "caution": "ココナッツを使う。甘さと塩気がはっきりしている。",
+    "similarItems": [
+      {
+        "id": "khanom-khrok",
+        "name": "カノム・クロック",
+        "difference": "カノム・クロックは焼き菓子、タコーはカップ入りの蒸し・冷菓系"
+      },
+      {
+        "id": "tub-tim-krob",
+        "name": "タップティム・グロープ",
+        "difference": "タップティム・グロープは氷入りの汁菓子、タコーは小さなプリン状"
+      }
+    ],
+    "relatedIds": [
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_desserts",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "デザート",
+      "ココナッツ",
+      "蒸し料理",
+      "クリーミー",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "ココナッツプリン",
+      "タイの小菓子",
+      "甘じょっぱいデザート",
+      "タコー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tako-thai/1.jpg",
+      "/images/dishes/tako-thai/2.jpg",
+      "/images/dishes/tako-thai/3.jpg"
+    ]
+  },
+  {
+    "id": "luk-chup",
+    "name": "ルーク・チュップ",
+    "kana": "るーくちゅっぷ",
+    "aliases": [
+      "ルークチュップ",
+      "タイ風練り豆菓子",
+      "果物形豆菓子"
+    ],
+    "englishName": "Luk Chup",
+    "originalName": "ลูกชุบ",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "緑豆あんを果物や野菜の形に整え、色付けして寒天で艶を出すタイの伝統菓子。",
+    "menuDescription": "甘い緑豆ペーストを小さなマンゴー、唐辛子、みかんなどの形に成形し、着色して寒天を薄くまとわせる。見た目が鮮やかな一口菓子。",
+    "whatComesOut": [
+      "果物形の小菓子",
+      "緑豆あん",
+      "寒天のつや膜",
+      "カラフルな着色"
+    ],
+    "tasteAndTexture": [
+      "緑豆のほくっとした甘み",
+      "表面はつるっとする",
+      "中はしっとり",
+      "辛さはない"
+    ],
+    "orderAdvice": "見た目重視のタイ菓子。甘さは強めだが小さいので試しやすい。",
+    "caution": "着色料や寒天を使う。豆菓子なので餡の風味がある。",
+    "similarItems": [
+      {
+        "name": "マジパン",
+        "difference": "形作る菓子として近いが、ルーク・チュップは緑豆あんを使う"
+      },
+      {
+        "id": "thong-yip",
+        "name": "トーンイップ",
+        "difference": "トーンイップは卵黄菓子、ルーク・チュップは緑豆菓子"
+      }
+    ],
+    "relatedIds": [
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Luk_chup",
+      "https://en.wikipedia.org/wiki/List_of_Thai_desserts"
+    ],
+    "tags": [
+      "タイ料理",
+      "デザート",
+      "豆",
+      "甘み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "練り豆菓子",
+      "果物形の菓子",
+      "かわいいタイ菓子",
+      "ルークチュップ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/luk-chup/1.jpg"
+    ]
+  },
+  {
+    "id": "bua-loi",
+    "name": "ブアローイ",
+    "kana": "ぶあろーい",
+    "aliases": [
+      "ブアロイ",
+      "タイ風白玉ココナッツ汁粉"
+    ],
+    "englishName": "Bua Loi",
+    "originalName": "บัวลอย",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "もち米粉の小団子を甘いココナッツミルクで煮る、タイの温かい汁粉風デザート。",
+    "menuDescription": "色付きの小さなもち団子を、砂糖と塩をきかせたココナッツミルクで煮る。卵入りのブアローイ・カイワーンとして出ることもある。",
+    "whatComesOut": [
+      "もち米団子",
+      "甘いココナッツミルク",
+      "温かい汁",
+      "卵入りの場合あり"
+    ],
+    "tasteAndTexture": [
+      "もちもち",
+      "ココナッツが濃い",
+      "甘じょっぱい",
+      "温かくやさしい"
+    ],
+    "orderAdvice": "温かいタイデザートがほしい時に良い。もち系が好きなら合う。",
+    "caution": "ココナッツ、米粉、卵を使う場合がある。",
+    "similarItems": [
+      {
+        "name": "白玉ぜんざい",
+        "difference": "白玉の汁菓子に近いが、ブアローイはココナッツミルクで食べる"
+      },
+      {
+        "id": "tub-tim-krob",
+        "name": "タップティム・グロープ",
+        "difference": "タップティム・グロープは冷たい氷菓子、ブアローイは温かい汁粉風"
+      }
+    ],
+    "relatedIds": [
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_desserts",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "デザート",
+      "米",
+      "ココナッツ",
+      "煮込み",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "タイ風白玉",
+      "ココナッツ汁粉",
+      "温かいタイデザート",
+      "ブアロイ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bua-loi/1.jpg",
+      "/images/dishes/bua-loi/2.jpg",
+      "/images/dishes/bua-loi/3.jpg"
+    ]
+  },
+  {
+    "id": "ruam-mit",
+    "name": "ルアムミット",
+    "kana": "るあむみっと",
+    "aliases": [
+      "ルアム・ミット",
+      "タイ風ミックス冷菓",
+      "รวมมิตร"
+    ],
+    "englishName": "Ruam Mit",
+    "originalName": "รวมมิตร",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "ゼリー、豆、果物、タピオカなどをココナッツミルクやシロップ、氷と合わせるタイのミックス冷菓。",
+    "menuDescription": "色付きゼリー、タピオカ、豆、ジャックフルーツ、くわい、寒天などを器に入れ、甘いココナッツミルクやシロップと砕き氷を加える。",
+    "whatComesOut": [
+      "複数のゼリーや豆",
+      "果物",
+      "ココナッツミルク",
+      "砕き氷"
+    ],
+    "tasteAndTexture": [
+      "冷たく甘い",
+      "具材ごとに食感が違う",
+      "ココナッツが香る",
+      "軽い"
+    ],
+    "orderAdvice": "いろいろな食感を少しずつ楽しみたい時向き。具材は店で変わる。",
+    "caution": "ココナッツ、豆、着色ゼリーを使う。",
+    "similarItems": [
+      {
+        "id": "tub-tim-krob",
+        "name": "タップティム・グロープ",
+        "difference": "タップティム・グロープはくわいの赤い粒が主役、ルアムミットは具材ミックス"
+      },
+      {
+        "name": "チェー",
+        "difference": "ベトナムのチェーに近いが、タイ式の具材と香りになる"
+      }
+    ],
+    "relatedIds": [
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_desserts",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "デザート",
+      "ココナッツ",
+      "豆",
+      "あっさり",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "タイ風あんみつ",
+      "ミックス冷菓",
+      "ココナッツかき氷",
+      "ルアムミット"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ruam-mit/1.jpg",
+      "/images/dishes/ruam-mit/2.jpg",
+      "/images/dishes/ruam-mit/3.jpg"
+    ]
+  },
+  {
+    "id": "tub-tim-krob",
+    "name": "タップティム・グロープ",
+    "kana": "たっぷてぃむぐろーぷ",
+    "aliases": [
+      "タプティムクローブ",
+      "ルビーのココナッツミルク",
+      "レッドルビー"
+    ],
+    "englishName": "Tub Tim Krob",
+    "originalName": "ทับทิมกรอบ",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "赤く染めたくわいをタピオカ粉で包んで茹で、ココナッツミルクと氷で食べるタイの冷たいデザート。",
+    "menuDescription": "小さく切ったくわいを赤く色付けし、タピオカ粉をまとわせて茹でる。透明感のある赤い粒を、甘いココナッツミルクと砕き氷に入れて食べる。",
+    "whatComesOut": [
+      "赤いくわいの粒",
+      "ココナッツミルク",
+      "砕き氷",
+      "シロップ"
+    ],
+    "tasteAndTexture": [
+      "外はぷるっとする",
+      "中はシャキッとする",
+      "冷たく甘い",
+      "ココナッツがまろやか"
+    ],
+    "orderAdvice": "暑い日の食後に合う。食感が個性的なので、タイデザートらしさを試したい時向き。",
+    "caution": "ココナッツ、着色料、くわいを使う。",
+    "similarItems": [
+      {
+        "id": "ruam-mit",
+        "name": "ルアムミット",
+        "difference": "ルアムミットは具材ミックス、タップティム・グロープは赤いくわい粒が主役"
+      },
+      {
+        "id": "bua-loi",
+        "name": "ブアローイ",
+        "difference": "ブアローイはもち団子の温菓子、こちらは冷たい氷菓子"
+      }
+    ],
+    "relatedIds": [
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Tub_tim_krob",
+      "https://en.wikipedia.org/wiki/List_of_Thai_desserts"
+    ],
+    "tags": [
+      "タイ料理",
+      "デザート",
+      "ココナッツ",
+      "野菜",
+      "あっさり",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "レッドルビー",
+      "赤いタイデザート",
+      "くわいデザート",
+      "冷たいココナッツ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "sangkaya-fak-thong",
+    "name": "サンカヤー・ファクトーン",
+    "kana": "さんかやーふぁくとーん",
+    "aliases": [
+      "サンカヤーファクトーン",
+      "かぼちゃプリン",
+      "タイ風かぼちゃカスタード"
+    ],
+    "englishName": "Sangkaya Fak Thong",
+    "originalName": "สังขยาฟักทอง",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "くり抜いたかぼちゃにココナッツカスタードを流して蒸す、タイのかぼちゃプリン。",
+    "menuDescription": "小ぶりのかぼちゃの中に、卵、ココナッツミルク、パームシュガーのカスタードを詰めて蒸し、冷まして切り分ける。かぼちゃの甘みと卵のコクが合わさる。",
+    "whatComesOut": [
+      "かぼちゃのくし形切り",
+      "ココナッツカスタード",
+      "蒸したデザート"
+    ],
+    "tasteAndTexture": [
+      "カスタードが濃厚",
+      "かぼちゃはほくっとする",
+      "ココナッツが香る",
+      "甘さはしっかり"
+    ],
+    "orderAdvice": "プリンやかぼちゃ菓子が好きなら合う。重めなのでシェア向き。",
+    "caution": "卵、ココナッツを使う。",
+    "similarItems": [
+      {
+        "name": "かぼちゃプリン",
+        "difference": "日本のかぼちゃプリンよりココナッツとパームシュガーの香りが強い"
+      },
+      {
+        "id": "bua-loi",
+        "name": "ブアローイ",
+        "difference": "ブアローイは汁粉風、こちらは蒸しカスタード"
+      }
+    ],
+    "relatedIds": [
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_desserts",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "デザート",
+      "卵",
+      "野菜",
+      "蒸し料理",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "タイかぼちゃプリン",
+      "ココナッツカスタード",
+      "かぼちゃデザート",
+      "サンカヤー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "khanom-bueang",
+    "name": "カノム・ブアン",
+    "kana": "かのむぶあん",
+    "aliases": [
+      "カノムブアン",
+      "タイ風クレープ",
+      "タイ風クリスピークレープ"
+    ],
+    "englishName": "Khanom Bueang",
+    "originalName": "ขนมเบื้อง",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "薄い生地をパリッと焼き、甘いメレンゲクリームや塩味の具をのせるタイの小型クレープ。",
+    "menuDescription": "丸く薄い生地を鉄板で焼き、白いクリームを塗って、甘い卵黄糸やココナッツ、または塩味の海老・香味具をのせる屋台菓子。",
+    "whatComesOut": [
+      "小さなパリパリクレープ",
+      "白いクリーム",
+      "甘い卵黄糸または塩味の具",
+      "ココナッツ"
+    ],
+    "tasteAndTexture": [
+      "生地がパリッとする",
+      "甘いタイプは濃厚",
+      "塩味タイプは香ばしい",
+      "一口で軽い"
+    ],
+    "orderAdvice": "屋台菓子の定番。甘い具と塩味具があるので、注文時に確認するとよい。",
+    "caution": "卵、ココナッツ、小麦系材料を使うことがある。",
+    "similarItems": [
+      {
+        "name": "クレープ",
+        "difference": "フランス式より小さく、生地は薄くパリパリ"
+      },
+      {
+        "id": "khanom-khrok",
+        "name": "カノム・クロック",
+        "difference": "カノム・クロックは丸いココナッツ焼き菓子、カノム・ブアンは薄いクレープ"
+      }
+    ],
+    "relatedIds": [
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Khanom_bueang",
+      "https://en.wikipedia.org/wiki/List_of_Thai_desserts"
+    ],
+    "tags": [
+      "タイ料理",
+      "デザート",
+      "卵",
+      "焼き物",
+      "香ばしい",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "タイ風クレープ",
+      "屋台菓子",
+      "パリパリ菓子",
+      "カノムブアン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/khanom-bueang/1.jpg",
+      "/images/dishes/khanom-bueang/2.jpg",
+      "/images/dishes/khanom-bueang/3.jpg"
+    ]
+  },
+  {
+    "id": "khanom-kleep-lamduan",
+    "name": "カノム・グリープラムドゥワン",
+    "kana": "かのむぐりーぷらむどぅわん",
+    "aliases": [
+      "カノムクリープラムドゥアン",
+      "ラムドゥワン花クッキー",
+      "タイ風花形クッキー"
+    ],
+    "englishName": "Khanom Kleep Lamduan",
+    "originalName": "ขนมกลีบลำดวน",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "小麦粉、砂糖、油で作る生地をラムドゥワンの花形に整えて焼く、タイの伝統的なクッキー。",
+    "menuDescription": "ほろっと崩れる生地を三弁の花のように成形し、中心に小さな丸を置いて焼く。香り付けにキャンドルスモークを使うこともある。",
+    "whatComesOut": [
+      "花形の小さなクッキー",
+      "ほろほろした生地",
+      "香り付けされた焼き菓子"
+    ],
+    "tasteAndTexture": [
+      "ほろっと崩れる",
+      "甘さは穏やか",
+      "香ばしい",
+      "口どけが軽い"
+    ],
+    "orderAdvice": "持ち帰り菓子や茶菓子向き。派手な甘さより香りと食感を楽しむタイプ。",
+    "caution": "小麦粉を使う。店により香り付けが強い。",
+    "similarItems": [
+      {
+        "name": "スノーボールクッキー",
+        "difference": "ほろほろ食感は近いが、花形でタイの香り付けがある"
+      },
+      {
+        "id": "thong-yip",
+        "name": "トーンイップ",
+        "difference": "トーンイップは卵黄シロップ菓子、こちらは焼きクッキー"
+      }
+    ],
+    "relatedIds": [
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_desserts",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "デザート",
+      "焼き物",
+      "香ばしい",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "タイクッキー",
+      "花形クッキー",
+      "ラムドゥワン",
+      "ほろほろ菓子"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "kluai-thot",
+    "name": "クルアイ・トード",
+    "kana": "くるあいとーど",
+    "aliases": [
+      "クルアイトート",
+      "クルアイケーク",
+      "タイ風揚げバナナ"
+    ],
+    "englishName": "Kluai Thot",
+    "originalName": "กล้วยทอด",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "バナナに米粉やココナッツ入りの衣をつけて揚げる、タイの屋台系揚げ菓子。",
+    "menuDescription": "薄切りまたは縦割りのバナナに、米粉、ココナッツ、胡麻などを混ぜた衣をまとわせて揚げる。外はカリッと、中は熱く甘い。",
+    "whatComesOut": [
+      "揚げバナナ",
+      "米粉の衣",
+      "胡麻やココナッツ",
+      "紙袋や皿で提供"
+    ],
+    "tasteAndTexture": [
+      "外はカリッと香ばしい",
+      "中はとろっと甘い",
+      "油分がある",
+      "辛さはない"
+    ],
+    "orderAdvice": "屋台スナックとして食べやすい。熱いうちが最もおいしい。",
+    "caution": "揚げ油、小麦・米粉、ココナッツを使うことがある。提供直後は熱い。",
+    "similarItems": [
+      {
+        "name": "バナナ天ぷら",
+        "difference": "似ているが、タイ式は米粉やココナッツ入りの衣が多い"
+      },
+      {
+        "id": "khanom-khrok",
+        "name": "カノム・クロック",
+        "difference": "カノム・クロックは焼き菓子、クルアイ・トードは揚げ菓子"
+      }
+    ],
+    "relatedIds": [
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_desserts",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "デザート",
+      "果物",
+      "揚げ物",
+      "香ばしい",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "揚げバナナ",
+      "タイ屋台菓子",
+      "バナナフリッター",
+      "クルアイケーク"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kluai-thot/1.jpg"
+    ]
+  },
+  {
+    "id": "khanom-khrok",
+    "name": "カノム・クロック",
+    "kana": "かのむくろっく",
+    "aliases": [
+      "カノムクロック",
+      "タイ風ココナッツたこ焼き",
+      "ココナッツ米粉焼き"
+    ],
+    "englishName": "Khanom Khrok",
+    "originalName": "ขนมครก",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "米粉とココナッツミルクの生地を丸いくぼみの鉄板で焼く、タイの甘じょっぱい屋台菓子。",
+    "menuDescription": "半球状のくぼみで米粉生地とココナッツクリームを焼き、ねぎ、とうもろこし、タロイモなどをのせる。外は薄く香ばしく、中はとろっとする。",
+    "whatComesOut": [
+      "半球状の小さな焼き菓子",
+      "米粉生地",
+      "ココナッツクリーム",
+      "ねぎやとうもろこしのトッピング"
+    ],
+    "tasteAndTexture": [
+      "外は香ばしい",
+      "中はとろっとする",
+      "甘じょっぱい",
+      "ココナッツが濃い"
+    ],
+    "orderAdvice": "焼きたてを食べるのが良い。甘いだけでなく塩気やねぎの香りもある。",
+    "caution": "ココナッツ、米粉を使う。焼きたては中が熱い。",
+    "similarItems": [
+      {
+        "id": "tako-thai",
+        "name": "タコー",
+        "difference": "タコーはカップ入りのプリン状、カノム・クロックは鉄板で焼く"
+      },
+      {
+        "id": "khanom-bueang",
+        "name": "カノム・ブアン",
+        "difference": "カノム・ブアンは薄いクレープ、カノム・クロックは半球状の米粉焼き"
+      }
+    ],
+    "relatedIds": [
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Khanom_khrok",
+      "https://en.wikipedia.org/wiki/List_of_Thai_desserts"
+    ],
+    "tags": [
+      "タイ料理",
+      "デザート",
+      "米",
+      "ココナッツ",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "タイ風たこ焼き",
+      "ココナッツ焼き菓子",
+      "屋台デザート",
+      "カノムクロック"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/khanom-khrok/1.jpg",
+      "/images/dishes/khanom-khrok/2.jpg",
+      "/images/dishes/khanom-khrok/3.jpg"
+    ]
   }
 ]
