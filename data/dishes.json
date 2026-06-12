@@ -68748,5 +68748,1353 @@
       "/images/dishes/khao-niao-mamuang/2.jpg",
       "/images/dishes/khao-niao-mamuang/3.jpg"
     ]
+  },
+  {
+    "id": "khao-kha-mu",
+    "name": "カオ・カームー",
+    "kana": "かおかーむー",
+    "aliases": [
+      "カオカームー",
+      "豚足ご飯"
+    ],
+    "englishName": "Khao Kha Mu",
+    "originalName": "ข้าวขาหมู",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "醤油・香辛料で柔らかく煮込んだ豚足や豚すね肉をご飯にのせる、タイの中華系ぶっかけ飯。煮卵、漬け菜、青菜、酸辛いたれを添えることが多い。",
+    "menuDescription": "白ご飯の上に、八角や醤油の香る甘辛い煮汁でほろほろに煮た豚足を薄切りで盛り、煮卵や漬け菜、青菜を添えた一皿。別添えの酸っぱい唐辛子だれで脂を切りながら食べる。",
+    "whatComesOut": [
+      "白ご飯",
+      "甘辛く煮た豚足または豚すね肉",
+      "煮卵",
+      "漬け菜や青菜",
+      "酸辛い唐辛子だれ"
+    ],
+    "tasteAndTexture": [
+      "肉はほろほろでゼラチン質が多い",
+      "醤油と香辛料の甘辛い味",
+      "脂は多いが酸っぱいたれで締まる",
+      "ご飯に煮汁が染みてこってり"
+    ],
+    "orderAdvice": "豚の脂と煮込みの甘辛さが好きなら強い。屋台やフードコートで食べやすく、辛さは後がけで調整しやすい。",
+    "caution": "豚足の皮と脂が多い。八角など中華系香辛料が苦手なら注意。",
+    "similarItems": [
+      {
+        "name": "角煮丼",
+        "difference": "甘辛い豚煮込みをご飯にのせる点は近いが、カオ・カームーは酸辛いたれと漬け菜で食べる"
+      },
+      {
+        "name": "カオ・マン・ガイ",
+        "difference": "同じタイの一皿飯だが、カオ・マン・ガイは鶏で軽く、こちらは豚足で濃厚"
+      }
+    ],
+    "relatedIds": [
+      "kuai-tiao",
+      "soy-sauce"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Khao_kha_mu"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "豚肉",
+      "煮込み",
+      "こってり",
+      "ご飯もの"
+    ],
+    "reverseKeywords": [
+      "豚足ご飯",
+      "甘辛い豚煮込み",
+      "タイの屋台飯",
+      "煮卵付き",
+      "脂多め"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/khao-kha-mu/1.jpg",
+      "/images/dishes/khao-kha-mu/2.jpg"
+    ]
+  },
+  {
+    "id": "khao-mu-daeng-mu-krop",
+    "name": "カオ・ムー・デーン・ムー・グロープ",
+    "kana": "かおむーでーんむーぐろーぷ",
+    "aliases": [
+      "カオムーデーンムーグロープ",
+      "赤豚とカリカリ豚のせご飯"
+    ],
+    "englishName": "Khao Mu Daeng Mu Krop",
+    "originalName": "ข้าวหมูแดงหมูกรอบ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "赤く焼いた叉焼風の豚肉と、皮付き豚バラをカリッと揚げたムーグロープを白ご飯にのせ、甘いあんをかけるタイ中華の一皿飯。",
+    "menuDescription": "ご飯にムーデーン（赤い焼き豚）とムーグロープ（カリカリ豚）を盛り、甘い豆風味のたれをかける。ゆで卵、きゅうり、青ねぎ、黒醤油や唐辛子酢を添えることが多い。",
+    "whatComesOut": [
+      "白ご飯",
+      "赤い焼き豚",
+      "カリカリ豚バラ",
+      "甘いあん",
+      "ゆで卵ときゅうり"
+    ],
+    "tasteAndTexture": [
+      "焼き豚は甘香ばしい",
+      "ムーグロープは皮がサクサクで脂が強い",
+      "たれは甘めでご飯に合う",
+      "唐辛子酢で酸味と辛みを足せる"
+    ],
+    "orderAdvice": "焼き豚もカリカリ豚も食べたいときの欲張り版。甘いたれと脂が主役なので、重めの屋台飯がほしい日に向く。",
+    "caution": "豚脂が多く、甘いあんもかかる。軽い食事を期待すると重い。",
+    "similarItems": [
+      {
+        "name": "チャーシュー丼",
+        "difference": "焼き豚ご飯だが、こちらは甘いあんとカリカリ豚を合わせるタイ中華式"
+      },
+      {
+        "name": "カオ・カームー",
+        "difference": "同じ豚の一皿飯だが、カオ・カームーは煮込み、こちらは焼き豚と揚げ豚"
+      }
+    ],
+    "relatedIds": [
+      "soy-sauce",
+      "oyster-sauce"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Khao_mu_daeng"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "揚げ物",
+      "こってり",
+      "ご飯もの"
+    ],
+    "reverseKeywords": [
+      "赤い焼き豚ご飯",
+      "カリカリ豚",
+      "甘いあん",
+      "タイ中華",
+      "ムーグロープ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/khao-mu-daeng-mu-krop/1.jpg",
+      "/images/dishes/khao-mu-daeng-mu-krop/2.jpg"
+    ]
+  },
+  {
+    "id": "khao-phat",
+    "name": "カオ・パッ",
+    "kana": "かおぱっ",
+    "aliases": [
+      "カオパット",
+      "タイ炒飯",
+      "タイ風チャーハン"
+    ],
+    "englishName": "Thai Fried Rice",
+    "originalName": "ข้าวผัด",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "ジャスミンライスを卵、肉や魚介、野菜と炒め、ナンプラーなどで味付けするタイ式チャーハン。きゅうり、ライム、プリックナンプラーを添える。",
+    "menuDescription": "香りのよいタイ米を高火力で炒め、卵、鶏肉・豚肉・海老・蟹などを合わせたご飯もの。皿の横にきゅうり、トマト、ライム、唐辛子入りナンプラーが添えられることが多い。",
+    "whatComesOut": [
+      "炒めたジャスミンライス",
+      "卵",
+      "肉または魚介",
+      "きゅうりやライム",
+      "プリックナンプラー"
+    ],
+    "tasteAndTexture": [
+      "米粒が軽くパラッとしている",
+      "ナンプラーの塩気とうま味",
+      "ライムでさっぱりする",
+      "辛さは卓上調味料で調整"
+    ],
+    "orderAdvice": "タイ料理に慣れていなくても食べやすい定番。辛い料理が苦手な人、白ご飯より一皿で完結したい人に向く。",
+    "caution": "魚醤を使うため魚介アレルギーや独特の香りが苦手な場合は注意。",
+    "similarItems": [
+      {
+        "name": "チャーハン",
+        "difference": "中国式よりナンプラー、ライム、タイ米の香りが前に出る"
+      },
+      {
+        "id": "pad-thai",
+        "name": "パッタイ",
+        "difference": "同じ炒め主食だが、パッタイは米麺で甘酸っぱい"
+      }
+    ],
+    "relatedIds": [
+      "pad-thai",
+      "nam-pla"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Thai_fried_rice",
+      "https://en.wikipedia.org/wiki/Fried_rice"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "米",
+      "炒め物",
+      "あっさり",
+      "ご飯もの"
+    ],
+    "reverseKeywords": [
+      "タイのチャーハン",
+      "辛くないタイ料理",
+      "ライム付き炒飯",
+      "ナンプラー炒飯"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/khao-phat/1.jpg",
+      "/images/dishes/khao-phat/2.jpg"
+    ]
+  },
+  {
+    "id": "khao-tom",
+    "name": "カオ・トム",
+    "kana": "かおとむ",
+    "aliases": [
+      "タイ風おじや",
+      "タイの米スープ"
+    ],
+    "englishName": "Khao Tom",
+    "originalName": "ข้าวต้ม",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "炊いた米をさらっとしたスープで温め、豚ひき肉、魚、海老などを入れるタイの米スープ。朝食や軽い食事に食べられる。",
+    "menuDescription": "粒が残ったご飯を澄んだスープに入れ、豚団子、魚、海老、ねぎ、パクチー、揚げにんにくなどをのせる。粥よりさらっとしていて、卓上調味料で味を整える。",
+    "whatComesOut": [
+      "さらっとした米入りスープ",
+      "豚ひき肉または魚介",
+      "ねぎやパクチー",
+      "揚げにんにく",
+      "卓上調味料"
+    ],
+    "tasteAndTexture": [
+      "粥より粒感が残る",
+      "スープはあっさり",
+      "揚げにんにくが香ばしい",
+      "朝食向きの軽さ"
+    ],
+    "orderAdvice": "胃にやさしいもの、辛くない朝食を探すときに便利。ジョークよりさらっとした米スープが欲しい人向け。",
+    "caution": "魚介入りの場合はアレルギー注意。パクチーが入ることが多い。",
+    "similarItems": [
+      {
+        "name": "ジョーク",
+        "difference": "ジョークは米が崩れた濃い粥、カオ・トムは粒が残るスープご飯"
+      },
+      {
+        "name": "お茶漬け",
+        "difference": "米と汁の軽さは近いが、カオ・トムは肉や魚介のスープ料理"
+      }
+    ],
+    "relatedIds": [
+      "nam-pla",
+      "kuai-tiao"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Thai_cuisine",
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "スープ",
+      "米",
+      "煮込み",
+      "あっさり",
+      "ご飯もの"
+    ],
+    "reverseKeywords": [
+      "タイの朝食",
+      "米スープ",
+      "辛くない",
+      "胃にやさしい",
+      "おじや風"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/khao-tom/1.jpg",
+      "/images/dishes/khao-tom/2.jpg"
+    ]
+  },
+  {
+    "id": "phat-kaphrao-gai",
+    "name": "パッ・ガパオ・ガイ",
+    "kana": "ぱっがぱおがい",
+    "aliases": [
+      "ガパオガイ",
+      "鶏肉のガパオ炒め"
+    ],
+    "englishName": "Phat Kaphrao Gai",
+    "originalName": "ผัดกะเพราไก่",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "鶏肉をホーリーバジル、にんにく、唐辛子、ナンプラーなどで強火炒めにするタイの定番料理。ご飯と目玉焼き付きで出ることが多い。",
+    "menuDescription": "刻んだ鶏肉を唐辛子とにんにくで炒め、ホーリーバジルを最後に加えて香りを立てる。白ご飯にのせ、カリッと焼いた目玉焼きを添えるスタイルが定番。",
+    "whatComesOut": [
+      "鶏肉のバジル炒め",
+      "白ご飯",
+      "目玉焼き",
+      "唐辛子とにんにく",
+      "ナンプラー系の濃い味付け"
+    ],
+    "tasteAndTexture": [
+      "バジルの香りが強い",
+      "唐辛子とにんにくが効く",
+      "鶏肉は細かく食べやすい",
+      "目玉焼きで辛さが少し丸くなる"
+    ],
+    "orderAdvice": "タイ屋台の王道。辛さ耐性があるなら最初の一皿に良い。辛いのが苦手なら唐辛子少なめ指定が安全。",
+    "caution": "本場式はかなり辛いことがある。バジル、ナンプラー、にんにくの香りが強い。",
+    "similarItems": [
+      {
+        "name": "ガパオライス",
+        "difference": "日本語ではご飯付き全体をガパオライスと呼ぶことが多いが、料理名としては炒め物がパッ・ガパオ・ガイ"
+      },
+      {
+        "id": "khao-phat",
+        "name": "カオ・パッ",
+        "difference": "カオ・パッは炒飯で辛さ控えめ、こちらはバジル炒めを白ご飯に合わせる"
+      }
+    ],
+    "relatedIds": [
+      "basil",
+      "nam-pla",
+      "oyster-sauce"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Phat_kaphrao"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "鶏肉",
+      "炒め物",
+      "ピリ辛",
+      "ご飯もの"
+    ],
+    "reverseKeywords": [
+      "ガパオライス",
+      "鶏肉バジル炒め",
+      "ホーリーバジル",
+      "目玉焼き付き",
+      "辛い一皿飯"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 4,
+    "images": []
+  },
+  {
+    "id": "roti-thai",
+    "name": "ローティー",
+    "kana": "ろーてぃー",
+    "aliases": [
+      "タイロティ",
+      "ロティ"
+    ],
+    "englishName": "Thai Roti",
+    "originalName": "โรตี",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "薄く伸ばした小麦生地を鉄板で焼き、練乳や砂糖、バナナ、卵などを合わせるタイ屋台の甘い軽食。インド系のロティが東南アジアで広がったもの。",
+    "menuDescription": "油をひいた鉄板で薄い生地をパリッと焼き、練乳と砂糖をかける。バナナ入り、卵入り、チョコレートがけなどの甘い屋台デザートとして出ることが多い。",
+    "whatComesOut": [
+      "薄焼きの小麦生地",
+      "練乳と砂糖",
+      "バナナや卵の追加具材",
+      "食べやすく切った四角いピース"
+    ],
+    "tasteAndTexture": [
+      "外側はサクッと香ばしい",
+      "中はもちっとすることがある",
+      "練乳で強い甘み",
+      "油と小麦の屋台らしいコク"
+    ],
+    "orderAdvice": "食後の甘い屋台おやつに向く。バナナ入りは観光客にも食べやすい。甘さ控えめにしたいなら練乳少なめ。",
+    "caution": "砂糖と練乳でかなり甘い。小麦、卵、乳を使う場合が多い。",
+    "similarItems": [
+      {
+        "name": "クレープ",
+        "difference": "薄い生地の甘い軽食だが、ローティーは油で焼いた香ばしさと練乳の甘さが強い"
+      },
+      {
+        "name": "ロティチャナイ",
+        "difference": "近い平焼きパンだが、タイ屋台では甘いデザート型が目立つ"
+      }
+    ],
+    "relatedIds": [
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Roti_canai",
+      "https://en.wikipedia.org/wiki/Roti_sai_mai"
+    ],
+    "tags": [
+      "タイ料理",
+      "デザート",
+      "小麦",
+      "焼き物",
+      "甘み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "タイ屋台の甘いロティ",
+      "練乳クレープ",
+      "バナナロティ",
+      "薄焼き菓子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/roti-thai/1.jpg",
+      "/images/dishes/roti-thai/2.jpg"
+    ]
+  },
+  {
+    "id": "pathongko",
+    "name": "パートンコー",
+    "kana": "ぱーとんこー",
+    "aliases": [
+      "パトンコー",
+      "タイ式揚げパン"
+    ],
+    "englishName": "Pathongko",
+    "originalName": "ปาท่องโก๋",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "小麦生地を棒状にして油で揚げたタイの朝食・軽食。中国の油条に由来し、豆乳や粥、練乳と一緒に食べられる。",
+    "menuDescription": "二本がくっついたような形の揚げパンが数個出る。外はカリッと中はふわっとしており、温かい豆乳、コーヒー、粥、または練乳を添えて食べる。",
+    "whatComesOut": [
+      "揚げた小麦生地",
+      "豆乳や粥の添え物",
+      "練乳や甘いディップ",
+      "朝食向きの軽食"
+    ],
+    "tasteAndTexture": [
+      "外側はサクサク",
+      "中はふわっと軽い",
+      "油の香ばしさ",
+      "練乳をつけると甘い"
+    ],
+    "orderAdvice": "朝の屋台で軽く食べたいときに向く。甘いものにも塩味の粥にも合わせられる便利な揚げパン。",
+    "caution": "揚げ物なので油っぽい。小麦使用。",
+    "similarItems": [
+      {
+        "name": "油条",
+        "difference": "由来は近いが、タイでは小ぶりで豆乳や練乳と合わせる朝食・おやつとして定着"
+      },
+      {
+        "name": "ドーナツ",
+        "difference": "揚げた小麦菓子だが、パートンコーは甘い生地ではなく添え物で味を足す"
+      }
+    ],
+    "relatedIds": [],
+    "source": [
+      "https://en.wikipedia.org/wiki/Youtiao",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "軽食",
+      "小麦",
+      "揚げ物",
+      "サクサク",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "タイ式揚げパン",
+      "豆乳と食べる",
+      "朝食屋台",
+      "油条に似た揚げ物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pathongko/1.jpg"
+    ]
+  },
+  {
+    "id": "kuai-tiao-nam",
+    "name": "クイッティアオ・ナーム",
+    "kana": "くいってぃあおなーむ",
+    "aliases": [
+      "クイティアオナーム",
+      "タイの汁あり米麺"
+    ],
+    "englishName": "Kuai Tiao Nam",
+    "originalName": "ก๋วยเตี๋ยวน้ำ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "米麺を豚・鶏・牛・魚介などのスープに入れる、汁ありタイプのクイッティアオ。麺の太さと具を選び、卓上調味料で味を調える。",
+    "menuDescription": "センミー、センレック、センヤイなどの米麺を選び、澄んだスープに肉、肉団子、もやし、ねぎ、パクチーを合わせる。砂糖、酢、唐辛子、ナンプラーを好みで足す。",
+    "whatComesOut": [
+      "米麺入りスープ",
+      "肉または肉団子",
+      "もやしや青菜",
+      "ねぎやパクチー",
+      "卓上調味料"
+    ],
+    "tasteAndTexture": [
+      "スープはあっさり",
+      "米麺はつるっと軽い",
+      "調味料で甘酸っぱ辛く調整できる",
+      "具材で食べ応えが変わる"
+    ],
+    "orderAdvice": "タイの麺屋で最も基本形。初めてならセンレックまたはセンミー、辛さは後がけで少しずつ。",
+    "caution": "魚醤、魚介だし、内臓入りの店もある。苦手な具は確認。",
+    "similarItems": [
+      {
+        "id": "kuai-tiao",
+        "name": "クイッティアオ",
+        "difference": "クイッティアオ全般のうち、ナームは汁ありスープ麺を指す"
+      },
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "どちらも米麺スープだが、クイッティアオは卓上調味料で甘辛酸に調整するタイ式"
+      }
+    ],
+    "relatedIds": [
+      "kuai-tiao",
+      "nam-pla",
+      "pho"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Kuai_tiao",
+      "https://en.wikipedia.org/wiki/Kuyteav"
+    ],
+    "tags": [
+      "タイ料理",
+      "麺料理",
+      "米",
+      "スープ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "汁ありタイ麺",
+      "タイラーメン",
+      "米麺スープ",
+      "屋台の麺",
+      "辛さ調整"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "bami-haeng",
+    "name": "バミー・ヘーン",
+    "kana": "ばみーへーん",
+    "aliases": [
+      "バミーヘーン",
+      "タイの汁なし卵麺"
+    ],
+    "englishName": "Bami Haeng",
+    "originalName": "บะหมี่แห้ง",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "中華由来の卵麺バミーを、スープなしの和え麺として食べるタイの麺料理。焼き豚、ワンタン、青菜、揚げにんにくなどを合わせる。",
+    "menuDescription": "黄色い卵麺をたれと油で和え、ムーデーン、ワンタン、魚団子、青菜、ねぎ、揚げにんにくをのせる。スープは別椀で付くことが多い。",
+    "whatComesOut": [
+      "汁なし卵麺",
+      "焼き豚やワンタン",
+      "青菜",
+      "揚げにんにく",
+      "別添えスープ"
+    ],
+    "tasteAndTexture": [
+      "卵麺は細く弾力がある",
+      "油と醤油系だれで香ばしい",
+      "スープ麺より味が濃い",
+      "卓上調味料で甘酸っぱ辛くできる"
+    ],
+    "orderAdvice": "スープより麺そのものを食べたいとき向き。辛さは後がけなので頼みやすい。焼き豚付きの店なら満足感が高い。",
+    "caution": "卵麺なので小麦・卵アレルギー注意。店によっては豚脂が入る。",
+    "similarItems": [
+      {
+        "name": "油そば",
+        "difference": "汁なしで和える点は近いが、バミー・ヘーンはタイの卓上調味料で甘酸っぱく調整する"
+      },
+      {
+        "id": "kuai-tiao-nam",
+        "name": "クイッティアオ・ナーム",
+        "difference": "クイッティアオ・ナームは米麺の汁あり、こちらは卵麺の汁なし"
+      }
+    ],
+    "relatedIds": [
+      "kuai-tiao",
+      "soy-sauce",
+      "oyster-sauce"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Bakmi",
+      "https://en.wikipedia.org/wiki/Kuai_tiao"
+    ],
+    "tags": [
+      "タイ料理",
+      "麺料理",
+      "小麦",
+      "卵",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "タイの汁なし麺",
+      "黄色い卵麺",
+      "焼き豚麺",
+      "スープ別",
+      "バミーヘーン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/bami-haeng/1.jpg",
+      "/images/dishes/bami-haeng/2.jpg"
+    ]
+  },
+  {
+    "id": "kuai-tiao-yen-ta-fo",
+    "name": "クイッティアオ・イェンタフォー",
+    "kana": "くいってぃあおいぇんたふぉー",
+    "aliases": [
+      "イェンタフォー",
+      "ピンクスープ麺"
+    ],
+    "englishName": "Yen Ta Fo Noodle Soup",
+    "originalName": "ก๋วยเตี๋ยวเย็นตาโฟ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "紅腐乳などでピンク色にしたスープに米麺、魚団子、練り物、空心菜などを入れるタイ式ヨンタオフー麺。見た目は派手だが味は甘酸っぱいうま味系。",
+    "menuDescription": "米麺の上に魚団子、揚げ豆腐、イカ、空心菜などをのせ、ピンク色の発酵豆腐ソース入りスープを注ぐ。店により酸味や甘み、魚介の香りが強い。",
+    "whatComesOut": [
+      "ピンク色のスープ",
+      "米麺",
+      "魚団子や練り物",
+      "空心菜",
+      "発酵豆腐ソース"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱく発酵豆腐のコクがある",
+      "魚団子は弾力がある",
+      "米麺はつるっと軽い",
+      "見た目より辛さは店次第"
+    ],
+    "orderAdvice": "普通のクイッティアオに飽きたら試す価値あり。魚介練り物と甘酸っぱいスープが好きな人向け。",
+    "caution": "魚介、発酵豆腐、着色料が使われることがある。香りにクセがある。",
+    "similarItems": [
+      {
+        "id": "kuai-tiao-nam",
+        "name": "クイッティアオ・ナーム",
+        "difference": "こちらはピンク色の発酵豆腐ソースと魚介練り物が特徴"
+      },
+      {
+        "name": "ヨンタオフー",
+        "difference": "客家系の豆腐詰め料理が元だが、タイ版はピンクの麺スープとして独自化した"
+      }
+    ],
+    "relatedIds": [
+      "kuai-tiao",
+      "sriracha"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Yen_ta_fo"
+    ],
+    "tags": [
+      "タイ料理",
+      "麺料理",
+      "魚介",
+      "スープ",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ピンクのタイ麺",
+      "イェンタフォー",
+      "魚団子入り",
+      "発酵豆腐スープ",
+      "甘酸っぱい麺"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/kuai-tiao-yen-ta-fo/1.jpg"
+    ]
+  },
+  {
+    "id": "pad-see-ew",
+    "name": "パッシーユ",
+    "kana": "ぱっしーゆ",
+    "aliases": [
+      "パッシーイウ",
+      "パットシーユ",
+      "パッ・シーイウ"
+    ],
+    "englishName": "Pad See Ew",
+    "originalName": "ผัดซีอิ๊ว",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "太い米麺を濃口醤油、薄口醤油、卵、カイラン、肉と炒めるタイの焼き麺。鍋肌で焦がした醤油の香ばしさが特徴。",
+    "menuDescription": "センヤイなど幅広の米麺を、豚肉または鶏肉、卵、カイランと一緒に強火で炒め、黒っぽい醤油で甘香ばしく仕上げる。辛さは控えめで卓上唐辛子を足して食べる。",
+    "whatComesOut": [
+      "太い米麺の炒め麺",
+      "豚肉または鶏肉",
+      "卵",
+      "カイラン",
+      "黒醤油系の味付け"
+    ],
+    "tasteAndTexture": [
+      "醤油の香ばしさが強い",
+      "米麺はもちっと太い",
+      "辛さは控えめ",
+      "焦げ目の風味がうま味になる"
+    ],
+    "orderAdvice": "辛くないタイ麺を食べたい人に最適。甘辛醤油味なので日本人にも馴染みやすい。",
+    "caution": "醤油味が濃く、油も使う。小麦を含む醤油に注意。",
+    "similarItems": [
+      {
+        "id": "pad-thai",
+        "name": "パッタイ",
+        "difference": "パッタイは甘酸っぱいタマリンド味、パッシーユは醤油の香ばしい焼き麺"
+      },
+      {
+        "name": "チャークイティオ",
+        "difference": "太い米麺炒めで似るが、パッシーユはタイ式の甘い醤油味が中心"
+      }
+    ],
+    "relatedIds": [
+      "pad-thai",
+      "soy-sauce",
+      "oyster-sauce"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pad_see_ew",
+      "https://en.wikipedia.org/wiki/Phat_si-io"
+    ],
+    "tags": [
+      "タイ料理",
+      "麺料理",
+      "米",
+      "炒め物",
+      "香ばしい",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "醤油味のタイ焼きそば",
+      "太い米麺",
+      "辛くないタイ麺",
+      "パットシーユ",
+      "カイラン入り"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pad-see-ew/1.jpg"
+    ]
+  },
+  {
+    "id": "kuai-chap",
+    "name": "クワイジャップ",
+    "kana": "くわいじゃっぷ",
+    "aliases": [
+      "クイチャップ",
+      "クイジャップ"
+    ],
+    "englishName": "Kuai Chap",
+    "originalName": "กวยจั๊บ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "米粉のシートが筒状に巻いた麺を、豚スープ、内臓、豚肉、血豆腐、ゆで卵などと食べるタイ中華系の麺スープ。",
+    "menuDescription": "短く巻いた米麺がペンネのように入り、豚だしのスープに豚モツ、豚肉、血豆腐、卵を合わせる。胡椒の効いた澄んだスープや、五香粉系の濃いスープがある。",
+    "whatComesOut": [
+      "巻いた米麺",
+      "豚スープ",
+      "豚内臓や豚肉",
+      "血豆腐",
+      "ゆで卵"
+    ],
+    "tasteAndTexture": [
+      "巻き麺はつるっと独特",
+      "豚だしが濃い",
+      "内臓の風味がある",
+      "胡椒や五香粉が効く"
+    ],
+    "orderAdvice": "内臓系が好きなら刺さる屋台麺。普通の米麺より食感が面白い。苦手なら具材確認必須。",
+    "caution": "豚内臓、血豆腐が入ることが多い。五香粉や胡椒の香りが強い店もある。",
+    "similarItems": [
+      {
+        "id": "kuai-tiao-nam",
+        "name": "クイッティアオ・ナーム",
+        "difference": "同じ汁あり米麺だが、クワイジャップは巻いた麺と豚内臓が特徴"
+      },
+      {
+        "name": "モツ煮込み",
+        "difference": "内臓の濃さは近いが、クワイジャップは米麺入りのスープ料理"
+      }
+    ],
+    "relatedIds": [
+      "kuai-tiao",
+      "soy-sauce"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Rice_noodles",
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "麺料理",
+      "豚肉",
+      "スープ",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "巻いた米麺",
+      "豚モツ麺",
+      "血豆腐",
+      "タイ中華の麺",
+      "胡椒スープ"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/kuai-chap/1.jpg",
+      "/images/dishes/kuai-chap/2.jpg"
+    ]
+  },
+  {
+    "id": "khanom-chin",
+    "name": "カノム・ジーン",
+    "kana": "かのむじーん",
+    "aliases": [
+      "カノムチン",
+      "タイの発酵米麺"
+    ],
+    "englishName": "Khanom Chin",
+    "originalName": "ขนมจีน",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "発酵させた米粉生地から作る細い生米麺。タイではカレーや魚だれ、ハーブ、野菜をかけて食べる麺料理の土台になる。",
+    "menuDescription": "白い細麺を皿に盛り、ナムヤー、グリーンカレー、辛い魚系ソースなどをかけ、もやし、キャベツ、ハーブ、漬物を添える。麺自体はやわらかく酸味がわずかにある。",
+    "whatComesOut": [
+      "細い発酵米麺",
+      "カレーまたは魚系ソース",
+      "生野菜やハーブ",
+      "もやしやキャベツ",
+      "辛い薬味"
+    ],
+    "tasteAndTexture": [
+      "麺はやわらかく軽い",
+      "発酵由来のほのかな酸味",
+      "ソースで辛さとコクが変わる",
+      "野菜と一緒に食べて爽やか"
+    ],
+    "orderAdvice": "タイのローカル麺を試したい人向け。辛いソースも多いので、初回はマイルドなカレー系から。",
+    "caution": "ソースが辛い場合が多い。魚発酵系の香りが強い種類もある。",
+    "similarItems": [
+      {
+        "id": "kuai-tiao-nam",
+        "name": "クイッティアオ・ナーム",
+        "difference": "クイッティアオはスープ麺、カノム・ジーンは細い発酵米麺にソースをかける"
+      },
+      {
+        "name": "そうめん",
+        "difference": "細い麺の見た目は近いが、カノム・ジーンは米麺で発酵感がある"
+      }
+    ],
+    "relatedIds": [
+      "green-curry",
+      "nam-pla"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Khanom_chin",
+      "https://en.wikipedia.org/wiki/Rice_noodles"
+    ],
+    "tags": [
+      "タイ料理",
+      "麺料理",
+      "米",
+      "発酵",
+      "ピリ辛",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "発酵米麺",
+      "白い細麺",
+      "タイカレーをかける麺",
+      "野菜と食べる麺",
+      "カノムチン"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/khanom-chin/1.jpg",
+      "/images/dishes/khanom-chin/2.jpg",
+      "/images/dishes/khanom-chin/3.jpg"
+    ]
+  },
+  {
+    "id": "kuai-tiao-rat-na",
+    "name": "クイッティアオ・ラッナー",
+    "kana": "くいってぃあおらっなー",
+    "aliases": [
+      "ラッナー",
+      "ラートナー",
+      "あんかけ米麺"
+    ],
+    "englishName": "Rat Na",
+    "originalName": "ราดหน้า",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "太い米麺を炒め、肉やカイラン入りのとろみあんをかけるタイ中華系のあんかけ麺。パッシーユよりやさしい味で食べやすい。",
+    "menuDescription": "香ばしく炒めたセンヤイなどの米麺に、豚肉や鶏肉、カイランを入れた白っぽいとろみスープをかける。酢唐辛子や砂糖で卓上調整する。",
+    "whatComesOut": [
+      "炒めた太い米麺",
+      "とろみあん",
+      "豚肉または鶏肉",
+      "カイラン",
+      "卓上調味料"
+    ],
+    "tasteAndTexture": [
+      "あんはやさしい塩味とうま味",
+      "米麺はもちっと香ばしい",
+      "辛さはほぼ後がけ",
+      "とろみで体が温まる"
+    ],
+    "orderAdvice": "辛くないタイ麺が欲しいときに良い。子どもや辛味が苦手な人にも勧めやすい。",
+    "caution": "あんにとろみがあり、熱い。醤油、小麦を含む調味料に注意。",
+    "similarItems": [
+      {
+        "id": "pad-see-ew",
+        "name": "パッシーユ",
+        "difference": "パッシーユは汁なし醤油炒め、ラッナーはあんかけ麺"
+      },
+      {
+        "name": "皿うどん",
+        "difference": "あんかけ麺として近いが、ラッナーは太い米麺とカイランが中心"
+      }
+    ],
+    "relatedIds": [
+      "kuai-tiao",
+      "soy-sauce",
+      "oyster-sauce"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Rat_na",
+      "https://en.wikipedia.org/wiki/Rice_noodles"
+    ],
+    "tags": [
+      "タイ料理",
+      "麺料理",
+      "米",
+      "煮込み",
+      "あっさり",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "タイのあんかけ麺",
+      "ラートナー",
+      "太い米麺",
+      "辛くない麺",
+      "とろみスープ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kuai-tiao-rat-na/1.jpg",
+      "/images/dishes/kuai-tiao-rat-na/2.jpg",
+      "/images/dishes/kuai-tiao-rat-na/3.jpg"
+    ]
+  },
+  {
+    "id": "sen-mi",
+    "name": "センミー",
+    "kana": "せんみー",
+    "aliases": [
+      "センミー米麺",
+      "細米麺"
+    ],
+    "englishName": "Sen Mi",
+    "originalName": "เส้นหมี่",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "タイで使われる細い米麺。ビーフンに近い細さで、クイッティアオのスープ麺や炒め麺に使われる。",
+    "menuDescription": "麺の種類を選ぶ店で「センミー」と指定すると、細く軽い米麺になる。スープをよく吸い、量は軽めに感じやすい。",
+    "whatComesOut": [
+      "細い米麺",
+      "スープ麺または炒め麺",
+      "肉や野菜の具",
+      "卓上調味料"
+    ],
+    "tasteAndTexture": [
+      "細くつるつる",
+      "スープを吸いやすい",
+      "軽い食べ心地",
+      "伸びやすい"
+    ],
+    "orderAdvice": "軽く食べたい、細麺が好き、スープと一体化した麺が好きなら選ぶ。屋台麺の麺指定で役立つ。",
+    "caution": "細いので柔らかくなりやすい。小麦麺ではない。",
+    "similarItems": [
+      {
+        "id": "sen-lek",
+        "name": "センレック",
+        "difference": "センレックは中細の平たい米麺で、センミーより太く食感がある"
+      },
+      {
+        "name": "ビーフン",
+        "difference": "近い細米麺だが、タイの麺屋ではセンミーとして麺の太さを指定する"
+      }
+    ],
+    "relatedIds": [
+      "kuai-tiao",
+      "kuai-tiao-nam",
+      "pad-thai"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Rice_noodles",
+      "https://en.wikipedia.org/wiki/Rice_vermicelli"
+    ],
+    "tags": [
+      "タイ料理",
+      "麺料理",
+      "米",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "タイの細米麺",
+      "ビーフンみたいな麺",
+      "麺の太さ指定",
+      "センミー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sen-mi/1.jpg"
+    ]
+  },
+  {
+    "id": "sen-lek",
+    "name": "センレック",
+    "kana": "せんれっく",
+    "aliases": [
+      "センレック米麺",
+      "中細米麺"
+    ],
+    "englishName": "Sen Lek",
+    "originalName": "เส้นเล็ก",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "タイの中細で平たい米麺。クイッティアオやパッタイでよく使われ、細すぎず太すぎない標準的な選択肢。",
+    "menuDescription": "屋台麺で麺を選ぶときの定番。幅は細めの平麺で、スープにも炒めにも向き、つるっとしつつ少し噛みごたえがある。",
+    "whatComesOut": [
+      "中細の平たい米麺",
+      "スープ麺",
+      "炒め麺",
+      "肉や野菜の具"
+    ],
+    "tasteAndTexture": [
+      "つるっとしている",
+      "ほどよい弾力",
+      "スープにも炒めにも合う",
+      "米麺らしい軽さ"
+    ],
+    "orderAdvice": "迷ったらセンレック。パッタイやクイッティアオの標準的な食感がほしいときに選びやすい。",
+    "caution": "米麺なので小麦麺のコシとは違う。炒めると店により柔らかめになる。",
+    "similarItems": [
+      {
+        "id": "sen-mi",
+        "name": "センミー",
+        "difference": "センミーはより細く軽い。センレックは少し幅があり汎用的"
+      },
+      {
+        "id": "sen-yai",
+        "name": "センヤイ",
+        "difference": "センヤイは幅広で、センレックよりもちもち感が強い"
+      }
+    ],
+    "relatedIds": [
+      "kuai-tiao",
+      "kuai-tiao-nam",
+      "pad-thai"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Rice_noodles",
+      "https://en.wikipedia.org/wiki/Kuai_tiao"
+    ],
+    "tags": [
+      "タイ料理",
+      "麺料理",
+      "米",
+      "あっさり",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "タイの中細米麺",
+      "パッタイの麺",
+      "標準の米麺",
+      "センレック"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sen-lek/1.jpg",
+      "/images/dishes/sen-lek/2.jpg"
+    ]
+  },
+  {
+    "id": "sen-yai",
+    "name": "センヤイ",
+    "kana": "せんやい",
+    "aliases": [
+      "センヤイ米麺",
+      "幅広米麺"
+    ],
+    "englishName": "Sen Yai",
+    "originalName": "เส้นใหญ่",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "タイの幅広い平打ち米麺。パッシーユやラッナーに使われ、もちっとした食感と炒めたときの香ばしさが出やすい。",
+    "menuDescription": "幅が広く薄い米麺で、炒めると鍋肌の香りがつき、あんかけにするともちっと柔らかい。クイッティアオの麺選びでも指定できる。",
+    "whatComesOut": [
+      "幅広の米麺",
+      "炒め麺またはあんかけ麺",
+      "肉や青菜",
+      "醤油系の味付け"
+    ],
+    "tasteAndTexture": [
+      "もちもちしている",
+      "表面がなめらか",
+      "焦げ目がつくと香ばしい",
+      "食べ応えがある"
+    ],
+    "orderAdvice": "もちもち麺が好きなら選ぶ。パッシーユやラッナーでは特に相性が良い。",
+    "caution": "太くて油をまといやすい。軽い麺がよければセンミーやセンレック。",
+    "similarItems": [
+      {
+        "id": "sen-lek",
+        "name": "センレック",
+        "difference": "センレックは中細で軽い。センヤイは幅広でもちもち"
+      },
+      {
+        "name": "河粉",
+        "difference": "中国南部の幅広米麺に近く、タイ料理ではセンヤイとして使われる"
+      }
+    ],
+    "relatedIds": [
+      "pad-see-ew",
+      "kuai-tiao-rat-na",
+      "kuai-tiao"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Rice_noodles",
+      "https://en.wikipedia.org/wiki/Shahe_fen"
+    ],
+    "tags": [
+      "タイ料理",
+      "麺料理",
+      "米",
+      "もちもち",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "幅広米麺",
+      "もちもちタイ麺",
+      "パッシーユの麺",
+      "ラッナーの麺",
+      "センヤイ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sen-yai/1.jpg",
+      "/images/dishes/sen-yai/2.jpg",
+      "/images/dishes/sen-yai/3.jpg"
+    ]
+  },
+  {
+    "id": "bami",
+    "name": "バミー",
+    "kana": "ばみー",
+    "aliases": [
+      "タイ卵麺",
+      "黄色い中華麺"
+    ],
+    "englishName": "Bami",
+    "originalName": "บะหมี่",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "タイの麺屋で使われる黄色い小麦卵麺。米麺のクイッティアオと並ぶ選択肢で、スープ麺にも汁なし麺にも使う。",
+    "menuDescription": "細い黄色の卵麺で、バミー・ナームなら汁あり、バミー・ヘーンなら汁なしで出る。焼き豚、ワンタン、青菜と合わせることが多い。",
+    "whatComesOut": [
+      "黄色い小麦卵麺",
+      "スープ麺または汁なし麺",
+      "焼き豚やワンタン",
+      "青菜",
+      "揚げにんにく"
+    ],
+    "tasteAndTexture": [
+      "米麺よりコシがある",
+      "卵の香りがある",
+      "細く食べやすい",
+      "汁なしだとたれが絡む"
+    ],
+    "orderAdvice": "米麺よりラーメン寄りの食感がほしいときに選ぶ。バミー・ヘーンとセットで覚えると注文しやすい。",
+    "caution": "小麦と卵を使う。グルテンフリーではない。",
+    "similarItems": [
+      {
+        "id": "sen-lek",
+        "name": "センレック",
+        "difference": "センレックは米麺。バミーは小麦卵麺で黄色くコシがある"
+      },
+      {
+        "name": "中華麺",
+        "difference": "近いが、タイの麺屋では焼き豚やワンタンと合わせるバミーとして使われる"
+      }
+    ],
+    "relatedIds": [
+      "bami-haeng",
+      "kuai-tiao",
+      "soy-sauce"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Bakmi",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "麺料理",
+      "小麦",
+      "卵",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "タイの卵麺",
+      "黄色い麺",
+      "バミーナーム",
+      "バミーヘーン",
+      "米麺じゃない"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bami/1.jpg",
+      "/images/dishes/bami/2.jpg",
+      "/images/dishes/bami/3.jpg"
+    ]
   }
 ]
