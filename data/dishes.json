@@ -67464,5 +67464,1289 @@
       "/images/dishes/cheddar-cheese/2.jpg",
       "/images/dishes/cheddar-cheese/3.jpg"
     ]
+  },
+  {
+    "id": "smetana",
+    "name": "スメタナ",
+    "kana": "すめたな",
+    "aliases": [
+      "サワークリーム（東欧式）"
+    ],
+    "englishName": "Smetana",
+    "originalName": "Сметана",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "ロシア"
+      },
+      {
+        "country": "ウクライナ"
+      },
+      {
+        "area": "東ヨーロッパ"
+      }
+    ],
+    "summary": "中央・東ヨーロッパおよび中央アジアで広く使われる発酵乳製品。生クリームを発酵させて作り、乳脂肪分9〜42%と西洋のサワークリームより脂肪分が高く、加熱しても分離しにくい。",
+    "menuDescription": "東欧料理に欠かせない発酵クリーム。ボルシチやペリメニに添えられるほか、煮込み料理のソースやデザートにも幅広く使われる万能乳製品。",
+    "whatComesOut": [
+      "白〜淡黄色のなめらかなクリーム状の乳製品",
+      "スプーンで添えられるか、料理に混ぜ込まれた状態",
+      "単体提供の場合は小鉢やカップに盛られる"
+    ],
+    "tasteAndTexture": [
+      "まろやかな酸味とリッチなコク",
+      "濃厚でなめらかなテクスチャー",
+      "西洋サワークリームより酸味が穏やかでクリーミー",
+      "加熱しても分離しにくく料理に溶け込む"
+    ],
+    "orderAdvice": "ボルシチやペリメニなど東欧料理に添えられていたら積極的に使うべき。酸味が強い料理をまろやかにし、コクを加える。乳製品が好きなら試す価値あり。",
+    "caution": "乳製品アレルギーの方は注意。",
+    "similarItems": [
+      {
+        "name": "サワークリーム",
+        "difference": "スメタナは西洋サワークリームより脂肪分が高く酸味が穏やか。加熱時に分離しにくい"
+      },
+      {
+        "name": "クレームフレーシュ",
+        "difference": "クレームフレーシュはフランス産で脂肪分30〜40%前後。スメタナは地域・製品により脂肪分に幅があり風味も異なる"
+      },
+      {
+        "name": "ヨーグルト",
+        "difference": "ヨーグルトは低脂肪で酸味が強め。スメタナは生クリームベースでよりリッチでまろやか"
+      }
+    ],
+    "relatedIds": [
+      "borscht",
+      "pelmeni",
+      "beef-stroganoff",
+      "blini"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%A1%E3%82%BF%E3%83%8A",
+      "https://en.wikipedia.org/wiki/Smetana_(dairy_product)"
+    ],
+    "tags": [
+      "東欧料理",
+      "ロシア料理",
+      "ウクライナ料理",
+      "乳製品",
+      "発酵",
+      "クリーミー",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "ヴィーガン",
+      "乳製品不使用",
+      "あっさり",
+      "ノンファット",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/smetana/1.jpg",
+      "/images/dishes/smetana/2.jpg",
+      "/images/dishes/smetana/3.jpg"
+    ]
+  },
+  {
+    "id": "palm-sugar",
+    "name": "パームシュガー",
+    "kana": "ぱーむしゅがー",
+    "aliases": [
+      "ヤシ糖",
+      "ヤシ砂糖"
+    ],
+    "englishName": "Palm Sugar",
+    "originalName": "น้ำตาลปีบ",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      },
+      {
+        "area": "東南アジア"
+      }
+    ],
+    "summary": "ヤシの花序・幹から採取した樹液を煮詰めて固めた東南アジアの天然甘味料。白砂糖よりまろやかでキャラメルのような芳香な深みのある甘みが特徴。",
+    "menuDescription": "タイ産ヤシの樹液を煮詰めた天然甘味料。パッタイ・グリーンカレー・ガイヤーンのマリネなど、タイ料理の甘みとコクを担う縁の下の力持ち。",
+    "whatComesOut": [
+      "茶色〜黒褐色の固形または半固形の塊",
+      "料理の甘み成分として溶け込んだ状態",
+      "市場では円盤形・塊状・粉状で流通"
+    ],
+    "tasteAndTexture": [
+      "まろやかで深みのある甘み",
+      "キャラメルのような香ばしい風味",
+      "白砂糖より複雑でコクのある甘さ"
+    ],
+    "orderAdvice": "単体でオーダーするものではなく料理の甘み成分。タイ料理でほっこりとした甘みを感じたらパームシュガーが使われている。",
+    "similarItems": [
+      {
+        "name": "黒砂糖",
+        "difference": "黒砂糖はサトウキビ由来。パームシュガーはヤシ由来でより芳香でまろやか"
+      },
+      {
+        "name": "ブラウンシュガー",
+        "difference": "ブラウンシュガーはサトウキビにモラセスを加えたもの。パームシュガーはヤシ樹液から直接作る"
+      }
+    ],
+    "relatedIds": [
+      "pad-thai",
+      "tom-yum-goong",
+      "green-curry"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC",
+      "https://en.wikipedia.org/wiki/Palm_sugar"
+    ],
+    "tags": [
+      "タイ料理",
+      "東南アジア料理",
+      "調味料",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "無糖",
+      "糖質制限",
+      "甘み不要",
+      "ダイエット"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/palm-sugar/1.jpg",
+      "/images/dishes/palm-sugar/2.jpg",
+      "/images/dishes/palm-sugar/3.jpg"
+    ]
+  },
+  {
+    "id": "tamarind",
+    "name": "タマリンド",
+    "kana": "たまりんど",
+    "englishName": "Tamarind",
+    "originalName": "มะขาม",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      },
+      {
+        "country": "インド"
+      },
+      {
+        "area": "アフリカ"
+      }
+    ],
+    "summary": "マメ科の熱帯植物の莢の果肉で、甘みを伴うまろやかな酸味が特徴。タイ料理・インド料理・中東料理などで酸味付けとコク出しに広く使われる。",
+    "menuDescription": "熱帯原産のマメ科植物の果肉から作る酸味料。パッタイの甘酸っぱさ、ゲーン・ハンレーの独特のコクなど東南アジア〜南アジア料理に欠かせない食材。",
+    "whatComesOut": [
+      "茶色のペーストまたはブロック状の乾燥果肉",
+      "料理の酸味・甘みとして溶け込んだ状態",
+      "タイ・インド料理の調味として使用"
+    ],
+    "tasteAndTexture": [
+      "甘みを伴うまろやかで独特の酸味",
+      "ライムより複雑で深みのある酸味",
+      "ペーストは濃厚でねっとりした質感"
+    ],
+    "orderAdvice": "単体オーダーはしないが、パッタイの甘酸っぱさやカレーの複雑な酸味はタマリンド由来。料理の奥深い甘酸っぱさが好きなら要注目の食材。",
+    "caution": "マメ科のため豆類アレルギーの方は注意。",
+    "similarItems": [
+      {
+        "id": "lime",
+        "name": "ライム",
+        "difference": "ライムはシャープでフレッシュな酸味。タマリンドは甘みを伴う複雑でまろやかな酸味"
+      },
+      {
+        "id": "balsamic",
+        "name": "バルサミコ酢",
+        "difference": "バルサミコはブドウ由来で甘酸っぱい。タマリンドは豆果由来で独特の果実感"
+      }
+    ],
+    "relatedIds": [
+      "pad-thai",
+      "tom-yum-goong",
+      "gaeng-hang-lay"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%89",
+      "https://en.wikipedia.org/wiki/Tamarind"
+    ],
+    "tags": [
+      "タイ料理",
+      "インド料理",
+      "東南アジア料理",
+      "調味料",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "酸味が苦手",
+      "シンプルな味",
+      "和食",
+      "洋食"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tamarind/1.jpg",
+      "/images/dishes/tamarind/2.jpg",
+      "/images/dishes/tamarind/3.jpg"
+    ]
+  },
+  {
+    "id": "lime",
+    "name": "ライム",
+    "kana": "らいむ",
+    "englishName": "Lime",
+    "originalName": "มะนาว",
+    "category": "食材",
+    "regions": [
+      {
+        "area": "東南アジア"
+      },
+      {
+        "area": "中南米"
+      }
+    ],
+    "summary": "熱帯・亜熱帯原産の柑橘果実。レモンより鋭くシャープな酸味と爽やかな香りで、タイ料理・メキシコ料理・中南米料理に欠かせない。",
+    "menuDescription": "鮮烈な酸味と爽やかな香りを持つ柑橘。タイ料理ではソムタム・トムヤムクン・ラープなど多くの料理に生の果汁として使われ、絞るだけで料理全体の味が引き締まる。",
+    "whatComesOut": [
+      "緑色の小さな丸い果実またはカット状態",
+      "料理に絞って使うか付け合わせとして提供",
+      "果汁で酸味と香りを料理に加える"
+    ],
+    "tasteAndTexture": [
+      "レモンより鋭くシャープな酸味",
+      "爽やかでフローラルな独特の香り",
+      "果皮はほろ苦くアロマが強い"
+    ],
+    "orderAdvice": "タイ料理で提供されたら惜しまず絞ると料理全体が引き締まる。絞り加減で辛み・甘み・酸味のバランスを自分好みに調整できる。",
+    "similarItems": [
+      {
+        "name": "レモン",
+        "difference": "レモンはまろやかな酸味。ライムはよりシャープで異なる香りを持つ"
+      },
+      {
+        "id": "tamarind",
+        "name": "タマリンド",
+        "difference": "タマリンドは甘みを伴う複雑な酸味。ライムは鋭くフレッシュな酸味"
+      }
+    ],
+    "relatedIds": [
+      "tom-yum-goong",
+      "pad-thai",
+      "ceviche",
+      "som-tam",
+      "laap"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%A0"
+    ],
+    "tags": [
+      "タイ料理",
+      "東南アジア料理",
+      "メキシコ料理",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "酸味が苦手",
+      "甘み重視",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/lime/1.jpg",
+      "/images/dishes/lime/2.jpg",
+      "/images/dishes/lime/3.jpg"
+    ]
+  },
+  {
+    "id": "lemongrass",
+    "name": "レモングラス",
+    "kana": "れもんぐらす",
+    "aliases": [
+      "タクライ"
+    ],
+    "englishName": "Lemongrass",
+    "originalName": "Cymbopogon citratus / ตะไคร้",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "タイ"
+      },
+      {
+        "area": "東南アジア"
+      }
+    ],
+    "summary": "レモンに似た爽やかな香りを持つイネ科の多年草。東南アジア料理の香りの基本として、スープ・カレー・ソーセージなど幅広い料理に使われる。",
+    "menuDescription": "レモンを思わせる清涼感と草の香りを持つ熱帯ハーブ。トムヤムクン・グリーンカレー・ゲーン・ハンレーなどタイ料理の香りを決定づける重要な香辛料。",
+    "whatComesOut": [
+      "薄緑色の茎状または輪切り（食べない部分が多い）",
+      "スープやカレーに香りを移して取り除かれることが多い",
+      "サイウアなど加工品には細かく刻んで混ぜられる"
+    ],
+    "tasteAndTexture": [
+      "レモンに似た爽やかでスッキリした香り",
+      "草の青さとわずかなスパイシーさ",
+      "茎は繊維質で硬く直接食べるには向かない"
+    ],
+    "orderAdvice": "料理の香り成分なので単体オーダーは不要。スープやカレーで柑橘系の清涼感を感じたらレモングラスが入っている。",
+    "similarItems": [
+      {
+        "id": "kaffir-lime",
+        "name": "コブミカン",
+        "difference": "コブミカンは葉・皮を使い濃い柑橘香。レモングラスは茎・根元を使いレモン系の清涼感"
+      },
+      {
+        "name": "レモンの皮",
+        "difference": "レモンの皮は濃い柑橘香。レモングラスは草の爽やかさと柑橘が混ざった独特の香り"
+      }
+    ],
+    "relatedIds": [
+      "tom-yum-goong",
+      "green-curry",
+      "gaeng-hang-lay",
+      "sai-ua"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%A2%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9",
+      "https://en.wikipedia.org/wiki/Lemongrass"
+    ],
+    "tags": [
+      "タイ料理",
+      "東南アジア料理",
+      "ハーブ",
+      "スパイス",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "香りが苦手",
+      "シンプルな味",
+      "和食",
+      "洋食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/lemongrass/1.jpg",
+      "/images/dishes/lemongrass/2.jpg",
+      "/images/dishes/lemongrass/3.jpg"
+    ]
+  },
+  {
+    "id": "kaffir-lime",
+    "name": "コブミカン",
+    "kana": "こぶみかん",
+    "aliases": [
+      "バイマックルー",
+      "カフィルライム",
+      "マクルートライム"
+    ],
+    "englishName": "Kaffir Lime",
+    "originalName": "Citrus hystrix / ใบมะกรูด",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "タイ"
+      },
+      {
+        "area": "東南アジア"
+      }
+    ],
+    "summary": "東南アジア原産の柑橘類で、独特のダブルリーフ（双葉状）の葉と凸凹のある果皮を香辛料として使う。強い柑橘の香りがグリーンカレーやトムヤムクンに欠かせない。",
+    "menuDescription": "タイ料理・東南アジア料理の香りを特徴づける柑橘ハーブ。独特の双葉状の葉をグリーンカレーやトムヤムクンに加え、他のどの柑橘とも異なる独特のフローラルな柑橘アロマを与える。",
+    "whatComesOut": [
+      "光沢のあるダブル葉（食べる場合は細切り）",
+      "スープやカレーに香りを移した後に取り除かれることが多い",
+      "細切りにして炒め物やサイウアに混ぜられることも"
+    ],
+    "tasteAndTexture": [
+      "強烈でフローラルな柑橘の香り",
+      "レモングラスより濃くて複雑な柑橘系アロマ",
+      "葉は繊維質で細かく刻めば食べられる"
+    ],
+    "orderAdvice": "料理の香り成分。グリーンカレーやトムヤムクンで感じる独特の爽やかな柑橘の香りがこれ。タイ料理の本格的な香りを楽しむ上で重要な存在。",
+    "similarItems": [
+      {
+        "id": "lemongrass",
+        "name": "レモングラス",
+        "difference": "レモングラスは茎を使いスッキリした清涼感。コブミカンは葉・皮を使い濃くフローラルな柑橘香"
+      },
+      {
+        "id": "lime",
+        "name": "ライム",
+        "difference": "ライムは果汁で酸味をつける。コブミカンは葉・皮で香りをつける別用途"
+      }
+    ],
+    "relatedIds": [
+      "tom-yum-goong",
+      "green-curry",
+      "sai-ua",
+      "gaeng-hang-lay"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%96%E3%83%9F%E3%82%AB%E3%83%B3",
+      "https://en.wikipedia.org/wiki/Makrut_lime"
+    ],
+    "tags": [
+      "タイ料理",
+      "東南アジア料理",
+      "ハーブ",
+      "スパイス",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "香りが苦手",
+      "シンプルな味",
+      "和食",
+      "洋食"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kaffir-lime/1.jpg",
+      "/images/dishes/kaffir-lime/2.jpg",
+      "/images/dishes/kaffir-lime/3.jpg"
+    ]
+  },
+  {
+    "id": "gaeng-hang-lay",
+    "name": "ゲーン・ハンレー",
+    "kana": "げーんはんれー",
+    "aliases": [
+      "ゲーンハンレー",
+      "北タイポークカレー"
+    ],
+    "englishName": "Gaeng Hang Lay",
+    "originalName": "แกงฮังเล",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "タイ北部チェンマイを代表する豚肉カレー。ミャンマーのビルマ料理が起源とされ、タマリンドと生姜・落花生を使った甘酸っぱいコクが他のタイカレーと一線を画す。",
+    "menuDescription": "北タイを代表する豚肉カレー。ミャンマー文化の影響を受けた独特のカレーペーストにタマリンド・生姜・落花生を加え、甘みと酸味が調和した濃厚な仕上がり。ココナッツミルクをほとんど使わない。",
+    "whatComesOut": [
+      "豚バラまたは骨付き豚肉が入った濃い茶色のカレー",
+      "生姜・落花生・漬けニンニクが散らされた状態",
+      "もち米またはご飯を添えて提供"
+    ],
+    "tasteAndTexture": [
+      "タマリンドの甘酸っぱさと生姜の爽やかさが特徴",
+      "他のタイカレーより辛さ控えめでまろやか",
+      "豚肉はとろけるほど柔らかく煮込まれる",
+      "ココナッツミルク少なめで水分少なめ、こってり濃厚"
+    ],
+    "orderAdvice": "辛すぎず甘酸っぱいカレーが好きなら絶対試すべき北タイの逸品。グリーンカレーとは全く異なる個性で、初めての北タイ料理に最適。",
+    "similarItems": [
+      {
+        "id": "green-curry",
+        "name": "グリーンカレー",
+        "difference": "グリーンカレーはハーブの辛さとココナッツミルクのリッチさ。ゲーン・ハンレーはタマリンドの甘酸っぱさが特徴でマイルド"
+      },
+      {
+        "name": "マッサマンカレー",
+        "difference": "マッサマンはイスラム系の影響でスパイシーかつ甘め。ゲーン・ハンレーはビルマ系の影響で酸味が際立つ"
+      }
+    ],
+    "relatedIds": [
+      "green-curry",
+      "tamarind",
+      "lemongrass",
+      "sai-ua"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%B3%E3%83%8F%E3%83%B3%E3%83%AC%E3%83%BC"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "豚肉",
+      "煮込み",
+      "こってり",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "辛いカレー",
+      "グリーンカレー",
+      "あっさり",
+      "魚介"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "sai-ua",
+    "name": "サイウア",
+    "kana": "さいうあ",
+    "aliases": [
+      "チェンマイソーセージ",
+      "北タイソーセージ"
+    ],
+    "englishName": "Sai Ua",
+    "originalName": "ไส้อั่ว",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "タイ北部チェンマイで生まれた豚ひき肉のハーブソーセージ。レモングラス・コブミカン・ガランガル・レッドカレーペーストを練り込み、炭火で香ばしく焼き上げる。",
+    "menuDescription": "北タイを代表するハーブ入り豚肉ソーセージ。レモングラス・コブミカンの葉・ガランガルなど豊富なハーブとレッドカレーペーストが一体となり、炭火でジューシーに焼かれる。",
+    "whatComesOut": [
+      "焦げ目のついたリング状または輪切りのソーセージ",
+      "もち米と生野菜（キャベツ、ショウガなど）を添えて提供",
+      "ナムチム（タレ）が付くことが多い"
+    ],
+    "tasteAndTexture": [
+      "炭火焼きの香ばしさとハーブの爽やかな香り",
+      "レモングラス・コブミカンの柑橘系アロマが全体に広がる",
+      "ジューシーな豚肉とスパイシーな辛み",
+      "皮はパリッと中はしっとりジューシー"
+    ],
+    "orderAdvice": "北タイ料理店では必ず頼むべき一品。もち米と一緒に食べると相性抜群。ソムタムとセットで頼むのが定番スタイル。",
+    "similarItems": [
+      {
+        "id": "chorizo",
+        "name": "チョリソー",
+        "difference": "チョリソーはパプリカとにんにくが主役のスペイン系ソーセージ。サイウアはレモングラスなど東南アジアのハーブが主役"
+      },
+      {
+        "name": "ブラートヴルスト",
+        "difference": "ブラートヴルストはドイツの焼きソーセージでスパイスはシンプル。サイウアはタイのハーブ満載で全く異なる風味"
+      }
+    ],
+    "relatedIds": [
+      "chorizo",
+      "gaeng-hang-lay",
+      "lemongrass",
+      "kaffir-lime"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%82%A6%E3%82%A2"
+    ],
+    "tags": [
+      "タイ料理",
+      "前菜",
+      "豚肉",
+      "炭火焼き",
+      "ハーブ",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ハーブの香りが苦手",
+      "辛いものが苦手",
+      "洋食",
+      "さっぱり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/sai-ua/1.jpg",
+      "/images/dishes/sai-ua/2.jpg",
+      "/images/dishes/sai-ua/3.jpg"
+    ]
+  },
+  {
+    "id": "som-tam",
+    "name": "ソムタム",
+    "kana": "そむたむ",
+    "aliases": [
+      "パパイヤサラダ",
+      "タムバックフン"
+    ],
+    "englishName": "Som Tam",
+    "originalName": "ส้มตำ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "青いパパイヤを細切りにしてすり鉢で搗き、ナンプラー・ライム・パームシュガー・唐辛子で味付けしたイーサーン料理の代表的サラダ。",
+    "menuDescription": "青いパパイヤの千切りに唐辛子・ニンニク・ライム・ナンプラー・パームシュガーをすり鉢で搗き混ぜた爽快なタイサラダ。酸・辛・甘・塩のバランスが絶妙で、ガイヤーンともち米とのセットが定番。",
+    "whatComesOut": [
+      "青パパイヤの細切りにトマト・いんげん・干しエビ・ピーナッツが入ったサラダ",
+      "常温で提供される",
+      "小セイロのもち米またはガイヤーンを添えて提供されることが多い"
+    ],
+    "tasteAndTexture": [
+      "酸・辛・甘・塩が一皿に調和した複雑な味",
+      "シャキシャキした青パパイヤの食感",
+      "爽やかなライムの香りとナンプラーのコク",
+      "辛さは選べることが多く激辛にもなりえる"
+    ],
+    "orderAdvice": "辛さを「ノット・スパイシー」と指定すれば初心者でも楽しめる。ガイヤーンとラープとセットで頼むイーサーンの黄金トリオ。",
+    "caution": "生エビや生カニを使うバリエーション（ソムタム・プー）は寄生虫リスクあり。",
+    "similarItems": [
+      {
+        "id": "laap",
+        "name": "ラープ",
+        "difference": "ラープはひき肉ベースのハーブサラダ。ソムタムは青パパイヤの野菜サラダ"
+      },
+      {
+        "id": "coleslaw-dressing",
+        "name": "コールスロー",
+        "difference": "コールスローはマヨネーズベースの西洋サラダ。ソムタムはライム・ナンプラー・唐辛子の東南アジア式"
+      }
+    ],
+    "relatedIds": [
+      "nam-pla",
+      "pad-thai",
+      "laap",
+      "gai-yang"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%A0%E3%82%BF%E3%83%A0"
+    ],
+    "tags": [
+      "タイ料理",
+      "サラダ",
+      "野菜",
+      "ピリ辛",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "温かい料理",
+      "煮込み",
+      "重い料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/som-tam/1.jpg",
+      "/images/dishes/som-tam/2.jpg",
+      "/images/dishes/som-tam/3.jpg"
+    ]
+  },
+  {
+    "id": "laap",
+    "name": "ラープ",
+    "kana": "らーぷ",
+    "aliases": [
+      "ラーブ",
+      "ラブ"
+    ],
+    "englishName": "Laab",
+    "originalName": "ລາບ / ลาบ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ラオス"
+      },
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "豚・鶏・牛などの挽肉をライム・ナンプラー・炒り米粉・唐辛子・ミントと和えたラオス・イーサーンの代表的ハーブサラダ。ラオスの国民的料理。",
+    "menuDescription": "挽肉にライム果汁・ナンプラー・炒って砕いたもち米（カオクア）・乾燥唐辛子・ミント・シャロットを混ぜたラオス・北タイの伝統的ハーブサラダ。温かく提供されもち米と一緒に食べる。",
+    "whatComesOut": [
+      "挽肉とハーブが混ざった温かいサラダ",
+      "ミント・シャロット・唐辛子が散らされた状態",
+      "もち米・生野菜（キャベツ・インゲンなど）を添えて提供"
+    ],
+    "tasteAndTexture": [
+      "ライムの酸味とナンプラーの旨みが絡み合う",
+      "炒り米粉（カオクア）のナッツのような香ばしさ",
+      "ミントの清涼感と唐辛子の辛みが共存",
+      "肉はパラパラで汁気は少ない"
+    ],
+    "orderAdvice": "辛さの指定が重要。もち米と一緒に食べるのが必須。生肉バージョン（ラープディップ）は初めてなら加熱バージョンを選ぶのが安全。",
+    "caution": "生肉のラープ（ラープディップ）は食中毒リスクあり。初めてなら加熱バージョンを選ぶこと。",
+    "similarItems": [
+      {
+        "id": "som-tam",
+        "name": "ソムタム",
+        "difference": "ソムタムは青パパイヤの野菜サラダ。ラープは挽肉ベースのハーブサラダ"
+      },
+      {
+        "id": "tartare",
+        "name": "タルタル",
+        "difference": "タルタルは西洋の生肉料理。ラープは東南アジアのハーブ豊富な挽肉サラダで加熱バージョンが一般的"
+      }
+    ],
+    "relatedIds": [
+      "nam-pla",
+      "som-tam",
+      "gai-yang",
+      "lime"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%83%97_(%E6%96%99%E7%90%86)",
+      "https://en.wikipedia.org/wiki/Larb"
+    ],
+    "tags": [
+      "タイ料理",
+      "東南アジア料理",
+      "サラダ",
+      "豚肉",
+      "鶏肉",
+      "ピリ辛",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "温かい料理",
+      "煮込み",
+      "スープ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/laap/1.jpg",
+      "/images/dishes/laap/2.jpg"
+    ]
+  },
+  {
+    "id": "gai-yang",
+    "name": "ガイヤーン",
+    "kana": "がいやーん",
+    "aliases": [
+      "ガイ・ヤーン",
+      "タイ式バーベキューチキン"
+    ],
+    "englishName": "Gai Yang",
+    "originalName": "ไก่ย่าง",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "ナンプラー・ニンニク・ターメリック・レモングラスなどで漬け込んだ鶏肉を炭火で長時間グリルするイーサーン・北タイの郷土料理。",
+    "menuDescription": "半羽の鶏をハーブとスパイスのマリネ液に漬け込み、炭火でじっくり低温グリルした北タイ・イーサーン料理。皮はパリッとジューシーに仕上がり、甘辛のジャエウソースと合わせる。",
+    "whatComesOut": [
+      "半羽または部位ごとに炭火で焼かれた鶏肉",
+      "甘辛のジャエウソース（タレ）を添えて提供",
+      "ソムタムやもち米とセットで提供されることが多い"
+    ],
+    "tasteAndTexture": [
+      "炭火の香ばしさとスパイスマリネの風味",
+      "皮はパリッと中はジューシー",
+      "ターメリックとレモングラスの風味が肉全体に染みる",
+      "甘みと塩気のバランスが取れた風味"
+    ],
+    "orderAdvice": "ソムタム・もち米とセットで頼むのがイーサーン料理の基本スタイル。辛さはタレで調整できるため初心者にも最も親しみやすいタイ料理の一つ。",
+    "similarItems": [
+      {
+        "id": "yakitori",
+        "name": "焼き鳥",
+        "difference": "焼き鳥は醤油・みりんベースの日本式。ガイヤーンはナンプラー・ターメリック・レモングラスのタイ式"
+      },
+      {
+        "id": "tandoori",
+        "name": "タンドーリチキン",
+        "difference": "タンドーリはヨーグルトとスパイスで漬け込み高温で焼く。ガイヤーンはナンプラー系マリネで炭火低温長時間グリル"
+      }
+    ],
+    "relatedIds": [
+      "yakitori",
+      "tandoori",
+      "nam-pla",
+      "som-tam",
+      "laap"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%A4%E3%83%BB%E3%83%A4%E3%83%BC%E3%83%B3"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "鶏肉",
+      "炭火焼き",
+      "グリル",
+      "香ばしい",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "魚介",
+      "ベジタリアン",
+      "スープ",
+      "煮込み"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/gai-yang/1.jpg",
+      "/images/dishes/gai-yang/2.jpg",
+      "/images/dishes/gai-yang/3.jpg"
+    ]
+  },
+  {
+    "id": "khao-man-gai",
+    "name": "カオマンガイ",
+    "kana": "かおまんがい",
+    "aliases": [
+      "カオマンカイ",
+      "タイ式チキンライス"
+    ],
+    "englishName": "Khao Man Gai",
+    "originalName": "ข้าวมันไก่",
+    "category": "料理",
+    "regions": [
+      "タイ"
+    ],
+    "summary": "茹でた鶏肉と鶏茹で汁で炊いた米飯に、発酵豆腐・ショウガ・ニンニクのタレをかけたタイのチキンライス。海南島の文昌鶏をルーツに持つ。",
+    "menuDescription": "鶏を丸ごと茹でたスープで炊いた旨味あふれる米飯の上に、しっとり茹でた鶏肉を乗せ、発酵豆腐ベースのコク深いタレと薄切りキュウリを添えた一皿。別添えの澄んだ鶏スープと共にいただく。",
+    "whatComesOut": [
+      "鶏茹で汁で炊いた白米",
+      "薄切り茹で鶏（胸肉または腿肉）",
+      "発酵豆腐・ショウガ・ニンニクのタレ",
+      "薄切りキュウリ",
+      "澄んだ鶏スープ（別椀）"
+    ],
+    "tasteAndTexture": [
+      "ご飯が鶏の旨味を吸ってしっとり香る",
+      "鶏肉はやわらかくジューシー",
+      "タレは甘辛で発酵のコクがある",
+      "全体にあっさりしていて食べやすい"
+    ],
+    "orderAdvice": "辛さがほぼなくタイ料理初心者にも安心。ランチや軽食として最適。タレは少量から試すと味のバランスがわかる。",
+    "caution": "タレに発酵大豆を使うことが多く、大豆アレルギーの方は確認を。",
+    "similarItems": [
+      {
+        "name": "海南チキンライス（シンガポール版）",
+        "difference": "ルーツは同じだがタレの構成が異なり、シンガポール版はショウガ・チリソースが中心"
+      },
+      {
+        "name": "ガイヤーン",
+        "difference": "同じ鶏料理だがガイヤーンはグリル焼きで香ばしさが主役、カオマンガイは茹でてあっさり"
+      },
+      {
+        "name": "ガパオライス",
+        "difference": "ガパオはバジル炒め＋目玉焼きで味が濃く辛い、カオマンガイはマイルドで上品"
+      }
+    ],
+    "relatedIds": [
+      "gai-yang",
+      "gapao",
+      "tom-kha-gai"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%AA%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%A4"
+    ],
+    "tags": [
+      "タイ料理",
+      "ご飯もの",
+      "鶏肉",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "辛い料理",
+      "スパイシー",
+      "揚げ物",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/khao-man-gai/1.jpg",
+      "/images/dishes/khao-man-gai/2.jpg",
+      "/images/dishes/khao-man-gai/3.jpg"
+    ]
+  },
+  {
+    "id": "tom-kha-gai",
+    "name": "トムカーガイ",
+    "kana": "とむかーがい",
+    "aliases": [
+      "トムカガイ",
+      "ガランガルチキンスープ"
+    ],
+    "englishName": "Tom Kha Gai",
+    "originalName": "ต้มข่าไก่",
+    "category": "料理",
+    "regions": [
+      "タイ"
+    ],
+    "summary": "ガランガル（カー）・レモングラス・コブミカンの葉を効かせたスープにヤシの実ミルクを合わせたクリーミーな鶏スープ。トムヤムクンのマイルド版として人気。",
+    "menuDescription": "ガランガル・レモングラス・コブミカンの葉が香るタイのハーブスープ。ヤシの実ミルクで仕立てたクリーミーなスープに、やわらかい鶏肉とキノコを煮込み、ライムとナンプラーで仕上げた一椀。",
+    "whatComesOut": [
+      "ガランガル・レモングラス入りヤシの実ミルクスープ",
+      "鶏肉（一口大）",
+      "えのきや椎茸などキノコ",
+      "コブミカンの葉（飾り・食べない）",
+      "ライム"
+    ],
+    "tasteAndTexture": [
+      "ヤシの実ミルクのコクとまろやかな酸味",
+      "ガランガルの清涼感ある土っぽい香り",
+      "トムヤムクンより辛さが少なくマイルド",
+      "ナンプラーの旨味が深い"
+    ],
+    "orderAdvice": "トムヤムクンが辛すぎると感じた人に最適。辛さを抑えたクリーミーなタイスープで食べやすい。ただしガランガルの独特な香りが好みを分けることがある。",
+    "caution": "ガランガル・レモングラスなどの繊維質ハーブは飾りのため食べないのが一般的。",
+    "similarItems": [
+      {
+        "name": "トムヤムクン",
+        "difference": "同じタイのハーブスープだが、トムヤムクンはヤシの実ミルクなしで辛さと酸味が強い"
+      },
+      {
+        "name": "グリーンカレー",
+        "difference": "グリーンカレーもヤシの実ミルクベースだが、スパイスが強くカレーペースト主体"
+      },
+      {
+        "name": "カオソーイ",
+        "difference": "カオソーイもヤシの実ミルク系だが麺料理でより重く、スパイスが前面に出る"
+      }
+    ],
+    "relatedIds": [
+      "tom-yum-goong",
+      "lemongrass",
+      "kaffir-lime",
+      "khao-man-gai",
+      "khao-soi"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Tom_kha_gai"
+    ],
+    "tags": [
+      "タイ料理",
+      "スープ",
+      "鶏肉",
+      "ハーブ",
+      "煮込み",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "辛い料理",
+      "あっさりスープ",
+      "さっぱり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/tom-kha-gai/1.jpg",
+      "/images/dishes/tom-kha-gai/2.jpg",
+      "/images/dishes/tom-kha-gai/3.jpg"
+    ]
+  },
+  {
+    "id": "khao-soi",
+    "name": "カオソーイ",
+    "kana": "かおそーい",
+    "aliases": [
+      "カオソイ",
+      "チェンマイカレーラーメン"
+    ],
+    "englishName": "Khao Soi",
+    "originalName": "ข้าวซอย",
+    "category": "料理",
+    "regions": [
+      "タイ"
+    ],
+    "summary": "チェンマイ発祥の北タイ料理。カレーペーストとヤシの実ミルクで仕立てたスープに、茹で卵麺と揚げ卵麺の両方を盛り込む独特のカレーラーメン。",
+    "menuDescription": "カレーペーストとヤシの実ミルクのリッチなスープに柔らかい茹で卵麺を沈め、サクサクの揚げ卵麺をトッピングした北タイ名物。ザーサイ・エシャロット・ライム・チリオイルを添えて自分で味を調えながら食べる。",
+    "whatComesOut": [
+      "カレーヤシの実ミルクスープ",
+      "茹で卵麺（やわらかい）",
+      "揚げ卵麺（サクサク・トッピング）",
+      "鶏肉または牛肉",
+      "ザーサイ・エシャロット・ライム・チリオイル（薬味）"
+    ],
+    "tasteAndTexture": [
+      "茹で麺とサクサク揚げ麺の二種の食感",
+      "カレーとヤシの実ミルクの濃厚なコク",
+      "スパイスが効いていて適度な辛さ",
+      "薬味のライム・ザーサイで酸味と清涼感"
+    ],
+    "orderAdvice": "北タイのチェンマイを訪れたら必食の名物料理。揚げ麺のサクサク感が独特。辛さは中程度。薬味を入れると風味が変わって二度楽しめる。",
+    "caution": "卵麺を使用するため卵・小麦アレルギーに注意。",
+    "similarItems": [
+      {
+        "name": "グリーンカレー",
+        "difference": "同じヤシの実ミルクカレーだが、グリーンカレーは麺なしでスパイスがより鮮烈"
+      },
+      {
+        "name": "クイッティアオ",
+        "difference": "同じタイの麺料理だがクイッティアオは米麺＋あっさりスープで辛さが少ない"
+      },
+      {
+        "name": "ゲーン・ハンレー",
+        "difference": "同じ北タイのカレーだがゲーン・ハンレーは豚バラの濃厚煮込みで麺なし"
+      }
+    ],
+    "relatedIds": [
+      "green-curry",
+      "gaeng-hang-lay",
+      "lemongrass",
+      "tom-kha-gai",
+      "kuai-tiao"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%AA%E3%82%BD%E3%83%BC%E3%82%A4"
+    ],
+    "tags": [
+      "タイ料理",
+      "麺料理",
+      "鶏肉",
+      "煮込み",
+      "こってり",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "あっさりスープ",
+      "辛くない料理",
+      "麺不要",
+      "スパイス嫌い"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/khao-soi/1.jpg",
+      "/images/dishes/khao-soi/2.jpg",
+      "/images/dishes/khao-soi/3.jpg"
+    ]
+  },
+  {
+    "id": "kuai-tiao",
+    "name": "クイッティアオ",
+    "kana": "くいってぃあお",
+    "aliases": [
+      "クイティアオ",
+      "タイラーメン"
+    ],
+    "englishName": "Kuai Tiao",
+    "originalName": "ก๋วยเตี๋ยว",
+    "category": "料理",
+    "regions": [
+      "タイ"
+    ],
+    "summary": "豚・鶏・魚のスープに米粉麺を入れたタイ版ラーメン。太麺（センヤイ）・中細麺（センレク）・細麺（センミー）を選べ、スープあり・なし（ヘーン）の両方で食べられるタイの日常食。",
+    "menuDescription": "豚・鶏・魚などで取った澄んだスープに、お好みの米粉麺を合わせたタイの定番麺料理。スライス肉やミートボール・もやし・パクチーを乗せ、卓上の魚醤・砂糖・チリ・酢で自分好みに仕上げる。",
+    "whatComesOut": [
+      "澄んだ豚骨・鶏・魚スープ（またはヘーン=汁なし）",
+      "米粉麺（センヤイ・センレク・センミーから選択）",
+      "スライス豚肉や肉団子・内臓類など",
+      "もやし・ネギ・パクチー",
+      "魚醤・砂糖・チリ・酢などの卓上調味料"
+    ],
+    "tasteAndTexture": [
+      "スープはあっさりしながら旨味が深い",
+      "米粉麺はつるりとした食感",
+      "卓上調味料で辛さ・甘み・酸味を自由に調節できる",
+      "もやしのシャキシャキ感が食感に変化をもたらす"
+    ],
+    "orderAdvice": "タイで最もポピュラーな日常麺料理。麺の太さとスープあり・なしを指定して注文する。初めてなら細麺＋スープあり（ナム）が無難。調味料は少しずつ加えて調節を。",
+    "caution": "魚醤・魚介だし使用のため魚介アレルギーに注意。内臓類が入ることもあるため苦手な場合は注文時に確認を。",
+    "similarItems": [
+      {
+        "name": "パッタイ",
+        "difference": "同じ米麺を使うが、パッタイは炒めた甘辛スタイルでクイッティアオはスープ麺"
+      },
+      {
+        "name": "カオソーイ",
+        "difference": "カオソーイはカレーヤシの実ミルクスープで卵麺使用、クイッティアオはあっさり米麺"
+      },
+      {
+        "name": "フォー",
+        "difference": "どちらも米粉麺スープだがフォーはベトナム料理でスターアニスが香る"
+      }
+    ],
+    "relatedIds": [
+      "pad-thai",
+      "som-tam",
+      "khao-soi"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Kuai_tiao"
+    ],
+    "tags": [
+      "タイ料理",
+      "麺料理",
+      "豚肉",
+      "米",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "スープなし",
+      "洋食",
+      "パスタ",
+      "炒め物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/kuai-tiao/1.jpg",
+      "/images/dishes/kuai-tiao/2.jpg",
+      "/images/dishes/kuai-tiao/3.jpg"
+    ]
+  },
+  {
+    "id": "poo-pad-pong-curry",
+    "name": "プーパッポンカリー",
+    "kana": "ぷーぱっぽんかりー",
+    "aliases": [
+      "プーパッポンカレー",
+      "カニカレー炒め"
+    ],
+    "englishName": "Poo Pad Pong Curry",
+    "originalName": "ปูผัดผงกะหรี่",
+    "category": "料理",
+    "regions": [
+      "タイ"
+    ],
+    "summary": "殻ごと調理したカニをカレー粉と溶き卵で絡めて炒めたバンコク名物。ソンブーンレストランで有名になったシーフード料理。",
+    "menuDescription": "カニを殻ごとカレー粉・ナンプラー・卵でふんわりと炒め上げた一品。カレーの香りをまとった卵がカニに絡み、甘み・旨味・コクが凝縮。セロリの緑色が彩りを添える。",
+    "whatComesOut": [
+      "カニ（殻付き・一口大に割ったもの）",
+      "カレー粉と卵のふんわりしたソース",
+      "セロリ・長ねぎ",
+      "白米（通常セット提供）"
+    ],
+    "tasteAndTexture": [
+      "カレー粉の香りとカニの甘い旨味",
+      "卵ソースがまろやかでふんわりとした口当たり",
+      "殻ごと食べるため食べにくいが旨味が濃い",
+      "ナンプラーの深い塩味がアクセント"
+    ],
+    "orderAdvice": "バンコクのシーフードレストランで外せない定番。殻ごと調理されているため食べる際は手が汚れる。おしぼりや手洗い用の水を用意してくれる店が多い。白米と一緒に食べるのが定番。",
+    "caution": "甲殻類アレルギーの方は不可。殻で手や口を傷つけないよう注意。",
+    "similarItems": [
+      {
+        "name": "グリーンカレー",
+        "difference": "同じタイカレー系だが、グリーンカレーはカレーペーストで辛さが強く汁気が多い"
+      },
+      {
+        "name": "ガパオライス",
+        "difference": "同じタイの炒め物だが、ガパオは鶏ひき肉＋バジルで辛くシンプル"
+      },
+      {
+        "name": "パッタイ",
+        "difference": "同じ魚介系でも、パッタイは麺炒めで甘酸っぱく仕上がる"
+      }
+    ],
+    "relatedIds": [
+      "green-curry",
+      "gapao"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%BC%E3%83%BB%E3%83%91%E3%83%83%E3%83%BB%E3%83%9D%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%AA%E3%83%BC"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "魚介",
+      "卵",
+      "スパイス",
+      "炒め物",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "甲殻類アレルギー",
+      "辛い料理",
+      "あっさり",
+      "麺料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "khao-niao-mamuang",
+    "name": "カオニャオ・マムアン",
+    "kana": "かおにゃおまむあん",
+    "aliases": [
+      "マンゴースティッキーライス",
+      "マンゴーもち米"
+    ],
+    "englishName": "Mango Sticky Rice",
+    "originalName": "ข้าวเหนียวมะม่วง",
+    "category": "デザート",
+    "regions": [
+      "タイ"
+    ],
+    "summary": "ヤシの実ミルクとパームシュガーで甘く炊いたもち米に、熟したマンゴーを添えたタイの代表的デザート。甘いもち米とジューシーなマンゴーの組み合わせが独特。",
+    "menuDescription": "ヤシの実ミルクとパームシュガーを吸わせて甘く炊き上げたもち米の隣に、完熟マンゴーをスライスして並べ、甘いヤシの実ミルクを上からかけた一皿。ムング豆フレークを散らすことも多い。",
+    "whatComesOut": [
+      "甘いヤシの実ミルク炊きもち米",
+      "完熟マンゴー（スライス）",
+      "甘いヤシの実ミルクソース（かけてある）",
+      "ムング豆フレーク（トッピング）"
+    ],
+    "tasteAndTexture": [
+      "もち米はもちもちとして甘くヤシの実ミルクが染みている",
+      "マンゴーはジューシーで甘みと微かな酸味",
+      "ヤシの実ミルクのコクと甘さが全体をつなぐ",
+      "食べ応えがありながらデザートとして爽やか"
+    ],
+    "orderAdvice": "タイ旅行でぜひ食べておきたい定番デザート。特に完熟マンゴーが美味しい3〜6月が最旬。ヤシの実ミルクの甘さが強いため甘いもの好きに最高の一品。",
+    "similarItems": [
+      {
+        "name": "台湾マンゴーかき氷",
+        "difference": "同じマンゴーデザートだが台湾版は冷たいかき氷で軽い、カオニャオはもち米でボリュームがある"
+      },
+      {
+        "name": "タピオカデザート",
+        "difference": "同じタイのデザートだがタピオカはキャッサバ由来でより軽い食感"
+      }
+    ],
+    "relatedIds": [
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Mango_sticky_rice"
+    ],
+    "tags": [
+      "タイ料理",
+      "デザート",
+      "米",
+      "甘み",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "甘いもの苦手",
+      "さっぱりデザート",
+      "マンゴー嫌い",
+      "軽いデザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/khao-niao-mamuang/1.jpg",
+      "/images/dishes/khao-niao-mamuang/2.jpg",
+      "/images/dishes/khao-niao-mamuang/3.jpg"
+    ]
   }
 ]
