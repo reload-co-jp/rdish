@@ -72689,5 +72689,2211 @@
       "/images/dishes/khanom-khrok/2.jpg",
       "/images/dishes/khanom-khrok/3.jpg"
     ]
+  },
+  {
+    "id": "glace",
+    "name": "グラッセ",
+    "kana": "ぐらっせ",
+    "aliases": [
+      "つや煮",
+      "バター煮"
+    ],
+    "englishName": "Glacé",
+    "originalName": "glacé（フランス語）",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス料理の調理法で、野菜をバター・砂糖・水で煮詰めて表面につやを出すこと。菓子への糖衣がけも指す。",
+    "menuDescription": "バターと砂糖の煮汁でじっくり火を通し、表面にきれいな照りとつやを出したフランス料理の技法。にんじんや小玉ねぎなど素材の甘みを引き出しながらふっくらと仕上げます。マロングラッセのように栗や果実に糖衣をかけた菓子もグラッセと呼びます。",
+    "whatComesOut": [
+      "バターと砂糖で照り煮にされた野菜（にんじん・小玉ねぎ等）",
+      "肉料理や魚料理の付け合わせとしてプレートに添えられた一口大の野菜",
+      "表面がツヤツヤと光沢を帯びた仕上がり",
+      "糖衣をまとった菓子（マロングラッセ等）"
+    ],
+    "tasteAndTexture": [
+      "バターのコクと砂糖の甘みが染み込んだまろやかな味",
+      "しっとりやわらかく煮えた食感",
+      "素材本来の甘みが凝縮されている",
+      "表面はつやつやして見た目にも美しい"
+    ],
+    "orderAdvice": "単品メニューとして登場することは少なく、メインディッシュの付け合わせとしてプレートに添えられることが多い。「グラッセ」と明記されていれば、バター風味でやさしい甘さに仕上げた野菜が期待できる。",
+    "caution": "バターと砂糖を使うためカロリーは高め。乳製品アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "glaze",
+        "name": "グレイズ",
+        "difference": "グレイズは英語圏の同様技法の総称。グラッセはフランス料理の専門用語で、菓子への糖衣がけや冷製料理へのゼリーがけも含む広義の概念。"
+      },
+      {
+        "id": "caramelize",
+        "name": "キャラメリゼ",
+        "difference": "キャラメリゼは砂糖を焦がして褐色化させる技法。グラッセはつやを出すのが目的で焦がしは行わない。"
+      },
+      {
+        "id": "confit",
+        "name": "コンフィ",
+        "difference": "コンフィは油や脂で低温長時間煮る技法。グラッセは煮汁を煮詰めてつやを出すことが目的。"
+      },
+      {
+        "name": "マロングラッセ",
+        "difference": "マロングラッセはグラッセの代表的な菓子応用例で、栗を糖蜜で煮たもの。"
+      }
+    ],
+    "relatedIds": [
+      "glaze",
+      "caramelize",
+      "reduce",
+      "garniture",
+      "syrup-ni",
+      "confit"
+    ],
+    "source": [
+      "https://kotobank.jp/word/%E3%82%B0%E3%83%A9%E3%83%83%E3%82%BB-485603",
+      "https://food-mania.jp/french-glace/"
+    ],
+    "tags": [
+      "フランス料理",
+      "調理法",
+      "野菜",
+      "煮込み",
+      "甘み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "さっぱり",
+      "和食",
+      "スパイシー",
+      "生野菜",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/glace/1.jpg",
+      "/images/dishes/glace/2.jpg",
+      "/images/dishes/glace/3.jpg"
+    ]
+  },
+  {
+    "id": "fromage",
+    "name": "フロマージュ",
+    "kana": "ふろまーじゅ",
+    "aliases": [
+      "チーズ（フランス料理）",
+      "フォルマージュ"
+    ],
+    "englishName": "Cheese",
+    "originalName": "fromage（フランス語）",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス語でチーズ全般を指す言葉。フランス料理のコースでは主菜とデザートの間に「チーズコース」として提供される。",
+    "menuDescription": "牛・山羊・羊などの乳を凝固・発酵させて作られる乳製品の総称。フランス国内だけで1000種以上が存在し、フレッシュ・軟質・半硬質・硬質・青かびなど多様なタイプがある。フランス料理のコースでは主菜後に専用のワゴンや盛り合わせで提供されることが多い。",
+    "whatComesOut": [
+      "複数種のチーズを盛り合わせたプレート（2〜5種程度）",
+      "クラッカーやバゲットが添えられることが多い",
+      "はちみつやジャムが付いてくることもある",
+      "フレッシュ・熟成など異なるタイプのチーズが揃う"
+    ],
+    "tasteAndTexture": [
+      "種類によって風味は全く異なる（マイルドから強烈なクセまで）",
+      "フレッシュタイプはさっぱりとしたミルキーな味わい",
+      "熟成タイプは複雑なうま味と濃厚な香り",
+      "食感もクリーミー・もちもち・ぽろぽろと多様"
+    ],
+    "orderAdvice": "フランス料理のコースで「フロマージュ」と書かれている場合はチーズコース。デザートの前に提供される。苦手でなければぜひ試したい。日本の洋菓子店では「フロマージュ」=チーズケーキとして使われることが多いが、本来の意味はチーズそのもの。",
+    "caution": "乳製品アレルギーに注意。青かびチーズは独特の強い香りがある。妊娠中は非加熱の生チーズに注意。",
+    "similarItems": [
+      {
+        "id": "fromage-blanc",
+        "name": "フロマージュブラン",
+        "difference": "フロマージュブランはフロマージュの中でも熟成させないフレッシュタイプ。白くなめらかでヨーグルトに近い。"
+      },
+      {
+        "id": "camembert",
+        "name": "カマンベール",
+        "difference": "カマンベールはフロマージュの一種で白かびで熟成した軟質チーズ。フロマージュはチーズ全般を指す上位概念。"
+      },
+      {
+        "id": "roquefort",
+        "name": "ロックフォール",
+        "difference": "ロックフォールはフロマージュの一種で羊乳製の青かびチーズ。"
+      },
+      {
+        "id": "charcuterie",
+        "name": "シャルキュトリ",
+        "difference": "シャルキュトリは豚肉加工品の総称。フロマージュと並びフランス料理の定番食材。"
+      }
+    ],
+    "relatedIds": [
+      "fromage-blanc",
+      "camembert",
+      "brie",
+      "roquefort",
+      "gruyere-cheese",
+      "charcuterie"
+    ],
+    "source": [
+      "https://www.cotta.jp/special/article/?p=68300",
+      "https://macaro-ni.jp/89246"
+    ],
+    "tags": [
+      "フランス料理",
+      "食材",
+      "チーズ",
+      "乳製品",
+      "発酵",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "乳製品が苦手",
+      "チーズのクセが嫌い",
+      "あっさり和食",
+      "ビーガン"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fromage/1.jpg",
+      "/images/dishes/fromage/2.jpg",
+      "/images/dishes/fromage/3.jpg"
+    ]
+  },
+  {
+    "id": "rotir",
+    "name": "ロティール",
+    "kana": "ろてぃーる",
+    "aliases": [
+      "ロティ",
+      "オーブン焼き"
+    ],
+    "englishName": "Roasting",
+    "originalName": "rôtir（フランス語）",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス料理の基本調理法で、肉や鶏を高温のオーブンでそのまま焼き上げること。表面に香ばしい焼き色をつけながら内部をジューシーに仕上げる。",
+    "menuDescription": "高温オーブンで素材を直接焼き上げるフランス料理の基本技法。鶏・仔羊・牛など大きめの肉塊や骨付き肉に用いられ、焼き色と香ばしさを引き出しながら均一に火を通す。提供時は肉汁で作ったソースやジュを添えることが多い。",
+    "whatComesOut": [
+      "表面に美しい焼き色がついた大きめの肉や鶏（骨付きも多い）",
+      "肉汁をベースにしたソースまたはジュが添えられる",
+      "付け合わせの野菜（グラッセやロースト野菜など）",
+      "切り分けてから盛り付けられることもある"
+    ],
+    "tasteAndTexture": [
+      "表面は香ばしくカリッとした焼き色",
+      "内部はジューシーでやわらか",
+      "素材の旨みが凝縮したシンプルな味わい",
+      "香ばしい焼き香が強い"
+    ],
+    "orderAdvice": "「ロティール」とあればオーブンでじっくり焼いた肉料理。調理法がシンプルなので素材の質がそのまま出る。しっかりした食べ応えを求めるなら向いている。",
+    "similarItems": [
+      {
+        "id": "roast",
+        "name": "ロースト",
+        "difference": "ロティールはフランス語、ローストは英語の呼称で実質同義。"
+      },
+      {
+        "id": "grill",
+        "name": "グリル",
+        "difference": "グリルは直火や網焼き。ロティールはオーブン内の熱風で焼く。"
+      },
+      {
+        "id": "poele",
+        "name": "ポワレ",
+        "difference": "ポワレはフライパンとオーブンを組み合わせた蒸し焼き。ロティールは純粋なオーブン焼き。"
+      },
+      {
+        "id": "braise",
+        "name": "ブレゼ",
+        "difference": "ブレゼは蓋をして少量の液体で蒸し煮。ロティールは乾熱のオーブン焼き。"
+      }
+    ],
+    "relatedIds": [
+      "roast",
+      "grill",
+      "poele",
+      "braise",
+      "glace"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "調理法",
+      "ロースト",
+      "焼き物",
+      "香ばしい",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "蒸し料理",
+      "煮込み",
+      "さっぱり",
+      "生食",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/rotir/1.jpg",
+      "/images/dishes/rotir/2.jpg",
+      "/images/dishes/rotir/3.jpg"
+    ]
+  },
+  {
+    "id": "amuse-bouche",
+    "name": "アミューズ",
+    "kana": "あみゅーず",
+    "aliases": [
+      "アミューズブーシュ",
+      "一口前菜"
+    ],
+    "englishName": "Amuse-bouche",
+    "originalName": "amuse-bouche（フランス語）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス料理のコース開始時にシェフから提供される一口サイズの小品。「口を楽しませる」という意味を持ち、食事の期待感を高める役割を担う。",
+    "menuDescription": "コース料理の始まりを告げるシェフからのプレゼント。注文とは関係なく全員に提供される一口サイズの小皿で、その日の食材やシェフのこだわりが凝縮されている。お店の第一印象を決める重要な一品。",
+    "whatComesOut": [
+      "一口サイズの小さな料理が1〜3種類",
+      "スプーン一杯のスープやムース、小さなタルトなど多様な形",
+      "コースの前に全員に提供される",
+      "追加料金なし（コース料金に含まれる）"
+    ],
+    "tasteAndTexture": [
+      "一口で食べ切れる量",
+      "その日の素材の風味が凝縮されている",
+      "食欲を刺激する味付けが多い",
+      "食感も多様でシェフの個性が出る"
+    ],
+    "orderAdvice": "注文するものではなく、シェフから自動的に提供される。残さず食べるのがマナー。コースの期待感を示すものなのでゆっくり味わいたい。",
+    "similarItems": [
+      {
+        "id": "canape",
+        "name": "カナッペ",
+        "difference": "カナッペはパンの上に具材をのせた前菜。アミューズはより幅広い形式でシェフが自由に決める。"
+      },
+      {
+        "id": "tapas",
+        "name": "タパス",
+        "difference": "タパスはスペインの小皿料理で注文制。アミューズはフランス料理でシェフが選び提供する。"
+      },
+      {
+        "id": "pintxos",
+        "name": "ピンチョス",
+        "difference": "ピンチョスはバスクの串刺し小皿料理。アミューズはコース冒頭のシェフからの贈り物。"
+      }
+    ],
+    "relatedIds": [
+      "canape",
+      "tapas",
+      "pintxos",
+      "garniture"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "前菜",
+      "軽食",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ボリュームたっぷり",
+      "がっつり食べたい",
+      "和食",
+      "ファストフード"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/amuse-bouche/1.jpg",
+      "/images/dishes/amuse-bouche/2.jpg",
+      "/images/dishes/amuse-bouche/3.jpg"
+    ]
+  },
+  {
+    "id": "aperitif",
+    "name": "アペリチフ",
+    "kana": "あぺりちふ",
+    "aliases": [
+      "食前酒",
+      "アペリティフ",
+      "アペロ"
+    ],
+    "englishName": "Aperitif",
+    "originalName": "apéritif（フランス語）",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "食事の前に飲む酒の総称。食欲を刺激し、会話を和ませる役割を持つ。シャンパン・ヴェルモット・カンパリなどが代表的。",
+    "menuDescription": "食事開始前に提供される食前酒。フランスでは「アペロ」の時間として定着しており、軽いおつまみと共に楽しむ社交の場でもある。辛口のシャンパンやスパークリングワイン、ヴェルモット、カンパリソーダなどが一般的。",
+    "whatComesOut": [
+      "グラスに注がれた軽めのアルコール飲料",
+      "シャンパン・スパークリングワイン・ヴェルモットなど",
+      "アミューズや小さなオードブルとともに提供されることも",
+      "ノンアルコールの場合はジュースや炭酸水で代替"
+    ],
+    "tasteAndTexture": [
+      "辛口でキリッとした飲み口が多い",
+      "苦みや酸味で食欲を刺激する",
+      "炭酸系は軽やかでさっぱり",
+      "ハーブ系（ヴェルモット等）は複雑な香り"
+    ],
+    "orderAdvice": "レストランでコース前に「アペリチフはいかがですか？」と聞かれることが多い。飲めない場合はノンアルコールを希望してよい。消化を助け食欲を高める効果があるとされる。",
+    "similarItems": [
+      {
+        "id": "vermouth",
+        "name": "ヴェルモット",
+        "difference": "ヴェルモットはアペリチフの代表的な一種。ハーブの香りが特徴。"
+      },
+      {
+        "id": "cidre",
+        "name": "シードル",
+        "difference": "シードルはリンゴ発酵酒で食前に飲まれることも多い。アペリチフはより広い概念。"
+      },
+      {
+        "id": "cognac",
+        "name": "コニャック",
+        "difference": "コニャックは食後酒（ディジェスティフ）として飲まれることが多く、アペリチフとは逆の用途。"
+      }
+    ],
+    "relatedIds": [
+      "vermouth",
+      "cidre",
+      "cognac",
+      "sangria",
+      "calvados"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E9%A3%9F%E5%89%8D%E9%85%92"
+    ],
+    "tags": [
+      "フランス料理",
+      "飲み物",
+      "あっさり",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "アルコールが苦手",
+      "甘い飲み物",
+      "食後酒",
+      "ソフトドリンク"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/aperitif/1.jpg",
+      "/images/dishes/aperitif/2.jpg",
+      "/images/dishes/aperitif/3.jpg"
+    ]
+  },
+  {
+    "id": "sorbet",
+    "name": "ソルベ",
+    "kana": "そるべ",
+    "aliases": [
+      "シャーベット",
+      "氷菓"
+    ],
+    "englishName": "Sorbet",
+    "originalName": "sorbet（フランス語）",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "果汁や果肉に砂糖水を加えて凍らせた乳製品不使用の氷菓。フランス料理では口直しとしてコースの合間や、デザートとして提供される。",
+    "menuDescription": "果物の果汁・果肉と砂糖水のみで作る乳製品不使用の凍菓子。アイスクリームより軽くさっぱりしており、フランス料理ではコースの途中に口の中をリセットするトゥルーノルマン（口直し）として、またデザートとして提供される。",
+    "whatComesOut": [
+      "ガラスや小さなカップに盛られた一口〜二口分の氷菓",
+      "果物の鮮やかな色が美しい",
+      "スプーンが添えられる",
+      "コース中間の場合は小さな器で少量提供"
+    ],
+    "tasteAndTexture": [
+      "果物の酸味と甘みが濃縮したすっきりした味",
+      "なめらかだがアイスクリームより軽い食感",
+      "口の中でスッと溶ける",
+      "後味がさっぱりしている"
+    ],
+    "orderAdvice": "コース料理の合間に出てくる場合は口直しなので全部食べてよい。デザートのソルベは乳製品不使用なのでアイスクリームが苦手な人にも向いている。",
+    "caution": "乳製品アレルギーは問題ないが、果物アレルギーがある場合は使用果物を確認すること。",
+    "similarItems": [
+      {
+        "id": "gelee",
+        "name": "ジュレ",
+        "difference": "ジュレはゼリー状の冷製デザート。ソルベは凍らせた氷菓で口溶けが異なる。"
+      },
+      {
+        "id": "meringue",
+        "name": "メレンゲ",
+        "difference": "メレンゲは卵白と砂糖を泡立てたもの。ソルベは凍った氷菓。"
+      },
+      {
+        "id": "creme-brulee",
+        "name": "クレームブリュレ",
+        "difference": "クレームブリュレは卵と生クリームのリッチなデザート。ソルベは乳製品不使用で軽い。"
+      }
+    ],
+    "relatedIds": [
+      "gelee",
+      "meringue",
+      "creme-brulee",
+      "maceration"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%AB%E3%83%99"
+    ],
+    "tags": [
+      "フランス料理",
+      "デザート",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "こってりデザート",
+      "アイスクリーム",
+      "チョコレート",
+      "生クリーム",
+      "ホットデザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sorbet/1.jpg",
+      "/images/dishes/sorbet/2.jpg",
+      "/images/dishes/sorbet/3.jpg"
+    ]
+  },
+  {
+    "id": "poisson",
+    "name": "ポワソン",
+    "kana": "ぽわそん",
+    "aliases": [
+      "魚料理コース",
+      "魚コース"
+    ],
+    "englishName": "Fish course",
+    "originalName": "poisson（フランス語）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス語で「魚」を意味する言葉で、フランス料理のコースにおける魚料理のコースを指す。魚だけでなく甲殻類・貝類・軟体類も含む。",
+    "menuDescription": "フランス料理コースにおける魚料理の総称。メインの肉料理（ヴィヤンド）の前に提供されることが多い。白身魚のポワレやムニエル、オマール海老、ホタテなど多様な水棲生物を使った料理が含まれる。",
+    "whatComesOut": [
+      "白身魚やサーモンなどをポワレやムニエルで仕上げた料理",
+      "オマール海老やホタテなど甲殻類・貝類の場合も",
+      "ソース・ヴァンブランや魚介ソースが添えられる",
+      "野菜や海藻のガルニチュールが付く"
+    ],
+    "tasteAndTexture": [
+      "白身魚はあっさりした上品な味わい",
+      "甲殻類はプリプリした食感と濃厚な旨み",
+      "バターや白ワインのソースが多い",
+      "肉料理より軽めで繊細な仕上がり"
+    ],
+    "orderAdvice": "魚介類が好きなら必ず試したいコース。フランス料理では肉の前に出るため、胃を温める役割もある。ソースと一緒に食べると真価がわかる。",
+    "similarItems": [
+      {
+        "id": "munieru",
+        "name": "ムニエル",
+        "difference": "ムニエルはポワソンの代表的な調理法。小麦粉をまぶしてバターで焼く。"
+      },
+      {
+        "id": "homard-bleu",
+        "name": "オマールブルー",
+        "difference": "オマールブルーはポワソンコースの高級食材の代表例。甲殻類もポワソンに含まれる。"
+      },
+      {
+        "id": "bouillabaisse",
+        "name": "ブイヤベース",
+        "difference": "ブイヤベースは魚介の煮込みスープ。ポワソンコースで提供される場合もある。"
+      }
+    ],
+    "relatedIds": [
+      "munieru",
+      "poele",
+      "bouillabaisse",
+      "homard-bleu",
+      "sauce-americaine",
+      "acqua-pazza"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "主菜",
+      "魚介",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "肉料理が好き",
+      "生臭さが嫌い",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/poisson/1.jpg",
+      "/images/dishes/poisson/2.jpg",
+      "/images/dishes/poisson/3.jpg"
+    ]
+  },
+  {
+    "id": "avant-dessert",
+    "name": "アヴァンデセール",
+    "kana": "あゔぁんでせーる",
+    "aliases": [
+      "プレデザート",
+      "前デザート"
+    ],
+    "englishName": "Pre-dessert",
+    "originalName": "avant-dessert（フランス語）",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス料理のコースでメインデザートの直前に提供される小さなデザート。食事からデザートへの移行を助ける小品で、ソルベや小さなムースなどが使われる。",
+    "menuDescription": "「avant（前）＋dessert（デザート）」の造語で、メインデザートの前に出される小さな甘み。コースの中で最後の料理からデザートへと味覚を切り替える橋渡し役。量は少なく一口〜二口程度。",
+    "whatComesOut": [
+      "小さなカップやスプーンで提供される一口サイズのデザート",
+      "ソルベ・小さなムース・ジュレ・マカロンなど多様",
+      "フロマージュが提供される場合もある",
+      "量は少なく目で楽しむ部分も大きい"
+    ],
+    "tasteAndTexture": [
+      "軽くさっぱりとした甘み",
+      "メインデザートへの期待感を高める繊細な味",
+      "冷たいものが多く口の中をリセットする",
+      "量が少ないので食感の印象が強く残る"
+    ],
+    "orderAdvice": "注文するものではなく、高級フレンチのコースで自動的に提供される。「小さいけどデザートが来た」という感覚で楽しむ。メインデザートとは別物なので残さず食べてよい。",
+    "similarItems": [
+      {
+        "id": "sorbet",
+        "name": "ソルベ",
+        "difference": "ソルベはアヴァンデセールとして使われる定番の一形式。"
+      },
+      {
+        "id": "gelee",
+        "name": "ジュレ",
+        "difference": "ジュレもアヴァンデセールとして用いられる。ゼリー状でさっぱりしている。"
+      },
+      {
+        "id": "mousse",
+        "name": "ムース",
+        "difference": "ムースはデザートとして単独でも出るが、小量のアヴァンデセールとしても使われる。"
+      }
+    ],
+    "relatedIds": [
+      "sorbet",
+      "gelee",
+      "mousse",
+      "fromage",
+      "meringue"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "デザート",
+      "あっさり",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "ボリュームたっぷりデザート",
+      "チョコレート",
+      "和菓子",
+      "ノーデザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/avant-dessert/1.jpg",
+      "/images/dishes/avant-dessert/2.jpg",
+      "/images/dishes/avant-dessert/3.jpg"
+    ]
+  },
+  {
+    "id": "entree",
+    "name": "アントレ",
+    "kana": "あんとれ",
+    "aliases": [
+      "前菜コース",
+      "オードブル"
+    ],
+    "englishName": "Entrée",
+    "originalName": "entrée（フランス語）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス語で「入口」を意味し、コース料理における前菜の総称。アミューズの後、スープや魚料理の前に提供される。",
+    "menuDescription": "フランス料理のコースで最初に提供される料理の総称。テリーヌ・パテ・フォワグラ・サラダなど多様な形式がある。複数の肉料理を提供する特別なコースでは、メインの前に出る軽めの肉料理をアントレと呼ぶこともある。",
+    "whatComesOut": [
+      "テリーヌ・パテ・フォワグラなどの冷製前菜",
+      "温かい前菜（スフレやムース系）の場合もある",
+      "サラダやマリネが出ることも",
+      "アミューズより量が多く、本格的な料理の始まりとなる"
+    ],
+    "tasteAndTexture": [
+      "コースの方向性を示す繊細な味わい",
+      "冷製が多くさっぱりしたものが多い",
+      "バランス重視で重すぎず軽すぎない",
+      "シェフの個性が最初に現れる一品"
+    ],
+    "orderAdvice": "フランス料理コースでアントレと書かれていれば前菜のこと。アメリカのレストランでは「entrée」がメインを指す場合があるので注意。",
+    "similarItems": [
+      {
+        "id": "amuse-bouche",
+        "name": "アミューズ",
+        "difference": "アミューズはコース前の一口サイズの無料小品。アントレはコース正式な最初の一皿。"
+      },
+      {
+        "id": "terrine",
+        "name": "テリーヌ",
+        "difference": "テリーヌはアントレの代表的な一形式。アントレはそれを含む前菜コース全体の概念。"
+      },
+      {
+        "id": "foie-gras",
+        "name": "フォワグラ",
+        "difference": "フォワグラはアントレとして提供される代表的な高級食材。"
+      }
+    ],
+    "relatedIds": [
+      "amuse-bouche",
+      "terrine",
+      "pate",
+      "foie-gras",
+      "canape",
+      "poisson"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "前菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ボリューム重視",
+      "メイン直行",
+      "和食",
+      "ファストフード"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/entree/1.jpg",
+      "/images/dishes/entree/2.jpg",
+      "/images/dishes/entree/3.jpg"
+    ]
+  },
+  {
+    "id": "crustace",
+    "name": "クリュスタセ",
+    "kana": "くりゅすたせ",
+    "aliases": [
+      "甲殻類"
+    ],
+    "englishName": "Crustacean",
+    "originalName": "crustacé（フランス語）",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス語で甲殻類の総称。エビ・カニ・オマール海老・ラングスティーヌなどを指し、フランス料理のポワソンコースで多用される。",
+    "menuDescription": "フランス料理でエビ・カニ・オマール・ラングスティーヌ等の甲殻類を総称する用語。メニューで「クリュスタセ」と書かれていれば、これら甲殻類を使った料理が提供される。濃厚な旨みが特徴で、ソース・アメリケーヌやビスクとの相性が抜群。",
+    "whatComesOut": [
+      "オマール海老・ラングスティーヌ・エビ・カニなど",
+      "ソース（ビスクやアメリケーヌ）を添えることが多い",
+      "殻付きのまま提供されることも",
+      "繊細な盛り付けで提供される"
+    ],
+    "tasteAndTexture": [
+      "濃厚で甘みのある海の旨み",
+      "プリプリとした弾力のある食感",
+      "殻からの出汁が料理全体を豊かにする",
+      "高級感のある繊細な味わい"
+    ],
+    "orderAdvice": "甲殻類全般を指す言葉なので具体的な種類はメニューの詳細で確認を。殻付きで出る場合はフィンガーボウルが用意される。甲殻類アレルギーに注意。",
+    "caution": "甲殻類アレルギーに注意。殻付きの場合は食べ方を確認するとよい。",
+    "similarItems": [
+      {
+        "id": "homard-bleu",
+        "name": "オマールブルー",
+        "difference": "オマールブルーはクリュスタセの代表的な高級食材。"
+      },
+      {
+        "id": "bisque",
+        "name": "ビスク",
+        "difference": "ビスクはクリュスタセの殻から作るクリームスープ。"
+      },
+      {
+        "id": "mussel",
+        "name": "ムール貝",
+        "difference": "ムール貝はコキヤージュ（貝類）に分類される。クリュスタセは甲殻類のみ。"
+      }
+    ],
+    "relatedIds": [
+      "homard-bleu",
+      "bisque",
+      "sauce-americaine",
+      "mussel",
+      "scallop",
+      "poisson"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "主菜",
+      "魚介",
+      "こってり",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "甲殻類アレルギー",
+      "魚介が苦手",
+      "あっさり肉料理",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/crustace/1.jpg",
+      "/images/dishes/crustace/2.jpg",
+      "/images/dishes/crustace/3.jpg"
+    ]
+  },
+  {
+    "id": "coquillage",
+    "name": "コキヤージュ",
+    "kana": "こきやーじゅ",
+    "aliases": [
+      "貝類"
+    ],
+    "englishName": "Shellfish",
+    "originalName": "coquillage（フランス語）",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス語で貝類の総称。ムール貝・ホタテ・アサリ・牡蠣などを指し、貝の出汁（ジュ・ド・コキヤージュ）はソース作りにも使われる。",
+    "menuDescription": "フランス料理でムール貝・ホタテ・アサリ・牡蠣等の貝類を総称する用語。貝柱の甘みと潮の香りが特徴で、白ワインバターソースや貝出汁のソースと組み合わせることが多い。",
+    "whatComesOut": [
+      "ムール貝・ホタテ・牡蠣・アサリなど季節の貝類",
+      "白ワインバターや貝出汁ソースが添えられる",
+      "殻付きのまま提供されることが多い",
+      "バゲットが添えられてソースをすくう"
+    ],
+    "tasteAndTexture": [
+      "潮の香りと貝特有の甘みのある旨み",
+      "ぷりぷりした食感",
+      "白ワインやバターとの相性が抜群",
+      "後味がすっきりしている"
+    ],
+    "orderAdvice": "貝類全般を指す言葉。具体的な種類はメニュー詳細で確認。殻から出汁が出るため、バゲットでソースまで食べると美味しい。",
+    "caution": "貝類アレルギーに注意。生牡蠣の場合は食中毒リスクに注意。",
+    "similarItems": [
+      {
+        "id": "mussel",
+        "name": "ムール貝",
+        "difference": "ムール貝はコキヤージュの代表的な一種。"
+      },
+      {
+        "id": "scallop",
+        "name": "ホタテ",
+        "difference": "ホタテもコキヤージュの一種。貝柱の甘みが強く高級感がある。"
+      },
+      {
+        "id": "bouillabaisse",
+        "name": "ブイヤベース",
+        "difference": "ブイヤベースにはコキヤージュが多く使われる魚介の煮込み料理。"
+      }
+    ],
+    "relatedIds": [
+      "mussel",
+      "scallop",
+      "bouillabaisse",
+      "poisson",
+      "sauce-vin-blanc"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "主菜",
+      "魚介",
+      "貝類",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "貝類アレルギー",
+      "魚介が苦手",
+      "肉料理",
+      "潮の香りが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/coquillage/1.jpg",
+      "/images/dishes/coquillage/2.jpg",
+      "/images/dishes/coquillage/3.jpg"
+    ]
+  },
+  {
+    "id": "etuve",
+    "name": "エチュベ",
+    "kana": "えちゅべ",
+    "aliases": [
+      "エトゥベ",
+      "自身の水分煮"
+    ],
+    "englishName": "Étuvée",
+    "originalName": "étuver（フランス語）",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス料理の調理法で、素材自身が持つ水分だけで蒸し煮にすること。野菜や魚介の旨みを閉じ込めながら、余計な水分を加えずに仕上げる。",
+    "menuDescription": "鍋に蓋をして素材の水分だけで蒸し煮にするフランス料理の技法。外部から水やスープを加えないため、素材本来の旨みと風味が濃縮される。野菜・魚・キノコなどによく使われる。",
+    "whatComesOut": [
+      "野菜・魚・キノコなどをしっとり仕上げた料理",
+      "余分な水分がなく旨みが凝縮されている",
+      "付け合わせや前菜として提供されることが多い",
+      "素材の色と風味が保たれた繊細な仕上がり"
+    ],
+    "tasteAndTexture": [
+      "素材の旨みが凝縮されたあっさりした味",
+      "しっとりやわらかな食感",
+      "余分な水分がなく風味が純粋",
+      "素材本来の甘みが際立つ"
+    ],
+    "orderAdvice": "素材の旨みを活かしたシンプルな調理法。野菜や魚の自然な風味を楽しみたい人向け。",
+    "similarItems": [
+      {
+        "id": "braise",
+        "name": "ブレゼ",
+        "difference": "ブレゼは少量の液体（スープや酒）を加えて蒸し煮。エチュベは素材自身の水分のみ。"
+      },
+      {
+        "id": "pochee",
+        "name": "ポシェ",
+        "difference": "ポシェは低温の水やスープで茹でる。エチュベは外部から水分を加えない。"
+      },
+      {
+        "id": "steam",
+        "name": "スチーム",
+        "difference": "スチームは蒸気で蒸す。エチュベは素材を鍋に入れて蓋をして自身の水分で煮る。"
+      }
+    ],
+    "relatedIds": [
+      "braise",
+      "pochee",
+      "steam",
+      "confit"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "調理法",
+      "蒸し料理",
+      "野菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "揚げ物",
+      "こってり",
+      "グリル",
+      "炭火焼き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/etuve/1.jpg",
+      "/images/dishes/etuve/2.jpg",
+      "/images/dishes/etuve/3.jpg"
+    ]
+  },
+  {
+    "id": "frire",
+    "name": "フリール",
+    "kana": "ふりーる",
+    "aliases": [
+      "フリ",
+      "揚げ物（フランス料理）"
+    ],
+    "englishName": "Deep-frying",
+    "originalName": "frire（フランス語）",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス料理における揚げる調理法の総称。高温の油で素材を揚げ、外はサクサク・中はふっくらに仕上げる。",
+    "menuDescription": "高温の油に素材を入れて揚げるフランス料理の調理法。衣をつけて揚げる「フリチュール」や素揚げなど方法は多様。魚介・野菜・肉など幅広い素材に使われ、表面のサクサクした食感と内部のやわらかさのコントラストが特徴。",
+    "whatComesOut": [
+      "衣をつけて揚げた魚介・野菜・肉",
+      "ソース（タルタルやアイオリなど）が添えられることが多い",
+      "揚げたてサクサクの状態で提供される",
+      "盛り合わせ（フリチュール）として複数種出ることも"
+    ],
+    "tasteAndTexture": [
+      "外はサクサク・中はジューシーなコントラスト",
+      "油のコクと香ばしさ",
+      "揚げたての熱々が持ち味",
+      "素材によって衣の厚さや食感が異なる"
+    ],
+    "orderAdvice": "「フリール」「フリ（frit/frite）」とメニューにあれば揚げ料理。カロリーは高いがサクサクの食感が楽しめる。フリッターやフリットと同義のことが多い。",
+    "similarItems": [
+      {
+        "id": "fritto",
+        "name": "フリット",
+        "difference": "フリットはイタリア語の揚げ物。フリールはフランス語の同義語。"
+      },
+      {
+        "id": "fritter",
+        "name": "フリッター",
+        "difference": "フリッターは衣をつけて揚げる英語圏の呼び方。フリールはその仏語形。"
+      },
+      {
+        "id": "tempura",
+        "name": "天ぷら",
+        "difference": "天ぷらは薄い衣で揚げる日本の技法。フリールはより分厚い衣を使うことが多い。"
+      }
+    ],
+    "relatedIds": [
+      "fritto",
+      "fritter",
+      "tempura",
+      "fry",
+      "munieru"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "調理法",
+      "揚げ物",
+      "サクサク",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "揚げ物が苦手",
+      "ヘルシー志向",
+      "あっさり",
+      "蒸し料理",
+      "生食"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/frire/1.jpg",
+      "/images/dishes/frire/2.jpg",
+      "/images/dishes/frire/3.jpg"
+    ]
+  },
+  {
+    "id": "en-croute",
+    "name": "アンクルート",
+    "kana": "あんくるーと",
+    "aliases": [
+      "パイ包み焼き",
+      "クルート包み"
+    ],
+    "englishName": "En croûte",
+    "originalName": "en croûte（フランス語）",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス料理の調理法で、肉・魚・パテなどをパイ生地やブリオッシュ生地で包んでオーブンで焼くこと。生地が蒸気を閉じ込め素材をジューシーに仕上げる。",
+    "menuDescription": "「パイの皮の中に」という意味のフランス語。肉・フォワグラ・魚・テリーヌなどをパイ生地で包んでオーブンで焼き上げる豪華な調理法。外はサクサクのパイ、中はしっとりジューシーというコントラストが魅力。",
+    "whatComesOut": [
+      "黄金色に焼き上がったパイ生地で包まれた料理",
+      "切り分けると中から肉や魚が現れる",
+      "ソース（ペリグーやマデラなど）が別添えになる",
+      "見た目が華やかで特別感がある"
+    ],
+    "tasteAndTexture": [
+      "外はサクサクのパイ生地",
+      "中はしっとりジューシーな素材",
+      "生地が蒸気と旨みを閉じ込めた濃縮した味",
+      "ボリューム感があり食べ応え十分"
+    ],
+    "orderAdvice": "メニューで「アンクルート」または「en croûte」とあれば豪華なパイ包み料理。提供時に目の前で切り分けるパフォーマンスがあることも。グルテンアレルギーには注意。",
+    "caution": "小麦粉（パイ生地）を使用。グルテン不耐症・小麦アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "en_papillote",
+        "name": "紙包み焼き",
+        "difference": "紙包み焼きはクッキングシートで包む。アンクルートはパイ生地で包んで食べられる。"
+      },
+      {
+        "id": "pate",
+        "name": "パテ",
+        "difference": "パテはアンクルートの中身として使われることがある。「パテ・アンクルート」は定番の組み合わせ。"
+      },
+      {
+        "id": "quiche",
+        "name": "キッシュ",
+        "difference": "キッシュもパイ生地を使うが、卵液を流し込んで焼く。アンクルートは素材を包んで焼く。"
+      }
+    ],
+    "relatedIds": [
+      "en_papillote",
+      "pate",
+      "quiche",
+      "terrine",
+      "foie-gras"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "調理法",
+      "焼き物",
+      "小麦",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "グルテンフリー",
+      "軽い食事",
+      "あっさり",
+      "生食",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/en-croute/1.jpg",
+      "/images/dishes/en-croute/2.jpg",
+      "/images/dishes/en-croute/3.jpg"
+    ]
+  },
+  {
+    "id": "aspic",
+    "name": "アスピック",
+    "kana": "あすぴっく",
+    "aliases": [
+      "ゼリー寄せ",
+      "ゼリー料理"
+    ],
+    "englishName": "Aspic",
+    "originalName": "aspic（フランス語）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "肉・魚を煮たブイヨンやコンソメをゼリー状に固めたフランス料理。食材を内部に封じ込めて冷製前菜として提供されることが多い。",
+    "menuDescription": "ゼラチン質のスープを冷やし固めた透明なゼリーで、野菜・肉・魚・卵などを閉じ込めた冷製料理。見た目の美しさと素材の旨みが閉じ込められたエレガントな前菜。日本の煮こごりに相当する技法。",
+    "whatComesOut": [
+      "透き通ったゼリーの中に素材が見える冷製料理",
+      "スライスして断面を見せる形で提供されることが多い",
+      "テリーヌ型や球形など様々な形状がある",
+      "ヴィネグレットやソースが添えられることも"
+    ],
+    "tasteAndTexture": [
+      "ぷるっとした繊細なゼリーの食感",
+      "コンソメの上品な旨み",
+      "内部の素材（肉・魚・野菜）の風味が凝縮",
+      "冷製でさっぱりした後味"
+    ],
+    "orderAdvice": "見た目が美しい冷製前菜。古典フランス料理の代表で高級レストランで見かけることが多い。ゼリーが苦手でなければ上品な旨みが楽しめる。",
+    "similarItems": [
+      {
+        "id": "gelee",
+        "name": "ジュレ",
+        "difference": "ジュレはゼリー全般を指す。アスピックは具材を封じ込めた料理としての概念。"
+      },
+      {
+        "id": "terrine",
+        "name": "テリーヌ",
+        "difference": "テリーヌは型に詰めて冷やし固める料理。アスピックはゼリーで固める点が異なる。"
+      },
+      {
+        "id": "consomme",
+        "name": "コンソメ",
+        "difference": "コンソメはアスピックのベースとなる澄んだスープ。アスピックはそれをゼリー状に固めたもの。"
+      }
+    ],
+    "relatedIds": [
+      "gelee",
+      "terrine",
+      "consomme",
+      "bouillon",
+      "fonds"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%94%E3%83%83%E3%82%AF",
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "前菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "温かい料理",
+      "ゼリーが苦手",
+      "ボリューム重視",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/aspic/1.jpg",
+      "/images/dishes/aspic/2.jpg",
+      "/images/dishes/aspic/3.jpg"
+    ]
+  },
+  {
+    "id": "gateau",
+    "name": "ガトー",
+    "kana": "がとー",
+    "aliases": [
+      "ケーキ（フランス料理）",
+      "フランス菓子"
+    ],
+    "englishName": "Cake",
+    "originalName": "gâteau（フランス語）",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス語でケーキ・焼き菓子全般を指す言葉。「ガトー・オ・ショコラ」「ガトー・オ・フロマージュ」のように素材名と組み合わせて使われることが多い。",
+    "menuDescription": "フランス語でケーキや焼き菓子を指す。「ガトー・オ・ショコラ（チョコレートケーキ）」「ガトー・オ・フロマージュ（チーズケーキ）」など、食材名と組み合わせた料理名として使われる。単に「ガトー」とある場合はシェフが選んだ本日のケーキが提供される。",
+    "whatComesOut": [
+      "スポンジ・ムース・焼き菓子など多様な形のケーキ",
+      "生クリームやソースが添えられることが多い",
+      "一切れがプレートに美しく盛り付けられる",
+      "種類はメニューまたはワゴンで選ぶ形式も"
+    ],
+    "tasteAndTexture": [
+      "種類によって大きく異なる",
+      "焼き菓子系はしっとりまたはサクサク",
+      "ムース系はふんわり軽い",
+      "甘さは控えめから濃厚まで幅広い"
+    ],
+    "orderAdvice": "メニューで「ガトー」とあればフランス式ケーキ。コース最後のデザートとして提供されることが多い。種類を確認して好みに合ったものを選ぶとよい。",
+    "similarItems": [
+      {
+        "id": "tiramisu",
+        "name": "ティラミス",
+        "difference": "ティラミスはイタリアのガトー。ガトーはフランス語でケーキ全般を指す上位概念。"
+      },
+      {
+        "id": "sachertorte",
+        "name": "ザッハトルテ",
+        "difference": "ザッハトルテはオーストリアのガトー。ガトーは国・素材を問わない総称。"
+      },
+      {
+        "id": "creme-brulee",
+        "name": "クレームブリュレ",
+        "difference": "クレームブリュレはプリン系冷製デザート。ガトーは焼き菓子系を中心とした概念。"
+      }
+    ],
+    "relatedIds": [
+      "tiramisu",
+      "creme-brulee",
+      "sachertorte",
+      "meringue",
+      "fromage"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/",
+      "https://www.cotta.jp/special/article/?p=68300"
+    ],
+    "tags": [
+      "フランス料理",
+      "デザート",
+      "甘み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "甘いものが苦手",
+      "ノーデザート",
+      "和菓子",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gateau/1.jpg",
+      "/images/dishes/gateau/2.jpg",
+      "/images/dishes/gateau/3.jpg"
+    ]
+  },
+  {
+    "id": "crudites",
+    "name": "クリュディテ",
+    "kana": "くりゅでぃて",
+    "aliases": [
+      "生野菜盛り合わせ",
+      "野菜スティック"
+    ],
+    "englishName": "Crudités",
+    "originalName": "crudités（フランス語）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "生野菜を切って盛り合わせたフランスの前菜。ニンジン・セロリ・キュウリ・ラディッシュなどをスティック状に切り、ドレッシングやディップと共に提供する。",
+    "menuDescription": "旬の生野菜を細かくカットして盛り合わせたフランスの定番前菜。ヴィネグレット・アイオリ・タプナードなどのディップを添えて食べる。野菜本来の食感とフレッシュな風味が楽しめる軽い一品。",
+    "whatComesOut": [
+      "ニンジン・セロリ・キュウリ・ラディッシュ等のスティック野菜",
+      "ヴィネグレットやアイオリなどのディップが添えられる",
+      "彩り豊かに盛り付けられた皿またはバスケット",
+      "オリーブや酢漬け野菜が加わることも"
+    ],
+    "tasteAndTexture": [
+      "シャキシャキとしたフレッシュな食感",
+      "野菜本来の甘みや苦みが楽しめる",
+      "ディップの酸味や旨みと合わせて食べる",
+      "さっぱりとして食欲を刺激する"
+    ],
+    "orderAdvice": "食事の始まりに出ることが多い軽い前菜。野菜好きには最適。ディップは全種類試してみると楽しい。",
+    "similarItems": [
+      {
+        "id": "vinaigrette",
+        "name": "ヴィネグレット",
+        "difference": "ヴィネグレットはクリュディテに添えるドレッシング。"
+      },
+      {
+        "id": "aioli",
+        "name": "アイオリ",
+        "difference": "アイオリはクリュディテに添えるにんにくマヨネーズ。"
+      },
+      {
+        "id": "tapenade",
+        "name": "タプナード",
+        "difference": "タプナードはオリーブペーストで、クリュディテのディップとして使われる。"
+      }
+    ],
+    "relatedIds": [
+      "vinaigrette",
+      "aioli",
+      "tapenade",
+      "hummus"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "前菜",
+      "野菜",
+      "生食",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "生野菜が苦手",
+      "温かい料理",
+      "肉料理",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/crudites/1.jpg",
+      "/images/dishes/crudites/2.jpg",
+      "/images/dishes/crudites/3.jpg"
+    ]
+  },
+  {
+    "id": "compote",
+    "name": "コンポート",
+    "kana": "こんぽーと",
+    "aliases": [
+      "シロップ煮果物",
+      "果物の煮込み"
+    ],
+    "englishName": "Compote",
+    "originalName": "compote（フランス語）",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "果物を水や薄い砂糖水で煮たヨーロッパの伝統的なデザート。ジャムより果実の食感と風味が残り、糖度も低い。ヨーグルトやアイスクリームに添えるほか、肉料理の付け合わせにも使われる。",
+    "menuDescription": "砂糖水やワインで果物をやさしく煮たシンプルなデザート。果実の形が残りジャムより素朴な甘さ。リンゴ・洋梨・ベリー類・イチジクなど季節の果物で作られ、バニラやシナモンで香りをつけることも多い。",
+    "whatComesOut": [
+      "柔らかく煮た果物が器に盛られる",
+      "シロップが周囲に張られる",
+      "アイスクリームやヨーグルト、ケーキに添えられることも",
+      "温かい状態または冷やして提供される"
+    ],
+    "tasteAndTexture": [
+      "果物の自然な甘みとほのかな酸味",
+      "柔らかくとろけるような食感",
+      "シロップの上品な甘さ",
+      "ジャムよりさっぱりしていて食べやすい"
+    ],
+    "orderAdvice": "デザートや付け合わせとして提供されるやさしい甘さの一品。ジャムが苦手でも食べやすい。肉料理のソース代わりに添えられる場合は甘酸っぱい風味が肉を引き立てる。",
+    "similarItems": [
+      {
+        "id": "confiture",
+        "name": "コンフィチュール",
+        "difference": "コンフィチュールはジャム。果実を長く煮詰めて糖度が高い。コンポートは果実の食感を残す。"
+      },
+      {
+        "id": "sorbet",
+        "name": "ソルベ",
+        "difference": "ソルベは凍らせた氷菓。コンポートは温かいまたは常温〜冷たい煮果物。"
+      },
+      {
+        "id": "maceration",
+        "name": "マセラシオン",
+        "difference": "マセラシオンは果物を酒やシロップに漬け込む技法。コンポートは加熱して煮る。"
+      }
+    ],
+    "relatedIds": [
+      "confiture",
+      "sorbet",
+      "maceration",
+      "syrup-ni"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88",
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "デザート",
+      "甘み",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "甘いものが苦手",
+      "果物アレルギー",
+      "肉料理のみ",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/compote/1.jpg",
+      "/images/dishes/compote/2.jpg",
+      "/images/dishes/compote/3.jpg"
+    ]
+  },
+  {
+    "id": "salpicon",
+    "name": "サルピコン",
+    "kana": "さるぴこん",
+    "aliases": [
+      "具材の混ぜ合わせ"
+    ],
+    "englishName": "Salpicon",
+    "originalName": "salpicon（フランス語）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "肉・魚介・野菜などを小さな角切りにしてソースで和えたもの。詰め物・ガルニチュール・ボルオーヴァンの中身など多様な用途で使われるフランス料理の基本調理。",
+    "menuDescription": "食材を細かい角切りにしてソース（ヴルーテ・マヨネーズ・デミグラスなど）で和えた詰め物や下地。パイ生地やシュー生地の中身、テリーヌの具材など幅広い料理のベース素材として使われる。",
+    "whatComesOut": [
+      "単独で提供されることは少なく、パイやシューの詰め物として登場",
+      "ボルオーヴァン（パイシェル）の中に詰めて提供されることが多い",
+      "前菜コースの一部として少量が盛り付けられることもある",
+      "素材（肉・魚・野菜）によって見た目や風味が大きく異なる"
+    ],
+    "tasteAndTexture": [
+      "素材の旨みとソースが絡み合った複雑な味",
+      "小さくカットされた具材の多様な食感",
+      "ソースによってこってりまたはあっさりが決まる",
+      "前菜としては濃厚でリッチな印象"
+    ],
+    "orderAdvice": "単体メニューとして見かけることは少なく、パイやシューの詰め物として登場することが多い。メニューで説明を読んで使われ方を確認するとよい。",
+    "similarItems": [
+      {
+        "id": "farci",
+        "name": "ファルシ",
+        "difference": "ファルシは詰め物料理の総称。サルピコンはその中でも小角切り混ぜ合わせが特徴の詰め物。"
+      },
+      {
+        "id": "en-croute",
+        "name": "アンクルート",
+        "difference": "アンクルートにサルピコンを詰めることがある。アンクルートはパイ包みの形式。"
+      },
+      {
+        "id": "pate",
+        "name": "パテ",
+        "difference": "パテはすり身状のペーストで滑らか。サルピコンは角切りで食感が残る。"
+      }
+    ],
+    "relatedIds": [
+      "farci",
+      "en-croute",
+      "pate",
+      "terrine"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "前菜",
+      "魚介",
+      "肉",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "シンプル素材",
+      "あっさり",
+      "和食",
+      "生食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/salpicon/1.jpg",
+      "/images/dishes/salpicon/2.jpg",
+      "/images/dishes/salpicon/3.jpg"
+    ]
+  },
+  {
+    "id": "mi-cuit",
+    "name": "ミキュイ",
+    "kana": "みきゅい",
+    "aliases": [
+      "半生焼き",
+      "半火入れ"
+    ],
+    "englishName": "Mi-cuit",
+    "originalName": "mi-cuit（フランス語）",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "「半分火を入れた」を意味するフランス料理の調理法。フォワグラ・サーモンなどを低温でゆっくり加熱し、半生状態に仕上げることで独特のとろける食感を引き出す。",
+    "menuDescription": "「mi（半）+ cuit（調理した）」の造語。フォワグラや鮭を低温オーブンや湯煎でゆっくり加熱し、中心部が半生の状態で止める技法。独特のとろける食感と濃縮された旨みが特徴で、高級フレンチの前菜として提供される。",
+    "whatComesOut": [
+      "スライスされたフォワグラまたは魚が数切れ",
+      "外側はきれいに火が入り、中心はとろりとした半生状態",
+      "ブリオッシュや薄いトーストが添えられることが多い",
+      "コンポートや酸味のあるソースが添えられる"
+    ],
+    "tasteAndTexture": [
+      "外はしっとり、中心はとろけるような半生の食感",
+      "フォワグラの場合は濃厚なコクと甘みのある脂",
+      "加熱しすぎないため素材本来の風味が最大限に残る",
+      "口の中でとろける独特の食感"
+    ],
+    "orderAdvice": "フォワグラや鮭の前菜として登場することが多い。半生が苦手な場合は確認を。フォワグラのミキュイは最高級の前菜体験のひとつ。",
+    "caution": "半生調理のため食材の鮮度が重要。免疫が低下している方や妊娠中は注意。",
+    "similarItems": [
+      {
+        "id": "foie-gras",
+        "name": "フォワグラ",
+        "difference": "フォワグラはミキュイの代表的な素材。ミキュイはその調理法。"
+      },
+      {
+        "id": "confit",
+        "name": "コンフィ",
+        "difference": "コンフィは油脂で低温長時間加熱。ミキュイはより短時間で中心を半生に保つ。"
+      },
+      {
+        "id": "pochee",
+        "name": "ポシェ",
+        "difference": "ポシェは液体中でゆっくり加熱。ミキュイは湯煎やオーブンで乾熱的に半生にする。"
+      }
+    ],
+    "relatedIds": [
+      "foie-gras",
+      "confit",
+      "pochee",
+      "ballotine"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "調理法",
+      "前菜",
+      "低温調理",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "半生が苦手",
+      "しっかり火入れ",
+      "あっさり",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mi-cuit/1.jpg",
+      "/images/dishes/mi-cuit/2.jpg"
+    ]
+  },
+  {
+    "id": "zeste",
+    "name": "ゼスト",
+    "kana": "ぜすと",
+    "aliases": [
+      "柑橘の皮",
+      "皮の表面"
+    ],
+    "englishName": "Zest",
+    "originalName": "zeste（フランス語）",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "柑橘類（レモン・オレンジ・ライム）の皮の表面部分で、精油成分を含む芳香の強い部分。フランス料理でソース・菓子・デザートの香りづけに使われる。",
+    "menuDescription": "レモン・オレンジ・ライムなど柑橘の皮の表面をすりおろしたもの。白い部分（アルベド）は苦みがあるため表面の色付きの部分のみを使用する。ソース・クリーム・ガトー・パスタなどに爽やかな柑橘の香りをプラスする香り素材。",
+    "whatComesOut": [
+      "料理の仕上げに散らされた細かい皮の削りかす",
+      "ソースやクリームの中に混ぜ込まれている",
+      "デザートのプレート上に飾りとして添えられることも",
+      "独立した食材として提供されることはほぼない"
+    ],
+    "tasteAndTexture": [
+      "鮮烈で爽やかな柑橘の香り",
+      "ほのかな苦みと酸味",
+      "量は少量だが料理全体の印象を変える",
+      "食感はほぼなく香りの素材"
+    ],
+    "orderAdvice": "ゼストはメニューに独立して出るものではなく、料理の説明の中で「ゼスト添え」「レモンゼスト」などの形で登場する。柑橘の香りが加わることを示す。",
+    "caution": "防かび剤を使用したノンオーガニック柑橘の皮は使用しないことが多いが、念のため確認を。",
+    "similarItems": [
+      {
+        "id": "lime",
+        "name": "ライム",
+        "difference": "ライムはゼストの素材の一つ。ゼストはその皮の表面部分のみを指す。"
+      },
+      {
+        "id": "herbes-de-provence",
+        "name": "エルブ・ド・プロヴァンス",
+        "difference": "エルブ・ド・プロヴァンスはハーブのブレンド。ゼストは柑橘の皮で異なる種類の香り素材。"
+      },
+      {
+        "id": "mignonette",
+        "name": "ミニョネット",
+        "difference": "ミニョネットは粗挽き黒胡椒。ゼストは柑橘の皮で異なる香り素材。"
+      }
+    ],
+    "relatedIds": [
+      "lime",
+      "herbes-de-provence",
+      "mignonette",
+      "maceration"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "食材",
+      "ハーブ",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "柑橘が苦手",
+      "香りが苦手",
+      "無香料",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/zeste/1.jpg",
+      "/images/dishes/zeste/2.jpg",
+      "/images/dishes/zeste/3.jpg"
+    ]
+  },
+  {
+    "id": "nouilles",
+    "name": "ヌイユ",
+    "kana": "ぬいゆ",
+    "aliases": [
+      "フランス麺",
+      "フレンチヌードル"
+    ],
+    "englishName": "Noodles",
+    "originalName": "nouilles（フランス語）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス語で麺類の総称。フランス料理では卵麺（ヌイユ・フレッシュ）が肉料理の付け合わせや単品のパスタ料理として使われる。",
+    "menuDescription": "フランス語の麺料理の総称。フランス料理では小麦粉と卵で作るフレッシュパスタ（生麺）を指すことが多く、バターソースや煮汁を絡めた付け合わせとして使われる。アルザス地方では名物のヌイユ料理が有名。",
+    "whatComesOut": [
+      "細い卵麺がバターや肉汁で和えられた一皿",
+      "肉料理の付け合わせとして少量が添えられることも",
+      "シンプルなバターソースまたは煮込みソースと共に",
+      "フレッシュパスタらしいもちもちとした質感"
+    ],
+    "tasteAndTexture": [
+      "卵の風味が豊かなもちもちした食感",
+      "バターやソースとよく絡む",
+      "イタリアのパスタより柔らかめの仕上がり",
+      "シンプルで素朴な味わい"
+    ],
+    "orderAdvice": "単独メニューとして、またはメイン料理の付け合わせとして登場する。イタリアのパスタに近いが、フランス式の仕上げで提供される。",
+    "similarItems": [
+      {
+        "id": "tagliatelle",
+        "name": "タリアテッレ",
+        "difference": "タリアテッレはイタリアの卵平麺。ヌイユはフランス語での麺全般・特に卵麺。"
+      },
+      {
+        "id": "pappardelle",
+        "name": "パッパルデッレ",
+        "difference": "パッパルデッレはイタリアの幅広卵麺。ヌイユはフランス語表現で同系統の麺。"
+      },
+      {
+        "id": "garniture",
+        "name": "ガルニチュール",
+        "difference": "ガルニチュールは付け合わせの総称。ヌイユはガルニチュールの一形式として使われる。"
+      }
+    ],
+    "relatedIds": [
+      "tagliatelle",
+      "pappardelle",
+      "garniture",
+      "bouillon"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "主菜",
+      "小麦",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "グルテンフリー",
+      "小麦アレルギー",
+      "あっさり",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/nouilles/1.jpg",
+      "/images/dishes/nouilles/2.png",
+      "/images/dishes/nouilles/3.png"
+    ]
+  },
+  {
+    "id": "paupiette",
+    "name": "ポーピエット",
+    "kana": "ぽーぴえっと",
+    "aliases": [
+      "ポピエット",
+      "肉巻き料理"
+    ],
+    "englishName": "Paupiette",
+    "originalName": "paupiette（フランス語）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "肉や魚を薄切りにして野菜や詰め物で巻いたフランス料理の伝統的な調理法。仔牛・豚・鶏・鮭などで作られ、ブレゼ（蒸し煮）で仕上げることが多い。",
+    "menuDescription": "薄切りにした肉や魚でファルス（詰め物）を巻き、タコ糸などで形を整えてオーブンや鍋でじっくり加熱した料理。ソースは素材の煮汁をベースにした濃厚なものが多い。日本の肉巻きに近いが、フランス料理らしい繊細な詰め物と丁寧なソースが特徴。",
+    "whatComesOut": [
+      "ロール状に巻かれた肉または魚（2〜3個）",
+      "断面を見せるようにスライスして提供されることもある",
+      "煮汁ベースのソースが周囲に張られる",
+      "野菜のガルニチュールが添えられる"
+    ],
+    "tasteAndTexture": [
+      "外の薄切り肉とジューシーな詰め物のハーモニー",
+      "ブレゼで仕上げた場合は全体がやわらかくほろほろ",
+      "ソースが染み込んで濃厚な旨みが広がる",
+      "見た目より食べ応えがある"
+    ],
+    "orderAdvice": "フランス料理の伝統的な肉料理。仔牛や豚を薄切りにして巻いたものが多い。ソースも料理の一部なので一緒に味わうのがポイント。",
+    "similarItems": [
+      {
+        "id": "farci",
+        "name": "ファルシ",
+        "difference": "ファルシは野菜や肉に詰め物をする技法全般。ポーピエットは薄切り肉や魚で巻く特定の形式。"
+      },
+      {
+        "id": "ballotine",
+        "name": "バロンティーヌ",
+        "difference": "バロンティーヌは骨を抜いた鶏や魚に詰め物をして巻いたもの。ポーピエットより大型で洗練された形。"
+      },
+      {
+        "id": "involtini",
+        "name": "インボルティーニ",
+        "difference": "インボルティーニはイタリアの同様の料理で薄切り肉巻き。ポーピエットはフランス語での呼称。"
+      }
+    ],
+    "relatedIds": [
+      "farci",
+      "ballotine",
+      "involtini",
+      "braise"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%94%E3%82%A8%E3%83%83%E3%83%88",
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "主菜",
+      "煮込み",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "シンプル肉料理",
+      "揚げ物",
+      "あっさり",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/paupiette/1.jpg",
+      "/images/dishes/paupiette/2.jpg",
+      "/images/dishes/paupiette/3.jpg"
+    ]
+  },
+  {
+    "id": "cuisson",
+    "name": "キュイッソン",
+    "kana": "きゅいっそん",
+    "aliases": [
+      "キュイソン",
+      "火入れ",
+      "加熱"
+    ],
+    "englishName": "Cooking / Doneness",
+    "originalName": "cuisson（フランス語）",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス語で「加熱・火入れ」を意味する料理用語。食材への加熱の仕方・程度を指し、肉の焼き加減（レア〜ウェルダン）の確認にも使われる概念。",
+    "menuDescription": "フランス料理で加熱・調理全般を表す語。レストランでは「火入れの加減はいかがなさいますか」という確認で使われる。素材ごとに最適な温度と時間が異なり、肉なら中心温度と赤みの残り方、魚なら身のしっとり感と皮目のパリッと感が評価基準となる。",
+    "whatComesOut": [
+      "肉料理では焼き加減（レア・ミディアム・ウェルダン）の確認として使われる",
+      "魚料理では皮目がパリッと身がしっとりした状態",
+      "野菜では程よい火通りと食感が残る状態",
+      "どの食材も素材の旨みが最大限に引き出された状態で提供される"
+    ],
+    "tasteAndTexture": [
+      "レアは赤みが残りジューシーで軽い",
+      "ミディアムは中心がピンクでやわらかく旨みが凝縮",
+      "ウェルダンは全体に火が通り弾力がある",
+      "適切な火入れにより素材の旨みと食感が最大限に発揮される"
+    ],
+    "orderAdvice": "肉料理を注文した際に「キュイッソン（焼き加減）は？」と聞かれたら好みを伝える。初めてなら「ミディアム」が安定。魚はシェフにお任せが基本。",
+    "similarItems": [
+      {
+        "id": "mi-cuit",
+        "name": "ミキュイ",
+        "difference": "ミキュイは半生という特定の火入れ状態。キュイッソンは火入れ全般の概念。"
+      },
+      {
+        "id": "rotir",
+        "name": "ロティール",
+        "difference": "ロティールはオーブンで焼く調理法。キュイッソンはその結果としての火入れ状態も含む上位概念。"
+      },
+      {
+        "id": "braise",
+        "name": "ブレゼ",
+        "difference": "ブレゼは蒸し煮調理法。キュイッソンはブレゼを含む加熱全般の概念。"
+      }
+    ],
+    "relatedIds": [
+      "mi-cuit",
+      "rotir",
+      "braise",
+      "saute",
+      "frire",
+      "etuve"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "調理法",
+      "焼き物",
+      "煮込み"
+    ],
+    "reverseKeywords": [
+      "生食",
+      "刺身",
+      "冷製",
+      "スモーク"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cuisson/1.jpg",
+      "/images/dishes/cuisson/2.jpg",
+      "/images/dishes/cuisson/3.jpg"
+    ]
+  },
+  {
+    "id": "sous-vide",
+    "name": "スゥヴィッド",
+    "kana": "すーびっど",
+    "aliases": [
+      "真空調理",
+      "スービッド",
+      "スーヴィッド",
+      "低温真空調理"
+    ],
+    "englishName": "Sous vide",
+    "originalName": "sous vide（フランス語）",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "食材を真空パックにして正確な温度の湯煎で長時間加熱するフランス発祥の調理法。均一で精密な火入れが可能で、肉・魚・野菜の食感と旨みを最大限に引き出す。",
+    "menuDescription": "「sous（下に）+ vide（真空）」を意味するフランス語。食材を真空袋に封じ、温度管理された湯煎（55〜85℃程度）で数時間から数日かけてゆっくり加熱する。肉なら全体が均一にミディアムレアに仕上がり、プロでも家庭では出せない精密な火入れが実現する。",
+    "whatComesOut": [
+      "全体が均一に火の入った肉や魚のメイン料理",
+      "外側は焼き色をつけ直されることが多い（表面仕上げ）",
+      "野菜は食感を残しつつ風味が凝縮された状態",
+      "ソースや付け合わせとともにプレートに盛られる"
+    ],
+    "tasteAndTexture": [
+      "肉全体が均一にやわらかく、部位によるムラがない",
+      "ジューシーさが失われず肉汁が豊富",
+      "表面はソテーで仕上げパリッとした食感が加わる",
+      "素材本来の風味が最大限に保たれる"
+    ],
+    "orderAdvice": "スゥヴィッドと書かれた料理は精密な火入れが売り。肉・魚どちらも均一な仕上がりが期待できる。半生や低温調理が苦手な場合は事前確認を。",
+    "caution": "低温調理のため免疫が低下している方や妊娠中は注意。",
+    "similarItems": [
+      {
+        "id": "mi-cuit",
+        "name": "ミキュイ",
+        "difference": "ミキュイは半生状態が目的。スゥヴィッドは精密な温度管理の手法で、ミキュイはその結果のひとつ。"
+      },
+      {
+        "id": "confit",
+        "name": "コンフィ",
+        "difference": "コンフィは油脂中の低温調理。スゥヴィッドは真空袋と湯煎を使い、より精密な温度管理が可能。"
+      },
+      {
+        "id": "etuve",
+        "name": "エチュベ",
+        "difference": "エチュベは蒸し調理。スゥヴィッドは真空・湯煎で全く異なる環境下での低温加熱。"
+      }
+    ],
+    "relatedIds": [
+      "mi-cuit",
+      "confit",
+      "etuve",
+      "blanchir",
+      "rotir"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "調理法",
+      "低温調理",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "しっかり火入れ",
+      "揚げ物",
+      "炭火焼き",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sous-vide/1.jpg",
+      "/images/dishes/sous-vide/2.jpg",
+      "/images/dishes/sous-vide/3.jpg"
+    ]
+  },
+  {
+    "id": "mijoter",
+    "name": "ミジョテ",
+    "kana": "みじょて",
+    "aliases": [
+      "コトコト煮込み",
+      "弱火煮込み"
+    ],
+    "englishName": "Simmer",
+    "originalName": "mijoter（フランス語）",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス語で「弱火でゆっくりコトコト煮る」を意味する調理法。肉や野菜を長時間煮込んで旨みを溶け出させ、ソースに深みを与えるフランス料理の基本技術。",
+    "menuDescription": "「ミジョテ（mijoter）」は弱火でゆっくり時間をかけて煮込む調理法。沸騰させずに95℃以下でコトコト煮ることで、コラーゲンがゼラチン化しとろとろの食感と濃厚なソースが生まれる。ブフブルギニョン・コック・オー・ヴァンなど煮込み料理の基本。",
+    "whatComesOut": [
+      "ほろほろとやわらかくなった肉や根菜類",
+      "長時間煮込みで深みの出たとろりとしたソース",
+      "鍋またはプレートに素材とソースが一緒に盛られる",
+      "季節野菜やハーブが彩りを添える"
+    ],
+    "tasteAndTexture": [
+      "肉がほろほろとやわらかくフォークで崩れる",
+      "ソースが素材の旨みで深みのある複雑な味わい",
+      "コラーゲンがとろけてソースにとろみが生まれる",
+      "じんわりと体に染み渡る温かみのある風味"
+    ],
+    "orderAdvice": "「ミジョテ」とあれば長時間かけた煮込み料理。ボリューム感があり満足度が高い。やわらかくほろほろとした食感を楽しめる。",
+    "similarItems": [
+      {
+        "id": "braise",
+        "name": "ブレゼ",
+        "difference": "ブレゼは少量の液体で蒸し煮にする調理法。ミジョテは液体の中でコトコト煮込む。"
+      },
+      {
+        "id": "confit",
+        "name": "コンフィ",
+        "difference": "コンフィは油脂中の低温調理。ミジョテはスープやソースの中でゆっくり煮込む。"
+      },
+      {
+        "id": "compote",
+        "name": "コンポート",
+        "difference": "コンポートは果物をミジョテする代表的な応用。ミジョテは肉・野菜全般に使う上位技法。"
+      }
+    ],
+    "relatedIds": [
+      "braise",
+      "confit",
+      "compote",
+      "demiglace",
+      "bouillon"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "調理法",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "揚げ物",
+      "生食",
+      "あっさり",
+      "焼き物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mijoter/1.jpg",
+      "/images/dishes/mijoter/2.jpg",
+      "/images/dishes/mijoter/3.jpg"
+    ]
+  },
+  {
+    "id": "reduire",
+    "name": "レデュイール",
+    "kana": "れでゅいーる",
+    "aliases": [
+      "煮詰め",
+      "ソース煮詰め",
+      "リダクション"
+    ],
+    "englishName": "Reduction",
+    "originalName": "réduire（フランス語）",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "液体やソースを加熱して蒸発させ、濃度と風味を高める調理技術。フランス料理のソース作りにおける最も基本的な技法のひとつ。",
+    "menuDescription": "「réduire（減らす・濃縮する）」の意味通り、スープ・ワイン・クリームなどの液体を強火〜中火で煮詰めて水分を飛ばす技法。1/2〜1/3程度まで煮詰めることで旨みと糖分が凝縮し、とろりとした濃厚なソースが完成する。フランス料理の多くのソースがこの技法で仕上げられる。",
+    "whatComesOut": [
+      "とろりとした光沢のある濃厚なソースがメイン料理に添えられる",
+      "単独では提供されず料理を引き立てるソースとして登場",
+      "ワインや出汁を煮詰めたソースはグラッセ状の光沢がある",
+      "素材の煮汁を煮詰めたジュやグラスなど様々な形態がある"
+    ],
+    "tasteAndTexture": [
+      "凝縮された深い旨みとコク",
+      "とろりとした粘度で料理によく絡む",
+      "酸味や甘みがバランスよく濃縮されている",
+      "余韻が長く後を引く複雑な味わい"
+    ],
+    "orderAdvice": "「〜のリダクション」「煮詰めソース」などの形でメニューに登場する。濃厚なソースが料理を引き立てるので、ソース込みで楽しむのがポイント。",
+    "similarItems": [
+      {
+        "id": "demiglace",
+        "name": "ドミグラスソース",
+        "difference": "ドミグラスはフォンドボーを長時間煮詰めて作るソース。レデュイールはソース全般を煮詰める技法。"
+      },
+      {
+        "id": "glace",
+        "name": "グラス",
+        "difference": "グラスはレデュイールを極限まで行いゼリー状にしたもの。レデュイールはその前段階の技法全般。"
+      },
+      {
+        "id": "fonds",
+        "name": "フォン",
+        "difference": "フォンはレデュイールのベースとなるだし。フォンをさらに煮詰めるとグラスになる。"
+      }
+    ],
+    "relatedIds": [
+      "demiglace",
+      "glace",
+      "fonds",
+      "poele",
+      "saute",
+      "mijoter"
+    ],
+    "source": [
+      "https://maoneko-cat.com/59272024080328po-french-matome/"
+    ],
+    "tags": [
+      "フランス料理",
+      "調理法",
+      "ソース",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "あっさり",
+      "生食",
+      "無ソース",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/reduire/1.png",
+      "/images/dishes/reduire/2.png",
+      "/images/dishes/reduire/3.png"
+    ]
   }
 ]
