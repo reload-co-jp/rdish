@@ -74895,5 +74895,1753 @@
       "/images/dishes/reduire/2.png",
       "/images/dishes/reduire/3.png"
     ]
+  },
+  {
+    "id": "bun-bo-hue",
+    "name": "ブンボーフエ",
+    "kana": "ぶんぼーふえ",
+    "aliases": [
+      "ブンボー",
+      "フエの牛肉麺"
+    ],
+    "englishName": "Bún bò Huế",
+    "originalName": "bún bò Huế",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム",
+        "locality": "フエ"
+      }
+    ],
+    "summary": "ベトナム中部の古都フエ発祥の辛口牛肉スープ麺。レモングラスと発酵エビペーストで風味づけしたスパイシーなブロスに、丸くて太い米粉麺を合わせる。",
+    "menuDescription": "牛骨・牛すね肉とレモングラスを長時間煮込み、発酵エビペーストと唐辛子油で仕上げた辛口スープに、丸い太めの米粉麺を入れ、牛すね肉・豚足・バナナの花・もやしなどを添えるベトナム中部の麺料理。",
+    "whatComesOut": [
+      "深いボウルに入った赤みがかった辛口スープ",
+      "丸くて太い米粉麺（フォーより太め）",
+      "牛すね肉・豚足・テールなどの肉類",
+      "バナナの花の薄切り・もやし・パクチー・ライム"
+    ],
+    "tasteAndTexture": [
+      "レモングラスと発酵エビペーストの複雑な旨み",
+      "フォーよりしっかりした辛さ",
+      "太くてもちもちした米粉麺",
+      "肉の濃いコクとハーブの爽やかさ"
+    ],
+    "orderAdvice": "フォーより辛くてスパイシー。辛さが得意で牛骨スープ好きなら試す価値あり。発酵エビペーストの独特な風味が強めなので、初めての人は辛さ確認を。",
+    "caution": "えびアレルギーに注意（発酵エビペースト使用）。辛い。",
+    "similarItems": [
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーは細い平麺で清澄スープ。ブンボーフエは太い丸麺で辛口レモングラス風味"
+      },
+      {
+        "id": "bun-cha",
+        "name": "ブンチャー",
+        "difference": "ブンチャーは細いブンに焼き肉をつけダレで食べる。ブンボーフエは辛口スープ麺"
+      },
+      {
+        "id": "laksa",
+        "name": "ラクサ",
+        "difference": "ラクサはマレーシア系でコナッツミルクベース。ブンボーフエはベトナム中部の牛肉辛口スープ"
+      }
+    ],
+    "relatedIds": [
+      "pho",
+      "bun-cha",
+      "lemongrass",
+      "pakuchi"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%95%E3%82%A8",
+      "https://en.wikipedia.org/wiki/Bun_bo_Hue"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "麺料理",
+      "スープ",
+      "牛肉",
+      "煮込み",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "辛さ不要",
+      "エビアレルギー",
+      "さっぱり",
+      "和食",
+      "フォー派"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/bun-bo-hue/1.jpg",
+      "/images/dishes/bun-bo-hue/2.jpg",
+      "/images/dishes/bun-bo-hue/3.jpg"
+    ]
+  },
+  {
+    "id": "carbonara",
+    "name": "カルボナーラ",
+    "kana": "かるぼなーら",
+    "englishName": "Carbonara",
+    "originalName": "Pasta alla carbonara",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "locality": "ローマ"
+      }
+    ],
+    "summary": "ローマ生まれの濃厚パスタ。卵・ペコリーノロマーノ・グアンチャーレ・黒コショウだけで作る、クリームを使わないのにコクのあるソースが特徴。",
+    "menuDescription": "グアンチャーレ（豚頬肉）を炒め、卵とペコリーノロマーノチーズで作ったソースをからめ、粗挽き黒コショウをたっぷりかけたローマの伝統パスタ。生クリームは不使用。",
+    "whatComesOut": [
+      "スパゲッティまたはリガトーニ",
+      "光沢のある卵・チーズソース",
+      "グアンチャーレのカリカリした旨み",
+      "たっぷりの粗挽き黒コショウ"
+    ],
+    "tasteAndTexture": [
+      "クリーム不使用なのに濃厚でクリーミー",
+      "卵の旨みとペコリーノの塩気",
+      "グアンチャーレの脂の甘さと香ばしさ",
+      "黒コショウのピリッとしたアクセント"
+    ],
+    "orderAdvice": "日本の「カルボナーラ」は生クリーム入りが多い。本場式は卵・チーズのみのソース。濃厚系パスタが好きな人向け。",
+    "similarItems": [
+      {
+        "id": "genovese",
+        "name": "ジェノベーゼ",
+        "difference": "ジェノベーゼはバジルオイル系。カルボナーラは卵・チーズ・豚肉ベースの濃厚系"
+      },
+      {
+        "id": "aglio-e-olio",
+        "name": "アーリオ・エ・オーリオ",
+        "difference": "アーリオ・エ・オーリオはシンプルなオイル系。カルボナーラは卵・チーズの乳化ソース"
+      },
+      {
+        "id": "ragu",
+        "name": "ラグー",
+        "difference": "ラグーは肉の煮込みソース。カルボナーラは卵ベースの乳化ソース"
+      }
+    ],
+    "relatedIds": [
+      "guanciale",
+      "parmigiano",
+      "genovese",
+      "aglio-e-olio"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%9C%E3%83%8A%E3%83%BC%E3%83%A9",
+      "https://en.wikipedia.org/wiki/Carbonara"
+    ],
+    "tags": [
+      "イタリア料理",
+      "パスタ",
+      "豚肉",
+      "卵",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "さっぱり希望",
+      "野菜多め",
+      "魚介",
+      "辛い料理希望"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/carbonara/1.jpg",
+      "/images/dishes/carbonara/2.jpg",
+      "/images/dishes/carbonara/3.jpg"
+    ]
+  },
+  {
+    "id": "penne-arrabbiata",
+    "name": "ペンネアラビアータ",
+    "kana": "ぺんねあらびあーた",
+    "aliases": [
+      "ペンネ・アラビアータ",
+      "アラビアータ"
+    ],
+    "englishName": "Penne all'Arrabbiata",
+    "originalName": "Penne all'arrabbiata",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "locality": "ローマ"
+      }
+    ],
+    "summary": "ローマ発祥のシンプルな辛口トマトパスタ。ニンニク・唐辛子・トマトのみで作るソースをペンネに絡めた、肉・クリーム不使用の辛口パスタ。",
+    "menuDescription": "オリーブオイルでニンニクと乾燥唐辛子を炒め、トマトソースと合わせた辛口ソース（アラビアータ=怒り）をペンネパスタに絡めたシンプルなローマの伝統パスタ。",
+    "whatComesOut": [
+      "ペンネパスタ",
+      "赤みがかったトマト・唐辛子ソース",
+      "ニンニクの香り",
+      "仕上げのパセリまたはバジル"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の辛さとトマトの酸味",
+      "ニンニクの風味",
+      "肉なしながら食べ応えあり",
+      "ペンネの穴にソースが絡む"
+    ],
+    "orderAdvice": "辛いトマトパスタ。シンプルな材料で素材の質が出やすい。辛さが得意なら迷わず選べる一皿。",
+    "similarItems": [
+      {
+        "id": "genovese",
+        "name": "ジェノベーゼ",
+        "difference": "ジェノベーゼはバジル系。アラビアータはトマト辛口"
+      },
+      {
+        "id": "ragu",
+        "name": "ラグー",
+        "difference": "ラグーは肉の旨み。アラビアータは肉なしの辛口トマト"
+      },
+      {
+        "id": "aglio-e-olio",
+        "name": "アーリオ・エ・オーリオ",
+        "difference": "アーリオ・エ・オーリオはトマトなしのオイル系。アラビアータはトマトベースの辛口"
+      }
+    ],
+    "relatedIds": [
+      "genovese",
+      "aglio-e-olio",
+      "ragu",
+      "pesto"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E3%83%BC%E3%82%BF",
+      "https://en.wikipedia.org/wiki/Arrabbiata_sauce"
+    ],
+    "tags": [
+      "イタリア料理",
+      "パスタ",
+      "野菜",
+      "ピリ辛",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "辛さ不要",
+      "肉系希望",
+      "クリーム系",
+      "こってり希望"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/penne-arrabbiata/1.jpg",
+      "/images/dishes/penne-arrabbiata/2.jpg",
+      "/images/dishes/penne-arrabbiata/3.jpg"
+    ]
+  },
+  {
+    "id": "fideua",
+    "name": "フィデウア",
+    "kana": "ふぃでうあ",
+    "aliases": [
+      "フィデア",
+      "パエリアパスタ"
+    ],
+    "englishName": "Fideuà",
+    "originalName": "Fideuà",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン・バレンシア近郊ガンディア発祥の、米の代わりに短いパスタを使ったパエリアの変種。魚介の旨みを吸ったパスタと底のソカラット（焦げパスタ）が特徴。",
+    "menuDescription": "パエリア鍋で魚介のブロスを使い、短いパスタ（フィデオ）で米を置き換えた料理。エビ・イカ・ムール貝などの魚介が入り、底のパスタがカリカリに仕上がる。アリオリソースを添えて供することが多い。",
+    "whatComesOut": [
+      "パエリア鍋で提供",
+      "短いパスタ（フィデオ）",
+      "エビ・イカ・ムール貝などの魚介",
+      "アリオリソースまたはライム添え"
+    ],
+    "tasteAndTexture": [
+      "魚介の旨みを吸い込んだパスタ",
+      "底のパスタがカリカリに仕上がる（ソカラット）",
+      "サフランの香りと色",
+      "パエリアに近い風味で麺がメイン"
+    ],
+    "orderAdvice": "パエリア好きなら必試。米よりパスタが好きな人にも向いている。魚介アレルギーに注意。",
+    "caution": "魚介アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "paella",
+        "name": "パエリア",
+        "difference": "パエリアは米を使う。フィデウアは短いパスタを使うバレンシアの変種"
+      },
+      {
+        "id": "bouillabaisse",
+        "name": "ブイヤベース",
+        "difference": "ブイヤベースは魚介スープ。フィデウアは魚介の旨みで炊いたパスタ料理"
+      }
+    ],
+    "relatedIds": [
+      "paella",
+      "bouillabaisse",
+      "mussel"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%87%E3%82%A6%E3%82%A2"
+    ],
+    "tags": [
+      "スペイン料理",
+      "麺料理",
+      "魚介",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "魚介アレルギー",
+      "スープ系希望",
+      "米料理希望",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fideua/1.jpg",
+      "/images/dishes/fideua/2.jpg",
+      "/images/dishes/fideua/3.jpg"
+    ]
+  },
+  {
+    "id": "mie-aceh",
+    "name": "ミーアチェ",
+    "kana": "みーあちぇ",
+    "aliases": [
+      "ミー・アチェ",
+      "アチェ麺"
+    ],
+    "englishName": "Mie Aceh",
+    "originalName": "Mie Aceh",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インドネシア"
+      }
+    ],
+    "summary": "インドネシア・アチェ州発祥の辛口カレー麺。太い黄色い麺に牛肉・エビ・イカなどを合わせ、インドのカレー文化と中国の麺文化が融合した独特の風味。",
+    "menuDescription": "スパイシーなカレーベーススープに太い黄色い麺と牛肉・エビ・イカを組み合わせたアチェの麺料理。炒め麺タイプ（ゴレン）とスープタイプ（クア）があり、揚げエシャロット・キュウリ・ライムを添えて供する。",
+    "whatComesOut": [
+      "太い黄色い麺（うどんに近い太さ）",
+      "スパイシーなカレーブロスまたは炒め",
+      "牛肉・エビ・イカなどの具",
+      "揚げエシャロット・キュウリ・ライム添え"
+    ],
+    "tasteAndTexture": [
+      "インドカレーに近いスパイシーな風味",
+      "太麺のもちもちした食感",
+      "エビの旨みとスパイスの複雑な香り",
+      "辛みと旨みのバランス"
+    ],
+    "orderAdvice": "辛くてスパイシー。インドネシア料理の中でも辛さが強め。エビ・イカ好きで辛さOKなら試す価値あり。",
+    "caution": "えびアレルギー・いかアレルギーに注意。辛い。",
+    "similarItems": [
+      {
+        "id": "laksa",
+        "name": "ラクサ",
+        "difference": "ラクサはマレーシア系でコナッツミルクベース。ミーアチェはアチェのカレースパイスベース"
+      },
+      {
+        "id": "pad-thai",
+        "name": "パッタイ",
+        "difference": "パッタイはタイの炒め麺で甘酸っぱい。ミーアチェはカレースパイスの辛口麺"
+      }
+    ],
+    "relatedIds": [
+      "laksa",
+      "pad-thai",
+      "lemongrass"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Mie_aceh"
+    ],
+    "tags": [
+      "インドネシア料理",
+      "麺料理",
+      "魚介",
+      "スパイス",
+      "煮込み",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "辛さ不要",
+      "エビアレルギー",
+      "さっぱり",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/mie-aceh/1.jpg",
+      "/images/dishes/mie-aceh/2.jpg",
+      "/images/dishes/mie-aceh/3.jpg"
+    ]
+  },
+  {
+    "id": "xi-hong-shi-ji-dan-ban-mian",
+    "name": "西紅柿鶏蛋拌麺",
+    "kana": "しーほんしーじーだんばんみぇん",
+    "aliases": [
+      "トマト卵和え麺",
+      "番茄鶏蛋拌麺"
+    ],
+    "englishName": "Tomato and Egg Noodles",
+    "originalName": "西红柿鸡蛋拌面",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "中国全土で愛される家庭料理の定番。トマトと卵の炒め（西紅柿炒鶏蛋）を茹でた麺に絡めるシンプルな和え麺。",
+    "menuDescription": "トマトと卵をオイルで炒め、塩・砂糖で甘じょっぱく仕上げたソースを茹で麺に和えた中国の家庭料理。スープなしで食べる拌麺スタイル。",
+    "whatComesOut": [
+      "茹でた中華麺",
+      "トマトと卵の甘辛炒め",
+      "葱・ごまのトッピング",
+      "醤油・ごま油の風味"
+    ],
+    "tasteAndTexture": [
+      "トマトの酸味と甘さ",
+      "卵のまろやかさ",
+      "シンプルながら奥深い家庭の味",
+      "麺に絡む甘酸っぱいソース"
+    ],
+    "orderAdvice": "子供から大人まで食べやすいシンプルな和え麺。辛さなし。中国料理の中でも特にハードルが低い。",
+    "similarItems": [
+      {
+        "id": "zhajiangmian",
+        "name": "ジャージャー麺",
+        "difference": "ジャージャー麺は肉味噌ソース。こちらはトマト卵の甘酸っぱいソース"
+      },
+      {
+        "id": "suan-la-tang-mian",
+        "name": "酸辣湯麺",
+        "difference": "酸辣湯麺はスープあり辛口。こちらはスープなしの甘酸っぱい和え麺"
+      },
+      {
+        "id": "dan-dan-mian",
+        "name": "担担麺",
+        "difference": "担担麺は辛口ゴマソース。こちらは辛さなしのトマト卵ソース"
+      }
+    ],
+    "relatedIds": [
+      "zhajiangmian",
+      "dan-dan-mian",
+      "suan-la-tang-mian"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E8%A5%BF%E7%B4%85%E6%9F%BF%E7%82%92%E9%B6%8F%E8%9B%8B"
+    ],
+    "tags": [
+      "中国料理",
+      "麺料理",
+      "卵",
+      "野菜",
+      "炒め物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "辛い料理希望",
+      "肉多め希望",
+      "こってり",
+      "スープ希望"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/xi-hong-shi-ji-dan-ban-mian/1.jpg",
+      "/images/dishes/xi-hong-shi-ji-dan-ban-mian/2.jpg",
+      "/images/dishes/xi-hong-shi-ji-dan-ban-mian/3.jpg"
+    ]
+  },
+  {
+    "id": "kovurma-lagman",
+    "name": "コブルマラグマン",
+    "kana": "こぶるまらぐまん",
+    "aliases": [
+      "コウルマラグマン",
+      "炒めラグマン"
+    ],
+    "englishName": "Kovurma Lagman",
+    "originalName": "Ko'vurma lagmon",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウズベキスタン"
+      }
+    ],
+    "summary": "ウズベキスタンの炒め麺バリエーション。ラグマンの汁なし版で、手延べ麺を肉と野菜とともに炒めた料理。スープ版と並ぶラグマンの代表的なスタイル。",
+    "menuDescription": "手延べ太麺を羊肉または牛肉・ピーマン・玉ねぎ・にんじんなどと炒め合わせた中央アジアの炒め麺。スープなしで旨みが凝縮されており、クミンなどの香辛料が効いている。",
+    "whatComesOut": [
+      "手延べの太麺",
+      "炒めた肉と野菜",
+      "トマトベースの濃いソース",
+      "クミンなどスパイスの香り"
+    ],
+    "tasteAndTexture": [
+      "スープ版より凝縮した肉野菜の旨み",
+      "もちもちした太麺",
+      "クミン・コリアンダーの香り",
+      "焼き付けた肉の香ばしさ"
+    ],
+    "orderAdvice": "スープ版ラグマンよりも濃厚でボリューム感あり。羊肉の香りが得意な人向け。香辛料の香りは強め。",
+    "caution": "小麦含む。羊肉の独特な香りがある場合あり。",
+    "similarItems": [
+      {
+        "id": "lagman",
+        "name": "ラグマン",
+        "difference": "ラグマンはスープ麺。コブルマラグマンはスープなしで炒めた版"
+      },
+      {
+        "id": "zhajiangmian",
+        "name": "ジャージャー麺",
+        "difference": "ジャージャー麺は中国の肉味噌和え麺。コブルマラグマンは中央アジアの肉野菜炒め麺"
+      },
+      {
+        "id": "shivit-oshi",
+        "name": "シヴィット・オシィ",
+        "difference": "シヴィット・オシィはディル入り緑麺。コブルマラグマンは炒めスタイルの手延べ麺"
+      }
+    ],
+    "relatedIds": [
+      "lagman",
+      "shivit-oshi",
+      "shurpa"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B0%E3%83%9E%E3%83%B3"
+    ],
+    "tags": [
+      "ウズベキスタン料理",
+      "麺料理",
+      "羊肉",
+      "炒め物",
+      "スパイス",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "羊肉苦手",
+      "スープ希望",
+      "さっぱり",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "wonton-noodles",
+    "name": "雲呑麺",
+    "kana": "わんたんめん",
+    "aliases": [
+      "ワンタン麺",
+      "雲吞麺"
+    ],
+    "englishName": "Wonton Noodles",
+    "originalName": "雲吞麵",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "area": "香港"
+      }
+    ],
+    "summary": "香港・広東を代表するスープ麺。エビ入りワンタンと細い卵麺をあっさりした豚骨・エビベースのスープに入れた定番中華麺料理。",
+    "menuDescription": "豚骨とエビ殻でとったあっさりしたスープに、エビを包んだワンタンと細い卵麺（竹昇麺）を合わせた香港の定番麺料理。芥蘭などの青菜を添えて提供することが多い。",
+    "whatComesOut": [
+      "澄んだ豚骨・エビベースのスープ",
+      "細い卵麺（竹昇麺）",
+      "エビ入りワンタン（3〜5個）",
+      "芥蘭または青菜添え"
+    ],
+    "tasteAndTexture": [
+      "あっさりしながら旨みの深いスープ",
+      "細麺のコシのある食感",
+      "ぷりぷりのエビが入ったワンタン",
+      "シンプルで飲み飽きないスープ"
+    ],
+    "orderAdvice": "香港・広東料理の定番中の定番。あっさりしていて食べやすい。エビアレルギーに注意。",
+    "caution": "えびアレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーはベトナムの牛骨・鶏スープ平麺。雲呑麺は広東の細卵麺＋ワンタン"
+      },
+      {
+        "id": "zhou-sha-hun-tun",
+        "name": "绉纱馄饨",
+        "difference": "绉纱馄饨はワンタンのみのスープ。雲呑麺はワンタン＋麺のセット"
+      },
+      {
+        "id": "bun-cha",
+        "name": "ブンチャー",
+        "difference": "ブンチャーはベトナムの焼き肉＋細麺のつけダレ料理。雲呑麺は広東のスープ麺"
+      }
+    ],
+    "relatedIds": [
+      "pho",
+      "zhou-sha-hun-tun",
+      "bun-cha"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%B3%E3%82%BF%E3%83%B3%E9%BA%BA"
+    ],
+    "tags": [
+      "広東料理",
+      "麺料理",
+      "スープ",
+      "魚介",
+      "豚肉",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "エビアレルギー",
+      "辛い料理希望",
+      "ボリューム多め希望",
+      "米料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/wonton-noodles/1.jpg",
+      "/images/dishes/wonton-noodles/2.jpg",
+      "/images/dishes/wonton-noodles/3.jpg"
+    ]
+  },
+  {
+    "id": "spaghetti-sambal",
+    "name": "スパゲティサンバル",
+    "kana": "すぱげてぃさんばる",
+    "aliases": [
+      "サンバルスパゲティ",
+      "サンバルパスタ"
+    ],
+    "englishName": "Spaghetti Sambal",
+    "originalName": "Spaghetti Sambal",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "シンガポール"
+      }
+    ],
+    "summary": "マレーシア・シンガポール発祥のフュージョンパスタ。イタリアのスパゲティにサンバルチリペーストと海老を合わせた辛口の麺料理。",
+    "menuDescription": "スパゲティにサンバルビーラカン（発酵エビペーストのチリペースト）と海老を組み合わせ、甘じょっぱいケチャップマニスで仕上げたマレーシア風フュージョンパスタ。",
+    "whatComesOut": [
+      "スパゲティ",
+      "サンバルチリソース（赤くて辛い）",
+      "海老または魚介",
+      "卵・モヤシなどの野菜"
+    ],
+    "tasteAndTexture": [
+      "サンバルの辛みと旨み",
+      "ケチャップマニスの甘じょっぱさ",
+      "エビペーストの深みと海老の風味",
+      "スパゲティのつるっとした食感"
+    ],
+    "orderAdvice": "辛さが得意なら。イタリアパスタとサンバルの組み合わせを楽しみたい人向け。エビペーストが苦手な人は事前確認を。",
+    "caution": "えびアレルギーに注意（サンバルにエビペースト使用）。辛い。",
+    "similarItems": [
+      {
+        "id": "penne-arrabbiata",
+        "name": "ペンネアラビアータ",
+        "difference": "どちらも辛いパスタだが、アラビアータはイタリアのトマト辛口。スパゲティサンバルは東南アジアのチリペースト使用"
+      },
+      {
+        "id": "mie-aceh",
+        "name": "ミーアチェ",
+        "difference": "ミーアチェはインドネシアのカレー麺。スパゲティサンバルはマレーシアのパスタ×サンバル"
+      },
+      {
+        "id": "laksa",
+        "name": "ラクサ",
+        "difference": "ラクサはスープ麺。スパゲティサンバルは炒め系の辛口パスタ"
+      }
+    ],
+    "relatedIds": [
+      "sambal",
+      "mie-aceh",
+      "laksa"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%90%E3%83%AB",
+      "https://www.singaporeanmalaysianrecipes.com/sambal-prawn-pasta-recipe"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "パスタ",
+      "魚介",
+      "炒め物",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "辛さ不要",
+      "エビアレルギー",
+      "さっぱり希望",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": []
+  },
+  {
+    "id": "yi-mein",
+    "name": "イーフーミー",
+    "kana": "いーふーみー",
+    "aliases": [
+      "伊府麺",
+      "イーミン",
+      "Yee Mein",
+      "E-Fu麺"
+    ],
+    "englishName": "Yi Mein",
+    "originalName": "伊麵 (Yī miàn)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "area": "香港"
+      }
+    ],
+    "summary": "清朝時代に生まれた広東の祝い麺。かん水で作り一度揚げてから乾燥させた黄金色の平麺で、誕生日などお祝いの席に欠かせない長寿麺。",
+    "menuDescription": "かん水を使った小麦麺を揚げて乾燥させた伊府麺を、オイスターソース・醤油・きのこなどで炒め煮した広東の饗宴料理。もちもちしてスポンジ状の麺がソースをよく吸う。",
+    "whatComesOut": [
+      "黄金色の平麺（丸く固まった状態で提供されることも）",
+      "オイスターソースベースのソース",
+      "きのこ・モヤシ・葱などの具",
+      "海老などを加えることも"
+    ],
+    "tasteAndTexture": [
+      "もちもちしてスポンジ状の独特な食感",
+      "ソースをよく吸い込む",
+      "オイスターソースの甘辛いコク",
+      "かん水由来のほろ苦さ"
+    ],
+    "orderAdvice": "広東系のお祝い料理で定番。麺好きなら試す価値あり。一度揚げた麺の独特な食感が楽しめる。",
+    "similarItems": [
+      {
+        "id": "wonton-noodles",
+        "name": "雲呑麺",
+        "difference": "雲呑麺は細麺＋ワンタンのスープ麺。イーフーミーはソースで煮た平麺"
+      },
+      {
+        "id": "shanghai-chao-mian",
+        "name": "上海炒麺",
+        "difference": "上海炒麺は香ばしく炒めた太麺。イーフーミーはソースを吸わせた広東の祝い麺"
+      },
+      {
+        "id": "bami",
+        "name": "バミー",
+        "difference": "バミーはタイの卵麺。イーフーミーは一度揚げた広東式卵麺でより濃厚"
+      }
+    ],
+    "relatedIds": [
+      "wonton-noodles",
+      "shanghai-chao-mian",
+      "bami"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Yi_mein"
+    ],
+    "tags": [
+      "広東料理",
+      "麺料理",
+      "卵",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "さっぱり希望",
+      "スープ希望",
+      "米料理",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/yi-mein/1.jpg",
+      "/images/dishes/yi-mein/2.jpg",
+      "/images/dishes/yi-mein/3.jpg"
+    ]
+  },
+  {
+    "id": "mi-celor",
+    "name": "ミーチェロル",
+    "kana": "みーちぇろる",
+    "aliases": [
+      "Mie Celor",
+      "パレンバン麺"
+    ],
+    "englishName": "Mie Celor",
+    "originalName": "Mie Celor",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インドネシア",
+        "locality": "パレンバン"
+      }
+    ],
+    "summary": "インドネシア・南スマトラ州パレンバン名物の麺料理。乾燥エビとコナッツミルクで作った濃厚スープに太い黄色い小麦麺を合わせる。",
+    "menuDescription": "乾燥エビまたは生エビとコナッツミルクで作ったクリーミーなスープに、蕎麦に近い太さの黄色い小麦麺を入れ、モヤシ・茹で卵・セロリ・揚げエシャロットを添えたパレンバンの名物麺。",
+    "whatComesOut": [
+      "太い黄色い小麦麺",
+      "クリーミーなエビ・コナッツミルクスープ",
+      "モヤシ・茹で卵・セロリ",
+      "揚げエシャロットのトッピング"
+    ],
+    "tasteAndTexture": [
+      "コナッツミルクのクリーミーな旨み",
+      "エビの凝縮した香り",
+      "太麺のもちっとした食感",
+      "エシャロットの香ばしさ"
+    ],
+    "orderAdvice": "辛さ控えめのクリーミーなスープ麺。エビアレルギーに注意。パレンバン料理の定番を体験したい人向け。",
+    "caution": "えびアレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "laksa",
+        "name": "ラクサ",
+        "difference": "ラクサはスパイシーなマレーシア系スープ麺。ミーチェロルは比較的マイルドなインドネシア・パレンバンの麺"
+      },
+      {
+        "id": "mie-aceh",
+        "name": "ミーアチェ",
+        "difference": "ミーアチェは辛口カレーベース。ミーチェロルはクリーミーなエビ・コナッツベース"
+      }
+    ],
+    "relatedIds": [
+      "laksa",
+      "mie-aceh",
+      "lemongrass"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Mie_celor"
+    ],
+    "tags": [
+      "インドネシア料理",
+      "スープ",
+      "麺料理",
+      "魚介",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "エビアレルギー",
+      "さっぱり希望",
+      "辛い料理希望",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/mi-celor/1.jpg"
+    ]
+  },
+  {
+    "id": "hokkien-mee",
+    "name": "ホッケンミー",
+    "kana": "ほっけんみー",
+    "aliases": [
+      "福建麺",
+      "ホッケン・ミー"
+    ],
+    "englishName": "Hokkien Mee",
+    "originalName": "Hokkien Mee / 福建麵",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "シンガポール"
+      },
+      {
+        "country": "マレーシア"
+      }
+    ],
+    "summary": "シンガポールとマレーシアを代表する福建系炒め麺。シンガポール式はエビとイカ入りの焼きそば、クアラルンプール式は黒醤油と豚肉の濃い炒め麺と、スタイルが異なる。",
+    "menuDescription": "福建系移民が広めた炒め麺料理。シンガポール式は黄麺と米麺を混ぜてエビ・イカ・卵・モヤシと炒め、KL式は黒醤油と豚肉でコクのある黒い焼きそば。サンバルを添えることが多い。",
+    "whatComesOut": [
+      "太い黄麺（または黄麺と米麺の混合）",
+      "エビ・イカ・豚肉などの具",
+      "卵・モヤシ・ニラ",
+      "サンバルチリと揚げエシャロット添え"
+    ],
+    "tasteAndTexture": [
+      "エビの旨みが染み込んだ麺（SG式）",
+      "黒醤油の香ばしいコク（KL式）",
+      "もちっとした黄麺の食感",
+      "サンバルで辛さを調節可能"
+    ],
+    "orderAdvice": "シンガポールとKLで別物と思って注文すると良い。エビ好きにはSG式、コクのある焼きそば好きにはKL式。",
+    "caution": "えびアレルギーに注意。KL式は豚肉使用。",
+    "similarItems": [
+      {
+        "id": "pad-thai",
+        "name": "パッタイ",
+        "difference": "パッタイはタイの甘酸っぱい炒め麺。ホッケンミーは福建系の海老旨み麺または黒醤油麺"
+      },
+      {
+        "id": "laksa",
+        "name": "ラクサ",
+        "difference": "ラクサはスープ麺。ホッケンミーは炒め麺"
+      },
+      {
+        "id": "mie-aceh",
+        "name": "ミーアチェ",
+        "difference": "ミーアチェはインドネシアのカレー辛口麺。ホッケンミーはマレー半島の炒め麺"
+      }
+    ],
+    "relatedIds": [
+      "laksa",
+      "sambal",
+      "pad-thai"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%83%E3%82%B1%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%BC"
+    ],
+    "tags": [
+      "シンガポール料理",
+      "マレーシア料理",
+      "麺料理",
+      "魚介",
+      "炒め物"
+    ],
+    "reverseKeywords": [
+      "エビアレルギー",
+      "さっぱり希望",
+      "辛さ不要",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/hokkien-mee/1.jpg",
+      "/images/dishes/hokkien-mee/2.jpg",
+      "/images/dishes/hokkien-mee/3.jpg"
+    ]
+  },
+  {
+    "id": "mala-baodu-mian",
+    "name": "麻辣爆肚面",
+    "kana": "まーらーばおどぅみぇん",
+    "englishName": "Mala Baodu Noodles",
+    "originalName": "麻辣爆肚面",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "北京の名物「爆肚」（瞬間湯通しのモツ）と四川の「麻辣」スープを合わせた辛口モツ麺。シャキシャキとした食感のモツに花椒の痺れと唐辛子の辛みが特徴。",
+    "menuDescription": "牛や羊の胃（爆肚）を熱湯で瞬間湯通しし、花椒・唐辛子の麻辣スープに入れた麺料理。モツのシャキシャキした食感と麻辣の痺れ辛さが一体となった刺激的な一品。",
+    "whatComesOut": [
+      "中太または細麺",
+      "瞬間湯通しした牛または羊のモツ（爆肚）",
+      "花椒と唐辛子の真っ赤なスープ",
+      "香菜・ニンニク・葱のトッピング"
+    ],
+    "tasteAndTexture": [
+      "花椒の口が痺れる麻味",
+      "唐辛子の強烈な辛さ",
+      "爆肚のシャキシャキとした独特な食感",
+      "旨みが濃縮された麻辣スープ"
+    ],
+    "orderAdvice": "麻辣・モツ双方が得意な人向け。辛さと痺れは本格的で強烈。モツが苦手な人には不向き。",
+    "caution": "モツ（内臓）使用。非常に辛い。",
+    "similarItems": [
+      {
+        "id": "dan-dan-mian",
+        "name": "担担麺",
+        "difference": "担担麺は四川のゴマベース辛口麺。麻辣爆肚面はモツ入りの麻辣スープ麺"
+      },
+      {
+        "id": "suan-la-tang-mian",
+        "name": "酸辣湯麺",
+        "difference": "酸辣湯麺は酸っぱ辛い。麻辣爆肚面は酸味なしで花椒の痺れ辛さが特徴"
+      },
+      {
+        "id": "mino",
+        "name": "ミノ",
+        "difference": "ミノは日本の牛の第一胃。爆肚は中国の湯通しモツ料理で麺と組み合わさる"
+      }
+    ],
+    "relatedIds": [
+      "dan-dan-mian",
+      "suan-la-tang-mian",
+      "mino"
+    ],
+    "source": [
+      "https://www.saveur.com/recipes/lao-beijing-baodu-recipe-poached-tripe-mung-bean-noodles/",
+      "https://en.wikipedia.org/wiki/Chongqing_noodles"
+    ],
+    "tags": [
+      "中国料理",
+      "麺料理",
+      "牛肉",
+      "煮込み",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "内臓苦手",
+      "辛さ不要",
+      "さっぱり希望",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": []
+  },
+  {
+    "id": "koshari",
+    "name": "コシャリ",
+    "kana": "こしゃり",
+    "aliases": [
+      "クシャリ",
+      "クサリ",
+      "Koshary"
+    ],
+    "englishName": "Koshari",
+    "originalName": "كشري (Kushari)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エジプト"
+      }
+    ],
+    "summary": "エジプトの国民食。米・レンズ豆・マカロニ・ひよこ豆を混ぜ、ガーリックトマトソースとカリカリ揚げ玉ねぎをのせた庶民のストリートフード。",
+    "menuDescription": "白米・茶レンズ豆・マカロニ・バーミチェリを合わせた主食の上に、スパイシーガーリックトマトソース・ひよこ豆・カリカリに揚げた玉ねぎをのせたエジプトのストリートフード。酢ガーリックソースや辛口ソースを好みで追加する。",
+    "whatComesOut": [
+      "米・レンズ豆・マカロニ・バーミチェリの混合ベース",
+      "スパイシーガーリックトマトソース",
+      "カリカリに揚げた玉ねぎ",
+      "ひよこ豆のトッピング"
+    ],
+    "tasteAndTexture": [
+      "様々な炭水化物のほくほくした食感",
+      "トマトソースの甘酸っぱさとニンニクの香り",
+      "揚げ玉ねぎの香ばしさ",
+      "クミンやコリアンダーのスパイス香"
+    ],
+    "orderAdvice": "ヴィーガンにも対応可能な完全菜食の国民食。ボリューム満点。辛さは好みで調節できる。エジプト料理入門に最適。",
+    "similarItems": [
+      {
+        "id": "dal",
+        "name": "ダル",
+        "difference": "ダルはインドのレンズ豆スープカレー。コシャリはエジプトの米・豆・パスタ混合料理"
+      },
+      {
+        "id": "molokhia",
+        "name": "モロヘイヤ",
+        "difference": "モロヘイヤは同じエジプト料理のネバネバスープ。コシャリは固形の炭水化物が主体"
+      }
+    ],
+    "relatedIds": [
+      "dal",
+      "molokhia"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Koshary"
+    ],
+    "tags": [
+      "北アフリカ料理",
+      "ご飯もの",
+      "豆類",
+      "揚げ物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "肉料理希望",
+      "魚介希望",
+      "こってり希望",
+      "スープ希望"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/koshari/1.jpg",
+      "/images/dishes/koshari/2.jpg",
+      "/images/dishes/koshari/3.jpg"
+    ]
+  },
+  {
+    "id": "sen-pla",
+    "name": "センプラー",
+    "kana": "せんぷらー",
+    "aliases": [
+      "เส้นปลา",
+      "センパラー"
+    ],
+    "englishName": "Sen Pla",
+    "originalName": "เส้นปลา",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "タイの魚すり身で作った珍しい麺を使うクイッティアオ。小麦や米ではなく魚のすり身から作られた麺が特徴で、独特の弾力と魚の風味を持つ。",
+    "menuDescription": "魚のすり身を練り込んだ麺（เส้นปลา）を使ったタイのスープ麺料理。様々な魚のすり身揚げ・豚肉つくね・モヤシ・小松菜とともに提供する。汁あり（ナーム）と汁なし（ヘーン）を選べる店が多い。",
+    "whatComesOut": [
+      "魚すり身で作った独特の弾力ある麺",
+      "透明または白濁したスープ",
+      "魚のすり身揚げ（数種）とモヤシ",
+      "豚肉つくね・小松菜・葱のトッピング"
+    ],
+    "tasteAndTexture": [
+      "魚由来のぷりぷりとした独特な弾力",
+      "あっさりした魚介の旨みスープ",
+      "一般的なクイッティアオとは全く異なる食感",
+      "魚の風味がほのかに香る"
+    ],
+    "orderAdvice": "タイ麺の中でも特にユニーク。魚の風味と独特の食感が得意な人向け。バンコクでも提供店が少なく珍しい一品。",
+    "caution": "魚アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "kuai-tiao",
+        "name": "クイッティアオ",
+        "difference": "クイッティアオは米粉製の麺。センプラーは魚すり身製の麺で食感・風味が全く異なる"
+      },
+      {
+        "id": "khanom-chin",
+        "name": "カノム・ジーン",
+        "difference": "カノム・ジーンは発酵米粉製の細麺。センプラーは魚すり身製の弾力麺"
+      },
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーはベトナムの米粉麺スープ。センプラーはタイの魚すり身麺料理"
+      }
+    ],
+    "relatedIds": [
+      "kuai-tiao",
+      "khanom-chin",
+      "nam-pla"
+    ],
+    "source": [
+      "https://gekiuma.net/%e3%82%bb%e3%83%b3%e3%83%97%e3%83%a9%e3%83%bc/",
+      "https://tripping.jp/asean/thailand/bangkok/36555"
+    ],
+    "tags": [
+      "タイ料理",
+      "麺料理",
+      "魚介",
+      "スープ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "魚介アレルギー",
+      "辛い料理希望",
+      "こってり希望",
+      "米麺希望"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "saimin",
+    "name": "サイミン",
+    "kana": "さいみん",
+    "englishName": "Saimin",
+    "originalName": "Saimin",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ",
+        "area": "ハワイ"
+      }
+    ],
+    "summary": "20世紀初頭のハワイ・プランテーション労働者の間で生まれた麺料理。日本・中国・フィリピンなどの食文化が融合したハワイのソウルフード。",
+    "menuDescription": "卵入り小麦麺をあっさりした昆布・豚骨ベースのスープに入れ、チャーシュー・かまぼこ・青ねぎ・錦糸卵などをのせたハワイのローカルフード。",
+    "whatComesOut": [
+      "細い卵入り小麦麺",
+      "あっさりした昆布・豚骨スープ",
+      "チャーシュー・かまぼこ・青ねぎ",
+      "錦糸卵またはゆで卵"
+    ],
+    "tasteAndTexture": [
+      "あっさりして飲みやすいスープ",
+      "細麺のコシのある食感",
+      "チャーシューの甘みと旨み",
+      "かまぼこのぷりっとした食感"
+    ],
+    "orderAdvice": "ハワイのローカルフードを体験したい人向け。ラーメンに似ているが独自の多文化融合がある。あっさり系スープ好きにも向いている。",
+    "similarItems": [
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーはベトナムの牛骨・スパイス系スープ。サイミンはハワイの昆布・豚骨あっさりスープ"
+      },
+      {
+        "id": "wonton-noodles",
+        "name": "雲呑麺",
+        "difference": "雲呑麺は広東のエビワンタン入りスープ麺。サイミンはチャーシュー・かまぼこのハワイ風麺"
+      },
+      {
+        "id": "udon",
+        "name": "うどん",
+        "difference": "うどんは日本の太麺料理。サイミンは細麺でかまぼこ入りのハワイ独自の多文化融合麺"
+      }
+    ],
+    "relatedIds": [
+      "pho",
+      "wonton-noodles",
+      "udon"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%9F%E3%83%B3"
+    ],
+    "tags": [
+      "ハワイ料理",
+      "麺料理",
+      "スープ",
+      "豚肉",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "辛い料理希望",
+      "こってり希望",
+      "米料理",
+      "ボリューム多め希望"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/saimin/1.jpg",
+      "/images/dishes/saimin/2.jpg"
+    ]
+  },
+  {
+    "id": "mie-goreng",
+    "name": "ミーゴレン",
+    "kana": "みーごれん",
+    "aliases": [
+      "ミゴレン",
+      "Mi Goreng"
+    ],
+    "englishName": "Mie Goreng",
+    "originalName": "Mi goreng / Mie goreng",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インドネシア"
+      },
+      {
+        "country": "マレーシア"
+      }
+    ],
+    "summary": "インドネシア・マレーシアを代表する炒め麺。ケチャップマニス（甘い醤油）・にんにく・唐辛子で味付けし、鶏肉・エビ・卵などを加えた東南アジアの焼きそば。",
+    "menuDescription": "小麦麺をケチャップマニス（甘じょっぱい醤油）とサンバル・にんにく・エシャロットで炒め、鶏肉・エビ・卵・モヤシを加えたインドネシア式焼きそば。揚げエシャロットと目玉焼き・えびせんを添えて供する。",
+    "whatComesOut": [
+      "炒めた中華系小麦麺",
+      "鶏肉・エビ・卵などの具",
+      "ケチャップマニスの黒みがかったソース",
+      "揚げエシャロット・えびせん・唐辛子添え"
+    ],
+    "tasteAndTexture": [
+      "ケチャップマニスの甘じょっぱいコク",
+      "にんにくとエシャロットの香り",
+      "やや辛口でエスニックな風味",
+      "麺のもちっとした食感"
+    ],
+    "orderAdvice": "インドネシア料理の入門に最適。日本のソース焼きそばに似ているが甘みとスパイスが強め。辛さは控えめで食べやすい。",
+    "similarItems": [
+      {
+        "id": "hokkien-mee",
+        "name": "ホッケンミー",
+        "difference": "ホッケンミーは福建系でエビ旨みや黒醤油が主役。ミーゴレンはケチャップマニスの甘い醤油炒め"
+      },
+      {
+        "id": "pad-thai",
+        "name": "パッタイ",
+        "difference": "パッタイはタイの甘酸っぱいタマリンドベース炒め麺。ミーゴレンはインドネシアの甘醤油ベース"
+      },
+      {
+        "id": "mie-aceh",
+        "name": "ミーアチェ",
+        "difference": "ミーアチェはカレースパイスの辛口麺。ミーゴレンは甘い醤油ベースの炒め麺"
+      }
+    ],
+    "relatedIds": [
+      "mie-aceh",
+      "sambal",
+      "hokkien-mee",
+      "pad-thai"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%BC%E3%82%B4%E3%83%AC%E3%83%B3"
+    ],
+    "tags": [
+      "インドネシア料理",
+      "麺料理",
+      "卵",
+      "炒め物",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "さっぱり希望",
+      "スープ麺希望",
+      "和食",
+      "辛さ不要"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/mie-goreng/1.jpg",
+      "/images/dishes/mie-goreng/2.jpg",
+      "/images/dishes/mie-goreng/3.jpg"
+    ]
+  },
+  {
+    "id": "char-kway-teow",
+    "name": "チャークイティウ",
+    "kana": "ちゃーくいてぃう",
+    "aliases": [
+      "クイティウ",
+      "炒粿條",
+      "Char Koay Teow"
+    ],
+    "englishName": "Char Kway Teow",
+    "originalName": "Char kway teow / 炒粿條",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "シンガポール"
+      }
+    ],
+    "summary": "マレーシア・シンガポールの屋台料理を代表する平打ち米粉麺の炒め料理。ラードで強火（ウォックハイ）を使い、エビ・赤貝・卵・モヤシとともに醤油で仕上げる。",
+    "menuDescription": "幅広の平打ち米粉麺（河粉）をラードで強火炒めし、エビ・赤貝・卵・チャイブ・モヤシを加え、甘みのある醤油とチリペーストで仕上げたマレーシア・シンガポールの屋台麺。ウォックハイ（鍋気）による香ばしさが命。",
+    "whatComesOut": [
+      "幅広の平打ち米粉麺（河粉）",
+      "エビ・赤貝・卵",
+      "チャイブ（ニラ）・モヤシ",
+      "サンバルチリ添え"
+    ],
+    "tasteAndTexture": [
+      "ウォックハイ（鍋気）による香ばしさ",
+      "醤油の甘みとラードのコク",
+      "幅広麺のもっちりした食感",
+      "エビの旨みと赤貝の磯の風味"
+    ],
+    "orderAdvice": "屋台で食べるのが醍醐味。ラードで炒めた香ばしさが本場の味。エビ・貝アレルギーに注意。豚不使用版の店もある。",
+    "caution": "えびアレルギー・貝アレルギーに注意。ラード使用の店が多い。",
+    "similarItems": [
+      {
+        "id": "hokkien-mee",
+        "name": "ホッケンミー",
+        "difference": "ホッケンミーは丸麺または黄麺を使う。チャークイティウは幅広平麺（河粉）が特徴"
+      },
+      {
+        "id": "pad-see-ew",
+        "name": "パッシーユ",
+        "difference": "パッシーユはタイの甘い醤油炒め平麺。チャークイティウはマレーシア系で鍋気と赤貝が特徴"
+      },
+      {
+        "id": "mie-goreng",
+        "name": "ミーゴレン",
+        "difference": "ミーゴレンはインドネシアのケチャップマニス炒め丸麺。チャークイティウは平麺でウォックハイが重要"
+      }
+    ],
+    "relatedIds": [
+      "hokkien-mee",
+      "pad-see-ew",
+      "sambal"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Char_kway_teow"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "シンガポール料理",
+      "麺料理",
+      "魚介",
+      "炒め物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "エビアレルギー",
+      "さっぱり希望",
+      "スープ麺希望",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/char-kway-teow/1.jpg",
+      "/images/dishes/char-kway-teow/2.jpg",
+      "/images/dishes/char-kway-teow/3.jpg"
+    ]
+  },
+  {
+    "id": "idiyappam",
+    "name": "インディアッパ",
+    "kana": "いんでぃあっぱ",
+    "aliases": [
+      "イディアッパム",
+      "String Hoppers",
+      "ヌール・プットゥ"
+    ],
+    "englishName": "Idiyappam",
+    "originalName": "இடியாப்பம் (Idiyappam)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インド"
+      },
+      {
+        "country": "スリランカ"
+      }
+    ],
+    "summary": "南インド・スリランカの蒸し米粉麺。米粉を押し出してそうめん状に絞り円形に蒸した繊細な麺で、カレーやコナッツミルクと合わせて食べる。",
+    "menuDescription": "米粉を水で溶き専用プレスで細く絞り出し、丸形に積み重ねて蒸したリングスタイルの米粉麺。カレー・ダル・コナッツミルクを添えて食べる南インド・スリランカの朝食・軽食料理。",
+    "whatComesOut": [
+      "丸いそうめん状の蒸し米粉麺（数枚）",
+      "コナッツミルクまたはカレーのディップ",
+      "ダルやサンバル（豆のスープカレー）",
+      "チャツネを添えることも"
+    ],
+    "tasteAndTexture": [
+      "ふわっと柔らかく繊細な食感",
+      "米粉のほんのりとした甘み",
+      "カレーやコナッツミルクに絡みやすい",
+      "グルテンフリーであっさりとした風味"
+    ],
+    "orderAdvice": "麺自体はほぼ無味なのでソースが重要。カレーと一緒に注文するのが基本。グルテンフリーで健康的。",
+    "similarItems": [
+      {
+        "id": "roti",
+        "name": "ロティ",
+        "difference": "ロティは小麦の薄焼きパン。インディアッパは米粉を蒸した繊細な麺"
+      },
+      {
+        "id": "dal",
+        "name": "ダル",
+        "difference": "ダルはインドのレンズ豆スープカレー。インディアッパはそのカレーを合わせて食べる米粉麺"
+      },
+      {
+        "id": "khanom-chin",
+        "name": "カノム・ジーン",
+        "difference": "カノム・ジーンはタイの発酵米粉麺。インディアッパは非発酵米粉の蒸し麺でより繊細"
+      }
+    ],
+    "relatedIds": [
+      "dal",
+      "curry-leaf",
+      "roti"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Idiyappam"
+    ],
+    "tags": [
+      "インド料理",
+      "麺料理",
+      "米",
+      "蒸し料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "こってり希望",
+      "肉多め希望",
+      "スープ希望",
+      "炒め麺希望"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/idiyappam/1.jpg",
+      "/images/dishes/idiyappam/2.jpg",
+      "/images/dishes/idiyappam/3.jpg"
+    ]
+  },
+  {
+    "id": "ash-reshteh",
+    "name": "アーシュレシュテ",
+    "kana": "あーしゅれしゅて",
+    "aliases": [
+      "アーシュ・レシュテ",
+      "Ash Reshteh"
+    ],
+    "englishName": "Ash Reshteh",
+    "originalName": "آش رشته",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イラン"
+      }
+    ],
+    "summary": "イランを代表する濃厚ハーブスープ。ほうれん草・パセリ・豆類と平打ち麺を大量のハーブとともに煮込み、カシュク（発酵乳清）・揚げ玉ねぎ・ドライミントをのせた伝統料理。",
+    "menuDescription": "ほうれん草・パセリ・コリアンダーなどのハーブと、ひよこ豆・レンズ豆・白いんげん豆、そして平打ち麺（レシュテ）を一緒に煮込んだ濃厚なペルシャのスープ。仕上げにカシュク（発酵乳清）・揚げ玉ねぎ・ドライミントをかける。",
+    "whatComesOut": [
+      "深緑色の濃厚ハーブスープ",
+      "平打ち麺（レシュテ）",
+      "ひよこ豆・レンズ豆・白いんげん豆",
+      "カシュク（発酵乳清）・揚げ玉ねぎ・ミント"
+    ],
+    "tasteAndTexture": [
+      "ハーブの豊かな香りと深みのある旨み",
+      "カシュクの独特な酸味とクリーミーさ",
+      "豆と麺でずっしりとしたボリューム",
+      "揚げ玉ねぎの甘みと香ばしさ"
+    ],
+    "orderAdvice": "ペルシャ料理の真髄的な一品。ハーブ・発酵食品好きに向いている。カシュクが苦手な場合は別添えで頼むと良い。",
+    "caution": "乳製品含む（カシュク）。大量のハーブで独特の風味あり。",
+    "similarItems": [
+      {
+        "id": "minestrone",
+        "name": "ミネストローネ",
+        "difference": "ミネストローネはイタリアの野菜スープ。アーシュレシュテはハーブと豆が中心でカシュクをかけるペルシャ料理"
+      },
+      {
+        "id": "chorba",
+        "name": "チョルバ",
+        "difference": "チョルバは中東・北アフリカの肉ベーススープ。アーシュレシュテはハーブと豆が主役の菜食系スープ"
+      },
+      {
+        "id": "dal",
+        "name": "ダル",
+        "difference": "ダルはインドの豆カレー。アーシュレシュテは豆＋麺＋大量ハーブのペルシャ濃厚スープ"
+      }
+    ],
+    "relatedIds": [
+      "chorba",
+      "minestrone",
+      "dal"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%B7%E3%83%A5",
+      "https://jp.ndish.com/recipe/re00047/"
+    ],
+    "tags": [
+      "中東料理",
+      "スープ",
+      "豆類",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "さっぱり希望",
+      "発酵食品苦手",
+      "肉多め希望",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ash-reshteh/1.jpg",
+      "/images/dishes/ash-reshteh/2.jpg",
+      "/images/dishes/ash-reshteh/3.jpg"
+    ]
+  },
+  {
+    "id": "guvec",
+    "name": "ユベチ",
+    "kana": "ゆべち",
+    "aliases": [
+      "ギュベチ",
+      "Güveç",
+      "Guvec"
+    ],
+    "englishName": "Güveç",
+    "originalName": "Güveç",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "トルコ"
+      }
+    ],
+    "summary": "トルコ発祥の土鍋スロークッキング料理。羊肉または鶏肉とナス・ピーマン・トマトなど夏野菜を陶製土鍋（ギュベチ）に入れてオーブンでじっくり焼いた煮込み料理。",
+    "menuDescription": "羊肉・鶏肉または牛肉と、ナス・ピーマン・トマト・玉ねぎ・にんにくを陶製のギュベチ（土鍋）に層状に入れ、オーブンでゆっくり焼き上げたトルコの伝統的な一人鍋料理。バルカン半島でも広く食べられている。",
+    "whatComesOut": [
+      "陶製土鍋（ギュベチ）に入った状態で提供",
+      "羊肉・鶏肉などの肉",
+      "ナス・ピーマン・トマト・玉ねぎ",
+      "パンまたはピラフを添えることも"
+    ],
+    "tasteAndTexture": [
+      "ゆっくり焼かれた肉のジューシーさ",
+      "野菜の旨みが溶け合った深いコク",
+      "トマトの酸味とスパイスの香り",
+      "土鍋ならではの保温と蒸し効果"
+    ],
+    "orderAdvice": "羊肉・鶏肉どちらでも食べやすい。スパイスは控えめでシンプル。土鍋ごと出てくる演出も楽しい。",
+    "similarItems": [
+      {
+        "id": "moussaka",
+        "name": "ムサカ",
+        "difference": "ムサカはギリシャ・トルコのラザニア風重ね焼き。ギュベチは土鍋ごとオーブン焼きのシチュー"
+      },
+      {
+        "id": "ajapsandali",
+        "name": "アジャプサンダリ",
+        "difference": "アジャプサンダリはジョージアの夏野菜炒め煮。ギュベチはトルコの肉入り土鍋煮込み"
+      },
+      {
+        "id": "chorba",
+        "name": "チョルバ",
+        "difference": "チョルバはスープ状のシチュー。ギュベチはオーブン焼きで水分が少ない固形の煮込み"
+      }
+    ],
+    "relatedIds": [
+      "moussaka",
+      "ajapsandali",
+      "chorba"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A5%E3%83%99%E3%83%81"
+    ],
+    "tags": [
+      "トルコ料理",
+      "主菜",
+      "羊肉",
+      "ロースト",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "羊肉苦手",
+      "さっぱり希望",
+      "麺料理希望",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/guvec/1.jpg",
+      "/images/dishes/guvec/2.jpg",
+      "/images/dishes/guvec/3.jpg"
+    ]
+  },
+  {
+    "id": "shaariya",
+    "name": "シャアリーア",
+    "kana": "しゃありーあ",
+    "aliases": [
+      "シャーリヤ",
+      "ロズ・ベル・シャーリヤ",
+      "Roz bel Sha'ariya"
+    ],
+    "englishName": "Sha'ariya",
+    "originalName": "شعيرية / رز بالشعرية",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エジプト"
+      },
+      {
+        "area": "中東"
+      }
+    ],
+    "summary": "アラブ諸国で広く食べられるバーミチェリ（極細パスタ）と米のピラフ料理。シャアリーアとはアラビア語で「髪の毛」の意味を持つ極細麺で、バターで炒めてから米と炊き込む。",
+    "menuDescription": "極細のバーミチェリ麺（シャアリーア）をバターやギーで黄金色になるまで炒め、米と合わせて水またはブイヨンで炊いたアラブ諸国の定番ピラフ。肉料理やシチューの付け合わせとして広く食べられる。",
+    "whatComesOut": [
+      "バーミチェリと米を合わせたピラフ",
+      "黄金色に炒めた極細パスタが混じる",
+      "バターの香り",
+      "肉料理やシチューの付け合わせとして"
+    ],
+    "tasteAndTexture": [
+      "炒めたバーミチェリの香ばしさ",
+      "米と麺の異なる食感の組み合わせ",
+      "バターの芳醇な風味",
+      "あっさりとした中に深みのある味"
+    ],
+    "orderAdvice": "肉料理の付け合わせとして出てくることが多い。シンプルで食べやすく、中東料理入門に最適。",
+    "similarItems": [
+      {
+        "id": "molokhia",
+        "name": "モロヘイヤ",
+        "difference": "モロヘイヤは同じアラブ・エジプトのネバネバハーブスープ。シャアリーアは米と麺のシンプルなピラフ"
+      },
+      {
+        "id": "taboule",
+        "name": "タブレ",
+        "difference": "タブレは中東の麦（ブルグル）と野菜のサラダ。シャアリーアはバターで炒めた麺入りピラフ"
+      },
+      {
+        "id": "koshari",
+        "name": "コシャリ",
+        "difference": "コシャリは米・豆・パスタの混合にトマトソースをかけるエジプトの国民食。シャアリーアはシンプルな麺入りピラフ"
+      }
+    ],
+    "relatedIds": [
+      "molokhia",
+      "taboule"
+    ],
+    "source": [
+      "https://www.chocolatesandchai.com/egyptian-rice/",
+      "https://honestcooking.com/browned-in-butter-shareyya/"
+    ],
+    "tags": [
+      "アラブ料理",
+      "ご飯もの",
+      "小麦",
+      "炒め物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "麺料理希望",
+      "スープ希望",
+      "辛い料理希望",
+      "こってり希望"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
   }
 ]
