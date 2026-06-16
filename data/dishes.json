@@ -76728,5 +76728,2462 @@
     "heavinessScore": 3,
     "spicinessScore": 1,
     "images": []
+  },
+  {
+    "id": "khanom-jeeb",
+    "name": "カノム・ジープ",
+    "kana": "かのむじーぷ",
+    "aliases": [
+      "カノムジープ",
+      "カノムチープ",
+      "カノムチップ"
+    ],
+    "englishName": "Thai siu mai",
+    "originalName": "ขนมจีบ (Khanom chip)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "カノム・ジープは、中国系の焼売がタイで定着した蒸し点心。豚肉、海老、蟹などを薄い皮で包み、にんにく油や甘辛い醤油だれを添えて食べる。",
+    "menuDescription": "小さな蒸し焼売が数個出る前菜・軽食。屋台や点心店では豚肉入り、海老入り、蟹入りなどがあり、揚げにんにくと甘い黒醤油だれが添えられることが多い。",
+    "whatComesOut": [
+      "一口サイズの蒸し焼売",
+      "豚肉や海老の詰め物",
+      "揚げにんにくやパクチーのトッピング",
+      "甘辛い醤油だれや唐辛子酢"
+    ],
+    "tasteAndTexture": [
+      "皮は薄くやわらかい",
+      "中身は肉のうま味が強くジューシー",
+      "にんにく油の香ばしさがある",
+      "辛さは卓上調味料で調整する"
+    ],
+    "orderAdvice": "辛くないタイ料理を探す時に頼みやすい。前菜なら1皿、軽食ならクイッティアオやご飯ものと合わせるとよい。",
+    "similarItems": [
+      {
+        "id": "dumpling",
+        "name": "餃子",
+        "difference": "餃子は包み方や焼き・水餃子などの幅が広い。カノム・ジープは焼売型の蒸し点心"
+      },
+      {
+        "id": "wonton",
+        "name": "ワンタン",
+        "difference": "ワンタンは薄皮の包み物でスープに入ることが多い。カノム・ジープは蒸してたれで食べる"
+      },
+      {
+        "id": "bo-pia-thot",
+        "name": "ボーピア・トード",
+        "difference": "ボーピア・トードは揚げ春巻き。カノム・ジープは蒸し点心で油っぽさが少ない"
+      }
+    ],
+    "relatedIds": [
+      "dumpling",
+      "wonton",
+      "bo-pia-thot",
+      "nam-pla"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "前菜",
+      "豚肉",
+      "魚介",
+      "蒸し料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "タイの焼売を食べたい",
+      "辛くないタイ料理が食べたい",
+      "点心を頼みたい",
+      "軽い前菜が欲しい"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/khanom-jeeb/1.jpg",
+      "/images/dishes/khanom-jeeb/2.jpg",
+      "/images/dishes/khanom-jeeb/3.jpg"
+    ]
+  },
+  {
+    "id": "phra-ram-long-song",
+    "name": "プララーム・ロンソン",
+    "kana": "ぷららーむろんそん",
+    "aliases": [
+      "プララムロンソン",
+      "プララム・ロンソン",
+      "スイミング・ラーマ",
+      "Swimming Rama"
+    ],
+    "englishName": "Swimming Rama",
+    "originalName": "พระรามลงสรง (Phra Ram long song)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "プララーム・ロンソンは、茹でた青菜や肉に甘辛いピーナッツ系ソースをかけるタイ料理。名前は「ラーマ王が水浴びする」の意味で、英語圏ではSwimming Ramaとも呼ばれる。",
+    "menuDescription": "皿には空心菜やほうれん草などの青菜、鶏肉や豚肉が盛られ、濃厚なピーナッツ・ココナッツ風味のソースがかかる。辛さは穏やかで、ご飯と合わせやすい。",
+    "whatComesOut": [
+      "茹でた青菜の上に肉をのせた皿",
+      "ピーナッツやココナッツミルク入りの赤茶色ソース",
+      "白飯付きの定食風提供",
+      "店により鶏肉、豚肉、牛肉、豆腐版"
+    ],
+    "tasteAndTexture": [
+      "ピーナッツの甘みとコクが強い",
+      "ココナッツミルクでまろやか",
+      "青菜はしんなりして軽い",
+      "辛さは控えめから中辛"
+    ],
+    "orderAdvice": "辛いカレーが苦手でも頼みやすい。ナッツアレルギーがある場合は避ける。肉の種類を選べる店では鶏肉が無難。",
+    "caution": "ピーナッツ使用の可能性が高い。アレルギー要注意。",
+    "similarItems": [
+      {
+        "name": "サテ",
+        "difference": "サテは串焼きにピーナッツソースを添える料理。プララーム・ロンソンは青菜と肉にソースをかける皿料理"
+      },
+      {
+        "id": "green-curry",
+        "name": "グリーンカレー",
+        "difference": "グリーンカレーは青唐辛子とハーブの辛いココナッツカレー。プララーム・ロンソンはピーナッツソース中心で辛さ控えめ"
+      },
+      {
+        "id": "thai-suki",
+        "name": "タイスキ",
+        "difference": "タイスキは鍋料理。プララーム・ロンソンは青菜と肉に濃厚ソースをかける一皿"
+      }
+    ],
+    "relatedIds": [
+      "green-curry",
+      "thai-suki",
+      "nam-pla",
+      "palm-sugar"
+    ],
+    "source": [
+      "https://importfood.com/recipes/recipe/123-thai-rama-chicken-praram-long-song",
+      "https://en.wikipedia.org/wiki/Tha_Din_Daeng,_Bangkok"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "鶏肉",
+      "野菜",
+      "煮込み",
+      "こってり",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "ピーナッツソースのタイ料理",
+      "辛くないタイ料理が食べたい",
+      "青菜と肉の料理",
+      "Swimming Ramaとは何か知りたい"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/phra-ram-long-song/1.jpg"
+    ]
+  },
+  {
+    "id": "pla-kung",
+    "name": "プラー・クン",
+    "kana": "ぷらーくん",
+    "aliases": [
+      "プラ・クン",
+      "プラークン",
+      "プラグン",
+      "Phla kung"
+    ],
+    "englishName": "Spicy Thai prawn salad",
+    "originalName": "พล่ากุ้ง (Phla kung)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "プラー・クンは、海老をレモングラス、ミント、ハーブ、唐辛子、ナンプラー、ライムで和えるタイのプラー系サラダ。海老は軽く火を通すか半生に近く仕上げる。",
+    "menuDescription": "酸っぱく辛い海老サラダ。刻んだレモングラス、ミント、パクチー、赤玉ねぎが入り、ライムとナンプラーの鋭いドレッシングで和えられる。",
+    "whatComesOut": [
+      "海老を主役にしたハーブたっぷりのサラダ",
+      "レモングラスとミントの強い香り",
+      "ライム、ナンプラー、唐辛子のドレッシング",
+      "店によりナムプリックパオ入りの赤い仕上げ"
+    ],
+    "tasteAndTexture": [
+      "酸味と辛味がはっきり強い",
+      "海老はぷりっとした食感",
+      "レモングラスの清涼感が強い",
+      "ミントとパクチーで香りが軽い"
+    ],
+    "orderAdvice": "辛さと酸味が好きなら前菜に向く。生っぽい海老が苦手なら、海老にしっかり火を通せるか確認。",
+    "caution": "半生に近い海老で出ることがある。甲殻類アレルギー要注意。",
+    "similarItems": [
+      {
+        "id": "yam-wun-sen",
+        "name": "ヤム・ウンセン",
+        "difference": "ヤム・ウンセンは春雨入りのヤム系サラダ。プラー・クンは海老とレモングラス中心のプラー系"
+      },
+      {
+        "id": "tom-yum-goong",
+        "name": "トムヤムクン",
+        "difference": "トムヤムクンは海老の酸辛スープ。プラー・クンは汁気少ない海老サラダ"
+      },
+      {
+        "id": "laap",
+        "name": "ラープ",
+        "difference": "ラープは挽き肉と炒り米粉のサラダ。プラー・クンは海老と生ハーブの酸辛サラダ"
+      }
+    ],
+    "relatedIds": [
+      "yam-wun-sen",
+      "tom-yum-goong",
+      "laap",
+      "nam-pla",
+      "lime",
+      "lemongrass"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Thai_salads",
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes",
+      "https://www.seriouseats.com/guide-to-thai-salads-5209897"
+    ],
+    "tags": [
+      "タイ料理",
+      "サラダ",
+      "魚介",
+      "ハーブ",
+      "あっさり",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "海老のサラダを食べたい",
+      "酸っぱ辛いタイ料理",
+      "レモングラスの料理",
+      "軽い前菜が欲しい"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/pla-kung/1.jpg",
+      "/images/dishes/pla-kung/2.jpg",
+      "/images/dishes/pla-kung/3.jpg"
+    ]
+  },
+  {
+    "id": "gaeng-phet-ped-yang",
+    "name": "ゲーン・ペッ・ベ・ヤーン",
+    "kana": "げーんぺっべやーん",
+    "aliases": [
+      "ゲーンペッベヤーン",
+      "ゲーン・ペット・ペット・ヤーン",
+      "ゲーン・ペッ・ペット・ヤーン",
+      "レッドカレー・ローストダック"
+    ],
+    "englishName": "Red curry with roast duck",
+    "originalName": "แกงเผ็ดเป็ดย่าง (Kaeng phet pet yang)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "ゲーン・ペッ・ベ・ヤーンは、ローストダックを赤いカレーペーストとココナッツミルクで煮るタイのレッドカレー。中国系の焼き鴨とタイカレーを合わせた料理で、果物が入ることも多い。",
+    "menuDescription": "赤いココナッツカレーに焼き鴨、なす、トマト、パイナップル、ぶどうなどが入る。鴨の脂と果物の甘酸っぱさで、通常のレッドカレーより華やかで濃厚。",
+    "whatComesOut": [
+      "ローストダック入りの赤いココナッツカレー",
+      "なす、トマト、パイナップル、ぶどうなどの具",
+      "バイマックルーやタイバジルの香り",
+      "白飯と合わせる主菜"
+    ],
+    "tasteAndTexture": [
+      "ココナッツミルクで濃厚",
+      "赤唐辛子の辛さがある",
+      "鴨皮の香ばしさと脂のコク",
+      "果物の甘酸っぱさがアクセント"
+    ],
+    "orderAdvice": "鴨好きなら満足度が高い。辛さは中辛以上のことが多いので、辛さ控えめ希望なら注文時に伝える。",
+    "similarItems": [
+      {
+        "id": "gaeng-phet",
+        "name": "ゲーン・ペッ",
+        "difference": "ゲーン・ペッは一般的なレッドカレー。ゲーン・ペッ・ベ・ヤーンはローストダックと果物を入れる豪華版"
+      },
+      {
+        "id": "green-curry",
+        "name": "グリーンカレー",
+        "difference": "グリーンカレーは青唐辛子とハーブの香りが主役。こちらは赤唐辛子と鴨の脂のコクが中心"
+      },
+      {
+        "id": "gaeng-kari",
+        "name": "ゲーン・カリー",
+        "difference": "ゲーン・カリーは黄色い穏やかなカレー。ゲーン・ペッ・ベ・ヤーンは赤く辛く鴨の風味が強い"
+      }
+    ],
+    "relatedIds": [
+      "gaeng-phet",
+      "green-curry",
+      "gaeng-kari",
+      "kaffir-lime",
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes",
+      "https://de.wikipedia.org/wiki/Kaeng_Phet"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "鴨肉",
+      "煮込み",
+      "こってり",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "鴨のレッドカレーを食べたい",
+      "濃厚なタイカレー",
+      "ココナッツカレーが食べたい",
+      "果物入りカレーが気になる"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/gaeng-phet-ped-yang/1.jpg",
+      "/images/dishes/gaeng-phet-ped-yang/2.jpg"
+    ]
+  },
+  {
+    "id": "sai-krok-isan",
+    "name": "サイクロッ・イサーン",
+    "kana": "さいくろっいさーん",
+    "aliases": [
+      "サイクローク・イサーン",
+      "サイコック・イサーン",
+      "イサーンソーセージ"
+    ],
+    "englishName": "Isan fermented sausage",
+    "originalName": "ไส้กรอกอีสาน (Sai krok Isan)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ",
+        "area": "イサーン"
+      }
+    ],
+    "summary": "サイクロッ・イサーンは、豚肉ともち米を腸詰めにして発酵させるタイ東北部イサーンの酸味あるソーセージ。焼いて、唐辛子、生キャベツ、しょうがと一緒に食べる。",
+    "menuDescription": "屋台や前菜で出る丸い小型ソーセージ。噛むと豚脂のコク、にんにく、発酵由来の酸味があり、添え野菜で口をさっぱりさせる。",
+    "whatComesOut": [
+      "焼いた小型の発酵ソーセージ",
+      "生キャベツ、しょうが、唐辛子の付け合わせ",
+      "もち米入りで少しむっちりした断面",
+      "店により球状または長い腸詰め"
+    ],
+    "tasteAndTexture": [
+      "発酵の酸味がはっきりある",
+      "豚肉と脂のうま味が強い",
+      "にんにくが香る",
+      "皮はぱりっと、中は粗挽きでジューシー"
+    ],
+    "orderAdvice": "ビールのつまみや前菜向き。酸味が苦手なら少量から試す。唐辛子は別添えが多いので辛さ調整しやすい。",
+    "caution": "発酵ソーセージなので酸味が強い。豚肉使用。",
+    "similarItems": [
+      {
+        "id": "sai-ua",
+        "name": "サイウア",
+        "difference": "サイウアは北タイのハーブ入りソーセージ。サイクロッ・イサーンはもち米発酵の酸味が特徴"
+      },
+      {
+        "id": "laap",
+        "name": "ラープ",
+        "difference": "ラープは挽き肉とハーブのサラダ。サイクロッ・イサーンは腸詰め発酵ソーセージ"
+      },
+      {
+        "id": "gai-yang",
+        "name": "ガイヤーン",
+        "difference": "ガイヤーンは鶏の炭火焼き。サイクロッ・イサーンは豚肉の発酵ソーセージ"
+      }
+    ],
+    "relatedIds": [
+      "sai-ua",
+      "laap",
+      "som-tam",
+      "gai-yang",
+      "khao-niao"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Sai_krok_Isan",
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "前菜",
+      "豚肉",
+      "焼き物",
+      "香ばしい",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "イサーンのソーセージを食べたい",
+      "酸っぱいソーセージ",
+      "ビールに合うタイ料理",
+      "屋台の腸詰めを頼みたい"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/sai-krok-isan/1.jpg",
+      "/images/dishes/sai-krok-isan/2.jpg"
+    ]
+  },
+  {
+    "id": "khao-niao",
+    "name": "カオ・ニヤオ",
+    "kana": "かおにやお",
+    "aliases": [
+      "カオニャオ",
+      "カオニアオ",
+      "タイもち米",
+      "スティッキーライス"
+    ],
+    "englishName": "Thai sticky rice",
+    "originalName": "ข้าวเหนียว (Khao niao)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      },
+      {
+        "country": "ラオス"
+      }
+    ],
+    "summary": "カオ・ニヤオは、もち米を浸水して蒸したタイやラオスの主食。特にタイ北部・東北部でよく食べられ、手で丸めて肉料理、サラダ、ディップと合わせる。",
+    "menuDescription": "小さな竹籠や袋で出る蒸しもち米。ソムタム、ラープ、ガイヤーン、ナムチム系のたれを受け止める主食で、白米より粘りと噛みごたえがある。",
+    "whatComesOut": [
+      "蒸したもち米のかたまり",
+      "竹籠入りまたは袋入りの白い米",
+      "手でちぎって丸めやすい粘り",
+      "肉料理やサラダの横に添えられる主食"
+    ],
+    "tasteAndTexture": [
+      "甘みは穏やか",
+      "もちもちして噛みごたえがある",
+      "水っぽくなく締まった食感",
+      "辛い料理や濃いソースと相性がよい"
+    ],
+    "orderAdvice": "イサーン料理や北タイ料理では白米より合うことが多い。辛いサラダや焼き肉を頼むなら一緒に注文すると食べやすい。",
+    "similarItems": [
+      {
+        "id": "khao-niao-mamuang",
+        "name": "カオニャオ・マムアン",
+        "difference": "カオニャオ・マムアンは甘いココナッツもち米とマンゴーのデザート。カオ・ニヤオは塩味料理に合わせる蒸しもち米"
+      },
+      {
+        "id": "khao-phat",
+        "name": "カオ・パッ",
+        "difference": "カオ・パッは炒めた米料理。カオ・ニヤオは蒸したもち米の主食"
+      },
+      {
+        "id": "khao-tom",
+        "name": "カオ・トム",
+        "difference": "カオ・トムは米を汁で煮る粥・スープ。カオ・ニヤオは蒸して固めに食べるもち米"
+      }
+    ],
+    "relatedIds": [
+      "som-tam",
+      "laap",
+      "gai-yang",
+      "sai-ua",
+      "khao-niao-mamuang"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Thai_cuisine",
+      "https://en.wikipedia.org/wiki/Glutinous_rice",
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "主食",
+      "米",
+      "蒸し料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "タイのもち米を頼みたい",
+      "イサーン料理の主食",
+      "辛い料理に合わせる米",
+      "スティッキーライスとは何か知りたい"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/khao-niao/1.jpg",
+      "/images/dishes/khao-niao/2.jpg",
+      "/images/dishes/khao-niao/3.jpg"
+    ]
+  },
+  {
+    "id": "tom-saep",
+    "name": "トム・セープ",
+    "kana": "とむせーぷ",
+    "aliases": [
+      "トムセープ",
+      "トム・セップ",
+      "トムサープ"
+    ],
+    "englishName": "Hot and sour Isan soup",
+    "originalName": "ต้มแซ่บ (Tom saep)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ",
+        "area": "イサーン"
+      }
+    ],
+    "summary": "トム・セープは、豚肉、牛肉、鶏肉などを煮て、ライム、唐辛子、炒り米粉、ハーブで仕上げるイサーンの辛酸っぱいスープ。トムヤムより肉系で力強い味。",
+    "menuDescription": "澄んだ熱いスープに骨付き肉や内臓が入り、食べる直前にライムとハーブを効かせる。酸味、辛味、香草の香りが鋭く、ご飯やもち米に合う。",
+    "whatComesOut": [
+      "肉や骨付き肉入りの辛酸っぱいスープ",
+      "レモングラス、こぶみかん葉、ガランガル系の香り",
+      "ライム果汁と唐辛子の強い刺激",
+      "炒り米粉や生ハーブ入りの仕上げ"
+    ],
+    "tasteAndTexture": [
+      "酸味と辛味が強い",
+      "肉のだしが濃い",
+      "ハーブで清涼感がある",
+      "炒り米粉で香ばしさが出ることがある"
+    ],
+    "orderAdvice": "辛さが苦手なら辛さ控えめで注文。内臓入りの店もあるので、苦手なら肉の部位を確認すると安全。",
+    "caution": "辛味と酸味が強い。店により内臓入り。",
+    "similarItems": [
+      {
+        "id": "tom-yum-goong",
+        "name": "トムヤムクン",
+        "difference": "トムヤムクンは海老の酸辛スープ。トム・セープは肉だし中心のイサーン系スープ"
+      },
+      {
+        "id": "gaeng-som",
+        "name": "ゲーン・ソム",
+        "difference": "ゲーン・ソムはタマリンドを使う酸辛カレー。トム・セープはライムとハーブが立つ澄んだ肉スープ"
+      },
+      {
+        "id": "laap",
+        "name": "ラープ",
+        "difference": "ラープは肉のサラダ。トム・セープは同じイサーン味覚の辛酸っぱいスープ"
+      }
+    ],
+    "relatedIds": [
+      "tom-yum-goong",
+      "gaeng-som",
+      "laap",
+      "lime",
+      "lemongrass",
+      "kaffir-lime"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "スープ",
+      "豚肉",
+      "ハーブ",
+      "煮込み",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "辛酸っぱいスープが飲みたい",
+      "イサーンのスープ",
+      "肉だしのタイスープ",
+      "トムヤム以外の酸辛スープ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 4,
+    "images": []
+  },
+  {
+    "id": "kho-mu-yang",
+    "name": "コー・ムー・ヤーン",
+    "kana": "こーむーやーん",
+    "aliases": [
+      "コームーヤーン",
+      "コームーヤン",
+      "豚トロ焼き",
+      "グリル豚ネック"
+    ],
+    "englishName": "Grilled pork neck",
+    "originalName": "คอหมูย่าง (Kho mu yang)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "コー・ムー・ヤーンは、豚の首肉を甘辛く下味して炭火で焼くタイ料理。脂の甘みと香ばしさがあり、酸っぱ辛いナムチムチェオをつけて食べる。",
+    "menuDescription": "薄切りの焼き豚トロが皿で出る。焦げ目が香ばしく、添えられる辛いディップにはナンプラー、ライム、唐辛子、炒り米粉が入ることが多い。",
+    "whatComesOut": [
+      "薄切りのグリル豚首肉",
+      "焼き目のついたジューシーな肉",
+      "ナムチムチェオ系の辛酸っぱいたれ",
+      "生野菜やもち米の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "脂の甘みが強い",
+      "炭火の香ばしさがある",
+      "肉は弾力がありジューシー",
+      "たれは酸っぱく辛く香ばしい"
+    ],
+    "orderAdvice": "肉料理をしっかり食べたい時に向く。ソムタム、ラープ、カオ・ニヤオと合わせるとイサーン風の定番構成になる。",
+    "similarItems": [
+      {
+        "id": "gai-yang",
+        "name": "ガイヤーン",
+        "difference": "ガイヤーンは鶏の炭火焼き。コー・ムー・ヤーンは脂のある豚首肉を焼く"
+      },
+      {
+        "id": "nam-tok",
+        "name": "ナムトック",
+        "difference": "ナムトックは焼き肉をハーブと酸辛だれで和えるサラダ。コー・ムー・ヤーンは焼き肉をたれにつける料理"
+      },
+      {
+        "id": "mu-satay",
+        "name": "ムー・サテ",
+        "difference": "ムー・サテは串焼きにピーナッツソース。コー・ムー・ヤーンは豚首肉を焼き辛酸っぱいたれで食べる"
+      }
+    ],
+    "relatedIds": [
+      "gai-yang",
+      "nam-tok",
+      "som-tam",
+      "laap",
+      "khao-niao",
+      "lime"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "豚トロのタイ料理",
+      "焼き豚を食べたい",
+      "イサーンの肉料理",
+      "ナムチムチェオで食べたい"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/kho-mu-yang/1.jpg",
+      "/images/dishes/kho-mu-yang/2.jpg",
+      "/images/dishes/kho-mu-yang/3.jpg"
+    ]
+  },
+  {
+    "id": "khantoke",
+    "name": "カントーク",
+    "kana": "かんとーく",
+    "aliases": [
+      "カントック",
+      "カントークディナー",
+      "北タイ御膳"
+    ],
+    "englishName": "Khantoke dinner",
+    "originalName": "ขันโตก (Khantoke)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ",
+        "area": "北部"
+      }
+    ],
+    "summary": "カントークは、北タイ・ランナー文化の低い丸膳、またはその膳に料理を並べる食事形式。もち米、ディップ、ソーセージ、カレー、野菜などを少しずつ食べる。",
+    "menuDescription": "観光ディナーや北タイ料理店では、小さな丸い台に複数の皿が並ぶセット料理として出る。もち米、ナムプリック、サイウア、カレー、揚げ物、野菜などの盛り合わせ。",
+    "whatComesOut": [
+      "低い丸膳に並ぶ北タイ料理セット",
+      "もち米と複数のおかず",
+      "ナムプリックや野菜、ソーセージ、カレー",
+      "店により舞踊や音楽付きのディナー形式"
+    ],
+    "tasteAndTexture": [
+      "辛いディップ、香ばしい肉、もち米を組み合わせる",
+      "少量多皿で味の幅が広い",
+      "北タイのハーブや発酵調味料の風味",
+      "料理セットなので辛味や重さは内容次第"
+    ],
+    "orderAdvice": "北タイ料理をまとめて試したい時に便利。個別料理名よりセット内容を確認するとよい。辛いディップが含まれることが多い。",
+    "similarItems": [
+      {
+        "id": "sai-ua",
+        "name": "サイウア",
+        "difference": "サイウアは北タイソーセージ単品。カントークはサイウアなどを含む北タイ式の膳・食事形式"
+      },
+      {
+        "id": "khao-niao",
+        "name": "カオ・ニヤオ",
+        "difference": "カオ・ニヤオは蒸しもち米。カントークでは主食として一緒に出ることが多い"
+      },
+      {
+        "id": "gaeng-hang-lay",
+        "name": "ゲーン・ハンレー",
+        "difference": "ゲーン・ハンレーは北タイの豚カレー。カントークは複数料理を膳で出す形式"
+      }
+    ],
+    "relatedIds": [
+      "sai-ua",
+      "khao-niao",
+      "gaeng-hang-lay",
+      "laap",
+      "khanom-chin"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Khantoke"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "香ばしい",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "北タイ料理セットを食べたい",
+      "カントークディナーとは何か知りたい",
+      "ランナー料理を試したい",
+      "少しずつ色々食べたい"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/khantoke/1.jpg"
+    ]
+  },
+  {
+    "id": "mu-satay",
+    "name": "ムー・サテ",
+    "kana": "むーさて",
+    "aliases": [
+      "ムーサテ",
+      "ムー・サテー",
+      "豚サテ",
+      "ポークサテ"
+    ],
+    "englishName": "Thai pork satay",
+    "originalName": "หมูสะเต๊ะ (Mu sate)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "ムー・サテは、香辛料で下味した豚肉を串に刺して焼き、ピーナッツソースときゅうりの甘酢漬けを添えるタイのサテ。タイでは豚肉版が広く親しまれる。",
+    "menuDescription": "黄色っぽく下味された薄切り豚肉の串焼き。甘く濃厚なピーナッツソースと、アチャートと呼ばれるきゅうりの酢漬けをつけて食べる。",
+    "whatComesOut": [
+      "小さな豚肉串焼き数本",
+      "ピーナッツソース",
+      "きゅうり、玉ねぎ、唐辛子の甘酢漬け",
+      "炭火焼きの香ばしい香り"
+    ],
+    "tasteAndTexture": [
+      "豚肉は甘く香辛料が香る",
+      "ピーナッツソースは濃厚で甘辛い",
+      "炭火で香ばしい",
+      "酢漬けで後味がさっぱりする"
+    ],
+    "orderAdvice": "辛さ控えめで前菜に頼みやすい。ナッツアレルギーがある場合は避ける。数本単位なのでシェア向き。",
+    "caution": "ピーナッツソース使用。アレルギー要注意。",
+    "similarItems": [
+      {
+        "id": "kho-mu-yang",
+        "name": "コー・ムー・ヤーン",
+        "difference": "コー・ムー・ヤーンは豚首肉のグリル。ムー・サテは薄切り豚の串焼きとピーナッツソース"
+      },
+      {
+        "id": "gai-yang",
+        "name": "ガイヤーン",
+        "difference": "ガイヤーンは鶏の炭火焼き。ムー・サテは豚肉串を甘いピーナッツソースで食べる"
+      },
+      {
+        "id": "phra-ram-long-song",
+        "name": "プララーム・ロンソン",
+        "difference": "プララーム・ロンソンもピーナッツ系ソースを使うが、青菜と肉の皿料理。ムー・サテは串焼き"
+      }
+    ],
+    "relatedIds": [
+      "kho-mu-yang",
+      "gai-yang",
+      "phra-ram-long-song",
+      "palm-sugar",
+      "nam-pla"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Satay",
+      "https://en.wikipedia.org/wiki/List_of_Thai_dishes"
+    ],
+    "tags": [
+      "タイ料理",
+      "前菜",
+      "豚肉",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "豚サテを食べたい",
+      "ピーナッツソースの串焼き",
+      "辛くないタイ前菜",
+      "タイの屋台串を頼みたい"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/mu-satay/1.jpg",
+      "/images/dishes/mu-satay/2.jpg",
+      "/images/dishes/mu-satay/3.jpg"
+    ]
+  },
+  {
+    "id": "chomphu",
+    "name": "チョンプー",
+    "kana": "ちょんぷー",
+    "aliases": [
+      "ชมพู่",
+      "ローズアップル",
+      "ワックスアップル"
+    ],
+    "englishName": "Rose apple",
+    "originalName": "ชมพู่ (Chomphu)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "チョンプーは、タイで生食されるベル形の水分豊富な熱帯果実。英語ではrose appleやwax appleと呼ばれ、軽い甘みとしゃりっとした食感がある。",
+    "menuDescription": "市場やデザート皿で出る赤、緑、白系の果物。皮ごと食べることが多く、塩唐辛子や甘辛いディップを添えることもある。",
+    "whatComesOut": [
+      "ベル形の生果",
+      "切った果肉",
+      "塩唐辛子や砂糖唐辛子の添え物",
+      "果物盛り合わせの一部"
+    ],
+    "tasteAndTexture": [
+      "みずみずしく軽い甘み",
+      "梨に近いしゃりっとした歯ざわり",
+      "香りは穏やか",
+      "後味がさっぱり"
+    ],
+    "orderAdvice": "辛い料理後の口直し向き。強い甘さを期待するより、食感と清涼感を楽しむ果物。",
+    "similarItems": [
+      {
+        "name": "グアバ",
+        "difference": "グアバは香りと粒状感が強い。チョンプーは水分が多く軽い食感"
+      },
+      {
+        "name": "ランブータン",
+        "difference": "ランブータンは甘い半透明果肉。チョンプーは皮ごと食べるしゃりっとした果実"
+      }
+    ],
+    "relatedIds": [
+      "lime"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Syzygium_samarangense"
+    ],
+    "tags": [
+      "タイ料理",
+      "果物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "タイのローズアップル",
+      "水分多い果物",
+      "辛い料理後の果物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "lamyai",
+    "name": "ラムヤイ",
+    "kana": "らむやい",
+    "aliases": [
+      "ลำไย",
+      "ロンガン",
+      "竜眼"
+    ],
+    "englishName": "Longan",
+    "originalName": "ลำไย (Lamyai)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "ラムヤイはロンガンのタイ名。薄い褐色の皮をむくと半透明の甘い果肉があり、生食、シロップ漬け、デザート、飲み物に使う。",
+    "menuDescription": "小粒の丸い果実が房で出る。ライチより酸味が少なく、乾いた甘みと軽い花の香りがある。",
+    "whatComesOut": [
+      "皮付きの小粒果実",
+      "半透明の果肉",
+      "中央の黒い種",
+      "シロップ漬けや氷菓の具"
+    ],
+    "tasteAndTexture": [
+      "甘みが強い",
+      "果肉はぷるっと柔らかい",
+      "香りはライチより穏やか",
+      "後味に蜂蜜のような甘さ"
+    ],
+    "orderAdvice": "生果なら皮をむいて種を避ける。甘いデザートや冷たい飲み物に入ることも多い。",
+    "similarItems": [
+      {
+        "name": "ランブータン",
+        "difference": "ランブータンは毛のある赤い皮で果肉が厚い。ラムヤイは小粒で甘みが穏やか"
+      },
+      {
+        "name": "マンゴスチン",
+        "difference": "マンゴスチンは酸味のある白い房。ラムヤイは半透明で甘み中心"
+      }
+    ],
+    "relatedIds": [
+      "khao-niao-mamuang",
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Longan"
+    ],
+    "tags": [
+      "タイ料理",
+      "果物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ロンガンを食べたい",
+      "甘いタイ果物",
+      "竜眼とは何か"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "mangosteen",
+    "name": "マンゴスチン",
+    "kana": "まんごすちん",
+    "aliases": [
+      "มังคุด",
+      "マンゴスチーン"
+    ],
+    "englishName": "Mangosteen",
+    "originalName": "มังคุด (Mangkut)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "マンゴスチンは厚い紫色の皮と白い房状の果肉を持つ熱帯果実。甘みと酸味のバランスがよく、東南アジアで高く評価される。",
+    "menuDescription": "紫の丸い果物を割り、白い房だけ食べる。果肉は柔らかく、上品な甘酸っぱさがある。",
+    "whatComesOut": [
+      "紫色の厚い皮の果実",
+      "白い房状の果肉",
+      "生の果物盛り合わせ",
+      "デザートの具"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい",
+      "果肉は柔らかくジューシー",
+      "香りは上品",
+      "皮は食べない"
+    ],
+    "orderAdvice": "皮の汁は服に色がつきやすい。房の中に種があることがある。",
+    "similarItems": [
+      {
+        "name": "ラムヤイ",
+        "difference": "ラムヤイは半透明で甘み中心。マンゴスチンは白い房で酸味がある"
+      },
+      {
+        "name": "ランブータン",
+        "difference": "ランブータンは弾力ある果肉。マンゴスチンは柔らかく酸味がきれい"
+      }
+    ],
+    "relatedIds": [
+      "khao-niao-mamuang"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Mangosteen"
+    ],
+    "tags": [
+      "タイ料理",
+      "果物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "マンゴスチンを食べたい",
+      "甘酸っぱいタイ果物",
+      "紫の皮の果物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "rambutan",
+    "name": "ランブータン",
+    "kana": "らんぶーたん",
+    "aliases": [
+      "เงาะ",
+      "ンゴ",
+      "ランブータン"
+    ],
+    "englishName": "Rambutan",
+    "originalName": "เงาะ (Ngo)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "ランブータンは、赤い毛のような突起を持つ東南アジアの果物。皮をむくと半透明で甘い果肉があり、ライチに近い食感。",
+    "menuDescription": "赤く毛のある皮付きで出る。皮は食べず、果肉を種から外して食べる。果物盛り合わせや缶詰にも使う。",
+    "whatComesOut": [
+      "赤い毛状の皮の果物",
+      "半透明の白い果肉",
+      "中央の種",
+      "シロップ漬けの果肉"
+    ],
+    "tasteAndTexture": [
+      "甘くジューシー",
+      "果肉はぷりっと弾力",
+      "酸味は弱め",
+      "ライチに近い香り"
+    ],
+    "orderAdvice": "皮を手で割り、種を噛まないよう食べる。甘い果物が欲しい時に向く。",
+    "similarItems": [
+      {
+        "name": "ラムヤイ",
+        "difference": "ラムヤイは小粒で皮が滑らか。ランブータンは赤い毛状の皮と厚い果肉"
+      },
+      {
+        "name": "マンゴスチン",
+        "difference": "マンゴスチンは酸味がある白い房。ランブータンは甘み中心で弾力がある"
+      }
+    ],
+    "relatedIds": [
+      "khao-niao-mamuang"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Rambutan"
+    ],
+    "tags": [
+      "タイ料理",
+      "果物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ランブータンを食べたい",
+      "毛のある赤い果物",
+      "ライチに似た果物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "jackfruit",
+    "name": "ジャックフルーツ",
+    "kana": "じゃっくふるーつ",
+    "aliases": [
+      "ขนุน",
+      "カヌン"
+    ],
+    "englishName": "Jackfruit",
+    "originalName": "ขนุน (Khanun)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "ジャックフルーツは巨大な熱帯果実。熟すと黄色い果肉が甘く香り、未熟果は煮込みやカレーで野菜・肉代替のように使われる。",
+    "menuDescription": "熟した果肉は黄色く強い甘い香り。タイでは生果、シロップ漬け、菓子、未熟果の料理で見かける。",
+    "whatComesOut": [
+      "黄色い房状の果肉",
+      "大きな種",
+      "シロップ漬けの果肉",
+      "未熟果の煮込み"
+    ],
+    "tasteAndTexture": [
+      "熟果は甘く香りが強い",
+      "果肉は繊維質で弾力",
+      "未熟果は淡白で肉のようなほぐれ感",
+      "種は加熱して食べることもある"
+    ],
+    "orderAdvice": "香りが強いので好みが分かれる。初めてなら少量の生果かデザートで試す。",
+    "similarItems": [
+      {
+        "name": "マンゴスチン",
+        "difference": "マンゴスチンは小型で酸味がある。ジャックフルーツは大型で香りと甘みが強い"
+      },
+      {
+        "name": "カオニャオ・マムアン",
+        "difference": "カオニャオ・マムアンはマンゴーともち米のデザート。ジャックフルーツは果肉単体や菓子具材"
+      }
+    ],
+    "relatedIds": [
+      "khao-niao-mamuang",
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Jackfruit"
+    ],
+    "tags": [
+      "タイ料理",
+      "果物",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ジャックフルーツを食べたい",
+      "南国の大きい果物",
+      "未熟果の料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "som-o",
+    "name": "ソムオー",
+    "kana": "そむおー",
+    "aliases": [
+      "ส้มโอ",
+      "ポメロ",
+      "文旦"
+    ],
+    "englishName": "Pomelo",
+    "originalName": "ส้มโอ (Som o)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "ソムオーはタイ語でポメロ。厚い皮をむいて大きな柑橘の房を食べる果物で、甘み、軽い苦み、爽やかな酸味がある。",
+    "menuDescription": "果物としてそのまま出るほか、ヤム・ソムオーのようなサラダにも使う。グレープフルーツより穏やかな甘苦さ。",
+    "whatComesOut": [
+      "大きな柑橘の房",
+      "厚い皮をむいた果肉",
+      "果物盛り合わせ",
+      "サラダの具"
+    ],
+    "tasteAndTexture": [
+      "爽やかな甘酸っぱさ",
+      "軽い苦み",
+      "果肉は粒が大きくほぐれる",
+      "後味がすっきり"
+    ],
+    "orderAdvice": "柑橘好きに向く。薬との相互作用が気になる場合はグレープフルーツ同様に注意。",
+    "similarItems": [
+      {
+        "name": "ライム",
+        "difference": "ライムは調味用の酸味。ソムオーは果肉を食べる大きな柑橘"
+      },
+      {
+        "name": "グアバ",
+        "difference": "グアバは香りと硬めの果肉。ソムオーは柑橘の粒状果肉"
+      }
+    ],
+    "relatedIds": [
+      "lime",
+      "yam-wun-sen"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pomelo"
+    ],
+    "tags": [
+      "タイ料理",
+      "果物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "タイの文旦",
+      "ポメロを食べたい",
+      "爽やかな柑橘"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "langsat",
+    "name": "ランサット",
+    "kana": "らんさっと",
+    "aliases": [
+      "ลองกอง",
+      "ランサー",
+      "ランゾネス"
+    ],
+    "englishName": "Langsat",
+    "originalName": "ลองกอง / ลางสาด (Longkong / Langsat)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "ランサットは東南アジアの小さな丸い果物。薄い皮をむくと半透明の房があり、甘みと酸味、軽い苦みを持つ。",
+    "menuDescription": "房状に売られる小粒果物。果肉はみずみずしく、種の周りに苦みが出ることがある。",
+    "whatComesOut": [
+      "房付きの小粒果実",
+      "半透明の房状果肉",
+      "薄い黄色皮",
+      "生の果物盛り合わせ"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい",
+      "果肉はみずみずしい",
+      "種付近は苦いことがある",
+      "香りは穏やか"
+    ],
+    "orderAdvice": "種を噛むと苦いので避ける。甘酸っぱい果物が好きなら試しやすい。",
+    "similarItems": [
+      {
+        "name": "ラムヤイ",
+        "difference": "ラムヤイは甘み中心で種が大きい。ランサットは房状で酸味と苦みがある"
+      },
+      {
+        "name": "ランブータン",
+        "difference": "ランブータンは毛のある皮。ランサットは薄い黄色皮で房状果肉"
+      }
+    ],
+    "relatedIds": [],
+    "source": [
+      "https://en.wikipedia.org/wiki/Lansium_parasiticum"
+    ],
+    "tags": [
+      "タイ料理",
+      "果物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ランサットを食べたい",
+      "ロンコンとは何か",
+      "甘酸っぱい小粒果物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "mandarin-orange",
+    "name": "マンダリンオレンジ",
+    "kana": "まんだりんおれんじ",
+    "aliases": [
+      "ส้มเขียวหวาน",
+      "みかん",
+      "マンダリン"
+    ],
+    "englishName": "Mandarin orange",
+    "originalName": "ส้มเขียวหวาน (Som khiao wan)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "マンダリンオレンジは小型で皮をむきやすい柑橘。タイでは生食やジュースに使われ、甘みと軽い酸味がある。",
+    "menuDescription": "市場や飲み物店では小さなみかん、または搾りたてジュースとして出る。日本のみかんに近く食べやすい。",
+    "whatComesOut": [
+      "小型の柑橘果実",
+      "房状の果肉",
+      "生搾りジュース",
+      "果物盛り合わせ"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい",
+      "果汁が多い",
+      "皮をむきやすい",
+      "香りが爽やか"
+    ],
+    "orderAdvice": "果物でもジュースでも無難。酸味が苦手なら熟したものを選ぶ。",
+    "similarItems": [
+      {
+        "name": "ソムオー",
+        "difference": "ソムオーは大型で苦みもある。マンダリンオレンジは小型で甘みが強い"
+      },
+      {
+        "name": "ライム",
+        "difference": "ライムは酸味調味料。マンダリンオレンジは生食・ジュース用"
+      }
+    ],
+    "relatedIds": [
+      "lime"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Mandarin_orange"
+    ],
+    "tags": [
+      "タイ料理",
+      "果物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "タイのみかん",
+      "マンダリンジュース",
+      "甘い柑橘"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "custard-apple",
+    "name": "カスタードアップル",
+    "kana": "かすたーどあっぷる",
+    "aliases": [
+      "น้อยหน่า",
+      "ノイナー",
+      "シュガーアップル"
+    ],
+    "englishName": "Custard apple",
+    "originalName": "น้อยหน่า (Noina)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "カスタードアップルは、鱗状の緑の皮を割って白い甘い果肉を食べる熱帯果実。タイではノイナーと呼ばれる。",
+    "menuDescription": "熟すと柔らかくなり、スプーンで白い果肉を食べる。黒い種は食べない。甘くクリーミーな果物。",
+    "whatComesOut": [
+      "緑のうろこ状皮の果実",
+      "白く柔らかい果肉",
+      "黒い種",
+      "デザート向きの生果"
+    ],
+    "tasteAndTexture": [
+      "甘みが強い",
+      "カスタードのように柔らかい",
+      "香りは濃厚",
+      "種周りは少し繊維感"
+    ],
+    "orderAdvice": "完熟の柔らかいものが食べ頃。種は出す。甘い果物好き向き。",
+    "similarItems": [
+      {
+        "name": "ジャックフルーツ",
+        "difference": "ジャックフルーツは繊維質で香りが強い。カスタードアップルは柔らかくクリーミー"
+      },
+      {
+        "name": "マンゴスチン",
+        "difference": "マンゴスチンは甘酸っぱい房。カスタードアップルは甘くねっとり"
+      }
+    ],
+    "relatedIds": [
+      "khao-niao-mamuang"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Sugar-apple"
+    ],
+    "tags": [
+      "タイ料理",
+      "果物",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "カスタードアップルを食べたい",
+      "ノイナーとは何か",
+      "甘いクリーミー果物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "krathon",
+    "name": "クラトーン",
+    "kana": "くらとーん",
+    "aliases": [
+      "กระท้อน",
+      "サントル",
+      "サントール"
+    ],
+    "englishName": "Santol",
+    "originalName": "กระท้อน (Krathon)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "クラトーンはサントルのタイ名。厚い皮の中に甘酸っぱい白い果肉があり、生食、砂糖漬け、サラダ、煮物に使われる。",
+    "menuDescription": "果物屋では丸い黄褐色の果実として売られる。果肉は甘酸っぱく、繊維や渋みが出ることもある。",
+    "whatComesOut": [
+      "丸い厚皮の果実",
+      "白い綿状の果肉",
+      "砂糖漬けやシロップ煮",
+      "辛い果物サラダの具"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい",
+      "繊維感がある",
+      "渋みが少しあることがある",
+      "砂糖や塩唐辛子と合う"
+    ],
+    "orderAdvice": "種まわりを強く噛まない。生果より加工品の方が食べやすいこともある。",
+    "similarItems": [
+      {
+        "name": "ソムオー",
+        "difference": "ソムオーは柑橘の房。クラトーンは厚皮で綿状の甘酸っぱい果肉"
+      },
+      {
+        "name": "チョンプー",
+        "difference": "チョンプーは水分多く軽い。クラトーンは酸味と繊維感が強い"
+      }
+    ],
+    "relatedIds": [
+      "tamarind"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Sandoricum_koetjape"
+    ],
+    "tags": [
+      "タイ料理",
+      "果物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "クラトーンを食べたい",
+      "サントルとは何か",
+      "甘酸っぱいタイ果物"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "guava",
+    "name": "グアバ",
+    "kana": "ぐあば",
+    "aliases": [
+      "ฝรั่ง",
+      "ファラン"
+    ],
+    "englishName": "Guava",
+    "originalName": "ฝรั่ง (Farang)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "グアバは香りの強い熱帯果実。タイでは未熟に近い硬めの果肉を切り、塩唐辛子や砂糖唐辛子をつけて食べることが多い。",
+    "menuDescription": "緑の皮、白またはピンクの果肉。屋台ではカット果物として袋に入り、甘辛い粉を添えて出る。",
+    "whatComesOut": [
+      "カットされた硬めの果肉",
+      "塩唐辛子や砂糖唐辛子",
+      "白またはピンクの果肉",
+      "果物盛り合わせ"
+    ],
+    "tasteAndTexture": [
+      "しゃきっと硬め",
+      "香りが強い",
+      "甘みは控えめから中程度",
+      "種周りは粒感がある"
+    ],
+    "orderAdvice": "タイ式は硬めのものが多い。柔らかく甘い果物を期待するより、食感と香りを楽しむ。",
+    "similarItems": [
+      {
+        "name": "チョンプー",
+        "difference": "チョンプーは水分が多く軽い。グアバは香りと硬い歯ざわりが強い"
+      },
+      {
+        "name": "マンダリンオレンジ",
+        "difference": "マンダリンは柑橘で果汁が多い。グアバは硬めの果肉と種の粒感"
+      }
+    ],
+    "relatedIds": [
+      "lime"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Guava"
+    ],
+    "tags": [
+      "タイ料理",
+      "果物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "タイのグアバ",
+      "ファランとは何か",
+      "カット果物を食べたい"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "prik",
+    "name": "プリック",
+    "kana": "ぷりっく",
+    "aliases": [
+      "พริก",
+      "タイ唐辛子",
+      "チリ"
+    ],
+    "englishName": "Thai chili pepper",
+    "originalName": "พริก (Phrik)",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "プリックはタイ語で唐辛子全般。生、乾燥、粉、酢漬けなどで使われ、タイ料理の辛味を作る基本食材。",
+    "menuDescription": "メニュー上では辛味や唐辛子入りを示す語。生唐辛子の刻み、粉唐辛子、唐辛子酢、炒め物の具として出る。",
+    "whatComesOut": [
+      "生唐辛子",
+      "粉唐辛子",
+      "唐辛子酢",
+      "料理中の赤や緑の辛味具材"
+    ],
+    "tasteAndTexture": [
+      "強い辛味",
+      "青い香りや果実味",
+      "加熱で香ばしさが出る",
+      "量で辛さが大きく変わる"
+    ],
+    "orderAdvice": "辛さ指定の基準になる語。辛いものが苦手なら「プリック少なめ」と伝える。",
+    "similarItems": [
+      {
+        "id": "prik-pon",
+        "name": "プリック・ポン",
+        "difference": "プリック・ポンは粉唐辛子。プリックは唐辛子全般"
+      }
+    ],
+    "relatedIds": [
+      "prik-pon",
+      "prik-nam-som",
+      "pao-la-jiao"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Chili_pepper",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "香辛料",
+      "スパイス",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "プリックとは何か",
+      "タイ唐辛子",
+      "辛さ指定"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 5,
+    "images": []
+  },
+  {
+    "id": "tao-chio",
+    "name": "タオチオ",
+    "kana": "たおちお",
+    "aliases": [
+      "เต้าเจี้ยว",
+      "タオチオソース",
+      "タイ味噌"
+    ],
+    "englishName": "Thai fermented soybean paste",
+    "originalName": "เต้าเจี้ยว (Tao chiao)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "タオチオは大豆を発酵させたタイの調味料。塩味とうま味が強く、炒め物、蒸し魚、ディップ、パックブン炒めなどに使う。",
+    "menuDescription": "大豆味噌系のコクを出す調味料。中華系タイ料理の炒め物でよく使われる。",
+    "whatComesOut": [
+      "粒の残る発酵大豆ペースト",
+      "塩味の強い茶色い調味料",
+      "炒め物のソース",
+      "ディップやたれ"
+    ],
+    "tasteAndTexture": [
+      "塩味とうま味が強い",
+      "発酵大豆の香り",
+      "少し甘みがあることもある",
+      "料理にこってり感を足す"
+    ],
+    "orderAdvice": "塩分強め。大豆アレルギーがある場合は注意。",
+    "similarItems": [
+      {
+        "id": "soy-sauce",
+        "name": "醤油",
+        "difference": "醤油は液体の大豆調味料。タオチオは粒やペースト感のある発酵大豆調味料"
+      }
+    ],
+    "relatedIds": [
+      "soy-sauce",
+      "nam-pla"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Thai_cuisine",
+      "https://en.wikipedia.org/wiki/Fermented_bean_paste"
+    ],
+    "tags": [
+      "タイ料理",
+      "ソース",
+      "大豆",
+      "発酵",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "タオチオとは何か",
+      "タイの味噌",
+      "発酵大豆調味料"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "nam-prik-phao",
+    "name": "ナムプリック・パオ",
+    "kana": "なむぷりっくぱお",
+    "aliases": [
+      "น้ำพริกเผา",
+      "チリインオイル",
+      "タイチリジャム"
+    ],
+    "englishName": "Thai roasted chili paste",
+    "originalName": "น้ำพริกเผา (Nam phrik phao)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "ナムプリック・パオは、炒った唐辛子、にんにく、エシャロット、干し海老、タマリンド、ナンプラー、砂糖などを合わせた甘辛いタイのチリペースト。",
+    "menuDescription": "トムヤム、炒め物、和え物、トーストのスプレッドにも使う。辛味だけでなく甘み、酸味、海老のうま味がある。",
+    "whatComesOut": [
+      "赤茶色の油分あるチリペースト",
+      "トムヤムや炒め物の味付け",
+      "甘辛いディップ",
+      "瓶入り調味料"
+    ],
+    "tasteAndTexture": [
+      "甘辛い",
+      "干し海老のうま味",
+      "炒った香ばしさ",
+      "タマリンドの酸味"
+    ],
+    "orderAdvice": "辛味はあるが甘みも強い。甲殻類入りが多いのでアレルギー注意。",
+    "similarItems": [
+      {
+        "id": "you-po-la-zi",
+        "name": "油溌辣子",
+        "difference": "油溌辣子は中華の香味ラー油。ナムプリック・パオは甘みと干し海老、タマリンドを含むタイのチリジャム"
+      }
+    ],
+    "relatedIds": [
+      "prik-pon",
+      "nam-pla",
+      "tamarind",
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Nam_phrik_phao",
+      "https://en.wikipedia.org/wiki/Nam_phrik"
+    ],
+    "tags": [
+      "タイ料理",
+      "ソース",
+      "唐辛子",
+      "魚介",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ナムプリックパオとは何か",
+      "タイチリジャム",
+      "トムヤムの赤いペースト"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": []
+  },
+  {
+    "id": "krathiam-dong",
+    "name": "カティヤム・ドーン",
+    "kana": "かてぃやむどーん",
+    "aliases": [
+      "กระเทียมดอง",
+      "漬けにんにく",
+      "ピクルドガーリック"
+    ],
+    "englishName": "Thai pickled garlic",
+    "originalName": "กระเทียมดอง (Krathiam dong)",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "カティヤム・ドーンはタイの漬けにんにく。にんにくを甘酸っぱい漬け液に漬け、煮込みや炒め物、付け合わせに使う。",
+    "menuDescription": "瓶詰めや料理中の小さなにんにくとして出る。生にんにくより刺激が丸く、甘酸っぱい。",
+    "whatComesOut": [
+      "甘酢漬けの小粒にんにく",
+      "瓶入り調味食材",
+      "煮込みや炒め物の香味",
+      "付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい",
+      "にんにくの刺激は丸い",
+      "食感はしゃきっと柔らかい",
+      "後味に香味が残る"
+    ],
+    "orderAdvice": "にんにくが苦手なら避ける。料理名にドーンがあれば漬物系の意味。",
+    "similarItems": [
+      {
+        "name": "カティヤム",
+        "difference": "カティヤムは生・通常のにんにく。カティヤム・ドーンは甘酢漬けにしたにんにく"
+      }
+    ],
+    "relatedIds": [
+      "lime",
+      "nam-pla"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pickled_garlic",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "野菜",
+      "香味野菜",
+      "漬物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "漬けにんにく",
+      "カティヤムドーンとは何か",
+      "タイの香味漬物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "krathiam",
+    "name": "カティヤム",
+    "kana": "かてぃやむ",
+    "aliases": [
+      "กระเทียม",
+      "にんにく",
+      "ガーリック"
+    ],
+    "englishName": "Garlic",
+    "originalName": "กระเทียม (Krathiam)",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "カティヤムはタイ語でにんにく。炒め物、揚げにんにく、たれ、スープ、カレーに使われるタイ料理の基本香味野菜。",
+    "menuDescription": "料理名や説明に出ると、にんにく風味がある意味。揚げにんにくがトッピングされる料理も多い。",
+    "whatComesOut": [
+      "生にんにく",
+      "揚げにんにく",
+      "刻みにんにく入りソース",
+      "炒め物の香味"
+    ],
+    "tasteAndTexture": [
+      "強い香味",
+      "加熱で甘く香ばしい",
+      "揚げるとカリッとする",
+      "料理にコクを足す"
+    ],
+    "orderAdvice": "にんにくが苦手なら量を確認。屋台料理では多用される。",
+    "similarItems": [
+      {
+        "id": "shallot",
+        "name": "エシャロット",
+        "difference": "エシャロットは小型玉ねぎ系で甘い香り。カティヤムはにんにくで刺激が強い"
+      }
+    ],
+    "relatedIds": [
+      "shallot",
+      "nam-pla"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Garlic",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "野菜",
+      "香味野菜",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "カティヤムとは何か",
+      "タイのにんにく",
+      "揚げにんにく"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "nam-prik-kaeng",
+    "name": "ナム・プリック・ケーン",
+    "kana": "なむぷりっくけーん",
+    "aliases": [
+      "น้ำพริกแกง",
+      "プリックケーン",
+      "タイカレーペースト"
+    ],
+    "englishName": "Thai curry paste",
+    "originalName": "น้ำพริกแกง (Nam phrik kaeng)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "ナム・プリック・ケーンはタイカレーのベースになるカレーペースト。唐辛子、にんにく、エシャロット、レモングラス、ガランガル、こぶみかん皮などを搗いて作る。",
+    "menuDescription": "ゲーン・ペッ、グリーンカレー、ゲーン・ソムなどの辛味と香りの土台。色や材料で赤、緑、黄、酸味系などに分かれる。",
+    "whatComesOut": [
+      "ペースト状のカレー調味料",
+      "唐辛子と香味野菜の香り",
+      "ココナッツミルクやスープに溶くベース",
+      "炒め物の味付け"
+    ],
+    "tasteAndTexture": [
+      "辛味と香りが強い",
+      "ハーブの清涼感",
+      "にんにくとエシャロットのコク",
+      "種類により酸味や甘みが変わる"
+    ],
+    "orderAdvice": "単体で食べるものではなく調味ベース。辛さはペースト量で大きく変わる。",
+    "similarItems": [
+      {
+        "id": "gaeng-phet",
+        "name": "ゲーン・ペッ",
+        "difference": "ゲーン・ペッは完成したレッドカレー。ナム・プリック・ケーンはカレーを作るペースト"
+      }
+    ],
+    "relatedIds": [
+      "gaeng-phet",
+      "green-curry",
+      "gaeng-som",
+      "lemongrass",
+      "kaffir-lime"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Nam_phrik",
+      "https://en.wikipedia.org/wiki/Thai_curry"
+    ],
+    "tags": [
+      "タイ料理",
+      "ソース",
+      "唐辛子",
+      "ハーブ",
+      "スパイス",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "タイカレーペースト",
+      "プリックケーンとは何か",
+      "ゲーンの素"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 4,
+    "images": []
+  },
+  {
+    "id": "ton-hom",
+    "name": "トン・ホーム",
+    "kana": "とんほーむ",
+    "aliases": [
+      "ต้นหอม",
+      "青ねぎ",
+      "万能ねぎ"
+    ],
+    "englishName": "Scallion",
+    "originalName": "ต้นหอม (Ton hom)",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "トン・ホームはタイ語で青ねぎ・小ねぎ。スープ、炒め物、卵料理、薬味に使われる香味野菜。",
+    "menuDescription": "刻んだ緑の薬味や、炒め物の具として入る。辛味は弱く、玉ねぎより軽い香り。",
+    "whatComesOut": [
+      "刻み青ねぎ",
+      "スープの薬味",
+      "炒め物の緑色具材",
+      "卵料理の香味"
+    ],
+    "tasteAndTexture": [
+      "香りは軽い",
+      "辛味は穏やか",
+      "生ではしゃきっとする",
+      "加熱で甘みが出る"
+    ],
+    "orderAdvice": "苦手でなければ食べやすい香味野菜。薬味として多くの料理に入る。",
+    "similarItems": [
+      {
+        "id": "shallot",
+        "name": "エシャロット",
+        "difference": "エシャロットは小型の玉ねぎ系。トン・ホームは葉を食べる青ねぎ"
+      }
+    ],
+    "relatedIds": [
+      "shallot",
+      "khai-chiao"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Scallion",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "野菜",
+      "香味野菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "トンホームとは何か",
+      "タイの青ねぎ",
+      "薬味のねぎ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "khuen-chai",
+    "name": "クンチャイ",
+    "kana": "くんちゃい",
+    "aliases": [
+      "ขึ้นฉ่าย",
+      "タイセロリ",
+      "チャイニーズセロリ"
+    ],
+    "englishName": "Chinese celery",
+    "originalName": "ขึ้นฉ่าย (Khuen chai)",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "クンチャイはタイ料理で使う中国セロリ系の香味野菜。葉と細い茎に強いセロリ香があり、魚料理、スープ、炒め物に使う。",
+    "menuDescription": "皿の上の香草、スープの青い葉、魚蒸しの香味として出る。西洋セロリより細く香りが強い。",
+    "whatComesOut": [
+      "細いセロリ状の茎と葉",
+      "魚料理の香味野菜",
+      "スープや炒め物の具",
+      "生のトッピング"
+    ],
+    "tasteAndTexture": [
+      "セロリ香が強い",
+      "葉は少し苦みがある",
+      "茎はしゃきっとする",
+      "魚の臭みを抑える"
+    ],
+    "orderAdvice": "セロリが苦手なら注意。魚料理で香りが目立つことが多い。",
+    "similarItems": [
+      {
+        "id": "pakuchi",
+        "name": "パクチー",
+        "difference": "パクチーは柑橘的な香り。クンチャイはセロリ系の青い香り"
+      }
+    ],
+    "relatedIds": [
+      "pakuchi",
+      "pla-nueng-manao"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Leaf_celery",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "野菜",
+      "ハーブ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "クンチャイとは何か",
+      "タイセロリ",
+      "魚料理の香草"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "bai-toei",
+    "name": "バイトゥーイ",
+    "kana": "ばいとぅーい",
+    "aliases": [
+      "ใบเตย",
+      "パンダンリーフ",
+      "パンダン"
+    ],
+    "englishName": "Pandan leaf",
+    "originalName": "ใบเตย (Bai toei)",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "バイトゥーイはパンダンの葉。タイ菓子、飲み物、米料理、包み揚げに甘い香りと緑色を与える。",
+    "menuDescription": "デザートでは緑色と甘い香りの正体。料理では鶏肉を包んで揚げるガイ・ホー・バイトゥーイに使われる。",
+    "whatComesOut": [
+      "長い緑の葉",
+      "緑色の菓子や飲み物",
+      "香り付けした米やココナッツ菓子",
+      "鶏肉の包み揚げ"
+    ],
+    "tasteAndTexture": [
+      "甘くバニラに似た香り",
+      "葉自体は硬く食べないことが多い",
+      "デザートではやさしい風味",
+      "料理に青い香りを足す"
+    ],
+    "orderAdvice": "葉は香り付け用途が多い。緑色のタイ菓子でよく使われる。",
+    "similarItems": [
+      {
+        "id": "gai-ho-bai-toei",
+        "name": "ガイ・ホー・バイトゥーイ",
+        "difference": "ガイ・ホー・バイトゥーイはパンダン葉で鶏を包む料理。バイトゥーイはその葉"
+      }
+    ],
+    "relatedIds": [
+      "gai-ho-bai-toei",
+      "khanom-khrok",
+      "bua-loi"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pandanus_amaryllifolius",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "ハーブ",
+      "デザート",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "バイトゥーイとは何か",
+      "パンダンリーフ",
+      "緑のタイ菓子の香り"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "bai-horapha",
+    "name": "バイ・ホラパー",
+    "kana": "ばいほらぱー",
+    "aliases": [
+      "ใบโหระพา",
+      "ホーラパー",
+      "タイバジル"
+    ],
+    "englishName": "Thai basil leaf",
+    "originalName": "ใบโหระพา (Bai horapha)",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "バイ・ホラパーはタイバジルの葉。甘いアニス香があり、グリーンカレー、レッドカレー、炒め物、麺料理に使われる。",
+    "menuDescription": "カレーの上のバジル葉、麺や炒め物の香草として出る。スイートバジルよりスパイス感と甘い香りが強い。",
+    "whatComesOut": [
+      "紫がかった茎のバジル葉",
+      "カレーの香草",
+      "炒め物の仕上げ",
+      "生の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "アニスやリコリスのような甘い香り",
+      "少しスパイシー",
+      "加熱しても香りが残りやすい",
+      "葉は柔らかい"
+    ],
+    "orderAdvice": "カレー好きなら覚えると便利。バイ・カパオとは別種で香りが甘い。",
+    "similarItems": [
+      {
+        "name": "バイ・カパオ",
+        "difference": "バイ・カパオはホーリーバジルで胡椒やクローブ系の香り。バイ・ホラパーは甘いアニス香"
+      }
+    ],
+    "relatedIds": [
+      "green-curry",
+      "gaeng-phet",
+      "gaeng-phet-ped-yang"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Thai_basil"
+    ],
+    "tags": [
+      "タイ料理",
+      "ハーブ",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ホラパーとは何か",
+      "タイバジル",
+      "カレーのバジル葉"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "krachai",
+    "name": "クラチャイ",
+    "kana": "くらちゃい",
+    "aliases": [
+      "กระชาย",
+      "フィンガールート",
+      "チャイニーズジンジャー"
+    ],
+    "englishName": "Fingerroot",
+    "originalName": "กระชาย (Krachai)",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "クラチャイはフィンガールートとも呼ばれるショウガ科の根茎。タイ料理では魚料理、カレー、炒め物に使い、土っぽく爽やかな香りを出す。",
+    "menuDescription": "細長い根の香辛料。ゲーンや魚の炒め物に入り、ショウガより薬草的で土っぽい香りがある。",
+    "whatComesOut": [
+      "細い指状の根茎",
+      "刻んだ香辛料",
+      "魚料理の臭み消し",
+      "カレーペーストの材料"
+    ],
+    "tasteAndTexture": [
+      "土っぽい香り",
+      "爽やかな辛味",
+      "ショウガより薬草感がある",
+      "加熱で香りが穏やかになる"
+    ],
+    "orderAdvice": "単体で食べるより香味素材。魚の匂い消しとカレーの奥行きに使われる。",
+    "similarItems": [
+      {
+        "name": "カー",
+        "difference": "カーはガランガルで柑橘的な硬い根茎。クラチャイは細く土っぽい香り"
+      }
+    ],
+    "relatedIds": [
+      "lemongrass",
+      "kaffir-lime",
+      "gaeng-som"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Boesenbergia_rotunda",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "香辛料",
+      "スパイス",
+      "ハーブ"
+    ],
+    "reverseKeywords": [
+      "クラチャイとは何か",
+      "フィンガールート",
+      "タイカレーの根茎"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "kha",
+    "name": "カー",
+    "kana": "かー",
+    "aliases": [
+      "ข่า",
+      "ガランガル",
+      "タイしょうが"
+    ],
+    "englishName": "Galangal",
+    "originalName": "ข่า (Kha)",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "カーはガランガルのタイ名。硬い根茎で、トムカーガイ、カレーペースト、スープに柑橘的で鋭い香りを与える。",
+    "menuDescription": "薄切りでスープに入ることが多い。食べられなくはないが硬く、香り付けとして避けて残すこともある。",
+    "whatComesOut": [
+      "薄切りの白い根茎",
+      "トムカーガイの香味",
+      "カレーペーストの材料",
+      "スープの具材"
+    ],
+    "tasteAndTexture": [
+      "柑橘に似た鋭い香り",
+      "ショウガより硬く樹脂感がある",
+      "辛味は穏やか",
+      "煮ると香りがスープに移る"
+    ],
+    "orderAdvice": "スープの薄切りは硬いので無理に食べなくてよい。香りが強い食材。",
+    "similarItems": [
+      {
+        "id": "tom-kha-gai",
+        "name": "トムカーガイ",
+        "difference": "トムカーガイはカー入り鶏ココナッツスープ。カーはその香味根茎"
+      }
+    ],
+    "relatedIds": [
+      "tom-kha-gai",
+      "lemongrass",
+      "kaffir-lime"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Galangal",
+      "https://en.wikipedia.org/wiki/Thai_cuisine"
+    ],
+    "tags": [
+      "タイ料理",
+      "香辛料",
+      "スパイス",
+      "ハーブ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "カーとは何か",
+      "ガランガル",
+      "トムカーの香り"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "bai-kaprao",
+    "name": "バイ・カパオ",
+    "kana": "ばいかぱお",
+    "aliases": [
+      "ใบกะเพรา",
+      "ホーリーバジル",
+      "ガパオの葉"
+    ],
+    "englishName": "Holy basil leaf",
+    "originalName": "ใบกะเพรา (Bai kaphrao)",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "バイ・カパオはホーリーバジルの葉。胡椒やクローブに近い強い香りがあり、パッ・ガパオなどの炒め物に使われる。",
+    "menuDescription": "ガパオ炒めの香りの主役。バイ・ホラパーより甘さが少なく、加熱でスパイシーな香りが立つ。",
+    "whatComesOut": [
+      "ホーリーバジルの葉",
+      "ガパオ炒めの香草",
+      "肉や魚介の炒め物",
+      "香りの強いトッピング"
+    ],
+    "tasteAndTexture": [
+      "胡椒のようにスパイシー",
+      "クローブに近い香り",
+      "葉は柔らかい",
+      "炒めると香りが強く立つ"
+    ],
+    "orderAdvice": "日本の店ではホーラパーや普通のバジルで代用される場合もある。本格的な香りを求めるなら確認。",
+    "similarItems": [
+      {
+        "id": "gapao",
+        "name": "ガパオ",
+        "difference": "ガパオは植物名としても料理名としても使われる。バイ・カパオは葉そのもの"
+      }
+    ],
+    "relatedIds": [
+      "gapao",
+      "phat-kaphrao-gai"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Ocimum_tenuiflorum",
+      "https://en.wikipedia.org/wiki/Thai_basil"
+    ],
+    "tags": [
+      "タイ料理",
+      "ハーブ",
+      "香ばしい",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "バイカパオとは何か",
+      "ホーリーバジル",
+      "ガパオの葉"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "pak-boong-fai-daeng",
+    "name": "パックブン・ファイデーン",
+    "kana": "ぱっくぶんふぁいでーん",
+    "aliases": [
+      "ผักบุ้งไฟแดง",
+      "空芯菜炒め",
+      "パックブンファイデーン"
+    ],
+    "englishName": "Thai stir-fried morning glory",
+    "originalName": "ผักบุ้งไฟแดง (Phak bung fai daeng)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "タイ"
+      }
+    ],
+    "summary": "パックブン・ファイデーンは、空芯菜をにんにく、唐辛子、タオチオ、オイスターソースなどで強火炒めにするタイの定番野菜料理。",
+    "menuDescription": "熱い中華鍋で一気に炒めた空芯菜。茎はしゃきっとし、にんにくと発酵大豆の塩気、唐辛子の辛味が効く。",
+    "whatComesOut": [
+      "空芯菜の強火炒め",
+      "にんにくと唐辛子",
+      "タオチオやオイスターソースの味付け",
+      "白飯に合う青菜皿"
+    ],
+    "tasteAndTexture": [
+      "茎がしゃきしゃき",
+      "にんにくが強い",
+      "塩味とうま味が濃い",
+      "唐辛子でピリ辛"
+    ],
+    "orderAdvice": "野菜料理だが味は濃いめ。辛さが苦手なら唐辛子少なめで頼む。",
+    "similarItems": [
+      {
+        "id": "phat-phak-ruam-mit",
+        "name": "パッ・パック・ルアンミット",
+        "difference": "パッ・パック・ルアンミットは野菜炒め全般。パックブン・ファイデーンは空芯菜単品を強火で炒める"
+      }
+    ],
+    "relatedIds": [
+      "phat-phak-ruam-mit",
+      "nam-pla"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Stir-fried_water_spinach",
+      "https://en.wikipedia.org/wiki/Water_spinach"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "野菜",
+      "炒め物",
+      "香ばしい",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "空芯菜炒めを食べたい",
+      "パックブンファイデーンとは何か",
+      "タイの青菜炒め"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": []
   }
 ]
