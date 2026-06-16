@@ -76643,5 +76643,90 @@
     "heavinessScore": 2,
     "spicinessScore": 0,
     "images": []
+  },
+  {
+    "id": "jiang-lu",
+    "name": "醤卤",
+    "kana": "じゃんるー",
+    "aliases": [
+      "酱卤",
+      "醤滷",
+      "卤味",
+      "滷味"
+    ],
+    "englishName": "Chinese soy-braised marinade cooking",
+    "originalName": "酱卤 (Jiànglǔ)",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "醤卤は、醤油を軸に香辛料・酒・砂糖などを合わせた卤水で肉、卵、豆腐、内臓などを弱火で煮含める中国料理の調理法。料理名としては滷味・卤味の総称で出ることが多い。",
+    "menuDescription": "メニューで醤卤、酱卤、卤味とあれば、醤油色の濃い煮汁で煮た冷菜・前菜・肉料理の可能性が高い。牛すね、豚耳、鶏手羽、卵、豆干など、盛り合わせで出ることも多い。",
+    "whatComesOut": [
+      "濃い茶色に染まった肉、卵、豆腐、内臓などの煮込み",
+      "薄切りにした冷菜盛り合わせ",
+      "香辛料入りの卤水が軽くかかった皿",
+      "八角、花椒、桂皮などの香りが立つ一品"
+    ],
+    "tasteAndTexture": [
+      "醤油の塩味とうま味が強い",
+      "砂糖や酒由来の甘みが少しある",
+      "八角、花椒、草果などの薬膳的な香り",
+      "肉はしっとり、卵や豆腐は煮汁を吸って濃厚"
+    ],
+    "orderAdvice": "初めてなら卤味拼盘や酱卤牛肉を選ぶと味の方向が分かりやすい。香辛料が苦手なら、八角や花椒の香りが強いか確認すると安全。",
+    "caution": "冷菜で出ることが多く、味は濃いめ。内臓系や鶏足が入る盛り合わせもあるので、苦手な部位は注文前に確認。",
+    "similarItems": [
+      {
+        "id": "hong-shao-pai-gu",
+        "name": "紅焼排骨",
+        "difference": "紅焼排骨は排骨を醤油色に煮込む具体的な料理。醤卤は卤水で煮含める調理法・総称"
+      },
+      {
+        "id": "dong-po-rou",
+        "name": "東坡肉",
+        "difference": "東坡肉は豚バラを酒と醤油で柔らかく煮る杭州料理。醤卤は食材を問わず香辛料入り卤水で仕上げる"
+      },
+      {
+        "id": "soy-sauce",
+        "name": "醤油",
+        "difference": "醤油は調味料。醤卤は醤油を含む卤水で食材を煮る調理法"
+      }
+    ],
+    "relatedIds": [
+      "soy-sauce",
+      "hong-shao-pai-gu",
+      "dong-po-rou",
+      "hua-jiao",
+      "shaoxing-wine"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E6%BB%B7%E5%91%B3",
+      "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E8%8F%9C",
+      "https://en.wikipedia.org/wiki/Soy_sauce",
+      "https://www.hkichdb.gov.hk/zht/item.html?3331cfb6-6337-41aa-96a1-52b4191edddf="
+    ],
+    "tags": [
+      "中国料理",
+      "調理法",
+      "肉",
+      "煮込み",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "中華の煮込みを食べたい",
+      "醤油味の肉料理が食べたい",
+      "八角の香りがする料理",
+      "冷菜盛り合わせを頼みたい",
+      "卤味とは何か知りたい"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
   }
 ]
