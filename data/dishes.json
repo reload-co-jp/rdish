@@ -60772,7 +60772,8 @@
       },
       {
         "name": "トントロ",
-        "difference": "トントロは豚の頬下〜首の脂身多めの部位。カシラより脂が多くこってり"
+        "difference": "トントロは豚の頬下〜首の脂身多めの部位。カシラより脂が多くこってり",
+        "id": "tontoro"
       }
     ],
     "relatedIds": [
@@ -67518,11 +67519,13 @@
     "similarItems": [
       {
         "name": "サワークリーム",
-        "difference": "スメタナは西洋サワークリームより脂肪分が高く酸味が穏やか。加熱時に分離しにくい"
+        "difference": "スメタナは西洋サワークリームより脂肪分が高く酸味が穏やか。加熱時に分離しにくい",
+        "id": "sour-cream"
       },
       {
         "name": "クレームフレーシュ",
-        "difference": "クレームフレーシュはフランス産で脂肪分30〜40%前後。スメタナは地域・製品により脂肪分に幅があり風味も異なる"
+        "difference": "クレームフレーシュはフランス産で脂肪分30〜40%前後。スメタナは地域・製品により脂肪分に幅があり風味も異なる",
+        "id": "creme-fraiche"
       },
       {
         "name": "ヨーグルト",
@@ -67600,11 +67603,13 @@
     "similarItems": [
       {
         "name": "黒砂糖",
-        "difference": "黒砂糖はサトウキビ由来。パームシュガーはヤシ由来でより芳香でまろやか"
+        "difference": "黒砂糖はサトウキビ由来。パームシュガーはヤシ由来でより芳香でまろやか",
+        "id": "kokuto"
       },
       {
         "name": "ブラウンシュガー",
-        "difference": "ブラウンシュガーはサトウキビにモラセスを加えたもの。パームシュガーはヤシ樹液から直接作る"
+        "difference": "ブラウンシュガーはサトウキビにモラセスを加えたもの。パームシュガーはヤシ樹液から直接作る",
+        "id": "brown-sugar"
       }
     ],
     "relatedIds": [
@@ -68046,7 +68051,8 @@
       },
       {
         "name": "ブラートヴルスト",
-        "difference": "ブラートヴルストはドイツの焼きソーセージでスパイスはシンプル。サイウアはタイのハーブ満載で全く異なる風味"
+        "difference": "ブラートヴルストはドイツの焼きソーセージでスパイスはシンプル。サイウアはタイのハーブ満載で全く異なる風味",
+        "id": "bratwurst"
       }
     ],
     "relatedIds": [
@@ -69116,7 +69122,8 @@
     "similarItems": [
       {
         "name": "ガパオライス",
-        "difference": "日本語ではご飯付き全体をガパオライスと呼ぶことが多いが、料理名としては炒め物がパッ・ガパオ・ガイ"
+        "difference": "日本語ではご飯付き全体をガパオライスと呼ぶことが多いが、料理名としては炒め物がパッ・ガパオ・ガイ",
+        "id": "gapao-rice"
       },
       {
         "id": "khao-phat",
@@ -69193,7 +69200,8 @@
       },
       {
         "name": "ロティチャナイ",
-        "difference": "近い平焼きパンだが、タイ屋台では甘いデザート型が目立つ"
+        "difference": "近い平焼きパンだが、タイ屋台では甘いデザート型が目立つ",
+        "id": "roti-canai"
       }
     ],
     "relatedIds": [
@@ -69260,6 +69268,7 @@
     "caution": "揚げ物なので油っぽい。小麦使用。",
     "similarItems": [
       {
+        "id": "youtiao",
         "name": "油条",
         "difference": "由来は近いが、タイでは小ぶりで豆乳や練乳と合わせる朝食・おやつとして定着"
       },
@@ -69489,7 +69498,8 @@
       },
       {
         "name": "ヨンタオフー",
-        "difference": "客家系の豆腐詰め料理が元だが、タイ版はピンクの麺スープとして独自化した"
+        "difference": "客家系の豆腐詰め料理が元だが、タイ版はピンクの麺スープとして独自化した",
+        "id": "yong-tau-foo"
       }
     ],
     "relatedIds": [
@@ -69795,7 +69805,8 @@
       },
       {
         "name": "皿うどん",
-        "difference": "あんかけ麺として近いが、ラッナーは太い米麺とカイランが中心"
+        "difference": "あんかけ麺として近いが、ラッナーは太い米麺とカイランが中心",
+        "id": "sara-udon"
       }
     ],
     "relatedIds": [
@@ -69872,7 +69883,8 @@
       },
       {
         "name": "ビーフン",
-        "difference": "近い細米麺だが、タイの麺屋ではセンミーとして麺の太さを指定する"
+        "difference": "近い細米麺だが、タイの麺屋ではセンミーとして麺の太さを指定する",
+        "id": "rice-vermicelli"
       }
     ],
     "relatedIds": [
@@ -70019,7 +70031,8 @@
       },
       {
         "name": "河粉",
-        "difference": "中国南部の幅広米麺に近く、タイ料理ではセンヤイとして使われる"
+        "difference": "中国南部の幅広米麺に近く、タイ料理ではセンヤイとして使われる",
+        "id": "shahe-fen"
       }
     ],
     "relatedIds": [
@@ -70325,7 +70338,8 @@
     "similarItems": [
       {
         "name": "さつま揚げ",
-        "difference": "魚すり身を揚げる点は近いが、トード・マン・プラーはレッドカレーとこぶみかんの香りが強い"
+        "difference": "魚すり身を揚げる点は近いが、トード・マン・プラーはレッドカレーとこぶみかんの香りが強い",
+        "id": "satsuma-age"
       },
       {
         "id": "spring-roll",
@@ -72105,6 +72119,7 @@
     "caution": "着色料や寒天を使う。豆菓子なので餡の風味がある。",
     "similarItems": [
       {
+        "id": "marzipan",
         "name": "マジパン",
         "difference": "形作る菓子として近いが、ルーク・チュップは緑豆あんを使う"
       },
@@ -72257,7 +72272,8 @@
       },
       {
         "name": "チェー",
-        "difference": "ベトナムのチェーに近いが、タイ式の具材と香りになる"
+        "difference": "ベトナムのチェーに近いが、タイ式の具材と香りになる",
+        "id": "che"
       }
     ],
     "relatedIds": [
@@ -72544,7 +72560,8 @@
     "similarItems": [
       {
         "name": "スノーボールクッキー",
-        "difference": "ほろほろ食感は近いが、花形でタイの香り付けがある"
+        "difference": "ほろほろ食感は近いが、花形でタイの香り付けがある",
+        "id": "snowball-cookie"
       },
       {
         "id": "thong-yip",
@@ -72777,7 +72794,8 @@
       },
       {
         "name": "マロングラッセ",
-        "difference": "マロングラッセはグラッセの代表的な菓子応用例で、栗を糖蜜で煮たもの。"
+        "difference": "マロングラッセはグラッセの代表的な菓子応用例で、栗を糖蜜で煮たもの。",
+        "id": "marron-glace"
       }
     ],
     "relatedIds": [
@@ -79247,6 +79265,1251 @@
     "uniquenessScore": 3,
     "heavinessScore": 2,
     "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "youtiao",
+    "name": "油条",
+    "kana": "ゆーてぃやお",
+    "aliases": [
+      "油條",
+      "ヨウティアオ",
+      "中華揚げパン",
+      "Chinese cruller"
+    ],
+    "englishName": "Youtiao",
+    "originalName": "油条 (Yóutiáo)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "油条は、小麦粉の生地を細長く成形して油で揚げた中国由来の揚げパン。朝食で粥や豆乳に添えられ、東南アジア各地にも広がっている。",
+    "menuDescription": "長い黄金色の揚げパンが出る。軽い塩味で、粥に浸す、豆乳に合わせる、腸粉で巻くなど地域により食べ方が変わる。",
+    "whatComesOut": [
+      "細長い揚げパン",
+      "2本がくっついた形の生地",
+      "粥や豆乳の添え物",
+      "切って汁物や点心に入ることもある"
+    ],
+    "tasteAndTexture": [
+      "外側はさくっと香ばしい",
+      "中は空洞があり軽い",
+      "味は軽い塩味",
+      "油のコクがある"
+    ],
+    "orderAdvice": "朝食や粥の添え物として頼むとよい。甘い菓子ではなく、汁物や豆乳と合わせる前提の軽い揚げパン。",
+    "caution": "小麦使用。揚げ物なので油っぽい。",
+    "similarItems": [
+      {
+        "id": "pathongko",
+        "name": "パートンコー",
+        "difference": "パートンコーはタイで定着した小型の油条系揚げパン。油条は中国式で粥や豆乳に合わせる朝食の定番"
+      },
+      {
+        "id": "donut",
+        "name": "ドーナツ",
+        "difference": "ドーナツは甘い菓子寄り。油条は軽い塩味で、粥や豆乳に合わせる"
+      }
+    ],
+    "relatedIds": [
+      "pathongko",
+      "donut",
+      "khao-tom"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Youtiao",
+      "https://es.wikipedia.org/wiki/Youtiao"
+    ],
+    "tags": [
+      "中国料理",
+      "主食",
+      "小麦",
+      "揚げ物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "中華揚げパンを食べたい",
+      "粥に合う揚げ物",
+      "油条とは何か",
+      "豆乳と食べる朝食"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/youtiao/1.jpg",
+      "/images/dishes/youtiao/2.jpg",
+      "/images/dishes/youtiao/3.jpg"
+    ]
+  },
+  {
+    "id": "marzipan",
+    "name": "マジパン",
+    "kana": "まじぱん",
+    "aliases": [
+      "マルチパン",
+      "マルツィパン",
+      "Marzipan"
+    ],
+    "englishName": "Marzipan",
+    "originalName": "Marzipan",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ドイツ"
+      },
+      {
+        "country": "スペイン"
+      },
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "マジパンは、アーモンド粉と砂糖を主材料にしたペースト状の菓子。果物や人形の形に成形したり、ケーキの被覆や焼き菓子の材料に使われる。",
+    "menuDescription": "小さな果物型の菓子、チョコレートがけ、ケーキの表面、シュトレンの中身などで出る。アーモンドの香りと砂糖の強い甘みが特徴。",
+    "whatComesOut": [
+      "アーモンドと砂糖の練り菓子",
+      "果物や動物の形に成形した小菓子",
+      "ケーキの被覆や飾り",
+      "チョコレートがけの一口菓子"
+    ],
+    "tasteAndTexture": [
+      "アーモンドの香りが強い",
+      "甘みが濃い",
+      "しっとりして成形しやすい",
+      "なめらかで少し油脂感がある"
+    ],
+    "orderAdvice": "少量で甘みが強い菓子。アーモンドの香りが好きなら向く。ケーキ装飾として出る場合は、砂糖衣よりナッツ感がある。",
+    "caution": "アーモンド使用。ナッツアレルギー要注意。",
+    "similarItems": [
+      {
+        "id": "luk-chup",
+        "name": "ルーク・チュップ",
+        "difference": "ルーク・チュップは緑豆あんを果物形にするタイ菓子。マジパンはアーモンドと砂糖の練り菓子"
+      },
+      {
+        "id": "crepe",
+        "name": "クレープ",
+        "difference": "クレープは薄焼き生地の菓子。マジパンはナッツペーストを成形する菓子"
+      }
+    ],
+    "relatedIds": [
+      "luk-chup",
+      "crepe"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Marzipan",
+      "https://en.wikipedia.org/wiki/Almond_paste"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "デザート",
+      "ナッツ",
+      "甘い",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "マジパンとは何か",
+      "アーモンドの練り菓子",
+      "果物形の洋菓子",
+      "ケーキの飾り菓子"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/marzipan/1.jpg",
+      "/images/dishes/marzipan/2.jpg",
+      "/images/dishes/marzipan/3.jpg"
+    ]
+  },
+  {
+    "id": "sour-cream",
+    "name": "サワークリーム",
+    "kana": "さわーくりーむ",
+    "aliases": [
+      "酸味クリーム"
+    ],
+    "englishName": "Sour cream",
+    "originalName": "Sour cream",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "サワークリームは、乳酸菌で発酵させたクリーム。酸味と乳脂肪のコクがあり、ボルシチ、タコス、ベイクドポテト、ディップに使う。",
+    "menuDescription": "白い濃厚なクリームが添えられる。料理に酸味とまろやかさを足し、辛い料理や重い煮込みを軽くする。",
+    "whatComesOut": [
+      "白い発酵クリーム",
+      "料理のトッピング",
+      "ディップやソース",
+      "焼き菓子の材料"
+    ],
+    "tasteAndTexture": [
+      "酸味がある",
+      "乳脂肪のコク",
+      "なめらか",
+      "後味は軽い"
+    ],
+    "orderAdvice": "こってり料理に酸味を足したい時に向く。乳製品なので苦手なら避ける。",
+    "similarItems": [
+      {
+        "name": "スメタナ",
+        "difference": "東欧式の発酵クリーム。サワークリームより地域性が強い",
+        "id": "smetana"
+      },
+      {
+        "name": "クレームフレーシュ",
+        "difference": "クレームフレーシュは脂肪分高めで酸味が穏やか",
+        "id": "creme-fraiche"
+      }
+    ],
+    "relatedIds": [
+      "smetana"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Sour_cream",
+      "https://en.wikipedia.org/wiki/Cr%C3%A8me_fra%C3%AEche"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "ソース",
+      "乳製品",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "酸っぱいクリーム",
+      "タコスの白いクリーム",
+      "ボルシチの添え物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "caution": "乳製品。",
+    "images": []
+  },
+  {
+    "id": "tontoro",
+    "name": "トントロ",
+    "kana": "とんとろ",
+    "aliases": [
+      "豚トロ",
+      "ピートロ"
+    ],
+    "englishName": "Pork jowl",
+    "originalName": "豚トロ",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "トントロは豚の首から頬にかけての脂の多い部位。焼肉や串焼きで使われ、歯切れのよさと脂の甘みが特徴。",
+    "menuDescription": "薄切りの豚肉として焼いて出る。表面は香ばしく、中は脂が多くジューシー。塩、レモン、たれで食べる。",
+    "whatComesOut": [
+      "薄切り豚首肉",
+      "焼肉皿",
+      "串焼き",
+      "塩だれやレモン"
+    ],
+    "tasteAndTexture": [
+      "脂が甘い",
+      "歯切れがよい",
+      "焼くと香ばしい",
+      "こってり"
+    ],
+    "orderAdvice": "脂が多い肉を食べたい時向き。軽く食べたいなら少量でよい。",
+    "similarItems": [
+      {
+        "name": "カシラ",
+        "difference": "カシラは豚の頭・こめかみ系で赤身感が強い",
+        "id": "kashira"
+      },
+      {
+        "name": "コー・ムー・ヤーン",
+        "difference": "タイの豚首肉グリル。トントロは日本の焼肉部位名",
+        "id": "kho-mu-yang"
+      }
+    ],
+    "relatedIds": [
+      "kashira",
+      "kho-mu-yang"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%88%E3%83%AD",
+      "https://en.wikipedia.org/wiki/Pork"
+    ],
+    "tags": [
+      "日本料理",
+      "肉",
+      "豚肉",
+      "焼き物",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "豚トロを食べたい",
+      "脂の多い焼肉",
+      "首肉の焼肉"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "creme-fraiche",
+    "name": "クレームフレーシュ",
+    "kana": "くれーむふれーしゅ",
+    "aliases": [
+      "クレーム・フレーシュ"
+    ],
+    "englishName": "Creme fraiche",
+    "originalName": "Crème fraîche",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "クレームフレーシュは乳酸発酵させた高脂肪クリーム。サワークリームより酸味が穏やかで、加熱しても分離しにくい。",
+    "menuDescription": "白い濃厚クリームとしてソース、スープ、果物、菓子に使う。乳脂肪のコクを出しつつ酸味は控えめ。",
+    "whatComesOut": [
+      "白い発酵クリーム",
+      "スープやソースの仕上げ",
+      "果物や焼き菓子の添え物",
+      "煮込みのコク出し"
+    ],
+    "tasteAndTexture": [
+      "まろやか",
+      "酸味は穏やか",
+      "乳脂肪のコク",
+      "なめらか"
+    ],
+    "orderAdvice": "フランス料理でクリーム感を足す素材。酸味目的ならサワークリームの方が分かりやすい。",
+    "similarItems": [
+      {
+        "name": "サワークリーム",
+        "difference": "サワークリームは酸味が強め。クレームフレーシュは脂肪分高めでまろやか",
+        "id": "sour-cream"
+      },
+      {
+        "name": "スメタナ",
+        "difference": "スメタナは東欧の発酵クリーム。クレームフレーシュはフランス系",
+        "id": "smetana"
+      }
+    ],
+    "relatedIds": [
+      "smetana"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Cr%C3%A8me_fra%C3%AEche"
+    ],
+    "tags": [
+      "フランス料理",
+      "ソース",
+      "乳製品",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "クレームフレーシュとは何か",
+      "フランスの発酵クリーム",
+      "酸味少ないクリーム"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "caution": "乳製品。",
+    "images": []
+  },
+  {
+    "id": "kokuto",
+    "name": "黒砂糖",
+    "kana": "くろざとう",
+    "aliases": [
+      "黒糖",
+      "黒砂糖"
+    ],
+    "englishName": "Brown sugar cane sugar",
+    "originalName": "黒砂糖",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "黒砂糖はサトウキビの搾り汁を煮詰めて作る、糖蜜を多く含む濃色の砂糖。ミネラル感と強いコクがある。",
+    "menuDescription": "菓子、煮物、飲み物に使う濃い茶色の甘味。白砂糖より香りとコクが強い。",
+    "whatComesOut": [
+      "濃い茶色の砂糖",
+      "塊または粉末",
+      "黒糖菓子",
+      "煮物やたれの甘味"
+    ],
+    "tasteAndTexture": [
+      "甘みが強い",
+      "糖蜜のコク",
+      "少し苦みとミネラル感",
+      "香りが濃い"
+    ],
+    "orderAdvice": "コクを出したい甘味に向く。淡い味にしたい時はブラウンシュガーや白砂糖の方が軽い。",
+    "similarItems": [
+      {
+        "name": "ブラウンシュガー",
+        "difference": "ブラウンシュガーは糖蜜を含む茶色い砂糖の総称。黒砂糖はサトウキビ由来の濃い風味",
+        "id": "brown-sugar"
+      },
+      {
+        "name": "パームシュガー",
+        "difference": "パームシュガーはヤシ由来。黒砂糖はサトウキビ由来",
+        "id": "palm-sugar"
+      }
+    ],
+    "relatedIds": [
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Brown_sugar",
+      "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%A0%82%E7%B3%96"
+    ],
+    "tags": [
+      "日本料理",
+      "食材",
+      "砂糖",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "黒糖とは何か",
+      "濃い砂糖",
+      "サトウキビの砂糖"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "brown-sugar",
+    "name": "ブラウンシュガー",
+    "kana": "ぶらうんしゅがー",
+    "aliases": [
+      "三温糖",
+      "茶色い砂糖"
+    ],
+    "englishName": "Brown sugar",
+    "originalName": "Brown sugar",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "ブラウンシュガーは糖蜜を含む茶色い砂糖。精製糖に糖蜜を戻したものや、未精製に近い砂糖を指す。",
+    "menuDescription": "焼き菓子、ソース、肉料理の甘味に使う。白砂糖より湿り気とカラメル感がある。",
+    "whatComesOut": [
+      "茶色い砂糖",
+      "しっとりした粒",
+      "焼き菓子の材料",
+      "甘辛いソース"
+    ],
+    "tasteAndTexture": [
+      "甘い",
+      "糖蜜の香り",
+      "少しカラメル風味",
+      "しっとり"
+    ],
+    "orderAdvice": "クッキーやバーベキューソースなど、コクある甘みが欲しい時に使う。",
+    "similarItems": [
+      {
+        "name": "黒砂糖",
+        "difference": "黒砂糖はサトウキビ搾り汁を煮詰めた濃い風味。ブラウンシュガーは茶色い砂糖の広い分類",
+        "id": "kokuto"
+      },
+      {
+        "name": "パームシュガー",
+        "difference": "パームシュガーはヤシ由来で南国料理に多い",
+        "id": "palm-sugar"
+      }
+    ],
+    "relatedIds": [
+      "palm-sugar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Brown_sugar"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "食材",
+      "砂糖",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ブラウンシュガーとは何か",
+      "茶色い砂糖",
+      "糖蜜入り砂糖"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "bratwurst",
+    "name": "ブラートヴルスト",
+    "kana": "ぶらーとゔるすと",
+    "aliases": [
+      "ブラートブルスト",
+      "焼きソーセージ"
+    ],
+    "englishName": "Bratwurst",
+    "originalName": "Bratwurst",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ドイツ"
+      }
+    ],
+    "summary": "ブラートヴルストはドイツのソーセージ。豚肉を中心に牛肉や仔牛肉を使うこともあり、焼く・炒める調理で食べる。",
+    "menuDescription": "白っぽいまたは茶色く焼いたソーセージが出る。マスタード、パン、ザワークラウト、ビールと合わせることが多い。",
+    "whatComesOut": [
+      "焼いたソーセージ",
+      "マスタード",
+      "パンやポテト",
+      "ザワークラウト添え"
+    ],
+    "tasteAndTexture": [
+      "肉のうま味",
+      "焼き目が香ばしい",
+      "スパイスの香り",
+      "ジューシー"
+    ],
+    "orderAdvice": "ドイツ料理やビールのつまみに向く。地域でサイズや香辛料が変わる。",
+    "similarItems": [
+      {
+        "name": "サイウア",
+        "difference": "サイウアは北タイのハーブソーセージ。ブラートヴルストはドイツの焼きソーセージ",
+        "id": "sai-ua"
+      },
+      {
+        "name": "サイクロッ・イサーン",
+        "difference": "サイクロッ・イサーンは発酵酸味が特徴。ブラートヴルストは発酵酸味より肉と焼き香",
+        "id": "sai-krok-isan"
+      }
+    ],
+    "relatedIds": [
+      "sai-ua",
+      "sai-krok-isan"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Bratwurst"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ドイツソーセージ",
+      "ビールに合う肉料理",
+      "ブラートヴルストとは何か"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "gapao-rice",
+    "name": "ガパオライス",
+    "kana": "がぱおらいす",
+    "aliases": [
+      "ガパオご飯"
+    ],
+    "englishName": "Gapao rice",
+    "originalName": "ガパオライス",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "ガパオライスは、タイのパッ・ガパオを日本のワンプレートご飯として定着させた料理。肉のバジル炒め、目玉焼き、ご飯を合わせる。",
+    "menuDescription": "ご飯にバジル炒め肉と目玉焼きがのる。日本では鶏ひき肉版が多い。",
+    "whatComesOut": [
+      "ご飯",
+      "ひき肉のバジル炒め",
+      "目玉焼き",
+      "ナンプラー風味のたれ"
+    ],
+    "tasteAndTexture": [
+      "甘辛い",
+      "バジルの香り",
+      "卵でまろやか",
+      "ピリ辛"
+    ],
+    "orderAdvice": "タイ料理店やカフェで頼みやすい。より現地寄りならパッ・ガパオ・ガイ表記を探す。",
+    "similarItems": [
+      {
+        "name": "パッ・ガパオ・ガイ",
+        "difference": "鶏肉のホーリーバジル炒め本体。ガパオライスは日本式のご飯一体メニュー",
+        "id": "phat-kaphrao-gai"
+      }
+    ],
+    "relatedIds": [
+      "phat-kaphrao-gai",
+      "bai-kaprao",
+      "nam-pla"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Phat_kaphrao",
+      "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%91%E3%82%AA%E3%83%A9%E3%82%A4%E3%82%B9"
+    ],
+    "tags": [
+      "タイ料理",
+      "主菜",
+      "米",
+      "豚肉",
+      "炒め物",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "ガパオライスを食べたい",
+      "バジル炒めご飯",
+      "目玉焼き付きタイ飯"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "roti-canai",
+    "name": "ロティチャナイ",
+    "kana": "ろてぃちゃない",
+    "aliases": [
+      "ロティ・チャナイ",
+      "ロティカナイ",
+      "ロティプラタ"
+    ],
+    "englishName": "Roti canai",
+    "originalName": "Roti canai",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア"
+      }
+    ],
+    "summary": "ロティチャナイは、インド系移民文化から広がった東南アジアの薄焼きパン。層状の生地を鉄板で焼き、カレーやダルにつける。",
+    "menuDescription": "平たい焼きパンがカレーソースと一緒に出る。外は香ばしく、中はもちっと層がある。",
+    "whatComesOut": [
+      "薄焼きパン",
+      "カレーやダル",
+      "鉄板焼きの層状生地",
+      "朝食や軽食"
+    ],
+    "tasteAndTexture": [
+      "外は香ばしい",
+      "中はもちもち",
+      "油脂のコク",
+      "カレーでスパイシー"
+    ],
+    "orderAdvice": "朝食や軽食向き。甘いロティではなく、カレーにつける塩味系を想定。",
+    "similarItems": [
+      {
+        "name": "ローティー",
+        "difference": "タイの甘い屋台ロティ。ロティチャナイはカレーと食べるマレーシア系平パン",
+        "id": "roti-thai"
+      },
+      {
+        "name": "クレープ",
+        "difference": "薄い生地だが、ロティチャナイは層状で油脂感がある",
+        "id": "crepe"
+      }
+    ],
+    "relatedIds": [
+      "roti-thai",
+      "crepe"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Roti_canai"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "主食",
+      "小麦",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ロティチャナイとは何か",
+      "カレーにつけるパン",
+      "マレーシアの朝食"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "yong-tau-foo",
+    "name": "ヨンタオフー",
+    "kana": "よんたおふー",
+    "aliases": [
+      "ヨンタウフー",
+      "醸豆腐"
+    ],
+    "englishName": "Yong tau foo",
+    "originalName": "釀豆腐 / Yong tau foo",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "ヨンタオフーは客家系の豆腐詰め料理。豆腐や野菜に魚すり身・肉だねを詰め、スープまたはたれで食べる。",
+    "menuDescription": "豆腐、苦瓜、なす、唐辛子などに具を詰めたものが出る。東南アジアでは麺やスープ仕立ても多い。",
+    "whatComesOut": [
+      "詰め物入り豆腐",
+      "魚すり身入り野菜",
+      "澄んだスープ",
+      "甘辛いたれ"
+    ],
+    "tasteAndTexture": [
+      "やさしいうま味",
+      "豆腐は柔らかい",
+      "魚すり身は弾力",
+      "スープはあっさり"
+    ],
+    "orderAdvice": "具を選べる店では豆腐と野菜を混ぜると食べやすい。タイのイェンタフォーとは派生関係。",
+    "similarItems": [
+      {
+        "name": "クイッティアオ・イェンタフォー",
+        "difference": "タイのピンク色スープ麺。ヨンタオフー由来の派生料理",
+        "id": "kuai-tiao-yen-ta-fo"
+      },
+      {
+        "name": "ワンタン",
+        "difference": "包み物だが、ヨンタオフーは豆腐や野菜に詰める",
+        "id": "wonton"
+      }
+    ],
+    "relatedIds": [
+      "kuai-tiao-yen-ta-fo",
+      "wonton"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Yong_tau_foo"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "豆腐",
+      "魚介",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ヨンタオフーとは何か",
+      "詰め豆腐料理",
+      "客家料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "sara-udon",
+    "name": "皿うどん",
+    "kana": "さらうどん",
+    "aliases": [
+      "長崎皿うどん"
+    ],
+    "englishName": "Sara udon",
+    "originalName": "皿うどん",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "皿うどんは長崎発祥の麺料理。揚げた細麺または太麺に、野菜や魚介入りのあんをかける。",
+    "menuDescription": "パリパリ麺に熱いあんがかかるタイプが有名。酢やソースをかけて味変することもある。",
+    "whatComesOut": [
+      "揚げ細麺",
+      "野菜と魚介のあん",
+      "豚肉やかまぼこ",
+      "ウスターソース"
+    ],
+    "tasteAndTexture": [
+      "麺はパリパリからしんなりへ変化",
+      "あんはうま味が濃い",
+      "野菜の甘み",
+      "香ばしい"
+    ],
+    "orderAdvice": "食感を楽しむなら早めに食べる。柔らかい太麺タイプもある。",
+    "similarItems": [
+      {
+        "name": "クイッティアオ・ラッナー",
+        "difference": "あんかけ麺として近い。皿うどんは長崎の中華系日本料理",
+        "id": "kuai-tiao-rat-na"
+      },
+      {
+        "name": "ビーフン",
+        "difference": "米麺。皿うどんは小麦麺が多く、あんかけ料理",
+        "id": "rice-vermicelli"
+      }
+    ],
+    "relatedIds": [
+      "kuai-tiao-rat-na"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Sara_udon",
+      "https://ja.wikipedia.org/wiki/%E7%9A%BF%E3%81%86%E3%81%A9%E3%82%93"
+    ],
+    "tags": [
+      "日本料理",
+      "主食",
+      "小麦",
+      "魚介",
+      "揚げ物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "皿うどんを食べたい",
+      "長崎のあんかけ麺",
+      "パリパリ麺"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "rice-vermicelli",
+    "name": "ビーフン",
+    "kana": "びーふん",
+    "aliases": [
+      "米粉",
+      "ライスバーミセリ"
+    ],
+    "englishName": "Rice vermicelli",
+    "originalName": "米粉 / Bí-hún",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "ビーフンは米粉から作る細い米麺。東アジアから東南アジアまで広く使われ、炒め物、汁麺、サラダに入る。",
+    "menuDescription": "細く白い米麺として出る。焼きビーフン、汁ビーフン、和え麺など料理幅が広い。",
+    "whatComesOut": [
+      "細い米麺",
+      "炒め麺",
+      "汁麺",
+      "サラダの麺"
+    ],
+    "tasteAndTexture": [
+      "軽い食感",
+      "米の淡い甘み",
+      "味を吸いやすい",
+      "小麦麺よりあっさり"
+    ],
+    "orderAdvice": "小麦麺が重い時に向く。料理名では麺の種類として出ることも多い。",
+    "similarItems": [
+      {
+        "name": "センミー",
+        "difference": "タイの細い米麺。ビーフンとほぼ同系統",
+        "id": "sen-mi"
+      },
+      {
+        "name": "河粉",
+        "difference": "河粉は幅広い米麺。ビーフンは細い米麺",
+        "id": "shahe-fen"
+      }
+    ],
+    "relatedIds": [
+      "sen-mi"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Rice_vermicelli"
+    ],
+    "tags": [
+      "中国料理",
+      "食材",
+      "米",
+      "麺料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ビーフンとは何か",
+      "細い米麺",
+      "焼きビーフン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "shahe-fen",
+    "name": "河粉",
+    "kana": "ほーふん",
+    "aliases": [
+      "沙河粉",
+      "ホーフン",
+      "河粉麺"
+    ],
+    "englishName": "Shahe fen",
+    "originalName": "沙河粉 / 河粉",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "河粉は広東発祥の幅広い米麺。炒め物や汁麺に使われ、牛肉炒河粉などで知られる。",
+    "menuDescription": "幅広く平たい米麺。炒めるともちっとし、ソースと油をよくまとって香ばしくなる。",
+    "whatComesOut": [
+      "幅広い米麺",
+      "炒め麺",
+      "汁麺",
+      "牛肉やもやしとの炒め物"
+    ],
+    "tasteAndTexture": [
+      "もちっとする",
+      "米の甘み",
+      "炒めると香ばしい",
+      "ソースを吸う"
+    ],
+    "orderAdvice": "幅広麺が好きなら向く。細い米麺ならビーフンやセンミー。",
+    "similarItems": [
+      {
+        "name": "ビーフン",
+        "difference": "ビーフンは細い米麺。河粉は幅広で平たい米麺",
+        "id": "rice-vermicelli"
+      },
+      {
+        "name": "チャークイティウ",
+        "difference": "幅広米麺の炒め物。河粉は麺そのもの",
+        "id": "char-kway-teow"
+      }
+    ],
+    "relatedIds": [
+      "char-kway-teow"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Shahe_fen",
+      "https://en.wikipedia.org/wiki/Beef_chow_fun"
+    ],
+    "tags": [
+      "中国料理",
+      "食材",
+      "米",
+      "麺料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "河粉とは何か",
+      "幅広米麺",
+      "ホーフン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "satsuma-age",
+    "name": "さつま揚げ",
+    "kana": "さつまあげ",
+    "aliases": [
+      "薩摩揚げ",
+      "つけあげ"
+    ],
+    "englishName": "Satsuma-age",
+    "originalName": "薩摩揚げ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "さつま揚げは、魚のすり身を味付けして油で揚げた鹿児島発祥の揚げかまぼこ。野菜やイカ入りなど種類がある。",
+    "menuDescription": "茶色い揚げ魚肉練り物が出る。そのまま、炙り、煮物、おでん、うどんの具として食べる。",
+    "whatComesOut": [
+      "揚げた魚すり身",
+      "丸形や平形の練り物",
+      "生姜醤油",
+      "おでんや煮物の具"
+    ],
+    "tasteAndTexture": [
+      "魚のうま味",
+      "揚げた香ばしさ",
+      "弾力がある",
+      "甘みが少しある"
+    ],
+    "orderAdvice": "軽く炙ると香ばしい。魚介練り物が好きなら頼みやすい。",
+    "similarItems": [
+      {
+        "name": "トード・マン・プラー",
+        "difference": "タイの魚すり身揚げ。さつま揚げは日本の揚げかまぼこ",
+        "id": "thot-man-pla"
+      },
+      {
+        "name": "油条",
+        "difference": "油条は小麦の揚げパン。さつま揚げは魚すり身",
+        "id": "youtiao"
+      }
+    ],
+    "relatedIds": [
+      "thot-man-pla",
+      "youtiao"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Satsuma-age"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "魚介",
+      "揚げ物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "さつま揚げとは何か",
+      "魚の練り物",
+      "鹿児島名物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "che",
+    "name": "チェー",
+    "kana": "ちぇー",
+    "aliases": [
+      "Chè",
+      "ベトナムぜんざい"
+    ],
+    "englishName": "Che",
+    "originalName": "Chè",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ベトナム"
+      }
+    ],
+    "summary": "チェーはベトナムの甘いデザート総称。豆、寒天、果物、芋、ココナッツミルク、氷などを組み合わせる。",
+    "menuDescription": "グラスや器に甘い具材とシロップ、ココナッツミルク、氷が入る。温かいものも冷たいものもある。",
+    "whatComesOut": [
+      "豆や寒天",
+      "果物や芋",
+      "ココナッツミルク",
+      "砕き氷とシロップ"
+    ],
+    "tasteAndTexture": [
+      "甘い",
+      "具材の食感が多い",
+      "ココナッツでまろやか",
+      "冷たいものはさっぱり"
+    ],
+    "orderAdvice": "ベトナム甘味を試すなら定番。具材名が多いので、豆系か果物系か確認。",
+    "similarItems": [
+      {
+        "name": "ルアムミット",
+        "difference": "タイの具だくさん冷菓。チェーはベトナムの甘味総称",
+        "id": "ruam-mit"
+      },
+      {
+        "name": "ブアローイ",
+        "difference": "タイの団子入りココナッツデザート。チェーはより具材幅が広い",
+        "id": "bua-loi"
+      }
+    ],
+    "relatedIds": [
+      "ruam-mit",
+      "bua-loi"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Ch%C3%A8",
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%BC"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "デザート",
+      "豆",
+      "果物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "チェーとは何か",
+      "ベトナムデザート",
+      "豆とココナッツの甘味"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "snowball-cookie",
+    "name": "スノーボールクッキー",
+    "kana": "すのーぼーるくっきー",
+    "aliases": [
+      "ブールドネージュ",
+      "ロシアンティーケーキ"
+    ],
+    "englishName": "Snowball cookie",
+    "originalName": "Snowball cookie",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "スノーボールクッキーは、ナッツ入りのほろほろした丸いクッキーに粉砂糖をまぶした焼き菓子。ブールドネージュとも呼ばれる。",
+    "menuDescription": "白い粉砂糖に包まれた小さな丸いクッキーが出る。口の中で崩れ、バターとナッツの香りが広がる。",
+    "whatComesOut": [
+      "白い丸形クッキー",
+      "粉砂糖の衣",
+      "ナッツ入り生地",
+      "一口サイズの焼き菓子"
+    ],
+    "tasteAndTexture": [
+      "ほろほろ崩れる",
+      "甘い粉砂糖",
+      "バターのコク",
+      "ナッツが香ばしい"
+    ],
+    "orderAdvice": "小さく甘い焼き菓子。粉砂糖がこぼれやすい。ナッツ入りが多い。",
+    "similarItems": [
+      {
+        "name": "カノム・グリープラムドゥワン",
+        "difference": "タイの花形クッキー。スノーボールクッキーは粉砂糖付きの丸い洋菓子",
+        "id": "khanom-kleep-lamduan"
+      },
+      {
+        "name": "マジパン",
+        "difference": "マジパンはアーモンド練り菓子。スノーボールクッキーは焼き菓子",
+        "id": "marzipan"
+      }
+    ],
+    "relatedIds": [
+      "khanom-kleep-lamduan",
+      "marzipan"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Polvor%C3%B3n",
+      "https://en.wikipedia.org/wiki/Russian_tea_cake"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "デザート",
+      "小麦",
+      "ナッツ",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "スノーボールクッキーとは何か",
+      "白い丸いクッキー",
+      "ブールドネージュ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "caution": "ナッツ入りが多い。",
+    "images": []
+  },
+  {
+    "id": "marron-glace",
+    "name": "マロングラッセ",
+    "kana": "まろんぐらっせ",
+    "aliases": [
+      "栗の砂糖漬け"
+    ],
+    "englishName": "Marron glace",
+    "originalName": "Marron glacé",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "マロングラッセは栗をシロップで煮て糖衣をまとわせたフランス菓子。栗の香りと濃い甘みを楽しむ高級菓子。",
+    "menuDescription": "艶のある栗が一粒または小箱で出る。しっとり甘く、洋酒やバニラが香ることもある。",
+    "whatComesOut": [
+      "砂糖漬けの栗",
+      "艶のある糖衣",
+      "一粒菓子",
+      "菓子やケーキの飾り"
+    ],
+    "tasteAndTexture": [
+      "栗の香り",
+      "強い甘み",
+      "しっとり",
+      "糖衣がしゃりっとすることもある"
+    ],
+    "orderAdvice": "甘みが強いので少量向き。栗菓子が好きなら満足度高い。",
+    "similarItems": [
+      {
+        "name": "グラッセ",
+        "difference": "グラッセは糖衣・照りをつける調理法。マロングラッセは栗を使う菓子",
+        "id": "glace"
+      },
+      {
+        "name": "シロップ煮",
+        "difference": "シロップ煮は果物などを煮る調理。マロングラッセは栗を糖衣まで仕上げる菓子",
+        "id": "syrup-ni"
+      }
+    ],
+    "relatedIds": [
+      "glace",
+      "syrup-ni"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Marron_glac%C3%A9",
+      "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%83%E3%82%BB"
+    ],
+    "tags": [
+      "フランス料理",
+      "デザート",
+      "栗",
+      "甘い",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "マロングラッセとは何か",
+      "栗の砂糖漬け",
+      "高級栗菓子"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
     "images": []
   }
 ]
