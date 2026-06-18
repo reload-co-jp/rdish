@@ -1,10 +1,10 @@
 import Link from "next/link"
 import { notFound } from "next/navigation"
 import { Breadcrumb } from "../../../components/elements/Breadcrumb"
-import { DishCard } from "../../../components/features/DishCard"
+import { CountryPageContent, countryTotalPages, paginateCountryDishes } from "../../../components/features/CountryPageContent"
 import dishes from "../../../data/dishes.json"
 import { dishMatchesRegion } from "../../../lib/region"
-import { countryItems, countryPath, taxonomyById } from "../../../lib/taxonomy"
+import { categoryPath, countryItems, countryPath, tagPath, taxonomyById } from "../../../lib/taxonomy"
 import type { DishItem } from "../../../types/dish"
 
 export function generateStaticParams() {
@@ -46,13 +46,28 @@ export default async function CountryPage({
   const description = item.description ?? `${item.label}の料理・食材・調理法をまとめています。`
   const localities = countryItems.filter((c) => c.label.startsWith(`${item.label}（`))
 
+  const categoryCounts = new Map<string, number>()
+  const tagCounts = new Map<string, number>()
+  for (const dish of results) {
+    categoryCounts.set(dish.category, (categoryCounts.get(dish.category) ?? 0) + 1)
+    for (const tag of dish.tags) {
+      if (tag === `${item.label}料理`) continue
+      tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1)
+    }
+  }
+  const topCategories = [...categoryCounts.entries()].sort((a, b) => b[1] - a[1])
+  const topTags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10)
+
+  const total = countryTotalPages(results.length)
+  const pageDishes = paginateCountryDishes(results, 1)
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "ItemList",
     name: `${item.label}の料理一覧`,
     url: `https://rdish.reload.co.jp/countries/${item.id}/`,
-    numberOfItems: results.length,
-    itemListElement: results.map((dish, i) => ({
+    numberOfItems: pageDishes.length,
+    itemListElement: pageDishes.map((dish, i) => ({
       "@type": "ListItem",
       position: i + 1,
       name: dish.name,
@@ -68,7 +83,7 @@ export default async function CountryPage({
         {item.label}の料理一覧
       </h1>
       <p style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}>
-        {results.length}件
+        全{results.length}件{total > 1 ? ` / ${total}ページ中 1ページ目` : ""}
       </p>
       <p
         style={{
@@ -99,11 +114,60 @@ export default async function CountryPage({
           ))}
         </div>
       )}
-      <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
-        {results.map((dish) => (
-          <DishCard key={dish.id} dish={dish} />
-        ))}
-      </div>
+      {(topCategories.length > 1 || topTags.length > 0) && (
+        <div style={{ display: "flex", flexDirection: "column", gap: "0.5rem", marginBottom: "1.5rem" }}>
+          {topCategories.length > 1 && (
+            <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem", alignItems: "center" }}>
+              <span style={{ color: "#a89080", fontSize: "0.75rem" }}>カテゴリ:</span>
+              {topCategories.map(([category, count]) => (
+                <Link
+                  key={category}
+                  href={categoryPath(category)}
+                  style={{
+                    color: "#7a4f2a",
+                    fontSize: "0.8125rem",
+                    background: "#f0e6d6",
+                    borderRadius: "1rem",
+                    padding: "0.125rem 0.625rem",
+                    textDecoration: "none",
+                  }}
+                >
+                  {category} {count}
+                </Link>
+              ))}
+            </div>
+          )}
+          {topTags.length > 0 && (
+            <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem", alignItems: "center" }}>
+              <span style={{ color: "#a89080", fontSize: "0.75rem" }}>タグ:</span>
+              {topTags.map(([tag, count]) => (
+                <Link
+                  key={tag}
+                  href={tagPath(tag)}
+                  style={{
+                    color: "#7a4f2a",
+                    fontSize: "0.8125rem",
+                    background: "#faf7f2",
+                    border: "1px solid #e8ddd0",
+                    borderRadius: "1rem",
+                    padding: "0.125rem 0.625rem",
+                    textDecoration: "none",
+                  }}
+                >
+                  {tag} {count}
+                </Link>
+              ))}
+            </div>
+          )}
+        </div>
+      )}
+      <CountryPageContent
+        countryId={item.id}
+        dishes={pageDishes}
+        page={1}
+        totalCount={results.length}
+        offset={0}
+      />
     </div>
   )
 }

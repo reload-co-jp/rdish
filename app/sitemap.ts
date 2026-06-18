@@ -4,6 +4,8 @@ import type { MetadataRoute } from "next"
 import dishes from "../data/dishes.json"
 import articles from "../data/articles.json"
 import { totalPages } from "../components/features/DishesPageContent"
+import { countryTotalPages } from "../components/features/CountryPageContent"
+import { dishMatchesRegion } from "../lib/region"
 import { categoryItems, countryItems, tagItems } from "../lib/taxonomy"
 import type { DishItem } from "../types/dish"
 import type { Article } from "../types/article"
@@ -50,6 +52,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }))
 
+  const countryPaginatedUrls = countryItems.flatMap(({ id, label }) => {
+    const count = allDishes.filter((d) => dishMatchesRegion(d, label)).length
+    const countryTotal = countryTotalPages(count)
+    return Array.from({ length: Math.max(countryTotal - 1, 0) }, (_, i) => ({
+      url: `${SITE_URL}/countries/${id}/p/${i + 2}/`,
+      changeFrequency: "monthly" as const,
+      priority: 0.5,
+    }))
+  })
+
   const total = totalPages(allDishes.length)
   const paginatedUrls = Array.from({ length: total - 1 }, (_, i) => ({
     url: `${SITE_URL}/dishes/p/${i + 2}/`,
@@ -75,6 +87,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     page("/about/", "yearly", 0.4),
     ...categoryUrls,
     ...countryUrls,
+    ...countryPaginatedUrls,
     ...dishUrls,
     ...tagUrls,
     ...articleUrls,

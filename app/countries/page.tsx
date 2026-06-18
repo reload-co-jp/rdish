@@ -102,9 +102,12 @@ export default function CountriesPage() {
       <Breadcrumb
         items={[{ label: "国・地域", href: "/countries/" }, { label: "一覧" }]}
       />
-      <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "1.5rem" }}>
+      <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}>
         国・地域から探す
       </h1>
+      <p style={{ color: "#7a6655", fontSize: "0.9375rem", lineHeight: 1.8, margin: "0 0 1.5rem" }}>
+        フランス、イタリア、中国、タイなど世界各国・地域の料理を国別に収録。気になる国をタップすると、その国の料理一覧・食材・調理法がまとめて見つかる。
+      </p>
 
       <section style={{ marginBottom: "2rem" }}>
         <h2 style={{ fontSize: "1rem", fontWeight: 700, color: "#7a4f2a", marginBottom: "1rem" }}>
