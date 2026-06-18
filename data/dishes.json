@@ -90312,5 +90312,264 @@
       "/images/dishes/sukiyaki/2.jpg",
       "/images/dishes/sukiyaki/3.jpg"
     ]
+  },
+  {
+    "id": "shui-zhu-fei-yang",
+    "name": "水煮肥羊",
+    "kana": "すいじゅーふぇいやん",
+    "aliases": [
+      "スイジューフェイヤン",
+      "水煮羊肉",
+      "麻辣水煮羊肉"
+    ],
+    "englishName": "Water-Boiled Lamb Slices",
+    "originalName": "水煮肥羊 (Shuǐzhǔ féiyáng)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "脂の乗った羊肉の薄切り（肥羊）を豆板醤・花椒ベースの麻辣スープで煮る四川料理。水煮肉片・水煮魚と同じ「水煮」技法の羊肉版で、仕上げに熱した油をかけ香りと辛みを一気に引き立てる。",
+    "menuDescription": "片栗粉をまとわせた羊肉の薄切りを豆板醤と花椒のスープでさっと煮込み、唐辛子と花椒を散らして熱油を回しかける四川料理。羊肉特有のコクと麻辣の刺激が同時に楽しめる一皿。",
+    "whatComesOut": [
+      "片栗粉でコーティングされた羊肉の薄切り",
+      "もやし・白菜などの具材",
+      "真っ赤な麻辣スープ",
+      "仕上げの唐辛子・花椒・熱油"
+    ],
+    "tasteAndTexture": [
+      "羊肉特有の濃いコクと麻辣のしびれる刺激",
+      "片栗粉のおかげでなめらかにとろける口当たり",
+      "豆板醤の深い旨みと塩気",
+      "熱油で引き出した香ばしい香り"
+    ],
+    "orderAdvice": "麻辣の刺激と羊肉のコクを両方楽しみたいなら満足できる一品。羊肉特有の香りが苦手な人には不向き。",
+    "caution": "羊肉特有の香りが強く、辛さ・花椒のしびれも強い。",
+    "similarItems": [
+      {
+        "id": "shui-zhu-rou-pian",
+        "name": "水煮肉片",
+        "difference": "水煮肉片は豚肉を使う。水煮肥羊は羊肉を使い、よりコクと独特の香りが強い"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "name": "水煮魚",
+        "difference": "水煮魚は白身魚でふんわり軽い。水煮肥羊は羊肉でよりこってり重い"
+      },
+      {
+        "id": "lamb",
+        "name": "ラム",
+        "difference": "ラムは洋風のグリルやロースト中心。水煮肥羊は中華の麻辣スープで煮る調理法"
+      },
+      {
+        "id": "mao-xue-wang",
+        "name": "毛血旺",
+        "difference": "毛血旺は血豆腐・内臓など多種の食材を煮る鍋。水煮肥羊は羊肉の薄切りがシンプルに主役"
+      }
+    ],
+    "relatedIds": [
+      "shui-zhu-rou-pian",
+      "shui-zhu-yu",
+      "doubanjiang",
+      "hua-jiao",
+      "ma-la",
+      "lamb"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/zh-tw/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87",
+      "https://blog.themalamarket.com/chengdu-challenge-12-shui-zhu-beef-shui-zhu-niu-rou/"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "主菜",
+      "羊肉",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いの苦手",
+      "羊肉のクセが苦手",
+      "あっさり好き",
+      "ハラール"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 4,
+    "images": []
+  },
+  {
+    "id": "shui-zhu-fei-niu",
+    "name": "水煮肥牛",
+    "kana": "すいじゅーふぇいにゅう",
+    "aliases": [
+      "スイジューフェイニュウ",
+      "水煮牛肉",
+      "麻辣水煮牛肉"
+    ],
+    "englishName": "Water-Boiled Beef Slices",
+    "originalName": "水煮肥牛 (Shuǐzhǔ féiniú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "薄切り牛肉（肥牛）を豆板醤・花椒ベースの麻辣スープで煮る四川料理。自貢の塩幇菜「水煮牛肉」を起源とし、水煮肉片・水煮魚など「水煮」シリーズの元祖にあたる。仕上げに熱した油をかけ香りと辛みを一気に引き立てる。",
+    "menuDescription": "片栗粉をまとわせた牛肉の薄切りを豆板醤と花椒のスープでさっと煮込み、唐辛子と花椒を散らして熱油を回しかける四川料理。麻・辣・鮮・燙（しびれる辛さ・鮮烈な旨み・熱々）が特徴の水煮シリーズ元祖。",
+    "whatComesOut": [
+      "片栗粉でコーティングされた牛肉の薄切り",
+      "セロリ・もやしなどの具材",
+      "真っ赤な麻辣スープ",
+      "仕上げの唐辛子・花椒・熱油"
+    ],
+    "tasteAndTexture": [
+      "牛肉の旨みと麻辣のしびれる刺激",
+      "片栗粉のおかげでなめらかにとろける口当たり",
+      "豆板醤の深い旨みとコク",
+      "熱油で引き出した香ばしい香り"
+    ],
+    "orderAdvice": "水煮シリーズの元祖。麻辣の刺激と牛肉の旨みを両方楽しみたいなら定番として外せない一品。",
+    "caution": "非常に辛く、花椒のしびれが強い。",
+    "similarItems": [
+      {
+        "id": "shui-zhu-rou-pian",
+        "name": "水煮肉片",
+        "difference": "水煮肥牛が元祖で牛肉を使う。水煮肉片はそこから派生した豚肉版"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "name": "水煮魚",
+        "difference": "水煮魚は白身魚でふんわり軽い。水煮肥牛は牛肉でよりコクが強い"
+      },
+      {
+        "id": "shui-zhu-fei-yang",
+        "name": "水煮肥羊",
+        "difference": "水煮肥牛は牛肉。水煮肥羊は羊肉を使い、羊肉特有の香りが加わる"
+      },
+      {
+        "id": "mao-xue-wang",
+        "name": "毛血旺",
+        "difference": "毛血旺は血豆腐・内臓など多種の食材を煮る鍋。水煮肥牛は牛肉の薄切りがシンプルに主役"
+      }
+    ],
+    "relatedIds": [
+      "shui-zhu-rou-pian",
+      "shui-zhu-yu",
+      "shui-zhu-fei-yang",
+      "doubanjiang",
+      "hua-jiao",
+      "ma-la"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/zh-cn/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87",
+      "https://blog.themalamarket.com/chengdu-challenge-12-shui-zhu-beef-shui-zhu-niu-rou/"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "主菜",
+      "牛肉",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いの苦手",
+      "あっさり好き",
+      "マイルドな味好き",
+      "刺身好き"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 4,
+    "images": []
+  },
+  {
+    "id": "laohu-cai",
+    "name": "老虎菜",
+    "kana": "らおふーつぁい",
+    "aliases": [
+      "ラオフーツァイ",
+      "タイガーサラダ",
+      "東北老虎菜"
+    ],
+    "englishName": "Tiger Salad",
+    "originalName": "老虎菜 (Lǎohǔcài)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "東北"
+      }
+    ],
+    "summary": "中国東北地方の家庭料理。パクチー・きゅうり・青唐辛子（またはピーマン）・長ネギを甘酢だれで和えた、ピリ辛でさっぱりとした冷菜サラダ。",
+    "menuDescription": "パクチー・きゅうり・青唐辛子・長ネギを千切りにし、ごま油・酢・醤油・砂糖のたれで和えた中国東北地方の家庭料理。名前は唐辛子と香味野菜のピリッとした刺激を虎の猛々しさに例えたとされる。",
+    "whatComesOut": [
+      "パクチー・きゅうり・青唐辛子（またはピーマン）・長ネギの千切り",
+      "ごま油・酢・醤油・砂糖の甘酸っぱいたれ",
+      "大皿または小鉢に盛られた冷たいサラダ"
+    ],
+    "tasteAndTexture": [
+      "パクチーの香りと青唐辛子のピリッとした刺激",
+      "きゅうり・ピーマンのカリッとした歯ざわり",
+      "甘酢だれのさっぱりとした酸味と甘み"
+    ],
+    "orderAdvice": "油っこい中華料理の箸休めにぴったりなさっぱり系の一皿。パクチーが苦手な人には不向き。",
+    "caution": "パクチー特有の香りが強い。青唐辛子使用時は辛さに個体差あり。",
+    "similarItems": [
+      {
+        "id": "kou-shui-ji",
+        "name": "口水鶏",
+        "difference": "口水鶏は鶏肉中心の麻辣冷菜。老虎菜は肉を使わず野菜だけのさっぱりサラダ"
+      },
+      {
+        "id": "zha-cai",
+        "name": "ザーサイ",
+        "difference": "ザーサイは発酵させた野菜の前菜。老虎菜は生野菜を甘酢だれで和えるサラダ"
+      },
+      {
+        "id": "bang-bang-ji",
+        "name": "棒棒鶏",
+        "difference": "棒棒鶏は鶏肉とごまだれの冷菜。老虎菜は野菜のみのシンプルな構成"
+      }
+    ],
+    "relatedIds": [
+      "pakuchi",
+      "cucumber",
+      "zha-cai",
+      "kou-shui-ji"
+    ],
+    "source": [
+      "https://saigengohan.com/article-25790/",
+      "https://redhousespice.com/northeast-tiger-salad/"
+    ],
+    "tags": [
+      "中国料理",
+      "サラダ",
+      "野菜",
+      "ハーブ",
+      "生食",
+      "ピリ辛",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "パクチーが苦手",
+      "こってり好き",
+      "辛いの苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/laohu-cai/1.jpg"
+    ]
   }
 ]
