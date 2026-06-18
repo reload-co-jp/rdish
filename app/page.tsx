@@ -157,9 +157,15 @@ export default function TopPage() {
       )}
 
       <section style={{ marginBottom: "2rem" }}>
-        <h2 style={{ fontSize: "0.875rem", color: "#aaa", marginBottom: "1rem", fontWeight: 600 }}>
-          人気の用語
-        </h2>
+        <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: "1rem" }}>
+          <h2 style={{ fontSize: "0.875rem", color: "#aaa", fontWeight: 600 }}>人気の用語</h2>
+          <Link
+            href="/dishes/"
+            style={{ fontSize: "0.75rem", color: "#b45309", textDecoration: "none" }}
+          >
+            すべて見る →
+          </Link>
+        </div>
         <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
           {popularDishes.map((dish) => (
             <DishCard key={dish.id} dish={dish} />

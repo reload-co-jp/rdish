@@ -302,6 +302,37 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
         <TagList tags={dish.tags} />
       </Section>
 
+      <Section title="もっと見る">
+        <div style={{ display: "flex", flexDirection: "column", gap: "0.5rem" }}>
+          {dish.regions.length > 0 && (
+            <Link
+              href={countryPath(regionLabel(dish.regions[0]))}
+              style={{ color: "#b45309", fontSize: "0.875rem", textDecoration: "none" }}
+            >
+              → {regionLabel(dish.regions[0])}の他の料理を見る
+            </Link>
+          )}
+          <Link
+            href={categoryPath(dish.category)}
+            style={{ color: "#b45309", fontSize: "0.875rem", textDecoration: "none" }}
+          >
+            → {dish.category}の他の料理を見る
+          </Link>
+          <Link
+            href="/dishes/"
+            style={{ color: "#b45309", fontSize: "0.875rem", textDecoration: "none" }}
+          >
+            → すべての料理を一覧で見る
+          </Link>
+          <Link
+            href="/reverse/"
+            style={{ color: "#b45309", fontSize: "0.875rem", textDecoration: "none" }}
+          >
+            → 名前がわからない料理を逆引き検索
+          </Link>
+        </div>
+      </Section>
+
       {dish.source && dish.source.length > 0 && (
         <Section title="参考">
           <ul style={{ paddingLeft: 0, listStyle: "none" }}>

@@ -507,6 +507,15 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
             </div>
           </section>
         )}
+
+        <section style={{ marginTop: "1.5rem" }}>
+          <Link
+            href="/articles/"
+            style={{ fontSize: "0.875rem", color: "#b45309", textDecoration: "none" }}
+          >
+            → 他の記事も読む
+          </Link>
+        </section>
       </article>
     </>
   )
