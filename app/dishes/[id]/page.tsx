@@ -20,7 +20,7 @@ export async function generateMetadata({
   const dish = (dishes as DishItem[]).find((d) => d.id === id)
   if (!dish) return {}
   const title = `${dish.name}とは？外食メニューで見たときの意味・味・頼む判断`
-  const description = `${dish.summary} ${dish.menuDescription}`.slice(0, 160).trimEnd()
+  const description = `${dish.name}とは、${dish.summary}`.slice(0, 160).trimEnd()
   return {
     title,
     description,
@@ -80,6 +80,11 @@ export default async function DishPage({
   }
 
   const faqEntries = [
+    {
+      "@type": "Question",
+      name: `${dish.name}とは何ですか？`,
+      acceptedAnswer: { "@type": "Answer", text: dish.summary },
+    },
     dish.whatComesOut.length > 0 && {
       "@type": "Question",
       name: `${dish.name}を注文すると何が出てくる？`,
