@@ -1,9 +1,8 @@
 import Link from "next/link"
 import type { Metadata } from "next"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
-import dishes from "../../data/dishes.json"
+import { allDishes } from "../../lib/dishes"
 import { countryPath } from "../../lib/taxonomy"
-import type { DishItem } from "../../types/dish"
 
 export const metadata: Metadata = {
   title: "国・地域別 料理一覧",
@@ -32,8 +31,6 @@ type CountryGroup = {
 }
 
 export default function CountriesPage() {
-  const allDishes = dishes as DishItem[]
-
   const countryOnlyMap = new Map<string, number>()
   const localityMap = new Map<string, number>()
   const countryForLocalityMap = new Map<string, number>()

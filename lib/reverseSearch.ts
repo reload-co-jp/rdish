@@ -1,4 +1,5 @@
 import type { DishItem } from "../types/dish"
+import { extractSearchTerms } from "./dishTerms"
 import { normalize } from "./normalize"
 
 function tokenize(query: string): string[] {
@@ -65,14 +66,7 @@ export function detectKeywordsInQuery(dishes: DishItem[], query: string): Keywor
   // longest terms first to avoid partial shadowing
   const candidates: { dish: DishItem; term: string }[] = []
   for (const dish of dishes) {
-    const terms = [
-      dish.name,
-      dish.kana,
-      dish.englishName,
-      dish.originalName,
-      ...(dish.aliases ?? []),
-    ].filter((t): t is string => !!t && t.length >= 3)
-    for (const term of terms) {
+    for (const term of extractSearchTerms(dish)) {
       candidates.push({ dish, term })
     }
   }

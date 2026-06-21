@@ -3,11 +3,10 @@ import { DishCard } from "../components/features/DishCard"
 import { FavoriteRelated } from "../components/features/FavoriteRelated"
 import { SearchBox } from "../components/features/SearchBox"
 import AdSense from "../components/elements/AdSense"
-import dishes from "../data/dishes.json"
-import articlesData from "../data/articles.json"
+import { allArticles } from "../lib/articles"
+import { allDishes } from "../lib/dishes"
 import { categoryPath } from "../lib/taxonomy"
 import type { DishItem } from "../types/dish"
-import type { Article } from "../types/article"
 
 const POPULAR_IDS = [
   "confit",
@@ -27,10 +26,10 @@ const CATEGORIES = [
 ] as const
 
 const popularDishes = POPULAR_IDS.map((id) =>
-  (dishes as DishItem[]).find((d) => d.id === id),
+  allDishes.find((d) => d.id === id),
 ).filter(Boolean) as DishItem[]
 
-const latestArticles = (articlesData as Article[])
+const latestArticles = allArticles
   .slice()
   .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
   .slice(0, 3)
@@ -107,7 +106,7 @@ export default function TopPage() {
         </Link>
       </div>
 
-      <FavoriteRelated allDishes={dishes as DishItem[]} />
+      <FavoriteRelated allDishes={allDishes} />
 
       {latestArticles.length > 0 && (
         <section style={{ marginBottom: "2rem" }}>

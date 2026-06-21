@@ -8,14 +8,13 @@ import {
   countryTotalPages,
   paginateCountryDishes,
 } from "../../../../../components/features/CountryPageContent"
-import dishes from "../../../../../data/dishes.json"
+import { allDishes } from "../../../../../lib/dishes"
 import { dishMatchesRegion } from "../../../../../lib/region"
-import { countryItems, taxonomyById } from "../../../../../lib/taxonomy"
-import type { DishItem } from "../../../../../types/dish"
+import { buildItemListJsonLd, countryItems, taxonomyById } from "../../../../../lib/taxonomy"
 
 export function generateStaticParams() {
   return countryItems.flatMap(({ id, label }) => {
-    const count = (dishes as DishItem[]).filter((d) => dishMatchesRegion(d, label)).length
+    const count = allDishes.filter((d) => dishMatchesRegion(d, label)).length
     const total = countryTotalPages(count)
     return Array.from({ length: Math.max(total - 1, 0) }, (_, i) => ({
       country: id,
@@ -33,7 +32,7 @@ export async function generateMetadata({
   const item = taxonomyById(countryItems, country)
   if (!item) notFound()
   const page = Number(pageStr)
-  const countryResults = (dishes as DishItem[]).filter((d) => dishMatchesRegion(d, item.label))
+  const countryResults = allDishes.filter((d) => dishMatchesRegion(d, item.label))
   const count = countryResults.length
   const total = countryTotalPages(count)
   if (isNaN(page) || page < 2 || page > total) return {}
@@ -57,26 +56,19 @@ export default async function CountryPageN({
   const item = taxonomyById(countryItems, country)
   if (!item) notFound()
   const page = Number(pageStr)
-  const results = (dishes as DishItem[]).filter((d) => dishMatchesRegion(d, item.label))
+  const results = allDishes.filter((d) => dishMatchesRegion(d, item.label))
   const total = countryTotalPages(results.length)
   if (isNaN(page) || page < 2 || page > total) notFound()
 
   const offset = (page - 1) * COUNTRY_PAGE_SIZE
   const pageDishes = paginateCountryDishes(results, page)
 
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    name: `${item.label}の料理一覧 ${page}ページ目`,
-    url: `https://rdish.reload.co.jp${countryPageUrl(item.id, page)}`,
-    numberOfItems: pageDishes.length,
-    itemListElement: pageDishes.map((dish, i) => ({
-      "@type": "ListItem",
-      position: offset + i + 1,
-      name: dish.name,
-      url: `https://rdish.reload.co.jp/dishes/${dish.id}/`,
-    })),
-  }
+  const jsonLd = buildItemListJsonLd(
+    `${item.label}の料理一覧 ${page}ページ目`,
+    countryPageUrl(item.id, page),
+    pageDishes,
+    offset,
+  )
 
   return (
     <div>

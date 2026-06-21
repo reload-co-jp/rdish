@@ -1,9 +1,11 @@
 import categories from "../data/categories.json"
 import countriesData from "../data/countries.json"
-import dishes from "../data/dishes.json"
 import tags from "../data/tags.json"
 import type { DishCategory, DishItem } from "../types/dish"
+import { allDishes } from "./dishes"
 import { regionLabel } from "./region"
+
+const SITE_URL = "https://rdish.reload.co.jp"
 
 type TaxonomyItem<T extends string = string> = {
   id: string
@@ -12,8 +14,6 @@ type TaxonomyItem<T extends string = string> = {
 }
 
 export const categoryItems = categories as TaxonomyItem<DishCategory>[]
-
-const allDishes = dishes as DishItem[]
 
 const countryDescriptions = new Map(
   (countriesData as { label: string; description: string }[]).map((c) => [c.label, c.description]),
@@ -58,4 +58,25 @@ export function tagPath(label: string): string {
 export function countryPath(label: string): string {
   const id = taxonomyIdForLabel(countryItems, label)
   return id ? `/countries/${id}/` : "/countries/"
+}
+
+export function buildItemListJsonLd(
+  name: string,
+  url: string,
+  dishes: DishItem[],
+  offset = 0,
+) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name,
+    url: `${SITE_URL}${url}`,
+    numberOfItems: dishes.length,
+    itemListElement: dishes.map((dish, i) => ({
+      "@type": "ListItem",
+      position: offset + i + 1,
+      name: dish.name,
+      url: `${SITE_URL}/dishes/${dish.id}/`,
+    })),
+  }
 }

@@ -6,11 +6,10 @@ import { Breadcrumb } from "../../components/elements/Breadcrumb"
 import { DishCard } from "../../components/features/DishCard"
 import { SearchBox } from "../../components/features/SearchBox"
 import { TagList } from "../../components/features/TagList"
-import dishes from "../../data/dishes.json"
+import { allDishes } from "../../lib/dishes"
 import { searchDishes } from "../../lib/search"
 import type { DishItem } from "../../types/dish"
 
-const allDishes = dishes as DishItem[]
 const allTags = [...new Set(allDishes.flatMap((d) => d.tags))].sort()
 
 function SearchResults() {

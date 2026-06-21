@@ -8,13 +8,11 @@ import {
   pageUrl,
   totalPages,
 } from "../../../../components/features/DishesPageContent"
-import dishes from "../../../../data/dishes.json"
-import type { DishItem } from "../../../../types/dish"
+import { allDishes } from "../../../../lib/dishes"
+import { buildItemListJsonLd } from "../../../../lib/taxonomy"
 
-const allDishes = dishes as DishItem[]
 const latestDishes = [...allDishes].reverse()
 const count = allDishes.length
-const SITE_URL = "https://rdish.reload.co.jp"
 
 export function generateStaticParams() {
   const total = totalPages(count)
@@ -57,19 +55,12 @@ export default async function DishesPageN({
   const offset = (page - 1) * PAGE_SIZE
   const pageDishes = paginateDishes(latestDishes, page)
 
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    name: `料理・食材図鑑 一覧 ${page}ページ目`,
-    url: `${SITE_URL}${pageUrl(page)}`,
-    numberOfItems: pageDishes.length,
-    itemListElement: pageDishes.map((dish, i) => ({
-      "@type": "ListItem",
-      position: offset + i + 1,
-      name: dish.name,
-      url: `${SITE_URL}/dishes/${dish.id}/`,
-    })),
-  }
+  const jsonLd = buildItemListJsonLd(
+    `料理・食材図鑑 一覧 ${page}ページ目`,
+    pageUrl(page),
+    pageDishes,
+    offset,
+  )
 
   return (
     <div>

@@ -1,18 +1,14 @@
 export const dynamic = "force-static"
 
 import type { MetadataRoute } from "next"
-import dishes from "../data/dishes.json"
-import articles from "../data/articles.json"
 import { totalPages } from "../components/features/DishesPageContent"
 import { countryTotalPages } from "../components/features/CountryPageContent"
+import { allArticles } from "../lib/articles"
+import { allDishes } from "../lib/dishes"
 import { dishMatchesRegion } from "../lib/region"
 import { categoryItems, countryItems, tagItems } from "../lib/taxonomy"
-import type { DishItem } from "../types/dish"
-import type { Article } from "../types/article"
 
 const SITE_URL = "https://rdish.reload.co.jp"
-const allDishes = dishes as DishItem[]
-const allArticles = articles as Article[]
 
 const page = (
   path: string,

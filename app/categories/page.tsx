@@ -1,9 +1,9 @@
 import Link from "next/link"
 import type { Metadata } from "next"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
-import dishes from "../../data/dishes.json"
+import { allDishes } from "../../lib/dishes"
 import { categoryItems, categoryPath } from "../../lib/taxonomy"
-import type { DishCategory, DishItem } from "../../types/dish"
+import type { DishCategory } from "../../types/dish"
 
 export const metadata: Metadata = {
   title: "カテゴリ別 料理一覧",
@@ -18,7 +18,6 @@ export const metadata: Metadata = {
   },
 }
 
-const allDishes = dishes as DishItem[]
 const SITE_URL = "https://rdish.reload.co.jp"
 
 const linkStyle = {

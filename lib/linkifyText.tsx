@@ -1,5 +1,6 @@
 import Link from "next/link"
 import type { ReactNode } from "react"
+import { extractSearchTerms } from "./dishTerms"
 import type { DishItem } from "../types/dish"
 
 type TermMap = Map<string, string> // term → dish id
@@ -8,14 +9,7 @@ function buildTermMap(dishes: DishItem[], currentId: string): TermMap {
   const map: TermMap = new Map()
   for (const dish of dishes) {
     if (dish.id === currentId) continue
-    const terms = [
-      dish.name,
-      dish.kana,
-      dish.englishName,
-      dish.originalName,
-      ...(dish.aliases ?? []),
-    ].filter((t): t is string => !!t && t.length >= 3)
-    for (const term of terms) {
+    for (const term of extractSearchTerms(dish)) {
       if (!map.has(term)) map.set(term, dish.id)
     }
   }

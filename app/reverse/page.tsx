@@ -4,11 +4,9 @@ import { FormEvent, useState } from "react"
 import Link from "next/link"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
 import { DishCard } from "../../components/features/DishCard"
-import dishes from "../../data/dishes.json"
+import { allDishes } from "../../lib/dishes"
 import { reverseSearch, detectKeywordsInQuery, KeywordMatch } from "../../lib/reverseSearch"
 import type { DishItem } from "../../types/dish"
-
-const allDishes = dishes as DishItem[]
 
 const EXAMPLES = [
   "白くて中がとろっとしたチーズ",

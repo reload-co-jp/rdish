@@ -2,10 +2,9 @@ import Link from "next/link"
 import { notFound } from "next/navigation"
 import { Breadcrumb } from "../../../components/elements/Breadcrumb"
 import { CountryPageContent, countryTotalPages, paginateCountryDishes } from "../../../components/features/CountryPageContent"
-import dishes from "../../../data/dishes.json"
+import { allDishes } from "../../../lib/dishes"
 import { dishMatchesRegion } from "../../../lib/region"
-import { categoryPath, countryItems, countryPath, tagPath, taxonomyById } from "../../../lib/taxonomy"
-import type { DishItem } from "../../../types/dish"
+import { buildItemListJsonLd, categoryPath, countryItems, countryPath, tagPath, taxonomyById } from "../../../lib/taxonomy"
 
 export function generateStaticParams() {
   return countryItems.map(({ id }) => ({ country: id }))
@@ -19,7 +18,7 @@ export async function generateMetadata({
   const { country } = await params
   const item = taxonomyById(countryItems, country)
   if (!item) notFound()
-  const countryResults = (dishes as DishItem[]).filter((d) => dishMatchesRegion(d, item.label))
+  const countryResults = allDishes.filter((d) => dishMatchesRegion(d, item.label))
   const count = countryResults.length
   const top3 = countryResults.slice(0, 3).map((d) => d.name).join("、")
   const title = `${item.label}の料理一覧（全${count}件）`
@@ -41,7 +40,7 @@ export default async function CountryPage({
   const { country } = await params
   const item = taxonomyById(countryItems, country)
   if (!item) notFound()
-  const results = (dishes as DishItem[]).filter((d) => dishMatchesRegion(d, item.label))
+  const results = allDishes.filter((d) => dishMatchesRegion(d, item.label))
   if (results.length === 0) notFound()
   const description = item.description ?? `${item.label}の料理・食材・調理法をまとめています。`
   const localities = countryItems.filter((c) => c.label.startsWith(`${item.label}（`))
@@ -61,19 +60,7 @@ export default async function CountryPage({
   const total = countryTotalPages(results.length)
   const pageDishes = paginateCountryDishes(results, 1)
 
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    name: `${item.label}の料理一覧`,
-    url: `https://rdish.reload.co.jp/countries/${item.id}/`,
-    numberOfItems: pageDishes.length,
-    itemListElement: pageDishes.map((dish, i) => ({
-      "@type": "ListItem",
-      position: i + 1,
-      name: dish.name,
-      url: `https://rdish.reload.co.jp/dishes/${dish.id}/`,
-    })),
-  }
+  const jsonLd = buildItemListJsonLd(`${item.label}の料理一覧`, `/countries/${item.id}/`, pageDishes)
 
   return (
     <div>

@@ -1,17 +1,17 @@
 import Link from "next/link"
 import { FC } from "react"
 import { DishCard } from "./DishCard"
+import { paginate, totalPages } from "../../lib/pagination"
 import type { DishItem } from "../../types/dish"
 
 export const COUNTRY_PAGE_SIZE = 30
 
 export function paginateCountryDishes(results: DishItem[], page: number) {
-  const start = (page - 1) * COUNTRY_PAGE_SIZE
-  return results.slice(start, start + COUNTRY_PAGE_SIZE)
+  return paginate(results, page, COUNTRY_PAGE_SIZE)
 }
 
 export function countryTotalPages(count: number) {
-  return Math.max(Math.ceil(count / COUNTRY_PAGE_SIZE), 1)
+  return totalPages(count, COUNTRY_PAGE_SIZE, 1)
 }
 
 export function countryPageUrl(countryId: string, page: number) {

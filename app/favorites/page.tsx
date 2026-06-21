@@ -3,7 +3,7 @@
 import { useMemo, useSyncExternalStore } from "react"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
 import { DishCard } from "../../components/features/DishCard"
-import dishes from "../../data/dishes.json"
+import { allDishes } from "../../lib/dishes"
 import { getFavorites, subscribeFavorites } from "../../lib/storage"
 import type { DishItem } from "../../types/dish"
 
@@ -13,8 +13,7 @@ export default function FavoritesPage() {
   const favIds = useSyncExternalStore(subscribeFavorites, getFavoritesSnapshot, () => "[]")
   const favDishes = useMemo(() => {
     const ids = JSON.parse(favIds) as string[]
-    const all = dishes as DishItem[]
-    return ids.map((id) => all.find((d) => d.id === id)).filter(Boolean) as DishItem[]
+    return ids.map((id) => allDishes.find((d) => d.id === id)).filter(Boolean) as DishItem[]
   }, [favIds])
 
   return (

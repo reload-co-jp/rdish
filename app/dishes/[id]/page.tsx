@@ -4,11 +4,11 @@ import { Breadcrumb } from "../../../components/elements/Breadcrumb"
 import { DishDetail } from "../../../components/features/DishDetail"
 import { RecentlyViewedTracker } from "../../../components/features/RecentlyViewedTracker"
 import AdSense from "../../../components/elements/AdSense"
-import dishes from "../../../data/dishes.json"
+import { allDishes } from "../../../lib/dishes"
 import type { DishItem } from "../../../types/dish"
 
 export function generateStaticParams() {
-  return (dishes as DishItem[]).map((d) => ({ id: d.id }))
+  return allDishes.map((d) => ({ id: d.id }))
 }
 
 export async function generateMetadata({
@@ -17,7 +17,7 @@ export async function generateMetadata({
   params: Promise<{ id: string }>
 }) {
   const { id } = await params
-  const dish = (dishes as DishItem[]).find((d) => d.id === id)
+  const dish = allDishes.find((d) => d.id === id)
   if (!dish) return {}
   const title = `${dish.name}とは？外食メニューで見たときの意味・味・頼む判断`
   const description = `${dish.name}とは、${dish.summary}`.slice(0, 160).trimEnd()
@@ -55,7 +55,7 @@ export default async function DishPage({
   params: Promise<{ id: string }>
 }) {
   const { id } = await params
-  const dish = (dishes as DishItem[]).find((d) => d.id === id)
+  const dish = allDishes.find((d) => d.id === id)
   if (!dish) notFound()
 
   const SITE_URL = "https://rdish.reload.co.jp"
@@ -124,7 +124,7 @@ export default async function DishPage({
         />
       )}
       <Breadcrumb items={[{ label: "料理一覧", href: "/dishes/" }, { label: dish.name }]} />
-      <DishPageContent dish={dish} allDishes={dishes as DishItem[]} />
+      <DishPageContent dish={dish} allDishes={allDishes} />
       <AdSense />
     </>
   )

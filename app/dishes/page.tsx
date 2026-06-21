@@ -1,13 +1,11 @@
 import type { Metadata } from "next"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
 import { DishesPageContent, paginateDishes, totalPages } from "../../components/features/DishesPageContent"
-import dishes from "../../data/dishes.json"
-import type { DishItem } from "../../types/dish"
+import { allDishes } from "../../lib/dishes"
+import { buildItemListJsonLd } from "../../lib/taxonomy"
 
-const allDishes = dishes as DishItem[]
 const latestDishes = [...allDishes].reverse()
 const count = allDishes.length
-const SITE_URL = "https://rdish.reload.co.jp"
 
 export const metadata: Metadata = {
   title: `料理・食材図鑑 全${count}件一覧`,
@@ -27,19 +25,7 @@ export default function DishesPage() {
   const pageDishes = paginateDishes(latestDishes, page)
   const total = totalPages(count)
 
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    name: `料理・食材図鑑 全${count}件一覧`,
-    url: `${SITE_URL}/dishes/`,
-    numberOfItems: pageDishes.length,
-    itemListElement: pageDishes.map((dish, i) => ({
-      "@type": "ListItem",
-      position: i + 1,
-      name: dish.name,
-      url: `${SITE_URL}/dishes/${dish.id}/`,
-    })),
-  }
+  const jsonLd = buildItemListJsonLd(`料理・食材図鑑 全${count}件一覧`, "/dishes/", pageDishes)
 
   return (
     <div>

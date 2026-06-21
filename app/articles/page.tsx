@@ -1,10 +1,7 @@
 import type { Metadata } from "next"
 import Link from "next/link"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
-import articlesData from "../../data/articles.json"
-import type { Article } from "../../types/article"
-
-const articles = articlesData as Article[]
+import { allArticles as articles } from "../../lib/articles"
 
 const SITE_URL = "https://rdish.reload.co.jp"
 

@@ -1,17 +1,17 @@
 import Link from "next/link"
 import { FC } from "react"
 import { DishCard } from "./DishCard"
+import { paginate, totalPages as totalPagesOf } from "../../lib/pagination"
 import type { DishItem } from "../../types/dish"
 
 export const PAGE_SIZE = 30
 
 export function paginateDishes(allDishes: DishItem[], page: number) {
-  const start = (page - 1) * PAGE_SIZE
-  return allDishes.slice(start, start + PAGE_SIZE)
+  return paginate(allDishes, page, PAGE_SIZE)
 }
 
 export function totalPages(count: number) {
-  return Math.ceil(count / PAGE_SIZE)
+  return totalPagesOf(count, PAGE_SIZE)
 }
 
 export function pageUrl(page: number) {
