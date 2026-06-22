@@ -37526,6 +37526,11 @@
         "id": "sasage",
         "name": "ささげ",
         "difference": "枝豆は大豆の未熟豆で塩茹で。ささげは乾燥豆でお赤飯に炊き込む"
+      },
+      {
+        "id": "tempeh",
+        "name": "テンペ",
+        "difference": "大豆由来・発酵/豆食材として近いが、テンペは大豆粒を菌糸で固めたインドネシア食品"
       }
     ],
     "relatedIds": [
@@ -65237,6 +65242,11 @@
         "id": "mao-xue-wang",
         "name": "毛血旺",
         "difference": "毛血旺は内臓・血の辛鍋。臭豆腐は発酵豆腐の屋台スナック。"
+      },
+      {
+        "id": "tempeh",
+        "name": "テンペ",
+        "difference": "大豆由来・発酵/豆食材として近いが、テンペは大豆粒を菌糸で固めたインドネシア食品"
       }
     ],
     "relatedIds": [
@@ -87742,6 +87752,11 @@
         "id": "soy-sauce",
         "name": "醤油",
         "difference": "醤油は液体の大豆調味料。タオチオは粒やペースト感のある発酵大豆調味料"
+      },
+      {
+        "id": "tempeh",
+        "name": "テンペ",
+        "difference": "大豆由来・発酵/豆食材として近いが、テンペは大豆粒を菌糸で固めたインドネシア食品"
       }
     ],
     "relatedIds": [
@@ -90582,6 +90597,91 @@
     "spicinessScore": 2,
     "images": [
       "/images/dishes/laohu-cai/1.jpg"
+    ]
+  },
+  {
+    "id": "tempeh",
+    "name": "テンペ",
+    "kana": "てんぺ",
+    "aliases": [
+      "テンペー",
+      "tempe",
+      "tempeh"
+    ],
+    "englishName": "Tempeh",
+    "originalName": "Tempe",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "インドネシア",
+        "area": "ジャワ"
+      }
+    ],
+    "summary": "テンペは、大豆をリゾープス属の菌で発酵させ、白い菌糸で板状に固めたインドネシア発祥の発酵食品。豆粒が残るため、豆腐より歯ごたえとナッツのような香りがある。",
+    "menuDescription": "白っぽい菌糸で固まった大豆のブロック。揚げる、焼く、炒める、煮るなどで使われ、ベジタリアン料理では肉代替として出ることも多い。",
+    "whatComesOut": [
+      "大豆が固まった板状の発酵食品",
+      "薄切りを揚げたテンペゴレン",
+      "炒め物や煮込みの具",
+      "甘辛いソースやサンバルを絡めた皿"
+    ],
+    "tasteAndTexture": [
+      "豆の粒感がある",
+      "ほくっとして噛みごたえがある",
+      "ナッツやきのこに近い香り",
+      "揚げると香ばしい"
+    ],
+    "orderAdvice": "初めてなら揚げテンペや甘辛炒めが食べやすい。発酵香と豆の食感が苦手な人は少量から試す。",
+    "caution": "大豆使用。発酵食品なので独特の香りがある。",
+    "similarItems": [
+      {
+        "id": "chou-doufu",
+        "name": "臭豆腐",
+        "difference": "臭豆腐は豆腐を発酵させる中華系食品。テンペは大豆粒を菌糸で固めるインドネシアの発酵食品"
+      },
+      {
+        "id": "tao-chio",
+        "name": "タオチオ",
+        "difference": "タオチオは発酵大豆の調味料。テンペは固形の食材として焼く・揚げる・炒める"
+      },
+      {
+        "id": "edamame",
+        "name": "枝豆",
+        "difference": "枝豆は未熟大豆を茹でる食材。テンペは成熟大豆を発酵させた加工食品"
+      }
+    ],
+    "relatedIds": [
+      "chou-doufu",
+      "tao-chio",
+      "soy-sauce",
+      "edamame"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Tempeh",
+      "https://es.wikipedia.org/wiki/Tempeh",
+      "https://en.wikipedia.org/wiki/Soybean"
+    ],
+    "tags": [
+      "インドネシア料理",
+      "食材",
+      "大豆",
+      "発酵",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "テンペとは何か",
+      "発酵大豆食品",
+      "インドネシアの大豆料理",
+      "ベジタリアン向け食材"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tempeh/1.jpg",
+      "/images/dishes/tempeh/2.jpg",
+      "/images/dishes/tempeh/3.jpg"
     ]
   }
 ]
