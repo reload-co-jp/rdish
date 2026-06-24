@@ -52,6 +52,7 @@ export default async function TagPage({
   return (
     <TaxonomyPageLayout
       breadcrumbLabel="タグ"
+      breadcrumbHref="/tags/"
       itemLabel={item.label}
       description={description}
       results={results}

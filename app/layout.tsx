@@ -117,6 +117,16 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
                 国から探す
               </Link>
               <Link
+                href="/tags/"
+                style={{
+                  color: "#7a6655",
+                  fontSize: "0.875rem",
+                  textDecoration: "none",
+                }}
+              >
+                タグ
+              </Link>
+              <Link
                 href="/reverse/"
                 style={{
                   color: "#7a6655",
@@ -194,6 +204,12 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
               style={{ color: "#a89080", textDecoration: "underline" }}
             >
               国から探す
+            </Link>
+            <Link
+              href="/tags/"
+              style={{ color: "#a89080", textDecoration: "underline" }}
+            >
+              タグ
             </Link>
             <Link
               href="/about/"
