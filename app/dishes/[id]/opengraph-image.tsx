@@ -3,6 +3,7 @@ import { ImageResponse } from "next/og"
 import path from "path"
 import sharp from "sharp"
 import { allDishes } from "../../../lib/dishes"
+import { normalizeOgText } from "../../../lib/og"
 
 export const dynamic = "force-static"
 export const alt = "料理図鑑 | RDish"
@@ -37,7 +38,8 @@ export default async function Image({
   if (!dish) return new Response("Not found", { status: 404 })
 
   const imageDataUrl = dish.images?.[0] ? await loadImageDataUrl(dish.images[0]) : null
-  const summary = dish.summary.length > 60 ? dish.summary.slice(0, 60) + "…" : dish.summary
+  const rawSummary = dish.summary.length > 60 ? dish.summary.slice(0, 60) + "…" : dish.summary
+  const summary = normalizeOgText(rawSummary)
 
   return new ImageResponse(
     (

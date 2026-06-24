@@ -3,6 +3,10 @@ import { ImageResponse } from "next/og"
 export const ogSize = { width: 1200, height: 630 }
 export const ogContentType = "image/png"
 
+export function normalizeOgText(text: string) {
+  return text.replaceAll("℃", "°C")
+}
+
 type OgImageOptions = {
   title: string | string[]
   titleSize?: number
@@ -11,7 +15,9 @@ type OgImageOptions = {
 }
 
 export function buildOgImage({ title, titleSize = 64, subtitle, badge }: OgImageOptions) {
-  const titleLines = Array.isArray(title) ? title : [title]
+  const titleLines = (Array.isArray(title) ? title : [title]).map(normalizeOgText)
+  const normalizedSubtitle = subtitle ? normalizeOgText(subtitle) : undefined
+  const normalizedBadge = badge ? normalizeOgText(badge) : undefined
 
   return new ImageResponse(
     (
@@ -52,7 +58,7 @@ export function buildOgImage({ title, titleSize = 64, subtitle, badge }: OgImage
               {line}
             </div>
           ))}
-          {badge && (
+          {normalizedBadge && (
             <div
               style={{
                 display: "flex",
@@ -64,11 +70,11 @@ export function buildOgImage({ title, titleSize = 64, subtitle, badge }: OgImage
                 color: "#7a4f2a",
               }}
             >
-              {badge}
+              {normalizedBadge}
             </div>
           )}
-          {subtitle && (
-            <div style={{ display: "flex", fontSize: 28, color: "#7a6655" }}>{subtitle}</div>
+          {normalizedSubtitle && (
+            <div style={{ display: "flex", fontSize: 28, color: "#7a6655" }}>{normalizedSubtitle}</div>
           )}
         </div>
       </div>
