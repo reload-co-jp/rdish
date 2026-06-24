@@ -59,24 +59,66 @@ export default async function DishPage({
   if (!dish) notFound()
 
   const SITE_URL = "https://rdish.reload.co.jp"
+  const canonicalUrl = `${SITE_URL}/dishes/${dish.id}/`
+  const alternateNames = [
+    dish.kana,
+    dish.englishName,
+    dish.originalName && dish.originalName !== dish.englishName ? dish.originalName : null,
+    ...(dish.aliases ?? []),
+  ].filter(Boolean)
+  const relatedDishes = dish.relatedIds
+    .map((relatedId) => allDishes.find((d) => d.id === relatedId))
+    .filter(Boolean) as DishItem[]
+  const sourceUrls = (dish.source ?? []).filter((source) => source.startsWith("http"))
 
   const definedTermLd = {
     "@context": "https://schema.org",
     "@type": "DefinedTerm",
+    "@id": `${canonicalUrl}#term`,
     name: dish.name,
+    identifier: dish.id,
     description: dish.summary,
-    inDefinedTermSet: { "@type": "DefinedTermSet", name: "RDish 料理図鑑", url: SITE_URL },
-    url: `${SITE_URL}/dishes/${dish.id}/`,
+    termCode: dish.id,
     inLanguage: "ja",
-    ...(() => {
-      const names = [
-        dish.englishName,
-        dish.originalName && dish.originalName !== dish.englishName ? dish.originalName : null,
-        ...(dish.aliases ?? []),
-      ].filter(Boolean)
-      return names.length > 0 ? { alternateName: names } : {}
-    })(),
+    url: canonicalUrl,
+    mainEntityOfPage: canonicalUrl,
+    inDefinedTermSet: {
+      "@type": "DefinedTermSet",
+      name: "RDish 料理図鑑",
+      url: `${SITE_URL}/dishes/`,
+    },
+    keywords: dish.tags.join(", "),
+    about: [
+      { "@type": "Thing", name: dish.category },
+      ...dish.tags.map((tag) => ({ "@type": "Thing", name: tag })),
+    ],
+    mentions: relatedDishes.map((relatedDish) => ({
+      "@type": "DefinedTerm",
+      name: relatedDish.name,
+      url: `${SITE_URL}/dishes/${relatedDish.id}/`,
+    })),
+    ...(sourceUrls.length > 0 ? { sameAs: sourceUrls } : {}),
+    ...(alternateNames.length > 0 ? { alternateName: alternateNames } : {}),
     ...(dish.images?.[0] ? { image: `${SITE_URL}${dish.images[0]}` } : {}),
+  }
+
+  const webPageLd = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": canonicalUrl,
+    url: canonicalUrl,
+    name: `${dish.name}とは？`,
+    description: dish.summary,
+    inLanguage: "ja",
+    isPartOf: { "@type": "WebSite", name: "RDish", url: SITE_URL },
+    primaryImageOfPage: dish.images?.[0]
+      ? { "@type": "ImageObject", url: `${SITE_URL}${dish.images[0]}` }
+      : undefined,
+    mainEntity: { "@id": `${canonicalUrl}#term` },
+    speakable: {
+      "@type": "SpeakableSpecification",
+      cssSelector: ["h1", "section"],
+    },
   }
 
   const faqEntries = [
@@ -116,6 +158,10 @@ export default async function DishPage({
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(definedTermLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageLd) }}
       />
       {faqLd && (
         <script

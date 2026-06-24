@@ -34,6 +34,14 @@ export const metadata: Metadata = {
 const RootLayout = ({ children }: { children: React.ReactNode }) => {
   return (
     <html lang="ja">
+      <head>
+        <link
+          rel="alternate"
+          type="text/markdown"
+          href="/llms.txt"
+          title="LLMs.txt"
+        />
+      </head>
       <body>
         {process.env.NODE_ENV === "production" && (
           <>

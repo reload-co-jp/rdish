@@ -81,6 +81,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     page("/categories/", "monthly", 0.7),
     page("/countries/", "monthly", 0.7),
     page("/tags/", "monthly", 0.7),
+    page("/llms.txt", "weekly", 0.3),
+    page("/llms-full.txt", "weekly", 0.3),
     page("/about/", "yearly", 0.4),
     ...categoryUrls,
     ...countryUrls,
