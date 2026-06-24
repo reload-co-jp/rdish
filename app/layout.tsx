@@ -26,6 +26,15 @@ export const metadata: Metadata = {
     card: "summary",
     site: "@r_dish_reload",
   },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+    },
+  },
   alternates: {
     canonical: "/",
   },

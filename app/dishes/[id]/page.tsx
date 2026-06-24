@@ -21,6 +21,24 @@ export async function generateMetadata({
   if (!dish) return {}
   const title = `${dish.name}とは？外食メニューで見たときの意味・味・頼む判断`
   const description = `${dish.name}とは、${dish.summary}`.slice(0, 160).trimEnd()
+  const firstImage = dish.images?.[0]
+  const imageAlt = `${dish.name}の料理写真`
+  const metadataImages = [
+    ...(firstImage
+      ? [
+          {
+            url: firstImage,
+            alt: imageAlt,
+          },
+        ]
+      : []),
+    {
+      url: `/dishes/${dish.id}/opengraph-image`,
+      width: 1200,
+      height: 630,
+      alt: `${dish.name} | RDish`,
+    },
+  ]
   return {
     title,
     description,
@@ -30,11 +48,15 @@ export async function generateMetadata({
       description,
       url: `/dishes/${dish.id}/`,
       type: "article",
+      images: metadataImages,
     },
     twitter: {
       card: "summary_large_image",
       title,
       description,
+      images: firstImage
+        ? [{ url: firstImage, alt: imageAlt }]
+        : [{ url: `/dishes/${dish.id}/opengraph-image`, alt: `${dish.name} | RDish` }],
     },
   }
 }
@@ -99,7 +121,15 @@ export default async function DishPage({
     })),
     ...(sourceUrls.length > 0 ? { sameAs: sourceUrls } : {}),
     ...(alternateNames.length > 0 ? { alternateName: alternateNames } : {}),
-    ...(dish.images?.[0] ? { image: `${SITE_URL}${dish.images[0]}` } : {}),
+    ...(dish.images?.[0]
+      ? {
+          image: dish.images.map((image) => ({
+            "@type": "ImageObject",
+            url: `${SITE_URL}${image}`,
+            caption: `${dish.name}の料理写真`,
+          })),
+        }
+      : {}),
   }
 
   const webPageLd = {
@@ -112,7 +142,11 @@ export default async function DishPage({
     inLanguage: "ja",
     isPartOf: { "@type": "WebSite", name: "RDish", url: SITE_URL },
     primaryImageOfPage: dish.images?.[0]
-      ? { "@type": "ImageObject", url: `${SITE_URL}${dish.images[0]}` }
+      ? {
+          "@type": "ImageObject",
+          url: `${SITE_URL}${dish.images[0]}`,
+          caption: `${dish.name}の料理写真`,
+        }
       : undefined,
     mainEntity: { "@id": `${canonicalUrl}#term` },
     speakable: {
