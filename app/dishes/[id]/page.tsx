@@ -19,8 +19,10 @@ export async function generateMetadata({
   const { id } = await params
   const dish = allDishes.find((d) => d.id === id)
   if (!dish) return {}
-  const title = `${dish.name}とは？外食メニューで見たときの意味・味・頼む判断`
-  const description = `${dish.name}とは、${dish.summary}`.slice(0, 160).trimEnd()
+  const title = `「${dish.name}」とは？ ${dish.aliases?.map((a) => `「${a}」`)} メニューで見たときに困らない料理図鑑`
+  const description = `${dish.name}とは、${dish.summary}`
+    .slice(0, 160)
+    .trimEnd()
   const firstImage = dish.images?.[0]
   const imageAlt = `${dish.name}の料理写真`
   const metadataImages = [
@@ -56,7 +58,12 @@ export async function generateMetadata({
       description,
       images: firstImage
         ? [{ url: firstImage, alt: imageAlt }]
-        : [{ url: `/dishes/${dish.id}/opengraph-image`, alt: `${dish.name} | RDish` }],
+        : [
+            {
+              url: `/dishes/${dish.id}/opengraph-image`,
+              alt: `${dish.name} | RDish`,
+            },
+          ],
     },
   }
 }
@@ -85,13 +92,17 @@ export default async function DishPage({
   const alternateNames = [
     dish.kana,
     dish.englishName,
-    dish.originalName && dish.originalName !== dish.englishName ? dish.originalName : null,
+    dish.originalName && dish.originalName !== dish.englishName
+      ? dish.originalName
+      : null,
     ...(dish.aliases ?? []),
   ].filter(Boolean)
   const relatedDishes = dish.relatedIds
     .map((relatedId) => allDishes.find((d) => d.id === relatedId))
     .filter(Boolean) as DishItem[]
-  const sourceUrls = (dish.source ?? []).filter((source) => source.startsWith("http"))
+  const sourceUrls = (dish.source ?? []).filter((source) =>
+    source.startsWith("http")
+  )
 
   const definedTermLd = {
     "@context": "https://schema.org",
@@ -169,7 +180,10 @@ export default async function DishPage({
     dish.tasteAndTexture.length > 0 && {
       "@type": "Question",
       name: `${dish.name}の味・食感は？`,
-      acceptedAnswer: { "@type": "Answer", text: dish.tasteAndTexture.join("、") },
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: dish.tasteAndTexture.join("、"),
+      },
     },
     dish.orderAdvice && {
       "@type": "Question",
@@ -183,9 +197,14 @@ export default async function DishPage({
     },
   ].filter(Boolean)
 
-  const faqLd = faqEntries.length > 0
-    ? { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqEntries }
-    : null
+  const faqLd =
+    faqEntries.length > 0
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqEntries,
+        }
+      : null
 
   return (
     <>
