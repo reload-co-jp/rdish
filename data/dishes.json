@@ -90683,5 +90683,2745 @@
       "/images/dishes/tempeh/2.jpg",
       "/images/dishes/tempeh/3.jpg"
     ]
+  },
+  {
+    "id": "husmanskost",
+    "name": "ヒュスマンスコスト",
+    "kana": "ひゅすまんすこすと",
+    "aliases": [
+      "フスマンスコスト",
+      "スウェーデン家庭料理",
+      "Husmanskost"
+    ],
+    "englishName": "Swedish home cooking",
+    "originalName": "Husmanskost",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "スウェーデンの伝統的な日常料理を指す総称。地元食材を使った素朴な家庭料理で、豚肉、魚、穀物、乳製品、じゃがいも、根菜、キャベツ、玉ねぎなどを中心に、煮込みや焼き物、マッシュ、肉団子、ニシン料理など幅広い。",
+    "menuDescription": "スウェーデンの家庭料理・定食的な一皿。肉団子、じゃがいも料理、魚、煮込み、豆スープなど、店や日替わりで内容が変わることが多い。",
+    "whatComesOut": [
+      "肉または魚を中心にした主菜",
+      "じゃがいも、根菜、キャベツなどの付け合わせ",
+      "クリームソース、グレービー、リンゴンベリー、ピクルスなどの添え物",
+      "素朴な煮込み、焼き物、炒め物、マッシュ料理"
+    ],
+    "tasteAndTexture": [
+      "香辛料は控えめで穏やか",
+      "じゃがいもや根菜の素朴な甘み",
+      "肉や魚の旨みを生かした味",
+      "乳製品やソースでまろやかな皿も多い"
+    ],
+    "orderAdvice": "スウェーデン料理を広く試したい時の入口。料理名ではなく家庭料理ジャンルとして使われることも多いため、メニューでは具体的な皿名や日替わり内容を確認するとよい。",
+    "caution": "単一料理名ではなくスウェーデン家庭料理の総称。店によって肉料理、魚料理、豆スープ、じゃがいも料理など内容が大きく変わる。",
+    "similarItems": [
+      {
+        "id": "kottbullar",
+        "name": "ショットブッラル",
+        "difference": "ショットブッラルはミートボール単品。ヒュスマンスコストはそれを含むスウェーデン家庭料理全般"
+      },
+      {
+        "id": "pyttipanna",
+        "name": "ピッティパンナ",
+        "difference": "ピッティパンナは肉とじゃがいもの炒め物。ヒュスマンスコストは家庭料理ジャンル"
+      },
+      {
+        "id": "janssons-frestelse",
+        "name": "ヤンソンの誘惑",
+        "difference": "ヤンソンの誘惑はじゃがいもと小魚のクリーム焼き。ヒュスマンスコストは伝統的な日常料理の総称"
+      },
+      {
+        "id": "stamppot",
+        "name": "スタンポット",
+        "difference": "スタンポットはオランダの野菜入りマッシュ。ヒュスマンスコストはスウェーデンの家庭料理全般"
+      }
+    ],
+    "relatedIds": [
+      "kottbullar",
+      "pyttipanna",
+      "janssons-frestelse",
+      "gravlax",
+      "surstromming"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Swedish_cuisine",
+      "https://en.wikipedia.org/wiki/Tore_Wretman",
+      "https://www.svd.se/a/8qr4MQ"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "魚介",
+      "野菜",
+      "煮込み",
+      "焼き物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "スウェーデン家庭料理",
+      "北欧の定食",
+      "じゃがいも料理",
+      "素朴な肉料理",
+      "伝統的なスウェーデン料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "kraftskiva",
+    "name": "クレフトフィーバ",
+    "kana": "くれふとふぃーば",
+    "aliases": [
+      "クレフトシーヴァ",
+      "ザリガニパーティー",
+      "Kräftskiva"
+    ],
+    "englishName": "Crayfish Party",
+    "originalName": "Kräftskiva",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "スウェーデン発祥の夏のザリガニ料理と宴会の伝統。塩水とディルで茹でたザリガニを冷やして食べ、パン、チーズ、サラダ、パイ、ビール、アクアヴィットなどを合わせる。8月の季節行事として知られる。",
+    "menuDescription": "ディルで香りをつけた冷製ザリガニを手で殻をむいて食べる北欧の季節料理。店やイベントではチーズ、パン、サラダ、スナップスなどと一緒に出ることが多い。",
+    "whatComesOut": [
+      "赤く茹でたザリガニの山盛り",
+      "ディル風味の塩ゆで汁の香り",
+      "パン、チーズ、サラダ、パイなどの付け合わせ",
+      "ビールやアクアヴィット"
+    ],
+    "tasteAndTexture": [
+      "ザリガニ身の淡い甘み",
+      "ディルの青い香り",
+      "冷製でさっぱり",
+      "殻をむきながら少しずつ食べる"
+    ],
+    "orderAdvice": "北欧の夏イベントやスウェーデン料理店で見つけたら体験向き。量より雰囲気込みの料理なので、手で食べる前提で頼むとよい。",
+    "caution": "甲殻類アレルギー注意。宴会名でもあるため、単品料理ではなくイベントメニューとして載る場合がある。",
+    "similarItems": [
+      {
+        "id": "surstromming",
+        "name": "シュールストレミング",
+        "difference": "どちらもスウェーデンの季節感ある魚介文化。クレフトフィーバはディル茹でザリガニ、シュールストレミングは発酵ニシン"
+      },
+      {
+        "id": "gravlax",
+        "name": "グラブラックス",
+        "difference": "グラブラックスはサーモンの塩砂糖ディル漬け。クレフトフィーバはザリガニを主役にした宴会料理"
+      },
+      {
+        "id": "husmanskost",
+        "name": "ヒュスマンスコスト",
+        "difference": "ヒュスマンスコストは日常の家庭料理全般。クレフトフィーバは夏のザリガニ行事"
+      }
+    ],
+    "relatedIds": [
+      "surstromming",
+      "gravlax",
+      "husmanskost"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Crayfish_party",
+      "https://en.wikipedia.org/wiki/Crayfish_as_food",
+      "https://en.wikipedia.org/wiki/Crayfishing_in_Sweden"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "魚介",
+      "ハーブ",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "スウェーデンのザリガニ料理",
+      "クレフトシーヴァ",
+      "北欧の夏イベント",
+      "ディル茹でザリガニ",
+      "甲殻類料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kraftskiva/1.jpg",
+      "/images/dishes/kraftskiva/2.jpg",
+      "/images/dishes/kraftskiva/3.jpg"
+    ]
+  },
+  {
+    "id": "artsoppa",
+    "name": "アートソッパ",
+    "kana": "あーとそっぱ",
+    "aliases": [
+      "エルツソッパ",
+      "スウェーデン風豆スープ",
+      "Ärtsoppa"
+    ],
+    "englishName": "Swedish Pea Soup",
+    "originalName": "Ärtsoppa",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "黄色い乾燥エンドウ豆を豚肉、玉ねぎ、タイムやマジョラムなどと煮るスウェーデンの伝統的な豆スープ。木曜日に食べ、マスタードを添え、デザートにパンケーキを続ける習慣で知られる。",
+    "menuDescription": "黄色い豆をやわらかく煮込んだ濃いスープ。豚肉の旨みが入り、マスタードを少し溶かして食べる。スウェーデンでは木曜の定番としてパンケーキと組み合わせることが多い。",
+    "whatComesOut": [
+      "黄色いエンドウ豆の濃いスープ",
+      "小さく切った豚肉または別添えの豚肉",
+      "マスタード",
+      "パンケーキとジャムが続くこともある"
+    ],
+    "tasteAndTexture": [
+      "豆のほくほくした甘み",
+      "豚肉の塩気とうま味",
+      "とろみがあり腹持ちがよい",
+      "マスタードで味が締まる"
+    ],
+    "orderAdvice": "寒い日の軽い主食スープに向く。木曜ランチや北欧フェアで見かけやすく、パンケーキ付きならスウェーデンらしさが強い。",
+    "caution": "豆と豚肉を使う。ベジタリアン版もあるが、伝統的には豚肉入りが多い。",
+    "similarItems": [
+      {
+        "id": "husmanskost",
+        "name": "ヒュスマンスコスト",
+        "difference": "アートソッパはヒュスマンスコストに含まれる豆スープの代表例"
+      },
+      {
+        "id": "crepe",
+        "name": "クレープ",
+        "difference": "スウェーデンではアートソッパの後に薄いパンケーキを食べる習慣がある。クレープ自体は甘い生地料理"
+      },
+      {
+        "id": "kottbullar",
+        "name": "ショットブッラル",
+        "difference": "ショットブッラルは肉団子の主菜。アートソッパは豆と豚肉のスープ"
+      }
+    ],
+    "relatedIds": [
+      "husmanskost",
+      "crepe",
+      "kottbullar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pea_soup",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "スープ",
+      "豚肉",
+      "豆類",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "スウェーデンの豆スープ",
+      "木曜日のスープ",
+      "黄色いエンドウ豆",
+      "マスタードを入れるスープ",
+      "パンケーキと食べるスープ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/artsoppa/1.jpg",
+      "/images/dishes/artsoppa/2.jpg",
+      "/images/dishes/artsoppa/3.jpg"
+    ]
+  },
+  {
+    "id": "blodpudding",
+    "name": "ブループディン",
+    "kana": "ぶるーぷでぃん",
+    "aliases": [
+      "ブロッドプディング",
+      "スウェーデン風ブラッドプディング",
+      "Blodpudding"
+    ],
+    "englishName": "Swedish Blood Pudding",
+    "originalName": "Blodpudding",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "豚の血、牛乳、ライ麦粉または大麦粉、脂、糖蜜、玉ねぎ、オールスパイス、マジョラムなどで作るスウェーデンの血のプディング。型に流して焼き、薄切りにして揚げ焼きし、リンゴンベリージャムやベーコン、にんじんと食べる。",
+    "menuDescription": "黒っぽい血のプディングを薄切りにして焼いた料理。甘みとスパイスがあり、リンゴンベリージャムの酸味、ベーコンの塩気、冷たい牛乳と合わせることが多い。",
+    "whatComesOut": [
+      "薄切りにして焼いた黒いプディング",
+      "リンゴンベリージャム",
+      "すりおろしにんじん",
+      "ベーコンや豚肉の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "鉄分を感じる濃い旨み",
+      "糖蜜由来のほのかな甘み",
+      "外側は香ばしく中はしっとり",
+      "リンゴンベリーで甘酸っぱく食べる"
+    ],
+    "orderAdvice": "血の料理やブラックプディングに抵抗がなければ試す価値あり。初めてならリンゴンベリージャムとベーコン付きで少量からが食べやすい。",
+    "caution": "血を使う料理。見た目と鉄っぽい風味が苦手な人には向かない。",
+    "similarItems": [
+      {
+        "id": "husmanskost",
+        "name": "ヒュスマンスコスト",
+        "difference": "ブループディンはスウェーデン家庭料理の一品。ヒュスマンスコストは家庭料理全般"
+      },
+      {
+        "name": "パルト",
+        "difference": "パルトはじゃがいも団子。血を混ぜるブロッドパルトもあるが、ブループディンは型焼きの血のプディング"
+      },
+      {
+        "id": "kottbullar",
+        "name": "ショットブッラル",
+        "difference": "どちらもリンゴンベリーと合わせるスウェーデン料理。ショットブッラルは肉団子、ブループディンは血を使う"
+      }
+    ],
+    "relatedIds": [
+      "husmanskost",
+      "kottbullar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Blood_sausage",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine",
+      "https://en.wikipedia.org/wiki/Lingonberry_jam"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "スウェーデンの血の料理",
+      "ブラッドプディング",
+      "リンゴンベリーと食べる料理",
+      "黒いプディング",
+      "鉄分のある料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/blodpudding/1.jpg"
+    ]
+  },
+  {
+    "id": "blodkorv",
+    "name": "ブルーコルブ",
+    "kana": "ぶるーこるぶ",
+    "aliases": [
+      "ブロッドコルブ",
+      "スウェーデン風ブラッドソーセージ",
+      "Blodkorv"
+    ],
+    "englishName": "Swedish Blood Sausage",
+    "originalName": "Blodkorv",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "豚の血を使うスウェーデンの血のソーセージ。血に粉類、豚肉や脂、レーズン、香辛料などを混ぜて腸詰めにし、切って焼くか温めて食べる。ブロッドプディングよりソーセージらしい形で、甘みを含むものもある。",
+    "menuDescription": "黒っぽい血のソーセージ。薄切りにして焼き、リンゴンベリーやりんご、じゃがいもと合わせることが多い。鉄っぽい旨みとスパイス、ほのかな甘みが特徴。",
+    "whatComesOut": [
+      "黒い血のソーセージの輪切り",
+      "焼いた表面",
+      "リンゴンベリージャムやりんご",
+      "じゃがいもやベーコンの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "鉄分を感じる濃い旨み",
+      "レーズンや糖分の甘み",
+      "スパイスの香り",
+      "焼くと外側が香ばしい"
+    ],
+    "orderAdvice": "血の料理に慣れている人向け。ブループディンが好きなら近いが、ソーセージ形で甘みや脂の存在感が出やすい。",
+    "caution": "血を使う料理。鉄っぽい風味と濃い色が苦手な人には向かない。",
+    "similarItems": [
+      {
+        "id": "blodpudding",
+        "name": "ブループディン",
+        "difference": "ブループディンは型焼きの血のプディング。ブルーコルブは腸詰めの血のソーセージ"
+      },
+      {
+        "id": "isterband",
+        "name": "イスターバンド",
+        "difference": "イスターバンドは発酵と燻製の豚ソーセージ。ブルーコルブは血を使う"
+      },
+      {
+        "id": "husmanskost",
+        "name": "ヒュスマンスコスト",
+        "difference": "ブルーコルブはスウェーデン家庭料理に含まれる血の料理の一種"
+      }
+    ],
+    "relatedIds": [
+      "blodpudding",
+      "husmanskost"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Swedish_cuisine",
+      "https://en.wikipedia.org/wiki/Blood_sausage"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "スウェーデンの血のソーセージ",
+      "ブラッドソーセージ",
+      "黒いソーセージ",
+      "レーズン入り血 sausage",
+      "鉄分のある料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "falukorv",
+    "name": "ファールコルブ",
+    "kana": "ふぁーるこるぶ",
+    "aliases": [
+      "ファルコルブ",
+      "ファルンソーセージ",
+      "Falukorv"
+    ],
+    "englishName": "Falu Sausage",
+    "originalName": "Falukorv",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン",
+        "area": "ダーラナ"
+      }
+    ],
+    "summary": "スウェーデン・ファールン発祥の太いソーセージ。燻製した豚肉と牛肉または仔牛肉に、じゃがいも澱粉、玉ねぎ、塩、穏やかな香辛料を混ぜた加熱済みソーセージで、家庭料理に広く使われる。",
+    "menuDescription": "赤い皮の太いスウェーデンソーセージ。厚切りにして焼く、オーブンでチーズやマスタードと焼く、クリームトマトソースのコルブ・ストロガノフにするなど、家庭的な食べ方が多い。",
+    "whatComesOut": [
+      "厚切りの太いソーセージ",
+      "焼いた表面またはオーブン焼き",
+      "マッシュポテトやマカロニ",
+      "マスタードやケチャップ系ソース"
+    ],
+    "tasteAndTexture": [
+      "燻製肉の穏やかな香り",
+      "きめ細かくやわらかい食感",
+      "塩気は中程度",
+      "子どもにも食べやすいマイルドな味"
+    ],
+    "orderAdvice": "スウェーデンの家庭料理感を知るなら選びやすい。屋台ソーセージではなく、定食や家庭料理の主菜として出ることが多い。",
+    "caution": "加工肉で塩分と脂がある。ベジタリアン版やチキン版は正式なファールコルブ名ではない場合がある。",
+    "similarItems": [
+      {
+        "id": "isterband",
+        "name": "イスターバンド",
+        "difference": "イスターバンドは粗挽きで酸味と燻製香が強い。ファールコルブは太く滑らかでマイルド"
+      },
+      {
+        "id": "kottbullar",
+        "name": "ショットブッラル",
+        "difference": "どちらも家庭的な肉料理。ショットブッラルは肉団子、ファールコルブはソーセージ"
+      },
+      {
+        "id": "husmanskost",
+        "name": "ヒュスマンスコスト",
+        "difference": "ファールコルブはヒュスマンスコストでよく使われる家庭的ソーセージ"
+      }
+    ],
+    "relatedIds": [
+      "husmanskost",
+      "kottbullar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Falukorv",
+      "https://en.wikipedia.org/wiki/Sausage",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "牛肉",
+      "燻製",
+      "焼き物",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "スウェーデンの太いソーセージ",
+      "ファルンソーセージ",
+      "コルブストロガノフ用",
+      "赤いソーセージ",
+      "北欧の家庭料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/falukorv/1.jpg"
+    ]
+  },
+  {
+    "id": "fiskbullar",
+    "name": "フィスクブラール",
+    "kana": "ふぃすくぶらーる",
+    "aliases": [
+      "スウェーデン風フィッシュボール",
+      "魚団子",
+      "Fiskbullar"
+    ],
+    "englishName": "Swedish Fish Balls",
+    "originalName": "Fiskbullar",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "白身魚のすり身を丸めたスウェーデンの魚団子。北欧のフィッシュボールの一種で、スウェーデンではマッシュポテトまたは米、グリーンピース、ディル、キャビア風ソースや魚介ソースと合わせることが多い。",
+    "menuDescription": "白くやわらかい魚団子。クリーム系や魚介系のソースに絡め、マッシュポテトや米、グリーンピースと一緒に出る家庭的な魚料理。",
+    "whatComesOut": [
+      "白い魚団子",
+      "白いソースまたは魚介ソース",
+      "マッシュポテトまたは米",
+      "グリーンピースやディル"
+    ],
+    "tasteAndTexture": [
+      "白身魚の淡い旨み",
+      "ふんわり柔らかい",
+      "クリームソースでまろやか",
+      "ディルで香りが軽い"
+    ],
+    "orderAdvice": "魚料理でもクセが弱く、北欧料理初心者に向く。強い魚臭さよりやさしいすり身料理を想像すると近い。",
+    "caution": "市販品や缶詰ではソース付きの場合がある。乳製品ソース使用ならアレルギー注意。",
+    "similarItems": [
+      {
+        "id": "kottbullar",
+        "name": "ショットブッラル",
+        "difference": "どちらも小さな団子料理。フィスクブラールは魚、ショットブッラルは肉"
+      },
+      {
+        "id": "inkokt-lax",
+        "name": "ポーチド・サーモン",
+        "difference": "どちらも穏やかな北欧魚料理。フィスクブラールはすり身団子、ポーチド・サーモンは鮭の切り身"
+      },
+      {
+        "id": "husmanskost",
+        "name": "ヒュスマンスコスト",
+        "difference": "フィスクブラールはスウェーデン家庭料理に含まれる白身魚料理"
+      }
+    ],
+    "relatedIds": [
+      "husmanskost",
+      "kottbullar",
+      "gravlax"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Fish_ball",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "クリーミー",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "スウェーデンの魚団子",
+      "白身魚のすり身",
+      "北欧フィッシュボール",
+      "クリームソースの魚料理",
+      "やわらかい魚料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "inkokt-lax",
+    "name": "ポーチド・サーモン",
+    "kana": "ぽーちどさーもん",
+    "aliases": [
+      "インコクト・ラックス",
+      "茹でサーモン",
+      "Inkokt lax"
+    ],
+    "englishName": "Poached Salmon",
+    "originalName": "Inkokt lax",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "サーモンを玉ねぎ、にんじん、水、酢、塩、砂糖、香辛料などの煮汁で穏やかに加熱するスウェーデンの鮭料理。冷やして食べることが多く、ディルとレモン風味のマヨネーズ系ソースを添える。",
+    "menuDescription": "しっとり火を入れたサーモンを冷製で出す料理。酸味のある煮汁で穏やかに加熱し、ディル、レモン、マヨネーズ系ソース、茹でじゃがいもと合わせることが多い。",
+    "whatComesOut": [
+      "しっとりしたサーモンの切り身",
+      "ディルとレモンのソース",
+      "茹でじゃがいも",
+      "にんじんや玉ねぎの香り"
+    ],
+    "tasteAndTexture": [
+      "鮭の脂が穏やか",
+      "身はしっとり柔らかい",
+      "酢とレモンの軽い酸味",
+      "ディルの香りが爽やか"
+    ],
+    "orderAdvice": "スモークや塩漬けより火の通ったサーモンが好きなら選びやすい。冷製の魚料理として前菜にも主菜にも向く。",
+    "caution": "マヨネーズや乳製品系ソースが添えられる場合がある。冷製提供が多い。",
+    "similarItems": [
+      {
+        "id": "gravlax",
+        "name": "グラブラックス",
+        "difference": "グラブラックスは生に近い塩砂糖漬け。ポーチド・サーモンは火を通した鮭"
+      },
+      {
+        "id": "fiskbullar",
+        "name": "フィスクブラール",
+        "difference": "フィスクブラールは白身魚のすり身団子。ポーチド・サーモンは鮭の切り身"
+      },
+      {
+        "id": "husmanskost",
+        "name": "ヒュスマンスコスト",
+        "difference": "ポーチド・サーモンはヒュスマンスコストに含まれる鮭料理の一つ"
+      }
+    ],
+    "relatedIds": [
+      "gravlax",
+      "husmanskost"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Swedish_cuisine",
+      "https://en.wikipedia.org/wiki/Poaching_(cooking)"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "魚介",
+      "ハーブ",
+      "低温調理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "スウェーデンの茹で鮭",
+      "インコクトラックス",
+      "冷製サーモン",
+      "ディルソースの鮭",
+      "火の通ったサーモン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/inkokt-lax/1.jpg",
+      "/images/dishes/inkokt-lax/2.jpg",
+      "/images/dishes/inkokt-lax/3.jpg"
+    ]
+  },
+  {
+    "id": "isterband",
+    "name": "イスターバンド",
+    "kana": "いすたーばんど",
+    "aliases": [
+      "イスターソーセージ",
+      "スウェーデン発酵ソーセージ",
+      "Isterband"
+    ],
+    "englishName": "Isterband",
+    "originalName": "Isterband",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン",
+        "area": "スモーランド"
+      }
+    ],
+    "summary": "豚肉、大麦のひき割り、じゃがいもで作るスウェーデンの粗挽きソーセージ。伝統的には乳酸発酵させてから軽く燻製し、酸味とスモーキーさを持つ。ディル入りクリームポテトやビーツのピクルスと食べる。",
+    "menuDescription": "軽く燻製した粗挽き豚ソーセージ。酸味があり、焼いてからクリーム煮のじゃがいも、ディル、ビーツのピクルスと合わせる定番が多い。",
+    "whatComesOut": [
+      "粗挽きの豚ソーセージ",
+      "焼いた皮",
+      "ディル入りクリームポテト",
+      "ビーツのピクルス"
+    ],
+    "tasteAndTexture": [
+      "発酵由来の軽い酸味",
+      "燻製の香り",
+      "粗挽きで肉感がある",
+      "クリームポテトでまろやかになる"
+    ],
+    "orderAdvice": "普通のソーセージより酸味と個性を楽しむ料理。ビールやアクアヴィットと合わせると食べやすい。",
+    "caution": "酸味が特徴。マイルドなソーセージを期待すると違って感じることがある。",
+    "similarItems": [
+      {
+        "id": "falukorv",
+        "name": "ファールコルブ",
+        "difference": "ファールコルブは太く滑らかでマイルド。イスターバンドは粗挽きで酸味と燻製香がある"
+      },
+      {
+        "id": "blodkorv",
+        "name": "ブルーコルブ",
+        "difference": "ブルーコルブは血のソーセージ。イスターバンドは豚肉と穀物の発酵燻製ソーセージ"
+      },
+      {
+        "id": "husmanskost",
+        "name": "ヒュスマンスコスト",
+        "difference": "イスターバンドはヒュスマンスコストやユールボードにも出ることがあるソーセージ"
+      }
+    ],
+    "relatedIds": [
+      "husmanskost",
+      "blodpudding"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Isterband",
+      "https://en.wikipedia.org/wiki/Sausage",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "発酵",
+      "燻製",
+      "酸味",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "スウェーデンの発酵ソーセージ",
+      "酸味のあるソーセージ",
+      "スモーランド料理",
+      "ディルポテトと食べる",
+      "燻製豚ソーセージ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/isterband/1.jpg"
+    ]
+  },
+  {
+    "id": "julskinka",
+    "name": "ユールフィンカ",
+    "kana": "ゆーるふぃんか",
+    "aliases": [
+      "ユールシンカ",
+      "スウェーデン風クリスマスハム",
+      "Julskinka"
+    ],
+    "englishName": "Swedish Christmas Ham",
+    "originalName": "Julskinka",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "スウェーデンのユールボードで中心的な冷肉料理。塩漬けハムを茹でるか焼き、卵、パン粉、マスタードを塗ってオーブンで焼き色をつける。薄切りにしてマスタードやパンと食べる。",
+    "menuDescription": "マスタードとパン粉で表面を香ばしく焼いたクリスマスハム。ユールボードの冷肉コーナーの主役で、薄切りにしてマスタード、チーズ、パン、ピクルスと合わせる。",
+    "whatComesOut": [
+      "大きなハムの薄切り",
+      "マスタードとパン粉の焼き色",
+      "マスタード",
+      "パン、チーズ、ピクルス"
+    ],
+    "tasteAndTexture": [
+      "ハムの塩気とうま味",
+      "マスタードの辛みと酸味",
+      "パン粉の香ばしさ",
+      "冷製でしっとり"
+    ],
+    "orderAdvice": "クリスマス時期の北欧ビュッフェなら定番。温かい主菜というより、冷製ハムとして少しずつ取るのがよい。",
+    "caution": "塩漬け豚肉。マスタード使用。通年メニューではなくクリスマス季節限定が多い。",
+    "similarItems": [
+      {
+        "id": "kottbullar",
+        "name": "ショットブッラル",
+        "difference": "どちらもユールボードに出る肉料理。ユールフィンカは冷製ハム、ショットブッラルは温かい肉団子"
+      },
+      {
+        "id": "janssons-frestelse",
+        "name": "ヤンソンの誘惑",
+        "difference": "ヤンソンの誘惑は温かいじゃがいもグラタン。ユールフィンカは冷製のクリスマスハム"
+      },
+      {
+        "id": "gravlax",
+        "name": "グラブラックス",
+        "difference": "どちらもユールボードの定番。グラブラックスは魚の冷菜、ユールフィンカは豚ハム"
+      }
+    ],
+    "relatedIds": [
+      "kottbullar",
+      "janssons-frestelse",
+      "gravlax",
+      "husmanskost"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Christmas_ham",
+      "https://en.wikipedia.org/wiki/Christmas_in_Sweden",
+      "https://en.wikipedia.org/wiki/Smorgasbord"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "スウェーデンのクリスマスハム",
+      "ユールボードの主役",
+      "マスタード付きハム",
+      "北欧クリスマス料理",
+      "薄切りハム"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/julskinka/1.jpg",
+      "/images/dishes/julskinka/2.jpg",
+      "/images/dishes/julskinka/3.jpg"
+    ]
+  },
+  {
+    "id": "kalops",
+    "name": "カロプス",
+    "kana": "かろぷす",
+    "aliases": [
+      "スウェーデン風ビーフシチュー",
+      "Kalops"
+    ],
+    "englishName": "Kalops",
+    "originalName": "Kalops",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "牛肉を玉ねぎ、にんじん、オールスパイス、ローリエなどとじっくり煮るスウェーデンの伝統的なシチュー。じゃがいもとビーツのピクルスを添える家庭料理。",
+    "menuDescription": "柔らかい牛肉の素朴な煮込み。オールスパイスの甘い香りがあり、茹でじゃがいもとビーツの酸味で食べる。",
+    "whatComesOut": [
+      "牛肉の煮込み",
+      "にんじんと玉ねぎ",
+      "茹でじゃがいも",
+      "ビーツのピクルス"
+    ],
+    "tasteAndTexture": [
+      "牛肉が柔らかい",
+      "オールスパイスの香り",
+      "濃すぎない家庭的な味",
+      "ビーツの酸味が合う"
+    ],
+    "orderAdvice": "北欧の牛肉煮込みを試したい時に選びやすい。寒い日の主菜向き。",
+    "similarItems": [
+      {
+        "id": "husmanskost",
+        "name": "ヒュスマンスコスト",
+        "difference": "カロプスはその中の牛肉煮込み"
+      },
+      {
+        "id": "beef-stroganoff",
+        "name": "ビーフストロガノフ",
+        "difference": "ビーフストロガノフはサワークリーム系。カロプスはスパイス香る澄んだ煮込み"
+      }
+    ],
+    "relatedIds": [
+      "husmanskost",
+      "beef-stroganoff"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Kalops",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "牛肉",
+      "野菜",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "スウェーデンの牛肉煮込み",
+      "北欧シチュー",
+      "オールスパイスの煮込み",
+      "ビーツ添え"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kalops/1.jpg"
+    ]
+  },
+  {
+    "id": "kaldolmar",
+    "name": "コールドルマル",
+    "kana": "こーるどるまる",
+    "aliases": [
+      "スウェーデン風ロールキャベツ",
+      "Kåldolmar"
+    ],
+    "englishName": "Swedish Cabbage Rolls",
+    "originalName": "Kåldolmar",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "ひき肉と米などをキャベツで包んで焼き煮するスウェーデン風ロールキャベツ。トルコのドルマ由来とされ、リンゴンベリーやソース、じゃがいもと食べる。",
+    "menuDescription": "甘く焼けたキャベツで肉だねを包んだ主菜。トマト味ではなく、北欧らしく肉汁系ソースとリンゴンベリーを添えることが多い。",
+    "whatComesOut": [
+      "キャベツで包んだ肉だね",
+      "グレービー系ソース",
+      "茹でじゃがいも",
+      "リンゴンベリー"
+    ],
+    "tasteAndTexture": [
+      "キャベツが甘い",
+      "肉だねは柔らかい",
+      "ソースでまろやか",
+      "リンゴンベリーの酸味"
+    ],
+    "orderAdvice": "ロールキャベツ好きなら入りやすい。北欧家庭料理のやさしい味。",
+    "similarItems": [
+      {
+        "id": "husmanskost",
+        "name": "ヒュスマンスコスト",
+        "difference": "コールドルマルは代表的な家庭料理の一つ"
+      },
+      {
+        "id": "kottbullar",
+        "name": "ショットブッラル",
+        "difference": "どちらもひき肉料理。コールドルマルはキャベツで包む"
+      }
+    ],
+    "relatedIds": [
+      "husmanskost",
+      "kottbullar"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/K%C3%A5ldolmar",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "牛肉",
+      "野菜",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "スウェーデン風ロールキャベツ",
+      "キャベツ包み",
+      "リンゴンベリー添え"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kaldolmar/1.jpg"
+    ]
+  },
+  {
+    "id": "kottsoppa-med-klimp",
+    "name": "ショットソッパ・メド・クリンプ",
+    "kana": "しょっとそっぱめどくりんぷ",
+    "aliases": [
+      "肉スープと団子",
+      "Köttsoppa med klimp"
+    ],
+    "englishName": "Meat Soup with Dumplings",
+    "originalName": "Köttsoppa med klimp",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "牛肉や根菜を煮たスウェーデンの肉スープに、小麦粉や牛乳で作るクリンプと呼ばれる団子を加える家庭料理。寒い季節の素朴な一皿。",
+    "menuDescription": "澄んだ肉と根菜のスープに柔らかい小麦団子が入る。派手さはないが、出汁と野菜の甘みで食べる温かい料理。",
+    "whatComesOut": [
+      "牛肉入りスープ",
+      "にんじんや根菜",
+      "小麦団子クリンプ",
+      "澄んだブイヨン"
+    ],
+    "tasteAndTexture": [
+      "出汁は穏やか",
+      "根菜の甘み",
+      "団子はもちっと柔らかい",
+      "体が温まる"
+    ],
+    "orderAdvice": "軽めの主菜スープ向き。北欧の家庭的な汁物を試したい時に。",
+    "similarItems": [
+      {
+        "id": "artsoppa",
+        "name": "アートソッパ",
+        "difference": "アートソッパは豆スープ。こちらは肉と根菜のスープ"
+      },
+      {
+        "id": "husmanskost",
+        "name": "ヒュスマンスコスト",
+        "difference": "肉スープ系の家庭料理"
+      }
+    ],
+    "relatedIds": [
+      "artsoppa",
+      "husmanskost"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "スープ",
+      "牛肉",
+      "野菜",
+      "小麦",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "スウェーデンの肉スープ",
+      "クリンプ入り",
+      "小麦団子スープ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kottsoppa-med-klimp/1.jpg",
+      "/images/dishes/kottsoppa-med-klimp/2.jpg",
+      "/images/dishes/kottsoppa-med-klimp/3.jpg"
+    ]
+  },
+  {
+    "id": "kroppkaka",
+    "name": "クロップカーカ",
+    "kana": "くろっぷかーか",
+    "aliases": [
+      "スウェーデン風じゃがいも団子",
+      "Kroppkaka"
+    ],
+    "englishName": "Swedish Potato Dumpling",
+    "originalName": "Kroppkaka",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "じゃがいも生地で豚肉や玉ねぎの具を包んで茹でるスウェーデンの団子料理。バター、クリーム、リンゴンベリージャムと食べる。",
+    "menuDescription": "大きめのじゃがいも団子。中に塩気のある豚肉が入り、リンゴンベリーの甘酸っぱさと合わせる。",
+    "whatComesOut": [
+      "丸いじゃがいも団子",
+      "豚肉と玉ねぎの具",
+      "溶かしバターまたはクリーム",
+      "リンゴンベリー"
+    ],
+    "tasteAndTexture": [
+      "外はもちっと重め",
+      "中は豚肉の塩気",
+      "じゃがいもの素朴な甘み",
+      "リンゴンベリーで軽くなる"
+    ],
+    "orderAdvice": "満腹感が強い。じゃがいも料理好き向け。",
+    "similarItems": [
+      {
+        "id": "palt",
+        "name": "パルト",
+        "difference": "どちらもじゃがいも団子。クロップカーカは茹でたじゃがいも生地を使うことが多い"
+      },
+      {
+        "id": "husmanskost",
+        "name": "ヒュスマンスコスト",
+        "difference": "地方色ある家庭料理"
+      }
+    ],
+    "relatedIds": [
+      "husmanskost"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Swedish_cuisine",
+      "https://en.wikipedia.org/wiki/Palt"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "煮込み",
+      "もちもち",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "スウェーデンのじゃがいも団子",
+      "豚肉入り団子",
+      "リンゴンベリーと食べる"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kroppkaka/1.jpg"
+    ]
+  },
+  {
+    "id": "lutfisk",
+    "name": "ルートフィスク",
+    "kana": "るーとふぃすく",
+    "aliases": [
+      "ルーテフィスク",
+      "Lutfisk"
+    ],
+    "englishName": "Lutefisk",
+    "originalName": "Lutfisk",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "干しダラなどの白身魚を灰汁で戻し、水でさらしてから加熱する北欧の伝統料理。スウェーデンではクリスマス料理として、白いソース、じゃがいも、グリーンピースなどと食べる。",
+    "menuDescription": "ゼリー状に柔らかく戻した白身魚。味は淡く、白ソースやじゃがいもと合わせる季節料理。",
+    "whatComesOut": [
+      "白い魚の切り身",
+      "白いソース",
+      "茹でじゃがいも",
+      "グリーンピース"
+    ],
+    "tasteAndTexture": [
+      "魚味は淡い",
+      "独特のぷるっとした食感",
+      "ソースでまろやか",
+      "香りに癖がある"
+    ],
+    "orderAdvice": "北欧クリスマス料理の体験枠。食感が独特なので少量から。",
+    "caution": "灰汁で処理した魚特有の香りとゼリー状の食感がある。",
+    "similarItems": [
+      {
+        "id": "surstromming",
+        "name": "シュールストレミング",
+        "difference": "シュールストレミングは発酵ニシン。ルートフィスクは灰汁戻しの干し魚"
+      },
+      {
+        "id": "julskinka",
+        "name": "ユールフィンカ",
+        "difference": "どちらもクリスマス料理。ユールフィンカは豚ハム"
+      }
+    ],
+    "relatedIds": [
+      "surstromming",
+      "julskinka"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Lutefisk",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "灰汁戻し魚",
+      "北欧クリスマス魚料理",
+      "ルーテフィスク"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/lutfisk/1.jpg",
+      "/images/dishes/lutfisk/2.jpg",
+      "/images/dishes/lutfisk/3.jpg"
+    ]
+  },
+  {
+    "id": "palt",
+    "name": "パルト",
+    "kana": "ぱると",
+    "aliases": [
+      "スウェーデン風じゃがいも団子",
+      "Palt"
+    ],
+    "englishName": "Palt",
+    "originalName": "Palt",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "生のすりおろしじゃがいもと小麦粉などで作るスウェーデン北部の団子料理。塩漬け豚肉を包んで茹で、バターやリンゴンベリーと食べる。",
+    "menuDescription": "大きく重めのじゃがいも団子。中に塩漬け豚肉が入り、バターとリンゴンベリーで食べる。",
+    "whatComesOut": [
+      "じゃがいも団子",
+      "塩漬け豚肉の具",
+      "バター",
+      "リンゴンベリー"
+    ],
+    "tasteAndTexture": [
+      "かなり腹持ちがよい",
+      "もちっと重い",
+      "豚肉の塩気",
+      "ベリーの酸味"
+    ],
+    "orderAdvice": "郷土色が強い満腹料理。軽食より主菜として。",
+    "similarItems": [
+      {
+        "id": "kroppkaka",
+        "name": "クロップカーカ",
+        "difference": "クロップカーカは南部寄り。パルトは北部で生じゃがいも生地が多い"
+      },
+      {
+        "id": "blodpalt",
+        "name": "ブロッドパルト",
+        "difference": "ブロッドパルトは血を混ぜるパルト"
+      }
+    ],
+    "relatedIds": [
+      "husmanskost",
+      "blodpudding"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Palt",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "煮込み",
+      "もちもち",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "北スウェーデンの団子",
+      "じゃがいも団子",
+      "豚肉入り団子"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/palt/1.jpg",
+      "/images/dishes/palt/2.jpg",
+      "/images/dishes/palt/3.jpg"
+    ]
+  },
+  {
+    "id": "pitepalt",
+    "name": "ピーテパルト",
+    "kana": "ぴーてぱると",
+    "aliases": [
+      "ピーテオ風パルト",
+      "Pitepalt"
+    ],
+    "englishName": "Pitepalt",
+    "originalName": "Pitepalt",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン",
+        "locality": "ピーテオ"
+      }
+    ],
+    "summary": "スウェーデン北部ピーテオ周辺のパルト。生じゃがいもと粉の生地に塩漬け豚肉を包んで茹で、バターとリンゴンベリーを添える。",
+    "menuDescription": "ピーテオ名物の大きなじゃがいも団子。塩気のある豚肉入りで、かなり満腹感がある。",
+    "whatComesOut": [
+      "大きいじゃがいも団子",
+      "塩漬け豚肉",
+      "バター",
+      "リンゴンベリー"
+    ],
+    "tasteAndTexture": [
+      "もちっと密度が高い",
+      "豚肉の塩気",
+      "じゃがいもの素朴な味",
+      "ベリーで甘酸っぱい"
+    ],
+    "orderAdvice": "パルトの代表格を試したい時に。半量でも重い場合あり。",
+    "similarItems": [
+      {
+        "id": "palt",
+        "name": "パルト",
+        "difference": "ピーテパルトはピーテオ周辺の代表的な地域版"
+      },
+      {
+        "id": "kroppkaka",
+        "name": "クロップカーカ",
+        "difference": "クロップカーカより北部色が強く重め"
+      }
+    ],
+    "relatedIds": [
+      "husmanskost"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Palt",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "煮込み",
+      "もちもち",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ピーテオ名物",
+      "北スウェーデンのパルト",
+      "豚肉入りじゃがいも団子"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pitepalt/1.jpg"
+    ]
+  },
+  {
+    "id": "blodpalt",
+    "name": "ブロッドパルト",
+    "kana": "ぶろっどぱると",
+    "aliases": [
+      "血入りパルト",
+      "Blodpalt"
+    ],
+    "englishName": "Blood Palt",
+    "originalName": "Blodpalt",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "血を混ぜた生地で作るパルトの一種。じゃがいもや粉に血を加え、豚肉を包むか混ぜて茹でる。バターやリンゴンベリーと食べる。",
+    "menuDescription": "黒っぽい血入りじゃがいも団子。鉄分のある濃い味ともちっと重い食感が特徴。",
+    "whatComesOut": [
+      "黒っぽい団子",
+      "豚肉",
+      "バター",
+      "リンゴンベリー"
+    ],
+    "tasteAndTexture": [
+      "鉄分を感じる",
+      "もちっと重い",
+      "豚肉の旨み",
+      "ベリーで甘酸っぱい"
+    ],
+    "orderAdvice": "血の料理に慣れた人向け。パルトよりさらに個性が強い。",
+    "caution": "血を使う料理。",
+    "similarItems": [
+      {
+        "id": "palt",
+        "name": "パルト",
+        "difference": "ブロッドパルトは血を混ぜる"
+      },
+      {
+        "id": "blodpudding",
+        "name": "ブループディン",
+        "difference": "ブループディンは型焼き。ブロッドパルトは団子"
+      }
+    ],
+    "relatedIds": [
+      "blodpudding",
+      "blodkorv",
+      "husmanskost"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Palt",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "煮込み",
+      "もちもち",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "血入り団子",
+      "黒いパルト",
+      "北欧の血料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "paltbrod",
+    "name": "パルトブロード",
+    "kana": "ぱるとぶろーど",
+    "aliases": [
+      "血入りパン",
+      "Paltbröd"
+    ],
+    "englishName": "Blood Bread",
+    "originalName": "Paltbröd",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "動物の血を混ぜた伝統的なスウェーデンのパン。乾燥したものを牛乳や煮汁で戻し、揚げた豚肉やベシャメル系ソースと食べることがある。",
+    "menuDescription": "黒っぽい血入りパンを戻して食べる古い家庭料理。豚肉や白いソースと合わせると重めの主菜になる。",
+    "whatComesOut": [
+      "戻した黒いパン",
+      "揚げ豚肉",
+      "白いソース",
+      "じゃがいも"
+    ],
+    "tasteAndTexture": [
+      "鉄分を感じる",
+      "パンは柔らかく戻る",
+      "豚肉でこってり",
+      "素朴で重い"
+    ],
+    "orderAdvice": "珍しい伝統料理枠。血の料理が平気なら。",
+    "caution": "血を使うパン。",
+    "similarItems": [
+      {
+        "id": "blodpudding",
+        "name": "ブループディン",
+        "difference": "ブループディンは型焼きの料理。パルトブロードは血入りパン"
+      },
+      {
+        "id": "blodpalt",
+        "name": "ブロッドパルト",
+        "difference": "ブロッドパルトは団子。パルトブロードはパン"
+      }
+    ],
+    "relatedIds": [
+      "blodpudding",
+      "blodkorv"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Swedish_cuisine",
+      "https://en.wikipedia.org/wiki/Palt"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "小麦",
+      "焼き物",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "血入りパン",
+      "スウェーデンの黒いパン",
+      "古い家庭料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/paltbrod/1.jpg",
+      "/images/dishes/paltbrod/2.jpg",
+      "/images/dishes/paltbrod/3.jpg"
+    ]
+  },
+  {
+    "id": "leverpalt",
+    "name": "レーヴェルパルト",
+    "kana": "れーうぇるぱると",
+    "aliases": [
+      "レバーパルト",
+      "Leverpalt"
+    ],
+    "englishName": "Liver Palt",
+    "originalName": "Leverpalt",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "肝臓を混ぜたパルトの一種。じゃがいもと粉の団子生地にレバーを加え、茹でてバターやリンゴンベリーと食べる。",
+    "menuDescription": "レバー風味のじゃがいも団子。通常のパルトより野性味と鉄分感が強い。",
+    "whatComesOut": [
+      "レバー入り団子",
+      "バター",
+      "リンゴンベリー",
+      "豚肉の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "レバーのコク",
+      "鉄分感",
+      "もちっと重い",
+      "ベリーで軽くなる"
+    ],
+    "orderAdvice": "レバー好き向け。通常のパルトより癖がある。",
+    "caution": "内臓の香りがある。",
+    "similarItems": [
+      {
+        "id": "palt",
+        "name": "パルト",
+        "difference": "レーヴェルパルトはレバーを混ぜる"
+      },
+      {
+        "id": "blodpalt",
+        "name": "ブロッドパルト",
+        "difference": "ブロッドパルトは血、レーヴェルパルトは肝臓が主な個性"
+      }
+    ],
+    "relatedIds": [
+      "husmanskost",
+      "blodpudding"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Palt",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "煮込み",
+      "もちもち",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "レバー入りパルト",
+      "内臓団子",
+      "北欧のレバー料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "blabarspalt",
+    "name": "ブローベルスパルト",
+    "kana": "ぶろーべるすぱると",
+    "aliases": [
+      "ブルーベリーパルト",
+      "Blåbärspalt"
+    ],
+    "englishName": "Blueberry Palt",
+    "originalName": "Blåbärspalt",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "ブルーベリーを入れた甘いパルト。じゃがいもまたは粉の団子生地でブルーベリーを包んで茹で、バター、砂糖、クリームなどと食べる。",
+    "menuDescription": "紫色のブルーベリー入り団子。食事というより素朴な甘い郷土デザートとして出る。",
+    "whatComesOut": [
+      "ブルーベリー入り団子",
+      "溶かしバター",
+      "砂糖",
+      "クリーム"
+    ],
+    "tasteAndTexture": [
+      "ベリーの酸味と甘み",
+      "もちっと重い",
+      "バターでこってり",
+      "素朴な甘さ"
+    ],
+    "orderAdvice": "北欧ベリー菓子や郷土デザートが好きなら。",
+    "similarItems": [
+      {
+        "id": "palt",
+        "name": "パルト",
+        "difference": "パルトは豚肉入り主菜が多い。ブローベルスパルトは甘いベリー入り"
+      },
+      {
+        "id": "pancake",
+        "name": "パンケーキ",
+        "difference": "パンケーキより団子状で重い"
+      }
+    ],
+    "relatedIds": [
+      "husmanskost"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Palt",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "デザート",
+      "野菜",
+      "煮込み",
+      "甘み",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "ブルーベリー団子",
+      "甘いパルト",
+      "北欧ベリーデザート"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "pannkaka",
+    "name": "パンカーカ",
+    "kana": "ぱんかーか",
+    "aliases": [
+      "スウェーデン風パンケーキ",
+      "Pannkaka"
+    ],
+    "englishName": "Swedish Pancake",
+    "originalName": "Pannkaka",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "薄く焼くスウェーデンのパンケーキ。クレープに近い生地で、ジャムとホイップクリームを添える。木曜の豆スープの後に食べる習慣でも知られる。",
+    "menuDescription": "薄いパンケーキを何枚か重ね、ジャムやクリームで食べる。食後デザートにも軽食にもなる。",
+    "whatComesOut": [
+      "薄いパンケーキ",
+      "ジャム",
+      "ホイップクリーム",
+      "粉砂糖"
+    ],
+    "tasteAndTexture": [
+      "薄く柔らかい",
+      "卵と牛乳の優しい味",
+      "ジャムで甘酸っぱい",
+      "クリームでまろやか"
+    ],
+    "orderAdvice": "北欧デザートの入口。アートソッパとセットなら伝統的。",
+    "similarItems": [
+      {
+        "id": "crepe",
+        "name": "クレープ",
+        "difference": "パンカーカはスウェーデンの家庭的な薄焼きパンケーキ"
+      },
+      {
+        "id": "artsoppa",
+        "name": "アートソッパ",
+        "difference": "木曜の豆スープ後に食べる組み合わせが定番"
+      }
+    ],
+    "relatedIds": [
+      "crepe",
+      "artsoppa"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pancake",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "デザート",
+      "小麦",
+      "卵",
+      "焼き物",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "スウェーデン風パンケーキ",
+      "薄いパンケーキ",
+      "ジャムとクリーム"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pannkaka/1.jpg",
+      "/images/dishes/pannkaka/2.jpg",
+      "/images/dishes/pannkaka/3.jpg"
+    ]
+  },
+  {
+    "id": "plattar",
+    "name": "プレッタル",
+    "kana": "ぷれったる",
+    "aliases": [
+      "小さなスウェーデンパンケーキ",
+      "Plättar"
+    ],
+    "englishName": "Small Swedish Pancakes",
+    "originalName": "Plättar",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "小さな丸いスウェーデン風パンケーキ。専用のくぼみ付き鉄板で焼くことが多く、ジャムやクリームを添える。",
+    "menuDescription": "一口サイズに近い小さなパンケーキ。子ども向けやデザートとして出やすい。",
+    "whatComesOut": [
+      "小さな丸いパンケーキ",
+      "ジャム",
+      "ホイップクリーム",
+      "ベリー"
+    ],
+    "tasteAndTexture": [
+      "柔らかい",
+      "卵と牛乳の甘み",
+      "ジャムで甘酸っぱい",
+      "食べやすい"
+    ],
+    "orderAdvice": "パンカーカより小さくシェアしやすい。軽い甘味に。",
+    "similarItems": [
+      {
+        "id": "pannkaka",
+        "name": "パンカーカ",
+        "difference": "プレッタルは小型版。パンカーカは大きく薄い"
+      },
+      {
+        "id": "crepe",
+        "name": "クレープ",
+        "difference": "クレープより小さく家庭的"
+      }
+    ],
+    "relatedIds": [
+      "crepe",
+      "artsoppa"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pancake",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "デザート",
+      "小麦",
+      "卵",
+      "焼き物",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "小さいパンケーキ",
+      "スウェーデンのミニパンケーキ",
+      "ジャムと食べる"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/plattar/1.jpg",
+      "/images/dishes/plattar/2.jpg"
+    ]
+  },
+  {
+    "id": "inlagd-sill",
+    "name": "インラグド・シル",
+    "kana": "いんらぐどしる",
+    "aliases": [
+      "酢漬けニシン",
+      "Pickled Herring",
+      "Inlagd sill"
+    ],
+    "englishName": "Pickled Herring",
+    "originalName": "Inlagd sill",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "ニシンを酢、砂糖、塩、玉ねぎ、香辛料などで漬けたスウェーデンの冷菜。ミッドサマー、クリスマス、イースターなどの食卓で定番。",
+    "menuDescription": "甘酸っぱい酢漬けニシン。玉ねぎやディル、マスタード、クリーム系など味の種類が多く、じゃがいもや硬いパンと食べる。",
+    "whatComesOut": [
+      "ニシンの酢漬け",
+      "玉ねぎやディル",
+      "茹でじゃがいも",
+      "クリスプブレッド"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい",
+      "魚の旨み",
+      "身は締まって柔らかい",
+      "玉ねぎの香り"
+    ],
+    "orderAdvice": "北欧の前菜定番。魚の酢漬けが好きなら外しにくい。",
+    "similarItems": [
+      {
+        "id": "surstromming",
+        "name": "シュールストレミング",
+        "difference": "シュールストレミングは発酵臭が強い。インラグド・シルは甘酢漬けで食べやすい"
+      },
+      {
+        "id": "gravlax",
+        "name": "グラブラックス",
+        "difference": "グラブラックスは鮭、インラグド・シルはニシン"
+      }
+    ],
+    "relatedIds": [
+      "surstromming",
+      "gravlax"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pickled_herring",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "前菜",
+      "魚介",
+      "マリネ",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "酢漬けニシン",
+      "スウェーデンのニシン",
+      "ミッドサマー料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/inlagd-sill/1.jpg",
+      "/images/dishes/inlagd-sill/2.jpg",
+      "/images/dishes/inlagd-sill/3.jpg"
+    ]
+  },
+  {
+    "id": "polsa",
+    "name": "ポルサ",
+    "kana": "ぽるさ",
+    "aliases": [
+      "内臓ミンチ煮",
+      "Pölsa"
+    ],
+    "englishName": "Pölsa",
+    "originalName": "Pölsa",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "細かく刻んだ肉や内臓、玉ねぎ、大麦などを煮るスウェーデンの伝統料理。じゃがいも、目玉焼き、ビーツのピクルスと食べることが多い。",
+    "menuDescription": "柔らかい肉と内臓のミンチ煮。見た目は地味だが、塩気と旨みがあり、ビーツや卵で食べる家庭料理。",
+    "whatComesOut": [
+      "肉と内臓の細かい煮込み",
+      "茹でじゃがいも",
+      "目玉焼き",
+      "ビーツのピクルス"
+    ],
+    "tasteAndTexture": [
+      "内臓のコク",
+      "大麦で少し粒感",
+      "塩気がある",
+      "ビーツの酸味が合う"
+    ],
+    "orderAdvice": "内臓料理好き向け。スウェーデンの渋い家庭料理を試したい時に。",
+    "caution": "内臓の香りと柔らかいミンチ状の見た目がある。",
+    "similarItems": [
+      {
+        "id": "blodpudding",
+        "name": "ブループディン",
+        "difference": "ブループディンは血のプディング。ポルサは内臓ミンチ煮"
+      },
+      {
+        "id": "husmanskost",
+        "name": "ヒュスマンスコスト",
+        "difference": "ポルサは家庭料理の中でも素朴で古風"
+      }
+    ],
+    "relatedIds": [
+      "husmanskost",
+      "blodpudding"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/P%C3%B6lsa",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "スウェーデンの内臓料理",
+      "肉ミンチ煮",
+      "ビーツ添え"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/polsa/1.jpg",
+      "/images/dishes/polsa/2.jpg",
+      "/images/dishes/polsa/3.png"
+    ]
+  },
+  {
+    "id": "raggmunk",
+    "name": "ラッグムンク",
+    "kana": "らっぐむんく",
+    "aliases": [
+      "スウェーデン風じゃがいもパンケーキ",
+      "Raggmunk"
+    ],
+    "englishName": "Swedish Potato Pancake",
+    "originalName": "Raggmunk",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "すりおろしじゃがいもをパンケーキ生地に混ぜて焼くスウェーデン料理。揚げ焼き豚肉とリンゴンベリーを添える定番が多い。",
+    "menuDescription": "じゃがいも入りの香ばしい薄焼き。カリッと焼いて、塩気のある豚肉と甘酸っぱいリンゴンベリーで食べる。",
+    "whatComesOut": [
+      "じゃがいもパンケーキ",
+      "揚げ焼き豚肉",
+      "リンゴンベリー",
+      "バター"
+    ],
+    "tasteAndTexture": [
+      "外は香ばしい",
+      "中はもちっと柔らかい",
+      "豚肉の塩気",
+      "ベリーの甘酸っぱさ"
+    ],
+    "orderAdvice": "じゃがいも料理と豚肉が好きならかなり食べやすい。ランチ主菜向き。",
+    "similarItems": [
+      {
+        "id": "pannkaka",
+        "name": "パンカーカ",
+        "difference": "パンカーカは甘い薄焼き。ラッグムンクはじゃがいも入り主菜"
+      },
+      {
+        "id": "pyttipanna",
+        "name": "ピッティパンナ",
+        "difference": "どちらもじゃがいも系家庭料理。ピッティパンナは角切り炒め"
+      }
+    ],
+    "relatedIds": [
+      "pyttipanna",
+      "husmanskost"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Potato_pancake",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "スウェーデンのじゃがいもパンケーキ",
+      "豚肉とリンゴンベリー",
+      "ラグムンク"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/raggmunk/1.jpg",
+      "/images/dishes/raggmunk/2.jpg",
+      "/images/dishes/raggmunk/3.jpg"
+    ]
+  },
+  {
+    "id": "korv-stroganoff",
+    "name": "コルブストロガノフ",
+    "kana": "こるぶすとろがのふ",
+    "aliases": [
+      "ソーセージストロガノフ",
+      "Korv Stroganoff"
+    ],
+    "englishName": "Sausage Stroganoff",
+    "originalName": "Korv Stroganoff",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "ファールコルブなどのソーセージを細切りにし、玉ねぎ、トマト、クリームなどで煮るスウェーデンの家庭料理。ビーフストロガノフを庶民的にした料理として親しまれる。",
+    "menuDescription": "ソーセージをクリームトマト系ソースで煮た一皿。米やパスタと食べる、子どもにも人気の家庭料理。",
+    "whatComesOut": [
+      "細切りソーセージ",
+      "クリームトマトソース",
+      "玉ねぎ",
+      "米またはパスタ"
+    ],
+    "tasteAndTexture": [
+      "マイルドで甘みがある",
+      "ソーセージの塩気",
+      "クリームでこってり",
+      "トマトの軽い酸味"
+    ],
+    "orderAdvice": "ビーフストロガノフより気軽。ファールコルブ料理を試すなら入口向き。",
+    "similarItems": [
+      {
+        "id": "beef-stroganoff",
+        "name": "ビーフストロガノフ",
+        "difference": "ビーフストロガノフは牛肉。コルブストロガノフはソーセージ"
+      },
+      {
+        "id": "falukorv",
+        "name": "ファールコルブ",
+        "difference": "ファールコルブを使う代表料理"
+      }
+    ],
+    "relatedIds": [
+      "beef-stroganoff",
+      "falukorv",
+      "husmanskost"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Beef_Stroganoff",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "煮込み",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ソーセージのストロガノフ",
+      "ファールコルブ料理",
+      "スウェーデン家庭料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "stekt-flask-och-bruna-bonor",
+    "name": "ステークト・フレスク・オック・ブルナ・ボーナ",
+    "kana": "すてーくとふれすくおっくぶるなぼーな",
+    "aliases": [
+      "揚げ焼き豚と茶色豆",
+      "Stekt fläsk och bruna bönor"
+    ],
+    "englishName": "Fried Pork with Brown Beans",
+    "originalName": "Stekt fläsk och bruna bönor",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "塩漬けまたは燻製豚バラをカリッと焼き、甘酸っぱく煮た茶色い豆を添えるスウェーデンの伝統料理。木曜料理としても知られる。",
+    "menuDescription": "厚めの豚バラを香ばしく焼き、甘酸っぱい豆煮と食べる。塩気、脂、豆の甘みが強い満腹料理。",
+    "whatComesOut": [
+      "焼いた豚バラ肉",
+      "茶色豆の甘酸っぱい煮込み",
+      "茹でじゃがいも",
+      "シロップや酢の風味"
+    ],
+    "tasteAndTexture": [
+      "豚肉は塩気と脂が強い",
+      "豆は甘酸っぱい",
+      "香ばしい",
+      "重め"
+    ],
+    "orderAdvice": "豚肉と豆の濃い家庭料理が食べたい時に。軽い食事ではない。",
+    "similarItems": [
+      {
+        "id": "raggmunk",
+        "name": "ラッグムンク",
+        "difference": "どちらも豚肉付き。こちらは豆煮が主な相棒"
+      },
+      {
+        "id": "husmanskost",
+        "name": "ヒュスマンスコスト",
+        "difference": "古典的な家庭料理の一つ"
+      }
+    ],
+    "relatedIds": [
+      "husmanskost",
+      "raggmunk"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "豆類",
+      "焼き物",
+      "甘み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "豚バラと茶色豆",
+      "スウェーデンの豆料理",
+      "bruna bonor"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/stekt-flask-och-bruna-bonor/1.jpg",
+      "/images/dishes/stekt-flask-och-bruna-bonor/2.jpg",
+      "/images/dishes/stekt-flask-och-bruna-bonor/3.jpg"
+    ]
+  },
+  {
+    "id": "stekt-flask-med-loksas-och-potatis",
+    "name": "ステークト・フレスク・メド・ロクソース・オック・ポタティス",
+    "kana": "すてーくとふれすくめどろくそーすおっくぽたてぃす",
+    "aliases": [
+      "揚げ焼き豚と玉ねぎソースとじゃがいも",
+      "Stekt fläsk med löksås och potatis"
+    ],
+    "englishName": "Fried Pork with Onion Sauce and Potatoes",
+    "originalName": "Stekt fläsk med löksås och potatis",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "カリッと焼いた豚バラ肉に、玉ねぎ入りのクリームソースと茹でじゃがいもを合わせるスウェーデンの家庭料理。",
+    "menuDescription": "塩気のある豚バラ焼きに、甘い玉ねぎクリームソースをかける定食風の一皿。じゃがいも付きで重め。",
+    "whatComesOut": [
+      "焼いた豚バラ肉",
+      "玉ねぎクリームソース",
+      "茹でじゃがいも",
+      "パセリ"
+    ],
+    "tasteAndTexture": [
+      "豚肉はカリッと脂っぽい",
+      "ソースは甘くまろやか",
+      "じゃがいもで満腹感",
+      "香ばしい"
+    ],
+    "orderAdvice": "豚肉とクリームソースが好きなら選びやすい。北欧の定食感が強い。",
+    "similarItems": [
+      {
+        "id": "stekt-flask-och-bruna-bonor",
+        "name": "ステークト・フレスク・オック・ブルナ・ボーナ",
+        "difference": "こちらは玉ねぎソースとじゃがいも、豆煮ではない"
+      },
+      {
+        "id": "raggmunk",
+        "name": "ラッグムンク",
+        "difference": "ラッグムンクはじゃがいもパンケーキを合わせる"
+      }
+    ],
+    "relatedIds": [
+      "husmanskost",
+      "raggmunk"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "焼き物",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "豚バラ玉ねぎソース",
+      "スウェーデン定食",
+      "じゃがいも付き豚肉"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "prinskorv",
+    "name": "プリンスコルブ",
+    "kana": "ぷりんすこるぶ",
+    "aliases": [
+      "小型ソーセージ",
+      "Prinskorv"
+    ],
+    "englishName": "Prinskorv",
+    "originalName": "Prinskorv",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "小さなスウェーデンのソーセージ。端に切れ目を入れて焼くことが多く、クリスマスのユールボードや家庭料理で食べられる。",
+    "menuDescription": "小ぶりで食べやすいソーセージ。焼いて盛り合わせやビュッフェに並び、マスタードやじゃがいもと合う。",
+    "whatComesOut": [
+      "小型ソーセージ",
+      "焼いた切れ目",
+      "マスタード",
+      "ユールボードの盛り合わせ"
+    ],
+    "tasteAndTexture": [
+      "マイルドな肉味",
+      "皮がぷりっとする",
+      "焼くと香ばしい",
+      "子どもにも食べやすい"
+    ],
+    "orderAdvice": "北欧ビュッフェで少しずつ試しやすい。ユールボードの定番。",
+    "similarItems": [
+      {
+        "id": "falukorv",
+        "name": "ファールコルブ",
+        "difference": "ファールコルブは太い家庭用ソーセージ。プリンスコルブは小型"
+      },
+      {
+        "id": "julskinka",
+        "name": "ユールフィンカ",
+        "difference": "どちらもユールボードの肉料理"
+      }
+    ],
+    "relatedIds": [
+      "falukorv",
+      "julskinka",
+      "husmanskost"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Prinskorv",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "小さいスウェーデンソーセージ",
+      "ユールボードのソーセージ",
+      "プリンスソーセージ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/prinskorv/1.jpg",
+      "/images/dishes/prinskorv/2.jpg",
+      "/images/dishes/prinskorv/3.jpg"
+    ]
+  },
+  {
+    "id": "flaskkorv",
+    "name": "フレスクコルブ",
+    "kana": "ふれすくこるぶ",
+    "aliases": [
+      "豚肉ソーセージ",
+      "Fläskkorv"
+    ],
+    "englishName": "Pork Sausage",
+    "originalName": "Fläskkorv",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "豚肉を中心に作るスウェーデンのソーセージ。茹でる、焼く、煮込みに入れるなど家庭料理で使われ、じゃがいもやマスタードと相性がよい。",
+    "menuDescription": "素朴な豚肉ソーセージ。マイルドな味で、茹でじゃがいもやマスタード、キャベツ料理と合わせる。",
+    "whatComesOut": [
+      "豚肉ソーセージ",
+      "茹でまたは焼き",
+      "じゃがいも",
+      "マスタード"
+    ],
+    "tasteAndTexture": [
+      "豚肉の旨み",
+      "塩気は中程度",
+      "食感は柔らかい",
+      "香辛料は控えめ"
+    ],
+    "orderAdvice": "派手さより家庭的な肉料理。ソーセージ好きなら安心。",
+    "similarItems": [
+      {
+        "id": "falukorv",
+        "name": "ファールコルブ",
+        "difference": "ファールコルブは太い名物ソーセージ。フレスクコルブは豚肉ソーセージ全般に近い"
+      },
+      {
+        "id": "isterband",
+        "name": "イスターバンド",
+        "difference": "イスターバンドは発酵酸味と燻製香が強い"
+      }
+    ],
+    "relatedIds": [
+      "falukorv",
+      "isterband",
+      "husmanskost"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Sausage",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "煮込み",
+      "焼き物",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "スウェーデンの豚肉ソーセージ",
+      "フレスクコルブ",
+      "家庭用ソーセージ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/flaskkorv/1.jpg",
+      "/images/dishes/flaskkorv/2.jpg",
+      "/images/dishes/flaskkorv/3.jpg"
+    ]
+  },
+  {
+    "id": "smorgastarta",
+    "name": "スモルゴストータ",
+    "kana": "すもるごすとーた",
+    "aliases": [
+      "サンドイッチケーキ",
+      "Smörgåstårta"
+    ],
+    "englishName": "Sandwich Cake",
+    "originalName": "Smörgåstårta",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "パンを層にして、マヨネーズやクリームチーズ、卵、海老、サーモン、ハム、野菜などで飾るスウェーデンの塩味ケーキ。祝宴やパーティーで出る。",
+    "menuDescription": "見た目はケーキだが味はサンドイッチ。クリーム状のフィリングと魚介やハムの飾りが重なる冷製料理。",
+    "whatComesOut": [
+      "層状のパン",
+      "マヨネーズ系クリーム",
+      "海老やサーモンまたはハム",
+      "卵と野菜の飾り"
+    ],
+    "tasteAndTexture": [
+      "クリーミー",
+      "冷製でしっとり",
+      "魚介やハムの塩気",
+      "見た目が華やか"
+    ],
+    "orderAdvice": "パーティー料理として映える。甘いケーキではない点に注意。",
+    "caution": "マヨネーズ、乳製品、魚介、卵を使うことが多い。",
+    "similarItems": [
+      {
+        "id": "smorgasbord",
+        "name": "スモーガスボード",
+        "difference": "スモーガスボードはビュッフェ形式。スモルゴストータはケーキ型サンドイッチ"
+      },
+      {
+        "id": "gravlax",
+        "name": "グラブラックス",
+        "difference": "グラブラックスは具材として使われることがある"
+      }
+    ],
+    "relatedIds": [
+      "gravlax",
+      "julskinka"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Sm%C3%B6rg%C3%A5st%C3%A5rta",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "魚介",
+      "卵",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "サンドイッチケーキ",
+      "塩味のケーキ",
+      "北欧パーティー料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/smorgastarta/1.jpg",
+      "/images/dishes/smorgastarta/2.jpg",
+      "/images/dishes/smorgastarta/3.jpg"
+    ]
+  },
+  {
+    "id": "stekt-stromming",
+    "name": "ステークトストレミング",
+    "kana": "すてーくとすとれみんぐ",
+    "aliases": [
+      "揚げ焼きバルトニシン",
+      "Stekt strömming"
+    ],
+    "englishName": "Fried Baltic Herring",
+    "originalName": "Stekt strömming",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "バルトニシンにパン粉やライ麦粉をつけて揚げ焼きするスウェーデンの魚料理。マッシュポテト、リンゴンベリー、きゅうりの酢漬けなどと食べる。",
+    "menuDescription": "小さなニシンを香ばしく焼いた料理。外はカリッと、中は柔らかく、じゃがいもやベリーと合わせる。",
+    "whatComesOut": [
+      "揚げ焼きニシン",
+      "マッシュポテト",
+      "リンゴンベリー",
+      "きゅうりの酢漬け"
+    ],
+    "tasteAndTexture": [
+      "魚の旨み",
+      "衣が香ばしい",
+      "身は柔らかい",
+      "ベリーとピクルスで軽い"
+    ],
+    "orderAdvice": "ニシン料理の中では食べやすい加熱料理。発酵系が苦手でも試しやすい。",
+    "similarItems": [
+      {
+        "id": "surstromming",
+        "name": "シュールストレミング",
+        "difference": "シュールストレミングは発酵。ステークトストレミングは揚げ焼き"
+      },
+      {
+        "id": "inlagd-sill",
+        "name": "インラグド・シル",
+        "difference": "インラグド・シルは酢漬け冷菜"
+      }
+    ],
+    "relatedIds": [
+      "surstromming",
+      "gravlax"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Fried_herring",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "魚介",
+      "焼き物",
+      "香ばしい",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "揚げ焼きニシン",
+      "バルトニシン料理",
+      "スウェーデンの魚フライ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "grisfotter",
+    "name": "グリスフェッテル",
+    "kana": "ぐりすふぇってる",
+    "aliases": [
+      "豚足",
+      "Grisfötter"
+    ],
+    "englishName": "Pig's Trotters",
+    "originalName": "Grisfötter",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "豚足を塩茹でまたは酢漬けにするスウェーデンの伝統料理。ゼラチン質が多く、クリスマス時期の冷菜として食べられることがある。",
+    "menuDescription": "豚足を柔らかく煮た冷菜または温菜。ぷるっとした皮とゼラチン質をマスタードや酢で食べる。",
+    "whatComesOut": [
+      "豚足",
+      "ゼラチン質の皮",
+      "マスタード",
+      "酢漬け野菜"
+    ],
+    "tasteAndTexture": [
+      "ぷるぷる",
+      "脂とコラーゲン感",
+      "塩気",
+      "酢やマスタードで締まる"
+    ],
+    "orderAdvice": "豚足やゼラチン質が好きな人向け。北欧の古い季節料理を試す枠。",
+    "caution": "骨と皮、ゼラチン質が中心。",
+    "similarItems": [
+      {
+        "id": "julskinka",
+        "name": "ユールフィンカ",
+        "difference": "どちらも豚肉の季節料理。ユールフィンカはハム、グリスフェッテルは豚足"
+      },
+      {
+        "id": "pork",
+        "name": "豚肉",
+        "difference": "豚足部位の料理"
+      }
+    ],
+    "relatedIds": [
+      "julskinka",
+      "husmanskost"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "豚肉",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "スウェーデンの豚足",
+      "クリスマスの豚足",
+      "ゼラチン質の料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/grisfotter/1.jpg",
+      "/images/dishes/grisfotter/2.jpg",
+      "/images/dishes/grisfotter/3.jpg"
+    ]
+  },
+  {
+    "id": "hasselbackspotatis",
+    "name": "ハッセルバックスポタティス",
+    "kana": "はっせるばっくすぽたてぃす",
+    "aliases": [
+      "ハッセルバックポテト",
+      "Hasselbackspotatis"
+    ],
+    "englishName": "Hasselback Potatoes",
+    "originalName": "Hasselbackspotatis",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "じゃがいもに細かく切れ目を入れ、バターやパン粉をのせてオーブンで焼くスウェーデン発祥の付け合わせ。外は香ばしく中はほくほくに仕上がる。",
+    "menuDescription": "蛇腹状に切った焼きじゃがいも。表面がカリッとし、バターの香りが強い。肉料理の付け合わせに多い。",
+    "whatComesOut": [
+      "切れ目入りの焼きじゃがいも",
+      "バター",
+      "パン粉またはチーズ",
+      "ハーブ"
+    ],
+    "tasteAndTexture": [
+      "外はサクッと香ばしい",
+      "中はほくほく",
+      "バターでこってり",
+      "見た目が華やか"
+    ],
+    "orderAdvice": "付け合わせでも存在感あり。じゃがいも好きなら選びやすい。",
+    "similarItems": [
+      {
+        "id": "french-fries",
+        "name": "フライドポテト",
+        "difference": "フライドポテトは揚げ物。ハッセルバックはオーブン焼き"
+      },
+      {
+        "id": "raggmunk",
+        "name": "ラッグムンク",
+        "difference": "ラッグムンクはすりおろしじゃがいもパンケーキ"
+      }
+    ],
+    "relatedIds": [
+      "french-fries",
+      "raggmunk"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Hasselback_potatoes",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "野菜",
+      "焼き物",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ハッセルバックポテト",
+      "蛇腹じゃがいも",
+      "スウェーデン発祥ポテト"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hasselbackspotatis/1.jpg"
+    ]
+  },
+  {
+    "id": "flygande-jakob",
+    "name": "空飛ぶヤコブさん",
+    "kana": "そらとぶやこぶさん",
+    "aliases": [
+      "フリガンデ・ヤコブ",
+      "Flygande Jakob",
+      "Flying Jacob"
+    ],
+    "englishName": "Flying Jacob",
+    "originalName": "Flygande Jakob",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "鶏肉、バナナ、ホイップクリーム、チリソース、ベーコン、ピーナッツをオーブンで焼く1970年代生まれのスウェーデン料理。甘塩っぱくクリーミーな家庭的キャセロール。",
+    "menuDescription": "鶏肉とバナナをクリームチリソースで焼いた変わり種グラタン。ベーコンとピーナッツの塩気、バナナの甘みが同居する。",
+    "whatComesOut": [
+      "鶏肉のクリーム焼き",
+      "バナナ",
+      "ベーコン",
+      "ピーナッツ",
+      "米の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "甘塩っぱい",
+      "クリーミー",
+      "バナナで甘い",
+      "ピーナッツが香ばしい"
+    ],
+    "orderAdvice": "珍しい昭和レトロならぬ北欧レトロ料理枠。甘い主菜が平気なら楽しい。",
+    "caution": "バナナ、乳製品、ナッツを使う。",
+    "similarItems": [
+      {
+        "id": "gratin",
+        "name": "グラタン",
+        "difference": "グラタンに近いが、バナナとチリソースが入る甘塩っぱい鶏料理"
+      },
+      {
+        "id": "husmanskost",
+        "name": "ヒュスマンスコスト",
+        "difference": "古典より新しい家庭料理"
+      }
+    ],
+    "relatedIds": [
+      "gratin",
+      "husmanskost"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Flying_Jacob",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "主菜",
+      "鶏肉",
+      "ナッツ",
+      "焼き物",
+      "クリーミー",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "フライングヤコブ",
+      "バナナ入り鶏グラタン",
+      "スウェーデンの変わり種料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/flygande-jakob/1.jpg",
+      "/images/dishes/flygande-jakob/2.jpg",
+      "/images/dishes/flygande-jakob/3.jpg"
+    ]
   }
 ]
