@@ -33,7 +33,7 @@ export default function DishesPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <Breadcrumb items={[{ label: "料理一覧" }]} />
+      <Breadcrumb items={[{ label: "料理一覧", href: "/dishes/" }]} />
       <div style={{ marginBottom: "1.5rem" }}>
         <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}>
           料理・食材図鑑 一覧

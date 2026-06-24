@@ -65,7 +65,12 @@ export default async function CountryPage({
   return (
     <div>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-      <Breadcrumb items={[{ label: "国・地域", href: "/countries/" }, { label: item.label }]} />
+      <Breadcrumb
+        items={[
+          { label: "国・地域", href: "/countries/" },
+          { label: item.label, href: `/countries/${item.id}/` },
+        ]}
+      />
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}>
         {item.label}の料理一覧
       </h1>

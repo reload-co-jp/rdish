@@ -62,7 +62,7 @@ export default function TagsPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <Breadcrumb items={[{ label: "タグ", href: "/tags/" }, { label: "一覧" }]} />
+      <Breadcrumb items={[{ label: "タグ", href: "/tags/" }]} />
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}>
         タグから探す
       </h1>

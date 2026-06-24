@@ -44,7 +44,7 @@ export default function ReversePage() {
 
   return (
     <div>
-      <Breadcrumb items={[{ label: "逆引き検索" }]} />
+      <Breadcrumb items={[{ label: "逆引き検索", href: "/reverse/" }]} />
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}>
         逆引き検索
       </h1>

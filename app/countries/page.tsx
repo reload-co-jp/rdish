@@ -96,9 +96,7 @@ export default function CountriesPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <Breadcrumb
-        items={[{ label: "国・地域", href: "/countries/" }, { label: "一覧" }]}
-      />
+      <Breadcrumb items={[{ label: "国・地域", href: "/countries/" }]} />
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}>
         国・地域から探す
       </h1>

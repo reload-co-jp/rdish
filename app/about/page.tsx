@@ -48,7 +48,7 @@ export default function AboutPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }}
       />
-      <Breadcrumb items={[{ label: "about" }]} />
+      <Breadcrumb items={[{ label: "このサイトについて", href: "/about/" }]} />
       <div style={{ marginBottom: "2.5rem" }}>
         <h1
           style={{

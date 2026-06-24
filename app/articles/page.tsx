@@ -40,7 +40,7 @@ export default function ArticlesPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListLd) }}
       />
-      <Breadcrumb items={[{ label: "記事" }]} />
+      <Breadcrumb items={[{ label: "記事", href: "/articles/" }]} />
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "1.5rem", color: "#2d1f0e" }}>
         記事
       </h1>

@@ -60,7 +60,12 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleLd) }}
       />
-      <Breadcrumb items={[{ label: "記事", href: "/articles/" }, { label: article.title }]} />
+      <Breadcrumb
+        items={[
+          { label: "記事", href: "/articles/" },
+          { label: article.title, href: `/articles/${article.slug}/` },
+        ]}
+      />
       <article>
         <header style={{ marginBottom: "2rem" }}>
           <p style={{ fontSize: "0.75rem", color: "#a89080", marginBottom: "0.5rem" }}>

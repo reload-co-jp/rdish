@@ -71,7 +71,7 @@ export default async function DishesPageN({
       <Breadcrumb
         items={[
           { label: "料理一覧", href: "/dishes/" },
-          { label: `${page}ページ目` },
+          { label: `${page}ページ目`, href: pageUrl(page) },
         ]}
       />
       <div style={{ marginBottom: "1.5rem" }}>

@@ -61,7 +61,7 @@ export default function CategoriesPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <Breadcrumb items={[{ label: "カテゴリ", href: "/categories/" }, { label: "一覧" }]} />
+      <Breadcrumb items={[{ label: "カテゴリ", href: "/categories/" }]} />
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}>
         カテゴリから探す
       </h1>

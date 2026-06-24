@@ -77,7 +77,7 @@ export default async function CountryPageN({
         items={[
           { label: "国・地域", href: "/countries/" },
           { label: item.label, href: `/countries/${item.id}/` },
-          { label: `${page}ページ目` },
+          { label: `${page}ページ目`, href: countryPageUrl(item.id, page) },
         ]}
       />
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}>

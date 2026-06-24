@@ -169,7 +169,12 @@ export default async function DishPage({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
         />
       )}
-      <Breadcrumb items={[{ label: "料理一覧", href: "/dishes/" }, { label: dish.name }]} />
+      <Breadcrumb
+        items={[
+          { label: "料理一覧", href: "/dishes/" },
+          { label: dish.name, href: `/dishes/${dish.id}/` },
+        ]}
+      />
       <DishPageContent dish={dish} allDishes={allDishes} />
       <AdSense />
     </>

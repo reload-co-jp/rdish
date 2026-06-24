@@ -45,7 +45,9 @@ export const Breadcrumb: FC<Props> = ({ items }) => {
                 {item.label}
               </Link>
             ) : (
-              <span style={{ color: "#7a6655" }}>{item.label}</span>
+              <span aria-current={i === all.length - 1 ? "page" : undefined} style={{ color: "#7a6655" }}>
+                {item.label}
+              </span>
             )}
           </span>
         ))}

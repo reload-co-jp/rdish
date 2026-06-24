@@ -59,7 +59,7 @@ function SearchResults() {
 export default function SearchPage() {
   return (
     <>
-      <Breadcrumb items={[{ label: "検索" }]} />
+      <Breadcrumb items={[{ label: "検索", href: "/search/" }]} />
       <Suspense fallback={<p style={{ color: "#aaa" }}>読み込み中...</p>}>
         <SearchResults />
       </Suspense>

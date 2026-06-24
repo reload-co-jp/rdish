@@ -53,6 +53,7 @@ export default async function CategoryPage({
       breadcrumbLabel="カテゴリ"
       breadcrumbHref="/categories/"
       itemLabel={item.label}
+      itemHref={`/categories/${item.id}/`}
       description={description}
       results={results}
       jsonLd={jsonLd}

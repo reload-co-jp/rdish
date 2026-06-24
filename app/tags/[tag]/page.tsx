@@ -54,6 +54,7 @@ export default async function TagPage({
       breadcrumbLabel="タグ"
       breadcrumbHref="/tags/"
       itemLabel={item.label}
+      itemHref={`/tags/${item.id}/`}
       description={description}
       results={results}
       jsonLd={jsonLd}
