@@ -28,6 +28,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: BUILD_DATE,
     changeFrequency: "monthly" as const,
     priority: 0.8,
+    ...(dish.images?.length
+      ? { images: dish.images.map((src) => `${SITE_URL}${src}`) }
+      : {}),
   }))
 
   const tagUrls = tagItems.map(({ id }) => ({
