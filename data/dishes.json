@@ -92653,5 +92653,1200 @@
       "/images/dishes/flygande-jakob/2.jpg",
       "/images/dishes/flygande-jakob/3.jpg"
     ]
+  },
+  {
+    "id": "metworst",
+    "name": "メトヴォルスト",
+    "kana": "めとゔぉるすと",
+    "aliases": [
+      "ドローヘ・ヴォルスト",
+      "ドライソーセージ"
+    ],
+    "englishName": "Metworst",
+    "originalName": "Metworst",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "オランダ"
+      },
+      {
+        "country": "ベルギー"
+      }
+    ],
+    "summary": "生の豚ひき肉を腸詰めにして乾燥させる、オランダとフランドルの伝統的なドライソーセージ。北部の風土を生かした保存食で、薄切りにしてパンやつまみに使われる。",
+    "menuDescription": "しっかり乾いた豚肉ソーセージ。サラミ寄りだが、より素朴で肉の発酵香と塩気が前に出る。",
+    "whatComesOut": [
+      "薄切りまたは棒状の乾燥ソーセージ",
+      "パン",
+      "マスタード",
+      "チーズやピクルスの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "塩気が強い",
+      "肉の旨みが濃い",
+      "乾いて締まった食感",
+      "発酵・熟成香がある"
+    ],
+    "orderAdvice": "ビールのつまみや軽い前菜向き。クセのある肉加工品が好きなら選びやすい。",
+    "caution": "生肉を乾燥熟成した加工品。豚肉、塩分、香辛料に注意。",
+    "similarItems": [
+      {
+        "id": "salami",
+        "name": "サラミ",
+        "difference": "サラミより地域色が強く、オランダ式の乾燥豚ソーセージ"
+      },
+      {
+        "id": "charcuterie",
+        "name": "シャルキュトリ",
+        "difference": "シャルキュトリ盛りに入る単品の乾燥ソーセージ"
+      }
+    ],
+    "relatedIds": [
+      "salami",
+      "charcuterie",
+      "prosciutto"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Metworst",
+      "https://es.wikipedia.org/wiki/Metworst"
+    ],
+    "tags": [
+      "オランダ料理",
+      "肉",
+      "豚肉",
+      "燻製",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "オランダのドライソーセージ",
+      "乾燥ソーセージ",
+      "ドローヘウォルスト",
+      "ビールに合うソーセージ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/metworst/1.jpg"
+    ]
+  },
+  {
+    "id": "edam-cheese",
+    "name": "エダムチーズ",
+    "kana": "えだむちーず",
+    "aliases": [
+      "エダム",
+      "エダム・チーズ"
+    ],
+    "englishName": "Edam cheese",
+    "originalName": "Edammer kaas",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "オランダ",
+        "locality": "エダム"
+      }
+    ],
+    "summary": "北ホラント州エダムに由来する半硬質の牛乳チーズ。赤いワックスで覆った丸い姿が有名で、若いものは穏やかで軽いナッツ香、熟成すると硬く旨みが強くなる。",
+    "menuDescription": "赤いワックスをまとった丸いオランダチーズ。クセは控えめで、薄切り、角切り、サンドイッチ、チーズプレートに使いやすい。",
+    "whatComesOut": [
+      "薄切りまたは角切りの半硬質チーズ",
+      "赤いワックスを外したチーズ片",
+      "パンやクラッカー",
+      "果物の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "若いものはマイルド",
+      "軽い塩気とナッツ香",
+      "弾力のある半硬質",
+      "熟成品は硬く旨みが増す"
+    ],
+    "orderAdvice": "強いブルーチーズやウォッシュが苦手な人にも無難。ワイン、ビール、サンドイッチ用に頼みやすい。",
+    "caution": "外側の赤いワックスは食べない。乳製品アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "cheddar-cheese",
+        "name": "チェダーチーズ",
+        "difference": "チェダーより穏やかで甘みとナッツ感が軽い"
+      },
+      {
+        "id": "gruyere-cheese",
+        "name": "グリュイエールチーズ",
+        "difference": "グリュイエールより香りが控えめで普段使い向き"
+      }
+    ],
+    "relatedIds": [
+      "cheddar-cheese",
+      "gruyere-cheese",
+      "comte"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Edam_cheese",
+      "https://www.thespruceeats.com/what-is-edam-5086064"
+    ],
+    "tags": [
+      "オランダ料理",
+      "チーズ",
+      "牛乳",
+      "熟成",
+      "あっさり",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "赤いワックスのチーズ",
+      "丸いオランダチーズ",
+      "マイルドな半硬質チーズ",
+      "エダマー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/edam-cheese/1.jpg",
+      "/images/dishes/edam-cheese/2.jpg",
+      "/images/dishes/edam-cheese/3.jpg"
+    ]
+  },
+  {
+    "id": "zeeuwse-bolus",
+    "name": "ゼーウスボールス",
+    "kana": "ぜーうすぼーるす",
+    "aliases": [
+      "ゼーウス・ボルス",
+      "ゼーラント風ボールス",
+      "ボールス"
+    ],
+    "englishName": "Zeeuwse bolus",
+    "originalName": "Zeeuwse bolus",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "オランダ",
+        "area": "ゼーラント"
+      }
+    ],
+    "summary": "ゼーラント州の渦巻き状の甘い菓子パン。白い発酵生地を濃いブラウンシュガーとシナモンにまぶして焼き、表面をねっとりしたカラメル状に仕上げる。",
+    "menuDescription": "黒糖とシナモンが溶けた、粘りのある渦巻きパン。コーヒーのお供として、平らな裏面にバターを塗って食べることもある。",
+    "whatComesOut": [
+      "渦巻き状の甘いパン",
+      "黒糖とシナモンのべたっとした表面",
+      "バター",
+      "コーヒー"
+    ],
+    "tasteAndTexture": [
+      "黒糖の濃い甘み",
+      "シナモンが香る",
+      "表面はねっとり",
+      "中は柔らかいパン生地"
+    ],
+    "orderAdvice": "甘い朝食やコーヒー休憩向き。手がべたつきやすいので持ち歩きより店内向き。",
+    "caution": "砂糖量が多く、シナモンと小麦を使う。",
+    "similarItems": [
+      {
+        "id": "donut",
+        "name": "ドーナツ",
+        "difference": "揚げ菓子ではなく、焼いた発酵生地を糖蜜状に仕上げる"
+      },
+      {
+        "id": "poffertjes",
+        "name": "ポッフェルチェ",
+        "difference": "同じオランダの甘味だが、こちらは小型パンケーキではなく渦巻きパン"
+      }
+    ],
+    "relatedIds": [
+      "donut",
+      "poffertjes",
+      "marzipan"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Zeeuwse_bolus"
+    ],
+    "tags": [
+      "オランダ料理",
+      "デザート",
+      "小麦",
+      "焼き物",
+      "甘み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ゼーラントの甘いパン",
+      "シナモン黒糖パン",
+      "オランダの渦巻き菓子",
+      "べたべたした菓子パン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/zeeuwse-bolus/1.jpg"
+    ]
+  },
+  {
+    "id": "waterzooi",
+    "name": "ワーテルゾーイ",
+    "kana": "わーてるぞーい",
+    "aliases": [
+      "ワーテルゾーイ",
+      "ゲント風ワーテルゾーイ",
+      "ヘント風ワーテルゾーイ"
+    ],
+    "englishName": "Waterzooi",
+    "originalName": "Waterzooi",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベルギー",
+        "area": "フランドル",
+        "locality": "ゲント"
+      }
+    ],
+    "summary": "ベルギー・フランドル地方、特にゲントに結びつくクリーム仕立ての煮込みスープ。魚または鶏肉を野菜、ハーブ、卵黄、クリームでやさしくまとめる。",
+    "menuDescription": "魚や鶏肉のクリーム煮込みスープ。にんじん、ねぎ、セロリ、じゃがいもが入り、シチューより軽くスープより満足感がある。",
+    "whatComesOut": [
+      "魚または鶏肉のクリームスープ",
+      "にんじん、ねぎ、セロリ、じゃがいも",
+      "ハーブ",
+      "パン"
+    ],
+    "tasteAndTexture": [
+      "クリーミー",
+      "やさしい旨み",
+      "野菜の甘み",
+      "卵黄でまろやか"
+    ],
+    "orderAdvice": "ベルギー料理店で重すぎない温菜を選びたい時に良い。魚版か鶏版か確認。",
+    "caution": "卵、乳製品、魚介を使う場合がある。",
+    "similarItems": [
+      {
+        "id": "fricassee",
+        "name": "フリカッセ",
+        "difference": "フリカッセよりスープ寄りで、卵黄とクリームの仕上げが特徴"
+      },
+      {
+        "id": "pot-au-feu",
+        "name": "ポトフ",
+        "difference": "ポトフよりクリーム感があり、魚版も一般的"
+      }
+    ],
+    "relatedIds": [
+      "fricassee",
+      "pot-au-feu",
+      "bouillon",
+      "cream-cheese"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Waterzooi",
+      "https://es.wikipedia.org/wiki/Waterzooi"
+    ],
+    "tags": [
+      "ベルギー料理",
+      "主菜",
+      "スープ",
+      "魚介",
+      "鶏肉",
+      "煮込み",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "ベルギーのクリーム煮",
+      "ゲント名物スープ",
+      "魚のクリームスープ",
+      "鶏のクリーム煮込み"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/waterzooi/1.jpg",
+      "/images/dishes/waterzooi/2.jpg"
+    ]
+  },
+  {
+    "id": "limburgse-vlaai",
+    "name": "リンブルフスフラーイ",
+    "kana": "りんぶるふすふらーい",
+    "aliases": [
+      "リンブルフ風フラーイ",
+      "リンブルフセ・フラーイ",
+      "フラーイ"
+    ],
+    "englishName": "Limburgse vlaai",
+    "originalName": "Limburgse vlaai",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "オランダ",
+        "area": "リンブルフ"
+      },
+      {
+        "country": "ベルギー",
+        "area": "リンブルフ"
+      }
+    ],
+    "summary": "オランダとベルギーのリンブルフ地方に結びつく、発酵生地の浅いタルト。果物、米プディング、カスタード、クランブルなどを詰め、祝い事や来客時の菓子として親しまれる。",
+    "menuDescription": "パン生地に近い薄い土台のフルーツタルト。チェリー、アプリコット、プラム、ライスプディングなど具の種類が多い。",
+    "whatComesOut": [
+      "丸い浅型のタルト",
+      "発酵生地の土台",
+      "果物や米プディングのフィリング",
+      "格子状の生地またはクランブル"
+    ],
+    "tasteAndTexture": [
+      "生地はパンに近く柔らかい",
+      "果物の酸味と甘み",
+      "フィリングはしっとり",
+      "クランブル版は香ばしい"
+    ],
+    "orderAdvice": "ケーキより軽い甘味が欲しい時に向く。果物系は爽やか、ライスプディング系は満腹感あり。",
+    "caution": "小麦、乳製品、卵を使うことが多い。",
+    "similarItems": [
+      {
+        "id": "gateau",
+        "name": "ガトー",
+        "difference": "スポンジケーキではなく、発酵生地を使う浅いタルト"
+      },
+      {
+        "id": "tiramisu",
+        "name": "ティラミス",
+        "difference": "冷製クリーム菓子ではなく、焼いた生地と果物・米のフィリングが中心"
+      }
+    ],
+    "relatedIds": [
+      "gateau",
+      "compote",
+      "berry",
+      "crepe"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Vlaai",
+      "https://pt.wikipedia.org/wiki/Limburgse_vlaai"
+    ],
+    "tags": [
+      "オランダ料理",
+      "ベルギー料理",
+      "デザート",
+      "小麦",
+      "果物",
+      "焼き物",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "リンブルフのタルト",
+      "フルーツ入り発酵生地タルト",
+      "オランダの郷土菓子",
+      "米プディング入りタルト"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/limburgse-vlaai/1.jpg"
+    ]
+  },
+  {
+    "id": "uitsmijter-spek-en-kaas",
+    "name": "アウツマイター・スペック・エン・カース",
+    "kana": "あうつまいたーすぺっくえんかーす",
+    "aliases": [
+      "アウツマイター",
+      "ウツマイター",
+      "ベーコンとチーズのアウツマイター"
+    ],
+    "englishName": "Uitsmijter with bacon and cheese",
+    "originalName": "Uitsmijter spek en kaas",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "オランダ"
+      },
+      {
+        "country": "ベルギー"
+      }
+    ],
+    "summary": "パンに目玉焼きをのせるオランダ・ベルギーの定番昼食アウツマイターの、ベーコンとチーズを加えた型。白パン、卵、塩気のある肉、溶けたチーズで構成される。",
+    "menuDescription": "トーストまたは白パンに目玉焼き、ベーコン、チーズをのせたオープンサンド。朝食より昼食として出ることが多い。",
+    "whatComesOut": [
+      "白パンまたはトースト",
+      "目玉焼き2個以上",
+      "ベーコン",
+      "チーズ",
+      "サラダやピクルス"
+    ],
+    "tasteAndTexture": [
+      "卵黄がとろっとする",
+      "ベーコンの塩気",
+      "チーズがまろやか",
+      "パンは軽く香ばしい"
+    ],
+    "orderAdvice": "軽食よりしっかり昼食。卵の焼き加減、ベーコンかハムか、チーズ有無を確認すると外しにくい。",
+    "caution": "卵、乳製品、小麦、豚肉を使う。",
+    "similarItems": [
+      {
+        "id": "croque_madame",
+        "name": "クロックマダム",
+        "difference": "クロックマダムよりソース感が少なく、目玉焼きとパンの素朴な昼食"
+      },
+      {
+        "id": "oeuf-cocotte",
+        "name": "ウフ・ココット",
+        "difference": "卵料理だが、アウツマイターはパンにのせるオープンサンド"
+      }
+    ],
+    "relatedIds": [
+      "croque_madame",
+      "oeuf-cocotte",
+      "pancetta",
+      "edam-cheese"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Uitsmijter"
+    ],
+    "tags": [
+      "オランダ料理",
+      "主菜",
+      "卵",
+      "豚肉",
+      "チーズ",
+      "焼き物",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "オランダの目玉焼きトースト",
+      "ベーコンチーズ卵サンド",
+      "昼食のオープンサンド",
+      "ハムエッグトースト風"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/uitsmijter-spek-en-kaas/1.jpg"
+    ]
+  },
+  {
+    "id": "koffie-verkeerd",
+    "name": "コフィーヴェルキールト",
+    "kana": "こふぃーゔぇるきーると",
+    "aliases": [
+      "カフェ・オ・レ",
+      "Koffie verkeerd",
+      "wrong coffee"
+    ],
+    "englishName": "Koffie verkeerd",
+    "originalName": "Koffie verkeerd",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "オランダ"
+      }
+    ],
+    "summary": "オランダのミルク入りコーヒー。名前は「間違ったコーヒー」の意味で、ブラックコーヒーと温めた牛乳をほぼ同量で合わせる。",
+    "menuDescription": "コーヒーと温かい牛乳を半々にした、カフェオレ系のやさしい飲み物。ラテより日常的で素朴な位置づけ。",
+    "whatComesOut": [
+      "カップ入りのミルクコーヒー",
+      "温めた牛乳",
+      "砂糖",
+      "小さなビスケット"
+    ],
+    "tasteAndTexture": [
+      "ミルク感が強い",
+      "苦味は穏やか",
+      "口当たりが軽い",
+      "甘さは砂糖で調整"
+    ],
+    "orderAdvice": "濃いエスプレッソより飲みやすいコーヒーが欲しい時向き。甘さは自分で足すことが多い。",
+    "caution": "乳製品とカフェインを含む。",
+    "similarItems": [
+      {
+        "name": "カフェラテ",
+        "difference": "エスプレッソ主体ではなく、ドリップ系コーヒーと牛乳を同量で合わせる"
+      },
+      {
+        "name": "カフェオレ",
+        "difference": "かなり近いが、オランダの日常喫茶名として使われる"
+      }
+    ],
+    "relatedIds": [
+      "cream-cheese"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ],
+    "tags": [
+      "オランダ料理",
+      "飲み物",
+      "牛乳",
+      "あっさり",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "オランダのカフェオレ",
+      "ミルク多めのコーヒー",
+      "wrong coffee",
+      "牛乳入りコーヒー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "boerenkoolstamppot",
+    "name": "Boerenkoolstamppot",
+    "kana": "ぶーれんこーるすたんぽっと",
+    "aliases": [
+      "ブーレンコールスタンポット",
+      "ケールのスタンポット",
+      "Boerenkool met worst"
+    ],
+    "englishName": "Kale stamppot",
+    "originalName": "Boerenkoolstamppot",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "オランダ"
+      }
+    ],
+    "summary": "じゃがいもとケールを一緒につぶし、ルークヴォルスト、ベーコン、グレイビー、マスタードを添えるオランダ冬の定番料理。スタンポットの代表格。",
+    "menuDescription": "マッシュポテトに刻んだケールを混ぜた温かい主菜。燻製ソーセージと肉汁で食べる、素朴で腹持ちのよい一皿。",
+    "whatComesOut": [
+      "ケール入りマッシュポテト",
+      "ルークヴォルスト",
+      "ベーコン",
+      "グレイビー",
+      "マスタード"
+    ],
+    "tasteAndTexture": [
+      "じゃがいもでほくほく",
+      "ケールの青い香り",
+      "ソーセージの燻製香",
+      "全体は重めで温かい"
+    ],
+    "orderAdvice": "寒い日に腹を満たす家庭料理枠。軽食ではなく主菜として選ぶ。",
+    "caution": "豚肉、乳製品を使う場合がある。塩分と脂質は高め。",
+    "similarItems": [
+      {
+        "id": "stamppot",
+        "name": "スタンポット",
+        "difference": "野菜を変えられる総称。これはケール版"
+      },
+      {
+        "id": "hutspot",
+        "name": "ヒュッツポット",
+        "difference": "ヒュッツポットはにんじんと玉ねぎが中心"
+      }
+    ],
+    "relatedIds": [
+      "stamppot",
+      "hutspot",
+      "kale"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Stamppot",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ],
+    "tags": [
+      "オランダ料理",
+      "主菜",
+      "野菜",
+      "豚肉",
+      "煮込み",
+      "燻製",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ケール入りマッシュポテト",
+      "オランダ冬料理",
+      "ルークヴォルスト添え",
+      "スタンポットの定番"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/boerenkoolstamppot/1.jpg",
+      "/images/dishes/boerenkoolstamppot/2.jpg",
+      "/images/dishes/boerenkoolstamppot/3.jpg"
+    ]
+  },
+  {
+    "id": "snert",
+    "name": "Snert",
+    "kana": "すねると",
+    "aliases": [
+      "スネルト",
+      "エルテンスープ",
+      "Erwtensoep"
+    ],
+    "englishName": "Dutch split pea soup",
+    "originalName": "Snert",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "オランダ"
+      }
+    ],
+    "summary": "割りエンドウ、豚肉、セロリアック、玉ねぎ、リーキ、にんじん、じゃがいもなどを煮込む、濃厚なオランダ式豆スープ。冬に食べる国民的な一品。",
+    "menuDescription": "スプーンが立つほど濃い緑の豆スープ。ルークヴォルストや豚肉が入り、ライ麦パンやベーコンと合わせることが多い。",
+    "whatComesOut": [
+      "濃い割りエンドウのスープ",
+      "ルークヴォルスト",
+      "豚肉",
+      "根菜",
+      "ライ麦パン"
+    ],
+    "tasteAndTexture": [
+      "豆の濃厚な旨み",
+      "どろっと重い",
+      "豚肉のコク",
+      "野菜の甘み"
+    ],
+    "orderAdvice": "前菜スープではなく主食級。冬の屋台や家庭料理で、温まりたい時に向く。",
+    "caution": "豚肉を使うことが多い。豆で腹にたまりやすい。",
+    "similarItems": [
+      {
+        "id": "dal",
+        "name": "ダル",
+        "difference": "豆の煮込みだが、スネルトは割りエンドウと豚肉主体"
+      },
+      {
+        "id": "lentilles",
+        "name": "レンズ豆",
+        "difference": "豆は近いが、こちらは料理名ではなく食材"
+      }
+    ],
+    "relatedIds": [
+      "white-bean",
+      "lentilles",
+      "bouillon"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pea_soup",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ],
+    "tags": [
+      "オランダ料理",
+      "スープ",
+      "豆",
+      "豚肉",
+      "野菜",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "オランダの豆スープ",
+      "エルテンスープ",
+      "冬の濃いスープ",
+      "ルークヴォルスト入りスープ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/snert/1.jpg"
+    ]
+  },
+  {
+    "id": "oliebollen",
+    "name": "オリーボーレン",
+    "kana": "おりーぼーれん",
+    "aliases": [
+      "オリーボル",
+      "Oliebol",
+      "Dutch doughnuts",
+      "smoutebollen"
+    ],
+    "englishName": "Oliebollen",
+    "originalName": "Oliebollen",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "オランダ"
+      },
+      {
+        "country": "ベルギー"
+      }
+    ],
+    "summary": "小麦粉、卵、酵母、牛乳などの生地を丸く揚げ、粉砂糖をかけるオランダとベルギーの揚げ菓子。大晦日や冬の屋台の定番。",
+    "menuDescription": "丸い揚げドーナツ。レーズン、カレンツ、りんご、柑橘ピール入りもあり、熱いうちに粉砂糖で食べる。",
+    "whatComesOut": [
+      "丸い揚げ生地",
+      "粉砂糖",
+      "レーズン入りの生地",
+      "紙袋や屋台容器"
+    ],
+    "tasteAndTexture": [
+      "外は軽く香ばしい",
+      "中はふんわり",
+      "粉砂糖で甘い",
+      "レーズン入りは果実味がある"
+    ],
+    "orderAdvice": "揚げたてが最良。冷めると重くなるので、屋台なら温かいものを選ぶ。",
+    "caution": "小麦、卵、乳製品を使う。揚げ菓子なので油分が多い。",
+    "similarItems": [
+      {
+        "id": "donut",
+        "name": "ドーナツ",
+        "difference": "穴あき成形ではなく、スプーンで落として丸く揚げる"
+      },
+      {
+        "id": "fritter",
+        "name": "フリッター",
+        "difference": "食材を衣で揚げる料理より、発酵生地そのものを揚げる菓子"
+      }
+    ],
+    "relatedIds": [
+      "donut",
+      "fritter",
+      "poffertjes",
+      "zeeuwse-bolus"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Oliebol",
+      "https://es.wikipedia.org/wiki/Oliebollen"
+    ],
+    "tags": [
+      "オランダ料理",
+      "ベルギー料理",
+      "デザート",
+      "小麦",
+      "揚げ物",
+      "甘み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "オランダの揚げドーナツ",
+      "大晦日の菓子",
+      "粉砂糖の揚げ菓子",
+      "冬の屋台菓子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/oliebollen/1.jpg",
+      "/images/dishes/oliebollen/2.jpg",
+      "/images/dishes/oliebollen/3.jpg"
+    ]
+  },
+  {
+    "id": "griotten",
+    "name": "Griotten",
+    "kana": "ぐりおっとん",
+    "aliases": [
+      "グリオ",
+      "グリヨ",
+      "Griot",
+      "Griyo"
+    ],
+    "englishName": "Griot",
+    "originalName": "Griot",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ハイチ"
+      }
+    ],
+    "summary": "豚肩肉を柑橘と香味野菜、唐辛子でマリネし、煮るまたは焼いてから揚げるハイチ料理。ピクリズや米、揚げバナナと一緒に供されることが多い。",
+    "menuDescription": "柑橘で締めた豚肉の揚げ煮。外は香ばしく、中は柔らかく、酸味と辛い漬物のピクリズで食べる。",
+    "whatComesOut": [
+      "揚げた豚肩肉",
+      "ピクリズ",
+      "米",
+      "揚げバナナ",
+      "ソース・ティマリス"
+    ],
+    "tasteAndTexture": [
+      "豚肉の旨みが強い",
+      "柑橘の酸味",
+      "外は香ばしい",
+      "ピクリズで辛酸っぱい"
+    ],
+    "orderAdvice": "肉感が強い料理を食べたい時向き。辛味はピクリズ量で調整。",
+    "caution": "豚肉、柑橘、唐辛子を使う。揚げ物なので重め。",
+    "similarItems": [
+      {
+        "name": "カルニタス",
+        "difference": "豚肉を柔らかく調理して仕上げる点は近いが、グリオは柑橘マリネとピクリズが特徴"
+      },
+      {
+        "id": "tonkatsu",
+        "name": "トンカツ",
+        "difference": "同じ豚の揚げ料理だが、衣ではなく煮込み後に素揚げ風で仕上げる"
+      }
+    ],
+    "relatedIds": [
+      "tonkatsu",
+      "lime",
+      "fry"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Griot_(food)",
+      "https://es.wikipedia.org/wiki/Griot_(comida)"
+    ],
+    "tags": [
+      "ハイチ料理",
+      "主菜",
+      "豚肉",
+      "揚げ物",
+      "ピリ辛",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ハイチの揚げ豚",
+      "グリオ",
+      "グリヨ",
+      "ピクリズと食べる豚肉"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/griotten/1.jpg",
+      "/images/dishes/griotten/2.jpg",
+      "/images/dishes/griotten/3.jpg"
+    ]
+  },
+  {
+    "id": "kersenvlaai",
+    "name": "チェリーフラーイ",
+    "kana": "ちぇりーふらーい",
+    "aliases": [
+      "ケルセンフラーイ",
+      "さくらんぼのフラーイ",
+      "Kersenvlaai"
+    ],
+    "englishName": "Cherry vlaai",
+    "originalName": "Kersenvlaai",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "オランダ",
+        "area": "リンブルフ"
+      },
+      {
+        "country": "ベルギー",
+        "area": "リンブルフ"
+      }
+    ],
+    "summary": "リンブルフ地方の発酵生地タルト、フラーイのチェリー版。浅い生地にチェリーのフィリングを詰め、格子やクランブルをのせて焼く。",
+    "menuDescription": "パン生地に近い薄い土台のチェリータルト。チェリーの甘酸っぱさと、柔らかい生地の素朴さが特徴。",
+    "whatComesOut": [
+      "丸いチェリー入りタルト",
+      "発酵生地の土台",
+      "チェリーフィリング",
+      "格子生地またはクランブル"
+    ],
+    "tasteAndTexture": [
+      "チェリーの甘酸っぱさ",
+      "生地は柔らかい",
+      "フィリングはしっとり",
+      "焼き目が香ばしい"
+    ],
+    "orderAdvice": "リンブルフスフラーイの中でも分かりやすい果物系。甘すぎない菓子を選びたい時に向く。",
+    "caution": "小麦、乳製品、卵を使うことが多い。種入りチェリーの場合に注意。",
+    "similarItems": [
+      {
+        "id": "limburgse-vlaai",
+        "name": "リンブルフスフラーイ",
+        "difference": "フラーイの総称。これはチェリーを詰めた種類"
+      },
+      {
+        "id": "gateau",
+        "name": "ガトー",
+        "difference": "スポンジケーキより、発酵生地の浅い焼き菓子に近い"
+      }
+    ],
+    "relatedIds": [
+      "limburgse-vlaai",
+      "berry",
+      "compote",
+      "gateau"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Vlaai",
+      "https://pt.wikipedia.org/wiki/Limburgse_vlaai",
+      "https://de.wikipedia.org/wiki/Limburger_Vlaai"
+    ],
+    "tags": [
+      "オランダ料理",
+      "ベルギー料理",
+      "デザート",
+      "小麦",
+      "果物",
+      "焼き物",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "さくらんぼのフラーイ",
+      "チェリー入りリンブルフ菓子",
+      "オランダのチェリータルト",
+      "発酵生地タルト"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "hollandse-nieuwe",
+    "name": "Hollandse Nieuwe",
+    "kana": "ほらんどせにうゔぇ",
+    "aliases": [
+      "ホランセ・ニューウェ",
+      "マーチェスハーリング",
+      "Maatjesharing",
+      "Dutch new herring"
+    ],
+    "englishName": "Hollandse Nieuwe",
+    "originalName": "Hollandse Nieuwe",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "オランダ"
+      }
+    ],
+    "summary": "初夏に出回る若いニシンを下処理し、塩で熟成させたオランダの季節食。脂のり、処理法、時期などの基準があり、玉ねぎやピクルスと食べる。",
+    "menuDescription": "新物のニシンを軽く塩熟成させたもの。尾を持ってそのまま食べる、または一口大に切って玉ねぎとピクルスを添える。",
+    "whatComesOut": [
+      "塩熟成したニシン",
+      "刻み玉ねぎ",
+      "ピクルス",
+      "白いパン",
+      "紙皿や屋台容器"
+    ],
+    "tasteAndTexture": [
+      "脂がのっている",
+      "塩気は穏やか",
+      "身は柔らかい",
+      "魚の香りがある"
+    ],
+    "orderAdvice": "魚の生っぽい食感が好きなら名物として試す価値あり。苦手ならパンにはさんだ版から。",
+    "caution": "魚介アレルギーに注意。寄生虫対策で冷凍処理される食品。",
+    "similarItems": [
+      {
+        "id": "haring",
+        "name": "ハーリング",
+        "difference": "ハーリング全般のうち、新物として基準を満たす季節品"
+      },
+      {
+        "id": "smoked_salmon",
+        "name": "スモークサーモン",
+        "difference": "どちらも魚の加工品だが、これは燻製ではなく塩熟成のニシン"
+      }
+    ],
+    "relatedIds": [
+      "haring",
+      "pickles",
+      "onion",
+      "smoked_salmon"
+    ],
+    "source": [
+      "https://fr.wikipedia.org/wiki/Hollandse_nieuwe",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine",
+      "https://www.seriouseats.com/rejoice-new-catch-holland-herring-season-is-upon-us"
+    ],
+    "tags": [
+      "オランダ料理",
+      "魚介",
+      "前菜",
+      "熟成",
+      "あっさり",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "オランダ新ニシン",
+      "塩熟成ニシン",
+      "マーチェスハーリング",
+      "玉ねぎと食べるニシン"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hollandse-nieuwe/1.jpg",
+      "/images/dishes/hollandse-nieuwe/2.jpg",
+      "/images/dishes/hollandse-nieuwe/3.jpg"
+    ]
+  },
+  {
+    "id": "gerookte-paling",
+    "name": "Gerookte paling",
+    "kana": "へろーくてぱーりんぐ",
+    "aliases": [
+      "ヘロークテ・パーリング",
+      "オランダ風燻製うなぎ",
+      "Smoked eel"
+    ],
+    "englishName": "Smoked eel",
+    "originalName": "Gerookte paling",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "オランダ"
+      }
+    ],
+    "summary": "オランダで長く親しまれる燻製うなぎ。特にアイセル湖周辺などの魚食文化と結びつき、脂のあるうなぎを燻して前菜やサンドイッチに使う。",
+    "menuDescription": "しっとり脂のある燻製うなぎ。薄切りやフィレで出され、パン、レモン、玉ねぎ、サラダと合わせることが多い。",
+    "whatComesOut": [
+      "燻製うなぎのフィレ",
+      "パン",
+      "レモン",
+      "玉ねぎ",
+      "サラダ"
+    ],
+    "tasteAndTexture": [
+      "脂が濃い",
+      "燻製香が強い",
+      "身は柔らかい",
+      "塩気がある"
+    ],
+    "orderAdvice": "少量で満足感がある前菜向き。燻製魚が好きなら、白ワインやビールに合わせやすい。",
+    "caution": "魚介アレルギーに注意。うなぎ資源保護の観点で産地や認証を確認したい食品。",
+    "similarItems": [
+      {
+        "id": "smoked_salmon",
+        "name": "スモークサーモン",
+        "difference": "同じ燻製魚だが、うなぎの方が脂が強く食感も濃厚"
+      },
+      {
+        "id": "haring",
+        "name": "ハーリング",
+        "difference": "ハーリングは塩熟成のニシンで、燻製うなぎとは香りと脂の質が違う"
+      }
+    ],
+    "relatedIds": [
+      "smoked_salmon",
+      "haring",
+      "smoke",
+      "poisson"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Dutch_cuisine",
+      "https://en.wikipedia.org/wiki/Paling_in_%27t_groen"
+    ],
+    "tags": [
+      "オランダ料理",
+      "魚介",
+      "前菜",
+      "燻製",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "オランダの燻製うなぎ",
+      "スモークイール",
+      "脂のある燻製魚",
+      "パーリング"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gerookte-paling/1.jpg",
+      "/images/dishes/gerookte-paling/2.jpg",
+      "/images/dishes/gerookte-paling/3.jpg"
+    ]
+  },
+  {
+    "id": "rollmops",
+    "name": "ロルモップス",
+    "kana": "ろるもっぷす",
+    "aliases": [
+      "ロールモップス",
+      "Rollmops",
+      "rollmop herring"
+    ],
+    "englishName": "Rollmops",
+    "originalName": "Rollmops",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "ドイツ"
+      },
+      {
+        "country": "オランダ"
+      }
+    ],
+    "summary": "酢漬けのニシンのフィレを、玉ねぎやピクルスを芯にして巻いた北欧・中欧系の魚介惣菜。瓶詰めや桶入りの ready-to-eat 食品として流通し、冷たい前菜やパンの具にする。",
+    "menuDescription": "酸味のあるニシンの巻き物。中にピクルスや玉ねぎが入り、串で留められて出ることが多い。",
+    "whatComesOut": [
+      "巻いた酢漬けニシン",
+      "ピクルス",
+      "玉ねぎ",
+      "木串",
+      "パンやじゃがいも"
+    ],
+    "tasteAndTexture": [
+      "酢の酸味が強い",
+      "ニシンの脂がある",
+      "ピクルスが歯切れよい",
+      "塩気と香辛料が効く"
+    ],
+    "orderAdvice": "酢漬け魚やピクルスが好きなら前菜に向く。酸味が苦手なら少量から。",
+    "caution": "魚介アレルギーに注意。酢、塩分、玉ねぎ、マスタードシードを含む場合がある。",
+    "similarItems": [
+      {
+        "id": "haring",
+        "name": "ハーリング",
+        "difference": "ハーリングはニシン全般。ロルモップスは酢漬けフィレを巻いた加工品"
+      },
+      {
+        "id": "hollandse-nieuwe",
+        "name": "Hollandse Nieuwe",
+        "difference": "Hollandse Nieuweは新物の塩熟成ニシンで、ロルモップスは酢漬けの巻き物"
+      }
+    ],
+    "relatedIds": [
+      "haring",
+      "hollandse-nieuwe",
+      "pickles",
+      "onion"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Rollmops",
+      "https://en.wikipedia.org/wiki/Pickled_herring",
+      "https://fr.wikipedia.org/wiki/Rollmops"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "オランダ料理",
+      "前菜",
+      "魚介",
+      "熟成",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "酢漬けニシンの巻き物",
+      "ピクルス入りニシン",
+      "ドイツの酢漬け魚",
+      "瓶詰めハーリング"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/rollmops/1.jpg",
+      "/images/dishes/rollmops/2.jpg",
+      "/images/dishes/rollmops/3.jpg"
+    ]
   }
 ]
