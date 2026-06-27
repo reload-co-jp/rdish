@@ -11,18 +11,23 @@ type TaxonomyItem<T extends string = string> = {
   id: string
   label: T
   description?: string
+  intro?: string[]
 }
 
 export const categoryItems = categories as TaxonomyItem<DishCategory>[]
 
-const countryDescriptions = new Map(
-  (countriesData as { label: string; description: string }[]).map((c) => [c.label, c.description]),
+type CountryData = { label: string; description: string; intro?: string[] }
+const countryDataMap = new Map(
+  (countriesData as CountryData[]).map((c) => [c.label, c]),
 )
 
 function toItems(labels: string[]): TaxonomyItem[] {
   return [...new Set(labels)]
     .filter(Boolean)
-    .map((label, i) => ({ id: String(i + 1), label, description: countryDescriptions.get(label) }))
+    .map((label, i) => {
+      const data = countryDataMap.get(label)
+      return { id: String(i + 1), label, description: data?.description, intro: data?.intro }
+    })
 }
 
 export const tagItems = tags as TaxonomyItem[]

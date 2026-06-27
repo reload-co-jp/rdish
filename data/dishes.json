@@ -21718,6 +21718,7 @@
     "id": "sauce-vin-blanc",
     "name": "ソース・ヴァンブラン",
     "kana": "そーす ゔぁんぶらん",
+    "aliases": ["ヴァンブランソース", "白ワインソース"],
     "englishName": "White wine sauce",
     "originalName": "Sauce vin blanc",
     "category": "ソース",

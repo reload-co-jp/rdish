@@ -77,16 +77,34 @@ export default async function CountryPage({
       <p style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}>
         全{results.length}件{total > 1 ? ` / ${total}ページ中 1ページ目` : ""}
       </p>
-      <p
-        style={{
-          color: "#7a6655",
-          fontSize: "0.9375rem",
-          lineHeight: 1.8,
-          margin: "0 0 1.5rem",
-        }}
-      >
-        {description}
-      </p>
+      {item.intro ? (
+        <div style={{ margin: "0 0 1.5rem" }}>
+          {item.intro.map((paragraph, i) => (
+            <p
+              key={i}
+              style={{
+                color: "#7a6655",
+                fontSize: "0.9375rem",
+                lineHeight: 1.8,
+                marginBottom: i < item.intro!.length - 1 ? "0.75rem" : 0,
+              }}
+            >
+              {paragraph}
+            </p>
+          ))}
+        </div>
+      ) : (
+        <p
+          style={{
+            color: "#7a6655",
+            fontSize: "0.9375rem",
+            lineHeight: 1.8,
+            margin: "0 0 1.5rem",
+          }}
+        >
+          {description}
+        </p>
+      )}
       {localities.length > 0 && (
         <div style={{ display: "flex", flexWrap: "wrap", gap: "0.375rem 1rem", marginBottom: "1.5rem" }}>
           {localities.map((loc) => (
