@@ -21718,7 +21718,10 @@
     "id": "sauce-vin-blanc",
     "name": "ソース・ヴァンブラン",
     "kana": "そーす ゔぁんぶらん",
-    "aliases": ["ヴァンブランソース", "白ワインソース"],
+    "aliases": [
+      "ヴァンブランソース",
+      "白ワインソース"
+    ],
     "englishName": "White wine sauce",
     "originalName": "Sauce vin blanc",
     "category": "ソース",
@@ -93848,6 +93851,879 @@
       "/images/dishes/rollmops/1.webp",
       "/images/dishes/rollmops/2.webp",
       "/images/dishes/rollmops/3.webp"
+    ]
+  },
+  {
+    "id": "feijoada",
+    "name": "フェジョアーダ",
+    "kana": "ふぇじょあーだ",
+    "aliases": [
+      "フェイジョアーダ",
+      "フェイジョアダ"
+    ],
+    "englishName": "Feijoada",
+    "originalName": "Feijoada",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ブラジル"
+      },
+      {
+        "country": "ポルトガル"
+      }
+    ],
+    "summary": "黒豆または各種豆を豚肉・牛肉・ソーセージと煮込む、ポルトガル語圏の代表的な豆煮込み。ブラジルでは米、ファロファ、青菜、オレンジを添える主菜として知られる。",
+    "menuDescription": "豆と肉の濃厚な煮込み。ブラジル料理店ではライス、ファロファ、青菜、オレンジ付きの定食風で出ることが多い。",
+    "whatComesOut": [
+      "黒豆と豚肉・牛肉の深い色の煮込み",
+      "白米、ファロファ、青菜、オレンジなどの付け合わせ",
+      "店によってソーセージ、干し肉、豚耳、豚足などが入る"
+    ],
+    "tasteAndTexture": [
+      "豆のほくほく感と肉の旨味が強い",
+      "塩気と燻製香があり、辛さはほぼない",
+      "重めで食べ応えがある"
+    ],
+    "orderAdvice": "量が多く重め。初めてならランチやシェア向き。内臓系が苦手なら具材を確認。",
+    "similarItems": [
+      {
+        "id": "cassoulet",
+        "name": "カスレ",
+        "difference": "カスレは白いんげんと鴨・ソーセージのフランス風煮込み。フェジョアーダは黒豆と豚肉主体で付け合わせ込みの食事感が強い"
+      },
+      {
+        "name": "チリコンカン",
+        "difference": "チリコンカンは唐辛子やスパイスが主役。フェジョアーダは豆と肉の旨味が中心で辛くない"
+      }
+    ],
+    "relatedIds": [
+      "cassoulet",
+      "chorizo"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Feijoada_(Brazilian_dish)",
+      "https://en.wikipedia.org/wiki/Feijoada"
+    ],
+    "tags": [
+      "ブラジル料理",
+      "ポルトガル料理",
+      "主菜",
+      "豆",
+      "豚肉",
+      "牛肉",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ブラジルの黒豆煮込み",
+      "豆と豚肉の煮込み",
+      "ファロファと食べる料理",
+      "ブラジル国民食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/feijoada/1.jpg",
+      "/images/dishes/feijoada/2.jpg",
+      "/images/dishes/feijoada/3.jpg"
+    ]
+  },
+  {
+    "id": "acaraje",
+    "name": "アカラジェ",
+    "kana": "あからじぇ",
+    "aliases": [
+      "アカラジェー",
+      "アカラジエ"
+    ],
+    "englishName": "Acarajé",
+    "originalName": "Acarajé",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ブラジル",
+        "area": "バイーア"
+      },
+      {
+        "area": "西アフリカ"
+      }
+    ],
+    "summary": "黒目豆の生地をデンデ油で揚げ、割ってヴァタパやカルル、干しエビ、辛いソースを詰めるバイーア名物。西アフリカ由来で、カンドンブレの供物としても重要。",
+    "menuDescription": "豆の揚げパンに海老やペーストを挟むブラジル北東部の屋台料理。辛いソースの有無を選べることが多い。",
+    "whatComesOut": [
+      "丸く揚げた黒目豆の生地を半分に割ったもの",
+      "ヴァタパ、カルル、干しエビ、サラダ状の具",
+      "デンデ油の濃い香りと黄色い色合い"
+    ],
+    "tasteAndTexture": [
+      "外は香ばしく中は豆のふんわり感",
+      "デンデ油と海老の風味が強い",
+      "辛味ソース入りはかなり刺激的"
+    ],
+    "orderAdvice": "辛さと干しエビの有無を確認。油が強いので軽食でも満腹感あり。",
+    "caution": "海老、ナッツ、豆、パーム油を使うことが多い。アレルギー注意。",
+    "similarItems": [
+      {
+        "id": "fritter",
+        "name": "フリッター",
+        "difference": "フリッターは衣揚げ全般。アカラジェは黒目豆生地とデンデ油、詰め物が特徴"
+      },
+      {
+        "name": "ファラフェル",
+        "difference": "ファラフェルはひよこ豆やそら豆の中東風団子。アカラジェは黒目豆を大きく揚げて具を挟む"
+      }
+    ],
+    "relatedIds": [
+      "fritter"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Akara",
+      "https://es.wikipedia.org/wiki/Akara"
+    ],
+    "tags": [
+      "ブラジル料理",
+      "前菜",
+      "豆",
+      "魚介",
+      "揚げ物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "バイーアの屋台料理",
+      "黒目豆の揚げ物",
+      "デンデ油の揚げパン",
+      "ヴァタパを挟む料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/acaraje/1.jpg",
+      "/images/dishes/acaraje/2.jpg",
+      "/images/dishes/acaraje/3.jpg"
+    ]
+  },
+  {
+    "id": "pao-de-queijo",
+    "name": "ポン・デ・ケージョ",
+    "kana": "ぽんでけーじょ",
+    "aliases": [
+      "ポンデケージョ",
+      "パォン・デ・ケイジョ"
+    ],
+    "englishName": "Brazilian cheese bread",
+    "originalName": "Pão de queijo",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ブラジル",
+        "area": "ミナスジェライス"
+      }
+    ],
+    "summary": "キャッサバ粉とチーズで作る小さな焼きパン。外は軽く香ばしく、中はもちもち弾力があり、ブラジルでは朝食や軽食として親しまれる。",
+    "menuDescription": "もちもちしたチーズパン。コーヒーの横や前菜盛り合わせで出やすい。",
+    "whatComesOut": [
+      "一口大の丸い焼きパン",
+      "チーズの香りがある黄色っぽい生地",
+      "店により温かい状態で数個提供"
+    ],
+    "tasteAndTexture": [
+      "外側は軽くさっくり",
+      "中はもちもちで弾力が強い",
+      "チーズの塩気とミルキーさ"
+    ],
+    "orderAdvice": "クセが少なく初心者向き。冷めると硬くなりやすいので温かいうちに食べる。",
+    "caution": "チーズ、卵、乳を使うことが多い。",
+    "similarItems": [
+      {
+        "name": "グジェール",
+        "difference": "グジェールはシュー生地のチーズ菓子。ポン・デ・ケージョはキャッサバ粉でよりもちもち"
+      },
+      {
+        "name": "チパ",
+        "difference": "チパは南米内陸部の類似チーズパン。ポン・デ・ケージョはブラジル式の小型丸パンとして広く流通"
+      }
+    ],
+    "relatedIds": [
+      "edam-cheese"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/P%C3%A3o_de_queijo",
+      "https://es.wikipedia.org/wiki/P%C3%A3o_de_queijo"
+    ],
+    "tags": [
+      "ブラジル料理",
+      "前菜",
+      "チーズ",
+      "小麦",
+      "焼き物",
+      "もちもち",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ブラジルのチーズパン",
+      "もちもちチーズボール",
+      "キャッサバ粉のパン",
+      "グルテンなしのチーズパン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pao-de-queijo/1.jpg"
+    ]
+  },
+  {
+    "id": "moqueca",
+    "name": "ムケッカ",
+    "kana": "むけっか",
+    "aliases": [
+      "モケカ",
+      "ムケカ"
+    ],
+    "englishName": "Moqueca",
+    "originalName": "Moqueca",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ブラジル",
+        "area": "バイーア"
+      },
+      {
+        "country": "ブラジル",
+        "area": "エスピリトサント"
+      }
+    ],
+    "summary": "魚や海老をトマト、玉ねぎ、にんにく、ライム、香草で煮るブラジルの魚介煮込み。バイーア式はデンデ油とココナッツミルク、カピシャーバ式はアナトーと土鍋が特徴。",
+    "menuDescription": "魚介のブラジル風シチュー。米やピロンを添えて、鍋ごと出ることがある。",
+    "whatComesOut": [
+      "魚または海老の赤橙色の煮込み",
+      "トマト、玉ねぎ、香菜、ライムの香り",
+      "米、ファロファ、ピロンなどの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "魚介の旨味とトマトの酸味",
+      "ココナッツ入りはまろやかで濃厚",
+      "辛さは店や地域で差がある"
+    ],
+    "orderAdvice": "バイーア式は濃厚、カピシャーバ式は軽め。コリアンダーやココナッツが苦手なら確認。",
+    "caution": "魚介、ココナッツ、コリアンダーを使うことが多い。",
+    "similarItems": [
+      {
+        "id": "escabeche",
+        "name": "エスカベッシュ",
+        "difference": "エスカベッシュは酸味のあるマリネ。ムケッカは温かい魚介煮込み"
+      },
+      {
+        "name": "ブイヤベース",
+        "difference": "ブイヤベースは地中海風の魚介スープ。ムケッカはデンデ油やココナッツ、香菜のブラジル風味"
+      }
+    ],
+    "relatedIds": [
+      "escabeche",
+      "bacalhau"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Moqueca",
+      "https://es.wikipedia.org/wiki/Moqueca"
+    ],
+    "tags": [
+      "ブラジル料理",
+      "主菜",
+      "魚介",
+      "野菜",
+      "煮込み",
+      "クリーミー",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ブラジルの魚介煮込み",
+      "ココナッツミルクの魚シチュー",
+      "デンデ油の海鮮鍋",
+      "バイーア料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/moqueca/1.jpg",
+      "/images/dishes/moqueca/2.jpg",
+      "/images/dishes/moqueca/3.jpg"
+    ]
+  },
+  {
+    "id": "picanha",
+    "name": "ピッカーニャ",
+    "kana": "ぴっかーにゃ",
+    "aliases": [
+      "ピカーニャ",
+      "ピカンハ"
+    ],
+    "englishName": "Picanha",
+    "originalName": "Picanha",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ブラジル"
+      },
+      {
+        "country": "ポルトガル"
+      }
+    ],
+    "summary": "牛のランプキャップまたはトップサーロインキャップにあたる脂身付きの部位。ブラジルでは粗塩だけで串焼きにするシュラスコの定番として人気が高い。",
+    "menuDescription": "脂身を残して焼くブラジル式ステーキ。シュラスコ店では串から薄く切り分けられる。",
+    "whatComesOut": [
+      "厚い脂身をまとった牛肉のグリル",
+      "粗塩中心のシンプルな味付け",
+      "シュラスコでは串焼きの塊肉からスライス"
+    ],
+    "tasteAndTexture": [
+      "赤身の濃い牛肉感",
+      "脂身の甘みと香ばしさ",
+      "焼き加減で柔らかさが変わる"
+    ],
+    "orderAdvice": "脂が苦手なら端を避ける。シュラスコでは少量ずつもらい、好みの焼き加減を選ぶ。",
+    "similarItems": [
+      {
+        "name": "ステーキ",
+        "difference": "一般的なステーキより脂身付きの部位感と粗塩グリルのブラジルらしさが強い"
+      },
+      {
+        "name": "ターフェルシュピッツ",
+        "difference": "同じ部位を使うことがあるが、ターフェルシュピッツは煮込み料理。ピッカーニャは焼き物"
+      }
+    ],
+    "relatedIds": [
+      "chorizo"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Picanha",
+      "https://pt.wikipedia.org/wiki/Picanha"
+    ],
+    "tags": [
+      "ブラジル料理",
+      "主菜",
+      "牛肉",
+      "グリル",
+      "焼き物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ブラジルの牛肉串焼き",
+      "シュラスコの定番部位",
+      "脂身付きランプキャップ",
+      "トップサーロインキャップ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/picanha/1.jpg",
+      "/images/dishes/picanha/2.jpg",
+      "/images/dishes/picanha/3.jpg"
+    ]
+  },
+  {
+    "id": "frango-a-passarinho",
+    "name": "フランゴパッサリーニョ",
+    "kana": "ふらんごぱっさりーにょ",
+    "aliases": [
+      "フランゴ・ア・パッサリーニョ",
+      "フランゴ ア パッサリーニョ"
+    ],
+    "englishName": "Frango à passarinho",
+    "originalName": "Frango à passarinho",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ブラジル"
+      },
+      {
+        "country": "ポルトガル"
+      }
+    ],
+    "summary": "鶏肉、特に手羽を小さく切って油で揚げ、揚げにんにくやオリーブオイル、パセリを絡めるブラジルのつまみ料理。名前は「小鳥風の鶏」の意味。",
+    "menuDescription": "小さく切った鶏の唐揚げ。にんにくが効いたビール向きの一皿。",
+    "whatComesOut": [
+      "骨付きまたは骨周りの小さな揚げ鶏",
+      "揚げにんにく、パセリ、レモンなど",
+      "バーでは取り分け用の盛り皿"
+    ],
+    "tasteAndTexture": [
+      "外はカリッと香ばしい",
+      "にんにくと塩気が強い",
+      "骨周りの旨味がある"
+    ],
+    "orderAdvice": "手で食べる場面が多い。骨付きが苦手なら部位を確認。ビールのつまみに向く。",
+    "similarItems": [
+      {
+        "name": "唐揚げ",
+        "difference": "唐揚げは一口大の鶏を衣で揚げる日本料理。フランゴパッサリーニョは小さな骨付きカットとにんにくが特徴"
+      },
+      {
+        "id": "tempura",
+        "name": "天ぷら",
+        "difference": "天ぷらは軽い衣。フランゴパッサリーニョは鶏を直接香ばしく揚げる"
+      }
+    ],
+    "relatedIds": [
+      "tempura"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Frango_%C3%A0_passarinho",
+      "https://pt.wikipedia.org/wiki/Frango_%C3%A0_passarinho"
+    ],
+    "tags": [
+      "ブラジル料理",
+      "前菜",
+      "鶏肉",
+      "揚げ物",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ブラジル風鶏唐揚げ",
+      "小さな手羽の揚げ物",
+      "にんにく揚げ鶏",
+      "ビールに合うブラジル料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "caipirinha",
+    "name": "カイピリーニャ",
+    "kana": "かいぴりーにゃ",
+    "aliases": [
+      "カイピリーニャ"
+    ],
+    "englishName": "Caipirinha",
+    "originalName": "Caipirinha",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "ブラジル",
+        "area": "サンパウロ"
+      }
+    ],
+    "summary": "カシャッサ、ライム、砂糖、氷で作るブラジルの代表的カクテル。ライムを砂糖と潰して香りと酸味を出し、サトウキビ由来の蒸留酒を注ぐ。",
+    "menuDescription": "ライムを潰して作る甘酸っぱいカシャッサのカクテル。ブラジル料理の定番ドリンク。",
+    "whatComesOut": [
+      "ライム片と氷が入ったロックグラス",
+      "カシャッサの強いアルコール感",
+      "砂糖で甘みを付けた透明から薄緑のカクテル"
+    ],
+    "tasteAndTexture": [
+      "ライムの酸味と皮の香り",
+      "砂糖の甘みとカシャッサの草っぽい香り",
+      "氷で冷たく、アルコールは強め"
+    ],
+    "orderAdvice": "甘さとアルコール感が強い。弱めがよければ砂糖少なめ、カシャッサ少なめを頼む。",
+    "caution": "アルコール飲料。",
+    "similarItems": [
+      {
+        "name": "モヒート",
+        "difference": "モヒートはラムとミント。カイピリーニャはカシャッサとライムが主役"
+      },
+      {
+        "name": "ダイキリ",
+        "difference": "ダイキリはラム、ライム、砂糖をシェークする。カイピリーニャはライムを潰して氷で作る"
+      }
+    ],
+    "relatedIds": [
+      "porto"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Caipirinha",
+      "https://iba-world.com/iba-official-cocktail/caipirinha/"
+    ],
+    "tags": [
+      "ブラジル料理",
+      "飲み物",
+      "果物",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ブラジルの国民的カクテル",
+      "カシャッサのライムカクテル",
+      "ライムと砂糖の酒",
+      "シュラスコに合う飲み物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/caipirinha/1.jpg"
+    ]
+  },
+  {
+    "id": "brigadeiro",
+    "name": "ブリガデイロ",
+    "kana": "ぶりがでいろ",
+    "aliases": [
+      "ブリガデーロ"
+    ],
+    "englishName": "Brigadeiro",
+    "originalName": "Brigadeiro",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ブラジル"
+      }
+    ],
+    "summary": "コンデンスミルク、ココア、バターを煮詰めて丸め、チョコスプレーをまぶすブラジル定番のチョコ菓子。誕生日会や菓子店で広く見られる。",
+    "menuDescription": "小さなチョコファッジ風菓子。濃厚で甘く、トリュフのように一粒ずつ出る。",
+    "whatComesOut": [
+      "紙カップに入った小さな丸いチョコ菓子",
+      "表面のチョコスプレーやナッツ",
+      "スプーンで食べる柔らかい版が出ることもある"
+    ],
+    "tasteAndTexture": [
+      "ねっとり濃厚で強い甘み",
+      "ココアと練乳のミルキーさ",
+      "表面は粒々、中は柔らかい"
+    ],
+    "orderAdvice": "かなり甘いのでコーヒーと合わせると食べやすい。少量注文向き。",
+    "caution": "乳、バター、チョコを使う。",
+    "similarItems": [
+      {
+        "name": "チョコトリュフ",
+        "difference": "トリュフはガナッシュ主体。ブリガデイロは練乳を煮詰めたねっとり食感"
+      },
+      {
+        "name": "ファッジ",
+        "difference": "ファッジに近いが、ブリガデイロは丸めてスプリンクルをまぶすブラジル菓子"
+      }
+    ],
+    "relatedIds": [
+      "churros",
+      "egg-tart"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Brigadeiro",
+      "https://es.wikipedia.org/wiki/Brigadeiro"
+    ],
+    "tags": [
+      "ブラジル料理",
+      "デザート",
+      "チョコレート",
+      "乳製品",
+      "甘み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ブラジルのチョコ菓子",
+      "練乳のチョコボール",
+      "誕生日の定番菓子",
+      "チョコスプレーの丸い菓子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/brigadeiro/1.jpg",
+      "/images/dishes/brigadeiro/2.jpg",
+      "/images/dishes/brigadeiro/3.jpg"
+    ]
+  },
+  {
+    "id": "acai",
+    "name": "アサイー",
+    "kana": "あさいー",
+    "aliases": [
+      "アサイ",
+      "アサイーボウル"
+    ],
+    "englishName": "Açaí",
+    "originalName": "Açaí",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ブラジル",
+        "area": "アマゾン"
+      }
+    ],
+    "summary": "アマゾン原産のアサイーヤシの紫色の果実。ブラジルでは冷凍ピューレをボウルにし、果物やグラノーラをのせるデザートや軽食として広まった。",
+    "menuDescription": "紫色の冷たいアサイーピューレ。バナナ、ベリー、グラノーラをのせたボウルで出ることが多い。",
+    "whatComesOut": [
+      "濃い紫色の冷たいピューレまたはスムージー",
+      "バナナ、ベリー、グラノーラ、蜂蜜などのトッピング",
+      "ボウル、カップ、ドリンク形式"
+    ],
+    "tasteAndTexture": [
+      "ベリーに近い酸味と土っぽい風味",
+      "砂糖や果物で甘く調整される",
+      "シャーベット状で冷たい"
+    ],
+    "orderAdvice": "店により甘さとトッピング量が大きく違う。食事代わりならグラノーラやナッツ入りを選ぶ。",
+    "caution": "冷たいデザート。市販品は砂糖が多い場合あり。",
+    "similarItems": [
+      {
+        "name": "スムージーボウル",
+        "difference": "スムージーボウルは果物全般。アサイーはアサイーピューレの紫色と独特の渋みが中心"
+      },
+      {
+        "name": "シャーベット",
+        "difference": "シャーベットより果実ピューレ感とトッピングの食事感が強い"
+      }
+    ],
+    "relatedIds": [],
+    "source": [
+      "https://en.wikipedia.org/wiki/A%C3%A7a%C3%AD_palm",
+      "https://www.thespruceeats.com/what-is-acai-4707708"
+    ],
+    "tags": [
+      "ブラジル料理",
+      "デザート",
+      "果物",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "紫のスムージーボウル",
+      "ブラジルの冷たい果実デザート",
+      "アマゾンのベリー",
+      "グラノーラをのせるアサイー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/acai/1.jpg",
+      "/images/dishes/acai/2.jpg",
+      "/images/dishes/acai/3.jpg"
+    ]
+  },
+  {
+    "id": "pastel-brasileiro",
+    "name": "パステウ",
+    "kana": "ぱすてう",
+    "aliases": [
+      "パステル",
+      "パステウ・デ・フェイラ"
+    ],
+    "englishName": "Brazilian pastel",
+    "originalName": "Pastel brasileiro",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ブラジル",
+        "area": "サンパウロ"
+      }
+    ],
+    "summary": "薄い生地で肉、チーズ、鶏、海老、ハートオブパームなどを包み、油で揚げるブラジルの屋台軽食。市場ではサトウキビジュースとよく合わせる。",
+    "menuDescription": "薄皮の揚げパイ。中身はチーズ、ひき肉、鶏、海老、甘い具などから選ぶ。",
+    "whatComesOut": [
+      "長方形または半月形の大きな揚げパイ",
+      "中に肉、チーズ、野菜、海老などの具",
+      "薄く膨らんだカリカリの皮"
+    ],
+    "tasteAndTexture": [
+      "皮が軽くサクサク",
+      "具は塩気がありジューシー",
+      "揚げ物だが中は空気感がある"
+    ],
+    "orderAdvice": "具材名で選ぶ。熱々で出るので中の蒸気に注意。軽食なら1個で十分なことが多い。",
+    "similarItems": [
+      {
+        "name": "エンパナーダ",
+        "difference": "エンパナーダは焼きまたは揚げの厚め生地が多い。パステウは薄皮で大きくサクサク"
+      },
+      {
+        "id": "spring-roll",
+        "name": "春巻き",
+        "difference": "春巻き由来説があるが、パステウはブラジル式の大判パイで具の種類が幅広い"
+      }
+    ],
+    "relatedIds": [
+      "fritter",
+      "tempura"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pastel_(Brazilian_food)",
+      "https://en.wikipedia.org/wiki/Pastel_(food)"
+    ],
+    "tags": [
+      "ブラジル料理",
+      "前菜",
+      "小麦",
+      "揚げ物",
+      "チーズ",
+      "魚介",
+      "サクサク"
+    ],
+    "reverseKeywords": [
+      "ブラジルの揚げパイ",
+      "市場のパステル",
+      "薄皮の揚げスナック",
+      "サトウキビジュースと食べる料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pastel-brasileiro/1.jpg",
+      "/images/dishes/pastel-brasileiro/2.jpg",
+      "/images/dishes/pastel-brasileiro/3.jpg"
+    ]
+  },
+  {
+    "id": "bolo-de-rolo",
+    "name": "ボーロ・デ・ロロ",
+    "kana": "ぼーろでろろ",
+    "aliases": [
+      "ボロ・デ・ロロ"
+    ],
+    "englishName": "Bolo de rolo",
+    "originalName": "Bolo de rolo",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ブラジル",
+        "area": "ペルナンブーコ"
+      }
+    ],
+    "summary": "薄く焼いた生地にグアバペーストを塗り、何層にも巻いたペルナンブーコ州のロールケーキ。断面の細い渦巻きと甘酸っぱいグアバ味が特徴。",
+    "menuDescription": "薄い層が何重にも巻かれたグアバ入りロールケーキ。スライスで出ることが多い。",
+    "whatComesOut": [
+      "薄い渦巻き模様のケーキスライス",
+      "グアバペーストの赤い層",
+      "砂糖をまぶした表面"
+    ],
+    "tasteAndTexture": [
+      "しっとり薄いスポンジ",
+      "グアバの甘酸っぱさ",
+      "バターと砂糖の濃い甘み"
+    ],
+    "orderAdvice": "甘いのでコーヒーや紅茶と合わせるとよい。ロールケーキに見えて層がかなり薄い。",
+    "caution": "小麦、卵、乳を使う。",
+    "similarItems": [
+      {
+        "name": "ロールケーキ",
+        "difference": "一般的なロールケーキより層が薄く多く、クリームではなくグアバペーストを巻く"
+      },
+      {
+        "name": "スイスロール",
+        "difference": "スイスロールは厚いスポンジとクリームが多い。ボーロ・デ・ロロは薄層とグアバが特徴"
+      }
+    ],
+    "relatedIds": [
+      "egg-tart",
+      "churros"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Bolo_de_rolo",
+      "https://pt.wikipedia.org/wiki/Bolo_de_rolo"
+    ],
+    "tags": [
+      "ブラジル料理",
+      "デザート",
+      "小麦",
+      "果物",
+      "焼き物",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "ブラジルの薄いロールケーキ",
+      "グアバペーストのケーキ",
+      "ペルナンブーコ名物菓子",
+      "渦巻きのブラジル菓子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bolo-de-rolo/1.jpg",
+      "/images/dishes/bolo-de-rolo/2.jpg"
+    ]
+  },
+  {
+    "id": "coxinha",
+    "name": "コシーニャ",
+    "kana": "こしーにゃ",
+    "aliases": [
+      "コシーニャ"
+    ],
+    "englishName": "Coxinha",
+    "originalName": "Coxinha",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ブラジル",
+        "area": "サンパウロ"
+      }
+    ],
+    "summary": "ほぐした鶏肉を小麦粉と鶏だしの生地で包み、しずく形または鶏もも形に成形して衣を付けて揚げるブラジルの軽食。",
+    "menuDescription": "鶏肉入りの揚げコロッケ。涙型で、外はカリッと中はしっとり。",
+    "whatComesOut": [
+      "しずく形または鶏もも形の揚げ物",
+      "中にほぐし鶏、玉ねぎ、ハーブ、クリームチーズ系の具",
+      "パン粉やマンジョッカ粉の衣"
+    ],
+    "tasteAndTexture": [
+      "外側はカリッと香ばしい",
+      "中は鶏だしの生地でもっちり",
+      "具は鶏の旨味と軽いクリーミーさ"
+    ],
+    "orderAdvice": "ブラジル軽食の入門向き。揚げたては中が熱い。辛いソースを添える店もある。",
+    "caution": "小麦、鶏肉、乳製品を使うことが多い。",
+    "similarItems": [
+      {
+        "name": "クロケット",
+        "difference": "クロケットはじゃがいもやベシャメル主体が多い。コシーニャは鶏肉餡と鶏だし生地、涙型が特徴"
+      },
+      {
+        "name": "チキンナゲット",
+        "difference": "ナゲットは肉片や成形肉。コシーニャは鶏の具を生地で包むスナック"
+      }
+    ],
+    "relatedIds": [
+      "fritter"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Coxinha",
+      "https://es.wikipedia.org/wiki/Coxinha"
+    ],
+    "tags": [
+      "ブラジル料理",
+      "前菜",
+      "鶏肉",
+      "小麦",
+      "揚げ物",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ブラジルの鶏コロッケ",
+      "涙型の揚げスナック",
+      "ほぐし鶏入り揚げ物",
+      "サンパウロ発祥の軽食"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/coxinha/1.jpg",
+      "/images/dishes/coxinha/2.jpg",
+      "/images/dishes/coxinha/3.jpg"
     ]
   }
 ]
