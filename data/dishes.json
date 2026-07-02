@@ -95996,5 +95996,1489 @@
       "/images/dishes/potjiekos/2.jpg",
       "/images/dishes/potjiekos/3.jpg"
     ]
+  },
+  {
+    "id": "siu-yue-zhu",
+    "name": "焼乳猪",
+    "kana": "しょうにゅうちょ",
+    "aliases": [
+      "焼き乳猪",
+      "燒乳豬",
+      "烤乳猪",
+      "ローストサックリングピッグ"
+    ],
+    "englishName": "Cantonese roast suckling pig",
+    "originalName": "燒乳豬",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "広東"
+      },
+      {
+        "country": "中国",
+        "locality": "香港"
+      }
+    ],
+    "summary": "乳飲み子豚を丸ごと高温で焼き、薄く割れるような皮と柔らかい肉を楽しむ広東料理の焼味。宴会、結婚式、祝い事で出ることが多く、皮だけを薄餅や甘味噌と合わせる提供もある。",
+    "menuDescription": "広東式の子豚丸焼き。パリパリの皮と柔らかい肉を、小皿または宴会の大皿で食べる祝祭料理。",
+    "whatComesOut": [
+      "赤褐色につやよく焼かれた乳猪の皮と肉",
+      "皮を四角く切った前菜風の盛り付け",
+      "甜麺醤、海鮮醤、砂糖、マスタード、薄餅が添えられる場合あり",
+      "宴会では頭付きの丸焼き姿で出ることもある"
+    ],
+    "tasteAndTexture": [
+      "皮は薄くガラス質でパリパリ",
+      "肉は若い豚らしく柔らかく脂は軽い",
+      "炭火やローストの香ばしさが強い",
+      "味付けは甘じょっぱく、辛さはほぼない"
+    ],
+    "orderAdvice": "宴会料理寄りで単品少量は少ない。皮だけ食べる前菜か、肉付きの大皿か確認。北京ダックのように薄餅で包む店もある。",
+    "caution": "皮の脂と砂糖系ソースで重め。骨付きや頭付き提供の場合あり。",
+    "similarItems": [
+      {
+        "id": "peking-duck",
+        "name": "北京ダック",
+        "difference": "北京ダックは鴨の皮を薄餅で食べる料理。焼乳猪は子豚の皮と肉を食べる広東式焼味"
+      },
+      {
+        "id": "spare-ribs",
+        "name": "スペアリブ",
+        "difference": "スペアリブは豚あばら肉の焼き物。焼乳猪は乳飲み子豚を丸ごと焼く祝祭料理"
+      },
+      {
+        "name": "レチョン",
+        "difference": "レチョンはフィリピンやスペイン語圏の豚丸焼き。焼乳猪は広東式の薄いクリスピー皮と焼味文化が特徴"
+      }
+    ],
+    "relatedIds": [
+      "peking-duck",
+      "roast",
+      "grill",
+      "spare-ribs",
+      "kao-ya-bing"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Siu_yuk",
+      "https://en.wikipedia.org/wiki/Suckling_pig",
+      "https://en.wikipedia.org/wiki/Siu_mei"
+    ],
+    "tags": [
+      "中国料理",
+      "広東料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "グリル",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "広東式の子豚丸焼き",
+      "パリパリ皮の乳猪",
+      "中華宴会の焼き子豚",
+      "焼味の祝祭料理",
+      "薄餅で食べる豚の皮"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "yi-pin-guan-yan",
+    "name": "一品官燕",
+    "kana": "いっぴんかんえん",
+    "aliases": [
+      "官燕",
+      "燕窩スープ",
+      "燕窝"
+    ],
+    "englishName": "Premium bird's nest soup",
+    "originalName": "一品官燕",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "アナツバメ類の唾液でできた食用燕窩を戻し、澄んだ上湯や氷糖で二重蒸しにする高級中華料理。官燕は形と品質のよい白燕を指すことが多く、宴席や滋補料理として扱われる。",
+    "menuDescription": "高級燕窩の澄んだ蒸しスープ。甘いデザート仕立て、または上湯の塩味仕立てで出る。",
+    "whatComesOut": [
+      "透明感のある細い燕窩の繊維",
+      "小さな蓋付き椀や陶器の蒸し器",
+      "氷糖、上湯、鶏清湯、時に枸杞やナツメ"
+    ],
+    "tasteAndTexture": [
+      "味は淡く上品",
+      "燕窩はゼリー状でなめらか",
+      "甘味版はすっきり、鹹味版は鶏湯の旨味",
+      "油気は少ない"
+    ],
+    "orderAdvice": "価格差が大きい。甘味か塩味か、乾燥燕窩の量を確認。珍味目的なら少量で十分。",
+    "caution": "高価。動物性素材で、品質差や産地差が大きい。",
+    "similarItems": [
+      {
+        "id": "yu-chi-tang",
+        "name": "魚翅湯",
+        "difference": "魚翅湯はふかひれの食感と濃い上湯。官燕は燕窩のゼリー状食感が中心"
+      },
+      {
+        "id": "xingren-gao",
+        "name": "杏仁羹",
+        "difference": "杏仁羹は杏仁風味の甘い羹。官燕は燕窩そのものを味わう高級スープ"
+      }
+    ],
+    "relatedIds": [
+      "yu-chi-tang",
+      "xingren-gao",
+      "consomme"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Edible_bird%27s_nest",
+      "https://www.thespruceeats.com/birds-nest-soup-recipe-4056390",
+      "https://en.wikipedia.org/wiki/Double_steaming"
+    ],
+    "tags": [
+      "中国料理",
+      "スープ",
+      "デザート",
+      "魚介",
+      "蒸し料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "燕窩の高級スープ",
+      "鳥の巣スープ",
+      "中華の滋補料理",
+      "氷糖燕窩"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "shui-jing-yao-rou",
+    "name": "水晶肴肉",
+    "kana": "すいしょうやおろう",
+    "aliases": [
+      "水晶肴蹄",
+      "鎮江肴肉"
+    ],
+    "englishName": "Zhenjiang crystal pork terrine",
+    "originalName": "水晶肴肉",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "江蘇"
+      }
+    ],
+    "summary": "江蘇省鎮江の名菜。豚蹄を塩や硝水で処理し、香辛料と紹興酒で煮て冷やし固める。赤い肉と透明な煮こごりが水晶のように見える冷菜。",
+    "menuDescription": "豚蹄の冷製テリーヌ。薄切りで、鎮江香醋や生姜と食べる。",
+    "whatComesOut": [
+      "透明な煮こごりをまとった薄切り豚肉",
+      "赤みのある肉と白く透ける皮",
+      "生姜、黒酢、醤油系のたれ"
+    ],
+    "tasteAndTexture": [
+      "ぷるっとしたゼラチン質",
+      "豚の旨味と塩気",
+      "黒酢で後味が締まる",
+      "冷菜で脂は比較的軽い"
+    ],
+    "orderAdvice": "前菜向き。酢と生姜を合わせると食べやすい。ゼラチン食感が苦手なら少量から。",
+    "similarItems": [
+      {
+        "id": "terrine",
+        "name": "テリーヌ",
+        "difference": "テリーヌは型詰めの洋風料理。水晶肴肉は豚蹄と煮こごりの中華冷菜"
+      },
+      {
+        "id": "aspic",
+        "name": "アスピック",
+        "difference": "アスピックはゼリー寄せ全般。水晶肴肉は鎮江名物の豚肉料理"
+      }
+    ],
+    "relatedIds": [
+      "terrine",
+      "aspic",
+      "zhenjiang-xiang-cu"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E6%B0%B4%E6%99%B6%E8%82%B4%E8%82%89"
+    ],
+    "tags": [
+      "中国料理",
+      "前菜",
+      "豚肉",
+      "煮込み",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "鎮江の豚蹄冷菜",
+      "透明な煮こごり肉",
+      "黒酢で食べる豚肉",
+      "水晶肴蹄"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "song-shu-gui-yu",
+    "name": "松鼠桂魚",
+    "kana": "しょうそけいぎょ",
+    "aliases": [
+      "松鼠鳜鱼",
+      "松鼠魚",
+      "松鼠桂鱼"
+    ],
+    "englishName": "Squirrel-shaped Mandarin Fish",
+    "originalName": "松鼠桂魚",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "江蘇"
+      }
+    ],
+    "summary": "蘇州発祥の江蘇料理。桂魚を開いて細かく切り込み、リスのような形に揚げ、甘酢あんをかける華やかな魚料理。",
+    "menuDescription": "花のように開いた揚げ魚に甘酢あんをかける蘇州名物。見た目が派手で宴席向き。",
+    "whatComesOut": [
+      "丸ごと開いた魚の揚げ物",
+      "赤橙色の甘酢あん",
+      "松の実やグリーンピースを添える場合あり"
+    ],
+    "tasteAndTexture": [
+      "外はサクサク",
+      "魚身はふんわり",
+      "甘酸っぱいソースが濃い",
+      "油と酸味のバランス"
+    ],
+    "orderAdvice": "骨が残る場合あり。甘酸っぱい味が好きなら向く。大皿なのでシェア向き。",
+    "caution": "魚の骨に注意。",
+    "similarItems": [
+      {
+        "id": "da-qian-gan-shao-yu",
+        "name": "大千干焼魚",
+        "difference": "大千干焼魚は辛味と発酵味の四川魚料理。松鼠桂魚は甘酢味の揚げ魚"
+      },
+      {
+        "id": "nanbanzuke",
+        "name": "南蛮漬け",
+        "difference": "南蛮漬けは酢に漬ける日本料理。松鼠桂魚は揚げたてに甘酢あんをかける"
+      }
+    ],
+    "relatedIds": [
+      "fry",
+      "nanbanzuke",
+      "da-qian-gan-shao-yu",
+      "zhenjiang-xiang-cu"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Squirrel_fish",
+      "https://zh.wikipedia.org/wiki/%E6%9D%BE%E9%BC%A0%E9%B3%9C%E9%B1%BC"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "揚げ物",
+      "酸味",
+      "甘み",
+      "サクサク"
+    ],
+    "reverseKeywords": [
+      "蘇州の甘酢揚げ魚",
+      "リス形の桂魚",
+      "松鼠魚",
+      "中華の華やかな魚料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/song-shu-gui-yu/1.jpg",
+      "/images/dishes/song-shu-gui-yu/2.jpg",
+      "/images/dishes/song-shu-gui-yu/3.jpg"
+    ]
+  },
+  {
+    "id": "fo-tiao-qiang",
+    "name": "仏跳墻",
+    "kana": "ぶっちょうしょう",
+    "aliases": [
+      "佛跳牆",
+      "佛跳墙",
+      "福寿全",
+      "Buddha Jumps Over the Wall"
+    ],
+    "englishName": "Buddha Jumps Over the Wall",
+    "originalName": "佛跳牆",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "福建・福州の高級壺煮込み。鮑、干貝、海参、魚肚、鶏、豚、ハム、筍、茸などを紹興酒と上湯で長時間煨る。濃い香りで僧も壁を跳ぶという名の名菜。",
+    "menuDescription": "海味と肉を壺で煮込む福建の高級スープ。濃厚な旨味の宴会料理。",
+    "whatComesOut": [
+      "小さな壺や蓋付き椀の濃いスープ",
+      "鮑、干貝、海参、魚肚、鶏、豚、ハムなど",
+      "紹興酒の香り"
+    ],
+    "tasteAndTexture": [
+      "海味と肉の強い旨味",
+      "ゼラチン質で濃厚",
+      "香りが深く余韻が長い",
+      "辛さはない"
+    ],
+    "orderAdvice": "高価で予約制の場合あり。ふかひれ使用の有無、代替素材、量を確認。",
+    "caution": "海鮮、肉、酒を多く使う。ふかひれ入りは環境配慮面で避ける選択もある。",
+    "similarItems": [
+      {
+        "id": "yu-chi-tang",
+        "name": "魚翅湯",
+        "difference": "魚翅湯はふかひれ中心。仏跳墻は多数の海味と肉を壺で煮込む複合料理"
+      },
+      {
+        "id": "consomme",
+        "name": "コンソメ",
+        "difference": "コンソメは澄んだ洋風スープ。仏跳墻は具材量が多く濃厚"
+      }
+    ],
+    "relatedIds": [
+      "yu-chi-tang",
+      "scallop"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Buddha_Jumps_Over_the_Wall",
+      "https://zh.wikipedia.org/wiki/%E4%BD%9B%E8%B7%B3%E5%A2%99"
+    ],
+    "tags": [
+      "中国料理",
+      "スープ",
+      "魚介",
+      "鶏肉",
+      "豚肉",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "福建の高級壺スープ",
+      "佛跳牆",
+      "海味と肉の壺煮込み",
+      "福州の宴会料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fo-tiao-qiang/1.jpg",
+      "/images/dishes/fo-tiao-qiang/2.jpg"
+    ]
+  },
+  {
+    "id": "rou-yan",
+    "name": "肉燕",
+    "kana": "ろうえん",
+    "aliases": [
+      "扁肉燕",
+      "太平燕",
+      "燕皮餛飩"
+    ],
+    "englishName": "Bianrouyan",
+    "originalName": "肉燕",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "福州名物の小さなワンタン状料理。豚肉を叩いて澱粉と合わせた薄い燕皮で肉餡を包み、スープで食べる。燕の形に似ることから名が付く。",
+    "menuDescription": "肉で作った薄皮の小ワンタン。澄んだスープに浮かぶ福州の軽い一品。",
+    "whatComesOut": [
+      "小さな燕形の包みもの",
+      "澄んだスープ",
+      "豚肉餡と薄い燕皮",
+      "鴨卵入りの太平燕版もある"
+    ],
+    "tasteAndTexture": [
+      "皮がつるんとして独特",
+      "餡は豚肉の旨味",
+      "スープはあっさり",
+      "噛むと弾力がある"
+    ],
+    "orderAdvice": "ワンタンに近く初心者向き。小腹用か前菜スープとして頼む。",
+    "similarItems": [
+      {
+        "id": "wonton",
+        "name": "ワンタン",
+        "difference": "ワンタンは小麦皮。肉燕は肉を叩いた燕皮を使う"
+      },
+      {
+        "id": "xiaolongbao",
+        "name": "小籠包",
+        "difference": "小籠包は小麦皮の蒸し点心。肉燕はスープで食べる小型包み"
+      }
+    ],
+    "relatedIds": [
+      "wonton",
+      "wonton-noodles",
+      "xiaolongbao"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/BianRouYan",
+      "https://zh.wikipedia.org/wiki/%E6%89%81%E8%82%89%E7%87%95"
+    ],
+    "tags": [
+      "中国料理",
+      "スープ",
+      "豚肉",
+      "蒸し料理",
+      "あっさり",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "福州の肉皮ワンタン",
+      "燕皮のスープ点心",
+      "太平燕",
+      "扁肉燕"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "long-jing-xia-ren",
+    "name": "龍井蝦仁",
+    "kana": "ろんじんしゃーれん",
+    "aliases": [
+      "龙井虾仁",
+      "ロンジンシャーレン"
+    ],
+    "englishName": "Longjing shrimp",
+    "originalName": "龍井蝦仁",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "浙江"
+      }
+    ],
+    "summary": "杭州の名菜。河エビのむき身を龍井茶の若葉や茶湯と合わせて軽く炒め、茶の清香とエビの甘みを生かす。",
+    "menuDescription": "龍井茶の香りをまとわせたエビ炒め。淡く上品な杭州料理。",
+    "whatComesOut": [
+      "白くつやのある小エビのむき身",
+      "龍井茶葉の緑",
+      "薄い塩味の炒め物"
+    ],
+    "tasteAndTexture": [
+      "エビはぷりっと柔らかい",
+      "茶の青い香り",
+      "味は淡く油も軽い",
+      "辛さはない"
+    ],
+    "orderAdvice": "濃い味が好きなら物足りない場合あり。茶香とエビの鮮度を楽しむ料理。",
+    "caution": "エビアレルギー注意。",
+    "similarItems": [
+      {
+        "id": "garlic_shrimp",
+        "name": "ガーリックシュリンプ",
+        "difference": "ガーリックシュリンプはにんにくと油が強い。龍井蝦仁は茶香と淡味が特徴"
+      },
+      {
+        "id": "gan-shao-xia-ren",
+        "name": "干焼蝦仁",
+        "difference": "干焼蝦仁は辛味と濃いソース。龍井蝦仁は塩味で軽い"
+      }
+    ],
+    "relatedIds": [
+      "garlic_shrimp",
+      "gan-shao-xia-ren",
+      "scallop"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E9%BE%99%E4%BA%95%E8%99%BE%E4%BB%81",
+      "https://zh.wikipedia.org/wiki/%E7%A2%A7%E8%9E%BA%E8%99%BE%E4%BB%81"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "茶",
+      "炒め物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "龍井茶のエビ炒め",
+      "杭州名菜",
+      "茶葉入り蝦仁",
+      "淡味の浙江料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/long-jing-xia-ren/1.jpg"
+    ]
+  },
+  {
+    "id": "jiao-hua-ji",
+    "name": "叫花鶏",
+    "kana": "きょうかけい",
+    "aliases": [
+      "叫化雞",
+      "叫花鸡",
+      "乞兒雞",
+      "富貴雞"
+    ],
+    "englishName": "Beggar's chicken",
+    "originalName": "叫花雞",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "江蘇"
+      },
+      {
+        "country": "中国",
+        "area": "浙江"
+      }
+    ],
+    "summary": "鶏を調味して詰め物をし、蓮葉や豚網脂で包んで泥または生地で覆い、蒸し焼きにする蘇菜系の名物。泥を割る演出でも知られる。",
+    "menuDescription": "包み焼きの丸鶏。蓮葉の香りとしっとりした鶏肉を楽しむ宴会料理。",
+    "whatComesOut": [
+      "泥や生地を割って出す丸鶏",
+      "蓮葉に包まれた鶏肉",
+      "椎茸、筍、ハムなどの詰め物"
+    ],
+    "tasteAndTexture": [
+      "肉はしっとり柔らかい",
+      "蓮葉と酒の香り",
+      "旨味は濃いが辛くない",
+      "皮は焼鳥ほどパリパリではない"
+    ],
+    "orderAdvice": "調理時間が長く予約制のことあり。丸鶏なので人数でシェア。",
+    "similarItems": [
+      {
+        "id": "tandoori",
+        "name": "タンドリーチキン",
+        "difference": "タンドリーチキンはスパイス漬けの窯焼き。叫花鶏は蓮葉と泥包みで蒸し焼き"
+      },
+      {
+        "id": "roast",
+        "name": "ロースト",
+        "difference": "一般のローストより包み焼きで香りと水分を閉じ込める"
+      }
+    ],
+    "relatedIds": [
+      "roast",
+      "shiitake",
+      "tandoori"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%8F%AB%E5%8C%96%E9%B8%A1"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "鶏肉",
+      "焼き物",
+      "蒸し料理",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "泥で包む丸鶏",
+      "乞食鶏",
+      "蓮葉包み焼きチキン",
+      "蘇州杭州の名物鶏"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/jiao-hua-ji/1.jpg",
+      "/images/dishes/jiao-hua-ji/2.jpg",
+      "/images/dishes/jiao-hua-ji/3.jpg"
+    ]
+  },
+  {
+    "id": "hunan-yu-zi-doufu",
+    "name": "湖南鱼子豆腐",
+    "kana": "こなんぎょしどうふ",
+    "aliases": [
+      "湖南魚子豆腐",
+      "鱼子豆腐",
+      "魚籽豆腐"
+    ],
+    "englishName": "Hunan fish roe tofu",
+    "originalName": "湖南鱼子豆腐",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "豆腐に魚卵を合わせ、湖南料理らしく唐辛子、豆豉、にんにく、葱などで蒸すまたは煮る家庭的な魚卵豆腐。魚卵の旨味と豆腐のやわらかさを辛味でまとめる。",
+    "menuDescription": "魚卵と豆腐の湖南風煮込みまたは蒸し物。辛味のある豆腐料理。",
+    "whatComesOut": [
+      "豆腐の角切りまたは大きな塊",
+      "魚卵の粒と赤い唐辛子",
+      "豆豉、葱、にんにくの香味"
+    ],
+    "tasteAndTexture": [
+      "豆腐は柔らかい",
+      "魚卵はぷちぷちして濃い旨味",
+      "唐辛子と豆豉で塩気強め",
+      "辛味は中程度"
+    ],
+    "orderAdvice": "魚卵のクセと辛味がある。白米と合わせる主菜向き。",
+    "caution": "魚卵、豆腐、大豆を使う。塩分強め。",
+    "similarItems": [
+      {
+        "id": "mapo-tofu",
+        "name": "麻婆豆腐",
+        "difference": "麻婆豆腐は肉味噌と花椒。湖南鱼子豆腐は魚卵の旨味と湖南唐辛子が中心"
+      },
+      {
+        "id": "zhu-nao-zheng-doufu",
+        "name": "猪脳蒸豆腐",
+        "difference": "猪脳蒸豆腐は脳と豆腐の蒸し物。魚子豆腐は魚卵を使う"
+      }
+    ],
+    "relatedIds": [
+      "mapo-tofu",
+      "doubanjiang",
+      "yong-chuan-dou-chi"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E6%B9%98%E8%8F%9C",
+      "https://en.wikipedia.org/wiki/Hunan_cuisine",
+      "https://zh.wikipedia.org/wiki/%E9%B1%BC%E5%AD%90%E9%85%B1"
+    ],
+    "tags": [
+      "中国料理",
+      "湖南料理",
+      "主菜",
+      "魚介",
+      "豆類",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "湖南風の魚卵豆腐",
+      "魚籽豆腐",
+      "辛い豆腐魚卵料理",
+      "豆豉と唐辛子の豆腐"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": []
+  },
+  {
+    "id": "duo-jiao-yu-tou",
+    "name": "刹椒魚頭",
+    "kana": "さっしょうぎょとう",
+    "aliases": [
+      "剁椒魚頭",
+      "剁椒鱼头",
+      "湖南魚頭"
+    ],
+    "englishName": "Steamed fish head with chopped chili",
+    "originalName": "剁椒魚頭",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "大きな魚頭に湖南の剁辣椒をたっぷりのせて蒸す湘菜の代表料理。赤い唐辛子、魚のゼラチン質、塩気と鮮味が特徴。",
+    "menuDescription": "赤唐辛子を山盛りにした蒸し魚頭。辛く塩気の強い湖南料理。",
+    "whatComesOut": [
+      "大皿の魚頭",
+      "赤い刻み唐辛子の層",
+      "葱、にんにく、生姜、蒸し汁"
+    ],
+    "tasteAndTexture": [
+      "魚頭は柔らかくぷるっとする",
+      "剁椒の塩気と酸味",
+      "強い辛味と鮮味",
+      "油は多め"
+    ],
+    "orderAdvice": "辛さ強め。麺やご飯と合わせるとよい。骨が多いので注意。",
+    "caution": "魚骨、唐辛子、塩分に注意。",
+    "similarItems": [
+      {
+        "id": "suan-cai-yu",
+        "name": "酸菜魚",
+        "difference": "酸菜魚は酸菜入りの魚スープ。剁椒魚頭は魚頭を刻み唐辛子で蒸す"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "name": "水煮魚",
+        "difference": "水煮魚は油と唐辛子の煮込み。剁椒魚頭は蒸し料理"
+      }
+    ],
+    "relatedIds": [
+      "suan-cai-yu",
+      "shui-zhu-yu",
+      "steam",
+      "pao-la-jiao"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%89%81%E6%A4%92%E9%B1%BC%E5%A4%B4"
+    ],
+    "tags": [
+      "中国料理",
+      "湖南料理",
+      "主菜",
+      "魚介",
+      "蒸し料理",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "湖南の辛い魚頭",
+      "剁椒魚頭",
+      "刻み唐辛子蒸し魚",
+      "湘菜の代表料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 5,
+    "images": []
+  },
+  {
+    "id": "mao-doufu",
+    "name": "毛豆腐",
+    "kana": "もうどうふ",
+    "aliases": [
+      "徽州毛豆腐",
+      "霉豆腐"
+    ],
+    "englishName": "Hairy tofu",
+    "originalName": "毛豆腐",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "安徽"
+      }
+    ],
+    "summary": "豆腐を発酵させ、表面に白い菌糸を生やした徽州名物。焼く、揚げる、煮るなどして食べ、発酵香と豆腐の濃い旨味を楽しむ。",
+    "menuDescription": "白い毛のような菌糸をまとった発酵豆腐。焼きや揚げで出るクセのある名物。",
+    "whatComesOut": [
+      "表面が白く毛羽立った豆腐",
+      "焼き目または揚げ色",
+      "辛味だれ、醤油、葱など"
+    ],
+    "tasteAndTexture": [
+      "外は香ばしい",
+      "中は柔らかくクリーミー",
+      "発酵由来のチーズのような香り",
+      "たれで塩気と辛味が加わる"
+    ],
+    "orderAdvice": "発酵臭が苦手なら少量から。焼きたては食べやすい。",
+    "caution": "大豆と発酵食品。香りが強い。",
+    "similarItems": [
+      {
+        "id": "chou-doufu",
+        "name": "臭豆腐",
+        "difference": "臭豆腐は強い漬け汁臭の揚げ豆腐。毛豆腐は菌糸を生やす徽州の発酵豆腐"
+      },
+      {
+        "id": "tofuyo",
+        "name": "豆腐餻",
+        "difference": "豆腐餻は沖縄の泡盛漬け豆腐。毛豆腐は表面発酵後に調理する"
+      }
+    ],
+    "relatedIds": [
+      "chou-doufu",
+      "tofuyo",
+      "fry"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E6%AF%9B%E8%B1%86%E8%85%90",
+      "https://en.wikipedia.org/wiki/Fermented_bean_curd"
+    ],
+    "tags": [
+      "中国料理",
+      "前菜",
+      "豆類",
+      "発酵",
+      "焼き物",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "白い毛の発酵豆腐",
+      "徽州名物豆腐",
+      "チーズ風味の中華豆腐",
+      "霉豆腐"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/mao-doufu/1.jpg"
+    ]
+  },
+  {
+    "id": "fu-li-ji-shao-ji",
+    "name": "符離集焼鶏",
+    "kana": "ふりしゅうしょうけい",
+    "aliases": [
+      "符离集烧鸡",
+      "符離集燒雞"
+    ],
+    "englishName": "Fuliji roast chicken",
+    "originalName": "符離集燒雞",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "安徽"
+      }
+    ],
+    "summary": "安徽省宿州・符離鎮の名物鶏料理。下処理した鶏に飴糖を塗って揚げ色を付け、香辛料入りの老湯で煮含める。中国四大名鶏の一つに数えられる。",
+    "menuDescription": "香辛料だれで煮た丸鶏。真空包装土産や冷菜としても有名。",
+    "whatComesOut": [
+      "丸鶏または切り分けた鶏肉",
+      "濃い褐色の皮",
+      "八角、桂皮、花椒などの香り"
+    ],
+    "tasteAndTexture": [
+      "肉はほろっと柔らかい",
+      "皮は甘じょっぱく香ばしい",
+      "スパイス香が強い",
+      "冷めても味が濃い"
+    ],
+    "orderAdvice": "土産品はそのまま食べられることが多い。店では冷菜か主菜としてシェア。",
+    "similarItems": [
+      {
+        "id": "samgyetang",
+        "name": "参鶏湯",
+        "difference": "参鶏湯はスープ。符離集焼鶏は香辛料だれで煮含めた鶏"
+      },
+      {
+        "id": "soy-sauce",
+        "name": "醤油",
+        "difference": "醤油鶏に近い色だが、符離集焼鶏は安徽の老湯と香辛料が特徴"
+      }
+    ],
+    "relatedIds": [
+      "roast",
+      "jiang-lu",
+      "hua-jiao"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%AC%A6%E7%A6%BB%E9%9B%86%E7%83%A7%E9%B8%A1"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "鶏肉",
+      "煮込み",
+      "焼き物",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "安徽の名物焼鶏",
+      "中国四大名鶏",
+      "符離集の丸鶏",
+      "香辛料だれの鶏"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "wild-mushroom-hot-pot",
+    "name": "野生菌火锅",
+    "kana": "やせいきんひなべ",
+    "aliases": [
+      "野生菌火鍋",
+      "雲南きのこ火鍋",
+      "キノコ火鍋"
+    ],
+    "englishName": "Yunnan wild mushroom hot pot",
+    "originalName": "野生菌火锅",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "雲南"
+      }
+    ],
+    "summary": "雲南の野生または栽培きのこを主役にした火鍋。鶏や骨の淡いスープに多種の菌を入れ、強い唐辛子よりもきのこの香りと旨味を生かす。",
+    "menuDescription": "雲南式のきのこ火鍋。いろいろな茸をスープで煮て味わう季節料理。",
+    "whatComesOut": [
+      "卓上の鍋と淡いスープ",
+      "牛肝菌、鶏枞、松茸系などの茸盛り合わせ",
+      "野菜、肉、米線などの追加具材"
+    ],
+    "tasteAndTexture": [
+      "きのこの香りが強い",
+      "スープはあっさり旨味系",
+      "食感は茸ごとに違う",
+      "辛さは控えめが多い"
+    ],
+    "orderAdvice": "野生菌は十分加熱が必須。店の指示する加熱時間を守る。季節で種類と価格が変わる。",
+    "caution": "野生きのこは加熱不足や種類で中毒リスク。信頼できる店で食べる。",
+    "similarItems": [
+      {
+        "name": "火鍋",
+        "difference": "一般的な火鍋より辛味を抑え、きのこ香を主役にする雲南式"
+      },
+      {
+        "id": "mushroom",
+        "name": "マッシュルーム",
+        "difference": "単一きのこではなく、多種の雲南菌を鍋で食べる"
+      }
+    ],
+    "relatedIds": [
+      "mushroom",
+      "shiitake"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Hot_pot"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "きのこ",
+      "野菜",
+      "煮込み",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "雲南のきのこ火鍋",
+      "野生菌鍋",
+      "茸を味わう中国火鍋",
+      "辛くない火鍋"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/wild-mushroom-hot-pot/1.jpg"
+    ]
+  },
+  {
+    "id": "guo-qiao-mi-xian",
+    "name": "過橋米線",
+    "kana": "かきょうべいせん",
+    "aliases": [
+      "过桥米线",
+      "Crossing-the-bridge noodles"
+    ],
+    "englishName": "Crossing-the-bridge noodles",
+    "originalName": "過橋米線",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "雲南"
+      }
+    ],
+    "summary": "雲南省蒙自発祥とされる米線料理。熱々の鶏・豚骨スープ、米線、薄切り肉、野菜、卵などを別々に出し、客が順に入れて余熱で火を通す。",
+    "menuDescription": "熱いスープに具と米線を自分で入れる雲南名物の米麺。",
+    "whatComesOut": [
+      "油膜で熱を保った大きなスープ碗",
+      "米線の別皿",
+      "薄切り肉、魚、卵、野菜、ハムなど",
+      "薬味や唐辛子"
+    ],
+    "tasteAndTexture": [
+      "スープは鶏と豚骨の旨味",
+      "米線はつるっと柔らかい",
+      "具材は余熱でしっとり",
+      "味はあっさりから濃厚まで"
+    ],
+    "orderAdvice": "最初に生肉や卵を熱いスープへ入れる。火傷注意。具材の投入順は店の指示通り。",
+    "caution": "スープが非常に熱い。生具材の加熱不足に注意。",
+    "similarItems": [
+      {
+        "id": "kuai-tiao-nam",
+        "name": "クイッティアオ・ナーム",
+        "difference": "クイッティアオはタイの米麺。過橋米線は具を別添えして熱いスープで仕上げる雲南式"
+      },
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーはベトナムの米麺スープ。過橋米線は油膜の熱いスープと別皿具材が特徴"
+      }
+    ],
+    "relatedIds": [
+      "rice-vermicelli",
+      "kuai-tiao-nam",
+      "pho"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Crossing-the-bridge_noodles",
+      "https://zh.wikipedia.org/wiki/%E8%BF%87%E6%A1%A5%E7%B1%B3%E7%BA%BF",
+      "https://en.wikipedia.org/wiki/Mixian_(noodle)"
+    ],
+    "tags": [
+      "中国料理",
+      "麺料理",
+      "米",
+      "スープ",
+      "鶏肉",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "雲南の米線",
+      "熱いスープに具を入れる麺",
+      "橋を渡る米線",
+      "蒙自名物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/guo-qiao-mi-xian/1.jpg",
+      "/images/dishes/guo-qiao-mi-xian/2.jpg",
+      "/images/dishes/guo-qiao-mi-xian/3.jpg"
+    ]
+  },
+  {
+    "id": "zao-la-cui-pi-yu",
+    "name": "糟辣脆皮魚",
+    "kana": "そうらつぜいひぎょ",
+    "aliases": [
+      "糟辣脆皮鱼",
+      "糟辣魚",
+      "貴州脆皮魚"
+    ],
+    "englishName": "Crispy fish with zao-la chili sauce",
+    "originalName": "糟辣脆皮魚",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "貴州"
+      }
+    ],
+    "summary": "魚を揚げて皮を香ばしくし、貴州系の糟辣椒を使った甘酸っぱく辛いソースをかける魚料理。発酵唐辛子の酸味と揚げ魚の食感を組み合わせる。",
+    "menuDescription": "揚げ魚に発酵唐辛子ソースをかける貴州風の甘酸っぱい辛口魚料理。",
+    "whatComesOut": [
+      "丸ごとまたは切り身の揚げ魚",
+      "赤い糟辣椒ソース",
+      "葱、生姜、にんにく、酢や砂糖の甘酸っぱいたれ"
+    ],
+    "tasteAndTexture": [
+      "皮はサクサク",
+      "魚身は柔らかい",
+      "糟辣の酸味と発酵香",
+      "辛味は中程度"
+    ],
+    "orderAdvice": "骨付きが多い。白米と相性がよい。辛味と酸味が苦手なら注意。",
+    "caution": "魚骨、唐辛子、油に注意。",
+    "similarItems": [
+      {
+        "id": "song-shu-gui-yu",
+        "name": "松鼠桂魚",
+        "difference": "松鼠桂魚は甘酢中心。糟辣脆皮魚は発酵唐辛子の酸辣味が特徴"
+      },
+      {
+        "id": "da-qian-gan-shao-yu",
+        "name": "大千干焼魚",
+        "difference": "大千干焼魚は四川の干焼き。糟辣脆皮魚は貴州系の糟辣椒を使う"
+      }
+    ],
+    "relatedIds": [
+      "fry",
+      "zao-la",
+      "pao-la-jiao"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%B3%9F%E8%BE%A3%E6%A4%92",
+      "https://en.wikipedia.org/wiki/Guizhou_cuisine",
+      "https://en.wikipedia.org/wiki/Fish_fry"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "揚げ物",
+      "発酵",
+      "ピリ辛",
+      "酸味",
+      "サクサク"
+    ],
+    "reverseKeywords": [
+      "糟辣椒の揚げ魚",
+      "貴州の酸辛い魚料理",
+      "発酵唐辛子ソースの魚",
+      "脆皮魚"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": []
+  },
+  {
+    "id": "shish-kawap",
+    "name": "シシカワプ",
+    "kana": "ししかわぷ",
+    "aliases": [
+      "シシカバブ",
+      "新疆羊肉串",
+      "kawap",
+      "kebab"
+    ],
+    "englishName": "Uyghur shish kawap",
+    "originalName": "شىش كاۋاپ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "新疆"
+      }
+    ],
+    "summary": "新疆ウイグル料理の串焼き肉。羊肉を串に刺し、塩、クミン、唐辛子などを振って炭火で焼く。中央アジアのシャシリクやケバブと近い屋台料理。",
+    "menuDescription": "クミン香る羊肉串。炭火で焼いた新疆の定番つまみ。",
+    "whatComesOut": [
+      "金属串または竹串の羊肉",
+      "クミンと唐辛子粉",
+      "玉ねぎ、ナン、ラグマンの付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "炭火の香ばしさ",
+      "羊脂の甘み",
+      "クミンの強い香り",
+      "唐辛子で軽く辛い"
+    ],
+    "orderAdvice": "脂多めがうまいが重い。辛さ控えめ可の店もある。ナンや麺と一緒に。",
+    "similarItems": [
+      {
+        "id": "shashlik",
+        "name": "シャシリック",
+        "difference": "シャシリックは中央アジア広域の串焼き。シシカワプは新疆ウイグル式でクミンと羊肉が強い"
+      },
+      {
+        "id": "kebab",
+        "name": "ケバブ",
+        "difference": "ケバブ全般の一種。新疆式は小串とクミン唐辛子が特徴"
+      }
+    ],
+    "relatedIds": [
+      "shashlik",
+      "kebab",
+      "lamb",
+      "lagman"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Kebab",
+      "https://en.wikipedia.org/wiki/Uyghur_cuisine",
+      "https://en.wikipedia.org/wiki/Laghman_(food)"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "羊肉",
+      "グリル",
+      "スパイス",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "新疆の羊肉串",
+      "ウイグルのクミン串焼き",
+      "シシカバブ風の羊串",
+      "カワプ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "tamjai-mixian",
+    "name": "坦仔麺",
+    "kana": "たむじゃいめん",
+    "aliases": [
+      "譚仔米線",
+      "譚仔雲南米線",
+      "TamJai Mixian",
+      "タムジャイ米線"
+    ],
+    "englishName": "TamJai Yunnan Mixian",
+    "originalName": "譚仔雲南米線",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "locality": "香港"
+      }
+    ],
+    "summary": "香港発の米線チェーン譚仔で知られる、雲南米線を香港式に辛さ・スープ・具材を選んで食べる麺料理。麻辣、酸辣、清湯などのスープと豊富なトッピングが特徴。",
+    "menuDescription": "香港式カスタム米線。スープ、辛さ、具材を選ぶファストカジュアル麺。",
+    "whatComesOut": [
+      "米線入りの大きなスープ碗",
+      "選んだ辛さのスープ",
+      "肉、魚丸、野菜、きのこ、豆腐などの具",
+      "酸菜や香菜の追加"
+    ],
+    "tasteAndTexture": [
+      "米線はつるつるもちっとする",
+      "麻辣は辛く痺れる",
+      "酸辣は酸味が強い",
+      "具材で重さが変わる"
+    ],
+    "orderAdvice": "辛さ段階に注意。初回は低めの辛さで、トッピングを絞ると食べやすい。",
+    "similarItems": [
+      {
+        "id": "guo-qiao-mi-xian",
+        "name": "過橋米線",
+        "difference": "過橋米線は雲南の伝統的提供。坦仔麺は香港チェーン式のカスタム米線"
+      },
+      {
+        "id": "suan-la-tang-mian",
+        "name": "酸辣湯麺",
+        "difference": "酸辣湯麺は小麦麺が多い。坦仔麺は米線と辛さ選択が特徴"
+      }
+    ],
+    "relatedIds": [
+      "rice-vermicelli",
+      "guo-qiao-mi-xian",
+      "suan-la-tang-mian",
+      "ma-la"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Tam_Jai_Noodle",
+      "https://en.wikipedia.org/wiki/Mixian_(noodle)"
+    ],
+    "tags": [
+      "中国料理",
+      "麺料理",
+      "米",
+      "スープ",
+      "野菜",
+      "ピリ辛",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "譚仔の米線",
+      "香港式雲南米線",
+      "辛さを選ぶ米線",
+      "タムジャイヌードル"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/tamjai-mixian/1.jpg",
+      "/images/dishes/tamjai-mixian/2.jpg",
+      "/images/dishes/tamjai-mixian/3.jpg"
+    ]
+  },
+  {
+    "id": "milkfish",
+    "name": "サバヒー",
+    "kana": "さばひー",
+    "aliases": [
+      "ミルクフィッシュ",
+      "虱目魚",
+      "バングス"
+    ],
+    "englishName": "Milkfish",
+    "originalName": "虱目魚",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "台湾"
+      },
+      {
+        "country": "フィリピン"
+      },
+      {
+        "country": "インドネシア"
+      }
+    ],
+    "summary": "インド太平洋で食用にされる魚。台湾、フィリピン、インドネシアで養殖・消費が盛んで、台湾では粥、スープ、煎り焼き、魚丸などに使われる。小骨が多いが脂があり柔らかい。",
+    "menuDescription": "台湾や東南アジアでよく食べる白身魚。粥、スープ、焼き魚で出る。",
+    "whatComesOut": [
+      "焼いたサバヒーの切り身または腹身",
+      "サバヒー粥や魚皮スープ",
+      "小骨を抜いた加工品や魚丸"
+    ],
+    "tasteAndTexture": [
+      "身は柔らかく脂がある",
+      "味は淡く甘い",
+      "小骨が非常に多い",
+      "腹身はこってり"
+    ],
+    "orderAdvice": "小骨が苦手なら無刺腹身や魚丸、粥を選ぶ。台湾では朝食向き料理も多い。",
+    "caution": "小骨が多い魚。食べる時は注意。",
+    "similarItems": [
+      {
+        "id": "salmon",
+        "name": "サーモン",
+        "difference": "サーモンより味は淡く、小骨が多い。台湾料理では粥やスープに多用"
+      },
+      {
+        "name": "サバヒー粥",
+        "difference": "サバヒー粥は料理名。サバヒーは魚そのもの"
+      }
+    ],
+    "relatedIds": [
+      "salmon",
+      "jok"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Milkfish",
+      "https://en.wikipedia.org/wiki/Milkfish_congee",
+      "https://en.wikipedia.org/wiki/Aquaculture_in_Taiwan"
+    ],
+    "tags": [
+      "台湾料理",
+      "フィリピン料理",
+      "魚介",
+      "焼き物",
+      "スープ",
+      "あっさり",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "台湾の虱目魚",
+      "ミルクフィッシュ",
+      "小骨の多い白身魚",
+      "サバヒー粥の魚"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/milkfish/1.jpg",
+      "/images/dishes/milkfish/2.jpg",
+      "/images/dishes/milkfish/3.jpg"
+    ]
+  },
+  {
+    "id": "longjing-tea",
+    "name": "龍井茶",
+    "kana": "ろんじんちゃ",
+    "aliases": [
+      "龙井茶",
+      "ロンジン茶",
+      "西湖龍井",
+      "ドラゴンウェル"
+    ],
+    "englishName": "Longjing tea",
+    "originalName": "龍井茶",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "浙江"
+      },
+      {
+        "country": "中国",
+        "locality": "杭州"
+      }
+    ],
+    "summary": "浙江省杭州の龍井村周辺に由来する中国緑茶。摘んだ茶葉を釜炒りして酸化を止め、平たく滑らかな葉形、淡い黄緑の水色、栗や豆を思わせる甘い香りで知られる。西湖龍井は保護された産地名として扱われる。",
+    "menuDescription": "杭州を代表する釜炒り緑茶。甘くまろやかで、栗のような香りがある。",
+    "whatComesOut": [
+      "平たく整った黄緑色の茶葉",
+      "淡い黄緑色の茶湯",
+      "蓋碗、ガラス杯、急須などで淹れた温かい茶",
+      "上級品では若い芽が揃った茶葉"
+    ],
+    "tasteAndTexture": [
+      "渋みは穏やかで甘みがある",
+      "炒り栗、豆、若草のような香り",
+      "口当たりは軽く、余韻はすっきり",
+      "高温で淹れると苦渋が出やすい"
+    ],
+    "orderAdvice": "西湖龍井、明前、雨前などの表記で価格が大きく変わる。初めてなら中価格帯を低めの湯温で淹れると香りが出やすい。",
+    "caution": "カフェインを含む。高級品は偽物や産地違いも多いため、産地表示や等級を確認。",
+    "similarItems": [
+      {
+        "name": "碧螺春",
+        "difference": "碧螺春は巻いた形と花果香が特徴。龍井茶は平たい葉と栗香が目立つ"
+      },
+      {
+        "name": "煎茶",
+        "difference": "煎茶は日本の蒸し製緑茶。龍井茶は中国の釜炒り緑茶で香ばしさがある"
+      },
+      {
+        "id": "long-jing-xia-ren",
+        "name": "龍井蝦仁",
+        "difference": "龍井蝦仁は龍井茶を香り付けに使うエビ料理。龍井茶は飲み物そのもの"
+      }
+    ],
+    "relatedIds": [
+      "long-jing-xia-ren",
+      "infuse"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Longjing_tea",
+      "https://zh.wikipedia.org/wiki/%E9%BE%99%E4%BA%95%E8%8C%B6",
+      "https://www.seriouseats.com/how-to-brew-green-tea-where-to-buy"
+    ],
+    "tags": [
+      "中国料理",
+      "飲み物",
+      "茶",
+      "ハーブ",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "杭州の緑茶",
+      "ドラゴンウェルティー",
+      "西湖龍井",
+      "栗香の中国茶",
+      "平たい茶葉の緑茶"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/longjing-tea/1.jpg",
+      "/images/dishes/longjing-tea/2.jpg",
+      "/images/dishes/longjing-tea/3.jpg"
+    ]
   }
 ]
