@@ -757,7 +757,12 @@
     "id": "roast",
     "name": "ロースト",
     "kana": "ろーすと",
-    "aliases": ["ローストする", "Roast", "オーブン焼き", "ロティール"],
+    "aliases": [
+      "ローストする",
+      "Roast",
+      "オーブン焼き",
+      "ロティール"
+    ],
     "englishName": "Roast",
     "originalName": "Roast",
     "category": "調理法",
@@ -889,7 +894,11 @@
     "id": "braise",
     "name": "ブレゼ",
     "kana": "ぶれぜ",
-    "aliases": ["ブレイズ", "Braise", "蒸し煮"],
+    "aliases": [
+      "ブレイズ",
+      "Braise",
+      "蒸し煮"
+    ],
     "englishName": "Braise",
     "originalName": "Braiser",
     "category": "調理法",
@@ -1073,7 +1082,12 @@
     "id": "pochee",
     "name": "ポシェ",
     "kana": "ぽしぇ",
-    "aliases": ["ポーチング", "Poached", "低温ゆで", "Poché"],
+    "aliases": [
+      "ポーチング",
+      "Poached",
+      "低温ゆで",
+      "Poché"
+    ],
     "englishName": "Poché / Poached",
     "originalName": "Poché",
     "category": "調理法",
@@ -4559,7 +4573,12 @@
     "id": "aioli",
     "name": "アイオリ",
     "kana": "あいおり",
-    "aliases": ["アイオリソース", "Aioli", "ガーリックマヨネーズ", "にんにくソース"],
+    "aliases": [
+      "アイオリソース",
+      "Aioli",
+      "ガーリックマヨネーズ",
+      "にんにくソース"
+    ],
     "englishName": "Aioli",
     "originalName": "Aïoli",
     "category": "ソース",
@@ -4938,7 +4957,12 @@
     "id": "salsa_verde",
     "name": "サルサヴェルデ",
     "kana": "さるさべるで",
-    "aliases": ["緑のソース", "Salsa Verde", "サルサベルデ", "グリーンソース"],
+    "aliases": [
+      "緑のソース",
+      "Salsa Verde",
+      "サルサベルデ",
+      "グリーンソース"
+    ],
     "englishName": "Salsa Verde",
     "originalName": "Salsa verde",
     "category": "ソース",
@@ -5020,7 +5044,11 @@
     "id": "chimichurri",
     "name": "チミチュリ",
     "kana": "ちみちゅり",
-    "aliases": ["チミチュリソース", "Chimichurri", "アルゼンチンハーブソース"],
+    "aliases": [
+      "チミチュリソース",
+      "Chimichurri",
+      "アルゼンチンハーブソース"
+    ],
     "englishName": "Chimichurri",
     "originalName": "Chimichurri",
     "category": "ソース",
@@ -5455,7 +5483,12 @@
     "id": "vinaigrette",
     "name": "ヴィネグレット",
     "kana": "ヴぃねぐれっと",
-    "aliases": ["ビネグレット", "Vinaigrette", "フレンチドレッシング", "酢オイルドレッシング"],
+    "aliases": [
+      "ビネグレット",
+      "Vinaigrette",
+      "フレンチドレッシング",
+      "酢オイルドレッシング"
+    ],
     "englishName": "Vinaigrette",
     "originalName": "Vinaigrette",
     "category": "ソース",
@@ -6087,7 +6120,12 @@
     "id": "fonds",
     "name": "フォン",
     "kana": "ふぉん",
-    "aliases": ["フォン・ド・ヴォー", "出汁", "ストック", "Stock"],
+    "aliases": [
+      "フォン・ド・ヴォー",
+      "出汁",
+      "ストック",
+      "Stock"
+    ],
     "englishName": "Stock / Fond",
     "originalName": "Fond",
     "category": "ソース",
@@ -6186,7 +6224,12 @@
     "id": "jus",
     "name": "ジュ",
     "kana": "じゅ",
-    "aliases": ["ジュ・ド・ヴィアンド", "オ・ジュ", "肉汁ソース", "Jus"],
+    "aliases": [
+      "ジュ・ド・ヴィアンド",
+      "オ・ジュ",
+      "肉汁ソース",
+      "Jus"
+    ],
     "englishName": "Jus",
     "originalName": "Jus",
     "category": "ソース",
@@ -6281,7 +6324,12 @@
     "id": "coulis",
     "name": "クーリー",
     "kana": "くーりー",
-    "aliases": ["クーリ", "Coulis", "フルーツソース", "裏ごしソース"],
+    "aliases": [
+      "クーリ",
+      "Coulis",
+      "フルーツソース",
+      "裏ごしソース"
+    ],
     "englishName": "Coulis",
     "originalName": "Coulis",
     "category": "ソース",
@@ -7481,7 +7529,11 @@
     "id": "quesadilla",
     "name": "ケサディーヤ",
     "kana": "けさでぃーや",
-    "aliases": ["ケサディラ", "ケサディージャ", "Quesadilla"],
+    "aliases": [
+      "ケサディラ",
+      "ケサディージャ",
+      "Quesadilla"
+    ],
     "englishName": "Quesadilla",
     "originalName": "Quesadilla",
     "category": "料理",
@@ -7773,7 +7825,11 @@
     "id": "gnocchi",
     "name": "ニョッキ",
     "kana": "にょっき",
-    "aliases": ["Gnocchi", "じゃがいも団子", "イタリア団子パスタ"],
+    "aliases": [
+      "Gnocchi",
+      "じゃがいも団子",
+      "イタリア団子パスタ"
+    ],
     "englishName": "Gnocchi",
     "originalName": "Gnocchi",
     "category": "料理",
@@ -8059,7 +8115,12 @@
     "id": "cassoulet",
     "name": "カスレ",
     "kana": "かすれ",
-    "aliases": ["カッスレー", "Cassoulet", "フランス豆煮込み", "白インゲン煮込み"],
+    "aliases": [
+      "カッスレー",
+      "Cassoulet",
+      "フランス豆煮込み",
+      "白インゲン煮込み"
+    ],
     "englishName": "Cassoulet",
     "originalName": "Cassoulet",
     "category": "料理",
@@ -9847,7 +9908,12 @@
     "id": "dal",
     "name": "ダル",
     "kana": "だる",
-    "aliases": ["ダール", "Dal", "豆カレー", "インド豆スープ"],
+    "aliases": [
+      "ダール",
+      "Dal",
+      "豆カレー",
+      "インド豆スープ"
+    ],
     "englishName": "Dal",
     "originalName": "दाल",
     "category": "料理",
@@ -10993,7 +11059,11 @@
     "name": "フリッター",
     "kana": "ふりったー",
     "englishName": "Fritter",
-    "aliases": ["フリッタ", "Fritter", "バッター揚げ"],
+    "aliases": [
+      "フリッタ",
+      "Fritter",
+      "バッター揚げ"
+    ],
     "category": "調理法",
     "regions": [
       {
@@ -12001,7 +12071,12 @@
     "id": "tzatziki",
     "name": "ツァジキ",
     "kana": "つぁじき",
-    "aliases": ["ジャジュク", "Tzatziki", "ヨーグルトディップ", "きゅうりヨーグルトソース"],
+    "aliases": [
+      "ジャジュク",
+      "Tzatziki",
+      "ヨーグルトディップ",
+      "きゅうりヨーグルトソース"
+    ],
     "englishName": "Tzatziki",
     "originalName": "Τζατζίκι",
     "category": "ソース",
@@ -13248,7 +13323,12 @@
     "id": "aroser",
     "name": "アロゼ",
     "kana": "あろぜ",
-    "aliases": ["バスティング", "Arroser", "Basting", "スプーンがけ"],
+    "aliases": [
+      "バスティング",
+      "Arroser",
+      "Basting",
+      "スプーンがけ"
+    ],
     "englishName": "Basting",
     "originalName": "Arroser",
     "category": "調理法",
@@ -19857,7 +19937,12 @@
     "id": "boil",
     "name": "ボイル",
     "kana": "ぼいる",
-    "aliases": ["ゆでる", "茹で", "ボイリング", "Boil"],
+    "aliases": [
+      "ゆでる",
+      "茹で",
+      "ボイリング",
+      "Boil"
+    ],
     "englishName": "Boil",
     "category": "調理法",
     "regions": [
@@ -20418,7 +20503,11 @@
     "id": "gratine",
     "name": "グラチネ",
     "kana": "ぐらちね",
-    "aliases": ["オー・グラタン", "au gratin", "Gratiné"],
+    "aliases": [
+      "オー・グラタン",
+      "au gratin",
+      "Gratiné"
+    ],
     "englishName": "Gratiné",
     "originalName": "Gratiné",
     "category": "調理法",
@@ -21051,7 +21140,11 @@
     "id": "deglaze",
     "name": "デグラッセ",
     "kana": "でぐらっせ",
-    "aliases": ["デグレイズ", "Deglaze", "鍋底の旨み"],
+    "aliases": [
+      "デグレイズ",
+      "Deglaze",
+      "鍋底の旨み"
+    ],
     "englishName": "Deglaze",
     "category": "調理法",
     "regions": [
@@ -22455,7 +22548,12 @@
     "id": "xo-sauce",
     "name": "XO醤",
     "kana": "えっくすおーじゃん",
-    "aliases": ["エックスオー醤", "XO Sauce", "XOソース", "香港高級調味料"],
+    "aliases": [
+      "エックスオー醤",
+      "XO Sauce",
+      "XOソース",
+      "香港高級調味料"
+    ],
     "englishName": "XO sauce",
     "originalName": "XO醬",
     "category": "ソース",
@@ -22842,7 +22940,11 @@
     "name": "ディジョンマスタード",
     "kana": "でぃじょんますたーど",
     "englishName": "Dijon mustard",
-    "aliases": ["ディジョン", "Dijon mustard", "ディジョン産マスタード"],
+    "aliases": [
+      "ディジョン",
+      "Dijon mustard",
+      "ディジョン産マスタード"
+    ],
     "originalName": "Moutarde de Dijon",
     "category": "ソース",
     "regions": [
@@ -23084,7 +23186,11 @@
     "name": "シーザードレッシング",
     "kana": "しーざーどれっしんぐ",
     "englishName": "Caesar dressing",
-    "aliases": ["シーザーサラダドレッシング", "Caesar dressing", "シーザーソース"],
+    "aliases": [
+      "シーザーサラダドレッシング",
+      "Caesar dressing",
+      "シーザーソース"
+    ],
     "category": "ソース",
     "regions": [
       {
@@ -25728,7 +25834,12 @@
     "id": "tom-yum-goong",
     "name": "トムヤムクン",
     "kana": "とむやむくん",
-    "aliases": ["トムヤムクン", "Tom Yum Goong", "酸辛スープ", "タイスープ"],
+    "aliases": [
+      "トムヤムクン",
+      "Tom Yum Goong",
+      "酸辛スープ",
+      "タイスープ"
+    ],
     "englishName": "Tom yum goong",
     "originalName": "ต้มยำกุ้ง",
     "category": "料理",
@@ -26181,7 +26292,10 @@
         "country": "メキシコ"
       }
     ],
-    "aliases": ["エンチラーダス", "Enchilada"],
+    "aliases": [
+      "エンチラーダス",
+      "Enchilada"
+    ],
     "summary": "トウモロコシのトルティーヤに肉や豆、チーズを巻き、チリソースをかけてオーブンで焼くメキシコ料理。赤チリ、モレ、サルサベルデ、クリーム系など複数のソースがあり、スペイン語で「チリで味付けした」を意味する。",
     "menuDescription": "赤または緑のチリソースをたっぷりかけたトルティーヤのロール。上にチーズを溶かし、サワークリームやアボカド、コリアンダーを添えて出る。",
     "whatComesOut": [
@@ -26272,7 +26386,10 @@
         "country": "アメリカ"
       }
     ],
-    "aliases": ["ナチョ", "Nachos"],
+    "aliases": [
+      "ナチョ",
+      "Nachos"
+    ],
     "summary": "1943年にメキシコ・ピエドラス・ネグラスでイグナシオ・アナヤが考案したテクス・メクス料理。トルティーヤチップスにチェダーやモントレージャックなどのチーズ・サルサ・ハラペーニョをのせてオーブンで焼く。カリカリのチップスがベースで、好みのトッピングを組み合わせて楽しむシェアフード。スポーツ観戦やバーの定番おつまみとして世界的に普及している。",
     "menuDescription": "チップスに具材とチーズをのせ焼いたシェア向けの一皿。ビールのおつまみやバー料理として定番。辛さを選べることも多い。",
     "whatComesOut": [
@@ -27258,7 +27375,12 @@
     "id": "carne-asada",
     "name": "カルネ・アサダ",
     "kana": "かるねあさだ",
-    "aliases": ["カルネアサダ", "Carne Asada", "メキシコ焼き肉", "焼き牛肉"],
+    "aliases": [
+      "カルネアサダ",
+      "Carne Asada",
+      "メキシコ焼き肉",
+      "焼き牛肉"
+    ],
     "englishName": "Carne Asada",
     "originalName": "Carne asada",
     "category": "料理",
@@ -59387,7 +59509,12 @@
     "id": "canape",
     "name": "カナッペ",
     "kana": "かなっぺ",
-    "aliases": ["カナペ", "Canapé", "一口前菜", "フィンガーフード"],
+    "aliases": [
+      "カナペ",
+      "Canapé",
+      "一口前菜",
+      "フィンガーフード"
+    ],
     "englishName": "Canapé",
     "originalName": "Canapé",
     "category": "料理",
@@ -91631,7 +91758,6 @@
         "difference": "パルトは豚肉入り主菜が多い。ブローベルスパルトは甘いベリー入り"
       },
       {
-        "id": "pancake",
         "name": "パンケーキ",
         "difference": "パンケーキより団子状で重い"
       }
@@ -92431,7 +92557,6 @@
     "caution": "マヨネーズ、乳製品、魚介、卵を使うことが多い。",
     "similarItems": [
       {
-        "id": "smorgasbord",
         "name": "スモーガスボード",
         "difference": "スモーガスボードはビュッフェ形式。スモルゴストータはケーキ型サンドイッチ"
       },
@@ -92581,7 +92706,6 @@
         "difference": "どちらも豚肉の季節料理。ユールフィンカはハム、グリスフェッテルは豚足"
       },
       {
-        "id": "pork",
         "name": "豚肉",
         "difference": "豚足部位の料理"
       }
@@ -94831,6 +94955,1046 @@
       "/images/dishes/coxinha/1.jpg",
       "/images/dishes/coxinha/2.jpg",
       "/images/dishes/coxinha/3.jpg"
+    ]
+  },
+  {
+    "id": "harira",
+    "name": "ハリラ",
+    "kana": "はりら",
+    "aliases": [
+      "ハリーラ",
+      "ハリラ・スープ"
+    ],
+    "englishName": "Harira",
+    "originalName": "الحريرة",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "モロッコ"
+      },
+      {
+        "country": "アルジェリア"
+      }
+    ],
+    "summary": "トマト、レンズ豆、ひよこ豆、玉ねぎ、米または細い麺、羊肉・牛肉・鶏肉などを煮込み、小麦粉のとろみで仕上げる北アフリカのスープ。モロッコやアルジェリアで親しまれ、ラマダンの断食明けにもよく食べられる。",
+    "menuDescription": "豆とトマトの具だくさんスープ。香辛料とハーブが効き、パンやデーツと一緒に出ることが多い。",
+    "whatComesOut": [
+      "赤みのある濃厚なスープボウル",
+      "レンズ豆、ひよこ豆、玉ねぎ、米または細い麺",
+      "羊肉、牛肉、鶏肉の小片が入ることがある",
+      "レモン、デーツ、甘い菓子、パンが添えられる場合あり"
+    ],
+    "tasteAndTexture": [
+      "トマトの酸味と豆のほくほく感",
+      "生姜、ターメリック、シナモン、コリアンダー、パセリの香り",
+      "小麦粉や卵でとろみがあり、飲むより食べる感覚",
+      "辛さは弱めだがスパイス感はある"
+    ],
+    "orderAdvice": "軽食名でも量はしっかり。断食明けの料理として出す店ではデーツや甘い菓子付きのセットもある。辛味が欲しいならハリッサを別で足す。",
+    "caution": "小麦粉でとろみを付けることが多い。肉入り、卵入りの店もあるため、菜食やアレルギー時は確認。",
+    "similarItems": [
+      {
+        "id": "chorba",
+        "name": "チョルバ",
+        "difference": "チョルバは北アフリカから中東に広いスープ名。ハリラはトマト、豆、とろみ、ラマダンの食文化が目立つ"
+      },
+      {
+        "id": "minestrone",
+        "name": "ミネストローネ",
+        "difference": "ミネストローネはイタリアの野菜スープ。ハリラは豆、肉、香辛料、小麦粉のとろみでより濃い"
+      },
+      {
+        "id": "ash-reshteh",
+        "name": "アーシュレシュテ",
+        "difference": "アーシュレシュテはイランの豆と麺のハーブスープ。ハリラはトマトとマグレブ系スパイスが中心"
+      }
+    ],
+    "relatedIds": [
+      "couscous",
+      "tajin",
+      "harissa",
+      "chickpea",
+      "lentilles",
+      "chorba"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Harira",
+      "https://es.wikipedia.org/wiki/Harira",
+      "https://www.bbcgoodfood.com/recipes/robert-carriers-moroccan-harira"
+    ],
+    "tags": [
+      "モロッコ料理",
+      "アルジェリア料理",
+      "スープ",
+      "豆類",
+      "野菜",
+      "羊肉",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "モロッコのラマダンスープ",
+      "トマトと豆の北アフリカスープ",
+      "ひよこ豆とレンズ豆のスープ",
+      "断食明けに食べるスープ",
+      "とろみのあるマグレブ料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/harira/1.png",
+      "/images/dishes/harira/2.jpg",
+      "/images/dishes/harira/3.jpg"
+    ]
+  },
+  {
+    "id": "jollof-rice",
+    "name": "ジョロフライス",
+    "kana": "じょろふらいす",
+    "aliases": [
+      "ジョロフライス",
+      "ジョロフライス",
+      "ベナチン",
+      "リ・オ・グラ"
+    ],
+    "englishName": "Jollof rice",
+    "originalName": "Jollof rice",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ナイジェリア"
+      },
+      {
+        "country": "ガーナ"
+      },
+      {
+        "country": "セネガル"
+      }
+    ],
+    "summary": "米をトマト、玉ねぎ、唐辛子、油、香辛料のソースで炊き込む西アフリカの代表的な米料理。ナイジェリア、ガーナ、セネガルなどで地域差があり、肉や魚、野菜、プランテンを添えることが多い。",
+    "menuDescription": "トマト味のスパイス炊き込みご飯。鶏肉、牛肉、魚、揚げプランテンなどを添えて一皿で出る。",
+    "whatComesOut": [
+      "赤橙色の炊き込みご飯",
+      "鶏肉、牛肉、魚などの主菜",
+      "揚げプランテン、サラダ、辛いソースが添えられる場合あり"
+    ],
+    "tasteAndTexture": [
+      "トマトの酸味と甘み",
+      "唐辛子と香辛料のピリ辛感",
+      "米は油とソースを吸ってしっとり",
+      "屋外調理風のスモーキーさがある店もある"
+    ],
+    "orderAdvice": "国ごとに味が違うため、ナイジェリア式かガーナ式か確認するとよい。辛さは中程度以上の店もある。",
+    "similarItems": [
+      {
+        "id": "jambalaya",
+        "name": "ジャンバラヤ",
+        "difference": "ジャンバラヤは米国南部の米料理。ジョロフライスは西アフリカのトマトと唐辛子の炊き込みが中心"
+      },
+      {
+        "id": "biryani",
+        "name": "ビリヤニ",
+        "difference": "ビリヤニは香り米とスパイスを層状に炊く。ジョロフライスはトマトソースで米を炊く"
+      },
+      {
+        "id": "thiebou-yapp",
+        "name": "チェブヤップ",
+        "difference": "チェブヤップはセネガルの肉入り米料理。ジョロフライスは西アフリカ各地の広い名称"
+      }
+    ],
+    "relatedIds": [
+      "jambalaya",
+      "biryani",
+      "koshari",
+      "tomato"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Jollof_rice",
+      "https://www.epicurious.com/recipes/food/views/african-jollof-rice"
+    ],
+    "tags": [
+      "ナイジェリア料理",
+      "ガーナ料理",
+      "セネガル料理",
+      "主菜",
+      "米",
+      "野菜",
+      "煮込み",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "西アフリカの赤い炊き込みご飯",
+      "トマト味のスパイス米",
+      "ナイジェリア料理の米料理",
+      "ガーナ料理の米料理",
+      "ジョロフウォーズの料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/jollof-rice/1.jpg",
+      "/images/dishes/jollof-rice/2.jpg",
+      "/images/dishes/jollof-rice/3.jpg"
+    ]
+  },
+  {
+    "id": "mafe-de-veau",
+    "name": "マフェ・ド・ヴォー",
+    "kana": "まふぇどゔぉー",
+    "aliases": [
+      "マフェ",
+      "マフェ・ド・ブフ",
+      "ピーナッツシチュー"
+    ],
+    "englishName": "Veal maafe",
+    "originalName": "Mafé de veau",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セネガル"
+      },
+      {
+        "country": "マリ"
+      }
+    ],
+    "summary": "マフェは西アフリカのピーナッツソース煮込み。マフェ・ド・ヴォーは子牛肉を使い、トマト、玉ねぎ、にんにく、野菜、ピーナッツペーストで濃厚に煮て、米やフーフーと食べる。",
+    "menuDescription": "子牛肉のピーナッツ煮込み。甘みのある濃厚ソースをご飯にかけて食べる。",
+    "whatComesOut": [
+      "茶色から赤茶色の濃いピーナッツソース",
+      "柔らかく煮た子牛肉または牛肉",
+      "にんじん、キャベツ、オクラ、根菜など",
+      "白米、フーフー、クスクスなどの主食"
+    ],
+    "tasteAndTexture": [
+      "ピーナッツのこくと甘み",
+      "トマトと玉ねぎの旨味",
+      "肉は柔らかく、ソースは重め",
+      "唐辛子入りでも辛さは調整されることが多い"
+    ],
+    "orderAdvice": "ナッツ感が強い料理。重めなので米と食べる主菜向き。牛肉表記の店も多い。",
+    "caution": "ピーナッツを使う。ナッツアレルギー注意。",
+    "similarItems": [
+      {
+        "name": "グラウンドナッツシチュー",
+        "difference": "ほぼ同系統の英語名。マフェはセネガルやマリ系の呼称として使われる"
+      },
+      {
+        "id": "tajin",
+        "name": "タジン",
+        "difference": "タジンは北アフリカの鍋煮込み。マフェはピーナッツソースが主役の西アフリカ料理"
+      },
+      {
+        "id": "couscous",
+        "name": "クスクス",
+        "difference": "クスクスは粒状小麦の主食。マフェは上にかける煮込み料理"
+      }
+    ],
+    "relatedIds": [
+      "fufu",
+      "couscous",
+      "tajin",
+      "chickpea"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Peanut_stew",
+      "https://www.epicurious.com/recipes/food/views/mafe-peanut-sauce"
+    ],
+    "tags": [
+      "セネガル料理",
+      "マリ料理",
+      "主菜",
+      "牛肉",
+      "ナッツ",
+      "野菜",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "子牛肉のピーナッツ煮込み",
+      "西アフリカのピーナッツシチュー",
+      "マフェの牛肉版",
+      "濃厚な落花生ソース料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "fufu",
+    "name": "フーフー",
+    "kana": "ふーふー",
+    "aliases": [
+      "フフ",
+      "フウフウ",
+      "フフオ"
+    ],
+    "englishName": "Fufu",
+    "originalName": "Fufu",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ガーナ"
+      },
+      {
+        "country": "ナイジェリア"
+      },
+      {
+        "country": "コートジボワール"
+      }
+    ],
+    "summary": "キャッサバ、ヤム、プランテンなどを茹でて搗き、なめらかな餅状にした西アフリカの主食。小さくちぎってスープやシチューに浸し、手で食べる。",
+    "menuDescription": "白くもちっとした主食の塊。スープや煮込みと一緒に出て、ちぎってソースをすくう。",
+    "whatComesOut": [
+      "白または淡い色の丸い餅状の塊",
+      "スープ、シチュー、ピーナッツソースなどの相棒",
+      "手でちぎるための水鉢が出ることもある"
+    ],
+    "tasteAndTexture": [
+      "味は淡く、酸味や穀物感は材料次第",
+      "強い弾力ともっちり感",
+      "噛まずに飲み込む食べ方もある",
+      "濃いソースを受け止める食感"
+    ],
+    "orderAdvice": "単体よりスープやシチューと注文。初めてなら少量で食感確認。手食文化の店では右手でちぎる。",
+    "similarItems": [
+      {
+        "id": "ugali",
+        "name": "ウガリ",
+        "difference": "ウガリは主にとうもろこし粉の固い粥。フーフーは芋やキャッサバを搗いた餅状の食感が強い"
+      },
+      {
+        "id": "polenta",
+        "name": "ポレンタ",
+        "difference": "ポレンタはとうもろこし粥。フーフーはより弾力があり、スープに浸して食べる"
+      },
+      {
+        "name": "餅",
+        "difference": "餅に近い弾力があるが、フーフーは甘くなく主食としてソースと食べる"
+      }
+    ],
+    "relatedIds": [
+      "mafe-de-veau",
+      "ugali",
+      "chickpea",
+      "okra"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Fufu"
+    ],
+    "tags": [
+      "ガーナ料理",
+      "ナイジェリア料理",
+      "主菜",
+      "野菜",
+      "蒸し料理",
+      "もちもち",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "西アフリカの餅状主食",
+      "キャッサバの主食",
+      "スープに浸す白い塊",
+      "手で食べるアフリカ料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fufu/1.jpg",
+      "/images/dishes/fufu/2.jpg",
+      "/images/dishes/fufu/3.jpg"
+    ]
+  },
+  {
+    "id": "thiebou-yapp",
+    "name": "チェブヤップ",
+    "kana": "ちぇぶやっぷ",
+    "aliases": [
+      "チーブ・ヤップ",
+      "セーブヤップ",
+      "ティエブ・ヤップ"
+    ],
+    "englishName": "Thiebou Yapp",
+    "originalName": "Ceebu Yapp",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セネガル"
+      }
+    ],
+    "summary": "セネガルの米と肉の一鍋料理。牛肉や羊肉を香味野菜、唐辛子、にんにく、玉ねぎなどで煮込み、その旨味で米を炊く。魚版のチェブジェンに対する肉版として知られる。",
+    "menuDescription": "セネガル式の肉入り炊き込みご飯。牛肉や羊肉、玉ねぎ、唐辛子の旨味が米に入る。",
+    "whatComesOut": [
+      "肉と米を一緒に炊いた大皿",
+      "牛肉または羊肉の塊",
+      "玉ねぎ、唐辛子、にんにく、野菜の付け合わせ",
+      "オリーブや黒目豆を添える場合あり"
+    ],
+    "tasteAndTexture": [
+      "肉の旨味を吸った米",
+      "玉ねぎの甘みと唐辛子の辛味",
+      "米はしっとり濃い味",
+      "肉は先に焼くため香ばしさがある"
+    ],
+    "orderAdvice": "魚が苦手ならチェブジェンよりこちら。肉の種類と辛さを確認。大皿シェア向き。",
+    "similarItems": [
+      {
+        "id": "jollof-rice",
+        "name": "ジョロフライス",
+        "difference": "ジョロフライスは西アフリカ各地のトマト米料理。チェブヤップはセネガルの肉入り米料理としてより具体的"
+      },
+      {
+        "id": "jambalaya",
+        "name": "ジャンバラヤ",
+        "difference": "ジャンバラヤは米国南部の米料理。チェブヤップはセネガル式の肉と米の一鍋料理"
+      },
+      {
+        "name": "チェブジェン",
+        "difference": "チェブジェンは魚の米料理。チェブヤップは肉を使う"
+      }
+    ],
+    "relatedIds": [
+      "jollof-rice",
+      "jambalaya",
+      "tomato",
+      "lamb"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Thiebou_Yapp",
+      "https://en.wikipedia.org/wiki/Senegalese_cuisine",
+      "https://en.wikipedia.org/wiki/Jollof_rice"
+    ],
+    "tags": [
+      "セネガル料理",
+      "主菜",
+      "米",
+      "牛肉",
+      "羊肉",
+      "煮込み",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "セネガルの肉ご飯",
+      "チェブジェンの肉版",
+      "牛肉入り西アフリカ米料理",
+      "ウォロフの米と肉料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/thiebou-yapp/1.jpg",
+      "/images/dishes/thiebou-yapp/2.jpg"
+    ]
+  },
+  {
+    "id": "suya",
+    "name": "スヤ",
+    "kana": "すや",
+    "aliases": [
+      "スーヤ",
+      "ツィレ"
+    ],
+    "englishName": "Suya",
+    "originalName": "Suya",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ナイジェリア"
+      }
+    ],
+    "summary": "薄切り肉を串に刺し、唐辛子、しょうが、乾燥玉ねぎ、砕いたピーナッツケーキなどのヤジで味付けして焼くナイジェリア北部ハウサ系の屋台料理。牛肉が定番で、羊肉や鶏肉もある。",
+    "menuDescription": "スパイスをまぶした西アフリカの串焼き肉。玉ねぎやトマトと一緒につまみとして出る。",
+    "whatComesOut": [
+      "薄切り牛肉や羊肉の串焼き",
+      "赤茶色の辛いスパイス粉",
+      "生玉ねぎ、トマト、キャベツなどの付け合わせ",
+      "紙包みの屋台風提供もある"
+    ],
+    "tasteAndTexture": [
+      "炭火の香ばしさ",
+      "唐辛子としょうがの鋭い辛味",
+      "ピーナッツ由来のこく",
+      "薄切り肉で噛み応えあり"
+    ],
+    "orderAdvice": "辛さ強め。辛味粉を別添えにできるか確認。ビールや軽食向き。ナッツアレルギー注意。",
+    "caution": "ヤジにピーナッツ成分を含むことが多い。",
+    "similarItems": [
+      {
+        "id": "shashlik",
+        "name": "シャシリック",
+        "difference": "シャシリックは中央アジアの串焼き。スヤはピーナッツ入り辛味スパイスのナイジェリア式"
+      },
+      {
+        "id": "yakitori",
+        "name": "焼き鳥",
+        "difference": "焼き鳥は日本の鶏串。スヤは牛肉中心で辛いヤジが特徴"
+      },
+      {
+        "name": "サテ",
+        "difference": "サテは東南アジアの串焼き。スヤは粉状の辛いピーナッツスパイスをまとわせる"
+      }
+    ],
+    "relatedIds": [
+      "shashlik",
+      "barbecue",
+      "lamb",
+      "steak"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Suya"
+    ],
+    "tags": [
+      "ナイジェリア料理",
+      "前菜",
+      "牛肉",
+      "羊肉",
+      "グリル",
+      "スパイス",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ナイジェリアの串焼き",
+      "ヤジスパイスの肉串",
+      "ハウサの屋台料理",
+      "ピーナッツ粉の辛い焼き肉"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/suya/1.jpg",
+      "/images/dishes/suya/2.jpg",
+      "/images/dishes/suya/3.jpg"
+    ]
+  },
+  {
+    "id": "injera",
+    "name": "インジェラ",
+    "kana": "いんじぇら",
+    "aliases": [
+      "インジャラ",
+      "エンジェラ"
+    ],
+    "englishName": "Injera",
+    "originalName": "እንጀራ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エチオピア"
+      },
+      {
+        "country": "エリトリア"
+      }
+    ],
+    "summary": "テフ粉を水で発酵させて焼く、酸味とスポンジ状の気泡を持つエチオピア・エリトリアの薄い発酵パン。皿や主食の役割を兼ね、ワットなどをのせて手でちぎって食べる。",
+    "menuDescription": "酸味のある大きな発酵クレープ状パン。上に煮込みをのせ、ちぎってソースをすくう。",
+    "whatComesOut": [
+      "大きく薄い灰色から茶色の発酵パン",
+      "表面に細かい気泡があるスポンジ状の生地",
+      "ワット、野菜、豆料理の下敷きとして大皿で提供"
+    ],
+    "tasteAndTexture": [
+      "乳酸発酵のはっきりした酸味",
+      "柔らかくスポンジ状でソースを吸う",
+      "テフ由来の穀物香",
+      "冷めても折りたためるしなやかさ"
+    ],
+    "orderAdvice": "酸味に慣れない人は少量から。ワットや野菜盛り合わせとセットで頼む。手でちぎって食べる。",
+    "similarItems": [
+      {
+        "name": "ドーサ",
+        "difference": "ドーサは南インドの薄焼き発酵生地。インジェラはテフ主体でよりスポンジ状、皿としても使う"
+      },
+      {
+        "name": "クレープ",
+        "difference": "クレープは甘味・小麦系が多い。インジェラは酸味のある主食パン"
+      },
+      {
+        "id": "wat",
+        "name": "ワット",
+        "difference": "ワットはインジェラにのせる煮込み。インジェラ自体はパン"
+      }
+    ],
+    "relatedIds": [
+      "wat",
+      "dal",
+      "chickpea"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Injera",
+      "https://www.theguardian.com/food/2018/oct/06/yotam-ottolenghi-eritrean-ethiopian-recipes-berbere-vegetables-teff-flatbread"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "エリトリア料理",
+      "主菜",
+      "小麦",
+      "発酵",
+      "焼き物",
+      "もちもち",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "エチオピアの酸っぱいパン",
+      "テフの発酵クレープ",
+      "ワットをのせるパン",
+      "スポンジ状のアフリカ主食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/injera/1.jpg",
+      "/images/dishes/injera/2.jpg",
+      "/images/dishes/injera/3.jpg"
+    ]
+  },
+  {
+    "id": "wat",
+    "name": "ワット",
+    "kana": "わっと",
+    "aliases": [
+      "ウェット",
+      "ツェビ",
+      "イト"
+    ],
+    "englishName": "Wat",
+    "originalName": "ወጥ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エチオピア"
+      },
+      {
+        "country": "エリトリア"
+      }
+    ],
+    "summary": "エチオピアとエリトリアの煮込み料理の総称。鶏、牛、羊、野菜、豆を、ベルベレやニテルキッベなどで煮込み、インジェラにのせて食べる。玉ねぎを油なしでじっくり炒める調理が特徴。",
+    "menuDescription": "ベルベレが効いたエチオピア式シチュー。インジェラにのせて、ちぎったパンですくう。",
+    "whatComesOut": [
+      "赤い辛口の肉または豆の煮込み",
+      "インジェラの上に数種類のワットを盛った大皿",
+      "鶏肉、牛肉、羊肉、レンズ豆、野菜などの具",
+      "ゆで卵入りのドロワットもある"
+    ],
+    "tasteAndTexture": [
+      "ベルベレの深い辛味と香り",
+      "玉ねぎを煮詰めた濃い甘み",
+      "バターや油でこってりしやすい",
+      "豆系はなめらかで濃厚"
+    ],
+    "orderAdvice": "辛さは種類で大きく違う。初めてなら豆や野菜のワットと肉のワットを混ぜた盛り合わせが安全。",
+    "similarItems": [
+      {
+        "id": "injera",
+        "name": "インジェラ",
+        "difference": "インジェラは発酵パン。ワットはその上にのせる煮込み"
+      },
+      {
+        "id": "dal",
+        "name": "ダル",
+        "difference": "ダルはインドの豆煮込み。ワットはベルベレやニテルキッベの香りが強い"
+      },
+      {
+        "id": "goulash",
+        "name": "グーラッシュ",
+        "difference": "グーラッシュはハンガリーの肉煮込み。ワットはインジェラと食べる東アフリカ式"
+      }
+    ],
+    "relatedIds": [
+      "injera",
+      "dal",
+      "chickpea",
+      "lamb"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Wat_(food)",
+      "https://www.epicurious.com/recipes/food/views/chicken-stew-em-doro-wett-em-353750"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "エリトリア料理",
+      "主菜",
+      "鶏肉",
+      "豆類",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "エチオピアの煮込み",
+      "インジェラにのせるシチュー",
+      "ベルベレの辛い stew",
+      "ドロワットの総称"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/wat/1.jpg",
+      "/images/dishes/wat/2.jpg",
+      "/images/dishes/wat/3.jpg"
+    ]
+  },
+  {
+    "id": "ugali",
+    "name": "ウガリ",
+    "kana": "うがり",
+    "aliases": [
+      "ポショ",
+      "ンシマ",
+      "パップ",
+      "サザ"
+    ],
+    "englishName": "Ugali",
+    "originalName": "Ugali",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ケニア"
+      },
+      {
+        "country": "タンザニア"
+      },
+      {
+        "country": "ウガンダ"
+      },
+      {
+        "country": "マラウイ"
+      }
+    ],
+    "summary": "とうもろこし粉を湯で練り、固い粥または団子状に仕上げる東アフリカから南部アフリカの主食。野菜炒め、肉煮込み、魚、豆料理と一緒に食べる。",
+    "menuDescription": "白い固めのとうもろこし粥。味は淡く、煮込みや青菜と一緒に食べる主食。",
+    "whatComesOut": [
+      "白い大きな塊または切り分けた固い粥",
+      "スクマウィキ、肉、魚、豆などの副菜",
+      "手でちぎってソースをすくう形式"
+    ],
+    "tasteAndTexture": [
+      "味は非常に淡い",
+      "しっかり固く、もちっとした穀物感",
+      "濃い煮込みや青菜の味を受け止める",
+      "冷めると締まりやすい"
+    ],
+    "orderAdvice": "単品ではなく煮込みや野菜と注文。フーフーより穀物感が強く、食べ慣れないと量が多く感じる。",
+    "similarItems": [
+      {
+        "id": "fufu",
+        "name": "フーフー",
+        "difference": "フーフーは芋やキャッサバを搗いた弾力食。ウガリはとうもろこし粉を練った固い粥"
+      },
+      {
+        "id": "polenta",
+        "name": "ポレンタ",
+        "difference": "ポレンタはイタリアのとうもろこし粥。ウガリはより固く、手でちぎって食べる"
+      },
+      {
+        "name": "グリッツ",
+        "difference": "グリッツは米国南部の柔らかいとうもろこし粥。ウガリは主食として固く練る"
+      }
+    ],
+    "relatedIds": [
+      "fufu",
+      "polenta",
+      "kachumbari"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Ugali",
+      "https://ich.unesco.org/en/RL/nsima-culinary-tradition-of-malawi-01292"
+    ],
+    "tags": [
+      "ケニア料理",
+      "タンザニア料理",
+      "主菜",
+      "野菜",
+      "煮込み",
+      "もちもち",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "東アフリカのとうもろこし主食",
+      "白い固い粥",
+      "スクマウィキと食べる料理",
+      "ンシマやサザの仲間"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ugali/1.jpg",
+      "/images/dishes/ugali/2.jpg",
+      "/images/dishes/ugali/3.jpg"
+    ]
+  },
+  {
+    "id": "bobotie",
+    "name": "ボボティー",
+    "kana": "ぼぼてぃー",
+    "aliases": [
+      "ボボティ",
+      "ボボティエ"
+    ],
+    "englishName": "Bobotie",
+    "originalName": "Bobotie",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "南アフリカ"
+      }
+    ],
+    "summary": "スパイスを効かせたひき肉にパン、玉ねぎ、ドライフルーツなどを混ぜ、卵と牛乳の生地を上に流して焼く南アフリカ料理。ケープマレー系の甘辛い香りが特徴。",
+    "menuDescription": "カレー風味のひき肉を卵の層で焼いた南アフリカのミートローフ風料理。黄ライスやチャツネと出る。",
+    "whatComesOut": [
+      "焼き皿で焼かれたひき肉料理の一切れ",
+      "黄色い卵カスタード状の上面",
+      "レーズン、アプリコット、ナッツ、チャツネの甘み",
+      "ターメリックライスやサンバル"
+    ],
+    "tasteAndTexture": [
+      "カレー粉の香りと軽い辛味",
+      "ドライフルーツの甘み",
+      "ひき肉はしっとり柔らかい",
+      "卵の層でまろやか"
+    ],
+    "orderAdvice": "甘辛い味が苦手なら注意。辛さは強くない。ご飯付きなら主菜として十分。",
+    "similarItems": [
+      {
+        "id": "meatloaf",
+        "name": "ミートローフ",
+        "difference": "ミートローフは洋風の肉焼き。ボボティーはカレー香、ドライフルーツ、卵の上層が特徴"
+      },
+      {
+        "id": "moussaka",
+        "name": "ムサカ",
+        "difference": "ムサカは野菜と肉の重ね焼き。ボボティーはひき肉と卵カスタードの南アフリカ料理"
+      },
+      {
+        "name": "キーマカレー",
+        "difference": "キーマカレーは煮込みや炒め物。ボボティーは卵をかけて焼く"
+      }
+    ],
+    "relatedIds": [
+      "meatloaf",
+      "mince",
+      "turmeric",
+      "curry-powder"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Bobotie",
+      "https://es.wikipedia.org/wiki/Bobotie",
+      "https://www.epicurious.com/recipes/food/views/bobotie-231245"
+    ],
+    "tags": [
+      "南アフリカ料理",
+      "主菜",
+      "牛肉",
+      "卵",
+      "焼き物",
+      "スパイス",
+      "甘み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "南アフリカのひき肉焼き",
+      "卵をのせたカレー風味ミートローフ",
+      "ケープマレー料理",
+      "ドライフルーツ入り肉料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/bobotie/1.jpg",
+      "/images/dishes/bobotie/2.jpg",
+      "/images/dishes/bobotie/3.jpg"
+    ]
+  },
+  {
+    "id": "bunny-chow",
+    "name": "バニーチャウ",
+    "kana": "ばにーちゃう",
+    "aliases": [
+      "バニー",
+      "バニー・チャウ"
+    ],
+    "englishName": "Bunny chow",
+    "originalName": "Bunny chow",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "南アフリカ",
+        "locality": "ダーバン"
+      }
+    ],
+    "summary": "くり抜いた白いパンにカレーを詰める、南アフリカ・ダーバン発祥のインド系南アフリカ料理。豆、チキン、マトンなどのカレーを入れ、手でちぎったパンと一緒に食べる。",
+    "menuDescription": "パンを器にしたカレー。豆、チキン、マトンなどの具を選ぶ南アフリカのファストフード。",
+    "whatComesOut": [
+      "くり抜いた四分の一または半分の食パン",
+      "中に熱いカレー",
+      "切り取ったパンのふた",
+      "玉ねぎ、チリ、にんじんなどのサンバル"
+    ],
+    "tasteAndTexture": [
+      "パンにカレーが染みて柔らかい",
+      "カレーはスパイスが強く、辛さは店次第",
+      "具は豆、鶏、羊などで食べ応えあり",
+      "外側のパンは手でちぎって食べる"
+    ],
+    "orderAdvice": "サイズ指定が重要。初めてならクォーターで十分。手で食べるため熱いカレーに注意。",
+    "similarItems": [
+      {
+        "name": "カレーパン",
+        "difference": "カレーパンは揚げパン。バニーチャウはパンを器にしてカレーを詰める"
+      },
+      {
+        "id": "chili-con-carne",
+        "name": "チリコンカン",
+        "difference": "チリコンカンは豆と肉の煮込み。バニーチャウはカレー入りパンボウル"
+      },
+      {
+        "id": "dal",
+        "name": "ダル",
+        "difference": "ダルは豆煮込み単体。バニーチャウは豆カレーをパンに詰める形式もある"
+      }
+    ],
+    "relatedIds": [
+      "dal",
+      "chickpea",
+      "lamb"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Bunny_chow",
+      "https://es.wikipedia.org/wiki/Bunny_chow",
+      "https://www.theguardian.com/lifeandstyle/2017/sep/23/bunny-chow-recipe-bread-chickpea-cabbage-curry-meera-sodha-vegan"
+    ],
+    "tags": [
+      "南アフリカ料理",
+      "主菜",
+      "小麦",
+      "豆類",
+      "羊肉",
+      "スパイス",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "南アフリカのカレーパンボウル",
+      "ダーバンのインド系料理",
+      "食パンに詰めたカレー",
+      "クォーターマトンバニー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/bunny-chow/1.jpg",
+      "/images/dishes/bunny-chow/2.jpg",
+      "/images/dishes/bunny-chow/3.jpg"
+    ]
+  },
+  {
+    "id": "potjiekos",
+    "name": "ポイエキエ",
+    "kana": "ぽいえきえ",
+    "aliases": [
+      "ポイキーコース",
+      "ポチェコス",
+      "ポットジーコス"
+    ],
+    "englishName": "Potjiekos",
+    "originalName": "Potjiekos",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "南アフリカ"
+      },
+      {
+        "country": "ナミビア"
+      }
+    ],
+    "summary": "三脚付き鋳鉄鍋ポイキーで、肉、野菜、じゃがいも、米などを屋外でゆっくり煮込む南アフリカの鍋料理。混ぜずに層状に煮ることが多く、ブラーイと同じく社交的な料理でもある。",
+    "menuDescription": "鋳鉄鍋で作る南アフリカの煮込み。肉と野菜を重ねて長時間煮た家庭的な一皿。",
+    "whatComesOut": [
+      "肉と野菜の濃い煮込み",
+      "牛肉、羊肉、鶏、ジビエなどの具",
+      "じゃがいも、にんじん、キャベツ、米やパスタ",
+      "米、パン、ポレンタ系主食と一緒に提供される場合あり"
+    ],
+    "tasteAndTexture": [
+      "肉と野菜の旨味が濃い",
+      "スパイスと酒の香りが入ることがある",
+      "長時間煮込みで肉は柔らかい",
+      "鍋底の濃いソースがこってり"
+    ],
+    "orderAdvice": "調理時間が長い料理。イベントや専門店では予約制の場合あり。肉の種類を確認。",
+    "similarItems": [
+      {
+        "id": "beef-stew",
+        "name": "ビーフシチュー",
+        "difference": "ビーフシチューは洋風煮込み。ポイエキエは屋外の鋳鉄鍋で層状に煮る南アフリカ式"
+      },
+      {
+        "id": "tajin",
+        "name": "タジン",
+        "difference": "タジンは円錐鍋の北アフリカ煮込み。ポイエキエは三脚鋳鉄鍋を使う"
+      },
+      {
+        "id": "goulash",
+        "name": "グーラッシュ",
+        "difference": "グーラッシュはパプリカ中心の中欧煮込み。ポイエキエは肉・野菜を重ねる鍋料理"
+      }
+    ],
+    "relatedIds": [
+      "beef-stew",
+      "tajin",
+      "goulash",
+      "lamb"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Potjiekos",
+      "https://es.wikipedia.org/wiki/Potjiekos"
+    ],
+    "tags": [
+      "南アフリカ料理",
+      "ナミビア料理",
+      "主菜",
+      "牛肉",
+      "野菜",
+      "煮込み",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "南アフリカの鋳鉄鍋煮込み",
+      "ポイキー鍋料理",
+      "屋外で作る肉野菜シチュー",
+      "ブラーイと一緒の鍋料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/potjiekos/1.jpg",
+      "/images/dishes/potjiekos/2.jpg",
+      "/images/dishes/potjiekos/3.jpg"
     ]
   }
 ]
