@@ -98187,5 +98187,4445 @@
     "images": [
       "/images/dishes/la-jiao-chao-rou/1.jpg"
     ]
+  },
+  {
+    "similarItems": [
+      {
+        "id": "yu-chi-tang",
+        "name": "魚翅湯",
+        "difference": "魚翅湯はゼラチン質と濃い上湯。鶏湯海蚌は貝の鮮味を澄んだ鶏湯で出す"
+      },
+      {
+        "id": "clam-chowder",
+        "name": "クラムチャウダー",
+        "difference": "クラムチャウダーは乳製品で濃厚。鶏湯海蚌は透明で軽い"
+      }
+    ],
+    "relatedIds": [
+      "clam-chowder",
+      "bisque",
+      "scallop"
+    ],
+    "id": "ji-tang-hai-bang",
+    "name": "鶏湯海蚌",
+    "kana": "けいとうはいぼう",
+    "aliases": [
+      "雞湯汆海蚌",
+      "鶏湯汆海蚌",
+      "鸡汤汆海蚌"
+    ],
+    "englishName": "Clams scalded in chicken broth",
+    "originalName": "雞湯汆海蚌",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "福州"
+      }
+    ],
+    "summary": "福州菜の名菜。長楽・漳港の海蚌を薄切りにし、熱い鶏湯を注いで火を通す、鮮味重視の澄んだスープ料理。",
+    "menuDescription": "薄切り海蚌に熱い鶏スープを注ぐ福州の高級スープ。",
+    "whatComesOut": [
+      "澄んだ鶏湯",
+      "薄切りの海蚌",
+      "小椀または蓋付き椀",
+      "魚丸や卵などを加える現代版もある"
+    ],
+    "tasteAndTexture": [
+      "貝の甘みと鶏湯の旨味",
+      "身は薄く柔らかい",
+      "油は少なく上品",
+      "辛さなし"
+    ],
+    "orderAdvice": "鮮度と火入れが命。高級店向き。貝アレルギー注意。",
+    "caution": "貝類アレルギー注意。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E9%9B%9E%E6%B9%AF%E6%B1%86%E6%B5%B7%E8%9A%8C",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "スープ",
+      "魚介",
+      "鶏肉",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "福州の海蚌スープ",
+      "雞湯汆海蚌",
+      "西施舌の鶏湯",
+      "澄んだ貝スープ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "id": "suan-la-tang",
+        "name": "酸辣湯",
+        "difference": "酸辣湯は酸味と胡椒辛さが主役。雑燴湯は福州式の具材と鮮味が中心"
+      },
+      {
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは日本の会津の具だくさん汁。雑燴湯は福州の中華スープ"
+      }
+    ],
+    "relatedIds": [
+      "suan-la-tang",
+      "mushroom",
+      "squid"
+    ],
+    "id": "za-hui-tang",
+    "name": "雑燴湯",
+    "kana": "ざつわいとう",
+    "aliases": [
+      "福州雜燴湯",
+      "杂烩汤",
+      "雜菜"
+    ],
+    "englishName": "Fuzhou mixed soup",
+    "originalName": "雜燴湯",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "福州"
+      }
+    ],
+    "summary": "福州菜の雑具スープ。肉皮、魚唇、イカ、肉片、野菜、きのこなどを澄んだ湯でまとめる、宴席や家庭の具だくさん湯菜。",
+    "menuDescription": "魚介、肉、野菜を合わせた福州の具だくさんスープ。",
+    "whatComesOut": [
+      "澄んだ具だくさんスープ",
+      "肉皮、魚介、野菜、きのこ",
+      "とろみを付ける場合あり"
+    ],
+    "tasteAndTexture": [
+      "味はあっさり鮮味系",
+      "具ごとに食感が違う",
+      "酸味や胡椒を足す店もある"
+    ],
+    "orderAdvice": "内容は店で差が大きい。内臓や魚皮が苦手なら具材確認。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "スープ",
+      "魚介",
+      "野菜",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "福州の雑炊風スープ",
+      "雜燴湯",
+      "具だくさん福建スープ",
+      "福州雜菜"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/za-hui-tang/1.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "酢豚",
+        "difference": "酢豚より福州らしい赤糟/甘酸味と荔枝状の切り込みが特徴"
+      },
+      {
+        "id": "nanbanzuke",
+        "name": "南蛮漬け",
+        "difference": "南蛮漬けは漬け込み。茘枝肉は揚げ豚に甘酢あんを絡める"
+      }
+    ],
+    "relatedIds": [
+      "fry",
+      "zhenjiang-xiang-cu"
+    ],
+    "id": "li-zhi-rou",
+    "name": "茘枝肉",
+    "kana": "れいしにく",
+    "aliases": [
+      "荔枝肉",
+      "ライチ肉",
+      "Lychee pork"
+    ],
+    "englishName": "Lychee pork",
+    "originalName": "荔枝肉",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "福州"
+      }
+    ],
+    "summary": "豚肉に花刀を入れて揚げ、甘酸っぱい赤いソースを絡める福州・莆田系の代表料理。形が荔枝に似るため名が付くが、果物のライチは通常入らない。",
+    "menuDescription": "ライチ形の甘酢揚げ豚。赤い甘酸っぱいソースが特徴。",
+    "whatComesOut": [
+      "赤い甘酢ソースの揚げ豚",
+      "荸薺や野菜",
+      "花刀で丸まった肉片"
+    ],
+    "tasteAndTexture": [
+      "外は軽く香ばしい",
+      "中は豚肉の旨味",
+      "甘酸っぱく食べやすい",
+      "辛さなし"
+    ],
+    "orderAdvice": "酢豚に近く初心者向き。甘めが苦手なら注意。",
+    "source": [
+      "https://en.wikipedia.org/wiki/Lychee_pork",
+      "https://zh.wikipedia.org/wiki/%E8%8D%94%E6%9E%9D%E8%82%89"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主菜",
+      "豚肉",
+      "揚げ物",
+      "酸味",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "福州の甘酢豚",
+      "荔枝肉",
+      "ライチ形の豚肉",
+      "福建酢豚"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/li-zhi-rou/1.jpg",
+      "/images/dishes/li-zhi-rou/2.jpg",
+      "/images/dishes/li-zhi-rou/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "id": "spare-ribs",
+        "name": "スペアリブ",
+        "difference": "一般的なスペアリブより小さく揚げ、甘酸っぱい酒だれで絡める"
+      },
+      {
+        "id": "hong-shao-pai-gu",
+        "name": "紅焼排骨",
+        "difference": "紅焼排骨は煮込み。酔排骨は揚げて酒香のたれを絡める"
+      }
+    ],
+    "relatedIds": [
+      "spare-ribs",
+      "hong-shao-pai-gu",
+      "fry"
+    ],
+    "id": "zui-pai-gu",
+    "name": "酔排骨",
+    "kana": "すいはいこつ",
+    "aliases": [
+      "醉排骨",
+      "福州酔排骨"
+    ],
+    "englishName": "Fuzhou drunken pork ribs",
+    "originalName": "醉排骨",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "福州"
+      }
+    ],
+    "summary": "小さく切った排骨を揚げ、酒、酢、砂糖、醤油、香味料の甘酸っぱいたれに絡める福州料理。酒香と酢の効いた冷菜/熱菜として食べる。",
+    "menuDescription": "揚げた豚スペアリブを酒香る甘酸っぱいたれで絡める福州料理。",
+    "whatComesOut": [
+      "小さな骨付き豚肉",
+      "赤褐色の甘酸っぱいたれ",
+      "にんにく、葱、酒の香り"
+    ],
+    "tasteAndTexture": [
+      "外は香ばしい",
+      "中は骨周りの旨味",
+      "甘酸っぱく酒の香り",
+      "油でやや重い"
+    ],
+    "orderAdvice": "骨付き注意。酒香と甘酸味が好きなら向く。",
+    "caution": "骨付き。酒を使う。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主菜",
+      "豚肉",
+      "揚げ物",
+      "酸味",
+      "甘み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "福州の甘酸っぱい排骨",
+      "醉排骨",
+      "酒香る揚げスペアリブ",
+      "福建排骨料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "id": "takikomi-gohan",
+        "name": "炊き込みご飯",
+        "difference": "炊き込みご飯より蟹と海味が主役の福建式蒸しご飯"
+      },
+      {
+        "id": "paella",
+        "name": "パエリア",
+        "difference": "パエリアは鍋で炊くスペイン米料理。蟳飯は蟹ともち米を蒸す"
+      }
+    ],
+    "relatedIds": [
+      "takikomi-gohan",
+      "paella"
+    ],
+    "id": "xun-fan",
+    "name": "蟳飯",
+    "kana": "じんはん",
+    "aliases": [
+      "紅蟳飯",
+      "八宝紅蟳飯",
+      "蟳饭"
+    ],
+    "englishName": "Red crab rice",
+    "originalName": "蟳飯",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "紅蟳などの蟹をもち米や米、椎茸、干し海老、豚肉などと蒸した福建系の蟹ご飯。福州菜の八宝紅蟳飯の系統で、宴席向き。",
+    "menuDescription": "蟹の旨味を吸った福建の蒸しご飯。もち米入りで香りが濃い。",
+    "whatComesOut": [
+      "蟹をのせた蒸しご飯",
+      "もち米または米",
+      "椎茸、干し海老、豚肉、香味野菜"
+    ],
+    "tasteAndTexture": [
+      "蟹の甘みと海味",
+      "米はもちっとする",
+      "油と干物のこく",
+      "香りは濃いが辛くない"
+    ],
+    "orderAdvice": "蟹殻が多い。人数でシェア。蟹アレルギー注意。",
+    "caution": "甲殻類アレルギー注意。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主菜",
+      "魚介",
+      "米",
+      "蒸し料理",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "福建の蟹ご飯",
+      "紅蟳飯",
+      "八宝紅蟳飯",
+      "蟹のもち米蒸し"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/xun-fan/1.jpg",
+      "/images/dishes/xun-fan/2.jpg",
+      "/images/dishes/xun-fan/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "魚丸",
+        "difference": "一般の魚丸は無餡も多い。包心魚丸は肉餡入りが特徴"
+      },
+      {
+        "id": "xiaolongbao",
+        "name": "小籠包",
+        "difference": "小籠包は小麦皮の蒸し点心。包心魚丸は魚すり身の皮で包む"
+      }
+    ],
+    "relatedIds": [
+      "wonton"
+    ],
+    "id": "bao-xin-yu-wan",
+    "name": "包心魚丸",
+    "kana": "ほうしんぎょがん",
+    "aliases": [
+      "福州魚丸",
+      "包餡魚丸",
+      "包心鱼丸"
+    ],
+    "englishName": "Fuzhou stuffed fish balls",
+    "originalName": "包心魚丸",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "福州"
+      }
+    ],
+    "summary": "魚すり身の外皮で豚肉餡を包む福州名物の魚丸。スープに入れると弾力ある魚皮と肉汁のある餡が楽しめる。",
+    "menuDescription": "中に肉餡が入った福州式魚丸。スープや麺で出る。",
+    "whatComesOut": [
+      "白い大きめの魚丸",
+      "中の豚肉餡",
+      "澄んだスープ、葱、胡椒"
+    ],
+    "tasteAndTexture": [
+      "魚皮はぷりぷり",
+      "餡は肉汁あり",
+      "スープはあっさり",
+      "胡椒と酢で締まる"
+    ],
+    "orderAdvice": "熱い肉汁に注意。麺やスープで頼むと食べやすい。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E9%B1%BC%E4%B8%B8",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "スープ",
+      "魚介",
+      "豚肉",
+      "煮込み",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "福州魚丸",
+      "肉餡入り魚丸",
+      "包心鱼丸",
+      "魚すり身の団子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "id": "scallop",
+        "name": "ホタテ",
+        "difference": "ホタテより歯ごたえが強く、紅糟の香りが主役"
+      },
+      {
+        "id": "xo-sauce",
+        "name": "XO醤",
+        "difference": "XO醤炒めは濃厚で辛味あり。淡糟螺片は紅糟の淡い酒香"
+      }
+    ],
+    "relatedIds": [
+      "scallop",
+      "mussel"
+    ],
+    "id": "dan-zao-luo-pian",
+    "name": "淡糟螺片",
+    "kana": "たんそうらへん",
+    "aliases": [
+      "淡糟香螺片",
+      "糟炒香螺片"
+    ],
+    "englishName": "Sliced sea snail with red wine lees",
+    "originalName": "淡糟螺片",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "福州"
+      }
+    ],
+    "summary": "薄切りにした香螺を紅糟で炒める福州菜。淡い糟香、貝の歯ざわり、軽い酸味を生かす上品な海鮮料理。",
+    "menuDescription": "薄切り貝を紅糟で炒める福州の海鮮料理。酒粕の香りが特徴。",
+    "whatComesOut": [
+      "薄く切った巻貝の身",
+      "赤みのある紅糟ソース",
+      "葱、生姜、筍など"
+    ],
+    "tasteAndTexture": [
+      "貝はこりこり",
+      "紅糟の甘酸っぱい酒香",
+      "味は軽め",
+      "辛さなし"
+    ],
+    "orderAdvice": "貝の食感を楽しむ料理。貝アレルギー注意。",
+    "caution": "貝類アレルギー注意。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%B4%85%E7%B3%9F",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主菜",
+      "魚介",
+      "炒め物",
+      "発酵",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "紅糟の螺片炒め",
+      "淡糟香螺片",
+      "福州の貝料理",
+      "酒粕香る海鮮"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "id": "lamb",
+        "name": "ラム",
+        "difference": "一般的なラム料理より紅糟の発酵香と赤い色が特徴"
+      },
+      {
+        "name": "紅糟鶏",
+        "difference": "紅糟鶏は鶏肉。紅糟羊は羊肉で風味が強い"
+      }
+    ],
+    "relatedIds": [
+      "lamb"
+    ],
+    "id": "hong-zao-yang",
+    "name": "紅糟羊",
+    "kana": "こうそうよう",
+    "aliases": [
+      "红糟羊",
+      "紅糟羊肉"
+    ],
+    "englishName": "Lamb with red wine lees",
+    "originalName": "紅糟羊",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "羊肉を紅糟、酒、香味野菜で煮るまたは炒め煮にする福建系の料理。紅糟の赤い色、酒香、羊肉の濃い旨味を合わせる。",
+    "menuDescription": "羊肉を紅糟で煮た赤い福建料理。酒粕の香りと羊の旨味が強い。",
+    "whatComesOut": [
+      "赤みのある羊肉の煮込み",
+      "紅糟のソース",
+      "生姜、葱、酒"
+    ],
+    "tasteAndTexture": [
+      "羊肉の風味が強い",
+      "紅糟の甘酸っぱい香り",
+      "肉は柔らかくこってり",
+      "辛さなし"
+    ],
+    "orderAdvice": "羊肉のクセが苦手なら注意。白飯や麺線と合う。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%B4%85%E7%B3%9F",
+      "https://en.wikipedia.org/wiki/Fujian_red_wine_chicken",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主菜",
+      "羊肉",
+      "煮込み",
+      "発酵",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "紅糟の羊肉",
+      "福建の羊肉煮込み",
+      "赤い酒粕羊肉",
+      "紅酒糟料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "醉雞",
+        "difference": "一般的な醉雞は紹興酒の冷菜。酔糟鶏は紅糟で赤く煮る福建料理"
+      },
+      {
+        "id": "samgyetang",
+        "name": "参鶏湯",
+        "difference": "参鶏湯は韓国の白い鶏スープ。酔糟鶏は紅糟の赤い酒香が主役"
+      }
+    ],
+    "relatedIds": [
+      "rice-vermicelli"
+    ],
+    "id": "zui-zao-ji",
+    "name": "酔糟鶏",
+    "kana": "すいそうけい",
+    "aliases": [
+      "醉糟鸡",
+      "紅糟鶏",
+      "福建紅酒鶏"
+    ],
+    "englishName": "Fujian red wine chicken",
+    "originalName": "醉糟雞",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "福州"
+      }
+    ],
+    "summary": "鶏肉を紅糟や紅米酒の酒粕で煮る福建北部の伝統料理。誕生日や長寿麺の相棒としても知られ、赤い色と酒香が特徴。",
+    "menuDescription": "紅糟で煮た福建の鶏料理。赤いスープと酒粕の香りがある。",
+    "whatComesOut": [
+      "赤い煮汁の鶏肉",
+      "紅糟、紅米酒、生姜",
+      "麺線が添えられる場合あり"
+    ],
+    "tasteAndTexture": [
+      "鶏肉は柔らかい",
+      "酒粕の甘酸っぱい香り",
+      "生姜で温かい風味",
+      "辛さなし"
+    ],
+    "orderAdvice": "酒香が強い。麺線と合わせると福州式らしい。",
+    "caution": "酒粕を使う。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%B4%85%E7%B3%9F",
+      "https://en.wikipedia.org/wiki/Fujian_red_wine_chicken",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主菜",
+      "鶏肉",
+      "煮込み",
+      "発酵",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "福建紅酒鶏",
+      "紅糟鶏",
+      "醉糟鸡",
+      "赤い酒粕チキン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/zui-zao-ji/1.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "id": "duck",
+        "name": "ダック",
+        "difference": "一般の鴨料理よりスープとして長く煮る福建系の番鴨料理"
+      },
+      {
+        "id": "samgyetang",
+        "name": "参鶏湯",
+        "difference": "参鶏湯は鶏と高麗人参。老番鴨湯は番鴨の旨味が中心"
+      }
+    ],
+    "relatedIds": [
+      "duck",
+      "shiitake"
+    ],
+    "id": "lao-fan-ya-tang",
+    "name": "老番鴨湯",
+    "kana": "ろうばんやとう",
+    "aliases": [
+      "老番鸭汤",
+      "番鴨湯",
+      "老鴨湯"
+    ],
+    "englishName": "Old muscovy duck soup",
+    "originalName": "老番鴨湯",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "成熟した番鴨を生姜、薬膳素材、筍干、酒などと長く煮る福建系の滋味深い鴨スープ。肉の旨味と澄んだスープを味わう。",
+    "menuDescription": "番鴨をじっくり煮た福建の鴨スープ。滋養系であっさり濃い旨味。",
+    "whatComesOut": [
+      "澄んだ鴨スープ",
+      "骨付き番鴨肉",
+      "生姜、筍干、薬膳素材"
+    ],
+    "tasteAndTexture": [
+      "鴨の濃い旨味",
+      "脂はあるがスープは澄む",
+      "生姜の香り",
+      "肉は締まりがある"
+    ],
+    "orderAdvice": "骨付きが多い。薬膳風味の有無を確認。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E8%8F%9C",
+      "https://zh.wikipedia.org/wiki/%E8%80%81%E9%B8%AD%E7%85%B2"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "スープ",
+      "鶏肉",
+      "煮込み",
+      "あっさり",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "福建の番鴨スープ",
+      "老番鸭汤",
+      "滋養系鴨スープ",
+      "番鴨の煮込み湯"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/lao-fan-ya-tang/1.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "id": "rice-vermicelli",
+        "name": "ビーフン",
+        "difference": "ビーフンは細い米麺。鼎辺糊は鍋肌で作る薄片状の米粉皮"
+      },
+      {
+        "id": "kuai-tiao-nam",
+        "name": "クイッティアオ・ナーム",
+        "difference": "クイッティアオは米麺スープ。鼎辺糊は米漿を鍋で固める独特製法"
+      }
+    ],
+    "relatedIds": [
+      "rice-vermicelli"
+    ],
+    "id": "ding-bian-hu",
+    "name": "鼎辺糊",
+    "kana": "ていへんこ",
+    "aliases": [
+      "鼎边糊",
+      "鍋辺糊",
+      "锅边糊",
+      "鼎邊趖"
+    ],
+    "englishName": "Diang-bieng-gu",
+    "originalName": "鼎邊糊",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "福州"
+      }
+    ],
+    "summary": "米漿を熱い鍋肌に回しかけ、固まった薄い米皮をスープに落として煮る福州小吃。魚介、肉、野菜の湯と合わせる。",
+    "menuDescription": "鍋肌で作る薄い米粉片のスープ。福州の朝食・軽食。",
+    "whatComesOut": [
+      "薄い米粉片入りスープ",
+      "魚介、肉団子、野菜、きのこ",
+      "白い米皮が不規則に入る"
+    ],
+    "tasteAndTexture": [
+      "米皮はつるっと柔らかい",
+      "スープは魚介と肉の旨味",
+      "味はあっさり",
+      "胡椒や酢を足すこともある"
+    ],
+    "orderAdvice": "朝食向き。具材は店で差があるため海鮮・肉の内容確認。",
+    "source": [
+      "https://en.wikipedia.org/wiki/Di%C4%81ng-bi%C4%95ng-g%C3%B9",
+      "https://zh.wikipedia.org/wiki/%E9%BC%8E%E8%BE%B9%E7%B3%8A"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "スープ",
+      "米",
+      "魚介",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "福州の鍋辺糊",
+      "鼎边糊",
+      "鍋肌の米粉スープ",
+      "鼎邊趖の原型"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ding-bian-hu/1.jpg",
+      "/images/dishes/ding-bian-hu/2.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "id": "chinese-noodles",
+        "name": "中華麺",
+        "difference": "中華麺単体ではなく、具材と一緒に蒸し煮にする料理"
+      },
+      {
+        "name": "焼きそば",
+        "difference": "焼きそばは炒める。燜麺は蓋をして蒸し煮にする"
+      }
+    ],
+    "relatedIds": [
+      "chinese-noodles",
+      "soy-sauce"
+    ],
+    "id": "men-mian",
+    "name": "燜麺",
+    "kana": "めんめん",
+    "aliases": [
+      "焖面",
+      "豆角焖面"
+    ],
+    "englishName": "Braised noodles",
+    "originalName": "燜麵",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "山西"
+      },
+      {
+        "country": "中国",
+        "area": "内モンゴル"
+      }
+    ],
+    "summary": "半ば火を通した煮込み具材の上に麺をのせ、蓋をして蒸し煮にする北方の家庭麺。豆角と豚肉の組み合わせが定番。",
+    "menuDescription": "具材の蒸気で麺を蒸し煮にする北方の家庭麺。",
+    "whatComesOut": [
+      "汁気少なめの蒸し煮麺",
+      "豆角、豚肉、じゃがいもなど",
+      "醤油色の麺と具"
+    ],
+    "tasteAndTexture": [
+      "麺はもっちり",
+      "具の煮汁を吸って濃い味",
+      "香ばしさと家庭的な旨味",
+      "辛さは低い"
+    ],
+    "orderAdvice": "焼きそばよりしっとり。汁麺ではない。量が多いことが多い。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%84%96%E9%9D%A2"
+    ],
+    "tags": [
+      "中国料理",
+      "麺料理",
+      "豚肉",
+      "野菜",
+      "煮込み",
+      "もちもち",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "中国北方の蒸し煮麺",
+      "豆角焖面",
+      "汁なし煮込み麺",
+      "家庭の焖面"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/men-mian/1.jpg",
+      "/images/dishes/men-mian/2.jpg",
+      "/images/dishes/men-mian/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "ポイ",
+        "difference": "ポイはハワイの発酵タロ主食。芋泥は甘く油脂を加えた中華デザート"
+      },
+      {
+        "name": "スイートポテト",
+        "difference": "スイートポテトは焼き菓子。芋泥は練った温かいペースト"
+      }
+    ],
+    "relatedIds": [
+      "coulis"
+    ],
+    "id": "yu-ni",
+    "name": "芋泥",
+    "kana": "いもどろ",
+    "aliases": [
+      "芋蓉",
+      "太極芋泥",
+      "タロイモペースト"
+    ],
+    "englishName": "Taro paste",
+    "originalName": "芋泥",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "area": "潮州"
+      }
+    ],
+    "summary": "蒸した芋頭をつぶし、砂糖、猪油、棗、瓜子仁、桂花などと練る福州・潮州系の伝統デザート。福州宴席では締めの甘味として出る。",
+    "menuDescription": "タロイモの甘いペースト。なめらかでこってりした中華デザート。",
+    "whatComesOut": [
+      "紫灰色または淡い色の芋ペースト",
+      "棗、瓜子仁、冬瓜糖、桂花",
+      "熱い椀または皿盛り"
+    ],
+    "tasteAndTexture": [
+      "なめらかで重い",
+      "芋の甘み",
+      "猪油でこくがある",
+      "桂花や棗の香り"
+    ],
+    "orderAdvice": "見た目より熱いことあり。油脂入りなので少量で満足感あり。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E8%8A%8B%E6%B3%A5",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "デザート",
+      "野菜",
+      "甘み",
+      "こってり",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "福州のタロイモデザート",
+      "太極芋泥",
+      "芋蓉",
+      "宴席の締め甘味"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/yu-ni/1.jpg",
+      "/images/dishes/yu-ni/2.jpg",
+      "/images/dishes/yu-ni/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "年糕",
+        "difference": "年糕は餅状の単層が多い。千頁糕は薄い層の見た目が特徴"
+      },
+      {
+        "id": "pannkaka",
+        "name": "パンカーカ",
+        "difference": "パンカーカは焼く薄いパンケーキ。千頁糕は蒸す米糕"
+      }
+    ],
+    "relatedIds": [
+      "pannkaka"
+    ],
+    "id": "qian-ye-gao",
+    "name": "千頁糕",
+    "kana": "せんようこう",
+    "aliases": [
+      "千叶糕",
+      "千層糕",
+      "福建千頁糕"
+    ],
+    "englishName": "Layered rice cake",
+    "originalName": "千頁糕",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "米粉やもち米粉の生地を何層にも重ねて蒸す福建系の糕点。薄い層が千枚の紙のように見えることから名が付く。甘い点心として食べる。",
+    "menuDescription": "薄い層を重ねた蒸し米糕。もちっとした中華甘味。",
+    "whatComesOut": [
+      "層状に切られた蒸し糕",
+      "白、黄、赤などの淡い層",
+      "小さな切り分け菓子"
+    ],
+    "tasteAndTexture": [
+      "もちもちで柔らかい",
+      "甘さは穏やか",
+      "米粉の香り",
+      "冷めると締まる"
+    ],
+    "orderAdvice": "茶と合う。名前が千層糕表記の店もある。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%8D%83%E5%B1%A4%E7%B3%95",
+      "https://zh.wikipedia.org/wiki/%E7%B3%8D"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "デザート",
+      "米",
+      "蒸し料理",
+      "もちもち",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "福建の層状蒸し糕",
+      "千叶糕",
+      "千層糕",
+      "もちもち米菓子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/qian-ye-gao/1.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "id": "rice-vermicelli",
+        "name": "ビーフン",
+        "difference": "ビーフン一般より興化米粉を使い、福州式にさっと湯で食べる"
+      },
+      {
+        "id": "kuai-tiao-nam",
+        "name": "クイッティアオ・ナーム",
+        "difference": "クイッティアオはタイ米麺。撈興化粉は福建の細い米粉と内臓具材が特徴"
+      }
+    ],
+    "relatedIds": [
+      "rice-vermicelli",
+      "squid"
+    ],
+    "id": "lao-xing-hua-fen",
+    "name": "撈興化粉",
+    "kana": "ろうこうかふん",
+    "aliases": [
+      "捞兴化粉",
+      "捞化",
+      "撈化"
+    ],
+    "englishName": "Fuzhou laohua rice vermicelli",
+    "originalName": "撈興化粉",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "福州"
+      }
+    ],
+    "summary": "莆田の興化米粉を豚骨や牛骨、海鮮のスープでさっと煮る福州小吃。豚血、大腸、牛肚、腰子、海鮮などを選んでのせる。",
+    "menuDescription": "細い興化ビーフンを熱いスープで食べる福州の軽食。内臓や海鮮を選べる。",
+    "whatComesOut": [
+      "細い興化米粉のスープ",
+      "豚血、豚大腸、牛肚、腰子、魚介など",
+      "骨湯または海鮮湯"
+    ],
+    "tasteAndTexture": [
+      "米粉は細くすぐ柔らかい",
+      "スープは鮮甜で軽い",
+      "内臓入りはこってり感あり",
+      "胡椒や酢が合う"
+    ],
+    "orderAdvice": "具材指定が重要。内臓が苦手なら魚介や肉だけ選ぶ。",
+    "caution": "内臓、血、海鮮を使う店あり。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E6%8D%9E%E5%8C%96",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "麺料理",
+      "米",
+      "スープ",
+      "豚肉",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "福州の捞化",
+      "興化米粉スープ",
+      "撈興化粉",
+      "内臓ビーフン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "id": "qian-ye-gao",
+        "name": "千頁糕",
+        "difference": "千頁糕は層状。薄荷香糕は薄荷の香りが主役"
+      },
+      {
+        "name": "餅",
+        "difference": "餅より甘く、薄荷香の菓子として食べる"
+      }
+    ],
+    "relatedIds": [
+      "mint",
+      "qian-ye-gao"
+    ],
+    "id": "bo-he-xiang-gao",
+    "name": "薄荷香糕",
+    "kana": "はっかこうこう",
+    "aliases": [
+      "薄荷糕",
+      "ミント香糕"
+    ],
+    "englishName": "Mint rice cake",
+    "originalName": "薄荷香糕",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "米粉やもち米粉に砂糖と薄荷の香りを加えて蒸し固める福建系の香糕。清涼感のある甘い糕点として茶請けに向く。",
+    "menuDescription": "薄荷の香りがする蒸し米菓子。軽い甘味の中華菓子。",
+    "whatComesOut": [
+      "白または淡い緑色の糕片",
+      "薄荷の香り",
+      "小さな切り分け菓子"
+    ],
+    "tasteAndTexture": [
+      "もちっと柔らかい",
+      "甘さは穏やか",
+      "薄荷の清涼感",
+      "油気は少ない"
+    ],
+    "orderAdvice": "薄荷香が苦手なら注意。茶請け向き。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%95%99%E8%98%AD%E9%A6%99",
+      "https://zh.wikipedia.org/wiki/%E7%B3%8D"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "デザート",
+      "米",
+      "ハーブ",
+      "蒸し料理",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "薄荷の中華糕点",
+      "ミント香る米菓子",
+      "薄荷糕",
+      "福建の香糕"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "肉羹",
+        "difference": "肉羹は台湾福建の羹全般。肉熗はさっと汆す肉片スープの意味合いが強い"
+      },
+      {
+        "id": "wonton",
+        "name": "ワンタン",
+        "difference": "ワンタンは皮で包む。肉熗は肉片そのものをスープに入れる"
+      }
+    ],
+    "relatedIds": [
+      "wonton"
+    ],
+    "id": "rou-qiang",
+    "name": "肉熗",
+    "kana": "ろうきょう",
+    "aliases": [
+      "肉炝",
+      "福州肉熗"
+    ],
+    "englishName": "Fuzhou rouqiang meat soup",
+    "originalName": "肉熗",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "薄切りまたは細切り肉に下味と澱粉をまとわせ、熱い湯やスープでさっと火を通す福建系の肉羹/肉片スープ。つるっとした肉の食感を楽しむ小吃。",
+    "menuDescription": "片栗粉をまとわせた肉をさっと湯通しする福建の肉スープ。",
+    "whatComesOut": [
+      "薄い肉片入りスープ",
+      "とろみを帯びた肉の表面",
+      "葱、胡椒、酢など"
+    ],
+    "tasteAndTexture": [
+      "肉はつるんと柔らかい",
+      "スープはあっさり",
+      "胡椒と酢で軽く締まる",
+      "辛さはほぼない"
+    ],
+    "orderAdvice": "小腹向き。肉羹に近いが地域名や店で形が違う。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E8%82%89%E7%BE%B9",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "スープ",
+      "豚肉",
+      "煮込み",
+      "あっさり",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "福州の肉片スープ",
+      "肉炝",
+      "つるっとした肉羹",
+      "福建肉スープ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "id": "wonton",
+        "name": "ワンタン",
+        "difference": "沙県小吃の扁肉はワンタン系だが、沙県小吃は店/小吃群全体を指す"
+      },
+      {
+        "id": "lao-xing-hua-fen",
+        "name": "撈興化粉",
+        "difference": "撈興化粉は福州の米粉料理。沙県小吃は沙県発の軽食群"
+      }
+    ],
+    "relatedIds": [
+      "wonton",
+      "men-mian"
+    ],
+    "id": "sha-xian-xiao-chi",
+    "name": "沙県小吃",
+    "kana": "しゃけんしょうち",
+    "aliases": [
+      "沙县小吃",
+      "Shaxian delicacies",
+      "沙県軽食"
+    ],
+    "englishName": "Shaxian delicacies",
+    "originalName": "沙县小吃",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "沙県"
+      }
+    ],
+    "summary": "福建省三明市沙県に由来する小吃群。扁肉、拌麺、炖罐、蒸餃などの「老四様」を中心に、中国各地へ広がった低価格小吃ブランドでもある。",
+    "menuDescription": "福建沙県発の小吃セット/店名ジャンル。扁肉、拌麺、蒸餃、炖罐が定番。",
+    "whatComesOut": [
+      "ワンタン状の扁肉",
+      "ピーナッツ風味の拌麺",
+      "蒸餃、炖罐スープ",
+      "店により飯物や炒め物"
+    ],
+    "tasteAndTexture": [
+      "味は素朴で軽い",
+      "拌麺は香ばしくこってり",
+      "扁肉はつるっとする",
+      "スープはあっさり"
+    ],
+    "orderAdvice": "看板名なので具体メニューを選ぶ。初回は扁肉+拌麺の組み合わせが定番。",
+    "source": [
+      "https://en.wikipedia.org/wiki/Shaxian_delicacies",
+      "https://zh.wikipedia.org/wiki/%E6%B2%99%E5%8E%BF%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "軽食",
+      "小麦",
+      "豚肉",
+      "スープ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "中国の沙県小吃",
+      "沙县小吃",
+      "扁肉と拌麺の店",
+      "福建の低価格小吃"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sha-xian-xiao-chi/1.png",
+      "/images/dishes/sha-xian-xiao-chi/2.jpg",
+      "/images/dishes/sha-xian-xiao-chi/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "id": "momo",
+        "name": "モモ",
+        "difference": "モモは小麦皮の蒸し餃子。邵武包糍は米と草を使った皮が特徴"
+      },
+      {
+        "name": "麻糬",
+        "difference": "麻糬は甘い餅菓子が多い。邵武小吃の包糍は惣菜餡入り"
+      }
+    ],
+    "relatedIds": [
+      "momo",
+      "shiitake"
+    ],
+    "id": "shao-wu-xiao-chi",
+    "name": "邵武小吃",
+    "kana": "しょうぶしょうち",
+    "aliases": [
+      "邵武小吃",
+      "邵武包糍",
+      "南平小吃"
+    ],
+    "englishName": "Shaowu snacks",
+    "originalName": "邵武小吃",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "邵武"
+      }
+    ],
+    "summary": "福建省南平・邵武周辺の小吃群。代表例に、米と鼠麹草の皮で筍、燻肉、豆干、芋、椎茸などを包んで蒸す包糍がある。",
+    "menuDescription": "邵武周辺の郷土小吃。米皮で具を包む包糍などが代表。",
+    "whatComesOut": [
+      "蒸した包糍や米系小吃",
+      "筍、燻肉、豆干、芋、椎茸の餡",
+      "草餅のような緑がかった皮"
+    ],
+    "tasteAndTexture": [
+      "皮はもちもち",
+      "餡は燻製香と野菜の旨味",
+      "素朴で腹持ちがよい",
+      "辛さは低い"
+    ],
+    "orderAdvice": "具体料理名で出ることが多い。包糍なら蒸したてを。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%93%AA%E5%90%92%E7%B3%8D",
+      "https://zh.wikipedia.org/wiki/%E7%B3%8D"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "軽食",
+      "米",
+      "豚肉",
+      "蒸し料理",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "邵武の郷土小吃",
+      "邵武包糍",
+      "南平の米皮小吃",
+      "福建の包糍"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "id": "squid",
+        "name": "イカ料理",
+        "difference": "一般のイカ身ではなく口部を使う点が違う"
+      }
+    ],
+    "relatedIds": [
+      "squid"
+    ],
+    "id": "dong-bi-long-zhu",
+    "name": "東譬龍珠",
+    "kana": "とうへきりゅうじゅ",
+    "aliases": [
+      "東壁龍珠",
+      "东壁龙珠",
+      "東譬龍珠"
+    ],
+    "englishName": "Dongbi dragon pearls",
+    "originalName": "東譬龍珠",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "泉州"
+      }
+    ],
+    "summary": "泉州・闽南系の海鮮料理名。龍珠はイカやタコの口部を指すことがあり、東壁の名を冠した珍味として扱われる。",
+    "menuDescription": "龍珠を使う泉州系の海鮮珍味。",
+    "whatComesOut": [
+      "小粒の龍珠を炒め物または揚げ物風に仕立てた皿",
+      "葱や香味野菜",
+      "塩味または醤油系の味付け"
+    ],
+    "tasteAndTexture": [
+      "弾力が強い",
+      "海鮮の旨味",
+      "香ばしい",
+      "珍味感がある"
+    ],
+    "orderAdvice": "龍珠は部位料理。苦手なら食材を確認。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E9%BE%8D%E7%8F%A0_%28%E9%A3%9F%E7%89%A9%29",
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主菜",
+      "魚介",
+      "炒め物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "東壁龍珠",
+      "龍珠の料理",
+      "泉州の龍珠",
+      "イカ口部料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "沙嗲牛肉",
+        "difference": "沙嗲はピーナッツ感が強く、沙茶は海鮮乾物の風味が強い"
+      }
+    ],
+    "relatedIds": [],
+    "id": "chao-sha-cha-niu-rou",
+    "name": "炒沙茶牛肉",
+    "kana": "ちゃおしゃちゃにゅうろう",
+    "aliases": [
+      "沙茶牛肉",
+      "沙茶炒牛肉"
+    ],
+    "englishName": "Stir-fried beef with shacha sauce",
+    "originalName": "炒沙茶牛肉",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "area": "広東"
+      }
+    ],
+    "summary": "沙茶醤で牛肉を炒める中国南部の料理。福建・潮汕・台湾で親しまれる沙茶の海鮮香と牛肉の旨味を合わせる。",
+    "menuDescription": "牛肉を沙茶醤で炒めた香ばしい皿。",
+    "whatComesOut": [
+      "薄切り牛肉の炒め物",
+      "沙茶醤の濃いソース",
+      "玉ねぎや青菜"
+    ],
+    "tasteAndTexture": [
+      "牛肉は柔らかい",
+      "沙茶の海鮮香",
+      "甘辛く香ばしい",
+      "軽い辛味"
+    ],
+    "orderAdvice": "白飯向き。辛さより香味が主役。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E6%B2%99%E8%8C%B6%E9%9D%A2",
+      "https://zh.wikipedia.org/wiki/%E6%B2%99%E8%8C%B6%E9%85%B1"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "牛肉",
+      "炒め物",
+      "香ばしい",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "沙茶醤の牛肉炒め",
+      "沙茶牛肉",
+      "福建の牛肉炒め"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/chao-sha-cha-niu-rou/1.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "紅焼蹄筋",
+        "difference": "紅焼蹄筋より葱の香りを前面に出す"
+      }
+    ],
+    "relatedIds": [],
+    "id": "cong-shao-ti-jin",
+    "name": "葱焼蹄筋",
+    "kana": "ねぎやきていきん",
+    "aliases": [
+      "葱烧蹄筋",
+      "葱焼き蹄筋"
+    ],
+    "englishName": "Braised tendon with scallions",
+    "originalName": "葱焼蹄筋",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "牛または豚の蹄筋を葱の香りで焼き煮にする中華料理。ゼラチン質の食感と濃い醤油系の旨味が特徴。",
+    "menuDescription": "蹄筋を葱と醤油だれでとろりと煮焼きした料理。",
+    "whatComesOut": [
+      "柔らかく煮た蹄筋",
+      "葱の香りが立つ濃色の餡",
+      "青菜の添え物"
+    ],
+    "tasteAndTexture": [
+      "ぷるぷる",
+      "コラーゲン質",
+      "葱油の香り",
+      "こってり"
+    ],
+    "orderAdvice": "食感重視の皿。脂身ではなくゼラチン質が好きなら合う。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "牛肉",
+      "煮込み",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "蹄筋の葱焼き",
+      "中華のすじ煮",
+      "ぷるぷる蹄筋"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "油飯",
+        "difference": "油飯は糯米を油で和える印象が強く、鹹飯は炊き込み飯寄り"
+      }
+    ],
+    "relatedIds": [],
+    "id": "xian-fan",
+    "name": "鹹飯",
+    "kana": "しえんふぁん",
+    "aliases": [
+      "咸饭",
+      "闽南咸饭",
+      "泉州咸饭"
+    ],
+    "englishName": "Minnan savory rice",
+    "originalName": "鹹飯",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "泉州"
+      }
+    ],
+    "summary": "米に豚肉、椎茸、干し海産物、野菜などを加えて炊く闽南の味付き飯。家庭料理・小吃として食べられる。",
+    "menuDescription": "具入りの闽南風炊き込みご飯。",
+    "whatComesOut": [
+      "色づいた炊き込み飯",
+      "豚肉や椎茸",
+      "干し海老や野菜"
+    ],
+    "tasteAndTexture": [
+      "米はしっとり",
+      "醤油系の旨味",
+      "干し物の香り",
+      "腹持ちがよい"
+    ],
+    "orderAdvice": "単品でも主食になる。濃い味ならスープと合わせる。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主食",
+      "米",
+      "豚肉",
+      "炊き込み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "闽南咸饭",
+      "泉州の炊き込みご飯",
+      "福建の味付き飯"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "年糕",
+        "difference": "年糕はもち米餅としての性格が強く、米糕は米製糕点の広い呼称"
+      }
+    ],
+    "relatedIds": [],
+    "id": "mi-gao",
+    "name": "米糕",
+    "kana": "みーがお",
+    "aliases": [
+      "米糕",
+      "ライスケーキ"
+    ],
+    "englishName": "Rice cake",
+    "originalName": "米糕",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "米や米粉、糯米を蒸して作る米製品・菓子・軽食の総称。中国各地で甘味や主食系など多様な形がある。",
+    "menuDescription": "米を蒸して固めた餅状の軽食または菓子。",
+    "whatComesOut": [
+      "蒸した米粉または糯米の糕",
+      "甘いもの、塩味のもの",
+      "切り分けた提供"
+    ],
+    "tasteAndTexture": [
+      "もちもち",
+      "米の甘み",
+      "腹持ちがよい",
+      "味は地域差が大きい"
+    ],
+    "orderAdvice": "甘い米糕か惣菜系か確認。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%B1%B3%E7%B3%95",
+      "https://zh.wikipedia.org/wiki/%E7%AD%92%E4%BB%94%E7%B1%B3%E7%B3%95"
+    ],
+    "tags": [
+      "中国料理",
+      "軽食",
+      "デザート",
+      "米",
+      "蒸し料理",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "中国の米菓子",
+      "米粉の蒸し菓子",
+      "米の糕点"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mi-gao/1.jpg",
+      "/images/dishes/mi-gao/2.jpg",
+      "/images/dishes/mi-gao/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "葱油餅",
+        "difference": "葱油餅は層状の焼きパン寄り。葱糕は糕らしいもち感が出る"
+      }
+    ],
+    "relatedIds": [],
+    "id": "cong-gao",
+    "name": "葱糕",
+    "kana": "つぉんがお",
+    "aliases": [
+      "葱糕",
+      "ネギ糕"
+    ],
+    "englishName": "Scallion rice cake",
+    "originalName": "葱糕",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "泉州"
+      }
+    ],
+    "summary": "葱を混ぜた米粉・小麦粉系の糕。泉州周辺の小吃として、蒸すまたは焼く形で食べられる。",
+    "menuDescription": "葱の香りをきかせた糕タイプの軽食。",
+    "whatComesOut": [
+      "切り分けた葱入り糕",
+      "葱油や醤油系の香り",
+      "軽い焼き目または蒸し上がり"
+    ],
+    "tasteAndTexture": [
+      "もちっと柔らかい",
+      "葱の香り",
+      "素朴な塩味",
+      "軽い"
+    ],
+    "orderAdvice": "軽食枠。主菜というより間食向き。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "軽食",
+      "米",
+      "野菜",
+      "蒸し料理",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "泉州葱糕",
+      "葱入り糕",
+      "ネギの米糕"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cong-gao/1.jpg",
+      "/images/dishes/cong-gao/2.jpg",
+      "/images/dishes/cong-gao/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "粽子",
+        "difference": "大肉粽は肉入りで大型、闽南小吃としての味付けが濃い"
+      }
+    ],
+    "relatedIds": [],
+    "id": "da-rou-zong",
+    "name": "大肉粽",
+    "kana": "だーろうぞん",
+    "aliases": [
+      "大肉粽",
+      "烧肉粽",
+      "燒肉粽"
+    ],
+    "englishName": "Large pork zongzi",
+    "originalName": "大肉粽",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "厦門"
+      }
+    ],
+    "summary": "豚肉、糯米、椎茸、干し海産物などを竹葉で包んで蒸す大型の肉粽。厦門・闽南の小吃として知られる。",
+    "menuDescription": "豚肉入りの大きな中華ちまき。",
+    "whatComesOut": [
+      "竹葉に包まれた糯米",
+      "豚肉、椎茸、海老などの具",
+      "甘辛いタレや薬味"
+    ],
+    "tasteAndTexture": [
+      "糯米はもちもち",
+      "豚肉のコク",
+      "干し海産物の旨味",
+      "重め"
+    ],
+    "orderAdvice": "一個で腹にたまる。軽く食べたい時は分ける。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主食",
+      "豚肉",
+      "米",
+      "蒸し料理",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "厦門焼肉粽",
+      "福建の肉ちまき",
+      "豚肉入り粽"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/da-rou-zong/1.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "id": "spring-roll",
+        "name": "春巻",
+        "difference": "春巻は揚げ皮が多い。菜包は蒸し包み系"
+      }
+    ],
+    "relatedIds": [
+      "spring-roll"
+    ],
+    "id": "quanzhou-cai-bao",
+    "name": "泉州菜包",
+    "kana": "せんしゅうさいぱお",
+    "aliases": [
+      "菜包",
+      "泉州菜包"
+    ],
+    "englishName": "Quanzhou vegetable bun",
+    "originalName": "泉州菜包",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "泉州"
+      }
+    ],
+    "summary": "泉州周辺の野菜餡入り包み物。米粉または小麦系の皮に野菜、干し物、肉などを詰める小吃。",
+    "menuDescription": "野菜餡を包んだ泉州の軽食。",
+    "whatComesOut": [
+      "蒸した包み物",
+      "野菜中心の餡",
+      "干し海老や肉の旨味"
+    ],
+    "tasteAndTexture": [
+      "皮はもちもちまたは柔らかい",
+      "餡は素朴",
+      "油っこさ控えめ",
+      "香味がある"
+    ],
+    "orderAdvice": "朝食・軽食向き。具は店ごとに違う。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "軽食",
+      "野菜",
+      "蒸し料理",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "泉州の菜包",
+      "野菜包み小吃",
+      "福建の菜包"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "泡椒鳳爪",
+        "difference": "泡椒鳳爪は酸辛い漬け味。洪瀬鶏爪は甘辛い滷味寄り"
+      }
+    ],
+    "relatedIds": [],
+    "id": "hong-lai-ji-zhua",
+    "name": "洪瀬鶏爪",
+    "kana": "ほんらいじーじゅあ",
+    "aliases": [
+      "洪濑鸡爪",
+      "洪瀬雞爪",
+      "洪瀬鶏爪"
+    ],
+    "englishName": "Honglai chicken feet",
+    "originalName": "洪瀬鶏爪",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "洪瀬"
+      }
+    ],
+    "summary": "福建省南安・洪瀬鎮の名物鶏爪。煮込み・漬け込みで味を含ませ、泉州の特色小吃として知られる。",
+    "menuDescription": "洪瀬名物の味付き鶏足。",
+    "whatComesOut": [
+      "色濃く味付けした鶏爪",
+      "骨付きの小皿",
+      "香辛料や醤油だれ"
+    ],
+    "tasteAndTexture": [
+      "ぷるぷる",
+      "骨まわりをしゃぶる食感",
+      "甘辛い",
+      "香辛料の香り"
+    ],
+    "orderAdvice": "可食部は少ないが旨味が濃い。手で食べる前提。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E6%B4%AA%E6%BF%91%E9%95%87",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "軽食",
+      "鶏肉",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "洪濑鸡爪",
+      "泉州の鶏足",
+      "南安名物鶏爪"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "魚丸",
+        "difference": "魚丸は球状。崇武魚巻は巻いて切る形が特徴"
+      }
+    ],
+    "relatedIds": [],
+    "id": "chongwu-yu-juan",
+    "name": "崇武魚巻",
+    "kana": "すうぶぎょかん",
+    "aliases": [
+      "崇武鱼卷",
+      "崇武魚卷",
+      "崇武魚巻"
+    ],
+    "englishName": "Chongwu fish roll",
+    "originalName": "崇武魚巻",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "崇武"
+      }
+    ],
+    "summary": "福建・惠安崇武の魚肉練り物。白身魚のすり身を巻き、蒸すまたは煮て食べる泉州系小吃。",
+    "menuDescription": "崇武名物の魚肉ロール。",
+    "whatComesOut": [
+      "輪切りの魚巻",
+      "白い魚肉の練り物",
+      "スープまたは小皿"
+    ],
+    "tasteAndTexture": [
+      "ぷりっと弾力",
+      "魚の旨味",
+      "あっさり",
+      "ほのかな甘み"
+    ],
+    "orderAdvice": "魚丸が好きなら合う。スープ入りか単品か確認。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "軽食",
+      "魚介",
+      "蒸し料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "崇武鱼卷",
+      "泉州の魚巻",
+      "福建の魚肉ロール"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "id": "rice-vermicelli",
+        "name": "米粉",
+        "difference": "米粉は素材名。炒米粉は調理済み料理"
+      }
+    ],
+    "relatedIds": [
+      "rice-vermicelli"
+    ],
+    "id": "chao-mi-fen",
+    "name": "炒米粉",
+    "kana": "ちゃおみーふぇん",
+    "aliases": [
+      "炒米粉",
+      "fried rice vermicelli"
+    ],
+    "englishName": "Fried rice vermicelli",
+    "originalName": "炒米粉",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "米粉を野菜、肉、卵、海鮮などと炒める中国・華人圏の麺料理。福建・台湾・東南アジアにも多い。",
+    "menuDescription": "細い米麺を具材と炒めた料理。",
+    "whatComesOut": [
+      "炒めた米粉",
+      "野菜、肉、卵などの具",
+      "醤油系または塩味"
+    ],
+    "tasteAndTexture": [
+      "米麺は軽い",
+      "香ばしい",
+      "具材の旨味を吸う",
+      "辛さは店次第"
+    ],
+    "orderAdvice": "主食として頼みやすい。取り分けにも向く。",
+    "source": [
+      "https://en.wikipedia.org/wiki/Hokkien_mee",
+      "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "主食",
+      "米",
+      "炒め物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "焼きビーフン",
+      "米粉炒め",
+      "福建風炒め米麺"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chao-mi-fen/1.jpg",
+      "/images/dishes/chao-mi-fen/2.jpg",
+      "/images/dishes/chao-mi-fen/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "煮こごり",
+        "difference": "土筍凍は海の星虫由来で、冷菜小吃として食べる"
+      }
+    ],
+    "relatedIds": [],
+    "id": "tu-sun-dong",
+    "name": "土筍凍",
+    "kana": "とすんとう",
+    "aliases": [
+      "土笋冻",
+      "土筍凍"
+    ],
+    "englishName": "Tusundong sandworm aspic",
+    "originalName": "土筍凍",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "厦門"
+      }
+    ],
+    "summary": "可口革囊星虫を煮て自然に固める闽南の海鮮ゼリー。厦門・晋江安海などで有名な冷菜小吃。",
+    "menuDescription": "海の星虫を煮固めた透明な冷製ゼリー。",
+    "whatComesOut": [
+      "小碗型の透明なゼリー",
+      "中に土笋の身",
+      "酢、醤油、にんにく"
+    ],
+    "tasteAndTexture": [
+      "ぷるぷる",
+      "身はこりっとする",
+      "海鮮の旨味",
+      "酸味だれでさっぱり"
+    ],
+    "orderAdvice": "虫系食材に抵抗がなければ名物として試せる。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%9C%9F%E7%AC%8B%E5%86%BB",
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "前菜",
+      "魚介",
+      "冷菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "土笋冻",
+      "厦門の海鮮ゼリー",
+      "虫ではなく土笋の冷菜",
+      "闽南名物冷菜"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "蘭州牛肉麺",
+        "difference": "蘭州系は清湯と手延べ麺が中心。牛肉麺全体の一系統"
+      }
+    ],
+    "relatedIds": [
+      "chinese-noodles"
+    ],
+    "id": "beef-noodle-soup",
+    "name": "牛肉麺",
+    "kana": "ぎゅうにくめん",
+    "aliases": [
+      "牛肉面",
+      "牛肉麺",
+      "beef noodle soup"
+    ],
+    "englishName": "Beef noodle soup",
+    "originalName": "牛肉麺",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "country": "台湾"
+      }
+    ],
+    "summary": "牛肉、牛骨や牛肉のスープ、麺、野菜を合わせる麺料理。蘭州系の清湯、台湾の紅焼系など多様な型がある。",
+    "menuDescription": "牛肉と牛スープの中華麺。",
+    "whatComesOut": [
+      "牛肉入りの汁麺",
+      "小麦麺",
+      "葱、青菜、漬物など"
+    ],
+    "tasteAndTexture": [
+      "牛だしが濃い",
+      "麺はすすりやすい",
+      "肉は柔らかい",
+      "型により辛味あり"
+    ],
+    "orderAdvice": "清湯か紅焼かで味が大きく違う。辛さも確認。",
+    "source": [
+      "https://en.wikipedia.org/wiki/Beef_noodle_soup",
+      "https://en.wikipedia.org/wiki/Taiwanese_beef_noodle_soup"
+    ],
+    "tags": [
+      "中国料理",
+      "台湾料理",
+      "主食",
+      "牛肉",
+      "麺料理",
+      "煮込み"
+    ],
+    "reverseKeywords": [
+      "中華牛肉ラーメン",
+      "台湾牛肉麺",
+      "紅焼牛肉麺",
+      "蘭州牛肉麺"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/beef-noodle-soup/1.jpg",
+      "/images/dishes/beef-noodle-soup/2.jpg",
+      "/images/dishes/beef-noodle-soup/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "紅豆湯",
+        "difference": "紅豆湯は小豆。花生湯は落花生の香りと油脂感が主役"
+      }
+    ],
+    "relatedIds": [],
+    "id": "hua-sheng-tang",
+    "name": "花生湯",
+    "kana": "ふぁーしぇんたん",
+    "aliases": [
+      "花生汤",
+      "長生果湯",
+      "长生果汤",
+      "ピーナッツスープ"
+    ],
+    "englishName": "Peanut soup",
+    "originalName": "花生湯",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "厦門"
+      }
+    ],
+    "summary": "ピーナッツを柔らかく煮た甘いスープ。厦門・福建や台湾で朝食、甘味、小吃として親しまれる。",
+    "menuDescription": "柔らかい落花生の甘いスープ。",
+    "whatComesOut": [
+      "白濁した甘い汁",
+      "柔らかい落花生",
+      "温製または冷製"
+    ],
+    "tasteAndTexture": [
+      "やさしい甘さ",
+      "落花生がほろっと崩れる",
+      "軽いコク",
+      "辛さなし"
+    ],
+    "orderAdvice": "デザートや朝食向き。甘さ控えめが好きなら確認。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "デザート",
+      "豆類",
+      "スープ",
+      "甘い"
+    ],
+    "reverseKeywords": [
+      "長生果湯",
+      "ピーナッツ甘湯",
+      "厦門の花生湯"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hua-sheng-tang/1.jpg",
+      "/images/dishes/hua-sheng-tang/2.jpg",
+      "/images/dishes/hua-sheng-tang/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "東坡肉",
+        "difference": "東坡肉は杭州系の角煮。封肉は同安の宴席料理で具材を封じる演出がある"
+      }
+    ],
+    "relatedIds": [],
+    "id": "feng-rou",
+    "name": "封肉",
+    "kana": "ふぉんろう",
+    "aliases": [
+      "同安封肉",
+      "封肉"
+    ],
+    "englishName": "Tongan sealed pork",
+    "originalName": "封肉",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "厦門"
+      }
+    ],
+    "summary": "厦門・同安の伝統料理。豚肉を香菇、蓮子、干し海老などと煮込み、器を封じて供することから名がある。",
+    "menuDescription": "同安名物の濃厚な豚肉煮込み。",
+    "whatComesOut": [
+      "大きな豚肉の塊",
+      "香菇、蓮子、干し海老",
+      "濃い煮汁"
+    ],
+    "tasteAndTexture": [
+      "肉は柔らかい",
+      "脂のコク",
+      "醤油系で甘辛い",
+      "重め"
+    ],
+    "orderAdvice": "大皿向き。人数がいる時に頼む。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主菜",
+      "豚肉",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "同安封肉",
+      "厦門の豚肉煮込み",
+      "宴席の封肉"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "ラクサ",
+        "difference": "ラクサはココナッツや香辛料の東南アジア麺。沙茶麺は沙茶醤ベースの厦門麺"
+      }
+    ],
+    "relatedIds": [
+      "chinese-noodles",
+      "squid"
+    ],
+    "id": "shacha-noodles",
+    "name": "沙茶麺",
+    "kana": "しゃちゃめん",
+    "aliases": [
+      "沙茶面",
+      "沙茶麵",
+      "サーチャーメン"
+    ],
+    "englishName": "Shacha noodles",
+    "originalName": "沙茶麺",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "厦門"
+      }
+    ],
+    "summary": "厦門の名物湯麺。沙茶醤をスープに溶かし、油麺に豆芽、内臓、イカ、豆腐干などを好みで加える。",
+    "menuDescription": "沙茶スープの厦門風具だくさん麺。",
+    "whatComesOut": [
+      "沙茶色のスープ麺",
+      "油麺",
+      "豚肝、腰、イカ、豆腐干などの具"
+    ],
+    "tasteAndTexture": [
+      "沙茶の海鮮香",
+      "甘辛く少しスパイシー",
+      "具材が多い",
+      "スープは濃厚"
+    ],
+    "orderAdvice": "具を選ぶ形式が多い。内臓が苦手なら避けて指定。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E6%B2%99%E8%8C%B6%E9%9D%A2",
+      "https://zh.wikipedia.org/wiki/%E6%B2%99%E8%8C%B6%E9%85%B1"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主食",
+      "麺料理",
+      "魚介",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "厦門沙茶面",
+      "沙茶スープ麺",
+      "具を選ぶ厦門麺"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/shacha-noodles/1.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "ホッケンミー",
+        "difference": "地域により蝦麺型と炒め麺型があり、蝦麺は海老だしを強く見る呼び名"
+      }
+    ],
+    "relatedIds": [
+      "chinese-noodles",
+      "rice-vermicelli"
+    ],
+    "id": "xia-mian",
+    "name": "蝦麺",
+    "kana": "しゃーめん",
+    "aliases": [
+      "虾面",
+      "蝦麵",
+      "prawn mee"
+    ],
+    "englishName": "Prawn noodles",
+    "originalName": "蝦麺",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "シンガポール"
+      },
+      {
+        "country": "マレーシア"
+      }
+    ],
+    "summary": "海老のだしを使う麺料理。福建系移民の食文化として、海老と豚骨の濃いスープや炒め麺の形で広がった。",
+    "menuDescription": "海老だしをきかせた福建系の麺。",
+    "whatComesOut": [
+      "海老入りの汁麺または炒め麺",
+      "黄麺や米麺",
+      "豚肉、魚糕、もやしなど"
+    ],
+    "tasteAndTexture": [
+      "海老の香りが濃い",
+      "スープは旨味強め",
+      "麺はつるっとする",
+      "辛味だれを添えることもある"
+    ],
+    "orderAdvice": "汁あり、汁なし、炒めで印象が違う。海老アレルギー注意。",
+    "caution": "甲殻類を含む。",
+    "source": [
+      "https://en.wikipedia.org/wiki/Hokkien_mee",
+      "https://zh.wikipedia.org/wiki/%E6%B2%99%E8%8C%B6%E9%9D%A2"
+    ],
+    "tags": [
+      "中国料理",
+      "主食",
+      "麺料理",
+      "魚介",
+      "煮込み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "虾面",
+      "海老だし麺",
+      "福建蝦麺",
+      "prawn mee"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/xia-mian/1.jpg",
+      "/images/dishes/xia-mian/2.jpg",
+      "/images/dishes/xia-mian/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "担担麺",
+        "difference": "担担麺は胡麻や辣油の四川系が多い。乾拌麺は広い汁なし和え麺"
+      }
+    ],
+    "relatedIds": [
+      "chinese-noodles"
+    ],
+    "id": "gan-ban-mian",
+    "name": "乾拌麺",
+    "kana": "がんばんめん",
+    "aliases": [
+      "干拌面",
+      "乾拌麵",
+      "拌面"
+    ],
+    "englishName": "Dry tossed noodles",
+    "originalName": "乾拌麺",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "茹でた麺をスープに入れず、醤油、葱油、胡麻醤、肉味噌などのたれで和える麺。福建小吃の拌面系。",
+    "menuDescription": "汁なしの和え中華麺。",
+    "whatComesOut": [
+      "たれを絡めた麺",
+      "葱油や醤油だれ",
+      "肉そぼろや青菜"
+    ],
+    "tasteAndTexture": [
+      "麺の食感が前面に出る",
+      "香ばしい",
+      "たれは濃いめ",
+      "辛さは選択式"
+    ],
+    "orderAdvice": "混ぜて食べる。スープ付きか確認。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83",
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主食",
+      "麺料理",
+      "和え物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "干拌面",
+      "汁なし中華麺",
+      "福建拌面"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "あんかけ焼きそば",
+        "difference": "鹵麺は汁麺寄りで、餡を麺に絡めて食べる"
+      }
+    ],
+    "relatedIds": [
+      "chinese-noodles"
+    ],
+    "id": "lu-mian",
+    "name": "鹵麺",
+    "kana": "るーみぇん",
+    "aliases": [
+      "卤面",
+      "滷麵",
+      "Lor mee"
+    ],
+    "englishName": "Lor mee",
+    "originalName": "鹵麺",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "とろみのある鹵汁を麺にかける福建系の麺料理。莆田・興化菜では海鮮や肉を使う卤面が代表料理の一つ。",
+    "menuDescription": "とろみ餡スープをかけた福建系麺。",
+    "whatComesOut": [
+      "とろみのある汁麺",
+      "太めまたは細めの中華麺",
+      "肉、海鮮、野菜"
+    ],
+    "tasteAndTexture": [
+      "餡が麺に絡む",
+      "旨味が濃い",
+      "こってり寄り",
+      "酢やにんにくで味変"
+    ],
+    "orderAdvice": "重めの汁麺。とろみが苦手なら避ける。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E8%8F%9C",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主食",
+      "麺料理",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "福建卤面",
+      "莆田卤面",
+      "とろみ中華麺",
+      "Lor mee"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/lu-mian/1.jpg",
+      "/images/dishes/lu-mian/2.jpg",
+      "/images/dishes/lu-mian/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "id": "duck",
+        "name": "鴨料理",
+        "difference": "鴨麺は鴨を主役にした麺料理"
+      }
+    ],
+    "relatedIds": [
+      "duck",
+      "chinese-noodles"
+    ],
+    "id": "ya-mian",
+    "name": "鴨麺",
+    "kana": "やーみぇん",
+    "aliases": [
+      "鸭面",
+      "鴨麵"
+    ],
+    "englishName": "Duck noodles",
+    "originalName": "鴨麺",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "鴨肉や鴨だしを使う中華麺。福建・闽南の食堂では鴨肉、鴨スープ、麺を合わせる素朴な一杯として出る。",
+    "menuDescription": "鴨肉と鴨だしの麺料理。",
+    "whatComesOut": [
+      "鴨肉入りの麺",
+      "澄んだ鴨スープまたは醤油系スープ",
+      "葱や青菜"
+    ],
+    "tasteAndTexture": [
+      "鴨の旨味",
+      "脂の香り",
+      "麺はつるっとする",
+      "辛さは低い"
+    ],
+    "orderAdvice": "骨付き鴨の場合あり。食べやすさ重視なら確認。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主食",
+      "麺料理",
+      "鴨肉",
+      "煮込み"
+    ],
+    "reverseKeywords": [
+      "鸭面",
+      "鴨肉麺",
+      "福建の鴨スープ麺"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ya-mian/1.jpg",
+      "/images/dishes/ya-mian/2.jpg",
+      "/images/dishes/ya-mian/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "id": "gan-ban-mian",
+        "name": "乾拌麺",
+        "difference": "乾拌麺は汁なし麺の一般名。手抓麺は福建小吃名として出る"
+      }
+    ],
+    "relatedIds": [
+      "chinese-noodles"
+    ],
+    "id": "shou-zhua-mian",
+    "name": "手抓麺",
+    "kana": "しゅじゅあめん",
+    "aliases": [
+      "手抓面",
+      "手抓麵"
+    ],
+    "englishName": "Hand-grabbed noodles",
+    "originalName": "手抓麺",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "福建小吃に見られる麺料理名。麺をたれや具と合わせ、手軽に食べる軽食・屋台系の麺として扱われる。",
+    "menuDescription": "福建小吃の手軽な和え麺系料理。",
+    "whatComesOut": [
+      "和えた麺",
+      "葱油や醤油系のたれ",
+      "野菜や肉の少量具材"
+    ],
+    "tasteAndTexture": [
+      "麺は柔らかめ",
+      "たれが香ばしい",
+      "軽食感がある",
+      "辛さは低め"
+    ],
+    "orderAdvice": "地域・店で形が違う。汁なし系か確認。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83",
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主食",
+      "麺料理",
+      "和え物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "手抓面",
+      "福建小吃の手抓麺",
+      "手軽な和え麺"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "id": "shacha-noodles",
+        "name": "沙茶麺",
+        "difference": "沙茶麺でも豆腐干を具にするが、豆乾麺は豆乾を主役に見る"
+      }
+    ],
+    "relatedIds": [
+      "chinese-noodles"
+    ],
+    "id": "dou-gan-mian",
+    "name": "豆乾麺",
+    "kana": "どうがんめん",
+    "aliases": [
+      "豆干面",
+      "豆乾麵"
+    ],
+    "englishName": "Dried tofu noodles",
+    "originalName": "豆乾麺",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "豆乾を具や旨味素材に使う麺料理。福建・闽南の小吃では豆腐干を麺や沙茶系スープの具として加える。",
+    "menuDescription": "豆乾を合わせた素朴な中華麺。",
+    "whatComesOut": [
+      "豆乾入りの麺",
+      "醤油系または沙茶系の味",
+      "葱や青菜"
+    ],
+    "tasteAndTexture": [
+      "豆乾はむっちり",
+      "大豆の香り",
+      "たれを吸う",
+      "軽め"
+    ],
+    "orderAdvice": "肉少なめで食べたい時に向く。スープ有無を確認。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E6%B2%99%E8%8C%B6%E9%9D%A2",
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主食",
+      "麺料理",
+      "豆類",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "豆干面",
+      "豆腐干入り麺",
+      "福建の豆乾麺"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/dou-gan-mian/1.jpg",
+      "/images/dishes/dou-gan-mian/2.jpg",
+      "/images/dishes/dou-gan-mian/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "広東粥",
+        "difference": "広東粥より具材や味付けが闽南小吃寄りで店差が大きい"
+      }
+    ],
+    "relatedIds": [],
+    "id": "mao-zai-zhou",
+    "name": "猫仔粥",
+    "kana": "まおざいじょう",
+    "aliases": [
+      "猫仔粥",
+      "貓仔粥"
+    ],
+    "englishName": "Maozai porridge",
+    "originalName": "猫仔粥",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "福建・闽南系の粥料理名。米粥に魚介、肉、内臓、香味野菜などを合わせる屋台・食堂系の軽食。",
+    "menuDescription": "具材を加えた福建風の粥。",
+    "whatComesOut": [
+      "熱い米粥",
+      "魚介や肉の具",
+      "葱、胡椒、揚げ葱"
+    ],
+    "tasteAndTexture": [
+      "粥はさらりまたはとろり",
+      "だしが効く",
+      "胃に軽い",
+      "胡椒の香り"
+    ],
+    "orderAdvice": "朝食・夜食向き。具材は店ごとに確認。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主食",
+      "米",
+      "スープ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "猫仔粥",
+      "福建の粥",
+      "闽南の具入り粥"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "id": "spring-roll",
+        "name": "春巻",
+        "difference": "春巻より五香粉と豆腐皮の香りが強い"
+      }
+    ],
+    "relatedIds": [
+      "spring-roll"
+    ],
+    "id": "zha-wu-xiang",
+    "name": "炸五香",
+    "kana": "じゃーうーしゃん",
+    "aliases": [
+      "炸五香",
+      "五香卷",
+      "五香條",
+      "五香条"
+    ],
+    "englishName": "Fried five-spice roll",
+    "originalName": "炸五香",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "厦門"
+      }
+    ],
+    "summary": "五香粉で味付けした肉や野菜を豆腐皮で包み、油で揚げる闽南由来の小吃。厦門では五香條としても知られる。",
+    "menuDescription": "五香粉香る揚げ豆皮肉巻き。",
+    "whatComesOut": [
+      "切った揚げ肉巻き",
+      "豆腐皮の皮",
+      "甘辛いタレや辛子"
+    ],
+    "tasteAndTexture": [
+      "外は香ばしい",
+      "中は肉の旨味",
+      "五香粉の香り",
+      "ややこってり"
+    ],
+    "orderAdvice": "揚げ物の前菜に向く。熱いうちがよい。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E4%BA%94%E9%A6%99%E6%BB%B7%E8%82%89",
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "軽食",
+      "豚肉",
+      "揚げ物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "五香卷",
+      "五香條",
+      "厦門の炸五香",
+      "福建の揚げ肉巻き"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/zha-wu-xiang/1.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "清蒸魚",
+        "difference": "清蒸魚は蒸し主体。こちらは生姜入りの燉・煮込み寄り"
+      }
+    ],
+    "relatedIds": [],
+    "id": "jiang-dong-lu-yu-dun-jiang-si",
+    "name": "江東鱸魚燉姜絲",
+    "kana": "こうとうろぎょとんきょうし",
+    "aliases": [
+      "江东鲈鱼炖姜丝",
+      "江東鱸魚燉薑絲"
+    ],
+    "englishName": "Jiangdong sea bass stewed with ginger",
+    "originalName": "江東鱸魚燉姜絲",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      }
+    ],
+    "summary": "福建沿岸の鱸を姜絲とともに煮る魚料理。淡白な白身に生姜の香りを合わせ、スープごと味わう。",
+    "menuDescription": "鱸を生姜千切りと煮た福建系魚料理。",
+    "whatComesOut": [
+      "鱸の切り身または一尾",
+      "生姜の千切り",
+      "澄んだ煮汁"
+    ],
+    "tasteAndTexture": [
+      "白身は柔らかい",
+      "生姜が爽やか",
+      "あっさり",
+      "魚の旨味が出る"
+    ],
+    "orderAdvice": "骨に注意。一尾料理なら人数で分ける。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%9C%B0%E7%90%86",
+      "https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E6%B3%89%E5%B7%9E%E5%B8%82",
+      "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%B0%8F%E5%90%83"
+    ],
+    "tags": [
+      "中国料理",
+      "福建料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "江东鲈鱼炖姜丝",
+      "鱸の生姜煮",
+      "福建の魚煮込み"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "梅菜扣肉",
+        "difference": "菜干扣肉は永定菜干など乾菜を前面に出す呼び方"
+      }
+    ],
+    "relatedIds": [],
+    "id": "cai-gan-kou-rou",
+    "name": "菜干扣肉",
+    "kana": "さいかんこうろう",
+    "aliases": [
+      "菜干扣肉",
+      "梅菜扣肉",
+      "客家扣肉"
+    ],
+    "englishName": "Braised pork with preserved vegetables",
+    "originalName": "菜干扣肉",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "area": "閩西"
+      }
+    ],
+    "summary": "客家系の扣肉。五花肉を蒸し煮し、菜干や梅菜など保存野菜と合わせて皿へ反転して盛る。",
+    "menuDescription": "豚バラと菜干の濃厚な蒸し煮。",
+    "whatComesOut": [
+      "厚切り豚バラ",
+      "菜干または梅菜",
+      "濃い醤油系の煮汁"
+    ],
+    "tasteAndTexture": [
+      "肉は柔らかい",
+      "菜干の塩気と発酵香",
+      "こってり",
+      "白飯向き"
+    ],
+    "orderAdvice": "脂多め。大皿を取り分ける料理。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E6%89%A3%E8%82%89",
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "豚肉",
+      "蒸し料理",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "客家の扣肉",
+      "菜干と豚バラ",
+      "梅菜扣肉系"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "紅燜肉",
+        "difference": "紅燜肉は豚肉などが一般的。紅燜狗肉は犬肉を使う"
+      }
+    ],
+    "relatedIds": [],
+    "id": "hong-men-gou-rou",
+    "name": "紅燜狗肉",
+    "kana": "ほんめんごうろう",
+    "aliases": [
+      "红焖狗肉",
+      "紅燜狗肉",
+      "焖乳狗"
+    ],
+    "englishName": "Red-braised dog meat",
+    "originalName": "紅燜狗肉",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "area": "閩西"
+      }
+    ],
+    "summary": "客家菜に見られる犬肉の紅燜料理。香辛料や醤油で濃く煮込み、山間部の滋味ある料理として扱われる。",
+    "menuDescription": "犬肉を醤油と香辛料で煮込む客家料理。",
+    "whatComesOut": [
+      "濃色の犬肉煮込み",
+      "生姜、酒、香辛料",
+      "骨付き肉の場合あり"
+    ],
+    "tasteAndTexture": [
+      "肉は締まる",
+      "香りが強い",
+      "こってり",
+      "温まる味"
+    ],
+    "orderAdvice": "犬肉料理。倫理・法規・入手性に地域差が大きい。",
+    "caution": "犬肉を含む。地域により販売・消費が規制または強く忌避される。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C",
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E6%B0%91%E7%B3%BB"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "肉",
+      "煮込み",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "红焖狗肉",
+      "客家犬肉料理",
+      "犬肉の煮込み"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "白斬鶏",
+        "difference": "白斬鶏は鶏肉。白斬狗肉は犬肉で風味が強い"
+      }
+    ],
+    "relatedIds": [],
+    "id": "bai-zhan-gou-rou",
+    "name": "白斬狗肉",
+    "kana": "ばいざんごうろう",
+    "aliases": [
+      "白斩狗肉",
+      "白斬狗肉",
+      "白切狗肉"
+    ],
+    "englishName": "Plain boiled dog meat",
+    "originalName": "白斬狗肉",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "area": "閩西"
+      }
+    ],
+    "summary": "犬肉を茹でて冷まし、切り分けてたれで食べる白斬・白切系の客家料理。素材の肉味を直接味わう。",
+    "menuDescription": "茹でた犬肉を切って薬味だれで食べる料理。",
+    "whatComesOut": [
+      "薄切りの茹で犬肉",
+      "生姜や醤油系だれ",
+      "骨付き部位の場合あり"
+    ],
+    "tasteAndTexture": [
+      "肉味が強い",
+      "脂は控えめまたは部位差あり",
+      "たれで香味を補う",
+      "素朴"
+    ],
+    "orderAdvice": "犬肉の風味が前面。食文化・法規の確認推奨。",
+    "caution": "犬肉を含む。地域により販売・消費が規制または強く忌避される。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C",
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E6%B0%91%E7%B3%BB"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "肉",
+      "茹で物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "白斩狗肉",
+      "犬肉の白切り",
+      "客家犬肉"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "牛雑",
+        "difference": "牛雑は煮込み全般。九門頭は連城名物として複数部位の構成を重視"
+      }
+    ],
+    "relatedIds": [],
+    "id": "jiu-men-tou",
+    "name": "九門頭",
+    "kana": "きゅうもんとう",
+    "aliases": [
+      "九门头",
+      "九門頭",
+      "连城九门头"
+    ],
+    "englishName": "Jiumen tou",
+    "originalName": "九門頭",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "連城"
+      }
+    ],
+    "summary": "福建連城周辺の客家料理。牛の複数部位を一皿に集める名物で、部位ごとの食感を楽しむ。",
+    "menuDescription": "牛の多部位を味わう連城客家料理。",
+    "whatComesOut": [
+      "牛の内臓や肉の盛り合わせ",
+      "香味だれまたは炒め煮",
+      "葱、生姜、酒の香り"
+    ],
+    "tasteAndTexture": [
+      "部位ごとに食感が違う",
+      "旨味が濃い",
+      "ややクセあり",
+      "酒に合う"
+    ],
+    "orderAdvice": "内臓が苦手なら部位確認。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C",
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E6%B0%91%E7%B3%BB"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "牛肉",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "连城九门头",
+      "牛の多部位料理",
+      "客家牛雑"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "排骨湯",
+        "difference": "通常の排骨湯より紅菇の香りと色が特徴"
+      }
+    ],
+    "relatedIds": [],
+    "id": "hong-gu-dun-pai-gu",
+    "name": "紅菇燉排骨",
+    "kana": "ほんぐうとんぱいぐう",
+    "aliases": [
+      "红菇炖排骨",
+      "紅菇燉排骨"
+    ],
+    "englishName": "Pork ribs stewed with red mushrooms",
+    "originalName": "紅菇燉排骨",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "area": "閩西"
+      }
+    ],
+    "summary": "紅菇と豚スペアリブを煮込む福建・客家系の滋味あるスープ料理。紅菇の香りと色が汁に移る。",
+    "menuDescription": "紅菇と排骨の澄んだ煮込みスープ。",
+    "whatComesOut": [
+      "豚スペアリブ",
+      "紅菇入りスープ",
+      "生姜や塩味の澄んだ汁"
+    ],
+    "tasteAndTexture": [
+      "きのこの香り",
+      "骨付き肉の旨味",
+      "あっさり滋味深い",
+      "油は控えめ"
+    ],
+    "orderAdvice": "スープ料理として人数で分ける。紅菇は希少で価格差あり。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C",
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E6%B0%91%E7%B3%BB"
+    ],
+    "tags": [
+      "中国料理",
+      "スープ",
+      "豚肉",
+      "きのこ",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "红菇炖排骨",
+      "紅菇排骨湯",
+      "福建のきのこスープ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "黄酒鶏",
+        "difference": "黄酒鶏は酒の甘香が中心。姜鶏は生姜の香りが前面"
+      }
+    ],
+    "relatedIds": [],
+    "id": "jiang-ji",
+    "name": "姜鶏",
+    "kana": "じゃんじー",
+    "aliases": [
+      "姜鸡",
+      "薑雞",
+      "姜鶏"
+    ],
+    "englishName": "Ginger chicken",
+    "originalName": "姜鶏",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "area": "閩西"
+      }
+    ],
+    "summary": "鶏肉を生姜、酒、醤油などで炒め煮にする客家・福建系の家庭料理。生姜の辛香で鶏の旨味を引き立てる。",
+    "menuDescription": "生姜をきかせた鶏の炒め煮。",
+    "whatComesOut": [
+      "骨付きまたはぶつ切り鶏",
+      "たっぷりの生姜",
+      "醤油色の煮汁"
+    ],
+    "tasteAndTexture": [
+      "生姜の香りが強い",
+      "鶏肉は旨味濃い",
+      "体が温まる",
+      "軽い辛味"
+    ],
+    "orderAdvice": "生姜が主役。苦手なら避ける。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C",
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E6%B0%91%E7%B3%BB"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "鶏肉",
+      "炒め物",
+      "煮込み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "姜鸡",
+      "生姜鶏",
+      "客家の鶏炒め煮"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/jiang-ji/1.jpg",
+      "/images/dishes/jiang-ji/2.jpg",
+      "/images/dishes/jiang-ji/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "刺身",
+        "difference": "日本の刺身より淡水魚と薬味だれの客家式が特徴"
+      }
+    ],
+    "relatedIds": [],
+    "id": "cao-yu-sheng",
+    "name": "草魚生",
+    "kana": "そうぎょせい",
+    "aliases": [
+      "草鱼生",
+      "草魚生",
+      "客家生魚膾"
+    ],
+    "englishName": "Grass carp sashimi",
+    "originalName": "草魚生",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "area": "閩西"
+      }
+    ],
+    "summary": "新鮮な草魚を薄切りにする客家の魚膾。福建寧化などで草魚を使う生魚文化がある。",
+    "menuDescription": "草魚の薄造りを薬味だれで食べる客家魚膾。",
+    "whatComesOut": [
+      "薄切りの生草魚",
+      "醤油、芥末、生姜汁",
+      "胡麻油や薬味"
+    ],
+    "tasteAndTexture": [
+      "身は淡白",
+      "薄切りでしなやか",
+      "薬味が強い",
+      "生魚の清涼感"
+    ],
+    "orderAdvice": "淡水魚の生食。衛生管理が確かな店だけ。",
+    "caution": "淡水魚の生食は寄生虫リスクがある。信頼できる提供元でのみ。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%94%9F%E9%AD%9A%E7%89%87",
+      "https://zh.wikipedia.org/wiki/%E8%8D%89%E9%B1%BC"
+    ],
+    "tags": [
+      "中国料理",
+      "前菜",
+      "魚介",
+      "生食",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "客家生魚膾",
+      "草鱼生",
+      "淡水魚の刺身"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "客家菜包",
+        "difference": "客家菜包は大根干しなども多い。韭菜包はニラ餡が主役"
+      }
+    ],
+    "relatedIds": [
+      "spring-roll"
+    ],
+    "id": "jiu-cai-bao",
+    "name": "韭菜包",
+    "kana": "きゅうさいぱお",
+    "aliases": [
+      "韭菜包",
+      "ニラ菜包"
+    ],
+    "englishName": "Chive bun",
+    "originalName": "韭菜包",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "area": "閩西"
+      }
+    ],
+    "summary": "韭菜を主な餡にした包み物。客家菜包や粄類と近く、米粉または小麦の皮で包んで蒸す・焼く。",
+    "menuDescription": "ニラ餡入りの包み軽食。",
+    "whatComesOut": [
+      "韭菜餡の包み物",
+      "米粉または小麦の皮",
+      "肉末や干し海老入りの場合あり"
+    ],
+    "tasteAndTexture": [
+      "ニラの香り",
+      "皮はもちもちまたは柔らかい",
+      "素朴な塩味",
+      "軽食向き"
+    ],
+    "orderAdvice": "ニラ香が強い。朝食・点心向き。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C%E5%8C%85",
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "軽食",
+      "野菜",
+      "蒸し料理",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "ニラ包子",
+      "韭菜入り菜包",
+      "客家の韭菜包"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/jiu-cai-bao/1.jpg",
+      "/images/dishes/jiu-cai-bao/2.jpg",
+      "/images/dishes/jiu-cai-bao/3.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "id": "hainanese-chicken-rice",
+        "name": "海南鶏飯",
+        "difference": "海南鶏飯は飯とスープがセット。白斬河田鶏は鶏そのものを味わう"
+      }
+    ],
+    "relatedIds": [
+      "hainanese-chicken-rice"
+    ],
+    "id": "bai-zhan-he-tian-ji",
+    "name": "白斬河田鶏",
+    "kana": "ばいざんほーてぃえんじー",
+    "aliases": [
+      "白斩河田鸡",
+      "白斬河田雞",
+      "白斬河田鶏"
+    ],
+    "englishName": "Plain poached Hetian chicken",
+    "originalName": "白斬河田鶏",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "長汀"
+      }
+    ],
+    "summary": "長汀・河田鶏を白斬鶏にした名菜。河田鶏は長汀河田鎮原産の肉鶏で、白斬鶏が代表的な食べ方。",
+    "menuDescription": "長汀名物・河田鶏の白切り。",
+    "whatComesOut": [
+      "茹でた河田鶏の切り身",
+      "皮付きの鶏肉",
+      "生姜葱だれ"
+    ],
+    "tasteAndTexture": [
+      "鶏味が濃い",
+      "皮はぷるっとする",
+      "肉は締まりがある",
+      "あっさり"
+    ],
+    "orderAdvice": "冷菜または常温で出る。骨付きに注意。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E6%B2%B3%E7%94%B0%E9%B8%A1",
+      "https://zh.wikipedia.org/wiki/%E9%95%BF%E6%B1%80%E5%8E%BF"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "鶏肉",
+      "茹で物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "長汀河田鶏",
+      "白斩河田鸡",
+      "客家白切鶏"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "豆腐干",
+        "difference": "金絲豆腐干は長汀豆腐干系で、細い繊維感と香料滷味が特徴"
+      }
+    ],
+    "relatedIds": [],
+    "id": "jin-si-dou-fu-gan",
+    "name": "金絲豆腐干",
+    "kana": "きんしどうふかん",
+    "aliases": [
+      "金丝豆腐干",
+      "金絲豆腐干",
+      "长汀豆腐干"
+    ],
+    "englishName": "Jinsi dried tofu",
+    "originalName": "金絲豆腐干",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "長汀"
+      }
+    ],
+    "summary": "長汀豆腐干系の豆腐加工品。酸漿で作る長汀豆腐を香料で滷し、乾燥させる汀州八大乾の代表。",
+    "menuDescription": "細く裂ける長汀名物の味付き豆腐干。",
+    "whatComesOut": [
+      "薄切りまたは細切り豆腐干",
+      "甘草、八角、桂皮の香り",
+      "そのまま、または炒め物"
+    ],
+    "tasteAndTexture": [
+      "噛みごたえがある",
+      "鹹甜の味",
+      "大豆の旨味",
+      "香辛料が穏やか"
+    ],
+    "orderAdvice": "酒肴・土産系にも多い。硬さは商品差あり。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E6%B1%80%E5%B7%9E%E5%85%AB%E5%A4%A7%E4%B9%BE",
+      "https://zh.wikipedia.org/wiki/%E9%95%BF%E6%B1%80%E5%8E%BF"
+    ],
+    "tags": [
+      "中国料理",
+      "軽食",
+      "豆類",
+      "燻製",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "长汀豆腐干",
+      "汀州八大乾",
+      "金丝豆腐干"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "簸箕粄",
+        "difference": "簸箕粄は薄い米皮を巻く総称。大卷は大ぶりな巻き物として出る"
+      }
+    ],
+    "relatedIds": [
+      "rice-vermicelli"
+    ],
+    "id": "da-juan",
+    "name": "大卷",
+    "kana": "だーじゅえん",
+    "aliases": [
+      "大卷",
+      "大捲",
+      "客家大卷"
+    ],
+    "englishName": "Hakka rice roll",
+    "originalName": "大卷",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "area": "閩西"
+      }
+    ],
+    "summary": "闽西客家の巻き粄系小吃。米漿を薄く蒸した皮で具を巻き、醤汁をかける簸箕粄・卷粄に近い料理。",
+    "menuDescription": "米皮で具を巻く客家の大きな巻き粄。",
+    "whatComesOut": [
+      "白い米皮のロール",
+      "肉、野菜、香菇などの餡",
+      "醤油系だれ"
+    ],
+    "tasteAndTexture": [
+      "皮はつるもち",
+      "餡は香ばしい",
+      "軽い主食感",
+      "たれで旨味が出る"
+    ],
+    "orderAdvice": "腸粉に似るが米皮と餡の客家式。温かいうちに。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%B0%B8%E7%AE%95%E7%B2%84",
+      "https://zh.wikipedia.org/wiki/%E7%B2%84%E6%A2%9D"
+    ],
+    "tags": [
+      "中国料理",
+      "軽食",
+      "米",
+      "蒸し料理",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "客家大卷",
+      "卷粄",
+      "簸箕粄系小吃"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/da-juan/1.jpg"
+    ]
+  },
+  {
+    "similarItems": [
+      {
+        "name": "ホルモン麺",
+        "difference": "長汀鶏腸麺は鶏腸と客家系調味が特徴"
+      }
+    ],
+    "relatedIds": [
+      "chinese-noodles"
+    ],
+    "id": "chang-ting-ji-chang-mian",
+    "name": "長汀鶏腸麺",
+    "kana": "ちょうていけいちょうめん",
+    "aliases": [
+      "长汀鸡肠面",
+      "長汀雞腸麵",
+      "長汀鶏腸麺"
+    ],
+    "englishName": "Changting chicken intestine noodles",
+    "originalName": "長汀鶏腸麺",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "長汀"
+      }
+    ],
+    "summary": "長汀の麺料理。鶏腸など内臓を具に使い、客家系の濃い味付けやスープで麺と合わせる。",
+    "menuDescription": "鶏腸を具にする長汀の麺。",
+    "whatComesOut": [
+      "中華麺または米麺",
+      "鶏腸の具",
+      "葱、生姜、胡椒の香り"
+    ],
+    "tasteAndTexture": [
+      "鶏腸はこりっとする",
+      "スープは旨味が濃い",
+      "香味が強い",
+      "クセあり"
+    ],
+    "orderAdvice": "内臓が苦手なら避ける。地元麺として試す料理。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E9%95%BF%E6%B1%80%E5%8E%BF",
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "主食",
+      "麺料理",
+      "鶏肉",
+      "煮込み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "长汀鸡肠面",
+      "鶏腸入り麺",
+      "長汀の客家麺"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "腊肉炒笋",
+        "difference": "爆炒地猴は寧化老鼠乾を主材にする点が大きく違う"
+      }
+    ],
+    "relatedIds": [],
+    "id": "bao-chao-di-hou",
+    "name": "爆炒地猴",
+    "kana": "ばおちゃおでぃほう",
+    "aliases": [
+      "爆炒地猴",
+      "宁化老鼠干炒め"
+    ],
+    "englishName": "Stir-fried dried field mouse",
+    "originalName": "爆炒地猴",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "寧化"
+      }
+    ],
+    "summary": "寧化老鼠乾を使う客家料理。田鼠・山鼠の乾物を肉、冬笋、生姜、黄酒などと爆炒する。",
+    "menuDescription": "寧化老鼠乾を強火で炒める珍味料理。",
+    "whatComesOut": [
+      "切った老鼠乾",
+      "冬笋や豚肉、腊肉",
+      "生姜、黄酒、大蒜の香り"
+    ],
+    "tasteAndTexture": [
+      "肉は締まり強い",
+      "燻香がある",
+      "香ばしい",
+      "酒肴向き"
+    ],
+    "orderAdvice": "田鼠・山鼠料理。抵抗があるなら避ける。",
+    "caution": "野生小動物由来の食材。衛生・合法性・入手経路の確認が重要。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%AF%A7%E5%8C%96%E8%80%81%E9%BC%A0%E4%B9%BE",
+      "https://zh.wikipedia.org/wiki/%E6%B1%80%E5%B7%9E%E5%85%AB%E5%A4%A7%E4%B9%BE"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "肉",
+      "炒め物",
+      "燻製",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "寧化老鼠乾",
+      "田鼠炒め",
+      "爆炒地猴",
+      "闽西八大乾料理"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "田鶏料理",
+        "difference": "油燜石鱗は石鱗を使う閩西山地料理として扱われる"
+      }
+    ],
+    "relatedIds": [],
+    "id": "you-men-shi-lin",
+    "name": "油燜石鱗",
+    "kana": "ようめんしーりん",
+    "aliases": [
+      "油焖石鳞",
+      "油燜石鱗",
+      "石鳞"
+    ],
+    "englishName": "Oil-braised stone frog",
+    "originalName": "油燜石鱗",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "area": "閩西"
+      }
+    ],
+    "summary": "石鱗と呼ばれる山地のカエル類を油で香ばしく炒め煮にする閩西・客家系の山の料理。",
+    "menuDescription": "石鱗を油で香ばしく煮る山の珍味。",
+    "whatComesOut": [
+      "骨付きの石鱗肉",
+      "油と醤油系の煮汁",
+      "生姜、葱、酒"
+    ],
+    "tasteAndTexture": [
+      "肉は鶏に近い弾力",
+      "山の香り",
+      "こってりめ",
+      "香ばしい"
+    ],
+    "orderAdvice": "カエル料理。骨と小部位が多い。",
+    "caution": "野生・保護対象種の可能性あり。合法な養殖・流通品のみ。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C",
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E6%B0%91%E7%B3%BB"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "肉",
+      "煮込み",
+      "炒め物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "油焖石鳞",
+      "石鱗料理",
+      "カエルの油燜"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "白子ポン酢",
+        "difference": "上杭魚白は中華の炒め煮・香味調理で出る"
+      }
+    ],
+    "relatedIds": [],
+    "id": "shang-hang-yu-bai",
+    "name": "上杭魚白",
+    "kana": "じょうこうぎょはく",
+    "aliases": [
+      "上杭鱼白",
+      "上杭魚白"
+    ],
+    "englishName": "Shanghang fish milt",
+    "originalName": "上杭魚白",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "上杭"
+      }
+    ],
+    "summary": "上杭周辺の魚白料理。魚の白子を使い、炒め物や煮込みで柔らかな食感を味わう客家系の一品。",
+    "menuDescription": "魚の白子を使う上杭の郷土料理。",
+    "whatComesOut": [
+      "魚白の炒め煮",
+      "葱、生姜、酒の香り",
+      "とろみのある仕立ての場合あり"
+    ],
+    "tasteAndTexture": [
+      "白子はクリーミー",
+      "魚介の旨味",
+      "柔らかい",
+      "香味で臭みを抑える"
+    ],
+    "orderAdvice": "白子が苦手なら避ける。鮮度重視。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C",
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E6%B0%91%E7%B3%BB"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "炒め物",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "上杭鱼白",
+      "魚の白子料理",
+      "客家の魚白"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "泡椒鳳爪",
+        "difference": "泡椒鳳爪は鶏爪。泡鴨爪は鴨爪で風味が濃い"
+      }
+    ],
+    "relatedIds": [
+      "duck"
+    ],
+    "id": "pao-ya-zhua",
+    "name": "泡鴨爪",
+    "kana": "ぱおやーじゅあ",
+    "aliases": [
+      "泡鸭爪",
+      "泡鴨爪",
+      "泡鴨掌"
+    ],
+    "englishName": "Pickled duck feet",
+    "originalName": "泡鴨爪",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "龍岩"
+      }
+    ],
+    "summary": "鴨の足を酸味や唐辛子、香辛料を含む漬けだれに浸す冷菜小吃。福建・客家圏で酒肴や軽食として食べる。",
+    "menuDescription": "酸味だれに漬けた鴨足の冷菜。",
+    "whatComesOut": [
+      "骨付き鴨爪",
+      "酸辛い漬けだれ",
+      "唐辛子、香辛料"
+    ],
+    "tasteAndTexture": [
+      "ぷるぷる",
+      "こりっと骨まわり",
+      "酸味が強い",
+      "ピリ辛"
+    ],
+    "orderAdvice": "可食部は少なめ。手で食べる前提。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C",
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E6%B0%91%E7%B3%BB"
+    ],
+    "tags": [
+      "中国料理",
+      "前菜",
+      "鴨肉",
+      "冷菜",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "泡鸭爪",
+      "酸辛い鴨爪",
+      "鴨足の漬け冷菜"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "潮州牛肉丸",
+        "difference": "潮州牛肉丸も弾力が強いが、永定牛肉丸は閩西客家の名物として扱われる"
+      }
+    ],
+    "relatedIds": [
+      "beef-noodle-soup"
+    ],
+    "id": "yong-ding-niu-rou-wan",
+    "name": "永定牛肉丸",
+    "kana": "えいていぎゅうにくがん",
+    "aliases": [
+      "永定牛肉丸",
+      "客家牛肉丸"
+    ],
+    "englishName": "Yongding beef balls",
+    "originalName": "永定牛肉丸",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "locality": "永定"
+      }
+    ],
+    "summary": "永定周辺の客家牛肉丸。叩いた牛肉を丸めて弾力を出し、スープや麺の具にする。",
+    "menuDescription": "弾力ある永定客家牛肉団子。",
+    "whatComesOut": [
+      "牛肉丸入りスープ",
+      "葱や胡椒",
+      "麺や粄条に入る場合あり"
+    ],
+    "tasteAndTexture": [
+      "強い弾力",
+      "牛肉の旨味",
+      "あっさりスープに合う",
+      "胡椒香"
+    ],
+    "orderAdvice": "麺追加も合う。弾力系の肉団子が好きなら定番。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C",
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E6%B0%91%E7%B3%BB"
+    ],
+    "tags": [
+      "中国料理",
+      "軽食",
+      "牛肉",
+      "スープ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "永定牛肉丸",
+      "客家牛肉丸",
+      "福建の牛肉団子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "name": "仙草ゼリー",
+        "difference": "仙人粄は客家での呼び名・粄文化の一つ"
+      }
+    ],
+    "relatedIds": [],
+    "id": "xian-ren-ban",
+    "name": "仙人粄",
+    "kana": "せんにんばん",
+    "aliases": [
+      "仙人粄",
+      "仙人冻",
+      "仙草粄"
+    ],
+    "englishName": "Hakka grass jelly",
+    "originalName": "仙人粄",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "area": "閩西"
+      }
+    ],
+    "summary": "仙草を煮出して固める客家の涼菓。黒いゼリー状で、砂糖水や蜂蜜をかけて暑い時期に食べる。",
+    "menuDescription": "仙草で作る黒い客家ゼリー。",
+    "whatComesOut": [
+      "黒いゼリー状の仙人粄",
+      "砂糖水や蜜",
+      "冷製提供"
+    ],
+    "tasteAndTexture": [
+      "つるんと涼しい",
+      "ほろ苦い草の香り",
+      "甘さ控えめにできる",
+      "軽い"
+    ],
+    "orderAdvice": "デザート・涼味。苦味が苦手なら甘味追加。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%99%BC%E7%B2%BF",
+      "https://zh.wikipedia.org/wiki/%E9%9D%92%E7%B2%84",
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "デザート",
+      "ハーブ",
+      "冷菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "仙人冻",
+      "仙草粄",
+      "客家の仙草ゼリー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "id": "mi-gao",
+        "name": "米糕",
+        "difference": "米糕は米製糕点の広い呼称。発粄は発酵・膨張して割れる縁起糕"
+      }
+    ],
+    "relatedIds": [
+      "mi-gao"
+    ],
+    "id": "fa-ban",
+    "name": "発粄",
+    "kana": "はつばん",
+    "aliases": [
+      "发粄",
+      "發粄",
+      "發粿",
+      "発糕"
+    ],
+    "englishName": "Hakka steamed prosperity cake",
+    "originalName": "発粄",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建"
+      },
+      {
+        "country": "中国",
+        "area": "閩西"
+      }
+    ],
+    "summary": "米粉や糯米を発酵・膨張させて蒸す客家・閩南系の糕。割れ目が開く姿を縁起物として新年や祭祀に用いる。",
+    "menuDescription": "米粉を蒸して花開かせる縁起菓子。",
+    "whatComesOut": [
+      "碗型の蒸し糕",
+      "上部が割れて開いた形",
+      "白、黄、紅色など"
+    ],
+    "tasteAndTexture": [
+      "ふんわりもちっとする",
+      "素朴な甘さ",
+      "米の香り",
+      "軽い"
+    ],
+    "orderAdvice": "祝い菓子。甘味として食べる。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E7%99%BC%E7%B2%BF",
+      "https://zh.wikipedia.org/wiki/%E9%9D%92%E7%B2%84",
+      "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C"
+    ],
+    "tags": [
+      "中国料理",
+      "デザート",
+      "米",
+      "蒸し料理",
+      "甘い"
+    ],
+    "reverseKeywords": [
+      "发粄",
+      "發粿",
+      "客家の蒸し糕",
+      "縁起菓子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
   }
 ]
