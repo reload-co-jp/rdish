@@ -97480,5 +97480,712 @@
       "/images/dishes/longjing-tea/2.jpg",
       "/images/dishes/longjing-tea/3.jpg"
     ]
+  },
+  {
+    "id": "mao-shi-hong-shao-rou",
+    "name": "毛氏紅焼肉",
+    "kana": "もうしこうしょうにく",
+    "aliases": [
+      "毛氏红烧肉",
+      "毛家紅焼肉",
+      "毛主席紅焼肉"
+    ],
+    "englishName": "Mao's red-braised pork",
+    "originalName": "毛氏紅燒肉",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "豚バラ肉を砂糖で炒めて色付けし、醤油、紹興酒、八角、桂皮、唐辛子などで柔らかく煮る湖南式紅焼肉。毛沢東が好んだ料理として知られ、一般的な紅焼肉より辛味と香辛料を効かせることが多い。",
+    "menuDescription": "湖南式の豚バラ角煮。甘辛くこってり、唐辛子と香辛料の香りがある。",
+    "whatComesOut": [
+      "照りのある豚バラ肉の角切り",
+      "濃い赤褐色の煮汁",
+      "唐辛子、八角、桂皮、葱、生姜",
+      "白米や青菜の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "脂身はとろっと柔らかい",
+      "砂糖と醤油の甘辛いこく",
+      "唐辛子で軽く辛い",
+      "香辛料の余韻がある"
+    ],
+    "orderAdvice": "脂が重いのでシェア向き。東坡肉より甘辛くスパイス感が欲しい時に選ぶ。",
+    "caution": "脂身多め。",
+    "similarItems": [
+      {
+        "id": "dong-po-rou",
+        "name": "東坡肉",
+        "difference": "東坡肉は杭州系で甘く柔らかい。毛氏紅焼肉は湖南系で唐辛子と香辛料が強め"
+      },
+      {
+        "id": "hong-shao-pai-gu",
+        "name": "紅焼排骨",
+        "difference": "紅焼排骨は骨付き排骨。毛氏紅焼肉は豚バラ肉主体"
+      }
+    ],
+    "relatedIds": [
+      "dong-po-rou",
+      "hong-shao-pai-gu",
+      "hua-jiao"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Red_braised_pork_belly",
+      "https://en.wikipedia.org/wiki/Hunan_cuisine",
+      "https://www.seriouseats.com/introduction-hunan-chinese-cuisine"
+    ],
+    "tags": [
+      "中国料理",
+      "湖南料理",
+      "主菜",
+      "豚肉",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "毛沢東の紅焼肉",
+      "湖南式豚バラ角煮",
+      "毛家紅焼肉",
+      "辛い紅焼肉"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 5,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/mao-shi-hong-shao-rou/1.jpg",
+      "/images/dishes/mao-shi-hong-shao-rou/2.jpg"
+    ]
+  },
+  {
+    "id": "general-tso-chicken",
+    "name": "左宗棠鶏",
+    "kana": "さそうとうどり",
+    "aliases": [
+      "左宗棠雞",
+      "General Tso’s chicken",
+      "General Tso chicken",
+      "左公雞"
+    ],
+    "englishName": "General Tso's chicken",
+    "originalName": "左宗棠雞",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      },
+      {
+        "country": "台湾"
+      }
+    ],
+    "summary": "鶏肉を衣揚げし、醤油、酢、砂糖、にんにく、生姜、唐辛子の甘辛いソースで絡める中華系アメリカ料理。湖南出身の軍人・左宗棠の名を借りた料理だが、現在の甘い形は北米で広まった。",
+    "menuDescription": "甘辛ソースの揚げ鶏。北米中華の定番で、ご飯と一緒に食べる。",
+    "whatComesOut": [
+      "一口大の揚げ鶏",
+      "赤茶色の甘辛ソース",
+      "唐辛子、葱、ブロッコリーなど",
+      "白米の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "衣はカリッとしやすい",
+      "ソースは甘く酸味がある",
+      "唐辛子で軽く辛い",
+      "鶏肉はジューシー"
+    ],
+    "orderAdvice": "本場湖南料理より北米中華寄り。甘い料理が苦手なら注意。辛さは調整できる店もある。",
+    "similarItems": [
+      {
+        "id": "lazi-ji",
+        "name": "辣子鶏",
+        "difference": "辣子鶏は大量唐辛子と花椒の乾いた辛味。左宗棠鶏は甘辛ソースの揚げ鶏"
+      },
+      {
+        "name": "唐揚げ",
+        "difference": "唐揚げは日本式の揚げ鶏。左宗棠鶏は甘辛酸っぱいソースで絡める"
+      }
+    ],
+    "relatedIds": [
+      "lazi-ji",
+      "fry",
+      "suan-la"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/General_Tso%27s_chicken",
+      "https://es.wikipedia.org/wiki/Pollo_General_Tso"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "中国料理",
+      "主菜",
+      "鶏肉",
+      "揚げ物",
+      "ピリ辛",
+      "甘み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "北米中華の甘辛揚げ鶏",
+      "General Tso chicken",
+      "左公鶏",
+      "アメリカ中華の定番"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/general-tso-chicken/1.jpg",
+      "/images/dishes/general-tso-chicken/2.jpg",
+      "/images/dishes/general-tso-chicken/3.jpg"
+    ]
+  },
+  {
+    "id": "hei-chou-doufu",
+    "name": "黒臭豆腐",
+    "kana": "くろしゅうどうふ",
+    "aliases": [
+      "長沙黒臭豆腐",
+      "黑色臭豆腐",
+      "黒い臭豆腐"
+    ],
+    "englishName": "Black stinky tofu",
+    "originalName": "黑臭豆腐",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "湖南・長沙で有名な黒い臭豆腐。発酵した豆腐を黒っぽい色に仕上げて揚げ、唐辛子、にんにく、漬物、香菜などのたれを詰める屋台料理。強い匂いと辛い味で知られる。",
+    "menuDescription": "黒い発酵豆腐の揚げ物。外はカリッと、中は柔らかく、辛いたれを入れて食べる。",
+    "whatComesOut": [
+      "黒い四角い揚げ豆腐",
+      "穴を開けて入れる辛いたれ",
+      "唐辛子、にんにく、酸菜、葱、香菜"
+    ],
+    "tasteAndTexture": [
+      "匂いは強いが味は旨味系",
+      "外はカリッと中は柔らかい",
+      "辛味とにんにくが強い",
+      "発酵のこくがある"
+    ],
+    "orderAdvice": "匂いに耐性が必要。初めてなら1個から。辛さ控えめも確認。",
+    "caution": "発酵臭が強い。大豆、唐辛子、油に注意。",
+    "similarItems": [
+      {
+        "id": "chou-doufu",
+        "name": "臭豆腐",
+        "difference": "臭豆腐全般のうち、黒臭豆腐は長沙式の黒い揚げタイプとして知られる"
+      },
+      {
+        "id": "mao-doufu",
+        "name": "毛豆腐",
+        "difference": "毛豆腐は白い菌糸を生やす徽州発酵豆腐。黒臭豆腐は黒い発酵液と揚げ調理が特徴"
+      }
+    ],
+    "relatedIds": [
+      "chou-doufu",
+      "mao-doufu",
+      "fry"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Stinky_tofu",
+      "https://en.wikipedia.org/wiki/Hunan_cuisine"
+    ],
+    "tags": [
+      "中国料理",
+      "湖南料理",
+      "前菜",
+      "豆類",
+      "発酵",
+      "揚げ物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "長沙の黒い臭豆腐",
+      "黒色臭豆腐",
+      "湖南屋台の発酵豆腐",
+      "臭い揚げ豆腐"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/hei-chou-doufu/1.jpg"
+    ]
+  },
+  {
+    "id": "nan-gua-bing",
+    "name": "南瓜餅",
+    "kana": "なんかへい",
+    "aliases": [
+      "南瓜饼",
+      "かぼちゃ餅",
+      "Chinese pumpkin cake"
+    ],
+    "englishName": "Chinese pumpkin cake",
+    "originalName": "南瓜餅",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "蒸した南瓜をつぶし、もち米粉や砂糖と練って丸く成形し、揚げるまたは焼く中国の甘い軽食。湖南料理の代表リストにも見られ、外は香ばしく中はもちっと甘い。",
+    "menuDescription": "かぼちゃ入りの甘いもち菓子。揚げ焼きで表面が香ばしいデザート。",
+    "whatComesOut": [
+      "丸く平たい黄色の餅菓子",
+      "白ごまやパン粉の衣",
+      "小豆餡入りの場合あり"
+    ],
+    "tasteAndTexture": [
+      "かぼちゃの自然な甘み",
+      "もち米粉でもちもち",
+      "外はサクッと香ばしい",
+      "油でやや重い"
+    ],
+    "orderAdvice": "デザートや点心向き。熱いうちは中が柔らかい。餡入りか確認。",
+    "similarItems": [
+      {
+        "id": "gohei-mochi",
+        "name": "五平餅",
+        "difference": "五平餅は米を焼いて味噌だれ。南瓜餅はかぼちゃともち粉の甘い菓子"
+      },
+      {
+        "id": "he-hua-su",
+        "name": "荷花酥",
+        "difference": "荷花酥は層状揚げ菓子。南瓜餅はもちもちのかぼちゃ菓子"
+      }
+    ],
+    "relatedIds": [
+      "he-hua-su",
+      "youtiao",
+      "pannkaka"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Hunan_cuisine",
+      "https://en.wikipedia.org/wiki/Nian_gao"
+    ],
+    "tags": [
+      "中国料理",
+      "デザート",
+      "野菜",
+      "揚げ物",
+      "もちもち",
+      "甘み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "中国のかぼちゃ餅",
+      "南瓜饼",
+      "もちもち南瓜デザート",
+      "揚げかぼちゃ菓子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/nan-gua-bing/1.jpg",
+      "/images/dishes/nan-gua-bing/2.jpg",
+      "/images/dishes/nan-gua-bing/3.jpg"
+    ]
+  },
+  {
+    "id": "zhu-tong-zheng-pai-gu",
+    "name": "竹筒蒸排骨",
+    "kana": "ちくとうむしはいこつ",
+    "aliases": [
+      "竹筒蒸排骨",
+      "竹筒排骨"
+    ],
+    "englishName": "Bamboo-steamed pork ribs",
+    "originalName": "竹筒蒸排骨",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "豚スペアリブを豆豉、唐辛子、にんにく、醤油などで下味を付け、竹筒に入れて蒸す湖南料理。竹の香りと蒸気で肉を柔らかく仕上げる。",
+    "menuDescription": "竹筒で蒸した味付きスペアリブ。豆豉と唐辛子が効く湖南の蒸し料理。",
+    "whatComesOut": [
+      "竹筒または竹器に入った排骨",
+      "豆豉、唐辛子、にんにくのたれ",
+      "柔らかい骨付き豚肉"
+    ],
+    "tasteAndTexture": [
+      "肉は蒸されて柔らかい",
+      "竹の香りが移る",
+      "豆豉のこくと塩気",
+      "辛味は中程度"
+    ],
+    "orderAdvice": "骨付き。香りを楽しむため熱いうちに。辛さと骨の有無を確認。",
+    "caution": "骨付き豚肉。",
+    "similarItems": [
+      {
+        "id": "hong-shao-pai-gu",
+        "name": "紅焼排骨",
+        "difference": "紅焼排骨は煮込み。竹筒蒸排骨は竹筒で蒸して香りを付ける"
+      },
+      {
+        "id": "spare-ribs",
+        "name": "スペアリブ",
+        "difference": "スペアリブ全般より中国湖南式の蒸し調理と豆豉味が特徴"
+      }
+    ],
+    "relatedIds": [
+      "hong-shao-pai-gu",
+      "spare-ribs",
+      "steam",
+      "yong-chuan-dou-chi"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Hunan_cuisine",
+      "https://en.wikipedia.org/wiki/Pork_ribs"
+    ],
+    "tags": [
+      "中国料理",
+      "湖南料理",
+      "主菜",
+      "豚肉",
+      "蒸し料理",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "竹筒の蒸しスペアリブ",
+      "湖南の排骨蒸し",
+      "豆豉唐辛子排骨",
+      "竹香の豚肉料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/zhu-tong-zheng-pai-gu/1.jpg",
+      "/images/dishes/zhu-tong-zheng-pai-gu/2.jpg",
+      "/images/dishes/zhu-tong-zheng-pai-gu/3.jpg"
+    ]
+  },
+  {
+    "id": "suan-dou-jiao-rou-ni",
+    "name": "酸豆角肉泥",
+    "kana": "さんどうじゃおろうにー",
+    "aliases": [
+      "酸豆角肉末",
+      "酸豆角炒肉末",
+      "酸豇豆肉末"
+    ],
+    "englishName": "Pickled long beans with minced pork",
+    "originalName": "酸豆角肉泥",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "発酵させた酸豆角を刻み、豚ひき肉や肉末と炒める家庭的な湖南系の惣菜。酸味、塩気、唐辛子の辛味があり、ご飯や麺の具に向く。",
+    "menuDescription": "酸っぱい発酵豆と豚ひき肉の炒め物。白米に合う塩辛いおかず。",
+    "whatComesOut": [
+      "細かく刻んだ酸豆角",
+      "豚ひき肉または肉末",
+      "唐辛子、にんにく、豆豉など",
+      "油で炒めた小皿"
+    ],
+    "tasteAndTexture": [
+      "酸味がはっきり",
+      "豆角はコリコリ",
+      "豚肉の旨味と油",
+      "辛味と塩気が強め"
+    ],
+    "orderAdvice": "単品よりご飯や麺のトッピング向き。塩分強めなので量注意。",
+    "caution": "発酵野菜で塩分高め。",
+    "similarItems": [
+      {
+        "id": "zhajiangmian",
+        "name": "ジャージャー麺",
+        "difference": "ジャージャー麺は甘い肉味噌。酸豆角肉泥は酸っぱい発酵豆角が主役"
+      },
+      {
+        "id": "gan-bian-si-ji-dou",
+        "name": "乾煸四季豆",
+        "difference": "乾煸四季豆はインゲン炒め。酸豆角肉泥は発酵長豆を細かく刻む"
+      }
+    ],
+    "relatedIds": [
+      "gan-bian-si-ji-dou",
+      "yong-chuan-dou-chi",
+      "suan-la"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E9%85%B8%E8%B1%86%E8%A7%92",
+      "https://en.wikipedia.org/wiki/Hunan_cuisine"
+    ],
+    "tags": [
+      "中国料理",
+      "湖南料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "炒め物",
+      "発酵",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "酸豆角と豚ひき肉",
+      "酸っぱいインゲン炒め",
+      "湖南のご飯泥棒",
+      "酸豇豆肉末"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "fu-gui-huo-tui",
+    "name": "富貴火腿",
+    "kana": "ふうきかたい",
+    "aliases": [
+      "富貴烤雙方",
+      "富貴雙方",
+      "蜜汁火腿"
+    ],
+    "englishName": "Fugui ham with crispy tofu skin",
+    "originalName": "富貴火腿",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "台湾"
+      },
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "湘菜の名人・彭長貴が考案したとされる宴会料理。甘く蒸した火腿を薄切りにし、豆腐皮や蝦米入りの素方、特製パン皮と合わせて挟んで食べる。甘じょっぱい火腿とサクサクの対比が特徴。",
+    "menuDescription": "甘く蒸した中華ハムを、揚げた豆腐皮や薄皮で挟む豪華な宴席料理。",
+    "whatComesOut": [
+      "薄切りの蜜汁火腿",
+      "サクサクの素方または揚げ豆腐皮",
+      "小さなパン皮または薄皮",
+      "桂花醤や砂糖の甘い香り"
+    ],
+    "tasteAndTexture": [
+      "火腿は塩気と甘みが強い",
+      "素方はサクサク",
+      "甘じょっぱく濃厚",
+      "脂と香りが余韻に残る"
+    ],
+    "orderAdvice": "宴会料理寄り。単品少量は少ない。甘い肉料理が苦手なら注意。",
+    "similarItems": [
+      {
+        "id": "charcuterie",
+        "name": "シャルキュトリ",
+        "difference": "シャルキュトリは加工肉盛り合わせ。富貴火腿は甘く蒸した火腿を挟んで食べる中華宴席料理"
+      },
+      {
+        "id": "prosciutto",
+        "name": "プロシュート",
+        "difference": "プロシュートは生ハム。富貴火腿は中華ハムを加熱し甘く仕上げる"
+      }
+    ],
+    "relatedIds": [
+      "charcuterie",
+      "prosciutto",
+      "general-tso-chicken"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%AF%8C%E8%B2%B4%E7%83%A4%E9%9B%99%E6%96%B9",
+      "https://zh.wikipedia.org/wiki/%E5%BD%AD%E9%95%B7%E8%B2%B4"
+    ],
+    "tags": [
+      "中国料理",
+      "台湾料理",
+      "主菜",
+      "豚肉",
+      "豆類",
+      "蒸し料理",
+      "甘み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "富貴烤雙方",
+      "蜜汁火腿の宴会料理",
+      "彭長貴の湘菜",
+      "火腿を薄皮で挟む料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "duo-jiao",
+    "name": "刴椒",
+    "kana": "とうしょう",
+    "aliases": [
+      "剁椒",
+      "剁辣椒",
+      "刻み唐辛子"
+    ],
+    "englishName": "Duo jiao chopped chili",
+    "originalName": "剁椒",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "赤唐辛子を細かく刻み、塩などと一緒に漬けて発酵・熟成させる湖南系の唐辛子調味料。剁椒魚頭などの蒸し料理、炒め物、和え物に使う。",
+    "menuDescription": "湖南の発酵刻み唐辛子。塩気と辛味、軽い酸味がある調味料。",
+    "whatComesOut": [
+      "赤く刻まれた唐辛子ペースト状の調味料",
+      "瓶詰めまたは小皿",
+      "にんにくや生姜入りのもの"
+    ],
+    "tasteAndTexture": [
+      "辛味が強い",
+      "塩気がはっきり",
+      "発酵由来の酸味と旨味",
+      "粒感がある"
+    ],
+    "orderAdvice": "料理名に剁椒があればかなり辛い可能性。卓上調味料なら少量から。",
+    "caution": "塩分と辛味が強い。",
+    "similarItems": [
+      {
+        "id": "pao-la-jiao",
+        "name": "泡辣椒",
+        "difference": "泡辣椒は漬けた唐辛子全体。剁椒は刻んで塩漬け発酵させる"
+      },
+      {
+        "id": "you-po-la-zi",
+        "name": "油溌辣子",
+        "difference": "油溌辣子は油を注いだ唐辛子。剁椒は水分のある発酵刻み唐辛子"
+      }
+    ],
+    "relatedIds": [
+      "duo-jiao-yu-tou",
+      "pao-la-jiao",
+      "you-po-la-zi",
+      "suan-la"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E5%89%81%E6%A4%92",
+      "https://zh.wikipedia.org/wiki/%E5%89%81%E6%A4%92%E9%B1%BC%E5%A4%B4",
+      "https://en.wikipedia.org/wiki/Hunan_cuisine"
+    ],
+    "tags": [
+      "中国料理",
+      "湖南料理",
+      "ソース",
+      "スパイス",
+      "発酵",
+      "ピリ辛",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "湖南の刻み唐辛子",
+      "剁辣椒",
+      "剁椒魚頭の調味料",
+      "発酵唐辛子ペースト"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 5,
+    "images": []
+  },
+  {
+    "id": "la-jiao-chao-rou",
+    "name": "辣椒炒肉",
+    "kana": "らーじゃおちゃおろう",
+    "aliases": [
+      "辣椒炒肉",
+      "農家小炒肉",
+      "农家小炒肉",
+      "小炒肉"
+    ],
+    "englishName": "Hunan pork stir-fry with chili",
+    "originalName": "辣椒炒肉",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "豚肉と青唐辛子または生唐辛子を強火で炒める湖南料理の定番。豆豉、にんにく、醤油を加えることが多く、シンプルだが辛味と豚の脂が白米に合う。",
+    "menuDescription": "豚肉と唐辛子の湖南風炒め。辛く香ばしいご飯向きの家庭料理。",
+    "whatComesOut": [
+      "薄切り豚肉または豚バラ",
+      "青唐辛子や赤唐辛子の輪切り",
+      "豆豉、にんにく、醤油の炒めだれ"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の青い辛味",
+      "豚脂のこく",
+      "強火炒めの香ばしさ",
+      "塩気が強くご飯向き"
+    ],
+    "orderAdvice": "辛さは店で大きく変わる。白米必須。脂多めなら豚バラ、軽めなら赤身指定。",
+    "similarItems": [
+      {
+        "id": "qing-jiao-rou-si",
+        "name": "青椒肉絲",
+        "difference": "青椒肉絲はピーマンと細切り肉で穏やか。辣椒炒肉は唐辛子の辛味が主役"
+      },
+      {
+        "id": "hui-guo-rou",
+        "name": "回鍋肉",
+        "difference": "回鍋肉は甜麺醤や豆板醤の濃い味噌味。辣椒炒肉は生唐辛子と豚肉の直球炒め"
+      }
+    ],
+    "relatedIds": [
+      "qing-jiao-rou-si",
+      "hui-guo-rou",
+      "yong-chuan-dou-chi"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E8%BE%A3%E6%A4%92%E7%82%92%E8%82%89",
+      "https://en.wikipedia.org/wiki/Hunan_cuisine"
+    ],
+    "tags": [
+      "中国料理",
+      "湖南料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "炒め物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "湖南の唐辛子豚炒め",
+      "農家小炒肉",
+      "青唐辛子と豚肉",
+      "白米に合う辛い炒め物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/la-jiao-chao-rou/1.jpg"
+    ]
   }
 ]
