@@ -47,7 +47,7 @@ for (const dish of dishes) {
     }
     const absSrcPath = join(PUBLIC_DIR, webPath)
     try {
-      const { newPath, before, after } = await optimize(absSrcPath)
+      const { before, after } = await optimize(absSrcPath)
       totalBefore += before
       totalAfter += after
       count++
