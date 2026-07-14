@@ -102627,5 +102627,92 @@
     "heavinessScore": 2,
     "spicinessScore": 0,
     "images": []
+  },
+  {
+    "similarItems": [
+      {
+        "id": "hot-dog",
+        "name": "ホットドッグ",
+        "difference": "ホットドッグはパンにソーセージを挟む料理。ウインナーはソーセージ単体"
+      },
+      {
+        "id": "bratwurst",
+        "name": "ブラートヴルスト",
+        "difference": "ブラートヴルストは焼きソーセージ寄りで太めのものが多い。ウインナーは細く加熱済み・燻製風味が基本"
+      }
+    ],
+    "relatedIds": [
+      "hot-dog",
+      "bratwurst"
+    ],
+    "id": "wiener-sausage",
+    "name": "ウインナー",
+    "kana": "ういんなー",
+    "aliases": [
+      "ウィンナー",
+      "ウインナーソーセージ",
+      "ウィンナーソーセージ",
+      "ヴィエナソーセージ",
+      "Vienna sausage",
+      "Wiener Würstchen",
+      "Frankfurter Würstel"
+    ],
+    "englishName": "Vienna sausage",
+    "originalName": "Wiener Würstchen",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "オーストリア",
+        "locality": "ウィーン"
+      },
+      {
+        "country": "ドイツ"
+      }
+    ],
+    "summary": "細い加熱済みソーセージ。伝統的には豚肉と牛肉を羊腸に詰め、低温で燻製する。日本では弁当や朝食の小型ソーセージ名として広く使われる。",
+    "menuDescription": "細い加熱済みソーセージ。焼く、茹でる、炒める形で出る。",
+    "whatComesOut": [
+      "細長いソーセージ数本",
+      "焼き目または茹で上げ",
+      "マスタード、ケチャップ、付け合わせ野菜"
+    ],
+    "tasteAndTexture": [
+      "皮はパリッと弾けることが多い",
+      "中は肉汁感がある",
+      "塩味と燻製香",
+      "子どもにも食べやすい"
+    ],
+    "orderAdvice": "単品なら軽食・付け合わせ。主食にするならパン、卵、ポテト料理と合わせる。",
+    "caution": "加工肉のため塩分が高め。豚肉・牛肉・添加物は商品差あり。",
+    "source": [
+      "https://en.wikipedia.org/wiki/Vienna_sausage",
+      "https://en.wikipedia.org/wiki/Vienna",
+      "https://en.wikipedia.org/wiki/W%C3%BCrstelstand"
+    ],
+    "tags": [
+      "オーストリア料理",
+      "肉",
+      "豚肉",
+      "牛肉",
+      "燻製",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "細いソーセージ",
+      "ウィンナーソーセージ",
+      "弁当の赤いソーセージ",
+      "Vienna sausage",
+      "Wiener Würstchen"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/wiener-sausage/1.jpg",
+      "/images/dishes/wiener-sausage/2.jpg",
+      "/images/dishes/wiener-sausage/3.jpg"
+    ]
   }
 ]
