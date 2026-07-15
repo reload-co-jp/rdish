@@ -102714,5 +102714,100 @@
       "/images/dishes/wiener-sausage/2.jpg",
       "/images/dishes/wiener-sausage/3.jpg"
     ]
+  },
+  {
+    "similarItems": [
+      {
+        "id": "mao-xue-wang",
+        "name": "毛血旺",
+        "difference": "毛血旺は鴨血や内臓を麻辣スープで煮る大皿料理。鴨血豆腐は鴨血の豆腐状食材・小皿料理として出る"
+      },
+      {
+        "name": "鴨血粉絲湯",
+        "difference": "鴨血粉絲湯は鴨血と春雨の南京名物スープ。鴨血豆腐は春雨なしで鴨血そのものを味わう"
+      },
+      {
+        "id": "blodpudding",
+        "name": "ブループディン",
+        "difference": "ブループディンは血と穀物を固める北欧料理。鴨血豆腐は凝固した鴨血を煮る中国・台湾系食材"
+      }
+    ],
+    "relatedIds": [
+      "duck",
+      "mao-xue-wang",
+      "suan-la-tang",
+      "blodpudding"
+    ],
+    "id": "duck-blood-tofu",
+    "name": "鴨血豆腐",
+    "kana": "おうけつどうふ",
+    "aliases": [
+      "鸭血豆腐",
+      "鴨血豆腐",
+      "鴨血",
+      "鸭血",
+      "血豆腐",
+      "血旺",
+      "Blood tofu",
+      "Duck blood tofu",
+      "Duck blood curd"
+    ],
+    "englishName": "Duck blood tofu",
+    "originalName": "鴨血豆腐",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "country": "台湾"
+      }
+    ],
+    "summary": "鴨の血を凝固させ、豆腐のような角切りにして煮る血豆腐料理。南京の鴨血粉絲湯、四川の毛血旺、台湾の鍋物などで使われる。",
+    "menuDescription": "鴨血を固めた豆腐状の具材。スープ、麻辣煮込み、鍋で出る。",
+    "whatComesOut": [
+      "黒赤色から暗褐色の角切り鴨血",
+      "スープまたは辛い煮汁",
+      "豆腐、春雨、野菜、内臓類が添わることもある"
+    ],
+    "tasteAndTexture": [
+      "ぷるっと柔らかい",
+      "豆腐より弾力がある",
+      "鉄分を感じる濃い旨味",
+      "味自体は淡く、スープをよく吸う"
+    ],
+    "orderAdvice": "見た目より味は穏やか。血の風味が苦手なら麻辣系より澄んだスープで試すと食べやすい。",
+    "caution": "血液由来食材。十分加熱された提供が前提。宗教・食習慣上避ける人もいる。",
+    "source": [
+      "https://zh.wikipedia.org/wiki/%E8%A1%80%E8%B1%86%E8%85%90",
+      "https://zh.wikipedia.org/wiki/%E9%B8%AD%E8%A1%80%E6%B1%A4",
+      "https://zh.wikipedia.org/wiki/%E9%B8%AD%E8%A1%80%E7%B2%89%E4%B8%9D%E6%B1%A4",
+      "https://en.wikipedia.org/wiki/Blood_as_food"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "鴨肉",
+      "煮込み",
+      "ピリ辛",
+      "あっさり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "鴨の血を固めた料理",
+      "血の豆腐",
+      "鸭血",
+      "血旺",
+      "麻辣鍋の黒い豆腐",
+      "鴨血粉絲湯の具"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/duck-blood-tofu/1.jpg",
+      "/images/dishes/duck-blood-tofu/2.jpg"
+    ]
   }
 ]
