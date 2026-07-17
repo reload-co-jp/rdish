@@ -3,10 +3,15 @@ export const dynamic = "force-static"
 import type { MetadataRoute } from "next"
 import { totalPages } from "../components/features/DishesPageContent"
 import { countryTotalPages } from "../components/features/CountryPageContent"
+import dishDatesData from "../data/dish-dates.json"
 import { allArticles } from "../lib/articles"
+import { allCollections, collectionPath } from "../lib/collections"
+import { comboPath, countryTagCombos } from "../lib/countryTagCombos"
 import { allDishes } from "../lib/dishes"
 import { dishMatchesRegion } from "../lib/region"
 import { categoryItems, countryItems, tagItems } from "../lib/taxonomy"
+
+const dishDates = dishDatesData as Record<string, string>
 
 const SITE_URL = "https://rdish.reload.co.jp"
 
@@ -25,7 +30,7 @@ const BUILD_DATE = new Date()
 export default function sitemap(): MetadataRoute.Sitemap {
   const dishUrls = allDishes.map((dish) => ({
     url: `${SITE_URL}/dishes/${dish.id}/`,
-    lastModified: BUILD_DATE,
+    lastModified: dishDates[dish.id] ? new Date(dishDates[dish.id]) : BUILD_DATE,
     changeFrequency: "monthly" as const,
     priority: 0.8,
     ...(dish.images?.length
@@ -68,6 +73,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }))
 
+  const comboUrls = countryTagCombos.map(({ countryId, tagId }) => ({
+    url: `${SITE_URL}${comboPath(countryId, tagId)}`,
+    changeFrequency: "monthly" as const,
+    priority: 0.6,
+  }))
+
+  const collectionUrls = allCollections.map(({ slug }) => ({
+    url: `${SITE_URL}${collectionPath(slug)}`,
+    changeFrequency: "monthly" as const,
+    priority: 0.6,
+  }))
+
   const articleUrls = allArticles.map((article) => ({
     url: `${SITE_URL}/articles/${article.slug}/`,
     lastModified: new Date(article.updatedAt ?? article.publishedAt),
@@ -84,12 +101,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     page("/categories/", "monthly", 0.7),
     page("/countries/", "monthly", 0.7),
     page("/tags/", "monthly", 0.7),
+    page("/collections/", "monthly", 0.7),
     page("/llms.txt", "weekly", 0.3),
     page("/llms-full.txt", "weekly", 0.3),
     page("/about/", "yearly", 0.4),
     ...categoryUrls,
     ...countryUrls,
     ...countryPaginatedUrls,
+    ...comboUrls,
+    ...collectionUrls,
     ...dishUrls,
     ...tagUrls,
     ...articleUrls,

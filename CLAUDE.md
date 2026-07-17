@@ -95,5 +95,6 @@
 
 ```bash
 node scripts/download-images.mjs <dish-id>  # 画像ダウンロード
+node scripts/generate-dish-dates.mjs  # dishes.json 更新コミット後に data/dish-dates.json 再生成（sitemap lastmod 用）
 python3 -c "import json; json.load(open('data/dishes.json')); print('JSON valid')"  # 検証
 ```

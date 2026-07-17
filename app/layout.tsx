@@ -154,6 +154,16 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
                 逆引き
               </Link>
               <Link
+                href="/collections/"
+                style={{
+                  color: "#7a6655",
+                  fontSize: "0.875rem",
+                  textDecoration: "none",
+                }}
+              >
+                特集
+              </Link>
+              <Link
                 href="/articles/"
                 style={{
                   color: "#7a6655",
