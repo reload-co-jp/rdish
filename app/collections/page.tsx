@@ -1,6 +1,6 @@
 import Link from "next/link"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
-import { allCollections, collectionPath } from "../../lib/collections"
+import { allCollections, collectionGroups, collectionPath } from "../../lib/collections"
 
 const SITE_URL = "https://rdish.reload.co.jp"
 
@@ -52,27 +52,45 @@ export default function CollectionsPage() {
       >
         辛さ・こってり度・入門しやすさの独自スコアをもとに、シーン別に料理を選べる特集です。
       </p>
-      <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
-        {allCollections.map((collection) => (
-          <Link
-            key={collection.slug}
-            href={collectionPath(collection.slug)}
-            style={{
-              display: "block",
-              padding: "0.875rem 1rem",
-              background: "#fffdf8",
-              border: "1px solid #e8ddd0",
-              borderRadius: "0.5rem",
-              textDecoration: "none",
-            }}
-          >
-            <span style={{ color: "#4a3a2a", fontSize: "1rem", fontWeight: 700 }}>
-              {collection.title}
-            </span>
-            <span style={{ color: "#a89080", fontSize: "0.8125rem", marginLeft: "0.5rem" }}>
-              {collection.dishes.length}件
-            </span>
-          </Link>
+      <div style={{ display: "flex", flexDirection: "column", gap: "2rem" }}>
+        {collectionGroups.map((group) => (
+          <section key={group.id}>
+            <h2
+              style={{
+                fontSize: "1.125rem",
+                fontWeight: 700,
+                color: "#4a3a2a",
+                borderBottom: "2px solid #e8ddd0",
+                paddingBottom: "0.375rem",
+                marginBottom: "0.75rem",
+              }}
+            >
+              {group.label}
+            </h2>
+            <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+              {group.collections.map((collection) => (
+                <Link
+                  key={collection.slug}
+                  href={collectionPath(collection.slug)}
+                  style={{
+                    display: "block",
+                    padding: "0.875rem 1rem",
+                    background: "#fffdf8",
+                    border: "1px solid #e8ddd0",
+                    borderRadius: "0.5rem",
+                    textDecoration: "none",
+                  }}
+                >
+                  <span style={{ color: "#4a3a2a", fontSize: "1rem", fontWeight: 700 }}>
+                    {collection.title}
+                  </span>
+                  <span style={{ color: "#a89080", fontSize: "0.8125rem", marginLeft: "0.5rem" }}>
+                    {collection.dishes.length}件
+                  </span>
+                </Link>
+              ))}
+            </div>
+          </section>
         ))}
       </div>
     </div>

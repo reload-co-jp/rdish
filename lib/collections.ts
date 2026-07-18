@@ -21,6 +21,7 @@ const COUNTRY_SLUGS: Record<string, string> = {
 
 type Axis = {
   id: string
+  groupLabel: string
   countries: string[]
   title: (country: string) => string
   description: (country: string, count: number, top3: string) => string
@@ -31,6 +32,7 @@ type Axis = {
 const axes: Axis[] = [
   {
     id: "not-spicy",
+    groupLabel: "辛さ控えめ",
     countries: [
       "韓国料理",
       "タイ料理",
@@ -46,6 +48,7 @@ const axes: Axis[] = [
   },
   {
     id: "spicy",
+    groupLabel: "激辛",
     countries: ["韓国料理", "タイ料理", "インド料理", "四川料理", "中国料理"],
     title: (country) => `激辛好きにおすすめの${country}`,
     description: (country, count, top3) =>
@@ -55,6 +58,7 @@ const axes: Axis[] = [
   },
   {
     id: "light",
+    groupLabel: "あっさり",
     countries: [
       "フランス料理",
       "イタリア料理",
@@ -69,6 +73,7 @@ const axes: Axis[] = [
   },
   {
     id: "hearty",
+    groupLabel: "がっつり",
     countries: [
       "フランス料理",
       "イタリア料理",
@@ -84,6 +89,7 @@ const axes: Axis[] = [
   },
   {
     id: "beginner",
+    groupLabel: "初心者向け",
     countries: [
       "フランス料理",
       "イタリア料理",
@@ -105,6 +111,8 @@ const axes: Axis[] = [
 
 export type Collection = {
   slug: string
+  axisId: string
+  axisLabel: string
   title: string
   description: string
   dishes: DishItem[]
@@ -127,6 +135,8 @@ export const allCollections: Collection[] = axes.flatMap((axis) =>
     return [
       {
         slug: `${axis.id}-${slug}`,
+        axisId: axis.id,
+        axisLabel: axis.groupLabel,
         title: axis.title(country),
         description: axis.description(country, count, top3),
         dishes,
@@ -134,6 +144,18 @@ export const allCollections: Collection[] = axes.flatMap((axis) =>
     ]
   }),
 )
+
+export type CollectionGroup = {
+  id: string
+  label: string
+  collections: Collection[]
+}
+
+export const collectionGroups: CollectionGroup[] = axes.flatMap((axis) => {
+  const collections = allCollections.filter((c) => c.axisId === axis.id)
+  if (collections.length === 0) return []
+  return [{ id: axis.id, label: axis.groupLabel, collections }]
+})
 
 export function collectionBySlug(slug: string): Collection | undefined {
   return allCollections.find((collection) => collection.slug === slug)
