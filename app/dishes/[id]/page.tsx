@@ -19,9 +19,9 @@ export async function generateMetadata({
   const { id } = await params
   const dish = allDishes.find((d) => d.id === id)
   if (!dish) return {}
-  const aliases = dish.aliases ?? []
-  const aliasPart = aliases.length > 0 ? ` ${aliases.map((a) => `「${a}」`).join(" / ")}` : ""
-  const title = `「${dish.name}」とは？${aliasPart} メニューで見たときに困らない料理図鑑`
+  const primaryAlias = dish.aliases?.[0]
+  const aliasPart = primaryAlias ? `「${primaryAlias}」` : ""
+  const title = `「${dish.name}」とは？${aliasPart}`
   const description = `${dish.name}とは、${dish.summary}`
     .slice(0, 160)
     .trimEnd()
