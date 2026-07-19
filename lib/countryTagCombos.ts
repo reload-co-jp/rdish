@@ -22,6 +22,29 @@ const DIM2_TAG_LABELS = [
   "鍋料理",
 ]
 
+// 次元3（主食材）タグのみ掛け合わせ対象
+const DIM3_TAG_LABELS = [
+  "牛肉",
+  "豚肉",
+  "鶏肉",
+  "羊肉",
+  "ジビエ",
+  "魚介",
+  "貝類",
+  "卵",
+  "チーズ",
+  "乳製品",
+  "野菜",
+  "豆類",
+  "きのこ",
+  "ハーブ",
+  "スパイス",
+  "ナッツ",
+  "米",
+  "小麦",
+  "果物",
+]
+
 export type CountryTagCombo = {
   countryId: string
   countryLabel: string
@@ -31,13 +54,14 @@ export type CountryTagCombo = {
 }
 
 const dim2Tags = tagItems.filter((tag) => DIM2_TAG_LABELS.includes(tag.label))
+const dim3Tags = tagItems.filter((tag) => DIM3_TAG_LABELS.includes(tag.label))
 
-export const countryTagCombos: CountryTagCombo[] = countryItems.flatMap(
-  (country) => {
+function buildCombos(dimTags: typeof tagItems): CountryTagCombo[] {
+  return countryItems.flatMap((country) => {
     const countryDishes = allDishes.filter((dish) =>
       dishMatchesRegion(dish, country.label),
     )
-    return dim2Tags.flatMap((tag) => {
+    return dimTags.flatMap((tag) => {
       const dishes = countryDishes.filter((dish) =>
         dish.tags.includes(tag.label),
       )
@@ -52,11 +76,18 @@ export const countryTagCombos: CountryTagCombo[] = countryItems.flatMap(
         },
       ]
     })
-  },
-)
+  })
+}
+
+export const countryTagCombos: CountryTagCombo[] = buildCombos(dim2Tags)
+export const countryIngredientCombos: CountryTagCombo[] = buildCombos(dim3Tags)
 
 export function comboPath(countryId: string, tagId: string): string {
   return `/countries/${countryId}/t/${tagId}/`
+}
+
+export function comboIngredientPath(countryId: string, tagId: string): string {
+  return `/countries/${countryId}/i/${tagId}/`
 }
 
 export function findCombo(
@@ -68,6 +99,19 @@ export function findCombo(
   )
 }
 
+export function findIngredientCombo(
+  countryId: string,
+  tagId: string,
+): CountryTagCombo | undefined {
+  return countryIngredientCombos.find(
+    (combo) => combo.countryId === countryId && combo.tagId === tagId,
+  )
+}
+
 export function combosForCountry(countryId: string): CountryTagCombo[] {
   return countryTagCombos.filter((combo) => combo.countryId === countryId)
+}
+
+export function ingredientCombosForCountry(countryId: string): CountryTagCombo[] {
+  return countryIngredientCombos.filter((combo) => combo.countryId === countryId)
 }

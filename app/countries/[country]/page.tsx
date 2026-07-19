@@ -2,7 +2,12 @@ import Link from "next/link"
 import { notFound } from "next/navigation"
 import { Breadcrumb } from "../../../components/elements/Breadcrumb"
 import { CountryPageContent, countryTotalPages, paginateCountryDishes } from "../../../components/features/CountryPageContent"
-import { comboPath, combosForCountry } from "../../../lib/countryTagCombos"
+import {
+  comboIngredientPath,
+  comboPath,
+  combosForCountry,
+  ingredientCombosForCountry,
+} from "../../../lib/countryTagCombos"
 import { allDishes } from "../../../lib/dishes"
 import { dishMatchesRegion } from "../../../lib/region"
 import { buildItemListJsonLd, categoryPath, countryItems, countryPath, tagPath, taxonomyById } from "../../../lib/taxonomy"
@@ -46,6 +51,7 @@ export default async function CountryPage({
   const description = item.description ?? `${item.label}の料理・食材・調理法をまとめています。`
   const localities = countryItems.filter((c) => c.label.startsWith(`${item.label}（`))
   const combos = combosForCountry(item.id)
+  const ingredientCombos = ingredientCombosForCountry(item.id)
 
   const categoryCounts = new Map<string, number>()
   const tagCounts = new Map<string, number>()
@@ -127,12 +133,33 @@ export default async function CountryPage({
         </div>
       )}
       {combos.length > 0 && (
-        <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem", alignItems: "center", marginBottom: "1.5rem" }}>
+        <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem", alignItems: "center", marginBottom: "0.75rem" }}>
           <span style={{ color: "#a89080", fontSize: "0.75rem" }}>料理カテゴリ別:</span>
           {combos.map((combo) => (
             <Link
               key={combo.tagId}
               href={comboPath(combo.countryId, combo.tagId)}
+              style={{
+                color: "#7a4f2a",
+                fontSize: "0.8125rem",
+                background: "#f0e6d6",
+                borderRadius: "1rem",
+                padding: "0.125rem 0.625rem",
+                textDecoration: "none",
+              }}
+            >
+              {combo.tagLabel} {combo.dishes.length}
+            </Link>
+          ))}
+        </div>
+      )}
+      {ingredientCombos.length > 0 && (
+        <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem", alignItems: "center", marginBottom: "1.5rem" }}>
+          <span style={{ color: "#a89080", fontSize: "0.75rem" }}>主食材別:</span>
+          {ingredientCombos.map((combo) => (
+            <Link
+              key={combo.tagId}
+              href={comboIngredientPath(combo.countryId, combo.tagId)}
               style={{
                 color: "#7a4f2a",
                 fontSize: "0.8125rem",

@@ -6,7 +6,12 @@ import { countryTotalPages } from "../components/features/CountryPageContent"
 import dishDatesData from "../data/dish-dates.json"
 import { allArticles } from "../lib/articles"
 import { allCollections, collectionPath } from "../lib/collections"
-import { comboPath, countryTagCombos } from "../lib/countryTagCombos"
+import {
+  comboIngredientPath,
+  comboPath,
+  countryIngredientCombos,
+  countryTagCombos,
+} from "../lib/countryTagCombos"
 import { allDishes } from "../lib/dishes"
 import { dishMatchesRegion } from "../lib/region"
 import { categoryItems, countryItems, tagItems } from "../lib/taxonomy"
@@ -79,6 +84,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }))
 
+  const ingredientComboUrls = countryIngredientCombos.map(({ countryId, tagId }) => ({
+    url: `${SITE_URL}${comboIngredientPath(countryId, tagId)}`,
+    changeFrequency: "monthly" as const,
+    priority: 0.6,
+  }))
+
   const collectionUrls = allCollections.map(({ slug }) => ({
     url: `${SITE_URL}${collectionPath(slug)}`,
     changeFrequency: "monthly" as const,
@@ -109,6 +120,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...countryUrls,
     ...countryPaginatedUrls,
     ...comboUrls,
+    ...ingredientComboUrls,
     ...collectionUrls,
     ...dishUrls,
     ...tagUrls,
