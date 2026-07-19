@@ -1,6 +1,7 @@
 import Image from "next/image"
 import Link from "next/link"
 import { FC } from "react"
+import { articlesForDish } from "../../lib/articles"
 import { regionLabel } from "../../lib/region"
 import { categoryPath, countryPath } from "../../lib/taxonomy"
 import type { DishItem } from "../../types/dish"
@@ -39,6 +40,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
   const relatedDishes = dish.relatedIds
     .map((id) => allDishes.find((d) => d.id === id))
     .filter(Boolean) as DishItem[]
+  const articles = articlesForDish(dish.id)
 
   return (
     <article>
@@ -292,6 +294,36 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
                 }}
               >
                 {d.name}
+              </Link>
+            ))}
+          </div>
+        </Section>
+      )}
+
+      {articles.length > 0 && (
+        <Section title="特集記事">
+          <div style={{ display: "flex", flexDirection: "column", gap: "0.5rem" }}>
+            {articles.map((article) => (
+              <Link
+                key={article.slug}
+                href={`/articles/${article.slug}/`}
+                style={{
+                  background: "#faf6f0",
+                  border: "1px solid #e8ddd0",
+                  borderRadius: "0.375rem",
+                  color: "#b45309",
+                  fontSize: "0.875rem",
+                  fontWeight: 600,
+                  padding: "0.625rem 0.875rem",
+                  textDecoration: "none",
+                }}
+              >
+                {article.title}
+                {article.subtitle && (
+                  <span style={{ color: "#a89080", fontWeight: 400 }}>
+                    ——{article.subtitle}
+                  </span>
+                )}
               </Link>
             ))}
           </div>

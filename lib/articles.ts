@@ -9,3 +9,7 @@ export function relatedDishesOf(article: Article, allDishes: DishItem[]): DishIt
     .map((id) => allDishes.find((d) => d.id === id))
     .filter(Boolean) as DishItem[]
 }
+
+export function articlesForDish(dishId: string): Article[] {
+  return allArticles.filter((article) => article.relatedDishIds.includes(dishId))
+}
