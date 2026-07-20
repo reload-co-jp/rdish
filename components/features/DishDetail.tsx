@@ -2,6 +2,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { FC } from "react"
 import { articlesForDish } from "../../lib/articles"
+import { combosForDish, comboIngredientPath, comboPath } from "../../lib/countryTagCombos"
 import { regionLabel } from "../../lib/region"
 import { categoryPath, countryPath } from "../../lib/taxonomy"
 import type { DishItem } from "../../types/dish"
@@ -41,6 +42,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
     .map((id) => allDishes.find((d) => d.id === id))
     .filter(Boolean) as DishItem[]
   const articles = articlesForDish(dish.id)
+  const combos = combosForDish(dish).slice(0, 4)
 
   return (
     <article>
@@ -350,6 +352,20 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
           >
             → {dish.category}の他の料理を見る
           </Link>
+          {combos.map((combo) => (
+            <Link
+              key={`${combo.kind}-${combo.tagId}`}
+              href={
+                combo.kind === "category"
+                  ? comboPath(combo.countryId, combo.tagId)
+                  : comboIngredientPath(combo.countryId, combo.tagId)
+              }
+              style={{ color: "#b45309", fontSize: "0.875rem", textDecoration: "none" }}
+            >
+              → {combo.countryLabel}の{combo.tagLabel}
+              {combo.kind === "ingredient" ? "料理" : ""}一覧を見る
+            </Link>
+          ))}
           <Link
             href="/dishes/"
             style={{ color: "#b45309", fontSize: "0.875rem", textDecoration: "none" }}

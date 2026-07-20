@@ -1,6 +1,6 @@
 import type { DishItem } from "../types/dish"
 import { allDishes } from "./dishes"
-import { dishMatchesRegion } from "./region"
+import { dishMatchesRegion, regionLabel } from "./region"
 import { countryItems, tagItems } from "./taxonomy"
 
 export const COMBO_MIN_DISHES = 5
@@ -45,7 +45,10 @@ const DIM3_TAG_LABELS = [
   "果物",
 ]
 
+export type CombosKind = "category" | "ingredient"
+
 export type CountryTagCombo = {
+  kind: CombosKind
   countryId: string
   countryLabel: string
   tagId: string
@@ -56,7 +59,7 @@ export type CountryTagCombo = {
 const dim2Tags = tagItems.filter((tag) => DIM2_TAG_LABELS.includes(tag.label))
 const dim3Tags = tagItems.filter((tag) => DIM3_TAG_LABELS.includes(tag.label))
 
-function buildCombos(dimTags: typeof tagItems): CountryTagCombo[] {
+function buildCombos(kind: CombosKind, dimTags: typeof tagItems): CountryTagCombo[] {
   return countryItems.flatMap((country) => {
     const countryDishes = allDishes.filter((dish) =>
       dishMatchesRegion(dish, country.label),
@@ -68,6 +71,7 @@ function buildCombos(dimTags: typeof tagItems): CountryTagCombo[] {
       if (dishes.length < COMBO_MIN_DISHES) return []
       return [
         {
+          kind,
           countryId: country.id,
           countryLabel: country.label,
           tagId: tag.id,
@@ -79,8 +83,8 @@ function buildCombos(dimTags: typeof tagItems): CountryTagCombo[] {
   })
 }
 
-export const countryTagCombos: CountryTagCombo[] = buildCombos(dim2Tags)
-export const countryIngredientCombos: CountryTagCombo[] = buildCombos(dim3Tags)
+export const countryTagCombos: CountryTagCombo[] = buildCombos("category", dim2Tags)
+export const countryIngredientCombos: CountryTagCombo[] = buildCombos("ingredient", dim3Tags)
 
 export function comboPath(countryId: string, tagId: string): string {
   return `/countries/${countryId}/t/${tagId}/`
@@ -114,4 +118,12 @@ export function combosForCountry(countryId: string): CountryTagCombo[] {
 
 export function ingredientCombosForCountry(countryId: string): CountryTagCombo[] {
   return countryIngredientCombos.filter((combo) => combo.countryId === countryId)
+}
+
+export function combosForDish(dish: DishItem): CountryTagCombo[] {
+  const dishRegionLabels = new Set(dish.regions.map(regionLabel))
+  return [...countryTagCombos, ...countryIngredientCombos].filter(
+    (combo) =>
+      dishRegionLabels.has(combo.countryLabel) && dish.tags.includes(combo.tagLabel),
+  )
 }
