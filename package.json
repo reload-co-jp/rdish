@@ -10,7 +10,8 @@
     "build": "next build",
     "start": "next start",
     "format": "prettier --write .",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "admin": "node scripts/admin-server.mjs"
   },
   "keywords": [],
   "author": "",

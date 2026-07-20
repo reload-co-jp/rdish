@@ -27911,8 +27911,7 @@
     "spicinessScore": 3,
     "images": [
       "/images/dishes/mechouia-salad/1.webp",
-      "/images/dishes/mechouia-salad/2.webp",
-      "/images/dishes/mechouia-salad/3.webp"
+      "/images/dishes/mechouia-salad/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mechouia_salad",
@@ -42830,9 +42829,7 @@
     "uniquenessScore": 3,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/radium-tamago/1.webp"
-    ],
+    "images": [],
     "source": [
       "https://ja.wikipedia.org/wiki/%E6%B8%A9%E6%B3%89%E5%8D%B5",
       "https://www.f-kankou.jp/souvenir/1296"
@@ -50771,9 +50768,7 @@
     "heavinessScore": 2,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/calvados/1.webp",
-      "/images/dishes/calvados/2.webp",
-      "/images/dishes/calvados/3.webp"
+      "/images/dishes/calvados/1.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Calvados",
@@ -51122,9 +51117,7 @@
     "heavinessScore": 1,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/chiffonade/1.webp",
-      "/images/dishes/chiffonade/2.webp",
-      "/images/dishes/chiffonade/3.webp"
+      "/images/dishes/chiffonade/1.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Chiffonade",
@@ -56800,82 +56793,6 @@
     "source": [
       "https://en.wikipedia.org/wiki/Jhunka",
       "https://www.tasteatlas.com/pithla"
-    ]
-  },
-  {
-    "id": "fideua",
-    "name": "フィデウア",
-    "kana": "ふぃでうあ",
-    "englishName": "Fideuà",
-    "originalName": "Fideuà",
-    "category": "料理",
-    "regions": [
-      {
-        "country": "スペイン"
-      }
-    ],
-    "summary": "パエリア鍋で魚介の出汁とともに短いパスタを炒め煮にするスペインの料理。米の代わりにパスタを使うパエリアの変形版で、鍋底のカリカリとした焦げが醍醐味。",
-    "menuDescription": "パエリア鍋で魚介の出汁と一緒に炒め煮にした短いパスタ料理。表面はカリッとした焦げめが特徴で、アイオリをつけて食べるスペイン・バレンシア地方の郷土料理。",
-    "whatComesOut": [
-      "パエリア鍋に盛られた短いパスタ（フィデオ）",
-      "エビ・イカ・貝などの魚介",
-      "アイオリソース"
-    ],
-    "tasteAndTexture": [
-      "魚介の濃厚な旨みが染みたパスタ",
-      "鍋底のカリカリとした焦げ（ソカラ）の香ばしさ",
-      "アイオリのまろやかなコク"
-    ],
-    "orderAdvice": "パエリアが好きなら必ず食べたい一品。パスタで魚介の旨みを余さず楽しめる。",
-    "similarItems": [
-      {
-        "id": "paella",
-        "name": "パエリア",
-        "difference": "パエリアは米を使うが、フィデウアは短いパスタ（フィデオ）を使う"
-      },
-      {
-        "id": "risotto",
-        "name": "リゾット",
-        "difference": "リゾットはイタリア発祥で米を使い、出汁を少しずつ加えながら仕上げる"
-      },
-      {
-        "id": "marmitako",
-        "name": "マルミタコ",
-        "difference": "同じくバスク・バレンシア系の魚介料理だが、フィデウアはパスタを使う"
-      }
-    ],
-    "relatedIds": [
-      "paella",
-      "ahijo",
-      "aioli",
-      "saffron"
-    ],
-    "tags": [
-      "スペイン料理",
-      "主菜",
-      "魚介",
-      "炒め物",
-      "香ばしい",
-      "こってり"
-    ],
-    "reverseKeywords": [
-      "肉料理",
-      "あっさり",
-      "和食",
-      "生魚"
-    ],
-    "beginnerFriendlyScore": 4,
-    "uniquenessScore": 4,
-    "heavinessScore": 3,
-    "spicinessScore": 0,
-    "images": [
-      "/images/dishes/fideua/1.webp",
-      "/images/dishes/fideua/2.webp",
-      "/images/dishes/fideua/3.webp"
-    ],
-    "source": [
-      "https://en.wikipedia.org/wiki/Fideu%C3%A0",
-      "https://www.tasteatlas.com/fideua"
     ]
   },
   {
@@ -97794,8 +97711,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/nan-gua-bing/1.jpg",
-      "/images/dishes/nan-gua-bing/2.jpg",
-      "/images/dishes/nan-gua-bing/3.jpg"
+      "/images/dishes/nan-gua-bing/2.jpg"
     ]
   },
   {
@@ -98954,9 +98870,7 @@
     "uniquenessScore": 3,
     "heavinessScore": 3,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/lao-fan-ya-tang/1.jpg"
-    ]
+    "images": []
   },
   {
     "similarItems": [
@@ -99563,7 +99477,6 @@
     "heavinessScore": 2,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/sha-xian-xiao-chi/1.png",
       "/images/dishes/sha-xian-xiao-chi/2.jpg",
       "/images/dishes/sha-xian-xiao-chi/3.jpg"
     ]
@@ -99973,7 +99886,6 @@
     "heavinessScore": 2,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/mi-gao/1.jpg",
       "/images/dishes/mi-gao/2.jpg",
       "/images/dishes/mi-gao/3.jpg"
     ]
@@ -102711,7 +102623,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/wiener-sausage/1.jpg",
-      "/images/dishes/wiener-sausage/2.jpg",
       "/images/dishes/wiener-sausage/3.jpg"
     ]
   },

@@ -95,6 +95,10 @@
 
 ```bash
 node scripts/download-images.mjs <dish-id>  # 画像ダウンロード
+node scripts/remove-image.mjs <dish-id>  # 画像一覧表示（CLI）
+node scripts/remove-image.mjs <dish-id> <n>  # n番目の画像を削除（誤った画像の除去）
+node scripts/remove-image.mjs <dish-id> all  # 画像を全部削除
+pnpm admin  # ローカル限定Web管理ツール起動（http://127.0.0.1:4321 で検索→画像確認→削除）
 node scripts/generate-dish-dates.mjs  # dishes.json 更新コミット後に data/dish-dates.json 再生成（sitemap lastmod 用）
 python3 -c "import json; json.load(open('data/dishes.json')); print('JSON valid')"  # 検証
 ```
