@@ -549,8 +549,7 @@
     "heavinessScore": 3,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/tagliata/2.webp",
-      "/images/dishes/tagliata/3.webp"
+      "/images/dishes/tagliata/2.webp"
     ],
     "source": [
       "https://it.wikipedia.org/wiki/Tagliata",
@@ -1824,8 +1823,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/poele/1.webp",
-      "/images/dishes/poele/2.webp",
-      "/images/dishes/poele/3.webp"
+      "/images/dishes/poele/2.webp"
     ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AF%E3%83%AC",
@@ -4477,8 +4475,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/feta/1.webp",
-      "/images/dishes/feta/2.webp",
-      "/images/dishes/feta/3.webp"
+      "/images/dishes/feta/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Feta",
@@ -5884,8 +5881,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/pesto/1.webp",
-      "/images/dishes/pesto/2.webp",
-      "/images/dishes/pesto/3.webp"
+      "/images/dishes/pesto/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pesto",
@@ -6089,8 +6085,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/demiglace/1.webp",
-      "/images/dishes/demiglace/2.webp",
-      "/images/dishes/demiglace/3.webp"
+      "/images/dishes/demiglace/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Demi-glace",
@@ -11543,8 +11538,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/spinach/1.webp",
-      "/images/dishes/spinach/2.webp",
-      "/images/dishes/spinach/3.webp"
+      "/images/dishes/spinach/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Spinach",
@@ -12890,8 +12884,7 @@
     "heavinessScore": 4,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/tonkatsu/1.webp",
-      "/images/dishes/tonkatsu/2.webp"
+      "/images/dishes/tonkatsu/1.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tonkatsu",
@@ -16178,9 +16171,7 @@
     "heavinessScore": 2,
     "spicinessScore": 2,
     "images": [
-      "/images/dishes/bang-bang-ji/1.webp",
-      "/images/dishes/bang-bang-ji/2.webp",
-      "/images/dishes/bang-bang-ji/3.webp"
+      "/images/dishes/bang-bang-ji/1.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bang_bang_chicken",
@@ -17276,10 +17267,7 @@
     "uniquenessScore": 4,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/ikanago/1.webp",
-      "/images/dishes/ikanago/2.webp"
-    ],
+    "images": [],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AB%E3%83%8A%E3%82%B4",
       "https://web-japan.org/kidsweb/cool/21/202103_ikanago-en.html"
@@ -18871,8 +18859,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/prosciutto/1.webp",
-      "/images/dishes/prosciutto/2.webp",
-      "/images/dishes/prosciutto/3.webp"
+      "/images/dishes/prosciutto/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Prosciutto",
@@ -19952,7 +19939,6 @@
     "heavinessScore": 1,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/boil/1.webp",
       "/images/dishes/boil/2.webp",
       "/images/dishes/boil/3.webp"
     ],
@@ -21285,11 +21271,7 @@
     "uniquenessScore": 3,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/infuse/1.webp",
-      "/images/dishes/infuse/2.webp",
-      "/images/dishes/infuse/3.webp"
-    ],
+    "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Infusion",
       "https://www.larousse.fr/dictionnaires/francais/infuser/42977"
@@ -21414,9 +21396,7 @@
     "heavinessScore": 1,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/blanching/1.webp",
-      "/images/dishes/blanching/2.webp",
-      "/images/dishes/blanching/3.webp"
+      "/images/dishes/blanching/1.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Blanching_%28cooking%29",
@@ -22757,7 +22737,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/ketchup/1.webp",
-      "/images/dishes/ketchup/2.webp",
       "/images/dishes/ketchup/3.webp"
     ],
     "source": [
@@ -24451,9 +24430,7 @@
     "uniquenessScore": 2,
     "heavinessScore": 3,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/turkey/3.webp"
-    ],
+    "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Turkey_as_food",
       "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%81%E3%83%A1%E3%83%B3%E3%83%81%E3%83%A7%E3%82%A6",
@@ -25148,7 +25125,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/anchovy/1.webp",
-      "/images/dishes/anchovy/2.webp",
       "/images/dishes/anchovy/3.webp"
     ],
     "source": [
@@ -25363,8 +25339,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/polenta/1.webp",
-      "/images/dishes/polenta/2.webp",
-      "/images/dishes/polenta/3.webp"
+      "/images/dishes/polenta/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Polenta",
@@ -27039,9 +27014,7 @@
     "heavinessScore": 1,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/al-dente/1.webp",
-      "/images/dishes/al-dente/2.webp",
-      "/images/dishes/al-dente/3.webp"
+      "/images/dishes/al-dente/1.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Al_dente",
@@ -33617,8 +33590,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/tahini/1.webp",
-      "/images/dishes/tahini/2.webp",
-      "/images/dishes/tahini/3.webp"
+      "/images/dishes/tahini/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tahini",
@@ -38877,8 +38849,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/tamari-soy-sauce/1.webp",
-      "/images/dishes/tamari-soy-sauce/2.webp",
-      "/images/dishes/tamari-soy-sauce/3.webp"
+      "/images/dishes/tamari-soy-sauce/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Soy_sauce#Tamari",
@@ -39278,9 +39249,7 @@
     "uniquenessScore": 2,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/qing-jiao-rou-si/1.webp"
-    ],
+    "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Sichuan_cuisine",
       "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A4%92%E8%82%89%E7%B5%B2",
@@ -42459,10 +42428,7 @@
     "uniquenessScore": 3,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/ika-ninjin/1.webp",
-      "/images/dishes/ika-ninjin/2.webp"
-    ],
+    "images": [],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%8B%E3%81%AB%E3%82%93%E3%81%98%E3%82%93",
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ika_ninjin_fukushima.html"
@@ -43232,10 +43198,7 @@
     "uniquenessScore": 3,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/ikayaki/1.webp",
-      "/images/dishes/ikayaki/3.webp"
-    ],
+    "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Ikayaki",
       "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AB%E7%84%BC%E3%81%8D",
@@ -43463,10 +43426,7 @@
     "uniquenessScore": 4,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/tessa/1.webp",
-      "/images/dishes/tessa/2.webp"
-    ],
+    "images": [],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%90%E6%96%99%E7%90%86",
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
@@ -44520,8 +44480,7 @@
     "heavinessScore": 1,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/zuiki/1.webp",
-      "/images/dishes/zuiki/2.webp"
+      "/images/dishes/zuiki/1.webp"
     ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%88%E3%82%A4%E3%83%A2",
@@ -44888,11 +44847,7 @@
     "uniquenessScore": 3,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/arame/1.webp",
-      "/images/dishes/arame/2.webp",
-      "/images/dishes/arame/3.webp"
-    ],
+    "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Arame",
       "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%A1",
@@ -47143,9 +47098,7 @@
     "heavinessScore": 2,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/bai-jiu/1.webp",
-      "/images/dishes/bai-jiu/2.webp",
-      "/images/dishes/bai-jiu/3.webp"
+      "/images/dishes/bai-jiu/1.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Baijiu",
@@ -48911,9 +48864,7 @@
     "heavinessScore": 2,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/hache/1.webp",
-      "/images/dishes/hache/2.webp",
-      "/images/dishes/hache/3.webp"
+      "/images/dishes/hache/1.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Hach%C3%A9e",
@@ -49602,8 +49553,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/pate-de-campagne/1.webp",
-      "/images/dishes/pate-de-campagne/2.webp",
-      "/images/dishes/pate-de-campagne/3.webp"
+      "/images/dishes/pate-de-campagne/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/P%C3%A2t%C3%A9_de_campagne",
@@ -49805,11 +49755,7 @@
     "uniquenessScore": 3,
     "heavinessScore": 3,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/farci/1.webp",
-      "/images/dishes/farci/2.webp",
-      "/images/dishes/farci/3.webp"
-    ],
+    "images": [],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%AB%E3%82%B9_%28%E6%96%99%E7%90%86%29",
       "https://chefsimon.com/lexique/farcir"
@@ -49992,9 +49938,7 @@
     "heavinessScore": 1,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/abaisser/1.webp",
-      "/images/dishes/abaisser/2.webp",
-      "/images/dishes/abaisser/3.webp"
+      "/images/dishes/abaisser/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Shortcrust_pastry",
@@ -50187,9 +50131,7 @@
     "uniquenessScore": 3,
     "heavinessScore": 4,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/barder/1.webp"
-    ],
+    "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Barding",
       "https://chefsimon.com/lexique/barder"
@@ -50458,8 +50400,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/beurre-noisette/1.webp",
-      "/images/dishes/beurre-noisette/2.webp",
-      "/images/dishes/beurre-noisette/3.webp"
+      "/images/dishes/beurre-noisette/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Beurre_noisette",
@@ -50550,9 +50491,7 @@
     "heavinessScore": 1,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/blanchir/1.webp",
-      "/images/dishes/blanchir/2.webp",
-      "/images/dishes/blanchir/3.webp"
+      "/images/dishes/blanchir/1.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Blanching_(cooking)",
@@ -50822,11 +50761,7 @@
     "uniquenessScore": 3,
     "heavinessScore": 4,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/carre/1.webp",
-      "/images/dishes/carre/2.webp",
-      "/images/dishes/carre/3.webp"
-    ],
+    "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Rack_of_lamb",
       "https://www.britannica.com/topic/lamb-meat"
@@ -51267,7 +51202,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/cidre/1.webp",
-      "/images/dishes/cidre/2.webp",
       "/images/dishes/cidre/3.webp"
     ],
     "source": [
@@ -51350,9 +51284,7 @@
     "heavinessScore": 3,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/cocotte/1.webp",
-      "/images/dishes/cocotte/2.webp",
-      "/images/dishes/cocotte/3.webp"
+      "/images/dishes/cocotte/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Cocotte",
@@ -51549,9 +51481,7 @@
     "heavinessScore": 5,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/crepine/1.webp",
-      "/images/dishes/crepine/2.webp",
-      "/images/dishes/crepine/3.webp"
+      "/images/dishes/crepine/1.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Caul_fat",
@@ -51928,8 +51858,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/fariner/1.webp",
-      "/images/dishes/fariner/2.webp",
-      "/images/dishes/fariner/3.webp"
+      "/images/dishes/fariner/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Flour",
@@ -52852,8 +52781,7 @@
     "spicinessScore": 1,
     "images": [
       "/images/dishes/mignonette/1.webp",
-      "/images/dishes/mignonette/2.webp",
-      "/images/dishes/mignonette/3.webp"
+      "/images/dishes/mignonette/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mignonette_sauce",
@@ -53451,9 +53379,7 @@
     "heavinessScore": 1,
     "spicinessScore": 1,
     "images": [
-      "/images/dishes/quatre-epices/1.webp",
-      "/images/dishes/quatre-epices/2.webp",
-      "/images/dishes/quatre-epices/3.webp"
+      "/images/dishes/quatre-epices/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Quatre_%C3%A9pices",
@@ -53537,9 +53463,7 @@
     "heavinessScore": 3,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/quenelle/1.webp",
-      "/images/dishes/quenelle/2.webp",
-      "/images/dishes/quenelle/3.webp"
+      "/images/dishes/quenelle/1.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Quenelle",
@@ -53890,9 +53814,7 @@
     "uniquenessScore": 2,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/tiede/1.webp"
-    ],
+    "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Lukewarm",
       "https://www.larousse.fr/dictionnaires/francais/ti%C3%A8de/78046"
@@ -54350,9 +54272,7 @@
     "heavinessScore": 1,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/nappage/1.webp",
-      "/images/dishes/nappage/2.webp",
-      "/images/dishes/nappage/3.webp"
+      "/images/dishes/nappage/1.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Glaze_(cooking_technique)",
@@ -54437,8 +54357,7 @@
     "heavinessScore": 3,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/oeuf-cocotte/1.webp",
-      "/images/dishes/oeuf-cocotte/2.webp"
+      "/images/dishes/oeuf-cocotte/1.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Shirred_eggs",
@@ -54695,7 +54614,6 @@
     "spicinessScore": 1,
     "images": [
       "/images/dishes/goulash/1.webp",
-      "/images/dishes/goulash/2.webp",
       "/images/dishes/goulash/3.webp"
     ],
     "source": [
@@ -54791,7 +54709,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/hayashi-rice/1.webp",
-      "/images/dishes/hayashi-rice/2.webp",
       "/images/dishes/hayashi-rice/3.webp"
     ],
     "source": [
@@ -54887,9 +54804,7 @@
     "heavinessScore": 3,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/mince/1.webp",
-      "/images/dishes/mince/2.webp",
-      "/images/dishes/mince/3.webp"
+      "/images/dishes/mince/1.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Ground_meat",
@@ -55067,7 +54982,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/shochu/1.webp",
-      "/images/dishes/shochu/2.webp",
       "/images/dishes/shochu/3.webp"
     ],
     "source": [
@@ -55435,8 +55349,7 @@
     "spicinessScore": 1,
     "images": [
       "/images/dishes/garam-masala/1.webp",
-      "/images/dishes/garam-masala/2.webp",
-      "/images/dishes/garam-masala/3.webp"
+      "/images/dishes/garam-masala/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Garam_masala",
@@ -56261,8 +56174,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/bhakri/1.webp",
-      "/images/dishes/bhakri/2.webp",
-      "/images/dishes/bhakri/3.webp"
+      "/images/dishes/bhakri/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bhakri",
@@ -56734,7 +56646,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/pintxos/1.webp",
-      "/images/dishes/pintxos/2.webp",
       "/images/dishes/pintxos/3.webp"
     ],
     "source": [
@@ -57796,8 +57707,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/bocadillo/1.webp",
-      "/images/dishes/bocadillo/2.webp",
-      "/images/dishes/bocadillo/3.webp"
+      "/images/dishes/bocadillo/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Bocadillo",
@@ -58201,8 +58111,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/boquerones-vinagre/1.webp",
-      "/images/dishes/boquerones-vinagre/2.webp",
-      "/images/dishes/boquerones-vinagre/3.webp"
+      "/images/dishes/boquerones-vinagre/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Boquerones_en_vinagre",
@@ -59341,8 +59250,7 @@
     "spicinessScore": 2,
     "images": [
       "/images/dishes/curry-powder/1.webp",
-      "/images/dishes/curry-powder/2.webp",
-      "/images/dishes/curry-powder/3.webp"
+      "/images/dishes/curry-powder/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Curry_powder",
@@ -59894,8 +59802,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/tinto-de-verano/1.webp",
-      "/images/dishes/tinto-de-verano/2.webp",
-      "/images/dishes/tinto-de-verano/3.webp"
+      "/images/dishes/tinto-de-verano/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Tinto_de_verano",
@@ -60363,8 +60270,6 @@
     "heavinessScore": 3,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/french-onion-soup/1.webp",
-      "/images/dishes/french-onion-soup/2.webp",
       "/images/dishes/french-onion-soup/3.webp"
     ],
     "source": [
@@ -60443,7 +60348,6 @@
     "heavinessScore": 2,
     "spicinessScore": 2,
     "images": [
-      "/images/dishes/baingan-bharta/1.webp",
       "/images/dishes/baingan-bharta/2.webp",
       "/images/dishes/baingan-bharta/3.webp"
     ],
@@ -60770,8 +60674,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/nihonshu/1.webp",
-      "/images/dishes/nihonshu/2.webp",
-      "/images/dishes/nihonshu/3.webp"
+      "/images/dishes/nihonshu/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Sake",
@@ -60842,8 +60745,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/awamori/1.webp",
-      "/images/dishes/awamori/2.webp",
-      "/images/dishes/awamori/3.webp"
+      "/images/dishes/awamori/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Awamori",
@@ -60916,8 +60818,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/takikomi-gohan/1.webp",
-      "/images/dishes/takikomi-gohan/2.webp",
-      "/images/dishes/takikomi-gohan/3.webp"
+      "/images/dishes/takikomi-gohan/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Takikomi_gohan",
@@ -61569,8 +61470,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/varenyky/1.webp",
-      "/images/dishes/varenyky/2.webp",
-      "/images/dishes/varenyky/3.webp"
+      "/images/dishes/varenyky/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Varenyky",
@@ -61916,8 +61816,7 @@
     "heavinessScore": 3,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/farikal/1.webp",
-      "/images/dishes/farikal/2.webp"
+      "/images/dishes/farikal/1.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/F%C3%A5rik%C3%A5l",
@@ -62095,8 +61994,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/rakfisk/1.webp",
-      "/images/dishes/rakfisk/2.webp",
-      "/images/dishes/rakfisk/3.webp"
+      "/images/dishes/rakfisk/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Rakfisk",
@@ -62273,7 +62171,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/kottbullar/1.webp",
-      "/images/dishes/kottbullar/2.webp",
       "/images/dishes/kottbullar/3.webp"
     ],
     "source": [
@@ -64108,9 +64005,7 @@
     "heavinessScore": 3,
     "spicinessScore": 4,
     "images": [
-      "/images/dishes/xiang-la-xue/1.webp",
-      "/images/dishes/xiang-la-xue/2.webp",
-      "/images/dishes/xiang-la-xue/3.webp"
+      "/images/dishes/xiang-la-xue/1.webp"
     ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%B7%9D%E6%96%99%E7%90%86",
@@ -64337,8 +64232,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/she-tang/1.webp",
-      "/images/dishes/she-tang/2.webp",
-      "/images/dishes/she-tang/3.webp"
+      "/images/dishes/she-tang/2.webp"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Snake_soup",
@@ -64531,9 +64425,7 @@
     "uniquenessScore": 3,
     "heavinessScore": 4,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/tonchan/1.webp"
-    ],
+    "images": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/",
       "https://furunavi.jp/discovery/knowledge_food/202406-innards/"
@@ -64744,11 +64636,7 @@
     "uniquenessScore": 3,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/hoppy/1.webp",
-      "/images/dishes/hoppy/2.webp",
-      "/images/dishes/hoppy/3.webp"
-    ],
+    "images": [],
     "source": [
       "https://en.wikipedia.org/wiki/Hoppy",
       "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%83%E3%83%94%E3%83%BC",
@@ -64916,9 +64804,7 @@
     "uniquenessScore": 4,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/akadama/1.webp"
-    ],
+    "images": [],
     "source": [
       "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%8E%89",
       "https://www.suntory.co.jp/wine/original/akadama/"
@@ -65173,7 +65059,6 @@
     "spicinessScore": 1,
     "images": [
       "/images/dishes/makchang/1.webp",
-      "/images/dishes/makchang/2.webp",
       "/images/dishes/makchang/3.webp"
     ],
     "source": [
@@ -65267,11 +65152,7 @@
     "uniquenessScore": 1,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/lemon-sour/1.webp",
-      "/images/dishes/lemon-sour/2.webp",
-      "/images/dishes/lemon-sour/3.webp"
-    ]
+    "images": []
   },
   {
     "id": "ume-sour",
@@ -65492,7 +65373,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/beer/1.webp",
-      "/images/dishes/beer/2.webp",
       "/images/dishes/beer/3.webp"
     ]
   },
@@ -65583,9 +65463,7 @@
     "uniquenessScore": 3,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/kashira/1.webp"
-    ]
+    "images": []
   },
   {
     "id": "karubi",
@@ -66366,7 +66244,6 @@
     "heavinessScore": 2,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/chateaubriand/1.webp",
       "/images/dishes/chateaubriand/2.webp",
       "/images/dishes/chateaubriand/3.webp"
     ]
@@ -67048,7 +66925,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/tan/1.webp",
-      "/images/dishes/tan/2.webp",
       "/images/dishes/tan/3.webp"
     ]
   },
@@ -70262,8 +70138,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/focaccia/1.webp",
-      "/images/dishes/focaccia/2.webp",
-      "/images/dishes/focaccia/3.webp"
+      "/images/dishes/focaccia/2.webp"
     ]
   },
   {
@@ -70506,8 +70381,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/fromage-blanc/1.webp",
-      "/images/dishes/fromage-blanc/2.webp",
-      "/images/dishes/fromage-blanc/3.webp"
+      "/images/dishes/fromage-blanc/2.webp"
     ]
   },
   {
@@ -70683,8 +70557,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/mascarpone/1.webp",
-      "/images/dishes/mascarpone/2.webp",
-      "/images/dishes/mascarpone/3.webp"
+      "/images/dishes/mascarpone/2.webp"
     ]
   },
   {
@@ -70828,7 +70701,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/coulommiers/1.webp",
-      "/images/dishes/coulommiers/2.webp",
       "/images/dishes/coulommiers/3.webp"
     ]
   },
@@ -71848,8 +71720,7 @@
     "spicinessScore": 1,
     "images": [
       "/images/dishes/munster/1.webp",
-      "/images/dishes/munster/2.webp",
-      "/images/dishes/munster/3.webp"
+      "/images/dishes/munster/2.webp"
     ]
   },
   {
@@ -72812,8 +72683,7 @@
     "heavinessScore": 2,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/valencay/1.webp",
-      "/images/dishes/valencay/2.webp"
+      "/images/dishes/valencay/1.webp"
     ]
   },
   {
@@ -73059,7 +72929,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/comte/1.webp",
-      "/images/dishes/comte/2.webp",
       "/images/dishes/comte/3.webp"
     ]
   },
@@ -73285,11 +73154,7 @@
     "uniquenessScore": 2,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/candy-cheese/1.webp",
-      "/images/dishes/candy-cheese/2.webp",
-      "/images/dishes/candy-cheese/3.webp"
-    ]
+    "images": []
   },
   {
     "id": "stick-cheese",
@@ -73373,11 +73238,7 @@
     "uniquenessScore": 2,
     "heavinessScore": 3,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/stick-cheese/1.webp",
-      "/images/dishes/stick-cheese/2.webp",
-      "/images/dishes/stick-cheese/3.webp"
-    ]
+    "images": []
   },
   {
     "id": "smoked-cheese",
@@ -73559,8 +73420,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/cheese-curd/1.webp",
-      "/images/dishes/cheese-curd/2.webp",
-      "/images/dishes/cheese-curd/3.webp"
+      "/images/dishes/cheese-curd/2.webp"
     ]
   },
   {
@@ -73824,9 +73684,7 @@
     "heavinessScore": 1,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/helles/1.webp",
-      "/images/dishes/helles/2.webp",
-      "/images/dishes/helles/3.webp"
+      "/images/dishes/helles/1.webp"
     ]
   },
   {
@@ -73913,8 +73771,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/dunkel/1.webp",
-      "/images/dishes/dunkel/2.webp",
-      "/images/dishes/dunkel/3.webp"
+      "/images/dishes/dunkel/2.webp"
     ]
   },
   {
@@ -74090,7 +73947,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/ale/1.webp",
-      "/images/dishes/ale/2.webp",
       "/images/dishes/ale/3.webp"
     ]
   },
@@ -74179,8 +74035,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/pale-ale/1.webp",
-      "/images/dishes/pale-ale/2.webp",
-      "/images/dishes/pale-ale/3.webp"
+      "/images/dishes/pale-ale/2.webp"
     ]
   },
   {
@@ -74268,9 +74123,7 @@
     "heavinessScore": 3,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/india-pale-ale/1.webp",
-      "/images/dishes/india-pale-ale/2.webp",
-      "/images/dishes/india-pale-ale/3.webp"
+      "/images/dishes/india-pale-ale/1.webp"
     ]
   },
   {
@@ -74344,7 +74197,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/american-pale-ale/1.webp",
-      "/images/dishes/american-pale-ale/2.webp",
       "/images/dishes/american-pale-ale/3.webp"
     ]
   },
@@ -74439,9 +74291,7 @@
     "heavinessScore": 1,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/golden-ale/1.webp",
-      "/images/dishes/golden-ale/2.webp",
-      "/images/dishes/golden-ale/3.webp"
+      "/images/dishes/golden-ale/1.webp"
     ]
   },
   {
@@ -74536,9 +74386,7 @@
     "heavinessScore": 4,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/stout/1.webp",
-      "/images/dishes/stout/2.webp",
-      "/images/dishes/stout/3.webp"
+      "/images/dishes/stout/1.webp"
     ]
   },
   {
@@ -74629,8 +74477,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/cheddar-cheese/1.webp",
-      "/images/dishes/cheddar-cheese/2.webp",
-      "/images/dishes/cheddar-cheese/3.webp"
+      "/images/dishes/cheddar-cheese/2.webp"
     ]
   },
   {
@@ -74717,7 +74564,6 @@
     "heavinessScore": 3,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/smetana/1.webp",
       "/images/dishes/smetana/2.webp",
       "/images/dishes/smetana/3.webp"
     ]
@@ -74964,9 +74810,7 @@
     "heavinessScore": 1,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/lime/1.webp",
-      "/images/dishes/lime/2.webp",
-      "/images/dishes/lime/3.webp"
+      "/images/dishes/lime/1.webp"
     ]
   },
   {
@@ -75061,8 +74905,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/lemongrass/1.webp",
-      "/images/dishes/lemongrass/2.webp",
-      "/images/dishes/lemongrass/3.webp"
+      "/images/dishes/lemongrass/2.webp"
     ]
   },
   {
@@ -75159,8 +75002,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/kaffir-lime/1.webp",
-      "/images/dishes/kaffir-lime/2.webp",
-      "/images/dishes/kaffir-lime/3.webp"
+      "/images/dishes/kaffir-lime/2.webp"
     ]
   },
   {
@@ -75454,9 +75296,7 @@
     "heavinessScore": 2,
     "spicinessScore": 3,
     "images": [
-      "/images/dishes/som-tam/1.webp",
-      "/images/dishes/som-tam/2.webp",
-      "/images/dishes/som-tam/3.webp"
+      "/images/dishes/som-tam/1.webp"
     ]
   },
   {
@@ -75691,8 +75531,6 @@
     "heavinessScore": 3,
     "spicinessScore": 1,
     "images": [
-      "/images/dishes/gai-yang/1.webp",
-      "/images/dishes/gai-yang/2.webp",
       "/images/dishes/gai-yang/3.webp"
     ]
   },
@@ -75783,8 +75621,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/khao-man-gai/1.webp",
-      "/images/dishes/khao-man-gai/2.webp",
-      "/images/dishes/khao-man-gai/3.webp"
+      "/images/dishes/khao-man-gai/2.webp"
     ]
   },
   {
@@ -76117,8 +75954,7 @@
     "spicinessScore": 1,
     "images": [
       "/images/dishes/kuai-tiao/1.webp",
-      "/images/dishes/kuai-tiao/2.webp",
-      "/images/dishes/kuai-tiao/3.webp"
+      "/images/dishes/kuai-tiao/2.webp"
     ]
   },
   {
@@ -77288,10 +77124,7 @@
     "uniquenessScore": 5,
     "heavinessScore": 3,
     "spicinessScore": 1,
-    "images": [
-      "/images/dishes/kuai-chap/1.webp",
-      "/images/dishes/kuai-chap/2.webp"
-    ]
+    "images": []
   },
   {
     "id": "khanom-chin",
@@ -77462,8 +77295,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/kuai-tiao-rat-na/1.webp",
-      "/images/dishes/kuai-tiao-rat-na/2.webp",
-      "/images/dishes/kuai-tiao-rat-na/3.webp"
+      "/images/dishes/kuai-tiao-rat-na/2.webp"
     ]
   },
   {
@@ -77635,8 +77467,7 @@
     "heavinessScore": 1,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/sen-lek/1.webp",
-      "/images/dishes/sen-lek/2.webp"
+      "/images/dishes/sen-lek/1.webp"
     ]
   },
   {
@@ -80225,8 +80056,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/bua-loi/1.webp",
-      "/images/dishes/bua-loi/2.webp",
-      "/images/dishes/bua-loi/3.webp"
+      "/images/dishes/bua-loi/2.webp"
     ]
   },
   {
@@ -80305,9 +80135,7 @@
     "heavinessScore": 2,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/ruam-mit/1.webp",
-      "/images/dishes/ruam-mit/2.webp",
-      "/images/dishes/ruam-mit/3.webp"
+      "/images/dishes/ruam-mit/2.webp"
     ]
   },
   {
@@ -80765,7 +80593,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/khanom-khrok/1.webp",
-      "/images/dishes/khanom-khrok/2.webp",
       "/images/dishes/khanom-khrok/3.webp"
     ]
   },
@@ -80951,9 +80778,7 @@
     "heavinessScore": 3,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/fromage/1.webp",
-      "/images/dishes/fromage/2.webp",
-      "/images/dishes/fromage/3.webp"
+      "/images/dishes/fromage/1.webp"
     ]
   },
   {
@@ -81053,9 +80878,7 @@
     "heavinessScore": 3,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/rotir/1.webp",
-      "/images/dishes/rotir/2.webp",
-      "/images/dishes/rotir/3.webp"
+      "/images/dishes/rotir/1.webp"
     ]
   },
   {
@@ -81218,7 +81041,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/aperitif/1.webp",
-      "/images/dishes/aperitif/2.webp",
       "/images/dishes/aperitif/3.webp"
     ]
   },
@@ -81567,7 +81389,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/entree/1.webp",
-      "/images/dishes/entree/2.webp",
       "/images/dishes/entree/3.webp"
     ]
   },
@@ -81653,7 +81474,6 @@
     "heavinessScore": 3,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/crustace/1.webp",
       "/images/dishes/crustace/2.webp",
       "/images/dishes/crustace/3.webp"
     ]
@@ -81740,7 +81560,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/coquillage/1.webp",
-      "/images/dishes/coquillage/2.webp",
       "/images/dishes/coquillage/3.webp"
     ]
   },
@@ -82099,8 +81918,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/aspic/1.webp",
-      "/images/dishes/aspic/2.webp",
-      "/images/dishes/aspic/3.webp"
+      "/images/dishes/aspic/2.webp"
     ]
   },
   {
@@ -82675,7 +82493,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/nouilles/1.webp",
-      "/images/dishes/nouilles/2.webp",
       "/images/dishes/nouilles/3.webp"
     ]
   },
@@ -83090,11 +82907,7 @@
     "uniquenessScore": 2,
     "heavinessScore": 4,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/reduire/1.webp",
-      "/images/dishes/reduire/2.webp",
-      "/images/dishes/reduire/3.webp"
-    ]
+    "images": []
   },
   {
     "id": "bun-bo-hue",
@@ -84272,7 +84085,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/koshari/1.webp",
-      "/images/dishes/koshari/2.webp",
       "/images/dishes/koshari/3.webp"
     ]
   },
@@ -84690,7 +84502,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/idiyappam/1.webp",
-      "/images/dishes/idiyappam/2.webp",
       "/images/dishes/idiyappam/3.webp"
     ]
   },
@@ -84850,7 +84661,6 @@
     "heavinessScore": 4,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/guvec/1.webp",
       "/images/dishes/guvec/2.webp",
       "/images/dishes/guvec/3.webp"
     ]
@@ -85095,7 +84905,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/khanom-jeeb/1.webp",
-      "/images/dishes/khanom-jeeb/2.webp",
       "/images/dishes/khanom-jeeb/3.webp"
     ]
   },
@@ -85204,9 +85013,7 @@
     "uniquenessScore": 4,
     "heavinessScore": 3,
     "spicinessScore": 1,
-    "images": [
-      "/images/dishes/phra-ram-long-song/1.webp"
-    ]
+    "images": []
   },
   {
     "id": "pla-kung",
@@ -85933,7 +85740,6 @@
     "spicinessScore": 1,
     "images": [
       "/images/dishes/mu-satay/1.webp",
-      "/images/dishes/mu-satay/2.webp",
       "/images/dishes/mu-satay/3.webp"
     ]
   },
@@ -89063,8 +88869,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/jok/1.webp",
-      "/images/dishes/jok/2.webp",
-      "/images/dishes/jok/3.webp"
+      "/images/dishes/jok/2.webp"
     ]
   },
   {
@@ -89142,9 +88947,7 @@
     "uniquenessScore": 2,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/chinese-noodles/1.webp"
-    ]
+    "images": []
   },
   {
     "id": "o-a-chian",
@@ -89923,7 +89726,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/kraftskiva/1.webp",
-      "/images/dishes/kraftskiva/2.webp",
       "/images/dishes/kraftskiva/3.webp"
     ]
   },
@@ -90088,9 +89890,7 @@
     "uniquenessScore": 5,
     "heavinessScore": 3,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/blodpudding/1.webp"
-    ]
+    "images": []
   },
   {
     "id": "blodkorv",
@@ -90950,8 +90750,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/lutfisk/1.webp",
-      "/images/dishes/lutfisk/2.webp",
-      "/images/dishes/lutfisk/3.webp"
+      "/images/dishes/lutfisk/2.webp"
     ]
   },
   {
@@ -91025,8 +90824,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/palt/1.webp",
-      "/images/dishes/palt/2.webp",
-      "/images/dishes/palt/3.webp"
+      "/images/dishes/palt/2.webp"
     ]
   },
   {
@@ -91244,9 +91042,7 @@
     "heavinessScore": 4,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/paltbrod/1.webp",
-      "/images/dishes/paltbrod/2.webp",
-      "/images/dishes/paltbrod/3.webp"
+      "/images/dishes/paltbrod/1.webp"
     ]
   },
   {
@@ -91530,10 +91326,7 @@
     "uniquenessScore": 2,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": [
-      "/images/dishes/plattar/1.webp",
-      "/images/dishes/plattar/2.webp"
-    ]
+    "images": []
   },
   {
     "id": "inlagd-sill",
@@ -91605,9 +91398,7 @@
     "heavinessScore": 1,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/inlagd-sill/1.webp",
-      "/images/dishes/inlagd-sill/2.webp",
-      "/images/dishes/inlagd-sill/3.webp"
+      "/images/dishes/inlagd-sill/1.webp"
     ]
   },
   {
@@ -91679,9 +91470,7 @@
     "heavinessScore": 3,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/polsa/1.webp",
-      "/images/dishes/polsa/2.webp",
-      "/images/dishes/polsa/3.webp"
+      "/images/dishes/polsa/1.webp"
     ]
   },
   {
@@ -91753,9 +91542,7 @@
     "heavinessScore": 4,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/raggmunk/1.webp",
-      "/images/dishes/raggmunk/2.webp",
-      "/images/dishes/raggmunk/3.webp"
+      "/images/dishes/raggmunk/1.webp"
     ]
   },
   {
@@ -91899,8 +91686,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/stekt-flask-och-bruna-bonor/1.webp",
-      "/images/dishes/stekt-flask-och-bruna-bonor/2.webp",
-      "/images/dishes/stekt-flask-och-bruna-bonor/3.webp"
+      "/images/dishes/stekt-flask-och-bruna-bonor/2.webp"
     ]
   },
   {
@@ -92043,9 +91829,7 @@
     "heavinessScore": 3,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/prinskorv/1.webp",
-      "/images/dishes/prinskorv/2.webp",
-      "/images/dishes/prinskorv/3.webp"
+      "/images/dishes/prinskorv/1.webp"
     ]
   },
   {
@@ -92482,9 +92266,7 @@
     "heavinessScore": 4,
     "spicinessScore": 1,
     "images": [
-      "/images/dishes/flygande-jakob/1.webp",
-      "/images/dishes/flygande-jakob/2.webp",
-      "/images/dishes/flygande-jakob/3.webp"
+      "/images/dishes/flygande-jakob/1.webp"
     ]
   },
   {
@@ -92638,9 +92420,7 @@
     "heavinessScore": 2,
     "spicinessScore": 0,
     "images": [
-      "/images/dishes/edam-cheese/1.webp",
-      "/images/dishes/edam-cheese/2.webp",
-      "/images/dishes/edam-cheese/3.webp"
+      "/images/dishes/edam-cheese/1.webp"
     ]
   },
   {
@@ -93108,8 +92888,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/boerenkoolstamppot/1.webp",
-      "/images/dishes/boerenkoolstamppot/2.webp",
-      "/images/dishes/boerenkoolstamppot/3.webp"
+      "/images/dishes/boerenkoolstamppot/2.webp"
     ]
   },
   {
@@ -93349,9 +93128,7 @@
     "heavinessScore": 4,
     "spicinessScore": 2,
     "images": [
-      "/images/dishes/griotten/1.webp",
-      "/images/dishes/griotten/2.webp",
-      "/images/dishes/griotten/3.webp"
+      "/images/dishes/griotten/2.webp"
     ]
   },
   {
@@ -93514,8 +93291,7 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/hollandse-nieuwe/1.webp",
-      "/images/dishes/hollandse-nieuwe/2.webp",
-      "/images/dishes/hollandse-nieuwe/3.webp"
+      "/images/dishes/hollandse-nieuwe/2.webp"
     ]
   },
   {
@@ -93594,7 +93370,6 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/gerookte-paling/1.webp",
-      "/images/dishes/gerookte-paling/2.webp",
       "/images/dishes/gerookte-paling/3.webp"
     ]
   },
@@ -93832,8 +93607,7 @@
     "spicinessScore": 3,
     "images": [
       "/images/dishes/acaraje/1.jpg",
-      "/images/dishes/acaraje/2.jpg",
-      "/images/dishes/acaraje/3.jpg"
+      "/images/dishes/acaraje/2.jpg"
     ]
   },
   {
