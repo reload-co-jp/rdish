@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
 import { allArticles as articles } from "../../lib/articles"
+import { organizationJsonLd, organizationRef } from "../../lib/organization"
 
 const SITE_URL = "https://rdish.reload.co.jp"
 
@@ -20,18 +21,23 @@ export const metadata: Metadata = {
 export default function ArticlesPage() {
   const itemListLd = {
     "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    name: "記事一覧",
-    url: `${SITE_URL}/articles/`,
-    inLanguage: "ja",
-    publisher: { "@type": "Organization", name: "RDish", url: SITE_URL },
-    hasPart: articles.map((a) => ({
-      "@type": "Article",
-      headline: a.subtitle ? `${a.title}——${a.subtitle}` : a.title,
-      description: a.description,
-      datePublished: a.publishedAt,
-      url: `${SITE_URL}/articles/${a.slug}/`,
-    })),
+    "@graph": [
+      {
+        "@type": "CollectionPage",
+        name: "記事一覧",
+        url: `${SITE_URL}/articles/`,
+        inLanguage: "ja",
+        publisher: organizationRef,
+        hasPart: articles.map((a) => ({
+          "@type": "Article",
+          headline: a.subtitle ? `${a.title}——${a.subtitle}` : a.title,
+          description: a.description,
+          datePublished: a.publishedAt,
+          url: `${SITE_URL}/articles/${a.slug}/`,
+        })),
+      },
+      organizationJsonLd,
+    ],
   }
 
   return (

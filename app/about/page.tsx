@@ -1,6 +1,7 @@
 import type { Metadata } from "next"
 import Link from "next/link"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
+import { organizationJsonLd } from "../../lib/organization"
 
 export const metadata: Metadata = {
   title: "RDishについて",
@@ -35,9 +36,7 @@ const Section = ({
 
 const orgJsonLd = {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  name: "株式会社Reload",
-  url: "https://reload.co.jp",
+  ...organizationJsonLd,
   publishingPrinciples: "https://rdish.reload.co.jp/about/",
 }
 

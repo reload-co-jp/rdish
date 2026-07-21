@@ -5,6 +5,8 @@ import { DishDetail } from "../../../components/features/DishDetail"
 import { RecentlyViewedTracker } from "../../../components/features/RecentlyViewedTracker"
 import AdSense from "../../../components/elements/AdSense"
 import { allDishes } from "../../../lib/dishes"
+import { getImagesMeta } from "../../../lib/imageMeta"
+import { organizationRef } from "../../../lib/organization"
 import type { DishItem } from "../../../types/dish"
 
 export function generateStaticParams() {
@@ -105,9 +107,9 @@ export default async function DishPage({
   const sourceUrls = (dish.source ?? []).filter((source) =>
     source.startsWith("http")
   )
+  const imagesMeta = await getImagesMeta(dish.images ?? [])
 
   const definedTermLd = {
-    "@context": "https://schema.org",
     "@type": "DefinedTerm",
     "@id": `${canonicalUrl}#term`,
     name: dish.name,
@@ -121,6 +123,7 @@ export default async function DishPage({
       "@type": "DefinedTermSet",
       name: "RDish 料理図鑑",
       url: `${SITE_URL}/dishes/`,
+      publisher: organizationRef,
     },
     keywords: dish.tags.join(", "),
     about: [
@@ -134,11 +137,13 @@ export default async function DishPage({
     })),
     ...(sourceUrls.length > 0 ? { sameAs: sourceUrls } : {}),
     ...(alternateNames.length > 0 ? { alternateName: alternateNames } : {}),
-    ...(dish.images?.[0]
+    ...(imagesMeta.length > 0
       ? {
-          image: dish.images.map((image) => ({
+          image: imagesMeta.map((meta) => ({
             "@type": "ImageObject",
-            url: `${SITE_URL}${image}`,
+            url: `${SITE_URL}${meta.path}`,
+            width: meta.width,
+            height: meta.height,
             caption: `${dish.name}の料理写真`,
           })),
         }
@@ -146,7 +151,6 @@ export default async function DishPage({
   }
 
   const webPageLd = {
-    "@context": "https://schema.org",
     "@type": "WebPage",
     "@id": canonicalUrl,
     url: canonicalUrl,
@@ -154,13 +158,17 @@ export default async function DishPage({
     description: dish.summary,
     inLanguage: "ja",
     isPartOf: { "@type": "WebSite", name: "RDish", url: SITE_URL },
-    primaryImageOfPage: dish.images?.[0]
+    ...(imagesMeta[0]
       ? {
-          "@type": "ImageObject",
-          url: `${SITE_URL}${dish.images[0]}`,
-          caption: `${dish.name}の料理写真`,
+          primaryImageOfPage: {
+            "@type": "ImageObject",
+            url: `${SITE_URL}${imagesMeta[0].path}`,
+            width: imagesMeta[0].width,
+            height: imagesMeta[0].height,
+            caption: `${dish.name}の料理写真`,
+          },
         }
-      : undefined,
+      : {}),
     mainEntity: { "@id": `${canonicalUrl}#term` },
     speakable: {
       "@type": "SpeakableSpecification",
@@ -202,28 +210,22 @@ export default async function DishPage({
   const faqLd =
     faqEntries.length > 0
       ? {
-          "@context": "https://schema.org",
           "@type": "FAQPage",
           mainEntity: faqEntries,
         }
       : null
 
+  const pageJsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [definedTermLd, webPageLd, ...(faqLd ? [faqLd] : [])],
+  }
+
   return (
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(definedTermLd) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(pageJsonLd) }}
       />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageLd) }}
-      />
-      {faqLd && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
-        />
-      )}
       <Breadcrumb
         items={[
           { label: "料理一覧", href: "/dishes/" },

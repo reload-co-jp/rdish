@@ -6,6 +6,7 @@ import AdSense from "../components/elements/AdSense"
 import { allArticles } from "../lib/articles"
 import { allDishes } from "../lib/dishes"
 import { categoryPath } from "../lib/taxonomy"
+import { organizationJsonLd, organizationRef } from "../lib/organization"
 import type { DishItem } from "../types/dish"
 
 const POPULAR_IDS = [
@@ -36,17 +37,23 @@ const latestArticles = allArticles
 
 const websiteJsonLd = {
   "@context": "https://schema.org",
-  "@type": "WebSite",
-  name: "RDish",
-  url: "https://rdish.reload.co.jp",
-  description: "いつでも聞ける飾らない料理図鑑",
-  inLanguage: "ja",
-  publisher: { "@type": "Organization", name: "株式会社Reload", url: "https://reload.co.jp" },
-  potentialAction: {
-    "@type": "SearchAction",
-    target: { "@type": "EntryPoint", urlTemplate: "https://rdish.reload.co.jp/search/?q={search_term_string}" },
-    "query-input": "required name=search_term_string",
-  },
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://rdish.reload.co.jp/#website",
+      name: "RDish",
+      url: "https://rdish.reload.co.jp",
+      description: "いつでも聞ける飾らない料理図鑑",
+      inLanguage: "ja",
+      publisher: organizationRef,
+      potentialAction: {
+        "@type": "SearchAction",
+        target: { "@type": "EntryPoint", urlTemplate: "https://rdish.reload.co.jp/search/?q={search_term_string}" },
+        "query-input": "required name=search_term_string",
+      },
+    },
+    organizationJsonLd,
+  ],
 }
 
 export default function TopPage() {
