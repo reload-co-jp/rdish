@@ -102150,5 +102150,307 @@
       "/images/dishes/duck-blood-tofu/1.jpg",
       "/images/dishes/duck-blood-tofu/2.jpg"
     ]
+  },
+  {
+    "id": "suan-cai-chao-rou",
+    "name": "酸菜炒肉",
+    "kana": "さんさいちゃおろう",
+    "englishName": "Stir-Fried Pork with Pickled Cabbage",
+    "originalName": "酸菜炒肉 (Suāncài Chǎoròu)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "東北"
+      }
+    ],
+    "summary": "中国東北地方の家庭料理。冬に漬け込む酸菜（発酵させた白菜）を豚肉と炒め合わせた、酸味とコクのある一皿。",
+    "menuDescription": "発酵白菜（酸菜）と豚肉を炒め合わせた東北地方の家庭料理。ご飯が進む酸味と塩味が特徴。",
+    "whatComesOut": [
+      "細切りまたは薄切りの豚肉と酸菜を炒め合わせた一皿",
+      "白菜の発酵した酸味の効いた漬物状の具材",
+      "ネギ・生姜・唐辛子などの香味野菜",
+      "醤油ベースの色づいたタレ絡み"
+    ],
+    "tasteAndTexture": [
+      "酸菜由来のはっきりした酸味",
+      "豚肉の脂とコク",
+      "しゃきしゃきした酸菜の食感",
+      "ご飯が進む塩気の強さ"
+    ],
+    "orderAdvice": "酸味のある発酵野菜が好きでご飯物と合わせたい人向け。酸っぱい味が苦手なら少量から試すとよい。",
+    "similarItems": [
+      {
+        "id": "suan-cai-yu",
+        "name": "酸菜魚",
+        "difference": "同じ酸菜を使うが主役は魚と辛いスープ。酸菜炒肉は豚肉中心の乾いた炒め物"
+      },
+      {
+        "id": "hui-guo-rou",
+        "name": "回鍋肉",
+        "difference": "四川の豚肉炒め物で甜麺醤やそら豆味噌の甘辛さが主体。酸菜炒肉は発酵白菜の酸味が主体"
+      },
+      {
+        "id": "qing-jiao-rou-si",
+        "name": "青椒肉絲",
+        "difference": "ピーマンと豚肉の細切り炒めで甘辛い醤油味。酸菜炒肉は酸味の効いた漬物野菜が主役"
+      }
+    ],
+    "relatedIds": [
+      "suan-cai-yu",
+      "hui-guo-rou",
+      "qing-jiao-rou-si"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Suan_cai",
+      "https://m.xiachufang.com/recipe/104204796/"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "炒め物",
+      "発酵",
+      "酸味",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "酸っぱい漬物が苦手",
+      "発酵食品の匂いが苦手",
+      "こってり甘辛い炒め物が好き",
+      "香辛料の効いた辛い料理が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "qin-cai-chao-you-yu",
+    "name": "芹菜炒鱿鱼",
+    "kana": "きんつぁいちゃおゆーゆー",
+    "englishName": "Celery Stir-Fried Squid",
+    "originalName": "芹菜炒鱿鱼 (Qíncài Chǎo Yóuyú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "生姜汁と酒で下味をつけたイカを、シャキシャキのセロリと強火で手早く炒め合わせた中国の家庭料理。",
+    "menuDescription": "下味をつけたイカを強火で炒め、セロリとにんにくの香りをまとわせた家庭料理。素材の持ち味を活かした軽い味わい。",
+    "whatComesOut": [
+      "花のように丸まったイカの炒め身",
+      "シャキシャキに炒めたセロリ（にんじんを合わせることも）",
+      "にんにく・生姜の香味",
+      "軽く艶のある塩味ベースのソース"
+    ],
+    "tasteAndTexture": [
+      "コリコリとした弾力あるイカの食感",
+      "セロリのシャキシャキ感と清涼な香り",
+      "にんにくの香ばしさ",
+      "素材の味を活かしたあっさりした塩味"
+    ],
+    "orderAdvice": "魚介とセロリの香りが好きで、さっぱりした炒め物を求める人向け。辛味や濃い味を期待すると物足りない。",
+    "similarItems": [
+      {
+        "id": "long-jing-xia-ren",
+        "name": "龍井蝦仁",
+        "difference": "同じ中国風の淡白な魚介炒め物。龍井蝦仁は海老と茶葉の香り、芹菜炒鱿鱼はイカとセロリの香り"
+      },
+      {
+        "id": "gan-shao-xia-ren",
+        "name": "干焼蝦仁",
+        "difference": "干焼蝦仁は甘辛い四川風味付けの海老。芹菜炒鱿鱼はシンプルな塩味でセロリの食感が主役"
+      },
+      {
+        "id": "dan-zao-luo-pian",
+        "name": "淡糟螺片",
+        "difference": "同じあっさり系の中国魚介炒め物。淡糟螺片は貝と発酵調味料、芹菜炒鱿鱼はイカとセロリ"
+      }
+    ],
+    "relatedIds": [
+      "long-jing-xia-ren",
+      "gan-shao-xia-ren",
+      "dan-zao-luo-pian",
+      "squid"
+    ],
+    "source": [
+      "https://home.meishichina.com/recipe-225295.html",
+      "https://m.xiachufang.com/recipe/104251249/"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "野菜",
+      "炒め物",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "セロリの香りが苦手",
+      "魚介の生臭さが苦手",
+      "こってり濃厚な炒め物が好き",
+      "辛い料理が好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "jian-jiao-niu-wa",
+    "name": "尖椒牛蛙",
+    "kana": "じぇんじゃおにゅうわ",
+    "englishName": "Stir-Fried Bullfrog with Chili Peppers",
+    "originalName": "尖椒牛蛙 (Jiānjiāo Niúwā)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "牛ガエルをぶつ切りにし、大量の尖椒（青唐辛子）・花椒とともに強火で炒め合わせた四川の辛味炒め物。",
+    "menuDescription": "下処理した牛ガエルを一口大に切り、尖椒・花椒・生姜・にんにくと共に強火で炒め上げた四川料理。ピリ辛でご飯が進む一皿。",
+    "whatComesOut": [
+      "一口大に切られた牛ガエルのぶつ切り",
+      "大量の尖椒（青唐辛子）と炒め合わされた具材",
+      "花椒・生姜・にんにくの香味野菜",
+      "醤油・オイスターソースベースの照り"
+    ],
+    "tasteAndTexture": [
+      "鶏肉に似た淡白でプリッとした牛ガエルの身",
+      "尖椒由来のはっきりした辛さ",
+      "花椒のしびれる風味",
+      "ジューシーで弾力ある食感"
+    ],
+    "orderAdvice": "カエル肉に抵抗がなく辛い料理が好きな人向け。花椒の痺れる辛さが苦手なら要注意。",
+    "caution": "カエル（両生類）を使用。花椒・唐辛子で辛味が強め。",
+    "similarItems": [
+      {
+        "id": "jiao-yan-niu-wa",
+        "name": "椒塩牛蛙",
+        "difference": "椒塩牛蛙は揚げて花椒塩をまとわせるスタイル。尖椒牛蛙は炒めて唐辛子と痺れを効かせる"
+      },
+      {
+        "id": "lazi-ji",
+        "name": "辣子鶏",
+        "difference": "唐辛子で炒める点は似るが、素材が牛ガエルではなく鶏肉"
+      },
+      {
+        "id": "gong-bao-ji-ding",
+        "name": "宮保鶏丁",
+        "difference": "鶏肉とナッツ・唐辛子の四川炒め物。尖椒牛蛙は牛ガエルで食感が異なる"
+      }
+    ],
+    "relatedIds": [
+      "jiao-yan-niu-wa",
+      "lazi-ji",
+      "gong-bao-ji-ding"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/牛蛙",
+      "https://m.xiachufang.com/recipe/104236454/"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "主菜",
+      "炒め物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "カエルが苦手",
+      "花椒の痺れが苦手",
+      "あっさりした料理が好き",
+      "骨のある食材が苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": []
+  },
+  {
+    "id": "jian-jiao-ji",
+    "name": "尖椒雞",
+    "kana": "じぇんじゃおじー",
+    "englishName": "Stir-Fried Chicken with Chili Peppers",
+    "originalName": "尖椒鸡 (Jiānjiāo Jī)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "西南"
+      }
+    ],
+    "summary": "一口大の鶏肉と大量の尖った青唐辛子（尖椒）を強火で炒め合わせた、中国西南部で親しまれる家庭料理。",
+    "menuDescription": "片栗粉をまとわせた鶏肉を炒め、大量の尖椒・花椒・生姜・にんにくと共に仕上げた家庭料理。ピリ辛でご飯によく合う。",
+    "whatComesOut": [
+      "一口大の鶏肉と尖椒（青唐辛子）を炒め合わせた一皿",
+      "花椒・生姜・にんにくの香味",
+      "醤油・オイスターソースの照りとコク",
+      "小米辣（極小の激辛唐辛子）を加える場合も"
+    ],
+    "tasteAndTexture": [
+      "鶏肉の柔らかいジューシーな食感",
+      "尖椒の爽やかな辛さ",
+      "花椒のしびれるアクセント",
+      "香ばしい油の香り"
+    ],
+    "orderAdvice": "ピリ辛でご飯が進む炒め物を求める人向け。唐辛子の量が多いため辛いものが苦手な人は要注意。",
+    "similarItems": [
+      {
+        "id": "lazi-ji",
+        "name": "辣子鶏",
+        "difference": "辣子鶏は唐辛子の量が非常に多く鶏肉を探すほど。尖椒雞は唐辛子と鶏肉が同程度の比率"
+      },
+      {
+        "id": "gong-bao-ji-ding",
+        "name": "宮保鶏丁",
+        "difference": "鶏肉とピーナッツ・唐辛子の四川炒め。尖椒雞はナッツを使わず尖椒の量が主体"
+      },
+      {
+        "id": "qing-jiao-rou-si",
+        "name": "青椒肉絲",
+        "difference": "ピーマンと豚肉細切りの炒め物。尖椒雞は鶏肉と尖った青唐辛子を使う"
+      }
+    ],
+    "relatedIds": [
+      "lazi-ji",
+      "gong-bao-ji-ding",
+      "qing-jiao-rou-si"
+    ],
+    "source": [
+      "https://m.xiachufang.com/recipe/104042890/"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "鶏肉",
+      "炒め物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "辛い唐辛子が苦手",
+      "花椒の痺れが苦手",
+      "あっさりした料理が好き",
+      "骨付き肉が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/jian-jiao-ji/1.jpg",
+      "/images/dishes/jian-jiao-ji/2.jpg"
+    ]
   }
 ]
