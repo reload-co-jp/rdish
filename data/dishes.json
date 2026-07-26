@@ -103183,5 +103183,2850 @@
       "/images/dishes/natto/2.jpg",
       "/images/dishes/natto/3.jpg"
     ]
+  },
+  {
+    "id": "rat-meat",
+    "name": "老鼠肉",
+    "kana": "ねずみにく",
+    "aliases": [
+      "ネズミ肉",
+      "鼠肉",
+      "ラットミート"
+    ],
+    "englishName": "Rat meat",
+    "originalName": "Thịt chuột",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "ベトナム"
+      },
+      {
+        "country": "中国"
+      },
+      {
+        "area": "アフリカ"
+      }
+    ],
+    "summary": "田んぼや野山に生息するネズミを食用にした肉。ベトナム・メコンデルタや中国南部、アフリカ各地などで郷土食として食べられている。",
+    "menuDescription": "香草やスパイスとともに炙り焼きにした、素朴で滋味深い田舎料理です。",
+    "whatComesOut": [
+      "土鍋や串で炙り焼きにしたネズミの丸焼き",
+      "ニンニク・レモングラス・唐辛子・魚醤で下味をつけたもの",
+      "仕上げに蜂蜜を塗った照りのある焼き色",
+      "香草やきゅうり、バナナの花の付け合わせ",
+      "塩味の効いたたれ"
+    ],
+    "tasteAndTexture": [
+      "皮はパリッと香ばしい",
+      "身は柔らかくジューシー",
+      "豚皮に似た風味",
+      "野性味のある独特のコク"
+    ],
+    "orderAdvice": "衛生管理が確かな専門店・屋台で食べるのが前提。ジビエ的な野性味を楽しめる人向けで、抵抗がある人は無理に挑戦しなくてよい。",
+    "caution": "野生個体は衛生・感染症リスクがあるため、信頼できる調理元でのみ食べること。",
+    "similarItems": [
+      {
+        "id": "gibier",
+        "name": "ジビエ",
+        "difference": "ジビエは鹿・猪等の野生鳥獣肉全般を指すのに対し、老鼠肉は齧歯類に限定される郷土食"
+      },
+      {
+        "name": "モルモット(クイ)料理",
+        "difference": "南米ペルーの齧歯類料理。老鼠肉より脂が少なく上品な味わい"
+      }
+    ],
+    "relatedIds": [
+      "gibier"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "主菜",
+      "ジビエ",
+      "炭火焼き",
+      "香ばしい",
+      "ジューシー",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "和牛ステーキ",
+      "鶏の唐揚げ",
+      "エビ料理",
+      "馴染みある家庭料理"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E9%BC%A0%E9%A3%9F%E6%96%87%E5%8C%96",
+      "https://vietnamnet.vn/en/field-rats-from-the-mekong-delta-a-rustic-dish-with-a-cult-following-2328186.html"
+    ],
+    "images": [
+      "/images/dishes/rat-meat/1.jpg",
+      "/images/dishes/rat-meat/2.jpg",
+      "/images/dishes/rat-meat/3.jpg"
+    ]
+  },
+  {
+    "id": "dog-meat",
+    "name": "狗肉",
+    "kana": "くにく",
+    "aliases": [
+      "犬肉",
+      "いぬにく",
+      "ドッグミート"
+    ],
+    "englishName": "Dog meat",
+    "originalName": "狗肉 (Gǒuròu)",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "country": "韓国"
+      },
+      {
+        "country": "ベトナム"
+      }
+    ],
+    "summary": "中国広東・広西や韓国、ベトナムなど東アジア・東南アジアの一部で古くから食されてきた犬の肉。煮込みや鍋料理として調理されることが多い。",
+    "menuDescription": "香辛料でじっくり煮込んだ、体を温める滋養料理です。",
+    "whatComesOut": [
+      "醤油やスパイスで煮込んだ犬肉のぶつ切り",
+      "茹でて薄切りにした白切りスタイルの盛り合わせ",
+      "犬肉鍋(火鍋)仕立て",
+      "ニンニク・生姜・唐辛子で臭み消しした一皿"
+    ],
+    "tasteAndTexture": [
+      "高タンパクで肉質は締まっている",
+      "独特の獣臭があり香辛料でカバーされることが多い",
+      "煮込むと柔らかくホロホロした食感",
+      "脂身は少なめであっさり"
+    ],
+    "orderAdvice": "中国南部・韓国・ベトナムで長い歴史を持つ郷土食だが、動物愛護の観点から近年は禁止・自粛の流れが強い。文化的背景を理解した上で、提供地域の地元ルールに従うこと。",
+    "caution": "韓国では2024年に食用目的の犬の飼育・繁殖・流通を禁じる法律が成立(3年間の猶予期間あり)。動物愛護の観点から抵抗があれば無理に注文しない。",
+    "similarItems": [
+      {
+        "id": "hong-men-gou-rou",
+        "name": "紅燜狗肉",
+        "difference": "醤油ベースの具体的な煮込み調理法。狗肉は食材そのものを指す総称"
+      },
+      {
+        "id": "bai-zhan-gou-rou",
+        "name": "白斬狗肉",
+        "difference": "茹でて薄切りにする調理法。狗肉は食材の総称"
+      },
+      {
+        "id": "gibier",
+        "name": "ジビエ",
+        "difference": "ジビエは野生鳥獣肉全般を指す。狗肉は家畜化された犬の肉に限定"
+      }
+    ],
+    "relatedIds": [
+      "hong-men-gou-rou",
+      "bai-zhan-gou-rou"
+    ],
+    "tags": [
+      "中国料理",
+      "韓国料理",
+      "肉",
+      "煮込み",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "鶏肉料理",
+      "牛肉料理",
+      "馴染みある家庭料理",
+      "ペットへの愛着が強い人"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E7%8A%AC%E9%A3%9F%E6%96%87%E5%8C%96",
+      "https://toyokeizai.net/articles/-/728141?display=b"
+    ],
+    "images": [
+      "/images/dishes/dog-meat/1.jpg",
+      "/images/dishes/dog-meat/2.jpg",
+      "/images/dishes/dog-meat/3.jpg"
+    ]
+  },
+  {
+    "id": "catfish",
+    "name": "ナマズ",
+    "kana": "なまず",
+    "aliases": [
+      "鯰",
+      "鲶鱼",
+      "キャットフィッシュ"
+    ],
+    "englishName": "Catfish",
+    "originalName": "鲶鱼 (Niányú)",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "country": "日本"
+      },
+      {
+        "area": "東南アジア"
+      }
+    ],
+    "summary": "ヒゲが特徴の淡水魚。中国では山東・四川など各地で食材とされ、日本でも天ぷらや蒲焼などで食べられる。",
+    "menuDescription": "淡白な白身に脂が乗った、揚げ物や煮込みに適した川魚料理です。",
+    "whatComesOut": [
+      "唐揚げにしたナマズの切り身",
+      "甘辛く煮付けたもの",
+      "四川風唐辛子煮込み(水煮魚)",
+      "蒲焼・ムニエル仕立て"
+    ],
+    "tasteAndTexture": [
+      "白身で脂の乗った上品な味わい",
+      "皮目はパリッと香ばしい",
+      "身はふっくら柔らかい",
+      "淡水魚特有の土っぽさが微かに残ることも"
+    ],
+    "orderAdvice": "白身魚全般が好きなら食べやすい。淡水魚の匂いが気になるなら、香辛料を効かせた四川風の煮込み(水煮魚等)で食べるのがおすすめ。",
+    "similarItems": [
+      {
+        "id": "shui-zhu-yu",
+        "name": "水煮魚",
+        "difference": "水煮魚は唐辛子で魚を煮込む料理名。ナマズはその食材候補の一つ"
+      },
+      {
+        "id": "suan-cai-yu",
+        "name": "酸菜魚",
+        "difference": "酸菜魚は漬物と魚を煮込む料理名。ナマズはその食材候補の一つ"
+      },
+      {
+        "name": "鰻",
+        "difference": "鰻は皮に脂が多く濃厚。ナマズはより淡白"
+      }
+    ],
+    "relatedIds": [
+      "shui-zhu-yu",
+      "suan-cai-yu"
+    ],
+    "tags": [
+      "中国料理",
+      "魚介",
+      "揚げ物",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "海水魚が好き",
+      "淡水魚の匂いが苦手",
+      "骨が多い魚は苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%9E%E3%82%BA%E6%96%99%E7%90%86",
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/catfish/1.png",
+      "/images/dishes/catfish/2.jpg",
+      "/images/dishes/catfish/3.jpg"
+    ]
+  },
+  {
+    "id": "silver-carp",
+    "name": "ハクレン",
+    "kana": "はくれん",
+    "aliases": [
+      "鰱",
+      "鲢鱼",
+      "シルバーカープ"
+    ],
+    "englishName": "Silver carp",
+    "originalName": "鲢鱼 (Liányú)",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "中国の「四大家魚」の一つに数えられる淡水魚。頭が大きく身は淡白で小骨が多いが、蒸し物やスープ、四川の唐辛子煮込みなど幅広く使われる。",
+    "menuDescription": "頭の旨みを活かした蒸し料理やスープ、ピリ辛煮込みでいただく川魚料理です。",
+    "whatComesOut": [
+      "姿蒸しにした魚",
+      "頭だけを土鍋で煮込んだ一皿",
+      "生姜の効いた頭のスープ",
+      "四川風唐辛子煮込み(水煮魚・酸菜魚)"
+    ],
+    "tasteAndTexture": [
+      "身は淡白であっさり",
+      "頭の部分は特に旨みが濃い",
+      "小骨が多く食べにくい",
+      "唐辛子煮込みではピリ辛でコクのある味わいに"
+    ],
+    "orderAdvice": "淡白な白身魚が好きで骨を気にしないなら楽しめる。頭料理が名物なので勧められたら試す価値あり。",
+    "caution": "小骨が多いため、食べる際は注意が必要。",
+    "similarItems": [
+      {
+        "id": "shui-zhu-yu",
+        "name": "水煮魚",
+        "difference": "水煮魚は唐辛子で煮込む料理名。ハクレンはその食材候補の一つ"
+      },
+      {
+        "id": "suan-cai-yu",
+        "name": "酸菜魚",
+        "difference": "酸菜魚は漬物と魚の鍋料理。ハクレンはその食材候補の一つ"
+      },
+      {
+        "name": "コクレン",
+        "difference": "同じ四大家魚の近縁種。コクレンの方が味が良いとされる"
+      }
+    ],
+    "relatedIds": [
+      "shui-zhu-yu",
+      "suan-cai-yu"
+    ],
+    "tags": [
+      "中国料理",
+      "魚介",
+      "蒸し料理",
+      "煮込み",
+      "あっさり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "骨のない魚が好き",
+      "濃厚な味の魚が好き",
+      "淡水魚の匂いが苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%AF%E3%83%AC%E3%83%B3",
+      "https://osakana.suisankai.or.jp/s-other/11085"
+    ],
+    "images": [
+      "/images/dishes/silver-carp/1.jpg"
+    ]
+  },
+  {
+    "id": "bighead-carp",
+    "name": "コクレン",
+    "kana": "こくれん",
+    "aliases": [
+      "花鰱",
+      "鳙魚",
+      "胖頭魚",
+      "黒鰱"
+    ],
+    "englishName": "Bighead carp",
+    "originalName": "鳙鱼 (Yōngyú)",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "中国の「四大家魚」の一つ。頭部が大きく脂がのっているのが特徴で、頭料理に特に珍重される淡水魚。",
+    "menuDescription": "大きな頭の旨みを活かした鍋・スープ料理でいただく淡水魚です。",
+    "whatComesOut": [
+      "頭を丸ごと使った砂鍋魚頭(土鍋煮込み)",
+      "姿蒸しにした身",
+      "頭部だけのスープ仕立て",
+      "唐辛子ベースの煮込み料理"
+    ],
+    "tasteAndTexture": [
+      "頭部はゼラチン質でコクがある",
+      "身は淡白であっさり",
+      "皮周りはとろりとした食感",
+      "臭みは少なくクセが少ない"
+    ],
+    "orderAdvice": "頭料理が名物なので、勧められたら頭のスープや土鍋料理を試す価値あり。骨が多いので食べる際は注意。",
+    "similarItems": [
+      {
+        "id": "silver-carp",
+        "name": "ハクレン",
+        "difference": "ハクレン(白鰱)は身を中心に食べるのに対し、コクレン(鳙魚)は頭が最も珍重される"
+      },
+      {
+        "id": "grass-carp",
+        "name": "ソウギョ",
+        "difference": "ソウギョは身が締まり脂は少なめ。コクレンは頭部に脂とコクがある"
+      }
+    ],
+    "relatedIds": [
+      "silver-carp",
+      "grass-carp"
+    ],
+    "tags": [
+      "中国料理",
+      "魚介",
+      "蒸し料理",
+      "煮込み",
+      "あっさり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "骨のない魚が好き",
+      "海水魚が好き",
+      "淡水魚特有の風味が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "source": [
+      "https://baike.baidu.com/item/%E9%B3%99/679975",
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/bighead-carp/1.jpg"
+    ]
+  },
+  {
+    "id": "grass-carp",
+    "name": "ソウギョ",
+    "kana": "そうぎょ",
+    "aliases": [
+      "草魚",
+      "グラスカープ"
+    ],
+    "englishName": "Grass carp",
+    "originalName": "草鱼 (Cǎoyú)",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "中国の「四大家魚」の一つで、草を主食とする淡水魚。身が締まり、豆瓣魚や西湖醋魚など幅広い料理に使われる。",
+    "menuDescription": "締まった白身が特徴の川魚で、甘酢や豆板醤ソースなどと相性の良い一品です。",
+    "whatComesOut": [
+      "唐辛子・豆板醤で煮込んだ切り身(豆瓣魚)",
+      "甘酢あんをかけた姿煮(西湖醋魚風)",
+      "揚げてから煮た切り身",
+      "薄切りにした刺身風の一皿"
+    ],
+    "tasteAndTexture": [
+      "身は締まってプリッとした食感",
+      "脂は少なめであっさり",
+      "淡水魚らしい淡白な旨み",
+      "甘酢ソースでは酸味と甘みが際立つ"
+    ],
+    "orderAdvice": "淡白な白身魚が好きなら食べやすい。豆板醤煮込みなど濃い味付けの料理で提供されることが多く、初めてでも挑戦しやすい。",
+    "similarItems": [
+      {
+        "id": "carp",
+        "name": "コイ",
+        "difference": "コイより身の脂が少なく、淡白であっさりした味わい"
+      },
+      {
+        "id": "crucian-carp",
+        "name": "フナ",
+        "difference": "フナより大型でしっかりした身質"
+      }
+    ],
+    "relatedIds": [
+      "carp",
+      "crucian-carp",
+      "bighead-carp"
+    ],
+    "tags": [
+      "中国料理",
+      "魚介",
+      "煮込み",
+      "揚げ物",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "脂の乗った魚が好き",
+      "海水魚が好き",
+      "淡水魚特有の風味が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "source": [
+      "https://en.wikipedia.org/wiki/West_Lake_Fish_in_Vinegar_Gravy",
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/grass-carp/1.jpg",
+      "/images/dishes/grass-carp/2.jpg",
+      "/images/dishes/grass-carp/3.jpg"
+    ]
+  },
+  {
+    "id": "crucian-carp",
+    "name": "フナ",
+    "kana": "ふな",
+    "aliases": [
+      "鯽魚",
+      "クルーシアンカープ"
+    ],
+    "englishName": "Crucian carp",
+    "originalName": "鲫鱼 (Jìyú)",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "中国各地で親しまれる小型の淡水魚。骨は多いが出汁が濃く、スープや煮込みに広く使われる。",
+    "menuDescription": "出汁の濃い小ぶりな川魚で、スープや煮込みで滋味深い味わいが楽しめます。",
+    "whatComesOut": [
+      "乳白色に煮出した白湯スープ",
+      "醤油ベースの黄燜(ホワンメン)煮込み",
+      "藿香(スパイス)を効かせた蒸し・煮込み",
+      "唐揚げにした一皿"
+    ],
+    "tasteAndTexture": [
+      "出汁が濃厚で滋味深い",
+      "身は柔らかくほろほろ",
+      "小骨が多く食べにくい",
+      "スープは白濁しコクがある"
+    ],
+    "orderAdvice": "出汁の旨みを楽しみたいならスープ仕立てがおすすめ。小骨が多いため、骨を気にする場合は身をほぐして食べる必要がある。",
+    "caution": "小骨が非常に多いため、食べる際は注意が必要。",
+    "similarItems": [
+      {
+        "id": "carp",
+        "name": "コイ",
+        "difference": "コイより小型で骨が多いが出汁の旨みは濃い"
+      },
+      {
+        "id": "silver-carp",
+        "name": "ハクレン",
+        "difference": "ハクレンより身が締まり小骨が目立つ"
+      }
+    ],
+    "relatedIds": [
+      "carp",
+      "grass-carp"
+    ],
+    "tags": [
+      "中国料理",
+      "魚介",
+      "スープ",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "骨のない魚が好き",
+      "大ぶりな切り身が好き",
+      "手間なく食べたい"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://en.wikipedia.org/wiki/Crucian_carp",
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/crucian-carp/1.jpg",
+      "/images/dishes/crucian-carp/2.jpg",
+      "/images/dishes/crucian-carp/3.jpg"
+    ]
+  },
+  {
+    "id": "rice-eel",
+    "name": "タウナギ",
+    "kana": "たうなぎ",
+    "aliases": [
+      "鱔魚",
+      "黄鱔"
+    ],
+    "englishName": "Rice eel",
+    "originalName": "黄鳝 (Huángshàn)",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "水田や泥地に生息する蛇形の淡水魚。鱗がなくぬめりがあり、中国各地で炒め物・煮込みなど多彩に調理される。",
+    "menuDescription": "コリコリした独特の歯ごたえが持ち味の川魚で、細切り・輪切りなど様々な形で調理される一品です。",
+    "whatComesOut": [
+      "醤油で煮込んだ輪切り(紅焼鱔段)",
+      "油でパリッと揚げ焼きにした細切り(干煸鱔絲)",
+      "強火で手早く炒めた薄切り(爆炒鱔片)",
+      "とぐろ状に丸めて揚げ煮にした一匹料理(盤龍黄鱔)"
+    ],
+    "tasteAndTexture": [
+      "コリコリ・プリプリとした強い歯ごたえ",
+      "身は締まって弾力がある",
+      "臭みがあるためニンニクや香辛料で強めに味付けされることが多い",
+      "揚げ調理では表面がパリッと香ばしい"
+    ],
+    "orderAdvice": "独特の見た目と食感が特徴。コリコリした歯ごたえや川魚特有の風味が苦手でなければ、炒め物から試すのがおすすめ。",
+    "similarItems": [
+      {
+        "name": "ウナギ",
+        "difference": "ウナギは脂が多く柔らか。タウナギは鱗がなく身が細くコリコリした食感"
+      },
+      {
+        "id": "loach",
+        "name": "ドジョウ",
+        "difference": "ドジョウより体長が長く、輪切り・細切りなど切り方の種類が多い"
+      }
+    ],
+    "relatedIds": [
+      "loach"
+    ],
+    "tags": [
+      "中国料理",
+      "魚介",
+      "炒め物",
+      "揚げ物",
+      "煮込み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "見た目が苦手",
+      "淡白な味が好き",
+      "骨のない切り身魚が好き"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "source": [
+      "https://zh.wikipedia.org/zh-hk/%E9%BB%83%E9%B1%94",
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/rice-eel/1.jpg",
+      "/images/dishes/rice-eel/2.jpg",
+      "/images/dishes/rice-eel/3.jpg"
+    ]
+  },
+  {
+    "id": "carp",
+    "name": "コイ",
+    "kana": "こい",
+    "aliases": [
+      "鯉魚",
+      "カープ"
+    ],
+    "englishName": "Common carp",
+    "originalName": "鲤鱼 (Lǐyú)",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "中国で古くから食用にされてきた淡水魚。紅焼(醤油煮込み)や糖醋(甘酢)仕立てなど、多彩な調理法で親しまれる。",
+    "menuDescription": "身が締まった川魚で、醤油煮込みや甘酢あんかけなど味の濃い調理法でいただく一品です。",
+    "whatComesOut": [
+      "醤油で短時間煮込んだ切り身(紅焼)",
+      "甘酢あんをかけた姿煮",
+      "姿を丸ごと使った煮込み料理",
+      "唐揚げにした切り身"
+    ],
+    "tasteAndTexture": [
+      "身はしっかりして弾力がある",
+      "淡水魚特有の風味がやや残る",
+      "紅焼では醤油の香ばしさが際立つ",
+      "甘酢では酸味と甘みのバランスが良い"
+    ],
+    "orderAdvice": "白身魚全般が好きなら食べやすい。淡水魚特有の風味が気になる場合は、味付けの濃い紅焼や甘酢仕立てを選ぶとよい。",
+    "similarItems": [
+      {
+        "id": "grass-carp",
+        "name": "ソウギョ",
+        "difference": "ソウギョより脂がやや多く、淡水魚特有の風味がやや強い"
+      },
+      {
+        "id": "crucian-carp",
+        "name": "フナ",
+        "difference": "フナより大型で身が多く、骨が少ない"
+      }
+    ],
+    "relatedIds": [
+      "grass-carp",
+      "crucian-carp"
+    ],
+    "tags": [
+      "中国料理",
+      "魚介",
+      "煮込み",
+      "揚げ物",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "海水魚が好き",
+      "淡水魚特有の風味が苦手",
+      "骨の少ない魚が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A4",
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/carp/1.jpg",
+      "/images/dishes/carp/2.jpg",
+      "/images/dishes/carp/3.png"
+    ]
+  },
+  {
+    "id": "loach",
+    "name": "ドジョウ",
+    "kana": "どじょう",
+    "aliases": [
+      "泥鰍",
+      "ローチ"
+    ],
+    "englishName": "Loach",
+    "originalName": "泥鳅 (Níqiu)",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "泥底に生息する小さな淡水魚。ふわふわとした柔らかい食感が特徴で、薬膳食材としても人気がある。",
+    "menuDescription": "小ぶりで柔らかい食感の川魚で、揚げ物・炒め物・鍋など様々な調理でいただけます。",
+    "whatComesOut": [
+      "唐揚げにした一皿(香炸泥鰍)",
+      "強火で炒めた一皿(爆炒泥鰍)",
+      "山椒塩をまぶした揚げ物(椒塩泥鰍)",
+      "唐辛子スープで煮込んだもの(水煮泥鰍)"
+    ],
+    "tasteAndTexture": [
+      "ふわふわ・プルプルとした柔らかい食感",
+      "小ぶりで骨まで食べやすい",
+      "揚げるとカリッと香ばしい",
+      "泥臭さが残ることがあり香辛料でカバーされる"
+    ],
+    "orderAdvice": "小魚の唐揚げが好きなら食べやすい。泥臭さが気になる場合は、山椒塩や唐辛子で強めに味付けされたものを選ぶとよい。",
+    "similarItems": [
+      {
+        "id": "rice-eel",
+        "name": "タウナギ",
+        "difference": "タウナギより小型で柔らかく、丸ごと食べられる"
+      },
+      {
+        "id": "yellow-catfish",
+        "name": "コウライギギ",
+        "difference": "コウライギギよりさらに小ぶりで骨が柔らかい"
+      }
+    ],
+    "relatedIds": [
+      "rice-eel",
+      "yellow-catfish"
+    ],
+    "tags": [
+      "中国料理",
+      "魚介",
+      "揚げ物",
+      "炒め物",
+      "香ばしい",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "大ぶりな切り身魚が好き",
+      "泥臭さが苦手",
+      "海水魚が好き"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "source": [
+      "https://en.wikipedia.org/wiki/Chinese_loach",
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/loach/1.jpg",
+      "/images/dishes/loach/2.jpg",
+      "/images/dishes/loach/3.jpg"
+    ]
+  },
+  {
+    "id": "yellow-catfish",
+    "name": "コウライギギ",
+    "kana": "こうらいぎぎ",
+    "aliases": [
+      "黄辣丁",
+      "黄颡魚",
+      "黄骨魚",
+      "昂刺魚"
+    ],
+    "englishName": "Yellow catfish",
+    "originalName": "黄颡鱼 / 黄辣丁 (Huánglàdīng)",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "背びれに軽い毒を持つ小型の淡水ナマズ。骨が少なく身が柔らかいため、四川・重慶の火鍋や麻辣料理に欠かせない食材。",
+    "menuDescription": "小骨が少なく身の柔らかい川魚で、辛味スープや火鍋でいただく一品です。",
+    "whatComesOut": [
+      "麻辣スープでくぐらせる火鍋仕立て",
+      "泡辛子(漬け唐辛子)で煮込んだもの(泡椒黄辣丁)",
+      "唐辛子と山椒を効かせた麻辣煮込み",
+      "唐辛子出汁で煮た水煮仕立て"
+    ],
+    "tasteAndTexture": [
+      "身は柔らかくプリプリしている",
+      "小骨が少なく食べやすい",
+      "麻辣仕立てではピリ辛でコクのある味わい",
+      "泡椒仕立てでは酸味と辛味が効いている"
+    ],
+    "orderAdvice": "小骨が少なく食べやすいため川魚初心者にもおすすめ。辛いものが平気なら麻辣・火鍋仕立てが定番。",
+    "caution": "背びれ・胸びれの棘に軽い毒があるため、調理前の魚を素手で触らないこと(調理後の身には問題ない)。",
+    "similarItems": [
+      {
+        "id": "catfish",
+        "name": "ナマズ",
+        "difference": "ナマズより小型で骨が少なく、火鍋の具材として使われることが多い"
+      },
+      {
+        "id": "loach",
+        "name": "ドジョウ",
+        "difference": "ドジョウより身が大きくしっかりしている"
+      }
+    ],
+    "relatedIds": [
+      "catfish",
+      "loach"
+    ],
+    "tags": [
+      "四川料理",
+      "魚介",
+      "煮込み",
+      "ピリ辛",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "骨の多い魚が苦手",
+      "あっさりした魚料理が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "source": [
+      "https://zh.wikipedia.org/zh-cn/%E9%BB%83%E9%A1%99%E9%AD%9A",
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/yellow-catfish/1.jpg",
+      "/images/dishes/yellow-catfish/2.jpg",
+      "/images/dishes/yellow-catfish/3.jpg"
+    ]
+  },
+  {
+    "id": "snakehead-fish",
+    "name": "カムルチー",
+    "kana": "かむるちー",
+    "aliases": [
+      "烏魚",
+      "烏鱧",
+      "黒魚",
+      "生魚",
+      "スネークヘッド"
+    ],
+    "englishName": "Northern snakehead",
+    "originalName": "乌鳢 / 黑鱼 (Wūlǐ / Hēiyú)",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "細長い体と獰猛な性質を持つ淡水魚。骨が少なく身が厚いため、酸味のあるスープや炒め物など幅広く使われる。",
+    "menuDescription": "骨の少ない厚い身が特徴の川魚で、酸味の効いたスープや醤油煮込みでいただく一品です。",
+    "whatComesOut": [
+      "酸味のあるスープ仕立て(酸湯烏魚)",
+      "醤油でこっくり煮込んだ切り身(紅焼烏魚)",
+      "片栗粉でとろみをつけた炒め物(溜烏魚片)",
+      "唐辛子と山椒を効かせた薄切り炒め(麻辣烏魚片)"
+    ],
+    "tasteAndTexture": [
+      "身は厚く弾力がある",
+      "骨が少なく食べやすい",
+      "淡白な白身で酸味・辛味のソースと相性が良い",
+      "薄切りにするとつるりとした食感"
+    ],
+    "orderAdvice": "骨が少なく食べやすいため川魚の中でも初心者向き。酸味の効いたスープや麻辣仕立てで様々な味を楽しめる。",
+    "similarItems": [
+      {
+        "id": "catfish",
+        "name": "ナマズ",
+        "difference": "ナマズより身が厚く骨が少ない"
+      },
+      {
+        "id": "carp",
+        "name": "コイ",
+        "difference": "コイより淡白でクセが少ない"
+      }
+    ],
+    "relatedIds": [
+      "catfish",
+      "carp"
+    ],
+    "tags": [
+      "中国料理",
+      "魚介",
+      "煮込み",
+      "炒め物",
+      "酸味",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "脂の乗った魚が好き",
+      "海水魚が好き",
+      "骨付き魚が好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "source": [
+      "https://zhuanlan.zhihu.com/p/484832431",
+      "https://zh.wikipedia.org/zh-tw/%E7%83%8F%E9%B1%A7"
+    ],
+    "images": [
+      "/images/dishes/snakehead-fish/1.png",
+      "/images/dishes/snakehead-fish/2.jpg",
+      "/images/dishes/snakehead-fish/3.jpg"
+    ]
+  },
+  {
+    "id": "ma-la-kao-yu",
+    "name": "麻辣烤魚",
+    "kana": "まーらーかおゆー",
+    "aliases": [
+      "麻辣烤魚",
+      "四川烤魚"
+    ],
+    "englishName": "Spicy grilled fish",
+    "originalName": "麻辣烤鱼 (Málà kǎoyú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "魚を高温で素焼きにした後、唐辛子・花椒・野菜と共に煮込む四川発祥の鍋料理。外は香ばしく、身はスープをたっぷり吸って濃厚な味わいになる。",
+    "menuDescription": "香ばしく焼き上げた魚を麻辣スープでさらに煮込む、鍋仕立てのピリ辛料理です。",
+    "whatComesOut": [
+      "素焼きにした魚一尾",
+      "唐辛子・花椒を効かせた赤いスープ",
+      "じゃがいも・もやし・エノキ等の野菜",
+      "食べながら追加できる薬味皿",
+      "卓上コンロで温め続ける鍋仕立て"
+    ],
+    "tasteAndTexture": [
+      "外は香ばしく中はふっくら",
+      "痺れる辛さ(麻辣)が強い",
+      "スープを吸った具材は旨みが濃厚",
+      "食べ進めるほど味が染みる"
+    ],
+    "orderAdvice": "辛いもの・痺れる味付けが好きなら満足度が高い一品。大人数でシェアしやすく、鍋料理感覚で楽しめる。",
+    "caution": "花椒による痺れと唐辛子の辛さが強いため、辛味に弱い場合は辛さ調整を相談するとよい。",
+    "similarItems": [
+      {
+        "id": "shui-zhu-yu",
+        "name": "水煮魚",
+        "difference": "水煮魚は焼かずに油とスープで煮る料理。麻辣烤魚は素焼き後に煮込む二段階調理"
+      },
+      {
+        "id": "suan-cai-yu",
+        "name": "酸菜魚",
+        "difference": "酸菜魚は酸味の効いた漬物スープ。麻辣烤魚は麻辣ベースで酸味は控えめ"
+      }
+    ],
+    "relatedIds": [
+      "shui-zhu-yu",
+      "suan-cai-yu",
+      "catfish"
+    ],
+    "tags": [
+      "四川料理",
+      "主菜",
+      "魚介",
+      "グリル",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "あっさりした魚料理が好き",
+      "痺れる味が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 4,
+    "source": [
+      "https://icook.tw/recipes/386308",
+      "https://80c.jp/restaurant/20220420-1.html"
+    ],
+    "images": [
+      "/images/dishes/ma-la-kao-yu/1.jpg",
+      "/images/dishes/ma-la-kao-yu/2.jpg",
+      "/images/dishes/ma-la-kao-yu/3.jpg"
+    ]
+  },
+  {
+    "id": "da-suan-nian-yu",
+    "name": "大蒜鯰魚",
+    "kana": "だーすわんにえんゆー",
+    "aliases": [
+      "大蒜鯰魚"
+    ],
+    "englishName": "Catfish with garlic",
+    "originalName": "大蒜鲶鱼 (Dàsuàn niányú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "ナマズを大量のニンニクと共に煮込んだ四川料理。ニンニクの香ばしさが淡水魚特有の匂いを消し、こってりとした味に仕上がる。",
+    "menuDescription": "たっぷりのニンニクで煮込んだナマズ料理で、香ばしくご飯が進む一品です。",
+    "whatComesOut": [
+      "ぶつ切りにしたナマズの煮込み",
+      "丸ごと素揚げしたニンニク",
+      "醤油ベースの濃いとろみソース",
+      "香菜を散らした仕上げ"
+    ],
+    "tasteAndTexture": [
+      "ニンニクの香ばしさが強い",
+      "身はふっくら柔らかい",
+      "こってりとした濃い味付け",
+      "淡水魚特有の匂いは控えめ"
+    ],
+    "orderAdvice": "ニンニク料理が好きでご飯と一緒に食べたいときにおすすめ。翌日ににおいが残りやすい点は留意。",
+    "similarItems": [
+      {
+        "id": "hong-shao-nian-yu",
+        "name": "紅焼鯰魚",
+        "difference": "紅焼鯰魚は醤油煮込み中心。大蒜鯰魚はニンニクの量と香りが主役"
+      },
+      {
+        "id": "gan-guo-nian-yu",
+        "name": "干鍋鯰魚",
+        "difference": "干鍋鯰魚は汁気が少ない炒め煮。大蒜鯰魚は汁気のある煮込み"
+      }
+    ],
+    "relatedIds": [
+      "catfish",
+      "hong-shao-nian-yu",
+      "gan-guo-nian-yu"
+    ],
+    "tags": [
+      "四川料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ニンニクが苦手",
+      "あっさりした魚料理が好き",
+      "匂いの強い料理が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/da-suan-nian-yu/1.jpg",
+      "/images/dishes/da-suan-nian-yu/2.jpg"
+    ]
+  },
+  {
+    "id": "gan-guo-nian-yu",
+    "name": "干鍋鯰魚",
+    "kana": "がんこーにえんゆー",
+    "aliases": [
+      "干鍋鯰魚"
+    ],
+    "englishName": "Dry pot catfish",
+    "originalName": "干锅鲶鱼 (Gānguō niányú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "ナマズと野菜を唐辛子・豆板醤で炒め煮にし、汁気を飛ばして鍋ごと提供する四川の「干鍋」料理。",
+    "menuDescription": "汁気を飛ばしてこってり炒め煮にしたナマズを、鍋ごと熱々で提供する一品です。",
+    "whatComesOut": [
+      "鉄鍋やホットプレートごと提供される炒め煮",
+      "ぶつ切りのナマズと野菜(セロリ・玉ねぎ等)",
+      "唐辛子・豆板醤の効いた濃いタレ",
+      "取り分け用の卓上コンロ"
+    ],
+    "tasteAndTexture": [
+      "汁気が少なく味が凝縮している",
+      "ピリ辛でこってりとした味わい",
+      "身はふっくら、野菜はシャキッと",
+      "冷めにくく最後まで熱々で食べられる"
+    ],
+    "orderAdvice": "汁だくの鍋より濃い味を好むならおすすめ。辛味と塩気が強いため白飯と合わせるとよい。",
+    "similarItems": [
+      {
+        "id": "gan-guo-yu",
+        "name": "干鍋魚",
+        "difference": "干鍋魚は魚種を問わない総称。干鍋鯰魚はナマズを使う具体的な一品"
+      },
+      {
+        "id": "hong-shao-nian-yu",
+        "name": "紅焼鯰魚",
+        "difference": "紅焼鯰魚は汁気のある醤油煮込み。干鍋鯰魚は汁気を飛ばした炒め煮"
+      }
+    ],
+    "relatedIds": [
+      "catfish",
+      "gan-guo-yu",
+      "hong-shao-nian-yu"
+    ],
+    "tags": [
+      "四川料理",
+      "主菜",
+      "魚介",
+      "炒め物",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "汁だくの鍋が好き",
+      "あっさりした魚料理が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/gan-guo-nian-yu/1.jpg"
+    ]
+  },
+  {
+    "id": "hong-shao-nian-yu",
+    "name": "紅焼鯰魚",
+    "kana": "ほんしゃおにえんゆー",
+    "aliases": [
+      "紅焼鯰魚"
+    ],
+    "englishName": "Braised catfish",
+    "originalName": "红烧鲶鱼 (Hóngshāo niányú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "ナマズを醤油・砂糖・生姜などで甘辛く煮込んだ、中国各地で親しまれる家庭料理。",
+    "menuDescription": "醤油ベースの甘辛いタレでじっくり煮込んだナマズ料理です。",
+    "whatComesOut": [
+      "ぶつ切りにしたナマズの醤油煮込み",
+      "とろみのついた甘辛いタレ",
+      "生姜・ねぎ・にんにくの薬味",
+      "ご飯にかけても合う一皿"
+    ],
+    "tasteAndTexture": [
+      "甘辛く濃い醤油味",
+      "身はふっくらと柔らかい",
+      "皮目はとろりとした食感",
+      "冷めても美味しい"
+    ],
+    "orderAdvice": "醤油ベースの甘辛い味付けは日本人にも馴染みやすく、川魚初心者にもおすすめ。",
+    "similarItems": [
+      {
+        "id": "da-suan-nian-yu",
+        "name": "大蒜鯰魚",
+        "difference": "大蒜鯰魚はニンニクが主役。紅焼鯰魚は醤油の甘辛さが主役"
+      },
+      {
+        "id": "gan-guo-nian-yu",
+        "name": "干鍋鯰魚",
+        "difference": "干鍋鯰魚は汁気を飛ばした辛めの炒め煮。紅焼鯰魚は汁気のある甘辛煮込み"
+      }
+    ],
+    "relatedIds": [
+      "catfish",
+      "da-suan-nian-yu",
+      "gan-guo-nian-yu"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "あっさりした魚料理が好き",
+      "辛いものが好き",
+      "薄味が好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/hong-shao-nian-yu/1.jpg",
+      "/images/dishes/hong-shao-nian-yu/2.jpg"
+    ]
+  },
+  {
+    "id": "gan-guo-yu",
+    "name": "干鍋魚",
+    "kana": "がんこーゆー",
+    "aliases": [
+      "干鍋魚"
+    ],
+    "englishName": "Dry pot fish",
+    "originalName": "干锅鱼 (Gānguō yú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "魚と野菜を唐辛子・豆板醤で炒め煮にし、汁気をほぼ飛ばして鍋のまま供する四川発祥の調理スタイルの総称。",
+    "menuDescription": "汁気を飛ばして濃厚に仕上げた、鍋ごと提供されるピリ辛の魚料理です。",
+    "whatComesOut": [
+      "鉄鍋やホットプレートごと提供される炒め煮",
+      "使用する魚(ナマズ・草魚等)のぶつ切り",
+      "セロリ・玉ねぎ・唐辛子などの野菜",
+      "卓上コンロで保温されたまま提供"
+    ],
+    "tasteAndTexture": [
+      "汁気が少なく味が濃縮している",
+      "ピリ辛でこってりとした味わい",
+      "香ばしい油の香り",
+      "野菜はシャキシャキとした食感"
+    ],
+    "orderAdvice": "使用する魚の種類は店によって異なるため、注文時に確認するとよい。辛い濃い味が好きな人向け。",
+    "similarItems": [
+      {
+        "id": "gan-guo-nian-yu",
+        "name": "干鍋鯰魚",
+        "difference": "干鍋鯰魚はナマズを使う具体的な一品。干鍋魚は魚種を問わない総称"
+      },
+      {
+        "id": "yu-huo-guo",
+        "name": "魚火鍋",
+        "difference": "魚火鍋は汁だくの鍋料理。干鍋魚は汁気を飛ばした炒め煮"
+      }
+    ],
+    "relatedIds": [
+      "gan-guo-nian-yu",
+      "yu-huo-guo"
+    ],
+    "tags": [
+      "四川料理",
+      "主菜",
+      "魚介",
+      "炒め物",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "汁だくの鍋が好き",
+      "あっさりした魚料理が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/gan-guo-yu/1.jpg"
+    ]
+  },
+  {
+    "id": "yu-huo-guo",
+    "name": "魚火鍋",
+    "kana": "ゆーふぉーぐお",
+    "aliases": [
+      "魚火鍋",
+      "魚鍋"
+    ],
+    "englishName": "Fish hot pot",
+    "originalName": "鱼火锅 (Yú huǒguō)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "唐辛子・花椒ベースのスープに魚を入れてしゃぶしゃぶ感覚で食べる、中国各地で人気の鍋料理の総称。",
+    "menuDescription": "麻辣スープで魚をしゃぶしゃぶする、卓上コンロ仕立ての鍋料理です。",
+    "whatComesOut": [
+      "唐辛子・花椒の効いた赤いスープ鍋",
+      "薄切りまたはぶつ切りにした魚",
+      "野菜・豆腐・きのこ等の具材",
+      "追加注文できる〆(麺・餅など)"
+    ],
+    "tasteAndTexture": [
+      "ピリ辛で痺れる味わい",
+      "煮込むほど魚の旨みがスープに溶け出す",
+      "野菜はシャキシャキ",
+      "〆まで楽しめる満足感"
+    ],
+    "orderAdvice": "大人数でシェアするのに向いた鍋料理。辛さのレベルを選べる店も多いので、辛いものが苦手なら控えめを頼むとよい。",
+    "similarItems": [
+      {
+        "id": "shui-zhu-yu",
+        "name": "水煮魚",
+        "difference": "水煮魚は一人前の煮込み料理。魚火鍋は卓上でしゃぶしゃぶする鍋料理"
+      },
+      {
+        "id": "huang-la-ding-huo-guo",
+        "name": "黄辣丁魚火鍋",
+        "difference": "黄辣丁魚火鍋はコウライギギ限定の魚火鍋の一種"
+      }
+    ],
+    "relatedIds": [
+      "shui-zhu-yu",
+      "huang-la-ding-huo-guo",
+      "gan-guo-yu"
+    ],
+    "tags": [
+      "四川料理",
+      "鍋料理",
+      "魚介",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "一人前の料理が好き",
+      "痺れる味が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/yu-huo-guo/1.jpg",
+      "/images/dishes/yu-huo-guo/2.jpg",
+      "/images/dishes/yu-huo-guo/3.jpg"
+    ]
+  },
+  {
+    "id": "dou-ban-yu",
+    "name": "豆瓣魚",
+    "kana": "どうばんゆー",
+    "aliases": [
+      "豆瓣魚"
+    ],
+    "englishName": "Fish in chili bean sauce",
+    "originalName": "豆瓣鱼 (Dòubàn yú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "揚げた魚を豆板醤ベースの濃い辛味ソースで煮込む四川料理の代表格。辛味と塩気、香ばしさが同時に楽しめる。",
+    "menuDescription": "豆板醤の辛味とコクを効かせたソースで仕上げる、四川の看板魚料理です。",
+    "whatComesOut": [
+      "揚げてから煮込んだ魚の姿煮または切り身",
+      "豆板醤ベースのとろみのある赤いソース",
+      "みじん切りの生姜・にんにく・ねぎ",
+      "白飯に合う濃い味付け"
+    ],
+    "tasteAndTexture": [
+      "辛味と塩気が強い",
+      "コクのある発酵豆板醤の風味",
+      "身はふっくら、皮目は香ばしい",
+      "ソースがご飯によく合う"
+    ],
+    "orderAdvice": "四川料理の定番魚料理で、辛味と塩気のバランスがよく食べやすい。辛いものが好きなら間違いのない一品。",
+    "similarItems": [
+      {
+        "id": "shui-zhu-yu",
+        "name": "水煮魚",
+        "difference": "水煮魚は唐辛子油の辛さが主体。豆瓣魚は豆板醤のコクと塩気が主体"
+      },
+      {
+        "id": "suan-cai-yu",
+        "name": "酸菜魚",
+        "difference": "酸菜魚は酸味が強い。豆瓣魚は酸味は控えめでコク重視"
+      }
+    ],
+    "relatedIds": [
+      "shui-zhu-yu",
+      "suan-cai-yu",
+      "grass-carp"
+    ],
+    "tags": [
+      "四川料理",
+      "主菜",
+      "魚介",
+      "揚げ物",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "あっさりした魚料理が好き",
+      "薄味が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "huang-men-ji-yu",
+    "name": "黄燜鯽魚",
+    "kana": "ほわんめんじーゆー",
+    "aliases": [
+      "黄燜鯽魚"
+    ],
+    "englishName": "Braised crucian carp",
+    "originalName": "黄焖鲫鱼 (Huángmèn jìyú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "フナを醤油と香辛料でじっくり煮込んだ家庭料理。骨まで柔らかく煮え、出汁の効いた濃い味わいになる。",
+    "menuDescription": "フナを醤油でじっくり煮込んだ、出汁の効いた家庭的な一皿です。",
+    "whatComesOut": [
+      "醤油煮込みにしたフナ(姿または切り身)",
+      "とろみのついた濃い煮汁",
+      "生姜・ねぎ・八角などの香辛料",
+      "ご飯に合う濃い味付け"
+    ],
+    "tasteAndTexture": [
+      "出汁が濃厚でコクがある",
+      "骨まで柔らかく煮えている",
+      "醤油の香ばしさが強い",
+      "身はほろほろと崩れる食感"
+    ],
+    "orderAdvice": "骨まで柔らかく煮込まれているため、フナ特有の小骨の多さが気にならない食べやすい調理法。",
+    "similarItems": [
+      {
+        "id": "huo-xiang-ji-yu",
+        "name": "藿香鯽魚",
+        "difference": "藿香鯽魚は香草を効かせた爽やかな風味。黄燜鯽魚は醤油のコク重視"
+      },
+      {
+        "id": "hong-shao-nian-yu",
+        "name": "紅焼鯰魚",
+        "difference": "紅焼鯰魚はナマズを使用。黄燜鯽魚はフナを長時間煮込む"
+      }
+    ],
+    "relatedIds": [
+      "crucian-carp",
+      "huo-xiang-ji-yu"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "あっさりした魚料理が好き",
+      "骨の多い魚が苦手",
+      "薄味が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "huo-xiang-ji-yu",
+    "name": "藿香鯽魚",
+    "kana": "ふぉしゃんじーゆー",
+    "aliases": [
+      "藿香鯽魚"
+    ],
+    "englishName": "Crucian carp with agastache",
+    "originalName": "藿香鲫鱼 (Huòxiāng jìyú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "フナをハーブの一種「藿香(パチョリに似た香草)」と共に揚げ煮にした湖北省を中心とする郷土料理。爽やかな香りが特徴。",
+    "menuDescription": "藿香という香草の爽やかな香りを効かせた、揚げ煮仕立てのフナ料理です。",
+    "whatComesOut": [
+      "揚げてから煮込んだフナ",
+      "藿香の葉を効かせた香り高いソース",
+      "生姜・唐辛子などの薬味",
+      "香草の香りが立つ仕上げ"
+    ],
+    "tasteAndTexture": [
+      "藿香特有の清涼感のある香り",
+      "身はふっくらと柔らかい",
+      "皮目は揚げてパリッと香ばしい",
+      "後味はすっきりとして重くない"
+    ],
+    "orderAdvice": "独特の香草の香りが特徴的なので、パクチーなど香草が好きなら楽しめる一品。",
+    "similarItems": [
+      {
+        "id": "huang-men-ji-yu",
+        "name": "黄燜鯽魚",
+        "difference": "黄燜鯽魚は醤油のコクが主体。藿香鯽魚は香草の爽やかな香りが主体"
+      }
+    ],
+    "relatedIds": [
+      "crucian-carp",
+      "huang-men-ji-yu"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "揚げ物",
+      "煮込み",
+      "ハーブ",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "香草が苦手",
+      "パクチーが苦手",
+      "シンプルな味付けが好き"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "hong-shao-shan-duan",
+    "name": "紅焼鱔段",
+    "kana": "ほんしゃおしゃんどぅあん",
+    "aliases": [
+      "紅焼鱔段"
+    ],
+    "englishName": "Braised eel segments",
+    "originalName": "红烧鳝段 (Hóngshāo shànduàn)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "タウナギをぶつ切りにして醤油ベースで甘辛く煮込んだ、中国各地で親しまれる定番料理。",
+    "menuDescription": "輪切りにしたタウナギを醤油でこっくり煮込んだ、ご飯が進む一品です。",
+    "whatComesOut": [
+      "輪切りにしたタウナギの醤油煮込み",
+      "とろみのついた甘辛いタレ",
+      "生姜・にんにく・ねぎの薬味",
+      "唐辛子を効かせた場合はピリ辛仕立て"
+    ],
+    "tasteAndTexture": [
+      "コリコリとした強い歯ごたえ",
+      "甘辛く濃い醤油味",
+      "身は締まって弾力がある",
+      "煮込むことで臭みが和らいでいる"
+    ],
+    "orderAdvice": "タウナギ特有の食感が特徴。コリコリした歯ごたえが好みなら試す価値がある。",
+    "similarItems": [
+      {
+        "id": "gan-bian-shan-si",
+        "name": "干煸鱔絲",
+        "difference": "干煸鱔絲は細切りにして揚げ焼きにする。紅焼鱔段は輪切りの醤油煮込み"
+      },
+      {
+        "id": "bao-chao-shan-pian",
+        "name": "爆炒鱔片",
+        "difference": "爆炒鱔片は薄切りを強火で手早く炒める。紅焼鱔段はじっくり煮込む"
+      }
+    ],
+    "relatedIds": [
+      "rice-eel",
+      "gan-bian-shan-si",
+      "bao-chao-shan-pian"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "見た目が苦手",
+      "あっさりした魚料理が好き",
+      "骨のない切り身魚が好き"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "gan-bian-shan-si",
+    "name": "干煸鱔絲",
+    "kana": "がんびえんしゃんすー",
+    "aliases": [
+      "干煸鱔絲"
+    ],
+    "englishName": "Dry-fried shredded eel",
+    "originalName": "干煸鳝丝 (Gānbiān shànsī)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "タウナギを細切りにし、水分を飛ばしながら香ばしく炒め揚げにする四川料理の「干煸」技法を用いた一品。",
+    "menuDescription": "細切りにしたタウナギを香ばしく揚げ炒めにした、パリッとした食感のピリ辛料理です。",
+    "whatComesOut": [
+      "細切りにして揚げ焼きにしたタウナギ",
+      "唐辛子・花椒を効かせた辛味",
+      "セロリやピーマンの細切り",
+      "香ばしい油の香りが立つ仕上げ"
+    ],
+    "tasteAndTexture": [
+      "表面はパリッと香ばしい",
+      "ピリ辛で痺れる味わい",
+      "コリコリとした歯ごたえが残る",
+      "水分が少なく凝縮した旨み"
+    ],
+    "orderAdvice": "干煸(水分を飛ばして炒める)技法特有の香ばしさが特徴。辛味とコリコリした食感が好きなら楽しめる。",
+    "similarItems": [
+      {
+        "id": "hong-shao-shan-duan",
+        "name": "紅焼鱔段",
+        "difference": "紅焼鱔段は輪切りの醤油煮込み。干煸鱔絲は細切りを揚げ炒めにする"
+      },
+      {
+        "id": "bao-chao-shan-pian",
+        "name": "爆炒鱔片",
+        "difference": "爆炒鱔片は薄切りをさっと強火炒め。干煸鱔絲はじっくり炒めて水分を飛ばす"
+      }
+    ],
+    "relatedIds": [
+      "rice-eel",
+      "hong-shao-shan-duan",
+      "bao-chao-shan-pian"
+    ],
+    "tags": [
+      "四川料理",
+      "主菜",
+      "魚介",
+      "炒め物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "見た目が苦手",
+      "汁気のある料理が好き",
+      "辛いものが苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "bao-chao-shan-pian",
+    "name": "爆炒鱔片",
+    "kana": "ばおちゃおしゃんぴえん",
+    "aliases": [
+      "爆炒鱔片"
+    ],
+    "englishName": "Stir-fried eel slices",
+    "originalName": "爆炒鳝片 (Bàochǎo shànpiàn)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "タウナギを薄切りにし、強火で手早く炒め合わせた一品。香ばしい焦げ目とコリコリした食感が特徴。",
+    "menuDescription": "強火で手早く炒め合わせた、香ばしいタウナギの炒め物です。",
+    "whatComesOut": [
+      "薄切りにしたタウナギの強火炒め",
+      "にんにく・生姜・唐辛子の香味",
+      "ピーマンや玉ねぎなどの野菜",
+      "とろみの少ない香ばしい炒め上がり"
+    ],
+    "tasteAndTexture": [
+      "香ばしい焦げ目の風味",
+      "コリコリとした強い歯ごたえ",
+      "ピリ辛でスパイシー",
+      "油との絡みが良くご飯に合う"
+    ],
+    "orderAdvice": "強火調理特有の香ばしさとコリコリ感が楽しめる。タウナギの食感に抵抗がなければおすすめ。",
+    "similarItems": [
+      {
+        "id": "hong-shao-shan-duan",
+        "name": "紅焼鱔段",
+        "difference": "紅焼鱔段はじっくり煮込む。爆炒鱔片は強火でさっと炒める"
+      },
+      {
+        "id": "gan-bian-shan-si",
+        "name": "干煸鱔絲",
+        "difference": "干煸鱔絲は細切りで水分を飛ばして揚げ炒め。爆炒鱔片は薄切りをさっと炒める"
+      }
+    ],
+    "relatedIds": [
+      "rice-eel",
+      "hong-shao-shan-duan",
+      "gan-bian-shan-si"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "炒め物",
+      "香ばしい",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "見た目が苦手",
+      "煮込み料理が好き",
+      "辛いものが苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/bao-chao-shan-pian/1.jpg"
+    ]
+  },
+  {
+    "id": "pan-long-huang-shan",
+    "name": "盤龍黄鱔",
+    "kana": "ぱんろんほわんしゃん",
+    "aliases": [
+      "盤龍黄鱔",
+      "香辣盤龍鱔"
+    ],
+    "englishName": "Coiled dragon eel",
+    "originalName": "盘龙黄鳝 (Pánlóng huángshàn)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "タウナギを一匹丸ごととぐろ状に丸めて揚げ煮にする見た目にも豪快な料理。外はパリッと中は柔らかく仕上がる。",
+    "menuDescription": "一匹丸ごととぐろ状に成形して揚げ煮にした、見た目も華やかなタウナギ料理です。",
+    "whatComesOut": [
+      "とぐろ状に丸めて揚げ煮にしたタウナギ一匹",
+      "唐辛子・にんにくを効かせた濃いタレ",
+      "香菜などの飾り",
+      "皿の中央に盛り付けられた豪快な一皿"
+    ],
+    "tasteAndTexture": [
+      "外側はパリッと香ばしい",
+      "中は柔らかくジューシー",
+      "ピリ辛で濃厚な味付け",
+      "コリコリとした食感も残る"
+    ],
+    "orderAdvice": "見た目のインパクトが強い一品。タウナギを丸ごと食べる料理のため、抵抗がなければ話のタネにもなる。",
+    "similarItems": [
+      {
+        "id": "hong-shao-shan-duan",
+        "name": "紅焼鱔段",
+        "difference": "紅焼鱔段は輪切りにして煮込む。盤龍黄鱔は一匹丸ごと成形して揚げ煮にする"
+      },
+      {
+        "id": "da-suan-shao-shan-yu",
+        "name": "大蒜焼鱔魚",
+        "difference": "大蒜焼鱔魚はニンニクが主役の煮込み。盤龍黄鱔は見た目の造形が特徴"
+      }
+    ],
+    "relatedIds": [
+      "rice-eel",
+      "hong-shao-shan-duan",
+      "da-suan-shao-shan-yu"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "揚げ物",
+      "煮込み",
+      "香ばしい",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "見た目が苦手",
+      "シンプルな盛り付けが好き",
+      "淡白な魚料理が好き"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "da-suan-shao-shan-yu",
+    "name": "大蒜焼鱔魚",
+    "kana": "だーすわんしゃおしゃんゆー",
+    "aliases": [
+      "大蒜焼鱔魚"
+    ],
+    "englishName": "Eel braised with garlic",
+    "originalName": "大蒜烧鳝鱼 (Dàsuàn shāo shànyú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "タウナギを大量のニンニクと共に醤油ベースで煮込んだ料理。ニンニクの香ばしさがタウナギの臭みを和らげる。",
+    "menuDescription": "たっぷりのニンニクで煮込んだタウナギ料理で、香ばしくご飯によく合う一品です。",
+    "whatComesOut": [
+      "ぶつ切りにしたタウナギの煮込み",
+      "丸ごと素揚げ・柔らか煮にしたニンニク",
+      "醤油ベースの濃いとろみソース",
+      "香菜を散らした仕上げ"
+    ],
+    "tasteAndTexture": [
+      "ニンニクの香ばしさが強い",
+      "コリコリとした食感",
+      "こってりとした濃い味付け",
+      "タウナギ特有の臭みは控えめ"
+    ],
+    "orderAdvice": "ニンニク料理が好きで、タウナギの食感に抵抗がなければご飯と合わせておすすめ。",
+    "similarItems": [
+      {
+        "id": "hong-shao-shan-duan",
+        "name": "紅焼鱔段",
+        "difference": "紅焼鱔段は醤油の甘辛さが主体。大蒜焼鱔魚はニンニクの香りが主役"
+      },
+      {
+        "id": "pan-long-huang-shan",
+        "name": "盤龍黄鱔",
+        "difference": "盤龍黄鱔は一匹丸ごとの造形が特徴。大蒜焼鱔魚はぶつ切りの煮込み"
+      }
+    ],
+    "relatedIds": [
+      "rice-eel",
+      "hong-shao-shan-duan",
+      "pan-long-huang-shan"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "香ばしい",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ニンニクが苦手",
+      "見た目が苦手",
+      "あっさりした魚料理が好き"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/da-suan-shao-shan-yu/1.jpg"
+    ]
+  },
+  {
+    "id": "bao-chao-ni-qiu",
+    "name": "爆炒泥鰍",
+    "kana": "ばおちゃおにーちゅう",
+    "aliases": [
+      "爆炒泥鰍"
+    ],
+    "englishName": "Stir-fried loach",
+    "originalName": "爆炒泥鳅 (Bàochǎo níqiu)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "ドジョウを丸ごと強火で香ばしく炒めた家庭料理。唐辛子・にんにくと共に炒めることが多い。",
+    "menuDescription": "丸ごと強火で炒め上げた、香ばしくピリ辛なドジョウ料理です。",
+    "whatComesOut": [
+      "丸ごと炒めたドジョウ",
+      "唐辛子・にんにく・生姜の香味",
+      "ニラや青唐辛子などの野菜",
+      "香ばしい油の香りが立つ仕上げ"
+    ],
+    "tasteAndTexture": [
+      "ふわふわ・プルプルとした柔らかい食感",
+      "ピリ辛で香ばしい",
+      "小骨ごと食べられる",
+      "強火で炒めた香ばしさが際立つ"
+    ],
+    "orderAdvice": "小魚の炒め物が好きなら食べやすい。見た目に抵抗がなければ試す価値がある。",
+    "similarItems": [
+      {
+        "id": "xiang-zha-ni-qiu",
+        "name": "香炸泥鰍",
+        "difference": "香炸泥鰍は油で揚げる。爆炒泥鰍は炒め調理"
+      },
+      {
+        "id": "shui-zhu-ni-qiu",
+        "name": "水煮泥鰍",
+        "difference": "水煮泥鰍は唐辛子スープで煮込む。爆炒泥鰍は油で炒める"
+      }
+    ],
+    "relatedIds": [
+      "loach",
+      "xiang-zha-ni-qiu",
+      "shui-zhu-ni-qiu"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "炒め物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "見た目が苦手",
+      "大ぶりな切り身魚が好き",
+      "辛いものが苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "source": [
+      "https://www.facebook.com/yihuacooking/videos/1068703757195430/",
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "shi-guo-ba-ni-qiu",
+    "name": "石鍋耙泥鰍",
+    "kana": "しーぐおばーにーちゅう",
+    "aliases": [
+      "石鍋耙泥鰍"
+    ],
+    "englishName": "Stone pot braised loach",
+    "originalName": "石锅耙泥鳅 (Shíguō bà níqiu)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "重慶"
+      }
+    ],
+    "summary": "重慶発祥とされる、熱した石鍋でドジョウをくたくたに柔らかく煮込む郷土料理。骨まで柔らかくなるまで煮込むのが特徴。",
+    "menuDescription": "熱々の石鍋でくたくたに煮込んだ、骨まで柔らかいドジョウ料理です。",
+    "whatComesOut": [
+      "石鍋のまま提供されるドジョウの煮込み",
+      "唐辛子・豆板醤ベースの濃いタレ",
+      "煮込んだ豆腐や野菜が添えられることも",
+      "卓上コンロで保温されたまま提供"
+    ],
+    "tasteAndTexture": [
+      "骨まで柔らかく崩れる食感",
+      "ピリ辛でこってりとした味わい",
+      "石鍋の余熱で最後まで熱々",
+      "出汁が濃厚に染み込んでいる"
+    ],
+    "orderAdvice": "ドジョウが骨まで柔らかく煮込まれているため、小骨が気になる人でも食べやすい。",
+    "similarItems": [
+      {
+        "id": "bao-chao-ni-qiu",
+        "name": "爆炒泥鰍",
+        "difference": "爆炒泥鰍は強火の炒め物。石鍋耙泥鰍はじっくり煮込んで骨まで柔らかくする"
+      },
+      {
+        "id": "shui-zhu-ni-qiu",
+        "name": "水煮泥鰍",
+        "difference": "水煮泥鰍は唐辛子油スープで一気に煮る。石鍋耙泥鰍は長時間煮込む"
+      }
+    ],
+    "relatedIds": [
+      "loach",
+      "bao-chao-ni-qiu",
+      "shui-zhu-ni-qiu"
+    ],
+    "tags": [
+      "四川料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "ピリ辛",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "見た目が苦手",
+      "あっさりした魚料理が好き",
+      "辛いものが苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "jiao-yan-ni-qiu",
+    "name": "椒塩泥鰍",
+    "kana": "じゃおいぇんにーちゅう",
+    "aliases": [
+      "椒塩泥鰍",
+      "椒鹽炒泥鰍"
+    ],
+    "englishName": "Salt and pepper loach",
+    "originalName": "椒盐泥鳅 (Jiāoyán níqiu)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "ドジョウを揚げて山椒塩をまぶした、香ばしくカリカリとした食感が楽しめる一品。",
+    "menuDescription": "カラッと揚げて山椒塩をまぶした、香ばしいドジョウの揚げ物です。",
+    "whatComesOut": [
+      "丸ごとカラッと揚げたドジョウ",
+      "山椒塩・唐辛子のパウダー",
+      "にんにく・ねぎのみじん切り",
+      "おつまみ感覚で食べられる盛り付け"
+    ],
+    "tasteAndTexture": [
+      "外はカリッと香ばしい",
+      "中はふんわり柔らかい",
+      "山椒の痺れる塩気",
+      "骨まで食べられるほどカリカリ"
+    ],
+    "orderAdvice": "揚げ物とビールの相性がよく、おつまみとして人気。骨まで食べられるためドジョウ初心者にもおすすめ。",
+    "similarItems": [
+      {
+        "id": "xiang-zha-ni-qiu",
+        "name": "香炸泥鰍",
+        "difference": "香炸泥鰍は香辛料で下味を付けて揚げる。椒塩泥鰍は素揚げに山椒塩をまぶす"
+      },
+      {
+        "id": "bao-chao-ni-qiu",
+        "name": "爆炒泥鰍",
+        "difference": "爆炒泥鰍は炒め調理。椒塩泥鰍は揚げてから塩をまぶす"
+      }
+    ],
+    "relatedIds": [
+      "loach",
+      "xiang-zha-ni-qiu",
+      "bao-chao-ni-qiu"
+    ],
+    "tags": [
+      "中国料理",
+      "軽食",
+      "魚介",
+      "揚げ物",
+      "香ばしい",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "見た目が苦手",
+      "煮込み料理が好き",
+      "揚げ物が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "source": [
+      "https://www.youtube.com/watch?v=vfO75V2bDVI",
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "xiang-zha-ni-qiu",
+    "name": "香炸泥鰍",
+    "kana": "しゃんじゃーにーちゅう",
+    "aliases": [
+      "香炸泥鰍"
+    ],
+    "englishName": "Fragrant fried loach",
+    "originalName": "香炸泥鳅 (Xiāngzhá níqiu)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "ドジョウに下味を付けてから油で香ばしく揚げた一品。椒塩泥鰍より下味がしっかり効いているのが特徴。",
+    "menuDescription": "香辛料で下味を付けてから揚げた、香ばしいドジョウの唐揚げです。",
+    "whatComesOut": [
+      "下味を付けて揚げたドジョウ",
+      "唐辛子粉やクミンなどの香辛料",
+      "揚げ野菜が添えられることも",
+      "カリッとした衣の食感"
+    ],
+    "tasteAndTexture": [
+      "外はカリッと香ばしい",
+      "中はふんわり柔らかい",
+      "下味の香辛料がしっかり効いている",
+      "骨まで食べやすい"
+    ],
+    "orderAdvice": "しっかりした下味が付いているため、そのまま食べても満足感がある揚げ物。",
+    "similarItems": [
+      {
+        "id": "jiao-yan-ni-qiu",
+        "name": "椒塩泥鰍",
+        "difference": "椒塩泥鰍は素揚げに山椒塩をまぶす。香炸泥鰍は下味をしっかり付けてから揚げる"
+      }
+    ],
+    "relatedIds": [
+      "loach",
+      "jiao-yan-ni-qiu"
+    ],
+    "tags": [
+      "中国料理",
+      "軽食",
+      "魚介",
+      "揚げ物",
+      "香ばしい",
+      "スパイス"
+    ],
+    "reverseKeywords": [
+      "見た目が苦手",
+      "煮込み料理が好き",
+      "揚げ物が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/xiang-zha-ni-qiu/1.jpg"
+    ]
+  },
+  {
+    "id": "shui-zhu-ni-qiu",
+    "name": "水煮泥鰍",
+    "kana": "しゅいじゅーにーちゅう",
+    "aliases": [
+      "水煮泥鰍"
+    ],
+    "englishName": "Water-boiled loach",
+    "originalName": "水煮泥鳅 (Shuǐzhǔ níqiu)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "ドジョウを唐辛子・花椒たっぷりの油とスープで煮込む「水煮」スタイルの四川料理。痺れる辛さが特徴。",
+    "menuDescription": "唐辛子と花椒を効かせた辛いスープで煮込んだ、痺れる辛さのドジョウ料理です。",
+    "whatComesOut": [
+      "唐辛子油に浮かぶドジョウの煮込み",
+      "赤唐辛子と花椒がたっぷり乗った仕上げ",
+      "もやしや青菜などの敷き野菜",
+      "熱した油をかけて仕上げる提供スタイル"
+    ],
+    "tasteAndTexture": [
+      "強い麻辣感(痺れる辛さ)",
+      "ふわふわと柔らかい身",
+      "油の香ばしさが強い",
+      "見た目より辛味が強い"
+    ],
+    "orderAdvice": "水煮魚系と同様に辛味がかなり強いので、辛いものが得意な人向け。見た目の唐辛子の量に驚かないように。",
+    "similarItems": [
+      {
+        "id": "shui-zhu-yu",
+        "name": "水煮魚",
+        "difference": "水煮魚は大型の切り身魚を使用。水煮泥鰍はドジョウを丸ごと使用"
+      },
+      {
+        "id": "bao-chao-ni-qiu",
+        "name": "爆炒泥鰍",
+        "difference": "爆炒泥鰍は炒め調理で汁気が少ない。水煮泥鰍は辛いスープで煮込む"
+      }
+    ],
+    "relatedIds": [
+      "loach",
+      "shui-zhu-yu",
+      "bao-chao-ni-qiu"
+    ],
+    "tags": [
+      "四川料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "痺れる味が苦手",
+      "あっさりした魚料理が好き"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/shui-zhu-ni-qiu/1.jpg"
+    ]
+  },
+  {
+    "id": "huang-la-ding-huo-guo",
+    "name": "黄辣丁魚火鍋",
+    "kana": "ほわんらーでぃんゆーふぉーぐお",
+    "aliases": [
+      "黄辣丁魚火鍋"
+    ],
+    "englishName": "Yellow catfish hot pot",
+    "originalName": "黄辣丁鱼火锅 (Huánglàdīng yú huǒguō)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "コウライギギを主役にした麻辣味の魚火鍋。成都・重慶で人気があり、小骨が少なく食べやすいのが魅力。",
+    "menuDescription": "コウライギギを麻辣スープでしゃぶしゃぶ感覚で食べる、四川発祥の魚鍋料理です。",
+    "whatComesOut": [
+      "唐辛子・花椒の効いた赤いスープ鍋",
+      "丸ごと又はぶつ切りのコウライギギ",
+      "青菜・豆腐・きのこなどの具材",
+      "〆に麺や餅を追加できる"
+    ],
+    "tasteAndTexture": [
+      "ピリ辛で痺れる味わい",
+      "身はプリプリと柔らかい",
+      "小骨が少なく食べやすい",
+      "スープに旨みが溶け込んでいる"
+    ],
+    "orderAdvice": "小骨が少なく食べやすいため、川魚の鍋料理としては初心者にもおすすめしやすい。",
+    "similarItems": [
+      {
+        "id": "yu-huo-guo",
+        "name": "魚火鍋",
+        "difference": "魚火鍋は魚種を問わない総称。黄辣丁魚火鍋はコウライギギ限定"
+      },
+      {
+        "id": "ma-la-huang-la-ding",
+        "name": "麻辣黄辣丁",
+        "difference": "麻辣黄辣丁は鍋ではなく炒め煮の一皿料理"
+      }
+    ],
+    "relatedIds": [
+      "yellow-catfish",
+      "yu-huo-guo",
+      "ma-la-huang-la-ding"
+    ],
+    "tags": [
+      "四川料理",
+      "鍋料理",
+      "魚介",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "痺れる味が苦手",
+      "あっさりした魚料理が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "source": [
+      "https://www.thepaper.cn/newsDetail_forward_22461731",
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/huang-la-ding-huo-guo/1.jpg"
+    ]
+  },
+  {
+    "id": "pao-jiao-huang-la-ding",
+    "name": "泡椒黄辣丁",
+    "kana": "ぱおじゃおほわんらーでぃん",
+    "aliases": [
+      "泡椒黄辣丁"
+    ],
+    "englishName": "Yellow catfish with pickled chili",
+    "originalName": "泡椒黄辣丁 (Pàojiāo huánglàdīng)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "コウライギギを四川名物の漬け唐辛子「泡椒」と共に煮込んだ、酸味と辛味が効いた一品。",
+    "menuDescription": "四川の漬け唐辛子「泡椒」で煮込んだ、酸味と辛味の効いたコウライギギ料理です。",
+    "whatComesOut": [
+      "泡椒(漬け唐辛子)で煮込んだコウライギギ",
+      "酸味のある赤いスープ",
+      "生姜・にんにく・ねぎの薬味",
+      "青唐辛子を効かせた仕上げ"
+    ],
+    "tasteAndTexture": [
+      "酸味と辛味が同時に効いている",
+      "身はプリプリと柔らかい",
+      "小骨が少なく食べやすい",
+      "スープごとご飯にかけても合う"
+    ],
+    "orderAdvice": "酸味と辛味のバランスが良く、こってりしすぎない味付けなので食欲がないときにもおすすめ。",
+    "similarItems": [
+      {
+        "id": "ma-la-huang-la-ding",
+        "name": "麻辣黄辣丁",
+        "difference": "麻辣黄辣丁は花椒の痺れが主体。泡椒黄辣丁は漬け唐辛子の酸味が主体"
+      },
+      {
+        "id": "suan-cai-yu",
+        "name": "酸菜魚",
+        "difference": "酸菜魚は酸菜(漬物野菜)の酸味。泡椒黄辣丁は泡椒(漬け唐辛子)の酸味"
+      }
+    ],
+    "relatedIds": [
+      "yellow-catfish",
+      "ma-la-huang-la-ding",
+      "suan-cai-yu"
+    ],
+    "tags": [
+      "四川料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "ピリ辛",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "酸味が苦手",
+      "辛いものが苦手",
+      "あっさりした魚料理が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "ma-la-huang-la-ding",
+    "name": "麻辣黄辣丁",
+    "kana": "まーらーほわんらーでぃん",
+    "aliases": [
+      "麻辣黄辣丁"
+    ],
+    "englishName": "Mala yellow catfish",
+    "originalName": "麻辣黄辣丁 (Málà huánglàdīng)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "コウライギギを唐辛子と花椒で辛く痺れる味に仕上げた四川・重慶の家庭料理の定番。",
+    "menuDescription": "唐辛子と花椒をたっぷり効かせた、痺れる辛さのコウライギギ料理です。",
+    "whatComesOut": [
+      "唐辛子・花椒で煮込んだコウライギギ",
+      "赤唐辛子がたっぷり乗った仕上げ",
+      "セロリや青ねぎなどの香味野菜",
+      "熱した油をかけて仕上げる提供スタイル"
+    ],
+    "tasteAndTexture": [
+      "強い麻辣感(痺れる辛さ)",
+      "身はプリプリと柔らかい",
+      "小骨が少なく食べやすい",
+      "油の香ばしさが強い"
+    ],
+    "orderAdvice": "四川料理の中でも辛さが強めの一品。花椒の痺れが苦手でなければ、家常菜として人気の一皿。",
+    "similarItems": [
+      {
+        "id": "pao-jiao-huang-la-ding",
+        "name": "泡椒黄辣丁",
+        "difference": "泡椒黄辣丁は酸味が主体。麻辣黄辣丁は痺れる辛さが主体"
+      },
+      {
+        "id": "shui-zhu-huang-la-ding",
+        "name": "水煮黄辣丁",
+        "difference": "水煮黄辣丁は油とスープで煮る水煮スタイル。麻辣黄辣丁は炒め煮寄り"
+      }
+    ],
+    "relatedIds": [
+      "yellow-catfish",
+      "pao-jiao-huang-la-ding",
+      "shui-zhu-huang-la-ding"
+    ],
+    "tags": [
+      "四川料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "痺れる味が苦手",
+      "あっさりした魚料理が好き"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "source": [
+      "https://www.thepaper.cn/newsDetail_forward_22461731",
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "shui-zhu-huang-la-ding",
+    "name": "水煮黄辣丁",
+    "kana": "しゅいじゅーほわんらーでぃん",
+    "aliases": [
+      "水煮黄辣丁"
+    ],
+    "englishName": "Water-boiled yellow catfish",
+    "originalName": "水煮黄辣丁 (Shuǐzhǔ huánglàdīng)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "コウライギギを唐辛子油とスープで煮込む「水煮」スタイルの四川料理。水煮魚のコウライギギ版。",
+    "menuDescription": "唐辛子油に浮かべるように煮込んだ、水煮スタイルのコウライギギ料理です。",
+    "whatComesOut": [
+      "唐辛子油に浮かぶコウライギギの煮込み",
+      "赤唐辛子と花椒がたっぷり乗った仕上げ",
+      "もやしや青菜などの敷き野菜",
+      "熱した油をかけて仕上げる提供スタイル"
+    ],
+    "tasteAndTexture": [
+      "強い麻辣感(痺れる辛さ)",
+      "身はプリプリと柔らかい",
+      "小骨が少なく食べやすい",
+      "油の香ばしさが強い"
+    ],
+    "orderAdvice": "水煮魚系と同様にかなり辛いので、辛いものが得意な人向け。小骨が少ないため食べやすさは高い。",
+    "similarItems": [
+      {
+        "id": "shui-zhu-yu",
+        "name": "水煮魚",
+        "difference": "水煮魚は大型魚の切り身を使用。水煮黄辣丁はコウライギギを使用"
+      },
+      {
+        "id": "ma-la-huang-la-ding",
+        "name": "麻辣黄辣丁",
+        "difference": "麻辣黄辣丁は炒め煮寄り。水煮黄辣丁は油とスープで煮る水煮スタイル"
+      }
+    ],
+    "relatedIds": [
+      "yellow-catfish",
+      "shui-zhu-yu",
+      "ma-la-huang-la-ding"
+    ],
+    "tags": [
+      "四川料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "痺れる味が苦手",
+      "あっさりした魚料理が好き"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "suan-tang-wu-yu",
+    "name": "酸湯烏魚",
+    "kana": "すあんたんうーゆー",
+    "aliases": [
+      "酸湯烏魚"
+    ],
+    "englishName": "Sour soup snakehead fish",
+    "originalName": "酸汤乌鱼 (Suāntāng wūyú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "カムルチー(烏魚)を酸味のあるスープで煮込んだ一品。トマトや漬物由来の酸味でさっぱりと仕上がる。",
+    "menuDescription": "酸味の効いたスープでいただく、さっぱりとしたカムルチー料理です。",
+    "whatComesOut": [
+      "酸味のあるスープに浮かぶ薄切りの魚",
+      "トマトや酸菜(漬物)ベースの出汁",
+      "香菜・ねぎの薬味",
+      "白飯やビーフンと合わせやすい一皿"
+    ],
+    "tasteAndTexture": [
+      "酸味が効いてさっぱりしている",
+      "身は厚く弾力がある",
+      "骨が少なく食べやすい",
+      "スープは飲み干せるほど軽い"
+    ],
+    "orderAdvice": "こってりした料理が続いたときの箸休め的な一品としてもおすすめ。酸味が好きなら満足度が高い。",
+    "similarItems": [
+      {
+        "id": "suan-cai-yu",
+        "name": "酸菜魚",
+        "difference": "酸菜魚は主に草魚等を使う四川の定番。酸湯烏魚はカムルチーを使いよりさっぱり"
+      },
+      {
+        "id": "hong-shao-wu-yu",
+        "name": "紅焼烏魚",
+        "difference": "紅焼烏魚は醤油煮込みでこってり。酸湯烏魚は酸味でさっぱり"
+      }
+    ],
+    "relatedIds": [
+      "snakehead-fish",
+      "suan-cai-yu",
+      "hong-shao-wu-yu"
+    ],
+    "tags": [
+      "中国料理",
+      "スープ",
+      "魚介",
+      "煮込み",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "こってりした料理が好き",
+      "酸味が苦手",
+      "濃い味付けが好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "source": [
+      "https://zhuanlan.zhihu.com/p/484832431",
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": [
+      "/images/dishes/suan-tang-wu-yu/1.jpg"
+    ]
+  },
+  {
+    "id": "hong-shao-wu-yu",
+    "name": "紅焼烏魚",
+    "kana": "ほんしゃおうーゆー",
+    "aliases": [
+      "紅焼烏魚"
+    ],
+    "englishName": "Braised snakehead fish",
+    "originalName": "红烧乌鱼 (Hóngshāo wūyú)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "カムルチー(烏魚)を醤油ベースで甘辛く煮込んだ家庭料理。骨が少なく食べやすい厚みのある身が特徴。",
+    "menuDescription": "醤油でこっくり煮込んだ、身の厚いカムルチー料理です。",
+    "whatComesOut": [
+      "醤油で煮込んだ切り身または姿煮",
+      "とろみのついた甘辛いタレ",
+      "生姜・にんにく・ねぎの薬味",
+      "ご飯に合う濃い味付け"
+    ],
+    "tasteAndTexture": [
+      "甘辛く濃い醤油味",
+      "身は厚みがありしっかりしている",
+      "骨が少なく食べやすい",
+      "皮目はとろりとした食感"
+    ],
+    "orderAdvice": "骨が少なく食べやすいので、川魚をあまり食べ慣れていない人にもおすすめしやすい。",
+    "similarItems": [
+      {
+        "id": "suan-tang-wu-yu",
+        "name": "酸湯烏魚",
+        "difference": "酸湯烏魚は酸味のスープでさっぱり。紅焼烏魚は醤油のこってり煮込み"
+      },
+      {
+        "id": "liu-wu-yu-pian",
+        "name": "溜烏魚片",
+        "difference": "溜烏魚片は薄切りをとろみ炒めにする。紅焼烏魚は切り身をじっくり煮込む"
+      }
+    ],
+    "relatedIds": [
+      "snakehead-fish",
+      "suan-tang-wu-yu",
+      "liu-wu-yu-pian"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "あっさりした魚料理が好き",
+      "酸味の効いた料理が好き",
+      "薄味が好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "liu-wu-yu-pian",
+    "name": "溜烏魚片",
+    "kana": "りうーうーゆーぴえん",
+    "aliases": [
+      "溜烏魚片"
+    ],
+    "englishName": "Slippery-fried snakehead fish slices",
+    "originalName": "溜乌鱼片 (Liū wūyúpiàn)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "カムルチーを薄切りにし、片栗粉でとろみをつけた甘酢だれで手早く炒め合わせた一品。「溜」はとろみ炒めを指す調理法。",
+    "menuDescription": "薄切りにした身を片栗粉のとろみだれで仕上げた、つるりとした食感の魚料理です。",
+    "whatComesOut": [
+      "薄切りにした身のとろみ炒め",
+      "甘酢または塩味ベースのとろみだれ",
+      "きくらげや人参などの彩り野菜",
+      "つるりとした一体感のあるソース"
+    ],
+    "tasteAndTexture": [
+      "つるりとした滑らかな食感",
+      "とろみだれが絡み食べやすい",
+      "淡白な白身に甘酢の風味",
+      "野菜のシャキシャキ感がアクセント"
+    ],
+    "orderAdvice": "とろみのある優しい味付けで食べやすく、川魚初心者にもおすすめできる一皿。",
+    "similarItems": [
+      {
+        "id": "hong-shao-wu-yu",
+        "name": "紅焼烏魚",
+        "difference": "紅焼烏魚は醤油のこってり煮込み。溜烏魚片は甘酢ベースのとろみ炒め"
+      },
+      {
+        "id": "ma-la-wu-yu-pian",
+        "name": "麻辣烏魚片",
+        "difference": "麻辣烏魚片は辛味主体。溜烏魚片は甘酢の優しい味わい"
+      }
+    ],
+    "relatedIds": [
+      "snakehead-fish",
+      "hong-shao-wu-yu",
+      "ma-la-wu-yu-pian"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "炒め物",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが好き",
+      "こってりした料理が好き",
+      "濃い味付けが好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "ma-la-wu-yu-pian",
+    "name": "麻辣烏魚片",
+    "kana": "まーらーうーゆーぴえん",
+    "aliases": [
+      "麻辣烏魚片"
+    ],
+    "englishName": "Mala snakehead fish slices",
+    "originalName": "麻辣乌鱼片 (Málà wūyúpiàn)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川"
+      }
+    ],
+    "summary": "カムルチーを薄切りにし、唐辛子と花椒でピリ辛に炒め煮にした四川風の一品。",
+    "menuDescription": "唐辛子と花椒を効かせた、痺れる辛さのカムルチー薄切り料理です。",
+    "whatComesOut": [
+      "薄切りにした身のピリ辛炒め煮",
+      "赤唐辛子と花椒がたっぷり乗った仕上げ",
+      "セロリや青ねぎなどの香味野菜",
+      "熱した油をかけて仕上げる提供スタイル"
+    ],
+    "tasteAndTexture": [
+      "強い麻辣感(痺れる辛さ)",
+      "身は厚みがありつるりとした食感",
+      "骨が少なく食べやすい",
+      "油の香ばしさが強い"
+    ],
+    "orderAdvice": "辛味と痺れが強めの一品。辛いものが好きで骨の少ない川魚を楽しみたい人におすすめ。",
+    "similarItems": [
+      {
+        "id": "liu-wu-yu-pian",
+        "name": "溜烏魚片",
+        "difference": "溜烏魚片は甘酢の優しい味わい。麻辣烏魚片は辛味と痺れが主体"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "name": "水煮魚",
+        "difference": "水煮魚は大型魚の切り身。麻辣烏魚片はカムルチーの薄切り"
+      }
+    ],
+    "relatedIds": [
+      "snakehead-fish",
+      "liu-wu-yu-pian",
+      "shui-zhu-yu"
+    ],
+    "tags": [
+      "四川料理",
+      "主菜",
+      "魚介",
+      "炒め物",
+      "ピリ辛",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "痺れる味が苦手",
+      "あっさりした魚料理が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 4,
+    "source": [
+      "https://meiweisichuan.jp/column/2018/12/6155.html"
+    ],
+    "images": []
   }
 ]
