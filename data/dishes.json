@@ -102452,5 +102452,251 @@
       "/images/dishes/jian-jiao-ji/1.jpg",
       "/images/dishes/jian-jiao-ji/2.jpg"
     ]
+  },
+  {
+    "id": "sauerkraut",
+    "name": "ザワークラウト",
+    "kana": "ざわーくらうと",
+    "aliases": [
+      "Sauerkraut",
+      "シュークルート"
+    ],
+    "englishName": "Sauerkraut",
+    "originalName": "Sauerkraut",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ドイツ"
+      },
+      {
+        "country": "フランス",
+        "locality": "アルザス"
+      },
+      {
+        "area": "東欧"
+      }
+    ],
+    "summary": "刻んだキャベツを塩とともに漬け込み、乳酸発酵させたヨーロッパの保存食。酢を使わず発酵だけで酸味を生み、冷蔵技術がない時代にビタミンCを冬まで保存する手段として広まった。",
+    "menuDescription": "細切りキャベツを乳酸発酵させた酸味の強い漬物。ソーセージや豚肉料理の付け合わせとして温めて出されることが多い。",
+    "whatComesOut": [
+      "白っぽく細切りにされた発酵キャベツ",
+      "ソーセージや豚肉料理の付け合わせ",
+      "シュークルート・ガルニのような煮込み料理の具材"
+    ],
+    "tasteAndTexture": [
+      "発酵由来の強い酸味",
+      "しゃきしゃきした食感",
+      "軽い塩気"
+    ],
+    "orderAdvice": "酸味のある付け合わせが好きなら注文して良い。脂の多い肉料理の口直しにも合う。",
+    "similarItems": [
+      {
+        "id": "kimchi",
+        "name": "キムチ",
+        "difference": "キムチは唐辛子とにんにくで辛味と旨みを加えた発酵野菜。ザワークラウトは塩と乳酸発酵だけのシンプルな酸味"
+      },
+      {
+        "id": "pickles",
+        "name": "ピクルス",
+        "difference": "ピクルスは酢漬けが中心。ザワークラウトは酢を使わない乳酸発酵による酸味"
+      },
+      {
+        "id": "bratwurst",
+        "name": "ブラートヴルスト",
+        "difference": "ブラートヴルストは焼きソーセージ。ザワークラウトはその定番の付け合わせとして添えられる"
+      }
+    ],
+    "relatedIds": [
+      "kimchi",
+      "pickles",
+      "bratwurst"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "前菜",
+      "野菜",
+      "発酵",
+      "酸味",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "酸味が苦手",
+      "発酵臭が苦手",
+      "甘い付け合わせ",
+      "生野菜サラダ",
+      "クリーミーな副菜"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%88",
+      "https://en.wikipedia.org/wiki/Sauerkraut"
+    ],
+    "images": [
+      "/images/dishes/sauerkraut/1.jpg",
+      "/images/dishes/sauerkraut/2.jpg",
+      "/images/dishes/sauerkraut/3.jpg"
+    ]
+  },
+  {
+    "id": "umeboshi",
+    "name": "梅干し",
+    "kana": "うめぼし",
+    "aliases": [
+      "梅干",
+      "Umeboshi"
+    ],
+    "englishName": "Umeboshi",
+    "originalName": "梅干し",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "熟した梅を塩漬けし、天日で干して作る日本の伝統保存食。塩分約20%の高濃度で長期保存が利き、戦国時代には陣中食、江戸時代には現在の製法が確立された。",
+    "menuDescription": "梅を塩漬けし土用干しした酸っぱく塩辛い保存食。おにぎりや弁当の具、お茶漬けの具材として使われる。",
+    "whatComesOut": [
+      "赤紫または白っぽい小粒の梅の実",
+      "おにぎりや弁当の具",
+      "お茶漬けや粥に添えられる小皿"
+    ],
+    "tasteAndTexture": [
+      "強い酸味",
+      "しっかりした塩気",
+      "柔らかい果肉"
+    ],
+    "orderAdvice": "強い酸味と塩気が特徴。酸っぱいものが苦手なら量に注意。ご飯のお供として少量ずつ食べるのが一般的。",
+    "caution": "塩分が高い。減塩中は量に注意。",
+    "similarItems": [
+      {
+        "id": "osaka-zuke",
+        "name": "大阪漬",
+        "difference": "大阪漬は野菜の粕漬け。梅干しは梅の実を塩漬けし天日干しした保存食"
+      },
+      {
+        "id": "sangoha-chi-zuke",
+        "name": "三五八漬け",
+        "difference": "三五八漬けは麹床で漬ける東北の漬物。梅干しは塩漬けと土用干しだけで作る"
+      },
+      {
+        "name": "甘露梅",
+        "difference": "甘露梅は砂糖を加えた甘い梅の保存食。梅干しは強い塩気と酸味が主体"
+      }
+    ],
+    "relatedIds": [
+      "osaka-zuke",
+      "sangoha-chi-zuke"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "果物",
+      "発酵",
+      "酸味",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "酸味が苦手",
+      "塩辛いもの不可",
+      "甘いデザート",
+      "こってりした主菜",
+      "果物のフレッシュな甘さ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E6%A2%85%E5%B9%B2%E3%81%97",
+      "https://en.wikipedia.org/wiki/Umeboshi"
+    ],
+    "images": [
+      "/images/dishes/umeboshi/1.jpg",
+      "/images/dishes/umeboshi/2.jpg",
+      "/images/dishes/umeboshi/3.jpg"
+    ]
+  },
+  {
+    "id": "natto",
+    "name": "納豆",
+    "kana": "なっとう",
+    "aliases": [
+      "Natto",
+      "糸引き納豆"
+    ],
+    "englishName": "Natto",
+    "originalName": "納豆",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "蒸した大豆を納豆菌で発酵させた日本の伝統食品。平安時代の文献に塩辛納豆の記録があり、室町時代以降に現在の糸引き納豆が広まった。強い粘りと独特の匂いが特徴。",
+    "menuDescription": "納豆菌で発酵させた粘りの強い大豆。付属のたれとからしを混ぜてご飯にかけるのが定番で、納豆巻きや味噌汁の具にもなる。",
+    "whatComesOut": [
+      "糸を引く発酵大豆",
+      "たれ・からし・刻みねぎ",
+      "ご飯にかけた納豆ご飯や納豆巻き"
+    ],
+    "tasteAndTexture": [
+      "強い粘り気",
+      "独特の発酵臭",
+      "豆の自然な甘み"
+    ],
+    "orderAdvice": "匂いと粘りが強く好みが分かれる。初めてなら、たれとからしを混ぜてご飯と一緒に食べると食べやすい。",
+    "similarItems": [
+      {
+        "id": "soy-sauce",
+        "name": "醤油",
+        "difference": "醤油は大豆を液体に発酵させた調味料。納豆は大豆の粒をそのまま発酵させた食品"
+      },
+      {
+        "id": "tempeh",
+        "name": "テンペ",
+        "difference": "テンペはインドネシアのカビ発酵大豆で癖が少ない。納豆は納豆菌による強い粘りと匂いが特徴"
+      },
+      {
+        "id": "tofuyo",
+        "name": "豆腐餻",
+        "difference": "豆腐餻は豆腐を発酵させた沖縄の食品。納豆は大豆の粒をそのまま発酵させる"
+      }
+    ],
+    "relatedIds": [
+      "soy-sauce",
+      "tempeh",
+      "tofuyo"
+    ],
+    "tags": [
+      "日本料理",
+      "軽食",
+      "豆類",
+      "発酵",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ネバネバが苦手",
+      "発酵臭が苦手",
+      "匂いの強い食品不可",
+      "さっぱりした副菜",
+      "クリーミーな味"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E7%B4%8D%E8%B1%86",
+      "https://en.wikipedia.org/wiki/Natt%C5%8D"
+    ],
+    "images": [
+      "/images/dishes/natto/1.jpg",
+      "/images/dishes/natto/2.jpg",
+      "/images/dishes/natto/3.jpg"
+    ]
   }
 ]
