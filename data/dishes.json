@@ -123,6 +123,10 @@
       "https://en.wikipedia.org/wiki/Confit",
       "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3",
       "https://www.allrecipes.com/what-is-confit-7368187"
+    ],
+    "aliases": [
+      "コンフィー",
+      "コンフィット"
     ]
   },
   {
@@ -228,6 +232,11 @@
       "https://en.wikipedia.org/wiki/Al_ajillo",
       "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%92%E3%83%BC%E3%82%B8%E3%83%A7",
       "https://www.epicurious.com/recipes/food/views/mother-pepas-garlic-shrimp-232280"
+    ],
+    "aliases": [
+      "アル・アヒージョ",
+      "ガンバス・アル・アヒージョ",
+      "アヒージョ・デ・ガンバス"
     ]
   },
   {
@@ -339,6 +348,10 @@
       "https://en.wikipedia.org/wiki/Escabeche",
       "https://es.wikipedia.org/wiki/Escabeche",
       "https://www.tasteatlas.com/escabeche"
+    ],
+    "aliases": [
+      "エスカベーシュ",
+      "エスカベーチェ"
     ]
   },
   {
@@ -476,6 +489,9 @@
       "https://en.wikipedia.org/wiki/Carpaccio",
       "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%91%E3%83%83%E3%83%81%E3%83%A7",
       "https://www.tasteatlas.com/carpaccio"
+    ],
+    "aliases": [
+      "カルパチョ"
     ]
   },
   {
@@ -555,6 +571,10 @@
       "https://it.wikipedia.org/wiki/Tagliata",
       "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%BF",
       "https://www.allrecipes.com/beef-tagliata-easiest-fancy-dinner-8645914"
+    ],
+    "aliases": [
+      "タリアータ・ディ・マンゾ",
+      "牛肉のタリアータ"
     ]
   },
   {
@@ -658,6 +678,10 @@
       "https://en.wikipedia.org/wiki/Marination",
       "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%8D",
       "https://www.foodandwine.com/how-to-make-marinades-8668731"
+    ],
+    "aliases": [
+      "マリネード",
+      "マリナード"
     ]
   },
   {
@@ -746,6 +770,9 @@
       "https://en.wikipedia.org/wiki/Saut%C3%A9ing",
       "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%86%E3%83%BC",
       "https://www.bhg.com/recipes/how-to/cooking-basics/how-to-saute/"
+    ],
+    "aliases": [
+      "炒め焼き"
     ]
   },
   {
@@ -754,7 +781,6 @@
     "kana": "ろーすと",
     "aliases": [
       "ローストする",
-      "Roast",
       "オーブン焼き",
       "ロティール"
     ],
@@ -890,7 +916,6 @@
     "kana": "ぶれぜ",
     "aliases": [
       "ブレイズ",
-      "Braise",
       "蒸し煮"
     ],
     "englishName": "Braise",
@@ -1079,8 +1104,7 @@
     "aliases": [
       "ポーチング",
       "Poached",
-      "低温ゆで",
-      "Poché"
+      "低温ゆで"
     ],
     "englishName": "Poché / Poached",
     "originalName": "Poché",
@@ -1829,6 +1853,9 @@
       "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AF%E3%83%AC",
       "https://fr.wikipedia.org/wiki/Po%C3%AAler",
       "https://www.larousse.fr/dictionnaires/francais/po%C3%AAler/62110"
+    ],
+    "aliases": [
+      "フライパン焼き"
     ]
   },
   {
@@ -1924,6 +1951,9 @@
       "https://en.wikipedia.org/wiki/Sole_meuni%C3%A8re",
       "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%8B%E3%82%A8%E3%83%AB",
       "https://www.epicurious.com/recipes/food/views/trout-meuniere-old-style-242929"
+    ],
+    "aliases": [
+      "ムニエール"
     ]
   },
   {
@@ -2129,6 +2159,10 @@
       "https://en.wikipedia.org/wiki/Romanesco_broccoli",
       "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%8D%E3%82%B9%E3%82%B3",
       "https://www.specialtyproduce.com/produce/Romanesco_479.php"
+    ],
+    "aliases": [
+      "ロマネスコブロッコリー",
+      "カリブロー"
     ]
   },
   {
@@ -2204,6 +2238,11 @@
       "https://en.wikipedia.org/wiki/Beetroot",
       "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%BC%E3%83%88_%28%E6%A4%8D%E7%89%A9%29",
       "https://www.britannica.com/plant/beet"
+    ],
+    "aliases": [
+      "ビートルート",
+      "テーブルビート",
+      "レッドビート"
     ]
   },
   {
@@ -2285,6 +2324,11 @@
       "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%82%AD%E3%83%A7%E3%82%A6",
       "https://en.wikipedia.org/wiki/Fennel",
       "https://www.britannica.com/plant/fennel"
+    ],
+    "aliases": [
+      "フヌイユ",
+      "ういきょう",
+      "茴香"
     ]
   },
   {
@@ -2446,6 +2490,11 @@
       "https://en.wikipedia.org/wiki/Eruca_sativa",
       "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%83%E3%82%B3%E3%83%A9",
       "https://www.britannica.com/plant/arugula"
+    ],
+    "aliases": [
+      "ロケット",
+      "アルグラ",
+      "ルコラ"
     ]
   },
   {
@@ -2515,6 +2564,10 @@
       "https://en.wikipedia.org/wiki/Endive",
       "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%B3%E3%83%AA%E3%83%BC",
       "https://www.britannica.com/plant/chicory"
+    ],
+    "aliases": [
+      "アンディーブ",
+      "チコリー"
     ]
   },
   {
@@ -2585,6 +2638,9 @@
       "https://en.wikipedia.org/wiki/Kale",
       "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%BC%E3%83%AB",
       "https://www.britannica.com/plant/kale"
+    ],
+    "aliases": [
+      "羽衣甘藍"
     ]
   },
   {
@@ -2662,6 +2718,9 @@
       "https://en.wikipedia.org/wiki/Artichoke",
       "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%81%E3%83%A7%E3%83%BC%E3%82%AF",
       "https://www.britannica.com/plant/artichoke"
+    ],
+    "aliases": [
+      "朝鮮アザミ"
     ]
   },
   {
@@ -2745,6 +2804,10 @@
       "https://en.wikipedia.org/wiki/Boletus_edulis",
       "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AB%E3%83%81%E3%83%BC%E3%83%8B",
       "https://www.lacucinaitaliana.com/italian-food/how-to-cook/how-to-cook-porcini-mushrooms"
+    ],
+    "aliases": [
+      "ヤマドリタケ",
+      "セップ"
     ]
   },
   {
@@ -2807,6 +2870,10 @@
       "https://en.wikipedia.org/wiki/Radicchio",
       "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%87%E3%82%A3%E3%83%83%E3%82%AD%E3%82%AA",
       "https://www.simplyrecipes.com/what-is-radicchio-and-how-do-i-use-it-7110835"
+    ],
+    "aliases": [
+      "ラディッキオ",
+      "トレヴィーゾ"
     ]
   },
   {
@@ -2955,6 +3022,9 @@
       "https://en.wikipedia.org/wiki/Zucchini",
       "https://ja.wikipedia.org/wiki/%E3%82%BA%E3%83%83%E3%82%AD%E3%83%BC%E3%83%8B",
       "https://www.britannica.com/plant/zucchini"
+    ],
+    "aliases": [
+      "つるなしカボチャ"
     ]
   },
   {
@@ -3020,6 +3090,10 @@
       "https://en.wikipedia.org/wiki/Celeriac",
       "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%AA%E3%82%A2%E3%83%83%E3%82%AF",
       "https://www.allrecipes.com/article/what-is-celeriac/"
+    ],
+    "aliases": [
+      "セルリアック",
+      "根セロリ"
     ]
   },
   {
@@ -3097,6 +3171,9 @@
       "https://en.wikipedia.org/wiki/Dill",
       "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8E%E3%83%B3%E3%83%89",
       "https://www.britannica.com/plant/dill"
+    ],
+    "aliases": [
+      "イノンド"
     ]
   },
   {
@@ -3166,6 +3243,10 @@
       "https://en.wikipedia.org/wiki/Watercress",
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E3%82%AC%E3%83%A9%E3%82%B7",
       "https://www.britannica.com/plant/watercress"
+    ],
+    "aliases": [
+      "オランダガラシ",
+      "ウォータークレス"
     ]
   },
   {
@@ -3239,6 +3320,9 @@
       "https://en.wikipedia.org/wiki/Radish",
       "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5",
       "https://www.britannica.com/plant/radish"
+    ],
+    "aliases": [
+      "二十日大根"
     ]
   },
   {
@@ -3329,6 +3413,10 @@
       "https://en.wikipedia.org/wiki/Basil",
       "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B8%E3%83%AB",
       "https://www.britannica.com/plant/basil"
+    ],
+    "aliases": [
+      "バジリコ",
+      "メボウキ"
     ]
   },
   {
@@ -3424,6 +3512,9 @@
       "https://en.wikipedia.org/wiki/Thyme",
       "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%A0",
       "https://www.britannica.com/plant/thyme"
+    ],
+    "aliases": [
+      "タチジャコウソウ"
     ]
   },
   {
@@ -3521,6 +3612,11 @@
       "https://en.wikipedia.org/wiki/Coriander",
       "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC",
       "https://www.britannica.com/plant/coriander"
+    ],
+    "aliases": [
+      "コリアンダー",
+      "香菜",
+      "シャンツァイ"
     ]
   },
   {
@@ -3602,6 +3698,9 @@
       "https://en.wikipedia.org/wiki/Tarragon",
       "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%A9%E3%82%B4%E3%83%B3",
       "https://www.britannica.com/plant/tarragon"
+    ],
+    "aliases": [
+      "タラゴン"
     ]
   },
   {
@@ -3684,7 +3783,10 @@
       "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%83%E3%83%A9%E3%83%BC%E3%82%BF",
       "https://www.cheese.com/burrata/"
     ],
-    "caution": "牛乳由来のフレッシュチーズのため、乳製品アレルギーの方は注意。非常に生鮮品で日持ちしないため、作りたてを当日中に食べるのが基本。"
+    "caution": "牛乳由来のフレッシュチーズのため、乳製品アレルギーの方は注意。非常に生鮮品で日持ちしないため、作りたてを当日中に食べるのが基本。",
+    "aliases": [
+      "ブラータ"
+    ]
   },
   {
     "id": "mozzarella",
@@ -3808,7 +3910,10 @@
       "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%83%E3%83%84%E3%82%A1%E3%83%AC%E3%83%83%E3%83%A9",
       "https://www.cheese.com/mozzarella/"
     ],
-    "caution": "乳製品アレルギーの方は注意。"
+    "caution": "乳製品アレルギーの方は注意。",
+    "aliases": [
+      "モッツアレラ"
+    ]
   },
   {
     "id": "ricotta",
@@ -3903,7 +4008,10 @@
       "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B3%E3%83%83%E3%82%BF",
       "https://www.cheese.com/ricotta/"
     ],
-    "caution": "乳製品アレルギーの方は注意。"
+    "caution": "乳製品アレルギーの方は注意。",
+    "aliases": [
+      "リコッタチーズ"
+    ]
   },
   {
     "id": "gorgonzola",
@@ -4013,6 +4121,9 @@
       "https://en.wikipedia.org/wiki/Gorgonzola",
       "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%AB%E3%82%B4%E3%83%B3%E3%82%BE%E3%83%BC%E3%83%A9",
       "https://www.gorgonzola.com/"
+    ],
+    "aliases": [
+      "ゴルゴンゾーラチーズ"
     ]
   },
   {
@@ -4103,7 +4214,11 @@
       "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%83%9F%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8E%E3%83%BB%E3%83%AC%E3%83%83%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8E",
       "https://www.parmigianoreggiano.com/product"
     ],
-    "caution": "乳製品アレルギーの方は注意。"
+    "caution": "乳製品アレルギーの方は注意。",
+    "aliases": [
+      "パルミジャーノ・レッジャーノ",
+      "パルメザン"
+    ]
   },
   {
     "id": "pecorino",
@@ -4187,6 +4302,9 @@
       "https://en.wikipedia.org/wiki/Pecorino",
       "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%B3%E3%83%AA%E3%83%BC%E3%83%8E",
       "https://www.cheese.com/pecorino-romano/"
+    ],
+    "aliases": [
+      "ペコリーノ・ロマーノ"
     ]
   },
   {
@@ -4302,6 +4420,9 @@
       "https://en.wikipedia.org/wiki/Camembert",
       "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%9E%E3%83%B3%E3%83%99%E3%83%BC%E3%83%AB",
       "https://www.cheese.com/camembert/"
+    ],
+    "aliases": [
+      "カマンベールチーズ"
     ]
   },
   {
@@ -4397,7 +4518,11 @@
       "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%BC%E3%83%81%E3%83%BC%E3%82%BA",
       "https://www.cheese.com/brie/"
     ],
-    "caution": "熟成した白カビチーズ特有の香りが気になる方は注意。乳製品アレルギーの方も注意。妊娠中は非加熱の白カビチーズは避けることが推奨される。"
+    "caution": "熟成した白カビチーズ特有の香りが気になる方は注意。乳製品アレルギーの方も注意。妊娠中は非加熱の白カビチーズは避けることが推奨される。",
+    "aliases": [
+      "ブリーチーズ",
+      "ブリー・ド・モー"
+    ]
   },
   {
     "id": "feta",
@@ -4481,6 +4606,9 @@
       "https://en.wikipedia.org/wiki/Feta",
       "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%82%BF%E3%83%81%E3%83%BC%E3%82%BA",
       "https://www.cheese.com/feta/"
+    ],
+    "aliases": [
+      "フェタチーズ"
     ]
   },
   {
@@ -4549,7 +4677,11 @@
       "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AB%E3%83%BC%E3%83%9F",
       "https://www.cheese.com/halloumi/"
     ],
-    "caution": "塩気がかなり強いため、塩分が気になる方は注意。乳製品アレルギーの方も注意。"
+    "caution": "塩気がかなり強いため、塩分が気になる方は注意。乳製品アレルギーの方も注意。",
+    "aliases": [
+      "ハロウミ",
+      "ハルーミ"
+    ]
   },
   {
     "id": "aioli",
@@ -4557,7 +4689,6 @@
     "kana": "あいおり",
     "aliases": [
       "アイオリソース",
-      "Aioli",
       "ガーリックマヨネーズ",
       "にんにくソース"
     ],
@@ -4757,7 +4888,11 @@
       "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%B9%E3%83%88",
       "https://www.lacucinaitaliana.com/trip-to-italy/northern-italy/where-to-eat-basil-pesto-genovese-in-italy"
     ],
-    "caution": "松の実（ナッツ類）を含むためナッツアレルギーの方は注意。乳製品（チーズ）も含む。"
+    "caution": "松の実（ナッツ類）を含むためナッツアレルギーの方は注意。乳製品（チーズ）も含む。",
+    "aliases": [
+      "ジェノヴェーゼ",
+      "バジルペースト"
+    ]
   },
   {
     "id": "balsamic",
@@ -4830,6 +4965,9 @@
       "https://en.wikipedia.org/wiki/Balsamic_vinegar",
       "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%82%B5%E3%83%9F%E3%82%B3%E9%85%A2",
       "https://www.consorziobalsamico.it/en/"
+    ],
+    "aliases": [
+      "バルサミコ酢"
     ]
   },
   {
@@ -4932,6 +5070,9 @@
       "https://en.wikipedia.org/wiki/Tapenade",
       "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%97%E3%83%8A%E3%83%BC%E3%83%89",
       "https://www.tasteatlas.com/tapenade"
+    ],
+    "aliases": [
+      "タペナード"
     ]
   },
   {
@@ -4940,7 +5081,6 @@
     "kana": "さるさべるで",
     "aliases": [
       "緑のソース",
-      "Salsa Verde",
       "サルサベルデ",
       "グリーンソース"
     ],
@@ -5026,7 +5166,6 @@
     "kana": "ちみちゅり",
     "aliases": [
       "チミチュリソース",
-      "Chimichurri",
       "アルゼンチンハーブソース"
     ],
     "englishName": "Chimichurri",
@@ -5200,6 +5339,9 @@
       "https://en.wikipedia.org/wiki/Harissa",
       "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%83%E3%82%B5",
       "https://ich.unesco.org/en/RL/harissa-knowledge-skills-and-culinary-and-social-practices-01710"
+    ],
+    "aliases": [
+      "ハリサ"
     ]
   },
   {
@@ -5362,6 +5504,9 @@
       "https://en.wikipedia.org/wiki/Chutney",
       "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%84%E3%83%8D",
       "https://www.britannica.com/topic/chutney"
+    ],
+    "aliases": [
+      "チャトニー"
     ]
   },
   {
@@ -5457,7 +5602,11 @@
       "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%93%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%B9",
       "https://www.bbcgoodfood.com/recipes/easy-gravy"
     ],
-    "caution": "小麦粉を使ってとろみをつけることが多く、グルテンアレルギーの方は注意。"
+    "caution": "小麦粉を使ってとろみをつけることが多く、グルテンアレルギーの方は注意。",
+    "aliases": [
+      "グレービー",
+      "グレイビーソース"
+    ]
   },
   {
     "id": "vinaigrette",
@@ -5465,7 +5614,6 @@
     "kana": "ヴぃねぐれっと",
     "aliases": [
       "ビネグレット",
-      "Vinaigrette",
       "フレンチドレッシング",
       "酢オイルドレッシング"
     ],
@@ -5693,6 +5841,10 @@
       "https://en.wikipedia.org/wiki/B%C3%A9chamel_sauce",
       "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%82%B9_%28%E8%AA%BF%E5%91%B3%E6%96%99%29",
       "https://www.larousse.fr/dictionnaires/francais/b%C3%A9chamel/8495"
+    ],
+    "aliases": [
+      "ベシャメルソース",
+      "ホワイトソース"
     ]
   },
   {
@@ -5807,6 +5959,9 @@
       "https://en.wikipedia.org/wiki/Rag%C3%B9",
       "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%81%E3%83%A5%E3%83%BC",
       "https://www.lacucinaitaliana.com/italian-food/how-to-cook/traditional-ragu"
+    ],
+    "aliases": [
+      "ラグーソース"
     ]
   },
   {
@@ -5887,6 +6042,9 @@
       "https://en.wikipedia.org/wiki/Pesto",
       "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%B9%E3%83%88",
       "https://www.lacucinaitaliana.com/italian-food/italian-dishes/welcome-pesto-republic"
+    ],
+    "aliases": [
+      "ペストソース"
     ]
   },
   {
@@ -6091,6 +6249,10 @@
       "https://en.wikipedia.org/wiki/Demi-glace",
       "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%82%B0%E3%83%A9%E3%82%B9%E3%82%BD%E3%83%BC%E3%82%B9",
       "https://www.britannica.com/topic/demi-glace"
+    ],
+    "aliases": [
+      "デミグラスソース",
+      "ドゥミグラス"
     ]
   },
   {
@@ -6204,8 +6366,7 @@
     "aliases": [
       "ジュ・ド・ヴィアンド",
       "オ・ジュ",
-      "肉汁ソース",
-      "Jus"
+      "肉汁ソース"
     ],
     "englishName": "Jus",
     "originalName": "Jus",
@@ -6303,7 +6464,6 @@
     "kana": "くーりー",
     "aliases": [
       "クーリ",
-      "Coulis",
       "フルーツソース",
       "裏ごしソース"
     ],
@@ -6450,7 +6610,10 @@
       "https://en.wikipedia.org/wiki/Piperade",
       "https://www.tasteatlas.com/piperade"
     ],
-    "caution": "エスペレット唐辛子による辛みがある。辛さが苦手な場合は確認を。"
+    "caution": "エスペレット唐辛子による辛みがある。辛さが苦手な場合は確認を。",
+    "aliases": [
+      "ピペラード"
+    ]
   },
   {
     "id": "hummus",
@@ -6575,6 +6738,9 @@
       "https://en.wikipedia.org/wiki/Hummus",
       "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%B3%E3%83%A0%E3%82%B9",
       "https://www.britannica.com/topic/hummus"
+    ],
+    "aliases": [
+      "ホムス"
     ]
   },
   {
@@ -6656,6 +6822,9 @@
     "source": [
       "https://en.wikipedia.org/wiki/Tabbouleh",
       "https://www.bbcgoodfood.com/recipes/tabbouleh"
+    ],
+    "aliases": [
+      "タブーリ"
     ]
   },
   {
@@ -6736,6 +6905,9 @@
       "https://en.wikipedia.org/wiki/Falafel",
       "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%A9%E3%83%BC%E3%83%95%E3%82%A7%E3%83%AB",
       "https://www.britannica.com/topic/falafel"
+    ],
+    "aliases": [
+      "ファラーフェル"
     ]
   },
   {
@@ -6834,6 +7006,10 @@
       "https://en.wikipedia.org/wiki/Biryani",
       "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AA%E3%83%A4%E3%83%8B",
       "https://www.britannica.com/topic/biryani"
+    ],
+    "aliases": [
+      "ビリヤーニ",
+      "ビリアニ"
     ]
   },
   {
@@ -6918,7 +7094,10 @@
       "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E3%83%81%E3%82%AD%E3%83%B3",
       "https://www.britannica.com/topic/tandoori-chicken"
     ],
-    "caution": "スパイスが多く入る。辛さが苦手な方は確認を。また赤色は食紅による着色の場合もある。"
+    "caution": "スパイスが多く入る。辛さが苦手な方は確認を。また赤色は食紅による着色の場合もある。",
+    "aliases": [
+      "タンドゥーリチキン"
+    ]
   },
   {
     "id": "gapao",
@@ -6992,6 +7171,10 @@
       "https://en.wikipedia.org/wiki/Phat_kaphrao",
       "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%9F%E3%83%A1%E3%83%9C%E3%82%A6%E3%82%AD",
       "https://www.seriouseats.com/phat-kaphrao-thai-basil-stir-fry-recipe"
+    ],
+    "aliases": [
+      "ガパオライス",
+      "パッガパオ"
     ]
   },
   {
@@ -7215,6 +7398,9 @@
       "https://en.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC",
       "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%83%B3%E3%83%9F%E3%83%BC",
       "https://www.sbs.com.au/food/article/banh-mi-history/3c9tqk4pu"
+    ],
+    "aliases": [
+      "バインミ"
     ]
   },
   {
@@ -7322,6 +7508,9 @@
       "https://en.wikipedia.org/wiki/Couscous",
       "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B9%E3%82%AF%E3%82%B9",
       "https://www.britannica.com/topic/couscous"
+    ],
+    "aliases": [
+      "クースクース"
     ]
   },
   {
@@ -7397,6 +7586,9 @@
       "https://en.wikipedia.org/wiki/Shakshouka",
       "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%AF%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%AB",
       "https://www.britannica.com/topic/shakshouka"
+    ],
+    "aliases": [
+      "シャクシューカ"
     ]
   },
   {
@@ -7504,8 +7696,7 @@
     "kana": "けさでぃーや",
     "aliases": [
       "ケサディラ",
-      "ケサディージャ",
-      "Quesadilla"
+      "ケサディージャ"
     ],
     "englishName": "Quesadilla",
     "originalName": "Quesadilla",
@@ -7664,6 +7855,9 @@
       "https://en.wikipedia.org/wiki/Paella",
       "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A8%E3%83%AA%E3%82%A2",
       "https://www.britannica.com/topic/paella"
+    ],
+    "aliases": [
+      "パエリヤ"
     ]
   },
   {
@@ -7798,7 +7992,6 @@
     "name": "ニョッキ",
     "kana": "にょっき",
     "aliases": [
-      "Gnocchi",
       "じゃがいも団子",
       "イタリア団子パスタ"
     ],
@@ -7955,6 +8148,9 @@
       "https://en.wikipedia.org/wiki/Galette",
       "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88",
       "https://www.britannica.com/topic/galette"
+    ],
+    "aliases": [
+      "ガレット・ブルトンヌ"
     ]
   },
   {
@@ -8079,6 +8275,9 @@
       "https://en.wikipedia.org/wiki/Ratatouille",
       "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%BF%E3%83%88%E3%82%A5%E3%82%A4%E3%83%A6",
       "https://www.britannica.com/topic/ratatouille"
+    ],
+    "aliases": [
+      "ラタトゥユ"
     ]
   },
   {
@@ -8087,7 +8286,6 @@
     "kana": "かすれ",
     "aliases": [
       "カッスレー",
-      "Cassoulet",
       "フランス豆煮込み",
       "白インゲン煮込み"
     ],
@@ -8312,6 +8510,9 @@
       "https://en.wikipedia.org/wiki/Bouillabaisse",
       "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%A4%E3%83%A4%E3%83%99%E3%83%BC%E3%82%B9",
       "https://www.britannica.com/topic/bouillabaisse"
+    ],
+    "aliases": [
+      "ブイヤベーズ"
     ]
   },
   {
@@ -8397,6 +8598,9 @@
       "https://en.wikipedia.org/wiki/Borscht",
       "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%82%B7%E3%83%81",
       "https://ich.unesco.org/en/USL/culture-of-ukrainian-borscht-cooking-01852"
+    ],
+    "aliases": [
+      "ビーツスープ"
     ]
   },
   {
@@ -8482,6 +8686,9 @@
       "https://en.wikipedia.org/wiki/Tagine",
       "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B8%E3%83%B3%E9%8D%8B",
       "https://www.britannica.com/topic/tagine-cooking-vessel"
+    ],
+    "aliases": [
+      "タジン鍋"
     ]
   },
   {
@@ -8567,6 +8774,9 @@
       "https://en.wikipedia.org/wiki/Dolma",
       "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AB%E3%83%9E",
       "https://ich.unesco.org/en/RL/dolma-making-and-sharing-tradition-a-marker-of-cultural-identity-01188"
+    ],
+    "aliases": [
+      "ドルマデス"
     ]
   },
   {
@@ -8683,6 +8893,9 @@
       "https://en.wikipedia.org/wiki/Kebab",
       "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%90%E3%83%96",
       "https://www.britannica.com/topic/kebab"
+    ],
+    "aliases": [
+      "ケバプ"
     ]
   },
   {
@@ -8750,6 +8963,9 @@
       "https://en.wikipedia.org/wiki/Shawarma",
       "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%AB%E3%83%9E",
       "https://www.britannica.com/topic/shawarma"
+    ],
+    "aliases": [
+      "シャワルマ"
     ]
   },
   {
@@ -8845,6 +9061,9 @@
       "https://en.wikipedia.org/wiki/Quiche",
       "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5",
       "https://www.britannica.com/topic/quiche"
+    ],
+    "aliases": [
+      "キッシュ・ロレーヌ"
     ]
   },
   {
@@ -9135,6 +9354,9 @@
       "https://en.wikipedia.org/wiki/Gazpacho",
       "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%B9%E3%83%91%E3%83%81%E3%83%A7",
       "https://www.britannica.com/topic/gazpacho"
+    ],
+    "aliases": [
+      "冷製トマトスープ"
     ]
   },
   {
@@ -9206,6 +9428,9 @@
       "https://en.wikipedia.org/wiki/Salade_ni%C3%A7oise",
       "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%83%80%E3%83%BB%E3%83%8B%E3%82%BD%E3%83%AF%E3%83%BC%E3%82%BA",
       "https://www.theguardian.com/lifeandstyle/wordofmouth/2012/aug/01/how-make-perfect-salade-nicoise"
+    ],
+    "aliases": [
+      "ニース風サラダ"
     ]
   },
   {
@@ -9294,6 +9519,9 @@
       "https://en.wikipedia.org/wiki/Moussaka",
       "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%B5%E3%82%AB",
       "https://www.britannica.com/topic/moussaka"
+    ],
+    "aliases": [
+      "ムーサカ"
     ]
   },
   {
@@ -9489,6 +9717,9 @@
       "https://en.wikipedia.org/wiki/Cr%C3%A8me_br%C3%BBl%C3%A9e",
       "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%96%E3%83%AA%E3%83%A5%E3%83%AC",
       "https://www.britannica.com/topic/creme-brulee"
+    ],
+    "aliases": [
+      "クレムブリュレ"
     ]
   },
   {
@@ -9646,6 +9877,9 @@
       "https://en.wikipedia.org/wiki/Baklava",
       "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AF%E3%83%A9%E3%83%B4%E3%82%A1",
       "https://www.britannica.com/topic/baklava"
+    ],
+    "aliases": [
+      "バクラバ"
     ]
   },
   {
@@ -9759,6 +9993,9 @@
       "https://en.wikipedia.org/wiki/Pad_thai",
       "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%83%E3%82%BF%E3%82%A4",
       "https://www.smithsonianmag.com/arts-culture/the-surprising-history-of-pad-thai-180984625/"
+    ],
+    "aliases": [
+      "タイ風焼きそば"
     ]
   },
   {
@@ -9876,7 +10113,6 @@
     "kana": "だる",
     "aliases": [
       "ダール",
-      "Dal",
       "豆カレー",
       "インド豆スープ"
     ],
@@ -10108,6 +10344,9 @@
       "https://en.wikipedia.org/wiki/Gravlax",
       "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9",
       "https://www.britannica.com/topic/gravlax"
+    ],
+    "aliases": [
+      "グラブラクス"
     ]
   },
   {
@@ -10219,6 +10458,9 @@
       "https://en.wikipedia.org/wiki/Pierogi",
       "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%A8%E3%83%AD%E3%82%AE",
       "https://www.britannica.com/topic/pierogi"
+    ],
+    "aliases": [
+      "ペロギ"
     ]
   },
   {
@@ -10305,6 +10547,9 @@
       "https://en.wikipedia.org/wiki/Ceviche",
       "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%93%E3%83%81%E3%82%A7",
       "https://www.britannica.com/topic/ceviche"
+    ],
+    "aliases": [
+      "セビチェ"
     ]
   },
   {
@@ -10376,6 +10621,10 @@
       "https://en.wikipedia.org/wiki/Guacamole",
       "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%AB%E3%83%A2%E3%83%AC",
       "https://www.britannica.com/topic/guacamole"
+    ],
+    "aliases": [
+      "グアカモーレ",
+      "アボカドディップ"
     ]
   },
   {
@@ -10455,6 +10704,9 @@
       "https://en.wikipedia.org/wiki/Schnitzel",
       "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%8B%E3%83%83%E3%83%84%E3%82%A7%E3%83%AB",
       "https://www.britannica.com/topic/Wiener-schnitzel"
+    ],
+    "aliases": [
+      "ウィンナーシュニッツェル"
     ]
   },
   {
@@ -10542,6 +10794,9 @@
       "https://en.wikipedia.org/wiki/Raclette",
       "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88",
       "https://www.cheese.com/raclette/"
+    ],
+    "aliases": [
+      "ラクレットチーズ"
     ]
   },
   {
@@ -10614,6 +10869,9 @@
       "https://en.wikipedia.org/wiki/Fondue",
       "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%B3%E3%83%87%E3%83%A5",
       "https://www.britannica.com/topic/fondue"
+    ],
+    "aliases": [
+      "フォンデュー"
     ]
   },
   {
@@ -10776,6 +11034,9 @@
       "https://en.wikipedia.org/wiki/Pot-au-feu",
       "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%88%E3%83%95",
       "https://www.britannica.com/topic/pot-au-feu"
+    ],
+    "aliases": [
+      "ポトフー"
     ]
   },
   {
@@ -10854,6 +11115,9 @@
     "source": [
       "https://en.wikipedia.org/wiki/Garlic_shrimp",
       "https://www.hawaiimagazine.com/how-to-make-hawaii-style-garlic-shrimp/"
+    ],
+    "aliases": [
+      "ガーリックエビ"
     ]
   },
   {
@@ -10926,6 +11190,9 @@
       "https://en.wikipedia.org/wiki/Nanbanzuke",
       "https://ja.wikipedia.org/wiki/%E5%8D%97%E8%9B%AE%E6%BC%AC%E3%81%91",
       "https://www.justonecookbook.com/salmon-nanbanzuke/"
+    ],
+    "aliases": [
+      "なんばん漬け"
     ]
   },
   {
@@ -11014,6 +11281,9 @@
       "https://en.wikipedia.org/wiki/Tempura",
       "https://ja.wikipedia.org/wiki/%E5%A4%A9%E3%81%B7%E3%82%89",
       "https://www.epicurious.com/expert-advice/how-tempura-evolved-from-a-portuguese-staple-to-a-japanese-art-article"
+    ],
+    "aliases": [
+      "天麩羅"
     ]
   },
   {
@@ -11023,7 +11293,6 @@
     "englishName": "Fritter",
     "aliases": [
       "フリッタ",
-      "Fritter",
       "バッター揚げ"
     ],
     "category": "調理法",
@@ -11176,6 +11445,10 @@
       "https://en.wikipedia.org/wiki/En_papillote",
       "https://ja.wikipedia.org/wiki/%E7%B4%99%E5%8C%85%E3%81%BF%E7%84%BC%E3%81%8D",
       "https://www.larousse.fr/dictionnaires/francais/papillote/57784"
+    ],
+    "aliases": [
+      "アン・パピヨット",
+      "パピヨット焼き"
     ]
   },
   {
@@ -11248,6 +11521,9 @@
       "https://en.wikipedia.org/wiki/Cauliflower",
       "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC",
       "https://www.britannica.com/plant/cauliflower"
+    ],
+    "aliases": [
+      "花キャベツ"
     ]
   },
   {
@@ -11392,6 +11668,10 @@
       "https://en.wikipedia.org/wiki/Celery",
       "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AD%E3%83%AA",
       "https://www.britannica.com/plant/celery"
+    ],
+    "aliases": [
+      "セロリー",
+      "オランダミツバ"
     ]
   },
   {
@@ -11457,6 +11737,10 @@
       "https://en.wikipedia.org/wiki/Onion",
       "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%8D%E3%82%AE",
       "https://www.britannica.com/plant/onion-plant"
+    ],
+    "aliases": [
+      "タマネギ",
+      "オニオン"
     ]
   },
   {
@@ -11545,7 +11829,11 @@
       "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%A6%E3%83%AC%E3%83%B3%E3%82%BD%E3%82%A6",
       "https://www.britannica.com/plant/spinach"
     ],
-    "caution": "シュウ酸を多く含み、カルシウムや鉄の吸収を妨げることがある。ワルファリン（抗血液凝固剤）を服用中の方はビタミンK含有量が高いため摂取量に注意。"
+    "caution": "シュウ酸を多く含み、カルシウムや鉄の吸収を妨げることがある。ワルファリン（抗血液凝固剤）を服用中の方はビタミンK含有量が高いため摂取量に注意。",
+    "aliases": [
+      "ホウレンソウ",
+      "スピナッチ"
+    ]
   },
   {
     "id": "mushroom",
@@ -11640,6 +11928,9 @@
       "https://en.wikipedia.org/wiki/Mushroom",
       "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0",
       "https://www.britannica.com/science/mushroom"
+    ],
+    "aliases": [
+      "シャンピニオン"
     ]
   },
   {
@@ -11700,6 +11991,10 @@
       "https://en.wikipedia.org/wiki/Cucumber",
       "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%82%A6%E3%83%AA",
       "https://www.britannica.com/plant/cucumber"
+    ],
+    "aliases": [
+      "キュウリ",
+      "胡瓜"
     ]
   },
   {
@@ -11765,6 +12060,9 @@
       "https://en.wikipedia.org/wiki/Daikon",
       "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%B3%E3%83%B3",
       "https://www.specialtyproduce.com/produce/Daikon_Radish_425.php"
+    ],
+    "aliases": [
+      "ダイコン"
     ]
   },
   {
@@ -11857,6 +12155,10 @@
       "https://en.wikipedia.org/wiki/Roquefort",
       "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB",
       "https://www.roquefort.fr/en/"
+    ],
+    "aliases": [
+      "ロックフォート",
+      "ロックフォールチーズ"
     ]
   },
   {
@@ -11941,6 +12243,9 @@
       "https://en.wikipedia.org/wiki/Mayonnaise",
       "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA",
       "https://www.britannica.com/topic/mayonnaise"
+    ],
+    "aliases": [
+      "マヨ"
     ]
   },
   {
@@ -12023,6 +12328,9 @@
       "https://en.wikipedia.org/wiki/Sriracha",
       "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9",
       "https://www.britannica.com/topic/sriracha"
+    ],
+    "aliases": [
+      "シラチャソース"
     ]
   },
   {
@@ -12031,7 +12339,6 @@
     "kana": "つぁじき",
     "aliases": [
       "ジャジュク",
-      "Tzatziki",
       "ヨーグルトディップ",
       "きゅうりヨーグルトソース"
     ],
@@ -12211,6 +12518,9 @@
       "https://en.wikipedia.org/wiki/Confiture",
       "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%A0",
       "https://www.larousse.fr/dictionnaires/francais/confiture/18142"
+    ],
+    "aliases": [
+      "コンフィテュール"
     ]
   },
   {
@@ -12303,6 +12613,9 @@
       "https://en.wikipedia.org/wiki/Bolognese_sauce",
       "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AD%E3%83%8D%E3%83%BC%E3%82%BC",
       "https://www.accademiaitalianadellacucina.it/en/ricette/ricetta/ragu-alla-bolognese"
+    ],
+    "aliases": [
+      "ミートソース"
     ]
   },
   {
@@ -12398,6 +12711,9 @@
       "https://en.wikipedia.org/wiki/Pilaf",
       "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%A9%E3%83%95",
       "https://www.britannica.com/topic/pilaf"
+    ],
+    "aliases": [
+      "ピラウ"
     ]
   },
   {
@@ -12469,6 +12785,9 @@
       "https://en.wikipedia.org/wiki/Bulgur",
       "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%B0%E3%83%AB",
       "https://www.britannica.com/topic/bulgur"
+    ],
+    "aliases": [
+      "挽き割り小麦"
     ]
   },
   {
@@ -12603,6 +12922,9 @@
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%82%A4%E3%83%95",
       "https://www.tasteatlas.com/kataifi"
+    ],
+    "aliases": [
+      "カダイフ"
     ]
   },
   {
@@ -12699,7 +13021,11 @@
       "https://en.wikipedia.org/wiki/Smoked_salmon",
       "https://www.britannica.com/topic/smoked-salmon"
     ],
-    "caution": "塩分含有量が非常に高い（85gあたり約660mgのナトリウム）。塩分を制限している方は注意。また、コールドスモークは完全には加熱されていないため、免疫力が低い方や妊娠中の方は医師に相談を。"
+    "caution": "塩分含有量が非常に高い（85gあたり約660mgのナトリウム）。塩分を制限している方は注意。また、コールドスモークは完全には加熱されていないため、免疫力が低い方や妊娠中の方は医師に相談を。",
+    "aliases": [
+      "燻製サーモン",
+      "スモークドサーモン"
+    ]
   },
   {
     "id": "pelmeni",
@@ -12812,6 +13138,9 @@
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AA%E3%83%A1%E3%83%8B",
       "https://www.britannica.com/topic/pelmeni"
+    ],
+    "aliases": [
+      "ペルメニ"
     ]
   },
   {
@@ -12890,6 +13219,9 @@
       "https://en.wikipedia.org/wiki/Tonkatsu",
       "https://ja.wikipedia.org/wiki/%E8%B1%9A%E3%82%AB%E3%83%84",
       "https://www.justonecookbook.com/tonkatsu/"
+    ],
+    "aliases": [
+      "豚カツ"
     ]
   },
   {
@@ -12898,7 +13230,8 @@
     "kana": "ぶっふぶるぎにょん",
     "aliases": [
       "ブフ・ブルギニョン",
-      "ビーフブルゴーニュ"
+      "ビーフブルゴーニュ",
+      "牛肉の赤ワイン煮込み"
     ],
     "englishName": "Beef Bourguignon",
     "originalName": "Bœuf Bourguignon",
@@ -13271,6 +13604,9 @@
     "source": [
       "https://en.wikipedia.org/wiki/Ballotine",
       "https://www.greatbritishchefs.com/how-to-cook/how-to-make-a-ballotine"
+    ],
+    "aliases": [
+      "バロティーヌ"
     ]
   },
   {
@@ -13279,8 +13615,6 @@
     "kana": "あろぜ",
     "aliases": [
       "バスティング",
-      "Arroser",
-      "Basting",
       "スプーンがけ"
     ],
     "englishName": "Basting",
@@ -13350,7 +13684,8 @@
     "kana": "かちゃとーら",
     "aliases": [
       "ポッロ・アッラ・カチャトーラ",
-      "鶏の猟師風"
+      "鶏の猟師風",
+      "カチャトーレ"
     ],
     "englishName": "Chicken Cacciatore",
     "originalName": "Pollo alla Cacciatore",
@@ -13614,7 +13949,6 @@
     "name": "もずく",
     "kana": "もずく",
     "aliases": [
-      "もずく",
       "もずく酢",
       "オキナワモズク"
     ],
@@ -13769,7 +14103,8 @@
     "kana": "とうふよう",
     "aliases": [
       "沖縄豆腐",
-      "紅麹豆腐"
+      "紅麹豆腐",
+      "豆腐よう"
     ],
     "englishName": "Okinawan Fermented Tofu",
     "originalName": "豆腐餻 (とうふよう)",
@@ -13848,7 +14183,8 @@
     "kana": "ヴぃしそわーず",
     "aliases": [
       "冷製ポタージュ",
-      "ポワロスープ"
+      "ポワロスープ",
+      "ビシソワーズ"
     ],
     "englishName": "Vichyssoise",
     "originalName": "Vichyssoise",
@@ -14040,6 +14376,9 @@
       "https://en.wikipedia.org/wiki/Fricassee",
       "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%82%AB%E3%83%83%E3%82%BB",
       "https://www.britannica.com/topic/fricassee"
+    ],
+    "aliases": [
+      "フリカセ"
     ]
   },
   {
@@ -14257,7 +14596,8 @@
     "kana": "ぶっふされ",
     "aliases": [
       "塩漬け牛肉",
-      "プチサレ・ド・ブッフ"
+      "プチサレ・ド・ブッフ",
+      "ブフサレ"
     ],
     "englishName": "Salted Beef",
     "originalName": "Bœuf Salé",
@@ -14344,7 +14684,8 @@
     "kana": "り・ど・ゔぉ",
     "aliases": [
       "仔牛の胸腺",
-      "スイートブレッド"
+      "スイートブレッド",
+      "スウィートブレッド"
     ],
     "englishName": "Veal Sweetbreads",
     "originalName": "Ris de Veau",
@@ -14425,7 +14766,8 @@
     "kana": "れんずまめ",
     "aliases": [
       "レンティル",
-      "レンズ豆の煮込み"
+      "レンズ豆の煮込み",
+      "レンティーユ"
     ],
     "englishName": "Lentils",
     "originalName": "Lentilles",
@@ -14997,7 +15339,6 @@
     "name": "成吉思汗",
     "kana": "じんぎすかん",
     "aliases": [
-      "ジンギスカン",
       "ラム肉BBQ"
     ],
     "englishName": "Jingisukan",
@@ -15164,7 +15505,8 @@
     "kana": "まんとう",
     "aliases": [
       "マントウ",
-      "中国蒸しパン"
+      "中国蒸しパン",
+      "マントー"
     ],
     "englishName": "Chinese Steamed Bun",
     "originalName": "馒头 (Mántou)",
@@ -15429,7 +15771,8 @@
     "kana": "ゆーしゃんろーす",
     "aliases": [
       "ユーシャンロース",
-      "魚香肉丝"
+      "魚香肉丝",
+      "ユーシャンロースー"
     ],
     "englishName": "Fish-Fragrant Shredded Pork",
     "originalName": "鱼香肉丝 (Yúxiāng Ròusī)",
@@ -15594,7 +15937,6 @@
     "name": "宮保鶏丁",
     "kana": "ごんばおじーでぃん",
     "aliases": [
-      "宮保鶏丁",
       "kung pao chicken",
       "クンパオチキン"
     ],
@@ -15677,7 +16019,6 @@
     "name": "夫妻肺片",
     "kana": "ふーちーふぇいぴぇん",
     "aliases": [
-      "夫妻肺片",
       "フーチーフェイピエン"
     ],
     "englishName": "Husband and Wife Beef Slices",
@@ -16704,7 +17045,8 @@
     "kana": "やんちょうちゃおふぁん",
     "aliases": [
       "ヤンチョウ炒飯",
-      "特製炒飯"
+      "特製炒飯",
+      "揚州チャーハン"
     ],
     "englishName": "Yangzhou Fried Rice",
     "originalName": "扬州炒饭 (Yángzhōu Chǎofàn)",
@@ -16846,7 +17188,7 @@
     "kana": "どんぽーろう",
     "aliases": [
       "トンポーロウ",
-      "東坡肉"
+      "東坡ポーク"
     ],
     "englishName": "Dongpo Pork",
     "originalName": "东坡肉 (Dōngpōròu)",
@@ -16950,7 +17292,6 @@
     "name": "めふん",
     "kana": "めふん",
     "aliases": [
-      "めふん",
       "鮭の腎臓の塩辛"
     ],
     "englishName": "Mefun",
@@ -17034,7 +17375,6 @@
     "name": "寒造里",
     "kana": "かんずり",
     "aliases": [
-      "かんずり",
       "雪さらし唐辛子"
     ],
     "englishName": "Kanzuri",
@@ -17120,7 +17460,6 @@
     "name": "野蒜",
     "kana": "のびる",
     "aliases": [
-      "のびる",
       "野生ニンニク",
       "野ニラ"
     ],
@@ -17195,7 +17534,6 @@
     "name": "玉筋魚",
     "kana": "いかなご",
     "aliases": [
-      "いかなご",
       "イカナゴ",
       "コウナゴ",
       "新子",
@@ -17278,7 +17616,6 @@
     "name": "治部煮",
     "kana": "じぶに",
     "aliases": [
-      "じぶに",
       "加賀治部煮"
     ],
     "englishName": "Jibuni",
@@ -17458,7 +17795,6 @@
     "name": "片木蕎麦",
     "kana": "へぎそば",
     "aliases": [
-      "へぎそば",
       "ヘギソバ",
       "布海苔そば"
     ],
@@ -17544,7 +17880,6 @@
     "name": "氷頭膾",
     "kana": "ひずなます",
     "aliases": [
-      "ひずなます",
       "鮭の氷頭"
     ],
     "englishName": "Salmon Cartilage Vinegar Salad",
@@ -17628,7 +17963,6 @@
     "name": "卓袱饂飩",
     "kana": "しっぽくうどん",
     "aliases": [
-      "しっぽくうどん",
       "しっぽく"
     ],
     "englishName": "Shippoku Udon",
@@ -17717,7 +18051,6 @@
     "name": "火場焼",
     "kana": "ひばやき",
     "aliases": [
-      "ひばやき",
       "囲炉裏焼き"
     ],
     "englishName": "Hibayaki Irori Grilling",
@@ -17793,7 +18126,6 @@
     "name": "飫肥天",
     "kana": "おびてん",
     "aliases": [
-      "おびてん",
       "飫肥の天ぷら"
     ],
     "englishName": "Obi-ten Fried Fish Cake",
@@ -17870,7 +18202,6 @@
     "name": "皿鉢料理",
     "kana": "さわちりょうり",
     "aliases": [
-      "さわちりょうり",
       "土佐の皿鉢"
     ],
     "englishName": "Sawachi Ryori",
@@ -17950,7 +18281,6 @@
     "name": "三五八漬け",
     "kana": "さごはちづけ",
     "aliases": [
-      "さごはちづけ",
       "三五八"
     ],
     "englishName": "Sangoha-chi Zuke",
@@ -18030,7 +18360,6 @@
     "name": "スカモルツァ・ビアンカ",
     "kana": "すかもるつぁ びあんこ",
     "aliases": [
-      "スカモルツァ・ビアンカ",
       "白スカモルツァ",
       "生スカモルツァ"
     ],
@@ -18190,8 +18519,8 @@
     "name": "クレマ・カタラーナ",
     "kana": "くれまかたらーな",
     "aliases": [
-      "クレマ・カタラーナ",
-      "カタルーニャのクリーム"
+      "カタルーニャのクリーム",
+      "カタラン風クリームブリュレ"
     ],
     "englishName": "Crema Catalana",
     "originalName": "Crema Catalana",
@@ -19861,8 +20190,7 @@
     "aliases": [
       "ゆでる",
       "茹で",
-      "ボイリング",
-      "Boil"
+      "ボイリング"
     ],
     "englishName": "Boil",
     "category": "調理法",
@@ -20013,6 +20341,11 @@
     "source": [
       "https://ja.wikipedia.org/wiki/%E6%B0%B4%E8%92%B8%E6%B0%97",
       "https://www.britannica.com/topic/steaming-cooking"
+    ],
+    "aliases": [
+      "蒸す",
+      "蒸し",
+      "スチーミング"
     ]
   },
   {
@@ -20087,6 +20420,10 @@
       "https://en.wikipedia.org/wiki/Deep_frying",
       "https://ja.wikipedia.org/wiki/%E6%8F%9A%E3%81%92%E7%89%A9",
       "https://www.britannica.com/topic/frying"
+    ],
+    "aliases": [
+      "揚げる",
+      "揚げ物"
     ]
   },
   {
@@ -20159,6 +20496,10 @@
       "https://en.wikipedia.org/wiki/Confit",
       "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3",
       "https://www.seriouseats.com/how-to-poach-food-in-olive-oil"
+    ],
+    "aliases": [
+      "オイルポーチング",
+      "油煮"
     ]
   },
   {
@@ -20340,6 +20681,9 @@
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%AA%E3%83%BC",
       "https://www.larousse.fr/dictionnaires/francais/gel%C3%A9e/36526"
+    ],
+    "aliases": [
+      "ゼリー"
     ]
   },
   {
@@ -20416,6 +20760,9 @@
       "https://en.wikipedia.org/wiki/Roasting",
       "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%86%E3%82%A3",
       "https://www.larousse.fr/dictionnaires/francais/r%C3%B4tir/69940"
+    ],
+    "aliases": [
+      "ロースト"
     ]
   },
   {
@@ -20424,8 +20771,7 @@
     "kana": "ぐらちね",
     "aliases": [
       "オー・グラタン",
-      "au gratin",
-      "Gratiné"
+      "au gratin"
     ],
     "englishName": "Gratiné",
     "originalName": "Gratiné",
@@ -20575,6 +20921,9 @@
       "https://en.wikipedia.org/wiki/Caramelization",
       "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%A1%E3%83%AB%E5%8C%96",
       "https://www.britannica.com/topic/caramelization"
+    ],
+    "aliases": [
+      "カラメリゼ"
     ]
   },
   {
@@ -20708,6 +21057,10 @@
       "https://en.wikipedia.org/wiki/Smoking_(cooking)",
       "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AF",
       "https://www.britannica.com/topic/smoking-food-preservation"
+    ],
+    "aliases": [
+      "燻製",
+      "燻す"
     ]
   },
   {
@@ -20776,7 +21129,11 @@
       "https://en.wikipedia.org/wiki/Beef_aging",
       "https://www.seriouseats.com/the-food-lab-complete-guide-to-dry-aging-beef-at-home"
     ],
-    "caution": "専用設備と温度・衛生管理が必要なプロセスで、家庭では再現困難。独特の熟成香が強く、慣れていないと苦手と感じる場合がある。"
+    "caution": "専用設備と温度・衛生管理が必要なプロセスで、家庭では再現困難。独特の熟成香が強く、慣れていないと苦手と感じる場合がある。",
+    "aliases": [
+      "熟成",
+      "ドライエージング"
+    ]
   },
   {
     "id": "mixing",
@@ -20907,6 +21264,9 @@
       "https://en.wikipedia.org/wiki/Pur%C3%A9e",
       "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%A5%E3%83%AC",
       "https://www.britannica.com/topic/puree"
+    ],
+    "aliases": [
+      "ピューレ"
     ]
   },
   {
@@ -21049,6 +21409,9 @@
       "https://en.wikipedia.org/wiki/Emulsion",
       "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B7%E3%83%A7%E3%83%B3",
       "https://www.britannica.com/science/emulsion"
+    ],
+    "aliases": [
+      "乳化"
     ]
   },
   {
@@ -21057,7 +21420,6 @@
     "kana": "でぐらっせ",
     "aliases": [
       "デグレイズ",
-      "Deglaze",
       "鍋底の旨み"
     ],
     "englishName": "Deglaze",
@@ -21212,6 +21574,10 @@
     "source": [
       "https://en.wikipedia.org/wiki/Reduction_(cooking)",
       "https://www.larousse.fr/dictionnaires/francais/r%C3%A9duire/67542"
+    ],
+    "aliases": [
+      "リダクション",
+      "煮詰める"
     ]
   },
   {
@@ -21275,6 +21641,9 @@
     "source": [
       "https://en.wikipedia.org/wiki/Infusion",
       "https://www.larousse.fr/dictionnaires/francais/infuser/42977"
+    ],
+    "aliases": [
+      "インフュージョン"
     ]
   },
   {
@@ -21341,6 +21710,10 @@
       "https://en.wikipedia.org/wiki/Tempering_(chocolate)",
       "https://en.wikipedia.org/wiki/Tempering_(spices)",
       "https://www.larousse.fr/dictionnaires/francais/temp%C3%A9rage/77341"
+    ],
+    "aliases": [
+      "タルカ",
+      "テンパー"
     ]
   },
   {
@@ -21402,6 +21775,10 @@
       "https://en.wikipedia.org/wiki/Blanching_%28cooking%29",
       "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E3%83%B3%E3%82%B0",
       "https://www.britannica.com/topic/blanching-cooking"
+    ],
+    "aliases": [
+      "湯通し",
+      "下茹で"
     ]
   },
   {
@@ -21609,6 +21986,10 @@
       "https://en.wikipedia.org/wiki/Maceration_(food)",
       "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%BB%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
       "https://www.larousse.fr/dictionnaires/francais/mac%C3%A9rer/48513"
+    ],
+    "aliases": [
+      "マセレーション",
+      "浸漬"
     ]
   },
   {
@@ -21679,6 +22060,9 @@
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%83%83%E3%83%97",
       "https://www.britannica.com/topic/syrup"
+    ],
+    "aliases": [
+      "シロップポーチ"
     ]
   },
   {
@@ -21964,6 +22348,10 @@
       "https://en.wikipedia.org/wiki/Baba_ghanoush",
       "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%90%E3%82%AC%E3%83%8C%E3%83%BC%E3%82%B7%E3%83%A5",
       "https://www.britannica.com/topic/baba-ghanoush"
+    ],
+    "aliases": [
+      "バーバガヌーシュ",
+      "ババガヌージュ"
     ]
   },
   {
@@ -22067,6 +22455,9 @@
       "https://en.wikipedia.org/wiki/Sambal",
       "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%90%E3%83%AB",
       "https://www.britannica.com/topic/sambal"
+    ],
+    "aliases": [
+      "サンバルソース"
     ]
   },
   {
@@ -22158,6 +22549,10 @@
       "https://en.wikipedia.org/wiki/Fish_sauce",
       "https://ja.wikipedia.org/wiki/%E9%AD%9A%E9%86%A4",
       "https://www.britannica.com/topic/fish-sauce"
+    ],
+    "aliases": [
+      "フィッシュソース",
+      "タイ魚醤"
     ]
   },
   {
@@ -22250,6 +22645,10 @@
       "https://en.wikipedia.org/wiki/Oyster_sauce",
       "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%B9",
       "https://www.britannica.com/topic/oyster-sauce"
+    ],
+    "aliases": [
+      "蠔油",
+      "カキ油"
     ]
   },
   {
@@ -22324,6 +22723,9 @@
       "https://en.wikipedia.org/wiki/Tianmian_sauce",
       "https://ja.wikipedia.org/wiki/%E7%94%9C%E9%BA%BA%E9%86%A4",
       "https://thewoksoflife.com/sweet-bean-sauce-tian-mian-jiang/"
+    ],
+    "aliases": [
+      "甜面酱"
     ]
   },
   {
@@ -22440,6 +22842,10 @@
       "https://en.wikipedia.org/wiki/Doubanjiang",
       "https://ja.wikipedia.org/wiki/%E8%B1%86%E6%9D%BF%E9%86%A4",
       "https://thewoksoflife.com/doubanjiang/"
+    ],
+    "aliases": [
+      "豆瓣酱",
+      "四川豆板醤"
     ]
   },
   {
@@ -22605,6 +23011,9 @@
       "https://en.wikipedia.org/wiki/Gochujang",
       "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%81%E3%83%A5%E3%82%B8%E3%83%A3%E3%83%B3",
       "https://www.maangchi.com/ingredient/gochujang"
+    ],
+    "aliases": [
+      "コチジャン"
     ]
   },
   {
@@ -22742,6 +23151,9 @@
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%81%E3%83%A3%E3%83%83%E3%83%97",
       "https://www.britannica.com/topic/ketchup"
+    ],
+    "aliases": [
+      "トマトケチャップ"
     ]
   },
   {
@@ -22830,6 +23242,9 @@
       "https://en.wikipedia.org/wiki/Mustard_%28condiment%29",
       "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%89",
       "https://www.britannica.com/topic/mustard-condiment"
+    ],
+    "aliases": [
+      "洋がらし"
     ]
   },
   {
@@ -22839,7 +23254,6 @@
     "englishName": "Dijon mustard",
     "aliases": [
       "ディジョン",
-      "Dijon mustard",
       "ディジョン産マスタード"
     ],
     "originalName": "Moutarde de Dijon",
@@ -23001,6 +23415,10 @@
       "https://en.wikipedia.org/wiki/Horseradish",
       "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%82%B9%E3%83%A9%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5",
       "https://www.britannica.com/plant/horseradish"
+    ],
+    "aliases": [
+      "西洋わさび",
+      "レフォール"
     ]
   },
   {
@@ -23075,6 +23493,9 @@
       "https://en.wikipedia.org/wiki/Thousand_Island_dressing",
       "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B6%E3%83%B3%E3%83%89%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%89%E3%83%AC%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0",
       "https://www.britannica.com/topic/Thousand-Island-dressing"
+    ],
+    "aliases": [
+      "サウザンアイランド"
     ]
   },
   {
@@ -23084,7 +23505,6 @@
     "englishName": "Caesar dressing",
     "aliases": [
       "シーザーサラダドレッシング",
-      "Caesar dressing",
       "シーザーソース"
     ],
     "category": "ソース",
@@ -23472,6 +23892,9 @@
       "https://en.wikipedia.org/wiki/Mulukhiyah",
       "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%98%E3%82%A4%E3%83%A4",
       "https://specialtyproduce.com/produce/Molokhia_12984.php"
+    ],
+    "aliases": [
+      "ムルキーヤ"
     ]
   },
   {
@@ -23551,6 +23974,9 @@
       "https://en.wikipedia.org/wiki/Rosemary",
       "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%AA%E3%83%BC",
       "https://www.britannica.com/plant/rosemary"
+    ],
+    "aliases": [
+      "マンネンロウ"
     ]
   },
   {
@@ -23629,6 +24055,9 @@
       "https://en.wikipedia.org/wiki/Mint",
       "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%AB",
       "https://www.britannica.com/plant/mint-plant"
+    ],
+    "aliases": [
+      "ハッカ"
     ]
   },
   {
@@ -23706,6 +24135,9 @@
       "https://en.wikipedia.org/wiki/Truffle",
       "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%83%A5%E3%83%95",
       "https://www.britannica.com/science/truffle-fungus"
+    ],
+    "aliases": [
+      "西洋松露"
     ]
   },
   {
@@ -23858,6 +24290,10 @@
       "https://en.wikipedia.org/wiki/Shiitake",
       "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A4%E3%82%BF%E3%82%B1",
       "https://www.britannica.com/science/shiitake"
+    ],
+    "aliases": [
+      "シイタケ",
+      "椎茸"
     ]
   },
   {
@@ -23929,7 +24365,10 @@
       "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%83%81%E3%82%A7%E3%83%83%E3%82%BF",
       "https://www.britannica.com/topic/pancetta"
     ],
-    "caution": "豚肉と塩分が強い。グアンチャーレ（豚頬肉）とは別素材で、カルボナーラの本場ローマではグアンチャーレが正式材料とされる。"
+    "caution": "豚肉と塩分が強い。グアンチャーレ（豚頬肉）とは別素材で、カルボナーラの本場ローマではグアンチャーレが正式材料とされる。",
+    "aliases": [
+      "パンチェータ"
+    ]
   },
   {
     "id": "salami",
@@ -24105,7 +24544,10 @@
       "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%AA%E3%82%BD",
       "https://www.britannica.com/topic/chorizo"
     ],
-    "caution": "豚肉加工品のため宗教上の禁忌に注意。辛さの度合いは製品・店によって大きな差がある。"
+    "caution": "豚肉加工品のため宗教上の禁忌に注意。辛さの度合いは製品・店によって大きな差がある。",
+    "aliases": [
+      "チョリソ"
+    ]
   },
   {
     "id": "guanciale",
@@ -24176,7 +24618,10 @@
       "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AC",
       "https://www.lacucinaitaliana.com/italian-food/italian-dishes/what-is-guanciale"
     ],
-    "caution": "豚肉加工品のため宗教上の禁忌に注意。パンチェッタ（豚バラ）とは別物で、風味・脂量ともに異なる。"
+    "caution": "豚肉加工品のため宗教上の禁忌に注意。パンチェッタ（豚バラ）とは別物で、風味・脂量ともに異なる。",
+    "aliases": [
+      "グアンチャレ"
+    ]
   },
   {
     "id": "lamb",
@@ -24288,7 +24733,10 @@
       "https://ja.wikipedia.org/wiki/%E7%BE%8A%E8%82%89",
       "https://www.britannica.com/topic/lamb-meat"
     ],
-    "caution": "羊特有の香り（ラム臭）があり好みが分かれる。初めてなら香草マリネのグリルなど香りを和らげた調理のものから試すと良い。"
+    "caution": "羊特有の香り（ラム臭）があり好みが分かれる。初めてなら香草マリネのグリルなど香りを和らげた調理のものから試すと良い。",
+    "aliases": [
+      "仔羊肉"
+    ]
   },
   {
     "id": "duck",
@@ -24367,6 +24815,10 @@
       "https://en.wikipedia.org/wiki/Duck_as_food",
       "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A2%E8%82%89",
       "https://www.britannica.com/animal/duck"
+    ],
+    "aliases": [
+      "鴨肉",
+      "アヒル肉"
     ]
   },
   {
@@ -24435,6 +24887,9 @@
       "https://en.wikipedia.org/wiki/Turkey_as_food",
       "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%81%E3%83%A1%E3%83%B3%E3%83%81%E3%83%A7%E3%82%A6",
       "https://www.britannica.com/animal/turkey-bird"
+    ],
+    "aliases": [
+      "七面鳥"
     ]
   },
   {
@@ -24510,7 +24965,11 @@
       "https://ja.wikipedia.org/wiki/%E4%BB%94%E7%89%9B%E8%82%89",
       "https://www.britannica.com/topic/veal"
     ],
-    "caution": "仔牛という食材に倫理的な抵抗を感じる人がいる。ベビーカーフの場合は特に飼育環境への批判が強い。"
+    "caution": "仔牛という食材に倫理的な抵抗を感じる人がいる。ベビーカーフの場合は特に飼育環境への批判が強い。",
+    "aliases": [
+      "仔牛肉",
+      "子牛肉"
+    ]
   },
   {
     "id": "gibier",
@@ -24582,7 +25041,10 @@
       "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%93%E3%82%A8",
       "https://www.larousse.fr/dictionnaires/francais/gibier/36854"
     ],
-    "caution": "野生動物のため部位・種類・処理によって風味が大きく変わる。強い臭みが苦手な人は注意。"
+    "caution": "野生動物のため部位・種類・処理によって風味が大きく変わる。強い臭みが苦手な人は注意。",
+    "aliases": [
+      "野生鳥獣肉"
+    ]
   },
   {
     "id": "salmon",
@@ -24657,6 +25119,10 @@
       "https://en.wikipedia.org/wiki/Salmon",
       "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%B1",
       "https://www.britannica.com/animal/salmon"
+    ],
+    "aliases": [
+      "鮭",
+      "サケ"
     ]
   },
   {
@@ -24734,6 +25200,10 @@
       "https://en.wikipedia.org/wiki/Tuna",
       "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B0%E3%83%AD",
       "https://www.britannica.com/animal/tuna-fish"
+    ],
+    "aliases": [
+      "鮪",
+      "ツナ"
     ]
   },
   {
@@ -24808,6 +25278,9 @@
       "https://en.wikipedia.org/wiki/Octopus",
       "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B3",
       "https://www.britannica.com/animal/octopus-mollusk"
+    ],
+    "aliases": [
+      "蛸"
     ]
   },
   {
@@ -24881,6 +25354,9 @@
       "https://en.wikipedia.org/wiki/Squid",
       "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AB",
       "https://www.britannica.com/animal/squid"
+    ],
+    "aliases": [
+      "烏賊"
     ]
   },
   {
@@ -24964,6 +25440,9 @@
       "https://en.wikipedia.org/wiki/Mussel",
       "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%BC%E3%83%AB%E8%B2%9D",
       "https://www.britannica.com/animal/mussel"
+    ],
+    "aliases": [
+      "淡菜"
     ]
   },
   {
@@ -25046,6 +25525,10 @@
       "https://en.wikipedia.org/wiki/Scallop",
       "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BF%E3%83%86%E3%82%AC%E3%82%A4",
       "https://www.britannica.com/animal/scallop"
+    ],
+    "aliases": [
+      "帆立",
+      "帆立貝"
     ]
   },
   {
@@ -25131,6 +25614,9 @@
       "https://en.wikipedia.org/wiki/Anchovy",
       "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%82%AF%E3%83%81%E3%82%A4%E3%83%AF%E3%82%B7%E7%A7%91",
       "https://www.britannica.com/animal/anchovy"
+    ],
+    "aliases": [
+      "アンチョビー"
     ]
   },
   {
@@ -25205,6 +25691,9 @@
       "https://en.wikipedia.org/wiki/Caviar",
       "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%93%E3%82%A2",
       "https://www.britannica.com/topic/caviar"
+    ],
+    "aliases": [
+      "キャビヤ"
     ]
   },
   {
@@ -25272,6 +25761,9 @@
       "https://en.wikipedia.org/wiki/Quinoa",
       "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%8C%E3%82%A2",
       "https://www.britannica.com/plant/quinoa"
+    ],
+    "aliases": [
+      "キノア"
     ]
   },
   {
@@ -25436,6 +25928,10 @@
       "https://en.wikipedia.org/wiki/Chickpea",
       "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A8%E3%82%B3%E3%83%9E%E3%83%A1",
       "https://www.britannica.com/plant/chickpea"
+    ],
+    "aliases": [
+      "ガルバンゾー",
+      "エジプト豆"
     ]
   },
   {
@@ -25523,6 +26019,10 @@
       "https://en.wikipedia.org/wiki/Phaseolus_vulgaris",
       "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%82%A4%E3%83%B3%E3%82%B2%E3%83%B3%E3%83%9E%E3%83%A1",
       "https://www.britannica.com/plant/common-bean"
+    ],
+    "aliases": [
+      "カネリーニ豆",
+      "White kidney bean"
     ]
   },
   {
@@ -25594,7 +26094,12 @@
       "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%AB%E3%82%B0%E3%83%9E%E3%82%AB%E3%83%8B",
       "https://www.tasteatlas.com/butter-chicken"
     ],
-    "caution": "乳製品（バター・生クリーム）を多く使用するため、乳アレルギーの方は確認が必要。"
+    "caution": "乳製品（バター・生クリーム）を多く使用するため、乳アレルギーの方は確認が必要。",
+    "aliases": [
+      "ムルグマカニ",
+      "Murgh Makhani",
+      "バターチキン"
+    ]
   },
   {
     "id": "green-curry",
@@ -25716,6 +26221,11 @@
       "https://en.wikipedia.org/wiki/Green_curry",
       "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%AB%E3%83%AC%E3%83%BC",
       "https://www.tasteatlas.com/green-curry"
+    ],
+    "aliases": [
+      "ゲーン・キョウワーン",
+      "Kaeng Khiao Wan",
+      "タイグリーンカレー"
     ]
   },
   {
@@ -25723,7 +26233,6 @@
     "name": "トムヤムクン",
     "kana": "とむやむくん",
     "aliases": [
-      "トムヤムクン",
       "Tom Yum Goong",
       "酸辛スープ",
       "タイスープ"
@@ -25899,6 +26408,11 @@
       "https://en.wikipedia.org/wiki/Bun_cha",
       "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC",
       "https://vietnam.travel/things-to-do/food-guide-bun-cha"
+    ],
+    "aliases": [
+      "ブンチャ",
+      "ベトナム風つけ麺",
+      "Bun Cha"
     ]
   },
   {
@@ -25974,6 +26488,10 @@
       "https://en.wikipedia.org/wiki/Caprese_salad",
       "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B5%E3%83%A9%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%AB%E3%83%97%E3%83%AC%E3%83%BC%E3%82%BC",
       "https://www.lacucinaitaliana.com/italian-food/italian-dishes/caprese-salad"
+    ],
+    "aliases": [
+      "インサラータ・カプレーゼ",
+      "カプリ風サラダ"
     ]
   },
   {
@@ -26089,6 +26607,9 @@
     "source": [
       "https://en.wikipedia.org/wiki/Cr%C3%AApe",
       "https://www.larousse.fr/dictionnaires/francais/cr%C3%AApe/20389"
+    ],
+    "aliases": [
+      "Crepe"
     ]
   },
   {
@@ -26165,6 +26686,10 @@
       "https://en.wikipedia.org/wiki/Pirozhki",
       "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%AD%E3%82%B7%E3%82%AD",
       "https://www.britannica.com/topic/pirozhki"
+    ],
+    "aliases": [
+      "ピロシキー",
+      "Pirojki"
     ]
   },
   {
@@ -26181,7 +26706,7 @@
     ],
     "aliases": [
       "エンチラーダス",
-      "Enchilada"
+      "Enchiladas"
     ],
     "summary": "トウモロコシのトルティーヤに肉や豆、チーズを巻き、チリソースをかけてオーブンで焼くメキシコ料理。赤チリ、モレ、サルサベルデ、クリーム系など複数のソースがあり、スペイン語で「チリで味付けした」を意味する。",
     "menuDescription": "赤または緑のチリソースをたっぷりかけたトルティーヤのロール。上にチーズを溶かし、サワークリームやアボカド、コリアンダーを添えて出る。",
@@ -26275,7 +26800,7 @@
     ],
     "aliases": [
       "ナチョ",
-      "Nachos"
+      "Nacho"
     ],
     "summary": "1943年にメキシコ・ピエドラス・ネグラスでイグナシオ・アナヤが考案したテクス・メクス料理。トルティーヤチップスにチェダーやモントレージャックなどのチーズ・サルサ・ハラペーニョをのせてオーブンで焼く。カリカリのチップスがベースで、好みのトッピングを組み合わせて楽しむシェアフード。スポーツ観戦やバーの定番おつまみとして世界的に普及している。",
     "menuDescription": "チップスに具材とチーズをのせ焼いたシェア向けの一皿。ビールのおつまみやバー料理として定番。辛さを選べることも多い。",
@@ -26426,6 +26951,10 @@
       "https://en.wikipedia.org/wiki/Hamburger",
       "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC",
       "https://www.britannica.com/topic/hamburger"
+    ],
+    "aliases": [
+      "バーガー",
+      "Burger"
     ]
   },
   {
@@ -26498,6 +27027,10 @@
       "https://en.wikipedia.org/wiki/Hot_dog",
       "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%83%E3%83%88%E3%83%89%E3%83%83%E3%82%B0",
       "https://www.britannica.com/topic/hot-dog"
+    ],
+    "aliases": [
+      "ホットドック",
+      "Hot Dog"
     ]
   },
   {
@@ -26587,6 +27120,9 @@
       "https://en.wikipedia.org/wiki/Meatloaf",
       "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%83%95",
       "https://www.tasteatlas.com/meatloaf"
+    ],
+    "aliases": [
+      "Meat loaf"
     ]
   },
   {
@@ -26681,7 +27217,8 @@
     "name": "タリアテッレ",
     "kana": "たりあてっれ",
     "aliases": [
-      "タリアテルレ"
+      "タリアテルレ",
+      "リボンパスタ"
     ],
     "englishName": "Tagliatelle",
     "originalName": "Tagliatelle",
@@ -26856,6 +27393,9 @@
       "https://en.wikipedia.org/wiki/Pappardelle",
       "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%83%E3%83%91%E3%83%AB%E3%83%87%E3%83%83%E3%83%AC",
       "https://www.greatitalianchefs.com/collections/pappardelle-recipes"
+    ],
+    "aliases": [
+      "幅広パスタ"
     ]
   },
   {
@@ -26945,6 +27485,10 @@
       "https://en.wikipedia.org/wiki/Saffron",
       "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%95%E3%83%A9%E3%83%B3",
       "https://www.britannica.com/plant/saffron"
+    ],
+    "aliases": [
+      "番紅花",
+      "Crocus sativus"
     ]
   },
   {
@@ -27027,7 +27571,8 @@
     "name": "フラウタス",
     "kana": "ふらうたす",
     "aliases": [
-      "タキートス"
+      "タキートス",
+      "フラウタ"
     ],
     "englishName": "Flautas",
     "originalName": "Flautas",
@@ -27103,7 +27648,8 @@
     "name": "ポソレ",
     "kana": "ぽそれ",
     "aliases": [
-      "ポソーレ"
+      "ポソーレ",
+      "Posole"
     ],
     "englishName": "Pozole",
     "originalName": "Pozole",
@@ -27253,6 +27799,10 @@
       "https://en.wikipedia.org/wiki/Menudo_(soup)",
       "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%8C%E3%83%BC%E3%83%89_(%E6%96%99%E7%90%86)",
       "https://www.tasteatlas.com/menudo"
+    ],
+    "aliases": [
+      "パンシータ",
+      "Pancita"
     ]
   },
   {
@@ -27261,7 +27811,6 @@
     "kana": "かるねあさだ",
     "aliases": [
       "カルネアサダ",
-      "Carne Asada",
       "メキシコ焼き肉",
       "焼き牛肉"
     ],
@@ -27343,7 +27892,9 @@
     "name": "タマル",
     "kana": "たまる",
     "aliases": [
-      "タマレス"
+      "タマレス",
+      "タマーレ",
+      "Tamale"
     ],
     "englishName": "Tamales",
     "originalName": "Tamal",
@@ -27498,6 +28049,10 @@
     "source": [
       "https://en.wikipedia.org/wiki/Huevos_rancheros",
       "https://www.tasteatlas.com/huevos-rancheros"
+    ],
+    "aliases": [
+      "ランチェロス",
+      "牧場風卵"
     ]
   },
   {
@@ -27569,6 +28124,10 @@
     "source": [
       "https://en.wikipedia.org/wiki/Sopa_de_lima",
       "https://www.tasteatlas.com/sopa-de-lima"
+    ],
+    "aliases": [
+      "ライムスープ",
+      "ユカタン風ライムスープ"
     ]
   },
   {
@@ -27645,6 +28204,10 @@
     "source": [
       "https://en.wikipedia.org/wiki/Brik",
       "https://www.tasteatlas.com/brik"
+    ],
+    "aliases": [
+      "ブリク",
+      "チュニジア風春巻き"
     ]
   },
   {
@@ -27652,7 +28215,8 @@
     "name": "ファティマの指",
     "kana": "ふぁてぃまのゆび",
     "aliases": [
-      "ドワ・ド・ファティマ"
+      "ドワ・ド・ファティマ",
+      "ファトマの指"
     ],
     "englishName": "Fatima Fingers",
     "originalName": "Doigts de Fatma",
@@ -27730,7 +28294,8 @@
     "name": "メシュイアサラダ",
     "kana": "めしゅいあさらだ",
     "aliases": [
-      "サラダ・メシュイア"
+      "サラダ・メシュイア",
+      "メショウィア"
     ],
     "englishName": "Mechouia Salad",
     "originalName": "Salade méchouia",
@@ -27966,6 +28531,10 @@
       "https://en.wikipedia.org/wiki/Chorba",
       "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%AB%E3%83%90",
       "https://www.tasteatlas.com/chorba"
+    ],
+    "aliases": [
+      "ショルバ",
+      "Shorba"
     ]
   },
   {
@@ -28037,6 +28606,10 @@
       "https://en.wikipedia.org/wiki/Ojja",
       "https://fr.wikipedia.org/wiki/Ojja",
       "https://www.tasteatlas.com/ojja"
+    ],
+    "aliases": [
+      "チュニジア風シャクシュカ",
+      "Tunisian Shakshuka"
     ]
   },
   {
@@ -28107,6 +28680,10 @@
     "source": [
       "https://en.wikipedia.org/wiki/Kafteji",
       "https://www.tasteatlas.com/kafteji"
+    ],
+    "aliases": [
+      "カフタジ",
+      "チュニジア風揚げ野菜"
     ]
   },
   {
@@ -28179,6 +28756,9 @@
     "source": [
       "https://en.wikipedia.org/wiki/Kamounia",
       "https://www.tasteatlas.com/kamounia"
+    ],
+    "aliases": [
+      "カムーニア"
     ]
   },
   {
@@ -28268,6 +28848,9 @@
     "source": [
       "https://en.wikipedia.org/wiki/Loubia",
       "https://www.tasteatlas.com/loubia"
+    ],
+    "aliases": [
+      "ルービア"
     ]
   },
   {
@@ -28335,6 +28918,10 @@
     "source": [
       "https://en.wikipedia.org/wiki/Tunisian_cuisine",
       "https://www.tasteatlas.com/madfouna"
+    ],
+    "aliases": [
+      "ベルベル風ピザ",
+      "モロッコ風肉詰めパン"
     ]
   },
   {
@@ -28519,8 +29106,7 @@
     "name": "鳥中華",
     "kana": "とりちゅうか",
     "aliases": [
-      "鶏中華",
-      "とりちゅうか"
+      "鶏中華"
     ],
     "englishName": "Tori Chuka",
     "originalName": "鳥中華（とりちゅうか）",
@@ -28606,7 +29192,6 @@
     "name": "肉そば",
     "kana": "にくそば",
     "aliases": [
-      "にくそば",
       "肉蕎麦"
     ],
     "englishName": "Niku Soba",
@@ -28698,8 +29283,7 @@
     "name": "冷やしラーメン",
     "kana": "ひやしらーめん",
     "aliases": [
-      "冷しラーメン",
-      "ひやしらーめん"
+      "冷しラーメン"
     ],
     "englishName": "Hiyashi Ramen",
     "originalName": "冷やしラーメン",
@@ -28882,8 +29466,7 @@
     "name": "だだちゃ豆",
     "kana": "だだちゃまめ",
     "aliases": [
-      "ダダチャ豆",
-      "だだちゃまめ"
+      "ダダチャ豆"
     ],
     "englishName": "Dadacha Edamame",
     "originalName": "だだちゃ豆",
@@ -29172,7 +29755,6 @@
     "kana": "まんとぅ",
     "aliases": [
       "マンティ",
-      "Manti",
       "Manty"
     ],
     "englishName": "Manti",
@@ -29305,8 +29887,7 @@
     "kana": "しゔぃっとおしぃ",
     "aliases": [
       "シヴィットオシ",
-      "シュヴィット・オシ",
-      "Shivit oshi"
+      "シュヴィット・オシ"
     ],
     "englishName": "Shivit Oshi",
     "originalName": "Shivit oshi",
@@ -29392,8 +29973,7 @@
     "kana": "のはっとしょらっく",
     "aliases": [
       "ノハット・ショラク",
-      "ノハト・ショラク",
-      "Nohat shorak"
+      "ノハト・ショラク"
     ],
     "englishName": "Nohat Shorak",
     "originalName": "Nohat shorak",
@@ -29489,7 +30069,6 @@
     "kana": "しゃしりっく",
     "aliases": [
       "シャシュリク",
-      "Shashlik",
       "Shashlyk"
     ],
     "englishName": "Shashlik",
@@ -29591,7 +30170,6 @@
     "kana": "ちゅちゅゔぁら",
     "aliases": [
       "チュチュバラ",
-      "Chuchvara",
       "Chuchpara"
     ],
     "englishName": "Chuchvara",
@@ -29700,8 +30278,7 @@
     "kana": "とふむばらく",
     "aliases": [
       "トゥフム・バラク",
-      "Tukhum barak",
-      "Tuxum barak"
+      "Tukhum barak"
     ],
     "englishName": "Tukhum Barak",
     "originalName": "Tuxum barak",
@@ -30107,7 +30684,6 @@
     "aliases": [
       "アチチュク",
       "アチチュック",
-      "Achichuk",
       "Achik-chuchuk"
     ],
     "englishName": "Achichuk Salad",
@@ -30190,7 +30766,6 @@
     "kana": "ばくらじょんくぉゔるま",
     "aliases": [
       "バクラジャン・コヴルマ",
-      "Baqlajon qovurma",
       "Baklajon qovurma"
     ],
     "englishName": "Baklajon Qovurma",
@@ -30276,7 +30851,6 @@
     "aliases": [
       "カイノナティリ",
       "義母の舌",
-      "Qaynona tili",
       "Kaynonaning tili"
     ],
     "englishName": "Qaynona Tili",
@@ -30553,8 +31127,7 @@
     "aliases": [
       "ヤイラ・チョルバス",
       "ヨーグルトスープ",
-      "Yayla corbasi",
-      "Yayla çorbası"
+      "Yayla corbasi"
     ],
     "englishName": "Yayla Corbasi",
     "originalName": "Yayla çorbası",
@@ -30642,7 +31215,6 @@
     "kana": "しゃるすかぷれすかゔぃつぁ",
     "aliases": [
       "シャールスカ・プレスカヴィツァ",
-      "Šarska pljeskavica",
       "Sharska pljeskavica"
     ],
     "englishName": "Sharska Pljeskavica",
@@ -30735,9 +31307,7 @@
     "kana": "けばぷちち",
     "aliases": [
       "チェヴァプチチ",
-      "チェヴァピ",
-      "Ćevapčići",
-      "Cevapcici"
+      "チェヴァピ"
     ],
     "englishName": "Cevapcici",
     "originalName": "Ćevapčići",
@@ -30838,7 +31408,7 @@
     "kana": "たらとーる",
     "aliases": [
       "タラトル",
-      "Tarator"
+      "冷製きゅうりヨーグルトスープ"
     ],
     "englishName": "Tarator",
     "originalName": "Таратор",
@@ -30924,9 +31494,7 @@
     "name": "フェルゲサ",
     "kana": "ふぇるげさ",
     "aliases": [
-      "フェルゲセ",
-      "Fergese",
-      "Fërgesë"
+      "フェルゲセ"
     ],
     "englishName": "Fergese",
     "originalName": "Fërgesë",
@@ -31016,7 +31584,6 @@
     "aliases": [
       "ブレク",
       "バイレク",
-      "Byrek",
       "Burek"
     ],
     "englishName": "Byrek",
@@ -31114,7 +31681,6 @@
     "kana": "ぱちぇ",
     "aliases": [
       "パーチェ",
-      "Paçe",
       "Pache"
     ],
     "englishName": "Pace",
@@ -31198,8 +31764,7 @@
     "kana": "たゔぇこし",
     "aliases": [
       "タヴァ・コシ",
-      "Tave kosi",
-      "Tavë kosi"
+      "Tave kosi"
     ],
     "englishName": "Tave Kosi",
     "originalName": "Tavë kosi",
@@ -31288,7 +31853,6 @@
     "kana": "びふてくろり",
     "aliases": [
       "ビフテック・ロリ",
-      "Biftek roli",
       "Roli me biftek"
     ],
     "englishName": "Biftek Roli",
@@ -31373,9 +31937,7 @@
     "name": "キョフテ",
     "kana": "きょふて",
     "aliases": [
-      "キョフテシ",
-      "Kofte",
-      "Köfte"
+      "キョフテシ"
     ],
     "englishName": "Kofte",
     "originalName": "Köfte",
@@ -31476,7 +32038,7 @@
     "kana": "はちゃぷり",
     "aliases": [
       "ハチャプーリ",
-      "Khachapuri"
+      "ジョージア風チーズパン"
     ],
     "englishName": "Khachapuri",
     "originalName": "ხაჭაპური",
@@ -31562,7 +32124,7 @@
     "kana": "しゅくめるり",
     "aliases": [
       "シュクメルリチキン",
-      "Shkmeruli"
+      "ジョージア風ガーリックチキン"
     ],
     "englishName": "Shkmeruli",
     "originalName": "შქმერული",
@@ -31643,7 +32205,7 @@
     "kana": "ひんかり",
     "aliases": [
       "ヒンカーリ",
-      "Khinkali"
+      "ジョージア風スープ餃子"
     ],
     "englishName": "Khinkali",
     "originalName": "ხინკალი",
@@ -31809,7 +32371,7 @@
     "kana": "ちゃかぷーり",
     "aliases": [
       "チャカプリ",
-      "Chakapuli"
+      "仔羊とハーブの白ワイン煮込み"
     ],
     "englishName": "Chakapuli",
     "originalName": "ჩაქაფული",
@@ -31888,7 +32450,8 @@
     "kana": "しーらぷらゔぃ",
     "aliases": [
       "シラ・プラヴィ",
-      "Shila plavi"
+      "Shila plavi",
+      "ジョージア風ドライフルーツ入りピラフ"
     ],
     "englishName": "Shila Plavi",
     "originalName": "შილაფლავი",
@@ -31972,8 +32535,7 @@
     "name": "チャシュシュリ",
     "kana": "ちゃしゅしゅり",
     "aliases": [
-      "チャシュシュリ",
-      "Chashushuli"
+      "牛肉のトマト煮込み(ジョージア風)"
     ],
     "englishName": "Chashushuli",
     "originalName": "ჩაშუშული",
@@ -32058,8 +32620,7 @@
     "name": "プハリ",
     "kana": "ぷはり",
     "aliases": [
-      "プハリ",
-      "Pkhali"
+      "ジョージア風野菜のくるみ和え"
     ],
     "englishName": "Pkhali",
     "originalName": "ფხალი",
@@ -32139,7 +32700,7 @@
     "kana": "あじゃぷさんだり",
     "aliases": [
       "アジャプサンダル",
-      "Ajapsandali"
+      "ジョージア風野菜煮込み"
     ],
     "englishName": "Ajapsandali",
     "originalName": "აჯაფსანდალი",
@@ -32230,7 +32791,7 @@
     "kana": "おじゃくり",
     "aliases": [
       "オジャフリ",
-      "Ojakhuri"
+      "ジョージア風ポテトと肉の炒め煮"
     ],
     "englishName": "Ojakhuri",
     "originalName": "ოჯახური",
@@ -32315,8 +32876,7 @@
     "kana": "ろーりえ",
     "aliases": [
       "月桂樹の葉",
-      "ベイリーフ",
-      "Bay leaf"
+      "ベイリーフ"
     ],
     "englishName": "Bay leaf",
     "originalName": "Laurier",
@@ -32411,8 +32971,7 @@
     "kana": "こるにしょん",
     "aliases": [
       "小きゅうりのピクルス",
-      "ガーキン",
-      "Cornichon"
+      "ガーキン"
     ],
     "englishName": "Cornichon",
     "originalName": "Cornichon",
@@ -32504,8 +33063,7 @@
     "kana": "がるにちゅーる",
     "aliases": [
       "付け合わせ",
-      "ガルニ",
-      "Garniture"
+      "ガルニ"
     ],
     "englishName": "Garnish",
     "originalName": "Garniture",
@@ -32636,8 +33194,7 @@
     "kana": "しゃるきゅとり",
     "aliases": [
       "シャルキュトリー",
-      "食肉加工品",
-      "Charcuterie"
+      "食肉加工品"
     ],
     "englishName": "Charcuterie",
     "originalName": "Charcuterie",
@@ -32754,8 +33311,7 @@
     "kana": "けいぱー",
     "aliases": [
       "ケッパー",
-      "ケーパー",
-      "Caper"
+      "ケーパー"
     ],
     "englishName": "Caper",
     "originalName": "Câpre",
@@ -32859,8 +33415,7 @@
     "kana": "みるぽわ",
     "aliases": [
       "香味野菜",
-      "ミルポワ野菜",
-      "Mirepoix"
+      "ミルポワ野菜"
     ],
     "englishName": "Mirepoix",
     "originalName": "Mirepoix",
@@ -32958,8 +33513,7 @@
     "kana": "ぶーけがるに",
     "aliases": [
       "ブーケ・ガルニ",
-      "香草の束",
-      "Bouquet garni"
+      "香草の束"
     ],
     "englishName": "Bouquet garni",
     "originalName": "Bouquet garni",
@@ -33052,7 +33606,7 @@
     "kana": "せーじ",
     "aliases": [
       "サルビア",
-      "Sage"
+      "コモンセージ"
     ],
     "englishName": "Sage",
     "originalName": "Sage",
@@ -33144,9 +33698,7 @@
     "name": "ラザニア",
     "kana": "らざにあ",
     "aliases": [
-      "ラザーニャ",
-      "Lasagne",
-      "Lasagna"
+      "ラザーニャ"
     ],
     "englishName": "Lasagna",
     "originalName": "Lasagne",
@@ -33297,8 +33849,7 @@
     "kana": "ぐりゅいえーるちーず",
     "aliases": [
       "グリュイエール",
-      "Gruyere",
-      "Gruyère"
+      "Gruyere"
     ],
     "englishName": "Gruyere cheese",
     "originalName": "Gruyère",
@@ -33411,8 +33962,7 @@
     "kana": "ぐれいず",
     "aliases": [
       "グラッセ",
-      "つや出しソース",
-      "Glaze"
+      "つや出しソース"
     ],
     "englishName": "Glaze",
     "originalName": "Glaze",
@@ -33509,8 +34059,7 @@
     "kana": "たひに",
     "aliases": [
       "タヒーナ",
-      "練りごまペースト",
-      "Tahini"
+      "練りごまペースト"
     ],
     "englishName": "Tahini",
     "originalName": "Tahini",
@@ -33604,8 +34153,7 @@
     "kana": "ぴたぱん",
     "aliases": [
       "ピタ",
-      "ポケットパン",
-      "Pita bread"
+      "ポケットパン"
     ],
     "englishName": "Pita bread",
     "originalName": "Pita",
@@ -33715,8 +34263,7 @@
     "kana": "せもりな",
     "aliases": [
       "セモリナ粉",
-      "デュラムセモリナ",
-      "Semolina"
+      "デュラムセモリナ"
     ],
     "englishName": "Semolina",
     "originalName": "Semolina",
@@ -33799,7 +34346,7 @@
     "kana": "あさーど",
     "aliases": [
       "アサド",
-      "Asado"
+      "アルゼンチン風バーベキュー"
     ],
     "englishName": "Asado",
     "originalName": "Asado",
@@ -33906,8 +34453,7 @@
     "kana": "とまてぃーよ",
     "aliases": [
       "トマティージョ",
-      "メキシコほおずき",
-      "Tomatillo"
+      "メキシコほおずき"
     ],
     "englishName": "Tomatillo",
     "originalName": "Tomatillo",
@@ -34003,8 +34549,7 @@
     "kana": "ざくろ",
     "aliases": [
       "石榴",
-      "ポメグラネート",
-      "Pomegranate"
+      "ポメグラネート"
     ],
     "englishName": "Pomegranate",
     "originalName": "Pomegranate",
@@ -34088,8 +34633,7 @@
     "kana": "いんぼるてぃーに",
     "aliases": [
       "インヴォルティーニ",
-      "巻き物料理",
-      "Involtini"
+      "巻き物料理"
     ],
     "englishName": "Involtini",
     "originalName": "Involtini",
@@ -34202,8 +34746,7 @@
     "kana": "とりっぱ",
     "aliases": [
       "牛ハチノス",
-      "トライプ",
-      "Trippa"
+      "トライプ"
     ],
     "englishName": "Tripe",
     "originalName": "Trippa",
@@ -34296,7 +34839,7 @@
     "kana": "すぱなこぴた",
     "aliases": [
       "ほうれん草パイ",
-      "Spanakopita"
+      "フィロ生地のほうれん草パイ"
     ],
     "englishName": "Spanakopita",
     "originalName": "Σπανακόπιτα",
@@ -34390,8 +34933,7 @@
     "kana": "あぱれいゆ",
     "aliases": [
       "アパレイユ液",
-      "卵液",
-      "Appareil"
+      "卵液"
     ],
     "englishName": "Custard mixture",
     "originalName": "Appareil",
@@ -34485,8 +35027,7 @@
     "kana": "きっしゅろれーぬ",
     "aliases": [
       "ロレーヌ",
-      "ロレーヌ風キッシュ",
-      "Quiche Lorraine"
+      "ロレーヌ風キッシュ"
     ],
     "englishName": "Quiche Lorraine",
     "originalName": "Quiche lorraine",
@@ -34575,8 +35116,7 @@
     "kana": "さむさ",
     "aliases": [
       "サムサー",
-      "サモサ",
-      "Samsa"
+      "サモサ"
     ],
     "englishName": "Samsa",
     "originalName": "Samsa",
@@ -34672,9 +35212,7 @@
     "kana": "こんそめ",
     "aliases": [
       "コンソメスープ",
-      "澄ましスープ",
-      "Consomme",
-      "Consommé"
+      "澄ましスープ"
     ],
     "englishName": "Consomme",
     "originalName": "Consommé",
@@ -34766,8 +35304,7 @@
     "kana": "たーめりっく",
     "aliases": [
       "ウコン",
-      "鬱金",
-      "Turmeric"
+      "鬱金"
     ],
     "englishName": "Turmeric",
     "originalName": "Turmeric",
@@ -34869,9 +35406,7 @@
     "name": "トルティーヤスープ",
     "kana": "とるてぃーやすーぷ",
     "aliases": [
-      "ソパ・デ・トルティーヤ",
-      "Sopa de tortilla",
-      "Tortilla soup"
+      "ソパ・デ・トルティーヤ"
     ],
     "englishName": "Tortilla soup",
     "originalName": "Sopa de tortilla",
@@ -34957,8 +35492,7 @@
     "kana": "れいめん",
     "aliases": [
       "ネンミョン",
-      "冷麵",
-      "Naengmyeon"
+      "冷麵"
     ],
     "englishName": "Naengmyeon",
     "originalName": "냉면",
@@ -35038,9 +35572,7 @@
     "name": "味噌こんにゃく",
     "kana": "みそこんにゃく",
     "aliases": [
-      "みそこんにゃく",
-      "味噌田楽こんにゃく",
-      "Miso konnyaku"
+      "味噌田楽こんにゃく"
     ],
     "englishName": "Miso konnyaku",
     "originalName": "味噌こんにゃく",
@@ -35236,8 +35768,7 @@
     "name": "ラビオリ",
     "kana": "らびおり",
     "aliases": [
-      "ラヴィオリ",
-      "Ravioli"
+      "ラヴィオリ"
     ],
     "englishName": "Ravioli",
     "originalName": "Ravioli",
@@ -35325,8 +35856,7 @@
     "name": "カチュンバル",
     "kana": "かちゅんばる",
     "aliases": [
-      "カチュンバリ",
-      "Kachumbari"
+      "カチュンバリ"
     ],
     "englishName": "Kachumbari",
     "originalName": "Kachumbari",
@@ -35416,8 +35946,7 @@
     "kana": "ぴこでがよ",
     "aliases": [
       "ピコデガヨ",
-      "サルサ・フレスカ",
-      "Pico de gallo"
+      "サルサ・フレスカ"
     ],
     "englishName": "Pico de gallo",
     "originalName": "Pico de gallo",
@@ -35504,7 +36033,7 @@
     "kana": "べいくどびーんず",
     "aliases": [
       "ベイクトビーンズ",
-      "Baked beans"
+      "ボストンベイクドビーンズ"
     ],
     "englishName": "Baked beans",
     "originalName": "Baked beans",
@@ -35594,8 +36123,7 @@
     "kana": "ぎりしゃさらだ",
     "aliases": [
       "ホリアティキ",
-      "グリークサラダ",
-      "Greek salad"
+      "グリークサラダ"
     ],
     "englishName": "Greek salad",
     "originalName": "Horiatiki",
@@ -35677,8 +36205,7 @@
     "name": "サモサ",
     "kana": "さもさ",
     "aliases": [
-      "サモーサ",
-      "Samosa"
+      "サモーサ"
     ],
     "englishName": "Samosa",
     "originalName": "Samosa",
@@ -35801,8 +36328,7 @@
     "name": "もんじゃ焼き",
     "kana": "もんじゃやき",
     "aliases": [
-      "もんじゃ",
-      "Monjayaki"
+      "もんじゃ"
     ],
     "englishName": "Monjayaki",
     "originalName": "もんじゃ焼き",
@@ -35896,8 +36422,7 @@
     "name": "お好み焼き",
     "kana": "おこのみやき",
     "aliases": [
-      "関西風お好み焼き",
-      "Okonomiyaki"
+      "関西風お好み焼き"
     ],
     "englishName": "Okonomiyaki",
     "originalName": "お好み焼き",
@@ -36024,8 +36549,7 @@
     "name": "茶豆",
     "kana": "ちゃまめ",
     "aliases": [
-      "茶まめ",
-      "Brown edamame"
+      "茶まめ"
     ],
     "englishName": "Brown edamame",
     "originalName": "茶豆",
@@ -36226,8 +36750,7 @@
     "name": "ピクルス",
     "kana": "ぴくるす",
     "aliases": [
-      "酢漬け",
-      "Pickles"
+      "酢漬け"
     ],
     "englishName": "Pickles",
     "originalName": "Pickles",
@@ -36332,7 +36855,7 @@
     "kana": "くみん",
     "aliases": [
       "キュミン",
-      "Cumin"
+      "クミンシード"
     ],
     "englishName": "Cumin",
     "originalName": "Cumin",
@@ -36428,8 +36951,7 @@
     "name": "田楽",
     "kana": "でんがく",
     "aliases": [
-      "味噌田楽",
-      "Dengaku"
+      "味噌田楽"
     ],
     "englishName": "Dengaku",
     "originalName": "田楽",
@@ -36564,8 +37086,7 @@
     "name": "ジャージャー麺",
     "kana": "じゃーじゃーめん",
     "aliases": [
-      "炸醤麺",
-      "Zhajiangmian"
+      "ジャジャン麺"
     ],
     "englishName": "Zhajiangmian",
     "originalName": "炸醤麺",
@@ -36655,8 +37176,7 @@
     "name": "油そば",
     "kana": "あぶらそば",
     "aliases": [
-      "まぜそば",
-      "Abura soba"
+      "まぜそば"
     ],
     "englishName": "Abura soba",
     "originalName": "油そば",
@@ -36752,8 +37272,7 @@
     "kana": "ちりこんかん",
     "aliases": [
       "チリコンカルネ",
-      "チリ",
-      "Chili con carne"
+      "チリ"
     ],
     "englishName": "Chili con carne",
     "originalName": "Chili con carne",
@@ -36851,8 +37370,7 @@
     "kana": "こりあんだー",
     "aliases": [
       "コリアンダーシード",
-      "香菜子",
-      "Coriander seed"
+      "香菜子"
     ],
     "englishName": "Coriander seed",
     "originalName": "Coriander",
@@ -36965,8 +37483,7 @@
     "name": "枝豆",
     "kana": "えだまめ",
     "aliases": [
-      "えだ豆",
-      "Edamame"
+      "えだ豆"
     ],
     "englishName": "Edamame",
     "originalName": "枝豆",
@@ -37149,9 +37666,7 @@
     "name": "春巻き",
     "kana": "はるまき",
     "aliases": [
-      "春卷",
-      "スプリングロール",
-      "Spring roll"
+      "スプリングロール"
     ],
     "englishName": "Spring roll",
     "originalName": "春卷",
@@ -37254,8 +37769,7 @@
     "name": "照り焼き",
     "kana": "てりやき",
     "aliases": [
-      "テリヤキ",
-      "Teriyaki"
+      "テリヤキ"
     ],
     "englishName": "Teriyaki",
     "originalName": "照り焼き",
@@ -37362,8 +37876,7 @@
     "kana": "ちぢみ",
     "aliases": [
       "韓国風お好み焼き",
-      "ジョン",
-      "Buchimgae"
+      "ジョン"
     ],
     "englishName": "Buchimgae",
     "originalName": "부침개",
@@ -37450,8 +37963,7 @@
     "name": "冷やし中華",
     "kana": "ひやしちゅうか",
     "aliases": [
-      "冷し中華",
-      "Hiyashi chuka"
+      "冷し中華"
     ],
     "englishName": "Hiyashi chuka",
     "originalName": "冷やし中華",
@@ -37538,8 +38050,7 @@
     "name": "たこ焼き",
     "kana": "たこやき",
     "aliases": [
-      "蛸焼き",
-      "Takoyaki"
+      "蛸焼き"
     ],
     "englishName": "Takoyaki",
     "originalName": "たこ焼き",
@@ -37657,8 +38168,7 @@
     "name": "バーベキュー",
     "kana": "ばーべきゅー",
     "aliases": [
-      "BBQ",
-      "Barbecue"
+      "BBQ"
     ],
     "englishName": "Barbecue",
     "originalName": "Barbecue",
@@ -37752,8 +38262,7 @@
     "name": "ナン",
     "kana": "なん",
     "aliases": [
-      "ナーン",
-      "Naan"
+      "ナーン"
     ],
     "englishName": "Naan",
     "originalName": "Naan",
@@ -37963,8 +38472,7 @@
     "name": "おこわ",
     "kana": "おこわ",
     "aliases": [
-      "御強",
-      "Okowa"
+      "御強"
     ],
     "englishName": "Okowa",
     "originalName": "おこわ",
@@ -38058,8 +38566,7 @@
     "name": "おでん",
     "kana": "おでん",
     "aliases": [
-      "御田",
-      "Oden"
+      "御田"
     ],
     "englishName": "Oden",
     "originalName": "おでん",
@@ -38221,7 +38728,6 @@
     "kana": "しょうゆ",
     "aliases": [
       "しょう油",
-      "Soy sauce",
       "Shoyu"
     ],
     "englishName": "Soy sauce",
@@ -38341,7 +38847,7 @@
     "name": "トマト",
     "kana": "とまと",
     "aliases": [
-      "Tomato"
+      "赤茄子"
     ],
     "englishName": "Tomato",
     "originalName": "Tomato",
@@ -38528,8 +39034,7 @@
     "name": "蒲焼き",
     "kana": "かばやき",
     "aliases": [
-      "蒲焼",
-      "Kabayaki"
+      "蒲焼"
     ],
     "englishName": "Kabayaki",
     "originalName": "蒲焼き",
@@ -38652,8 +39157,7 @@
     "name": "うどん",
     "kana": "うどん",
     "aliases": [
-      "饂飩",
-      "Udon"
+      "饂飩"
     ],
     "englishName": "Udon",
     "originalName": "うどん",
@@ -38862,8 +39366,7 @@
     "name": "麻婆豆腐",
     "kana": "まーぼーどうふ",
     "aliases": [
-      "マーボー豆腐",
-      "麻婆豆腐"
+      "マーボー豆腐"
     ],
     "englishName": "Mapo Tofu",
     "originalName": "麻婆豆腐 (Mápó Dòufu)",
@@ -39168,7 +39671,8 @@
     "kana": "ちんじゃおろーす",
     "aliases": [
       "チンジャオロース",
-      "青椒肉丝"
+      "青椒肉丝",
+      "チンジャオロースー"
     ],
     "englishName": "Green Pepper Shredded Pork",
     "originalName": "青椒肉丝 (Qīngjiāo Ròusī)",
@@ -40612,7 +41116,6 @@
     "kana": "しょうすーろう",
     "aliases": [
       "シャオスーロウ",
-      "小酥肉",
       "四川風豚肉唐揚げ"
     ],
     "englishName": "Crispy Fried Pork Strips",
@@ -40922,7 +41425,7 @@
     "kana": "すてーき",
     "aliases": [
       "ビーフステーキ",
-      "Steak"
+      "ビフテキ"
     ],
     "englishName": "Steak",
     "originalName": "Steak",
@@ -41058,8 +41561,8 @@
     "name": "クラムチャウダー",
     "kana": "くらむちゃうだー",
     "aliases": [
-      "クラムチャウダー",
-      "Clam chowder"
+      "ニューイングランド風クラムチャウダー",
+      "あさりのチャウダー"
     ],
     "englishName": "Clam chowder",
     "originalName": "Clam chowder",
@@ -41135,8 +41638,7 @@
     "name": "スペアリブ",
     "kana": "すぺありぶ",
     "aliases": [
-      "ポークリブ",
-      "Spare ribs"
+      "ポークリブ"
     ],
     "englishName": "Spare ribs",
     "originalName": "Spare ribs",
@@ -41233,7 +41735,7 @@
     "kana": "じゃんばらや",
     "aliases": [
       "ジャンバラヤライス",
-      "Jambalaya"
+      "ケイジャンジャンバラヤ"
     ],
     "englishName": "Jambalaya",
     "originalName": "Jambalaya",
@@ -41409,8 +41911,7 @@
     "name": "バナナフォスター",
     "kana": "ばななふぉすたー",
     "aliases": [
-      "バナナズフォスター",
-      "Bananas Foster"
+      "バナナズフォスター"
     ],
     "englishName": "Bananas Foster",
     "originalName": "Bananas Foster",
@@ -43536,7 +44037,6 @@
     "name": "ばらすし",
     "kana": "ばらずし",
     "aliases": [
-      "ばらずし",
       "ちらしずし",
       "散らし寿司"
     ],
@@ -47019,7 +47519,6 @@
     "name": "白酒",
     "kana": "ばいじゅう",
     "aliases": [
-      "白酒",
       "バイジウ",
       "中国白酒",
       "高粱酒"
@@ -49273,7 +49772,8 @@
     "name": "ビーフストロガノフ",
     "kana": "びーふすとろがのふ",
     "aliases": [
-      "ビーフ・ストロガノフ"
+      "ビーフ・ストロガノフ",
+      "ストロガノフ"
     ],
     "englishName": "Beef Stroganoff",
     "originalName": "Бефстроганов",
@@ -50671,6 +51171,9 @@
       "https://en.wikipedia.org/wiki/Carnaroli",
       "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BE%E3%83%83%E3%83%88",
       "https://www.risoacquerello.com/en/carnaroli-rice/"
+    ],
+    "aliases": [
+      "カルナローリ米"
     ]
   },
   {
@@ -53579,7 +54082,6 @@
     "aliases": [
       "休ませる",
       "寝かせる",
-      "Reposer",
       "レスト",
       "肉のレスト"
     ],
@@ -53826,7 +54328,8 @@
     "kana": "とぴなんぶーる",
     "aliases": [
       "菊芋",
-      "エルサレムアーティチョーク"
+      "エルサレムアーティチョーク",
+      "サンチョーク"
     ],
     "englishName": "Jerusalem Artichoke",
     "originalName": "Topinambour",
@@ -54543,7 +55046,8 @@
     "kana": "ぐーらっしゅ",
     "aliases": [
       "グヤーシュ",
-      "グラーシュ"
+      "グラーシュ",
+      "ハンガリー風牛肉煮込み"
     ],
     "englishName": "Goulash",
     "originalName": "Gulyas",
@@ -54628,7 +55132,8 @@
     "kana": "はやしらいす",
     "aliases": [
       "ハッシュドビーフライス",
-      "ハヤシ"
+      "ハヤシ",
+      "ハッシュドビーフ"
     ],
     "englishName": "Hayashi Rice",
     "originalName": "ハヤシライス",
@@ -54988,6 +55493,9 @@
       "https://en.wikipedia.org/wiki/Sh%C5%8Dch%C5%AB",
       "https://ja.wikipedia.org/wiki/%E7%84%BC%E9%85%8E",
       "https://www.britannica.com/topic/shochu"
+    ],
+    "aliases": [
+      "日本の蒸留酒"
     ]
   },
   {
@@ -55072,6 +55580,9 @@
       "https://en.wikipedia.org/wiki/Vodka",
       "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%83%E3%82%AB",
       "https://www.britannica.com/topic/vodka"
+    ],
+    "aliases": [
+      "ウォツカ"
     ]
   },
   {
@@ -55157,6 +55668,10 @@
       "https://en.wikipedia.org/wiki/Amazake",
       "https://ja.wikipedia.org/wiki/%E7%94%98%E9%85%92",
       "https://www.justonecookbook.com/amazake/"
+    ],
+    "aliases": [
+      "一夜酒",
+      "米麹甘酒"
     ]
   },
   {
@@ -55165,7 +55680,7 @@
     "kana": "ざーさい",
     "aliases": [
       "搾菜",
-      "榨菜"
+      "涪陵榨菜"
     ],
     "englishName": "Zha cai",
     "originalName": "榨菜",
@@ -55757,6 +56272,10 @@
       "https://en.wikipedia.org/wiki/Ghee",
       "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%BC",
       "https://www.seriouseats.com/how-to-make-ghee-6754667"
+    ],
+    "aliases": [
+      "澄ましバター",
+      "クラリファイドバター"
     ]
   },
   {
@@ -56309,7 +56828,8 @@
     "name": "カンダバジ",
     "kana": "かんだばじ",
     "aliases": [
-      "カンダバジー"
+      "カンダバジー",
+      "オニオンフリッター"
     ],
     "englishName": "Kanda bhaji",
     "originalName": "कांदा भजी",
@@ -56755,9 +57275,7 @@
     "kana": "くろけった",
     "aliases": [
       "クロケタ",
-      "クロケッタ",
-      "スペインコロッケ",
-      "Croqueta"
+      "スペインコロッケ"
     ],
     "englishName": "Croqueta",
     "originalName": "Croqueta",
@@ -56903,6 +57421,10 @@
       "https://en.wikipedia.org/wiki/Salmorejo",
       "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AB%E3%83%A2%E3%83%AC%E3%83%83%E3%83%9B",
       "https://www.tasteatlas.com/salmorejo"
+    ],
+    "aliases": [
+      "冷製トマトスープ",
+      "コルドバ風ガスパチョ"
     ]
   },
   {
@@ -57053,6 +57575,10 @@
       "https://en.wikipedia.org/wiki/Churro",
       "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%AD%E3%82%B9",
       "https://www.britannica.com/topic/churro"
+    ],
+    "aliases": [
+      "チュロ",
+      "スペイン風ドーナツ"
     ]
   },
   {
@@ -57127,6 +57653,9 @@
       "https://en.wikipedia.org/wiki/Sangria",
       "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%AA%E3%82%A2",
       "https://www.britannica.com/topic/sangria"
+    ],
+    "aliases": [
+      "ワインポンチ"
     ]
   },
   {
@@ -57226,7 +57755,8 @@
     "name": "ファバーダ",
     "kana": "ふぁばーだ",
     "aliases": [
-      "ファバーダ・アストゥリアーナ"
+      "ファバーダ・アストゥリアーナ",
+      "アストゥリアス風豆煮込み"
     ],
     "englishName": "Fabada",
     "originalName": "Fabada Asturiana",
@@ -57464,6 +57994,9 @@
       "https://en.wikipedia.org/wiki/Tuna_pot",
       "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B9%E3%82%AF%E6%96%99%E7%90%86",
       "https://www.tasteatlas.com/marmitako"
+    ],
+    "aliases": [
+      "バスク風ツナとじゃがいもの煮込み"
     ]
   },
   {
@@ -57550,7 +58083,8 @@
     "name": "タパス",
     "kana": "たぱす",
     "aliases": [
-      "タパ"
+      "タパ",
+      "スペイン風おつまみ"
     ],
     "englishName": "Tapas",
     "originalName": "Tapas",
@@ -57720,7 +58254,8 @@
     "name": "ピスト・マンチェゴ",
     "kana": "ぴすとまんちぇご",
     "aliases": [
-      "ピスト"
+      "ピスト",
+      "スペイン風ラタトゥイユ"
     ],
     "englishName": "Pisto Manchego",
     "originalName": "Pisto Manchego",
@@ -58887,6 +59422,9 @@
       "https://en.wikipedia.org/wiki/Doburoku",
       "https://ja.wikipedia.org/wiki/%E3%81%A9%E3%81%B6%E3%82%8D%E3%81%8F",
       "https://www.japansake.or.jp/sake/en/basic/types/doburoku/"
+    ],
+    "aliases": [
+      "濁酒"
     ]
   },
   {
@@ -58958,6 +59496,9 @@
     ],
     "source": [
       "https://www.greatitalianchefs.com/recipes/spinach-pasta-recipe"
+    ],
+    "aliases": [
+      "グリーンパスタ"
     ]
   },
   {
@@ -59029,6 +59570,10 @@
       "https://en.wikipedia.org/wiki/Ajoblanco",
       "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9B%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3%E3%82%B3",
       "https://www.tasteatlas.com/ajoblanco"
+    ],
+    "aliases": [
+      "白いガスパチョ",
+      "アーモンドの冷製スープ"
     ]
   },
   {
@@ -59037,7 +59582,6 @@
     "kana": "かなっぺ",
     "aliases": [
       "カナペ",
-      "Canapé",
       "一口前菜",
       "フィンガーフード"
     ],
@@ -59127,7 +59671,8 @@
     "englishName": "Kalimotxo",
     "originalName": "Kalimotxo",
     "aliases": [
-      "カリモチョ"
+      "カリモチョ",
+      "赤ワインコーラ"
     ],
     "category": "飲み物",
     "regions": [
@@ -59255,6 +59800,9 @@
     "source": [
       "https://en.wikipedia.org/wiki/Curry_powder",
       "https://www.mccormick.com/products/mccormick-curry-powder-1-75-oz"
+    ],
+    "aliases": [
+      "カレーパウダー"
     ]
   },
   {
@@ -59322,6 +59870,9 @@
       "https://en.wikipedia.org/wiki/Cocido_madrile%C3%B1o",
       "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B7%E3%83%BC%E3%83%89",
       "https://www.tasteatlas.com/cocido-madrileno"
+    ],
+    "aliases": [
+      "マドリード風煮込み料理"
     ]
   },
   {
@@ -59498,6 +60049,9 @@
       "https://en.wikipedia.org/wiki/Croquette",
       "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%83%E3%82%B1",
       "https://www.britannica.com/topic/croquette"
+    ],
+    "aliases": [
+      "フランス風コロッケ"
     ]
   },
   {
@@ -59572,6 +60126,9 @@
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%82%8B%E9%8D%8B",
       "https://www.tasteatlas.com/suppon-nabe"
+    ],
+    "aliases": [
+      "丸鍋"
     ]
   },
   {
@@ -59966,7 +60523,8 @@
     "englishName": "Baguette Sandwich",
     "originalName": "Sandwich baguette",
     "aliases": [
-      "フランスのサンドイッチ"
+      "フランスのサンドイッチ",
+      "バゲットサンド"
     ],
     "category": "料理",
     "regions": [
@@ -60275,6 +60833,9 @@
     "source": [
       "https://en.wikipedia.org/wiki/French_onion_soup",
       "https://www.tasteatlas.com/french-onion-soup"
+    ],
+    "aliases": [
+      "オニオングラタンスープ"
     ]
   },
   {
@@ -60355,6 +60916,10 @@
       "https://en.wikipedia.org/wiki/Baingan_bharta",
       "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AC%E3%83%B3%E3%83%BB%E3%83%90%E3%83%AB%E3%82%BF",
       "https://www.tasteatlas.com/baingan-bharta"
+    ],
+    "aliases": [
+      "ベイガンバルタ",
+      "焼きなすのマッシュ"
     ]
   },
   {
@@ -60500,6 +61065,9 @@
       "https://en.wikipedia.org/wiki/Meatball",
       "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB",
       "https://www.tasteatlas.com/polpette"
+    ],
+    "aliases": [
+      "イタリア風ミートボール"
     ]
   },
   {
@@ -60509,8 +61077,7 @@
     "englishName": "Mezze",
     "originalName": "Mezze / Meze",
     "aliases": [
-      "メッゼ",
-      "メゼ"
+      "メッゼ"
     ],
     "category": "料理",
     "regions": [
@@ -60751,6 +61318,10 @@
       "https://en.wikipedia.org/wiki/Awamori",
       "https://ja.wikipedia.org/wiki/%E6%B3%A1%E7%9B%9B",
       "https://www.visitokinawa.jp/about-okinawa/awamori"
+    ],
+    "aliases": [
+      "沖縄の蒸留酒",
+      "琉球泡盛"
     ]
   },
   {
@@ -60903,6 +61474,9 @@
       "https://en.wikipedia.org/wiki/Eggplant",
       "https://ja.wikipedia.org/wiki/%E7%84%BC%E3%81%8D%E3%81%AA%E3%81%99",
       "https://www.justonecookbook.com/yaki-nasu-grilled-eggplant/"
+    ],
+    "aliases": [
+      "焼き茄子"
     ]
   },
   {
@@ -61122,7 +61696,6 @@
     "kana": "ぶりぬい",
     "aliases": [
       "ブリン",
-      "Blini",
       "ロシアンパンケーキ"
     ],
     "englishName": "Blini",
@@ -61482,7 +62055,9 @@
     "id": "momo",
     "name": "モモ",
     "kana": "もも",
-    "aliases": [],
+    "aliases": [
+      "チベット風蒸し餃子"
+    ],
     "englishName": "Momo",
     "originalName": "मम",
     "category": "料理",
@@ -61662,7 +62237,8 @@
     "name": "クレプラッハ",
     "kana": "くれぷらっは",
     "aliases": [
-      "クレプラフ"
+      "クレプラフ",
+      "ユダヤ風水餃子"
     ],
     "englishName": "Kreplach",
     "originalName": "קרעפלעך",
@@ -61922,7 +62498,8 @@
     "name": "ラクフィスク",
     "kana": "らくふぃすく",
     "aliases": [
-      "ラケフィスク"
+      "ラケフィスク",
+      "発酵ます"
     ],
     "englishName": "Rakfisk",
     "originalName": "Rakfisk",
@@ -62008,8 +62585,7 @@
     "aliases": [
       "ブラウンチーズ",
       "イェトスト",
-      "ゲートオスト",
-      "Brunost"
+      "ゲートオスト"
     ],
     "englishName": "Brunost",
     "originalName": "Brunost",
@@ -62090,8 +62666,7 @@
     "kana": "しょっとぶっらる",
     "aliases": [
       "スウェーデン風ミートボール",
-      "ミートボール",
-      "Köttbullar"
+      "ミートボール"
     ],
     "englishName": "Swedish Meatballs",
     "originalName": "Köttbullar",
@@ -62184,9 +62759,7 @@
     "name": "ヤンソンの誘惑",
     "kana": "やんそんのゆうわく",
     "aliases": [
-      "ヤンソンス・フレステルセ",
-      "Jansson's Temptation",
-      "Janssons frestelse"
+      "ヤンソンス・フレステルセ"
     ],
     "englishName": "Jansson's Temptation",
     "originalName": "Janssons frestelse",
@@ -62275,9 +62848,7 @@
     "name": "ピッティパンナ",
     "kana": "ぴってぃぱんな",
     "aliases": [
-      "ピッティ・パンナ",
-      "Pytt i panna",
-      "Pyttipanna"
+      "ピッティ・パンナ"
     ],
     "englishName": "Pyttipanna",
     "originalName": "Pytt i panna",
@@ -62364,8 +62935,7 @@
     "name": "シュールストレミング",
     "kana": "しゅーるすとれみんぐ",
     "aliases": [
-      "発酵ニシン",
-      "Surströmming"
+      "発酵ニシン"
     ],
     "englishName": "Surstromming",
     "originalName": "Surströmming",
@@ -62453,8 +63023,7 @@
     "name": "スタンポット",
     "kana": "すたんぽっと",
     "aliases": [
-      "スタムポット",
-      "Stamppot"
+      "スタムポット"
     ],
     "englishName": "Stamppot",
     "originalName": "Stamppot",
@@ -62543,8 +63112,7 @@
     "name": "ヒュッツポット",
     "kana": "ひゅっつぽっと",
     "aliases": [
-      "フッツポット",
-      "Hutspot"
+      "フッツポット"
     ],
     "englishName": "Hutspot",
     "originalName": "Hutspot",
@@ -62627,8 +63195,7 @@
     "aliases": [
       "スネルト",
       "スプリットピースープ",
-      "Snert",
-      "Erwtensoep"
+      "Snert"
     ],
     "englishName": "Dutch Split Pea Soup",
     "originalName": "Erwtensoep",
@@ -62708,8 +63275,7 @@
     "name": "クロケット",
     "kana": "くろけっと",
     "aliases": [
-      "オランダ風コロッケ",
-      "Kroket"
+      "オランダ風コロッケ"
     ],
     "englishName": "Dutch Croquette",
     "originalName": "Kroket",
@@ -62794,8 +63360,7 @@
     "name": "ビターバレン",
     "kana": "びたーばれん",
     "aliases": [
-      "ビターバル",
-      "Bitterballen"
+      "ビターバル"
     ],
     "englishName": "Bitterballen",
     "originalName": "Bitterballen",
@@ -62964,8 +63529,7 @@
     "name": "ポッフェルチェ",
     "kana": "ぽっふぇるちぇ",
     "aliases": [
-      "ポッフェルチェス",
-      "Poffertjes"
+      "ポッフェルチェス"
     ],
     "englishName": "Poffertjes",
     "originalName": "Poffertjes",
@@ -64892,7 +65456,6 @@
     "name": "コプチャン",
     "kana": "こぷちゃん",
     "aliases": [
-      "곱창",
       "コプチャン焼き",
       "牛小腸焼き"
     ],
@@ -64986,7 +65549,6 @@
     "name": "マッチャン",
     "kana": "まっちゃん",
     "aliases": [
-      "막창",
       "マクチャン",
       "豚直腸焼き"
     ],
@@ -65381,7 +65943,6 @@
     "name": "カシラ",
     "kana": "かしら",
     "aliases": [
-      "かしら",
       "コメカミ",
       "ツラミ",
       "カシラ肉"
@@ -66246,6 +66807,10 @@
     "images": [
       "/images/dishes/chateaubriand/2.webp",
       "/images/dishes/chateaubriand/3.webp"
+    ],
+    "aliases": [
+      "シャトーブリアンステーキ",
+      "シャトーブリヤン"
     ]
   },
   {
@@ -66343,7 +66908,8 @@
     "kana": "らんぷ",
     "aliases": [
       "ラン",
-      "ランプ肉"
+      "ランプ肉",
+      "ランイチ"
     ],
     "englishName": "Rump",
     "category": "肉",
@@ -67021,7 +67587,6 @@
     "kana": "こむたん",
     "aliases": [
       "コムグク",
-      "곰탕",
       "곰국"
     ],
     "englishName": "Gomtang",
@@ -67114,8 +67679,7 @@
     "kana": "さむげたん",
     "aliases": [
       "サムゲタン",
-      "蔘鷄湯",
-      "삼계탕"
+      "蔘鷄湯"
     ],
     "englishName": "Samgye-tang",
     "originalName": "삼계탕",
@@ -67199,7 +67763,6 @@
       "白熟",
       "タッペクスク",
       "ダッペクスク",
-      "백숙",
       "닭백숙"
     ],
     "englishName": "Baeksuk",
@@ -67282,8 +67845,7 @@
     "kana": "かるびたん",
     "aliases": [
       "ガルビタン",
-      "カルビ湯",
-      "갈비탕"
+      "カルビ湯"
     ],
     "englishName": "Galbi-tang",
     "originalName": "갈비탕",
@@ -67367,7 +67929,6 @@
     "aliases": [
       "ブデチゲ",
       "部隊チゲ",
-      "부대찌개",
       "アーミースチュー"
     ],
     "englishName": "Budae-jjigae",
@@ -67765,8 +68326,7 @@
     "aliases": [
       "ピッツァ・ペスカトーレ",
       "ピザ・ペスカトーレ",
-      "ペスカトーレピザ",
-      "Pizza pescatore"
+      "ペスカトーレピザ"
     ],
     "englishName": "Pizza Pescatore",
     "originalName": "Pizza pescatore",
@@ -67882,8 +68442,7 @@
     "aliases": [
       "ピッツァ・パルマ",
       "ピザ・パルマ",
-      "パルマピザ",
-      "Pizza Parma"
+      "パルマピザ"
     ],
     "englishName": "Pizza Parma",
     "originalName": "Pizza Parma",
@@ -68054,8 +68613,7 @@
     "aliases": [
       "ピッツァ・オルトラーナ",
       "ピザ・オルトラーナ",
-      "菜園風ピザ",
-      "Pizza ortolana"
+      "菜園風ピザ"
     ],
     "englishName": "Pizza Ortolana",
     "originalName": "Pizza ortolana",
@@ -68185,8 +68743,7 @@
     "aliases": [
       "クワトロフォルマッジ",
       "4種のチーズピザ",
-      "ピッツァ・クアトロ・フォルマッジ",
-      "Pizza quattro formaggi"
+      "ピッツァ・クアトロ・フォルマッジ"
     ],
     "englishName": "Pizza Quattro Formaggi",
     "originalName": "Pizza quattro formaggi",
@@ -68351,7 +68908,6 @@
     "aliases": [
       "ピッツァ・バンビーノ",
       "ピザ・バンビーノ",
-      "Pizza bambino",
       "ピザ・ベビー"
     ],
     "englishName": "Pizza Bambino",
@@ -68507,8 +69063,7 @@
       "ピッツァ・ビアンカ",
       "ピザ・ビアンカ",
       "白いピザ",
-      "White pizza",
-      "Pizza bianca"
+      "White pizza"
     ],
     "englishName": "Pizza Bianca",
     "originalName": "Pizza bianca",
@@ -68675,7 +69230,6 @@
     "aliases": [
       "ハワイアン",
       "ピッツァ・ハワイアン",
-      "Hawaiian pizza",
       "Pizza hawaiana"
     ],
     "englishName": "Hawaiian Pizza",
@@ -68763,8 +69317,7 @@
     "kana": "びすまるく",
     "aliases": [
       "ピッツァ・ビスマルク",
-      "ピザ・ビスマルク",
-      "Pizza Bismarck"
+      "ピザ・ビスマルク"
     ],
     "englishName": "Pizza Bismarck",
     "originalName": "Pizza Bismarck",
@@ -68910,7 +69463,6 @@
       "ピッツァ・ジェノベーゼ",
       "ピザ・ジェノベーゼ",
       "ジェノベーゼ",
-      "Pizza Genovese",
       "Pesto pizza"
     ],
     "englishName": "Pizza Genovese",
@@ -69073,8 +69625,7 @@
     "aliases": [
       "ペパロニピザ",
       "ペパローニ",
-      "ピッツァ・ペパロニ",
-      "Pepperoni pizza"
+      "ピッツァ・ペパロニ"
     ],
     "englishName": "Pepperoni Pizza",
     "originalName": "Pepperoni pizza",
@@ -69172,8 +69723,7 @@
     "kana": "からぶれーぜ",
     "aliases": [
       "ピッツァ・カラブレーゼ",
-      "ピザ・カラブレーゼ",
-      "Pizza Calabrese"
+      "ピザ・カラブレーゼ"
     ],
     "englishName": "Pizza Calabrese",
     "originalName": "Pizza calabrese",
@@ -69314,7 +69864,6 @@
     "aliases": [
       "ピッツァ・ディアボラ",
       "ピザ・ディアボラ",
-      "Pizza Diavola",
       "Pizza alla diavola"
     ],
     "englishName": "Pizza Diavola",
@@ -69459,8 +70008,7 @@
     "aliases": [
       "ピッツァ・サルモーネ",
       "ピザ・サルモーネ",
-      "サーモンピザ",
-      "Pizza al salmone"
+      "サーモンピザ"
     ],
     "englishName": "Pizza Salmone",
     "originalName": "Pizza al salmone",
@@ -69607,8 +70155,7 @@
     "aliases": [
       "ボスカイモーラ",
       "ピッツァ・ボスカイオーラ",
-      "ピザ・ボスカイオーラ",
-      "Pizza boscaiola"
+      "ピザ・ボスカイオーラ"
     ],
     "englishName": "Pizza Boscaiola",
     "originalName": "Pizza boscaiola",
@@ -69747,8 +70294,7 @@
     "kana": "かぷりちょーざ",
     "aliases": [
       "ピッツァ・カプリチョーザ",
-      "ピザ・カプリチョーザ",
-      "Pizza capricciosa"
+      "ピザ・カプリチョーザ"
     ],
     "englishName": "Pizza Capricciosa",
     "originalName": "Pizza capricciosa",
@@ -69894,8 +70440,7 @@
     "aliases": [
       "クアトロ・スタジョーニ",
       "4種の季節ピザ",
-      "四季のピザ",
-      "Pizza quattro stagioni"
+      "四季のピザ"
     ],
     "englishName": "Pizza Quattro Stagioni",
     "originalName": "Pizza quattro stagioni",
@@ -70042,7 +70587,6 @@
     "aliases": [
       "フォカッチャパン",
       "フォカッチャ・ジェノベーゼ",
-      "Focaccia",
       "Focaccia genovese",
       "Panis focacius"
     ],
@@ -70260,6 +70804,10 @@
       "/images/dishes/cream-cheese/1.webp",
       "/images/dishes/cream-cheese/2.webp",
       "/images/dishes/cream-cheese/3.webp"
+    ],
+    "aliases": [
+      "クリチ",
+      "フィラデルフィア"
     ]
   },
   {
@@ -70471,6 +71019,9 @@
       "/images/dishes/cottage-cheese/1.webp",
       "/images/dishes/cottage-cheese/2.webp",
       "/images/dishes/cottage-cheese/3.webp"
+    ],
+    "aliases": [
+      "コテージチーズ"
     ]
   },
   {
@@ -70558,6 +71109,10 @@
     "images": [
       "/images/dishes/mascarpone/1.webp",
       "/images/dishes/mascarpone/2.webp"
+    ],
+    "aliases": [
+      "マスカルポネ",
+      "マスカルポーネチーズ"
     ]
   },
   {
@@ -72102,6 +72657,9 @@
       "/images/dishes/taleggio/1.webp",
       "/images/dishes/taleggio/2.webp",
       "/images/dishes/taleggio/3.webp"
+    ],
+    "aliases": [
+      "タレッジョチーズ"
     ]
   },
   {
@@ -74722,6 +75280,9 @@
       "/images/dishes/tamarind/1.webp",
       "/images/dishes/tamarind/2.webp",
       "/images/dishes/tamarind/3.webp"
+    ],
+    "aliases": [
+      "羅望子"
     ]
   },
   {
@@ -76444,7 +77005,8 @@
     "kana": "ぱっがぱおがい",
     "aliases": [
       "ガパオガイ",
-      "鶏肉のガパオ炒め"
+      "鶏肉のガパオ炒め",
+      "ガパオライス"
     ],
     "englishName": "Phat Kaphrao Gai",
     "originalName": "ผัดกะเพราไก่",
@@ -79758,7 +80320,6 @@
     "kana": "とーんいっぷ",
     "aliases": [
       "トンイップ",
-      "ทองหยิบ",
       "黄金の花菓子"
     ],
     "englishName": "Thong Yip",
@@ -80065,8 +80626,7 @@
     "kana": "るあむみっと",
     "aliases": [
       "ルアム・ミット",
-      "タイ風ミックス冷菓",
-      "รวมมิตร"
+      "タイ風ミックス冷菓"
     ],
     "englishName": "Ruam Mit",
     "originalName": "รวมมิตร",
@@ -80602,7 +81162,8 @@
     "kana": "ぐらっせ",
     "aliases": [
       "つや煮",
-      "バター煮"
+      "バター煮",
+      "グラセ"
     ],
     "englishName": "Glacé",
     "originalName": "glacé（フランス語）",
@@ -80887,7 +81448,8 @@
     "kana": "あみゅーず",
     "aliases": [
       "アミューズブーシュ",
-      "一口前菜"
+      "一口前菜",
+      "アミューズグール"
     ],
     "englishName": "Amuse-bouche",
     "originalName": "amuse-bouche（フランス語）",
@@ -83070,6 +83632,11 @@
       "/images/dishes/carbonara/1.webp",
       "/images/dishes/carbonara/2.webp",
       "/images/dishes/carbonara/3.webp"
+    ],
+    "aliases": [
+      "スパゲッティ・カルボナーラ",
+      "パスタ・アッラ・カルボナーラ",
+      "Spaghetti alla Carbonara"
     ]
   },
   {
@@ -83775,7 +84342,6 @@
     "name": "ミーチェロル",
     "kana": "みーちぇろる",
     "aliases": [
-      "Mie Celor",
       "パレンバン麺"
     ],
     "englishName": "Mie Celor",
@@ -84008,7 +84574,11 @@
     "uniquenessScore": 5,
     "heavinessScore": 3,
     "spicinessScore": 4,
-    "images": []
+    "images": [],
+    "aliases": [
+      "麻辣爆肚麺",
+      "爆肚麺"
+    ]
   },
   {
     "id": "koshari",
@@ -84093,7 +84663,6 @@
     "name": "センプラー",
     "kana": "せんぷらー",
     "aliases": [
-      "เส้นปลา",
       "センパラー"
     ],
     "englishName": "Sen Pla",
@@ -84510,8 +85079,7 @@
     "name": "アーシュレシュテ",
     "kana": "あーしゅれしゅて",
     "aliases": [
-      "アーシュ・レシュテ",
-      "Ash Reshteh"
+      "アーシュ・レシュテ"
     ],
     "englishName": "Ash Reshteh",
     "originalName": "آش رشته",
@@ -84592,7 +85160,6 @@
     "kana": "ゆべち",
     "aliases": [
       "ギュベチ",
-      "Güveç",
       "Guvec"
     ],
     "englishName": "Güveç",
@@ -84915,8 +85482,7 @@
     "aliases": [
       "プララムロンソン",
       "プララム・ロンソン",
-      "スイミング・ラーマ",
-      "Swimming Rama"
+      "スイミング・ラーマ"
     ],
     "englishName": "Swimming Rama",
     "originalName": "พระรามลงสรง (Phra Ram long song)",
@@ -85970,8 +86536,7 @@
     "kana": "らんぶーたん",
     "aliases": [
       "เงาะ",
-      "ンゴ",
-      "ランブータン"
+      "ンゴ"
     ],
     "englishName": "Rambutan",
     "originalName": "เงาะ (Ngo)",
@@ -87595,8 +88160,7 @@
     "kana": "まじぱん",
     "aliases": [
       "マルチパン",
-      "マルツィパン",
-      "Marzipan"
+      "マルツィパン"
     ],
     "englishName": "Marzipan",
     "originalName": "Marzipan",
@@ -87748,7 +88312,6 @@
     "name": "トントロ",
     "kana": "とんとろ",
     "aliases": [
-      "豚トロ",
       "ピートロ"
     ],
     "englishName": "Pork jowl",
@@ -87882,8 +88445,7 @@
     "name": "黒砂糖",
     "kana": "くろざとう",
     "aliases": [
-      "黒糖",
-      "黒砂糖"
+      "黒糖"
     ],
     "englishName": "Brown sugar cane sugar",
     "originalName": "黒砂糖",
@@ -88081,7 +88643,8 @@
     "name": "ガパオライス",
     "kana": "がぱおらいす",
     "aliases": [
-      "ガパオご飯"
+      "ガパオご飯",
+      "ガパオ"
     ],
     "englishName": "Gapao rice",
     "originalName": "ガパオライス",
@@ -88504,7 +89067,6 @@
     "name": "さつま揚げ",
     "kana": "さつまあげ",
     "aliases": [
-      "薩摩揚げ",
       "つけあげ"
     ],
     "englishName": "Satsuma-age",
@@ -88582,7 +89144,6 @@
     "name": "チェー",
     "kana": "ちぇー",
     "aliases": [
-      "Chè",
       "ベトナムぜんざい"
     ],
     "englishName": "Che",
@@ -88652,7 +89213,8 @@
     "kana": "すのーぼーるくっきー",
     "aliases": [
       "ブールドネージュ",
-      "ロシアンティーケーキ"
+      "ロシアンティーケーキ",
+      "メキシカンウェディングクッキー"
     ],
     "englishName": "Snowball cookie",
     "originalName": "Snowball cookie",
@@ -88721,7 +89283,8 @@
     "name": "マロングラッセ",
     "kana": "まろんぐらっせ",
     "aliases": [
-      "栗の砂糖漬け"
+      "栗の砂糖漬け",
+      "マロン・グラッセ"
     ],
     "englishName": "Marron glace",
     "originalName": "Marron glacé",
@@ -88957,8 +89520,7 @@
       "オアチェン",
       "オアジェン",
       "牡蠣オムレツ",
-      "O-a-tsian",
-      "Oyster omelette"
+      "O-a-tsian"
     ],
     "englishName": "Oyster omelette",
     "originalName": "蚵仔煎 (Ô-á-chian)",
@@ -89129,8 +89691,7 @@
     "kana": "すきやき",
     "aliases": [
       "鋤焼",
-      "スキヤキ",
-      "Sukiyaki"
+      "スキヤキ"
     ],
     "englishName": "Sukiyaki",
     "originalName": "すき焼き",
@@ -89561,8 +90122,7 @@
     "kana": "ひゅすまんすこすと",
     "aliases": [
       "フスマンスコスト",
-      "スウェーデン家庭料理",
-      "Husmanskost"
+      "スウェーデン家庭料理"
     ],
     "englishName": "Swedish home cooking",
     "originalName": "Husmanskost",
@@ -89651,8 +90211,7 @@
     "kana": "くれふとふぃーば",
     "aliases": [
       "クレフトシーヴァ",
-      "ザリガニパーティー",
-      "Kräftskiva"
+      "ザリガニパーティー"
     ],
     "englishName": "Crayfish Party",
     "originalName": "Kräftskiva",
@@ -89735,8 +90294,7 @@
     "kana": "あーとそっぱ",
     "aliases": [
       "エルツソッパ",
-      "スウェーデン風豆スープ",
-      "Ärtsoppa"
+      "スウェーデン風豆スープ"
     ],
     "englishName": "Swedish Pea Soup",
     "originalName": "Ärtsoppa",
@@ -89819,8 +90377,7 @@
     "kana": "ぶるーぷでぃん",
     "aliases": [
       "ブロッドプディング",
-      "スウェーデン風ブラッドプディング",
-      "Blodpudding"
+      "スウェーデン風ブラッドプディング"
     ],
     "englishName": "Swedish Blood Pudding",
     "originalName": "Blodpudding",
@@ -89898,8 +90455,7 @@
     "kana": "ぶるーこるぶ",
     "aliases": [
       "ブロッドコルブ",
-      "スウェーデン風ブラッドソーセージ",
-      "Blodkorv"
+      "スウェーデン風ブラッドソーセージ"
     ],
     "englishName": "Swedish Blood Sausage",
     "originalName": "Blodkorv",
@@ -89977,8 +90533,7 @@
     "kana": "ふぁーるこるぶ",
     "aliases": [
       "ファルコルブ",
-      "ファルンソーセージ",
-      "Falukorv"
+      "ファルンソーセージ"
     ],
     "englishName": "Falu Sausage",
     "originalName": "Falukorv",
@@ -90061,8 +90616,7 @@
     "kana": "ふぃすくぶらーる",
     "aliases": [
       "スウェーデン風フィッシュボール",
-      "魚団子",
-      "Fiskbullar"
+      "魚団子"
     ],
     "englishName": "Swedish Fish Balls",
     "originalName": "Fiskbullar",
@@ -90141,8 +90695,7 @@
     "kana": "ぽーちどさーもん",
     "aliases": [
       "インコクト・ラックス",
-      "茹でサーモン",
-      "Inkokt lax"
+      "茹でサーモン"
     ],
     "englishName": "Poached Salmon",
     "originalName": "Inkokt lax",
@@ -90224,8 +90777,7 @@
     "kana": "いすたーばんど",
     "aliases": [
       "イスターソーセージ",
-      "スウェーデン発酵ソーセージ",
-      "Isterband"
+      "スウェーデン発酵ソーセージ"
     ],
     "englishName": "Isterband",
     "originalName": "Isterband",
@@ -90308,8 +90860,7 @@
     "kana": "ゆーるふぃんか",
     "aliases": [
       "ユールシンカ",
-      "スウェーデン風クリスマスハム",
-      "Julskinka"
+      "スウェーデン風クリスマスハム"
     ],
     "englishName": "Swedish Christmas Ham",
     "originalName": "Julskinka",
@@ -90393,8 +90944,7 @@
     "name": "カロプス",
     "kana": "かろぷす",
     "aliases": [
-      "スウェーデン風ビーフシチュー",
-      "Kalops"
+      "スウェーデン風ビーフシチュー"
     ],
     "englishName": "Kalops",
     "originalName": "Kalops",
@@ -90466,8 +91016,7 @@
     "name": "コールドルマル",
     "kana": "こーるどるまる",
     "aliases": [
-      "スウェーデン風ロールキャベツ",
-      "Kåldolmar"
+      "スウェーデン風ロールキャベツ"
     ],
     "englishName": "Swedish Cabbage Rolls",
     "originalName": "Kåldolmar",
@@ -90539,8 +91088,7 @@
     "name": "ショットソッパ・メド・クリンプ",
     "kana": "しょっとそっぱめどくりんぷ",
     "aliases": [
-      "肉スープと団子",
-      "Köttsoppa med klimp"
+      "肉スープと団子"
     ],
     "englishName": "Meat Soup with Dumplings",
     "originalName": "Köttsoppa med klimp",
@@ -90613,8 +91161,7 @@
     "name": "クロップカーカ",
     "kana": "くろっぷかーか",
     "aliases": [
-      "スウェーデン風じゃがいも団子",
-      "Kroppkaka"
+      "スウェーデン風じゃがいも団子"
     ],
     "englishName": "Swedish Potato Dumpling",
     "originalName": "Kroppkaka",
@@ -90685,8 +91232,7 @@
     "name": "ルートフィスク",
     "kana": "るーとふぃすく",
     "aliases": [
-      "ルーテフィスク",
-      "Lutfisk"
+      "ルーテフィスク"
     ],
     "englishName": "Lutefisk",
     "originalName": "Lutfisk",
@@ -90758,8 +91304,7 @@
     "name": "パルト",
     "kana": "ぱると",
     "aliases": [
-      "スウェーデン風じゃがいも団子",
-      "Palt"
+      "スウェーデン風じゃがいも団子"
     ],
     "englishName": "Palt",
     "originalName": "Palt",
@@ -90832,8 +91377,7 @@
     "name": "ピーテパルト",
     "kana": "ぴーてぱると",
     "aliases": [
-      "ピーテオ風パルト",
-      "Pitepalt"
+      "ピーテオ風パルト"
     ],
     "englishName": "Pitepalt",
     "originalName": "Pitepalt",
@@ -90905,8 +91449,7 @@
     "name": "ブロッドパルト",
     "kana": "ぶろっどぱると",
     "aliases": [
-      "血入りパルト",
-      "Blodpalt"
+      "血入りパルト"
     ],
     "englishName": "Blood Palt",
     "originalName": "Blodpalt",
@@ -90977,8 +91520,7 @@
     "name": "パルトブロード",
     "kana": "ぱるとぶろーど",
     "aliases": [
-      "血入りパン",
-      "Paltbröd"
+      "血入りパン"
     ],
     "englishName": "Blood Bread",
     "originalName": "Paltbröd",
@@ -91050,8 +91592,7 @@
     "name": "レーヴェルパルト",
     "kana": "れーうぇるぱると",
     "aliases": [
-      "レバーパルト",
-      "Leverpalt"
+      "レバーパルト"
     ],
     "englishName": "Liver Palt",
     "originalName": "Leverpalt",
@@ -91121,8 +91662,7 @@
     "name": "ブローベルスパルト",
     "kana": "ぶろーべるすぱると",
     "aliases": [
-      "ブルーベリーパルト",
-      "Blåbärspalt"
+      "ブルーベリーパルト"
     ],
     "englishName": "Blueberry Palt",
     "originalName": "Blåbärspalt",
@@ -91189,8 +91729,7 @@
     "name": "パンカーカ",
     "kana": "ぱんかーか",
     "aliases": [
-      "スウェーデン風パンケーキ",
-      "Pannkaka"
+      "スウェーデン風パンケーキ"
     ],
     "englishName": "Swedish Pancake",
     "originalName": "Pannkaka",
@@ -91263,8 +91802,7 @@
     "name": "プレッタル",
     "kana": "ぷれったる",
     "aliases": [
-      "小さなスウェーデンパンケーキ",
-      "Plättar"
+      "小さなスウェーデンパンケーキ"
     ],
     "englishName": "Small Swedish Pancakes",
     "originalName": "Plättar",
@@ -91333,9 +91871,7 @@
     "name": "インラグド・シル",
     "kana": "いんらぐどしる",
     "aliases": [
-      "酢漬けニシン",
-      "Pickled Herring",
-      "Inlagd sill"
+      "酢漬けニシン"
     ],
     "englishName": "Pickled Herring",
     "originalName": "Inlagd sill",
@@ -91406,8 +91942,7 @@
     "name": "ポルサ",
     "kana": "ぽるさ",
     "aliases": [
-      "内臓ミンチ煮",
-      "Pölsa"
+      "内臓ミンチ煮"
     ],
     "englishName": "Pölsa",
     "originalName": "Pölsa",
@@ -91478,8 +92013,7 @@
     "name": "ラッグムンク",
     "kana": "らっぐむんく",
     "aliases": [
-      "スウェーデン風じゃがいもパンケーキ",
-      "Raggmunk"
+      "スウェーデン風じゃがいもパンケーキ"
     ],
     "englishName": "Swedish Potato Pancake",
     "originalName": "Raggmunk",
@@ -91550,8 +92084,7 @@
     "name": "コルブストロガノフ",
     "kana": "こるぶすとろがのふ",
     "aliases": [
-      "ソーセージストロガノフ",
-      "Korv Stroganoff"
+      "ソーセージストロガノフ"
     ],
     "englishName": "Sausage Stroganoff",
     "originalName": "Korv Stroganoff",
@@ -91621,8 +92154,7 @@
     "name": "ステークト・フレスク・オック・ブルナ・ボーナ",
     "kana": "すてーくとふれすくおっくぶるなぼーな",
     "aliases": [
-      "揚げ焼き豚と茶色豆",
-      "Stekt fläsk och bruna bönor"
+      "揚げ焼き豚と茶色豆"
     ],
     "englishName": "Fried Pork with Brown Beans",
     "originalName": "Stekt fläsk och bruna bönor",
@@ -91694,8 +92226,7 @@
     "name": "ステークト・フレスク・メド・ロクソース・オック・ポタティス",
     "kana": "すてーくとふれすくめどろくそーすおっくぽたてぃす",
     "aliases": [
-      "揚げ焼き豚と玉ねぎソースとじゃがいも",
-      "Stekt fläsk med löksås och potatis"
+      "揚げ焼き豚と玉ねぎソースとじゃがいも"
     ],
     "englishName": "Fried Pork with Onion Sauce and Potatoes",
     "originalName": "Stekt fläsk med löksås och potatis",
@@ -91764,8 +92295,7 @@
     "name": "プリンスコルブ",
     "kana": "ぷりんすこるぶ",
     "aliases": [
-      "小型ソーセージ",
-      "Prinskorv"
+      "小型ソーセージ"
     ],
     "englishName": "Prinskorv",
     "originalName": "Prinskorv",
@@ -91837,8 +92367,7 @@
     "name": "フレスクコルブ",
     "kana": "ふれすくこるぶ",
     "aliases": [
-      "豚肉ソーセージ",
-      "Fläskkorv"
+      "豚肉ソーセージ"
     ],
     "englishName": "Pork Sausage",
     "originalName": "Fläskkorv",
@@ -91912,8 +92441,7 @@
     "name": "スモルゴストータ",
     "kana": "すもるごすとーた",
     "aliases": [
-      "サンドイッチケーキ",
-      "Smörgåstårta"
+      "サンドイッチケーキ"
     ],
     "englishName": "Sandwich Cake",
     "originalName": "Smörgåstårta",
@@ -91985,8 +92513,7 @@
     "name": "ステークトストレミング",
     "kana": "すてーくとすとれみんぐ",
     "aliases": [
-      "揚げ焼きバルトニシン",
-      "Stekt strömming"
+      "揚げ焼きバルトニシン"
     ],
     "englishName": "Fried Baltic Herring",
     "originalName": "Stekt strömming",
@@ -92055,8 +92582,7 @@
     "name": "グリスフェッテル",
     "kana": "ぐりすふぇってる",
     "aliases": [
-      "豚足",
-      "Grisfötter"
+      "豚足"
     ],
     "englishName": "Pig's Trotters",
     "originalName": "Grisfötter",
@@ -92127,7 +92653,7 @@
     "kana": "はっせるばっくすぽたてぃす",
     "aliases": [
       "ハッセルバックポテト",
-      "Hasselbackspotatis"
+      "アコーディオンポテト"
     ],
     "englishName": "Hasselback Potatoes",
     "originalName": "Hasselbackspotatis",
@@ -92199,8 +92725,7 @@
     "kana": "そらとぶやこぶさん",
     "aliases": [
       "フリガンデ・ヤコブ",
-      "Flygande Jakob",
-      "Flying Jacob"
+      "フライング・ジェイコブ"
     ],
     "englishName": "Flying Jacob",
     "originalName": "Flygande Jakob",
@@ -92353,7 +92878,8 @@
     "kana": "えだむちーず",
     "aliases": [
       "エダム",
-      "エダム・チーズ"
+      "エダム・チーズ",
+      "エダマー"
     ],
     "englishName": "Edam cheese",
     "originalName": "Edammer kaas",
@@ -92504,7 +93030,6 @@
     "name": "ワーテルゾーイ",
     "kana": "わーてるぞーい",
     "aliases": [
-      "ワーテルゾーイ",
       "ゲント風ワーテルゾーイ",
       "ヘント風ワーテルゾーイ"
     ],
@@ -92750,7 +93275,6 @@
     "kana": "こふぃーゔぇるきーると",
     "aliases": [
       "カフェ・オ・レ",
-      "Koffie verkeerd",
       "wrong coffee"
     ],
     "englishName": "Koffie verkeerd",
@@ -93060,7 +93584,6 @@
     "aliases": [
       "グリオ",
       "グリヨ",
-      "Griot",
       "Griyo"
     ],
     "englishName": "Griot",
@@ -93137,8 +93660,7 @@
     "kana": "ちぇりーふらーい",
     "aliases": [
       "ケルセンフラーイ",
-      "さくらんぼのフラーイ",
-      "Kersenvlaai"
+      "さくらんぼのフラーイ"
     ],
     "englishName": "Cherry vlaai",
     "originalName": "Kersenvlaai",
@@ -93300,8 +93822,7 @@
     "kana": "へろーくてぱーりんぐ",
     "aliases": [
       "ヘロークテ・パーリング",
-      "オランダ風燻製うなぎ",
-      "Smoked eel"
+      "オランダ風燻製うなぎ"
     ],
     "englishName": "Smoked eel",
     "originalName": "Gerookte paling",
@@ -93379,7 +93900,6 @@
     "kana": "ろるもっぷす",
     "aliases": [
       "ロールモップス",
-      "Rollmops",
       "rollmop herring"
     ],
     "englishName": "Rollmops",
@@ -93616,7 +94136,8 @@
     "kana": "ぽんでけーじょ",
     "aliases": [
       "ポンデケージョ",
-      "パォン・デ・ケイジョ"
+      "パォン・デ・ケイジョ",
+      "ブラジルチーズパン"
     ],
     "englishName": "Brazilian cheese bread",
     "originalName": "Pão de queijo",
@@ -93909,7 +94430,8 @@
     "name": "カイピリーニャ",
     "kana": "かいぴりーにゃ",
     "aliases": [
-      "カイピリーニャ"
+      "カイピリーニア",
+      "カイピリンハ"
     ],
     "englishName": "Caipirinha",
     "originalName": "Caipirinha",
@@ -94259,7 +94781,7 @@
     "name": "コシーニャ",
     "kana": "こしーにゃ",
     "aliases": [
-      "コシーニャ"
+      "コシーニャ・デ・ガリーニャ"
     ],
     "englishName": "Coxinha",
     "originalName": "Coxinha",
@@ -94423,10 +94945,9 @@
     "name": "ジョロフライス",
     "kana": "じょろふらいす",
     "aliases": [
-      "ジョロフライス",
-      "ジョロフライス",
       "ベナチン",
-      "リ・オ・グラ"
+      "リ・オ・グラ",
+      "ジョロフ"
     ],
     "englishName": "Jollof rice",
     "originalName": "Jollof rice",
@@ -95368,7 +95889,6 @@
     "kana": "しょうにゅうちょ",
     "aliases": [
       "焼き乳猪",
-      "燒乳豬",
       "烤乳猪",
       "ローストサックリングピッグ"
     ],
@@ -95682,10 +96202,8 @@
     "name": "仏跳墻",
     "kana": "ぶっちょうしょう",
     "aliases": [
-      "佛跳牆",
       "佛跳墙",
-      "福寿全",
-      "Buddha Jumps Over the Wall"
+      "福寿全"
     ],
     "englishName": "Buddha Jumps Over the Wall",
     "originalName": "佛跳牆",
@@ -96065,7 +96583,6 @@
     "name": "刹椒魚頭",
     "kana": "さっしょうぎょとう",
     "aliases": [
-      "剁椒魚頭",
       "剁椒鱼头",
       "湖南魚頭"
     ],
@@ -96216,8 +96733,7 @@
     "name": "符離集焼鶏",
     "kana": "ふりしゅうしょうけい",
     "aliases": [
-      "符离集烧鸡",
-      "符離集燒雞"
+      "符离集烧鸡"
     ],
     "englishName": "Fuliji roast chicken",
     "originalName": "符離集燒雞",
@@ -96361,7 +96877,7 @@
     "kana": "かきょうべいせん",
     "aliases": [
       "过桥米线",
-      "Crossing-the-bridge noodles"
+      "雲南米線"
     ],
     "englishName": "Crossing-the-bridge noodles",
     "originalName": "過橋米線",
@@ -96594,7 +97110,6 @@
     "kana": "たむじゃいめん",
     "aliases": [
       "譚仔米線",
-      "譚仔雲南米線",
       "TamJai Mixian",
       "タムジャイ米線"
     ],
@@ -96671,7 +97186,6 @@
     "kana": "さばひー",
     "aliases": [
       "ミルクフィッシュ",
-      "虱目魚",
       "バングス"
     ],
     "englishName": "Milkfish",
@@ -96919,7 +97433,6 @@
     "name": "左宗棠鶏",
     "kana": "さそうとうどり",
     "aliases": [
-      "左宗棠雞",
       "General Tso’s chicken",
       "General Tso chicken",
       "左公雞"
@@ -97081,7 +97594,7 @@
     "aliases": [
       "南瓜饼",
       "かぼちゃ餅",
-      "Chinese pumpkin cake"
+      "パンプキンケーキ"
     ],
     "englishName": "Chinese pumpkin cake",
     "originalName": "南瓜餅",
@@ -97155,8 +97668,8 @@
     "name": "竹筒蒸排骨",
     "kana": "ちくとうむしはいこつ",
     "aliases": [
-      "竹筒蒸排骨",
-      "竹筒排骨"
+      "竹筒排骨",
+      "竹筒スペアリブ"
     ],
     "englishName": "Bamboo-steamed pork ribs",
     "originalName": "竹筒蒸排骨",
@@ -97390,7 +97903,6 @@
     "name": "刴椒",
     "kana": "とうしょう",
     "aliases": [
-      "剁椒",
       "剁辣椒",
       "刻み唐辛子"
     ],
@@ -97467,7 +97979,6 @@
     "name": "辣椒炒肉",
     "kana": "らーじゃおちゃおろう",
     "aliases": [
-      "辣椒炒肉",
       "農家小炒肉",
       "农家小炒肉",
       "小炒肉"
@@ -97562,7 +98073,6 @@
     "name": "鶏湯海蚌",
     "kana": "けいとうはいぼう",
     "aliases": [
-      "雞湯汆海蚌",
       "鶏湯汆海蚌",
       "鸡汤汆海蚌"
     ],
@@ -97718,9 +98228,7 @@
     "name": "茘枝肉",
     "kana": "れいしにく",
     "aliases": [
-      "荔枝肉",
-      "ライチ肉",
-      "Lychee pork"
+      "ライチ肉"
     ],
     "englishName": "Lychee pork",
     "originalName": "荔枝肉",
@@ -97800,8 +98308,8 @@
     "name": "酔排骨",
     "kana": "すいはいこつ",
     "aliases": [
-      "醉排骨",
-      "福州酔排骨"
+      "福州酔排骨",
+      "酔っぱらいスペアリブ"
     ],
     "englishName": "Fuzhou drunken pork ribs",
     "originalName": "醉排骨",
@@ -98857,9 +99365,8 @@
     "name": "沙県小吃",
     "kana": "しゃけんしょうち",
     "aliases": [
-      "沙县小吃",
-      "Shaxian delicacies",
-      "沙県軽食"
+      "沙県軽食",
+      "沙县小吃店"
     ],
     "englishName": "Shaxian delicacies",
     "originalName": "沙县小吃",
@@ -98937,7 +99444,6 @@
     "name": "邵武小吃",
     "kana": "しょうぶしょうち",
     "aliases": [
-      "邵武小吃",
       "邵武包糍",
       "南平小吃"
     ],
@@ -99009,8 +99515,7 @@
     "kana": "とうへきりゅうじゅ",
     "aliases": [
       "東壁龍珠",
-      "东壁龙珠",
-      "東譬龍珠"
+      "东壁龙珠"
     ],
     "englishName": "Dongbi dragon pearls",
     "originalName": "東譬龍珠",
@@ -99274,7 +99779,6 @@
     "name": "米糕",
     "kana": "みーがお",
     "aliases": [
-      "米糕",
       "ライスケーキ"
     ],
     "englishName": "Rice cake",
@@ -99338,7 +99842,6 @@
     "name": "葱糕",
     "kana": "つぉんがお",
     "aliases": [
-      "葱糕",
       "ネギ糕"
     ],
     "englishName": "Scallion rice cake",
@@ -99409,7 +99912,6 @@
     "name": "大肉粽",
     "kana": "だーろうぞん",
     "aliases": [
-      "大肉粽",
       "烧肉粽",
       "燒肉粽"
     ],
@@ -99483,8 +99985,7 @@
     "name": "泉州菜包",
     "kana": "せんしゅうさいぱお",
     "aliases": [
-      "菜包",
-      "泉州菜包"
+      "菜包"
     ],
     "englishName": "Quanzhou vegetable bun",
     "originalName": "泉州菜包",
@@ -99550,8 +100051,7 @@
     "kana": "ほんらいじーじゅあ",
     "aliases": [
       "洪濑鸡爪",
-      "洪瀬雞爪",
-      "洪瀬鶏爪"
+      "洪瀬雞爪"
     ],
     "englishName": "Honglai chicken feet",
     "originalName": "洪瀬鶏爪",
@@ -99616,8 +100116,7 @@
     "kana": "すうぶぎょかん",
     "aliases": [
       "崇武鱼卷",
-      "崇武魚卷",
-      "崇武魚巻"
+      "崇武魚卷"
     ],
     "englishName": "Chongwu fish roll",
     "originalName": "崇武魚巻",
@@ -99686,8 +100185,7 @@
     "name": "炒米粉",
     "kana": "ちゃおみーふぇん",
     "aliases": [
-      "炒米粉",
-      "fried rice vermicelli"
+      "ビーフン炒め"
     ],
     "englishName": "Fried rice vermicelli",
     "originalName": "炒米粉",
@@ -99750,8 +100248,7 @@
     "name": "土筍凍",
     "kana": "とすんとう",
     "aliases": [
-      "土笋冻",
-      "土筍凍"
+      "土笋冻"
     ],
     "englishName": "Tusundong sandworm aspic",
     "originalName": "土筍凍",
@@ -99819,8 +100316,7 @@
     "kana": "ぎゅうにくめん",
     "aliases": [
       "牛肉面",
-      "牛肉麺",
-      "beef noodle soup"
+      "ニューロウミェン"
     ],
     "englishName": "Beef noodle soup",
     "originalName": "牛肉麺",
@@ -99960,8 +100456,7 @@
     "name": "封肉",
     "kana": "ふぉんろう",
     "aliases": [
-      "同安封肉",
-      "封肉"
+      "同安封肉"
     ],
     "englishName": "Tongan sealed pork",
     "originalName": "封肉",
@@ -100245,8 +100740,7 @@
     "kana": "るーみぇん",
     "aliases": [
       "卤面",
-      "滷麵",
-      "Lor mee"
+      "滷麵"
     ],
     "englishName": "Lor mee",
     "originalName": "鹵麺",
@@ -100516,7 +101010,6 @@
     "name": "猫仔粥",
     "kana": "まおざいじょう",
     "aliases": [
-      "猫仔粥",
       "貓仔粥"
     ],
     "englishName": "Maozai porridge",
@@ -100581,7 +101074,6 @@
     "name": "炸五香",
     "kana": "じゃーうーしゃん",
     "aliases": [
-      "炸五香",
       "五香卷",
       "五香條",
       "五香条"
@@ -100712,7 +101204,6 @@
     "name": "菜干扣肉",
     "kana": "さいかんこうろう",
     "aliases": [
-      "菜干扣肉",
       "梅菜扣肉",
       "客家扣肉"
     ],
@@ -100779,7 +101270,6 @@
     "kana": "ほんめんごうろう",
     "aliases": [
       "红焖狗肉",
-      "紅燜狗肉",
       "焖乳狗"
     ],
     "englishName": "Red-braised dog meat",
@@ -100846,7 +101336,6 @@
     "kana": "ばいざんごうろう",
     "aliases": [
       "白斩狗肉",
-      "白斬狗肉",
       "白切狗肉"
     ],
     "englishName": "Plain boiled dog meat",
@@ -100912,7 +101401,6 @@
     "kana": "きゅうもんとう",
     "aliases": [
       "九门头",
-      "九門頭",
       "连城九门头"
     ],
     "englishName": "Jiumen tou",
@@ -100976,8 +101464,7 @@
     "name": "紅菇燉排骨",
     "kana": "ほんぐうとんぱいぐう",
     "aliases": [
-      "红菇炖排骨",
-      "紅菇燉排骨"
+      "红菇炖排骨"
     ],
     "englishName": "Pork ribs stewed with red mushrooms",
     "originalName": "紅菇燉排骨",
@@ -101042,8 +101529,7 @@
     "kana": "じゃんじー",
     "aliases": [
       "姜鸡",
-      "薑雞",
-      "姜鶏"
+      "薑雞"
     ],
     "englishName": "Ginger chicken",
     "originalName": "姜鶏",
@@ -101112,7 +101598,6 @@
     "kana": "そうぎょせい",
     "aliases": [
       "草鱼生",
-      "草魚生",
       "客家生魚膾"
     ],
     "englishName": "Grass carp sashimi",
@@ -101179,7 +101664,6 @@
     "name": "韭菜包",
     "kana": "きゅうさいぱお",
     "aliases": [
-      "韭菜包",
       "ニラ菜包"
     ],
     "englishName": "Chive bun",
@@ -101250,8 +101734,7 @@
     "kana": "ばいざんほーてぃえんじー",
     "aliases": [
       "白斩河田鸡",
-      "白斬河田雞",
-      "白斬河田鶏"
+      "白斬河田雞"
     ],
     "englishName": "Plain poached Hetian chicken",
     "originalName": "白斬河田鶏",
@@ -101315,7 +101798,6 @@
     "kana": "きんしどうふかん",
     "aliases": [
       "金丝豆腐干",
-      "金絲豆腐干",
       "长汀豆腐干"
     ],
     "englishName": "Jinsi dried tofu",
@@ -101381,7 +101863,6 @@
     "name": "大卷",
     "kana": "だーじゅえん",
     "aliases": [
-      "大卷",
       "大捲",
       "客家大卷"
     ],
@@ -101449,8 +101930,7 @@
     "kana": "ちょうていけいちょうめん",
     "aliases": [
       "长汀鸡肠面",
-      "長汀雞腸麵",
-      "長汀鶏腸麺"
+      "長汀雞腸麵"
     ],
     "englishName": "Changting chicken intestine noodles",
     "originalName": "長汀鶏腸麺",
@@ -101514,7 +101994,6 @@
     "name": "爆炒地猴",
     "kana": "ばおちゃおでぃほう",
     "aliases": [
-      "爆炒地猴",
       "宁化老鼠干炒め"
     ],
     "englishName": "Stir-fried dried field mouse",
@@ -101582,7 +102061,6 @@
     "kana": "ようめんしーりん",
     "aliases": [
       "油焖石鳞",
-      "油燜石鱗",
       "石鳞"
     ],
     "englishName": "Oil-braised stone frog",
@@ -101648,8 +102126,7 @@
     "name": "上杭魚白",
     "kana": "じょうこうぎょはく",
     "aliases": [
-      "上杭鱼白",
-      "上杭魚白"
+      "上杭鱼白"
     ],
     "englishName": "Shanghang fish milt",
     "originalName": "上杭魚白",
@@ -101715,7 +102192,6 @@
     "kana": "ぱおやーじゅあ",
     "aliases": [
       "泡鸭爪",
-      "泡鴨爪",
       "泡鴨掌"
     ],
     "englishName": "Pickled duck feet",
@@ -101781,7 +102257,6 @@
     "name": "永定牛肉丸",
     "kana": "えいていぎゅうにくがん",
     "aliases": [
-      "永定牛肉丸",
       "客家牛肉丸"
     ],
     "englishName": "Yongding beef balls",
@@ -101845,7 +102320,6 @@
     "name": "仙人粄",
     "kana": "せんにんばん",
     "aliases": [
-      "仙人粄",
       "仙人冻",
       "仙草粄"
     ],
@@ -101995,8 +102469,6 @@
       "ウインナーソーセージ",
       "ウィンナーソーセージ",
       "ヴィエナソーセージ",
-      "Vienna sausage",
-      "Wiener Würstchen",
       "Frankfurter Würstel"
     ],
     "englishName": "Vienna sausage",
@@ -102084,13 +102556,11 @@
     "kana": "おうけつどうふ",
     "aliases": [
       "鸭血豆腐",
-      "鴨血豆腐",
       "鴨血",
       "鸭血",
       "血豆腐",
       "血旺",
       "Blood tofu",
-      "Duck blood tofu",
       "Duck blood curd"
     ],
     "englishName": "Duck blood tofu",
@@ -102225,7 +102695,11 @@
     "uniquenessScore": 3,
     "heavinessScore": 3,
     "spicinessScore": 1,
-    "images": []
+    "images": [],
+    "aliases": [
+      "酸菜炒肉丝",
+      "东北酸菜炒肉"
+    ]
   },
   {
     "id": "qin-cai-chao-you-yu",
@@ -102300,7 +102774,11 @@
     "uniquenessScore": 2,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": []
+    "images": [],
+    "aliases": [
+      "西芹炒鱿鱼",
+      "芹菜炒鱿鱼片"
+    ]
   },
   {
     "id": "jian-jiao-niu-wa",
@@ -102375,7 +102853,11 @@
     "uniquenessScore": 4,
     "heavinessScore": 3,
     "spicinessScore": 3,
-    "images": []
+    "images": [],
+    "aliases": [
+      "尖椒田鸡",
+      "香辣牛蛙"
+    ]
   },
   {
     "id": "jian-jiao-ji",
@@ -102451,6 +102933,10 @@
     "images": [
       "/images/dishes/jian-jiao-ji/1.jpg",
       "/images/dishes/jian-jiao-ji/2.jpg"
+    ],
+    "aliases": [
+      "尖椒炒鸡",
+      "辣椒炒鸡"
     ]
   },
   {
@@ -102458,8 +102944,8 @@
     "name": "ザワークラウト",
     "kana": "ざわーくらうと",
     "aliases": [
-      "Sauerkraut",
-      "シュークルート"
+      "シュークルート",
+      "発酵キャベツ"
     ],
     "englishName": "Sauerkraut",
     "originalName": "Sauerkraut",
@@ -102546,7 +103032,7 @@
     "kana": "うめぼし",
     "aliases": [
       "梅干",
-      "Umeboshi"
+      "梅漬け"
     ],
     "englishName": "Umeboshi",
     "originalName": "梅干し",
@@ -102624,7 +103110,6 @@
     "name": "納豆",
     "kana": "なっとう",
     "aliases": [
-      "Natto",
       "糸引き納豆"
     ],
     "englishName": "Natto",
