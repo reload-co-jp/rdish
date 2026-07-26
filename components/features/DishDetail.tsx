@@ -201,34 +201,54 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
       </Section>
 
       <Section title="頼む判断">
-        <p
+        <div
           style={{
             background: "#fef9f0",
             border: "1px solid #f5c97a",
             borderRadius: "0.375rem",
-            color: "#92400e",
-            fontSize: "0.9rem",
-            lineHeight: 1.7,
             padding: "0.75rem 1rem",
           }}
         >
-          <LinkedText text={dish.orderAdvice} dishes={allDishes} currentId={dish.id} />
-        </p>
-        {dish.caution && (
           <p
+            style={{
+              color: "#92400e",
+              fontSize: "0.9rem",
+              fontWeight: 700,
+              lineHeight: 1.5,
+              marginBottom: "0.375rem",
+            }}
+          >
+            {dish.name}を注文するときのコツは？
+          </p>
+          <p style={{ color: "#92400e", fontSize: "0.9rem", lineHeight: 1.7 }}>
+            <LinkedText text={dish.orderAdvice} dishes={allDishes} currentId={dish.id} />
+          </p>
+        </div>
+        {dish.caution && (
+          <div
             style={{
               background: "#fff7ed",
               border: "1px solid #fb923c",
               borderRadius: "0.375rem",
-              color: "#7c2d12",
-              fontSize: "0.875rem",
-              lineHeight: 1.7,
               marginTop: "0.5rem",
               padding: "0.75rem 1rem",
             }}
           >
-            <LinkedText text={dish.caution} dishes={allDishes} currentId={dish.id} />
-          </p>
+            <p
+              style={{
+                color: "#7c2d12",
+                fontSize: "0.875rem",
+                fontWeight: 700,
+                lineHeight: 1.5,
+                marginBottom: "0.375rem",
+              }}
+            >
+              {dish.name}を食べるときの注意点は？
+            </p>
+            <p style={{ color: "#7c2d12", fontSize: "0.875rem", lineHeight: 1.7 }}>
+              <LinkedText text={dish.caution} dishes={allDishes} currentId={dish.id} />
+            </p>
+          </div>
         )}
       </Section>
 
