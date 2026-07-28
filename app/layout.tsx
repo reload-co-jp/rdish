@@ -33,6 +33,7 @@ export const metadata: Metadata = {
       index: true,
       follow: true,
       "max-image-preview": "large",
+      noimageindex: true,
     },
   },
   alternates: {
