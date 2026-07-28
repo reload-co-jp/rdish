@@ -106028,5 +106028,450 @@
       "https://meiweisichuan.jp/column/2018/12/6155.html"
     ],
     "images": []
+  },
+  {
+    "id": "torimotsu-ni",
+    "name": "鳥もつ煮",
+    "kana": "とりもつに",
+    "aliases": [
+      "甲府鳥もつ煮",
+      "とりもつ煮"
+    ],
+    "englishName": "Torimotsu-ni (Simmered Chicken Giblets)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "中部",
+        "locality": "山梨"
+      }
+    ],
+    "summary": "鶏のレバー・砂肝・ハツ・きんかん・ひもなどのモツを砂糖と醤油だけのタレで強火・短時間で照り煮にした甲府発祥の郷土料理。捨てられがちだった部位を安くて旨いつまみに変えた戦後生まれの一品。",
+    "menuDescription": "鶏のレバーや砂肝、ハツ、きんかんなどのモツを、醤油と砂糖のタレで飴状になるまで照り煮にした甲府名物です。強火で一気に煮詰めることでモツの旨味を凝縮させており、酒のつまみにも白ご飯のおかずにもよく合います。",
+    "whatComesOut": [
+      "小皿に盛られた照りのあるモツの煮物",
+      "レバー・砂肝・ハツ・きんかん・ひも等の部位",
+      "とろみのある甘辛い醤油だれ",
+      "刻みねぎや七味などの薬味（店による）"
+    ],
+    "tasteAndTexture": [
+      "砂糖醤油の甘じょっぱい濃厚な味付け",
+      "強火短時間で仕上げるためレバーもねっとり柔らかい食感",
+      "タレが飴状に絡んだ照りのあるビジュアル",
+      "モツ特有の濃い旨味とコク"
+    ],
+    "orderAdvice": "焼き鳥のタレに似た甘辛味で内臓系が初めてでも食べやすい。蕎麦屋や居酒屋の定番メニューなので、甲府周辺では前菜感覚で頼んで損はない。レバーや内臓の匂いが苦手な人は量を控えめに。",
+    "similarItems": [
+      {
+        "id": "yakitori",
+        "name": "焼き鳥",
+        "difference": "焼き鳥は鶏肉や部位を串に刺し炭火で焼くが、鳥もつ煮は同様の部位を鍋で醤油砂糖のタレに絡めて照り煮にする"
+      },
+      {
+        "name": "もつ煮込み（豚）",
+        "difference": "一般的なもつ煮込みは豚モツを味噌や醤油だしでじっくり柔らかく煮込む汁物だが、鳥もつ煮は汁気をほぼ飛ばして強火短時間で照り煮にする"
+      },
+      {
+        "id": "jibuni",
+        "name": "治部煮",
+        "difference": "治部煮は鶏肉に小麦粉をまぶし出汁でとろみをつけて煮る石川の郷土料理、鳥もつ煮は甲府発祥の砂糖醤油による甘辛照り煮"
+      }
+    ],
+    "relatedIds": [
+      "yakitori",
+      "jibuni",
+      "oden"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E7%94%B2%E5%BA%9C%E9%B3%A5%E3%82%82%E3%81%A4%E7%85%AE",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/torino_motsuni_yama_nashi.html"
+    ],
+    "tags": [
+      "日本料理",
+      "中部",
+      "軽食",
+      "鶏肉",
+      "煮込み",
+      "甘み",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "レバーが苦手",
+      "内臓系NG",
+      "あっさり好み",
+      "甘辛味が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "houtou",
+    "name": "ほうとう",
+    "kana": "ほうとう",
+    "aliases": [
+      "ほうとう鍋",
+      "のし込み"
+    ],
+    "englishName": "Hoto Noodles",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "中部",
+        "locality": "山梨"
+      }
+    ],
+    "summary": "塩を使わず打った幅広の生麺をかぼちゃなど季節野菜と共に甲州味噌の汁でとろみが出るまで煮込む山梨の郷土料理。米作に不向きな土地で主食として発展した歴史を持つ。",
+    "menuDescription": "小麦粉を塩を加えずに練った幅広の生麺を、かぼちゃや里芋などの季節野菜、豚肉や油揚げと一緒に甲州味噌仕立ての汁でぐつぐつ煮込んだ山梨の郷土料理です。麺のでんぷんが溶け出し、とろみのある濃厚な汁が特徴です。",
+    "whatComesOut": [
+      "大鍋または土鍋で提供される幅広麺と具材",
+      "かぼちゃ・里芋・きのこなど季節野菜",
+      "豚肉や油揚げなどの具材",
+      "とろみのついた甲州味噌の汁"
+    ],
+    "tasteAndTexture": [
+      "麺のでんぷんでとろみのついた濃厚な汁",
+      "甲州味噌の塩気とかぼちゃの甘みが溶け合った奥深い風味",
+      "うどんよりコシがなくもちっとした幅広麺の食感",
+      "野菜と麺が一体になった満足感ある熱々の一杯"
+    ],
+    "orderAdvice": "味噌煮込みうどんに近い親しみやすさで初心者でも食べやすい。具沢山でボリュームがあるため単品でも十分な満足感。冬場のかぼちゃ入りが特に人気で、山梨を訪れたら一度は試したい定番。",
+    "similarItems": [
+      {
+        "id": "udon",
+        "name": "うどん",
+        "difference": "うどんは塩を加えコシを出した麺を茹でて出汁で食べるが、ほうとうは塩を使わず寝かせない幅広麺を味噌汁でそのまま煮込む"
+      },
+      {
+        "id": "miso-nikomi-udon",
+        "name": "味噌煮込みうどん",
+        "difference": "味噌煮込みうどんは八丁味噌の土鍋で固い丸麺を煮るが、ほうとうは甲州味噌でかぼちゃ等野菜と共に煮込みとろみのある汁を楽しむ"
+      },
+      {
+        "name": "おっきりこみ",
+        "difference": "群馬・埼玉のおっきりこみはほうとうと製法が近いが、味噌だけでなく醤油仕立てもありかぼちゃを必須としない点が異なる"
+      }
+    ],
+    "relatedIds": [
+      "udon",
+      "miso-nikomi-udon",
+      "kasu-udon"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%81%BB%E3%81%86%E3%81%A8%E3%81%86",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/houtou_yama_nashi.html"
+    ],
+    "tags": [
+      "日本料理",
+      "中部",
+      "麺料理",
+      "小麦",
+      "野菜",
+      "煮込み",
+      "甘み",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "麺が苦手",
+      "味噌味が苦手",
+      "あっさり派",
+      "軽い食事希望"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "mimi",
+    "name": "みみ",
+    "kana": "みみ",
+    "aliases": [
+      "みみうどん"
+    ],
+    "englishName": "Mimi (Ear-shaped Wheat Dumpling Soup)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "中部",
+        "locality": "山梨"
+      }
+    ],
+    "summary": "小麦粉の生地を四角く切り両端をつまんで耳や農具の箕の形に成形し、ゴボウ・里芋・かぼちゃ・大根などの野菜と味噌仕立ての汁で煮込む山梨県富士川町十谷地区の郷土料理。正月や祝い事に縁起物として食される。",
+    "menuDescription": "小麦粉を練った生地を四角く切り、両端をつまんで耳（または農具の箕）の形に成形し、ゴボウや里芋、かぼちゃなどの野菜とともに味噌仕立ての汁で煮込んだ山梨・十谷地区の郷土料理です。正月や祝い事に縁起の良い食べ物として供されます。",
+    "whatComesOut": [
+      "椀に盛られた味噌仕立ての汁物",
+      "耳や箕の形をした小麦粉生地の団子",
+      "ゴボウ・里芋・かぼちゃ・にんじん・大根などの野菜",
+      "具沢山で食べ応えのある一杯"
+    ],
+    "tasteAndTexture": [
+      "味噌ベースの素朴で優しい味わい",
+      "もちもちとした小麦粉生地の食感",
+      "野菜の甘みが溶け込んだ滋味深い汁",
+      "ほうとうより小ぶりで食べやすいサイズ感"
+    ],
+    "orderAdvice": "ほうとうと同じ山梨の粉食文化に属する素朴な郷土料理。正月や祝い事の際に地元で食べられる縁起物なので、山梨の郷土料理を一通り試したいなら候補に。観光客向けに提供する店は限られる。",
+    "similarItems": [
+      {
+        "id": "houtou",
+        "name": "ほうとう",
+        "difference": "ほうとうは幅広麺を煮込むのに対し、みみは生地を耳や箕の形に成形した団子状で味噌汁に入れる"
+      },
+      {
+        "name": "すいとん",
+        "difference": "すいとんは生地を手でちぎって落とすだけだが、みみは耳や箕の形に丁寧に成形する点が特徴的"
+      }
+    ],
+    "relatedIds": [
+      "houtou"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%BF",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/mimi_yama_nashi.html"
+    ],
+    "tags": [
+      "日本料理",
+      "中部",
+      "スープ",
+      "小麦",
+      "野菜",
+      "煮込み",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "麺が好き",
+      "あっさり派",
+      "洋食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "raho",
+    "name": "ラーほー",
+    "kana": "らーほー",
+    "aliases": [
+      "ラーメン×ほうとう",
+      "ほうとうラーメン"
+    ],
+    "englishName": "Raho (Hoto Ramen)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "中部",
+        "locality": "笛吹"
+      }
+    ],
+    "summary": "山梨の郷土料理ほうとうの幅広麺をラーメン風のスープで気軽に食べられるようアレンジした笛吹市発の新ご当地グルメ。「ラーメン×ほうとう」の造語で商標登録されている。",
+    "menuDescription": "山梨の郷土料理ほうとうの幅広麺を、ラーメン風のスープで手軽に食べられるようアレンジした笛吹市の新ご当地グルメです。醤油味やフォー風味など店ごとに個性豊かなアレンジが展開されています。",
+    "whatComesOut": [
+      "どんぶりに入ったラーメン風スープとほうとう麺",
+      "醤油ベースや店独自のアレンジスープ",
+      "チャーシューや野菜などのトッピング（店による）",
+      "ほうとうより手軽な一杯"
+    ],
+    "tasteAndTexture": [
+      "ほうとう麺のもちもちとした幅広の食感",
+      "ラーメンのようにさらりとしたスープ",
+      "店ごとに味付けが異なるバリエーション豊かな風味",
+      "ほうとうより軽く食べやすい仕立て"
+    ],
+    "orderAdvice": "ほうとうを気軽に楽しみたい人向けの新名物。笛吹市内の提供店で店ごとの個性を食べ比べるのも楽しい。伝統的なほうとうの濃厚な味噌味とは別物と割り切って楽しむと良い。",
+    "similarItems": [
+      {
+        "id": "houtou",
+        "name": "ほうとう",
+        "difference": "ほうとうは味噌仕立ての汁で幅広麺を煮込むが、ラーほーは同じ麺をラーメン風スープで手軽に仕立てる"
+      },
+      {
+        "id": "hiyashi-ramen",
+        "name": "冷やし中華",
+        "difference": "冷やし中華は中華麺を使った冷製麺料理で、ラーほーはほうとう麺を使った温かいラーメン風料理"
+      }
+    ],
+    "relatedIds": [
+      "houtou",
+      "hiyashi-ramen"
+    ],
+    "source": [
+      "https://www.fuefuki-kanko.jp/scontents/raho/",
+      "https://www.city.fuefuki.yamanashi.jp/wadai2.html"
+    ],
+    "tags": [
+      "日本料理",
+      "中部",
+      "麺料理",
+      "小麦",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "濃厚味噌が好き",
+      "伝統的な調理法にこだわる",
+      "洋食",
+      "デザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "awabi-no-nigai",
+    "name": "アワビの煮貝",
+    "kana": "あわびのにがい",
+    "aliases": [
+      "煮貝",
+      "甲州煮貝"
+    ],
+    "englishName": "Awabi no Nigai (Simmered Abalone)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "中部",
+        "locality": "山梨"
+      }
+    ],
+    "summary": "駿河湾で獲れたクロアワビ・メガイアワビなどを殻から外し丸のまま醤油だれで煮浸しにした山梨（甲州）の郷土珍味。内陸の甲斐国へ馬の背で運ばれる間に醤油が染み込んだという伝承を持つ高級贈答品。",
+    "menuDescription": "駿河湾産の高級アワビを丸のまま醤油ベースの煮汁でじっくり煮浸しにした山梨・甲州の郷土料理です。江戸期には夏の贈答品として重宝された歴史を持ち、現在も贈り物や祝いの席の一品として親しまれています。",
+    "whatComesOut": [
+      "丸のまま煮上げられたアワビ（刺身用は薄切り）",
+      "醤油ベースの煮汁に浸かった状態",
+      "ステーキ用は鉄板焼きにした切り身",
+      "贈答用の化粧箱入りで提供されることも"
+    ],
+    "tasteAndTexture": [
+      "醤油の旨みが染み込んだ濃厚な味わい",
+      "コリコリとした歯ごたえのあるアワビの食感",
+      "丸ごと煮ても硬くなりすぎない絶妙な火入れ",
+      "刺身は薄切りでアワビ本来の風味を楽しめる"
+    ],
+    "orderAdvice": "高級贈答品として扱われる珍味で、日常的に食卓に上るものではない。山梨土産や祝いの席で出会ったら試す価値あり。刺身用とステーキ用で食感が異なるので好みで選ぶと良い。",
+    "caution": "高級食材のため価格が高い。貝類アレルギーの方は注意。",
+    "similarItems": [
+      {
+        "name": "アワビの踊り焼き",
+        "difference": "踊り焼きは生きたアワビをその場で炭火焼きにするが、煮貝は醤油だれでじっくり煮て保存性を持たせた加工品"
+      },
+      {
+        "id": "mefun",
+        "name": "めふん",
+        "difference": "めふんは鮭の腎臓を発酵させた北海道の珍味、煮貝はアワビを醤油で煮た山梨の珍味で系統は異なるが共に郷土の魚介保存食"
+      }
+    ],
+    "relatedIds": [
+      "mefun",
+      "houtou"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E9%AE%91%E3%81%AE%E7%85%AE%E8%B2%9D",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/awabino_nigai_yama_nashi.html"
+    ],
+    "tags": [
+      "日本料理",
+      "中部",
+      "前菜",
+      "魚介",
+      "煮込み",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "あっさり派",
+      "肉料理が好き",
+      "日常的な家庭料理",
+      "安価な料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "kai-salmon",
+    "name": "甲斐サーモン",
+    "kana": "かいさーもん",
+    "aliases": [
+      "甲斐サーモンレッド"
+    ],
+    "englishName": "Kai Salmon",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "中部",
+        "locality": "山梨"
+      }
+    ],
+    "summary": "山梨県の清流で完全養殖される1kg以上の大型ニジマス。ぶどう果皮粉末を配合した餌で育てられ身がサーモンピンクに色づく上位規格が「甲斐サーモンレッド」。淡水養殖のため寄生虫の心配がなく生食できる。",
+    "menuDescription": "山梨県産の清らかな水で育てられた大型ニジマスのブランド魚です。ワイン醸造で出るぶどう果皮粉末を配合した餌で育て、美しいサーモンピンクの身と上品な脂のりが特徴。淡水養殖のため寄生虫の心配がなく、刺身や寿司でも安心して楽しめます。",
+    "whatComesOut": [
+      "サーモンピンクの切り身（刺身・寿司）",
+      "脂ののったグリルやポワレなどの加熱調理",
+      "地元では刺身盛りや寿司ネタとして提供",
+      "スモーク加工品として販売されることも"
+    ],
+    "tasteAndTexture": [
+      "ほど良い上品な脂のり",
+      "淡白ながらコクのある味わい",
+      "加熱すればふっくら、生食ならしっとりとした食感",
+      "輸入サーモンとは異なるさっぱりとした後味"
+    ],
+    "orderAdvice": "淡水養殖で寄生虫の心配がなく生食可能な珍しいニジマス。山梨を訪れた際は刺身や寿司で試す価値あり。輸入サーモンより脂が控えめであっさり好きにも向く。",
+    "similarItems": [
+      {
+        "id": "salmon",
+        "name": "サーモン",
+        "difference": "一般的なサーモンは海水で育つ養殖・天然の鮭類、甲斐サーモンは山梨の淡水で完全養殖されたニジマスをブランド化したもの"
+      },
+      {
+        "id": "smoked_salmon",
+        "name": "スモークサーモン",
+        "difference": "スモークサーモンは燻製加工した料理、甲斐サーモンは山梨産ブランド魚の食材そのもの"
+      }
+    ],
+    "relatedIds": [
+      "salmon",
+      "smoked_salmon"
+    ],
+    "source": [
+      "https://www.nashiyousyoku.net/kaisalmon.html",
+      "https://www.fishing-v.jp/premium/865.html"
+    ],
+    "tags": [
+      "中部",
+      "魚介",
+      "生食",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "脂が強い魚が好き",
+      "肉料理派",
+      "加工食品",
+      "スパイシー料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kai-salmon/1.jpg",
+      "/images/dishes/kai-salmon/2.jpg"
+    ]
   }
 ]
