@@ -11530,6 +11530,11 @@
     "id": "red_daikon",
     "name": "赤大根",
     "kana": "あかだいこん",
+    "aliases": [
+      "紅芯大根",
+      "スイカ大根",
+      "心里美萝卜"
+    ],
     "englishName": "Red Daikon",
     "category": "野菜",
     "regions": [
@@ -106472,6 +106477,1823 @@
     "images": [
       "/images/dishes/kai-salmon/1.jpg",
       "/images/dishes/kai-salmon/2.jpg"
+    ]
+  },
+  {
+    "id": "kohlrabi",
+    "name": "コールラビ",
+    "kana": "こーるらび",
+    "aliases": [
+      "カブカンラン",
+      "蕪甘藍",
+      "球茎キャベツ"
+    ],
+    "englishName": "Kohlrabi",
+    "originalName": "Kohlrabi",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "ヨーロッパ"
+      },
+      {
+        "country": "ドイツ"
+      }
+    ],
+    "summary": "キャベツやブロッコリーと同じ仲間の野菜で、茎が球状に肥大した部分を食べる。カブのような見た目だがアブラナ科キャベツ変種で、くせのない甘みとシャキシャキした食感が特徴。",
+    "menuDescription": "茎が球状に膨らんだ淡緑色または紫色の野菜。生ではシャキシャキ、加熱すると大根のようにやわらかくなる。皮を厚めにむいてサラダやマリネ、炒め物・煮物に使われる。",
+    "whatComesOut": [
+      "皮をむいて薄切り・角切りにした淡緑色の野菜",
+      "生のままサラダやマリネ・ナムルとして",
+      "炒め物ではコリッとした状態で",
+      "煮物ではとろりと火が通った状態で"
+    ],
+    "tasteAndTexture": [
+      "キャベツの芯とカブの中間のような穏やかな甘み",
+      "生食時はりんごのようなシャキシャキ感",
+      "炒めるとコリコリした食感に変化",
+      "煮込むと大根のように出汁を吸ってとろける"
+    ],
+    "orderAdvice": "くせが少なく食べやすいので初めてでも安心。生食のシャキシャキ感を楽しみたいならサラダ、まろやかさを楽しみたいなら煮物がおすすめ。",
+    "similarItems": [
+      {
+        "id": "cauliflower",
+        "name": "カリフラワー",
+        "difference": "カリフラワーは花蕾を食べるアブラナ科野菜。コールラビは肥大した茎を食べる"
+      },
+      {
+        "id": "daikon",
+        "name": "大根",
+        "difference": "大根はアブラナ科の根菜で辛みがある。コールラビはキャベツの仲間で辛みはなく甘みが強い"
+      }
+    ],
+    "relatedIds": [
+      "cauliflower",
+      "kale",
+      "daikon"
+    ],
+    "tags": [
+      "野菜",
+      "サラダ",
+      "生食",
+      "あっさり",
+      "サクサク"
+    ],
+    "reverseKeywords": [
+      "アブラナ科が苦手",
+      "根菜が苦手",
+      "生野菜が苦手",
+      "淡白な味が苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://en.wikipedia.org/wiki/Kohlrabi",
+      "https://foodslink.jp/syokuzaihyakka/syun/vegitable/Kohlrabi2.htm"
+    ],
+    "images": [
+      "/images/dishes/kohlrabi/1.jpg",
+      "/images/dishes/kohlrabi/2.jpg",
+      "/images/dishes/kohlrabi/3.jpg"
+    ]
+  },
+  {
+    "id": "hayato-uri",
+    "name": "ハヤトウリ",
+    "kana": "はやとうり",
+    "aliases": [
+      "隼人瓜",
+      "千成瓜",
+      "センナリウリ"
+    ],
+    "englishName": "Chayote",
+    "originalName": "Sechium edule",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "メキシコ"
+      },
+      {
+        "area": "中南米"
+      }
+    ],
+    "summary": "中南米原産のウリ科の果実的野菜。1917年に鹿児島に伝わり薩摩隼人にちなんで命名された。淡白でくせがなく、シャキシャキした食感が特徴で漬物・炒め物・煮物など幅広く使われる。",
+    "menuDescription": "洋梨形の淡緑色または白色の果実。淡白でくせのない味わいとシャキシャキした食感が特徴で、浅漬け・酢の物・炒め物・煮物など和食から中華まで幅広く調理される。",
+    "whatComesOut": [
+      "洋梨形をした淡緑色または白色の果実の断片",
+      "浅漬けや酢の物として薄切りで",
+      "炒め物としてさっと火を通した状態で",
+      "煮物として出汁を含んだ状態で"
+    ],
+    "tasteAndTexture": [
+      "淡白でくせのない味わい",
+      "生食・浅漬けではシャキシャキした歯切れの良さ",
+      "加熱してもきゅうりに似た軽い食感が残る",
+      "水分が多くさっぱりとした後味"
+    ],
+    "orderAdvice": "味が淡白なため他の食材や調味料の風味を引き立てる名脇役。漬物やナムルなどさっぱりした一品として試しやすい。",
+    "similarItems": [
+      {
+        "id": "cucumber",
+        "name": "きゅうり",
+        "difference": "きゅうりはより水分が多くみずみずしい。ハヤトウリはやや歯ごたえがあり加熱調理にも向く"
+      },
+      {
+        "id": "zucchini",
+        "name": "ズッキーニ",
+        "difference": "ズッキーニは加熱すると柔らかくとろける。ハヤトウリは加熱後もシャキシャキ感が残りやすい"
+      }
+    ],
+    "relatedIds": [
+      "cucumber",
+      "zucchini"
+    ],
+    "tags": [
+      "野菜",
+      "漬物",
+      "生食",
+      "あっさり",
+      "サクサク"
+    ],
+    "reverseKeywords": [
+      "濃い味が好き",
+      "水分の多い野菜が苦手",
+      "淡白な味が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/ハヤトウリ",
+      "https://en.wikipedia.org/wiki/Chayote"
+    ],
+    "images": [
+      "/images/dishes/hayato-uri/1.jpg",
+      "/images/dishes/hayato-uri/2.jpg",
+      "/images/dishes/hayato-uri/3.jpg"
+    ]
+  },
+  {
+    "id": "shadow-queen",
+    "name": "シャドークイーン",
+    "kana": "しゃどーくいーん",
+    "englishName": "Shadow Queen",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "北海道"
+      }
+    ],
+    "summary": "北海道で育成された紫色のじゃがいも品種。皮は黒紫、中身は鮮やかな赤紫色でアントシアニンを豊富に含み、加熱後も色が保たれる。",
+    "menuDescription": "皮も中身も紫色をした珍しいじゃがいも。ホクホクの男爵とねっとりのメークインの中間くらいで、ややさつまいもに近い食感と芋本来の甘みが特徴。ポテトサラダやポタージュにすると鮮やかな紫色の一皿になる。",
+    "whatComesOut": [
+      "皮ごと、または皮をむいた鮮やかな赤紫色の芋",
+      "ポテトサラダやポタージュとして色鮮やかな状態で",
+      "フライやチップスとして揚げた状態で",
+      "煮崩れしにくいためカレーやシチューの具としても"
+    ],
+    "tasteAndTexture": [
+      "芋本来の甘みが強い",
+      "ホクホクとねっとりの中間、ややさつまいもに近い食感",
+      "加熱しても紫色が保たれる",
+      "皮ごと調理するとしっとりした仕上がりになる"
+    ],
+    "orderAdvice": "見た目のインパクトが強いが味は食べやすいじゃがいもそのもの。色を楽しむ一皿として注文しやすい。",
+    "similarItems": [
+      {
+        "name": "紫じゃがいも(インカパープル)",
+        "difference": "インカパープルより果肉の色が濃くアントシアニン含有量も多い"
+      }
+    ],
+    "relatedIds": [],
+    "tags": [
+      "野菜",
+      "揚げ物",
+      "ロースト",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "白いじゃがいもが好き",
+      "定番の見た目が好き",
+      "淡白な味が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "source": [
+      "https://www.honda.co.jp/tiller/yasai/unique/shadow-queen/",
+      "https://www.yasainavi.com/blog/archive/687"
+    ],
+    "images": [
+      "/images/dishes/shadow-queen/1.jpg"
+    ]
+  },
+  {
+    "id": "swiss-chard",
+    "name": "スイスチャード",
+    "kana": "すいすちゃーど",
+    "aliases": [
+      "フダンソウ",
+      "不断草",
+      "西洋フダンソウ"
+    ],
+    "englishName": "Swiss Chard",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "地中海沿岸"
+      }
+    ],
+    "summary": "地中海沿岸原産のヒユ科フダンソウ属の葉菜で、赤・オレンジ・黄・白など色とりどりの茎が特徴。ほぼ一年中収穫できることから「不断草」とも呼ばれる。",
+    "menuDescription": "色鮮やかな茎を持つ葉野菜。葉はほうれん草に似た味わいで、おひたしや炒め物、太い茎はバター炒めやクリーム煮に使われる。",
+    "whatComesOut": [
+      "赤・黄・白など色とりどりの茎を持つ葉野菜",
+      "おひたしや和え物として葉の部分が",
+      "炒め物やスープの実として",
+      "茎の部分はクリーム煮やバター炒めとして"
+    ],
+    "tasteAndTexture": [
+      "ほうれん草に似た味わいの葉",
+      "茎はシャキシャキとした歯ごたえ",
+      "カリウムや鉄分を豊富に含む",
+      "色鮮やかな茎が彩りのアクセントになる"
+    ],
+    "orderAdvice": "ほうれん草感覚で食べやすい。彩りの良さを楽しみたい人におすすめ。",
+    "similarItems": [
+      {
+        "id": "spinach",
+        "name": "ほうれん草",
+        "difference": "ほうれん草はアカザ科の一般的な葉野菜。スイスチャードはビートの仲間で茎が色鮮やか"
+      }
+    ],
+    "relatedIds": [
+      "spinach"
+    ],
+    "tags": [
+      "野菜",
+      "炒め物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "地味な見た目の野菜が好き",
+      "葉物野菜が苦手",
+      "定番の緑一色が好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/フダンソウ",
+      "https://foodslink.jp/syokuzaihyakka/syun/vegitable/swisschard.htm"
+    ],
+    "images": [
+      "/images/dishes/swiss-chard/1.jpg",
+      "/images/dishes/swiss-chard/2.jpg",
+      "/images/dishes/swiss-chard/3.jpg"
+    ]
+  },
+  {
+    "id": "yacon",
+    "name": "ヤーコン",
+    "kana": "やーこん",
+    "englishName": "Yacon",
+    "originalName": "Smallanthus sonchifolius",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "アンデス山脈"
+      }
+    ],
+    "summary": "南米アンデス山脈原産のキク科の根菜。フラクトオリゴ糖を豊富に含み低カロリーで、生では梨やレンコンに似たシャキシャキ感と穏やかな甘みを持つ。",
+    "menuDescription": "見た目はさつまいもに似た根菜。生で食べると梨のようなシャキシャキ感とほのかな甘みがあり、加熱するとレンコンよりもほくほくとした食感になる。",
+    "whatComesOut": [
+      "皮をむいた薄切りまたは千切りの根菜",
+      "生のままサラダや和え物として",
+      "加熱してきんぴらや煮物として",
+      "揚げて天ぷらとして"
+    ],
+    "tasteAndTexture": [
+      "淡白でほのかな甘み",
+      "生食時は梨やレンコンに似たシャキシャキ感",
+      "かすかな渋みを感じることもある",
+      "加熱するとほくほくした食感に変化"
+    ],
+    "orderAdvice": "低カロリーでヘルシー志向の人向け。生食のシャキシャキ感を楽しみたいならサラダがおすすめ。",
+    "similarItems": [
+      {
+        "name": "レンコン",
+        "difference": "レンコンはハス科の水生植物の根茎でデンプン質。ヤーコンはキク科の根菜でオリゴ糖を含み低カロリー"
+      }
+    ],
+    "relatedIds": [],
+    "tags": [
+      "野菜",
+      "サラダ",
+      "炒め物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ほくほくした芋が好き",
+      "甘い味が苦手",
+      "定番の根菜が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/ヤーコン",
+      "https://kawashima-ya.jp/contents/?p=26348"
+    ],
+    "images": [
+      "/images/dishes/yacon/1.jpg",
+      "/images/dishes/yacon/2.jpg",
+      "/images/dishes/yacon/3.jpg"
+    ]
+  },
+  {
+    "id": "cavolo-nero",
+    "name": "カーボロネロ",
+    "kana": "かーぼろねろ",
+    "aliases": [
+      "黒キャベツ",
+      "トスカーナケール"
+    ],
+    "englishName": "Cavolo Nero",
+    "originalName": "Cavolo Nero",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "トスカーナ"
+      }
+    ],
+    "summary": "イタリア・トスカーナ地方原産の不結球型キャベツ。ケールの仲間で濃緑色の縮れた肉厚な葉を持ち、加熱すると甘みと旨みが増す。",
+    "menuDescription": "ちりめん状の濃い緑色をした肉厚な葉野菜。生ではやや苦みがあるが、煮込むと甘みと旨みが引き出される。トスカーナ地方の煮込み料理やスープ、パスタソースに使われる。",
+    "whatComesOut": [
+      "濃緑色で縮れた肉厚な葉",
+      "オリーブオイルで炒めた状態で",
+      "スープや煮込み料理の具として",
+      "パスタソースやブルスケッタのトッピングとして"
+    ],
+    "tasteAndTexture": [
+      "生の状態ではやや苦みがある",
+      "加熱すると甘みと旨みが増す",
+      "肉厚で煮崩れしにくい",
+      "縮れた葉がソースをよく絡める"
+    ],
+    "orderAdvice": "苦みのある葉野菜が好きなら煮込み料理で試すとよい。加熱調理されたものの方が食べやすい。",
+    "similarItems": [
+      {
+        "id": "kale",
+        "name": "ケール",
+        "difference": "ケールは葉が比較的平らで青汁などに使われる。カーボロネロはより縮れて肉厚で煮込み向き"
+      }
+    ],
+    "relatedIds": [
+      "kale"
+    ],
+    "tags": [
+      "イタリア料理",
+      "野菜",
+      "煮込み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "苦味が苦手",
+      "柔らかい葉野菜が好き",
+      "くせのない味が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "source": [
+      "https://www.yasainavi.com/zukan/cabbage/kaboronero",
+      "https://macaro-ni.jp/66904"
+    ],
+    "images": [
+      "/images/dishes/cavolo-nero/1.jpg",
+      "/images/dishes/cavolo-nero/2.jpg",
+      "/images/dishes/cavolo-nero/3.jpg"
+    ]
+  },
+  {
+    "id": "white-eggplant",
+    "name": "白なす",
+    "kana": "しろなす",
+    "aliases": [
+      "白ナス",
+      "とろーり旨なす",
+      "ホワイトベル"
+    ],
+    "englishName": "White Eggplant",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "皮が真っ白なナスの総称。皮が硬く果肉が締まっているが、加熱するととろりとやわらかい食感に変化し、色移りしないため様々な料理に使える。",
+    "menuDescription": "皮が白くヘタが緑色のナス。生でもアクが少なく食べられ、加熱すると果肉がとろりとやわらかくなる。田楽や焼きナス、クリームシチューやグラタンなど色を活かした料理に向く。",
+    "whatComesOut": [
+      "真っ白な皮で厚めの輪切りまたは縦半分",
+      "田楽や焼きナスとしてとろりとした状態で",
+      "クリームシチューやグラタンの具として",
+      "生のままマリネやサラダとして"
+    ],
+    "tasteAndTexture": [
+      "甘みと旨みがあり淡白な味わい",
+      "加熱するととろりとやわらかい食感に",
+      "皮が硬めで果肉の水分を閉じ込める",
+      "アクが少なく生食にも向く"
+    ],
+    "orderAdvice": "紫ナスより甘みが強くとろける食感が好きなら注文しやすい。料理の色を邪魔しないので洋風の一皿にも使われる。",
+    "similarItems": [
+      {
+        "id": "mukashi-nasu",
+        "name": "昔なす",
+        "difference": "昔なすは紫色の巾着型で煮崩れしにくい在来品種。白なすは白い皮でとろける食感が特徴"
+      }
+    ],
+    "relatedIds": [
+      "mukashi-nasu"
+    ],
+    "tags": [
+      "野菜",
+      "焼き物",
+      "クリーミー",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "紫色のナスが好き",
+      "皮が薄いナスが好き",
+      "淡白な味が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "source": [
+      "https://foodslink.jp/syokuzaihyakka/syun/vegitable/nasu-shiro.htm",
+      "https://gourmet-note.jp/posts/5036"
+    ],
+    "images": [
+      "/images/dishes/white-eggplant/1.jpg",
+      "/images/dishes/white-eggplant/2.jpg",
+      "/images/dishes/white-eggplant/3.jpg"
+    ]
+  },
+  {
+    "id": "okanori",
+    "name": "おかのり",
+    "kana": "おかのり",
+    "aliases": [
+      "岡海苔",
+      "陸海苔"
+    ],
+    "englishName": "Jew's mallow",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "ヨーロッパ"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "ヨーロッパ原産のフユアオイの変種でアオイ科の葉野菜。葉を細かく叩くと海苔のような粘りが出ることが名前の由来で、クセがなくどんな料理にも使いやすい。",
+    "menuDescription": "ヌメリのある緑の葉野菜。下茹でしてお浸しや和え物、天ぷらにすると焼き海苔に似た風味がほんのり感じられる。クセがなく汁物や炒め物にも幅広く使われる。",
+    "whatComesOut": [
+      "下茹でしたヌメリのある緑の葉",
+      "お浸しや和え物として",
+      "天ぷらとして海苔風味を感じられる状態で",
+      "汁物や炒め物の具として"
+    ],
+    "tasteAndTexture": [
+      "クセがなく青臭さも少ない",
+      "細かく刻むと海苔のような粘りが出る",
+      "乾燥させてあぶると焼き海苔に似た風味に",
+      "カルシウムがほうれん草の2倍と栄養豊富"
+    ],
+    "orderAdvice": "オクラや納豆のようなネバネバ系が好きなら試しやすい。クセがないので初めてでも食べやすい。",
+    "similarItems": [
+      {
+        "id": "okra",
+        "name": "オクラ",
+        "difference": "オクラはアオイ科の実野菜でネバネバが強い。おかのりは同じアオイ科の葉野菜でクセが少ない"
+      }
+    ],
+    "relatedIds": [
+      "okra"
+    ],
+    "tags": [
+      "野菜",
+      "生食",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ネバネバした食感が苦手",
+      "クセのある野菜が好き",
+      "海藻の風味が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://foodslink.jp/syokuzaihyakka/syun/vegitable/okanori.htm",
+      "https://macaro-ni.jp/98104"
+    ],
+    "images": []
+  },
+  {
+    "id": "apios",
+    "name": "アピオス",
+    "kana": "あぴおす",
+    "aliases": [
+      "ホドイモ",
+      "アメリカホドイモ"
+    ],
+    "englishName": "Apios",
+    "originalName": "Apios americana",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "北米"
+      }
+    ],
+    "summary": "北米原産のマメ科のつる性植物の地下茎。ピンポン玉ほどの塊が連なるように育ち、じゃがいもとさつまいもを合わせたような甘みとホクホクした食感を持つ。",
+    "menuDescription": "ピーナッツを大きくしたような見た目の芋。皮ごと茹でて塩をふるか、素揚げにして食べる。ばれいしょとさつまいもを合わせたような甘さとホクホクした食感が特徴。",
+    "whatComesOut": [
+      "皮付きのままの小ぶりな塊状の芋",
+      "皮ごと茹でて塩をふった状態で",
+      "素揚げしたチップスとして",
+      "味噌汁の具として"
+    ],
+    "tasteAndTexture": [
+      "ばれいしょとさつまいもを合わせたような甘さ",
+      "栗のようなホクホクした食感",
+      "皮ごと食べられる",
+      "カルシウムや鉄分がじゃがいもより豊富"
+    ],
+    "orderAdvice": "さつまいも系の甘みが好きなら食べやすい。素揚げやチップスなら軽いおつまみ感覚で楽しめる。",
+    "similarItems": [],
+    "relatedIds": [],
+    "tags": [
+      "野菜",
+      "揚げ物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "芋類が苦手",
+      "甘い味が苦手",
+      "定番の野菜が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "source": [
+      "https://vegetable.alic.go.jp/yasaijoho/iroiro/1012_iroiro.html",
+      "https://www.olive-hitomawashi.com/column/2018/02/post-1241.html"
+    ],
+    "images": [
+      "/images/dishes/apios/1.jpg",
+      "/images/dishes/apios/2.jpg",
+      "/images/dishes/apios/3.jpg"
+    ]
+  },
+  {
+    "id": "hirokko",
+    "name": "ひろっこ",
+    "kana": "ひろっこ",
+    "aliases": [
+      "あさつきの若採り"
+    ],
+    "englishName": "Hirokko",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "秋田"
+      }
+    ],
+    "summary": "秋田県湯沢市の伝統野菜。雪の下で育てたアサツキの若芽で、日光に当たらず白く育ち雪の下で糖度が増す早春の味覚。大正時代に旧須川村で栽培が始まった。",
+    "menuDescription": "雪を掘り起こして収穫する白いアサツキの若芽。酢味噌和えや炒め物にして食べられ、雪の下で甘みが増した早春ならではの風味が楽しめる。",
+    "whatComesOut": [
+      "白く曲がった細長いアサツキの若芽",
+      "酢味噌和えとして",
+      "炒め物として",
+      "かやきの具として"
+    ],
+    "tasteAndTexture": [
+      "雪の下で糖度が増した独特の甘み",
+      "アサツキらしいほのかな辛みと香り",
+      "やわらかい歯ざわり",
+      "早春を感じさせる季節感のある風味"
+    ],
+    "orderAdvice": "早春の期間限定野菜。ねぎ類の香味が好きで季節感を楽しみたい人におすすめ。",
+    "similarItems": [
+      {
+        "id": "shallot",
+        "name": "エシャロット",
+        "difference": "エシャロットは球根部分を食べるユリ科野菜。ひろっこはアサツキの若い葉と芽を食べる"
+      }
+    ],
+    "relatedIds": [
+      "shallot"
+    ],
+    "tags": [
+      "郷土料理",
+      "野菜",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "ねぎ類が苦手",
+      "季節感のない定番野菜が好き",
+      "辛みのある野菜が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "source": [
+      "https://www.pref.akita.lg.jp/pages/archive/9964",
+      "https://blog.rosemay.jp/20170329-akita/"
+    ],
+    "images": []
+  },
+  {
+    "id": "nozawana",
+    "name": "野沢菜",
+    "kana": "のざわな",
+    "englishName": "Nozawana",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "長野"
+      }
+    ],
+    "summary": "長野県野沢温泉村を中心に栽培されるアブラナ科の葉野菜。1756年頃に伝わったとされ、日本三大漬菜のひとつ「野沢菜漬け」の原料として全国に知られる。",
+    "menuDescription": "茎と葉丈が50〜90cmになるアブラナ科の葉野菜。塩漬けや醤油漬けにして「野沢菜漬け」として提供されることが多く、そのまま漬物として、または炒め物や汁物の具にも使われる。",
+    "whatComesOut": [
+      "刻んだ緑色の漬物として小鉢で",
+      "生の葉と茎の状態で(調理前)",
+      "炒め物やチャーハンの具として",
+      "汁物の実として"
+    ],
+    "tasteAndTexture": [
+      "葉質がやわらかく食べやすい",
+      "漬け込むと程よい酸味と塩味が加わる",
+      "葉柄がシャキシャキとした食感",
+      "浅漬けと古漬けで風味が変化する"
+    ],
+    "orderAdvice": "定番の漬物として食べやすく、和食の箸休めとして注文しやすい。",
+    "similarItems": [],
+    "relatedIds": [
+      "pickles"
+    ],
+    "tags": [
+      "郷土料理",
+      "野菜",
+      "発酵",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "漬物が苦手",
+      "酸味のある食べ物が苦手",
+      "生野菜が好き"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/ノザワナ",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/nozawana_zuke.html"
+    ],
+    "images": [
+      "/images/dishes/nozawana/1.jpg",
+      "/images/dishes/nozawana/2.jpg",
+      "/images/dishes/nozawana/3.jpg"
+    ]
+  },
+  {
+    "id": "uhan",
+    "name": "ウーハン",
+    "kana": "うーはん",
+    "aliases": [
+      "烏播"
+    ],
+    "englishName": "Uhan Taro",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "奈良"
+      }
+    ],
+    "summary": "奈良県の伝統野菜である里芋の一品種。1940年に台湾から導入され、強い粘りと柔らかな肉質が特徴で他の里芋にはない粘り気を持つ。",
+    "menuDescription": "強い粘りが特徴の小ぶりな里芋。きぬかつぎにすると粘りを手軽に楽しめるほか、煮物にすると滑らかな口当たりが際立つ。",
+    "whatComesOut": [
+      "小ぶりな里芋のきぬかつぎ",
+      "煮物として出汁を含んだ状態で",
+      "餅つき用に蒸してついた餅として"
+    ],
+    "tasteAndTexture": [
+      "他の里芋にはない強い粘り気",
+      "柔らかい肉質",
+      "煮ても崩れにくい",
+      "ねっとりとした滑らかな口当たり"
+    ],
+    "orderAdvice": "里芋好きなら通常の里芋との粘りの違いを楽しめる。直売所などでしか出会えない希少な品種。",
+    "similarItems": [],
+    "relatedIds": [],
+    "tags": [
+      "郷土料理",
+      "野菜",
+      "煮込み",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "粘り気のある食感が苦手",
+      "定番の里芋が好き",
+      "さらっとした食感が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "source": [
+      "https://foodslink.jp/syokuzaihyakka/syun/vegitable/satoimo-Wohan.htm",
+      "http://vege.way-nifty.com/vegetable/2011/05/post-f00b.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "katsuona",
+    "name": "鰹菜",
+    "kana": "かつおな",
+    "aliases": [
+      "かつお菜",
+      "勝男菜"
+    ],
+    "englishName": "Katsuona",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "九州"
+      }
+    ],
+    "summary": "アブラナ科カラシナ類の高菜の品種群で福岡県の特産野菜。煮物や汁物に使うと鰹だし不要なほどの旨みが出ることからこの名がついた。博多の雑煮に欠かせない縁起物。",
+    "menuDescription": "緑の濃い縮れた葉を持つ葉野菜。高菜のような辛みはなく旨みが強いのが特徴で、煮物や汁物、和え物、炒め物に使われる。博多雑煮には欠かせない具材。",
+    "whatComesOut": [
+      "濃い緑色の縮れた葉",
+      "雑煮や汁物の具として",
+      "煮物として出汁を含んだ状態で",
+      "和え物や炒め物として"
+    ],
+    "tasteAndTexture": [
+      "辛みがなく旨みが強い",
+      "見た目に反してやわらかい葉質",
+      "煮ると鰹だしのような風味が出る",
+      "カルシウムが豊富"
+    ],
+    "orderAdvice": "高菜の辛みが苦手でも旨みだけを楽しめる。博多雑煮を試すなら欠かせない一品。",
+    "similarItems": [],
+    "relatedIds": [],
+    "tags": [
+      "郷土料理",
+      "野菜",
+      "スープ",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "辛みのある野菜が好き",
+      "旨みの薄い野菜が好き",
+      "硬い葉野菜が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/カツオナ",
+      "https://foodslink.jp/syokuzaihyakka/syun/vegitable/katuona.htm"
+    ],
+    "images": []
+  },
+  {
+    "id": "makomodake",
+    "name": "まこもたけ",
+    "kana": "まこもたけ",
+    "aliases": [
+      "真菰筍",
+      "マコモダケ"
+    ],
+    "englishName": "Manchurian wild rice",
+    "originalName": "Zizania latifolia",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "イネ科の多年草マコモの根元に黒穂菌が寄生してできる肥大した茎を食べる野菜。タケノコやアスパラガスに似たシャキシャキ感とほのかな甘みが特徴。",
+    "menuDescription": "太いネギやタケノコに似た見た目の野菜。素焼きや天ぷらにすると筍のような食感で、シャキシャキとした歯ざわりとほのかな甘みが楽しめる。",
+    "whatComesOut": [
+      "皮をむいた白く筍に似た茎の部分",
+      "素焼きとして塩や田楽味噌を添えた状態で",
+      "天ぷらとして",
+      "炒め物として歯ざわりを残した状態で"
+    ],
+    "tasteAndTexture": [
+      "タケノコやアスパラガスに似たシャキシャキ感",
+      "ほのかな甘みとかすかなとうもろこしのような香り",
+      "えぐみが少なく鮮度がよければ生食も可能",
+      "加熱するとより甘さが際立つ"
+    ],
+    "orderAdvice": "タケノコ好きなら似た食感で楽しみやすい。秋限定の珍しい野菜として季節を感じたい人におすすめ。",
+    "similarItems": [],
+    "relatedIds": [],
+    "tags": [
+      "中国料理",
+      "野菜",
+      "焼き物",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "きのこの風味が苦手",
+      "定番の野菜が好き",
+      "淡白な味が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://foodslink.jp/syokuzaihyakka/syun/vegitable/makomodake.htm",
+      "https://kawashima-ya.jp/contents/?p=31512"
+    ],
+    "images": [
+      "/images/dishes/makomodake/1.jpg"
+    ]
+  },
+  {
+    "id": "palermo-pepper",
+    "name": "パレルモ",
+    "kana": "ぱれるも",
+    "aliases": [
+      "イタリアンパプリカ",
+      "スイートメガパプリカ"
+    ],
+    "englishName": "Palermo Pepper",
+    "originalName": "Palermo",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "イタリア・シチリア島の都市名にちなんだ細長いイタリアンパプリカ。長さ20cm前後で万願寺唐辛子に似た形状。赤く熟すほど甘みが増し苦味はほぼない。",
+    "menuDescription": "牛の角のように細長く伸びた赤または黄色のパプリカ。完熟すると糖度10度前後になるほど甘く、生でサラダや詰め物料理、炒め物やパスタに幅広く使われる。",
+    "whatComesOut": [
+      "細長い赤または黄色のパプリカ",
+      "生のままスライスしてサラダに",
+      "詰め物料理として",
+      "炒め物やパスタの具として"
+    ],
+    "tasteAndTexture": [
+      "赤く熟すほど強い甘み",
+      "心地よい歯ざわり",
+      "苦味がほぼない",
+      "肉厚でジューシー"
+    ],
+    "orderAdvice": "パプリカの甘みをより強く感じたい人向け。生でサラダにすると甘さがダイレクトに楽しめる。",
+    "similarItems": [
+      {
+        "id": "paprika",
+        "name": "パプリカ",
+        "difference": "パプリカは丸くコンパクトな形。パレルモは細長い牛の角のような形で糖度がより高い"
+      }
+    ],
+    "relatedIds": [
+      "paprika"
+    ],
+    "tags": [
+      "イタリア料理",
+      "野菜",
+      "サラダ",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "苦味のある野菜が好き",
+      "定番の丸いパプリカが好き",
+      "辛い唐辛子が好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://foodslink.jp/syokuzaihyakka/syun/vegitable/Palermo.htm",
+      "https://www.radishbo-ya.co.jp/rb/daizukan/search/details/362"
+    ],
+    "images": [
+      "/images/dishes/palermo-pepper/1.png"
+    ]
+  },
+  {
+    "id": "cima-di-rapa",
+    "name": "チーマディラーパ",
+    "kana": "ちーまでぃらーぱ",
+    "aliases": [
+      "西洋菜花",
+      "ターニップトップ"
+    ],
+    "englishName": "Cima di Rapa",
+    "originalName": "Cima di rapa",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "プーリア"
+      }
+    ],
+    "summary": "イタリア語で「カブのトップ」を意味するアブラナ科の菜花。南イタリア・プーリア州が主産地で、根は食べず葉と花蕾を食べる。苦味が控えめでほのかな甘みがある。",
+    "menuDescription": "日本の菜の花に似た西洋野菜で、葉は薄く平たい。塩ゆでしてニンニクとアンチョビのオリーブオイルソースで和え、オレキエッテなどのパスタと合わせるのが定番。",
+    "whatComesOut": [
+      "塩ゆでした緑色の葉と花蕾",
+      "ニンニクとアンチョビのオリーブオイルで和えた状態で",
+      "パスタの具として絡めた状態で"
+    ],
+    "tasteAndTexture": [
+      "日本の菜の花より控えめな苦味",
+      "ほのかな甘みが香る",
+      "えぐみが少ない",
+      "カルシウムなど栄養価が豊富"
+    ],
+    "orderAdvice": "菜の花の苦味が苦手でも試しやすい。オレキエッテなどイタリアの家庭料理を味わいたい人向け。",
+    "similarItems": [],
+    "relatedIds": [
+      "tagliatelle"
+    ],
+    "tags": [
+      "イタリア料理",
+      "野菜",
+      "パスタ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "苦味のある野菜が好き",
+      "日本の菜の花が好き",
+      "クセの強い野菜が好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://foodslink.jp/syokuzaihyakka/syun/vegitable/CimaDiRapa.htm",
+      "https://www.radishbo-ya.co.jp/rb/daizukan/search/details/363"
+    ],
+    "images": [
+      "/images/dishes/cima-di-rapa/1.jpg"
+    ]
+  },
+  {
+    "id": "mukashi-nasu",
+    "name": "昔なす",
+    "kana": "むかしなす",
+    "englishName": "Mukashi Nasu",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "新潟"
+      }
+    ],
+    "summary": "新潟県などで栽培される在来のナス品種。巾着のような丸い形が特徴で、煮崩れしにくく甘みがありクセのない味わいから浅漬けや煮物に向く。",
+    "menuDescription": "巾着型の丸いナス。小さいうちに収穫すると浅漬けに、大きく育てると焼きナスや煮物に使われる。皮・果肉ともにやわらかく甘みがある。",
+    "whatComesOut": [
+      "丸い巾着型のナス",
+      "浅漬けとして小ぶりの状態で",
+      "焼きナスや煮物として大ぶりの状態で"
+    ],
+    "tasteAndTexture": [
+      "甘みがありクセのない味わい",
+      "煮崩れしにくい果肉",
+      "皮・果肉ともにやわらかい",
+      "油との相性が良い"
+    ],
+    "orderAdvice": "煮崩れしにくいので煮物で真価を発揮する。昔ながらの素朴なナスの味を楽しみたい人向け。",
+    "similarItems": [
+      {
+        "id": "white-eggplant",
+        "name": "白なす",
+        "difference": "白なすは白い皮でとろける食感。昔なすは紫色の巾着型で煮崩れしにくい"
+      }
+    ],
+    "relatedIds": [
+      "white-eggplant"
+    ],
+    "tags": [
+      "郷土料理",
+      "野菜",
+      "煮込み",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "改良品種のナスが好き",
+      "皮が硬いナスが好き",
+      "煮崩れしたとろとろの食感が好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "source": [
+      "https://www.pref.niigata.lg.jp/sec/syokuhin/tisan-dentouyasai-nasu.html"
+    ],
+    "images": []
+  },
+  {
+    "id": "shikaku-mame",
+    "name": "シカクマメ",
+    "kana": "しかくまめ",
+    "aliases": [
+      "四角豆",
+      "トウサイ",
+      "ハネミササゲ"
+    ],
+    "englishName": "Winged Bean",
+    "originalName": "Psophocarpus tetragonolobus",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "熱帯アジア"
+      },
+      {
+        "country": "日本",
+        "area": "沖縄"
+      }
+    ],
+    "summary": "熱帯アジア原産のマメ科のつる性植物。莢の断面が4枚の翼状のひだを持つ四角形をしており、1960年代後半から沖縄で栽培されている。サクサクした歯ごたえとわずかな苦味が特徴。",
+    "menuDescription": "断面が四角い翼のような形をした若い緑色の莢。ゆでて和え物や炒め物、天ぷらや酢の物にして食べる。サクサクとした歯ごたえとわずかな苦味がある。",
+    "whatComesOut": [
+      "断面が四角い緑色の若い莢",
+      "ゆでて和え物やサラダとして",
+      "炒め物として",
+      "天ぷらとして"
+    ],
+    "tasteAndTexture": [
+      "サクサクとした歯ごたえ",
+      "わずかな苦味がある",
+      "さっぱりとしてクセがない",
+      "莢だけでなく花や葉、芋も食用になる"
+    ],
+    "orderAdvice": "沖縄の夏野菜として食感を楽しみたい人向け。天ぷらにすると軽い苦味が和らいで食べやすい。",
+    "similarItems": [],
+    "relatedIds": [],
+    "tags": [
+      "野菜",
+      "豆類",
+      "揚げ物",
+      "サクサク"
+    ],
+    "reverseKeywords": [
+      "苦味のある野菜が苦手",
+      "定番のいんげんが好き",
+      "やわらかい食感が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/シカクマメ",
+      "https://www.kurashiru.com/articles/97be9f20-5fd1-49f6-9d14-37cb8e52ce92"
+    ],
+    "images": [
+      "/images/dishes/shikaku-mame/1.png",
+      "/images/dishes/shikaku-mame/2.jpg",
+      "/images/dishes/shikaku-mame/3.jpg"
+    ]
+  },
+  {
+    "id": "castelfranco",
+    "name": "カステルフランコ",
+    "kana": "かすてるふらんこ",
+    "aliases": [
+      "チコリの女王"
+    ],
+    "englishName": "Radicchio di Castelfranco",
+    "originalName": "Radicchio di Castelfranco",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "ヴェネト"
+      }
+    ],
+    "summary": "イタリア・ヴェネト地方原産のチコリの一種。軟白処理でクリーム色の葉に赤紫の斑が入る美しい見た目から「チコリの女王」と呼ばれ、ほろ苦さとほのかな甘みを持つ。",
+    "menuDescription": "クリーム色の葉にバラのような赤紫の斑点が入った華やかなチコリ。軟白処理により苦みがほろ苦さに和らぎ、ほのかな甘みも加わる。サラダで彩りと風味を楽しむのが定番。",
+    "whatComesOut": [
+      "クリーム色に赤紫の斑が入った葉野菜",
+      "生のままサラダとして彩りよく",
+      "生ハムやチーズと合わせた前菜として",
+      "パスタやリゾットの具として"
+    ],
+    "tasteAndTexture": [
+      "軟白処理でほろ苦さに和らいだ苦み",
+      "ほのかな甘み",
+      "サクサクとした歯触り",
+      "バラのように美しい見た目"
+    ],
+    "orderAdvice": "チコリ特有のほろ苦さが好きなら試しやすい。見た目の美しさも楽しめる一皿。",
+    "similarItems": [
+      {
+        "id": "trevisso",
+        "name": "トレビス",
+        "difference": "トレビスは赤紫一色で細長い葉。カステルフランコはクリーム色に赤紫の斑が入る丸い葉"
+      },
+      {
+        "id": "chicory",
+        "name": "チコリ",
+        "difference": "チコリは白い葉で苦みが強い。カステルフランコは軟白処理でほろ苦さに和らいでいる"
+      }
+    ],
+    "relatedIds": [
+      "trevisso",
+      "chicory"
+    ],
+    "tags": [
+      "イタリア料理",
+      "野菜",
+      "サラダ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "苦味のある野菜が苦手",
+      "定番の緑のサラダが好き",
+      "地味な見た目が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://food-mania.jp/castelfranco/",
+      "https://note.com/kotarofarm/n/n587a390daf18"
+    ],
+    "images": []
+  },
+  {
+    "id": "oseille",
+    "name": "オゼイユ",
+    "kana": "おぜいゆ",
+    "aliases": [
+      "スイバ",
+      "ソレル",
+      "スカンポ"
+    ],
+    "englishName": "Sorrel",
+    "originalName": "Oseille",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "ヨーロッパ"
+      },
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "タデ科スイバ属の多年草でフランス語名オゼイユ、英語名ソレルとも呼ばれるハーブ野菜。シュウ酸による爽やかな強い酸味とほろ苦さが特徴で、フランス料理でソースやスープに使われる。",
+    "menuDescription": "鮮やかな緑色の葉野菜で爽やかな酸味とほろ苦さが特徴。フランスでは魚料理のソースやスープの実、肉料理の付け合わせに使われ、「オゼイユ風」と呼ばれるソースのアクセントとしても知られる。",
+    "whatComesOut": [
+      "鮮やかな緑色の葉",
+      "刻んでソースやピュレとして",
+      "スープの実として",
+      "サラダや付け合わせとして"
+    ],
+    "tasteAndTexture": [
+      "爽やかな強い酸味",
+      "ほろ苦さと繊細な渋み",
+      "ほうれん草に似た葉肉の厚さ",
+      "シュウ酸を含むため食べ過ぎに注意"
+    ],
+    "orderAdvice": "酸味の効いたソースや魚料理を好むなら試しやすい。少量がアクセントとして使われることが多い。",
+    "similarItems": [
+      {
+        "id": "spinach",
+        "name": "ほうれん草",
+        "difference": "ほうれん草はアクが少なく穏やかな味。オゼイユは強い酸味とほろ苦さが際立つ"
+      }
+    ],
+    "relatedIds": [
+      "spinach"
+    ],
+    "tags": [
+      "フランス料理",
+      "野菜",
+      "ソース",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "酸味の強い食材が苦手",
+      "穏やかな味の葉野菜が好き",
+      "甘い味付けが好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/スイバ",
+      "https://yukitsukamoto.com/french-cuisine/french-vegetable/2793/"
+    ],
+    "images": [
+      "/images/dishes/oseille/1.jpg",
+      "/images/dishes/oseille/2.jpg",
+      "/images/dishes/oseille/3.jpg"
+    ]
+  },
+  {
+    "id": "leek",
+    "name": "リーキ",
+    "kana": "りーき",
+    "aliases": [
+      "ポロネギ",
+      "西洋ネギ",
+      "韮葱"
+    ],
+    "englishName": "Leek",
+    "originalName": "Allium ampeloprasum",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "地中海沿岸"
+      }
+    ],
+    "summary": "地中海沿岸原産のネギ属野菜で、古代エジプト時代から栽培される。日本の長ネギに似るが葉は扁平で厚みがあり、独特の匂いや辛みが少なく加熱すると甘くとろける食感になる。",
+    "menuDescription": "白い部分が太く扁平な葉を持つ西洋ネギ。加熱するととろりとした食感とほのかな甘みが引き立ち、スープやシチュー、グラタンなどフランス料理に幅広く使われる。ヴィシソワーズの主役食材でもある。",
+    "whatComesOut": [
+      "白く太い部分を輪切りや筒切りにした状態で",
+      "スープやポタージュの具として",
+      "グラタンや煮込みの具として",
+      "緑の部分は出汁や香味付けとして"
+    ],
+    "tasteAndTexture": [
+      "ネギ特有の辛みや匂いが少ない",
+      "加熱するととろりとした食感に",
+      "加熱で甘みが引き立つ",
+      "上品でほのかな香り"
+    ],
+    "orderAdvice": "長ネギよりクセが少なく食べやすい。ヴィシソワーズなど冷製スープで真価を発揮する。",
+    "similarItems": [
+      {
+        "name": "長ネギ",
+        "difference": "長ネギは筒状で辛みが強い。リーキは扁平で厚みがあり辛みが少なく加熱で甘くなる"
+      }
+    ],
+    "relatedIds": [
+      "mirepoix",
+      "onion"
+    ],
+    "tags": [
+      "フランス料理",
+      "野菜",
+      "スープ",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "辛みの強いネギが好き",
+      "定番の長ネギが好き",
+      "生の刺激的な風味が好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/リーキ",
+      "https://www.kurashiru.com/articles/926ac589-cc0a-4ea1-8fe4-b4b6ad985702"
+    ],
+    "images": [
+      "/images/dishes/leek/1.jpg",
+      "/images/dishes/leek/2.jpg",
+      "/images/dishes/leek/3.jpg"
+    ]
+  },
+  {
+    "id": "nasturtium",
+    "name": "ナスタチウム",
+    "kana": "なすたちうむ",
+    "aliases": [
+      "キンレンカ",
+      "金蓮花"
+    ],
+    "englishName": "Nasturtium",
+    "originalName": "Tropaeolum majus",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "南米"
+      }
+    ],
+    "summary": "南米原産のエディブルフラワー。花・葉・実すべてが食用になり、ワサビやカイワレ大根に似たピリッとした辛みが特徴。サラダや料理の彩りに使われる。",
+    "menuDescription": "オレンジや赤、黄色の花をつける食用花。花と葉にはピリッとした爽やかな辛みがあり、サラダや前菜の彩りとして添えられるほか、蕾や未熟な実はピクルスにしてケイパーのように使われる。",
+    "whatComesOut": [
+      "色鮮やかな花がサラダや料理に散らされた状態で",
+      "葉ごとサラダの具材として",
+      "ピクルスにした蕾や実として",
+      "メイン料理の付け合わせの彩りとして"
+    ],
+    "tasteAndTexture": [
+      "ワサビやカイワレ大根に似たピリッとした辛み",
+      "花はみずみずしい食感",
+      "葉は葉肉が薄くさっぱりした味",
+      "見た目の華やかさが際立つ"
+    ],
+    "orderAdvice": "料理の彩りとして添えられることが多い。辛みのアクセントも一緒に楽しむとよい。",
+    "similarItems": [
+      {
+        "id": "caper",
+        "name": "ケイパー",
+        "difference": "ケイパーはフウチョウソウ科の花蕾を酢漬けにしたもの。ナスタチウムの蕾も同様にピクルスにされケイパーの代用にもなる"
+      }
+    ],
+    "relatedIds": [
+      "caper"
+    ],
+    "tags": [
+      "野菜",
+      "サラダ",
+      "生食",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "辛みのある花が苦手",
+      "彩りのない料理が好き",
+      "淡白な味が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "source": [
+      "https://note.com/kotarofarm/n/n70c8ed5f5531",
+      "https://www.shuminoengei.jp/m-pc/a-page_p_detail/target_plant_code-339"
+    ],
+    "images": [
+      "/images/dishes/nasturtium/1.jpg",
+      "/images/dishes/nasturtium/2.jpg",
+      "/images/dishes/nasturtium/3.jpg"
+    ]
+  },
+  {
+    "id": "puntarelle",
+    "name": "プンタレッラ",
+    "kana": "ぷんたれっら",
+    "aliases": [
+      "アスパラガスチコリー"
+    ],
+    "englishName": "Puntarelle",
+    "originalName": "Puntarelle",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "ローマ"
+      }
+    ],
+    "summary": "イタリア・ローマ地方の冬野菜で、チコリーやトレビスと同じキク科の一種。中心から伸びるアスパラガス状の花茎を食べる、ほろ苦さとシャキシャキした歯ごたえが特徴の野菜。",
+    "menuDescription": "細長い花茎を持つチコリーの仲間。花茎を細く裂いて水にさらし、アンチョビソースで和えたローマ風サラダが代表的な食べ方で、ほろ苦さとシャキシャキとした歯ごたえが楽しめる。",
+    "whatComesOut": [
+      "細く裂いてカールした花茎",
+      "アンチョビソースで和えたサラダとして",
+      "さっと茹でたり炒めた状態で"
+    ],
+    "tasteAndTexture": [
+      "チコリー特有のほろ苦さ",
+      "シャキシャキとした歯ごたえ",
+      "水にさらすとアクが抜けて食べやすくなる",
+      "アンチョビの塩気と好相性"
+    ],
+    "orderAdvice": "チコリー系の苦味が好きならローマ風サラダで試すとよい。冬季限定のイタリア野菜。",
+    "similarItems": [
+      {
+        "id": "chicory",
+        "name": "チコリ",
+        "difference": "チコリは葉を食べる結球野菜。プンタレッラは花茎の部分を食べる"
+      },
+      {
+        "id": "trevisso",
+        "name": "トレビス",
+        "difference": "トレビスは赤紫色の結球葉野菜。プンタレッラは緑の葉と白い花茎が特徴"
+      }
+    ],
+    "relatedIds": [
+      "chicory",
+      "trevisso"
+    ],
+    "tags": [
+      "イタリア料理",
+      "野菜",
+      "サラダ",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "苦味のある野菜が苦手",
+      "やわらかい野菜が好き",
+      "定番のレタスサラダが好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://foodslink.jp/syokuzaihyakka/syun/vegitable/Puntarella.html",
+      "https://www.yasainavi.com/zukan/chicory/puntarerra"
+    ],
+    "images": [
+      "/images/dishes/puntarelle/1.jpg",
+      "/images/dishes/puntarelle/2.jpg",
+      "/images/dishes/puntarelle/3.jpg"
+    ]
+  },
+  {
+    "id": "fave",
+    "name": "ファーベ",
+    "kana": "ふぁーべ",
+    "aliases": [
+      "イタリアそら豆"
+    ],
+    "englishName": "Fave",
+    "originalName": "Fave",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "イタリアのそら豆。長さ約30cmのサヤに小ぶりな豆が5〜7粒入り、日本のそら豆よりエグみが少なく生食できるのが特徴。収穫後2〜3日の新鮮なうちに生のままペコリーノチーズと合わせて食べる。",
+    "menuDescription": "細長いサヤに入った小粒のそら豆。イタリアでは新鮮なうちに生のまま、塩気の強いペコリーノ・ロマーノと白ワインで楽しむのが定番。時間が経ったものは日本のそら豆同様に茹でて食べる。",
+    "whatComesOut": [
+      "サヤから出した生の小粒の豆",
+      "ペコリーノチーズと合わせた前菜として",
+      "茹でた状態で豆料理として"
+    ],
+    "tasteAndTexture": [
+      "エグみが少なく生食向き",
+      "小ぶりで柔らかい豆",
+      "青々とした爽やかな風味",
+      "新鮮なほど甘みを感じる"
+    ],
+    "orderAdvice": "そら豆好きなら生食できる珍しさを楽しめる。ワインのおつまみとして注文しやすい。",
+    "similarItems": [
+      {
+        "name": "そら豆",
+        "difference": "日本のそら豆は大粒でエグみがあり加熱調理が基本。ファーベは小粒でエグみが少なく生食もできる"
+      }
+    ],
+    "relatedIds": [],
+    "tags": [
+      "イタリア料理",
+      "前菜",
+      "豆類",
+      "生食"
+    ],
+    "reverseKeywords": [
+      "加熱した豆料理が好き",
+      "大粒の豆が好き",
+      "エグみのある豆が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://agri.mynavi.jp/2020_10_29_136952/",
+      "https://store.vinohayashi.jp/mag/?p=2156"
+    ],
+    "images": [
+      "/images/dishes/fave/1.jpg",
+      "/images/dishes/fave/2.jpg",
+      "/images/dishes/fave/3.jpg"
+    ]
+  },
+  {
+    "id": "rhubarb",
+    "name": "ルバーブ",
+    "kana": "るばーぶ",
+    "englishName": "Rhubarb",
+    "originalName": "Rheum rhabarbarum",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "シベリア南部"
+      }
+    ],
+    "summary": "シベリア南部原産のタデ科の多年草で、赤みがかった太い茎を食用にする。強い酸味とアンズに似た芳香を持ち、砂糖で煮てジャムやパイなど果物のように調理される。",
+    "menuDescription": "赤や緑の太い茎を持つ野菜だが果物のように甘く煮て使われる。砂糖と煮ることで酸味が和らぎ、ジャムやコンポート、パイ、タルトなどのデザートに使われる。イチゴとの組み合わせが定番。",
+    "whatComesOut": [
+      "赤みがかった太い茎の状態で",
+      "砂糖で煮たジャムやコンポートとして",
+      "パイやタルトの具として",
+      "ケーキの飾りやソースとして"
+    ],
+    "tasteAndTexture": [
+      "生では強い酸味とセロリのような食感",
+      "アンズに似た独特の芳香",
+      "加熱すると酸味がやわらぐ",
+      "煮ると繊維がほろりと崩れる"
+    ],
+    "orderAdvice": "酸味のあるデザートが好きなら試しやすい。イチゴと合わせたタルトなどが定番で食べやすい。",
+    "caution": "葉には有毒なシュウ酸が多く含まれ食用不可。食用となるのは茎の部分のみ。",
+    "similarItems": [],
+    "relatedIds": [
+      "berry"
+    ],
+    "tags": [
+      "デザート",
+      "野菜",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "甘いだけのデザートが好き",
+      "酸味のある食べ物が苦手",
+      "果物そのものが好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/ルバーブ",
+      "https://www.cotta.jp/special/article/?p=70466"
+    ],
+    "images": [
+      "/images/dishes/rhubarb/1.jpg",
+      "/images/dishes/rhubarb/2.jpg",
+      "/images/dishes/rhubarb/3.jpg"
+    ]
+  },
+  {
+    "id": "oyster-leaf",
+    "name": "オイスターリーフ",
+    "kana": "おいすたーりーふ",
+    "aliases": [
+      "浜弁慶草",
+      "蝦夷瑠璃草"
+    ],
+    "englishName": "Oyster Leaf",
+    "originalName": "Mertensia maritima",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "北ヨーロッパ"
+      },
+      {
+        "country": "カナダ"
+      }
+    ],
+    "summary": "北ヨーロッパやカナダの海岸に自生するムラサキ科の多年草。生食すると牡蠣そのものの風味がすることで知られる珍しい葉野菜で、日本にも近縁種が自生する。",
+    "menuDescription": "見た目は普通の葉野菜だが、口にすると生牡蠣のような風味が広がる珍しい食材。生のままサラダや魚介料理の付け合わせとして使われることが多い。",
+    "whatComesOut": [
+      "小さな緑の葉が数枚",
+      "生のまま前菜や付け合わせとして",
+      "魚介料理のアクセントとして"
+    ],
+    "tasteAndTexture": [
+      "生牡蠣そのものの風味",
+      "葉としての食感",
+      "人によってはマッシュルームやアンチョビにも例えられる",
+      "わずかに生臭さを感じることもある"
+    ],
+    "orderAdvice": "牡蠣が好きで珍しい食材に挑戦したい人向け。少量で強い風味があるため単品より付け合わせで楽しむとよい。",
+    "similarItems": [],
+    "relatedIds": [],
+    "tags": [
+      "野菜",
+      "前菜",
+      "生食",
+      "魚介"
+    ],
+    "reverseKeywords": [
+      "牡蠣が苦手",
+      "海鮮の風味が苦手",
+      "定番の葉野菜が好き"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://botanica-media.jp/3686",
+      "https://mi-journey.jp/foodie/24821/"
+    ],
+    "images": [
+      "/images/dishes/oyster-leaf/1.jpg",
+      "/images/dishes/oyster-leaf/2.jpg",
+      "/images/dishes/oyster-leaf/3.jpg"
+    ]
+  },
+  {
+    "id": "hoozuki",
+    "name": "ほおずき",
+    "kana": "ほおずき",
+    "aliases": [
+      "食用ほおずき",
+      "鬼灯"
+    ],
+    "englishName": "Cape Gooseberry",
+    "originalName": "Physalis peruviana",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "南米"
+      },
+      {
+        "country": "日本",
+        "area": "長野"
+      }
+    ],
+    "summary": "南米原産のナス科の果実的野菜。薄いガクに包まれたオレンジ色の実は、トマトとパイナップルを合わせたような甘酸っぱさが特徴で、生食やジャム、デザートに使われる。",
+    "menuDescription": "薄いガクを開くと中からオレンジ色の小さな実が現れる果実的野菜。皮ごと食べられ、甘酸っぱい味わいが特徴。生食のほかジャムやゼリー、ケーキのトッピングにも使われる。",
+    "whatComesOut": [
+      "ガク付きのオレンジ色の実",
+      "生のままデザートの付け合わせとして",
+      "ジャムやゼリーとして",
+      "ケーキやサラダのトッピングとして"
+    ],
+    "tasteAndTexture": [
+      "トマトとパイナップルを合わせたような甘酸っぱさ",
+      "濃縮したミカンのような風味",
+      "皮が薄く気にならない食感",
+      "加熱しすぎると香りが飛びやすい"
+    ],
+    "orderAdvice": "甘酸っぱいフルーツ感覚で食べやすい。デザートのアクセントとして注文しやすい。",
+    "similarItems": [
+      {
+        "id": "tomatillo",
+        "name": "トマティーヨ",
+        "difference": "トマティーヨは未熟な緑の状態で使う酸味の強い野菜。食用ほおずきは熟して甘くなった果実を食べる"
+      }
+    ],
+    "relatedIds": [
+      "tomatillo"
+    ],
+    "tags": [
+      "デザート",
+      "野菜",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "酸味の強い果物が苦手",
+      "定番の果物が好き",
+      "野菜らしい味が好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://www.foodslink.jp/syokuzaihyakka/syun/vegitable/hoozuki2.htm",
+      "https://vegetable.alic.go.jp/yasaijoho/iroiro/1011_iroiro.html"
+    ],
+    "images": [
+      "/images/dishes/hoozuki/1.jpg",
+      "/images/dishes/hoozuki/2.jpg"
+    ]
+  },
+  {
+    "id": "ice-plant",
+    "name": "アイスプラント",
+    "kana": "あいすぷらんと",
+    "englishName": "Ice Plant",
+    "originalName": "Mesembryanthemum crystallinum",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "南アフリカ"
+      }
+    ],
+    "summary": "南アフリカのナミブ砂漠原産の多肉植物。葉の表面に水滴状の「ブラッダー細胞」を持ち、ミネラルによる自然な塩味とシャキシャキ・プチプチした食感が特徴。",
+    "menuDescription": "表面にキラキラした粒がついた多肉質の葉野菜。粒にミネラルを蓄えており調味料なしでも自然な塩味を感じられる。シャキシャキとプチプチが同時に楽しめる食感で生食が中心。",
+    "whatComesOut": [
+      "水滴状の粒がついた緑の葉",
+      "生のままサラダとして",
+      "さっと茹でたお浸しやマリネとして"
+    ],
+    "tasteAndTexture": [
+      "天然の塩味",
+      "シャキシャキとした歯切れの良さ",
+      "プチプチ弾ける食感",
+      "青臭さがなくクセがない"
+    ],
+    "orderAdvice": "塩味がすでについているのでドレッシング控えめでも美味しい。食感の面白さを楽しみたい人向け。",
+    "similarItems": [],
+    "relatedIds": [],
+    "tags": [
+      "野菜",
+      "サラダ",
+      "生食",
+      "サクサク"
+    ],
+    "reverseKeywords": [
+      "塩味のない野菜が好き",
+      "定番の葉野菜が好き",
+      "食感が均一な野菜が好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://foodslink.jp/syokuzaihyakka/syun/vegitable/iceplant2.htm",
+      "https://vegetable.alic.go.jp/yasaijoho/iroiro/1006_iroiro.html"
+    ],
+    "images": [
+      "/images/dishes/ice-plant/1.jpg",
+      "/images/dishes/ice-plant/2.jpg",
+      "/images/dishes/ice-plant/3.jpg"
+    ]
+  },
+  {
+    "id": "kiwano",
+    "name": "キワーノ",
+    "kana": "きわーの",
+    "aliases": [
+      "ツノニガウリ",
+      "角キュウリ",
+      "キワノ"
+    ],
+    "englishName": "Kiwano",
+    "originalName": "Cucumis metuliferus",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "アフリカ"
+      }
+    ],
+    "summary": "アフリカ原産のウリ科キュウリ属の果実。表面に角状の突起を持つ独特な見た目で、熟すと黄色〜橙色になる。内部はゼリー状の果肉で淡白な甘さとほのかな酸味を持つ。",
+    "menuDescription": "表面に角状の突起がある黄色いウリ科の果実。輪切りにするとゼリー状の半透明の果肉が現れ、淡白な甘さとほのかな酸味、つるっとした食感が楽しめる。",
+    "whatComesOut": [
+      "角状の突起がある黄色い果実の輪切り",
+      "スプーンですくうゼリー状の果肉",
+      "はちみつをかけたデザートとして"
+    ],
+    "tasteAndTexture": [
+      "淡白でそれほど強くない甘み",
+      "ほのかな酸味",
+      "ゼリーのようなつるっとした食感",
+      "香りは控えめ"
+    ],
+    "orderAdvice": "見た目のインパクトほど味に癖はない。デザート感覚で気軽に試せる。",
+    "similarItems": [
+      {
+        "id": "cucumber",
+        "name": "きゅうり",
+        "difference": "きゅうりはシャキシャキした食感で青臭さがある。キワーノはゼリー状の果肉で果物のような甘さがある"
+      }
+    ],
+    "relatedIds": [
+      "cucumber"
+    ],
+    "tags": [
+      "デザート",
+      "野菜",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "味の強いフルーツが好き",
+      "シャキシャキした野菜が好き",
+      "見た目が普通の果物が好き"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://foodslink.jp/syokuzaihyakka/syun/fruit/kiwano.htm",
+      "https://afun7.com/archives/20351.html"
+    ],
+    "images": [
+      "/images/dishes/kiwano/1.jpg",
+      "/images/dishes/kiwano/2.jpg",
+      "/images/dishes/kiwano/3.jpg"
     ]
   }
 ]
