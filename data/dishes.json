@@ -31363,7 +31363,8 @@
     "kana": "しゅくめるり",
     "aliases": [
       "シュクメルリチキン",
-      "ジョージア風ガーリックチキン"
+      "ジョージア風ガーリックチキン",
+      "シュクメリ"
     ],
     "englishName": "Shkmeruli",
     "originalName": "შქმერული",
@@ -101973,6 +101974,237 @@
       "/images/dishes/kiwano/1.jpg",
       "/images/dishes/kiwano/2.jpg",
       "/images/dishes/kiwano/3.jpg"
+    ]
+  },
+  {
+    "id": "pasta-filata",
+    "name": "パスタフィラータ",
+    "kana": "ぱすたふぃらーた",
+    "aliases": [
+      "伸展カード製法",
+      "パスタ・フィラータ"
+    ],
+    "englishName": "Pasta filata",
+    "originalName": "Pasta filata",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "イタリア語で「紡いだ生地」を意味するチーズ製法。加熱で固めた凝乳（カード）を熱湯や熱いホエーに浸けて練り伸ばし（フィラトゥーラ）、繊維状の弾力ある組織を作る。モッツァレラ・ブッラータ・プロヴォローネ・スカモルツァなど、加熱すると糸を引く伸びのよいチーズはすべてこの製法から生まれる。",
+    "menuDescription": "凝乳を熱湯で練り伸ばして作るイタリアのチーズ製法。モッツァレラやブッラータなど、加熱すると糸を引く伸びのよいチーズがこの技法で作られる。",
+    "whatComesOut": [
+      "繊維状に伸びる質感のチーズ本体",
+      "モッツァレラなど単体のチーズ商品として",
+      "ピザ・カプレーゼなど加熱・生食どちらにも使用",
+      "裂くと層状に繊維が見える断面"
+    ],
+    "tasteAndTexture": [
+      "練り伸ばしによる弾力ある繊維質",
+      "加熱するととろけて糸を引く",
+      "フレッシュタイプはミルキーで淡白な味わい",
+      "裂いて食べると層状の食感が楽しめる"
+    ],
+    "orderAdvice": "メニューには製法名としてではなく、モッツァレラ・ブッラータなど個別のチーズ名で登場することがほとんど。「よく伸びるチーズ」を探しているならパスタフィラータ製法のチーズが該当する。",
+    "caution": "乳製品を含む。フレッシュタイプは賞味期限が短く、店によって熟成度・塩気が異なる。",
+    "similarItems": [
+      {
+        "id": "mozzarella",
+        "name": "モッツァレラ",
+        "difference": "モッツァレラはパスタフィラータ製法で作られる代表的な完成品チーズ。パスタフィラータはその製法自体を指す名称"
+      },
+      {
+        "id": "burrata",
+        "name": "ブッラータ",
+        "difference": "ブッラータはパスタフィラータ製法で作った外皮の中に生クリームを詰めた発展形"
+      },
+      {
+        "id": "gruyere-cheese",
+        "name": "グリュイエールチーズ",
+        "difference": "グリュイエールは非加熱圧搾タイプで伸びない。パスタフィラータは練り伸ばすため独特の繊維質を持つ"
+      }
+    ],
+    "relatedIds": [
+      "mozzarella",
+      "burrata"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pasta_filata"
+    ],
+    "tags": [
+      "イタリア料理",
+      "チーズ",
+      "乳製品",
+      "もちもち",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "硬いチーズ",
+      "熟成チーズ",
+      "青カビチーズ",
+      "粉チーズ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pasta-filata/1.jpg",
+      "/images/dishes/pasta-filata/2.jpg"
+    ]
+  },
+  {
+    "id": "white-borscht",
+    "name": "白ボルシチ",
+    "kana": "しろぼるしち",
+    "aliases": [
+      "白いボルシュト",
+      "バルシチ・ビャワ"
+    ],
+    "englishName": "White borscht",
+    "originalName": "Barszcz biały",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ポーランド"
+      }
+    ],
+    "summary": "小麦を発酵させた酸味のある「ザクファス」をベースにした、ポーランドの白いスープ。生の白ソーセージ（ビャワ・キェウバサ）・じゃがいも・茹で卵・クリームを加えて仕上げる。ライ麦発酵液を使う「ジューレック」より酸味がまろやかで、主にイースターの時期に食べられる。",
+    "menuDescription": "発酵液のほのかな酸味とクリームのコクが合わさった白いポーランドのスープ。白ソーセージ・じゃがいも・茹で卵が具として入り、イースターの定番料理として親しまれる。",
+    "whatComesOut": [
+      "白っぽく濁ったクリーミーなスープ",
+      "スライスした白ソーセージとじゃがいも",
+      "半分に切った茹で卵がトッピング",
+      "マジョラムなどハーブの香り"
+    ],
+    "tasteAndTexture": [
+      "発酵液由来のまろやかな酸味",
+      "クリームのコクとなめらかさ",
+      "ソーセージのにんにく風味",
+      "じゃがいものほっくりした食感"
+    ],
+    "orderAdvice": "酸味のあるスープが好きなら試す価値あり。真っ赤な（通常の）ボルシチとは別物で、見た目も味も白くまろやか。ポーランド料理店ではイースター前後の季節メニューとして出ることが多い。",
+    "caution": "乳製品（クリーム）、卵、豚肉加工品（ソーセージ）を含む。",
+    "similarItems": [
+      {
+        "id": "borscht",
+        "name": "ボルシチ",
+        "difference": "ボルシチはビーツで赤く仕上げる代表的なスープ。白ボルシチはビーツを使わず、発酵液とクリームで白く仕上げる別系統のスープ"
+      },
+      {
+        "id": "pierogi",
+        "name": "ピエロギ",
+        "difference": "ピエロギは具入りの茹で餃子。白ボルシチはスープ"
+      }
+    ],
+    "relatedIds": [
+      "borscht",
+      "pierogi"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Borscht",
+      "https://theeuropeandish.com/easy-polish-white-borscht-soup-barszcz-bialy/"
+    ],
+    "tags": [
+      "ポーランド料理",
+      "東欧料理",
+      "スープ",
+      "豚肉",
+      "酸味",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "赤いスープ",
+      "トマトスープ",
+      "辛いスープ",
+      "冷製スープ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/white-borscht/1.jpg",
+      "/images/dishes/white-borscht/2.jpg",
+      "/images/dishes/white-borscht/3.jpg"
+    ]
+  },
+  {
+    "id": "desosser",
+    "name": "デゾセ",
+    "kana": "でぞせ",
+    "aliases": [
+      "デゾッセ",
+      "骨抜き"
+    ],
+    "englishName": "Deboning",
+    "originalName": "Désosser",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス語で「骨を除く」を意味する調理技法。鶏・魚・肉から骨を取り除く下処理を指し、専用の細くしなるデゾッセナイフ（couteau à désosser）を骨の関節に沿わせて身を傷めずに外す。詰め物料理やロースト、切り分けやすい一皿に仕上げるための基本工程。",
+    "menuDescription": "骨を取り除く下ごしらえの技法。骨を外した鶏肉や魚は詰め物がしやすく、切り分けたときに骨が邪魔にならない仕上がりになる。",
+    "whatComesOut": [
+      "骨を抜いた状態で成形・調理された肉や魚",
+      "詰め物入りのロール状料理として提供されることが多い",
+      "切り分けやすい断面",
+      "骨がないため一口大に食べやすい"
+    ],
+    "tasteAndTexture": [
+      "骨がない分、身が均一に締まった食感",
+      "詰め物と一体になった味わい",
+      "骨からの旨みは別途フォンやジュで補うことが多い"
+    ],
+    "orderAdvice": "メニューには技法名としてではなく「骨なし」「デゾッセした」等の説明として登場する。骨に近い部分の旨みを求めるなら骨付き料理を、食べやすさを重視するなら骨抜き料理を選ぶとよい。",
+    "similarItems": [
+      {
+        "id": "reposer",
+        "name": "ルポゼ",
+        "difference": "ルポゼは加熱後に肉を休ませる工程。デゾセは加熱前に骨を取り除く下ごしらえ"
+      },
+      {
+        "id": "braise",
+        "name": "ブレゼ",
+        "difference": "ブレゼは煮込み調理法。デゾセはその前段階で行う骨抜き処理"
+      },
+      {
+        "id": "abaisser",
+        "name": "アベッセ",
+        "difference": "アベッセは生地を伸ばす工程。デゾセは肉・魚から骨を外す工程"
+      }
+    ],
+    "relatedIds": [
+      "reposer",
+      "braise",
+      "abaisser"
+    ],
+    "source": [
+      "https://fr.wikipedia.org/wiki/D%C3%A9sossage"
+    ],
+    "tags": [
+      "フランス料理",
+      "肉",
+      "魚介",
+      "ロースト"
+    ],
+    "reverseKeywords": [
+      "骨付き肉",
+      "骨まで食べる",
+      "丸ごと調理",
+      "骨付きロースト"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/desosser/1.jpg",
+      "/images/dishes/desosser/2.jpg",
+      "/images/dishes/desosser/3.jpg"
     ]
   }
 ]
