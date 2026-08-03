@@ -1029,7 +1029,8 @@
     "aliases": [
       "ポーチング",
       "Poached",
-      "低温ゆで"
+      "低温ゆで",
+      "ポッシェ"
     ],
     "englishName": "Poché / Poached",
     "originalName": "Poché",
@@ -6779,7 +6780,8 @@
     ],
     "aliases": [
       "ガパオライス",
-      "パッガパオ"
+      "パッガパオ",
+      "パッカパオ"
     ]
   },
   {
@@ -14331,7 +14333,8 @@
     "kana": "そーすあめりけーぬ",
     "aliases": [
       "アメリカンソース",
-      "オマールソース"
+      "オマールソース",
+      "アメリケーヌソース"
     ],
     "englishName": "Sauce Américaine",
     "originalName": "Sauce Américaine",
@@ -15469,7 +15472,8 @@
     "name": "夫妻肺片",
     "kana": "ふーちーふぇいぴぇん",
     "aliases": [
-      "フーチーフェイピエン"
+      "フーチーフェイピエン",
+      "夫婦肺片"
     ],
     "englishName": "Husband and Wife Beef Slices",
     "originalName": "夫妻肺片 (Fūqī Fèipiàn)",
@@ -15790,7 +15794,8 @@
     "kana": "かんしゃおしゃーれん",
     "aliases": [
       "ガンシャオシャーレン",
-      "四川海老炒め"
+      "四川海老炒め",
+      "がんしゃおしゃーれん"
     ],
     "englishName": "Dry-Braised Shrimp",
     "originalName": "干烧虾仁 (Gān Shāo Xiārén)",
@@ -20136,7 +20141,8 @@
     "kana": "ぐらちね",
     "aliases": [
       "オー・グラタン",
-      "au gratin"
+      "au gratin",
+      "グラティネ"
     ],
     "englishName": "Gratiné",
     "originalName": "Gratiné",
@@ -20776,7 +20782,8 @@
       "https://www.britannica.com/science/emulsion"
     ],
     "aliases": [
-      "乳化"
+      "乳化",
+      "エミュルション"
     ]
   },
   {
@@ -26041,7 +26048,8 @@
     ],
     "aliases": [
       "エンチラーダス",
-      "Enchiladas"
+      "Enchiladas",
+      "エンチェラーダ"
     ],
     "summary": "トウモロコシのトルティーヤに肉や豆、チーズを巻き、チリソースをかけてオーブンで焼くメキシコ料理。赤チリ、モレ、サルサベルデ、クリーム系など複数のソースがあり、スペイン語で「チリで味付けした」を意味する。",
     "menuDescription": "赤または緑のチリソースをたっぷりかけたトルティーヤのロール。上にチーズを溶かし、サワークリームやアボカド、コリアンダーを添えて出る。",
@@ -27457,7 +27465,8 @@
     ],
     "aliases": [
       "ライムスープ",
-      "ユカタン風ライムスープ"
+      "ユカタン風ライムスープ",
+      "ソパデリマ"
     ]
   },
   {
@@ -32590,7 +32599,8 @@
     "kana": "みるぽわ",
     "aliases": [
       "香味野菜",
-      "ミルポワ野菜"
+      "ミルポワ野菜",
+      "ミルポア"
     ],
     "englishName": "Mirepoix",
     "originalName": "Mirepoix",
@@ -33189,7 +33199,8 @@
     "kana": "たひに",
     "aliases": [
       "タヒーナ",
-      "練りごまペースト"
+      "練りごまペースト",
+      "タニヒ"
     ],
     "englishName": "Tahini",
     "originalName": "Tahini",
@@ -43830,7 +43841,8 @@
     "aliases": [
       "蜂の子",
       "クロスズメバチ",
-      "へぼ飯"
+      "へぼ飯",
+      "ヘボ"
     ],
     "englishName": "Hebo",
     "category": "料理",
@@ -48169,7 +48181,8 @@
     "kana": "ぶーるのわぜっと",
     "aliases": [
       "焦がしバター",
-      "ヘーゼルナッツバター"
+      "ヘーゼルナッツバター",
+      "ブールノワゼット"
     ],
     "englishName": "Brown Butter",
     "originalName": "Beurre noisette",
@@ -52082,7 +52095,8 @@
     "aliases": [
       "カツレット",
       "カットレット",
-      "洋風カツ"
+      "洋風カツ",
+      "コートレット"
     ],
     "englishName": "Cutlet",
     "originalName": "Cutlet",
@@ -71485,7 +71499,8 @@
     "kana": "くいってぃあおなーむ",
     "aliases": [
       "クイティアオナーム",
-      "タイの汁あり米麺"
+      "タイの汁あり米麺",
+      "クイッティオナーム"
     ],
     "englishName": "Kuai Tiao Nam",
     "originalName": "ก๋วยเตี๋ยวน้ำ",
@@ -74625,7 +74640,9 @@
     "aliases": [
       "タプティムクローブ",
       "ルビーのココナッツミルク",
-      "レッドルビー"
+      "レッドルビー",
+      "タップティムクロープ",
+      "タプティムクロープ"
     ],
     "englishName": "Tub Tim Krob",
     "originalName": "ทับทิมกรอบ",
@@ -77057,7 +77074,8 @@
       "真空調理",
       "スービッド",
       "スーヴィッド",
-      "低温真空調理"
+      "低温真空調理",
+      "スービット"
     ],
     "englishName": "Sous vide",
     "originalName": "sous vide（フランス語）",
@@ -77885,7 +77903,8 @@
     "kana": "わんたんめん",
     "aliases": [
       "ワンタン麺",
-      "雲吞麺"
+      "雲吞麺",
+      "云吞面"
     ],
     "englishName": "Wonton Noodles",
     "originalName": "雲吞麵",
