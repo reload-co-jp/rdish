@@ -14,6 +14,7 @@ import { TagList } from "./TagList"
 type Props = {
   dish: DishItem
   allDishes: DishItem[]
+  updatedAt?: string
 }
 
 const Section: FC<{ title: string; children: React.ReactNode }> = ({
@@ -37,7 +38,7 @@ const Section: FC<{ title: string; children: React.ReactNode }> = ({
   </section>
 )
 
-export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
+export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
   const relatedDishes = dish.relatedIds
     .map((id) => allDishes.find((d) => d.id === id))
     .filter(Boolean) as DishItem[]
@@ -400,6 +401,12 @@ export const DishDetail: FC<Props> = ({ dish, allDishes }) => {
           </Link>
         </div>
       </Section>
+
+      {updatedAt && (
+        <p style={{ color: "#a89080", fontSize: "0.75rem", marginBottom: "1rem" }}>
+          最終更新: {updatedAt}
+        </p>
+      )}
 
       {dish.source && dish.source.length > 0 && (
         <Section title="参考">

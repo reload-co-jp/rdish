@@ -4,10 +4,13 @@ import { Breadcrumb } from "../../../components/elements/Breadcrumb"
 import { DishDetail } from "../../../components/features/DishDetail"
 import { RecentlyViewedTracker } from "../../../components/features/RecentlyViewedTracker"
 import AdSense from "../../../components/elements/AdSense"
+import dishDatesData from "../../../data/dish-dates.json"
 import { allDishes } from "../../../lib/dishes"
 import { getImagesMeta } from "../../../lib/imageMeta"
 import { organizationRef } from "../../../lib/organization"
 import type { DishItem } from "../../../types/dish"
+
+const dishDates = dishDatesData as Record<string, string>
 
 export function generateStaticParams() {
   return allDishes.map((d) => ({ id: d.id }))
@@ -72,13 +75,14 @@ export async function generateMetadata({
   }
 }
 
-const DishPageContent: FC<{ dish: DishItem; allDishes: DishItem[] }> = ({
-  dish,
-  allDishes,
-}) => (
+const DishPageContent: FC<{
+  dish: DishItem
+  allDishes: DishItem[]
+  updatedAt?: string
+}> = ({ dish, allDishes, updatedAt }) => (
   <>
     <RecentlyViewedTracker id={dish.id} />
-    <DishDetail dish={dish} allDishes={allDishes} />
+    <DishDetail dish={dish} allDishes={allDishes} updatedAt={updatedAt} />
   </>
 )
 
@@ -150,6 +154,8 @@ export default async function DishPage({
       : {}),
   }
 
+  const dateModified = dishDates[dish.id]
+
   const webPageLd = {
     "@type": "WebPage",
     "@id": canonicalUrl,
@@ -158,6 +164,7 @@ export default async function DishPage({
     description: dish.summary,
     inLanguage: "ja",
     isPartOf: { "@type": "WebSite", name: "RDish", url: SITE_URL },
+    ...(dateModified ? { dateModified } : {}),
     ...(imagesMeta[0]
       ? {
           primaryImageOfPage: {
@@ -232,7 +239,7 @@ export default async function DishPage({
           { label: dish.name, href: `/dishes/${dish.id}/` },
         ]}
       />
-      <DishPageContent dish={dish} allDishes={allDishes} />
+      <DishPageContent dish={dish} allDishes={allDishes} updatedAt={dateModified} />
       <AdSense />
     </>
   )
