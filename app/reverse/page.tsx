@@ -22,13 +22,12 @@ export default function ReversePage() {
   const [keywords, setKeywords] = useState<KeywordMatch[]>([])
   const [searched, setSearched] = useState(false)
 
-  const handleSubmit = (e: FormEvent) => {
-    e.preventDefault()
-    if (!query.trim()) return
+  const runSearch = (q: string) => {
+    if (!q.trim()) return
 
-    const kwMatches = detectKeywordsInQuery(allDishes, query)
+    const kwMatches = detectKeywordsInQuery(allDishes, q)
     const kwDishes = kwMatches.map((m) => m.dish)
-    const revResults = reverseSearch(allDishes, query)
+    const revResults = reverseSearch(allDishes, q)
 
     // merge: keyword matches + reverse results, deduped
     const seen = new Set<string>()
@@ -40,6 +39,16 @@ export default function ReversePage() {
     setKeywords(kwMatches)
     setResults(merged)
     setSearched(true)
+  }
+
+  const handleSubmit = (e: FormEvent) => {
+    e.preventDefault()
+    runSearch(query)
+  }
+
+  const handleExampleClick = (ex: string) => {
+    setQuery(ex)
+    runSearch(ex)
   }
 
   return (
@@ -132,7 +141,7 @@ export default function ReversePage() {
           {EXAMPLES.map((ex) => (
             <button
               key={ex}
-              onClick={() => setQuery(ex)}
+              onClick={() => handleExampleClick(ex)}
               style={{
                 background: "#f0e6d6",
                 border: "1px solid #e8ddd0",
