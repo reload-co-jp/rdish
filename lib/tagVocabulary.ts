@@ -13,4 +13,17 @@ export const FLAVOR_TAGS = [
   "香ばしい", "ジューシー", "もちもち", "ふわふわ", "サクサク",
 ]
 
-export const TAG_VOCABULARY = [...PRIMARY_INGREDIENT_TAGS, ...FLAVOR_TAGS]
+// 次元4(調理法)タグの動詞連用形。「焼いた」「炒った」等の活用語尾を
+// conjugation.tsで語幹化した結果がここにヒットするようにする。
+// (無いと辞書照合に失敗しTinySegmenterの粗い統計分割まで落ちてしまう)
+export const COOKING_VERB_STEMS = [
+  "煮込み", "揚げ", "焼き", "蒸し", "炒め", "炒り", "グリル", "ロースト",
+  "マリネ", "低温調理", "燻し", "燻製", "発酵", "生", "炭火焼き",
+  "煮", "茹で", "漬け", "挽き", "刻み", "和え", "絞め", "締め", "揉み",
+]
+
+export const TAG_VOCABULARY = [
+  ...PRIMARY_INGREDIENT_TAGS,
+  ...FLAVOR_TAGS,
+  ...COOKING_VERB_STEMS,
+]

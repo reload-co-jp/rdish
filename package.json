@@ -22,7 +22,8 @@
     "next": "^16.2.9",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
-    "sharp": "^0.34.5"
+    "sharp": "^0.34.5",
+    "tiny-segmenter": "^0.2.0"
   },
   "devDependencies": {
     "@eslint/compat": "^2.1.0",
