@@ -1,7 +1,34 @@
 import type { DishItem } from "../types/dish"
 import { extractSearchTerms } from "./dishTerms"
 import { normalize } from "./normalize"
-import { expandSynonyms } from "./synonyms"
+import { expandSynonyms, ALL_SYNONYM_TERMS } from "./synonyms"
+import { TAG_VOCABULARY } from "./tagVocabulary"
+
+// 辞書は最長一致を優先するため長い順に並べておく
+const DICTIONARY = [...ALL_SYNONYM_TERMS, ...TAG_VOCABULARY]
+  .map(normalize)
+  .sort((a, b) => b.length - a.length)
+
+// 区切り文字を含まない複合語(例:「酸っぱい野菜」)を、既知語辞書との
+// 最長一致で貪欲に分割する。辞書にない部分はそのまま1語として残す。
+function splitByDictionary(chunk: string): string[] {
+  const parts: string[] = []
+  let buf = ""
+  let i = 0
+  while (i < chunk.length) {
+    const match = DICTIONARY.find((w) => chunk.startsWith(w, i))
+    if (match) {
+      if (buf) { parts.push(buf); buf = "" }
+      parts.push(match)
+      i += match.length
+    } else {
+      buf += chunk[i]
+      i += 1
+    }
+  }
+  if (buf) parts.push(buf)
+  return parts
+}
 
 function tokenize(query: string): string[] {
   return query
@@ -23,6 +50,7 @@ function tokenize(query: string): string[] {
       return parts
     })
     .map(normalize)
+    .flatMap(splitByDictionary)
     .filter((w) => w.length >= 1)
 }
 

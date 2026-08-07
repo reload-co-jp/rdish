@@ -21,6 +21,10 @@ const RAW_SYNONYM_GROUPS: string[][] = [
   ["こんがり", "きつね色", "香ばしい焼き色"],
 ]
 
+// 辞書ベースのトークン分割(reverseSearchのtokenize)に使う、同義語グループ
+// に登場する全語(正規化前)のフラットリスト。
+export const ALL_SYNONYM_TERMS = RAW_SYNONYM_GROUPS.flat()
+
 const GROUP_INDEX = new Map<string, string[]>()
 for (const group of RAW_SYNONYM_GROUPS) {
   const normalized = group.map(normalize)
