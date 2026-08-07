@@ -1,6 +1,7 @@
 import type { DishItem } from "../types/dish"
 import { extractSearchTerms } from "./dishTerms"
 import { normalize } from "./normalize"
+import { expandSynonyms } from "./synonyms"
 
 function tokenize(query: string): string[] {
   return query
@@ -27,7 +28,7 @@ function tokenize(query: string): string[] {
 
 export function reverseSearch(dishes: DishItem[], query: string): DishItem[] {
   if (!query.trim()) return []
-  const words = tokenize(query)
+  const words = expandSynonyms(tokenize(query))
 
   const scored = dishes.map((item) => {
     let score = 0
