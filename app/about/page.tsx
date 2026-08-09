@@ -8,6 +8,20 @@ export const metadata: Metadata = {
   description:
     "RDishは、メニューで見かけた料理名をその場でさっと調べられる、飾らない料理図鑑です。",
   alternates: { canonical: "/about/" },
+  openGraph: {
+    title: "RDishについて",
+    description:
+      "RDishは、メニューで見かけた料理名をその場でさっと調べられる、飾らない料理図鑑です。",
+    url: "/about/",
+    images: [
+      {
+        url: "/about/opengraph-image.png",
+        width: 1200,
+        height: 630,
+        alt: "RDishについて | RDish",
+      },
+    ],
+  },
 }
 
 const Section = ({

@@ -42,7 +42,7 @@ export async function generateMetadata({
         ]
       : []),
     {
-      url: `/dishes/${dish.id}/opengraph-image`,
+      url: `/dishes/${dish.id}/opengraph-image.png`,
       width: 1200,
       height: 630,
       alt: `${dish.name} | RDish`,
@@ -67,7 +67,7 @@ export async function generateMetadata({
         ? [{ url: firstImage, alt: imageAlt }]
         : [
             {
-              url: `/dishes/${dish.id}/opengraph-image`,
+              url: `/dishes/${dish.id}/opengraph-image.png`,
               alt: `${dish.name} | RDish`,
             },
           ],

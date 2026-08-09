@@ -21,6 +21,14 @@ export const metadata: Metadata = {
     locale: "ja_JP",
     type: "website",
     url: SITE_URL,
+    images: [
+      {
+        url: "/opengraph-image.png",
+        width: 1200,
+        height: 630,
+        alt: "RDish — いつでも聞ける飾らない料理図鑑",
+      },
+    ],
   },
   twitter: {
     card: "summary",

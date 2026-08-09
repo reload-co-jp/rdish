@@ -23,6 +23,14 @@ export const metadata: Metadata = {
     description: `料理ジャンル、食材、味、調理法、地域名など${TAG_COUNT}タグから外食メニューの料理用語を探せます。`,
     url: "/tags/",
     type: "website",
+    images: [
+      {
+        url: "/tags/opengraph-image.png",
+        width: 1200,
+        height: 630,
+        alt: "タグ別 料理一覧 | RDish",
+      },
+    ],
   },
 }
 

@@ -9,7 +9,18 @@ export const metadata: Metadata = {
   description:
     "国・地域別に料理・食材・調理法を探せる料理図鑑 RDish。フランス、イタリア、スペインなど世界各国の料理を収録。",
   alternates: { canonical: "/countries/" },
-  openGraph: { title: "国・地域別 料理一覧", url: "/countries/" },
+  openGraph: {
+    title: "国・地域別 料理一覧",
+    url: "/countries/",
+    images: [
+      {
+        url: "/countries/opengraph-image.png",
+        width: 1200,
+        height: 630,
+        alt: "国・地域別 料理一覧 | RDish",
+      },
+    ],
+  },
 }
 
 const linkStyle = {

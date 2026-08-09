@@ -15,6 +15,14 @@ export const metadata: Metadata = {
     description:
       "料理・食材・調理法・ソース・香辛料などカテゴリ別に料理用語を探せる料理図鑑 RDish。",
     url: "/categories/",
+    images: [
+      {
+        url: "/categories/opengraph-image.png",
+        width: 1200,
+        height: 630,
+        alt: "カテゴリ別 料理一覧 | RDish",
+      },
+    ],
   },
 }
 

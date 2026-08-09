@@ -2,12 +2,10 @@ import { readFileSync } from "fs"
 import { ImageResponse } from "next/og"
 import path from "path"
 import sharp from "sharp"
-import { allDishes } from "../../../lib/dishes"
-import { normalizeOgText } from "../../../lib/og"
+import { allDishes } from "../../../../lib/dishes"
+import { normalizeOgText } from "../../../../lib/og"
 
 export const dynamic = "force-static"
-export const alt = "料理図鑑 | RDish"
-export const size = { width: 1200, height: 630 }
 export const contentType = "image/png"
 
 export function generateStaticParams() {
@@ -28,11 +26,10 @@ async function loadImageDataUrl(imagePath: string): Promise<string | null> {
   }
 }
 
-export default async function Image({
-  params,
-}: {
-  params: Promise<{ id: string }>
-}) {
+export async function GET(
+  _request: Request,
+  { params }: { params: Promise<{ id: string }> },
+) {
   const { id } = await params
   const dish = allDishes.find((d) => d.id === id)
   if (!dish) return new Response("Not found", { status: 404 })
@@ -205,6 +202,6 @@ export default async function Image({
         )}
       </div>
     ),
-    size,
+    { width: 1200, height: 630 },
   )
 }

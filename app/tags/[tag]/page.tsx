@@ -102,6 +102,14 @@ export async function generateMetadata({
       description,
       url: `/tags/${item.id}/`,
       type: "website",
+      images: [
+        {
+          url: `/tags/${item.id}/opengraph-image.png`,
+          width: 1200,
+          height: 630,
+          alt: `${item.label} | RDish`,
+        },
+      ],
     },
   }
 }

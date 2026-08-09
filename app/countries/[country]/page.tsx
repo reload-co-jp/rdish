@@ -34,7 +34,19 @@ export async function generateMetadata({
     title,
     description,
     alternates: { canonical: `/countries/${item.id}/` },
-    openGraph: { title, description, url: `/countries/${item.id}/` },
+    openGraph: {
+      title,
+      description,
+      url: `/countries/${item.id}/`,
+      images: [
+        {
+          url: `/countries/${item.id}/opengraph-image.png`,
+          width: 1200,
+          height: 630,
+          alt: `${item.label} | RDish`,
+        },
+      ],
+    },
   }
 }
 
