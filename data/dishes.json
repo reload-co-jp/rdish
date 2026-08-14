@@ -102206,5 +102206,321 @@
       "/images/dishes/desosser/2.jpg",
       "/images/dishes/desosser/3.jpg"
     ]
+  },
+  {
+    "id": "kurozukuri",
+    "name": "黒造り",
+    "kana": "くろづくり",
+    "aliases": [
+      "黒づくり",
+      "イカの黒作り",
+      "いかの黒造り"
+    ],
+    "englishName": "Kurozukuri (squid ink salted squid)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "中部",
+        "locality": "富山県・石川県（能登）"
+      }
+    ],
+    "summary": "スルメイカの身とワタをイカスミで熟成させた富山・石川発祥の塩辛。黒く光る見た目と芳醇な旨みが特徴の珍味。",
+    "menuDescription": "イカの身とワタをイカスミとともにじっくり熟成させた、富山・石川に伝わる塩辛の一種。艶やかな黒色と凝縮された旨みが持ち味です。",
+    "whatComesOut": [
+      "黒光りするイカの塩辛が小鉢や小皿に少量盛られて提供される",
+      "短冊切りにされたイカの身がイカスミで真っ黒に染まっている",
+      "柚子の皮などで香り付けされていることがある",
+      "白ご飯やお茶漬けの具として添えられる場合もある"
+    ],
+    "tasteAndTexture": [
+      "イカスミの旨み成分でコクと深みのある塩味",
+      "一般的な塩辛（赤造り）より生臭さが少なくまろやか",
+      "身はコリコリとした弾力、ワタはねっとり濃厚",
+      "噛むほどに広がる熟成した旨み"
+    ],
+    "orderAdvice": "酒の肴として少量で楽しむ料理。塩辛特有の風味と生っぽい食感があるため、イカの塩辛や熟成魚介が好きな人向け。初めてなら少量から試すのが無難。",
+    "caution": "イカ・魚介アレルギーに注意。塩分が高いため摂り過ぎ注意。",
+    "similarItems": [
+      {
+        "id": "squid",
+        "name": "イカ（素材）",
+        "difference": "黒造りはイカを塩・イカスミで熟成させた加工品、素材のイカとは別物"
+      },
+      {
+        "name": "赤造り（一般的な塩辛）",
+        "difference": "イカスミを使わず塩とワタのみで熟成させた塩辛。黒造りより淡い色と軽い風味"
+      },
+      {
+        "id": "mefun",
+        "name": "めふん",
+        "difference": "鮭の血合いを使った北海道の塩辛。黒造りはイカ、めふんは鮭が主原料"
+      },
+      {
+        "name": "ホタルイカ黒作り",
+        "difference": "スルメイカでなくホタルイカのワタを使う派生版。よりコクが強い"
+      }
+    ],
+    "relatedIds": [
+      "squid",
+      "ika-ninjin",
+      "ikayaki",
+      "mefun"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/37_13_toyama.html",
+      "https://kaneishi.com/goods/kurodukuri/",
+      "https://www.kitokitohimi.com/site/gofun/58.html"
+    ],
+    "tags": [
+      "日本料理",
+      "中部",
+      "前菜",
+      "魚介",
+      "発酵",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "あっさりした料理",
+      "生の魚介が苦手",
+      "塩辛が苦手",
+      "クセのない味",
+      "フレッシュな刺身"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "genge",
+    "name": "げんげ",
+    "kana": "げんげ",
+    "aliases": [
+      "幻魚",
+      "ノロゲンゲ"
+    ],
+    "englishName": "Genge (eelpout)",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "中部",
+        "locality": "富山県・新潟県・秋田県"
+      }
+    ],
+    "summary": "日本海でとれるゲンゲ科の深海魚。ゼラチン質に包まれた白身とコラーゲン豊富な出汁が特徴で、富山では「幻魚」として珍重される。",
+    "menuDescription": "富山湾など日本海の深海でとれる魚。すまし汁や干物、唐揚げなどで提供され、出汁いらずの上品な旨みとぷるぷるとした食感が楽しめます。",
+    "whatComesOut": [
+      "すまし汁仕立ての椀に白濁したげんげの身と葱が入って提供される",
+      "一夜干しなど干物として炙られて出ることもある",
+      "唐揚げでは衣をまとった切り身が数個盛られる",
+      "ゼラチン質のぬめりが残った皮付きの状態で出ることが多い"
+    ],
+    "tasteAndTexture": [
+      "身はゼラチン質でぷるぷるとした独特の食感",
+      "淡白ながらコラーゲンに由来する上品な旨み",
+      "出汁いらずで汁自体に濃厚な旨みが出る",
+      "唐揚げにすると外はカリッと中はふんわり"
+    ],
+    "orderAdvice": "見た目はグロテスクだが味は上品な白身魚。クセがなく食べやすいので珍しい魚介に挑戦したい人におすすめ。すまし汁が定番の食べ方。",
+    "caution": "魚介アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "kurozukuri",
+        "name": "黒造り",
+        "difference": "同じ富山・北陸の郷土珍味だが黒造りはイカの塩辛加工品、げんげは白身魚そのもの"
+      },
+      {
+        "id": "tetchiri",
+        "name": "てっちり",
+        "difference": "どちらも白身魚の鍋料理だが、てっちりはふぐ、げんげは深海魚のげんげを使う"
+      },
+      {
+        "name": "どんこ（エゾイソアイナメ）",
+        "difference": "同じく深海の白身魚だがげんげより肝が発達し濃厚な味わい"
+      }
+    ],
+    "relatedIds": [
+      "kurozukuri",
+      "tetchiri"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ノロゲンゲ",
+      "https://www.shizensyokuhin.jp/archives/articles/454",
+      "https://shibata-ya.net/%E6%97%A5%E6%9C%AC%E6%B5%B7%E3%81%AE%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E6%B7%B1%E6%B5%B7%E9%AD%9A%E3%83%BB%E3%81%92%E3%82%93%E3%81%92%E5%B9%BB%E9%AD%9A%E3%80%80%EF%BD%9E%E3%82%B3%E3%83%A9%E3%83%BC/"
+    ],
+    "tags": [
+      "日本料理",
+      "スープ",
+      "魚介",
+      "蒸し料理",
+      "あっさり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "歯ごたえのある魚",
+      "見た目が普通の魚",
+      "こってりした味",
+      "脂の乗った青魚"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "yatsume-unagi",
+    "name": "八目鰻",
+    "kana": "やつめうなぎ",
+    "aliases": [
+      "ヤツメウナギ",
+      "八目"
+    ],
+    "englishName": "Lamprey",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "東北",
+        "locality": "秋田県・山形県・新潟県"
+      }
+    ],
+    "summary": "顎を持たない原始的な円口類「ヤツメウナギ」を使った料理。ビタミンAが豊富で、蒲焼きや醤油だしで煮込む「かやき」が伝統的な食べ方。",
+    "menuDescription": "ウナギに似た姿の川魚、ヤツメウナギを使った料理。蒲焼きにしたり、醤油と出汁の濃いつゆですき焼き風に煮込む「かやき」として供されます。",
+    "whatComesOut": [
+      "串に刺され香ばしく焼き上げられた蒲焼きが皿に盛られる",
+      "秋田の「かやき」では醤油だしの鍋にぶつ切りの身と野菜が入る",
+      "縁日の屋台では串焼きの蒲焼きが売られていることもある",
+      "肝を使った濃厚な佃煮風の一品が添えられることもある"
+    ],
+    "tasteAndTexture": [
+      "ウナギよりも脂が強く濃厚な味わい",
+      "身は柔らかく骨切り不要でそのまま食べやすい",
+      "蒲焼きのタレが絡んだ香ばしい風味",
+      "かやきでは煮込むほどコクが出る"
+    ],
+    "orderAdvice": "見た目のインパクトが強いが味はウナギに近く食べやすい。ビタミンA豊富な滋養食として冬場の秋田・山形の郷土料理店で出会える。珍しい食材に抵抗がなければ試す価値あり。",
+    "caution": "ビタミンA含有量が非常に高いため過剰摂取に注意。魚介アレルギーにも注意。",
+    "similarItems": [
+      {
+        "id": "kabayaki",
+        "name": "蒲焼き",
+        "difference": "一般的な蒲焼きはウナギを使うが、八目鰻の蒲焼きは円口類のヤツメウナギを使う"
+      },
+      {
+        "name": "うなぎの蒲焼き",
+        "difference": "見た目は似るが八目鰻は顎のない原始的な生物で味も脂の質も異なる"
+      }
+    ],
+    "relatedIds": [
+      "kabayaki"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ヤツメウナギ",
+      "https://gourmet-note.jp/posts/3763",
+      "https://sakanato.jp/6321/"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "魚介",
+      "焼き物",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "あっさりした白身魚",
+      "グロテスクな見た目が苦手",
+      "淡白な味",
+      "臭みのない魚"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/yatsume-unagi/1.jpg",
+      "/images/dishes/yatsume-unagi/2.jpg",
+      "/images/dishes/yatsume-unagi/3.jpg"
+    ]
+  },
+  {
+    "id": "kijihata",
+    "name": "キジハタ",
+    "kana": "きじはた",
+    "aliases": [
+      "アコウ",
+      "紅斑（香港）"
+    ],
+    "englishName": "Redspotted grouper",
+    "originalName": "Epinephelus akaara",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "日本",
+        "locality": "西日本（瀬戸内・山陰・九州）"
+      }
+    ],
+    "summary": "ハタ科の高級魚で「白身の王様」とも称される。西日本では「アコウ」と呼ばれ、初夏が旬。刺身や煮付けで珍重される。",
+    "menuDescription": "ハタ科の高級魚キジハタを使った一品。旬の初夏には刺身や湯引き、煮付けで供され、上品な旨みと弾力ある食感が味わえます。",
+    "whatComesOut": [
+      "薄造りやそぎ造りにした刺身が皿に美しく盛られる",
+      "皮付きのまま湯引きした造りが出ることもある",
+      "細かい鱗を落とした身と皮を甘辛く煮付けた一皿",
+      "鍋料理では切り身と野菜が一緒に盛られる"
+    ],
+    "tasteAndTexture": [
+      "刺身はさっぱりとしながらもちもちとした歯ごたえ",
+      "熱を通すと弾力とうまみが増す",
+      "皮にはゼラチン質があり煮付けにすると美味",
+      "白身ながら上品な脂の甘みを感じる"
+    ],
+    "orderAdvice": "1kgあたり数千円〜2万円超と非常に高価な高級魚。旬の初夏に見かけたら刺身か煮付けで試す価値あり。上品な白身魚が好きな人向け。",
+    "caution": "魚介アレルギーに注意。骨が硬いため大型個体は骨切りに注意。",
+    "similarItems": [
+      {
+        "name": "マハタ",
+        "difference": "同じハタ科の高級魚だがマハタはより大型で脂が強く、キジハタは小ぶりで上品な味わい"
+      },
+      {
+        "id": "tetchiri",
+        "name": "てっちり",
+        "difference": "どちらも高級白身魚の鍋だが、てっちりはふぐ、キジハタはハタ科の魚を使う"
+      },
+      {
+        "name": "クエ",
+        "difference": "同じハタ科の高級魚だがクエはより大型でゼラチン質が強く鍋向き"
+      }
+    ],
+    "relatedIds": [
+      "tetchiri"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/キジハタ",
+      "https://chisou-media.jp/posts/4859",
+      "https://tsurihack.com/421"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "安価な魚",
+      "養殖の魚",
+      "淡白すぎる味",
+      "骨が少ない魚"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
   }
 ]
