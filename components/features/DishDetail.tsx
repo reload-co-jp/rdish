@@ -2,6 +2,11 @@ import Image from "next/image"
 import Link from "next/link"
 import { FC } from "react"
 import { articlesForDish } from "../../lib/articles"
+import {
+  comparisonBySlug,
+  comparisonPath,
+  comparisonSlug,
+} from "../../lib/comparisons"
 import { combosForDish, comboIngredientPath, comboPath } from "../../lib/countryTagCombos"
 import { regionLabel } from "../../lib/region"
 import { categoryPath, countryPath } from "../../lib/taxonomy"
@@ -293,6 +298,21 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                   {" "}
                   — {s.difference}
                 </span>
+                {s.id && comparisonBySlug(comparisonSlug(dish.id, s.id)) && (
+                  <Link
+                    href={comparisonPath(comparisonSlug(dish.id, s.id))}
+                    style={{
+                      color: "#b45309",
+                      display: "inline-block",
+                      fontSize: "0.75rem",
+                      marginLeft: "0.375rem",
+                      textDecoration: "none",
+                      whiteSpace: "nowrap",
+                    }}
+                  >
+                    違いを詳しく →
+                  </Link>
+                )}
               </div>
             ))}
           </div>

@@ -57,8 +57,21 @@ export default function ReversePage() {
       <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}>
         逆引き検索
       </h1>
-      <p style={{ color: "#a89080", fontSize: "0.875rem", marginBottom: "1.5rem" }}>
+      <p style={{ color: "#a89080", fontSize: "0.875rem", marginBottom: "0.75rem" }}>
         料理名がわからないとき、見た目・味・特徴から探す。
+      </p>
+      <p style={{ marginBottom: "1.5rem" }}>
+        <Link
+          href="/reverse/k/"
+          style={{
+            color: "#b45309",
+            fontSize: "0.875rem",
+            fontWeight: 600,
+            textDecoration: "none",
+          }}
+        >
+          苦手なもの・アレルギーから探す →
+        </Link>
       </p>
 
       <form

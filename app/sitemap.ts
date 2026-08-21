@@ -1,11 +1,18 @@
 export const dynamic = "force-static"
 
 import type { MetadataRoute } from "next"
+import { totalPages as compareTotalPages } from "../components/features/ComparisonsPageContent"
 import { totalPages } from "../components/features/DishesPageContent"
 import { countryTotalPages } from "../components/features/CountryPageContent"
 import dishDatesData from "../data/dish-dates.json"
 import { allArticles } from "../lib/articles"
 import { allCollections, collectionPath } from "../lib/collections"
+import {
+  allComparisons,
+  comparePageUrl,
+  comparisonPath,
+} from "../lib/comparisons"
+import { avoidPath, avoidTopics, safePath, safeTopics } from "../lib/dietary"
 import {
   comboIngredientPath,
   comboPath,
@@ -96,6 +103,34 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }))
 
+  const comparisonUrls = allComparisons.map(({ slug }) => ({
+    url: `${SITE_URL}${comparisonPath(slug)}`,
+    changeFrequency: "monthly" as const,
+    priority: 0.7,
+  }))
+
+  const comparePaginatedUrls = Array.from(
+    { length: Math.max(compareTotalPages(allComparisons.length) - 1, 0) },
+    (_, i) => ({
+      url: `${SITE_URL}${comparePageUrl(i + 2)}`,
+      changeFrequency: "monthly" as const,
+      priority: 0.4,
+    }),
+  )
+
+  const dietaryUrls = [
+    ...safeTopics.map(({ axis }) => ({
+      url: `${SITE_URL}${safePath(axis.slug)}`,
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
+    })),
+    ...avoidTopics.map(({ axis }) => ({
+      url: `${SITE_URL}${avoidPath(axis.slug)}`,
+      changeFrequency: "monthly" as const,
+      priority: 0.6,
+    })),
+  ]
+
   const articleUrls = allArticles.map((article) => ({
     url: `${SITE_URL}/articles/${article.slug}/`,
     lastModified: new Date(article.updatedAt ?? article.publishedAt),
@@ -109,10 +144,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     page("/articles/", "monthly", 0.7),
     ...paginatedUrls,
     page("/reverse/", "monthly", 0.7),
+    page("/reverse/k/", "monthly", 0.7),
     page("/categories/", "monthly", 0.7),
     page("/countries/", "monthly", 0.7),
     page("/tags/", "monthly", 0.7),
     page("/collections/", "monthly", 0.7),
+    page("/compare/", "weekly", 0.7),
     page("/llms.txt", "weekly", 0.3),
     page("/llms-full.txt", "weekly", 0.3),
     page("/about/", "yearly", 0.4),
@@ -122,6 +159,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...comboUrls,
     ...ingredientComboUrls,
     ...collectionUrls,
+    ...comparePaginatedUrls,
+    ...comparisonUrls,
+    ...dietaryUrls,
     ...dishUrls,
     ...tagUrls,
     ...articleUrls,
