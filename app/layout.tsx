@@ -244,6 +244,18 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
               特集
             </Link>
             <Link
+              href="/compare/"
+              style={{ color: "#a89080", textDecoration: "underline" }}
+            >
+              違いを比較
+            </Link>
+            <Link
+              href="/reverse/k/"
+              style={{ color: "#a89080", textDecoration: "underline" }}
+            >
+              苦手から探す
+            </Link>
+            <Link
               href="/about/"
               style={{ color: "#a89080", textDecoration: "underline" }}
             >
