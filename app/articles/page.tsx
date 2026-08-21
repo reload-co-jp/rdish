@@ -8,11 +8,13 @@ const SITE_URL = "https://rdish.reload.co.jp"
 
 export const metadata: Metadata = {
   title: "記事",
-  description: "料理にまつわる読み物。各地の包み料理の違いなど、料理の背景を掘り下げる記事。",
+  description:
+    "料理にまつわる読み物。各地の包み料理の違いなど、料理の背景を掘り下げる記事。",
   alternates: { canonical: "/articles/" },
   openGraph: {
     title: "記事",
-    description: "料理にまつわる読み物。各地の包み料理の違いなど、料理の背景を掘り下げる記事。",
+    description:
+      "料理にまつわる読み物。各地の包み料理の違いなど、料理の背景を掘り下げる記事。",
     url: "/articles/",
     type: "website",
   },
@@ -47,7 +49,14 @@ export default function ArticlesPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListLd) }}
       />
       <Breadcrumb items={[{ label: "記事", href: "/articles/" }]} />
-      <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "1.5rem", color: "#2d1f0e" }}>
+      <h1
+        style={{
+          fontSize: "1.5rem",
+          fontWeight: 800,
+          marginBottom: "1.5rem",
+          color: "#2d1f0e",
+        }}
+      >
         記事
       </h1>
       <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
@@ -65,16 +74,38 @@ export default function ArticlesPage() {
                 padding: "1rem 1.25rem",
               }}
             >
-              <p style={{ fontSize: "0.7rem", color: "#a89080", marginBottom: "0.375rem" }}>
+              <p
+                style={{
+                  fontSize: "0.7rem",
+                  color: "#a89080",
+                  marginBottom: "0.375rem",
+                }}
+              >
                 {article.publishedAt}
               </p>
-              <h2 style={{ fontSize: "1.0625rem", fontWeight: 700, color: "#2d1f0e", marginBottom: "0.25rem" }}>
+              <h2
+                style={{
+                  fontSize: "1.0625rem",
+                  fontWeight: 700,
+                  color: "#2d1f0e",
+                  marginBottom: "0.25rem",
+                }}
+              >
                 {article.title}
                 {article.subtitle && (
-                  <span style={{ color: "#7a6655", fontWeight: 400 }}>——{article.subtitle}</span>
+                  <span style={{ color: "#7a6655", fontWeight: 400 }}>
+                    ——{article.subtitle}
+                  </span>
                 )}
               </h2>
-              <p style={{ fontSize: "0.8125rem", color: "#7a6655", lineHeight: 1.6, margin: 0 }}>
+              <p
+                style={{
+                  fontSize: "0.8125rem",
+                  color: "#7a6655",
+                  lineHeight: 1.6,
+                  margin: 0,
+                }}
+              >
                 {article.description}
               </p>
             </article>

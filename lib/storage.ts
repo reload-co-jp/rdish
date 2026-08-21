@@ -61,6 +61,6 @@ export function addRecentlyViewed(id: string): void {
   recent.unshift(id)
   localStorage.setItem(
     RECENTLY_VIEWED_KEY,
-    JSON.stringify(recent.slice(0, MAX_RECENT)),
+    JSON.stringify(recent.slice(0, MAX_RECENT))
   )
 }

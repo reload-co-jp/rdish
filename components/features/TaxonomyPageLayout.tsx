@@ -33,7 +33,9 @@ export const TaxonomyPageLayout: FC<Props> = ({
         { label: itemLabel, href: itemHref },
       ]}
     />
-    <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}>
+    <h1
+      style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}
+    >
       {itemLabel}の料理一覧
     </h1>
     <p style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}>

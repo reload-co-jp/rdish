@@ -5,7 +5,12 @@ import type { MetadataRoute } from "next"
 export default function robots(): MetadataRoute.Robots {
   const publicRules = {
     allow: "/",
-    disallow: ["/favorites/", "/search/", "/*opengraph-image*", "/*twitter-image*"],
+    disallow: [
+      "/favorites/",
+      "/search/",
+      "/*opengraph-image*",
+      "/*twitter-image*",
+    ],
   }
 
   return {

@@ -239,7 +239,11 @@ export default async function DishPage({
           { label: dish.name, href: `/dishes/${dish.id}/` },
         ]}
       />
-      <DishPageContent dish={dish} allDishes={allDishes} updatedAt={dateModified} />
+      <DishPageContent
+        dish={dish}
+        allDishes={allDishes}
+        updatedAt={dateModified}
+      />
       <AdSense />
     </>
   )

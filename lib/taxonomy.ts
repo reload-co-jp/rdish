@@ -18,34 +18,37 @@ export const categoryItems = categories as TaxonomyItem<DishCategory>[]
 
 type CountryData = { label: string; description: string; intro?: string[] }
 const countryDataMap = new Map(
-  (countriesData as CountryData[]).map((c) => [c.label, c]),
+  (countriesData as CountryData[]).map((c) => [c.label, c])
 )
 
 function toItems(labels: string[]): TaxonomyItem[] {
-  return [...new Set(labels)]
-    .filter(Boolean)
-    .map((label, i) => {
-      const data = countryDataMap.get(label)
-      return { id: String(i + 1), label, description: data?.description, intro: data?.intro }
-    })
+  return [...new Set(labels)].filter(Boolean).map((label, i) => {
+    const data = countryDataMap.get(label)
+    return {
+      id: String(i + 1),
+      label,
+      description: data?.description,
+      intro: data?.intro,
+    }
+  })
 }
 
 export const tagItems = tags as TaxonomyItem[]
 
 export const countryItems = toItems(
-  allDishes.flatMap((dish) => dish.regions.map(regionLabel)),
+  allDishes.flatMap((dish) => dish.regions.map(regionLabel))
 )
 
 export function taxonomyById<T extends string>(
   items: TaxonomyItem<T>[],
-  id: string,
+  id: string
 ): TaxonomyItem<T> | undefined {
   return items.find((item) => item.id === id)
 }
 
 export function taxonomyIdForLabel<T extends string>(
   items: TaxonomyItem<T>[],
-  label: string,
+  label: string
 ): string | undefined {
   return items.find((item) => item.label === label)?.id
 }
@@ -69,7 +72,7 @@ export function buildItemListJsonLd(
   name: string,
   url: string,
   dishes: DishItem[],
-  offset = 0,
+  offset = 0
 ) {
   return {
     "@context": "https://schema.org",

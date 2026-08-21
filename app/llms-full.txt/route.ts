@@ -27,7 +27,9 @@ export function GET() {
       const aliases = [
         dish.kana,
         dish.englishName,
-        dish.originalName && dish.originalName !== dish.englishName ? dish.originalName : undefined,
+        dish.originalName && dish.originalName !== dish.englishName
+          ? dish.originalName
+          : undefined,
         ...(dish.aliases ?? []),
       ].filter(Boolean) as string[]
       const regions = dish.regions.map(regionLabel)
@@ -51,7 +53,7 @@ ${field("Aliases", aliases)}${field("Category", dish.category)}${field("Regions"
 - URL: ${SITE_URL}/articles/${article.slug}/
 - Published: ${article.publishedAt}
 ${field("Updated", article.updatedAt)}${field("Subtitle", article.subtitle)}${field("Description", article.description)}
-`,
+`
     )
     .join("\n")
 

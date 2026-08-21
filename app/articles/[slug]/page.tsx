@@ -16,7 +16,11 @@ export function generateStaticParams() {
   return allArticles.map((a) => ({ slug: a.slug }))
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>
+}) {
   const { slug } = await params
   const article = allArticles.find((a) => a.slug === slug)
   if (!article) return {}
@@ -24,7 +28,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     ? `${article.title}——${article.subtitle}`
     : article.title
   const relatedDishes = relatedDishesOf(article, allDishes)
-  const firstImage = relatedDishes.find((d) => d.images && d.images.length > 0)?.images?.[0]
+  const firstImage = relatedDishes.find((d) => d.images && d.images.length > 0)
+    ?.images?.[0]
   return {
     title,
     description: article.description,
@@ -46,7 +51,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 }
 
-export default async function ArticlePage({ params }: { params: Promise<{ slug: string }> }) {
+export default async function ArticlePage({
+  params,
+}: {
+  params: Promise<{ slug: string }>
+}) {
   const { slug } = await params
   const article = allArticles.find((a) => a.slug === slug)
   if (!article) notFound()
@@ -68,18 +77,47 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
       />
       <article>
         <header style={{ marginBottom: "2rem" }}>
-          <p style={{ fontSize: "0.75rem", color: "#a89080", marginBottom: "0.5rem" }}>
+          <p
+            style={{
+              fontSize: "0.75rem",
+              color: "#a89080",
+              marginBottom: "0.5rem",
+            }}
+          >
             {article.publishedAt}
           </p>
-          <h1 style={{ fontSize: "1.75rem", fontWeight: 800, lineHeight: 1.3, color: "#2d1f0e", marginBottom: "0.375rem" }}>
+          <h1
+            style={{
+              fontSize: "1.75rem",
+              fontWeight: 800,
+              lineHeight: 1.3,
+              color: "#2d1f0e",
+              marginBottom: "0.375rem",
+            }}
+          >
             {article.title}
           </h1>
           {article.subtitle && (
-            <p style={{ fontSize: "1.125rem", color: "#7a6655", fontWeight: 600, marginBottom: "0.75rem" }}>
+            <p
+              style={{
+                fontSize: "1.125rem",
+                color: "#7a6655",
+                fontWeight: 600,
+                marginBottom: "0.75rem",
+              }}
+            >
               {article.subtitle}
             </p>
           )}
-          <p style={{ fontSize: "0.9375rem", color: "#5a4a3a", lineHeight: 1.7, borderLeft: "3px solid #e8ddd0", paddingLeft: "0.875rem" }}>
+          <p
+            style={{
+              fontSize: "0.9375rem",
+              color: "#5a4a3a",
+              lineHeight: 1.7,
+              borderLeft: "3px solid #e8ddd0",
+              paddingLeft: "0.875rem",
+            }}
+          >
             {article.intro}
           </p>
         </header>
@@ -89,7 +127,11 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         )}
 
         {article.regions.map((region) => (
-          <RegionSection key={region.heading} region={region} allDishes={allDishes} />
+          <RegionSection
+            key={region.heading}
+            region={region}
+            allDishes={allDishes}
+          />
         ))}
 
         <ComparisonSection rows={article.comparison} />
@@ -143,7 +185,11 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         <section style={{ marginTop: "1.5rem" }}>
           <Link
             href="/articles/"
-            style={{ fontSize: "0.875rem", color: "#b45309", textDecoration: "none" }}
+            style={{
+              fontSize: "0.875rem",
+              color: "#b45309",
+              textDecoration: "none",
+            }}
           >
             → 他の記事も読む
           </Link>

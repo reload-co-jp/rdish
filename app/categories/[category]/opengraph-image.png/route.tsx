@@ -11,7 +11,7 @@ export function generateStaticParams() {
 
 export async function GET(
   _request: Request,
-  { params }: { params: Promise<{ category: string }> },
+  { params }: { params: Promise<{ category: string }> }
 ) {
   const { category } = await params
   const item = taxonomyById(categoryItems, category)

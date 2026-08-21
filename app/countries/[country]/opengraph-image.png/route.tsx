@@ -12,12 +12,16 @@ export function generateStaticParams() {
 
 export async function GET(
   _request: Request,
-  { params }: { params: Promise<{ country: string }> },
+  { params }: { params: Promise<{ country: string }> }
 ) {
   const { country } = await params
   const item = taxonomyById(countryItems, country)
   if (!item) return new Response("Not found", { status: 404 })
   const count = allDishes.filter((d) => dishMatchesRegion(d, item.label)).length
 
-  return buildOgImage({ title: item.label, titleSize: 72, badge: `${count}件の料理` })
+  return buildOgImage({
+    title: item.label,
+    titleSize: 72,
+    badge: `${count}件の料理`,
+  })
 }

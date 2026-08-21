@@ -1,7 +1,11 @@
 import Link from "next/link"
 import { notFound } from "next/navigation"
 import { Breadcrumb } from "../../../components/elements/Breadcrumb"
-import { CountryPageContent, countryTotalPages, paginateCountryDishes } from "../../../components/features/CountryPageContent"
+import {
+  CountryPageContent,
+  countryTotalPages,
+  paginateCountryDishes,
+} from "../../../components/features/CountryPageContent"
 import {
   comboIngredientPath,
   comboPath,
@@ -10,7 +14,14 @@ import {
 } from "../../../lib/countryTagCombos"
 import { allDishes } from "../../../lib/dishes"
 import { dishMatchesRegion } from "../../../lib/region"
-import { buildItemListJsonLd, categoryPath, countryItems, countryPath, tagPath, taxonomyById } from "../../../lib/taxonomy"
+import {
+  buildItemListJsonLd,
+  categoryPath,
+  countryItems,
+  countryPath,
+  tagPath,
+  taxonomyById,
+} from "../../../lib/taxonomy"
 
 export function generateStaticParams() {
   return countryItems.map(({ id }) => ({ country: id }))
@@ -24,11 +35,17 @@ export async function generateMetadata({
   const { country } = await params
   const item = taxonomyById(countryItems, country)
   if (!item) notFound()
-  const countryResults = allDishes.filter((d) => dishMatchesRegion(d, item.label))
+  const countryResults = allDishes.filter((d) =>
+    dishMatchesRegion(d, item.label)
+  )
   const count = countryResults.length
-  const top3 = countryResults.slice(0, 3).map((d) => d.name).join("、")
+  const top3 = countryResults
+    .slice(0, 3)
+    .map((d) => d.name)
+    .join("、")
   const title = `${item.label}の料理一覧（全${count}件）`
-  const countryDesc = item.description ?? `${item.label}の料理・食材・調理法をまとめています。`
+  const countryDesc =
+    item.description ?? `${item.label}の料理・食材・調理法をまとめています。`
   const description = `${countryDesc} ${top3}など${count}件。外食メニューを調べるなら RDish。`
   return {
     title,
@@ -60,41 +77,66 @@ export default async function CountryPage({
   if (!item) notFound()
   const results = allDishes.filter((d) => dishMatchesRegion(d, item.label))
   if (results.length === 0) notFound()
-  const description = item.description ?? `${item.label}の料理・食材・調理法をまとめています。`
-  const localities = countryItems.filter((c) => c.label.startsWith(`${item.label}（`))
+  const description =
+    item.description ?? `${item.label}の料理・食材・調理法をまとめています。`
+  const localities = countryItems.filter((c) =>
+    c.label.startsWith(`${item.label}（`)
+  )
   const combos = combosForCountry(item.id)
   const ingredientCombos = ingredientCombosForCountry(item.id)
 
   const categoryCounts = new Map<string, number>()
   const tagCounts = new Map<string, number>()
   for (const dish of results) {
-    categoryCounts.set(dish.category, (categoryCounts.get(dish.category) ?? 0) + 1)
+    categoryCounts.set(
+      dish.category,
+      (categoryCounts.get(dish.category) ?? 0) + 1
+    )
     for (const tag of dish.tags) {
       if (tag === `${item.label}料理`) continue
       tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1)
     }
   }
-  const topCategories = [...categoryCounts.entries()].sort((a, b) => b[1] - a[1])
-  const topTags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10)
+  const topCategories = [...categoryCounts.entries()].sort(
+    (a, b) => b[1] - a[1]
+  )
+  const topTags = [...tagCounts.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 10)
 
   const total = countryTotalPages(results.length)
   const pageDishes = paginateCountryDishes(results, 1)
 
-  const jsonLd = buildItemListJsonLd(`${item.label}の料理一覧`, `/countries/${item.id}/`, pageDishes)
+  const jsonLd = buildItemListJsonLd(
+    `${item.label}の料理一覧`,
+    `/countries/${item.id}/`,
+    pageDishes
+  )
 
   return (
     <div>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <Breadcrumb
         items={[
           { label: "国・地域", href: "/countries/" },
           { label: item.label, href: `/countries/${item.id}/` },
         ]}
       />
-      <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}>
+      <h1
+        style={{
+          fontSize: "1.5rem",
+          fontWeight: 800,
+          marginBottom: "0.375rem",
+        }}
+      >
         {item.label}の料理一覧
       </h1>
-      <p style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}>
+      <p
+        style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}
+      >
         全{results.length}件{total > 1 ? ` / ${total}ページ中 1ページ目` : ""}
       </p>
       {item.intro ? (
@@ -126,7 +168,14 @@ export default async function CountryPage({
         </p>
       )}
       {localities.length > 0 && (
-        <div style={{ display: "flex", flexWrap: "wrap", gap: "0.375rem 1rem", marginBottom: "1.5rem" }}>
+        <div
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            gap: "0.375rem 1rem",
+            marginBottom: "1.5rem",
+          }}
+        >
           {localities.map((loc) => (
             <Link
               key={loc.id}
@@ -145,8 +194,18 @@ export default async function CountryPage({
         </div>
       )}
       {combos.length > 0 && (
-        <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem", alignItems: "center", marginBottom: "0.75rem" }}>
-          <span style={{ color: "#a89080", fontSize: "0.75rem" }}>料理カテゴリ別:</span>
+        <div
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            gap: "0.5rem",
+            alignItems: "center",
+            marginBottom: "0.75rem",
+          }}
+        >
+          <span style={{ color: "#a89080", fontSize: "0.75rem" }}>
+            料理カテゴリ別:
+          </span>
           {combos.map((combo) => (
             <Link
               key={combo.tagId}
@@ -166,8 +225,18 @@ export default async function CountryPage({
         </div>
       )}
       {ingredientCombos.length > 0 && (
-        <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem", alignItems: "center", marginBottom: "1.5rem" }}>
-          <span style={{ color: "#a89080", fontSize: "0.75rem" }}>主食材別:</span>
+        <div
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            gap: "0.5rem",
+            alignItems: "center",
+            marginBottom: "1.5rem",
+          }}
+        >
+          <span style={{ color: "#a89080", fontSize: "0.75rem" }}>
+            主食材別:
+          </span>
           {ingredientCombos.map((combo) => (
             <Link
               key={combo.tagId}
@@ -187,10 +256,26 @@ export default async function CountryPage({
         </div>
       )}
       {(topCategories.length > 1 || topTags.length > 0) && (
-        <div style={{ display: "flex", flexDirection: "column", gap: "0.5rem", marginBottom: "1.5rem" }}>
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            gap: "0.5rem",
+            marginBottom: "1.5rem",
+          }}
+        >
           {topCategories.length > 1 && (
-            <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem", alignItems: "center" }}>
-              <span style={{ color: "#a89080", fontSize: "0.75rem" }}>カテゴリ:</span>
+            <div
+              style={{
+                display: "flex",
+                flexWrap: "wrap",
+                gap: "0.5rem",
+                alignItems: "center",
+              }}
+            >
+              <span style={{ color: "#a89080", fontSize: "0.75rem" }}>
+                カテゴリ:
+              </span>
               {topCategories.map(([category, count]) => (
                 <Link
                   key={category}
@@ -210,8 +295,17 @@ export default async function CountryPage({
             </div>
           )}
           {topTags.length > 0 && (
-            <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem", alignItems: "center" }}>
-              <span style={{ color: "#a89080", fontSize: "0.75rem" }}>タグ:</span>
+            <div
+              style={{
+                display: "flex",
+                flexWrap: "wrap",
+                gap: "0.5rem",
+                alignItems: "center",
+              }}
+            >
+              <span style={{ color: "#a89080", fontSize: "0.75rem" }}>
+                タグ:
+              </span>
               {topTags.map(([tag, count]) => (
                 <Link
                   key={tag}

@@ -7,7 +7,11 @@ import {
   comparisonPath,
   comparisonSlug,
 } from "../../lib/comparisons"
-import { combosForDish, comboIngredientPath, comboPath } from "../../lib/countryTagCombos"
+import {
+  combosForDish,
+  comboIngredientPath,
+  comboPath,
+} from "../../lib/countryTagCombos"
 import { regionLabel } from "../../lib/region"
 import { categoryPath, countryPath } from "../../lib/taxonomy"
 import type { DishItem } from "../../types/dish"
@@ -63,29 +67,41 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
         }}
       >
         <div>
-          <h1 style={{ fontSize: "2rem", fontWeight: 800, marginBottom: "0.25rem" }}>
+          <h1
+            style={{
+              fontSize: "2rem",
+              fontWeight: 800,
+              marginBottom: "0.25rem",
+            }}
+          >
             {dish.name}
           </h1>
           <div style={{ display: "flex", gap: "0.5rem", flexWrap: "wrap" }}>
             {dish.kana && (
-              <span style={{ color: "#a89080", fontSize: "0.875rem" }}>{dish.kana}</span>
+              <span style={{ color: "#a89080", fontSize: "0.875rem" }}>
+                {dish.kana}
+              </span>
             )}
             {dish.englishName && (
               <span style={{ color: "#a89080", fontSize: "0.875rem" }}>
                 / {dish.englishName}
               </span>
             )}
-            {dish.originalName &&
-              dish.originalName !== dish.englishName && (
-                <span style={{ color: "#a89080", fontSize: "0.875rem" }}>
-                  / {dish.originalName}
-                </span>
-              )}
-            {dish.aliases && dish.aliases.length > 0 && dish.aliases.map((alias) => (
-              <span key={alias} style={{ color: "#a89080", fontSize: "0.875rem" }}>
-                / {alias}
+            {dish.originalName && dish.originalName !== dish.englishName && (
+              <span style={{ color: "#a89080", fontSize: "0.875rem" }}>
+                / {dish.originalName}
               </span>
-            ))}
+            )}
+            {dish.aliases &&
+              dish.aliases.length > 0 &&
+              dish.aliases.map((alias) => (
+                <span
+                  key={alias}
+                  style={{ color: "#a89080", fontSize: "0.875rem" }}
+                >
+                  / {alias}
+                </span>
+              ))}
           </div>
           <div style={{ marginTop: "0.375rem" }}>
             <Link
@@ -154,7 +170,11 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
             >
               <Image
                 src={src}
-                alt={i === 0 ? `${dish.name}の料理写真` : `${dish.name}の料理写真 ${i + 1}`}
+                alt={
+                  i === 0
+                    ? `${dish.name}の料理写真`
+                    : `${dish.name}の料理写真 ${i + 1}`
+                }
                 fill
                 style={{ objectFit: "cover" }}
                 sizes="(max-width: 768px) 80vw, 24rem"
@@ -167,20 +187,35 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
 
       <Section title="ひとことで">
         <p style={{ fontSize: "1rem", lineHeight: 1.7 }}>
-          <LinkedText text={dish.summary} dishes={allDishes} currentId={dish.id} />
+          <LinkedText
+            text={dish.summary}
+            dishes={allDishes}
+            currentId={dish.id}
+          />
         </p>
       </Section>
 
       <Section title="メニューで見たら">
         <p style={{ fontSize: "0.9rem", color: "#7a6655", lineHeight: 1.7 }}>
-          <LinkedText text={dish.menuDescription} dishes={allDishes} currentId={dish.id} />
+          <LinkedText
+            text={dish.menuDescription}
+            dishes={allDishes}
+            currentId={dish.id}
+          />
         </p>
       </Section>
 
       <Section title="何が出てくるか">
         <ul style={{ paddingLeft: "1rem" }}>
           {dish.whatComesOut.map((item) => (
-            <li key={item} style={{ fontSize: "0.9rem", color: "#7a6655", marginBottom: "0.25rem" }}>
+            <li
+              key={item}
+              style={{
+                fontSize: "0.9rem",
+                color: "#7a6655",
+                marginBottom: "0.25rem",
+              }}
+            >
               <LinkedText text={item} dishes={allDishes} currentId={dish.id} />
             </li>
           ))}
@@ -227,7 +262,11 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
             {dish.name}を注文するときのコツは？
           </p>
           <p style={{ color: "#92400e", fontSize: "0.9rem", lineHeight: 1.7 }}>
-            <LinkedText text={dish.orderAdvice} dishes={allDishes} currentId={dish.id} />
+            <LinkedText
+              text={dish.orderAdvice}
+              dishes={allDishes}
+              currentId={dish.id}
+            />
           </p>
         </div>
         {dish.caution && (
@@ -251,8 +290,18 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
             >
               {dish.name}を食べるときの注意点は？
             </p>
-            <p style={{ color: "#7c2d12", fontSize: "0.875rem", lineHeight: 1.7 }}>
-              <LinkedText text={dish.caution} dishes={allDishes} currentId={dish.id} />
+            <p
+              style={{
+                color: "#7c2d12",
+                fontSize: "0.875rem",
+                lineHeight: 1.7,
+              }}
+            >
+              <LinkedText
+                text={dish.caution}
+                dishes={allDishes}
+                currentId={dish.id}
+              />
             </p>
           </div>
         )}
@@ -269,7 +318,9 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
 
       {dish.similarItems.length > 0 && (
         <Section title="似ているもの">
-          <div style={{ display: "flex", flexDirection: "column", gap: "0.5rem" }}>
+          <div
+            style={{ display: "flex", flexDirection: "column", gap: "0.5rem" }}
+          >
             {dish.similarItems.map((s) => (
               <div
                 key={s.name}
@@ -292,7 +343,9 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                     {s.name}
                   </Link>
                 ) : (
-                  <span style={{ color: "#2d1f0e", fontWeight: 600 }}>{s.name}</span>
+                  <span style={{ color: "#2d1f0e", fontWeight: 600 }}>
+                    {s.name}
+                  </span>
                 )}
                 <span style={{ color: "#a89080", fontSize: "0.875rem" }}>
                   {" "}
@@ -345,7 +398,9 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
 
       {articles.length > 0 && (
         <Section title="特集記事">
-          <div style={{ display: "flex", flexDirection: "column", gap: "0.5rem" }}>
+          <div
+            style={{ display: "flex", flexDirection: "column", gap: "0.5rem" }}
+          >
             {articles.map((article) => (
               <Link
                 key={article.slug}
@@ -378,18 +433,28 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
       </Section>
 
       <Section title="もっと見る">
-        <div style={{ display: "flex", flexDirection: "column", gap: "0.5rem" }}>
+        <div
+          style={{ display: "flex", flexDirection: "column", gap: "0.5rem" }}
+        >
           {dish.regions.length > 0 && (
             <Link
               href={countryPath(regionLabel(dish.regions[0]))}
-              style={{ color: "#b45309", fontSize: "0.875rem", textDecoration: "none" }}
+              style={{
+                color: "#b45309",
+                fontSize: "0.875rem",
+                textDecoration: "none",
+              }}
             >
               → {regionLabel(dish.regions[0])}の他の料理を見る
             </Link>
           )}
           <Link
             href={categoryPath(dish.category)}
-            style={{ color: "#b45309", fontSize: "0.875rem", textDecoration: "none" }}
+            style={{
+              color: "#b45309",
+              fontSize: "0.875rem",
+              textDecoration: "none",
+            }}
           >
             → {dish.category}の他の料理を見る
           </Link>
@@ -401,7 +466,11 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                   ? comboPath(combo.countryId, combo.tagId)
                   : comboIngredientPath(combo.countryId, combo.tagId)
               }
-              style={{ color: "#b45309", fontSize: "0.875rem", textDecoration: "none" }}
+              style={{
+                color: "#b45309",
+                fontSize: "0.875rem",
+                textDecoration: "none",
+              }}
             >
               → {combo.countryLabel}の{combo.tagLabel}
               {combo.kind === "ingredient" ? "料理" : ""}一覧を見る
@@ -409,13 +478,21 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
           ))}
           <Link
             href="/dishes/"
-            style={{ color: "#b45309", fontSize: "0.875rem", textDecoration: "none" }}
+            style={{
+              color: "#b45309",
+              fontSize: "0.875rem",
+              textDecoration: "none",
+            }}
           >
             → すべての料理を一覧で見る
           </Link>
           <Link
             href="/reverse/"
-            style={{ color: "#b45309", fontSize: "0.875rem", textDecoration: "none" }}
+            style={{
+              color: "#b45309",
+              fontSize: "0.875rem",
+              textDecoration: "none",
+            }}
           >
             → 名前がわからない料理を逆引き検索
           </Link>
@@ -423,7 +500,13 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
       </Section>
 
       {updatedAt && (
-        <p style={{ color: "#a89080", fontSize: "0.75rem", marginBottom: "1rem" }}>
+        <p
+          style={{
+            color: "#a89080",
+            fontSize: "0.75rem",
+            marginBottom: "1rem",
+          }}
+        >
           最終更新: {updatedAt}
         </p>
       )}

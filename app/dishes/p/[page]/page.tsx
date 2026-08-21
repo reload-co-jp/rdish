@@ -59,7 +59,7 @@ export default async function DishesPageN({
     `料理・食材図鑑 一覧 ${page}ページ目`,
     pageUrl(page),
     pageDishes,
-    offset,
+    offset
   )
 
   return (
@@ -75,7 +75,13 @@ export default async function DishesPageN({
         ]}
       />
       <div style={{ marginBottom: "1.5rem" }}>
-        <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}>
+        <h1
+          style={{
+            fontSize: "1.5rem",
+            fontWeight: 800,
+            marginBottom: "0.5rem",
+          }}
+        >
           料理・食材図鑑 一覧
         </h1>
         <p style={{ color: "#a89080", fontSize: "0.875rem" }}>

@@ -10,6 +10,12 @@ type Props = {
   linkStyle?: CSSProperties
 }
 
-export const LinkedText: FC<Props> = ({ text, dishes, currentId, style, linkStyle }) => (
+export const LinkedText: FC<Props> = ({
+  text,
+  dishes,
+  currentId,
+  style,
+  linkStyle,
+}) => (
   <span style={style}>{linkifyText(text, dishes, currentId, linkStyle)}</span>
 )

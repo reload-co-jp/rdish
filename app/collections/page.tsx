@@ -1,6 +1,10 @@
 import Link from "next/link"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
-import { allCollections, collectionGroups, collectionPath } from "../../lib/collections"
+import {
+  allCollections,
+  collectionGroups,
+  collectionPath,
+} from "../../lib/collections"
 
 const SITE_URL = "https://rdish.reload.co.jp"
 
@@ -36,10 +40,18 @@ export default function CollectionsPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <Breadcrumb items={[{ label: "特集", href: "/collections/" }]} />
-      <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}>
+      <h1
+        style={{
+          fontSize: "1.5rem",
+          fontWeight: 800,
+          marginBottom: "0.375rem",
+        }}
+      >
         特集一覧
       </h1>
-      <p style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}>
+      <p
+        style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}
+      >
         全{allCollections.length}件
       </p>
       <p
@@ -67,7 +79,13 @@ export default function CollectionsPage() {
             >
               {group.label}
             </h2>
-            <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+            <div
+              style={{
+                display: "flex",
+                flexDirection: "column",
+                gap: "0.75rem",
+              }}
+            >
               {group.collections.map((collection) => (
                 <Link
                   key={collection.slug}
@@ -81,10 +99,22 @@ export default function CollectionsPage() {
                     textDecoration: "none",
                   }}
                 >
-                  <span style={{ color: "#4a3a2a", fontSize: "1rem", fontWeight: 700 }}>
+                  <span
+                    style={{
+                      color: "#4a3a2a",
+                      fontSize: "1rem",
+                      fontWeight: 700,
+                    }}
+                  >
                     {collection.title}
                   </span>
-                  <span style={{ color: "#a89080", fontSize: "0.8125rem", marginLeft: "0.5rem" }}>
+                  <span
+                    style={{
+                      color: "#a89080",
+                      fontSize: "0.8125rem",
+                      marginLeft: "0.5rem",
+                    }}
+                  >
                     {collection.dishes.length}件
                   </span>
                 </Link>

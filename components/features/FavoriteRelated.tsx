@@ -15,7 +15,7 @@ export const FavoriteRelated: FC<Props> = ({ allDishes }) => {
   const favoriteIds = useSyncExternalStore(
     subscribeFavorites,
     getFavorites,
-    () => EMPTY_FAVORITES,
+    () => EMPTY_FAVORITES
   )
 
   if (favoriteIds.length === 0) return null
@@ -44,7 +44,14 @@ export const FavoriteRelated: FC<Props> = ({ allDishes }) => {
 
   return (
     <section style={{ marginBottom: "2rem" }}>
-      <h2 style={{ fontSize: "0.875rem", color: "#aaa", marginBottom: "1rem", fontWeight: 600 }}>
+      <h2
+        style={{
+          fontSize: "0.875rem",
+          color: "#aaa",
+          marginBottom: "1rem",
+          fontWeight: 600,
+        }}
+      >
         お気に入りから関連する料理
       </h2>
       <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>

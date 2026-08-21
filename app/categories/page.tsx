@@ -40,7 +40,7 @@ const linkStyle = {
 
 const countByCategory = allDishes.reduce(
   (map, dish) => map.set(dish.category, (map.get(dish.category) ?? 0) + 1),
-  new Map<DishCategory, number>(),
+  new Map<DishCategory, number>()
 )
 
 export default function CategoriesPage() {
@@ -70,16 +70,28 @@ export default function CategoriesPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <Breadcrumb items={[{ label: "カテゴリ", href: "/categories/" }]} />
-      <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}>
+      <h1
+        style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}
+      >
         カテゴリから探す
       </h1>
-      <p style={{ color: "#a89080", fontSize: "0.875rem", marginBottom: "1.5rem" }}>
+      <p
+        style={{
+          color: "#a89080",
+          fontSize: "0.875rem",
+          marginBottom: "1.5rem",
+        }}
+      >
         料理・食材・調理法など全{categories.length}カテゴリ
       </p>
 
       <div style={{ display: "grid", gap: "0.75rem" }}>
         {categories.map((category) => (
-          <Link key={category.id} href={categoryPath(category.label)} style={linkStyle}>
+          <Link
+            key={category.id}
+            href={categoryPath(category.label)}
+            style={linkStyle}
+          >
             <div
               style={{
                 display: "flex",
@@ -89,15 +101,29 @@ export default function CategoriesPage() {
                 marginBottom: "0.375rem",
               }}
             >
-              <h2 style={{ color: "#2d1f0e", fontSize: "1rem", fontWeight: 800 }}>
+              <h2
+                style={{ color: "#2d1f0e", fontSize: "1rem", fontWeight: 800 }}
+              >
                 {category.label}
               </h2>
-              <span style={{ color: "#a89080", fontSize: "0.75rem", whiteSpace: "nowrap" }}>
+              <span
+                style={{
+                  color: "#a89080",
+                  fontSize: "0.75rem",
+                  whiteSpace: "nowrap",
+                }}
+              >
                 {category.count}件
               </span>
             </div>
             {category.description && (
-              <p style={{ color: "#7a6655", fontSize: "0.875rem", lineHeight: 1.7 }}>
+              <p
+                style={{
+                  color: "#7a6655",
+                  fontSize: "0.875rem",
+                  lineHeight: 1.7,
+                }}
+              >
                 {category.description}
               </p>
             )}

@@ -126,12 +126,15 @@ export const allCollections: Collection[] = axes.flatMap((axis) =>
       (dish) =>
         dish.category === "料理" &&
         dish.tags.includes(country) &&
-        axis.filter(dish),
+        axis.filter(dish)
     )
     if (dishes.length < COLLECTION_MIN_DISHES) return []
     if (axis.sort) dishes.sort(axis.sort)
     const count = dishes.length
-    const top3 = dishes.slice(0, 3).map((d) => d.name).join("、")
+    const top3 = dishes
+      .slice(0, 3)
+      .map((d) => d.name)
+      .join("、")
     return [
       {
         slug: `${axis.id}-${slug}`,
@@ -142,7 +145,7 @@ export const allCollections: Collection[] = axes.flatMap((axis) =>
         dishes,
       },
     ]
-  }),
+  })
 )
 
 export type CollectionGroup = {

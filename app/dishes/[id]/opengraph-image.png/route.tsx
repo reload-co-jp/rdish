@@ -28,180 +28,209 @@ async function loadImageDataUrl(imagePath: string): Promise<string | null> {
 
 export async function GET(
   _request: Request,
-  { params }: { params: Promise<{ id: string }> },
+  { params }: { params: Promise<{ id: string }> }
 ) {
   const { id } = await params
   const dish = allDishes.find((d) => d.id === id)
   if (!dish) return new Response("Not found", { status: 404 })
 
-  const imageDataUrl = dish.images?.[0] ? await loadImageDataUrl(dish.images[0]) : null
-  const rawSummary = dish.summary.length > 60 ? dish.summary.slice(0, 60) + "…" : dish.summary
+  const imageDataUrl = dish.images?.[0]
+    ? await loadImageDataUrl(dish.images[0])
+    : null
+  const rawSummary =
+    dish.summary.length > 60 ? dish.summary.slice(0, 60) + "…" : dish.summary
   const summary = normalizeOgText(rawSummary)
 
   return new ImageResponse(
-    (
-      <div
-        style={{
-          background: "#fffdf8",
-          width: "100%",
-          height: "100%",
-          display: "flex",
-          fontFamily: "sans-serif",
-        }}
-      >
-        {imageDataUrl ? (
-          <>
-            {/* 左: テキスト */}
+    <div
+      style={{
+        background: "#fffdf8",
+        width: "100%",
+        height: "100%",
+        display: "flex",
+        fontFamily: "sans-serif",
+      }}
+    >
+      {imageDataUrl ? (
+        <>
+          {/* 左: テキスト */}
+          <div
+            style={{
+              width: "40%",
+              display: "flex",
+              flexDirection: "column",
+              justifyContent: "center",
+              padding: "48px 48px",
+              flexShrink: 0,
+              borderRight: "4px solid #b45309",
+            }}
+          >
             <div
               style={{
-                width: "40%",
                 display: "flex",
-                flexDirection: "column",
-                justifyContent: "center",
-                padding: "48px 48px",
-                flexShrink: 0,
-                borderRight: "4px solid #b45309",
+                fontSize: 20,
+                color: "#a89080",
+                marginBottom: 16,
               }}
             >
-              <div style={{ display: "flex", fontSize: 20, color: "#a89080", marginBottom: 16 }}>
-                RDish — 料理図鑑
-              </div>
-              <div
-                style={{
-                  display: "flex",
-                  fontSize: dish.name.length > 8 ? 56 : 72,
-                  fontWeight: 800,
-                  color: "#2d1f0e",
-                  marginBottom: 12,
-                  lineHeight: 1.1,
-                }}
-              >
-                {dish.name}
-              </div>
-              {dish.kana && (
-                <div style={{ display: "flex", fontSize: 22, color: "#a89080", marginBottom: 16 }}>
-                  {dish.kana}
-                </div>
-              )}
-              <div
-                style={{
-                  display: "flex",
-                  fontSize: 20,
-                  color: "#7a6655",
-                  lineHeight: 1.6,
-                }}
-              >
-                {summary}
-              </div>
-              <div
-                style={{
-                  display: "flex",
-                  marginTop: 24,
-                  background: "#f0e6d6",
-                  border: "2px solid #e8ddd0",
-                  borderRadius: 8,
-                  padding: "4px 16px",
-                  fontSize: 18,
-                  color: "#7a4f2a",
-                  alignSelf: "flex-start",
-                }}
-              >
-                {dish.category}
-              </div>
+              RDish — 料理図鑑
             </div>
-            {/* 右: 料理写真 */}
             <div
               style={{
-                flex: 1,
-                height: "100%",
                 display: "flex",
+                fontSize: dish.name.length > 8 ? 56 : 72,
+                fontWeight: 800,
+                color: "#2d1f0e",
+                marginBottom: 12,
+                lineHeight: 1.1,
               }}
             >
-              <img
-                src={imageDataUrl}
-                alt={dish.name}
-                style={{ width: "100%", height: "100%", objectFit: "cover" }}
-              />
+              {dish.name}
             </div>
-          </>
-        ) : (
-          /* 画像なし: 既存の中央揃えレイアウト */
+            {dish.kana && (
+              <div
+                style={{
+                  display: "flex",
+                  fontSize: 22,
+                  color: "#a89080",
+                  marginBottom: 16,
+                }}
+              >
+                {dish.kana}
+              </div>
+            )}
+            <div
+              style={{
+                display: "flex",
+                fontSize: 20,
+                color: "#7a6655",
+                lineHeight: 1.6,
+              }}
+            >
+              {summary}
+            </div>
+            <div
+              style={{
+                display: "flex",
+                marginTop: 24,
+                background: "#f0e6d6",
+                border: "2px solid #e8ddd0",
+                borderRadius: 8,
+                padding: "4px 16px",
+                fontSize: 18,
+                color: "#7a4f2a",
+                alignSelf: "flex-start",
+              }}
+            >
+              {dish.category}
+            </div>
+          </div>
+          {/* 右: 料理写真 */}
+          <div
+            style={{
+              flex: 1,
+              height: "100%",
+              display: "flex",
+            }}
+          >
+            <img
+              src={imageDataUrl}
+              alt={dish.name}
+              style={{ width: "100%", height: "100%", objectFit: "cover" }}
+            />
+          </div>
+        </>
+      ) : (
+        /* 画像なし: 既存の中央揃えレイアウト */
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            width: "100%",
+            height: "100%",
+          }}
+        >
+          <div style={{ display: "flex", background: "#b45309", height: 8 }} />
           <div
             style={{
               display: "flex",
               flexDirection: "column",
-              width: "100%",
-              height: "100%",
+              alignItems: "center",
+              justifyContent: "center",
+              flex: 1,
+              padding: "0 80px",
             }}
           >
-            <div style={{ display: "flex", background: "#b45309", height: 8 }} />
             <div
               style={{
                 display: "flex",
-                flexDirection: "column",
-                alignItems: "center",
-                justifyContent: "center",
-                flex: 1,
-                padding: "0 80px",
+                fontSize: 24,
+                color: "#a89080",
+                marginBottom: 16,
               }}
             >
-              <div style={{ display: "flex", fontSize: 24, color: "#a89080", marginBottom: 16 }}>
-                RDish — 料理図鑑
-              </div>
-              <div
-                style={{
-                  display: "flex",
-                  fontSize: 80,
-                  fontWeight: 800,
-                  color: "#2d1f0e",
-                  marginBottom: 16,
-                  textAlign: "center",
-                }}
-              >
-                {dish.name}
-              </div>
-              {dish.kana && (
-                <div style={{ display: "flex", fontSize: 28, color: "#a89080", marginBottom: 20 }}>
-                  {dish.kana}
-                </div>
-              )}
-              <div
-                style={{
-                  display: "flex",
-                  fontSize: 26,
-                  color: "#7a6655",
-                  textAlign: "center",
-                  lineHeight: 1.6,
-                }}
-              >
-                {summary}
-              </div>
+              RDish — 料理図鑑
             </div>
             <div
               style={{
                 display: "flex",
-                justifyContent: "flex-end",
-                padding: "0 40px 24px",
+                fontSize: 80,
+                fontWeight: 800,
+                color: "#2d1f0e",
+                marginBottom: 16,
+                textAlign: "center",
               }}
             >
+              {dish.name}
+            </div>
+            {dish.kana && (
               <div
                 style={{
                   display: "flex",
-                  background: "#f0e6d6",
-                  border: "2px solid #e8ddd0",
-                  borderRadius: 8,
-                  padding: "6px 20px",
-                  fontSize: 22,
-                  color: "#7a4f2a",
+                  fontSize: 28,
+                  color: "#a89080",
+                  marginBottom: 20,
                 }}
               >
-                {dish.category}
+                {dish.kana}
               </div>
+            )}
+            <div
+              style={{
+                display: "flex",
+                fontSize: 26,
+                color: "#7a6655",
+                textAlign: "center",
+                lineHeight: 1.6,
+              }}
+            >
+              {summary}
             </div>
           </div>
-        )}
-      </div>
-    ),
-    { width: 1200, height: 630 },
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "flex-end",
+              padding: "0 40px 24px",
+            }}
+          >
+            <div
+              style={{
+                display: "flex",
+                background: "#f0e6d6",
+                border: "2px solid #e8ddd0",
+                borderRadius: 8,
+                padding: "6px 20px",
+                fontSize: 22,
+                color: "#7a4f2a",
+              }}
+            >
+              {dish.category}
+            </div>
+          </div>
+        </div>
+      )}
+    </div>,
+    { width: 1200, height: 630 }
   )
 }

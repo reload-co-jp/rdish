@@ -1,7 +1,11 @@
 "use client"
 
 import { FC, useSyncExternalStore } from "react"
-import { isFavorite, subscribeFavorites, toggleFavorite } from "../../lib/storage"
+import {
+  isFavorite,
+  subscribeFavorites,
+  toggleFavorite,
+} from "../../lib/storage"
 
 type Props = {
   id: string
@@ -11,7 +15,7 @@ export const FavoriteButton: FC<Props> = ({ id }) => {
   const fav = useSyncExternalStore(
     subscribeFavorites,
     () => isFavorite(id),
-    () => false,
+    () => false
   )
 
   const handleClick = () => {

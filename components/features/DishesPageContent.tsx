@@ -18,7 +18,10 @@ export function pageUrl(page: number) {
   return page === 1 ? "/dishes/" : `/dishes/p/${page}/`
 }
 
-const Pagination: FC<{ current: number; total: number }> = ({ current, total }) => (
+const Pagination: FC<{ current: number; total: number }> = ({
+  current,
+  total,
+}) => (
   <nav
     aria-label="ページネーション"
     style={{
@@ -73,7 +76,12 @@ type Props = {
   offset: number
 }
 
-export const DishesPageContent: FC<Props> = ({ dishes, page, totalCount, offset }) => {
+export const DishesPageContent: FC<Props> = ({
+  dishes,
+  page,
+  totalCount,
+  offset,
+}) => {
   const total = totalPages(totalCount)
   return (
     <div>

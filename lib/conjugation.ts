@@ -6,11 +6,14 @@ export function conjugationCandidates(word: string): string[] {
   const candidates = new Set<string>()
 
   // カ行イ音便: 焼いた/焼いて → 焼き
-  if (/(いた|いて)$/.test(word)) candidates.add(word.replace(/(いた|いて)$/, "き"))
+  if (/(いた|いて)$/.test(word))
+    candidates.add(word.replace(/(いた|いて)$/, "き"))
   // ガ行イ音便: 泳いだ/泳いで → 泳ぎ
-  if (/(いだ|いで)$/.test(word)) candidates.add(word.replace(/(いだ|いで)$/, "ぎ"))
+  if (/(いだ|いで)$/.test(word))
+    candidates.add(word.replace(/(いだ|いで)$/, "ぎ"))
   // サ行(音便なし): 蒸した/蒸して → 蒸し
-  if (/(した|して)$/.test(word)) candidates.add(word.replace(/(した|して)$/, "し"))
+  if (/(した|して)$/.test(word))
+    candidates.add(word.replace(/(した|して)$/, "し"))
   // タ行/ラ行/ワ行 促音便: 炒った/炒って → 炒り・炒ち・炒い(語幹が曖昧なため複数候補)
   if (/(った|って)$/.test(word)) {
     const stem = word.replace(/(った|って)$/, "")

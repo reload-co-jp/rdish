@@ -5,7 +5,11 @@ import Link from "next/link"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
 import { DishCard } from "../../components/features/DishCard"
 import { allDishes } from "../../lib/dishes"
-import { reverseSearch, detectKeywordsInQuery, KeywordMatch } from "../../lib/reverseSearch"
+import {
+  reverseSearch,
+  detectKeywordsInQuery,
+  KeywordMatch,
+} from "../../lib/reverseSearch"
 import type { DishItem } from "../../types/dish"
 
 const EXAMPLES = [
@@ -33,7 +37,10 @@ export default function ReversePage() {
     const seen = new Set<string>()
     const merged: DishItem[] = []
     for (const d of [...kwDishes, ...revResults]) {
-      if (!seen.has(d.id)) { seen.add(d.id); merged.push(d) }
+      if (!seen.has(d.id)) {
+        seen.add(d.id)
+        merged.push(d)
+      }
     }
 
     setKeywords(kwMatches)
@@ -54,10 +61,18 @@ export default function ReversePage() {
   return (
     <div>
       <Breadcrumb items={[{ label: "逆引き検索", href: "/reverse/" }]} />
-      <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}>
+      <h1
+        style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}
+      >
         逆引き検索
       </h1>
-      <p style={{ color: "#a89080", fontSize: "0.875rem", marginBottom: "0.75rem" }}>
+      <p
+        style={{
+          color: "#a89080",
+          fontSize: "0.875rem",
+          marginBottom: "0.75rem",
+        }}
+      >
         料理名がわからないとき、見た目・味・特徴から探す。
       </p>
       <p style={{ marginBottom: "1.5rem" }}>
@@ -125,7 +140,14 @@ export default function ReversePage() {
             borderRadius: "0.375rem",
           }}
         >
-          <span style={{ fontSize: "0.75rem", color: "#a89080", alignSelf: "center", marginRight: "0.25rem" }}>
+          <span
+            style={{
+              fontSize: "0.75rem",
+              color: "#a89080",
+              alignSelf: "center",
+              marginRight: "0.25rem",
+            }}
+          >
             検出キーワード:
           </span>
           {keywords.map(({ dish, term }) => (
@@ -149,7 +171,15 @@ export default function ReversePage() {
       )}
 
       <div style={{ marginBottom: "1.5rem" }}>
-        <p style={{ color: "#a89080", fontSize: "0.75rem", marginBottom: "0.5rem" }}>例:</p>
+        <p
+          style={{
+            color: "#a89080",
+            fontSize: "0.75rem",
+            marginBottom: "0.5rem",
+          }}
+        >
+          例:
+        </p>
         <div style={{ display: "flex", flexWrap: "wrap", gap: "0.375rem" }}>
           {EXAMPLES.map((ex) => (
             <button
@@ -173,12 +203,20 @@ export default function ReversePage() {
 
       {searched && (
         <div>
-          <p style={{ color: "#a89080", fontSize: "0.875rem", marginBottom: "1rem" }}>
+          <p
+            style={{
+              color: "#a89080",
+              fontSize: "0.875rem",
+              marginBottom: "1rem",
+            }}
+          >
             {results.length > 0
               ? `${results.length}件見つかりました`
               : "見つかりませんでした。別の言葉で試してみてください。"}
           </p>
-          <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+          <div
+            style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}
+          >
             {results.map((dish) => (
               <DishCard key={dish.id} dish={dish} />
             ))}

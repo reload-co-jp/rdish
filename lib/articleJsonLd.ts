@@ -16,13 +16,20 @@ function countCharacters(article: Article): number {
         d.note ?? "",
       ]),
     ]),
-    ...article.callouts.flatMap((c) => [c.body, ...(c.items ?? []).map((i) => i.description)]),
+    ...article.callouts.flatMap((c) => [
+      c.body,
+      ...(c.items ?? []).map((i) => i.description),
+    ]),
   ]
   return texts.join("").length
 }
 
-export function buildArticleJsonLd(article: Article, relatedDishes: DishItem[]) {
-  const firstImage = relatedDishes.find((d) => d.images && d.images.length > 0)?.images?.[0]
+export function buildArticleJsonLd(
+  article: Article,
+  relatedDishes: DishItem[]
+) {
+  const firstImage = relatedDishes.find((d) => d.images && d.images.length > 0)
+    ?.images?.[0]
   return {
     "@context": "https://schema.org",
     "@graph": [
@@ -33,7 +40,9 @@ export function buildArticleJsonLd(article: Article, relatedDishes: DishItem[]) 
           "@type": "WebPage",
           "@id": `${SITE_URL}/articles/${article.slug}/`,
         },
-        headline: article.subtitle ? `${article.title}——${article.subtitle}` : article.title,
+        headline: article.subtitle
+          ? `${article.title}——${article.subtitle}`
+          : article.title,
         description: article.description,
         datePublished: article.publishedAt,
         ...(article.updatedAt ? { dateModified: article.updatedAt } : {}),

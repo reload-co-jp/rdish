@@ -53,10 +53,18 @@ export default async function CollectionPage({
           { label: collection.title, href: path },
         ]}
       />
-      <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}>
+      <h1
+        style={{
+          fontSize: "1.5rem",
+          fontWeight: 800,
+          marginBottom: "0.375rem",
+        }}
+      >
         {collection.title}
       </h1>
-      <p style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}>
+      <p
+        style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}
+      >
         全{collection.dishes.length}件
       </p>
       <p

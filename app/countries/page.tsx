@@ -52,16 +52,25 @@ export default function CountriesPage() {
       if (region.country && region.locality) {
         const label = `${region.country}（${region.locality}）`
         localityMap.set(label, (localityMap.get(label) ?? 0) + 1)
-        countryForLocalityMap.set(region.country, (countryForLocalityMap.get(region.country) ?? 0) + 1)
+        countryForLocalityMap.set(
+          region.country,
+          (countryForLocalityMap.get(region.country) ?? 0) + 1
+        )
       } else if (region.country) {
-        countryOnlyMap.set(region.country, (countryOnlyMap.get(region.country) ?? 0) + 1)
+        countryOnlyMap.set(
+          region.country,
+          (countryOnlyMap.get(region.country) ?? 0) + 1
+        )
       } else if (region.area) {
         areaMap.set(region.area, (areaMap.get(region.area) ?? 0) + 1)
       }
     }
   }
 
-  const allCountries = new Set([...countryOnlyMap.keys(), ...countryForLocalityMap.keys()])
+  const allCountries = new Set([
+    ...countryOnlyMap.keys(),
+    ...countryForLocalityMap.keys(),
+  ])
   const countryGroups: CountryGroup[] = [...allCountries]
     .map((country) => {
       const countryCount = countryOnlyMap.get(country) ?? 0
@@ -72,8 +81,10 @@ export default function CountriesPage() {
       return { country, countryCount, localities }
     })
     .sort((a, b) => {
-      const aTotal = a.countryCount + a.localities.reduce((s, l) => s + l.count, 0)
-      const bTotal = b.countryCount + b.localities.reduce((s, l) => s + l.count, 0)
+      const aTotal =
+        a.countryCount + a.localities.reduce((s, l) => s + l.count, 0)
+      const bTotal =
+        b.countryCount + b.localities.reduce((s, l) => s + l.count, 0)
       return bTotal - aTotal
     })
 
@@ -82,7 +93,12 @@ export default function CountriesPage() {
     .map(([region, count]) => ({ region, count }))
 
   const allRegions: Section[] = [
-    ...countryGroups.map(({ country, countryCount }) => ({ region: country, count: countryCount })).filter(({ count }) => count > 0),
+    ...countryGroups
+      .map(({ country, countryCount }) => ({
+        region: country,
+        count: countryCount,
+      }))
+      .filter(({ count }) => count > 0),
     ...countryGroups.flatMap(({ localities }) => localities),
     ...areas,
   ]
@@ -108,36 +124,74 @@ export default function CountriesPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <Breadcrumb items={[{ label: "国・地域", href: "/countries/" }]} />
-      <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}>
+      <h1
+        style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}
+      >
         国・地域から探す
       </h1>
-      <p style={{ color: "#7a6655", fontSize: "0.9375rem", lineHeight: 1.8, margin: "0 0 1.5rem" }}>
+      <p
+        style={{
+          color: "#7a6655",
+          fontSize: "0.9375rem",
+          lineHeight: 1.8,
+          margin: "0 0 1.5rem",
+        }}
+      >
         フランス、イタリア、中国、タイなど世界各国・地域の料理を国別に収録。気になる国をタップすると、その国の料理一覧・食材・調理法がまとめて見つかる。
       </p>
 
       <section style={{ marginBottom: "2rem" }}>
-        <h2 style={{ fontSize: "1rem", fontWeight: 700, color: "#7a4f2a", marginBottom: "1rem" }}>
+        <h2
+          style={{
+            fontSize: "1rem",
+            fontWeight: 700,
+            color: "#7a4f2a",
+            marginBottom: "1rem",
+          }}
+        >
           国
         </h2>
-        <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+        <div
+          style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}
+        >
           {countryGroups.map(({ country, countryCount, localities }) => (
             <div key={country}>
               {countryCount > 0 ? (
-                <Link href={countryPath(country)} style={{ ...linkStyle, fontWeight: 600 }}>
-                  {country}
-                  {" "}<span style={countStyle}>{countryCount}</span>
+                <Link
+                  href={countryPath(country)}
+                  style={{ ...linkStyle, fontWeight: 600 }}
+                >
+                  {country} <span style={countStyle}>{countryCount}</span>
                 </Link>
               ) : (
-                <span style={{ fontSize: "0.875rem", fontWeight: 600, color: "#7a4f2a" }}>
+                <span
+                  style={{
+                    fontSize: "0.875rem",
+                    fontWeight: 600,
+                    color: "#7a4f2a",
+                  }}
+                >
                   {country}
                 </span>
               )}
               {localities.length > 0 && (
-                <div style={{ display: "flex", flexWrap: "wrap", gap: "0.375rem 0.75rem", marginTop: "0.375rem", paddingLeft: "1rem" }}>
+                <div
+                  style={{
+                    display: "flex",
+                    flexWrap: "wrap",
+                    gap: "0.375rem 0.75rem",
+                    marginTop: "0.375rem",
+                    paddingLeft: "1rem",
+                  }}
+                >
                   {localities.map(({ region, count }) => (
-                    <Link key={region} href={countryPath(region)} style={linkStyle}>
-                      {region.replace(`${country}（`, "").replace(/）$/, "")}
-                      {" "}<span style={countStyle}>{count}</span>
+                    <Link
+                      key={region}
+                      href={countryPath(region)}
+                      style={linkStyle}
+                    >
+                      {region.replace(`${country}（`, "").replace(/）$/, "")}{" "}
+                      <span style={countStyle}>{count}</span>
                     </Link>
                   ))}
                 </div>
@@ -149,7 +203,14 @@ export default function CountriesPage() {
 
       {areas.length > 0 && (
         <section>
-          <h2 style={{ fontSize: "1rem", fontWeight: 700, color: "#7a4f2a", marginBottom: "0.75rem" }}>
+          <h2
+            style={{
+              fontSize: "1rem",
+              fontWeight: 700,
+              color: "#7a4f2a",
+              marginBottom: "0.75rem",
+            }}
+          >
             地域
           </h2>
           <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>

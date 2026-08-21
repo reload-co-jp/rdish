@@ -7,7 +7,13 @@ import { writeFileSync } from "node:fs"
 const git = (...args) =>
   execFileSync("git", args, { encoding: "utf8", maxBuffer: 1024 * 1024 * 256 })
 
-const commits = git("log", "--reverse", "--format=%H %cI", "--", "data/dishes.json")
+const commits = git(
+  "log",
+  "--reverse",
+  "--format=%H %cI",
+  "--",
+  "data/dishes.json"
+)
   .trim()
   .split("\n")
   .filter(Boolean)
@@ -36,10 +42,7 @@ for (const { sha, date } of commits) {
 }
 
 const sorted = Object.fromEntries(
-  Object.entries(lastModified).sort(([a], [b]) => a.localeCompare(b)),
+  Object.entries(lastModified).sort(([a], [b]) => a.localeCompare(b))
 )
-writeFileSync(
-  "data/dish-dates.json",
-  JSON.stringify(sorted, null, 2) + "\n",
-)
+writeFileSync("data/dish-dates.json", JSON.stringify(sorted, null, 2) + "\n")
 console.log(`dish-dates.json: ${Object.keys(sorted).length} entries`)

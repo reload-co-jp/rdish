@@ -38,14 +38,27 @@ export const Breadcrumb: FC<Props> = ({ items }) => {
         }}
       >
         {all.map((item, i) => (
-          <span key={i} style={{ display: "flex", alignItems: "center", gap: "0.25rem" }}>
-            {i > 0 && <span aria-hidden="true" style={{ color: "#e8ddd0" }}>/</span>}
+          <span
+            key={i}
+            style={{ display: "flex", alignItems: "center", gap: "0.25rem" }}
+          >
+            {i > 0 && (
+              <span aria-hidden="true" style={{ color: "#e8ddd0" }}>
+                /
+              </span>
+            )}
             {item.href && i < all.length - 1 ? (
-              <Link href={item.href} style={{ color: "#a89080", textDecoration: "none" }}>
+              <Link
+                href={item.href}
+                style={{ color: "#a89080", textDecoration: "none" }}
+              >
                 {item.label}
               </Link>
             ) : (
-              <span aria-current={i === all.length - 1 ? "page" : undefined} style={{ color: "#7a6655" }}>
+              <span
+                aria-current={i === all.length - 1 ? "page" : undefined}
+                style={{ color: "#7a6655" }}
+              >
                 {item.label}
               </span>
             )}

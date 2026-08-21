@@ -24,7 +24,10 @@ export async function generateMetadata({
   const combo = findCombo(country, tag)
   if (!combo) notFound()
   const path = comboPath(combo.countryId, combo.tagId)
-  const top3 = combo.dishes.slice(0, 3).map((d) => d.name).join("、")
+  const top3 = combo.dishes
+    .slice(0, 3)
+    .map((d) => d.name)
+    .join("、")
   const title = `${combo.countryLabel}の${combo.tagLabel}一覧（全${combo.dishes.length}件）`
   const description = `${combo.countryLabel}の${combo.tagLabel}を一覧で紹介。${top3}など${combo.dishes.length}件。名前・特徴・注文のコツがわかる料理辞典 RDish。`
   return {
@@ -47,7 +50,7 @@ export default async function CountryTagPage({
   const jsonLd = buildItemListJsonLd(
     `${combo.countryLabel}の${combo.tagLabel}一覧`,
     path,
-    combo.dishes,
+    combo.dishes
   )
 
   return (
@@ -63,10 +66,18 @@ export default async function CountryTagPage({
           { label: combo.tagLabel, href: path },
         ]}
       />
-      <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}>
+      <h1
+        style={{
+          fontSize: "1.5rem",
+          fontWeight: 800,
+          marginBottom: "0.375rem",
+        }}
+      >
         {combo.countryLabel}の{combo.tagLabel}一覧
       </h1>
-      <p style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}>
+      <p
+        style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}
+      >
         全{combo.dishes.length}件
       </p>
       <p
@@ -77,7 +88,8 @@ export default async function CountryTagPage({
           margin: "0 0 1.5rem",
         }}
       >
-        {combo.countryLabel}で親しまれている{combo.tagLabel}を集めました。メニューで見かけたときに、どんな料理か・味の特徴・注文のコツをすぐ調べられます。
+        {combo.countryLabel}で親しまれている{combo.tagLabel}
+        を集めました。メニューで見かけたときに、どんな料理か・味の特徴・注文のコツをすぐ調べられます。
       </p>
       <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
         {combo.dishes.map((dish) => (

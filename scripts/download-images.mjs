@@ -1,17 +1,17 @@
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'fs'
-import { join, dirname } from 'path'
-import { fileURLToPath } from 'url'
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from "fs"
+import { join, dirname } from "path"
+import { fileURLToPath } from "url"
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const ROOT = join(__dirname, '..')
-const DISHES_PATH = join(ROOT, 'data', 'dishes.json')
-const IMAGES_DIR = join(ROOT, 'public', 'images', 'dishes')
-const UA = 'RDish/1.0 (https://rdish.reload.co.jp; yamamoto@reload.co.jp)'
+const ROOT = join(__dirname, "..")
+const DISHES_PATH = join(ROOT, "data", "dishes.json")
+const IMAGES_DIR = join(ROOT, "public", "images", "dishes")
+const UA = "RDish/1.0 (https://rdish.reload.co.jp; yamamoto@reload.co.jp)"
 
-const dishes = JSON.parse(readFileSync(DISHES_PATH, 'utf-8'))
+const dishes = JSON.parse(readFileSync(DISHES_PATH, "utf-8"))
 const targetIds = new Set(process.argv.slice(2))
 
-const sleep = ms => new Promise(r => setTimeout(r, ms))
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 
 function isSkippableExt(url) {
   return /\.(svg|gif|tif|tiff|ogg|ogv|webm|pdf)(\?|$)/i.test(url)
@@ -19,12 +19,16 @@ function isSkippableExt(url) {
 
 function getExt(url) {
   const m = url.match(/\.(jpe?g|png|webp)(\?|$)/i)
-  return m ? (m[1].toLowerCase() === 'jpeg' ? 'jpg' : m[1].toLowerCase()) : 'jpg'
+  return m
+    ? m[1].toLowerCase() === "jpeg"
+      ? "jpg"
+      : m[1].toLowerCase()
+    : "jpg"
 }
 
 async function apiFetch(url) {
   try {
-    const res = await fetch(url, { headers: { 'User-Agent': UA } })
+    const res = await fetch(url, { headers: { "User-Agent": UA } })
     if (!res.ok) return null
     return res.json()
   } catch {
@@ -46,16 +50,16 @@ async function getWikipediaImage(title) {
 async function searchCommons(query, limit = 10) {
   const data = await apiFetch(
     `https://commons.wikimedia.org/w/api.php?action=query&list=search` +
-    `&srsearch=${encodeURIComponent(query)}&srnamespace=6&srlimit=${limit}&format=json&origin=*`
+      `&srsearch=${encodeURIComponent(query)}&srnamespace=6&srlimit=${limit}&format=json&origin=*`
   )
-  return data?.query?.search?.map(r => r.title) ?? []
+  return data?.query?.search?.map((r) => r.title) ?? []
 }
 
 // File title → thumb URL
 async function commonsThumbUrl(fileTitle) {
   const data = await apiFetch(
     `https://commons.wikimedia.org/w/api.php?action=query` +
-    `&titles=${encodeURIComponent(fileTitle)}&prop=imageinfo&iiprop=url&iiurlwidth=1200&format=json&origin=*`
+      `&titles=${encodeURIComponent(fileTitle)}&prop=imageinfo&iiprop=url&iiurlwidth=1200&format=json&origin=*`
   )
   const page = Object.values(data?.query?.pages ?? {})[0]
   const url = page?.imageinfo?.[0]?.thumburl ?? page?.imageinfo?.[0]?.url
@@ -64,7 +68,7 @@ async function commonsThumbUrl(fileTitle) {
 
 async function downloadFile(url, dest) {
   try {
-    const res = await fetch(url, { headers: { 'User-Agent': UA } })
+    const res = await fetch(url, { headers: { "User-Agent": UA } })
     if (!res.ok) return false
     const buf = await res.arrayBuffer()
     writeFileSync(dest, Buffer.from(buf))
@@ -121,13 +125,14 @@ async function processDish(dish) {
 // Main
 const updated = []
 const imageMap = {}
-const targets = targetIds.size > 0 ? dishes.filter(dish => targetIds.has(dish.id)) : dishes
+const targets =
+  targetIds.size > 0 ? dishes.filter((dish) => targetIds.has(dish.id)) : dishes
 
 if (targetIds.size > 0) {
-  const foundIds = new Set(targets.map(dish => dish.id))
-  const missingIds = [...targetIds].filter(id => !foundIds.has(id))
+  const foundIds = new Set(targets.map((dish) => dish.id))
+  const missingIds = [...targetIds].filter((id) => !foundIds.has(id))
   if (missingIds.length > 0) {
-    console.error(`Dish id not found: ${missingIds.join(', ')}`)
+    console.error(`Dish id not found: ${missingIds.join(", ")}`)
     process.exit(1)
   }
 }
@@ -139,17 +144,20 @@ for (let i = 0; i < dishes.length; i++) {
     continue
   }
 
-  const targetIndex = targets.findIndex(target => target.id === dish.id) + 1
-  const label = targetIds.size > 0 ? `[${targetIndex}/${targets.length}]` : `[${i + 1}/${dishes.length}]`
+  const targetIndex = targets.findIndex((target) => target.id === dish.id) + 1
+  const label =
+    targetIds.size > 0
+      ? `[${targetIndex}/${targets.length}]`
+      : `[${i + 1}/${dishes.length}]`
   process.stdout.write(`${label} ${dish.id} ... `)
 
   // Skip if already downloaded
   const dir = join(IMAGES_DIR, dish.id)
   if (existsSync(dir)) {
-    const { readdirSync } = await import('fs')
-    const files = readdirSync(dir).filter(f => /\.(jpe?g|png|webp)$/i.test(f))
+    const { readdirSync } = await import("fs")
+    const files = readdirSync(dir).filter((f) => /\.(jpe?g|png|webp)$/i.test(f))
     if (files.length > 0) {
-      const paths = files.sort().map(f => `/images/dishes/${dish.id}/${f}`)
+      const paths = files.sort().map((f) => `/images/dishes/${dish.id}/${f}`)
       imageMap[dish.id] = paths
       updated.push({ ...dish, images: paths })
       console.log(`skip (${files.length} files exist)`)
@@ -165,5 +173,5 @@ for (let i = 0; i < dishes.length; i++) {
   await sleep(800)
 }
 
-writeFileSync(DISHES_PATH, JSON.stringify(updated, null, 2) + '\n')
-console.log('\nDone. dishes.json updated.')
+writeFileSync(DISHES_PATH, JSON.stringify(updated, null, 2) + "\n")
+console.log("\nDone. dishes.json updated.")

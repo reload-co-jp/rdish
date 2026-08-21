@@ -17,7 +17,7 @@ for (const dish of allDishes) {
 }
 
 const NORMALIZED_VOCAB = new Set(
-  [...ALL_SYNONYM_TERMS, ...TAG_VOCABULARY, ...DATA_VOCABULARY].map(normalize),
+  [...ALL_SYNONYM_TERMS, ...TAG_VOCABULARY, ...DATA_VOCABULARY].map(normalize)
 )
 
 // 辞書は最長一致を優先するため長い順に並べておく(重複除去済み)
@@ -62,7 +62,11 @@ function splitByDictionary(chunk: string, rawChunk: string): string[] {
   while (i < chunk.length) {
     const match = DICTIONARY.find((w) => chunk.startsWith(w, i))
     if (match) {
-      if (buf) { parts.push(...resolveUnknown(buf, rawBuf)); buf = ""; rawBuf = "" }
+      if (buf) {
+        parts.push(...resolveUnknown(buf, rawBuf))
+        buf = ""
+        rawBuf = ""
+      }
       parts.push(match)
       i += match.length
     } else {
@@ -76,29 +80,37 @@ function splitByDictionary(chunk: string, rawChunk: string): string[] {
 }
 
 function tokenize(query: string): string[] {
-  return query
-    .trim()
-    // 文字クラス[...]では「から/まで/より」が1文字ずつのORになってしまう
-    // (例:「酸っぱかった」の「か」で誤分断される)ため、交代(|)で複数文字の
-    // 助詞をひとまとまりとして区切る。
-    .split(/(?:\s|\u3000|から|まで|より|の|を|が|は|に|で|と|も|へ|・|、|。|,|\.|，)+/)
-    .flatMap((chunk) => {
-      // further split katakana / kanji boundaries if chunk is long
-      const parts: string[] = []
-      let buf = ""
-      for (const ch of chunk) {
-        buf += ch
-        // split after katakana runs (バター / 焼き boundary etc.) only when mixed
-        if (buf.length >= 4 && /[ぁ-ん]$/.test(ch) && /[ァ-ヶ]/.test(buf.slice(0, -1))) {
-          parts.push(buf.slice(0, -1))
-          buf = ch
+  return (
+    query
+      .trim()
+      // 文字クラス[...]では「から/まで/より」が1文字ずつのORになってしまう
+      // (例:「酸っぱかった」の「か」で誤分断される)ため、交代(|)で複数文字の
+      // 助詞をひとまとまりとして区切る。
+      .split(
+        /(?:\s|\u3000|から|まで|より|の|を|が|は|に|で|と|も|へ|・|、|。|,|\.|，)+/
+      )
+      .flatMap((chunk) => {
+        // further split katakana / kanji boundaries if chunk is long
+        const parts: string[] = []
+        let buf = ""
+        for (const ch of chunk) {
+          buf += ch
+          // split after katakana runs (バター / 焼き boundary etc.) only when mixed
+          if (
+            buf.length >= 4 &&
+            /[ぁ-ん]$/.test(ch) &&
+            /[ァ-ヶ]/.test(buf.slice(0, -1))
+          ) {
+            parts.push(buf.slice(0, -1))
+            buf = ch
+          }
         }
-      }
-      if (buf) parts.push(buf)
-      return parts
-    })
-    .flatMap((rawChunk) => splitByDictionary(normalize(rawChunk), rawChunk))
-    .filter((w) => w.length >= 1)
+        if (buf) parts.push(buf)
+        return parts
+      })
+      .flatMap((rawChunk) => splitByDictionary(normalize(rawChunk), rawChunk))
+      .filter((w) => w.length >= 1)
+  )
 }
 
 export function reverseSearch(dishes: DishItem[], query: string): DishItem[] {
@@ -134,7 +146,10 @@ export function reverseSearch(dishes: DishItem[], query: string): DishItem[] {
 
 export type KeywordMatch = { dish: DishItem; term: string }
 
-export function detectKeywordsInQuery(dishes: DishItem[], query: string): KeywordMatch[] {
+export function detectKeywordsInQuery(
+  dishes: DishItem[],
+  query: string
+): KeywordMatch[] {
   const nq = normalize(query)
   const matches: KeywordMatch[] = []
   const seenIds = new Set<string>()

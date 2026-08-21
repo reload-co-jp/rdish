@@ -59,14 +59,17 @@ export type CountryTagCombo = {
 const dim2Tags = tagItems.filter((tag) => DIM2_TAG_LABELS.includes(tag.label))
 const dim3Tags = tagItems.filter((tag) => DIM3_TAG_LABELS.includes(tag.label))
 
-function buildCombos(kind: CombosKind, dimTags: typeof tagItems): CountryTagCombo[] {
+function buildCombos(
+  kind: CombosKind,
+  dimTags: typeof tagItems
+): CountryTagCombo[] {
   return countryItems.flatMap((country) => {
     const countryDishes = allDishes.filter((dish) =>
-      dishMatchesRegion(dish, country.label),
+      dishMatchesRegion(dish, country.label)
     )
     return dimTags.flatMap((tag) => {
       const dishes = countryDishes.filter((dish) =>
-        dish.tags.includes(tag.label),
+        dish.tags.includes(tag.label)
       )
       if (dishes.length < COMBO_MIN_DISHES) return []
       return [
@@ -83,8 +86,14 @@ function buildCombos(kind: CombosKind, dimTags: typeof tagItems): CountryTagComb
   })
 }
 
-export const countryTagCombos: CountryTagCombo[] = buildCombos("category", dim2Tags)
-export const countryIngredientCombos: CountryTagCombo[] = buildCombos("ingredient", dim3Tags)
+export const countryTagCombos: CountryTagCombo[] = buildCombos(
+  "category",
+  dim2Tags
+)
+export const countryIngredientCombos: CountryTagCombo[] = buildCombos(
+  "ingredient",
+  dim3Tags
+)
 
 export function comboPath(countryId: string, tagId: string): string {
   return `/countries/${countryId}/t/${tagId}/`
@@ -96,19 +105,19 @@ export function comboIngredientPath(countryId: string, tagId: string): string {
 
 export function findCombo(
   countryId: string,
-  tagId: string,
+  tagId: string
 ): CountryTagCombo | undefined {
   return countryTagCombos.find(
-    (combo) => combo.countryId === countryId && combo.tagId === tagId,
+    (combo) => combo.countryId === countryId && combo.tagId === tagId
   )
 }
 
 export function findIngredientCombo(
   countryId: string,
-  tagId: string,
+  tagId: string
 ): CountryTagCombo | undefined {
   return countryIngredientCombos.find(
-    (combo) => combo.countryId === countryId && combo.tagId === tagId,
+    (combo) => combo.countryId === countryId && combo.tagId === tagId
   )
 }
 
@@ -116,14 +125,19 @@ export function combosForCountry(countryId: string): CountryTagCombo[] {
   return countryTagCombos.filter((combo) => combo.countryId === countryId)
 }
 
-export function ingredientCombosForCountry(countryId: string): CountryTagCombo[] {
-  return countryIngredientCombos.filter((combo) => combo.countryId === countryId)
+export function ingredientCombosForCountry(
+  countryId: string
+): CountryTagCombo[] {
+  return countryIngredientCombos.filter(
+    (combo) => combo.countryId === countryId
+  )
 }
 
 export function combosForDish(dish: DishItem): CountryTagCombo[] {
   const dishRegionLabels = new Set(dish.regions.map(regionLabel))
   return [...countryTagCombos, ...countryIngredientCombos].filter(
     (combo) =>
-      dishRegionLabels.has(combo.countryLabel) && dish.tags.includes(combo.tagLabel),
+      dishRegionLabels.has(combo.countryLabel) &&
+      dish.tags.includes(combo.tagLabel)
   )
 }

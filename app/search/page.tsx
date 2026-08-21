@@ -31,23 +31,41 @@ function SearchResults() {
       </div>
 
       {(q || tag) && (
-        <p style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "1rem" }}>
+        <p
+          style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "1rem" }}
+        >
           {q ? `「${q}」` : `タグ: ${tag}`} — {results.length}件
         </p>
       )}
 
       {results.length > 0 ? (
-        <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem", marginBottom: "2rem" }}>
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            gap: "0.75rem",
+            marginBottom: "2rem",
+          }}
+        >
           {results.map((dish) => (
             <DishCard key={dish.id} dish={dish} />
           ))}
         </div>
-      ) : (q || tag) ? (
-        <p style={{ color: "#666", marginBottom: "2rem" }}>見つかりませんでした。</p>
+      ) : q || tag ? (
+        <p style={{ color: "#666", marginBottom: "2rem" }}>
+          見つかりませんでした。
+        </p>
       ) : null}
 
       <section>
-        <h2 style={{ fontSize: "0.75rem", color: "#888", marginBottom: "0.75rem", fontWeight: 600 }}>
+        <h2
+          style={{
+            fontSize: "0.75rem",
+            color: "#888",
+            marginBottom: "0.75rem",
+            fontWeight: 600,
+          }}
+        >
           タグで絞り込む
         </h2>
         <TagList tags={allTags} />

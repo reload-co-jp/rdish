@@ -3,6 +3,10 @@ export function paginate<T>(items: T[], page: number, pageSize: number): T[] {
   return items.slice(start, start + pageSize)
 }
 
-export function totalPages(count: number, pageSize: number, minPages = 0): number {
+export function totalPages(
+  count: number,
+  pageSize: number,
+  minPages = 0
+): number {
   return Math.max(Math.ceil(count / pageSize), minPages)
 }

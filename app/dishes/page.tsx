@@ -1,6 +1,10 @@
 import type { Metadata } from "next"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
-import { DishesPageContent, paginateDishes, totalPages } from "../../components/features/DishesPageContent"
+import {
+  DishesPageContent,
+  paginateDishes,
+  totalPages,
+} from "../../components/features/DishesPageContent"
 import { allDishes } from "../../lib/dishes"
 import { buildItemListJsonLd } from "../../lib/taxonomy"
 
@@ -25,7 +29,11 @@ export default function DishesPage() {
   const pageDishes = paginateDishes(latestDishes, page)
   const total = totalPages(count)
 
-  const jsonLd = buildItemListJsonLd(`料理・食材図鑑 全${count}件一覧`, "/dishes/", pageDishes)
+  const jsonLd = buildItemListJsonLd(
+    `料理・食材図鑑 全${count}件一覧`,
+    "/dishes/",
+    pageDishes
+  )
 
   return (
     <div>
@@ -35,7 +43,13 @@ export default function DishesPage() {
       />
       <Breadcrumb items={[{ label: "料理一覧", href: "/dishes/" }]} />
       <div style={{ marginBottom: "1.5rem" }}>
-        <h1 style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.5rem" }}>
+        <h1
+          style={{
+            fontSize: "1.5rem",
+            fontWeight: 800,
+            marginBottom: "0.5rem",
+          }}
+        >
           料理・食材図鑑 一覧
         </h1>
         <p style={{ color: "#a89080", fontSize: "0.875rem" }}>

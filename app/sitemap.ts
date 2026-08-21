@@ -30,7 +30,7 @@ const SITE_URL = "https://rdish.reload.co.jp"
 const page = (
   path: string,
   changeFrequency: MetadataRoute.Sitemap[number]["changeFrequency"],
-  priority: number,
+  priority: number
 ) => ({
   url: `${SITE_URL}${path}`,
   changeFrequency,
@@ -42,7 +42,9 @@ const BUILD_DATE = new Date()
 export default function sitemap(): MetadataRoute.Sitemap {
   const dishUrls = allDishes.map((dish) => ({
     url: `${SITE_URL}/dishes/${dish.id}/`,
-    lastModified: dishDates[dish.id] ? new Date(dishDates[dish.id]) : BUILD_DATE,
+    lastModified: dishDates[dish.id]
+      ? new Date(dishDates[dish.id])
+      : BUILD_DATE,
     changeFrequency: "monthly" as const,
     priority: 0.8,
     ...(dish.images?.length
@@ -91,11 +93,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }))
 
-  const ingredientComboUrls = countryIngredientCombos.map(({ countryId, tagId }) => ({
-    url: `${SITE_URL}${comboIngredientPath(countryId, tagId)}`,
-    changeFrequency: "monthly" as const,
-    priority: 0.6,
-  }))
+  const ingredientComboUrls = countryIngredientCombos.map(
+    ({ countryId, tagId }) => ({
+      url: `${SITE_URL}${comboIngredientPath(countryId, tagId)}`,
+      changeFrequency: "monthly" as const,
+      priority: 0.6,
+    })
+  )
 
   const collectionUrls = allCollections.map(({ slug }) => ({
     url: `${SITE_URL}${collectionPath(slug)}`,
@@ -115,7 +119,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `${SITE_URL}${comparePageUrl(i + 2)}`,
       changeFrequency: "monthly" as const,
       priority: 0.4,
-    }),
+    })
   )
 
   const dietaryUrls = [

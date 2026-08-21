@@ -2,11 +2,13 @@ import type { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: "料理を検索",
-  description: "料理名・食材名・調理法をキーワードやタグで検索。外食メニューで役立つ料理図鑑 RDish。",
+  description:
+    "料理名・食材名・調理法をキーワードやタグで検索。外食メニューで役立つ料理図鑑 RDish。",
   robots: { index: false, follow: true },
   openGraph: {
     title: "料理を検索",
-    description: "料理名・食材名・調理法をキーワードやタグで検索。外食メニューで役立つ料理図鑑 RDish。",
+    description:
+      "料理名・食材名・調理法をキーワードやタグで検索。外食メニューで役立つ料理図鑑 RDish。",
     images: [
       {
         url: "/search/opengraph-image.png",
@@ -18,6 +20,10 @@ export const metadata: Metadata = {
   },
 }
 
-export default function SearchLayout({ children }: { children: React.ReactNode }) {
+export default function SearchLayout({
+  children,
+}: {
+  children: React.ReactNode
+}) {
   return <>{children}</>
 }

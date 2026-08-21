@@ -1,6 +1,8 @@
 * {
   box-sizing: border-box;
-  font-family: "M PLUS Rounded 1c", "Hiragino Maru Gothic ProN", "Hiragino Sans", "Yu Gothic", sans-serif;
+  font-family:
+    "M PLUS Rounded 1c", "Hiragino Maru Gothic ProN", "Hiragino Sans",
+    "Yu Gothic", sans-serif;
   margin: 0;
 }
 

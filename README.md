@@ -216,17 +216,17 @@
 
 ## 7. 画面一覧
 
-| ページ | URL |
-|---|---|
-| トップ | `/` |
-| 検索 | `/search` |
-| 逆引き | `/reverse` |
-| 用語詳細 | `/dishes/[id]` |
-| カテゴリ | `/categories/[category]` |
-| タグ | `/tags/[tag]` |
-| お気に入り | `/favorites` |
-| 国・地域 | `/countries` |
-| アバウト | `/about` |
+| ページ     | URL                      |
+| ---------- | ------------------------ |
+| トップ     | `/`                      |
+| 検索       | `/search`                |
+| 逆引き     | `/reverse`               |
+| 用語詳細   | `/dishes/[id]`           |
+| カテゴリ   | `/categories/[category]` |
+| タグ       | `/tags/[tag]`            |
+| お気に入り | `/favorites`             |
+| 国・地域   | `/countries`             |
+| アバウト   | `/about`                 |
 
 ---
 
@@ -236,30 +236,30 @@
 
 ```ts
 export type DishItem = {
-  id: string;
-  name: string;
-  kana?: string;
-  aliases?: string[];
-  englishName?: string;
-  originalName?: string;
-  category: DishCategory;
-  regions: string[];
-  summary: string;
-  menuDescription: string;
-  whatComesOut: string[];
-  tasteAndTexture: string[];
-  orderAdvice: string;
-  caution?: string;
-  similarItems: SimilarItem[];
-  relatedIds: string[];
-  images?: string[];
-  tags: string[];
-  reverseKeywords: string[];
-  beginnerFriendlyScore: 1 | 2 | 3 | 4 | 5;
-  uniquenessScore: 1 | 2 | 3 | 4 | 5;
-  heavinessScore: 1 | 2 | 3 | 4 | 5;
-  spicinessScore: 0 | 1 | 2 | 3 | 4 | 5;
-};
+  id: string
+  name: string
+  kana?: string
+  aliases?: string[]
+  englishName?: string
+  originalName?: string
+  category: DishCategory
+  regions: string[]
+  summary: string
+  menuDescription: string
+  whatComesOut: string[]
+  tasteAndTexture: string[]
+  orderAdvice: string
+  caution?: string
+  similarItems: SimilarItem[]
+  relatedIds: string[]
+  images?: string[]
+  tags: string[]
+  reverseKeywords: string[]
+  beginnerFriendlyScore: 1 | 2 | 3 | 4 | 5
+  uniquenessScore: 1 | 2 | 3 | 4 | 5
+  heavinessScore: 1 | 2 | 3 | 4 | 5
+  spicinessScore: 0 | 1 | 2 | 3 | 4 | 5
+}
 ```
 
 ## 8.2 DishCategory
@@ -276,17 +276,17 @@ export type DishCategory =
   | "肉"
   | "魚介"
   | "デザート"
-  | "飲み物";
+  | "飲み物"
 ```
 
 ## 8.3 SimilarItem
 
 ```ts
 export type SimilarItem = {
-  id?: string;
-  name: string;
-  difference: string;
-};
+  id?: string
+  name: string
+  difference: string
+}
 ```
 
 ---
@@ -407,8 +407,8 @@ reverseKeywords 一致: +20
 ## 10.4 localStorage
 
 ```ts
-key: rdish:favorites       // string[]
-key: rdish:recentlyViewed  // string[]
+key: rdish: favorites // string[]
+key: rdish: recentlyViewed // string[]
 ```
 
 ---

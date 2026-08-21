@@ -4,12 +4,17 @@ import type { DishItem } from "../types/dish"
 
 export const allArticles: Article[] = articlesData as Article[]
 
-export function relatedDishesOf(article: Article, allDishes: DishItem[]): DishItem[] {
+export function relatedDishesOf(
+  article: Article,
+  allDishes: DishItem[]
+): DishItem[] {
   return article.relatedDishIds
     .map((id) => allDishes.find((d) => d.id === id))
     .filter(Boolean) as DishItem[]
 }
 
 export function articlesForDish(dishId: string): Article[] {
-  return allArticles.filter((article) => article.relatedDishIds.includes(dishId))
+  return allArticles.filter((article) =>
+    article.relatedDishIds.includes(dishId)
+  )
 }

@@ -9,13 +9,34 @@ export const metadata: Metadata = {
 export default function NotFound() {
   return (
     <div style={{ textAlign: "center", padding: "3rem 1rem" }}>
-      <p style={{ fontSize: "3rem", fontWeight: 800, color: "#e8ddd0", marginBottom: "1rem" }}>
+      <p
+        style={{
+          fontSize: "3rem",
+          fontWeight: 800,
+          color: "#e8ddd0",
+          marginBottom: "1rem",
+        }}
+      >
         404
       </p>
-      <h1 style={{ fontSize: "1.25rem", fontWeight: 700, color: "#2d1f0e", marginBottom: "0.5rem" }}>
+      <h1
+        style={{
+          fontSize: "1.25rem",
+          fontWeight: 700,
+          color: "#2d1f0e",
+          marginBottom: "0.5rem",
+        }}
+      >
         ページが見つかりません
       </h1>
-      <p style={{ fontSize: "0.875rem", color: "#a89080", marginBottom: "2rem", lineHeight: 1.7 }}>
+      <p
+        style={{
+          fontSize: "0.875rem",
+          color: "#a89080",
+          marginBottom: "2rem",
+          lineHeight: 1.7,
+        }}
+      >
         URLが間違っているか、削除された可能性があります。
       </p>
       <Link

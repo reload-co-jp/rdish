@@ -56,7 +56,10 @@ Content count: ${allDishes.length} glossary entries, ${categoryItems.length} cat
 
 ${allDishes
   .slice(0, 50)
-  .map((dish) => `- [${dish.name}](${SITE_URL}/dishes/${dish.id}/): ${dish.summary}`)
+  .map(
+    (dish) =>
+      `- [${dish.name}](${SITE_URL}/dishes/${dish.id}/): ${dish.summary}`
+  )
   .join("\n")}
 `
 

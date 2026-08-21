@@ -14,7 +14,7 @@ When invoked, add the requested dish to `/Users/kixixixixi/Documents/Develop/Rel
 3. **Search and fetch sources**: Use WebSearch to find authoritative references (Wikipedia JP/EN, official sites) for the dish. Fetch the top 2–3 pages and collect the URLs. Use the fetched content as the factual basis for all description fields (`summary`, `menuDescription`, `whatComesOut`, `tasteAndTexture`, `orderAdvice`).
 4. Generate one complete `DishItem` JSON object for the requested dish. Set `source` to the array of fetched URLs.
 5. Append it to the JSON array in `data/dishes.json`.
-5. Download images for the added dish only:
+6. Download images for the added dish only:
 
 ```bash
 node scripts/download-images.mjs <dish-id>
@@ -40,15 +40,16 @@ Do not run `pnpm typecheck` for a JSON-only change.
 
 Tags use **5 dimensions** (4–8 total per dish):
 
-| Dimension | Examples |
-|-----------|---------|
-| Cuisine | `フランス料理` / `イタリア料理` / `中国料理` / `四川料理` — country-level only |
-| Dish type | `前菜` / `主菜` / `スープ` / `サラダ` / `デザート` / `ソース` |
-| Main ingredient | `牛肉` / `豚肉` / `魚介` / `チーズ` / `野菜` / `ハーブ` / `スパイス` |
-| Cooking method | `煮込み` / `揚げ物` / `焼き物` / `蒸し料理` / `炒め物` / `グリル` / `燻製` |
-| Flavor/texture | `ピリ辛` / `こってり` / `あっさり` / `クリーミー` / `香ばしい` |
+| Dimension       | Examples                                                                       |
+| --------------- | ------------------------------------------------------------------------------ |
+| Cuisine         | `フランス料理` / `イタリア料理` / `中国料理` / `四川料理` — country-level only |
+| Dish type       | `前菜` / `主菜` / `スープ` / `サラダ` / `デザート` / `ソース`                  |
+| Main ingredient | `牛肉` / `豚肉` / `魚介` / `チーズ` / `野菜` / `ハーブ` / `スパイス`           |
+| Cooking method  | `煮込み` / `揚げ物` / `焼き物` / `蒸し料理` / `炒め物` / `グリル` / `燻製`     |
+| Flavor/texture  | `ピリ辛` / `こってり` / `あっさり` / `クリーミー` / `香ばしい`                 |
 
 **Prohibited patterns:**
+
 - City/region name tags (`ナポリ`, `プロヴァンス`, `ブルゴーニュ`) → use country cuisine tag
 - Dimension-mixed tags (`イタリアチーズ`, `フランスソース`, `地中海野菜`) → use single-dimension tags instead
 

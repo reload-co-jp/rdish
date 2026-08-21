@@ -18,16 +18,10 @@ const POPULAR_IDS = [
   "ajillo",
 ]
 
-const CATEGORIES = [
-  "調理法",
-  "野菜",
-  "チーズ",
-  "ソース",
-  "料理",
-] as const
+const CATEGORIES = ["調理法", "野菜", "チーズ", "ソース", "料理"] as const
 
 const popularDishes = POPULAR_IDS.map((id) =>
-  allDishes.find((d) => d.id === id),
+  allDishes.find((d) => d.id === id)
 ).filter(Boolean) as DishItem[]
 
 const latestArticles = allArticles
@@ -48,7 +42,11 @@ const websiteJsonLd = {
       publisher: organizationRef,
       potentialAction: {
         "@type": "SearchAction",
-        target: { "@type": "EntryPoint", urlTemplate: "https://rdish.reload.co.jp/search/?q={search_term_string}" },
+        target: {
+          "@type": "EntryPoint",
+          urlTemplate:
+            "https://rdish.reload.co.jp/search/?q={search_term_string}",
+        },
         "query-input": "required name=search_term_string",
       },
     },
@@ -59,8 +57,13 @@ const websiteJsonLd = {
 export default function TopPage() {
   return (
     <div>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }} />
-      <div style={{ textAlign: "center", marginBottom: "2rem", padding: "1rem 0" }}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+      />
+      <div
+        style={{ textAlign: "center", marginBottom: "2rem", padding: "1rem 0" }}
+      >
         <h1
           style={{
             fontSize: "2.5rem",
@@ -85,7 +88,13 @@ export default function TopPage() {
           marginBottom: "2rem",
         }}
       >
-        <p style={{ color: "#a89080", fontSize: "0.8rem", marginBottom: "0.5rem" }}>
+        <p
+          style={{
+            color: "#a89080",
+            fontSize: "0.8rem",
+            marginBottom: "0.5rem",
+          }}
+        >
           料理名がわからない？特徴から探す
         </p>
         <Link
@@ -117,16 +126,37 @@ export default function TopPage() {
 
       {latestArticles.length > 0 && (
         <section style={{ marginBottom: "2rem" }}>
-          <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: "0.75rem" }}>
-            <h2 style={{ fontSize: "0.875rem", color: "#aaa", fontWeight: 600 }}>読みもの</h2>
+          <div
+            style={{
+              display: "flex",
+              alignItems: "baseline",
+              justifyContent: "space-between",
+              marginBottom: "0.75rem",
+            }}
+          >
+            <h2
+              style={{ fontSize: "0.875rem", color: "#aaa", fontWeight: 600 }}
+            >
+              読みもの
+            </h2>
             <Link
               href="/articles/"
-              style={{ fontSize: "0.75rem", color: "#b45309", textDecoration: "none" }}
+              style={{
+                fontSize: "0.75rem",
+                color: "#b45309",
+                textDecoration: "none",
+              }}
             >
               すべて見る →
             </Link>
           </div>
-          <div style={{ display: "flex", flexDirection: "column", gap: "0.625rem" }}>
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              gap: "0.625rem",
+            }}
+          >
             {latestArticles.map((article) => (
               <Link
                 key={article.slug}
@@ -141,18 +171,46 @@ export default function TopPage() {
                     padding: "0.75rem 1rem",
                   }}
                 >
-                  <p style={{ fontSize: "0.65rem", color: "#a89080", marginBottom: "0.25rem" }}>
+                  <p
+                    style={{
+                      fontSize: "0.65rem",
+                      color: "#a89080",
+                      marginBottom: "0.25rem",
+                    }}
+                  >
                     {article.publishedAt}
                   </p>
-                  <p style={{ fontSize: "0.9375rem", fontWeight: 700, color: "#2d1f0e", marginBottom: "0.25rem", lineHeight: 1.35 }}>
+                  <p
+                    style={{
+                      fontSize: "0.9375rem",
+                      fontWeight: 700,
+                      color: "#2d1f0e",
+                      marginBottom: "0.25rem",
+                      lineHeight: 1.35,
+                    }}
+                  >
                     {article.title}
                     {article.subtitle && (
-                      <span style={{ color: "#7a6655", fontWeight: 400, fontSize: "0.875rem" }}>
-                        {" "}——{article.subtitle}
+                      <span
+                        style={{
+                          color: "#7a6655",
+                          fontWeight: 400,
+                          fontSize: "0.875rem",
+                        }}
+                      >
+                        {" "}
+                        ——{article.subtitle}
                       </span>
                     )}
                   </p>
-                  <p style={{ fontSize: "0.8rem", color: "#7a6655", margin: 0, lineHeight: 1.55 }}>
+                  <p
+                    style={{
+                      fontSize: "0.8rem",
+                      color: "#7a6655",
+                      margin: 0,
+                      lineHeight: 1.55,
+                    }}
+                  >
                     {article.description}
                   </p>
                 </div>
@@ -163,16 +221,31 @@ export default function TopPage() {
       )}
 
       <section style={{ marginBottom: "2rem" }}>
-        <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: "1rem" }}>
-          <h2 style={{ fontSize: "0.875rem", color: "#aaa", fontWeight: 600 }}>人気の用語</h2>
+        <div
+          style={{
+            display: "flex",
+            alignItems: "baseline",
+            justifyContent: "space-between",
+            marginBottom: "1rem",
+          }}
+        >
+          <h2 style={{ fontSize: "0.875rem", color: "#aaa", fontWeight: 600 }}>
+            人気の用語
+          </h2>
           <Link
             href="/dishes/"
-            style={{ fontSize: "0.75rem", color: "#b45309", textDecoration: "none" }}
+            style={{
+              fontSize: "0.75rem",
+              color: "#b45309",
+              textDecoration: "none",
+            }}
           >
             すべて見る →
           </Link>
         </div>
-        <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+        <div
+          style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}
+        >
           {popularDishes.map((dish) => (
             <DishCard key={dish.id} dish={dish} />
           ))}
@@ -180,7 +253,14 @@ export default function TopPage() {
       </section>
 
       <section>
-        <h2 style={{ fontSize: "0.875rem", color: "#aaa", marginBottom: "0.75rem", fontWeight: 600 }}>
+        <h2
+          style={{
+            fontSize: "0.875rem",
+            color: "#aaa",
+            marginBottom: "0.75rem",
+            fontWeight: 600,
+          }}
+        >
           カテゴリ
         </h2>
         <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>

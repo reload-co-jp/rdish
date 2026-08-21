@@ -1,49 +1,49 @@
 // ローカル限定の画像管理ツール。
 // dishes.json の images を検索・削除できる簡易Web UIを localhost に立てる。
 // 起動: node scripts/admin-server.mjs  (または: pnpm admin)
-import { createServer } from 'node:http'
-import { readFileSync, writeFileSync, existsSync, unlinkSync } from 'node:fs'
-import { join, dirname, extname } from 'node:path'
-import { fileURLToPath } from 'node:url'
+import { createServer } from "node:http"
+import { readFileSync, writeFileSync, existsSync, unlinkSync } from "node:fs"
+import { join, dirname, extname } from "node:path"
+import { fileURLToPath } from "node:url"
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const ROOT = join(__dirname, '..')
-const DISHES_PATH = join(ROOT, 'data', 'dishes.json')
-const DISH_DATES_PATH = join(ROOT, 'data', 'dish-dates.json')
-const PUBLIC_DIR = join(ROOT, 'public')
+const ROOT = join(__dirname, "..")
+const DISHES_PATH = join(ROOT, "data", "dishes.json")
+const DISH_DATES_PATH = join(ROOT, "data", "dish-dates.json")
+const PUBLIC_DIR = join(ROOT, "public")
 const PORT = Number(process.env.PORT) || 4321
-const HOST = '127.0.0.1'
+const HOST = "127.0.0.1"
 
 const MIME = {
-  '.webp': 'image/webp',
-  '.jpg': 'image/jpeg',
-  '.jpeg': 'image/jpeg',
-  '.png': 'image/png',
-  '.gif': 'image/gif',
+  ".webp": "image/webp",
+  ".jpg": "image/jpeg",
+  ".jpeg": "image/jpeg",
+  ".png": "image/png",
+  ".gif": "image/gif",
 }
 
 function loadDishes() {
-  return JSON.parse(readFileSync(DISHES_PATH, 'utf-8'))
+  return JSON.parse(readFileSync(DISHES_PATH, "utf-8"))
 }
 
 function loadDishDates() {
   return existsSync(DISH_DATES_PATH)
-    ? JSON.parse(readFileSync(DISH_DATES_PATH, 'utf-8'))
+    ? JSON.parse(readFileSync(DISH_DATES_PATH, "utf-8"))
     : {}
 }
 
 function saveDishes(dishes) {
-  writeFileSync(DISHES_PATH, JSON.stringify(dishes, null, 2) + '\n')
+  writeFileSync(DISHES_PATH, JSON.stringify(dishes, null, 2) + "\n")
 }
 
 function sendJson(res, status, data) {
   const body = JSON.stringify(data)
-  res.writeHead(status, { 'Content-Type': 'application/json; charset=utf-8' })
+  res.writeHead(status, { "Content-Type": "application/json; charset=utf-8" })
   res.end(body)
 }
 
 function sendHtml(res, html) {
-  res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' })
+  res.writeHead(200, { "Content-Type": "text/html; charset=utf-8" })
   res.end(html)
 }
 
@@ -206,25 +206,25 @@ const server = createServer(async (req, res) => {
   try {
     const url = new URL(req.url, `http://${req.headers.host}`)
 
-    if (req.method === 'GET' && url.pathname === '/') {
+    if (req.method === "GET" && url.pathname === "/") {
       sendHtml(res, PAGE)
       return
     }
 
-    if (req.method === 'GET' && url.pathname === '/api/recent') {
-      const limit = Number(url.searchParams.get('limit')) || 50
-      const offset = Number(url.searchParams.get('offset')) || 0
+    if (req.method === "GET" && url.pathname === "/api/recent") {
+      const limit = Number(url.searchParams.get("limit")) || 50
+      const offset = Number(url.searchParams.get("offset")) || 0
       const dishes = loadDishes()
       const dates = loadDishDates()
       const sorted = [...dishes].sort((a, b) => {
-        const da = dates[a.id] || ''
-        const db = dates[b.id] || ''
+        const da = dates[a.id] || ""
+        const db = dates[b.id] || ""
         return db.localeCompare(da)
       })
       const page = sorted.slice(offset, offset + limit).map((d) => ({
         id: d.id,
         name: d.name,
-        summary: d.summary ?? '',
+        summary: d.summary ?? "",
         images: d.images ?? [],
         updatedAt: dates[d.id] ?? null,
       }))
@@ -235,25 +235,39 @@ const server = createServer(async (req, res) => {
       })
     }
 
-    if (req.method === 'GET' && url.pathname === '/api/search') {
-      const q = (url.searchParams.get('q') || '').trim().toLowerCase()
+    if (req.method === "GET" && url.pathname === "/api/search") {
+      const q = (url.searchParams.get("q") || "").trim().toLowerCase()
       if (!q) return sendJson(res, 200, [])
       const dishes = loadDishes()
       const matched = dishes
-        .filter((d) => d.id.toLowerCase().includes(q) || d.name.toLowerCase().includes(q))
+        .filter(
+          (d) =>
+            d.id.toLowerCase().includes(q) || d.name.toLowerCase().includes(q)
+        )
         .slice(0, 30)
-        .map((d) => ({ id: d.id, name: d.name, summary: d.summary ?? '', images: d.images ?? [] }))
+        .map((d) => ({
+          id: d.id,
+          name: d.name,
+          summary: d.summary ?? "",
+          images: d.images ?? [],
+        }))
       return sendJson(res, 200, matched)
     }
 
-    if (req.method === 'DELETE' && url.pathname.startsWith('/api/dishes/')) {
-      const parts = url.pathname.split('/').filter(Boolean) // api, dishes, :id, images, :n
-      const dishId = decodeURIComponent(parts[2] ?? '')
+    if (req.method === "DELETE" && url.pathname.startsWith("/api/dishes/")) {
+      const parts = url.pathname.split("/").filter(Boolean) // api, dishes, :id, images, :n
+      const dishId = decodeURIComponent(parts[2] ?? "")
       const index = Number(parts[4])
       const dishes = loadDishes()
       const dish = dishes.find((d) => d.id === dishId)
-      if (!dish || !dish.images || !Number.isInteger(index) || index < 1 || index > dish.images.length) {
-        return sendJson(res, 404, { error: 'not found' })
+      if (
+        !dish ||
+        !dish.images ||
+        !Number.isInteger(index) ||
+        index < 1 ||
+        index > dish.images.length
+      ) {
+        return sendJson(res, 404, { error: "not found" })
       }
       const [removed] = dish.images.splice(index - 1, 1)
       const filePath = join(PUBLIC_DIR, removed)
@@ -263,21 +277,26 @@ const server = createServer(async (req, res) => {
     }
 
     // 静的画像配信 (public/images/dishes/...)
-    if (req.method === 'GET' && url.pathname.startsWith('/images/')) {
+    if (req.method === "GET" && url.pathname.startsWith("/images/")) {
       const filePath = join(PUBLIC_DIR, url.pathname)
-      if (!filePath.startsWith(join(PUBLIC_DIR, 'images')) || !existsSync(filePath)) {
+      if (
+        !filePath.startsWith(join(PUBLIC_DIR, "images")) ||
+        !existsSync(filePath)
+      ) {
         res.writeHead(404)
-        res.end('not found')
+        res.end("not found")
         return
       }
       const ext = extname(filePath).toLowerCase()
-      res.writeHead(200, { 'Content-Type': MIME[ext] || 'application/octet-stream' })
+      res.writeHead(200, {
+        "Content-Type": MIME[ext] || "application/octet-stream",
+      })
       res.end(readFileSync(filePath))
       return
     }
 
     res.writeHead(404)
-    res.end('not found')
+    res.end("not found")
   } catch (err) {
     console.error(err)
     sendJson(res, 500, { error: String(err) })
@@ -286,5 +305,5 @@ const server = createServer(async (req, res) => {
 
 server.listen(PORT, HOST, () => {
   console.log(`RDish admin tool: http://${HOST}:${PORT}`)
-  console.log('localhost限定。Ctrl+Cで終了。')
+  console.log("localhost限定。Ctrl+Cで終了。")
 })

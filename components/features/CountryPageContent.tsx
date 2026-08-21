@@ -15,7 +15,9 @@ export function countryTotalPages(count: number) {
 }
 
 export function countryPageUrl(countryId: string, page: number) {
-  return page === 1 ? `/countries/${countryId}/` : `/countries/${countryId}/p/${page}/`
+  return page === 1
+    ? `/countries/${countryId}/`
+    : `/countries/${countryId}/p/${page}/`
 }
 
 const Pagination: FC<{ countryId: string; current: number; total: number }> = ({
@@ -81,7 +83,13 @@ type Props = {
   offset: number
 }
 
-export const CountryPageContent: FC<Props> = ({ countryId, dishes, page, totalCount, offset }) => {
+export const CountryPageContent: FC<Props> = ({
+  countryId,
+  dishes,
+  page,
+  totalCount,
+  offset,
+}) => {
   const total = countryTotalPages(totalCount)
   return (
     <div>
