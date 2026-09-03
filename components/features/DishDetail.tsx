@@ -321,53 +321,85 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
           <div
             style={{ display: "flex", flexDirection: "column", gap: "0.5rem" }}
           >
-            {dish.similarItems.map((s) => (
-              <div
-                key={s.name}
-                style={{
-                  background: "#faf6f0",
-                  border: "1px solid #e8ddd0",
-                  borderRadius: "0.375rem",
-                  padding: "0.625rem 0.875rem",
-                }}
-              >
-                {s.id ? (
-                  <Link
-                    href={`/dishes/${s.id}/`}
-                    style={{
-                      color: "#b45309",
-                      fontWeight: 600,
-                      textDecoration: "none",
-                    }}
-                  >
-                    {s.name}
-                  </Link>
-                ) : (
-                  <span style={{ color: "#2d1f0e", fontWeight: 600 }}>
-                    {s.name}
-                  </span>
-                )}
-                <span style={{ color: "#a89080", fontSize: "0.875rem" }}>
-                  {" "}
-                  — {s.difference}
-                </span>
-                {s.id && comparisonBySlug(comparisonSlug(dish.id, s.id)) && (
-                  <Link
-                    href={comparisonPath(comparisonSlug(dish.id, s.id))}
-                    style={{
-                      color: "#b45309",
-                      display: "inline-block",
-                      fontSize: "0.75rem",
-                      marginLeft: "0.375rem",
-                      textDecoration: "none",
-                      whiteSpace: "nowrap",
-                    }}
-                  >
-                    違いを詳しく →
-                  </Link>
-                )}
-              </div>
-            ))}
+            {dish.similarItems.map((s) => {
+              const similarDish = s.id
+                ? allDishes.find((d) => d.id === s.id)
+                : undefined
+              const thumb = similarDish?.images?.[0]
+              return (
+                <div
+                  key={s.name}
+                  style={{
+                    background: "#faf6f0",
+                    border: "1px solid #e8ddd0",
+                    borderRadius: "0.375rem",
+                    padding: "0.625rem 0.875rem",
+                    display: "flex",
+                    alignItems: "center",
+                    gap: "0.75rem",
+                  }}
+                >
+                  {thumb && (
+                    <div
+                      style={{
+                        position: "relative",
+                        flexShrink: 0,
+                        width: "3rem",
+                        height: "3rem",
+                        borderRadius: "0.375rem",
+                        overflow: "hidden",
+                        background: "#f0e6d6",
+                      }}
+                    >
+                      <Image
+                        src={thumb}
+                        alt={s.name}
+                        fill
+                        style={{ objectFit: "cover" }}
+                        sizes="48px"
+                      />
+                    </div>
+                  )}
+                  <div style={{ flex: 1, minWidth: 0 }}>
+                    {s.id ? (
+                      <Link
+                        href={`/dishes/${s.id}/`}
+                        style={{
+                          color: "#b45309",
+                          fontWeight: 600,
+                          textDecoration: "none",
+                        }}
+                      >
+                        {s.name}
+                      </Link>
+                    ) : (
+                      <span style={{ color: "#2d1f0e", fontWeight: 600 }}>
+                        {s.name}
+                      </span>
+                    )}
+                    <span style={{ color: "#a89080", fontSize: "0.875rem" }}>
+                      {" "}
+                      — {s.difference}
+                    </span>
+                    {s.id && comparisonBySlug(comparisonSlug(dish.id, s.id)) && (
+                      <Link
+                        href={comparisonPath(comparisonSlug(dish.id, s.id))}
+                        style={{
+                          color: "#b45309",
+                          display: "inline-block",
+                          fontSize: "0.75rem",
+                          marginLeft: "0.375rem",
+                          textDecoration: "none",
+                          whiteSpace: "nowrap",
+                        }}
+                      >
+                        違いを詳しく →
+                      </Link>
+                    )}
+                  </div>
+                </div>
+              )
+            })}
           </div>
         </Section>
       )}
