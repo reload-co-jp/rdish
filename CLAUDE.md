@@ -103,5 +103,6 @@ node scripts/remove-image.mjs <dish-id> <n>  # n番目の画像を削除（誤�
 node scripts/remove-image.mjs <dish-id> all  # 画像を全部削除
 pnpm admin  # ローカル限定Web管理ツール起動（http://127.0.0.1:4321 で検索→画像確認→削除）
 node scripts/generate-dish-dates.mjs  # dishes.json 更新コミット後に data/dish-dates.json 再生成（sitemap lastmod 用）
+node scripts/generate-dish-network.mjs  # dishes.json 更新後に public/data/dish-network.json 再生成（/network/ の相関図データ用）
 python3 -c "import json; json.load(open('data/dishes.json')); print('JSON valid')"  # 検証
 ```

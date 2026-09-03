@@ -154,6 +154,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     page("/tags/", "monthly", 0.7),
     page("/collections/", "monthly", 0.7),
     page("/compare/", "weekly", 0.7),
+    page("/network/", "weekly", 0.6),
     page("/llms.txt", "weekly", 0.3),
     page("/llms-full.txt", "weekly", 0.3),
     page("/about/", "yearly", 0.4),
