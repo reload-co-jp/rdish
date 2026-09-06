@@ -170,6 +170,12 @@ for (let i = 0; i < dishes.length; i++) {
   updated.push({ ...dish, images })
   console.log(`${images.length} images`)
 
+  // Checkpoint: persist progress so a kill mid-run doesn't lose downloaded images
+  writeFileSync(
+    DISHES_PATH,
+    JSON.stringify([...updated, ...dishes.slice(i + 1)], null, 2) + "\n"
+  )
+
   await sleep(800)
 }
 
