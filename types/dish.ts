@@ -28,6 +28,7 @@ export type DishItem = {
   regions: {
     area?: string
     country?: string
+    prefecture?: string
     locality?: string
   }[]
   summary: string

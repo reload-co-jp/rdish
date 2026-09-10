@@ -82,6 +82,27 @@ export default async function CountryPage({
   const localities = countryItems.filter((c) =>
     c.label.startsWith(`${item.label}（`)
   )
+  const prefectureGroups: {
+    prefecture: string
+    prefLabel: string
+    prefItem?: (typeof localities)[number]
+    children: typeof localities
+  }[] = []
+  for (const loc of localities) {
+    const detail = loc.label.slice(`${item.label}（`.length, -1)
+    const [prefecture] = detail.split(" ")
+    let group = prefectureGroups.find((g) => g.prefecture === prefecture)
+    if (!group) {
+      group = {
+        prefecture,
+        prefLabel: `${item.label}（${prefecture}）`,
+        children: [],
+      }
+      prefectureGroups.push(group)
+    }
+    if (detail === prefecture) group.prefItem = loc
+    else group.children.push(loc)
+  }
   const combos = combosForCountry(item.id)
   const ingredientCombos = ingredientCombosForCountry(item.id)
 
@@ -167,32 +188,127 @@ export default async function CountryPage({
           {description}
         </p>
       )}
-      {localities.length > 0 && (
-        <div
-          style={{
-            display: "flex",
-            flexWrap: "wrap",
-            gap: "0.375rem 1rem",
-            marginBottom: "1.5rem",
-          }}
-        >
-          {localities.map((loc) => (
-            <Link
-              key={loc.id}
-              href={countryPath(loc.label)}
-              style={{
-                color: "#7a4f2a",
-                fontSize: "0.875rem",
-                textDecoration: "underline",
-                textDecorationColor: "#d4b896",
-                textUnderlineOffset: "3px",
-              }}
-            >
-              {loc.label.replace(`${item.label}（`, "").replace(/）$/, "")}
-            </Link>
-          ))}
-        </div>
-      )}
+      {prefectureGroups.length > 0 &&
+        (() => {
+          const inlinePrefs = prefectureGroups.filter(
+            (p) => p.children.length === 0
+          )
+          const nestedPrefs = prefectureGroups.filter(
+            (p) => p.children.length > 0
+          )
+          return (
+            <div style={{ marginBottom: "1.5rem" }}>
+              {inlinePrefs.length > 0 && (
+                <div
+                  style={{
+                    display: "flex",
+                    flexWrap: "wrap",
+                    gap: "0.375rem 1rem",
+                  }}
+                >
+                  {inlinePrefs.map(({ prefecture, prefLabel, prefItem }) =>
+                    prefItem ? (
+                      <Link
+                        key={prefecture}
+                        href={countryPath(prefLabel)}
+                        style={{
+                          color: "#7a4f2a",
+                          fontSize: "0.875rem",
+                          fontWeight: 600,
+                          textDecoration: "underline",
+                          textDecorationColor: "#d4b896",
+                          textUnderlineOffset: "3px",
+                        }}
+                      >
+                        {prefecture}
+                      </Link>
+                    ) : (
+                      <span
+                        key={prefecture}
+                        style={{
+                          color: "#7a4f2a",
+                          fontSize: "0.875rem",
+                          fontWeight: 600,
+                        }}
+                      >
+                        {prefecture}
+                      </span>
+                    )
+                  )}
+                </div>
+              )}
+              {nestedPrefs.length > 0 && (
+                <div
+                  style={{
+                    display: "flex",
+                    flexDirection: "column",
+                    gap: "0.5rem",
+                    marginTop: inlinePrefs.length > 0 ? "0.75rem" : 0,
+                  }}
+                >
+                  {nestedPrefs.map(
+                    ({ prefecture, prefLabel, prefItem, children }) => (
+                      <div key={prefecture}>
+                        {prefItem ? (
+                          <Link
+                            href={countryPath(prefLabel)}
+                            style={{
+                              color: "#7a4f2a",
+                              fontSize: "0.875rem",
+                              fontWeight: 600,
+                              textDecoration: "underline",
+                              textDecorationColor: "#d4b896",
+                              textUnderlineOffset: "3px",
+                            }}
+                          >
+                            {prefecture}
+                          </Link>
+                        ) : (
+                          <span
+                            style={{
+                              color: "#7a4f2a",
+                              fontSize: "0.875rem",
+                              fontWeight: 600,
+                            }}
+                          >
+                            {prefecture}
+                          </span>
+                        )}
+                        <div
+                          style={{
+                            display: "flex",
+                            flexWrap: "wrap",
+                            gap: "0.375rem 1rem",
+                            marginTop: "0.375rem",
+                            paddingLeft: "1rem",
+                          }}
+                        >
+                          {children.map((loc) => (
+                            <Link
+                              key={loc.id}
+                              href={countryPath(loc.label)}
+                              style={{
+                                color: "#7a4f2a",
+                                fontSize: "0.875rem",
+                                textDecoration: "underline",
+                                textDecorationColor: "#d4b896",
+                                textUnderlineOffset: "3px",
+                              }}
+                            >
+                              {loc.label
+                                .replace(`${item.label}（${prefecture} `, "")
+                                .replace(/）$/, "")}
+                            </Link>
+                          ))}
+                        </div>
+                      </div>
+                    )
+                  )}
+                </div>
+              )}
+            </div>
+          )
+        })()}
       {combos.length > 0 && (
         <div
           style={{

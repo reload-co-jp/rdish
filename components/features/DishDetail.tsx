@@ -118,25 +118,74 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
             >
               {dish.category}
             </Link>
-            {dish.regions.map((r, i) => {
-              const label = regionLabel(r)
-              return (
-                <Link
-                  key={`${label}-${i}`}
-                  href={countryPath(label)}
-                  style={{
-                    fontSize: "0.75rem",
-                    color: "#a89080",
-                    marginRight: "0.375rem",
-                    textDecoration: "underline",
-                    textDecorationColor: "#d4b896",
-                    textUnderlineOffset: "3px",
-                  }}
-                >
-                  {label}
-                </Link>
-              )
-            })}
+            {(() => {
+              const groups: {
+                country?: string
+                area?: string
+                prefecture?: string
+                items: typeof dish.regions
+              }[] = []
+              for (const r of dish.regions) {
+                const g = groups.find(
+                  (x) =>
+                    x.country === r.country &&
+                    x.prefecture === r.prefecture &&
+                    x.area === r.area
+                )
+                if (g) g.items.push(r)
+                else
+                  groups.push({
+                    country: r.country,
+                    area: r.area,
+                    prefecture: r.prefecture,
+                    items: [r],
+                  })
+              }
+              const linkStyle = {
+                color: "#a89080",
+                textDecoration: "underline",
+                textDecorationColor: "#d4b896",
+                textUnderlineOffset: "3px",
+              } as const
+              return groups.map((g, gi) => {
+                if (g.prefecture && g.items.length > 1) {
+                  return (
+                    <span
+                      key={`group-${gi}`}
+                      style={{ marginRight: "0.375rem", fontSize: "0.75rem" }}
+                    >
+                      <span style={{ color: "#a89080" }}>{g.prefecture}（</span>
+                      {g.items.map((r, i) => (
+                        <span key={`${r.locality}-${i}`}>
+                          {i > 0 && "・"}
+                          <Link
+                            href={countryPath(regionLabel(r))}
+                            style={linkStyle}
+                          >
+                            {r.locality}
+                          </Link>
+                        </span>
+                      ))}
+                      <span style={{ color: "#a89080" }}>）</span>
+                    </span>
+                  )
+                }
+                const label = regionLabel(g.items[0])
+                return (
+                  <Link
+                    key={`${label}-${gi}`}
+                    href={countryPath(label)}
+                    style={{
+                      fontSize: "0.75rem",
+                      marginRight: "0.375rem",
+                      ...linkStyle,
+                    }}
+                  >
+                    {label}
+                  </Link>
+                )
+              })
+            })()}
           </div>
         </div>
         <FavoriteButton id={dish.id} />
