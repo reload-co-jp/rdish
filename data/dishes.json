@@ -97828,13 +97828,14 @@
     "orderAdvice": "独特の見た目と食感が特徴。コリコリした歯ごたえや川魚特有の風味が苦手でなければ、炒め物から試すのがおすすめ。",
     "similarItems": [
       {
-        "name": "ウナギ",
-        "difference": "ウナギは脂が多く柔らか。タウナギは鱗がなく身が細くコリコリした食感"
+        "id": "huo-xiang-ji-yu",
+        "name": "藿香鯽魚",
+        "difference": "藿香鯽魚はハーブ・揚げ物が特徴。タウナギは炒め物が特徴"
       },
       {
-        "id": "loach",
-        "name": "ドジョウ",
-        "difference": "ドジョウより体長が長く、輪切り・細切りなど切り方の種類が多い"
+        "id": "pan-long-huang-shan",
+        "name": "盤龍黄鱔",
+        "difference": "盤龍黄鱔は揚げ物・主菜が特徴。タウナギは炒め物が特徴"
       }
     ],
     "relatedIds": [
@@ -100275,13 +100276,14 @@
     "orderAdvice": "ほうとうと同じ山梨の粉食文化に属する素朴な郷土料理。正月や祝い事の際に地元で食べられる縁起物なので、山梨の郷土料理を一通り試したいなら候補に。観光客向けに提供する店は限られる。",
     "similarItems": [
       {
-        "id": "houtou",
-        "name": "ほうとう",
-        "difference": "ほうとうは幅広麺を煮込むのに対し、みみは生地を耳や箕の形に成形した団子状で味噌汁に入れる"
+        "id": "tsumikko-saitama",
+        "name": "つみっこ",
+        "difference": "つみっこはみみと似た小麦の料理"
       },
       {
-        "name": "すいとん",
-        "difference": "すいとんは生地を手でちぎって落とすだけだが、みみは耳や箕の形に丁寧に成形する点が特徴的"
+        "id": "oyomesan-dango-jiru-yamaguchi",
+        "name": "お嫁さん団子汁",
+        "difference": "お嫁さん団子汁はみみと似た小麦の料理"
       }
     ],
     "relatedIds": [
@@ -100419,13 +100421,14 @@
     "caution": "高級食材のため価格が高い。貝類アレルギーの方は注意。",
     "similarItems": [
       {
-        "name": "アワビの踊り焼き",
-        "difference": "踊り焼きは生きたアワビをその場で炭火焼きにするが、煮貝は醤油だれでじっくり煮て保存性を持たせた加工品"
+        "id": "memaki",
+        "name": "めまき",
+        "difference": "めまきはアワビの煮貝と似た魚介の料理"
       },
       {
-        "id": "mefun",
-        "name": "めふん",
-        "difference": "めふんは鮭の腎臓を発酵させた北海道の珍味、煮貝はアワビを醤油で煮た山梨の珍味で系統は異なるが共に郷土の魚介保存食"
+        "id": "kounago-no-kugini-mie",
+        "name": "こうなごのくぎ煮",
+        "difference": "こうなごのくぎ煮はアワビの煮貝と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -100966,9 +100969,9 @@
     "orderAdvice": "紫ナスより甘みが強くとろける食感が好きなら注文しやすい。料理の色を邪魔しないので洋風の一皿にも使われる。",
     "similarItems": [
       {
-        "id": "mukashi-nasu",
-        "name": "昔なす",
-        "difference": "昔なすは紫色の巾着型で煮崩れしにくい在来品種。白なすは白い皮でとろける食感が特徴"
+        "id": "renkon-mochi",
+        "name": "蓮根餅",
+        "difference": "蓮根餅は日本料理・前菜が特徴で、白なすとは異なる"
       }
     ],
     "relatedIds": [
@@ -103210,13 +103213,14 @@
     "caution": "精進料理だが小豆・大根等アレルギーに留意。",
     "similarItems": [
       {
-        "id": "jibuni",
-        "name": "治部煮",
-        "difference": "治部煮は鶏肉ととろみ汁が主役の金沢の日常的な郷土料理。いこと煮は小豆中心の行事用精進料理。"
+        "id": "dadacha-mame",
+        "name": "だだちゃ豆",
+        "difference": "だだちゃ豆は前菜が特徴で、いこと煮とは異なる"
       },
       {
-        "name": "いとこ汁",
-        "difference": "いとこ汁は小豆・豆腐を味噌汁仕立てにした汁物。いこと煮（いとこ煮）は汁気を少なくじっくり煮込んだ煮物。"
+        "id": "itoko-ni-nizai",
+        "name": "いとこ煮／にざい",
+        "difference": "いとこ煮／にざいはいこと煮と似た豆類の料理"
       }
     ],
     "relatedIds": [
@@ -103275,13 +103279,14 @@
     "caution": "内臓に寄生虫リスクがあるため加熱・冷凍済みのものを使用。イカアレルギーに注意。",
     "similarItems": [
       {
-        "name": "ホタルイカの沖漬け",
-        "difference": "沖漬けは生のホタルイカを醤油ベースのたれに漬け込む。酢味噌和えはゆでてから酢味噌で和える。"
+        "id": "saba-nuta",
+        "name": "さばぬた",
+        "difference": "さばぬたは野菜・マリネが特徴で、ほたるいかの酢味噌和えとは異なる"
       },
       {
-        "id": "ika-satoimo-nimono",
-        "name": "いかと里芋の煮もの",
-        "difference": "いかと里芋の煮ものは加熱調理したスルメイカを甘辛く煮込む料理。酢味噌和えは茹でて和えるだけの軽い一品。"
+        "id": "nishin-sansho-zuke",
+        "name": "にしんの山椒漬け",
+        "difference": "にしんの山椒漬けはマリネが特徴で、ほたるいかの酢味噌和えとは異なる"
       }
     ],
     "relatedIds": [
@@ -103341,14 +103346,14 @@
     "caution": "魚（ブリ）アレルギーに注意。",
     "similarItems": [
       {
-        "id": "burishabu",
-        "name": "ぶりしゃぶ",
-        "difference": "ぶりしゃぶは薄切りブリを出汁でしゃぶしゃぶにするあっさり系。ぶり大根はあらを甘辛く煮込む濃厚な一品。"
+        "id": "hansuke-dofu",
+        "name": "半助豆腐",
+        "difference": "半助豆腐はぶり大根と似た魚介の料理"
       },
       {
-        "id": "kaburazushi",
-        "name": "かぶらずし",
-        "difference": "かぶらずしはブリをかぶらで挟み発酵させたなれずし。ぶり大根は加熱調理した煮物。"
+        "id": "funa-miso",
+        "name": "ふな味噌",
+        "difference": "ふな味噌はぶり大根と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -103411,13 +103416,14 @@
     "caution": "小豆・大根等アレルギーに留意。",
     "similarItems": [
       {
-        "id": "ikoto-ni",
-        "name": "いこと煮（石川）",
-        "difference": "石川のいこと煮も同じ報恩講の行事食だが、富山版は「にざい」とも呼ばれ具材の切り方がやや大きい。"
+        "id": "dadacha-mame",
+        "name": "だだちゃ豆",
+        "difference": "だだちゃ豆は前菜が特徴で、いとこ煮／にざいとは異なる"
       },
       {
-        "name": "筑前煮",
-        "difference": "筑前煮は鶏肉と根菜を炒めてから煮る福岡の料理。いとこ煮は小豆が必ず入る精進寄りの行事食。"
+        "id": "okuzukake",
+        "name": "おくずかけ",
+        "difference": "おくずかけはスープが特徴で、いとこ煮／にざいとは異なる"
       }
     ],
     "relatedIds": [
@@ -103475,13 +103481,14 @@
     "orderAdvice": "シンプルながら富山らしさが強い一品。軽食として気軽に楽しめる。",
     "similarItems": [
       {
-        "name": "海苔のおにぎり",
-        "difference": "海苔のおにぎりは全国標準。とろろ昆布のおにぎりは富山特有で時間が経っても昆布がふやけずしっとり感を保つ。"
+        "id": "gohei-mochi",
+        "name": "五平餅",
+        "difference": "五平餅は焼き物が特徴で、とろろ昆布のおにぎりとは異なる"
       },
       {
-        "id": "konbujime",
-        "name": "昆布〆",
-        "difference": "昆布〆は刺身を昆布で挟んで熟成させる料理。とろろ昆布のおにぎりは削り出した昆布をまとわせるだけの軽食。"
+        "id": "yakitsuke-toyama",
+        "name": "焼き付け",
+        "difference": "焼き付けはとろろ昆布のおにぎりと似た米の料理"
       }
     ],
     "relatedIds": [
@@ -103670,13 +103677,14 @@
     "caution": "魚（ニシン）アレルギーに注意。",
     "similarItems": [
       {
-        "name": "にしんの昆布巻き（全国）",
-        "difference": "全国的な昆布巻きも同様の料理だが、富山ではホタルイカやブリなど旬の魚を使う地域差がある。"
+        "id": "hansuke-dofu",
+        "name": "半助豆腐",
+        "difference": "半助豆腐は昆布巻きと似た魚介の料理"
       },
       {
-        "id": "kaburazushi",
-        "name": "かぶらずし",
-        "difference": "かぶらずしは発酵させるなれずし。昆布巻きは加熱して甘辛く煮込む点が異なる。"
+        "id": "funa-miso",
+        "name": "ふな味噌",
+        "difference": "ふな味噌は昆布巻きと似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -103934,13 +103942,14 @@
     "orderAdvice": "クセがなく箸休めに最適。酸味の効いた副菜が好みなら気軽に楽しめる。",
     "similarItems": [
       {
-        "name": "なます",
-        "difference": "なますは大根と人参の生の甘酢和えが一般的。おすわいは厚揚げを加えだしで炊く工程がある点が異なる。"
+        "id": "hiyashi-chuka",
+        "name": "冷やし中華",
+        "difference": "冷やし中華は小麦・麺料理が特徴で、おすわい／すばいとは異なる"
       },
       {
-        "id": "su-zuki",
-        "name": "酢ずき",
-        "difference": "酢ずきはずいき（里芋の茎）を使う富山の酢の物。おすわいは大根・人参・厚揚げを使う。"
+        "id": "zuiki",
+        "name": "ずいき",
+        "difference": "ずいきは前菜が特徴で、おすわい／すばいとは異なる"
       }
     ],
     "relatedIds": [
@@ -104123,13 +104132,14 @@
     "caution": "魚（ブリ）アレルギーに注意。",
     "similarItems": [
       {
-        "name": "しゃぶしゃぶ（牛肉）",
-        "difference": "一般的なしゃぶしゃぶは牛肉が主役。ぶりしゃぶは富山特産のブリを使う魚介版。"
+        "id": "tetchiri",
+        "name": "てっちり",
+        "difference": "てっちりは煮込みが特徴で、ぶりしゃぶとは異なる"
       },
       {
-        "id": "buri-daikon",
-        "name": "ぶり大根",
-        "difference": "ぶり大根はあらを甘辛く煮込む濃厚な料理。ぶりしゃぶは薄切り身をさっと湯通しするあっさり系。"
+        "id": "hamo-nabe",
+        "name": "鱧鍋",
+        "difference": "鱧鍋は煮込みが特徴で、ぶりしゃぶとは異なる"
       }
     ],
     "relatedIds": [
@@ -104190,13 +104200,14 @@
     "caution": "イカアレルギーに注意。",
     "similarItems": [
       {
-        "name": "いかと大根の煮物",
-        "difference": "いかと大根の煮物は全国的な家庭料理。いかと里芋の煮ものは富山特産の里芋を使う点が特徴。"
+        "id": "hansuke-dofu",
+        "name": "半助豆腐",
+        "difference": "半助豆腐はいかと里芋の煮ものと似た魚介の料理"
       },
       {
-        "id": "buri-daikon",
-        "name": "ぶり大根",
-        "difference": "ぶり大根は魚のあらと大根を煮込む。いかと里芋の煮ものはイカと里芋の組み合わせ。"
+        "id": "funa-miso",
+        "name": "ふな味噌",
+        "difference": "ふな味噌はいかと里芋の煮ものと似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -104382,14 +104393,14 @@
     "orderAdvice": "地域や家庭で内容が異なる行事食の総称。単品ではなく11月28日前後の報恩講の機会に出会う料理群として捉えるとよい。",
     "similarItems": [
       {
-        "id": "itoko-ni-nizai",
-        "name": "いとこ煮／にざい",
-        "difference": "いとこ煮／にざいは報恩講料理を構成する一品。報恩講料理はそれを含む御膳全体の総称。"
+        "id": "tempura",
+        "name": "天ぷら",
+        "difference": "天ぷらは魚介・揚げ物が特徴で、報恩講料理とは異なる"
       },
       {
-        "id": "ikoto-ni",
-        "name": "いこと煮（石川）",
-        "difference": "石川のいこと煮も同じ報恩講由来の一品料理。報恩講料理は富山における御膳全体を指す総称的な呼び方。"
+        "id": "daikon",
+        "name": "大根",
+        "difference": "大根は煮込みが特徴で、報恩講料理とは異なる"
       }
     ],
     "relatedIds": [
@@ -104578,13 +104589,14 @@
     "caution": "エビアレルギーに注意。",
     "similarItems": [
       {
-        "name": "にゅうめん",
-        "difference": "にゅうめんは温かいそうめんの総称。白えび素干だしのそうめんは白えびだしを使う富山特有の一杯。"
+        "id": "tai-somen-kumamoto",
+        "name": "鯛そうめん",
+        "difference": "鯛そうめんは煮込みが特徴で、白えび素干だしのそうめんとは異なる"
       },
       {
-        "id": "shiroebi-kakiage",
-        "name": "白えびのかき揚げ",
-        "difference": "かき揚げは白えびを揚げる料理。そうめんはだしとして白えびの旨みを活かす点が異なる。"
+        "id": "ebizakko",
+        "name": "えびざっこ",
+        "difference": "えびざっこは煮込みが特徴で、白えび素干だしのそうめんとは異なる"
       }
     ],
     "relatedIds": [
@@ -104710,13 +104722,14 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "id": "kajika-jiru",
-        "name": "鰍汁",
-        "difference": "鰍汁はカジカという川魚を使う富山・石川の郷土汁物。げんげの味噌汁は深海魚ゲンゲを使う点が異なる。"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは野菜・煮込みが特徴で、げんげの味噌汁とは異なる"
       },
       {
-        "name": "どじょう汁",
-        "difference": "どじょう汁はどじょうを使う汁物。げんげの味噌汁はゼラチン質豊かなゲンゲ特有のとろみが特徴。"
+        "id": "senba-jiru",
+        "name": "船場汁",
+        "difference": "船場汁は煮込みが特徴で、げんげの味噌汁とは異なる"
       }
     ],
     "relatedIds": [
@@ -104773,13 +104786,14 @@
     "orderAdvice": "出産祝いの行事食のため一般には出会いにくい。富山の暮らしの知恵が詰まった料理として興味深い。",
     "similarItems": [
       {
-        "name": "つみれ汁",
-        "difference": "つみれ汁は魚のすり身団子を使う汁物。三日の団子汁はもち粉の団子とずいきを使う出産祝いの行事食。"
+        "id": "haba-zouni-chiba",
+        "name": "はば雑煮",
+        "difference": "はば雑煮は魚介・焼き物が特徴で、三日の団子汁とは異なる"
       },
       {
-        "id": "su-zuki",
-        "name": "酢ずき",
-        "difference": "酢ずきはずいきを酢漬けにする常備菜。三日の団子汁はずいきを味噌汁の具として使う点が異なる。"
+        "id": "koikoku-nagano",
+        "name": "鯉こく",
+        "difference": "鯉こくは豆類・煮込みが特徴で、三日の団子汁とは異なる"
       }
     ],
     "relatedIds": [
@@ -104836,13 +104850,14 @@
     "orderAdvice": "かつて立山信仰の宿坊で振る舞われた精進料理。立山町の食事処で今も味わえるので登山の折に試したい。",
     "similarItems": [
       {
-        "name": "ぜんまいの煮物",
-        "difference": "ぜんまいの煮物はぜんまいを主役にした山菜料理全般。つぼ煮はくごみを使い専用のつぼ椀に盛る点が特徴。"
+        "id": "daikon",
+        "name": "大根",
+        "difference": "大根はつぼ煮と似た野菜の料理"
       },
       {
-        "id": "jibuni",
-        "name": "治部煮",
-        "difference": "治部煮は鶏肉ととろみ汁が主役の金沢の郷土料理。つぼ煮は精進由来で肉を使わない山菜煮物。"
+        "id": "imoni",
+        "name": "芋煮",
+        "difference": "芋煮は牛肉・鍋料理が特徴で、つぼ煮とは異なる"
       }
     ],
     "relatedIds": [
@@ -105223,13 +105238,14 @@
     "caution": "魚（マス）アレルギーに注意。",
     "similarItems": [
       {
-        "name": "柿の葉寿司（奈良）",
-        "difference": "奈良の柿の葉寿司はサバや鮭を使い押し寿司にする。智頭町のものは塩マスを使い握り寿司に近い。"
+        "id": "osezushi",
+        "name": "おせずし",
+        "difference": "おせずしは柿の葉寿司と似た魚介の料理"
       },
       {
-        "id": "masuzushi",
-        "name": "ます寿司",
-        "difference": "ます寿司はマスを押し固める富山の押し寿司。柿の葉寿司は柿の葉で包む一口サイズの寿司。"
+        "id": "myoga-zushi",
+        "name": "みょうが寿司",
+        "difference": "みょうが寿司は柿の葉寿司と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -105600,13 +105616,14 @@
     "orderAdvice": "アク抜きに半月以上かかる手間のかかる伝統食材。独特な渋みが好きなら山村の知恵を味わえる。",
     "similarItems": [
       {
-        "id": "kuromame-okowa",
-        "name": "黒豆おこわ",
-        "difference": "黒豆おこわはもち米に黒豆を混ぜて蒸すおこわ。栃餅は栃の実をもち米と搗いて餅にする点が異なる。"
+        "id": "wakasa-no-oyaki",
+        "name": "若桜のおやき",
+        "difference": "若桜のおやきは栃餅と似た米の料理"
       },
       {
-        "name": "栗餅",
-        "difference": "栗餅は栗を混ぜ込んだ甘い餅が一般的。栃餅は栃の実特有の渋みとほろ苦さが持ち味。"
+        "id": "oshimon",
+        "name": "おしもん",
+        "difference": "おしもんは栃餅と似た米の料理"
       }
     ],
     "relatedIds": [
@@ -105788,13 +105805,14 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "一般的なちくわ",
-        "difference": "一般的なちくわはスケトウダラなどを使う。あごちくわはトビウオを使い色濃く香ばしいのが特徴。"
+        "id": "takoyaki",
+        "name": "たこ焼き",
+        "difference": "たこ焼きは前菜が特徴で、あごちくわとは異なる"
       },
       {
-        "id": "toufu-chikuwa",
-        "name": "とうふちくわ",
-        "difference": "とうふちくわは豆腐を主体に混ぜ込む。あごちくわはトビウオのすり身のみでつくる点が異なる。"
+        "id": "kabayaki",
+        "name": "蒲焼き",
+        "difference": "蒲焼きは主菜が特徴で、あごちくわとは異なる"
       }
     ],
     "relatedIds": [
@@ -105920,13 +105938,14 @@
     "caution": "イカアレルギーに注意。",
     "similarItems": [
       {
-        "id": "kurozukuri",
-        "name": "黒造り",
-        "difference": "黒造りはイカスミを使う塩辛の一種。スルメの麹漬けは干したイカを麹で漬け込む発酵食品で味わいが異なる。"
+        "id": "heshiko-fukui",
+        "name": "へしこ",
+        "difference": "へしこはスルメの麹漬けと似た魚介の料理"
       },
       {
-        "name": "松前漬け",
-        "difference": "松前漬けはスルメと昆布を醤油ベースで漬ける北海道の料理。スルメの麹漬けは麹による発酵が特徴。"
+        "id": "heshiko-kyoto",
+        "name": "へしこ",
+        "difference": "へしこはスルメの麹漬けと似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -106047,13 +106066,14 @@
     "caution": "魚（イワシ）・卵アレルギーに注意。",
     "similarItems": [
       {
-        "name": "つみれ汁",
-        "difference": "つみれ汁はいわし団子を汁物にした食べ方の一つ。いわし団子自体は煮物や単品としても供される。"
+        "id": "39-3-osaka",
+        "name": "ばらずし",
+        "difference": "ばらずしは卵・揚げ物が特徴。いわし団子は煮込みが特徴"
       },
       {
-        "id": "surimi-age",
-        "name": "すり身揚げ",
-        "difference": "すり身揚げは魚のすり身を揚げる富山の料理。いわし団子はイワシをたたいて煮る点が異なる。"
+        "id": "41-6-okayama",
+        "name": "とどめせ",
+        "difference": "とどめせは鶏肉が特徴で、いわし団子とは異なる"
       }
     ],
     "relatedIds": [
@@ -106173,13 +106193,14 @@
     "caution": "甲殻類アレルギーに注意。",
     "similarItems": [
       {
-        "id": "oyagani-no-misoshiru",
-        "name": "親ガニのみそ汁",
-        "difference": "親ガニのみそ汁は海のズワイガニを丸ごと煮込む。がんちゃ汁は川ガニをすりつぶして固める点が全く異なる調理法。"
+        "id": "kajika-jiru",
+        "name": "鰍汁",
+        "difference": "鰍汁はがんちゃ汁と似た魚介の料理"
       },
       {
-        "name": "カニ豆腐（がん汁）",
-        "difference": "モクズガニを使う類似の郷土料理は九州にもあるが、がんちゃ汁は鳥取特有の呼び名と調理法を持つ。"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは野菜・煮込みが特徴で、がんちゃ汁とは異なる"
       }
     ],
     "relatedIds": [
@@ -106237,13 +106258,14 @@
     "caution": "鶏肉・大豆アレルギーに注意。",
     "similarItems": [
       {
-        "id": "jibuni",
-        "name": "治部煮",
-        "difference": "治部煮はとろみをつけた金沢の郷土料理。じゃぶはとろみをつけずさらっと煮込む鳥取の鍋料理。"
+        "id": "imotaki-ehime",
+        "name": "いもたき",
+        "difference": "いもたきは野菜が特徴で、じゃぶとは異なる"
       },
       {
-        "name": "寄せ鍋",
-        "difference": "寄せ鍋は様々な具材を自由に入れる一般的な鍋。じゃぶは鶏肉・豆腐・根菜が定番の郷土色が強い鍋。"
+        "id": "niku-soba",
+        "name": "肉そば",
+        "difference": "肉そばは麺料理が特徴。じゃぶは鍋料理が特徴"
       }
     ],
     "relatedIds": [
@@ -106367,13 +106389,14 @@
     "caution": "魚（ハタハタ）・大豆アレルギーに注意。",
     "similarItems": [
       {
-        "name": "ハタハタ寿司（秋田）",
-        "difference": "秋田のハタハタ寿司は麹で発酵させるなれずし。鳥取のハタハタ寿司はおからを詰め発酵させない点が異なる。"
+        "id": "osezushi",
+        "name": "おせずし",
+        "difference": "おせずしはハタハタ寿司と似た魚介の料理"
       },
       {
-        "id": "kaburazushi",
-        "name": "かぶらずし",
-        "difference": "かぶらずしは発酵させるなれずし。ハタハタ寿司はおからを使いさっぱりとした仕上がり。"
+        "id": "masuzushi",
+        "name": "ます寿司",
+        "difference": "ます寿司はハタハタ寿司と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -106492,13 +106515,14 @@
     "caution": "魚（サバ）アレルギーに注意。",
     "similarItems": [
       {
-        "name": "鯖の味噌煮",
-        "difference": "鯖の味噌煮は生のサバを味噌だれで煮る。焼き鯖の煮付けは焼いてからほぐして煮る点が異なる。"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは野菜・スープが特徴で、焼き鯖の煮付けとは異なる"
       },
       {
-        "id": "buri-daikon",
-        "name": "ぶり大根",
-        "difference": "ぶり大根はブリのあらと大根を煮込む。焼き鯖の煮付けは焼きサバと玉ねぎを使う点が異なる。"
+        "id": "tetchiri",
+        "name": "てっちり",
+        "difference": "てっちりは鍋料理が特徴で、焼き鯖の煮付けとは異なる"
       }
     ],
     "relatedIds": [
@@ -106619,13 +106643,14 @@
     "orderAdvice": "約400年続く若桜神社大祭のおもてなし料理。長野のおやきとは全く違うもち生地タイプで興味深い。",
     "similarItems": [
       {
-        "name": "おやき（長野）",
-        "difference": "長野のおやきは小麦粉やそば粉の生地に野菜などを包む。若桜のおやきはもち米・うるち米の粉であん入りの甘い菓子。"
+        "id": "tochi-mochi-tottori",
+        "name": "栃餅",
+        "difference": "栃餅は若桜のおやきと似た米の料理"
       },
       {
-        "id": "yakitsuke-toyama",
-        "name": "焼き付け",
-        "difference": "焼き付けはもち粉によもぎを練り味噌だれを塗る富山の軽食。若桜のおやきはあんを包む点が異なる。"
+        "id": "oshimon",
+        "name": "おしもん",
+        "difference": "おしもんは若桜のおやきと似た米の料理"
       }
     ],
     "relatedIds": [
@@ -107186,13 +107211,14 @@
     "orderAdvice": "4月下旬から5月中旬の金沢産たけのこの出荷最盛期に、金沢市内の飲食店や家庭で味わえる。毎春の「たけのこまつり」でも紹介される。",
     "similarItems": [
       {
-        "id": "takenoko-no-misoni",
-        "name": "たけのこの味噌煮",
-        "difference": "たけのこの味噌煮は味噌ベースで煮るが、たけのこ昆布は醤油とみりん、昆布の出汁で煮る点が異なる"
+        "id": "dadacha-mame",
+        "name": "だだちゃ豆",
+        "difference": "だだちゃ豆は豆類が特徴で、たけのこ昆布とは異なる"
       },
       {
-        "name": "たけのこの土佐煮",
-        "difference": "土佐煮はかつお節を効かせた煮物だが、たけのこ昆布は昆布の旨みを主体にする"
+        "id": "arame",
+        "name": "あらめ",
+        "difference": "あらめはたけのこ昆布と似た野菜の料理"
       }
     ],
     "relatedIds": [
@@ -107434,13 +107460,14 @@
     "orderAdvice": "お正月をはじめ新潟県内全域で通年食べられる家庭の常備菜。魚沼地方では身欠きニシンを加えた形で親しまれている。",
     "similarItems": [
       {
-        "name": "わらびの煮物",
-        "difference": "わらびの煮物は別の山菜わらびを使い食感がぬめり気味だが、ぜんまいの煮物は干して戻すためとろみのある独特の食感になる"
+        "id": "dadacha-mame",
+        "name": "だだちゃ豆",
+        "difference": "だだちゃ豆は豆類が特徴で、ぜんまいの煮物とは異なる"
       },
       {
-        "id": "takenoko-no-misoni",
-        "name": "たけのこの味噌煮",
-        "difference": "たけのこの味噌煮は味噌ベースで煮るが、ぜんまいの煮物は醤油ベースでだしをきかせて煮る"
+        "id": "arame",
+        "name": "あらめ",
+        "difference": "あらめはぜんまいの煮物と似た野菜の料理"
       }
     ],
     "relatedIds": [
@@ -107496,14 +107523,14 @@
     "orderAdvice": "4月から6月の島田たけのこ出荷最盛期に、島根県内の直売所や飲食店で味わえる。家庭でのたけのこ堀りも春の習慣。",
     "similarItems": [
       {
-        "id": "takenoko-no-misoni",
-        "name": "たけのこの味噌煮",
-        "difference": "たけのこの味噌煮は味噌で煮るが、たけのこ山椒煮はかつお出汁と醤油で煮て山椒の香りを効かせる"
+        "id": "tenmon-dou-chiba",
+        "name": "てんもんどう",
+        "difference": "てんもんどうはたけのこ山椒煮と似た野菜の料理"
       },
       {
-        "id": "takenoko-konbu",
-        "name": "たけのこ昆布",
-        "difference": "たけのこ昆布は昆布の旨みを主体にするが、たけのこ山椒煮はかつお出汁と山椒の風味が特徴"
+        "id": "dadacha-mame",
+        "name": "だだちゃ豆",
+        "difference": "だだちゃ豆は豆類が特徴。たけのこ山椒煮はスパイスが特徴"
       }
     ],
     "relatedIds": [
@@ -107561,13 +107588,14 @@
     "orderAdvice": "豊岡市竹野地域や香美町で、サバがよく取れる春や秋に家庭で作られる。漁から戻った後の朝食としても食べられてきた。",
     "similarItems": [
       {
-        "name": "サバのすき焼き",
-        "difference": "一般的なサバのすき焼きはすき焼き鍋で調理するが、さばのじゃうは頭と骨から取った自家製出汁を使う漁師町ならではの調理法"
+        "id": "hamo-nabe-osaka",
+        "name": "ハモ鍋",
+        "difference": "ハモ鍋はさばのじゃうと似た魚介の料理"
       },
       {
-        "id": "kajika-jiru",
-        "name": "鰍汁",
-        "difference": "鰍汁はカジカという別の魚を使った汁物だが、さばのじゃうはサバを使った具だくさんの寄せ鍋"
+        "id": "hamosuki-hyogo",
+        "name": "ハモすき",
+        "difference": "ハモすきはさばのじゃうと似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -107691,13 +107719,14 @@
     "orderAdvice": "わらびが収穫される5月から7月に、山形県北部の家庭や郷土料理店でご飯や蕎麦の付け合わせとして味わえる。",
     "similarItems": [
       {
-        "name": "わらびのおひたし",
-        "difference": "おひたしはわらびをそのまま出汁醤油で和えるが、わらびたたきは叩いて繊維を断ち切りとろとろの食感に仕上げる"
+        "id": "dadacha-mame",
+        "name": "だだちゃ豆",
+        "difference": "だだちゃ豆は豆類・煮込みが特徴で、わらびたたきとは異なる"
       },
       {
-        "id": "zenmai-no-nimono",
-        "name": "ぜんまいの煮物",
-        "difference": "ぜんまいの煮物は干した山菜を出汁で煮含めるが、わらびたたきは生のわらびを叩いて味噌で和える"
+        "id": "dengaku",
+        "name": "田楽",
+        "difference": "田楽は焼き物が特徴で、わらびたたきとは異なる"
       }
     ],
     "relatedIds": [
@@ -107757,13 +107786,14 @@
     "orderAdvice": "端午の節句の時期に名古屋市・尾張地域の和菓子屋で購入できる。男子の初節句祝いのお返しとして重箱で配る風習もある。",
     "similarItems": [
       {
-        "id": "kuromame-okowa",
-        "name": "黒豆おこわ",
-        "difference": "黒豆おこわは黒豆のみを炊き込むが、黄いないおこわはくちなしの実で黄色く染める点が特徴"
+        "id": "yakome-yamanashi",
+        "name": "やこめ",
+        "difference": "やこめは黄いないおこわと似た米の料理"
       },
       {
-        "name": "赤飯",
-        "difference": "赤飯は小豆やささげで赤く色づけるが、黄いないおこわは高級だった赤飯の代わりにくちなしで黄色く色づけたのが起源とされる"
+        "id": "kuri-okowa-saga",
+        "name": "栗おこわ",
+        "difference": "栗おこわは黄いないおこわと似た米の料理"
       }
     ],
     "relatedIds": [
@@ -107821,13 +107851,14 @@
     "orderAdvice": "4月から5月のうすいえんどう収穫期に、和歌山県中部地域の家庭料理として食べられる。子どもにも好まれる素朴な一品。",
     "similarItems": [
       {
-        "name": "グリーンピースご飯",
-        "difference": "一般的なグリーンピースご飯は既製の冷凍豆を使うことが多いが、和歌山の豆ごはんは地域団体商標「紀州うすい」の生豆を使う"
+        "id": "fuki-dawara",
+        "name": "ふき俵",
+        "difference": "ふき俵は豆ごはんと似た豆類の料理"
       },
       {
-        "id": "takenoko-gohan-miyagi",
-        "name": "たけのこご飯",
-        "difference": "たけのこご飯はたけのこと醤油ベースの炊き込みご飯だが、豆ごはんは塩味でうすいえんどうのみを炊き込むシンプルな料理"
+        "id": "kiinai-okowa",
+        "name": "黄いないおこわ",
+        "difference": "黄いないおこわは蒸し料理が特徴で、豆ごはんとは異なる"
       }
     ],
     "relatedIds": [
@@ -107947,13 +107978,14 @@
     "orderAdvice": "4月下旬から6月初旬にかけて庄内地域の家庭や飲食店で味わえる。湯田川温泉では「孟宗まつり」も開催される。",
     "similarItems": [
       {
-        "name": "たけのこ汁",
-        "difference": "一般的なたけのこ汁はだし醤油ベースが多いが、孟宗汁は酒粕と味噌を合わせたコクのある汁が特徴"
+        "id": "toyama-kabu-no-kasujiru-yamagata",
+        "name": "遠山かぶの粕汁",
+        "difference": "遠山かぶの粕汁は豆類が特徴で、孟宗汁とは異なる"
       },
       {
-        "id": "takenoko-no-misoni",
-        "name": "たけのこの味噌煮",
-        "difference": "たけのこの味噌煮は汁気の少ない煮物だが、孟宗汁は酒粕仕立ての汁物"
+        "id": "shokkara-jiru-tokyo",
+        "name": "しょっから汁",
+        "difference": "しょっから汁は魚介が特徴で、孟宗汁とは異なる"
       }
     ],
     "relatedIds": [
@@ -108843,14 +108875,14 @@
     "caution": "発酵・熟成させる工程があるため、購入後は表示の消費期限を確認。",
     "similarItems": [
       {
-        "id": "kaburazushi",
-        "name": "かぶら寿司",
-        "difference": "かぶら寿司はかぶらとブリを麹で漬け込む発酵ずしで、ハタハタ寿司は魚におからを詰める点が異なる。"
+        "id": "saba-nuta",
+        "name": "さばぬた",
+        "difference": "さばぬたは野菜が特徴。ハタハタ寿司は豆類が特徴"
       },
       {
-        "id": "masuzushi",
-        "name": "ますずし",
-        "difference": "ますずしは押しずしの一種だが、ハタハタ寿司は魚の腹に具を詰める独自のスタイル。"
+        "id": "nishin-sansho-zuke",
+        "name": "にしんの山椒漬け",
+        "difference": "にしんの山椒漬けはハタハタ寿司と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -109416,13 +109448,14 @@
     "caution": "発酵臭が強く好みが分かれる。ニゴロブナの減少により希少で高価になっている。",
     "similarItems": [
       {
-        "id": "kaburazushi",
-        "name": "かぶら寿司",
-        "difference": "かぶら寿司は麹で短期間漬け込む発酵ずしだが、ふなずしは数ヶ月かけて発酵させる本格的ななれずしである点が異なる。"
+        "id": "hinezushi-ishikawa",
+        "name": "ひねずし",
+        "difference": "ひねずしはふなずしと似た魚介の料理"
       },
       {
-        "name": "くさや",
-        "difference": "独特の発酵臭を持つ魚の加工品という点は共通するが、くさやは干物、ふなずしは飯とともに発酵させるなれずしである。"
+        "id": "narezushi-mie",
+        "name": "なれずし",
+        "difference": "なれずしはふなずしと似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -109603,9 +109636,9 @@
     "orderAdvice": "3月上旬〜5月上旬の京たけのこ最盛期に京都市・山城地域の料亭や家庭で味わえる。木の芽の香りが立つ早めの時期が狙い目。",
     "similarItems": [
       {
-        "id": "takenoko-no-misoni",
-        "name": "たけのこの味噌煮",
-        "difference": "味噌煮は加熱調理した煮物だが、木の芽和えは和え物で木の芽の香りを生かす点が異なる"
+        "id": "dashi-yamagata",
+        "name": "だし",
+        "difference": "だしはたけのこの木の芽和えと似た野菜の料理"
       }
     ],
     "relatedIds": [
@@ -110670,9 +110703,9 @@
     "orderAdvice": "3月3日のひな祭り前後、春の時期に香川県内全域の家庭や郷土料理店で味わえる。小豆郡豊島では「ぐるぐる」という独自の巻き方もある。",
     "similarItems": [
       {
-        "id": "senbuki-mage",
-        "name": "せんぶきまげ（福岡県）",
-        "difference": "福岡のせんぶきまげはタニシと合わせ折り曲げて盛るが、わけぎあえはタコと合わせ白味噌酢で和える点が異なる"
+        "id": "ryukyu-no-sunomono-kochi",
+        "name": "りゅうきゅうの酢の物",
+        "difference": "りゅうきゅうの酢の物は前菜が特徴。わけぎあえはサラダが特徴"
       }
     ],
     "relatedIds": [
@@ -114844,13 +114877,14 @@
     "orderAdvice": "夏場に甲府の郷土料理店やほうとう専門店で提供。冬のほうとうと対比して楽しめる。",
     "similarItems": [
       {
-        "name": "ほうとう",
-        "id": "houtou",
-        "difference": "ほうとうは熱いつゆで煮込むが、おざらは麺を一度冷やしてつけ麺スタイルで食べる"
+        "id": "hiyashi-chuka",
+        "name": "冷やし中華",
+        "difference": "冷やし中華は野菜が特徴で、おざらとは異なる"
       },
       {
-        "name": "冷やしうどん",
-        "difference": "うどんではなくほうとう用の幅広麺を使う点が異なる"
+        "id": "udon",
+        "name": "うどん",
+        "difference": "うどんはスープが特徴。おざらは麺料理が特徴"
       }
     ],
     "relatedIds": [
@@ -114964,9 +114998,9 @@
     "orderAdvice": "お盆前後に坂井地域の和菓子店や食文化保存団体のイベントで入手できることがある。",
     "similarItems": [
       {
-        "name": "おはぎ",
-        "id": "ohagi-kyoto",
-        "difference": "おはぎは餅米を粒あんで包むが、とびつき団子は生地に豆を練り込んで蒸す点が異なる"
+        "id": "kashiwa-mochi-fukui",
+        "name": "柏餅",
+        "difference": "柏餅はとびつき団子と似た豆類の料理"
       }
     ],
     "relatedIds": [
@@ -115140,9 +115174,9 @@
     "caution": "ホヤ・貝類アレルギーに注意。",
     "similarItems": [
       {
-        "name": "ホヤの酢の物",
-        "id": "hoya-no-sunomono-miyagi",
-        "difference": "宮城の酢の物は酢で味付けするが、水物は昆布出汁ベースでミズと合わせる点が異なる"
+        "id": "ryukyu-no-sunomono-kochi",
+        "name": "りゅうきゅうの酢の物",
+        "difference": "りゅうきゅうの酢の物はミズとホヤの水物と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -115318,9 +115352,9 @@
     "caution": "貝類・魚介アレルギーに注意。",
     "similarItems": [
       {
-        "name": "ミズとホヤの水物",
-        "id": "mizu-hoya-mizumono-aomori",
-        "difference": "青森の水物は山菜ミズと合わせ昆布出汁で和えるが、こちらは酢の物として単独で提供"
+        "id": "tessa",
+        "name": "てっさ",
+        "difference": "てっさはホヤの酢の物と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -115608,13 +115642,14 @@
     "orderAdvice": "霞ヶ浦周辺の郷土料理店や祝いの席で提供。鰻が高級食材のため提供機会は限られる。",
     "similarItems": [
       {
-        "name": "八目鰻",
-        "id": "yatsume-unagi",
-        "difference": "ヤツメウナギは別の魚類で調理法・味も異なる"
+        "id": "funa-miso",
+        "name": "ふな味噌",
+        "difference": "ふな味噌はうなぎの帆引き煮と似た魚介の料理"
       },
       {
-        "name": "うな丼",
-        "difference": "うな丼はご飯にのせるが、帆引き煮は器に盛り帆引き船を模した演出が特徴"
+        "id": "nishin-to-takenoko-no-nitsuke",
+        "name": "ニシンとタケノコの煮付け",
+        "difference": "ニシンとタケノコの煮付けは野菜が特徴で、うなぎの帆引き煮とは異なる"
       }
     ],
     "relatedIds": [
@@ -116109,9 +116144,9 @@
     "orderAdvice": "晩秋から冬にかけて奥多摩町の郷土料理店や道の駅で提供。ほうとうに似た温まる麺料理を求める人向け。",
     "similarItems": [
       {
-        "name": "ほうとう",
-        "id": "houtou",
-        "difference": "ほうとうは味噌仕立てが主流だが、のしこみうどんは醤油だしで仕立てる"
+        "id": "kishimen",
+        "name": "きしめん",
+        "difference": "きしめんはのしこみうどんと似た小麦の料理"
       }
     ],
     "relatedIds": [
@@ -116624,9 +116659,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "かぶらずし",
-        "id": "kaburazushi",
-        "difference": "かぶらずしはかぶを使い鰤を挟むが、大根ずしは大根と身欠きニシンを使う"
+        "id": "izushi-niitaga",
+        "name": "飯ずし",
+        "difference": "飯ずしはご飯ものが特徴で、大根ずしとは異なる"
       }
     ],
     "relatedIds": [
@@ -116852,9 +116887,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "雑煮(富山県)",
-        "id": "zoni-toyama",
-        "difference": "富山の雑煮は具材構成が異なり、仙台雑煮は焼きハゼの出汁が最大の特徴"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは野菜が特徴で、仙台雑煮とは異なる"
       }
     ],
     "relatedIds": [
@@ -117079,9 +117114,9 @@
     "orderAdvice": "正月三が日、山口県萩地方の家庭で作られる。餅を茹でるため汁にとろみが出るのが特徴。",
     "similarItems": [
       {
-        "name": "雑煮(富山県)",
-        "id": "zoni-toyama",
-        "difference": "富山の雑煮とは出汁・具材が異なり、かぶ雑煮はかぶと茹で餅が主役"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは魚介・煮込みが特徴で、かぶ雑煮とは異なる"
       }
     ],
     "relatedIds": [
@@ -117243,9 +117278,9 @@
     "orderAdvice": "冬場に岡山県山間地域の郷土料理店で提供。実際のドジョウを使わないユニークな鍋を試したい人向け。",
     "similarItems": [
       {
-        "name": "ドジョウのけんちんじる",
-        "id": "dojo-no-kenchin-jiru-shimane",
-        "difference": "島根のものは本物のドジョウを使うが、そばどじょう鍋はそば粉で形を似せた精進風の鍋"
+        "id": "kishimen",
+        "name": "きしめん",
+        "difference": "きしめんは麺料理が特徴。そばどじょう鍋は鍋料理が特徴"
       }
     ],
     "relatedIds": [
@@ -118187,9 +118222,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "さんまずし",
-        "id": "sanma-zushi-wakayama",
-        "difference": "さんまずしはサンマを使うが、いわしずしはイワシを使う点が異なる"
+        "id": "shirasu-don-wakayama",
+        "name": "しらす丼",
+        "difference": "しらす丼はご飯ものが特徴で、いわしずしとは異なる"
       }
     ],
     "relatedIds": [
@@ -119515,9 +119550,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "山するめのきんぴら",
-        "id": "yama-surume-no-kinpira-kumamoto",
-        "difference": "山するめは干したけのこを使うが、たらおさはタラのエラと胃を使う乾物料理"
+        "id": "funa-miso",
+        "name": "ふな味噌",
+        "difference": "ふな味噌は主菜が特徴で、たらおさとは異なる"
       }
     ],
     "relatedIds": [
@@ -119626,9 +119661,9 @@
     "caution": "貝類アレルギーに注意。",
     "similarItems": [
       {
-        "name": "さざえ飯(島根県)",
-        "id": "sazaemeshi-shimane",
-        "difference": "石川のさざえめしは炊き込みご飯に加え麹漬けのさざえべしも含むが、島根のさざえ飯はのり巻きにされることが多い"
+        "id": "oshinuki-zushi",
+        "name": "押し抜きずし",
+        "difference": "押し抜きずしはさざえめし／さざえべしと似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -119747,9 +119782,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "さんまずし",
-        "id": "sanma-zushi-wakayama",
-        "difference": "さんまずしは酢で即席に締めるが、ひねずしは長期間かけて発酵させるなれずし"
+        "id": "funazushi",
+        "name": "ふなずし",
+        "difference": "ふなずしは前菜が特徴で、ひねずしとは異なる"
       }
     ],
     "relatedIds": [
@@ -119973,9 +120008,9 @@
     "caution": "貝類アレルギーに注意。",
     "similarItems": [
       {
-        "name": "さざえめし(石川県)",
-        "id": "sazaemeshi-ishikawa",
-        "difference": "石川のさざえめしは麹漬けのさざえべしも含むが、島根はのり巻きにして食べる文化がある"
+        "id": "oshinuki-zushi",
+        "name": "押し抜きずし",
+        "difference": "押し抜きずしはさざえ飯と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -120030,9 +120065,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "アゴの子旨煮",
-        "id": "ago-no-ko-umani-shimane",
-        "difference": "アゴの子旨煮はトビウオの卵を煮るが、刺身はトビウオの身を生で食べる"
+        "id": "tessa",
+        "name": "てっさ",
+        "difference": "てっさは前菜が特徴で、トビウオの刺身とは異なる"
       }
     ],
     "relatedIds": [
@@ -120091,9 +120126,9 @@
     "orderAdvice": "端午の節句や田植え後の「泥落とし」の時期、島根県内の和菓子店や家庭で作られる。地域ごとの呼び名の違いも楽しみたい。",
     "similarItems": [
       {
-        "name": "いびつもち",
-        "id": "ibitsu-mochi",
-        "difference": "兵庫県のいびつもちも同じくサルトリイバラの葉を使うが、島根では呼び名や行事の位置づけが異なる"
+        "id": "dengara",
+        "name": "でんがら",
+        "difference": "でんがらはかしわ餅と似た米の料理"
       }
     ],
     "relatedIds": [
@@ -120667,9 +120702,9 @@
     "orderAdvice": "夏至から11日目の半夏生の頃、奈良県内の家庭で作られる。田植えを終えた節目の行事食を味わいたい人向け。",
     "similarItems": [
       {
-        "name": "半夏だんご",
-        "id": "hangedango-kochi",
-        "difference": "高知の半夏だんごはあんこ入りの小麦だんごだが、こちらはもち米と小麦を混ぜてつく餅"
+        "id": "akaneko-osaka",
+        "name": "あかねこ",
+        "difference": "あかねこは半夏生餅／小麦餅／さなぶり餅と似た小麦の料理"
       }
     ],
     "relatedIds": [
@@ -120892,9 +120927,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "柿の葉寿司(鳥取県)",
-        "id": "kakinoha-zushi-tottori",
-        "difference": "同じ柿の葉寿司でも地域によって使う魚や葉の扱いが異なる"
+        "id": "battera",
+        "name": "ばってら",
+        "difference": "ばってらは主菜が特徴で、柿の葉寿司とは異なる"
       }
     ],
     "relatedIds": [
@@ -121003,9 +121038,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "焼き鯖の煮付け",
-        "id": "yakisaba-no-nitsuke",
-        "difference": "煮付けは煮て味をつけるが、丸焼き鯖は串刺しで丸ごと炭火焼きにする"
+        "id": "abutte-kamo",
+        "name": "あぶってかも",
+        "difference": "あぶってかもは主菜が特徴で、丸焼き鯖とは異なる"
       }
     ],
     "relatedIds": [
@@ -121117,9 +121152,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "ひねずし",
-        "id": "hinezushi-ishikawa",
-        "difference": "石川のひねずしはアジやサバを使うが、にしんすしは身欠きニシンを使う"
+        "id": "kaburazushi",
+        "name": "かぶらずし",
+        "difference": "かぶらずしはにしんすしと似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -121341,9 +121376,9 @@
     "orderAdvice": "5月から6月の根曲がり竹の時期が本番だが、塩漬けや缶詰を使えば通年、長野県北信地域の家庭で味わえる。",
     "similarItems": [
       {
-        "name": "山するめのきんぴら",
-        "id": "yama-surume-no-kinpira-kumamoto",
-        "difference": "山するめは干したけのこの炒め物だが、たけのこ汁は根曲がり竹とサバ缶を使う味噌汁"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆはたけのこ汁と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -121456,9 +121491,9 @@
     "orderAdvice": "月遅れの8月7日の七夕行事、長野県松本地域の家庭で作られる。よもぎ入りのアレンジもおやつとして人気。",
     "similarItems": [
       {
-        "name": "ほうとう",
-        "id": "houtou",
-        "difference": "山梨のほうとうは味噌煮込みの主食麺だが、たなばたほうとうは甘い菓子として食べる"
+        "id": "sakura-mochi-tokyo",
+        "name": "桜もち",
+        "difference": "桜もちは焼き物が特徴で、たなばたほうとうとは異なる"
       }
     ],
     "relatedIds": [
@@ -121513,9 +121548,9 @@
     "orderAdvice": "立夏(5月6日頃)の水口祭りの行事食として山梨県内陸部の家庭で作られる。豊穣祈願の神事食を体験したい人向け。",
     "similarItems": [
       {
-        "name": "ふき俵",
-        "id": "fuki-dawara-nara",
-        "difference": "奈良のふき俵は大豆ごはんをふきの葉で包むが、やこめは煎り大豆を混ぜて蒸すだけのシンプルな形式"
+        "id": "kiinai-okowa",
+        "name": "黄いないおこわ",
+        "difference": "黄いないおこわはやこめと似た豆類の料理"
       }
     ],
     "relatedIds": [
@@ -121742,9 +121777,9 @@
     "caution": "貝類・魚介アレルギーに注意。",
     "similarItems": [
       {
-        "name": "ホヤの酢の物(宮城県)",
-        "id": "hoya-no-sunomono-miyagi",
-        "difference": "宮城の酢の物は主に養殖ほやを使うが、岩手は南部潜りによる天然ほやを使う"
+        "id": "tessa",
+        "name": "てっさ",
+        "difference": "てっさは天然ほやの酢の物と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -121800,9 +121835,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "鮎塩焼き",
-        "id": "ayu-shioyaki-gunma",
-        "difference": "塩焼きは鮎をそのまま焼くが、鮎めしは米と一緒に炊き込む"
+        "id": "oshinuki-zushi",
+        "name": "押し抜きずし",
+        "difference": "押し抜きずしは鮎めしと似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -121919,9 +121954,9 @@
     "caution": "野生きのこのため採取時は安全確認が必要。",
     "similarItems": [
       {
-        "name": "山するめのきんぴら",
-        "id": "yama-surume-no-kinpira-kumamoto",
-        "difference": "山するめは干したけのこの炒め物だが、ちたけうどんはきのこの出汁でうどんを食べる麺料理"
+        "id": "kabocya-no-dango-jiru-fukuoka",
+        "name": "かぼちゃのだんご汁",
+        "difference": "かぼちゃのだんご汁は煮込みが特徴。ちたけうどん（そば）は麺料理が特徴"
       }
     ],
     "relatedIds": [
@@ -121978,9 +122013,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "鮎めし",
-        "id": "ayumeshi-tochigi",
-        "difference": "鮎めしは米と炊き込むが、鮎塩焼きは鮎そのものを直火で焼く"
+        "id": "abutte-kamo",
+        "name": "あぶってかも",
+        "difference": "あぶってかもは主菜が特徴で、鮎塩焼きとは異なる"
       }
     ],
     "relatedIds": [
@@ -122205,9 +122240,9 @@
     "caution": "淡水魚のため十分な加熱を確認して食べる。",
     "similarItems": [
       {
-        "name": "ドジョウのけんちんじる",
-        "id": "dojo-no-kenchin-jiru-shimane",
-        "difference": "島根のけんちんじるは根菜中心だが、どじょう汁はうどんを加えた麺入りの汁物"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは野菜が特徴で、どじょう汁とは異なる"
       }
     ],
     "relatedIds": [
@@ -122262,9 +122297,9 @@
     "orderAdvice": "半夏生の頃、香川県内の家庭で農作業の労をねぎらうために作られる。地域によって焼く・蒸すなど食べ方が異なる。",
     "similarItems": [
       {
-        "name": "半夏だんご",
-        "id": "hangedango-kochi",
-        "difference": "高知の半夏だんごはみょうがの葉で包むが、はげ団子はあんをまぶすだけのシンプルな団子"
+        "id": "sakura-mochi-tokyo",
+        "name": "桜もち",
+        "difference": "桜もちは焼き物が特徴で、はげ団子とは異なる"
       }
     ],
     "relatedIds": [
@@ -122771,9 +122806,9 @@
     "caution": "淡水魚のため十分な加熱を確認して食べる。",
     "similarItems": [
       {
-        "name": "どじょう汁",
-        "id": "dojo-jiru-kagawa",
-        "difference": "香川のどじょう汁はうどんを加えた汁物だが、柳川なべは卵でとじる鍋料理"
+        "id": "yanagawa-nabe-dojo-jiru-tokyo",
+        "name": "柳川鍋／どじょう汁",
+        "difference": "柳川鍋／どじょう汁は柳川なべと似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -122946,9 +122981,9 @@
     "orderAdvice": "お盆の時期、秋田県北地方の家庭で作られる行事食。各家庭で1升の餅米を仕込む伝統的な製法を体験したい人向け。",
     "similarItems": [
       {
-        "name": "ひねずし",
-        "id": "hinezushi-ishikawa",
-        "difference": "ひねずしは魚を発酵させるが、赤漬けは餅米と赤じそだけで発酵させる"
+        "id": "kousyuu-koume-zuke-yama-nashi",
+        "name": "甲州小梅漬",
+        "difference": "甲州小梅漬は果物が特徴で、赤漬け／赤ずしとは異なる"
       }
     ],
     "relatedIds": [
@@ -123004,9 +123039,9 @@
     "caution": "野生きのこのため採取時は安全確認が必要。",
     "similarItems": [
       {
-        "name": "ちたけうどん（そば）",
-        "id": "chitake-udon-tochigi",
-        "difference": "ちたけうどんは麺料理だが、油炒めはおかずとして単体で食べる"
+        "id": "gomokuinarizushi-ibaraki",
+        "name": "五目いなりずし",
+        "difference": "五目いなりずしは米・揚げ物が特徴。ちたけとなすの油炒めは炒め物が特徴"
       }
     ],
     "relatedIds": [
@@ -123062,9 +123097,9 @@
     "caution": "淡水魚のため十分な加熱を確認して食べる。",
     "similarItems": [
       {
-        "name": "どじょう汁(香川県)",
-        "id": "dojo-jiru-kagawa",
-        "difference": "香川はうどんを加えた汁物だが、栃木は卵とじがメインの素朴などじょう汁"
+        "id": "isaza-no-tamagotoji",
+        "name": "いさざの卵とじ",
+        "difference": "いさざの卵とじは主菜が特徴。どじょう汁はスープが特徴"
       }
     ],
     "relatedIds": [
@@ -123177,9 +123212,9 @@
     "caution": "淡水産巻貝のため十分な加熱と衛生管理がされたものを選ぶ。",
     "similarItems": [
       {
-        "name": "柳川なべ",
-        "id": "yanagawa-nabe-fukuoka",
-        "difference": "柳川なべはドジョウを卵でとじるが、田にしの味噌煮は田にしを味噌でじっくり煮込む"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは野菜・スープが特徴で、田にしの味噌煮とは異なる"
       }
     ],
     "relatedIds": [
@@ -123343,9 +123378,9 @@
     "orderAdvice": "4月から11月、旬の夏は特に大阪府泉州地域の直売所や漬物店で購入可能。生でも食べられる珍しいなすを味わいたい人向け。",
     "similarItems": [
       {
-        "name": "かりもりの粕漬け",
-        "id": "karimori-no-kasuzuke-aichi",
-        "difference": "かりもりの粕漬けは長期熟成させるが、水なすの浅漬けは短期間でみずみずしさを楽しむ"
+        "id": "osaka-zuke",
+        "name": "大阪漬",
+        "difference": "大阪漬は前菜が特徴で、泉州水なすの浅漬とは異なる"
       }
     ],
     "relatedIds": [
@@ -123634,9 +123669,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "うなぎの帆引き煮",
-        "id": "unagi-no-hobikini-ibaraki",
-        "difference": "うなぎは酒で煮てから醤油で仕上げるが、むつごろうは素焼きしてから甘辛く炊く"
+        "id": "funa-miso",
+        "name": "ふな味噌",
+        "difference": "ふな味噌は主菜が特徴で、むつごろうの蒲焼とは異なる"
       }
     ],
     "relatedIds": [
@@ -123691,9 +123726,9 @@
     "caution": "甲殻類アレルギーに注意。",
     "similarItems": [
       {
-        "name": "シャクの天ぷら",
-        "id": "shaku-no-tempura-kumamoto",
-        "difference": "熊本のシャクは天ぷらにするが、しゃっぱは醤油で煮付けにする"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは野菜・スープが特徴で、しゃっぱの煮付けとは異なる"
       }
     ],
     "relatedIds": [
@@ -123749,9 +123784,9 @@
     "orderAdvice": "7月から霜が降りる前まで、佐賀県内の家庭で日常的に作られる。冷やして食べる夏の定番副菜を試したい人向け。",
     "similarItems": [
       {
-        "name": "いもの茎の炒め煮",
-        "id": "imo-no-kuki-no-itameni-kochi",
-        "difference": "高知の炒め煮は加熱調理した炒め物だが、にいもじは酢に漬けた冷たい常備菜"
+        "id": "hiyashi-chuka",
+        "name": "冷やし中華",
+        "difference": "冷やし中華は小麦・麺料理が特徴で、にいもじとは異なる"
       }
     ],
     "relatedIds": [
@@ -123976,9 +124011,9 @@
     "caution": "貝類アレルギーに注意。",
     "similarItems": [
       {
-        "name": "さざえめし(石川県)",
-        "id": "sazaemeshi-ishikawa",
-        "difference": "さざえめしはサザエを使うが、ほっきめしはほっき貝を使う炊き込みご飯"
+        "id": "oshinuki-zushi",
+        "name": "押し抜きずし",
+        "difference": "押し抜きずしはほっきめしと似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -124205,9 +124240,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "きゅうりの冷や汁",
-        "id": "kyuri-no-hiyajiru-mie",
-        "difference": "三重の冷や汁はごまがベースだが、がわは生のカツオと梅干しを叩いて作る"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは煮込みが特徴。がわは生食が特徴"
       }
     ],
     "relatedIds": [
@@ -124265,9 +124300,9 @@
     "orderAdvice": "6月30日のみそぎ神事の前後、岐阜県羽島市竹鼻の商店街や菓子店で購入可能。無病息災を願う縁起菓子を体験したい人向け。",
     "similarItems": [
       {
-        "name": "けんさん焼き",
-        "id": "kensan-yaki-niigata",
-        "difference": "けんさん焼きはおにぎりに味噌を塗るが、みそぎだんごはあん入り団子に味噌だれを塗る"
+        "id": "natto-mochi-kyoto",
+        "name": "納豆餅",
+        "difference": "納豆餅はみそぎだんごと似た米の料理"
       }
     ],
     "relatedIds": [
@@ -124437,9 +124472,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "鮎塩焼き(群馬県)",
-        "id": "ayu-shioyaki-gunma",
-        "difference": "群馬は上野村の神流川の鮎を使うが、岐阜は木曽川・長良川・揖斐川など複数の清流の鮎を使う"
+        "id": "abutte-kamo",
+        "name": "あぶってかも",
+        "difference": "あぶってかもは主菜が特徴で、鮎の塩焼とは異なる"
       }
     ],
     "relatedIds": [
@@ -124494,9 +124529,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "鮎めし",
-        "id": "ayumeshi-tochigi",
-        "difference": "鮎めしは生米から炊き込むが、鮎ぞうすいは炊いたご飯をだしで煮る雑炊"
+        "id": "nama-shirasu-don",
+        "name": "生しらす丼",
+        "difference": "生しらす丼は生食が特徴で、鮎ぞうすいとは異なる"
       }
     ],
     "relatedIds": [
@@ -124613,9 +124648,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "ハモ鍋(大阪府)",
-        "id": "hamo-nabe-osaka",
-        "difference": "大阪はじゃがいもも加えるが、ハモすきは淡路島産タマネギの甘みを主役にする"
+        "id": "saba-no-jau",
+        "name": "さばのじゃう",
+        "difference": "さばのじゃうはハモすきと似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -124730,9 +124765,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "うなぎの帆引き煮",
-        "id": "unagi-no-hobikini-ibaraki",
-        "difference": "うなぎの帆引き煮は酒で煮てから醤油で仕上げるが、焼きアナゴはたれをつけて直火で焼く"
+        "id": "takoyaki",
+        "name": "たこ焼き",
+        "difference": "たこ焼きは前菜が特徴で、焼きアナゴとは異なる"
       }
     ],
     "relatedIds": [
@@ -124901,9 +124936,9 @@
     "orderAdvice": "5月終わりから6月頭の田植え時期、広島県北広島町の「はやし田」行事で振る舞われる。豊穣祈願の行事食を体験したい人向け。",
     "similarItems": [
       {
-        "name": "やこめ",
-        "id": "yakome-yamanashi",
-        "difference": "やこめは煎り大豆を混ぜて蒸すが、きなこむすびはおむすびにきなこをまぶす"
+        "id": "kiinai-okowa",
+        "name": "黄いないおこわ",
+        "difference": "黄いないおこわは蒸し料理が特徴で、きなこむすびとは異なる"
       }
     ],
     "relatedIds": [
@@ -124959,9 +124994,9 @@
     "caution": "魚アレルギーに注意。生食のため鮮度に留意。",
     "similarItems": [
       {
-        "name": "トビウオの刺身",
-        "id": "tobiuo-no-sashimi-shimane",
-        "difference": "トビウオは大ぶりで淡白だが、小いわしはより小ぶりで濃厚な旨みがある"
+        "id": "tessa",
+        "name": "てっさ",
+        "difference": "てっさは前菜が特徴で、小いわしの刺身とは異なる"
       }
     ],
     "relatedIds": [
@@ -125078,9 +125113,9 @@
     "caution": "淡水魚のため十分な加熱を確認して食べる。",
     "similarItems": [
       {
-        "name": "柳川なべ(福岡県)",
-        "id": "yanagawa-nabe-fukuoka",
-        "difference": "福岡の柳川なべは発祥地とされる料理で、東京では丸鍋・ぬき鍋という調理法違いも楽しめる"
+        "id": "isaza-no-tamagotoji",
+        "name": "いさざの卵とじ",
+        "difference": "いさざの卵とじは主菜が特徴。柳川鍋／どじょう汁は鍋料理が特徴"
       }
     ],
     "relatedIds": [
@@ -125306,9 +125341,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "トビウオの刺身",
-        "id": "tobiuo-no-sashimi-shimane",
-        "difference": "トビウオは生食が中心だが、ハタハタの湯上げは茹でて食べる点が異なる"
+        "id": "tempura",
+        "name": "天ぷら",
+        "difference": "天ぷらは野菜・揚げ物が特徴で、ハタハタの湯上げとは異なる"
       }
     ],
     "relatedIds": [
@@ -125530,9 +125565,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "ひねずし",
-        "id": "hinezushi-ishikawa",
-        "difference": "ひねずしより低温で漬ける期間が短く、匂いがおだやか"
+        "id": "kaburazushi",
+        "name": "かぶらずし",
+        "difference": "かぶらずしは飯寿司と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -125928,9 +125963,9 @@
     "orderAdvice": "7月末に仕込み8月末から食べ始めるが、保存食として通年、山形県庄内地域の食堂や家庭で親しまれる。",
     "similarItems": [
       {
-        "name": "金山寺味噌",
-        "id": "kinzanji-miso-wakayama",
-        "difference": "金山寺味噌は野菜を漬け込むが、しょうゆの実は大豆・小麦・米の麹だけで作る"
+        "id": "natto",
+        "name": "納豆",
+        "difference": "納豆は軽食が特徴。しょうゆの実は調味料が特徴"
       }
     ],
     "relatedIds": [
@@ -125984,9 +126019,9 @@
     "orderAdvice": "10月末から11月初旬の収穫期を経て寒い冬に、山形県米沢市周辺の家庭で提供。希少な伝統野菜を守る生産者の物語も味わいたい人向け。",
     "similarItems": [
       {
-        "name": "呉汁(宮城県)",
-        "id": "gojiru-miyagi",
-        "difference": "呉汁はすった大豆を使うが、遠山かぶの粕汁は酒粕とかぶを使う"
+        "id": "renkonno-suri-nagashi-jiru-miyazaki",
+        "name": "れんこんのすり流し汁",
+        "difference": "れんこんのすり流し汁は揚げ物が特徴。遠山かぶの粕汁は発酵が特徴"
       }
     ],
     "relatedIds": [
@@ -126154,9 +126189,9 @@
     "orderAdvice": "晩秋の収穫期に漬け込み冬から春先まで、青森県津軽地方の家庭や直売所で親しまれる。雪の下で貯蔵した甘い赤かぶも人気。",
     "similarItems": [
       {
-        "name": "泉州水なすの浅漬",
-        "id": "senshu-mizunasu-no-asazuke-osaka",
-        "difference": "水なすの浅漬けは短期間の漬物だが、千枚漬けはじっくり漬け込みまろやかさを引き出す"
+        "id": "osaka-zuke",
+        "name": "大阪漬",
+        "difference": "大阪漬は前菜が特徴で、赤かぶの千枚漬けとは異なる"
       }
     ],
     "relatedIds": [
@@ -126214,9 +126249,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "さざえ飯(石川県)",
-        "id": "sazaemeshi-ishikawa",
-        "difference": "さざえめしはサザエを使うが、あめのいおご飯は琵琶湖の固有種ビワマスを使う"
+        "id": "oshinuki-zushi",
+        "name": "押し抜きずし",
+        "difference": "押し抜きずしはあめのいおご飯と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -126388,9 +126423,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "アゴの子旨煮",
-        "id": "ago-no-ko-umani-shimane",
-        "difference": "アゴの子旨煮は魚卵の煮物だが、辛子煮は小魚を丸ごと辛子と柑橘で煮る"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは野菜・スープが特徴で、ひめいちとみかんの辛子煮とは異なる"
       }
     ],
     "relatedIds": [
@@ -126500,9 +126535,9 @@
     "orderAdvice": "報恩講・法事や冬至の時期、滋賀県湖北・湖東地域の家庭で作られる。「甥と甥」など諸説ある名前の由来も興味深い一品。",
     "similarItems": [
       {
-        "name": "いとこ煮／にざい",
-        "id": "itoko-ni-nizai",
-        "difference": "地域により具材構成が異なる同名の郷土料理"
+        "id": "otsubo-fukui",
+        "name": "おつぼ",
+        "difference": "おつぼはいとこ煮と似た豆類の料理"
       }
     ],
     "relatedIds": [
@@ -126786,9 +126821,9 @@
     "orderAdvice": "通年で茨城県内の家庭や学校給食で親しまれる。細切りが一般的な他地域のきんぴらとの食感の違いを楽しみたい人向け。",
     "similarItems": [
       {
-        "name": "山するめのきんぴら",
-        "id": "yama-surume-no-kinpira-kumamoto",
-        "difference": "山するめは干したけのこを使うが、れんこんのきんぴらは霞ヶ浦のれんこんを主役にする"
+        "id": "imo-no-kuki-no-itameni-kochi",
+        "name": "いもの茎の炒め煮",
+        "difference": "いもの茎の炒め煮はれんこんのきんぴらと似た野菜の料理"
       }
     ],
     "relatedIds": [
@@ -126844,9 +126879,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "焼き鯖の煮付け",
-        "id": "yakisaba-no-nitsuke",
-        "difference": "焼き鯖の煮付けは煮汁で煮るが、鮭の焼漬けはたれに漬け込むだけのシンプルな調理法"
+        "id": "takoyaki",
+        "name": "たこ焼き",
+        "difference": "たこ焼きは前菜が特徴で、鮭の焼漬けとは異なる"
       }
     ],
     "relatedIds": [
@@ -126902,9 +126937,9 @@
     "orderAdvice": "冬の保存食として、また暑さで食欲のない夏場に、青森県津軽地方西北地域の家庭で食べられる。珍しい発酵食を試したい人向け。",
     "similarItems": [
       {
-        "name": "飯寿司",
-        "id": "izushi-hokkaido",
-        "difference": "飯寿司は魚を使うなれずしだが、すしこは魚を使わずもち米だけを発酵させる"
+        "id": "miki-kagoshima",
+        "name": "みき",
+        "difference": "みきは煮込みが特徴。すしこは発酵が特徴"
       }
     ],
     "relatedIds": [
@@ -126960,9 +126995,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "朴葉ずし",
-        "id": "hoba-zushi-gifu",
-        "difference": "朴葉ずしは寿司を葉で包むが、奉書焼きは魚を和紙で包んで蒸し焼きにする"
+        "id": "tempura",
+        "name": "天ぷら",
+        "difference": "天ぷらは野菜・揚げ物が特徴。スズキの奉書焼きはローストが特徴"
       }
     ],
     "relatedIds": [
@@ -127016,9 +127051,9 @@
     "caution": "甲殻類アレルギーに注意。",
     "similarItems": [
       {
-        "name": "がん汁",
-        "id": "gan-jiru-oita",
-        "difference": "大分のがん汁と同じくモクズガニを使うが、つがに汁は高知の四万十川流域が発祥"
+        "id": "takenoko-jiru-niigata",
+        "name": "竹の子汁",
+        "difference": "竹の子汁は野菜が特徴で、つがに汁とは異なる"
       }
     ],
     "relatedIds": [
@@ -127074,9 +127109,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "うなぎの帆引き煮",
-        "id": "unagi-no-hobikini-ibaraki",
-        "difference": "うなぎは煮て仕上げるが、焼鮎の甘露煮は炭火で焼いて干してから甘露煮にする"
+        "id": "ikanago-no-kugini",
+        "name": "イカナゴのくぎ煮",
+        "difference": "イカナゴのくぎ煮は煮込み・軽食が特徴。焼鮎の甘露煮は炭火焼きが特徴"
       }
     ],
     "relatedIds": [
@@ -127305,9 +127340,9 @@
     "orderAdvice": "秋から新年の報恩講の時期、福井県嶺北地域の家庭や寺院で振る舞われる。寒い冬に体を温めたい人向け。",
     "similarItems": [
       {
-        "name": "呉汁(宮城県)",
-        "id": "gojiru-miyagi",
-        "difference": "宮城の呉汁は日常食として食べるが、福井は報恩講という宗教行事に結びついている"
+        "id": "okuzukake",
+        "name": "おくずかけ",
+        "difference": "おくずかけは野菜が特徴で、呉汁とは異なる"
       }
     ],
     "relatedIds": [
@@ -127477,9 +127512,9 @@
     "orderAdvice": "秋から新年の報恩講の期間、福井県内の寺院や家庭で振る舞われる。呉汁などの代表料理から精進料理文化を体験したい人向け。",
     "similarItems": [
       {
-        "name": "報恩講料理(富山県)",
-        "id": "houonkou-ryori",
-        "difference": "同じ報恩講の行事食だが、地域により料理構成や呼び名が異なる"
+        "id": "dadacha-mame",
+        "name": "だだちゃ豆",
+        "difference": "だだちゃ豆は煮込み・前菜が特徴で、ほんこさん／報恩講料理とは異なる"
       }
     ],
     "relatedIds": [
@@ -127591,9 +127626,9 @@
     "caution": "昆虫食のためアレルギーに注意。",
     "similarItems": [
       {
-        "name": "へぼ飯",
-        "id": "hebo-meshi-aichi",
-        "difference": "へぼ飯は蜂の子をご飯に混ぜるが、いなごの佃煮はいなご単体を甘辛く煮る"
+        "id": "sukiyaki",
+        "name": "すき焼き",
+        "difference": "すき焼きは牛肉・主菜が特徴で、いなごの佃煮とは異なる"
       }
     ],
     "relatedIds": [
@@ -127704,9 +127739,9 @@
     "caution": "甲殻類アレルギーに注意。",
     "similarItems": [
       {
-        "name": "がん汁",
-        "id": "gan-jiru-oita",
-        "difference": "大分のがん汁は殻ごとすり潰した汁だが、かに巻き汁は濾して味噌成分と反応させ固める"
+        "id": "kajika-jiru",
+        "name": "鰍汁",
+        "difference": "鰍汁はかに巻き汁と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -127821,9 +127856,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "焼鮎の甘露煮",
-        "id": "yaki-ayu-no-kanroni-kumamoto",
-        "difference": "焼鮎は焼いてから甘露煮にするが、小鮒は生きたまま直接煮る"
+        "id": "ikanago-no-kugini",
+        "name": "イカナゴのくぎ煮",
+        "difference": "イカナゴのくぎ煮は軽食が特徴で、小鮒の甘露煮とは異なる"
       }
     ],
     "relatedIds": [
@@ -128047,9 +128082,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "鮎めし",
-        "id": "ayumeshi-tochigi",
-        "difference": "鮎めしは鮎を使うが、さんまめしはサンマを使う海のない県ならではの工夫料理"
+        "id": "oshinuki-zushi",
+        "name": "押し抜きずし",
+        "difference": "押し抜きずしはさんまめしと似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -128104,9 +128139,9 @@
     "caution": "甲殻類アレルギーに注意。",
     "similarItems": [
       {
-        "name": "がん汁",
-        "id": "gan-jiru-oita",
-        "difference": "がん汁は殻ごとすり潰すが、せいげは足を大根おろしと味噌で煮込む"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆはスープが特徴で、せいげとは異なる"
       }
     ],
     "relatedIds": [
@@ -128268,9 +128303,9 @@
     "orderAdvice": "報恩講の時期や冬の日常食として、滋賀県湖北地域の家庭で提供。打ち豆づくりの手間も体験したい人向け。",
     "similarItems": [
       {
-        "name": "遠山かぶの粕汁",
-        "id": "toyama-kabu-no-kasujiru-yamagata",
-        "difference": "遠山かぶの粕汁は酒粕を使うが、打ち豆汁は打ち豆と根菜中心の味噌汁"
+        "id": "okuzukake",
+        "name": "おくずかけ",
+        "difference": "おくずかけは打ち豆汁と似た豆類の料理"
       }
     ],
     "relatedIds": [
@@ -128381,9 +128416,9 @@
     "orderAdvice": "秋口から晩秋の里芋収穫期、岩手県北上川流域の河原で「芋の子会」として楽しめる。ブランド里芋の食べ比べも試したい人向け。",
     "similarItems": [
       {
-        "name": "つがに汁",
-        "id": "tsugani-jiru-kochi",
-        "difference": "つがに汁はカニの出汁が主役だが、いもの子汁は里芋と根菜、鶏肉の醤油仕立て"
+        "id": "togan-jiru-aichi",
+        "name": "とうがん汁",
+        "difference": "とうがん汁はいもの子汁と似た鶏肉の料理"
       }
     ],
     "relatedIds": [
@@ -128496,9 +128531,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "サンマのすり身汁(宮城県)",
-        "id": "sanma-no-surimi-jiru-miyagi",
-        "difference": "宮城では「松葉汁」とも呼ばれ大根のひき菜を入れる地域があるなど呼び名や具材に違いがある"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆはさんまのすり身汁と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -128606,9 +128641,9 @@
     "caution": "甲殻類アレルギーに注意。",
     "similarItems": [
       {
-        "name": "きゅうりと川エビの煮物",
-        "id": "kyuri-to-kawaebi-no-nimono-kochi",
-        "difference": "高知の煮物はきゅうりと合わせるが、えび大根は大根と合わせとろけるまで煮込む"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆはスープが特徴で、えび大根とは異なる"
       }
     ],
     "relatedIds": [
@@ -128777,9 +128812,9 @@
     "caution": "甲殻類アレルギーに注意。",
     "similarItems": [
       {
-        "name": "かに巻き汁",
-        "id": "kanimaki-jiru-miyazaki",
-        "difference": "かに巻き汁はモクズガニを使うが、えびみそ汁はシバエビと白味噌を使う"
+        "id": "hiyajiru-miyazaki",
+        "name": "冷や汁",
+        "difference": "冷や汁はえびみそ汁と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -128834,9 +128869,9 @@
     "caution": "魚卵・魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "いくらの醤油漬け",
-        "id": "ikura-no-shoyuzuke-hokkaido",
-        "difference": "いくらの醤油漬けは単品の漬物だが、はらこ飯はご飯と一緒に盛り付ける丼もの"
+        "id": "oshinuki-zushi",
+        "name": "押し抜きずし",
+        "difference": "押し抜きずしははらこ飯と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -128890,9 +128925,9 @@
     "orderAdvice": "9〜10月の青いちじくの出回る時期、宮城県内の直売所や道の駅で購入可能。紅茶に入れるなどのアレンジも楽しみたい人向け。",
     "similarItems": [
       {
-        "name": "小鮒の甘露煮",
-        "id": "kobuna-no-kanroni-nagano",
-        "difference": "小鮒の甘露煮は魚を使うが、いちじくの甘露煮は果物を使う点が異なる"
+        "id": "shirokuma-kagoshima",
+        "name": "白熊",
+        "difference": "白熊はいちじくの甘露煮と似た果物の料理"
       }
     ],
     "relatedIds": [
@@ -129004,9 +129039,9 @@
     "orderAdvice": "秋の中秋の名月の頃、愛媛県内10数ヶ所の河川敷で開催される「いもたき」イベントで味わえる。子孫繁栄の縁起物としても親しまれる。",
     "similarItems": [
       {
-        "name": "いもの子汁",
-        "id": "imo-no-ko-jiru-iwate",
-        "difference": "いもの子汁は醤油仕立ての汁物だが、いもたきは白玉団子を加えた甘辛い鍋料理"
+        "id": "sengokumame-kakimawashi",
+        "name": "千石豆のかきまわし",
+        "difference": "千石豆のかきまわしはご飯ものが特徴。いもたきは鍋料理が特徴"
       }
     ],
     "relatedIds": [
@@ -129119,9 +129154,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "ひねずし",
-        "id": "hinezushi-ishikawa",
-        "difference": "ひねずしは石川県能登地域独自の製法だが、三重のなれずしは地域ごとに麹や柚子など副材料が異なる"
+        "id": "funazushi",
+        "name": "ふなずし",
+        "difference": "ふなずしは前菜が特徴で、なれずしとは異なる"
       }
     ],
     "relatedIds": [
@@ -129291,9 +129326,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "サンマのすり身汁(宮城県)",
-        "id": "sanma-no-surimi-jiru-miyagi",
-        "difference": "すり身汁はサンマを団子にするが、きがきはサンマをそのまま大根おろしで煮る"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆはスープが特徴で、サンマのきがきとは異なる"
       }
     ],
     "relatedIds": [
@@ -129348,9 +129383,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "さんまずし(和歌山県)",
-        "id": "sanma-zushi-wakayama",
-        "difference": "和歌山は酢締めして即席で食べるが、奈良の十津川村版は長期発酵させるなれずし"
+        "id": "funazushi",
+        "name": "ふなずし",
+        "difference": "ふなずしは前菜が特徴で、さんま寿司とは異なる"
       }
     ],
     "relatedIds": [
@@ -129408,9 +129443,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "さんまのすり身汁(岩手県)",
-        "id": "sanma-no-surimi-jiru-iwate",
-        "difference": "岩手はシンプルな汁物だが、宮城は大根のひき菜を松葉に見立てる「松葉汁」の呼び名がある"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆはサンマのすり身汁と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -129466,9 +129501,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "ハモすき",
-        "id": "hamosuki-hyogo",
-        "difference": "ハモすきは寄せ鍋風のだしで煮るが、とうへい鍋は味噌仕立てで仕上げる"
+        "id": "saba-no-jau",
+        "name": "さばのじゃう",
+        "difference": "さばのじゃうはとうへい鍋と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -129523,9 +129558,9 @@
     "orderAdvice": "7〜10月のなす収穫期に仕込み、冬の間に秋田県南地域の家庭で食べられる。在来種のなすの品種の違いも味わいたい人向け。",
     "similarItems": [
       {
-        "name": "赤かぶの千枚漬け",
-        "id": "akakabu-no-senmaizuke-aomori",
-        "difference": "千枚漬けは酢で漬けるが、なすのこうじ漬けは麹で発酵させる"
+        "id": "sangoha-chi-zuke",
+        "name": "三五八漬け",
+        "difference": "三五八漬けは前菜が特徴で、なすのこうじ漬けとは異なる"
       }
     ],
     "relatedIds": [
@@ -129578,9 +129613,9 @@
     "orderAdvice": "新米収穫後の秋、秋田県大館市・鹿角市を中心に冠婚葬祭や家庭でのもてなし料理として提供。比内地鶏の芳醇な脂も味わいたい人向け。",
     "similarItems": [
       {
-        "name": "いものこ汁(秋田県)",
-        "id": "imonoko-jiru-akita",
-        "difference": "いものこ汁は里芋中心の汁物だが、きりたんぽ鍋はご飯を焼いた「たんぽ」が主役"
+        "id": "bibainotorimeshi-hokkaido",
+        "name": "美唄のとりめし",
+        "difference": "美唄のとりめしは煮込みが特徴。きりたんぽ鍋は鍋料理が特徴"
       }
     ],
     "relatedIds": [
@@ -129635,9 +129670,9 @@
     "orderAdvice": "秋の収穫期、秋田県横手市の「いものこまつり」など県南地方のイベントや家庭で提供。県北のきりたんぽ鍋と対比して味わいたい人向け。",
     "similarItems": [
       {
-        "name": "いもの子汁(岩手県)",
-        "id": "imo-no-ko-jiru-iwate",
-        "difference": "岩手は醤油仕立てが基本だが、秋田は味噌味と醤油味の両方がある"
+        "id": "togan-jiru-aichi",
+        "name": "とうがん汁",
+        "difference": "とうがん汁はいものこ汁と似た鶏肉の料理"
       }
     ],
     "relatedIds": [
@@ -129809,9 +129844,9 @@
     "orderAdvice": "秋の収穫期に干した芋がらを使い通年、埼玉県内の家庭で作られる。全国有数の八ツ頭産地・深谷市や杉戸町の食文化を体験したい人向け。",
     "similarItems": [
       {
-        "name": "ずいきの酢漬け",
-        "id": "zuiki-no-suzuke-niigata",
-        "difference": "ずいきの酢漬けは酢に漬けるが、八ツ頭の茎の炒め煮は油で炒めて煮込む"
+        "id": "jako-gouko",
+        "name": "じゃこごうこ",
+        "difference": "じゃこごうこは魚介・前菜が特徴で、八ツ頭の茎の炒め煮とは異なる"
       }
     ],
     "relatedIds": [
@@ -129927,9 +129962,9 @@
     "orderAdvice": "秋から冬、埼玉県深谷市の学校給食や家庭で提供。11月11日の渋沢栄一の命日に食べる風習も体験したい人向け。",
     "similarItems": [
       {
-        "name": "ほうとう",
-        "id": "houtou",
-        "difference": "山梨のほうとうは味噌仕立てだが、煮ぼうとうは醤油ベースでとろみをつける"
+        "id": "nasu-somen-ishikawa",
+        "name": "なすそうめん",
+        "difference": "なすそうめんは煮ぼうとう／ひもかわと似た小麦の料理"
       }
     ],
     "relatedIds": [
@@ -129988,9 +130023,9 @@
     "caution": "甲殻類アレルギーに注意。",
     "similarItems": [
       {
-        "name": "泉州水なすの浅漬",
-        "id": "senshu-mizunasu-no-asazuke-osaka",
-        "difference": "浅漬けは短期漬けだが、じゃこごうこは2〜3ヶ月の古漬けを使う"
+        "id": "namagusa-kouko-niigata",
+        "name": "なまぐさこうこ",
+        "difference": "なまぐさこうこは煮込み・前菜が特徴。じゃこごうこは発酵が特徴"
       }
     ],
     "relatedIds": [
@@ -130103,9 +130138,9 @@
     "caution": "甲殻類アレルギーに注意。",
     "similarItems": [
       {
-        "name": "えびみそ汁",
-        "id": "ebi-miso-shiru-kagawa",
-        "difference": "香川のえびみそ汁はシバエビを使うが、こちらは高級な伊勢エビを豪快に使う"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは野菜・煮込みが特徴で、伊勢エビの味噌汁とは異なる"
       }
     ],
     "relatedIds": [
@@ -130160,9 +130195,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "さんまずし(和歌山県)",
-        "id": "sanma-zushi-wakayama",
-        "difference": "さんまずしはサンマを開いて使うが、ボウゼの姿寿司はイボダイの姿を活かして包む"
+        "id": "battera",
+        "name": "ばってら",
+        "difference": "ばってらは主菜が特徴で、ボウゼの姿寿司とは異なる"
       }
     ],
     "relatedIds": [
@@ -130217,9 +130252,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "わらすぼのみそ汁",
-        "id": "warasubo-no-misoshiru-saga",
-        "difference": "わらすぼは味噌汁の具材だが、くちぞこは単体で甘辛く煮付ける"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは野菜・スープが特徴で、くちぞこの煮付けとは異なる"
       }
     ],
     "relatedIds": [
@@ -130339,9 +130374,9 @@
     "caution": "甲殻類アレルギーに注意。",
     "similarItems": [
       {
-        "name": "つがに汁(高知県)",
-        "id": "tsugani-jiru-kochi",
-        "difference": "高知のつがに汁は出汁の汁物だが、つがにめしはカニを丸ごと米と炊き込む"
+        "id": "oshinuki-zushi",
+        "name": "押し抜きずし",
+        "difference": "押し抜きずしはつがにめしと似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -130399,9 +130434,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "小鮒の甘露煮",
-        "id": "kobuna-no-kanroni-nagano",
-        "difference": "小鮒の甘露煮は甘辛く短時間で煮るが、ふなんこぐいは昆布で巻いて10時間かけて煮込む"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆはスープが特徴で、ふなんこぐいとは異なる"
       }
     ],
     "relatedIds": [
@@ -130630,9 +130665,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "さんまのすり身汁",
-        "id": "sanma-no-surimi-jiru-iwate",
-        "difference": "すり身汁は汁物にするが、ポーポー焼きは丸めて焼くハンバーグ状の料理"
+        "id": "takoyaki",
+        "name": "たこ焼き",
+        "difference": "たこ焼きは前菜が特徴で、サンマのポーポー焼きとは異なる"
       }
     ],
     "relatedIds": [
@@ -131031,9 +131066,9 @@
     "caution": "昆虫食のためアレルギーに注意。",
     "similarItems": [
       {
-        "name": "へぼ飯(愛知県)",
-        "id": "hebo-meshi-aichi",
-        "difference": "愛知の奥三河地域と同じ文化圏だが、岐阜は恵那市周辺で独自に受け継がれてきた"
+        "id": "okowa",
+        "name": "おこわ",
+        "difference": "おこわは蒸し料理が特徴で、へぼ飯とは異なる"
       }
     ],
     "relatedIds": [
@@ -131258,9 +131293,9 @@
     "caution": "甲殻類アレルギーに注意。",
     "similarItems": [
       {
-        "name": "あみめし",
-        "id": "amimeshi-oita",
-        "difference": "あみめしはご飯に混ぜ込むが、あみとだいこんの煮付けは大根と煮る惣菜"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆはスープが特徴で、あみとだいこんの煮付けとは異なる"
       }
     ],
     "relatedIds": [
@@ -131314,9 +131349,9 @@
     "orderAdvice": "気温が下がる晩秋から冬、岡山県総社市・井原市・高梁市・新見市の家庭で作られる。豊作と無病息災を願う年1度の行事食を体験したい人向け。",
     "similarItems": [
       {
-        "name": "へっちょこだんご",
-        "id": "hecchoko-dango-iwate",
-        "difference": "へっちょこだんごは甘い小豆汁で煮るが、たかきび団子汁はだし汁ベースの塩気のある汁物"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは魚介が特徴で、たかきび団子汁とは異なる"
       }
     ],
     "relatedIds": [
@@ -131370,9 +131405,9 @@
     "orderAdvice": "食材が少なくなる冬の時期、岡山県新見市の家庭や飲食店で提供。福井の「つけけんちん」との違いも味わいたい人向け。",
     "similarItems": [
       {
-        "name": "つけけんちん",
-        "id": "tsuke-kenchin-ibaraki",
-        "difference": "茨城のつけけんちんはつけ麺スタイルだが、けんちんそばはそばに直接汁をかける"
+        "id": "sengokumame-kakimawashi",
+        "name": "千石豆のかきまわし",
+        "difference": "千石豆のかきまわしはご飯ものが特徴。けんちんそばは麺料理が特徴"
       }
     ],
     "relatedIds": [
@@ -131485,9 +131520,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "アジの三杯",
-        "id": "aji-no-sanbai-kagawa",
-        "difference": "アジの三杯は焼いてから漬けるが、ママカリの酢漬けは生のまま塩と酢で締める"
+        "id": "battera",
+        "name": "ばってら",
+        "difference": "ばってらは米・主菜が特徴で、ママカリの酢漬けとは異なる"
       }
     ],
     "relatedIds": [
@@ -131659,9 +131694,9 @@
     "caution": "魚介アレルギーに注意。",
     "similarItems": [
       {
-        "name": "はらこ飯",
-        "id": "harako-meshi-miyagi",
-        "difference": "はらこ飯は具をのせるが、うずみは具をご飯の下に隠す独特の盛り付け"
+        "id": "41-6-okayama",
+        "name": "とどめせ",
+        "difference": "とどめせは煮込みが特徴。うずみはご飯ものが特徴"
       }
     ],
     "relatedIds": [
@@ -131894,9 +131929,9 @@
     "orderAdvice": "大晦日、鹿児島県奄美地域の家庭で「三献」とともに新年を迎える行事食として作られる。島豚を余さず使う知恵を体験したい人向け。",
     "similarItems": [
       {
-        "name": "豚汁(鹿児島県)",
-        "id": "buta-jiru-kagoshima",
-        "difference": "豚汁は味噌仕立ての日常食だが、豚骨野菜は年越しの特別な大鍋料理"
+        "id": "naberaa-nbushii-okinawa",
+        "name": "ナーベーラーンブシー",
+        "difference": "ナーベーラーンブシーは沖縄料理・主菜が特徴。豚骨野菜は日本料理が特徴"
       }
     ],
     "relatedIds": [
@@ -132064,9 +132099,9 @@
     "orderAdvice": "正月、山形県村山・置賜地域の家庭で縁起を担いで作られる。土用の丑の日の早朝収穫という伝統的な採取法も興味深い一品。",
     "similarItems": [
       {
-        "name": "くきたち干しの煮物",
-        "id": "kukitachi-boshi-no-nimono-yamagata",
-        "difference": "くきたち干しはアブラナ科の野菜だが、ひょう干しはすべりひゆを使う"
+        "id": "jako-gouko",
+        "name": "じゃこごうこ",
+        "difference": "じゃこごうこは魚介・前菜が特徴で、ひょう干しの煮物とは異なる"
       }
     ],
     "relatedIds": [
@@ -132292,9 +132327,9 @@
     "caution": "大豆アレルギーに注意。",
     "similarItems": [
       {
-        "name": "そぼろ納豆",
-        "id": "soboro-natto-ibaraki",
-        "difference": "そぼろ納豆は切り干し大根と混ぜる漬物だが、納豆汁はすりつぶして汁物に仕立てる"
+        "id": "okuzukake",
+        "name": "おくずかけ",
+        "difference": "おくずかけは納豆汁と似た豆類の料理"
       }
     ],
     "relatedIds": [
@@ -132462,9 +132497,9 @@
     "orderAdvice": "10月下旬から11月中旬の収穫期に仕込み、春先まで山形県内の家庭で食べられる。おにぎりを巻いて焼く「弁慶めし」も試したい人向け。",
     "similarItems": [
       {
-        "name": "おみ漬",
-        "id": "omizuke-yamagata",
-        "difference": "おみ漬は根菜と刻んで短期間漬けるが、青菜漬は青菜だけを長期間漬け込む"
+        "id": "hakusai-no-tatamizuke",
+        "name": "白菜のたたみ漬け",
+        "difference": "白菜のたたみ漬けは前菜が特徴で、青菜漬とは異なる"
       }
     ],
     "relatedIds": [
@@ -132518,9 +132553,9 @@
     "orderAdvice": "11月ごろの聖護院かぶの収穫期、京都府内の老舗漬物店で購入可能。仕込み作業を公開する冬の風物詩も見に行きたい人向け。",
     "similarItems": [
       {
-        "name": "べったら漬け(東京都)",
-        "id": "bettara-zuke-tokyo",
-        "difference": "べったら漬けは麹で甘く漬けるが、千枚漬けは酢漬けで繊細な味わい"
+        "id": "hiyashi-chuka",
+        "name": "冷やし中華",
+        "difference": "冷やし中華は小麦・麺料理が特徴で、千枚漬けとは異なる"
       }
     ],
     "relatedIds": [
@@ -132574,9 +132609,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "遠山かぶの粕汁",
-        "id": "toyama-kabu-no-kasujiru-yamagata",
-        "difference": "遠山かぶの粕汁は味噌汁仕立てだが、しもつかれは酒粕でしっかり煮込む煮物"
+        "id": "sakana-no-jifu-mie-2",
+        "name": "魚のじふ／魚のすき焼き",
+        "difference": "魚のじふ／魚のすき焼きはしもつかれ／すみつかれと似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -132687,9 +132722,9 @@
     "orderAdvice": "正月ごろから3月中旬、山形県米沢市上長井地区周辺の直売所で購入可能。イソチオシアネートの辛味が消える前に食べたい珍しい漬物。",
     "similarItems": [
       {
-        "name": "青菜漬",
-        "id": "seisai-zuke-yamagata",
-        "difference": "青菜漬は長期発酵させるが、ふすべ漬けは湯通しと塩だけで短期間に仕上げる"
+        "id": "hakusai-no-tatamizuke",
+        "name": "白菜のたたみ漬け",
+        "difference": "白菜のたたみ漬けは発酵・前菜が特徴で、雪菜のふすべ漬けとは異なる"
       }
     ],
     "relatedIds": [
@@ -132912,9 +132947,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "ごりの佃煮",
-        "id": "gori-no-tsukudani-shiga",
-        "difference": "ごりの佃煮は琵琶湖の淡水魚だが、はぜ佃煮は伊勢・三河湾の海ハゼを使いたまり醤油で仕上げる"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは野菜・スープが特徴で、はぜ佃煮とは異なる"
       }
     ],
     "relatedIds": [
@@ -132968,9 +133003,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "はもすき",
-        "id": "hamosuki-hyogo",
-        "difference": "ハモすきは寄せ鍋風のだしだが、石狩鍋は味噌仕立ての濃厚な鍋"
+        "id": "saba-no-jau",
+        "name": "さばのじゃう",
+        "difference": "さばのじゃうは石狩鍋と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -133196,9 +133231,9 @@
     "caution": "大豆アレルギーに注意。",
     "similarItems": [
       {
-        "name": "そぼろ納豆",
-        "id": "soboro-natto-ibaraki",
-        "difference": "そぼろ納豆は切り干し大根と漬け込むが、納豆餅は餅につき込むか包んで焼く"
+        "id": "misogi-dango-gifu",
+        "name": "みそぎだんご",
+        "difference": "みそぎだんごは納豆餅と似た豆類の料理"
       }
     ],
     "relatedIds": [
@@ -133368,9 +133403,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "赤かぶの千枚漬け",
-        "id": "akakabu-no-senmaizuke-aomori",
-        "difference": "千枚漬けは野菜だけの漬物だが、ニシン漬けは魚と野菜を一緒に発酵させる"
+        "id": "kaburazushi",
+        "name": "かぶらずし",
+        "difference": "かぶらずしはニシン漬けと似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -133596,9 +133631,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "カスベの煮付け",
-        "id": "kasube-no-nitsuke-hokkaido",
-        "difference": "カスベの煮付けは醤油で煮るが、あんこうの共酢は酢味噌につけて食べる"
+        "id": "tempura",
+        "name": "天ぷら",
+        "difference": "天ぷらは野菜・揚げ物が特徴で、あんこうの共酢とは異なる"
       }
     ],
     "relatedIds": [
@@ -134000,9 +134035,9 @@
     "orderAdvice": "正月、茨城県鹿行地域の家庭で箸休めとして作られる。人参やごぼうを混ぜ込んだアレンジも試したい人向け。",
     "similarItems": [
       {
-        "name": "いぎす豆腐",
-        "id": "igisu-dofu-ehime",
-        "difference": "いぎす豆腐は大豆粉と煮溶かすが、海藻よせは海藻だけでとろみを出して固める"
+        "id": "ika-ninjin",
+        "name": "いかにんじん",
+        "difference": "いかにんじんは野菜・マリネが特徴。海藻よせは低温調理が特徴"
       }
     ],
     "relatedIds": [
@@ -134174,9 +134209,9 @@
     "caution": "鯨肉を使用。",
     "similarItems": [
       {
-        "name": "塩くじら汁(山形県)",
-        "id": "shio-kujira-jiru-yamagata",
-        "difference": "山形は夏の暑気払いだが、鯨汁は正月の縁起物として食べられる冬の料理"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは魚介が特徴で、鯨汁とは異なる"
       }
     ],
     "relatedIds": [
@@ -134231,9 +134266,9 @@
     "caution": "魚介アレルギーに注意。",
     "similarItems": [
       {
-        "name": "いくらの醤油漬け",
-        "id": "ikura-no-shoyuzuke-hokkaido",
-        "difference": "いくらの醤油漬けは単一素材の漬物だが、松前漬けはスルメイカ・昆布・数の子を組み合わせる"
+        "id": "tempura",
+        "name": "天ぷら",
+        "difference": "天ぷらは野菜・揚げ物が特徴で、松前漬とは異なる"
       }
     ],
     "relatedIds": [
@@ -134286,9 +134321,9 @@
     "caution": "魚介アレルギーに注意。",
     "similarItems": [
       {
-        "name": "ホヤの酢の物(宮城県)",
-        "id": "hoya-no-sunomono-miyagi",
-        "difference": "ホヤは複雑な五味を持つが、なまこはコリコリとした食感と磯の香りが特徴"
+        "id": "ryukyu-no-sunomono-kochi",
+        "name": "りゅうきゅうの酢の物",
+        "difference": "りゅうきゅうの酢の物は野菜が特徴で、なまこの酢の物とは異なる"
       }
     ],
     "relatedIds": [
@@ -134459,9 +134494,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "石狩鍋",
-        "id": "ishikari-nabe-hokkaido",
-        "difference": "石狩鍋は味噌仕立てで生サケを使うが、三平汁は塩漬け魚の塩分だけで味付けする"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは三平汁と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -134517,9 +134552,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "どんがら汁",
-        "id": "dongara-jiru-yamagata",
-        "difference": "どんがら汁は寒ダラを丸ごと内臓ごと使うが、たちの味噌汁は白子だけを使うシンプルな汁"
+        "id": "kajika-jiru",
+        "name": "鰍汁",
+        "difference": "鰍汁はたちの味噌汁／スケソウダラの白子の味噌汁と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -134572,9 +134607,9 @@
     "orderAdvice": "正月を中心に通年、茨城県南部・鹿行地方の菓子店や道の駅で購入可能。雑煮に入れるアレンジも試したい人向け。",
     "similarItems": [
       {
-        "name": "べったら漬け",
-        "id": "bettara-zuke-tokyo",
-        "difference": "べったら漬けは漬物だが、たがね餅は米をついた餅料理"
+        "id": "ocha-mochi",
+        "name": "お茶もち",
+        "difference": "お茶もちはナッツが特徴で、たがね餅とは異なる"
       }
     ],
     "relatedIds": [
@@ -134740,9 +134775,9 @@
     "caution": "貝類アレルギーに注意。",
     "similarItems": [
       {
-        "name": "ホヤの酢の物(宮城県)",
-        "id": "hoya-no-sunomono-miyagi",
-        "difference": "ホヤは酢の物にするが、赤貝がらん蒸しは煮たり焼いたりして食べる"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは野菜・スープが特徴で、赤貝がらん蒸し／赤貝の殻蒸しとは異なる"
       }
     ],
     "relatedIds": [
@@ -134795,9 +134830,9 @@
     "orderAdvice": "秋、高知県内の直売所で安価に購入可能。錦鯉に見立てた変わり種の巻き寿司も試したい人向け。",
     "similarItems": [
       {
-        "name": "きゅうりと川エビの煮物",
-        "id": "kyuri-to-kawaebi-no-nimono-kochi",
-        "difference": "きゅうりと川エビの煮物は煮込むが、チャーテの和え物は生食が中心"
+        "id": "takenoko-no-kinome-ae",
+        "name": "たけのこの木の芽和え",
+        "difference": "たけのこの木の芽和えはハーブが特徴で、チャーテの和え物とは異なる"
       }
     ],
     "relatedIds": [
@@ -134855,9 +134890,9 @@
     "orderAdvice": "冬の葉にんにくの旬、高知県内の家庭や飲食店で日常的に使われる。ブリの刺身にぬたをかける独自のスタイルを体験したい人向け。",
     "similarItems": [
       {
-        "name": "壬生菜のからし和え",
-        "id": "mibuna-no-karashi-ae-kyoto",
-        "difference": "からし和えは辛子で和えるが、ぬたは味噌と酢でつくる万能調味料として使う"
+        "id": "shiso-no-mi-tsukudani-okayama",
+        "name": "しその実の佃煮",
+        "difference": "しその実の佃煮は煮込みが特徴で、葉にんにくのぬたとは異なる"
       }
     ],
     "relatedIds": [
@@ -135028,9 +135063,9 @@
     "caution": "魚介アレルギーに注意。",
     "similarItems": [
       {
-        "name": "しょっから汁(東京都)",
-        "id": "shokkara-jiru-tokyo",
-        "difference": "しょっから汁はムロアジの発酵魚醤単体の汁物だが、いしる鍋は魚介と野菜の鍋料理"
+        "id": "beka-nabe-ishikawa",
+        "name": "べか鍋",
+        "difference": "べか鍋はいしる鍋と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -135088,9 +135123,9 @@
     "orderAdvice": "小正月(1月16日)の時期、青森県津軽地方の家庭で作り置きされる。家庭ごとに異なる「おふくろの味」を食べ比べたい人向け。",
     "similarItems": [
       {
-        "name": "呉汁(埼玉県)",
-        "id": "gojiru-saitama",
-        "difference": "呉汁はすりつぶした大豆が主役だが、けの汁は細かく刻んだ根菜と山菜が主役"
+        "id": "okuzukake",
+        "name": "おくずかけ",
+        "difference": "おくずかけはけの汁と似た野菜の料理"
       }
     ],
     "relatedIds": [
@@ -135203,9 +135238,9 @@
     "caution": "魚介アレルギーに注意。",
     "similarItems": [
       {
-        "name": "たらの子つけ(石川県)",
-        "id": "tara-no-kotsuke-ishikawa",
-        "difference": "たらの子つけは真子を主役にするが、鯉の糸造りはコイの身を糸状に切り真子をまぶす"
+        "id": "tessa",
+        "name": "てっさ",
+        "difference": "てっさは前菜が特徴で、鯉の糸造りとは異なる"
       }
     ],
     "relatedIds": [
@@ -135258,9 +135293,9 @@
     "orderAdvice": "冬の年越しの時期、高知県大月町の家庭で作られる。胸まで浸かって採る「めのり採り」の厳しい伝統漁も興味深い一品。",
     "similarItems": [
       {
-        "name": "とうきびめし",
-        "id": "tokibi-meshi-miyazaki",
-        "difference": "とうきびめしはとうもろこしを混ぜるが、こうし飯は岩のりとたくあんを混ぜる"
+        "id": "oshinuki-zushi",
+        "name": "押し抜きずし",
+        "difference": "押し抜きずしはこうし飯と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -135372,9 +135407,9 @@
     "caution": "鯨肉を使用。",
     "similarItems": [
       {
-        "name": "はらこ飯",
-        "id": "harako-meshi-miyagi",
-        "difference": "はらこ飯はサケといくらだが、くじらご飯はクジラの皮を使う点が異なる"
+        "id": "takenoko-gohan-miyagi",
+        "name": "たけのこご飯",
+        "difference": "たけのこご飯はくじらご飯と似た野菜の料理"
       }
     ],
     "relatedIds": [
@@ -135542,9 +135577,9 @@
     "caution": "魚卵アレルギーに注意。",
     "similarItems": [
       {
-        "name": "たらの子つけ(石川県)",
-        "id": "tara-no-kotsuke-ishikawa",
-        "difference": "たらの子つけはうす味でいり煮にするが、真子の煮つけは醤油みりんでしっかり煮る"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは野菜・スープが特徴で、真子の煮つけとは異なる"
       }
     ],
     "relatedIds": [
@@ -135597,9 +135632,9 @@
     "orderAdvice": "12月の「神様の年取り」の連日行事、青森県南部地方の家庭で供え物として作られる。岩手県の豆しとぎとの違いも味わいたい人向け。",
     "similarItems": [
       {
-        "name": "豆しとぎ(岩手県)",
-        "id": "mame-shitogi-iwate",
-        "difference": "岩手は秋の庭じまい行事に供えるが、青森は12月の連日の神祭りに供える"
+        "id": "botamochi-tochigi",
+        "name": "ぼた餅",
+        "difference": "ぼた餅は豆しとぎと似た豆類の料理"
       }
     ],
     "relatedIds": [
@@ -135654,9 +135689,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "すしこ",
-        "id": "sushiko-aomori",
-        "difference": "すしこはもち米だけを発酵させるが、鮭の飯ずしはサケと米を交互に重ねて発酵させる"
+        "id": "funazushi",
+        "name": "ふなずし",
+        "difference": "ふなずしは前菜が特徴で、鮭の飯ずしとは異なる"
       }
     ],
     "relatedIds": [
@@ -135767,9 +135802,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "どんがら汁",
-        "id": "dongara-jiru-yamagata",
-        "difference": "どんがら汁は山形庄内地域の呼び名だが、じゃっぱ汁は津軽地方独自の呼び名と製法を持つ"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは鱈のじゃっぱ汁と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -135825,9 +135860,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "name": "うなぎの帆引き煮",
-        "id": "unagi-no-hobikini-ibaraki",
-        "difference": "帆引き煮はうなぎ単体を照り煮にするが、うなぎ豆腐は焼き豆腐や野菜と一緒に炊く"
+        "id": "isaza-mame",
+        "name": "いさざ豆",
+        "difference": "いさざ豆はご飯ものが特徴で、うなぎ豆腐とは異なる"
       }
     ],
     "relatedIds": [
@@ -135884,14 +135919,14 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "id": "kuchizoko-no-nitsuke-saga",
-        "name": "くちぞこの煮付け",
-        "difference": "くちぞこは甘辛く単体で煮付けるが、わらすぼは味噌汁の具材として野菜と煮込む"
+        "id": "kozuyu",
+        "name": "こづゆ",
+        "difference": "こづゆは野菜が特徴で、わらすぼのみそ汁とは異なる"
       },
       {
-        "id": "mutsugoro-no-kabayaki-saga",
-        "name": "むつごろうの蒲焼",
-        "difference": "むつごろうは素焼きしてから甘辛く炊くが、わらすぼは味噌汁にする"
+        "id": "senba-jiru",
+        "name": "船場汁",
+        "difference": "船場汁はわらすぼのみそ汁と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -135955,9 +135990,9 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
-        "id": "buri-daikon",
-        "name": "ぶり大根",
-        "difference": "富山のぶり大根は冬の寒ブリを使う家庭料理だが、鹿児島版は養殖ブリと地元の桜島大根を使うことが多い"
+        "id": "nishin-to-takenoko-no-nitsuke",
+        "name": "ニシンとタケノコの煮付け",
+        "difference": "ニシンとタケノコの煮付けはぶり大根と似た魚介の料理"
       }
     ],
     "relatedIds": [
@@ -139820,9 +139855,9 @@
     "orderAdvice": "陰暦10月20日の恵比寿講の際に、尾頭付きのどんこ汁を神前に供えた。 郷土の味を試したい人向け。",
     "similarItems": [
       {
-        "id": "donko-jiru-miyagi",
-        "name": "どんこ汁",
-        "difference": "同名だが宮城県版は使う食材・味付けが異なる郷土料理"
+        "id": "dongarajiru-yamagata",
+        "name": "どんがら汁",
+        "difference": "どんがら汁はどんこ汁（岩手県）と似た豆類の料理"
       }
     ],
     "relatedIds": [
@@ -142675,9 +142710,9 @@
     "orderAdvice": "忙しいときに手早くおいしくたくさん作れる日常食として食されていた。 郷土の味を試したい人向け。",
     "similarItems": [
       {
-        "id": "nina-niigata",
-        "name": "煮菜",
-        "difference": "同名だが新潟県版は使う食材・味付けが異なる郷土料理"
+        "id": "seida-no-tamaji",
+        "name": "せいだのたまじ",
+        "difference": "せいだのたまじは揚げ物が特徴。煮菜（広島県）は煮込みが特徴"
       }
     ],
     "relatedIds": [
@@ -143395,9 +143430,9 @@
     "orderAdvice": "今ではその光景を見ることも少なくなったが、飛騨地域では、11月になると長い冬に備えることや、年間を通して食卓になくてはならない漬物を漬けるために、漬物用のかぶや大根など大量の野菜を川で洗う「菜洗い」が行われ、その光景は、この地域に冬の訪れを告げる初冬の風物詩といわれていた。 郷土の味を試したい人向け…",
     "similarItems": [
       {
-        "id": "akakabu-zuke-niigata",
-        "name": "赤かぶ漬け",
-        "difference": "同名だが新潟県版は使う食材・味付けが異なる郷土料理"
+        "id": "sangoha-chi-zuke",
+        "name": "三五八漬け",
+        "difference": "三五八漬けは野菜が特徴で、赤かぶ漬け（岐阜県）とは異なる"
       }
     ],
     "relatedIds": [
