@@ -117123,10 +117123,14 @@
       {
         "country": "日本",
         "prefecture": "神奈川県"
+      },
+      {
+        "country": "日本",
+        "prefecture": "岩手県"
       }
     ],
-    "summary": "大根や人参などの野菜を油で炒めてから煮込む、鎌倉の建長寺に由来するとされる精進汁。",
-    "menuDescription": "こんにゃく・ごぼう・れんこん・大根・里芋・豆腐などを油で炒めてから出汁で煮込んだ神奈川県鎌倉の郷土汁。",
+    "summary": "大根や人参などの野菜を油で炒めてから煮込む汁物。発祥とされる神奈川県鎌倉のほか岩手県など各地で郷土料理として食され、具材は地域ごとに異なる。",
+    "menuDescription": "こんにゃく・ごぼう・れんこん・大根・里芋・豆腐などを油で炒めてから出汁で煮込んだ汁物。神奈川県鎌倉では建長寺由来の精進汁として、岩手県県北地域では肉を使わず豆腐を油でそぼろ状に炒めるのが特徴で、小正月などハレの日に大量に作られてきた。",
     "whatComesOut": [
       "野菜たっぷりの醤油仕立ての汁",
       "崩した豆腐の具",
@@ -117147,7 +117151,8 @@
     ],
     "relatedIds": [],
     "source": [
-      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_1_kanagawa.html"
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_1_kanagawa.html",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_24_iwate.html"
     ],
     "tags": [
       "日本料理",
@@ -117156,7 +117161,8 @@
       "豆類",
       "炒め物",
       "あっさり",
-      "精進料理"
+      "精進料理",
+      "郷土料理"
     ],
     "reverseKeywords": [
       "こってり濃厚な豚汁",
@@ -144814,7 +144820,8 @@
     "regions": [
       {
         "country": "日本",
-        "locality": ""
+        "prefecture": "北海道",
+        "locality": "帯広市"
       }
     ],
     "summary": "明治時代末ごろから十勝地方では養豚業がはじまり、豚肉が食べ親しまれてきた。養豚業が盛んであった十勝地方の帯広市が「豚丼」発祥の地といわれている。",
@@ -172673,5 +172680,2044 @@
     "uniquenessScore": 3,
     "heavinessScore": 2,
     "spicinessScore": 0
+  },
+  {
+    "id": "saketoba-hokkaido",
+    "name": "鮭とば",
+    "kana": "さけとば",
+    "aliases": [
+      "とば"
+    ],
+    "englishName": "Saketoba (Dried Salmon Jerky)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "北海道"
+      }
+    ],
+    "summary": "鮭に塩や調味料を加えて乾燥させた北海道の干物。アイヌ民族の保存食を起源とし、噛むほど旨味が出る。",
+    "menuDescription": "鮭を細く切って乾燥させた、噛むほど旨みが増す北海道の干物。",
+    "whatComesOut": [
+      "棒状またはスティック状に切られた干し鮭",
+      "皮付きのまま乾燥させたものが多い",
+      "塩味・甘め・ソフトタイプなど種類豊富"
+    ],
+    "tasteAndTexture": [
+      "噛むほどうま味が広がる",
+      "皮はゴムのような弾力、炙るとパリッと香ばしい",
+      "しっかりした塩気で酒に合う"
+    ],
+    "orderAdvice": "酒の肴・おつまみ向き。皮が苦手なら皮なしタイプを選ぶとよい。",
+    "caution": "魚介・塩分アレルギーに注意。",
+    "similarItems": [
+      {
+        "name": "ルイベ",
+        "difference": "ルイベは生鮭を凍結させ刺身状で食べるもので、鮭とばは乾燥させた干物"
+      },
+      {
+        "name": "松前漬",
+        "difference": "松前漬はスルメイカと昆布の醤油漬けで、鮭とばは鮭を干したもの"
+      }
+    ],
+    "relatedIds": [
+      "ruibe-hokkaido",
+      "izushi-hokkaido",
+      "nishin-zuke-hokkaido"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/saketoba.html"
+    ],
+    "tags": [
+      "日本料理",
+      "魚介",
+      "香ばしい",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "鮭とば",
+      "北海道 干物 鮭",
+      "乾き物 おつまみ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "asahimame-hokkaido",
+    "name": "旭豆",
+    "kana": "あさひまめ",
+    "englishName": "Asahimame (Sugar-coated Roasted Soybeans)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "北海道",
+        "locality": "旭川市"
+      }
+    ],
+    "summary": "炒った大豆をてんさい糖でコーティングした旭川市発祥の郷土菓子。香ばしさとカリッとした食感が特徴。",
+    "menuDescription": "炒り大豆にてんさい糖の甘い衣をまとわせた、旭川銘菓の豆菓子。",
+    "whatComesOut": [
+      "てんさい糖でコーティングされた炒り大豆",
+      "バター味やハッカ味など味のバリエーションも"
+    ],
+    "tasteAndTexture": [
+      "カリッとした食感",
+      "大豆の香ばしさ",
+      "ほどよい甘さ"
+    ],
+    "orderAdvice": "お菓子・お土産向き。旭川の駅や道の駅、空港で購入できる。",
+    "caution": "大豆・小麦アレルギーに注意。",
+    "similarItems": [
+      {
+        "name": "べこ餅",
+        "difference": "べこ餅は米粉を蒸した餅菓子で、旭豆は豆をてんさい糖でコーティングした豆菓子"
+      },
+      {
+        "name": "わかさいも",
+        "difference": "わかさいもは白あんを使った焼き菓子で、旭豆は素材そのものの大豆菓子"
+      }
+    ],
+    "relatedIds": [
+      "bekomochi-hokkaido",
+      "wakasaimo-hokkaido",
+      "yamaoyaji-hokkaido"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/asahimame.html"
+    ],
+    "tags": [
+      "日本料理",
+      "豆類",
+      "香ばしい",
+      "甘み",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "旭豆",
+      "旭川 豆菓子",
+      "北海道 銘菓"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "yamaoyaji-hokkaido",
+    "name": "山親爺",
+    "kana": "やまおやじ",
+    "englishName": "Yama-Oyaji (Butter Rice Cracker)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "北海道"
+      }
+    ],
+    "summary": "老舗和菓子店・千秋庵が作る、バターと卵を使った和洋折衷のせんべい。ヒグマの意匠が特徴の札幌銘菓。",
+    "menuDescription": "バターと卵の風味豊かな、くちどけの良い洋風せんべい。",
+    "whatComesOut": [
+      "ヒグマの型押し模様が入ったせんべい",
+      "雪の結晶をかたどった形状"
+    ],
+    "tasteAndTexture": [
+      "バターと卵のコクのある風味",
+      "サクサクとした軽い食感",
+      "水を使わない生地でくちどけがよい"
+    ],
+    "orderAdvice": "お土産・お茶請け向き。札幌の千秋庵店舗などで購入できる。",
+    "caution": "小麦・乳・卵アレルギーに注意。",
+    "similarItems": [
+      {
+        "name": "旭豆",
+        "difference": "旭豆は大豆を使った豆菓子で、山親爺は小麦とバターのせんべい"
+      },
+      {
+        "name": "わかさいも",
+        "difference": "わかさいもは白あんを使った和菓子で、山親爺はバター風味の洋風せんべい"
+      }
+    ],
+    "relatedIds": [
+      "asahimame-hokkaido",
+      "wakasaimo-hokkaido"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/yamaoyaji.html"
+    ],
+    "tags": [
+      "日本料理",
+      "菓子",
+      "小麦",
+      "焼き物",
+      "サクサク",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "山親爺",
+      "千秋庵 せんべい",
+      "札幌 銘菓"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "imomochi-hokkaido",
+    "name": "いももち（北海道・じゃがいも）",
+    "kana": "いももち",
+    "aliases": [
+      "いもだんご"
+    ],
+    "englishName": "Imomochi (Hokkaido Potato Rice Cake)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "北海道"
+      }
+    ],
+    "summary": "北海道産じゃがいもを潰して片栗粉と混ぜ、焼き上げた郷土のおやつ。もちもちとした食感が特徴。",
+    "menuDescription": "つぶしたじゃがいもに片栗粉を加えて焼いた、もちもち食感のじゃがいも餅。",
+    "whatComesOut": [
+      "丸く成形して焼いたじゃがいも餅",
+      "甘辛い醤油ダレがかかっていることが多い"
+    ],
+    "tasteAndTexture": [
+      "もちもちとした食感",
+      "じゃがいもの優しい甘み",
+      "表面はバターで焼いた香ばしさ"
+    ],
+    "orderAdvice": "おやつ・軽食向き。甘辛ダレのほか塩やごまだれでも食べられる。",
+    "caution": "片栗粉（じゃがいもでんぷん）に注意。",
+    "similarItems": [
+      {
+        "name": "いももち",
+        "difference": "徳島県・和歌山県のいももちはさつまいも系の別レシピで、北海道はじゃがいも使用"
+      },
+      {
+        "name": "いももち（岐阜県・里芋）",
+        "difference": "岐阜のいももちは里芋を使い、北海道はじゃがいもが原料"
+      }
+    ],
+    "relatedIds": [
+      "imo-mochi-tokushima",
+      "imomochi-gifu",
+      "butadon-hokkaido"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/imomoti.html"
+    ],
+    "tags": [
+      "日本料理",
+      "軽食",
+      "野菜",
+      "焼き物",
+      "もちもち",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "いももち 北海道",
+      "じゃがいも餅",
+      "いもだんご"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "tachikama-hokkaido",
+    "name": "たちかま",
+    "kana": "たちかま",
+    "englishName": "Tachikama (Cod Milt Kamaboko)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "北海道",
+        "locality": "岩内町"
+      }
+    ],
+    "summary": "すけとうだらの白子を練り込んだ北海道の希少なかまぼこ。ふわっとした弾力と白子の濃厚な風味が特徴。",
+    "menuDescription": "白子を練り上げてゆでた、クリーミーな風味のかまぼこ。",
+    "whatComesOut": [
+      "丸く成形してゆで上げたかまぼこ",
+      "スライスして提供されることも"
+    ],
+    "tasteAndTexture": [
+      "ふわっとした弾力のある食感",
+      "白子のクリーミーで濃厚な風味"
+    ],
+    "orderAdvice": "刺身風にわさび醤油で、またはバター焼き・味噌汁の具として。11〜2月の漁期に流通。",
+    "caution": "魚卵・白子アレルギーに注意。塩分が気になる場合は水にさらすとよい。",
+    "similarItems": [
+      {
+        "name": "たちの味噌汁／スケソウダラの白子の味噌汁",
+        "difference": "たちの味噌汁は白子をそのまま汁に入れる料理で、たちかまは練り物に加工したもの"
+      },
+      {
+        "name": "松前漬",
+        "difference": "松前漬はスルメイカと昆布の漬物で、たちかまは白子のかまぼこ"
+      }
+    ],
+    "relatedIds": [
+      "tachi-no-misoshiru-hokkaido",
+      "tachinomisoshiru-hokkaido",
+      "matsumae-zuke-hokkaido"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/tatikama.html"
+    ],
+    "tags": [
+      "日本料理",
+      "魚介",
+      "クリーミー",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "たちかま",
+      "白子 かまぼこ",
+      "北海道 練り物"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "hotate-hoshi-kaibashira-hokkaido",
+    "name": "ホタテ干し貝柱",
+    "kana": "ほたてほしかいばしら",
+    "englishName": "Dried Scallop (Hotate Hoshi Kaibashira)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "北海道",
+        "locality": "オホーツク海沿岸"
+      }
+    ],
+    "summary": "オホーツク海沿岸で水揚げされたほたての貝柱を塩ゆでし乾燥させた乾物。うま味が凝縮し出汁にも使われる。",
+    "menuDescription": "ほたての貝柱を塩ゆでして干し上げた、うま味の濃い乾物。",
+    "whatComesOut": [
+      "乾燥させたほたての貝柱",
+      "粒の大小で旨みや塩気が異なる"
+    ],
+    "tasteAndTexture": [
+      "凝縮された濃厚な旨味",
+      "歯ごたえのある噛みごたえ",
+      "戻すと出汁に深みが出る"
+    ],
+    "orderAdvice": "酒の肴にそのまま、または戻して出汁や炊き込みご飯・スープに活用する。",
+    "caution": "貝類アレルギーに注意。",
+    "similarItems": [
+      {
+        "name": "松前漬",
+        "difference": "松前漬はスルメイカと昆布の漬物で、干し貝柱は乾燥させたほたてそのもの"
+      },
+      {
+        "name": "鮭とば",
+        "difference": "鮭とばは鮭の乾物で、干し貝柱はほたての貝柱の乾物"
+      }
+    ],
+    "relatedIds": [
+      "matsumae-zuke-hokkaido",
+      "saketoba-hokkaido"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/hotatehosikaibasira.html"
+    ],
+    "tags": [
+      "日本料理",
+      "貝類",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ホタテ干し貝柱",
+      "オホーツク 貝柱",
+      "北海道 乾物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "white-asparagus-mizuni-hokkaido",
+    "name": "ホワイトアスパラガス水煮",
+    "kana": "ほわいとあすぱらがすみずに",
+    "englishName": "White Asparagus in Water (Canned)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "北海道",
+        "locality": "岩内町"
+      }
+    ],
+    "summary": "旬のホワイトアスパラガスを水煮にして缶詰にした北海道特産品。ほろ苦さと甘みのバランスが特徴。",
+    "menuDescription": "ホワイトアスパラガスを塩水でやわらかく煮た、缶詰の野菜加工品。",
+    "whatComesOut": [
+      "やわらかく煮たホワイトアスパラガス",
+      "缶詰またはパック詰め"
+    ],
+    "tasteAndTexture": [
+      "くったりとやわらかい食感",
+      "ほのかな苦みと甘みのバランス",
+      "淡白な味わい"
+    ],
+    "orderAdvice": "前菜としてソースがけ、またはスープの具材に。",
+    "caution": "特になし。",
+    "similarItems": [
+      {
+        "name": "いももち（北海道・じゃがいも）",
+        "difference": "いももちはじゃがいもの加工品で、こちらはアスパラガスの水煮"
+      }
+    ],
+    "relatedIds": [
+      "imomochi-hokkaido"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/white_asparagus_mizuni.html"
+    ],
+    "tags": [
+      "日本料理",
+      "野菜",
+      "あっさり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ホワイトアスパラガス水煮",
+      "北海道 アスパラガス 缶詰",
+      "岩内町"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "wakasaimo-hokkaido",
+    "name": "わかさいも",
+    "kana": "わかさいも",
+    "englishName": "Wakasaimo (Sweet Bean Paste Confection)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "北海道",
+        "locality": "虻田郡洞爺湖町"
+      }
+    ],
+    "summary": "焼きいもを模した洞爺湖温泉名物の和菓子。芋を使わず大福豆の白あんと昆布で見た目と食感を再現している。",
+    "menuDescription": "白あんに昆布の繊維を加え、卵醤油を塗って焼き上げた焼きいも風の和菓子。",
+    "whatComesOut": [
+      "焼きいもそっくりの見た目の和菓子",
+      "中は白あんと昆布の繊維"
+    ],
+    "tasteAndTexture": [
+      "ほくほくとした食感",
+      "白あんの上品な甘さ",
+      "表面は香ばしい卵醤油の風味"
+    ],
+    "orderAdvice": "お土産・お茶請け向き。洞爺湖温泉の土産物店や道内の駅・空港で購入できる。",
+    "caution": "豆類・卵・小麦アレルギーに注意。",
+    "similarItems": [
+      {
+        "name": "旭豆",
+        "difference": "旭豆は大豆をてんさい糖でコーティングした豆菓子で、わかさいもは白あんの和菓子"
+      },
+      {
+        "name": "山親爺",
+        "difference": "山親爺はバター風味の洋風せんべいで、わかさいもは白あんを使った和菓子"
+      }
+    ],
+    "relatedIds": [
+      "asahimame-hokkaido",
+      "yamaoyaji-hokkaido"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/wakasaimo.html"
+    ],
+    "tags": [
+      "日本料理",
+      "菓子",
+      "豆類",
+      "甘み",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "わかさいも",
+      "洞爺湖 銘菓",
+      "焼きいも風 和菓子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "nuka-nishin-hokkaido",
+    "name": "ぬかにしん",
+    "kana": "ぬかにしん",
+    "aliases": [
+      "すしにしん"
+    ],
+    "englishName": "Nuka-nishin (Rice Bran Pickled Herring)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "北海道",
+        "locality": "小樽市"
+      }
+    ],
+    "summary": "にしんを米ぬかと塩に漬け込んで熟成させた小樽の発酵保存食。江戸時代の輸送保存の知恵から生まれた。",
+    "menuDescription": "にしんを米ぬかに漬け込み、旨味を熟成させた発酵食品。",
+    "whatComesOut": [
+      "ぬかをまとったにしんの切り身",
+      "焼いて提供されることが多い"
+    ],
+    "tasteAndTexture": [
+      "ぬかの風味が染みた熟成のうま味",
+      "しっかり効いた塩気",
+      "焼くと皮目が香ばしい"
+    ],
+    "orderAdvice": "焼いて食べるのが一般的。塩分が強いので夏場の塩分補給や食欲増進に。",
+    "caution": "魚介・塩分アレルギー、塩分過多に注意。",
+    "similarItems": [
+      {
+        "name": "ニシン漬け",
+        "difference": "ニシン漬けは野菜と麹で漬ける漬物で、ぬかにしんは米ぬかと塩で漬け込む発酵食品"
+      },
+      {
+        "name": "三平汁",
+        "difference": "三平汁はぬかにしんなどを具にした汁物で、ぬかにしん自体は漬け込み食品"
+      }
+    ],
+    "relatedIds": [
+      "nishin-zuke-hokkaido",
+      "sanpei-jiru-hokkaido",
+      "izushi-hokkaido"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/nukanisin.html"
+    ],
+    "tags": [
+      "日本料理",
+      "魚介",
+      "発酵",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ぬかにしん",
+      "小樽 にしん漬け",
+      "米ぬか 魚 発酵"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "gyoja-ninniku-shoyuzuke-hokkaido",
+    "name": "行者にんにくしょうゆ漬け",
+    "kana": "ぎょうじゃにんにくしょうゆづけ",
+    "aliases": [
+      "アイヌネギ醤油漬け"
+    ],
+    "englishName": "Gyoja Ninniku Shoyu-zuke (Pickled Victory Onion)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "北海道",
+        "locality": "十勝地域"
+      }
+    ],
+    "summary": "山菜の行者にんにくを醤油やみりんに漬け込んだ保存食。厳寒の北海道で貴重な栄養源として重宝された。",
+    "menuDescription": "行者にんにくを醤油だれに漬け込んだ、香り豊かな山菜の漬物。",
+    "whatComesOut": [
+      "醤油だれに漬かった行者にんにく",
+      "刻んでご飯や豆腐にかけて提供されることも"
+    ],
+    "tasteAndTexture": [
+      "にんにくのような独特の香り",
+      "生漬けはシャキシャキ、茹で漬けは柔らか",
+      "醤油だれの旨味と塩気"
+    ],
+    "orderAdvice": "ご飯や豆腐にかけるのが定番。ニンニクのような香りが気になる場合は注意。",
+    "caution": "食後の口臭に注意。",
+    "similarItems": [
+      {
+        "name": "松前漬",
+        "difference": "松前漬はスルメイカと昆布の漬物で、行者にんにくしょうゆ漬けは山菜の漬物"
+      }
+    ],
+    "relatedIds": [
+      "matsumae-zuke-hokkaido"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/gyozya_ninniku_syouyu_duke.html"
+    ],
+    "tags": [
+      "日本料理",
+      "野菜",
+      "ハーブ",
+      "マリネ",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "行者にんにく醤油漬け",
+      "アイヌネギ 漬物",
+      "十勝 山菜"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "kinkonzuke-iwate",
+    "name": "金婚漬け",
+    "kana": "きんこづけ",
+    "aliases": [
+      "金婚漬"
+    ],
+    "englishName": "Kinkonzuke (Iwate stuffed pickled melon)",
+    "originalName": "金婚漬",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "岩手県",
+        "locality": "花巻市"
+      }
+    ],
+    "summary": "岩手県花巻市に伝わる漬物。中をくり抜いたしろうりに、昆布で巻いたにんじん・ごぼう・だいこん等を隙間なく詰め、味噌床で長期間漬け込んで作る。輪切りにすると花や家紋のような美しい断面が現れ、「漬物の芸術品」とも呼ばれる。",
+    "menuDescription": "江戸時代から岩手県花巻市に伝わる古漬け。くり抜いたしろうりに、昆布で巻いた彩り野菜を隙間なく詰め込み、味噌床でじっくりと熟成させました。輪切りにした際の華やかな断面から、祝いの席にもよく用いられる縁起の良い一品です。",
+    "whatComesOut": [
+      "輪切りにされたしろうりの漬物",
+      "断面に見える赤いにんじん・茶色いごぼう・黒い昆布の彩り",
+      "べっこう色に染まった漬け汁のつや",
+      "酒の肴や茶請けとして小皿に数切れ盛られたもの"
+    ],
+    "tasteAndTexture": [
+      "味噌の深い旨味と塩気",
+      "長期熟成による濃厚な味わい",
+      "しろうりのコリコリとした歯ごたえ",
+      "野菜と昆布が生む複雑な風味"
+    ],
+    "orderAdvice": "漬物・発酵食品好きなら試す価値あり。断面の美しさも楽しめる一方、味噌漬け特有の強い塩気と濃厚さがあるため、あっさりした漬物を好む人には重く感じられることも。",
+    "caution": "塩分が多め。味噌（大豆）を使用。",
+    "similarItems": [
+      {
+        "id": "urino-teppou-zuke-chiba",
+        "name": "瓜の鉄砲漬",
+        "difference": "瓜の鉄砲漬は唐辛子を詰めて醤油ベースの調味液で漬けピリ辛。金婚漬けは味噌床で漬け、辛みはなく彩り野菜を昆布で巻いて詰める点が異なる"
+      },
+      {
+        "name": "養肝漬",
+        "difference": "三重県の養肝漬も瓜に野菜を詰める漬物で製法が似るが、産地や漬け床の配合が異なる"
+      }
+    ],
+    "relatedIds": [
+      "urino-teppou-zuke-chiba"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/kinko_zuke.html",
+      "https://ja.wikipedia.org/wiki/金婚漬"
+    ],
+    "tags": [
+      "日本料理",
+      "野菜",
+      "発酵",
+      "郷土料理",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "漬物が苦手な人",
+      "発酵食品が苦手な人",
+      "洋食派",
+      "あっさりした味付けを好む人"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "sendai-miso",
+    "name": "仙台味噌",
+    "kana": "せんだいみそ",
+    "aliases": [
+      "仙台みそ"
+    ],
+    "englishName": "Sendai Miso",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "宮城県"
+      }
+    ],
+    "summary": "伊達政宗ゆかりの米味噌。大豆比率が高く濃い山吹色で、塩なれした旨味とすっきりした辛口の味わいが特徴。",
+    "menuDescription": "宮城県産、伊達政宗ゆかりの仙台味噌を使用",
+    "whatComesOut": [
+      "濃い山吹色で光沢のある味噌",
+      "米麹を使った辛口の赤味噌",
+      "ばっけ味噌やしそ巻きなど郷土料理の調味に使用"
+    ],
+    "tasteAndTexture": [
+      "塩なれした旨味",
+      "すっきりとした辛口",
+      "大豆の風味が強い",
+      "熟成香が豊か"
+    ],
+    "orderAdvice": "郷土料理の「ばっけ味噌」「しそ巻き」や味噌汁で本場の味を確認したい人向け。豆味噌・白味噌に慣れた人には塩味が強く感じられることがある。",
+    "similarItems": [
+      {
+        "name": "信州味噌",
+        "difference": "信州味噌は淡色で軽い味わい。仙台味噌は大豆比率が高く色が濃く塩味が強い"
+      },
+      {
+        "name": "八丁味噌",
+        "difference": "八丁味噌は大豆のみで作る豆味噌でコクが強い。仙台味噌は米麹を使う米味噌"
+      }
+    ],
+    "relatedIds": [
+      "bakke-miso",
+      "shiso-maki-miyagi",
+      "sendai-zoni"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/sendaimiso.html"
+    ],
+    "tags": [
+      "日本料理",
+      "調味料",
+      "大豆",
+      "発酵",
+      "香ばしい",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "薄味の白味噌が好きな人",
+      "甘口味噌が好きな人",
+      "発酵食品が苦手な人"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "shiroishi-umen",
+    "name": "白石温麺",
+    "kana": "しろいしうーめん",
+    "aliases": [
+      "白石うーめん"
+    ],
+    "englishName": "Shiroishi Umen",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "宮城県",
+        "locality": "白石市"
+      }
+    ],
+    "summary": "400年以上の歴史を持つ白石市の麺料理。製造に油を使わない素麺で、長さ9cmと短く胃に優しいのが特徴。",
+    "menuDescription": "白石市名産、油を使わず作る短く消化に良い温麺",
+    "whatComesOut": [
+      "長さ9cmほどの短い麺",
+      "醤油ベースのつけつゆ",
+      "温かい汁または冷やしたざる仕立て"
+    ],
+    "tasteAndTexture": [
+      "油を使わないさっぱりした喉ごし",
+      "素麺よりやや太め",
+      "あっさり",
+      "つるりとした食感"
+    ],
+    "orderAdvice": "胃に優しい麺を求める人や短時間で食べられる麺を探す人向け。がっつり系の太麺を好む人には物足りない。",
+    "similarItems": [
+      {
+        "name": "素麺",
+        "difference": "素麺は製麺時に油を使い長さも長い。温麺は油を使わず9cmと短く胃に優しい"
+      },
+      {
+        "name": "おくずかけ",
+        "id": "okuzukake",
+        "difference": "おくずかけは白石温麺を野菜とだしでとろみ煮にした郷土料理。温麺自体は麺そのものを指す"
+      }
+    ],
+    "relatedIds": [
+      "okuzukake"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/siroisiuumen.html"
+    ],
+    "tags": [
+      "日本料理",
+      "麺料理",
+      "小麦",
+      "あっさり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "こってり系ラーメンが好きな人",
+      "太麺が好きな人",
+      "がっつり食べたい人"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "aburafu",
+    "name": "油麩",
+    "kana": "あぶらふ",
+    "aliases": [],
+    "englishName": "Aburafu",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "宮城県",
+        "locality": "登米市"
+      }
+    ],
+    "summary": "小麦グルテンを棒状にして植物油で揚げた宮城県登米地方特産の麩。香ばしく高タンパクで精進料理にルーツを持つ。",
+    "menuDescription": "登米市特産、グルテンを揚げた香ばしい油麩",
+    "whatComesOut": [
+      "フランスパン状の長い揚げ麩",
+      "煮物や味噌汁の具材",
+      "油麩丼の主役食材"
+    ],
+    "tasteAndTexture": [
+      "香ばしい揚げ油の風味",
+      "だしを吸ったジューシーな食感",
+      "もっちりとしたボリューム感"
+    ],
+    "orderAdvice": "肉の代替になる精進食材を探す人や油麩丼を食べてみたい人向け。麩特有の食感が苦手な人には不向き。",
+    "similarItems": [
+      {
+        "name": "焼き麩",
+        "difference": "焼き麩はグルテンを焼いて作る。油麩は同じ生地を油で揚げるため香ばしさとコクが強い"
+      },
+      {
+        "name": "高野豆腐",
+        "difference": "高野豆腐は大豆由来の凍結乾燥食品。油麩は小麦グルテンが原料で食感も異なる"
+      }
+    ],
+    "relatedIds": [
+      "aburafu-don-miyagi"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/aburahu.html"
+    ],
+    "tags": [
+      "小麦",
+      "揚げ物",
+      "香ばしい",
+      "精進料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "肉料理が好きな人",
+      "あっさりした料理が好きな人",
+      "揚げ物が苦手な人"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "koori-doufu-miyagi",
+    "name": "凍り豆腐（岩出山）",
+    "kana": "こおりどうふ",
+    "aliases": [
+      "岩出山凍り豆腐"
+    ],
+    "englishName": "Frozen Tofu",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "宮城県",
+        "locality": "大崎市岩出山地区"
+      }
+    ],
+    "summary": "大崎市岩出山地区で江戸時代末期から作られる自然乾燥製法の凍り豆腐。弾力ある硬めの歯触りと大豆の風味が特徴。",
+    "menuDescription": "大崎市岩出山特産、自然乾燥で仕上げる凍り豆腐",
+    "whatComesOut": [
+      "白くキメの整った乾燥豆腐",
+      "煮物やおでんの具材",
+      "仙台雑煮に欠かせない一品"
+    ],
+    "tasteAndTexture": [
+      "弾力に富んだ硬めの歯触り",
+      "滑らかな舌触り",
+      "だしをよく吸う",
+      "大豆の風味が豊か"
+    ],
+    "orderAdvice": "高野豆腐と食べ比べたい人や郷土色の強い保存食材に興味がある人向け。高野豆腐のふわっとした食感を期待すると硬さに驚くことがある。",
+    "similarItems": [
+      {
+        "name": "高野豆腐",
+        "difference": "高野豆腐は湯で溶かしてから乾燥させる西日本の製法。岩出山凍り豆腐は自然乾燥のみで作り硬めの食感になる"
+      }
+    ],
+    "relatedIds": [
+      "sendai-zoni",
+      "heso-daikon-no-nishime-miyagi"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/kooridouhu.html"
+    ],
+    "tags": [
+      "大豆",
+      "発酵",
+      "郷土料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "生の豆腐のなめらかさが好きな人",
+      "保存食が苦手な人"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/koori-doufu-miyagi/1.png",
+      "/images/dishes/koori-doufu-miyagi/2.jpg",
+      "/images/dishes/koori-doufu-miyagi/3.jpg"
+    ]
+  },
+  {
+    "id": "shimi-daikon-miyagi",
+    "name": "凍み大根（へそ大根）",
+    "kana": "しみだいこん",
+    "aliases": [
+      "へそ大根",
+      "ばばべそ"
+    ],
+    "englishName": "Freeze-dried Daikon",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "宮城県",
+        "locality": "丸森町筆甫地区"
+      }
+    ],
+    "summary": "冬の寒風にさらして作る天然フリーズドライの干し大根。串を刺した跡がへそのように見えることから「へそ大根」とも呼ばれる。",
+    "menuDescription": "丸森町筆甫地区の郷土保存食、天日干しの凍み大根",
+    "whatComesOut": [
+      "輪切りでしわしわに縮んだ干し大根",
+      "戻して使う煮しめの具材",
+      "だしを吸ったやわらかい大根"
+    ],
+    "tasteAndTexture": [
+      "天日乾燥ならではの香り",
+      "旨味が凝縮",
+      "やわらかい食感",
+      "戻し汁にも風味が出る"
+    ],
+    "orderAdvice": "郷土の保存食文化に触れたい人向け。生の大根のみずみずしさを期待すると別物に感じる。",
+    "similarItems": [
+      {
+        "name": "切り干し大根",
+        "difference": "切り干し大根は千切りにして天日干しする一般的な保存食。凍み大根は輪切りのまま凍結と乾燥を繰り返して作る"
+      }
+    ],
+    "relatedIds": [
+      "heso-daikon-no-nishime-miyagi",
+      "koori-doufu-miyagi"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/simidaikon.html"
+    ],
+    "tags": [
+      "野菜",
+      "乾燥",
+      "郷土料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "生野菜の食感が好きな人",
+      "保存食が苦手な人"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "zunda",
+    "name": "ずんだ",
+    "kana": "ずんだ",
+    "aliases": [
+      "じんだ"
+    ],
+    "englishName": "Zunda",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "宮城県"
+      }
+    ],
+    "summary": "茹でた枝豆をすりつぶし砂糖と塩で味付けした餡。鮮やかな緑色で、ずんだ餅をはじめ様々なスイーツに使われる宮城の代表的食材。",
+    "menuDescription": "宮城県産枝豆を使った鮮やかな緑色のずんだ餡",
+    "whatComesOut": [
+      "すりつぶした緑色の枝豆餡",
+      "餅や団子に絡めた状態",
+      "シェイクやどら焼きなどスイーツの素材"
+    ],
+    "tasteAndTexture": [
+      "ほんのり素朴な甘み",
+      "豆の風味",
+      "つぶつぶとした食感",
+      "なめらかな餡の口当たり"
+    ],
+    "orderAdvice": "宮城土産の定番を試したい人向け。豆特有の風味が苦手な人には合わないことがある。",
+    "similarItems": [
+      {
+        "name": "こしあん",
+        "difference": "こしあんは小豆を漉して作る餡。ずんだは枝豆をすりつぶした餡で緑色と豆の粒感が特徴"
+      },
+      {
+        "name": "うぐいすあん",
+        "difference": "うぐいすあんはえんどう豆が原料。ずんだは枝豆が原料で風味と食感が異なる"
+      }
+    ],
+    "relatedIds": [
+      "zunda-mochi-miyagi"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/zunda.html"
+    ],
+    "tags": [
+      "日本料理",
+      "デザート",
+      "豆類",
+      "甘み",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "小豆あんが好きな人",
+      "豆の風味が苦手な人",
+      "洋菓子派"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/zunda/1.jpg",
+      "/images/dishes/zunda/2.jpg",
+      "/images/dishes/zunda/3.jpg"
+    ]
+  },
+  {
+    "id": "sasa-kamaboko",
+    "name": "笹かまぼこ",
+    "kana": "ささかまぼこ",
+    "aliases": [
+      "笹かま"
+    ],
+    "englishName": "Sasa Kamaboko",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "宮城県"
+      }
+    ],
+    "summary": "白身魚のすり身を笹の葉形に成形し焼き上げた宮城県の代表的練り物。伊達政宗の家紋にちなんで名付けられた。",
+    "menuDescription": "宮城県特産、白身魚すり身を焼き上げた笹形かまぼこ",
+    "whatComesOut": [
+      "笹の葉形に成形された焼きかまぼこ",
+      "香ばしい焼き色のついた表面",
+      "そのまま食べられる個包装のおやつ"
+    ],
+    "tasteAndTexture": [
+      "プリッとした歯応え",
+      "香ばしい焼き色の風味",
+      "淡泊な白身魚の旨味",
+      "低脂肪でヘルシー"
+    ],
+    "orderAdvice": "宮城名物を手軽に楽しみたい人向け。練り物特有の食感が苦手な人には不向き。",
+    "similarItems": [
+      {
+        "name": "はんぺん",
+        "difference": "はんぺんはふわふわとした食感の蒸しかまぼこ。笹かまぼこは焼き上げるためプリッとした歯応えがある"
+      }
+    ],
+    "relatedIds": [
+      "sasa-kamaboko-no-isobeage-miyagi"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/sasakamaboko.html"
+    ],
+    "tags": [
+      "魚介",
+      "焼き物",
+      "香ばしい",
+      "郷土料理",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "練り物が苦手な人",
+      "肉料理派"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sasa-kamaboko/1.jpg",
+      "/images/dishes/sasa-kamaboko/2.jpg",
+      "/images/dishes/sasa-kamaboko/3.jpg"
+    ]
+  },
+  {
+    "id": "sendai-dagashi",
+    "name": "仙台駄菓子",
+    "kana": "せんだいだがし",
+    "aliases": [],
+    "englishName": "Sendai Dagashi",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "宮城県",
+        "locality": "仙台市・松島地区"
+      }
+    ],
+    "summary": "江戸時代から続く仙台の素朴な菓子の総称。穀類や黒砂糖、水飴を使い、ささら飴やうさぎ玉など50〜60種類が手作りされる。",
+    "menuDescription": "仙台伝統の手作り駄菓子の詰め合わせ",
+    "whatComesOut": [
+      "ささら飴やうさぎ玉などの詰め合わせ",
+      "素朴な見た目の焼き菓子や飴",
+      "土産用の菓子箱"
+    ],
+    "tasteAndTexture": [
+      "黒砂糖の素朴な甘み",
+      "香ばしい穀物の風味",
+      "種類ごとに異なる食感"
+    ],
+    "orderAdvice": "昔ながらの素朴な和菓子を土産にしたい人向け。洋菓子のような濃厚な甘さを期待すると物足りない。",
+    "similarItems": [
+      {
+        "name": "雷おこし",
+        "difference": "雷おこしは米を主体にした東京の郷土菓子。仙台駄菓子は種類が豊富で黒砂糖を使う点が特徴"
+      }
+    ],
+    "relatedIds": [],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/sendai-dagasi.html"
+    ],
+    "tags": [
+      "日本料理",
+      "デザート",
+      "米",
+      "甘み",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "濃厚な洋菓子が好きな人",
+      "甘さ控えめが好きな人"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sendai-dagashi/1.jpg"
+    ]
+  },
+  {
+    "id": "kesennuma-fukahire",
+    "name": "気仙沼ふかひれ",
+    "kana": "けせんぬまふかひれ",
+    "aliases": [
+      "ふかひれ"
+    ],
+    "englishName": "Kesennuma Shark Fin",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "宮城県",
+        "locality": "気仙沼市"
+      }
+    ],
+    "summary": "サメ水揚げ量日本一を誇る気仙沼で作られる高級乾物食材。世界三大漁場・三陸沖で獲れるサメのヒレを丁寧に加工する。",
+    "menuDescription": "気仙沼産、サメのヒレを乾燥させた高級食材ふかひれ",
+    "whatComesOut": [
+      "オイスターソースで煮込んだ姿煮",
+      "香ばしく焼き上げたステーキ",
+      "とろみのあるふかひれスープ"
+    ],
+    "tasteAndTexture": [
+      "コラーゲン質のぷるぷるとした食感",
+      "旨味を吸ったとろみ",
+      "淡白な味わい"
+    ],
+    "orderAdvice": "本場の高級中華食材を試したい人向け。コラーゲン特有の食感が苦手な人には不向き。",
+    "similarItems": [
+      {
+        "name": "つばめの巣",
+        "difference": "つばめの巣は中華高級食材だが鳥の巣が原料。ふかひれはサメのヒレが原料でコラーゲン質のとろみが特徴"
+      }
+    ],
+    "relatedIds": [],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/hukahire.html"
+    ],
+    "tags": [
+      "中国料理",
+      "魚介",
+      "煮込み",
+      "コース料理"
+    ],
+    "reverseKeywords": [
+      "あっさりした魚料理が好きな人",
+      "コラーゲン食感が苦手な人",
+      "予算重視の人"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "mushi-hoya",
+    "name": "蒸しほや",
+    "kana": "むしほや",
+    "aliases": [],
+    "englishName": "Steamed Sea Pineapple",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "宮城県",
+        "locality": "三陸海岸"
+      }
+    ],
+    "summary": "宮城特産の海産物ほやを酒蒸しにした加工品。独特のにおいが抑えられ、旬以外の時期でも濃厚な味わいを楽しめる。",
+    "menuDescription": "三陸産ほやを酒蒸しにした濃厚な珍味",
+    "whatComesOut": [
+      "殻から外した蒸しほや",
+      "酢味噌和えなどの小鉢",
+      "酒の肴向けの一品"
+    ],
+    "tasteAndTexture": [
+      "濃厚な磯の風味",
+      "コリコリとした食感",
+      "ほのかな甘みと塩気"
+    ],
+    "orderAdvice": "生のほやの独特なにおいが苦手だが味は試したい人向け。ほや自体の風味が苦手な人には不向き。",
+    "similarItems": [
+      {
+        "name": "ホヤの酢の物",
+        "id": "hoya-no-sunomono-miyagi",
+        "difference": "酢の物は生のほやを酢で和える。蒸しほやは加熱加工により臭みが抑えられクセが少ない"
+      }
+    ],
+    "relatedIds": [
+      "hoya-no-sunomono-miyagi"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/musihoya.html"
+    ],
+    "tags": [
+      "日本料理",
+      "魚介",
+      "蒸し料理",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "磯の香りが苦手な人",
+      "クセのない白身魚が好きな人"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "mekabu-tororo",
+    "name": "メカブとろろ",
+    "kana": "めかぶとろろ",
+    "aliases": [],
+    "englishName": "Mekabu Tororo",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "宮城県",
+        "locality": "三陸地域"
+      }
+    ],
+    "summary": "三陸産わかめの根元（メカブ）を細かく刻みとろろ状にした一品。ネバネバとシャキシャキの食感が心地よい。",
+    "menuDescription": "三陸産わかめの根元を刻んだネバネバのメカブとろろ",
+    "whatComesOut": [
+      "刻んだメカブの小鉢",
+      "醤油をかけたご飯のせ",
+      "味噌汁や酢の物の具材"
+    ],
+    "tasteAndTexture": [
+      "ツルッとした粘り",
+      "シャキシャキとした歯触り",
+      "磯の風味",
+      "あっさりとした味わい"
+    ],
+    "orderAdvice": "ネバネバ食材が好きな人向け。海藻のぬめりが苦手な人には不向き。",
+    "similarItems": [
+      {
+        "name": "もずく酢",
+        "difference": "もずく酢は酢の効いた別の海藻。メカブとろろはわかめの根元を刻んだものでとろみが強い"
+      }
+    ],
+    "relatedIds": [
+      "enzou-wakame-miyagi"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/mekabu_tororo.html"
+    ],
+    "tags": [
+      "日本料理",
+      "軽食",
+      "魚介",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ねばねば食感が苦手な人",
+      "海藻が苦手な人"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "enzou-wakame-miyagi",
+    "name": "塩蔵ワカメ",
+    "kana": "えんぞうわかめ",
+    "aliases": [
+      "湯通し塩蔵わかめ"
+    ],
+    "englishName": "Salted Wakame",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "宮城県",
+        "locality": "三陸"
+      }
+    ],
+    "summary": "三陸産の肉厚なわかめを湯通しして塩漬けにした保存食材。干しわかめより栄養価や食感、風味に優れる。",
+    "menuDescription": "三陸産、湯通し塩蔵で仕上げた肉厚わかめ",
+    "whatComesOut": [
+      "塩抜きして戻したわかめ",
+      "サラダや酢の物の具材",
+      "味噌汁やしゃぶしゃぶの具材"
+    ],
+    "tasteAndTexture": [
+      "肉厚でシャキシャキした歯ごたえ",
+      "磯の香り",
+      "塩を抜くとあっさり"
+    ],
+    "orderAdvice": "肉厚な国産わかめの食感を試したい人向け。乾燥わかめの手軽さを求める人には戻す手間がやや負担。",
+    "similarItems": [
+      {
+        "name": "乾燥わかめ",
+        "difference": "乾燥わかめは天日や機械で完全に乾燥させる。塩蔵わかめは湯通し後塩漬けにするため食感と風味が優れる"
+      }
+    ],
+    "relatedIds": [
+      "mekabu-tororo"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/enzou_wakame.html"
+    ],
+    "tags": [
+      "野菜",
+      "郷土料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "乾物の手軽さを求める人",
+      "海藻が苦手な人"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/enzou-wakame-miyagi/1.jpg"
+    ]
+  },
+  {
+    "id": "boudara-ni-yamagata",
+    "name": "棒鱈煮",
+    "kana": "ぼうだらに",
+    "englishName": "Boudara-ni (Simmered Dried Cod)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "山形県"
+      }
+    ],
+    "summary": "乾燥させた棒鱈を一晩かけて戻し、骨まで柔らかくなるまで甘辛く煮込んだ山形県内陸部のハレの日料理。",
+    "menuDescription": "乾物の棒鱈をじっくり戻し、醤油・砂糖・酒・みりんで根気よく煮込んだ、正月や祭りに欠かせない一皿。",
+    "whatComesOut": [
+      "骨までほろほろに煮込まれた鱈の甘辛煮",
+      "とろみのある濃いめの煮汁",
+      "正月や祭りの膳に添えられる一皿"
+    ],
+    "tasteAndTexture": [
+      "甘辛い濃厚な味付け",
+      "骨まで食べられるほろほろとした柔らかさ",
+      "乾物ならではの凝縮した旨味"
+    ],
+    "orderAdvice": "戻しと煮込みに手間がかかる家庭料理。郷土料理店や旅館の正月膳で味わうのがおすすめ。",
+    "similarItems": [
+      {
+        "id": "tarajiru-akita",
+        "name": "鱈汁",
+        "difference": "鱈汁は味噌仕立ての汁物、棒鱈煮は乾物を甘辛く煮た保存食"
+      },
+      {
+        "id": "dongara-jiru-yamagata",
+        "name": "どんがら汁／寒鱈汁",
+        "difference": "どんがら汁は生の寒鱈を使った鍋、棒鱈煮は乾物の鱈を戻して煮る"
+      }
+    ],
+    "relatedIds": [
+      "tarajiru-akita",
+      "taranokoiri-akita",
+      "dongara-jiru-yamagata"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/boudarani.html"
+    ],
+    "tags": [
+      "日本料理",
+      "東北",
+      "魚介",
+      "煮込み",
+      "甘み",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "生魚料理を求める人",
+      "あっさり味を好む人",
+      "短時間で作れる料理を求める人"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "yukiwari-natto-yamagata",
+    "name": "雪割納豆",
+    "kana": "ゆきわりなっとう",
+    "englishName": "Yukiwari Natto (Twice-Fermented Salted Natto)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "山形県",
+        "locality": "米沢市"
+      }
+    ],
+    "summary": "ひきわり納豆に塩と米麹を加えて二次発酵させた、味噌に似た見た目と塩味を持つ置賜地域の熟成発酵食品。",
+    "menuDescription": "納豆をさらに塩と米麹で発酵させ、コクとうま味を凝縮させた郷土の発酵食品。ご飯のお供や酒肴として供される。",
+    "whatComesOut": [
+      "味噌のような色合いの粒状納豆",
+      "塩味の効いた濃厚な発酵食品",
+      "薬味とともに供される小皿"
+    ],
+    "tasteAndTexture": [
+      "塩辛さの中に深いコクとうま味",
+      "味噌に近いねっとりとした質感",
+      "発酵由来の複雑な風味"
+    ],
+    "orderAdvice": "納豆の粘りが苦手でも味噌に近い風味なので試しやすい。塩分が強いので少量ずつご飯にのせるのが向く。",
+    "caution": "塩分が高いため摂取量に注意",
+    "similarItems": [
+      {
+        "id": "natto",
+        "name": "納豆",
+        "difference": "納豆は一次発酵のみ、雪割納豆は塩と麹で二次発酵させ味噌に近づける"
+      },
+      {
+        "id": "natto-jiru-yamagata",
+        "name": "納豆汁",
+        "difference": "納豆汁は納豆をすり潰した汁物、雪割納豆は粒のまま食べる保存食"
+      }
+    ],
+    "relatedIds": [
+      "natto",
+      "natto-jiru-yamagata",
+      "soboro-natto-ibaraki"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/yukiwari_natto.html"
+    ],
+    "tags": [
+      "日本料理",
+      "東北",
+      "豆類",
+      "発酵",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "納豆の匂いが苦手な人",
+      "あっさりした料理を好む人",
+      "生野菜サラダを求める人"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "yonezawagyu-no-misozuke",
+    "name": "米沢牛の味噌漬",
+    "kana": "よねざわぎゅうのみそづけ",
+    "englishName": "Yonezawa Beef Miso Pickle",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "山形県",
+        "area": "置賜地域"
+      }
+    ],
+    "summary": "日本三大和牛の一つ・米沢牛を、酒粕をブレンドした味噌ダレに漬け込んだ高級加工品。焼くと味噌の香ばしさと酒粕の甘さが広がる。",
+    "menuDescription": "米沢牛を味噌と酒粕のタレでじっくり漬け込み、焼いて味噌の香ばしさと肉の旨味を引き立てた贈答用の逸品。",
+    "whatComesOut": [
+      "味噌だれを絡めて焼かれた米沢牛",
+      "香ばしく焦げ目のついた表面",
+      "濃厚な味噌ダレのソース"
+    ],
+    "tasteAndTexture": [
+      "とろけるような柔らかい肉質",
+      "濃厚な味噌のうま味と酒粕の甘さ",
+      "香ばしい焼き上がりの風味"
+    ],
+    "orderAdvice": "高級品で贈答用が多い。米沢の専門店や百貨店で購入・試食可能。特別な日の一皿に向く。",
+    "similarItems": [
+      {
+        "id": "oumigyuu-no-misozuke-shiga",
+        "name": "近江牛の味噌漬",
+        "difference": "近江牛の味噌漬は近江牛を使用、米沢牛の味噌漬は酒粕をブレンドした味噌ダレが特徴"
+      }
+    ],
+    "relatedIds": [
+      "oumigyuu-no-misozuke-shiga"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/yonezawagyu_no_misozuke.html"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "あっさりした料理を好む人",
+      "魚介中心の食事を好む人",
+      "低価格な料理を探す人"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "yakihata-atsumikabu-zuke",
+    "name": "焼畑あつみかぶ漬",
+    "kana": "やきはたあつみかぶづけ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "山形県",
+        "locality": "鶴岡市"
+      }
+    ],
+    "summary": "焼畑農法で栽培される赤かぶ「あつみかぶ」を甘酢に漬け込んだ鶴岡市温海地域の伝統漬物。漬け込むと鮮やかなピンク色になる。",
+    "menuDescription": "400年以上の歴史を持つ焼畑栽培の赤かぶを甘酢漬けにした、皮の柔らかさと果肉のシャキシャキ感が楽しめる漬物。",
+    "whatComesOut": [
+      "鮮やかなピンク色の甘酢漬けかぶ",
+      "薄切りにされた小鉢盛り",
+      "ほのかな甘みと酸味の漬け汁"
+    ],
+    "tasteAndTexture": [
+      "シャキシャキとした果肉の食感",
+      "ほのかな甘みと酸味",
+      "皮の柔らかな口当たり"
+    ],
+    "orderAdvice": "庄内地方の食事処や土産物店で購入可能。冬の行事食としても親しまれる。",
+    "similarItems": [
+      {
+        "id": "akakabu-no-senmaizuke-aomori",
+        "name": "赤かぶの千枚漬け",
+        "difference": "青森の千枚漬けは薄切り酢漬け、あつみかぶ漬は焼畑栽培の赤かぶが原料"
+      },
+      {
+        "id": "senmai-zuke-kyoto",
+        "name": "千枚漬け",
+        "difference": "京都の千枚漬けは聖護院かぶを使用、あつみかぶ漬は温海地域の在来赤かぶを使用"
+      }
+    ],
+    "relatedIds": [
+      "akakabu-no-senmaizuke-aomori",
+      "senmai-zuke-kyoto",
+      "yukina-no-fusube-zuke-yamagata"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/yakihata_atumikabuzuke.html"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "発酵",
+      "酸味",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "濃い味付けを好む人",
+      "肉料理を求める人",
+      "温かい料理を求める人"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "benigaki-no-hoshigaki",
+    "name": "紅柿の干し柿",
+    "kana": "べにがきのほしがき",
+    "englishName": "Benigaki Dried Persimmon",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "山形県",
+        "locality": "上山市"
+      }
+    ],
+    "summary": "渋みの強い上山市原産の柿「紅柿」を蔵王おろしの寒風にさらして干した、300年以上続く特産の干し柿。天然の和菓子とも呼ばれる。",
+    "menuDescription": "渋柿「紅柿」を丁寧に干し上げ、しっとりとした食感と濃厚な甘みに仕上げた上山市の特産品。",
+    "whatComesOut": [
+      "オレンジ色にしっとりと干し上がった柿",
+      "羊羹のように詰まった果肉",
+      "お茶請けに切り分けられた干し柿"
+    ],
+    "tasteAndTexture": [
+      "濃厚でしっとりとした甘み",
+      "ねっとりとした羊羹のような食感",
+      "柿本来の優しい風味"
+    ],
+    "orderAdvice": "11月〜12月が旬。上山市の土産物店・直売所で購入可能。お茶請けやサラダの具材にも使える。",
+    "similarItems": [
+      {
+        "id": "korogaki-yama-nashi",
+        "name": "枯露柿",
+        "difference": "枯露柿は山梨の甲州百目柿を使用、紅柿の干し柿は上山市原産の紅柿を使用"
+      },
+      {
+        "id": "hoshigakinamasu-saga",
+        "name": "干し柿なます",
+        "difference": "干し柿なますは大根と和えた料理、紅柿の干し柿はそのまま食べる干し柿"
+      }
+    ],
+    "relatedIds": [
+      "korogaki-yama-nashi",
+      "hoshigakinamasu-saga",
+      "kakizuke-akita"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/benigaki_no_hosigaki.html"
+    ],
+    "tags": [
+      "日本料理",
+      "東北",
+      "デザート",
+      "果物",
+      "甘み",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "塩辛い料理を好む人",
+      "主食のボリュームを求める人",
+      "生野菜サラダを求める人"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "nuka-iwashi-yamagata",
+    "name": "ぬかいわし",
+    "kana": "ぬかいわし",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "山形県",
+        "locality": "鶴岡市"
+      }
+    ],
+    "summary": "いわしを米ぬかと塩でたっぷりと漬け込んだ、鶴岡市山間部に伝わる保存食。発酵による甘みとうま味が凝縮している。",
+    "menuDescription": "塩と米ぬかでじっくり漬け込んだいわしを焼いて食べる、庄内地方の発酵保存食。",
+    "whatComesOut": [
+      "ぬかをまとった漬け込みいわし",
+      "焼き上げられた香ばしいいわし",
+      "ご飯や酒の肴として供される小皿"
+    ],
+    "tasteAndTexture": [
+      "塩辛さの中に発酵の甘み",
+      "いわしの凝縮したうま味",
+      "香ばしく焼き上げた表面"
+    ],
+    "orderAdvice": "塩分が強いため少量ずつ。庄内地方の郷土料理店や土産物店で購入可能。アンチョビ代わりにパスタにも使える。",
+    "caution": "塩分が高いため摂取量に注意",
+    "similarItems": [
+      {
+        "id": "iburigakko-akita",
+        "name": "いぶりがっこ",
+        "difference": "いぶりがっこは燻製した大根の漬物、ぬかいわしは魚を米ぬかで漬けた保存食"
+      },
+      {
+        "id": "iwashi-no-unohana-zuke-ibaraki",
+        "name": "いわしの卯の花漬け",
+        "difference": "卯の花漬けはおからで漬ける、ぬかいわしは米ぬかで漬ける"
+      }
+    ],
+    "relatedIds": [
+      "iburigakko-akita",
+      "iwashi-no-unohana-zuke-ibaraki",
+      "seguro-iwashi-no-gomazuke-chiba"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/nukaiwasi.html"
+    ],
+    "tags": [
+      "日本料理",
+      "東北",
+      "魚介",
+      "発酵",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "あっさり味を好む人",
+      "生魚を好む人",
+      "塩分控えめの料理を求める人"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "oyama-no-kasuzuke",
+    "name": "大山の粕漬",
+    "kana": "おおやまのかすづけ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "山形県",
+        "locality": "鶴岡市"
+      }
+    ],
+    "summary": "鶴岡市大山地区の酒蔵の副産物・酒粕を使い、山形の在来野菜や魚介を漬け込んだ粕漬け。甘みとうま味のある味わいが特徴。",
+    "menuDescription": "酒どころ大山の酒粕に温海かぶや民田なす、秋鮭などを漬け込んだ、コクと風味豊かな粕漬け。",
+    "whatComesOut": [
+      "酒粕をまとった野菜や魚の粕漬け",
+      "香ばしく焼かれた粕漬け魚介",
+      "ご飯のお供として供される小鉢"
+    ],
+    "tasteAndTexture": [
+      "酒粕特有の甘みとコク",
+      "野菜のシャキシャキ感、魚のしっとり感",
+      "日本酒によく合う濃厚な風味"
+    ],
+    "orderAdvice": "野菜・魚介どちらも展開があるので好みに応じて選べる。鶴岡市の酒蔵直売店や土産物店で購入可能。",
+    "similarItems": [
+      {
+        "id": "karimori-no-kasuzuke-aichi",
+        "name": "かりもりの粕漬け",
+        "difference": "かりもりの粕漬けは瓜を使用、大山の粕漬は山形在来野菜や魚介を使用"
+      }
+    ],
+    "relatedIds": [
+      "karimori-no-kasuzuke-aichi",
+      "akebi-no-misozumeyaki-yamagata"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/oyamano_kasuzuke.html"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "発酵",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "あっさりした料理を求める人",
+      "生野菜サラダを好む人",
+      "酒粕の風味が苦手な人"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "ohina-gashi-yamagata",
+    "name": "おひな菓子",
+    "kana": "おひながし",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "山形県",
+        "locality": "鶴岡市"
+      }
+    ],
+    "summary": "鶴岡市の雛祭りに供される、鯛や海老、庄内の特産品を模した練りきりや干菓子。京菓子の伝統を受け継ぐ色鮮やかな雛菓子。",
+    "menuDescription": "鶴岡の雛祭りを彩る、縁起物や特産品をかたどった練りきり・干菓子の詰め合わせ。",
+    "whatComesOut": [
+      "鯛や海老、庄内柿などをかたどった練りきり",
+      "干菓子（打ち物）や飴細工の盛り菓子",
+      "寒天でつやを添えた上生菓子"
+    ],
+    "tasteAndTexture": [
+      "上品な甘さの餡",
+      "しっとりとした練りきりの口当たり",
+      "干菓子のほろりとした食感"
+    ],
+    "orderAdvice": "3月のひな祭りシーズンに鶴岡市の和菓子店で販売。見た目も華やかで手土産に向く。",
+    "similarItems": [
+      {
+        "id": "hina-manju-iwate",
+        "name": "ひなまんじゅう",
+        "difference": "ひなまんじゅうは蒸し菓子、おひな菓子は練りきりや干菓子中心"
+      },
+      {
+        "id": "goshikinamagashi-ishikawa",
+        "name": "五色生菓子",
+        "difference": "五色生菓子は五色の生菓子、おひな菓子は鯛や特産品を模した意匠が特徴"
+      }
+    ],
+    "relatedIds": [
+      "hina-manju-iwate",
+      "goshikinamagashi-ishikawa"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/ohinagasi.html"
+    ],
+    "tags": [
+      "日本料理",
+      "デザート",
+      "甘み",
+      "祝祭料理",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "塩気の強い料理を好む人",
+      "主菜を求める人",
+      "シンプルな味を求める人"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "harako-meshi-fukushima",
+    "name": "はらこ飯",
+    "kana": "はらこめし",
+    "englishName": "Harako Meshi (Salmon and Roe Rice, Fukushima style)",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東北",
+        "country": "日本",
+        "prefecture": "福島県",
+        "locality": "相馬市・南相馬市・浪江町"
+      }
+    ],
+    "summary": "福島県浜通り地方、鮭漁で知られる請戸川流域の郷土料理。鮭からほぐしたいくら（はらこ）を酒と醤油に漬け込み、炊きたてご飯にたっぷりのせて食べる秋の味覚。",
+    "menuDescription": "福島県浜通りの秋の味覚。鮭から取り出したいくらを酒と醤油に漬け込み、炊きたてのご飯にたっぷりとのせた郷土料理。鮭の切り身やこんにゃく、里芋を味噌仕立てにした「紅葉汁」と共に提供されることが多い。",
+    "whatComesOut": [
+      "いくらをたっぷりのせたご飯",
+      "醤油と酒の漬け汁がしみたつややかないくら",
+      "紅葉汁（鮭・こんにゃく・里芋の味噌汁）が添えられることも",
+      "秋の特設食堂や飲食店で提供される一杯"
+    ],
+    "tasteAndTexture": [
+      "いくらのプチプチとした食感",
+      "醤油と酒による上品な塩気とコク",
+      "炊きたてご飯との相性の良さ",
+      "臭みのない新鮮な鮭卵の風味"
+    ],
+    "orderAdvice": "9〜11月の鮭遡上シーズン、福島県相馬・浪江エリアの食堂や直売所で味わえる季節限定メニュー。新鮮ないくらの旨みを手軽に楽しみたい人向け。",
+    "caution": "魚卵・魚アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "harako-meshi-miyagi",
+        "name": "はらこ飯（宮城県）",
+        "difference": "宮城県亘理町のはらこ飯は鮭の煮汁で米を炊き込み身といくらを盛るのに対し、福島県浜通り版は白飯にいくらの漬け込みをのせるシンプルな仕立てで、味噌仕立ての紅葉汁を添える点が異なる"
+      }
+    ],
+    "relatedIds": [
+      "harako-meshi-miyagi",
+      "ikura-no-shoyuzuke-hokkaido"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_12_fukushima.html"
+    ],
+    "tags": [
+      "日本料理",
+      "ご飯もの",
+      "魚介",
+      "米",
+      "マリネ",
+      "ジューシー",
+      "郷土料理",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "魚卵が苦手な人",
+      "こってり肉料理を好む人",
+      "洋風リゾットを好む人"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "koikoku-fukushima",
+    "name": "鯉こく",
+    "kana": "こいこく",
+    "englishName": "Koikoku (Carp and Miso Soup, Fukushima style)",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "東北",
+        "country": "日本",
+        "prefecture": "福島県",
+        "locality": "郡山市"
+      }
+    ],
+    "summary": "鯉の産地・福島県郡山市の郷土料理。猪苗代湖水系で育った鯉の輪切りをきくらげ・豆腐と煮込み、味噌で仕立てた滋味深い汁物。出産後の栄養食としても親しまれる。",
+    "menuDescription": "猪苗代湖の水で育った郡山の鯉を使った郷土の味噌汁。鯉の輪切りをきくらげ・豆腐とともに煮込み、味噌で味を調えた滋味深い一椀。仕上げにしょうが汁や七味唐辛子を添えることも。",
+    "whatComesOut": [
+      "鯉の輪切りが入った味噌仕立ての汁物",
+      "きくらげと豆腐の具材",
+      "しょうがのおろし汁や七味唐辛子が別添されることも",
+      "湯気の立つ椀もの"
+    ],
+    "tasteAndTexture": [
+      "味噌のこってりとしたコク",
+      "鯉から出るだしの旨み",
+      "じっくり煮込んだ鯉のやわらかな身",
+      "しょうがを加えるとすっきりした後味"
+    ],
+    "orderAdvice": "福島県郡山市周辺の郷土料理店や家庭料理として提供。臭みのない上質な養殖鯉を使うため、川魚特有の匂いが苦手な人でも試しやすい。",
+    "caution": "魚（コイ）アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "koikoku-nagano",
+        "name": "鯉こく（長野県）",
+        "difference": "長野県佐久地方の鯉こくは味噌に砂糖を加え甘めに仕立てることが多いのに対し、福島県郡山の鯉こくはきくらげ・豆腐を加えしょうがですっきり仕上げる点が異なる"
+      }
+    ],
+    "relatedIds": [
+      "koikoku-nagano",
+      "koinoamani-akita",
+      "koinomani-yamagata"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_22_fukushima.html"
+    ],
+    "tags": [
+      "日本料理",
+      "スープ",
+      "魚介",
+      "豆類",
+      "煮込み",
+      "こってり",
+      "郷土料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "川魚の匂いが苦手な人",
+      "あっさりした澄まし汁を好む人",
+      "洋風スープを好む人"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
   }
 ]
