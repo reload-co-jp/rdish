@@ -170083,13 +170083,13 @@
     "spicinessScore": 0
   },
   {
-    "id": "38-3-gifu",
+    "id": "karasumi-gifu",
     "name": "からすみ",
     "category": "料理",
     "regions": [
       {
         "country": "日本",
-        "locality": ""
+        "prefecture": "岐阜県"
       }
     ],
     "summary": "江戸末期ごろ、東濃地域で桃の節句に作られるようになったと伝えられている「からすみ」。\n「からすみ」といえばボラなどの卵巣を塩漬けにし、乾燥させた珍味が有名だが、こちらは練った米粉を蒸した和菓子。",
@@ -170104,7 +170104,7 @@
       "やさしい甘みのある味わい",
       "素材の味を活かした仕上がり"
     ],
-    "orderAdvice": "に伝わる郷土料理。地元の食文化に触れてみたい人向け。",
+    "orderAdvice": "東濃地域に伝わる郷土菓子。珍味の「からすみ」を期待せず、素朴な和菓子として味わいたい人向け。",
     "similarItems": [
       {
         "id": "dengara",
@@ -170117,10 +170117,12 @@
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_3_gifu.html"
     ],
     "tags": [
+      "中部",
       "日本料理",
+      "菓子",
       "米",
       "蒸し料理",
-      "発酵",
+      "もちもち",
       "甘み",
       "郷土料理"
     ],
@@ -170132,16 +170134,20 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "kana": "からすみ",
+    "images": [
+      "/images/dishes/karasumi-gifu/1.jpg"
+    ]
   },
   {
-    "id": "38-27-gifu",
+    "id": "kanboshidaikon-ni-gifu",
     "name": "寒干大根煮",
     "category": "料理",
     "regions": [
       {
         "country": "日本",
-        "locality": ""
+        "prefecture": "岐阜県"
       }
     ],
     "summary": "飛騨市の特産品である「寒干大根」をだし汁や醤油で煮込んだ料理。\n「寒干大根煮」の主役である寒干大根は、岐阜県東北端にある飛驒市神岡町「山之村」で、作付けから出来上がりまで約8カ月かけて作られる。",
@@ -170154,7 +170160,7 @@
     "tasteAndTexture": [
       "素材の味を活かした仕上がり"
     ],
-    "orderAdvice": "に伝わる郷土料理。地元の食文化に触れてみたい人向け。",
+    "orderAdvice": "飛騨市山之村に伝わる郷土料理。素朴な乾物料理を試したい人向け。",
     "similarItems": [
       {
         "id": "daikon",
@@ -170167,6 +170173,7 @@
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_27_gifu.html"
     ],
     "tags": [
+      "中部",
       "日本料理",
       "野菜",
       "煮込み",
@@ -170180,7 +170187,9 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "kana": "かんぼしだいこんに",
+    "images": []
   },
   {
     "id": "36-1-shizuoka",
@@ -174716,6 +174725,544 @@
     ],
     "beginnerFriendlyScore": 3,
     "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "soumin-tashaa-okinawa",
+    "name": "ソーミンタシャー",
+    "kana": "そーみんたしゃー",
+    "aliases": [
+      "ソーミンタシヤー"
+    ],
+    "englishName": "Soumin Tashaa (Stir-fried Somen Noodles)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "沖縄県"
+      }
+    ],
+    "summary": "ゆでたそうめんを油で強火にさっと炒め、塩と醤油でシンプルに味付けする沖縄県の家庭料理。",
+    "menuDescription": "たっぷりの湯でゆでたそうめんを、青ねぎや人参、ツナなどとともに強火でさっと炒め、塩と醤油で香り付けした沖縄の家庭料理。",
+    "whatComesOut": [
+      "強火でパラっと炒めたそうめん",
+      "散らされた青ねぎ",
+      "塩・醤油でシンプルに味付けされた麺",
+      "人参やツナ缶、かまぼこが入ることも"
+    ],
+    "tasteAndTexture": [
+      "香ばしい焦げ目の風味",
+      "塩味中心のあっさりした味わい",
+      "パラっとした麺の食感"
+    ],
+    "orderAdvice": "そうめんの炒め物というシンプルな沖縄の家庭料理。酒の肴や軽い一品を求める人向け。",
+    "similarItems": [
+      {
+        "id": "47-11-okinawa",
+        "name": "ゴーヤーチャンプルー",
+        "difference": "チャンプルーは豆腐を炒め合わせるが、ソーミンタシャーは豆腐を使わずそうめん単体を炒める"
+      },
+      {
+        "name": "ソーミンプットゥルー",
+        "difference": "プットゥルーはだしを加えてとろみを出しやわらかく仕上げるが、ソーミンタシャーは強火でパラっと炒める"
+      }
+    ],
+    "relatedIds": [
+      "47-11-okinawa",
+      "47-20-okinawa"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/47_5_okinawa.html",
+      "https://okinawa-eiyo.or.jp/uchina-recipe/%E3%82%BD%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%BF%E3%82%B7%E3%83%A4%E3%83%BC-%EF%BC%88%E3%81%9D%E3%81%86%E3%82%81%E3%82%93%E3%81%AE%E7%82%92%E3%82%81%E7%89%A9%EF%BC%89/"
+    ],
+    "tags": [
+      "沖縄料理",
+      "日本料理",
+      "麺料理",
+      "小麦",
+      "炒め物",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "こってり系が好き",
+      "豆腐入り料理が好き",
+      "汁物が好き"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "funa-miso-gifu",
+    "name": "鮒味噌",
+    "kana": "ふなみそ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "岐阜県"
+      }
+    ],
+    "summary": "素焼きした鮒に豆味噌・ざらめ・大豆などを加えて骨までやわらかくなるまで煮込んだ西濃地域の郷土料理。木曽三川流域の川魚食文化を代表する保存食。",
+    "menuDescription": "はらわたとうろこを取った鮒を素焼きにし、水で戻した大豆とじっくり時間をかけて煮込み、豆味噌とざらめで甘辛く仕上げた一品。",
+    "whatComesOut": [
+      "骨までやわらかく煮た鮒",
+      "煮汁を吸った大豆",
+      "濃厚な豆味噌だれ"
+    ],
+    "tasteAndTexture": [
+      "甘辛く濃厚な味わい",
+      "骨までほろほろの食感",
+      "豆味噌のコク"
+    ],
+    "orderAdvice": "川魚特有の風味があるため川魚料理が好きな人向け。西濃地域の郷土料理店や正月の常備菜として出会える。",
+    "similarItems": [
+      {
+        "name": "鮎の塩焼",
+        "id": "ayu-no-shioyaki-gifu",
+        "difference": "鮎の塩焼はシンプルな塩焼き。鮒味噌は長時間の煮込みで骨までやわらかくする点が異なる"
+      }
+    ],
+    "relatedIds": [
+      "ayu-no-shioyaki-gifu"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_9_gifu.html"
+    ],
+    "tags": [
+      "中部",
+      "日本料理",
+      "主菜",
+      "魚介",
+      "豆類",
+      "煮込み",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "あっさり系が好き",
+      "川魚の匂いが苦手",
+      "洋食派"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "morokozushi-gifu",
+    "name": "もろこずし（岐阜県）",
+    "kana": "もろこずし",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "岐阜県"
+      }
+    ],
+    "summary": "酢飯の上に甘辛く煮た淡水魚「もろこ」を並べて押し寿司にした西濃地域の郷土料理。正月や祭りなど人が集まる際のもてなし料理として重宝されてきた。",
+    "menuDescription": "だしこんぶと酒で炊いた酢飯を寿司箱に敷き詰め、砂糖・醤油・酒・しょうがであめ色に煮たもろこの佃煮を並べて押し固めた押し寿司。",
+    "whatComesOut": [
+      "押し固められた酢飯",
+      "あめ色に煮たもろこの佃煮",
+      "ハランで彩られた見た目"
+    ],
+    "tasteAndTexture": [
+      "甘辛いもろこの佃煮の味わい",
+      "酢飯のさっぱりとした酸味",
+      "しっとりと押し固められた食感"
+    ],
+    "orderAdvice": "川魚漁の減少で作られる機会が減った郷土料理。西濃地域の祭りや法事の際に出会えることがある珍しい一品。",
+    "similarItems": [
+      {
+        "id": "morokozushi-aichi",
+        "name": "もろこずし（愛知県）",
+        "difference": "愛知県版と同じもろこを使う押し寿司だが、岐阜県版は西濃地域特有の作り方が伝わる"
+      },
+      {
+        "id": "nezushi-gifu",
+        "name": "ねずし",
+        "difference": "ねずしは麹で発酵させるなれずし。もろこずしは酢飯を使う押し寿司である点が異なる"
+      }
+    ],
+    "relatedIds": [
+      "morokozushi-aichi",
+      "nezushi-gifu"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_13_gifu.html"
+    ],
+    "tags": [
+      "中部",
+      "日本料理",
+      "ご飯もの",
+      "魚介",
+      "マリネ",
+      "甘み",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "川魚の匂いが苦手",
+      "洋食派",
+      "生魚が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "kaki-namasu-gifu",
+    "name": "柿なます（岐阜県）",
+    "kana": "かきなます",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "岐阜県"
+      }
+    ],
+    "summary": "大根と人参の酢の物に干し柿を加えた岐阜県中濃・岐阜・西濃地域の郷土料理。柿の産地・岐阜県ならではの正月料理として親しまれている。",
+    "menuDescription": "塩でしんなりさせた大根・人参を砂糖と酢で和え、食べる直前に細かく割いた干し柿を加えて仕上げた酢の物。",
+    "whatComesOut": [
+      "大根・人参の酢の物",
+      "細かく割かれた干し柿",
+      "上品な甘酸っぱさ"
+    ],
+    "tasteAndTexture": [
+      "干し柿の自然な甘み",
+      "大根・人参のさっぱりとした酸味",
+      "しゃきしゃきとした食感"
+    ],
+    "orderAdvice": "正月料理の箸休めとして食べやすい一品。岐阜県産の富有柿や堂上蜂屋柿の干し柿が手に入る冬に出会いやすい。",
+    "similarItems": [
+      {
+        "id": "kaki-namasu-shimane",
+        "name": "柿なます（島根県）",
+        "difference": "島根県版と同様に大根・人参のなますに柿を加えるが、岐阜県版は干し柿を使う点が特徴"
+      }
+    ],
+    "relatedIds": [
+      "kaki-namasu-shimane"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_21_gifu.html"
+    ],
+    "tags": [
+      "中部",
+      "日本料理",
+      "サラダ",
+      "野菜",
+      "果物",
+      "酸味",
+      "甘み",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "こってり系が好き",
+      "生野菜が苦手",
+      "洋食派"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "komo-doufu-gifu",
+    "name": "こも豆腐",
+    "kana": "こもどうふ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "岐阜県"
+      }
+    ],
+    "summary": "わらを編んだむしろ「こも」で豆腐を包み茹でた飛騨市・高山市周辺の郷土料理。スが立つことでできる無数の気泡に旨味が染み込み、盆や正月のもてなし料理として振る舞われる。",
+    "menuDescription": "軽く水切りした豆腐をこもで巻いて1時間ほど茹で、スができたら醤油・砂糖・みりんで味付けしただし汁で煮込んだ一品。",
+    "whatComesOut": [
+      "わらの模様と香りがついた豆腐",
+      "だしをたっぷり含んだ気泡質の断面",
+      "醤油ベースの上品な味付け"
+    ],
+    "tasteAndTexture": [
+      "だしを含んだジューシーな食感",
+      "わらの香ばしい香り",
+      "型崩れしないしっかりとした身"
+    ],
+    "orderAdvice": "飛騨地域のお正月やお盆、法事など人が集まる席の定番料理。飛騨高山の郷土料理店やお節料理で出会いやすい。",
+    "similarItems": [
+      {
+        "name": "厚揚げ",
+        "difference": "厚揚げは油で揚げた豆腐。こも豆腐はわらで包んで茹でる製法が異なる"
+      }
+    ],
+    "relatedIds": [],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_29_gifu.html"
+    ],
+    "tags": [
+      "中部",
+      "日本料理",
+      "前菜",
+      "豆類",
+      "煮込み",
+      "香ばしい",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "肉料理が好き",
+      "洋食派",
+      "こってり系が好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "aimaze-mie",
+    "name": "あいまぜ",
+    "kana": "あいまぜ",
+    "aliases": [
+      "にあいなます",
+      "切りごみなます"
+    ],
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "三重県"
+      }
+    ],
+    "summary": "干ししいたけ・れんこん・ごぼう・人参・凍りこんにゃくをそれぞれ別々に煮て味付けし、合わせ酢で和えた中南勢・伊勢志摩地域の郷土料理。元は葬式料理「組みもの」の端材活用から生まれたと伝わる。",
+    "menuDescription": "材料をそれぞれ短冊切りやせん切りにして個別に味付けし、最後に合わせ酢で和えて漬け込んだ一品。法事や正月など人が集まる際に供される。",
+    "whatComesOut": [
+      "彩り豊かな短冊切りの野菜の和え物",
+      "スポンジ状の凍りこんにゃく",
+      "やや甘めの合わせ酢の風味"
+    ],
+    "tasteAndTexture": [
+      "やや甘めの上品な酸味",
+      "凍りこんにゃくの独特な食感",
+      "具材それぞれの持ち味を活かした味わい"
+    ],
+    "orderAdvice": "法事や正月に作られる家庭料理のため店頭で見る機会は少ない。松阪市・伊勢市周辺の郷土料理店の行事メニューで出会えたら貴重。",
+    "similarItems": [
+      {
+        "id": "aimaze-ishikawa",
+        "name": "あいまぜ（石川県）",
+        "difference": "石川県版とは同名だが由来・材料が異なる、三重県中南勢・伊勢志摩地域独自の郷土料理"
+      }
+    ],
+    "relatedIds": [
+      "aimaze-ishikawa"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/aimaze_mie.html"
+    ],
+    "tags": [
+      "関西",
+      "日本料理",
+      "サラダ",
+      "野菜",
+      "煮込み",
+      "甘み",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "こってり系が好き",
+      "肉料理が好き",
+      "洋食派"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "sanmazushi-mie",
+    "name": "さんまずし（三重県）",
+    "kana": "さんまずし",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "三重県"
+      }
+    ],
+    "summary": "熊野灘でとれた脂肪分の少ないサンマを開いて塩漬けし、柑橘酢で締めてすし飯にのせた東紀州地域の郷土料理。熊野市有馬町の産田神社では骨付きのまま食べさせ子の健やかな成長を願う「奉飯」の風習も残る。",
+    "menuDescription": "背開き（熊野市周辺）または腹開き（尾鷲市周辺）にしたサンマを塩漬け・塩抜きし、柑橘の酢で締めてすし飯の上に尾頭付きの姿のまま乗せた押し寿司。",
+    "whatComesOut": [
+      "尾と頭がついたままのサンマの姿寿司",
+      "柑橘酢で締めた身",
+      "からし・しょうが・ごまなどの薬味（店による）"
+    ],
+    "tasteAndTexture": [
+      "柑橘酢のさっぱりとした酸味",
+      "脂の乗りすぎないサンマの上品な旨み",
+      "すし飯との調和"
+    ],
+    "orderAdvice": "東紀州地域を代表する名物料理で、尾鷲市・熊野市の飲食店で通年味わえる。祭りや正月の折詰としても定番。",
+    "similarItems": [
+      {
+        "id": "sanma-zushi-wakayama",
+        "name": "さんまずし（和歌山県）",
+        "difference": "和歌山県版と同じくサンマの姿寿司だが、三重県版は東紀州地域独自の発祥伝承と骨付きの「奉飯」文化を持つ"
+      }
+    ],
+    "relatedIds": [
+      "sanma-zushi-wakayama"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sanma_zushi_mie.html"
+    ],
+    "tags": [
+      "関西",
+      "日本料理",
+      "ご飯もの",
+      "魚介",
+      "マリネ",
+      "酸味",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "生魚が苦手",
+      "こってり系が好き",
+      "洋食派"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "zoni-mie",
+    "name": "雑煮（三重県）",
+    "kana": "ぞうに",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "三重県"
+      }
+    ],
+    "summary": "東西の文化が混淆する三重県ならではの雑煮。北勢地域は角餅、中南勢・伊賀地域は丸餅など地域ごとに餅の形状や汁の味付け（すまし汁・みそ汁）が異なる、正月に欠かせない一品。",
+    "menuDescription": "餅と大根・里芋・小松菜・ねぎ・豆腐などを煮だし汁で煮込んだ雑煮。湯炊きの地区では具材が煮えてから餅を入れ、焼餅の地区では両面を焼いた餅を椀に入れてから汁を注ぐ。",
+    "whatComesOut": [
+      "餅（角餅・丸餅・押し餅は地域による）",
+      "大根・里芋・小松菜などの野菜",
+      "澄まし汁またはみそ汁"
+    ],
+    "tasteAndTexture": [
+      "だしの効いたやさしい味わい",
+      "地域ごとに異なる餅の食感",
+      "根菜のほっとする甘み"
+    ],
+    "orderAdvice": "正月に各家庭で作られる料理で、地域によって味付けや具材が大きく異なるのが面白い。三重県の郷土料理店で正月メニューとして出会える。",
+    "similarItems": [
+      {
+        "id": "zoni-aichi",
+        "name": "雑煮（愛知県）",
+        "difference": "愛知県版は角餅・すまし汁が定番。三重県版は地域ごとに餅の形状・汁の味が異なる点が特徴"
+      },
+      {
+        "id": "yamato-no-zouni-nara",
+        "name": "大和の雑煮",
+        "difference": "奈良県版は白味噌仕立てで特徴的。三重県版は地域によりすまし汁とみそ汁が混在する点が異なる"
+      }
+    ],
+    "relatedIds": [
+      "zoni-aichi",
+      "yamato-no-zouni-nara"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/zouni_mie.html"
+    ],
+    "tags": [
+      "関西",
+      "日本料理",
+      "鍋料理",
+      "野菜",
+      "煮込み",
+      "あっさり",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "こってり系が好き",
+      "洋食派",
+      "スパイシーな料理が好き"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "tako-meshi-mie",
+    "name": "たこ飯（三重県）",
+    "kana": "たこめし",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "三重県"
+      }
+    ],
+    "summary": "鳥羽市答志島など伊勢志摩の豊かな漁場でとれる真ダコを、米と一緒に醤油・酒・みりんで炊き込んだ郷土料理。伊勢神宮の祭事にもタコが供えられるなど、古くから身近な食材として親しまれてきた。",
+    "menuDescription": "生タコと調味料を米と一緒にシンプルに炊き込んだご飯。具はあまり足さず、タコの旨みを存分に味わえるよう仕上げる。",
+    "whatComesOut": [
+      "タコと一緒に炊き込まれたご飯",
+      "プリプリとしたタコの身",
+      "しょうがの風味"
+    ],
+    "tasteAndTexture": [
+      "タコの濃い旨みが染みたご飯",
+      "プリプリとした歯ごたえ",
+      "醤油と酒のやさしい香り"
+    ],
+    "orderAdvice": "一年中味わえるが、鳥羽市周辺の食堂・旅館で提供されることが多い。瀬戸内風たこ飯より具がシンプルで、タコ本来の味を楽しみたい人向け。",
+    "similarItems": [
+      {
+        "id": "tako-meshi",
+        "name": "たこ飯",
+        "difference": "汎用版は瀬戸内海沿岸など各地の作り方を含む。三重県版は鳥羽市・答志島の漁場と結びついた由来を持つ点が異なる"
+      }
+    ],
+    "relatedIds": [
+      "tako-meshi"
+    ],
+    "source": [
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tako_meshi_mie.html"
+    ],
+    "tags": [
+      "関西",
+      "日本料理",
+      "ご飯もの",
+      "魚介",
+      "煮込み",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "魚介類が苦手",
+      "洋食派",
+      "肉料理が好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
     "heavinessScore": 2,
     "spicinessScore": 0,
     "images": []
