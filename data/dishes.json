@@ -175266,5 +175266,525 @@
     "heavinessScore": 2,
     "spicinessScore": 0,
     "images": []
+  },
+  {
+    "id": "clarification",
+    "name": "クラリフィケーション",
+    "kana": "くらりふぃけーしょん",
+    "aliases": [
+      "清澄化",
+      "クラリファイ"
+    ],
+    "englishName": "Clarification",
+    "originalName": "Clarification",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "濁った出汁やジュースを卵白（ラフト）やゼラチン濾過で不純物を吸着させ、透明な液体に仕上げるフランス料理の基本技法。コンソメ作りの核心工程であり、アスピックやジュレの透明感もこの技法に支えられている。",
+    "menuDescription": "出汁を卵白で漉して不純物・脂を取り除き、完全に透き通らせる下処理技法。コンソメの澄んだ琥珀色はこの手間によって生まれる。",
+    "whatComesOut": [
+      "完全に透明な出汁・スープ（コンソメ等の形で提供）",
+      "濁りのない琥珀色の液体",
+      "雑味を除いた澄んだ旨味",
+      "アスピック・ジュレの透明な土台"
+    ],
+    "tasteAndTexture": [
+      "雑味のない澄んだ旨味",
+      "後味が軽い",
+      "香りが際立つ",
+      "口当たりがさらっとしている"
+    ],
+    "orderAdvice": "料理名としては出てこず、コンソメ・アスピック・澄んだフォンの説明に登場する技法用語。透明感ある一皿を頼めば体験できる。",
+    "similarItems": [
+      {
+        "id": "consomme",
+        "name": "コンソメ",
+        "difference": "クラリフィケーションは技法。コンソメはその技法で作られた完成スープ"
+      },
+      {
+        "id": "fonds",
+        "name": "フォン",
+        "difference": "フォンは濁りのある出汁。クラリフィケーションを施すと澄んだ状態になる"
+      },
+      {
+        "id": "gelee",
+        "name": "ジュレ",
+        "difference": "ジュレはゼラチンで固めた状態。クラリフィケーションはその前段階で液体を透明にする工程"
+      },
+      {
+        "id": "aspic",
+        "name": "アスピック",
+        "difference": "アスピックはクラリフィケーションを経た澄んだ出汁をゼリー状に固めたもの"
+      }
+    ],
+    "relatedIds": [
+      "consomme",
+      "fonds",
+      "bouillon",
+      "gelee",
+      "aspic",
+      "fremissement"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Consomm%C3%A9",
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%A1",
+      "https://www.foodnetwork.com/recipes/chicken-consomme-basic-clarification-3644995"
+    ],
+    "tags": [
+      "フランス料理",
+      "スープ",
+      "煮込み",
+      "あっさり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "濃厚ポタージュ",
+      "手抜き出汁",
+      "濁ったスープ",
+      "即席スープの素"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/clarification/1.jpg"
+    ]
+  },
+  {
+    "id": "italian-parsley",
+    "name": "イタリアンパセリ",
+    "kana": "いたりあんぱせり",
+    "aliases": [
+      "パースレー",
+      "フラットリーフパセリ"
+    ],
+    "englishName": "Italian Parsley",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "セリ科の香味野菜で、葉が平らなパセリの一種。縮れ葉のカールドパセリより香りが強く苦味が少ないため、生食にも向く。イタリア料理で通年使われる代表的な香味野菜で、葉と茎を使い分けてソースや彩りに用いられる。",
+    "menuDescription": "平たい葉が特徴のパセリ。カールドパセリよりクセが少なく爽やかな香りで、料理の仕上げや彩りとして添えられる。",
+    "whatComesOut": [
+      "料理に散らされた細かい緑の葉",
+      "パスタやスープの彩り",
+      "サルサヴェルデなどソースの材料",
+      "みじん切りにした香味野菜としての添え物"
+    ],
+    "tasteAndTexture": [
+      "爽やかで軽い苦味",
+      "カールドパセリよりマイルドな香り",
+      "葉は薄くやわらかい"
+    ],
+    "orderAdvice": "単品で注文する食材ではなく、料理に添えられる香味野菜。香りが強すぎないので初心者でも食べやすい。",
+    "similarItems": [
+      {
+        "name": "カールドパセリ",
+        "difference": "カールドパセリは葉が縮れて苦味が強い。イタリアンパセリは葉が平らで香りがマイルド"
+      },
+      {
+        "id": "chervil",
+        "name": "チャービル",
+        "difference": "チャービルはパセリより甘く繊細な香り。イタリアンパセリはより力強い香り"
+      },
+      {
+        "id": "basil",
+        "name": "バジル",
+        "difference": "バジルは甘い香りでイタリア料理の主役。イタリアンパセリは脇役として使われる香味野菜"
+      }
+    ],
+    "relatedIds": [
+      "chervil",
+      "basil"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/イタリアンパセリ",
+      "https://en.wikipedia.org/wiki/Parsley"
+    ],
+    "tags": [
+      "イタリア料理",
+      "野菜",
+      "ハーブ",
+      "生食",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "香草が苦手",
+      "青臭さが苦手",
+      "強い香辛料好き",
+      "スパイシー料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/italian-parsley/1.jpg",
+      "/images/dishes/italian-parsley/2.jpg",
+      "/images/dishes/italian-parsley/3.jpg"
+    ]
+  },
+  {
+    "id": "oregano",
+    "name": "オレガノ",
+    "kana": "おれがの",
+    "englishName": "Oregano",
+    "originalName": "Origano",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "シソ科の多年草ハーブで地中海沿岸原産。生よりも乾燥させたほうが香りが強まる特性を持ち、イタリア・ギリシャ・メキシコ・アメリカ料理などで幅広く使われる。ピザやトマトソースに欠かせない代表的なスパイス。",
+    "menuDescription": "乾燥させた葉を使うことが多い地中海生まれのハーブ。トマト料理やピザに独特の刺激的な香りを加える。",
+    "whatComesOut": [
+      "トマトソースやピザに振りかけられた乾燥葉",
+      "肉料理・グリルの下味",
+      "料理全体に広がる清涼感ある香り"
+    ],
+    "tasteAndTexture": [
+      "刺激的でやや苦みのある香り",
+      "乾燥するとより香りが強まる",
+      "爽やかで清涼感がある"
+    ],
+    "orderAdvice": "単品では出ず、ピザ・パスタ・グリル料理の香りづけとして使われる。香りが強いので好みが分かれる。",
+    "similarItems": [
+      {
+        "id": "basil",
+        "name": "バジル",
+        "difference": "バジルは甘い香り。オレガノはより刺激的で土っぽい香り"
+      },
+      {
+        "id": "thyme",
+        "name": "タイム",
+        "difference": "タイムはより繊細な香り。オレガノは力強くスパイシー"
+      }
+    ],
+    "relatedIds": [
+      "basil",
+      "thyme"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/オレガノ",
+      "https://en.wikipedia.org/wiki/Oregano"
+    ],
+    "tags": [
+      "イタリア料理",
+      "スパイス",
+      "香ばしい",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "繊細な香り好み",
+      "無香料理",
+      "甘い香草",
+      "素材の味重視"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/oregano/1.jpg",
+      "/images/dishes/oregano/2.jpg",
+      "/images/dishes/oregano/3.jpg"
+    ]
+  },
+  {
+    "id": "selvatico",
+    "name": "セルバチコ",
+    "kana": "せるばちこ",
+    "aliases": [
+      "ワイルドロケット",
+      "ワイルドルッコラ"
+    ],
+    "englishName": "Wild Rocket",
+    "originalName": "Rucola Selvatica",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "ルッコラの近縁種であるDiplotaxis属の野生種。葉がより細く切れ込みが深く、通常のルッコラより辛味・苦味が強くピリッとした刺激がある。イタリア料理でサラダや前菜の彩りに使われる。",
+    "menuDescription": "通常のルッコラより葉が細く辛味の強い野生種。ピリッとした刺激とほのかな苦味が特徴で、サラダやカルパッチョに添えられる。",
+    "whatComesOut": [
+      "細く切れ込んだ濃い緑の葉",
+      "サラダのベースやトッピング",
+      "生ハム・チーズ料理の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "強いピリ辛と苦味",
+      "通常のルッコラよりスパイシー",
+      "シャキシャキとした食感"
+    ],
+    "orderAdvice": "ルッコラより刺激が強いので、辛味のある葉物が好きな人向け。サラダのアクセントとして少量使われることが多い。",
+    "similarItems": [
+      {
+        "id": "rucola",
+        "name": "ルッコラ",
+        "difference": "ルッコラは葉が丸く辛味が穏やか。セルバチコはより細葉で辛味・苦味が強い"
+      }
+    ],
+    "relatedIds": [
+      "rucola"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Diplotaxis_tenuifolia",
+      "https://ja.wikipedia.org/wiki/ルッコラ"
+    ],
+    "tags": [
+      "イタリア料理",
+      "野菜",
+      "生食",
+      "ピリ辛",
+      "サラダ"
+    ],
+    "reverseKeywords": [
+      "苦味が苦手",
+      "マイルドな葉物",
+      "甘い野菜",
+      "辛味なし"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/selvatico/1.jpg"
+    ]
+  },
+  {
+    "id": "chervil",
+    "name": "チャービル",
+    "kana": "ちゃーびる",
+    "aliases": [
+      "セルフィーユ",
+      "ウイキョウゼリ"
+    ],
+    "englishName": "Chervil",
+    "originalName": "Cerfeuil",
+    "category": "野菜",
+    "regions": [
+      {
+        "area": "コーカサス"
+      },
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "セリ科の一年草ハーブで、コーカサス地方原産。パセリに似た見た目だが、より甘く繊細な香りを持つ。フランス料理のフィーヌゼルブ（香草ミックス）を構成する定番ハーブの一つ。",
+    "menuDescription": "パセリに似た繊細な葉のハーブ。マイルドで甘い香りを持ち、フランス料理でソースやスープの仕上げに使われる。",
+    "whatComesOut": [
+      "料理に散らされた細かいレース状の葉",
+      "スープやオムレツの彩り・香りづけ",
+      "ソースの仕上げに添えられる細葉"
+    ],
+    "tasteAndTexture": [
+      "甘く繊細な香り",
+      "パセリよりマイルドな風味",
+      "葉は薄く柔らかい"
+    ],
+    "orderAdvice": "香りが控えめなので、ハーブの主張が強すぎる料理が苦手な人でも試しやすい。フランス料理のソースやスープの仕上げに注目すると出会いやすい。",
+    "similarItems": [
+      {
+        "id": "italian-parsley",
+        "name": "イタリアンパセリ",
+        "difference": "イタリアンパセリは香りが強く力強い。チャービルはより甘く繊細"
+      },
+      {
+        "id": "estragon",
+        "name": "エストラゴン",
+        "difference": "エストラゴンはアニスに似た独特の強い香り。チャービルはより穏やかで上品な香り"
+      }
+    ],
+    "relatedIds": [
+      "italian-parsley",
+      "estragon",
+      "dill"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/セルフィーユ",
+      "https://en.wikipedia.org/wiki/Chervil"
+    ],
+    "tags": [
+      "フランス料理",
+      "野菜",
+      "生食",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "強い香りのハーブ好み",
+      "パンチのある風味",
+      "スパイシー料理",
+      "香草嫌い"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chervil/1.jpg",
+      "/images/dishes/chervil/2.jpg",
+      "/images/dishes/chervil/3.jpg"
+    ]
+  },
+  {
+    "id": "jalapeno",
+    "name": "ハラペーニョ",
+    "kana": "はらぺーにょ",
+    "aliases": [
+      "ハラペノ",
+      "ヤラピノ"
+    ],
+    "englishName": "Jalapeño",
+    "originalName": "Chile Jalapeño",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "メキシコ・ベラクルス州のハラパ地方由来の青唐辛子。辛さは中程度（2500〜8000スコヴィル）で、生食のほかピクルスやサルサ、チーズを詰めて揚げるハラペーニョ・ポッパーなど幅広く使われる。",
+    "menuDescription": "メキシコ原産の中辛口の青唐辛子。ピクルスにしたりサルサに刻んで加えたりと、メキシコ・テクスメクス料理で定番の食材。",
+    "whatComesOut": [
+      "輪切りやみじん切りにされた緑の唐辛子",
+      "ピクルス（エスカベーチェ）にされたもの",
+      "チーズを詰めて揚げたハラペーニョ・ポッパー",
+      "サルサやタコスのトッピング"
+    ],
+    "tasteAndTexture": [
+      "青々しい爽やかな辛味",
+      "中程度のピリ辛",
+      "シャキッとした歯ごたえ"
+    ],
+    "orderAdvice": "唐辛子の中では辛さが穏やかな部類。ピリ辛程度なら平気な人向けで、メキシコ料理・タコス・チーズ料理に添えられていることが多い。",
+    "caution": "辛味があるため、辛い物が苦手な人は量を確認したほうがよい。",
+    "similarItems": [
+      {
+        "name": "セラーノペッパー",
+        "difference": "セラーノはハラペーニョより小さく辛味が強い。ハラペーニョはより肉厚でマイルド"
+      },
+      {
+        "id": "pakuchi",
+        "name": "パクチー",
+        "difference": "パクチーは香草の風味、ハラペーニョは辛味が持ち味。メキシコ料理で共に使われることが多い"
+      }
+    ],
+    "relatedIds": [
+      "tacos",
+      "salsa_verde"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ハラペーニョ",
+      "https://en.wikipedia.org/wiki/Jalapeño"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "野菜",
+      "ピリ辛",
+      "生食"
+    ],
+    "reverseKeywords": [
+      "辛い物が苦手",
+      "甘い味付け",
+      "マイルドな野菜",
+      "辛味なし"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/jalapeno/1.jpg",
+      "/images/dishes/jalapeno/2.png",
+      "/images/dishes/jalapeno/3.jpg"
+    ]
+  },
+  {
+    "id": "lemon-balm",
+    "name": "レモンバーム",
+    "kana": "れもんばーむ",
+    "aliases": [
+      "コウスイハッカ",
+      "メリッサ"
+    ],
+    "englishName": "Lemon Balm",
+    "originalName": "Melissa officinalis",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "country": "ヨーロッパ"
+      }
+    ],
+    "summary": "シソ科の多年草ハーブで地中海沿岸原産。葉にレモンに似た爽やかな香りを持ち、ハーブティーや菓子、サラダ、魚料理の香りづけに使われる。「メリッサ」の名はギリシャ語で蜜蜂を意味し、養蜂とも縁が深い。",
+    "menuDescription": "レモンに似た爽やかな香りを持つハーブ。ハーブティーや菓子の香りづけ、サラダの彩りとして使われる。",
+    "whatComesOut": [
+      "ハーブティーに浮かべられた葉",
+      "デザートやドリンクの香りづけ・飾り",
+      "サラダに散らされた細かい葉"
+    ],
+    "tasteAndTexture": [
+      "レモンに似た爽やかな香り",
+      "ほのかな甘みとミントに似た清涼感",
+      "口当たりは軽くさっぱり"
+    ],
+    "orderAdvice": "ハーブティーやデザートの香りづけとして出会うことが多い。レモンの爽やかさが好きなら試しやすい。",
+    "similarItems": [
+      {
+        "id": "mint",
+        "name": "ミント",
+        "difference": "ミントは清涼感の強いメントール香。レモンバームはより穏やかでレモンに近い香り"
+      },
+      {
+        "id": "lemongrass",
+        "name": "レモングラス",
+        "difference": "レモングラスは茎を使い煮込み料理に用いる。レモンバームは葉を使いお茶や菓子に用いる"
+      }
+    ],
+    "relatedIds": [
+      "mint",
+      "lemongrass"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/レモンバーム",
+      "https://en.wikipedia.org/wiki/Lemon_balm"
+    ],
+    "tags": [
+      "ハーブ",
+      "デザート",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "濃厚な香辛料好み",
+      "刺激的な辛味",
+      "こってり",
+      "無香料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/lemon-balm/1.jpg",
+      "/images/dishes/lemon-balm/2.jpg"
+    ]
   }
 ]
