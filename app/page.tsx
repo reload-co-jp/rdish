@@ -122,6 +122,8 @@ export default function TopPage() {
         </Link>
       </div>
 
+      <AdSense />
+
       <FavoriteRelated allDishes={allDishes} />
 
       {latestArticles.length > 0 && (
