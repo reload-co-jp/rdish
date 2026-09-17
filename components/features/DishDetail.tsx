@@ -13,6 +13,7 @@ import {
   comboPath,
 } from "../../lib/countryTagCombos"
 import { regionLabel } from "../../lib/region"
+import { dishesUsingSpice, isSpiceOrCondiment } from "../../lib/spiceUsage"
 import { categoryPath, countryPath } from "../../lib/taxonomy"
 import type { DishItem } from "../../types/dish"
 import { LinkedText } from "../elements/LinkedText"
@@ -53,6 +54,9 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
     .filter(Boolean) as DishItem[]
   const articles = articlesForDish(dish.id)
   const combos = combosForDish(dish).slice(0, 4)
+  const usedInDishes = isSpiceOrCondiment(dish)
+    ? dishesUsingSpice(dish, allDishes)
+    : []
 
   return (
     <article>
@@ -449,6 +453,30 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                 </div>
               )
             })}
+          </div>
+        </Section>
+      )}
+
+      {usedInDishes.length > 0 && (
+        <Section title={`${dish.name}が使われている料理`}>
+          <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>
+            {usedInDishes.map((d) => (
+              <Link
+                key={d.id}
+                href={`/dishes/${d.id}/`}
+                style={{
+                  background: "#faf6f0",
+                  border: "1px solid #e8ddd0",
+                  borderRadius: "0.375rem",
+                  color: "#b45309",
+                  fontSize: "0.875rem",
+                  padding: "0.375rem 0.75rem",
+                  textDecoration: "none",
+                }}
+              >
+                {d.name}
+              </Link>
+            ))}
           </div>
         </Section>
       )}
