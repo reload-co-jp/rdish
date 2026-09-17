@@ -175786,5 +175786,2180 @@
       "/images/dishes/lemon-balm/1.jpg",
       "/images/dishes/lemon-balm/2.jpg"
     ]
+  },
+  {
+    "id": "wu-xiang-fen",
+    "name": "五香粉",
+    "kana": "うーしゃんふぇん",
+    "aliases": [
+      "ウーシャンフェン",
+      "五香粉末",
+      "Chinese five-spice powder"
+    ],
+    "englishName": "Chinese Five-Spice Powder",
+    "originalName": "五香粉 (Wǔxiāngfěn)",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "八角・丁香（クローブ）・肉桂（カシア）・花椒・小茴香（フェンネル）など複数の香辛料を合わせた中国発祥のミックススパイス。「五」は種類数というより「多い・複雑」を示す語で、配合は地域やメーカーにより異なる。",
+    "menuDescription": "複数のスパイスを合わせた中華風ミックススパイス。肉や魚の臭み消し、揚げ物や煮込みの香りづけに使われる。",
+    "whatComesOut": [
+      "茶色い粉末のミックススパイス",
+      "肉料理の下味や揚げ物の衣に混ぜて使用",
+      "煮込み料理の香りづけ"
+    ],
+    "tasteAndTexture": [
+      "八角由来の甘く強い香り",
+      "花椒のしびれと山椒感",
+      "クローブやシナモンの複合的な甘い芳香",
+      "後味に残る独特のスパイス感"
+    ],
+    "orderAdvice": "中国料理らしい複合的な香りを楽しみたいときに。八角の香りが強いので、苦手な人は注意。",
+    "caution": "八角の香りにクセがあり、好みが分かれる。",
+    "similarItems": [
+      {
+        "id": "hua-jiao",
+        "name": "花椒",
+        "difference": "花椒は単体スパイス。五香粉は花椒を含む複数スパイスのブレンド"
+      },
+      {
+        "id": "garam-masala",
+        "name": "ガラムマサラ",
+        "difference": "ガラムマサラはインドの複合スパイス。五香粉は中国の複合スパイスで八角の甘い香りが中心"
+      },
+      {
+        "id": "zha-wu-xiang",
+        "name": "炸五香",
+        "difference": "炸五香は五香粉を使った揚げ物料理。五香粉はその香りづけに使うスパイス自体"
+      }
+    ],
+    "relatedIds": [
+      "hua-jiao",
+      "zha-wu-xiang",
+      "xiao-su-rou"
+    ],
+    "tags": [
+      "中国料理",
+      "スパイス",
+      "香ばしい",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "八角が苦手",
+      "スパイス嫌い",
+      "シンプルな味付け",
+      "香りなし"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "source": [
+      "https://ja.wikipedia.org/wiki/五香粉"
+    ],
+    "images": [
+      "/images/dishes/wu-xiang-fen/1.jpg",
+      "/images/dishes/wu-xiang-fen/2.jpg"
+    ]
+  },
+  {
+    "id": "allspice",
+    "name": "オールスパイス",
+    "kana": "おーるすぱいす",
+    "aliases": [
+      "ピメント",
+      "Pimenta dioica"
+    ],
+    "englishName": "Allspice",
+    "originalName": "Allspice",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "カリブ海"
+      },
+      {
+        "country": "ジャマイカ"
+      }
+    ],
+    "summary": "フトモモ科の樹木ピメンタ・ディオイカの未熟果実を乾燥させた香辛料。シナモン・クローブ・ナツメッグを合わせたような香りがすることから17世紀の英国人により「オール（全ての）スパイス」と名付けられたが、実際は単一のスパイス。",
+    "menuDescription": "1粒で複数のスパイスの香りを持つ香辛料。肉料理の煮込みや焼き菓子、ピクルスなど幅広く使われる。",
+    "whatComesOut": [
+      "コショウ粒に似た乾燥果実（ホール）または粉末",
+      "煮込み料理やソーセージの香りづけ",
+      "焼き菓子やピクルスへの利用"
+    ],
+    "tasteAndTexture": [
+      "シナモン・クローブ・ナツメッグを合わせたような甘く温かい香り",
+      "ほのかな辛味",
+      "後を引く芳香"
+    ],
+    "orderAdvice": "ジャマイカ料理のジャークシーズニングや煮込み料理に触れるときに香りの正体として意識すると理解が深まる。",
+    "similarItems": [
+      {
+        "id": "cinnamon",
+        "name": "シナモン",
+        "difference": "シナモンは樹皮由来の単一スパイス。オールスパイスはシナモン・クローブ・ナツメッグを合わせたような複合的な香りを1粒で持つ"
+      },
+      {
+        "id": "garam-masala",
+        "name": "ガラムマサラ",
+        "difference": "ガラムマサラは複数スパイスのブレンド。オールスパイスは単一の果実でありながら複合的な香りがする"
+      }
+    ],
+    "relatedIds": [
+      "garam-masala"
+    ],
+    "tags": [
+      "スパイス",
+      "甘み",
+      "香ばしい",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "スパイス嫌い",
+      "香りなし",
+      "シンプルな味付け"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "source": [
+      "https://en.wikipedia.org/wiki/Allspice"
+    ],
+    "images": [
+      "/images/dishes/allspice/1.jpg",
+      "/images/dishes/allspice/2.jpg",
+      "/images/dishes/allspice/3.jpg"
+    ]
+  },
+  {
+    "id": "cardamom",
+    "name": "カルダモン",
+    "kana": "かるだもん",
+    "aliases": [
+      "小豆蒄",
+      "Elettaria cardamomum"
+    ],
+    "englishName": "Cardamom",
+    "originalName": "Cardamom",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "インド"
+      },
+      {
+        "area": "中東"
+      },
+      {
+        "area": "北欧"
+      }
+    ],
+    "summary": "ショウガ科の植物の種子を使う香辛料で、インド亜大陸原産。ユーカリや樟脳に似た樹脂系の香りにレモンのような爽やかさが混じる上品な芳香を持ち、「スパイスの女王」とも呼ばれる。",
+    "menuDescription": "さわやかで上品な芳香を持つ香辛料。カレーやガラムマサラに欠かせないほか、北欧のパンや中東のコーヒーの香りづけにも使われる。",
+    "whatComesOut": [
+      "緑色または白色の小さなさや（ホール）や種子、粉末",
+      "カレーやチャイの香りづけ",
+      "パンや焼き菓子への利用"
+    ],
+    "tasteAndTexture": [
+      "ユーカリや樟脳に似た清涼感のある香り",
+      "かすかなレモンのような爽やかさ",
+      "ほのかな甘みと刺激"
+    ],
+    "orderAdvice": "チャイやガラムマサラを使った料理で、さわやかで上品な香りの主役として楽しみたいときに。",
+    "similarItems": [
+      {
+        "id": "garam-masala",
+        "name": "ガラムマサラ",
+        "difference": "カルダモンは単体スパイス。ガラムマサラはカルダモンを含む複数スパイスのブレンド"
+      },
+      {
+        "id": "cumin",
+        "name": "クミン",
+        "difference": "クミンは土っぽく香ばしい香り。カルダモンは樹脂系で清涼感のある香り"
+      },
+      {
+        "id": "turmeric",
+        "name": "ターメリック",
+        "difference": "ターメリックは黄色い色づけとほろ苦さが中心。カルダモンは香りの華やかさが中心"
+      }
+    ],
+    "relatedIds": [
+      "garam-masala",
+      "cumin",
+      "turmeric",
+      "coriander-seed"
+    ],
+    "tags": [
+      "インド料理",
+      "スパイス",
+      "香ばしい",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "スパイス嫌い",
+      "香りなし",
+      "シンプルな味付け"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/カルダモン"
+    ],
+    "images": [
+      "/images/dishes/cardamom/1.jpg",
+      "/images/dishes/cardamom/2.jpg",
+      "/images/dishes/cardamom/3.png"
+    ]
+  },
+  {
+    "id": "garlic",
+    "name": "にんにく",
+    "kana": "にんにく",
+    "aliases": [
+      "ガーリック",
+      "大蒜",
+      "Garlic",
+      "Allium sativum"
+    ],
+    "englishName": "Garlic",
+    "originalName": "Garlic",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "中央アジア"
+      }
+    ],
+    "summary": "ヒガンバナ科ネギ属の多年草で、学名Allium sativum。生の状態では無臭のアリインが、刻んだりすりおろしたりすると酵素の作用でアリシンに変化し、独特の強い香りを放つ。塩・コショウに次ぐ「第三の調味料」とも言われる。",
+    "menuDescription": "刻む・すりおろす・丸ごと使うなど調理法によって香りが変わる香味野菜。油に香りを移してから使う料理も多い。",
+    "whatComesOut": [
+      "みじん切り・薄切り・すりおろし・丸ごとなど様々な形状",
+      "炒め物や煮込みの香りのベース",
+      "ガーリックトーストやソースへの利用"
+    ],
+    "tasteAndTexture": [
+      "生は刺激的で強い香りと辛味",
+      "加熱すると香ばしくまろやかな風味に変化",
+      "みじん切りは香りが強く、丸ごとはほっくりと甘い"
+    ],
+    "orderAdvice": "香りやコクを強めたい料理で活躍。生のにんにくは香りが強いので、翌日の予定がある場合は量に注意。",
+    "caution": "生のにんにくは香りが強く残る。空腹時に大量に食べると胃を刺激することがある。",
+    "similarItems": [
+      {
+        "id": "garlic_shrimp",
+        "name": "ガーリックシュリンプ",
+        "difference": "ガーリックシュリンプはにんにくを使った代表的な料理。にんにくはその香りづけに使う食材自体"
+      },
+      {
+        "id": "aglio-e-olio",
+        "name": "アーリオ・エ・オーリオ",
+        "difference": "アーリオ・エ・オーリオはにんにくとオリーブオイルが主役のパスタ料理"
+      },
+      {
+        "id": "aioli",
+        "name": "アイオリ",
+        "difference": "アイオリはにんにくを使ったソース。にんにくはその主原料の一つ"
+      }
+    ],
+    "relatedIds": [
+      "garlic_shrimp",
+      "aglio-e-olio",
+      "aioli",
+      "chimichurri",
+      "hummus"
+    ],
+    "tags": [
+      "スパイス",
+      "野菜",
+      "香ばしい",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "にんにく嫌い",
+      "香りなし",
+      "あっさり素材",
+      "翌日の口臭を気にする"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/ニンニク"
+    ],
+    "images": [
+      "/images/dishes/garlic/1.jpg",
+      "/images/dishes/garlic/2.jpg",
+      "/images/dishes/garlic/3.jpg"
+    ]
+  },
+  {
+    "id": "caraway",
+    "name": "キャラウェイ",
+    "kana": "きゃらうぇい",
+    "aliases": [
+      "ヒメウイキョウ",
+      "Carum carvi"
+    ],
+    "englishName": "Caraway",
+    "originalName": "Caraway",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "中央ヨーロッパ"
+      }
+    ],
+    "summary": "セリ科ヒメウイキョウ属の二年草で、西アジア・ヨーロッパ原産。三日月形の種子はクミンに似た見た目だが、d-カルボンとリモネン由来の甘くほろ苦い清涼感のある香りが特徴で、中央ヨーロッパやユダヤ料理でパンやザワークラウトに使われる。",
+    "menuDescription": "甘い香りとほろ苦さ、ぷちぷちとした食感を持つ種子のスパイス。ライ麦パンやザワークラウト、チーズ料理の香りづけに使われる。",
+    "whatComesOut": [
+      "三日月形の小さな種子（ホール）",
+      "パンやチーズに練り込まれた粒",
+      "ザワークラウトなど煮込み料理の風味づけ"
+    ],
+    "tasteAndTexture": [
+      "甘くほろ苦い香り",
+      "柑橘系の清涼感",
+      "噛むとぷちぷちとした食感"
+    ],
+    "orderAdvice": "ライ麦パンやザワークラウトなど中央ヨーロッパ系の料理で、種子の食感と香りを楽しみたいときに。",
+    "similarItems": [
+      {
+        "id": "cumin",
+        "name": "クミン",
+        "difference": "クミンは土っぽく重い香り。キャラウェイは甘くほろ苦い清涼感のある香り"
+      },
+      {
+        "id": "sauerkraut",
+        "name": "ザワークラウト",
+        "difference": "ザワークラウトはキャラウェイを使うことが多い代表的な発酵料理。キャラウェイはその香りづけに使うスパイス"
+      }
+    ],
+    "relatedIds": [
+      "cumin",
+      "sauerkraut"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "スパイス",
+      "香ばしい",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "スパイス嫌い",
+      "香りなし",
+      "シンプルな味付け"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/キャラウェイ"
+    ],
+    "images": [
+      "/images/dishes/caraway/1.jpg",
+      "/images/dishes/caraway/2.jpg",
+      "/images/dishes/caraway/3.jpg"
+    ]
+  },
+  {
+    "id": "gardenia-fruit",
+    "name": "くちなし",
+    "kana": "くちなし",
+    "aliases": [
+      "山梔子",
+      "クチナシの実",
+      "Gardenia"
+    ],
+    "englishName": "Gardenia fruit",
+    "originalName": "Gardenia jasminoides fruit",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "アカネ科クチナシの果実を乾燥させた天然着色料。黄色色素クロシンを含み、栗きんとんやたくあんなどを鮮やかな黄金色に染める。香りより色づけが主目的の香辛料。",
+    "menuDescription": "料理を鮮やかな黄金色に染める天然の着色スパイス。栗きんとんや漬物の色づけに使われる。",
+    "whatComesOut": [
+      "黄色に染まった料理",
+      "乾燥した赤茶色の実または粉末",
+      "ほのかな香りづけ"
+    ],
+    "tasteAndTexture": [
+      "ほぼ無味に近い",
+      "わずかな苦みとほのかな芳香",
+      "食感はなく色づけが主目的"
+    ],
+    "orderAdvice": "鮮やかな黄色の和菓子や漬物を楽しみたいときに。サフランやターメリックと違い、香りより色づけが主目的。",
+    "caution": "香辛料というより着色料としての利用が中心。",
+    "similarItems": [
+      {
+        "id": "saffron",
+        "name": "サフラン",
+        "difference": "サフランは花のような香りが主役。クチナシはほぼ無味で色づけが主目的"
+      },
+      {
+        "id": "turmeric",
+        "name": "ターメリック",
+        "difference": "ターメリックは土っぽい香りと苦みがある。クチナシは香りが控えめ"
+      }
+    ],
+    "relatedIds": [],
+    "tags": [
+      "日本料理",
+      "調味料",
+      "スパイス",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "無色の料理",
+      "辛い香辛料",
+      "強い香りのスパイス",
+      "洋風の着色料"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/クチナシ"
+    ],
+    "images": [
+      "/images/dishes/gardenia-fruit/1.jpg",
+      "/images/dishes/gardenia-fruit/2.jpg",
+      "/images/dishes/gardenia-fruit/3.jpg"
+    ]
+  },
+  {
+    "id": "clove",
+    "name": "クローブ",
+    "kana": "くろーぶ",
+    "aliases": [
+      "丁子",
+      "チョウジ",
+      "Clove"
+    ],
+    "englishName": "Clove",
+    "originalName": "Syzygium aromaticum",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "インドネシア"
+      },
+      {
+        "area": "東南アジア"
+      }
+    ],
+    "summary": "フトモモ科チョウジノキの乾燥したつぼみを使う香辛料。精油成分オイゲノールによる強く甘い芳香が特徴で、少量で十分な香りづけができる。肉料理やチャイ、焼き菓子に使われる。",
+    "menuDescription": "釘のような形の乾燥スパイス。少量で強い芳香を放ち、肉の下味やチャイ、デザートの香りづけに使われる。",
+    "whatComesOut": [
+      "釘型の黒褐色スパイス",
+      "粉末のクローブ",
+      "肉料理やチャイの強い芳香"
+    ],
+    "tasteAndTexture": [
+      "強く甘い芳香",
+      "ピリッとした刺激",
+      "噛むと痺れるような後味"
+    ],
+    "orderAdvice": "濃厚で甘い香りのスパイスが好きなら。少量でも存在感が強く、入れすぎに注意が必要な料理に使われる。",
+    "caution": "香りが非常に強いので使用量に注意。ホールのまま料理に残ると噛んだ時に刺激が強い。",
+    "similarItems": [
+      {
+        "id": "cinnamon",
+        "name": "シナモン",
+        "difference": "シナモンは甘く温かみのある香り。クローブはより刺激的で強い芳香"
+      },
+      {
+        "id": "hua-jiao",
+        "name": "花椒",
+        "difference": "花椒は舌が痺れる麻味が中心。クローブは甘く強い芳香が中心"
+      }
+    ],
+    "relatedIds": [
+      "hua-jiao"
+    ],
+    "tags": [
+      "調味料",
+      "スパイス",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "無香料の料理",
+      "あっさり味",
+      "香辛料嫌い",
+      "薄味"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "source": [
+      "https://ja.wikipedia.org/wiki/チョウジ"
+    ],
+    "images": [
+      "/images/dishes/clove/1.jpg",
+      "/images/dishes/clove/2.jpg",
+      "/images/dishes/clove/3.jpg"
+    ]
+  },
+  {
+    "id": "black-pepper",
+    "name": "こしょう",
+    "kana": "こしょう",
+    "aliases": [
+      "ブラックペッパー",
+      "黒胡椒",
+      "コショウ",
+      "Black pepper"
+    ],
+    "englishName": "Black pepper",
+    "originalName": "Piper nigrum",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "インド"
+      },
+      {
+        "country": "ベトナム"
+      },
+      {
+        "area": "東南アジア"
+      }
+    ],
+    "summary": "コショウ科コショウの未熟な果実を皮ごと乾燥させた香辛料。「スパイスの王様」と呼ばれ、ピペリンによる刺激的な辛みとピネン・リモネンなどの複雑な香りが特徴。ホール・パウダー・あらびきと形状によって用途が異なる。",
+    "menuDescription": "肉や魚の下味からテーブルコショウまで幅広く使われる定番香辛料。ホールは香り重視の煮込みに、パウダーは全体の風味付けに、あらびきは食感と香りのアクセントに使う。",
+    "whatComesOut": [
+      "黒い粒または粉末のスパイス",
+      "肉料理・魚料理の下味",
+      "ステーキやパスタの仕上げの香り",
+      "食卓の常備調味料"
+    ],
+    "tasteAndTexture": [
+      "刺激的な辛み",
+      "スパイシーで爽やかな香り",
+      "ホールは噛むとパチッとした食感",
+      "パウダーは均一に効く辛さ"
+    ],
+    "orderAdvice": "肉料理をキリッと引き締めたいときに。ホールとパウダー、あらびきで香りと辛みの出方が変わる。",
+    "caution": "香りと辛みが強いので、繊細な素材の味を消してしまうことがある。",
+    "similarItems": [
+      {
+        "id": "hua-jiao",
+        "name": "花椒",
+        "difference": "花椒は舌が痺れる麻味。こしょうは刺激的な辛みが中心"
+      },
+      {
+        "name": "ピンクペッパー",
+        "difference": "ピンクペッパーは甘くフルーティーな香り。こしょうはより刺激的で辛みが強い"
+      }
+    ],
+    "relatedIds": [
+      "hua-jiao"
+    ],
+    "tags": [
+      "調味料",
+      "スパイス",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "無味の料理",
+      "甘いだけの味付け",
+      "香辛料なし",
+      "薄味"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "source": [
+      "https://ja.wikipedia.org/wiki/コショウ"
+    ],
+    "images": [
+      "/images/dishes/black-pepper/1.jpg",
+      "/images/dishes/black-pepper/2.jpg",
+      "/images/dishes/black-pepper/3.jpg"
+    ]
+  },
+  {
+    "id": "sansho",
+    "name": "山椒",
+    "kana": "さんしょう",
+    "aliases": [
+      "和山椒",
+      "粉山椒",
+      "木の芽"
+    ],
+    "englishName": "Japanese pepper",
+    "originalName": "Zanthoxylum piperitum",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "ミカン科サンショウの果皮や若葉を使う日本の香辛料。しびれるような辛味成分サンショオールを含み、中国の花椒に比べて穏やかな辛さと爽やかな香りが特徴。鰻の蒲焼に振りかける粉山椒が代表的な利用法。",
+    "menuDescription": "鰻の蒲焼に添える粉末の香辛料。若葉の木の芽は焼き物や煮物の彩りに、果皮の粉末は臭み消しと香りづけに使われる。",
+    "whatComesOut": [
+      "緑がかった粉末スパイス",
+      "鰻の蒲焼に振りかけられた状態",
+      "木の芽をあしらった煮物や吸い物"
+    ],
+    "tasteAndTexture": [
+      "舌がわずかにしびれる辛さ",
+      "爽やかな柑橘系の香り",
+      "後味はすっきり"
+    ],
+    "orderAdvice": "脂の乗った鰻や肉料理をさっぱり食べたいときに。花椒より辛みが穏やかなので日本の味付けになじみやすい。",
+    "caution": "花椒と混同されやすいが、日本の山椒は辛みがより穏やか。",
+    "similarItems": [
+      {
+        "id": "hua-jiao",
+        "name": "花椒",
+        "difference": "花椒は中国産でしびれが強い。山椒は日本産でより穏やかな辛さと爽やかな香り"
+      },
+      {
+        "id": "nishin-sansho-zuke",
+        "name": "にしんの山椒漬け",
+        "difference": "にしんの山椒漬けは山椒を使った郷土料理。山椒はその香辛料そのもの"
+      }
+    ],
+    "relatedIds": [
+      "hua-jiao",
+      "nishin-sansho-zuke",
+      "takenoko-sanshouni",
+      "sansho-no-ha-no-tsukudani",
+      "koayu-no-sansho-ni"
+    ],
+    "tags": [
+      "日本料理",
+      "調味料",
+      "スパイス",
+      "ピリ辛",
+      "香ばしい",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "しびれが苦手",
+      "無香料の料理",
+      "甘い味付け",
+      "洋風スパイス"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "source": [
+      "https://ja.wikipedia.org/wiki/サンショウ"
+    ],
+    "images": [
+      "/images/dishes/sansho/1.jpg",
+      "/images/dishes/sansho/2.png",
+      "/images/dishes/sansho/3.jpg"
+    ]
+  },
+  {
+    "id": "shichimi-togarashi",
+    "name": "七味唐辛子",
+    "kana": "しちみとうがらし",
+    "aliases": [
+      "七味",
+      "なないろとうがらし"
+    ],
+    "englishName": "Shichimi togarashi",
+    "originalName": "七味唐辛子",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "唐辛子を主体に山椒・麻の実・胡麻・陳皮・青のり・けしの実など6種の副原料を合わせた日本発祥の混合香辛料。製造元によって配合が異なり、江戸の辛口から京都の香り重視まで個性がある。うどんや蕎麦、牛丼の薬味として定番。",
+    "menuDescription": "麺類や丼物にかける定番の薬味スパイス。唐辛子の辛さに山椒のしびれ、胡麻や青のりの香ばしさが加わった複合的な風味。",
+    "whatComesOut": [
+      "赤茶色の粉末ミックススパイス",
+      "うどんや蕎麦にかけられた状態",
+      "牛丼や豚汁に添えられた小袋"
+    ],
+    "tasteAndTexture": [
+      "ピリッとした辛さ",
+      "山椒のしびれと香り",
+      "胡麻や青のりの香ばしさ",
+      "配合によって甘辛のバランスが変わる"
+    ],
+    "orderAdvice": "麺類や丼物にアクセントを足したいときに。京都系は香り重視、江戸系は辛さ重視と個性が分かれる。",
+    "caution": "配合により辛さの強さが異なるので、初めては少量から試すとよい。",
+    "similarItems": [
+      {
+        "id": "sansho",
+        "name": "山椒",
+        "difference": "山椒は単一素材。七味唐辛子は山椒を含む複数スパイスのブレンド"
+      },
+      {
+        "id": "curry-powder",
+        "name": "カレー粉",
+        "difference": "カレー粉は洋風・インド系スパイスのブレンド。七味唐辛子は和風の薬味ブレンド"
+      }
+    ],
+    "relatedIds": [
+      "sansho",
+      "curry-powder"
+    ],
+    "tags": [
+      "日本料理",
+      "調味料",
+      "スパイス",
+      "ピリ辛",
+      "香ばしい",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "辛いもの苦手",
+      "無香料",
+      "洋風スパイス",
+      "甘い味付け"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "source": [
+      "https://ja.wikipedia.org/wiki/七味唐辛子"
+    ],
+    "images": [
+      "/images/dishes/shichimi-togarashi/1.jpg",
+      "/images/dishes/shichimi-togarashi/2.jpg",
+      "/images/dishes/shichimi-togarashi/3.jpg"
+    ]
+  },
+  {
+    "id": "cinnamon",
+    "name": "シナモン",
+    "kana": "しなもん",
+    "aliases": [
+      "肉桂",
+      "ニッキ",
+      "シナモンスティック"
+    ],
+    "englishName": "Cinnamon",
+    "originalName": "Cinnamomum verum / Cinnamomum cassia",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "インドネシア"
+      },
+      {
+        "country": "中国"
+      },
+      {
+        "country": "スリランカ"
+      }
+    ],
+    "summary": "クスノキ科の樹皮を乾燥させた香辛料。「スパイスの王様」とも呼ばれ、甘い香りとかすかな辛みが特徴。繊細なセイロンシナモンと、強くピリッとした香りのカシアの2系統があり、菓子から肉料理まで幅広く使われる。",
+    "menuDescription": "甘く温かみのある香りのスパイス。スティックのまま煮込みに、パウダーは焼き菓子や飲み物の風味づけに使われる。",
+    "whatComesOut": [
+      "巻いたスティック状の樹皮",
+      "赤褐色の粉末スパイス",
+      "アップルパイやシナモンロールの甘い香り",
+      "コーヒーやチャイの香りづけ"
+    ],
+    "tasteAndTexture": [
+      "甘く温かみのある香り",
+      "かすかな辛みと渋み",
+      "セイロン種は繊細で上品",
+      "カシア種は強くピリッとした香り"
+    ],
+    "orderAdvice": "甘い香りのデザートや飲み物を楽しみたいときに。肉料理の香りづけにも使われるので、意外な組み合わせも試す価値がある。",
+    "caution": "カシアはクマリン含有量が多いため、大量摂取には注意。",
+    "similarItems": [
+      {
+        "id": "clove",
+        "name": "クローブ",
+        "difference": "クローブはより刺激的で強い芳香。シナモンは甘く温かみのある香り"
+      },
+      {
+        "id": "nutmeg",
+        "name": "ナツメグ",
+        "difference": "ナツメグはより土っぽく温かい香り。シナモンは甘さが際立つ"
+      }
+    ],
+    "relatedIds": [
+      "clove"
+    ],
+    "tags": [
+      "デザート",
+      "スパイス",
+      "甘み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "無香料の料理",
+      "しょっぱい味付け",
+      "スパイス嫌い",
+      "さっぱり味"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/シナモン"
+    ],
+    "images": [
+      "/images/dishes/cinnamon/1.jpg",
+      "/images/dishes/cinnamon/2.jpg",
+      "/images/dishes/cinnamon/3.jpg"
+    ]
+  },
+  {
+    "id": "ginger",
+    "name": "しょうが",
+    "kana": "しょうが",
+    "aliases": [
+      "生姜",
+      "ジンジャー",
+      "Ginger"
+    ],
+    "englishName": "Ginger",
+    "originalName": "Zingiber officinale",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "country": "中国"
+      },
+      {
+        "area": "東南アジア"
+      }
+    ],
+    "summary": "ショウガ科の根茎を使う香辛料・薬味。ジンゲロールなど200種以上の香り成分による独特の辛みと香りが特徴で、加熱するとショウガオールに変化しまろやかになる。魚や肉の臭み消しから飲み物まで幅広く使われる。",
+    "menuDescription": "すりおろしや千切りで添えられる薬味スパイス。刺身や寿司の臭み消し、甘酢漬けの紅生姜やガリ、煮物や炒め物の香りづけまで幅広く活躍する。",
+    "whatComesOut": [
+      "すりおろしたおろし生姜",
+      "千切りの針生姜",
+      "甘酢漬けのガリや紅生姜",
+      "生姜焼きや煮物の風味"
+    ],
+    "tasteAndTexture": [
+      "ピリッとした辛み",
+      "爽やかで独特な香り",
+      "加熱するとまろやかな甘みに変化",
+      "後味はすっきり"
+    ],
+    "orderAdvice": "魚や肉の臭みを消してさっぱり食べたいときに。生のシャープな辛さと加熱後のまろやかな風味で使い分けられる。",
+    "caution": "皮の近くに香り成分が集中しているため、皮ごと使うと風味が強くなる。",
+    "similarItems": [
+      {
+        "id": "garlic",
+        "name": "にんにく",
+        "difference": "にんにくは強いコクと香ばしさ。しょうがは爽やかな辛みと香りが中心"
+      },
+      {
+        "id": "shoga-meshi-wakayama",
+        "name": "しょうが飯",
+        "difference": "しょうが飯はしょうがを使った郷土料理。しょうがはその香辛料そのもの"
+      }
+    ],
+    "relatedIds": [
+      "garlic",
+      "shoga-meshi-wakayama",
+      "shouga-misooden-aomori"
+    ],
+    "tags": [
+      "日本料理",
+      "調味料",
+      "スパイス",
+      "ピリ辛",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "香辛料嫌い",
+      "無香料の料理",
+      "こってり濃厚",
+      "甘いだけの味付け"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "source": [
+      "https://ja.wikipedia.org/wiki/ショウガ"
+    ],
+    "images": [
+      "/images/dishes/ginger/1.jpg",
+      "/images/dishes/ginger/2.jpg",
+      "/images/dishes/ginger/3.jpg"
+    ]
+  },
+  {
+    "id": "star-anise",
+    "name": "スターアニス",
+    "kana": "すたーあにす",
+    "aliases": [
+      "八角",
+      "トウシキミ",
+      "大茴香"
+    ],
+    "englishName": "Star anise",
+    "originalName": "Illicium verum",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "area": "東南アジア"
+      }
+    ],
+    "summary": "トウシキミの果実を乾燥させた星形の香辛料。アニスと共通の香気成分アネトールによる甘く独特な香りが特徴で、中国料理の代表的スパイス。五香粉の主要成分でもあり、北京ダックや東坡肉、フォーの出汁に使われる。",
+    "menuDescription": "星形が特徴的な香辛料。甘く独特な香りで肉の煮込みや出汁に深みを与え、五香粉の主要成分としても使われる。",
+    "whatComesOut": [
+      "星形の茶褐色スパイス",
+      "肉の煮込み料理の香り",
+      "フォーやラーメンスープの奥行き",
+      "五香粉などスパイスミックスの一部"
+    ],
+    "tasteAndTexture": [
+      "甘く独特な芳香",
+      "アニスに似た香り",
+      "わずかな苦みと清涼感"
+    ],
+    "orderAdvice": "中華風の煮込みやスープに深い香りが欲しいときに。強い香りなので使いすぎに注意。",
+    "caution": "香りが強く特徴的なので、苦手な人には主張が強すぎることがある。",
+    "similarItems": [
+      {
+        "id": "wu-xiang-fen",
+        "name": "五香粉",
+        "difference": "五香粉はスターアニスを含む複合スパイス。スターアニスは単体素材"
+      },
+      {
+        "id": "mapo-tofu",
+        "name": "麻婆豆腐",
+        "difference": "麻婆豆腐はスターアニスなど香辛料を使う中国料理。スターアニスはその香辛料そのもの"
+      }
+    ],
+    "relatedIds": [
+      "wu-xiang-fen",
+      "mapo-tofu"
+    ],
+    "tags": [
+      "中国料理",
+      "調味料",
+      "スパイス",
+      "甘み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "無香料の料理",
+      "洋風スパイス",
+      "香辛料嫌い",
+      "あっさり味"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/トウシキミ"
+    ],
+    "images": [
+      "/images/dishes/star-anise/1.jpg",
+      "/images/dishes/star-anise/2.jpg",
+      "/images/dishes/star-anise/3.jpg"
+    ]
+  },
+  {
+    "id": "spearmint",
+    "name": "スペアミント",
+    "kana": "すぺありんと",
+    "aliases": [
+      "ミドリハッカ",
+      "オランダハッカ"
+    ],
+    "englishName": "Spearmint",
+    "originalName": "Spearmint (Mentha spicata)",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "地中海沿岸"
+      }
+    ],
+    "summary": "シソ科ハッカ属の多年草で、地中海沿岸原産のミントの一種。主成分カルボンによる甘く柔らかな清涼感が特徴で、メントールを主成分とするペパーミントより香りが穏やか。モヒートやミントティー、デザートの香りづけに使われる。",
+    "menuDescription": "葉にしわのあるミントの一種。ペパーミントよりも甘く穏やかな清涼感を持ち、モヒートやミントティー、サラダ、デザートの香りづけに使われる。",
+    "whatComesOut": [
+      "刻んだ生の葉",
+      "飲み物や料理に添えるミントの葉",
+      "ミントティーやモヒートの香りづけ",
+      "デザートのガーニッシュ"
+    ],
+    "tasteAndTexture": [
+      "柔らかく甘みのある清涼感",
+      "ペパーミントより穏やかな香り",
+      "かすかな柑橘のニュアンス",
+      "後味がすっきりしている"
+    ],
+    "orderAdvice": "モヒートやミントティー、タブレなど爽やかな香りを添えた料理・飲み物の目印。ペパーミントより刺激が少なくミントが苦手でも試しやすいことがある。",
+    "similarItems": [
+      {
+        "name": "ペパーミント",
+        "difference": "ペパーミントはメントール主体の強い清涼感。スペアミントはカルボン主体の柔らかく甘い清涼感"
+      },
+      {
+        "id": "taboule",
+        "name": "タブレ",
+        "difference": "タブレはスペアミントを使う中東のハーブサラダ。スペアミントはその香りの主役となるハーブ"
+      }
+    ],
+    "relatedIds": [
+      "taboule"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/スペアミント",
+      "https://shop.krauter-haus.jp/spearmint/"
+    ],
+    "tags": [
+      "地中海料理",
+      "ハーブ",
+      "あっさり",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "香りなし",
+      "ミント嫌い",
+      "こってり濃厚な味",
+      "唐辛子の辛さ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/spearmint/1.jpg",
+      "/images/dishes/spearmint/2.jpg",
+      "/images/dishes/spearmint/3.jpg"
+    ]
+  },
+  {
+    "id": "celery-seed",
+    "name": "セロリーシード",
+    "kana": "せろりーしーど",
+    "aliases": [
+      "セロリシード"
+    ],
+    "englishName": "Celery seed",
+    "originalName": "Celery seed",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "地中海沿岸"
+      },
+      {
+        "area": "ヨーロッパ"
+      }
+    ],
+    "summary": "セリ科セロリ(Apium graveolens)の種子を乾燥させた香辛料。地中海沿岸原産のセロリに由来し、フタリドやセダノライドなどの化合物による強く独特な芳香を持つ。粉末にして塩と合わせた「セロリソルト」としても広く流通する。",
+    "menuDescription": "茶褐色の小さな種子を丸のまま、または挽いて使う香辛料。ピクルス液やコールスロー、スープの香りづけに使われるほか、セロリソルトとしてブラッディ・メアリーやホットドッグの下味にも欠かせない。",
+    "whatComesOut": [
+      "茶褐色の小粒の種子",
+      "挽いた粉末のスパイス",
+      "塩と混ぜたセロリソルト",
+      "ピクルスやドレッシングの香りづけ"
+    ],
+    "tasteAndTexture": [
+      "セロリの茎より凝縮された芳香",
+      "土っぽくやや苦みのある風味",
+      "かすかな刺激",
+      "後を引く独特の香り"
+    ],
+    "orderAdvice": "料理の主役になることはなく、ピクルスやコールスロー、ドレッシングの香りづけとして使われていないか意識すると発見がある。ブラッディ・メアリーの香りづけとしても定番。",
+    "caution": "セロリアレルギーがある場合、種子にも反応することがある。",
+    "similarItems": [
+      {
+        "id": "celery",
+        "name": "セロリ",
+        "difference": "セロリは生の茎や葉を食べる野菜。セロリーシードは種子を乾燥させた香辛料で風味が凝縮している"
+      },
+      {
+        "name": "セロリソルト",
+        "difference": "セロリソルトはセロリーシードの粉末と塩を混ぜた調味料。セロリーシード単体はスパイスそのもの"
+      },
+      {
+        "id": "coriander-seed",
+        "name": "コリアンダー",
+        "difference": "コリアンダーは柑橘のような甘い香り。セロリーシードは土っぽく塩気に合う香り"
+      }
+    ],
+    "relatedIds": [
+      "celery",
+      "pickles",
+      "coleslaw-dressing"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/セロリ",
+      "https://en.wikipedia.org/wiki/Celery"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "スパイス",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "香りなし",
+      "甘いスパイス",
+      "メインの食材",
+      "辛い唐辛子",
+      "華やかな彩り"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/celery-seed/1.jpg",
+      "/images/dishes/celery-seed/2.jpg",
+      "/images/dishes/celery-seed/3.jpg"
+    ]
+  },
+  {
+    "id": "chili-powder",
+    "name": "チリパウダー",
+    "kana": "ちりぱうだー",
+    "aliases": [
+      "チリパウダーミックス"
+    ],
+    "englishName": "Chili powder",
+    "originalName": "Chili powder",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "アメリカ合衆国",
+        "area": "テキサス"
+      }
+    ],
+    "summary": "唐辛子の粉末にクミン・オレガノ・ニンニク・パプリカなどを配合したアメリカ生まれのスパイスミックス。1890年代にテキサス州でウィリアム・ゲバートが考案したとされ、メキシコ料理の下ごしらえを簡略化する目的で広まった。チリ・コン・カーンに欠かせない調味料。",
+    "menuDescription": "唐辛子ベースの赤いスパイスブレンド。チリ・コン・カーンやタコス、エンチラーダなどテクス・メクス料理の味の土台になり、ピリ辛と香ばしさを一度に加える。",
+    "whatComesOut": [
+      "赤褐色の粉末スパイス",
+      "チリ・コン・カーンの味の土台",
+      "タコスやエンチラーダの下味",
+      "小瓶や小袋のスパイスミックス"
+    ],
+    "tasteAndTexture": [
+      "唐辛子のピリ辛さ",
+      "クミンの香ばしさ",
+      "ほのかなニンニクの風味",
+      "粉っぽい口当たり"
+    ],
+    "orderAdvice": "チリ・コン・カーンやタコスなど、テクス・メクス系の料理でピリ辛と香ばしさを楽しみたいときの目印になる。唐辛子粉単体よりマイルドな複合スパイスであることが多い。",
+    "caution": "「チリパウダー」は唐辛子粉単体を指すこともあり、配合や辛さは商品によって差が大きい。",
+    "similarItems": [
+      {
+        "id": "cayenne-pepper",
+        "name": "カイエンペッパー",
+        "difference": "カイエンペッパーは唐辛子単体の粉末で辛味が強い。チリパウダーはクミンなどを混ぜた複合スパイス"
+      },
+      {
+        "id": "paprika",
+        "name": "パプリカパウダー",
+        "difference": "パプリカパウダーは辛くない甘い唐辛子の粉末。チリパウダーは辛味のある唐辛子ベースの複合スパイス"
+      },
+      {
+        "id": "chili-con-carne",
+        "name": "チリ・コン・カーン",
+        "difference": "チリ・コン・カーンはチリパウダーを使って作る煮込み料理そのもの"
+      }
+    ],
+    "relatedIds": [
+      "chili-con-carne",
+      "tacos",
+      "cayenne-pepper",
+      "paprika"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/チリパウダー",
+      "https://en.wikipedia.org/wiki/Chili_powder"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "調味料",
+      "スパイス",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "香りなし",
+      "甘いだけ",
+      "辛味なし",
+      "繊細な風味",
+      "和食の香辛料"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/chili-powder/1.jpg",
+      "/images/dishes/chili-powder/2.jpg",
+      "/images/dishes/chili-powder/3.jpg"
+    ]
+  },
+  {
+    "id": "nutmeg",
+    "name": "ナツメグ",
+    "kana": "なつめぐ",
+    "aliases": [
+      "ニクズク"
+    ],
+    "englishName": "Nutmeg",
+    "originalName": "Nutmeg",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "インドネシア",
+        "area": "バンダ諸島"
+      },
+      {
+        "area": "ヨーロッパ"
+      }
+    ],
+    "summary": "ニクズク科ニクズク(Myristica fragrans)の種子の仁を乾燥させた香辛料。原産地はインドネシアのバンダ諸島（香料諸島）で、大航海時代には香辛料貿易の中心となった。ピネンやミリスチシンによる温かみのある甘い香りが特徴で、種子を包む仮種皮を乾燥させたものは「メース」という別の香辛料になる。",
+    "menuDescription": "すりおろして使う甘く温かみのある香りの香辛料。ベシャメルソースやポテト料理、ひき肉料理、焼き菓子、エッグノッグなどに少量加えてコクと香りを引き立てる。",
+    "whatComesOut": [
+      "すりおろした粉末",
+      "種のまま(ホールナツメグ)",
+      "ベシャメルソースなどの香りづけ",
+      "焼き菓子やライスプディングの風味"
+    ],
+    "tasteAndTexture": [
+      "温かみのある甘い香り",
+      "ほのかな苦みと刺激",
+      "こっくりとした風味",
+      "少量でも余韻が長い"
+    ],
+    "orderAdvice": "ベシャメルソースやひき肉料理、焼き菓子にほんのり香ることが多い。香りに気づけると料理の印象が変わる。",
+    "caution": "約10g以上を一度に摂取するとミリスチシン中毒（動悸・痙攣・幻覚など）を起こす恐れがあり、料理での使用量はごく少量にとどめる。",
+    "similarItems": [
+      {
+        "id": "quatre-epices",
+        "name": "キャトル・エピス",
+        "difference": "キャトル・エピスはナツメグを含む4種のスパイスブレンド。ナツメグは単体のスパイス"
+      },
+      {
+        "name": "メース",
+        "difference": "メースはナツメグの種子を包む仮種皮を乾燥させたもの。ナツメグより香りが繊細"
+      },
+      {
+        "id": "garam-masala",
+        "name": "ガラムマサラ",
+        "difference": "ガラムマサラはナツメグを含む複数スパイスの混合。ナツメグは単体で使われることも多い"
+      }
+    ],
+    "relatedIds": [
+      "bechamel",
+      "quatre-epices",
+      "garam-masala"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ナツメグ",
+      "https://en.wikipedia.org/wiki/Nutmeg"
+    ],
+    "tags": [
+      "フランス料理",
+      "スパイス",
+      "甘み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "香りなし",
+      "辛い唐辛子",
+      "さっぱりした風味",
+      "スパイス不要",
+      "生野菜"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/nutmeg/1.jpg",
+      "/images/dishes/nutmeg/2.jpg",
+      "/images/dishes/nutmeg/3.jpg"
+    ]
+  },
+  {
+    "id": "parsley",
+    "name": "パセリ",
+    "kana": "ぱせり",
+    "aliases": [
+      "カーリーパセリ",
+      "縮れ葉パセリ",
+      "オランダゼリ"
+    ],
+    "englishName": "Parsley (curly parsley)",
+    "originalName": "Parsley",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "地中海沿岸"
+      }
+    ],
+    "summary": "セリ科の香味野菜パセリのうち、葉が細かく縮れた品種（カーリーパセリ）。地中海沿岸の南イタリア・アルジェリア原産で、平葉のイタリアンパセリより香りと苦味が強い。日本には18世紀末にオランダ人が持ち込み「オランダゼリ」と呼ばれ、主に料理の彩りや付け合わせとして使われてきた。",
+    "menuDescription": "縮れた葉が特徴の香味野菜。刻んでソースやパン粉に混ぜるほか、皿の彩りや付け合わせとして揚げ物や肉料理に添えられることが多い。",
+    "whatComesOut": [
+      "縮れた緑の葉の付け合わせ",
+      "刻んでソースやパン粉に混ぜた香味",
+      "フライの飾り",
+      "スープや料理の彩り"
+    ],
+    "tasteAndTexture": [
+      "爽やかな香り",
+      "イタリアンパセリよりやや強い苦味",
+      "縮れた葉のシャキッとした食感",
+      "青々しい後味"
+    ],
+    "orderAdvice": "皿に添えられていても食べずに残されがちだが、香りと風味があるので食べてみる価値がある。イタリアンパセリより香りが強く、刻んで料理に混ぜ込む用途にも向く。",
+    "similarItems": [
+      {
+        "id": "italian-parsley",
+        "name": "イタリアンパセリ",
+        "difference": "イタリアンパセリは葉が平らで香りがマイルド。パセリ（カーリー種）は葉が縮れて香りと苦味が強い"
+      },
+      {
+        "id": "chervil",
+        "name": "チャービル",
+        "difference": "チャービルは甘く繊細な香りのハーブ。パセリはより力強い青い香り"
+      },
+      {
+        "id": "basil",
+        "name": "バジル",
+        "difference": "バジルは甘い香りでイタリア料理の主役。パセリは脇役として使われる香味野菜"
+      }
+    ],
+    "relatedIds": [
+      "italian-parsley",
+      "persillade",
+      "chimichurri"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/パセリ",
+      "https://en.wikipedia.org/wiki/Parsley"
+    ],
+    "tags": [
+      "ハーブ",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "香草が苦手",
+      "青臭さが苦手",
+      "主菜そのもの",
+      "強い辛味",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/parsley/1.jpg",
+      "/images/dishes/parsley/2.jpg"
+    ]
+  },
+  {
+    "id": "vanilla",
+    "name": "バニラ",
+    "kana": "ばにら",
+    "aliases": [
+      "バニラビーンズ"
+    ],
+    "englishName": "Vanilla",
+    "originalName": "Vanilla",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "メキシコ"
+      },
+      {
+        "country": "マダガスカル"
+      }
+    ],
+    "summary": "ラン科バニラ属の植物の果実（さや）を発酵・乾燥させて作る香辛料。原産地はメキシコで、アステカ族がカカオ飲料の香りづけに使ったのが起源とされる。手作業での人工授粉と数ヶ月に及ぶキュアリング（発酵・乾燥）を要するため、サフランに次いで世界で2番目に高価なスパイスとされる。現在はマダガスカルが世界最大の産地。",
+    "menuDescription": "黒く細長いさやから種を取り出して使う甘く芳醇な香りの香辛料。アイスクリーム・カスタード・焼き菓子など洋菓子全般に使われ、香りの主成分バニリンが甘さの印象を引き立てる。",
+    "whatComesOut": [
+      "黒く細長いさや(バニラビーンズ)",
+      "さやから取り出した黒い種",
+      "カスタードやアイスクリームの香りづけ",
+      "焼き菓子に練り込まれた風味"
+    ],
+    "tasteAndTexture": [
+      "甘く芳醇な香り",
+      "ほのかな苦みを伴う奥行き",
+      "なめらかな口当たり",
+      "後味に残る華やかな甘さ"
+    ],
+    "orderAdvice": "アイスクリームやカスタード系デザートで、さやの黒い粒々が見えれば本物のバニラビーンズを使っている目印。香料のバニラエッセンスとは風味の深みが異なる。",
+    "caution": "天然のバニラビーンズは高価なため、安価な製品はバニラエッセンス（合成バニリン）で代用されていることが多い。",
+    "similarItems": [
+      {
+        "name": "バニラエッセンス",
+        "difference": "バニラエッセンスは合成または希釈した香料。バニラビーンズはさやそのものを使う天然スパイスで風味が濃厚"
+      },
+      {
+        "id": "creme-brulee",
+        "name": "クレームブリュレ",
+        "difference": "クレームブリュレはバニラを使う代表的なフランス菓子"
+      },
+      {
+        "id": "panna-cotta",
+        "name": "パンナコッタ",
+        "difference": "パンナコッタもバニラで香りづけされるイタリアのデザート"
+      }
+    ],
+    "relatedIds": [
+      "creme-brulee",
+      "panna-cotta"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Vanilla",
+      "https://ja.wikipedia.org/wiki/バニラ"
+    ],
+    "tags": [
+      "デザート",
+      "スパイス",
+      "甘み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "香りなし",
+      "辛いスパイス",
+      "さっぱりした風味",
+      "塩味中心",
+      "主菜のスパイス"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/vanilla/1.jpg",
+      "/images/dishes/vanilla/2.jpg",
+      "/images/dishes/vanilla/3.jpg"
+    ]
+  },
+  {
+    "id": "hihatsu",
+    "name": "ヒハツ",
+    "kana": "ひはつ",
+    "aliases": [
+      "ロングペッパー",
+      "インドナガコショウ"
+    ],
+    "englishName": "Long pepper (Indian long pepper)",
+    "originalName": "Piper longum",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "コショウ科Piper longum、インド北東部原産のロングペッパー。黒コショウと同じくピペリンを含み刺激的な辛味を持つが、シナモンを思わせる甘く爽やかな香りも併せ持つのが特徴。古代ギリシャ・ローマでは黒コショウより珍重されたが、大航海時代以降は黒コショウに取って代わられ、現在は希少なスパイスになっている。",
+    "menuDescription": "松かさのような形の乾燥果穂を使う香辛料。黒コショウよりも甘く複雑な香りと強い刺激を持ち、インドやネパールの料理、北アフリカのスパイスミックス、インドネシア・マレーシア料理に使われる。",
+    "whatComesOut": [
+      "松かさ状の乾燥した果穂",
+      "粉末にしたスパイス",
+      "カレーや肉料理の香りづけ",
+      "スパイスミックスの一部"
+    ],
+    "tasteAndTexture": [
+      "黒コショウより甘くシナモンに似た香り",
+      "強い刺激とピリ辛さ",
+      "じんわり広がる辛味",
+      "スパイシーで複雑な余韻"
+    ],
+    "orderAdvice": "黒コショウとは違う甘く複雑な香りが目印。インドやネパールのカレー、北アフリカ系のスパイスミックスを使った料理で出会うことがある。",
+    "caution": "沖縄で栽培される近縁種ヒハツモドキ（ピパーチ）とは別種で、風味や辛味の強さが異なる。",
+    "similarItems": [
+      {
+        "name": "黒コショウ",
+        "difference": "黒コショウは丸い粒の実。ヒハツは松かさ状の果穂で、より甘く複雑な香りを持つ"
+      },
+      {
+        "id": "hua-jiao",
+        "name": "花椒",
+        "difference": "花椒は舌がしびれる麻味が特徴。ヒハツはしびれではなく強い辛味と甘い香りが特徴"
+      },
+      {
+        "name": "ヒハツモドキ（ピパーチ）",
+        "difference": "ヒハツモドキは沖縄で使われる近縁種。ヒハツ(Piper longum)はインド原産の別種"
+      }
+    ],
+    "relatedIds": [
+      "hua-jiao"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ヒハツ",
+      "https://en.wikipedia.org/wiki/Piper_longum"
+    ],
+    "tags": [
+      "インド料理",
+      "スパイス",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "香りなし",
+      "辛味なし",
+      "甘いだけ",
+      "繊細な風味",
+      "和食の香辛料"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/hihatsu/1.jpg"
+    ]
+  },
+  {
+    "id": "pink-pepper",
+    "name": "ピンクペッパー",
+    "kana": "ぴんくぺっぱー",
+    "aliases": [
+      "コショウボク",
+      "ローズペッパー"
+    ],
+    "englishName": "Pink peppercorn",
+    "originalName": "Schinus molle / Schinus terebinthifolius",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "南米"
+      },
+      {
+        "country": "ペルー"
+      }
+    ],
+    "summary": "ウルシ科コショウボク属（Schinus molle、Schinus terebinthifolius）の果実を乾燥させた香辛料。南米ペルーのアンデス地方やブラジル原産で、黒コショウとは植物学的に無縁だが、赤くベリーのような見た目と甘酸っぱい香りから「ピンクペッパー」と呼ばれる。",
+    "menuDescription": "小さく赤い粒状の香辛料。刺激的な辛味はなく、ベリーのような甘酸っぱい香りとかすかな松脂の風味を持ち、指で軽く潰してサラダやカルパッチョ、フォアグラ料理などの仕上げに散らす。",
+    "whatComesOut": [
+      "赤くつやのある小粒の実",
+      "ミックスペッパーに混じったピンクの粒",
+      "サラダやカルパッチョの彩り",
+      "デザートや仕上げに散らされた粒"
+    ],
+    "tasteAndTexture": [
+      "ベリーのような甘酸っぱい香り",
+      "かすかな松脂のニュアンス",
+      "黒コショウのような強い辛味はない",
+      "パリッとした軽い食感"
+    ],
+    "orderAdvice": "辛さより香りと彩りを楽しむスパイス。カルパッチョやフォアグラ料理、ミックスペッパーの中に赤い粒があれば見つけやすい。",
+    "caution": "ウルシ科でカシューナッツやマンゴーの仲間にあたるため、これらにアレルギーがある場合は注意。アメリカでは食品としてのGRAS認証がなく、大量摂取は避けるべきとされる。",
+    "similarItems": [
+      {
+        "name": "黒コショウ",
+        "difference": "黒コショウはコショウ科の実で強い辛味を持つ。ピンクペッパーはウルシ科の実で辛味はなく甘酸っぱい香りが中心"
+      },
+      {
+        "id": "carpaccio",
+        "name": "カルパッチョ",
+        "difference": "カルパッチョはピンクペッパーを彩りと香りづけに使うことがある料理"
+      },
+      {
+        "id": "foie-gras",
+        "name": "フォアグラ",
+        "difference": "フォアグラ料理の仕上げにピンクペッパーが散らされることがある"
+      }
+    ],
+    "relatedIds": [
+      "carpaccio",
+      "foie-gras"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Schinus_molle",
+      "https://inspice.jp/spices/pinkpepper"
+    ],
+    "tags": [
+      "スパイス",
+      "酸味",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "強い辛味",
+      "刺激的な辛さ",
+      "黒コショウの代用",
+      "和食の香辛料",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/pink-pepper/1.jpg",
+      "/images/dishes/pink-pepper/2.jpg",
+      "/images/dishes/pink-pepper/3.jpg"
+    ]
+  },
+  {
+    "id": "peppermint",
+    "name": "ペパーミント",
+    "kana": "ぺぱーみんと",
+    "aliases": [
+      "セイヨウハッカ",
+      "西洋薄荷"
+    ],
+    "englishName": "Peppermint",
+    "originalName": "Mentha piperita",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "イギリス"
+      },
+      {
+        "area": "地中海"
+      }
+    ],
+    "summary": "シソ科ハッカ属のウォーターミントとスペアミントの交雑種で、17世紀末にイギリスのハートフォードシャーで発見されたハーブ。主成分のメントールによる際立つ清涼感が特徴で、数あるミントの中でも特に香りが強い品種として知られる。ハーブティーやカクテル（モヒートなど）、デザート、羊肉料理の臭み消しに幅広く使われる。",
+    "menuDescription": "メントールの清涼感が際立つミントの一種。肉や魚の臭み消しのほか、ハーブティー・カクテル・デザートの香り付けに使われる。生葉のまま添えられることが多い。",
+    "whatComesOut": [
+      "鮮やかな緑の小さな葉",
+      "飲み物やデザートの香り付け・飾り",
+      "肉料理に添えるソースの香り"
+    ],
+    "tasteAndTexture": [
+      "強い清涼感",
+      "スーッとしたメントール香",
+      "後味がすっきりしている"
+    ],
+    "orderAdvice": "スペアミントより香りが強く刺激的なので、清涼感をはっきり感じたい料理や飲み物（モヒートなど）で選ぶとよい。香りが強いため少量で十分。",
+    "similarItems": [
+      {
+        "id": "mint",
+        "name": "ミント",
+        "difference": "ミントはハッカ属の総称。ペパーミントはその中でも清涼感が特に強い代表品種"
+      },
+      {
+        "id": "basil",
+        "name": "バジル",
+        "difference": "バジルは甘い香りのハーブ、ペパーミントは強い清涼感が特徴"
+      }
+    ],
+    "relatedIds": [
+      "mint",
+      "taboule",
+      "raita"
+    ],
+    "tags": [
+      "ハーブ",
+      "中東料理",
+      "デザート",
+      "サラダ",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "辛い香辛料",
+      "こってりした料理",
+      "肉そのものが主役の一皿",
+      "加熱してから使う定番ハーブ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://en.wikipedia.org/wiki/Peppermint",
+      "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A8%E3%82%A6%E3%83%8F%E3%83%83%E3%82%AB",
+      "https://voxspice.jp/spicestory/1019"
+    ],
+    "images": [
+      "/images/dishes/peppermint/1.jpg",
+      "/images/dishes/peppermint/2.jpg",
+      "/images/dishes/peppermint/3.jpg"
+    ]
+  },
+  {
+    "id": "poppy-seed",
+    "name": "ポピーシード",
+    "kana": "ぽぴーしーど",
+    "aliases": [
+      "ケシの実",
+      "芥子の実"
+    ],
+    "englishName": "Poppy seed",
+    "originalName": "Papaver somniferum",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "area": "中東"
+      },
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "ケシ科ケシ属（Papaver somniferum）の莢が成熟・乾燥した後に採れる小さな種子。成熟種子にはアヘン成分がほとんど含まれず合法的な食用スパイスとして流通する。中央ヨーロッパでは製菓・製パンの定番具材、インドではすりつぶしてカレーのとろみ付けに、中東ではパンの表面にふりかけて使われる。",
+    "menuDescription": "香ばしいナッツ香とわずかな甘みを持つ小さな種子。中欧のケシの実ケーキやパン、インドのグレービーのとろみ付け、中東のパンのトッピングなど地域ごとに用途が異なる。",
+    "whatComesOut": [
+      "白または黒紫の小さな種子",
+      "パンやケーキの表面・詰め物",
+      "カレーのとろみ付けの粉末"
+    ],
+    "tasteAndTexture": [
+      "香ばしいナッツ風味",
+      "プチプチとした食感",
+      "ほのかな甘み"
+    ],
+    "orderAdvice": "中欧の菓子・パンでは具材として量が多く使われ、香ばしい風味が主役になる。インド系カレーでは表に出ずとろみと奥行きを加える裏方の存在。",
+    "caution": "国によっては薬物規制の対象となり輸入・販売が禁止されている場合がある（シンガポール等）。",
+    "similarItems": [
+      {
+        "id": "coriander-seed",
+        "name": "コリアンダー",
+        "difference": "コリアンダーは香りづけ中心の種子スパイス。ポピーシードは食感ととろみを加える種子"
+      },
+      {
+        "name": "ごま",
+        "difference": "ごまはより強い香りと油分を持つ種子。ポピーシードは控えめな香りで食感重視"
+      }
+    ],
+    "relatedIds": [],
+    "tags": [
+      "オーストリア料理",
+      "インド料理",
+      "菓子",
+      "パン",
+      "スパイス",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "辛い香辛料",
+      "香りの強いスパイス",
+      "料理のメイン食材",
+      "肉料理そのもの"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://en.wikipedia.org/wiki/Poppy_seed",
+      "https://www.sbfoods.co.jp/sbsoken/jiten/search/detail/00042.html",
+      "https://internetofspice.com/guide/spices/poppy-seed/"
+    ],
+    "images": [
+      "/images/dishes/poppy-seed/1.jpg",
+      "/images/dishes/poppy-seed/2.jpg",
+      "/images/dishes/poppy-seed/3.jpg"
+    ]
+  },
+  {
+    "id": "mace",
+    "name": "メース",
+    "kana": "めーす",
+    "aliases": [
+      "メイス",
+      "仮種皮"
+    ],
+    "englishName": "Mace",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "インドネシア"
+      },
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "ナツメグの種子を包む網目状の赤い仮種皮を乾燥させた香辛料。同じ木から採れるナツメグと似た甘く温かみのある香りを持つが、より上品で繊細な風味を持つ。原産地はインドネシア・モルッカ諸島（香料諸島）で、フランス料理では白いソースや繊細な魚料理、透明なコンソメの香り付けに使われる。",
+    "menuDescription": "ナツメグと同じ木から採れる赤い仮種皮を乾燥させた香辛料。ナツメグよりも穏やかで上品な甘い香りを持ち、ベシャメルソースやコンソメ、パテなどに使われる。",
+    "whatComesOut": [
+      "乾燥した黄褐色の薄い破片または粉末",
+      "白いソースやスープの香り付け",
+      "パテやソーセージの下味"
+    ],
+    "tasteAndTexture": [
+      "ナツメグに似た甘く温かい香り",
+      "ナツメグよりも繊細でマイルド",
+      "ほのかな苦みと刺激"
+    ],
+    "orderAdvice": "ナツメグ風味と書かれた料理より控えめで上品な香りを求めるなら、メース使用と表記された一皿を探すとよい。白いソースや繊細な魚料理との相性が良い。",
+    "similarItems": [
+      {
+        "name": "ナツメグ",
+        "difference": "ナツメグは種子の仁本体で香りが強い。メースはその種子を包む仮種皮で、より穏やかな風味"
+      },
+      {
+        "name": "シナモン",
+        "difference": "シナモンは樹皮由来で甘く刺激的な香り。メースは種子由来でより繊細な甘い香り"
+      }
+    ],
+    "relatedIds": [],
+    "tags": [
+      "フランス料理",
+      "ソース",
+      "スパイス",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "辛い唐辛子系の香辛料",
+      "酸味の強い調味料",
+      "生食する野菜",
+      "香りのない中性的な料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "source": [
+      "https://en.wikipedia.org/wiki/Mace_(spice)",
+      "https://www.h-spice.jp/dictionary/spicelist/s_mace.html",
+      "https://inspice.jp/spices/mace"
+    ],
+    "images": [
+      "/images/dishes/mace/1.jpg",
+      "/images/dishes/mace/2.jpg",
+      "/images/dishes/mace/3.jpg"
+    ]
+  },
+  {
+    "id": "yuzu-kosho",
+    "name": "柚子こしょう",
+    "kana": "ゆずこしょう",
+    "aliases": [
+      "柚子胡椒",
+      "ゆずごしょう"
+    ],
+    "englishName": "Yuzu kosho",
+    "originalName": "柚子胡椒",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "大分県"
+      }
+    ],
+    "summary": "青柚子の皮と青唐辛子を刻んで塩とすり合わせ、熟成させてつくる九州発祥の薬味・調味料。大分県日田市が発祥地の一説とされ、九州地方で古くから唐辛子を「こしょう」と呼ぶ習慣があったことが名前の由来。柚子の爽やかな香りと唐辛子の辛みを同時に感じられる。",
+    "menuDescription": "青柚子の皮と青唐辛子、塩を合わせて熟成させたペースト状の薬味。鍋物やうどん、刺身、味噌汁などにほんの少し加えて、爽やかな柑橘の香りとピリッとした辛みを楽しむ。",
+    "whatComesOut": [
+      "緑色のペースト状薬味",
+      "小皿や鍋のつゆに添えられる",
+      "刺身・うどん・鍋物の薬味として一点添え"
+    ],
+    "tasteAndTexture": [
+      "柚子の爽やかな香り",
+      "唐辛子のピリッとした辛み",
+      "塩気のある濃縮された風味"
+    ],
+    "orderAdvice": "少量で香りと辛みが強く出るため、まずは箸先ほどの量から試すとよい。鍋物やうどん、蒸し鶏、刺身との相性が良い。",
+    "caution": "辛みが強いので入れすぎに注意。唐辛子にアレルギーがある場合は避ける。",
+    "similarItems": [
+      {
+        "id": "hua-jiao",
+        "name": "花椒",
+        "difference": "花椒は中国産の山椒でしびれる辛さが特徴。柚子こしょうは柚子の香りと唐辛子の辛みが特徴"
+      },
+      {
+        "name": "一味唐辛子",
+        "difference": "一味唐辛子は唐辛子のみの辛み。柚子こしょうは柚子の香りが加わる"
+      }
+    ],
+    "relatedIds": [
+      "niwatorijiru-oita"
+    ],
+    "tags": [
+      "日本料理",
+      "調味料",
+      "スパイス",
+      "発酵",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "洋風の調味料",
+      "甘い味付け",
+      "マイルドで辛くない薬味",
+      "こってりした濃厚ソース"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 4,
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E6%9F%9A%E5%AD%90%E8%83%A1%E6%A4%92",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/yuzu_gosyo_fukuoka.html",
+      "https://www.sbfoods.co.jp/recipe/pickup/detail/036.html"
+    ],
+    "images": [
+      "/images/dishes/yuzu-kosho/1.jpg",
+      "/images/dishes/yuzu-kosho/2.jpg",
+      "/images/dishes/yuzu-kosho/3.jpg"
+    ]
+  },
+  {
+    "id": "wasabi",
+    "name": "わさび",
+    "kana": "わさび",
+    "aliases": [
+      "山葵",
+      "本わさび",
+      "日本わさび"
+    ],
+    "englishName": "Wasabi",
+    "originalName": "山葵",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "静岡県"
+      }
+    ],
+    "summary": "日本原産のアブラナ科の植物で、根茎をすりおろして使う香辛料。江戸時代末期に伊豆天城山麓で栽培が始まったとされ、静岡県・長野県・岩手県・島根県などが主産地。すりおろすことで辛味成分アリルイソチオシアネートが生成され、爽やかな香りとツンとした辛みが立つが、時間経過や加熱で香味は失われやすい。",
+    "menuDescription": "根茎をすりおろして使う日本原産の香辛料。刺身や寿司に添えられ、醤油に溶かず魚の上に直接のせて食べるのが通とされる。そばの薬味としても定番。",
+    "whatComesOut": [
+      "緑色にすりおろされた根茎",
+      "刺身・寿司に添える少量の薬味",
+      "そばのつゆに溶く薬味"
+    ],
+    "tasteAndTexture": [
+      "ツンと鼻に抜ける辛み",
+      "爽やかでみずみずしい香り",
+      "すりたてはやや粘りがある"
+    ],
+    "orderAdvice": "「本わさび使用」の表記があれば、粉わさびやチューブわさびとは異なる鮮烈な香りが楽しめる。食べる直前にすりおろされたものほど香りが高い。",
+    "caution": "辛味と香りは時間が経つと急速に失われるため、すりおろしたては早めに食べるとよい。",
+    "similarItems": [
+      {
+        "name": "西洋わさび（ホースラディッシュ）",
+        "difference": "西洋わさびは根全体をすりおろし辛みがより強く持続的。本わさびは香りが繊細で辛みの立ち上がりが早い"
+      },
+      {
+        "name": "からし",
+        "difference": "からしはより刺激的でツンとした辛さが持続する。わさびは爽やかな香りと共に辛みが早く消える"
+      }
+    ],
+    "relatedIds": [
+      "wasabi-zushi-wakayama",
+      "maguro"
+    ],
+    "tags": [
+      "日本料理",
+      "スパイス",
+      "生食",
+      "ピリ辛",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "加熱調理される香辛料",
+      "甘い風味の薬味",
+      "洋風のクリーミーなソース",
+      "刺激が長時間持続する薬味"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 3,
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B5%E3%83%93",
+      "https://www.sbfoods.co.jp/sbsoken/jiten/search/detail/00051.html",
+      "https://www.wasabi.or.jp/knowledge/character"
+    ],
+    "images": [
+      "/images/dishes/wasabi/1.jpg",
+      "/images/dishes/wasabi/2.jpg",
+      "/images/dishes/wasabi/3.jpg"
+    ]
+  },
+  {
+    "id": "kaffir-lime-leaf",
+    "name": "カフェライムリーフ",
+    "kana": "かふぇらいむりーふ",
+    "aliases": [
+      "バイマックルー",
+      "コブミカンの葉",
+      "Kaffir lime leaf"
+    ],
+    "englishName": "Kaffir lime leaf",
+    "originalName": "Bai Makrut",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "タイ"
+      },
+      {
+        "area": "東南アジア"
+      }
+    ],
+    "summary": "コブミカン（Citrus hystrix）の葉を使うハーブ。砂時計のような二段構えの独特な葉形が特徴で、柑橘系のさわやかで強い香りを持ち、タイ料理をはじめ東南アジア料理に欠かせない。",
+    "menuDescription": "細切りにして、またはそのまま煮込みに加える柑橘系ハーブ。トムヤムクンやグリーンカレーなどのスープ・カレーに独特の爽快な香りを添える。",
+    "whatComesOut": [
+      "砂時計形の緑の葉",
+      "スープやカレーに浮かぶ葉",
+      "せん切りにされたトッピング",
+      "柑橘系の爽やかな香り"
+    ],
+    "tasteAndTexture": [
+      "強く爽やかな柑橘の香り",
+      "葉自体はやや硬くそのままでは食べにくい",
+      "噛むと苦みが出る",
+      "レモングラスとは異なる鋭い香気"
+    ],
+    "orderAdvice": "タイ料理のスープやカレーに爽快な柑橘香を求めるなら重要な香り。葉は基本的に食べずに取り除く。",
+    "caution": "葉は硬く消化しにくいため、通常は食べずに料理から取り除いてから食べる。",
+    "similarItems": [
+      {
+        "id": "tom-yum-goong",
+        "name": "トムヤムクン",
+        "difference": "トムヤムクンはカフェライムリーフを使う代表的なスープ料理"
+      },
+      {
+        "id": "green-curry",
+        "name": "グリーンカレー",
+        "difference": "グリーンカレーはカフェライムリーフの香りが味の骨格を作る"
+      },
+      {
+        "id": "lemongrass",
+        "name": "レモングラス",
+        "difference": "レモングラスは茎を使いレモンに近い香り。カフェライムリーフは葉を使いより鋭い柑橘香"
+      }
+    ],
+    "relatedIds": [
+      "tom-yum-goong",
+      "green-curry"
+    ],
+    "tags": [
+      "タイ料理",
+      "東南アジア料理",
+      "ハーブ",
+      "スープ",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "香りなし",
+      "甘い味",
+      "こってり",
+      "日本料理",
+      "無臭のハーブ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%96%E3%83%9F%E3%82%AB%E3%83%B3"
+    ],
+    "images": [
+      "/images/dishes/kaffir-lime-leaf/1.jpg"
+    ]
+  },
+  {
+    "id": "bay-leaf",
+    "name": "ローレル",
+    "kana": "ろーれる",
+    "aliases": [
+      "ローリエ",
+      "ベイリーフ",
+      "月桂樹の葉",
+      "Bay leaf"
+    ],
+    "englishName": "Bay leaf",
+    "originalName": "Laurus nobilis",
+    "category": "香辛料",
+    "regions": [
+      {
+        "area": "地中海沿岸"
+      },
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "クスノキ科ゲッケイジュ（Laurus nobilis）の乾燥葉を使う香辛料。シネオールを主成分とする上品な香りで素材の臭みを和らげ、煮込み料理やブーケガルニに欠かせない西洋料理の定番ハーブ。",
+    "menuDescription": "乾燥させた葉をホールのまま煮込みに加える香り付けハーブ。スープ・シチュー・ポトフ・ブイヤベースなどに上品な香りと臭み消しの役割を与える。",
+    "whatComesOut": [
+      "乾燥した細長い緑〜茶色の葉",
+      "煮込み料理に浮かぶ葉",
+      "ブーケガルニの一部",
+      "上品でほのかな香り"
+    ],
+    "tasteAndTexture": [
+      "ほのかで上品な芳香",
+      "わずかな苦みとスパイシーさ",
+      "煮込むほど香りが料理に移る",
+      "葉自体は硬く食用に向かない"
+    ],
+    "orderAdvice": "煮込み料理の奥行きある香りを楽しみたいときに。葉そのものは食べずに取り除かれるのが一般的。",
+    "caution": "乾燥した葉の縁は硬く尖っているため、誤って飲み込むと喉に刺さる恐れがある。食べる前に必ず取り除く。",
+    "similarItems": [
+      {
+        "id": "bouquet-garni",
+        "name": "ブーケガルニ",
+        "difference": "ブーケガルニはローレルを含む複数ハーブの束。ローレルは単体のハーブ"
+      },
+      {
+        "id": "bouillabaisse",
+        "name": "ブイヤベース",
+        "difference": "ブイヤベースはローレルで香りづけする代表的な魚介煮込み"
+      },
+      {
+        "id": "pot-au-feu",
+        "name": "ポトフ",
+        "difference": "ポトフはローレルを使う定番のフランス家庭料理"
+      },
+      {
+        "id": "borscht",
+        "name": "ボルシチ",
+        "difference": "ボルシチにもローレルが使われ、煮込みの臭み消しに活躍する"
+      }
+    ],
+    "relatedIds": [
+      "bouquet-garni",
+      "bouillabaisse",
+      "pot-au-feu",
+      "borscht"
+    ],
+    "tags": [
+      "フランス料理",
+      "地中海料理",
+      "ハーブ",
+      "スープ",
+      "煮込み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "香りなし",
+      "甘い菓子",
+      "辛い料理",
+      "生食",
+      "無臭"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%83%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A5"
+    ],
+    "images": [
+      "/images/dishes/bay-leaf/1.jpg",
+      "/images/dishes/bay-leaf/2.jpg",
+      "/images/dishes/bay-leaf/3.jpg"
+    ]
   }
 ]
