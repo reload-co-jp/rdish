@@ -179131,5 +179131,1818 @@
     "heavinessScore": 1,
     "spicinessScore": 0,
     "images": []
+  },
+  {
+    "id": "satay",
+    "name": "サテー",
+    "kana": "さてー",
+    "aliases": [
+      "サテ",
+      "サテ・アヤム",
+      "Sate"
+    ],
+    "englishName": "Satay",
+    "originalName": "Sate",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "インドネシア"
+      },
+      {
+        "area": "東南アジア"
+      }
+    ],
+    "summary": "レモングラスやターメリックで下味をつけた肉を串に刺して炭火で焼き、甘辛いピーナッツソースで食べる東南アジアの屋台料理の定番。",
+    "menuDescription": "スパイスでマリネした鶏肉・牛肉・羊肉などを竹串に刺し、炭火で香ばしく焼き上げた串焼き。コク深い甘辛のピーナッツソースに、きゅうり・玉ねぎ・クトゥパ（ちまき状の米）を添えて供される。",
+    "whatComesOut": [
+      "10本前後単位の小ぶりな串焼き",
+      "ピーナッツソースの小皿",
+      "きゅうりと赤玉ねぎの角切り",
+      "クトゥパ（椰子の葉で包んで炊いた米）の角切り"
+    ],
+    "tasteAndTexture": [
+      "炭火の香ばしさとターメリックの黄色い下味",
+      "甘みのある濃厚なピーナッツソース",
+      "小さめの肉片でやわらかくジューシー",
+      "ほのかなスパイスの辛み"
+    ],
+    "orderAdvice": "焼き鳥感覚で食べられ初心者向け。鶏が一番人気で、牛・羊も選べる。本数単位で注文するのが一般的。",
+    "caution": "ピーナッツアレルギーに注意。マレー系の店はハラルのため豚肉は使わない。",
+    "similarItems": [
+      {
+        "id": "mu-satay",
+        "name": "ムー・サテ",
+        "difference": "ムー・サテはタイの豚肉版でココナッツミルク風味が強い。マレーシアのサテーは鶏・牛・羊が主"
+      },
+      {
+        "id": "yakitori",
+        "name": "焼き鳥",
+        "difference": "焼き鳥は塩・タレ味。サテーはスパイスでマリネし、ピーナッツソースをつける"
+      },
+      {
+        "id": "kebab",
+        "name": "ケバブ",
+        "difference": "ケバブは大ぶりの肉やひき肉を焼く中東料理。サテーは小ぶりの串で甘辛ソースが特徴"
+      }
+    ],
+    "relatedIds": [
+      "mu-satay",
+      "yakitori",
+      "gai-yang",
+      "nasi-lemak"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Satay"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "インドネシア料理",
+      "軽食",
+      "鶏肉",
+      "炭火焼き",
+      "香ばしい",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "ナッツ苦手",
+      "甘いタレ苦手",
+      "あっさり",
+      "魚料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/satay/1.jpg",
+      "/images/dishes/satay/2.jpg",
+      "/images/dishes/satay/3.jpg"
+    ]
+  },
+  {
+    "id": "nasi-lemak",
+    "name": "ナシレマ",
+    "kana": "なしれま",
+    "aliases": [
+      "ナシ・レマッ",
+      "ナシルマッ"
+    ],
+    "englishName": "Nasi lemak",
+    "originalName": "Nasi lemak",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "シンガポール"
+      }
+    ],
+    "summary": "ココナッツミルクとパンダンリーフで炊いた香りのよいご飯に、サンバル・ゆで卵・小魚・ピーナッツなどを添えたマレーシアの国民食。朝食の定番。",
+    "menuDescription": "ココナッツミルクで炊いたご飯に、辛いサンバル（チリソース）、揚げた小魚イカンビリス、ローストピーナッツ、ゆで卵、きゅうりを添えたワンプレート。フライドチキンやルンダン、カレーを追加することも多い。",
+    "whatComesOut": [
+      "ココナッツミルクで炊いた白いご飯",
+      "赤黒いサンバルのひと盛り",
+      "カリカリの小魚とピーナッツ",
+      "ゆで卵または目玉焼きときゅうり",
+      "バナナの葉や紙で包んだ持ち帰り版もある"
+    ],
+    "tasteAndTexture": [
+      "ココナッツとパンダンのほんのり甘い香りのご飯",
+      "サンバルの甘辛さと海老の旨み",
+      "小魚とピーナッツのカリカリ食感と塩気",
+      "きゅうりのさっぱり感"
+    ],
+    "orderAdvice": "マレーシアで一品選ぶならまずこれ。辛さはサンバルの量で調整できるので、辛いものが苦手なら少なめに混ぜる。",
+    "caution": "ピーナッツ・魚・卵を含む。サンバルは店により辛い。",
+    "similarItems": [
+      {
+        "id": "nasi-goreng",
+        "name": "ナシゴレン",
+        "difference": "ナシゴレンは炒めご飯。ナシレマはココナッツ炊きご飯におかずを添える"
+      },
+      {
+        "id": "khao-man-gai",
+        "name": "カオマンガイ",
+        "difference": "カオマンガイは鶏スープで炊いたご飯とゆで鶏。ナシレマはココナッツ炊きご飯とサンバル"
+      },
+      {
+        "id": "hainanese-chicken-rice",
+        "name": "海南鶏飯",
+        "difference": "海南鶏飯は鶏スープ炊きご飯の中華系。ナシレマはマレー系の朝食プレート"
+      }
+    ],
+    "relatedIds": [
+      "sambal",
+      "bai-toei",
+      "hainanese-chicken-rice",
+      "satay"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Nasi_lemak"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "ご飯もの",
+      "米",
+      "ピリ辛",
+      "家庭料理",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "ココナッツ苦手",
+      "辛さ不要",
+      "小魚苦手",
+      "洋食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/nasi-lemak/1.jpg",
+      "/images/dishes/nasi-lemak/2.jpg",
+      "/images/dishes/nasi-lemak/3.jpg"
+    ]
+  },
+  {
+    "id": "nasi-goreng",
+    "name": "ナシゴレン",
+    "kana": "なしごれん",
+    "englishName": "Nasi goreng",
+    "originalName": "Nasi goreng",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インドネシア"
+      },
+      {
+        "country": "マレーシア"
+      },
+      {
+        "area": "東南アジア"
+      }
+    ],
+    "summary": "ナシ＝ご飯、ゴレン＝炒める。唐辛子やサンバル、甘い醤油で味つけした東南アジアの焼き飯。目玉焼きをのせるのが定番。",
+    "menuDescription": "ご飯をニンニク・エシャロット・唐辛子・海老ペーストなどと炒め、甘口醤油ケチャップマニスで味をまとめた焼き飯。目玉焼き、えびせん（クルプック）、きゅうりやトマトが添えられる。",
+    "whatComesOut": [
+      "茶色〜赤みがかった焼き飯",
+      "上にのった目玉焼き",
+      "えびせんべい",
+      "きゅうり・トマトの付け合わせ",
+      "唐辛子入り醤油の小皿（チリパディ醤油）"
+    ],
+    "tasteAndTexture": [
+      "甘辛い醤油の香ばしさ",
+      "唐辛子のピリッとした辛み",
+      "海老ペーストの旨み",
+      "半熟の黄身を崩して混ぜるとまろやか"
+    ],
+    "orderAdvice": "炒飯好きなら安心して選べる定番。辛さは店によるが、卓上の唐辛子醤油で後から追加できる。",
+    "caution": "海老ペースト・卵を含む。",
+    "similarItems": [
+      {
+        "id": "khao-phat",
+        "name": "カオパット",
+        "difference": "カオパットはタイの炒飯でナンプラー味。ナシゴレンは甘い醤油とサンバルで甘辛い"
+      },
+      {
+        "id": "mie-goreng",
+        "name": "ミーゴレン",
+        "difference": "ミーゴレンは麺を炒めたもの。ナシゴレンはご飯"
+      },
+      {
+        "id": "nasi-lemak",
+        "name": "ナシレマ",
+        "difference": "ナシレマはココナッツ炊きご飯におかずを添える。ナシゴレンは炒めご飯"
+      }
+    ],
+    "relatedIds": [
+      "mie-goreng",
+      "khao-phat",
+      "sambal",
+      "nasi-lemak"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Nasi_goreng"
+    ],
+    "tags": [
+      "インドネシア料理",
+      "マレーシア料理",
+      "ご飯もの",
+      "米",
+      "炒め物",
+      "ピリ辛",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "辛さ不要",
+      "甘い味付け苦手",
+      "あっさり",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/nasi-goreng/1.jpg",
+      "/images/dishes/nasi-goreng/2.jpg",
+      "/images/dishes/nasi-goreng/3.jpg"
+    ]
+  },
+  {
+    "id": "kangkung-belacan",
+    "name": "カンコン・ブラチャン",
+    "kana": "かんこんぶらちゃん",
+    "aliases": [
+      "空心菜のブラチャン炒め",
+      "カンクン・ブラチャン"
+    ],
+    "englishName": "Kangkung belacan",
+    "originalName": "Kangkung belacan",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "シンガポール"
+      }
+    ],
+    "summary": "空心菜（カンコン）を発酵オキアミペーストのブラチャンと唐辛子で強火で炒めた、マレーシアの人気野菜炒め。",
+    "menuDescription": "シャキシャキの空心菜を、オキアミを発酵させたマレーシア特有の調味料ブラチャン、ニンニク、唐辛子と一緒に炒めた一皿。サンバルで炒めた「カンコン・サンバル」も同系統。",
+    "whatComesOut": [
+      "皿に盛られた濃い緑の空心菜炒め",
+      "赤い唐辛子とブラチャンの粒",
+      "ご飯と一緒に取り分けて食べる"
+    ],
+    "tasteAndTexture": [
+      "ブラチャンの濃厚な発酵香と旨み",
+      "空心菜の茎のシャキシャキ食感",
+      "唐辛子のピリ辛",
+      "塩気が強めでご飯がすすむ"
+    ],
+    "orderAdvice": "肉料理ばかりの時の野菜枠に最適。発酵海老の強い香りが特徴なので、香りに抵抗がないか確認を。",
+    "caution": "甲殻類（オキアミ・海老）を含む。",
+    "similarItems": [
+      {
+        "id": "phat-phak-ruam-mit",
+        "name": "パッ・パック・ルアンミット",
+        "difference": "タイのミックス野菜炒めでオイスターソース系。カンコン・ブラチャンは空心菜と発酵海老ペーストで香りが強い"
+      },
+      {
+        "id": "sambal",
+        "name": "サンバル",
+        "difference": "サンバルは唐辛子ペーストそのもの。カンコン・ブラチャンはそれに近い調味料で炒めた野菜料理"
+      }
+    ],
+    "relatedIds": [
+      "phat-phak-ruam-mit",
+      "sambal",
+      "nasi-lemak"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Stir-fried_water_spinach"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "主菜",
+      "野菜",
+      "炒め物",
+      "ピリ辛",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "発酵臭苦手",
+      "辛さ不要",
+      "肉料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/kangkung-belacan/1.jpg",
+      "/images/dishes/kangkung-belacan/2.jpg",
+      "/images/dishes/kangkung-belacan/3.jpg"
+    ]
+  },
+  {
+    "id": "asam-laksa",
+    "name": "アッサムラクサ",
+    "kana": "あっさむらくさ",
+    "aliases": [
+      "ペナンラクサ",
+      "ペナン・アッサムラクサ",
+      "Penang laksa"
+    ],
+    "englishName": "Asam laksa",
+    "originalName": "Asam laksa",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア",
+        "locality": "ペナン"
+      }
+    ],
+    "summary": "タマリンドの酸味と唐辛子の辛さが効いた魚だしスープに太い米麺を合わせた、ペナン名物のラクサ。",
+    "menuDescription": "サバなどの魚をほぐして煮込んだスープに、タマリンド（アッサム）の酸味と唐辛子を効かせた麺料理。太めの米麺に、きゅうり・玉ねぎ・パイナップル・ミントなどを散らし、濃厚な海老ペースト（ハコー）を添えて供される。",
+    "whatComesOut": [
+      "赤茶色の酸っぱい魚スープ",
+      "太めでつるっとした米麺",
+      "ほぐした魚の身",
+      "パイナップル・きゅうり・ミント・玉ねぎ",
+      "スプーンに添えた黒い海老ペースト"
+    ],
+    "tasteAndTexture": [
+      "タマリンドの強い酸味",
+      "魚の旨みとほどよい辛さ",
+      "甘い海老ペーストの独特な香り",
+      "もちっとした太い米麺"
+    ],
+    "orderAdvice": "ココナッツ系のラクサとは全く別物の酸っぱ辛い麺。トムヤム系の酸味が好きならハマる。魚の香りが苦手な人には不向き。",
+    "caution": "魚・甲殻類（海老ペースト）を含む。",
+    "similarItems": [
+      {
+        "id": "laksa",
+        "name": "ラクサ",
+        "difference": "ラクサ全般のうち、アッサムラクサはココナッツを使わない酸味の魚スープ系"
+      },
+      {
+        "id": "curry-laksa",
+        "name": "カレーラクサ",
+        "difference": "カレーラクサはココナッツカレースープでまろやか。アッサムは酸っぱく軽い"
+      },
+      {
+        "id": "tom-yum-goong",
+        "name": "トムヤムクン",
+        "difference": "トムヤムクンは海老スープでレモングラスが主。アッサムラクサは魚だしとタマリンド"
+      }
+    ],
+    "relatedIds": [
+      "laksa",
+      "tamarind",
+      "tom-yum-goong",
+      "gaeng-som"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Laksa"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "麺料理",
+      "魚介",
+      "煮込み",
+      "酸味",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "酸っぱいの苦手",
+      "魚臭さ苦手",
+      "クリーミー",
+      "辛さ不要"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/asam-laksa/1.jpg",
+      "/images/dishes/asam-laksa/2.jpg",
+      "/images/dishes/asam-laksa/3.jpg"
+    ]
+  },
+  {
+    "id": "nyonya-laksa",
+    "name": "ニョニャラクサ",
+    "kana": "にょにゃらくさ",
+    "aliases": [
+      "ラクサ・ルマッ",
+      "ニョニャ・ラクサ",
+      "マラッカラクサ"
+    ],
+    "englishName": "Nyonya laksa",
+    "originalName": "Laksa Nyonya",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア",
+        "locality": "マラッカ"
+      }
+    ],
+    "summary": "マラッカ発祥、ニョニャ（プラナカン）料理のラクサ。海老の香りとココナッツミルクのまろやかなスープが特徴。",
+    "menuDescription": "海老だしとスパイスペーストをココナッツミルクでのばした、まろやかでコクのあるスープ麺。麺は卵麺やビーフンが多く、海老、厚揚げ、ゆで卵、もやしなどをのせる。",
+    "whatComesOut": [
+      "オレンジ色のココナッツスープ",
+      "黄色い卵麺またはビーフン",
+      "海老・厚揚げ・ゆで卵",
+      "サンバルの小盛り"
+    ],
+    "tasteAndTexture": [
+      "ココナッツミルクのまろやかなコク",
+      "海老の甘い香り",
+      "スープを吸った厚揚げのジューシーさ",
+      "辛さは穏やかで後からじわり"
+    ],
+    "orderAdvice": "ラクサ入門に向くマイルドな一杯。辛さを足したい時はサンバルを溶かす。",
+    "caution": "甲殻類・卵・大豆を含む。",
+    "similarItems": [
+      {
+        "id": "curry-laksa",
+        "name": "カレーラクサ",
+        "difference": "カレーラクサはカレー色が強く辛め。ニョニャラクサは海老の香りとココナッツのまろやかさが主役"
+      },
+      {
+        "id": "asam-laksa",
+        "name": "アッサムラクサ",
+        "difference": "アッサムはココナッツなしの酸っぱい魚スープ"
+      },
+      {
+        "id": "laksa",
+        "name": "ラクサ",
+        "difference": "ラクサ全般のうちマラッカのプラナカン流"
+      }
+    ],
+    "relatedIds": [
+      "laksa",
+      "curry-laksa",
+      "yong-tau-foo"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Laksa",
+      "https://en.wikipedia.org/wiki/Peranakan_cuisine"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "麺料理",
+      "魚介",
+      "煮込み",
+      "クリーミー",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ココナッツ苦手",
+      "海老苦手",
+      "あっさり",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/nyonya-laksa/1.jpg",
+      "/images/dishes/nyonya-laksa/2.jpg",
+      "/images/dishes/nyonya-laksa/3.jpg"
+    ]
+  },
+  {
+    "id": "curry-laksa",
+    "name": "カレーラクサ",
+    "kana": "かれーらくさ",
+    "aliases": [
+      "カレーミー",
+      "カリーミー",
+      "Curry mee"
+    ],
+    "englishName": "Curry laksa",
+    "originalName": "Kari laksa",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア",
+        "locality": "クアラルンプール"
+      }
+    ],
+    "summary": "ココナッツカレースープにビーフンや卵麺を合わせた、クアラルンプールで人気のラクサ。カレーミーとも呼ばれる。",
+    "menuDescription": "スパイスペーストとココナッツミルクで作るカレースープの麺料理。ビーフンか黄色い卵麺に、鶏肉、油揚げ（豆腐パフ）、ゆで卵、もやし、赤貝などをのせる。",
+    "whatComesOut": [
+      "赤いラー油が浮いたカレースープ",
+      "ビーフンと卵麺のミックスが多い",
+      "鶏肉・油揚げ・ゆで卵",
+      "もやし・ミントなどの香味"
+    ],
+    "tasteAndTexture": [
+      "ココナッツカレーの濃厚さ",
+      "飲んだ後からくる辛み",
+      "スープを吸った油揚げのジュワッと感",
+      "二種の麺の食感の違い"
+    ],
+    "orderAdvice": "カレーとラーメンの中間のような一杯で、カレー好きなら間違いなし。辛さは後から効いてくるので要注意。",
+    "caution": "甲殻類・貝類（赤貝）・卵・大豆を含む場合あり。",
+    "similarItems": [
+      {
+        "id": "nyonya-laksa",
+        "name": "ニョニャラクサ",
+        "difference": "ニョニャラクサは海老香とまろやかさ重視。カレーラクサはカレー感と辛さが強い"
+      },
+      {
+        "id": "khao-soi",
+        "name": "カオソーイ",
+        "difference": "カオソーイはタイ北部のカレー麺で揚げ麺をのせる。カレーラクサは油揚げと米麺"
+      },
+      {
+        "id": "laksa",
+        "name": "ラクサ",
+        "difference": "ラクサ全般のうちカレー系の代表"
+      }
+    ],
+    "relatedIds": [
+      "laksa",
+      "khao-soi",
+      "nyonya-laksa"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Curry_mee"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "麺料理",
+      "鶏肉",
+      "煮込み",
+      "ピリ辛",
+      "こってり",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "辛さ不要",
+      "ココナッツ苦手",
+      "あっさり",
+      "さっぱり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/curry-laksa/1.jpg",
+      "/images/dishes/curry-laksa/2.jpg",
+      "/images/dishes/curry-laksa/3.jpg"
+    ]
+  },
+  {
+    "id": "sarawak-laksa",
+    "name": "サラワクラクサ",
+    "kana": "さらわくらくさ",
+    "aliases": [
+      "ラクサ・サラワク"
+    ],
+    "englishName": "Sarawak laksa",
+    "originalName": "Laksa Sarawak",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア",
+        "locality": "サラワク"
+      }
+    ],
+    "summary": "ボルネオ島サラワク州のソウルフード。黒胡椒と山椒のような香りが立つカレー風スープにビーフンを合わせたラクサ。",
+    "menuDescription": "サラワク独自のラクサペーストで作る、スパイシーで香り高いカレー風スープ。ビーフンに海老、裂いた鶏肉、錦糸卵、もやし、パクチーをのせ、ライムとサンバル・ブラチャンを添える。",
+    "whatComesOut": [
+      "茶色がかったスパイススープ",
+      "細いビーフン",
+      "海老・裂いた鶏肉・錦糸卵",
+      "ライムとサンバルの小皿"
+    ],
+    "tasteAndTexture": [
+      "胡椒と山椒を思わせる香りのスパイス感",
+      "ココナッツのやさしいコク",
+      "ライムを搾るとさっぱり",
+      "辛さは中程度"
+    ],
+    "orderAdvice": "他のラクサより香り重視で、スパイス好きに勧めたい一杯。サラワク（クチン）で朝食として食べるのが定番。",
+    "caution": "甲殻類・卵を含む。",
+    "similarItems": [
+      {
+        "id": "curry-laksa",
+        "name": "カレーラクサ",
+        "difference": "カレーラクサは濃厚カレー。サラワクラクサはスパイスの香りが立ち、比較的軽やか"
+      },
+      {
+        "id": "asam-laksa",
+        "name": "アッサムラクサ",
+        "difference": "アッサムは酸っぱい魚スープ。サラワクは胡椒香るカレー風"
+      },
+      {
+        "id": "laksa",
+        "name": "ラクサ",
+        "difference": "ラクサ全般のうちボルネオ・サラワク州の地域版"
+      }
+    ],
+    "relatedIds": [
+      "laksa",
+      "curry-laksa",
+      "asam-laksa"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Laksa"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "麺料理",
+      "魚介",
+      "スパイス",
+      "煮込み",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "スパイス苦手",
+      "辛さ不要",
+      "あっさり",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/sarawak-laksa/1.jpg",
+      "/images/dishes/sarawak-laksa/2.jpg",
+      "/images/dishes/sarawak-laksa/3.jpg"
+    ]
+  },
+  {
+    "id": "bak-kut-teh",
+    "name": "バクテー",
+    "kana": "ばくてー",
+    "aliases": [
+      "肉骨茶",
+      "バクテ"
+    ],
+    "englishName": "Bak kut teh",
+    "originalName": "肉骨茶",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "シンガポール"
+      }
+    ],
+    "summary": "豚スペアリブなどを漢方・スパイス・ニンニクでじっくり煮込んだ、中国系マレーシア人のスタミナスープ。",
+    "menuDescription": "骨付き豚肉や内臓を、当帰・桂皮・八角などの漢方ハーブと醤油、ニンニクで長時間煮込んだスープ料理。土鍋で供され、ご飯、揚げパン（油条）、中国茶と一緒に楽しむ。部位を選べる店も多い。",
+    "whatComesOut": [
+      "土鍋に入った茶色いスープと骨付き豚肉",
+      "丸ごと煮込まれたニンニク",
+      "白ご飯",
+      "スープに浸す揚げパン（油条）",
+      "刻み唐辛子入り醤油と中国茶"
+    ],
+    "tasteAndTexture": [
+      "漢方の香りとほのかな苦み",
+      "ほろりと崩れるやわらかい豚肉",
+      "意外にクセが少なく滋味深い",
+      "ニンニクの甘み"
+    ],
+    "orderAdvice": "肉好き・スープ好きに。漢方の香りは穏やかで食べやすい。クラン（セランゴール州）が本場。",
+    "caution": "豚肉を使うため宗教上の制約がある人は不可。",
+    "similarItems": [
+      {
+        "id": "samgyetang",
+        "name": "参鶏湯",
+        "difference": "参鶏湯は鶏丸ごとと高麗人参の韓国薬膳スープ。バクテーは豚と中国漢方"
+      },
+      {
+        "id": "yong-tau-foo",
+        "name": "ヨンタオフー",
+        "difference": "同じ中国系マレーシア料理でも、ヨンタオフーは練り物・豆腐のあっさりスープ"
+      }
+    ],
+    "relatedIds": [
+      "samgyetang",
+      "yong-tau-foo",
+      "hainanese-chicken-rice"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Bak_kut_teh"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "中国料理",
+      "スープ",
+      "豚肉",
+      "煮込み",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "漢方苦手",
+      "豚肉NG",
+      "さっぱり",
+      "サラダ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bak-kut-teh/1.jpg",
+      "/images/dishes/bak-kut-teh/2.jpg",
+      "/images/dishes/bak-kut-teh/3.jpg"
+    ]
+  },
+  {
+    "id": "banana-leaf-rice",
+    "name": "バナナリーフカレー",
+    "kana": "ばななりーふかれー",
+    "aliases": [
+      "バナナリーフライス",
+      "Banana Leaf Rice"
+    ],
+    "englishName": "Banana leaf curry",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "バナナの葉を皿代わりに、ご飯と数種のカレー・野菜のおかずを盛る南インド系のカレーセット。マレーシア各地のインド系食堂で食べられる。",
+    "menuDescription": "大きなバナナの葉の上に白ご飯を盛り、野菜のおかず数種、パパダム（豆のせんべい）、ピクルスを並べ、好みのカレーソースをかけて手で混ぜて食べる。チキンやマトン、魚などの肉系カレーは追加注文。",
+    "whatComesOut": [
+      "テーブルに広げたバナナの葉",
+      "山盛りの白ご飯",
+      "野菜のおかず3〜4種とピクルス",
+      "パパダム",
+      "何種類かのカレーソース（汁のみ）"
+    ],
+    "tasteAndTexture": [
+      "スパイスの効いたさらさらのカレー",
+      "野菜おかずの素朴な味",
+      "パパダムのパリパリ感",
+      "混ぜるほど一体化する味"
+    ],
+    "orderAdvice": "カレーは汁のみで具はないので、肉が食べたければチキンカレーやフライを追加。食後に葉を手前に折ると「美味しかった」の意味。",
+    "caution": "辛さは中〜強め。右手で食べる文化（スプーンも頼める）。",
+    "similarItems": [
+      {
+        "id": "dal",
+        "name": "ダル",
+        "difference": "ダルは豆カレーそのもの。バナナリーフカレーはダルを含む複数のおかずのセット"
+      },
+      {
+        "id": "biryani",
+        "name": "ビリヤニ",
+        "difference": "ビリヤニはスパイスで炊き込んだご飯。バナナリーフは白ご飯にカレーをかける"
+      }
+    ],
+    "relatedIds": [
+      "dal",
+      "biryani",
+      "roti-canai",
+      "tandoori",
+      "raita"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Banana_leaf"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "インド料理",
+      "ご飯もの",
+      "野菜",
+      "スパイス",
+      "ピリ辛",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "辛さ不要",
+      "手食苦手",
+      "スパイス苦手",
+      "和食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/banana-leaf-rice/1.jpg",
+      "/images/dishes/banana-leaf-rice/2.jpg",
+      "/images/dishes/banana-leaf-rice/3.jpg"
+    ]
+  },
+  {
+    "id": "otak-otak",
+    "name": "オタオタ",
+    "kana": "おたおた",
+    "aliases": [
+      "オタッオタッ",
+      "Otak-otak"
+    ],
+    "englishName": "Otak-otak",
+    "originalName": "Otak-otak",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "シンガポール"
+      },
+      {
+        "country": "インドネシア"
+      }
+    ],
+    "summary": "魚のすり身にココナッツミルクとスパイスを混ぜ、バナナの葉に包んで蒸し焼きにした東南アジア版かまぼこ。",
+    "menuDescription": "魚のすり身をココナッツミルク、唐辛子、ターメリック、レモングラスなどと合わせ、バナナやニッパヤシの葉で包んで炭火で焼く、または蒸した軽食。ニョニャ料理の前菜として、マレー系屋台のおやつとしても親しまれる。",
+    "whatComesOut": [
+      "葉で包まれた細長い包み（数本単位）",
+      "開くと橙色〜白色のしっとりしたすり身",
+      "ご飯やパンに添えることもある"
+    ],
+    "tasteAndTexture": [
+      "ふわっとやわらかいすり身",
+      "ココナッツのまろやかなコク",
+      "葉の焦げた香ばしさとハーブの香り",
+      "辛さは控えめ"
+    ],
+    "orderAdvice": "辛くなく、かまぼこ好きなら食べやすい。屋台で数本買って味見するのがおすすめ。",
+    "caution": "魚を含む。店によっては甲殻類も。",
+    "similarItems": [
+      {
+        "id": "ho-mok-thale",
+        "name": "ホーモック・タレー",
+        "difference": "ホーモックはタイの蒸しカレー風で具が大きい。オタオタはすり身主体でより軽食向き"
+      },
+      {
+        "id": "satsuma-age",
+        "name": "さつま揚げ",
+        "difference": "さつま揚げは油で揚げる。オタオタは葉に包んで蒸し焼き、ココナッツとスパイス入り"
+      },
+      {
+        "id": "thot-man-pla",
+        "name": "トード・マン・プラー",
+        "difference": "タイの揚げさつま揚げで弾力が強い。オタオタは焼き・蒸しでしっとり"
+      }
+    ],
+    "relatedIds": [
+      "ho-mok-thale",
+      "satsuma-age",
+      "thot-man-pla",
+      "pie-tee"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Otak-otak"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "前菜",
+      "魚介",
+      "蒸し料理",
+      "焼き物",
+      "ふわふわ",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "魚苦手",
+      "ココナッツ苦手",
+      "肉料理",
+      "ガッツリ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/otak-otak/1.jpg",
+      "/images/dishes/otak-otak/2.jpg",
+      "/images/dishes/otak-otak/3.jpg"
+    ]
+  },
+  {
+    "id": "pie-tee",
+    "name": "パイティー",
+    "kana": "ぱいてぃー",
+    "aliases": [
+      "クエ・パイティー",
+      "Kuih pie tee",
+      "トップハット"
+    ],
+    "englishName": "Pie tee",
+    "originalName": "Kuih pie tee",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "シンガポール"
+      }
+    ],
+    "summary": "揚げたひと口サイズのカップに、野菜や海老を詰めたニョニャ料理の人気前菜。形から「トップハット」とも呼ばれる。",
+    "menuDescription": "小麦粉の生地を型で揚げたパリパリの小さなカップに、細切りにして煮た大根（クズイモ）や人参、海老、卵焼きなどを詰め、甘辛いチリソースをつけて食べる前菜。",
+    "whatComesOut": [
+      "帽子形の揚げカップ数個",
+      "カップに詰めた野菜の煮込みと海老",
+      "トッピングのパクチーや錦糸卵",
+      "チリソース"
+    ],
+    "tasteAndTexture": [
+      "カップの軽いパリパリ食感",
+      "野菜の甘み",
+      "海老の旨みとチリソースの甘辛さ",
+      "一口で弾ける複数の味"
+    ],
+    "orderAdvice": "ニョニャ料理店で最初に頼みたい前菜。辛くなく、見た目も楽しく初心者向け。",
+    "caution": "甲殻類・小麦・卵を含む。",
+    "similarItems": [
+      {
+        "id": "spring-roll",
+        "name": "春巻き",
+        "difference": "春巻きは具を巻いて揚げる。パイティーは揚げたカップに具を詰める"
+      },
+      {
+        "id": "otak-otak",
+        "name": "オタオタ",
+        "difference": "同じニョニャ料理の前菜だが、オタオタは魚のすり身を葉で包んで焼く"
+      }
+    ],
+    "relatedIds": [
+      "spring-roll",
+      "otak-otak",
+      "nyonya-kuih"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Pie_tee"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "シンガポール料理",
+      "前菜",
+      "野菜",
+      "揚げ物",
+      "サクサク",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "揚げ物苦手",
+      "海老苦手",
+      "ガッツリ",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/pie-tee/1.jpg",
+      "/images/dishes/pie-tee/2.jpg"
+    ]
+  },
+  {
+    "id": "udang-lemak-nanas",
+    "name": "ウダン・ルマ・ナナス",
+    "kana": "うだんるまななす",
+    "aliases": [
+      "海老とパイナップルのココナッツ煮",
+      "Udang Masak Lemak Nanas"
+    ],
+    "englishName": "Prawn and pineapple coconut curry",
+    "originalName": "Udang Lemak Nanas",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア"
+      }
+    ],
+    "summary": "海老とパイナップルをココナッツミルクで煮込み、唐辛子・レモングラス・ターメリックで香りをつけたニョニャ料理の煮込み。",
+    "menuDescription": "有頭海老とパイナップルを、ターメリックとレモングラスを効かせたココナッツミルクのスープでさっと煮込んだ料理。パイナップルの甘酸っぱさと唐辛子の辛味が合わさり、ご飯にかけて食べる。",
+    "whatComesOut": [
+      "黄色いココナッツスープに浸った海老",
+      "ぶつ切りのパイナップル",
+      "白ご飯"
+    ],
+    "tasteAndTexture": [
+      "ココナッツのまろやかなコク",
+      "パイナップルの甘酸っぱさ",
+      "唐辛子の穏やかな辛さ",
+      "ぷりっとした海老"
+    ],
+    "orderAdvice": "甘・酸・辛のバランスが魅力。酢豚のパイナップルが好きな人向け。ご飯必須。",
+    "caution": "甲殻類を含む。",
+    "similarItems": [
+      {
+        "id": "poo-pad-pong-curry",
+        "name": "プーパッポンカリー",
+        "difference": "プーパッポンカリーは蟹と卵のカレー炒め。ウダン・ルマ・ナナスは海老とパイナップルのココナッツ煮込み"
+      },
+      {
+        "id": "green-curry",
+        "name": "グリーンカレー",
+        "difference": "グリーンカレーは青唐辛子の香り。ウダン・ルマはターメリックの黄色とパイナップルの甘酸味"
+      }
+    ],
+    "relatedIds": [
+      "poo-pad-pong-curry",
+      "green-curry",
+      "lemongrass",
+      "turmeric"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Peranakan_cuisine",
+      "https://en.wikipedia.org/wiki/Gulai"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "主菜",
+      "魚介",
+      "果物",
+      "煮込み",
+      "クリーミー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "甘い料理苦手",
+      "フルーツ入り料理苦手",
+      "海老苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "teh-tarik",
+    "name": "テ・タレ",
+    "kana": "てたれ",
+    "aliases": [
+      "テタレ",
+      "テータリック",
+      "テ・タリッ"
+    ],
+    "englishName": "Teh tarik",
+    "originalName": "Teh tarik",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "シンガポール"
+      }
+    ],
+    "summary": "練乳入りの甘いミルクティーを高い位置からカップに移し替えて泡立てる、マレーシアで人気No.1の国民的ドリンク。",
+    "menuDescription": "濃く淹れた紅茶に練乳（またはエバミルク）を加え、2つのカップの間を高い位置から何度も注ぎ移して空気を含ませる「引く（タレ）」淹れ方のミルクティー。泡立ちでまろやかになる。ホットとアイスがある。",
+    "whatComesOut": [
+      "泡が立ったミルクティー（ガラスのマグ）",
+      "アイスの場合はグラスや持ち帰り袋"
+    ],
+    "tasteAndTexture": [
+      "練乳のしっかりした甘さ",
+      "濃い紅茶の渋み",
+      "泡立ちによるまろやかな口当たり"
+    ],
+    "orderAdvice": "辛い料理のお供に最適。甘さ控えめなら「クラン・マニス」、練乳なしのエバミルク版は「テ・シー」と頼む。",
+    "caution": "甘さが強い。乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "kopi",
+        "name": "コピ",
+        "difference": "コピはローカル珈琲で練乳入りが基本。テ・タレは紅茶版"
+      },
+      {
+        "id": "bandung",
+        "name": "バンドゥン",
+        "difference": "バンドゥンはローズシロップと練乳のピンクの甘いドリンクで、茶は入らない"
+      }
+    ],
+    "relatedIds": [
+      "kopi",
+      "roti-canai",
+      "kaya-toast",
+      "cardamom"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Teh_tarik"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "乳製品",
+      "甘み",
+      "クリーミー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "甘い飲み物苦手",
+      "ストレートティー",
+      "ブラックコーヒー",
+      "乳製品苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/teh-tarik/1.jpg",
+      "/images/dishes/teh-tarik/2.jpg",
+      "/images/dishes/teh-tarik/3.jpg"
+    ]
+  },
+  {
+    "id": "kopi",
+    "name": "コピ",
+    "kana": "こぴ",
+    "aliases": [
+      "コピ・オー",
+      "ローカル珈琲",
+      "マレーシアコーヒー"
+    ],
+    "englishName": "Kopi",
+    "originalName": "Kopi",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "シンガポール"
+      }
+    ],
+    "summary": "マーガリンや砂糖と一緒に深煎りした豆を布で濾して淹れる、苦味の強いマレーシアのローカル珈琲。練乳を入れて甘く飲むのが基本。",
+    "menuDescription": "コピティアム（伝統的なコーヒーショップ）で出される深煎りの濃い珈琲。練乳入りの「コピ」、砂糖のみの「コピ・オー」、エバミルク入りの「コピ・シー」など注文の呼び分けがある。",
+    "whatComesOut": [
+      "厚手のカップ＆ソーサーの濃い珈琲",
+      "底に沈んだ練乳（かき混ぜて飲む）",
+      "アイスは「コピ・ペン（アイス）」"
+    ],
+    "tasteAndTexture": [
+      "焦がしたような強い苦みとコク",
+      "練乳の濃厚な甘さ",
+      "カラメルのような香ばしい香り"
+    ],
+    "orderAdvice": "カヤトーストと半熟卵とのセットが定番の朝食。甘さ控えめは「コピ・クラン・マニス」、無糖ブラックは「コピ・オー・コソン」。",
+    "caution": "甘さ・カフェインともに強め。",
+    "similarItems": [
+      {
+        "id": "teh-tarik",
+        "name": "テ・タレ",
+        "difference": "テ・タレは紅茶ベースで泡立てる。コピは珈琲"
+      },
+      {
+        "id": "koffie-verkeerd",
+        "name": "コフィーヴェルキールト",
+        "difference": "オランダのミルク多めの珈琲。コピは練乳で甘く苦味が強い"
+      }
+    ],
+    "relatedIds": [
+      "kaya-toast",
+      "teh-tarik",
+      "koffie-verkeerd"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Kopitiam"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "シンガポール料理",
+      "乳製品",
+      "香ばしい",
+      "甘み",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "苦いの苦手",
+      "甘い飲み物苦手",
+      "紅茶派",
+      "カフェイン控えめ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kopi/1.jpg",
+      "/images/dishes/kopi/2.jpg",
+      "/images/dishes/kopi/3.jpg"
+    ]
+  },
+  {
+    "id": "sirap-limau",
+    "name": "シロップ・リマウ",
+    "kana": "しろっぷりまう",
+    "aliases": [
+      "シラップ・リマウ",
+      "Sirap Limau",
+      "Syrup Limau"
+    ],
+    "englishName": "Rose syrup with lime",
+    "originalName": "Sirap Limau",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "マレーシア"
+      }
+    ],
+    "summary": "バラの香りの赤いシロップを水で割り、柑橘リマウ（ライム）を搾ってさっぱり仕上げたマレーシアの甘いジュース。",
+    "menuDescription": "ローズシロップを水と氷で割った甘い赤いドリンクに、小さな柑橘リマウを加えたもの。リマウなしは「アイル・シロップ（エア・シラップ）」。赤いドリンクは縁起がよいとされ、結婚式でもよく出される。",
+    "whatComesOut": [
+      "氷入りの鮮やかな赤いドリンク",
+      "半分に切ったリマウ（ライム）"
+    ],
+    "tasteAndTexture": [
+      "ローズの華やかな香り",
+      "しっかりした甘さ",
+      "ライムの酸味で後味すっきり"
+    ],
+    "orderAdvice": "暑い日や辛い料理にぴったりの冷たいドリンク。甘すぎる場合は「クラン・マニス（甘さ控えめ）」を試す。",
+    "caution": "糖分が多い。",
+    "similarItems": [
+      {
+        "id": "bandung",
+        "name": "バンドゥン",
+        "difference": "バンドゥンは同じローズシロップに練乳を加えたミルク系。シロップ・リマウはライムでさっぱり"
+      },
+      {
+        "id": "teh-tarik",
+        "name": "テ・タレ",
+        "difference": "テ・タレは温かい甘いミルクティー"
+      }
+    ],
+    "relatedIds": [
+      "bandung",
+      "lime",
+      "teh-tarik"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "果物",
+      "甘み",
+      "酸味",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "甘い飲み物苦手",
+      "花の香り苦手",
+      "無糖茶",
+      "炭酸なし派"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "bandung",
+    "name": "バンドゥン",
+    "kana": "ばんどぅん",
+    "aliases": [
+      "シラップ・バンドゥン",
+      "エア・バンドゥン",
+      "ローズミルク"
+    ],
+    "englishName": "Bandung",
+    "originalName": "Sirap bandung",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "シンガポール"
+      }
+    ],
+    "summary": "ローズシロップを水で割り練乳を加えた、華やかなピンク色の甘いミルクドリンク。マレー系レストランや結婚式で人気。",
+    "menuDescription": "バラの香りのローズシロップに練乳またはエバミルクを加え、氷で冷やしたピンク色のドリンク。見た目が華やかなため結婚式の飲み物としても定番。",
+    "whatComesOut": [
+      "氷入りのピンク色のドリンク",
+      "グラスまたは持ち帰り用のビニール袋"
+    ],
+    "tasteAndTexture": [
+      "かなり強い甘さ",
+      "ローズの華やかな香り",
+      "練乳のミルキーなコク"
+    ],
+    "orderAdvice": "とても甘いので、辛い料理と合わせるのがおすすめ。甘党や見た目を楽しみたい人向け。",
+    "caution": "乳製品を含む。糖分が非常に多い。",
+    "similarItems": [
+      {
+        "id": "sirap-limau",
+        "name": "シロップ・リマウ",
+        "difference": "同じローズシロップをライムで割ったさっぱり版。バンドゥンは練乳入り"
+      },
+      {
+        "id": "teh-tarik",
+        "name": "テ・タレ",
+        "difference": "テ・タレは紅茶入りの練乳ミルクティー"
+      }
+    ],
+    "relatedIds": [
+      "sirap-limau",
+      "teh-tarik",
+      "ais-kacang"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Bandung_(drink)"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "乳製品",
+      "甘み",
+      "クリーミー",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "甘い飲み物苦手",
+      "花の香り苦手",
+      "乳製品苦手",
+      "無糖茶"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bandung/1.jpg",
+      "/images/dishes/bandung/2.jpg",
+      "/images/dishes/bandung/3.jpg"
+    ]
+  },
+  {
+    "id": "ais-kacang",
+    "name": "ABC（アイスカチャン）",
+    "kana": "えーびーしー",
+    "aliases": [
+      "アイスカチャン",
+      "エア・バトゥ・チャンプル",
+      "Air Batu Campur",
+      "ABC"
+    ],
+    "englishName": "Ais kacang",
+    "originalName": "Ais kacang",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "シンガポール"
+      }
+    ],
+    "summary": "豆・ゼリー・コーン・フルーツなどの具の上にかき氷を盛り、カラフルなシロップと練乳をかけた具だくさんのマレーシアのかき氷。",
+    "menuDescription": "ABCはAir Batu Campur（混ぜた氷）の略。甘く煮た小豆、スイートコーン、グラスゼリー、アタップシード（椰子の実）、ピーナッツなどの上に氷を削り、赤いローズシロップ、パームシュガー、練乳をたっぷりかける。",
+    "whatComesOut": [
+      "山盛りのかき氷",
+      "赤・緑・茶のカラフルなシロップと練乳",
+      "氷の下に隠れた豆・ゼリー・コーン",
+      "アイスクリームがのる店もある"
+    ],
+    "tasteAndTexture": [
+      "シャリシャリの氷",
+      "甘い練乳とシロップ",
+      "豆のほっくり感とゼリーのぷるぷる感",
+      "コーンの意外な甘み"
+    ],
+    "orderAdvice": "暑い日の定番デザート。具を掘り出しながら食べる楽しさがある。豆やコーン入りのかき氷に抵抗がなければ是非。",
+    "caution": "ピーナッツ・乳製品を含む場合あり。",
+    "similarItems": [
+      {
+        "id": "cendol",
+        "name": "チェンドル",
+        "difference": "チェンドルはココナッツミルクとパームシュガーが主役で具は緑ゼリーと小豆。ABCは具とシロップが多彩"
+      },
+      {
+        "id": "kakigori-nara",
+        "name": "かき氷",
+        "difference": "日本のかき氷はシロップ中心で具が少ない。ABCは具だくさん"
+      },
+      {
+        "id": "che",
+        "name": "チェー",
+        "difference": "ベトナムのチェーは豆やゼリーのぜんざい風。ABCはかき氷が主体"
+      }
+    ],
+    "relatedIds": [
+      "cendol",
+      "kakigori-nara",
+      "che",
+      "mango-lolo"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Ais_kacang"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "デザート",
+      "豆類",
+      "果物",
+      "甘み",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "甘いの苦手",
+      "冷たいもの苦手",
+      "豆の甘煮苦手",
+      "焼き菓子"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ais-kacang/1.jpg"
+    ]
+  },
+  {
+    "id": "mango-lolo",
+    "name": "マンゴーロロ",
+    "kana": "まんごーろろ",
+    "aliases": [
+      "Mango Lolo"
+    ],
+    "englishName": "Mango Lolo",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "マレーシア"
+      }
+    ],
+    "summary": "かき氷にマンゴーピューレとマンゴーの果肉をたっぷりのせた、フルーツ大国マレーシアらしい贅沢なかき氷。",
+    "menuDescription": "削った氷にマンゴーのピューレをかけ、角切りのマンゴー果肉をトッピングしたかき氷。店によってココナッツミルクやサゴ（タピオカ状の粒）、アイスクリームを添える。",
+    "whatComesOut": [
+      "黄色いマンゴーピューレがかかったかき氷",
+      "角切りの生マンゴー",
+      "サゴやミルクがかかる場合もある"
+    ],
+    "tasteAndTexture": [
+      "完熟マンゴーの濃厚な甘さと香り",
+      "ピューレのなめらかさ",
+      "氷のシャリシャリ感"
+    ],
+    "orderAdvice": "マンゴー好きなら迷わず。豆などが入らずフルーツだけなので、ABCより万人向け。",
+    "caution": "マンゴーアレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "ais-kacang",
+        "name": "ABC（アイスカチャン）",
+        "difference": "ABCは豆・ゼリー・コーンなど具だくさん。マンゴーロロはマンゴーのみでシンプル"
+      },
+      {
+        "id": "khao-niao-mamuang",
+        "name": "カオニャオ・マムアン",
+        "difference": "タイのマンゴーともち米のデザート。マンゴーロロはかき氷"
+      }
+    ],
+    "relatedIds": [
+      "ais-kacang",
+      "khao-niao-mamuang",
+      "kakigori-nara"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "デザート",
+      "果物",
+      "甘み",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "冷たいもの苦手",
+      "甘いの苦手",
+      "マンゴー苦手",
+      "焼き菓子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mango-lolo/1.jpg"
+    ]
+  },
+  {
+    "id": "cendol",
+    "name": "チェンドル",
+    "kana": "ちぇんどる",
+    "aliases": [
+      "チェンドゥル",
+      "Chendol"
+    ],
+    "englishName": "Cendol",
+    "originalName": "Cendol",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "シンガポール"
+      },
+      {
+        "country": "インドネシア"
+      }
+    ],
+    "summary": "パンダンで香りをつけた緑色の米粉ゼリーと小豆にかき氷をのせ、ココナッツミルクとパームシュガー（グラ・ムラカ）のシロップをかけた東南アジアの甘味。",
+    "menuDescription": "米粉とパンダンリーフで作る虫のような形の緑色ゼリー、甘く煮た小豆の上にかき氷を盛り、フレッシュなココナッツミルクとマラッカ産パームシュガーの黒蜜のようなシロップをたっぷりかける。ニョニャ料理の人気スイーツ。",
+    "whatComesOut": [
+      "かき氷の器またはグラス",
+      "緑色の細いゼリー",
+      "甘く煮た小豆",
+      "ココナッツミルクと茶色のパームシュガーシロップ"
+    ],
+    "tasteAndTexture": [
+      "パームシュガーの黒糖のようなコク",
+      "ココナッツミルクのまろやかさ",
+      "つるんとしたゼリーの食感",
+      "上品で後をひく甘さ"
+    ],
+    "orderAdvice": "黒蜜きなこやぜんざいが好きな日本人に合う味。マラッカやペナンの有名店が特におすすめ。",
+    "caution": "ココナッツを含む。",
+    "similarItems": [
+      {
+        "id": "ais-kacang",
+        "name": "ABC（アイスカチャン）",
+        "difference": "ABCは具・シロップが多彩でカラフル。チェンドルはココナッツとパームシュガーの素朴な味"
+      },
+      {
+        "id": "che",
+        "name": "チェー",
+        "difference": "ベトナムのチェーも豆とゼリーのココナッツ甘味だが、チェンドルはパンダンゼリーとグラ・ムラカが特徴"
+      },
+      {
+        "id": "tub-tim-krob",
+        "name": "タップティム・グロープ",
+        "difference": "タイのココナッツ甘味で具は赤いクワイ。チェンドルは緑のパンダンゼリー"
+      }
+    ],
+    "relatedIds": [
+      "ais-kacang",
+      "che",
+      "tub-tim-krob",
+      "bai-toei",
+      "palm-sugar"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Cendol"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "デザート",
+      "豆類",
+      "甘み",
+      "もちもち",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "ココナッツ苦手",
+      "甘いの苦手",
+      "冷たいもの苦手",
+      "焼き菓子"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cendol/1.jpg",
+      "/images/dishes/cendol/2.jpg",
+      "/images/dishes/cendol/3.jpg"
+    ]
+  },
+  {
+    "id": "nyonya-kuih",
+    "name": "ニョニャクエ",
+    "kana": "にょにゃくえ",
+    "aliases": [
+      "ニョニャ・クエ",
+      "クエ",
+      "Nyonya Kueh",
+      "クエ・ラピス"
+    ],
+    "englishName": "Nyonya kuih",
+    "originalName": "Kuih Nyonya",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "マレーシア",
+        "locality": "マラッカ"
+      },
+      {
+        "country": "シンガポール"
+      }
+    ],
+    "summary": "ココナッツミルクと米粉を主に使う、色とりどりのひと口サイズのニョニャ（プラナカン）菓子の総称。しましまの「クエ・ラピス」が代表。",
+    "menuDescription": "クエは「菓子」の意。米粉・もち米・ココナッツミルク・パンダン・パームシュガーなどで作る蒸し菓子が中心で、層になったクエ・ラピス、ココナッツをまぶした団子オンデオンデ、青い花で色づけたもち米のプルッ・タイ・タイなど多種ある。",
+    "whatComesOut": [
+      "カラフルなひと口サイズの菓子を数個",
+      "しま模様のクエ・ラピスや緑・青の蒸し菓子",
+      "バナナの葉に包まれたものもある"
+    ],
+    "tasteAndTexture": [
+      "甘さ控えめのやさしい味",
+      "ういろうに似たもっちり食感",
+      "ココナッツとパンダンの香り",
+      "パームシュガーのコク"
+    ],
+    "orderAdvice": "和菓子好きに刺さる。種類が多いので数種を少しずつ選ぶのがおすすめ。お茶請けやハイティーにも。",
+    "caution": "ココナッツ・もち米を含む。",
+    "similarItems": [
+      {
+        "id": "pie-tee",
+        "name": "パイティー",
+        "difference": "パイティーも「クエ」の一種だが塩味の前菜。ニョニャクエは主に甘い菓子"
+      },
+      {
+        "id": "cendol",
+        "name": "チェンドル",
+        "difference": "チェンドルはかき氷。ニョニャクエは常温の蒸し菓子"
+      },
+      {
+        "id": "bua-loi",
+        "name": "ブアローイ",
+        "difference": "タイの白玉ココナッツ汁粉。ニョニャクエは固形の蒸し菓子"
+      }
+    ],
+    "relatedIds": [
+      "bua-loi",
+      "khanom-khrok",
+      "bai-toei",
+      "cendol"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Kuih",
+      "https://en.wikipedia.org/wiki/Peranakan_cuisine"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "菓子",
+      "米",
+      "蒸し料理",
+      "もちもち",
+      "甘み",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "もちもち苦手",
+      "ココナッツ苦手",
+      "洋菓子派",
+      "甘いの苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/nyonya-kuih/1.jpg",
+      "/images/dishes/nyonya-kuih/2.jpg",
+      "/images/dishes/nyonya-kuih/3.jpg"
+    ]
+  },
+  {
+    "id": "kaya-toast",
+    "name": "カヤトースト",
+    "kana": "かやとーすと",
+    "aliases": [
+      "Roti Kaya",
+      "ロティ・カヤ"
+    ],
+    "englishName": "Kaya toast",
+    "originalName": "Roti bakar kaya",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "シンガポール"
+      }
+    ],
+    "summary": "ココナッツミルクと卵で作る甘いジャム「カヤ」とバターを薄いトーストに挟んだ、マレーシア・シンガポールの定番朝ごはん。",
+    "menuDescription": "炭火などでカリッと焼いた薄切りトーストに、ココナッツ・卵・砂糖・パンダンで作るカヤジャムと冷たいバターの薄切りを挟んだもの。醤油と胡椒をかけた半熟卵と、コピやテ・タレとセットで出されることが多い。",
+    "whatComesOut": [
+      "カヤとバターを挟んだ三角形のトースト",
+      "小皿に割り入れた半熟卵2個",
+      "卓上の醤油と白胡椒",
+      "コピまたはテ・タレ"
+    ],
+    "tasteAndTexture": [
+      "カリカリの薄いトースト",
+      "カヤのカスタードのような甘さ",
+      "冷たいバターの塩気",
+      "半熟卵に浸すと甘じょっぱい"
+    ],
+    "orderAdvice": "朝食に最適で誰でも食べやすい。トーストを半熟卵に浸す地元流も試したい。",
+    "caution": "卵・乳製品・小麦を含む。",
+    "similarItems": [
+      {
+        "id": "roti-canai",
+        "name": "ロティチャナイ",
+        "difference": "ロティチャナイはインド系の層状の焼きパンでカレーにつける。カヤトーストは甘いジャムのトースト"
+      },
+      {
+        "id": "sangkaya-fak-thong",
+        "name": "サンカヤー・ファクトーン",
+        "difference": "タイのカボチャ入りココナッツカスタード。カヤも同系のココナッツ卵ジャム"
+      }
+    ],
+    "relatedIds": [
+      "kopi",
+      "teh-tarik",
+      "sangkaya-fak-thong",
+      "roti-canai"
+    ],
+    "source": [
+      "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
+      "https://en.wikipedia.org/wiki/Kaya_toast"
+    ],
+    "tags": [
+      "マレーシア料理",
+      "シンガポール料理",
+      "軽食",
+      "小麦",
+      "焼き物",
+      "甘み",
+      "サクサク"
+    ],
+    "reverseKeywords": [
+      "甘い朝食苦手",
+      "半熟卵苦手",
+      "ご飯派",
+      "塩系"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kaya-toast/1.jpg",
+      "/images/dishes/kaya-toast/2.jpg",
+      "/images/dishes/kaya-toast/3.jpg"
+    ]
   }
 ]
