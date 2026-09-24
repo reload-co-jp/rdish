@@ -177961,5 +177961,1175 @@
       "/images/dishes/bay-leaf/2.jpg",
       "/images/dishes/bay-leaf/3.jpg"
     ]
+  },
+  {
+    "id": "tsuivan",
+    "name": "ツォイワン",
+    "kana": "つぉいわん",
+    "aliases": [
+      "ツオイワン",
+      "ツォイバン",
+      "モンゴル風焼きうどん"
+    ],
+    "englishName": "Tsuivan",
+    "originalName": "Цуйван",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "モンゴル"
+      }
+    ],
+    "summary": "手打ちの小麦麺を羊肉や野菜と炒め、蒸し煮にして仕上げるモンゴルの焼きうどん風料理。モンゴル人が最も好む家庭料理のひとつ。",
+    "menuDescription": "手切りの小麦麺と羊肉、にんじん・じゃがいも・玉ねぎなどを炒め、塩と少量の水で蒸し煮にして麺に旨みを吸わせたモンゴル風焼きうどん。",
+    "whatComesOut": [
+      "平たい手打ち小麦麺の炒め蒸し",
+      "細切りの羊肉（または牛肉）",
+      "にんじん・じゃがいも・キャベツ・玉ねぎなどの野菜",
+      "大皿またはどんぶりにたっぷり盛られる"
+    ],
+    "tasteAndTexture": [
+      "塩ベースの素朴な味付け",
+      "羊脂の旨みが麺に染みる",
+      "蒸し煮でもっちりした麺",
+      "量が多くお腹にたまる"
+    ],
+    "orderAdvice": "焼きうどんや焼きそばが好きならまず選びやすい一皿。羊の香りが気になる場合は牛肉版があるか確認を。",
+    "caution": "小麦を含む。羊肉の脂と香りが強め。",
+    "similarItems": [
+      {
+        "id": "lagman",
+        "name": "ラグマン",
+        "difference": "ラグマンは中央アジアの手延べ麺でトマト系の汁や具をかける。ツォイワンは塩味で麺ごと蒸し炒めにする"
+      },
+      {
+        "id": "shanghai-chao-mian",
+        "name": "上海炒麺",
+        "difference": "上海炒麺は醤油味の太麺炒め。ツォイワンは羊肉と塩のシンプルな味付け"
+      },
+      {
+        "id": "udon",
+        "name": "うどん",
+        "difference": "うどんは主に汁で食べる日本の麺。ツォイワンは汁なしの蒸し炒め"
+      }
+    ],
+    "relatedIds": [
+      "lagman",
+      "shanghai-chao-mian",
+      "lamb",
+      "udon"
+    ],
+    "source": [
+      "https://mongol-jyouba-gakkou.com/blog/mongolian-food/",
+      "https://en.wikipedia.org/wiki/Tsuivan",
+      "https://en.wikipedia.org/wiki/Mongolian_cuisine"
+    ],
+    "tags": [
+      "モンゴル料理",
+      "麺料理",
+      "羊肉",
+      "小麦",
+      "炒め物",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "羊肉苦手",
+      "小麦アレルギー",
+      "あっさりしたスープ",
+      "サラダ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tsuivan/1.jpg",
+      "/images/dishes/tsuivan/2.jpg",
+      "/images/dishes/tsuivan/3.jpg"
+    ]
+  },
+  {
+    "id": "buuz",
+    "name": "ボーズ",
+    "kana": "ぼーず",
+    "aliases": [
+      "ボーズ（モンゴル料理）",
+      "ブーズ",
+      "Buuz"
+    ],
+    "englishName": "Buuz",
+    "originalName": "Бууз",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "モンゴル"
+      },
+      {
+        "country": "ロシア",
+        "area": "ブリヤート"
+      }
+    ],
+    "summary": "小麦粉の皮に羊肉などのひき肉餡を包んで蒸すモンゴルの蒸し餃子。旧正月ツァガーンサルに各家庭で大量に作られる。",
+    "menuDescription": "水で練った小麦粉の皮で羊肉・玉ねぎの餡を包み、上部を少し開けて蒸し上げたモンゴル伝統の蒸し餃子。噛むと肉汁があふれる。",
+    "whatComesOut": [
+      "小籠包を大きくしたような蒸し餃子が数個",
+      "羊肉または牛肉と玉ねぎの餡",
+      "上部に小さな口が開いた包み形",
+      "店によっては醤油や漬物が添えられる"
+    ],
+    "tasteAndTexture": [
+      "中から熱い肉汁がじゅわっと出る",
+      "羊肉の濃い旨みと玉ねぎの甘み",
+      "厚めの皮のもっちり感",
+      "塩主体のシンプルな味"
+    ],
+    "orderAdvice": "小籠包や肉まんが好きなら最初の一品に最適。ウランバートルの食堂（ゴアンズ）定番メニュー。",
+    "caution": "小麦を含む。肉汁が非常に熱いので最初は少しかじって冷ます。",
+    "similarItems": [
+      {
+        "id": "xiaolongbao",
+        "name": "小籠包",
+        "difference": "小籠包は薄皮で豚肉とスープゼリー入り。ボーズは大きめで羊肉主体"
+      },
+      {
+        "id": "manti",
+        "name": "マントゥ",
+        "difference": "マントゥは中央アジアの蒸し餃子でヨーグルトソースを添えることも。ボーズは調味料なしで食べることが多い"
+      },
+      {
+        "id": "baozi",
+        "name": "包子",
+        "difference": "包子は発酵生地のふっくらした中華まん。ボーズは無発酵の皮"
+      },
+      {
+        "id": "khuushuur",
+        "name": "ホーショール",
+        "difference": "ホーショールは同じ系統の餡を平たく包んで揚げたもの。ボーズは蒸す"
+      }
+    ],
+    "relatedIds": [
+      "xiaolongbao",
+      "manti",
+      "baozi",
+      "momo",
+      "lamb"
+    ],
+    "source": [
+      "https://mongol-jyouba-gakkou.com/blog/mongolian-food/",
+      "https://en.wikipedia.org/wiki/Buuz",
+      "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E6%96%99%E7%90%86"
+    ],
+    "tags": [
+      "モンゴル料理",
+      "点心",
+      "羊肉",
+      "小麦",
+      "蒸し料理",
+      "ジューシー",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "羊肉苦手",
+      "小麦アレルギー",
+      "野菜中心",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/buuz/1.jpg",
+      "/images/dishes/buuz/2.jpg",
+      "/images/dishes/buuz/3.jpg"
+    ]
+  },
+  {
+    "id": "khuushuur",
+    "name": "ホーショール",
+    "kana": "ほーしょーる",
+    "aliases": [
+      "ホーショル",
+      "フーシュール",
+      "ナーダミンホーショール"
+    ],
+    "englishName": "Khuushuur",
+    "originalName": "Хуушуур",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "モンゴル"
+      }
+    ],
+    "summary": "小麦粉の丸い皮に羊肉のひき肉餡を包んで半月形にし、油で揚げるモンゴルの揚げ肉餃子。夏祭りナーダムの定番。",
+    "menuDescription": "玉ねぎと塩で味付けした羊ひき肉を手作りの小麦皮で平たく包み、こんがり揚げたモンゴルの揚げ餃子。手に持って食べられる。",
+    "whatComesOut": [
+      "手のひら大の平たい揚げ餃子が数枚",
+      "羊肉（または牛肉）と玉ねぎの餡",
+      "きつね色に揚がった皮",
+      "付け合わせに野菜サラダやケチャップが出ることもある"
+    ],
+    "tasteAndTexture": [
+      "外はカリッと香ばしい皮",
+      "中から肉汁があふれる",
+      "羊脂のコクと塩味",
+      "油分が多くボリュームがある"
+    ],
+    "orderAdvice": "揚げ餃子やピロシキが好きなら満足度が高い。持ち歩いて食べる軽食向きだが、1枚でもかなり重い。",
+    "caution": "小麦を含む。揚げたては肉汁が熱い。羊脂で揚げることもあり香りが強い。",
+    "similarItems": [
+      {
+        "id": "buuz",
+        "name": "ボーズ",
+        "difference": "ボーズは同系統の餡を包んで蒸す。ホーショールは平たく包んで揚げる"
+      },
+      {
+        "id": "samsa",
+        "name": "サムサ",
+        "difference": "サムサは窯で焼く中央アジアのパイ。ホーショールは油で揚げる"
+      },
+      {
+        "id": "jiaozi",
+        "name": "ジャオズ",
+        "difference": "ジャオズは小ぶりで茹でや焼きが中心。ホーショールは大きく平たい揚げ物"
+      }
+    ],
+    "relatedIds": [
+      "buuz",
+      "samsa",
+      "jiaozi",
+      "lamb"
+    ],
+    "source": [
+      "https://mongol-jyouba-gakkou.com/blog/mongolian-food/",
+      "https://en.wikipedia.org/wiki/Khuushuur",
+      "https://en.wikipedia.org/wiki/Mongolian_cuisine"
+    ],
+    "tags": [
+      "モンゴル料理",
+      "軽食",
+      "羊肉",
+      "小麦",
+      "揚げ物",
+      "ジューシー",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "羊肉苦手",
+      "揚げ物苦手",
+      "あっさり",
+      "蒸し料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/khuushuur/1.jpg",
+      "/images/dishes/khuushuur/2.jpg",
+      "/images/dishes/khuushuur/3.jpg"
+    ]
+  },
+  {
+    "id": "guriltai-shul",
+    "name": "ゴリルタイシュル",
+    "kana": "ごりるたいしゅる",
+    "aliases": [
+      "ゴリルタイ・シュル",
+      "グリルタイシュル",
+      "モンゴル風うどんスープ"
+    ],
+    "englishName": "Guriltai shul",
+    "originalName": "Гурилтай шөл",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "モンゴル"
+      }
+    ],
+    "summary": "角切りの羊肉と野菜を炒めてから煮てスープにし、小麦麺を加えるモンゴルの麺入りスープ。家庭や食堂の日常食。",
+    "menuDescription": "羊肉（または牛肉）を炒めて水を注ぎ、じゃがいも・にんじん・玉ねぎと煮込んだ塩味スープに小麦麺を入れたモンゴルの汁麺。",
+    "whatComesOut": [
+      "どんぶりに入った塩味の肉スープ",
+      "短めの小麦麺",
+      "角切りの羊肉または牛肉",
+      "じゃがいも・にんじん・玉ねぎ"
+    ],
+    "tasteAndTexture": [
+      "羊肉のだしが出た素朴な塩味",
+      "脂が浮くが後味は比較的軽い",
+      "柔らかく煮えた麺と野菜",
+      "寒い日に体が温まる"
+    ],
+    "orderAdvice": "胃に優しめの温かい一品が欲しいときに。焼きうどん系のツォイワンより軽く食べられる。",
+    "caution": "小麦を含む。地域によってはラクダ肉や馬肉を使うこともある。",
+    "similarItems": [
+      {
+        "id": "tsuivan",
+        "name": "ツォイワン",
+        "difference": "ツォイワンは汁なしの蒸し炒め麺。ゴリルタイシュルはスープ麺"
+      },
+      {
+        "id": "lagman",
+        "name": "ラグマン",
+        "difference": "ラグマンはトマトやスパイスを効かせた中央アジアの麺。ゴリルタイシュルは塩のみのシンプルなスープ"
+      },
+      {
+        "id": "udon",
+        "name": "うどん",
+        "difference": "うどんはかつお・昆布だし。ゴリルタイシュルは羊肉だし"
+      }
+    ],
+    "relatedIds": [
+      "tsuivan",
+      "lagman",
+      "udon",
+      "lamb"
+    ],
+    "source": [
+      "https://mongol-jyouba-gakkou.com/blog/mongolian-food/",
+      "https://en.wikipedia.org/wiki/Mongolian_cuisine"
+    ],
+    "tags": [
+      "モンゴル料理",
+      "スープ",
+      "麺料理",
+      "羊肉",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "羊肉苦手",
+      "濃い味",
+      "ピリ辛",
+      "汁なし麺"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "khorkhog",
+    "name": "ホルホグ",
+    "kana": "ほるほぐ",
+    "aliases": [
+      "ホルホク",
+      "Khorkhog"
+    ],
+    "englishName": "Khorkhog",
+    "originalName": "Хорхог",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "モンゴル"
+      }
+    ],
+    "summary": "骨付き羊肉と野菜を、火で熱した石とともに密閉容器に入れて蒸し焼きにするモンゴルのごちそう料理。",
+    "menuDescription": "骨付きの羊肉とじゃがいも・にんじん・玉ねぎを、焚き火で真っ赤に熱した石と一緒にミルク缶などに入れて蒸し上げた遊牧民の伝統料理。",
+    "whatComesOut": [
+      "ほろほろに蒸された骨付き羊肉の塊",
+      "じゃがいも・にんじん・玉ねぎ",
+      "肉と野菜から出た塩味のスープ",
+      "脂で黒くなった熱い石（手で転がして楽しむ）"
+    ],
+    "tasteAndTexture": [
+      "骨離れのよいほろほろの羊肉",
+      "羊肉と野菜の水分だけで作る濃いスープ",
+      "ほくほくのじゃがいも",
+      "塩のみのシンプルな味付け"
+    ],
+    "orderAdvice": "遊牧民宅やツアーで出会えたらぜひ体験したい行事食。羊肉好きなら最高、苦手なら少量から。",
+    "caution": "羊肉の香りが強い。手渡される石は非常に熱いので注意。基本的に手づかみで食べる。",
+    "similarItems": [
+      {
+        "id": "uuts",
+        "name": "オーツ",
+        "difference": "オーツは羊の背と尾の塊を正月に供する儀礼的料理。ホルホグは石で蒸し焼きにする野外のごちそう"
+      },
+      {
+        "id": "jingisukan",
+        "name": "成吉思汗",
+        "difference": "成吉思汗は日本発祥の羊肉焼肉。ホルホグは石と密閉容器で蒸し焼き"
+      },
+      {
+        "id": "shui-zhu-fei-yang",
+        "name": "水煮肥羊",
+        "difference": "水煮肥羊は唐辛子と花椒の辛い羊肉煮込み。ホルホグは塩のみ"
+      }
+    ],
+    "relatedIds": [
+      "lamb",
+      "jingisukan",
+      "uuts"
+    ],
+    "source": [
+      "https://mongol-jyouba-gakkou.com/blog/mongolian-food/",
+      "https://en.wikipedia.org/wiki/Khorkhog",
+      "https://en.wikipedia.org/wiki/Mongolian_cuisine"
+    ],
+    "tags": [
+      "モンゴル料理",
+      "主菜",
+      "羊肉",
+      "野菜",
+      "蒸し料理",
+      "ジューシー",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "羊肉苦手",
+      "魚料理",
+      "あっさり野菜料理",
+      "スパイシーな料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/khorkhog/1.jpg"
+    ]
+  },
+  {
+    "id": "budaatai-khuurga",
+    "name": "ボタータイホーラガ",
+    "kana": "ぼたーたいほーらが",
+    "aliases": [
+      "ボダータイホーラガ",
+      "ボタータイ・ホーラガ",
+      "モンゴル風チャーハン"
+    ],
+    "englishName": "Budaatai khuurga",
+    "originalName": "Будаатай хуурга",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "モンゴル"
+      }
+    ],
+    "summary": "米を羊肉や野菜と炒め合わせるモンゴルの炒めご飯。小麦料理が多いモンゴルでは珍しい米料理。",
+    "menuDescription": "ご飯を刻んだ羊肉やにんじん・玉ねぎなどの野菜と炒め、塩で味を調えたモンゴル風チャーハン。",
+    "whatComesOut": [
+      "肉と野菜入りの炒めご飯",
+      "細切りの羊肉または牛肉",
+      "にんじん・玉ねぎ・ピーマンなどの野菜",
+      "付け合わせにサラダが出ることもある"
+    ],
+    "tasteAndTexture": [
+      "チャーハンに近い塩味",
+      "羊脂のコク",
+      "やや硬めでぱらっとした米",
+      "家庭により味付けの差が大きい"
+    ],
+    "orderAdvice": "モンゴル滞在中に米が恋しくなったら。日本の米より食感は劣ることもあるが、チャーハン好きなら安心して選べる。",
+    "caution": "羊肉の脂と香りがある。",
+    "similarItems": [
+      {
+        "id": "yangzhou-chao-fan",
+        "name": "揚州炒飯",
+        "difference": "揚州炒飯は卵・エビ・焼豚入りの中華炒飯。ボタータイホーラガは羊肉と野菜中心の素朴な味"
+      },
+      {
+        "id": "khao-phat",
+        "name": "カオ・パッ",
+        "difference": "カオ・パッはナンプラーで味付けするタイの炒飯。ボタータイホーラガは塩味"
+      },
+      {
+        "id": "tsuivan",
+        "name": "ツォイワン",
+        "difference": "ツォイワンは同じ具材を麺で作る。ボタータイホーラガは米"
+      }
+    ],
+    "relatedIds": [
+      "yangzhou-chao-fan",
+      "khao-phat",
+      "tsuivan",
+      "lamb"
+    ],
+    "source": [
+      "https://mongol-jyouba-gakkou.com/blog/mongolian-food/",
+      "https://en.wikipedia.org/wiki/Mongolian_cuisine"
+    ],
+    "tags": [
+      "モンゴル料理",
+      "ご飯もの",
+      "羊肉",
+      "米",
+      "炒め物",
+      "香ばしい",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "羊肉苦手",
+      "麺料理",
+      "スープ",
+      "パン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "boortsog",
+    "name": "ボールツォグ",
+    "kana": "ぼーるつぉぐ",
+    "aliases": [
+      "ボールツォク",
+      "ボルツォグ",
+      "バウルサク",
+      "Boortsog"
+    ],
+    "englishName": "Boortsog",
+    "originalName": "Боорцог",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "モンゴル"
+      },
+      {
+        "area": "中央アジア"
+      }
+    ],
+    "summary": "小麦粉・水・塩の生地を小さく切って揚げるモンゴルの揚げ菓子。お茶請けや軽食として日常的に食べられる。",
+    "menuDescription": "小麦粉の生地を小さく切ったりねじったりして油で揚げた素朴な揚げ菓子。砂糖入りの甘いタイプもあり、ウルム（乳脂）やお茶と一緒に楽しむ。",
+    "whatComesOut": [
+      "ひと口大の揚げ菓子が皿や器に山盛り",
+      "三角形・ねじり形など様々な形",
+      "ウルムやジャム、砂糖が添えられることがある",
+      "スーテーツァイ（塩入りミルクティー）と一緒に出る"
+    ],
+    "tasteAndTexture": [
+      "外はカリッと中はふっくら",
+      "小麦粉の素朴な味",
+      "甘さ控えめ〜ほんのり甘い",
+      "ウルムをつけるとリッチになる"
+    ],
+    "orderAdvice": "ドーナツやかりんとうが好きなら気軽に。お茶のお供として遊牧民宅でほぼ必ず出される。",
+    "caution": "小麦を含む。羊脂で揚げることもある。",
+    "similarItems": [
+      {
+        "id": "donut",
+        "name": "ドーナツ",
+        "difference": "ドーナツは甘くふわふわ。ボールツォグは小さく甘さ控えめで硬め"
+      },
+      {
+        "id": "youtiao",
+        "name": "油条",
+        "difference": "油条は細長くふわっと膨らむ中国の揚げパン。ボールツォグは小さくカリッとした揚げ菓子"
+      },
+      {
+        "id": "churros",
+        "name": "チュロス",
+        "difference": "チュロスは星形に絞り出し砂糖をまぶす。ボールツォグは切り出し生地で素朴な味"
+      }
+    ],
+    "relatedIds": [
+      "donut",
+      "youtiao",
+      "churros",
+      "urum"
+    ],
+    "source": [
+      "https://mongol-jyouba-gakkou.com/blog/mongolian-food/",
+      "https://en.wikipedia.org/wiki/Boortsog"
+    ],
+    "tags": [
+      "モンゴル料理",
+      "菓子",
+      "小麦",
+      "揚げ物",
+      "サクサク",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "小麦アレルギー",
+      "生菓子",
+      "フルーツ",
+      "揚げ物苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/boortsog/1.jpg",
+      "/images/dishes/boortsog/2.jpg",
+      "/images/dishes/boortsog/3.jpg"
+    ]
+  },
+  {
+    "id": "uuts",
+    "name": "オーツ",
+    "kana": "おーつ",
+    "aliases": [
+      "ウーツ",
+      "シュース",
+      "Uuts"
+    ],
+    "englishName": "Uuts",
+    "originalName": "Ууц",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "モンゴル"
+      }
+    ],
+    "summary": "羊の背中から尾にかけての部位を丸ごと調理した大きな肉塊で、旧正月ツァガーンサルの食卓の中心に供されるモンゴルの儀礼料理。",
+    "menuDescription": "羊の背と脂の乗った尾の部分をひと塊で調理し、正月の食卓に据える尊い料理。年長者が作法に従って切り分け、天地や火の神に捧げてから皆で食べる。",
+    "whatComesOut": [
+      "羊の背と尾の大きな肉塊",
+      "白い脂の厚い層がついた尾の部分",
+      "食卓中央に据えられ、その場で切り分けられる",
+      "ボーズや乳製品と一緒に並ぶことが多い"
+    ],
+    "tasteAndTexture": [
+      "脂の甘みが強い羊肉",
+      "塩のみのシンプルな味",
+      "とろける尾の脂",
+      "濃厚でボリュームがある"
+    ],
+    "orderAdvice": "レストランで頼む料理ではなく、正月に招かれた家庭で出会う儀礼食。切り分けの作法があるので家の人に従うこと。",
+    "caution": "脂身が非常に多い。羊肉の香りが強い。",
+    "similarItems": [
+      {
+        "id": "khorkhog",
+        "name": "ホルホグ",
+        "difference": "ホルホグは骨付き肉と野菜を石で蒸し焼きにする野外料理。オーツは背と尾の塊を正月に供する"
+      },
+      {
+        "id": "buuz",
+        "name": "ボーズ",
+        "difference": "ボーズは正月に大量に作る蒸し餃子。オーツは食卓中央を飾る羊肉の塊"
+      }
+    ],
+    "relatedIds": [
+      "buuz",
+      "khorkhog",
+      "lamb"
+    ],
+    "source": [
+      "https://mongol-jyouba-gakkou.com/blog/mongolian-food/",
+      "https://en.wikipedia.org/wiki/Buuz"
+    ],
+    "tags": [
+      "モンゴル料理",
+      "主菜",
+      "羊肉",
+      "こってり",
+      "祝祭料理",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "羊肉苦手",
+      "脂身苦手",
+      "あっさり",
+      "魚料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/uuts/1.jpg",
+      "/images/dishes/uuts/2.jpg",
+      "/images/dishes/uuts/3.jpg"
+    ]
+  },
+  {
+    "id": "urum",
+    "name": "ウルム",
+    "kana": "うるむ",
+    "aliases": [
+      "ウルム（乳製品）",
+      "Öröm",
+      "Urum"
+    ],
+    "englishName": "Urum",
+    "originalName": "Өрөм",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "モンゴル"
+      }
+    ],
+    "summary": "温めた牛乳を静置して表面にできる厚い乳脂の膜を集めた、バターとクリームの中間のようなモンゴルの乳製品。",
+    "menuDescription": "搾りたての乳を温めて風通しの良い場所で寝かせ、表面に1cmほど張る乳脂の膜をすくい取ったもの。パンやボールツォグに塗ったり、ミルクティーに入れたりする。",
+    "whatComesOut": [
+      "黄色みがかった厚い乳脂の塊",
+      "ボールツォグやパンに添えて",
+      "スーテーツァイ（塩入りミルクティー）に浮かべて"
+    ],
+    "tasteAndTexture": [
+      "濃厚なミルクの甘み",
+      "バターとクリームの中間のなめらかさ",
+      "ほのかに香ばしい",
+      "後を引くコク"
+    ],
+    "orderAdvice": "遊牧民宅でしか味わえない贅沢品。クロテッドクリームや生クリームが好きならぜひ試したい。",
+    "caution": "乳製品。脂肪分が非常に多い。常温で傷みやすい。",
+    "similarItems": [
+      {
+        "id": "ghee",
+        "name": "ギー",
+        "difference": "ギーはバターを煮詰めた澄ましバター。ウルムは加熱した乳の表面の膜を集めたもの"
+      },
+      {
+        "id": "smetana",
+        "name": "スメタナ",
+        "difference": "スメタナは発酵させたサワークリーム。ウルムは発酵させず甘みが強い"
+      },
+      {
+        "id": "byaslag",
+        "name": "ビャスラグ",
+        "difference": "ビャスラグはウルムを取った後の乳から作るチーズ"
+      }
+    ],
+    "relatedIds": [
+      "boortsog",
+      "byaslag",
+      "ghee",
+      "smetana"
+    ],
+    "source": [
+      "https://mongol-jyouba-gakkou.com/blog/mongolian-food/",
+      "https://en.wikipedia.org/wiki/Mongolian_cuisine"
+    ],
+    "tags": [
+      "モンゴル料理",
+      "乳製品",
+      "クリーミー",
+      "こってり",
+      "甘み",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "乳製品苦手",
+      "低脂肪",
+      "酸味のあるもの",
+      "さっぱり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/urum/1.jpg",
+      "/images/dishes/urum/2.jpg"
+    ]
+  },
+  {
+    "id": "tarag",
+    "name": "タラグ",
+    "kana": "たらぐ",
+    "aliases": [
+      "タラク",
+      "モンゴルヨーグルト",
+      "Tarag"
+    ],
+    "englishName": "Tarag",
+    "originalName": "Тараг",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "モンゴル"
+      }
+    ],
+    "summary": "遊牧民の家庭で作られるモンゴルのヨーグルト。とろりとゆるく、スプーンよりお椀から飲むのが一般的。",
+    "menuDescription": "家畜の乳を発酵させた自家製ヨーグルト。日本のプレーンヨーグルトに近いが酸味が強めで、砂糖を加えて飲むことも多い。",
+    "whatComesOut": [
+      "お椀に入ったゆるいヨーグルト",
+      "好みで砂糖を添えて",
+      "食事の最後や寝る前に出されることがある"
+    ],
+    "tasteAndTexture": [
+      "しっかりした酸味",
+      "とろとろで飲めるゆるさ",
+      "乳のピュアな風味",
+      "砂糖を入れるとまろやか"
+    ],
+    "orderAdvice": "プレーンヨーグルトが好きならそのまま、酸味が苦手なら砂糖を加えて。遊牧民宅で気軽に試せる白い食べ物。",
+    "caution": "乳製品。自家製は無殺菌のこともあるのでお腹の弱い人は少量から。",
+    "similarItems": [
+      {
+        "id": "airag",
+        "name": "アイラグ",
+        "difference": "アイラグは馬乳を発酵させた微アルコール飲料。タラグは主に牛乳などのヨーグルト"
+      },
+      {
+        "id": "tzatziki",
+        "name": "ツァジキ",
+        "difference": "ツァジキはヨーグルトにきゅうりやにんにくを混ぜたソース。タラグはプレーンで飲む"
+      },
+      {
+        "id": "smetana",
+        "name": "スメタナ",
+        "difference": "スメタナは発酵クリームで料理に添える。タラグは単体で飲む"
+      }
+    ],
+    "relatedIds": [
+      "airag",
+      "tzatziki",
+      "smetana",
+      "urum"
+    ],
+    "source": [
+      "https://mongol-jyouba-gakkou.com/blog/mongolian-food/",
+      "https://en.wikipedia.org/wiki/Mongolian_cuisine"
+    ],
+    "tags": [
+      "モンゴル料理",
+      "乳製品",
+      "発酵",
+      "酸味",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "乳製品苦手",
+      "酸っぱいもの苦手",
+      "甘いデザート",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tarag/1.jpg",
+      "/images/dishes/tarag/2.jpg",
+      "/images/dishes/tarag/3.jpg"
+    ]
+  },
+  {
+    "id": "byaslag",
+    "name": "ビャスラグ",
+    "kana": "びゃすらぐ",
+    "aliases": [
+      "ビャスラク",
+      "モンゴルのカッテージチーズ",
+      "Byaslag"
+    ],
+    "englishName": "Byaslag",
+    "originalName": "Бяслаг",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "モンゴル"
+      }
+    ],
+    "summary": "ウルムを取り除いた乳を濾して固め、重しで水分を抜いたモンゴルの非熟成チーズ。やや黄色く弾力が強い。",
+    "menuDescription": "脂肪分を取った乳を布で濾し、板に挟んで石の重しで水切りした遊牧民のフレッシュチーズ。ゲルの屋根などで干して保存することもある。",
+    "whatComesOut": [
+      "板状または角切りの白〜淡黄色のチーズ",
+      "干して少し硬くなったものも",
+      "お茶や他の乳製品と一緒に出される"
+    ],
+    "tasteAndTexture": [
+      "塩気の少ない淡白な味",
+      "ぎゅっと詰まった弾力",
+      "ほのかなミルクの甘みと酸味"
+    ],
+    "orderAdvice": "カッテージチーズやパニールのような淡い味のチーズが好きなら食べやすい。強い発酵臭はない。",
+    "caution": "乳製品。",
+    "similarItems": [
+      {
+        "id": "cottage-cheese",
+        "name": "カッテージチーズ",
+        "difference": "カッテージチーズはぽろぽろした粒状。ビャスラグは重しで固めた弾力あるブロック"
+      },
+      {
+        "id": "ricotta",
+        "name": "リコッタ",
+        "difference": "リコッタはホエイから作る柔らかいチーズ。ビャスラグは脱脂乳のカードを圧搾"
+      },
+      {
+        "id": "aaruul",
+        "name": "アーロール",
+        "difference": "アーロールはカードを乾燥させた硬く酸っぱいチーズ。ビャスラグは生に近い"
+      }
+    ],
+    "relatedIds": [
+      "cottage-cheese",
+      "ricotta",
+      "aaruul",
+      "urum"
+    ],
+    "source": [
+      "https://mongol-jyouba-gakkou.com/blog/mongolian-food/",
+      "https://en.wikipedia.org/wiki/Mongolian_cuisine"
+    ],
+    "tags": [
+      "モンゴル料理",
+      "チーズ",
+      "乳製品",
+      "あっさり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "乳製品苦手",
+      "熟成チーズ",
+      "濃厚な味",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/byaslag/1.jpg"
+    ]
+  },
+  {
+    "id": "aaruul",
+    "name": "アーロール",
+    "kana": "あーろーる",
+    "aliases": [
+      "アーロル",
+      "アールール",
+      "Aaruul"
+    ],
+    "englishName": "Aaruul",
+    "originalName": "Ааруул",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "モンゴル"
+      }
+    ],
+    "summary": "乳のカード（凝乳）を乾燥させて作るモンゴルの硬く酸っぱい保存チーズ。おやつや携行食、土産物として定番。",
+    "menuDescription": "発酵させた乳のカードを成形して天日で乾かした硬いチーズ。強い酸味があり、砂糖入りの甘いタイプも売られている。",
+    "whatComesOut": [
+      "小さな板状・棒状・花形などの乾燥チーズ",
+      "白〜クリーム色で石のように硬い",
+      "お菓子として器に盛られる"
+    ],
+    "tasteAndTexture": [
+      "強烈な酸味",
+      "歯が立たないほどの硬さで少しずつ齧る",
+      "噛むほど広がる乳のコク",
+      "砂糖入りはヨーグルト菓子のよう"
+    ],
+    "orderAdvice": "初回は酸っぱさに驚くが癖になる人も多い。まずは砂糖入りを土産に選ぶのが無難。",
+    "caution": "乳製品。非常に硬いので歯に注意。日本では湿気で傷みやすいため早めに食べる。",
+    "similarItems": [
+      {
+        "id": "byaslag",
+        "name": "ビャスラグ",
+        "difference": "ビャスラグは水切りした柔らかめのチーズ。アーロールは乾燥させて硬い"
+      },
+      {
+        "id": "boortsog",
+        "name": "ボールツォグ",
+        "difference": "ボールツォグは小麦の揚げ菓子。アーロールは乳を乾燥させた菓子"
+      },
+      {
+        "id": "chevre",
+        "name": "シェーヴル",
+        "difference": "シェーヴルは山羊乳のフレッシュ〜熟成チーズ。アーロールは乾燥保存用で酸味が強い"
+      }
+    ],
+    "relatedIds": [
+      "byaslag",
+      "boortsog",
+      "tarag"
+    ],
+    "source": [
+      "https://mongol-jyouba-gakkou.com/blog/mongolian-food/",
+      "https://en.wikipedia.org/wiki/Aaruul",
+      "https://en.wikipedia.org/wiki/Mongolian_cuisine"
+    ],
+    "tags": [
+      "モンゴル料理",
+      "菓子",
+      "チーズ",
+      "乳製品",
+      "発酵",
+      "酸味",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "乳製品苦手",
+      "酸っぱいもの苦手",
+      "柔らかいお菓子",
+      "甘いチョコレート"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/aaruul/1.jpg",
+      "/images/dishes/aaruul/2.jpg",
+      "/images/dishes/aaruul/3.jpg"
+    ]
+  },
+  {
+    "id": "airag",
+    "name": "アイラグ",
+    "kana": "あいらぐ",
+    "aliases": [
+      "アイラク",
+      "馬乳酒",
+      "クミス",
+      "Kumis"
+    ],
+    "englishName": "Airag",
+    "originalName": "Айраг",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "モンゴル"
+      },
+      {
+        "area": "中央アジア"
+      }
+    ],
+    "summary": "馬乳を革袋や樽で何千回も撹拌しながら発酵させたモンゴルの国民的飲料。アルコール度数は1〜3%程度と低い。",
+    "menuDescription": "夏に搾った馬乳を撹拌しながら数時間〜1日発酵させた微発泡の発酵乳飲料。酸味と軽いアルコールがあり、子どもから大人まで日常的に飲む。",
+    "whatComesOut": [
+      "お椀に注がれた白く濁った液体",
+      "微発泡でさらっとした飲み口",
+      "夏場は大きな容器から何杯も振る舞われる"
+    ],
+    "tasteAndTexture": [
+      "ヨーグルトのような酸味",
+      "ほのかな炭酸とアルコール感",
+      "さらっと軽い口当たり",
+      "時間が経つほど酸味が強まる"
+    ],
+    "orderAdvice": "夏のモンゴルでぜひ試したい名物。酸味が苦手なら出来たてを少量から。",
+    "caution": "アルコールを含む（1〜3%程度）。乳製品。飲み過ぎるとお腹がゆるくなりやすい。",
+    "similarItems": [
+      {
+        "id": "tarag",
+        "name": "タラグ",
+        "difference": "タラグは牛乳などのヨーグルト。アイラグは馬乳を発酵させた飲料でアルコールを含む"
+      },
+      {
+        "id": "shimiin-arkhi",
+        "name": "シミーンアルヒ",
+        "difference": "シミーンアルヒは乳酒を蒸留した透明な酒。アイラグは蒸留前の発酵乳"
+      },
+      {
+        "id": "nihonshu",
+        "name": "日本酒",
+        "difference": "日本酒は米の醸造酒で度数が高い。アイラグは乳の発酵飲料で度数は低い"
+      }
+    ],
+    "relatedIds": [
+      "tarag",
+      "shimiin-arkhi",
+      "vodka"
+    ],
+    "source": [
+      "https://mongol-jyouba-gakkou.com/blog/mongolian-food/",
+      "https://en.wikipedia.org/wiki/Kumis",
+      "https://en.wikipedia.org/wiki/Mongolian_cuisine"
+    ],
+    "tags": [
+      "モンゴル料理",
+      "乳製品",
+      "発酵",
+      "酸味",
+      "あっさり",
+      "伝統料理",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "お酒が飲めない",
+      "乳製品苦手",
+      "酸っぱいもの苦手",
+      "甘いジュース"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "shimiin-arkhi",
+    "name": "シミーンアルヒ",
+    "kana": "しみーんあるひ",
+    "aliases": [
+      "アルヒ",
+      "シミン・アルヒ",
+      "乳酒（蒸留）",
+      "Shimiin arkhi"
+    ],
+    "englishName": "Shimiin arkhi",
+    "originalName": "Шимийн архи",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "モンゴル"
+      }
+    ],
+    "summary": "発酵乳を遊牧民宅で蒸留して作る透明なモンゴルの乳の蒸留酒。ほのかに乳と羊の香りがする。",
+    "menuDescription": "アイラグなどの発酵乳を家庭の蒸留器で蒸留した、無色透明の乳酒。度数は6〜20度程度と比較的軽く、ウォッカに似た感覚で飲まれる。",
+    "whatComesOut": [
+      "お椀や小さなグラスに注がれた透明な酒",
+      "温めて出されることもある",
+      "来客時の歓迎の一杯として振る舞われる"
+    ],
+    "tasteAndTexture": [
+      "無色透明ですっきり",
+      "ほのかな乳と羊の香り",
+      "わずかな酸味",
+      "ウォッカより穏やかな度数"
+    ],
+    "orderAdvice": "遊牧民宅で勧められたら少し口をつけるのが礼儀。焼酎やウォッカが好きなら興味深く飲める。",
+    "caution": "アルコールを含む（6〜20度程度）。自家製で度数が一定しない。",
+    "similarItems": [
+      {
+        "id": "airag",
+        "name": "アイラグ",
+        "difference": "アイラグは蒸留前の発酵乳で低アルコール。シミーンアルヒはそれを蒸留した酒"
+      },
+      {
+        "id": "vodka",
+        "name": "ウォッカ",
+        "difference": "ウォッカは穀物の蒸留酒で度数40度前後。シミーンアルヒは乳から作り度数が低い"
+      },
+      {
+        "id": "shochu",
+        "name": "焼酎",
+        "difference": "焼酎は芋・麦・米などの蒸留酒。シミーンアルヒは乳の蒸留酒で乳の香りが残る"
+      }
+    ],
+    "relatedIds": [
+      "airag",
+      "vodka",
+      "shochu",
+      "awamori"
+    ],
+    "source": [
+      "https://mongol-jyouba-gakkou.com/blog/mongolian-food/",
+      "https://en.wikipedia.org/wiki/Kumis",
+      "https://en.wikipedia.org/wiki/Mongolian_cuisine"
+    ],
+    "tags": [
+      "モンゴル料理",
+      "乳製品",
+      "発酵",
+      "あっさり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "お酒が飲めない",
+      "乳製品苦手",
+      "甘いカクテル",
+      "ソフトドリンク"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
   }
 ]
