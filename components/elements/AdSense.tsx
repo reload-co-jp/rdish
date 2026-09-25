@@ -32,3 +32,26 @@ const AdSense = () => {
 }
 
 export default AdSense
+
+export const InArticleAd = () => {
+  useEffect(() => {
+    try {
+      ;(window.adsbygoogle = window.adsbygoogle || []).push({})
+    } catch (_e) {
+      // adsbygoogle push errors are non-fatal
+    }
+  }, [])
+
+  if (process.env.NODE_ENV !== "production") return null
+
+  return (
+    <ins
+      className="adsbygoogle"
+      style={{ display: "block", textAlign: "center" }}
+      data-ad-layout="in-article"
+      data-ad-format="fluid"
+      data-ad-client="ca-pub-6542845006087970"
+      data-ad-slot="4625326006"
+    />
+  )
+}

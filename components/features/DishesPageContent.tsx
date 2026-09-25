@@ -1,10 +1,12 @@
 import Link from "next/link"
-import { FC } from "react"
+import { FC, Fragment } from "react"
 import { DishCard } from "./DishCard"
+import { InArticleAd } from "../elements/AdSense"
 import { paginate, totalPages as totalPagesOf } from "../../lib/pagination"
 import type { DishItem } from "../../types/dish"
 
 export const PAGE_SIZE = 30
+const AD_INTERVAL = 10
 
 export function paginateDishes(allDishes: DishItem[], page: number) {
   return paginate(allDishes, page, PAGE_SIZE)
@@ -87,26 +89,29 @@ export const DishesPageContent: FC<Props> = ({
     <div>
       <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
         {dishes.map((dish, index) => (
-          <div key={dish.id} style={{ position: "relative" }}>
-            <div
-              style={{
-                position: "absolute",
-                top: "0.75rem",
-                right: "0.75rem",
-                zIndex: 1,
-                color: "#a89080",
-                fontSize: "0.7rem",
-                fontWeight: 700,
-                background: "#fffdf8",
-                border: "1px solid #e8ddd0",
-                borderRadius: "0.25rem",
-                padding: "0.125rem 0.375rem",
-              }}
-            >
-              #{offset + index + 1}
+          <Fragment key={dish.id}>
+            {index > 0 && index % AD_INTERVAL === 0 && <InArticleAd />}
+            <div style={{ position: "relative" }}>
+              <div
+                style={{
+                  position: "absolute",
+                  top: "0.75rem",
+                  right: "0.75rem",
+                  zIndex: 1,
+                  color: "#a89080",
+                  fontSize: "0.7rem",
+                  fontWeight: 700,
+                  background: "#fffdf8",
+                  border: "1px solid #e8ddd0",
+                  borderRadius: "0.25rem",
+                  padding: "0.125rem 0.375rem",
+                }}
+              >
+                #{offset + index + 1}
+              </div>
+              <DishCard dish={dish} />
             </div>
-            <DishCard dish={dish} />
-          </div>
+          </Fragment>
         ))}
       </div>
       <Pagination current={page} total={total} />
