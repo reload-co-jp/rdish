@@ -181598,5 +181598,421 @@
       "/images/dishes/gyros/2.jpg",
       "/images/dishes/gyros/3.jpg"
     ]
+  },
+  {
+    "id": "selsko-meso",
+    "name": "セルスコ・メソ",
+    "kana": "せるすこめそ",
+    "aliases": [
+      "セルスカ・メソ",
+      "田舎風の肉",
+      "Selsko meso"
+    ],
+    "englishName": "Selsko Meso",
+    "originalName": "Селско месо",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "北マケドニア"
+      },
+      {
+        "country": "ブルガリア"
+      }
+    ],
+    "summary": "豚肉をたっぷりのきのこ・玉ねぎ・パプリカなどと煮込んだ北マケドニアの伝統的な肉料理。名前は「田舎風の肉」を意味し、陶器の土鍋で調理・提供される。",
+    "menuDescription": "豚肉ときのこ、野菜をワインとともに土鍋でじっくり煮込んだ、マケドニア伝統の「田舎風の肉」。とろみのある旨味たっぷりのソースでどうぞ。",
+    "whatComesOut": [
+      "陶器の土鍋に入った熱々の煮込み",
+      "ひと口大の豚肉",
+      "たっぷりのきのこ・玉ねぎ・パプリカ",
+      "添えのパン"
+    ],
+    "tasteAndTexture": [
+      "きのこの濃い旨味",
+      "塩気の効いたとろみのあるソース（あんかけ風）",
+      "柔らかく煮えた豚肉",
+      "ほのかなワインの香り"
+    ],
+    "orderAdvice": "北マケドニアでしか出会いにくい独特の一皿。きのこ好き・煮込み好きなら迷わず注文を。中華のあんかけに近い味わいで日本人にもなじみやすい。パンでソースを拭って食べるのが◎。",
+    "caution": "豚肉を使用。店によってはクリームチーズや燻製肉、ワインが入る。",
+    "similarItems": [
+      {
+        "id": "guvec",
+        "name": "ユベチ",
+        "difference": "ユベチは肉と野菜の土鍋オーブン焼き全般。セルスコ・メソは豚肉ときのこが主役のとろみある煮込み"
+      },
+      {
+        "id": "goulash",
+        "name": "グヤーシュ",
+        "difference": "グヤーシュはパプリカ主体の赤い牛肉煮込み。セルスコ・メソはきのこの旨味が中心"
+      },
+      {
+        "id": "muckalica",
+        "name": "ムチカリッツァ",
+        "difference": "ムチカリッツァはトマト・パプリカ主体の赤い煮込み。セルスコ・メソはきのこが多くあんかけ風"
+      }
+    ],
+    "relatedIds": [
+      "tavche-gravche",
+      "guvec",
+      "goulash",
+      "mushroom",
+      "muckalica"
+    ],
+    "source": [
+      "https://ca-voir.com/macedonia-food-jp/",
+      "https://en.wikipedia.org/wiki/Selsko_meso"
+    ],
+    "tags": [
+      "北マケドニア料理",
+      "主菜",
+      "豚肉",
+      "きのこ",
+      "煮込み",
+      "こってり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "あっさりサラダ",
+      "魚介料理",
+      "グリル料理",
+      "ベジタリアン料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/selsko-meso/1.jpg",
+      "/images/dishes/selsko-meso/2.jpg",
+      "/images/dishes/selsko-meso/3.jpg"
+    ]
+  },
+  {
+    "id": "uvijach",
+    "name": "ウヴィヤチ",
+    "kana": "うゔぃやち",
+    "aliases": [
+      "ウヴィヤッチ",
+      "Uvijač",
+      "Uviyach"
+    ],
+    "englishName": "Uvijach",
+    "originalName": "Увијач",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "北マケドニア"
+      }
+    ],
+    "summary": "鶏肉または豚肉を棒状に巻いて中にチーズを詰め、さらにベーコンで巻いてグリルした北マケドニアのボリューム満点な肉料理。",
+    "menuDescription": "チーズを包んだ鶏肉（または豚肉）をベーコンで巻き上げ、香ばしくグリルしたマケドニア風肉巻き。",
+    "whatComesOut": [
+      "ベーコン巻きの棒状の肉ロール（輪切りの場合も）",
+      "とろけたチーズの中身",
+      "フライドポテトやサラダの付け合わせ",
+      "パン"
+    ],
+    "tasteAndTexture": [
+      "ベーコンの塩気と香ばしさ",
+      "ジューシーな肉",
+      "中から溶け出すチーズのコク",
+      "かなりヘビーな食べ応え"
+    ],
+    "orderAdvice": "ガッツリ肉を食べたい時向け。チーズ＋ベーコン＋肉の組み合わせで味の想像がつきやすく初心者にも安心。量が多いのでシェアも検討を。店によってはチーズの代わりにベーコンを詰めた肉だけ版もある。",
+    "caution": "乳製品・豚肉（ベーコン）を含む。",
+    "similarItems": [
+      {
+        "id": "biftek-roli",
+        "name": "ビフテク・ロリ",
+        "difference": "ビフテク・ロリはアルバニアの牛肉ロール。ウヴィヤチはベーコンで巻いてグリルする"
+      },
+      {
+        "id": "sharska-pljeskavica",
+        "name": "シャルスカ・プレスカヴィツァ",
+        "difference": "プレスカヴィツァはひき肉パテにチーズを挟む。ウヴィヤチは肉を巻いてベーコンで包む"
+      },
+      {
+        "name": "コルドン・ブルー",
+        "difference": "コルドン・ブルーはハムとチーズを挟んでパン粉で揚げる。ウヴィヤチは衣なしでベーコンを巻いてグリル"
+      }
+    ],
+    "relatedIds": [
+      "sharska-pljeskavica",
+      "biftek-roli",
+      "cevapcici",
+      "kebab"
+    ],
+    "source": [
+      "https://ca-voir.com/macedonia-food-jp/",
+      "https://en.wikipedia.org/wiki/Macedonian_cuisine"
+    ],
+    "tags": [
+      "北マケドニア料理",
+      "主菜",
+      "鶏肉",
+      "豚肉",
+      "チーズ",
+      "グリル",
+      "ジューシー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "あっさり野菜料理",
+      "スープ",
+      "魚介料理",
+      "ヘルシー料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "topeno-sirenje",
+    "name": "トペノ・スィレーニェ",
+    "kana": "とぺのすぃれーにぇ",
+    "aliases": [
+      "トペノ・シレニェ",
+      "Topeno sirenje"
+    ],
+    "englishName": "Topeno Sirenje",
+    "originalName": "Топено сирење",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "北マケドニア"
+      }
+    ],
+    "summary": "カッテージチーズの上にチェダーチーズを乗せてオーブンで焼き、仕上げに粉チーズをかけた、材料がほぼチーズだけの北マケドニアの焼きチーズ料理。",
+    "menuDescription": "数種類のチーズを重ねて熱々に焼き上げたマケドニア風焼きチーズ。ゴマをふったパンを添えて。",
+    "whatComesOut": [
+      "耐熱皿に入った焼きチーズ",
+      "とろけたチェダーチーズの層",
+      "たっぷりの粉チーズ",
+      "ゴマをふったパン"
+    ],
+    "tasteAndTexture": [
+      "とにかく濃厚なチーズの味",
+      "強い塩気",
+      "とろーりと伸びる食感",
+      "非常に重い"
+    ],
+    "orderAdvice": "チーズが大好きな人向けの一品。ピザ屋の定番メニューで気軽に頼めるが、重くてしょっぱいので一人で食べ切るのは大変。複数人でパンと一緒につまむのがおすすめ。",
+    "caution": "乳製品が主原料。塩分が非常に高い。",
+    "similarItems": [
+      {
+        "id": "fondue",
+        "name": "チーズフォンデュ",
+        "difference": "フォンデュは溶かしたチーズにパンを浸す。トペノ・スィレーニェは複数チーズを重ねてオーブン焼き"
+      },
+      {
+        "id": "halloumi",
+        "name": "ハルーミ",
+        "difference": "ハルーミは焼いても溶けにくいチーズそのもの。トペノ・スィレーニェはとろけるチーズを重ねた料理"
+      }
+    ],
+    "relatedIds": [
+      "cottage-cheese",
+      "cheddar-cheese",
+      "fondue",
+      "halloumi",
+      "shopska-salad"
+    ],
+    "source": [
+      "https://ca-voir.com/macedonia-food-jp/"
+    ],
+    "tags": [
+      "北マケドニア料理",
+      "前菜",
+      "チーズ",
+      "焼き物",
+      "こってり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "あっさりサラダ",
+      "野菜スープ",
+      "グリル肉",
+      "さっぱり系"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "teleshka-chorba",
+    "name": "テレーシュカ・チョルバ",
+    "kana": "てれーしゅかちょるば",
+    "aliases": [
+      "テレシュカ・チョルバ",
+      "Teleška čorba",
+      "Teleshka corba",
+      "マケドニア風牛肉スープ"
+    ],
+    "englishName": "Teleshka Chorba",
+    "originalName": "Телешка чорба",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "北マケドニア"
+      }
+    ],
+    "summary": "牛肉（仔牛肉）を野菜とともにじっくり煮込んだ北マケドニアのスープ。具だくさんでメインにもなる一品で、酢を加えて食べるのが現地流。",
+    "menuDescription": "ゴロゴロの牛肉と野菜をじっくり煮込んだマケドニア風ビーフスープ。お好みでお酢を加えてどうぞ。",
+    "whatComesOut": [
+      "深皿の具だくさんスープ",
+      "ゴロゴロと入った牛肉",
+      "にんじん・じゃがいも・玉ねぎなどの野菜",
+      "パン",
+      "卓上の酢"
+    ],
+    "tasteAndTexture": [
+      "牛肉と野菜の旨味が溶けたスープ",
+      "柔らかく煮えた牛肉",
+      "酢を入れるとさっぱりした酸味",
+      "やさしい味付け"
+    ],
+    "orderAdvice": "パン付きで軽めのランチに最適。クセがなく誰でも食べやすい。現地流にたっぷりの酢を入れて味変するのがおすすめ。",
+    "similarItems": [
+      {
+        "id": "chorba",
+        "name": "チョルバ",
+        "difference": "チョルバはバルカン〜中東の煮込みスープ全般。テレーシュカ・チョルバはその牛肉版"
+      },
+      {
+        "id": "pot-au-feu",
+        "name": "ポトフ",
+        "difference": "ポトフは大きな肉と野菜をブイヨンで煮る。テレーシュカ・チョルバは小さめの具でとろみがあり酢を加える"
+      },
+      {
+        "id": "beef-stew",
+        "name": "ビーフシチュー",
+        "difference": "ビーフシチューは濃厚なソース状。テレーシュカ・チョルバはスープ"
+      }
+    ],
+    "relatedIds": [
+      "chorba",
+      "pot-au-feu",
+      "beef-stew",
+      "tavche-gravche",
+      "yayla-corbasi"
+    ],
+    "source": [
+      "https://ca-voir.com/macedonia-food-jp/",
+      "https://en.wikipedia.org/wiki/Chorba"
+    ],
+    "tags": [
+      "北マケドニア料理",
+      "スープ",
+      "牛肉",
+      "野菜",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "揚げ物",
+      "チーズ料理",
+      "スパイシー料理",
+      "グリル肉"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "muckalica",
+    "name": "ムチカリッツァ",
+    "kana": "むちかりっつぁ",
+    "aliases": [
+      "ムチュカリツァ",
+      "ムチカリツァ",
+      "Mućkalica",
+      "Muchkalica"
+    ],
+    "englishName": "Mućkalica",
+    "originalName": "Мућкалица",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      },
+      {
+        "country": "北マケドニア"
+      }
+    ],
+    "summary": "豚肉などをトマト・パプリカ・玉ねぎと煮込んだバルカン半島の煮込み料理。セルビア発祥で、名前は「かき混ぜる」を意味する言葉に由来し、焼いた肉を野菜と煮込むのが特徴。",
+    "menuDescription": "炭火で焼いた豚肉を、トマト・パプリカ・玉ねぎなどの野菜とじっくり煮込んだバルカン風シチュー。",
+    "whatComesOut": [
+      "土鍋や深皿に入った赤い煮込み",
+      "ひと口大の豚肉",
+      "パプリカ・トマト・玉ねぎ",
+      "パン"
+    ],
+    "tasteAndTexture": [
+      "野菜の甘みと旨味がしみた豚肉",
+      "トマトとパプリカのほどよい酸味",
+      "焼いた肉の香ばしさ",
+      "店によっては唐辛子でピリ辛"
+    ],
+    "orderAdvice": "野菜たっぷりの肉煮込みが好きなら安心して頼める一品。グヤーシュ系の味が好きな人向け。辛さは店次第なので気になるなら確認を。",
+    "caution": "豚肉を使用。唐辛子で辛い場合あり。",
+    "similarItems": [
+      {
+        "id": "goulash",
+        "name": "グヤーシュ",
+        "difference": "グヤーシュは牛肉とパプリカパウダーの煮込み。ムチカリッツァは焼いた豚肉と生のパプリカ・トマトを煮込む"
+      },
+      {
+        "id": "selsko-meso",
+        "name": "セルスコ・メソ",
+        "difference": "セルスコ・メソはきのこ主体のあんかけ風。ムチカリッツァはトマト・パプリカ主体の赤い煮込み"
+      },
+      {
+        "id": "guvec",
+        "name": "ユベチ",
+        "difference": "ユベチは土鍋でオーブン焼きにする。ムチカリッツァは鍋で煮込む"
+      }
+    ],
+    "relatedIds": [
+      "goulash",
+      "selsko-meso",
+      "guvec",
+      "cevapcici",
+      "tave-kosi"
+    ],
+    "source": [
+      "https://ca-voir.com/macedonia-food-jp/",
+      "https://en.wikipedia.org/wiki/Mu%C4%87kalica"
+    ],
+    "tags": [
+      "セルビア料理",
+      "北マケドニア料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "煮込み",
+      "ジューシー",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "あっさりスープ",
+      "魚介料理",
+      "サラダ",
+      "チーズ料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/muckalica/1.jpg"
+    ]
   }
 ]
