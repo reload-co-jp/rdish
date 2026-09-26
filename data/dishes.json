@@ -180944,5 +180944,659 @@
       "/images/dishes/kaya-toast/2.jpg",
       "/images/dishes/kaya-toast/3.jpg"
     ]
+  },
+  {
+    "id": "qifqi",
+    "name": "チフチ",
+    "kana": "ちふち",
+    "aliases": [
+      "キフキ",
+      "Qifqi"
+    ],
+    "englishName": "Qifqi",
+    "originalName": "Qifqi",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アルバニア",
+        "locality": "ジロカストラ"
+      }
+    ],
+    "summary": "炊いた米に卵とドライミントなどのハーブ・スパイスを混ぜて丸め、揚げ焼きにしたアルバニア南部ジロカストラの郷土料理。「アルバニア風おにぎりフライ」とも言える軽食。",
+    "menuDescription": "ご飯に卵とミントを練り込んで丸く揚げた、ジロカストラ名物のライスボール。ヨーグルトソースを添えて。",
+    "whatComesOut": [
+      "丸いライスボール数個",
+      "ツァジキなどのヨーグルトソース",
+      "添え野菜やパン"
+    ],
+    "tasteAndTexture": [
+      "外側の香ばしさ",
+      "中のもっちりした米",
+      "ミントのさわやかな香り",
+      "ヨーグルトの酸味"
+    ],
+    "orderAdvice": "ジロカストラでしか見かけにくい名物。米料理好き・軽めのランチに向く。見た目より満腹感あり。",
+    "caution": "卵・乳製品（ソース）を含む。",
+    "similarItems": [
+      {
+        "name": "アランチーニ",
+        "difference": "アランチーニはリゾットにチーズを包みパン粉で揚げる。チフチは卵とミント入りの米を衣なしで揚げ焼き"
+      },
+      {
+        "id": "falafel",
+        "name": "ファラフェル",
+        "difference": "ファラフェルはひよこ豆のコロッケ。チフチは米が主体"
+      }
+    ],
+    "relatedIds": [
+      "tzatziki",
+      "pilaf",
+      "byrek",
+      "fergese",
+      "falafel"
+    ],
+    "source": [
+      "https://ca-voir.com/albanian-food-jp/",
+      "https://en.wikipedia.org/wiki/Qifqi"
+    ],
+    "tags": [
+      "アルバニア料理",
+      "軽食",
+      "米",
+      "卵",
+      "ハーブ",
+      "揚げ物",
+      "香ばしい",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ミント苦手",
+      "揚げ物控え",
+      "卵アレルギー",
+      "生野菜サラダ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/qifqi/1.jpg",
+      "/images/dishes/qifqi/2.jpg",
+      "/images/dishes/qifqi/3.jpg"
+    ]
+  },
+  {
+    "id": "lakror",
+    "name": "ラクロル",
+    "kana": "らくろる",
+    "aliases": [
+      "Lakror",
+      "アルバニア風ミートパイ"
+    ],
+    "englishName": "Lakror",
+    "originalName": "Lakror",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アルバニア"
+      }
+    ],
+    "summary": "薄く伸ばしたフィロ生地を型に敷き、玉ねぎ・ネギ・野菜や羊肉などの具を詰めて焼くアルバニアの伝統的なパイ。ビュレクの仲間で、内陸部では羊肉入りが定番。",
+    "menuDescription": "じっくり煮た玉ねぎと羊肉をサクサクのパイ生地で包み焼いた、アルバニア内陸部の伝統料理。",
+    "whatComesOut": [
+      "切り分けた円形パイ",
+      "玉ねぎと羊肉などの具",
+      "層になったパイ生地",
+      "ヨーグルトが添えられる場合あり"
+    ],
+    "tasteAndTexture": [
+      "生地のサクサク感",
+      "玉ねぎの甘みと香ばしさ",
+      "羊肉のジューシーさ"
+    ],
+    "orderAdvice": "パイ・キッシュ系が好きなら外れにくい。羊肉が苦手なら野菜やチーズの具を選ぶ。",
+    "caution": "小麦・乳製品（バター）を含む。具により羊肉・卵・チーズ入り。",
+    "similarItems": [
+      {
+        "id": "byrek",
+        "name": "ビレク",
+        "difference": "ビレクは総称的なフィロパイ。ラクロルは型で焼く厚めのパイで、ネギや玉ねぎの具が特徴"
+      },
+      {
+        "id": "spanakopita",
+        "name": "スパナコピタ",
+        "difference": "スパナコピタはほうれん草とフェタのギリシャのパイ"
+      }
+    ],
+    "relatedIds": [
+      "byrek",
+      "spanakopita",
+      "tave-kosi",
+      "lamb"
+    ],
+    "source": [
+      "https://ca-voir.com/albanian-food-jp/",
+      "https://en.wikipedia.org/wiki/Lakror"
+    ],
+    "tags": [
+      "アルバニア料理",
+      "主菜",
+      "羊肉",
+      "野菜",
+      "小麦",
+      "焼き物",
+      "サクサク",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "羊肉苦手",
+      "グルテン不可",
+      "あっさりスープ",
+      "生野菜サラダ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/lakror/1.jpg",
+      "/images/dishes/lakror/2.jpg",
+      "/images/dishes/lakror/3.jpg"
+    ]
+  },
+  {
+    "id": "tasqebap",
+    "name": "タスチェバプ",
+    "kana": "たすちぇばぷ",
+    "aliases": [
+      "タスチェヴァプ",
+      "Tasqebap",
+      "アルバニア風ビーフシチュー"
+    ],
+    "englishName": "Tasqebap",
+    "originalName": "Tasqebap",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アルバニア"
+      }
+    ],
+    "summary": "牛肉をブイヨンでじっくり煮込んだアルバニア風ビーフシチュー。レモンの酸味が効いたさらっとしたスープが特徴で、ローカル食堂の定番。",
+    "menuDescription": "柔らかく煮込んだ牛肉を、レモン香るさらりとしたスープで仕上げたアルバニアの家庭的な煮込み。",
+    "whatComesOut": [
+      "牛肉の煮込み（具は牛肉中心）",
+      "とろみの少ないスープ",
+      "パンまたはピラフ"
+    ],
+    "tasteAndTexture": [
+      "牛肉の旨み",
+      "レモンのほのかな酸味",
+      "ほろほろの柔らかい肉",
+      "さらっとしたスープ"
+    ],
+    "orderAdvice": "安くて外れにくいアルバニア食堂の定番。癖のない肉料理を求めるなら最有力。",
+    "similarItems": [
+      {
+        "id": "goulash",
+        "name": "グヤーシュ",
+        "difference": "グヤーシュはパプリカが主役。タスチェバプはパプリカを使わずレモンの酸味"
+      },
+      {
+        "id": "cevapcici",
+        "name": "ケバプチチ",
+        "difference": "名前は似るが、ケバプチチは棒状のひき肉グリル"
+      },
+      {
+        "id": "beef-stew",
+        "name": "ビーフシチュー",
+        "difference": "ビーフシチューはとろみのあるソース。タスチェバプはさらっとしたスープ"
+      }
+    ],
+    "relatedIds": [
+      "goulash",
+      "cevapcici",
+      "beef-stew",
+      "pilaf"
+    ],
+    "source": [
+      "https://ca-voir.com/albanian-food-jp/"
+    ],
+    "tags": [
+      "アルバニア料理",
+      "主菜",
+      "牛肉",
+      "煮込み",
+      "酸味",
+      "あっさり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "牛肉不可",
+      "酸味苦手",
+      "揚げ物",
+      "こってり系"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tasqebap/1.jpg"
+    ]
+  },
+  {
+    "id": "tave-dheu",
+    "name": "タフ・ヂェウ",
+    "kana": "たふぢぇう",
+    "aliases": [
+      "タヴェ・ヂェウ",
+      "Tave dheu",
+      "Tavë dheu"
+    ],
+    "englishName": "Tave Dheu",
+    "originalName": "Tavë dheu",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アルバニア"
+      }
+    ],
+    "summary": "牛モツやレバーをニンニク・青唐辛子・カッテージチーズ（ギゼ）と煮込み、土鍋で焼き上げるアルバニアの料理。名は「土の鍋」の意。",
+    "menuDescription": "下処理した牛モツをニンニクと青唐辛子、フレッシュチーズで煮込んだ土鍋料理。クリーミーなソースはパンと相性抜群。",
+    "whatComesOut": [
+      "土鍋入りのモツ煮込み",
+      "白っぽいチーズソース",
+      "青唐辛子",
+      "パン"
+    ],
+    "tasteAndTexture": [
+      "クリーミーなチーズソース",
+      "ニンニクの風味",
+      "青唐辛子の軽い辛み",
+      "モツの弾力"
+    ],
+    "orderAdvice": "モツ・レバーが平気なら試す価値大。ティラナの食堂で見かけやすい。内臓が苦手なら避ける。",
+    "caution": "内臓肉・乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "fergese",
+        "name": "フェルゲサ",
+        "difference": "フェルゲサはパプリカとチーズの煮込み（レバー入りもある）。タフ・ヂェウはモツが主役"
+      },
+      {
+        "id": "trippa",
+        "name": "トリッパ",
+        "difference": "トリッパはトマト煮の牛胃。タフ・ヂェウはチーズでクリーミー"
+      }
+    ],
+    "relatedIds": [
+      "fergese",
+      "trippa",
+      "tave-kosi",
+      "menudo"
+    ],
+    "source": [
+      "https://ca-voir.com/albanian-food-jp/"
+    ],
+    "tags": [
+      "アルバニア料理",
+      "主菜",
+      "牛肉",
+      "チーズ",
+      "煮込み",
+      "クリーミー",
+      "ピリ辛",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "内臓苦手",
+      "乳製品不可",
+      "さっぱり系",
+      "魚料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/tave-dheu/1.jpg",
+      "/images/dishes/tave-dheu/2.jpg",
+      "/images/dishes/tave-dheu/3.jpg"
+    ]
+  },
+  {
+    "id": "qofte-me-leng",
+    "name": "チョフテ・メ・ラング",
+    "kana": "ちょふてめらんぐ",
+    "aliases": [
+      "Qofte me lëng",
+      "アルバニア風ミートボール煮込み"
+    ],
+    "englishName": "Albanian Meatball Stew",
+    "originalName": "Qofte me lëng",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アルバニア"
+      }
+    ],
+    "summary": "羊肉と牛肉の合いびきにミントなどのハーブを効かせたミートボール（チョフテ）を、パプリカペースト入りのブイヨンで煮込んだアルバニアの家庭料理。",
+    "menuDescription": "ハーブ香る柔らかなミートボールを、パプリカ風味のスープでじっくり煮込んだ一皿。",
+    "whatComesOut": [
+      "ミートボール数個",
+      "パプリカ色のスープ",
+      "パン"
+    ],
+    "tasteAndTexture": [
+      "柔らかいミートボール",
+      "ミントのエスニックな香り",
+      "パプリカの甘み"
+    ],
+    "orderAdvice": "ミートボール好きなら安心して頼める。中東寄りのハーブの香りが特徴。",
+    "similarItems": [
+      {
+        "id": "kofte",
+        "name": "キョフテ",
+        "difference": "キョフテはトルコの焼きミートボール。チョフテ・メ・ラングはスープ煮込み"
+      },
+      {
+        "id": "tasqebap",
+        "name": "タスチェバプ",
+        "difference": "タスチェバプは牛肉塊の煮込み"
+      }
+    ],
+    "relatedIds": [
+      "kofte",
+      "tasqebap",
+      "cevapcici"
+    ],
+    "source": [
+      "https://ca-voir.com/albanian-food-jp/",
+      "https://en.wikipedia.org/wiki/Albanian_cuisine"
+    ],
+    "tags": [
+      "アルバニア料理",
+      "主菜",
+      "羊肉",
+      "牛肉",
+      "ハーブ",
+      "煮込み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "羊肉苦手",
+      "ミント苦手",
+      "魚料理",
+      "生野菜サラダ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "pastice",
+    "name": "パスティーチェ",
+    "kana": "ぱすてぃーちぇ",
+    "aliases": [
+      "パスティチェ",
+      "Pastiçe",
+      "Pastice"
+    ],
+    "englishName": "Pastice",
+    "originalName": "Pastiçe",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アルバニア"
+      }
+    ],
+    "summary": "太めの筒状パスタを卵とチーズに絡めてオーブンで焼き上げた、アルバニアのパスタグラタン。ギリシャのパスティツィオに近い。",
+    "menuDescription": "筒状パスタに卵とチーズを絡めて焼いた、素朴なアルバニア風パスタグラタン。",
+    "whatComesOut": [
+      "四角く切り分けたパスタ焼き",
+      "焼き色のついたチーズ面",
+      "中の筒状パスタ"
+    ],
+    "tasteAndTexture": [
+      "チーズの塩気と旨み",
+      "卵のまとまり感",
+      "焼き目の香ばしさ"
+    ],
+    "orderAdvice": "エスニック風味に疲れた時の選択肢。ヨーロッパ的で初心者向け。",
+    "caution": "小麦・卵・乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "moussaka",
+        "name": "ムサカ",
+        "difference": "ムサカはナスとひき肉の層焼き。パスティーチェはパスタ主体"
+      },
+      {
+        "id": "lasagna",
+        "name": "ラザニア",
+        "difference": "ラザニアは板状パスタとミートソースの層。パスティーチェは筒状パスタを卵とチーズで焼く"
+      },
+      {
+        "name": "パスティツィオ",
+        "difference": "ギリシャ版はひき肉ソースとベシャメルを重ねる"
+      }
+    ],
+    "relatedIds": [
+      "moussaka",
+      "lasagna",
+      "gratin"
+    ],
+    "source": [
+      "https://ca-voir.com/albanian-food-jp/",
+      "https://en.wikipedia.org/wiki/Pastitsio"
+    ],
+    "tags": [
+      "アルバニア料理",
+      "主菜",
+      "小麦",
+      "チーズ",
+      "卵",
+      "焼き物",
+      "こってり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "乳製品不可",
+      "グルテン不可",
+      "卵アレルギー",
+      "あっさり系"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pastice/1.jpg",
+      "/images/dishes/pastice/2.jpg"
+    ]
+  },
+  {
+    "id": "souvlaki",
+    "name": "スブラキ",
+    "kana": "すぶらき",
+    "aliases": [
+      "スヴラキ",
+      "スフラキ",
+      "Souvlaki",
+      "Sufllaqe"
+    ],
+    "englishName": "Souvlaki",
+    "originalName": "Σουβλάκι",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ギリシャ"
+      },
+      {
+        "country": "アルバニア"
+      }
+    ],
+    "summary": "小さく切った肉を串に刺して焼くギリシャの定番ファストフード。ピタパンにヨーグルトソース・野菜・フライドポテトと挟むスタイルも一般的で、アルバニアでは中身がほぼ鶏肉。",
+    "menuDescription": "グリルした串焼き肉をピタで包み、ツァジキやトマト、玉ねぎ、ポテトを添えたギリシャ風サンド。",
+    "whatComesOut": [
+      "串焼き肉またはピタ巻き",
+      "ツァジキ",
+      "トマト・玉ねぎ",
+      "フライドポテト"
+    ],
+    "tasteAndTexture": [
+      "炭火の香ばしさ",
+      "肉のジューシーさ",
+      "ヨーグルトソースの酸味"
+    ],
+    "orderAdvice": "ギリシャ・アルバニアで手軽に食べられる定番。失敗しにくい。",
+    "caution": "乳製品（ソース）・小麦（ピタ）を含む。",
+    "similarItems": [
+      {
+        "id": "gyros",
+        "name": "ギロス",
+        "difference": "ギロスは回転焼きの肉塊を削ぐ。スブラキは角切り肉の串焼き"
+      },
+      {
+        "id": "kebab",
+        "name": "ケバブ",
+        "difference": "トルコのシシケバブに近い串焼き"
+      },
+      {
+        "id": "yakitori",
+        "name": "焼き鳥",
+        "difference": "焼き鳥はタレか塩。スブラキはオリーブオイルとハーブ、レモン"
+      }
+    ],
+    "relatedIds": [
+      "gyros",
+      "kebab",
+      "tzatziki",
+      "pita-bread",
+      "yakitori"
+    ],
+    "source": [
+      "https://ca-voir.com/albanian-food-jp/",
+      "https://en.wikipedia.org/wiki/Souvlaki",
+      "https://ja.wikipedia.org/wiki/スブラキ"
+    ],
+    "tags": [
+      "ギリシャ料理",
+      "軽食",
+      "豚肉",
+      "鶏肉",
+      "グリル",
+      "ジューシー",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "肉料理控え",
+      "乳製品不可",
+      "魚介料理",
+      "甘いもの"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/souvlaki/1.jpg",
+      "/images/dishes/souvlaki/2.jpg",
+      "/images/dishes/souvlaki/3.jpg"
+    ]
+  },
+  {
+    "id": "gyros",
+    "name": "ギロス",
+    "kana": "ぎろす",
+    "aliases": [
+      "ギロピタ",
+      "ジロ",
+      "ギロ",
+      "Gyros",
+      "Gjiro"
+    ],
+    "englishName": "Gyros",
+    "originalName": "Γύρος",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ギリシャ"
+      },
+      {
+        "country": "アルバニア"
+      }
+    ],
+    "summary": "縦型の回転グリルで焼いた肉塊を薄く削ぎ、ピタパンにツァジキ・野菜・フライドポテトと包むギリシャのファストフード。ドネルケバブから派生し、アルバニアでも定番。",
+    "menuDescription": "回転グリルで焼き上げた肉を削ぎ切りにし、ピタにツァジキやトマト、ポテトと包んだギリシャ名物。",
+    "whatComesOut": [
+      "ピタで巻いたサンド",
+      "削いだ豚肉か鶏肉",
+      "ツァジキ",
+      "トマト・玉ねぎ・フライドポテト"
+    ],
+    "tasteAndTexture": [
+      "削ぎ肉の香ばしい焼き目",
+      "ジューシーな肉汁",
+      "ヨーグルトソースの酸味",
+      "ポテトのほくほく感"
+    ],
+    "orderAdvice": "ドネルケバブ好きなら確実。ボリュームある安価な軽食。",
+    "caution": "乳製品・小麦を含む。",
+    "similarItems": [
+      {
+        "id": "kebab",
+        "name": "ケバブ",
+        "difference": "トルコのドネルケバブが原型。ギロスはツァジキとポテト入りが一般的"
+      },
+      {
+        "id": "shawarma",
+        "name": "シャワルマ",
+        "difference": "中東版。タヒニやガーリックソースを使う"
+      },
+      {
+        "id": "souvlaki",
+        "name": "スブラキ",
+        "difference": "スブラキは角切り肉の串焼き"
+      }
+    ],
+    "relatedIds": [
+      "souvlaki",
+      "kebab",
+      "shawarma",
+      "tzatziki",
+      "pita-bread"
+    ],
+    "source": [
+      "https://ca-voir.com/albanian-food-jp/",
+      "https://en.wikipedia.org/wiki/Gyros",
+      "https://ja.wikipedia.org/wiki/ギロピタ"
+    ],
+    "tags": [
+      "ギリシャ料理",
+      "軽食",
+      "豚肉",
+      "鶏肉",
+      "ロースト",
+      "ジューシー",
+      "香ばしい",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "肉料理控え",
+      "乳製品不可",
+      "あっさりスープ",
+      "魚介料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gyros/1.jpg",
+      "/images/dishes/gyros/2.jpg",
+      "/images/dishes/gyros/3.jpg"
+    ]
   }
 ]
