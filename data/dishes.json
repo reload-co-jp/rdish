@@ -182014,5 +182014,100 @@
     "images": [
       "/images/dishes/muckalica/1.jpg"
     ]
+  },
+  {
+    "id": "cajun-crawfish",
+    "name": "ケイジャンクロウフィッシュ",
+    "kana": "けいじゃんくろうふぃっしゅ",
+    "aliases": [
+      "クロウフィッシュボイル",
+      "ザリガニボイル",
+      "ケイジャンザリガニ",
+      "Crawfish Boil",
+      "Boiled Crawfish"
+    ],
+    "englishName": "Cajun Crawfish",
+    "originalName": "Crawfish Boil",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ",
+        "locality": "ルイジアナ"
+      }
+    ],
+    "summary": "ザリガニ（クロウフィッシュ）をカイエンペッパーやレモン、ローリエなどの効いたスパイシーなスープで丸ごと茹でた、アメリカ・ルイジアナ州のケイジャン料理。トウモロコシやジャガイモ、ソーセージと一緒に茹でて、手でむきながら大勢で食べる。",
+    "menuDescription": "ルイジアナ産ザリガニを、カイエンペッパーやガーリックを効かせたケイジャンスパイスで豪快に茹で上げました。トウモロコシ・新じゃが・ソーセージと一緒にお楽しみください。",
+    "whatComesOut": [
+      "殻付きの真っ赤なザリガニが山盛り（トレーや袋、新聞紙の上に広げて出ることも）",
+      "一緒に茹でたトウモロコシとジャガイモ",
+      "スモークソーセージやニンニク丸ごと",
+      "レモン、殻入れ用の皿、紙ナプキンや手袋"
+    ],
+    "tasteAndTexture": [
+      "カイエンペッパーの効いたしっかりした辛さと塩気",
+      "エビに似たぷりっとした尾の身と、濃厚な頭の旨味（ミソ）",
+      "スパイスが染みたホクホクのジャガイモと甘いトウモロコシ",
+      "殻をむいて食べるため指先までスパイスまみれになる豪快さ"
+    ],
+    "orderAdvice": "エビ・カニの殻むきが苦にならず、辛いもの好きなら楽しい一品。身は尾の部分だけで量のわりに食べられる部分は少なめなので、ビール片手にワイワイつまむ感覚で。手が汚れるのが嫌な人やデートの一皿目には不向き。",
+    "caution": "甲殻類（ザリガニ）アレルギーに注意。カイエンペッパーで辛い場合が多い。殻が硬く手で割るため、手袋やおしぼりがあると安心。",
+    "similarItems": [
+      {
+        "id": "xiao-long-xia",
+        "name": "小龍蝦",
+        "difference": "小龍蝦は中国式に麻辣や十三香で炒め煮にする。ケイジャンクロウフィッシュはケイジャンスパイスのスープで茹でる"
+      },
+      {
+        "id": "boil",
+        "name": "ボイル",
+        "difference": "ボイルは茹でる調理法全般。ケイジャンクロウフィッシュはスパイス入りの湯でザリガニと野菜をまとめて茹でる料理"
+      },
+      {
+        "id": "garlic_shrimp",
+        "name": "ガーリックシュリンプ",
+        "difference": "ガーリックシュリンプはエビをバターとニンニクで炒める。ケイジャンクロウフィッシュはザリガニを丸ごとスパイスで茹でる"
+      },
+      {
+        "id": "jambalaya",
+        "name": "ジャンバラヤ",
+        "difference": "同じルイジアナのケイジャン料理だが、ジャンバラヤは米を具と炊き込むご飯もの"
+      }
+    ],
+    "relatedIds": [
+      "jambalaya",
+      "xiao-long-xia",
+      "boil",
+      "garlic_shrimp",
+      "bananas-foster"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Crawfish_boil",
+      "https://en.wikipedia.org/wiki/Crayfish_as_food",
+      "https://ja.wikipedia.org/wiki/ケイジャン料理"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "主菜",
+      "魚介",
+      "スパイス",
+      "ピリ辛",
+      "郷土料理",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "あっさり和食",
+      "殻なしの切り身魚",
+      "マイルドなクリーム煮",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/cajun-crawfish/1.jpg",
+      "/images/dishes/cajun-crawfish/2.jpg",
+      "/images/dishes/cajun-crawfish/3.jpg"
+    ]
   }
 ]
