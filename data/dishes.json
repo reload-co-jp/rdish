@@ -108546,6 +108546,7 @@
     "caution": "もともと精進料理のため肉・魚不使用が伝統だが、家庭により鶏肉等を加える場合がある。",
     "similarItems": [
       {
+        "id": "noppei-jiru",
         "name": "のっぺい汁",
         "difference": "全国各地にある同様のとろみ汁だが、おくずかけは白石温麺を使う点と彼岸・法事との結びつきが強い点が異なる。"
       }
@@ -110399,6 +110400,7 @@
     "orderAdvice": "田植えの時期（春〜初夏）に栃木県内、特に宇都宮市の郷土料理講座や家庭で作られる。",
     "similarItems": [
       {
+        "id": "nishin-sansho-zuke",
         "name": "身欠きにしんの山椒漬け",
         "difference": "山椒漬けは酢と山椒で漬け込む保存食だが、ニシンとタケノコの煮付けは醤油だれで煮る点が異なる"
       }
@@ -184691,6 +184693,7 @@
     "caution": "そば（アレルギー注意）・魚・醤油を使用。",
     "similarItems": [
       {
+        "id": "nishin-sansho-zuke",
         "name": "身欠きにしんの山椒漬け",
         "difference": "身欠きにしんを酢と山椒で漬けた会津の郷土料理"
       }
@@ -189515,5 +189518,88 @@
       "/images/dishes/serrano-pepper/2.jpg",
       "/images/dishes/serrano-pepper/3.jpg"
     ]
+  },
+  {
+    "id": "noppei-jiru",
+    "name": "のっぺい汁",
+    "kana": "のっぺいじる",
+    "aliases": [
+      "ぬっぺい汁",
+      "おのっぺ汁",
+      "ぬっぺり",
+      "濃平",
+      "のっぺり"
+    ],
+    "englishName": "Noppei-jiru",
+    "originalName": "濃平汁",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "里芋やにんじんなどの根菜を小さく切って水煮にし、後から味付けした、とろみのある汁物・煮物。全国各地に分布し、地方によってのっぺ・ぬっぺい汁などと呼ばれる。",
+    "menuDescription": "里芋、にんじん、ごぼう、こんにゃく、しいたけを小さく切ってだしで煮含め、里芋のぬめりと葛でやさしいとろみをつけたのっぺい汁。体の芯から温まる郷土の味です。",
+    "whatComesOut": [
+      "椀に入ったとろみのある具だくさんの汁",
+      "小さく切った里芋・にんじん・ごぼう・こんにゃく・しいたけ",
+      "鶏肉や油揚げが入る地域も",
+      "新潟などでは汁気の少ない煮物として"
+    ],
+    "tasteAndTexture": [
+      "里芋のぬめりや葛によるとろみ",
+      "だしのきいたやさしい醤油味",
+      "根菜のほっくりした食感",
+      "冷めにくく体が温まる"
+    ],
+    "orderAdvice": "地域や家庭ごとに具や汁気が違う素朴な郷土料理。けんちん汁や豚汁が好きなら食べやすい。油で炒めないため、けんちん汁よりあっさりしている。",
+    "caution": "醤油（小麦・大豆）を使用。",
+    "similarItems": [
+      {
+        "id": "noppe-niigata",
+        "name": "のっぺ",
+        "difference": "新潟の「のっぺ」は汁物というより煮物に近い"
+      },
+      {
+        "id": "okuzukake",
+        "name": "おくずかけ",
+        "difference": "宮城の精進のとろみ汁で、白石温麺を入れる"
+      },
+      {
+        "id": "kenchin-jiru-kanagawa",
+        "name": "けんちん汁",
+        "difference": "具を油で炒めてから煮る。のっぺい汁は油炒めをしない"
+      }
+    ],
+    "relatedIds": [
+      "noppe-niigata",
+      "noppei-mie",
+      "nara-noppei-nara",
+      "noppejiru-saga",
+      "okuzukake",
+      "kenchin-jiru-kanagawa"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/のっぺい汁"
+    ],
+    "tags": [
+      "日本料理",
+      "スープ",
+      "野菜",
+      "煮込み",
+      "あっさり",
+      "郷土料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "豚汁",
+      "味噌汁",
+      "ポタージュ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
   }
 ]
