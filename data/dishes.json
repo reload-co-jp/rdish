@@ -89114,6 +89114,7 @@
         "difference": "ポレンタはとうもろこし粥。フーフーはより弾力があり、スープに浸して食べる"
       },
       {
+        "id": "mochi",
         "name": "餅",
         "difference": "餅に近い弾力があるが、フーフーは甘くなく主食としてソースと食べる"
       }
@@ -93166,6 +93167,7 @@
         "difference": "千頁糕は層状。薄荷香糕は薄荷の香りが主役"
       },
       {
+        "id": "mochi",
         "name": "餅",
         "difference": "餅より甘く、薄荷香の菓子として食べる"
       }
@@ -117742,7 +117744,8 @@
     "orderAdvice": "秩父地域の学校給食にも登場する親しみやすい料理。埼玉県内の郷土料理店や直売所の食堂で通年味わえる。",
     "similarItems": [
       {
-        "name": "すいとん(一般)",
+        "id": "suiton",
+        "name": "すいとん",
         "difference": "一般的なすいとんと基本は同じだが、地元では手でちぎる動作から「つみっこ」と呼ばれる"
       }
     ],
@@ -117912,7 +117915,8 @@
     "orderAdvice": "田布施町周辺の郷土料理店や家庭で作られる。母乳の出を願う優しい味わいの行事食を体験したい人向け。",
     "similarItems": [
       {
-        "name": "すいとん(一般)",
+        "id": "suiton",
+        "name": "すいとん",
         "difference": "一般的なすいとんは生地を直接汁に落とすが、こちらは団子を茹でてから冷水で締めて加える"
       }
     ],
@@ -121603,7 +121607,8 @@
     "orderAdvice": "お盆の時期、福岡県内の家庭で作られてきた常備菜。現在は通年、家庭の食卓に上る。",
     "similarItems": [
       {
-        "name": "なます(一般)",
+        "id": "namasu",
+        "name": "なます",
         "difference": "一般的ななますより唐辛子の辛みが効き、南蛮貿易由来の異国情緒がある"
       }
     ],
@@ -122411,7 +122416,8 @@
     "orderAdvice": "夏場、秋田県内の家庭でお茶請けやおやつとして作られる。祝儀・不祝儀の取り回し料理としても提供される。",
     "similarItems": [
       {
-        "name": "なます(一般)",
+        "id": "namasu",
+        "name": "なます",
         "difference": "一般的ななますは酢の物だが、あさづけは米を練った生地に砂糖を加えデザート感覚で食べる"
       }
     ],
@@ -135797,7 +135803,8 @@
     "orderAdvice": "古くから初午の日に食べる習慣があるが、現在では日常食としても食されている。 郷土の味を試したい人向け。",
     "similarItems": [
       {
-        "name": "すみつかれ",
+        "id": "sumitsukare-gunma",
+        "name": "すみつかれ（群馬県）",
         "difference": "同名だが群馬県版は使う食材・味付けが異なる郷土料理"
       }
     ],
@@ -138630,7 +138637,8 @@
         "difference": "同名だが千葉県版は使う食材・味付けが異なる郷土料理"
       },
       {
-        "name": "すみつかれ",
+        "id": "sumitsukare-saitama",
+        "name": "すみつかれ（埼玉県）",
         "difference": "同名だが埼玉県版は使う食材・味付けが異なる郷土料理"
       }
     ],
@@ -139062,7 +139070,8 @@
     "orderAdvice": "ほかの地域同様、正月に食べる。 郷土の味を試したい人向け。",
     "similarItems": [
       {
-        "name": "白味噌雑煮",
+        "id": "shiromisozouni-osaka",
+        "name": "白味噌雑煮（大阪府）",
         "difference": "同名だが大阪府版は使う食材・味付けが異なる郷土料理"
       }
     ],
@@ -139316,7 +139325,8 @@
     "orderAdvice": "正月に食される行事食。 郷土の味を試したい人向け。",
     "similarItems": [
       {
-        "name": "白味噌雑煮",
+        "id": "shiromisozouni-tokushima",
+        "name": "白味噌雑煮（徳島県）",
         "difference": "同名だが徳島県版は使う食材・味付けが異なる郷土料理"
       }
     ],
@@ -140286,7 +140296,8 @@
         "difference": "同名だが千葉県版は使う食材・味付けが異なる郷土料理"
       },
       {
-        "name": "すみつかれ",
+        "id": "sumitsukare-gunma",
+        "name": "すみつかれ（群馬県）",
         "difference": "同名だが群馬県版は使う食材・味付けが異なる郷土料理"
       }
     ],
@@ -159689,56 +159700,6 @@
       "きのこ",
       "小麦",
       "煮込み",
-      "郷土料理"
-    ],
-    "reverseKeywords": [
-      "郷土料理に馴染みがない人",
-      "洋食派",
-      "こってり系が苦手"
-    ],
-    "beginnerFriendlyScore": 4,
-    "uniquenessScore": 3,
-    "heavinessScore": 2,
-    "spicinessScore": 0
-  },
-  {
-    "id": "32-2-gunma",
-    "name": "すいとん",
-    "category": "料理",
-    "regions": [
-      {
-        "country": "日本",
-        "locality": ""
-      }
-    ],
-    "summary": "昔から米と麦の二毛作が行われてきた群馬では、特に小麦粉の生産が盛ん。それゆえに、おきりこみやまんじゅうなど多様な小麦粉料理が郷土料理として親しまれている。",
-    "menuDescription": "煮干しなどで取っただし汁に、家庭にある野菜を食べやすい大きさに切って加え、煮込む。しょうゆや味噌で味を調え、水で溶いた小麦粉をスプーンなどでこねて丸め、数分間煮ると出来上がり。",
-    "whatComesOut": [
-      "小麦粉 150g",
-      "大根 60g",
-      "にんじん 40g",
-      "里いも 2個"
-    ],
-    "tasteAndTexture": [
-      "素材の味を活かした仕上がり"
-    ],
-    "orderAdvice": "に伝わる郷土料理。地元の食文化に触れてみたい人向け。",
-    "similarItems": [
-      {
-        "id": "hatto-jiru-miyagi",
-        "name": "はっと汁",
-        "difference": "はっと汁は野菜が特徴で、すいとんとは異なる"
-      }
-    ],
-    "relatedIds": [],
-    "source": [
-      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_2_gunma.html"
-    ],
-    "tags": [
-      "日本料理",
-      "小麦",
-      "煮込み",
-      "燻製",
       "郷土料理"
     ],
     "reverseKeywords": [
@@ -183829,6 +183790,280 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/koya-dofu/1.jpg"
+    ]
+  },
+  {
+    "id": "mochi",
+    "name": "餅",
+    "kana": "もち",
+    "aliases": [
+      "もち",
+      "お餅",
+      "おもち",
+      "切り餅",
+      "丸餅",
+      "角餅"
+    ],
+    "englishName": "Mochi",
+    "originalName": "餅",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "もち米を蒸してつき、粘りのある塊にした日本の伝統食品。正月の雑煮や鏡餅をはじめ、焼き餅・あんころ餅など多彩に食べられる。東日本は四角い切り餅（角餅）、西日本は丸餅が主流。",
+    "menuDescription": "蒸したもち米を杵と臼でついた、つきたての餅。焼いて醤油と海苔で磯辺焼きに、きな粉やあんこをまとわせて、またはお雑煮に入れて、もっちりとした食感をお楽しみください。",
+    "whatComesOut": [
+      "焼いてぷっくり膨らんだ四角い切り餅や丸餅",
+      "磯辺焼き（醤油と海苔）・きな粉餅・あんころ餅など",
+      "雑煮やぜんざいの中に入って",
+      "つきたての場合は柔らかく伸びる白い餅"
+    ],
+    "tasteAndTexture": [
+      "粘りが強く、よく伸びるもっちりした食感",
+      "もち米のほのかな甘み",
+      "焼くと表面がカリッと香ばしくなる",
+      "腹持ちがとてもよい"
+    ],
+    "orderAdvice": "日本人にはなじみ深い基本食材で、磯辺焼きやきな粉餅なら誰でも食べやすい。正月や餅つきイベントで食べる機会が多い。粘りが強いので、高齢者や小さな子どもは小さく切って少しずつ。",
+    "caution": "もち米を使用。喉に詰まらせる窒息事故が毎年起きているため、小さく切ってよく噛むこと。",
+    "similarItems": [
+      {
+        "id": "nian-gao",
+        "name": "年糕",
+        "difference": "中国の正月餅。うるち米で作るものは日本の餅より伸びにくく、炒め物にも使う"
+      },
+      {
+        "name": "トッポッキ",
+        "difference": "韓国の棒状の米餅を甘辛く煮た料理。餅はうるち米主体で、日本の餅ほど伸びない"
+      },
+      {
+        "id": "fufu",
+        "name": "フーフー",
+        "difference": "西アフリカのキャッサバ等をついた主食。餅に似た弾力があるが甘みがなくソースと食べる"
+      }
+    ],
+    "relatedIds": [
+      "kashiwa-mochi",
+      "botamochi",
+      "hishi-mochi",
+      "nian-gao",
+      "ozouni-tokyo"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/餅"
+    ],
+    "tags": [
+      "日本料理",
+      "米",
+      "焼き物",
+      "もちもち",
+      "伝統料理",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "パン",
+      "うどん",
+      "ご飯",
+      "クラッカー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mochi/1.jpg",
+      "/images/dishes/mochi/2.jpg",
+      "/images/dishes/mochi/3.jpg"
+    ]
+  },
+  {
+    "id": "suiton",
+    "name": "すいとん",
+    "kana": "すいとん",
+    "aliases": [
+      "水団",
+      "すいとん汁",
+      "とってなげ",
+      "つめり",
+      "とっちゃなげ汁",
+      "つめりっこ",
+      "おつゆだんご",
+      "ねじっこ"
+    ],
+    "englishName": "Suiton",
+    "originalName": "水団",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "country": "日本",
+        "prefecture": "群馬県"
+      }
+    ],
+    "summary": "小麦粉を水で練った生地を手でちぎったりスプーンで落としたりして、野菜とともに汁で煮込んだ日本の家庭料理。戦中戦後の代用食としても知られ、地方によってひっつみ・はっと・だご汁などとも呼ばれる。",
+    "menuDescription": "小麦粉の生地を手でちぎって、大根・にんじん・ごぼう・里芋などの野菜たっぷりの汁で煮込んだ素朴なすいとん。米と麦の二毛作で小麦粉料理が根付いた群馬県では、スプーンで落とした生地をみりんと醤油で調えた汁で煮る、県内全域の郷土料理として親しまれています。",
+    "whatComesOut": [
+      "椀に入った、不揃いな形の白い小麦粉団子",
+      "大根・にんじん・ごぼう・ねぎなどの野菜",
+      "醤油味または味噌味の温かい汁",
+      "鶏肉や豚肉が入ることも"
+    ],
+    "tasteAndTexture": [
+      "団子はもちもち・つるりとした食感",
+      "だしと野菜のうま味がしみたやさしい味",
+      "醤油味はあっさり、味噌味はコクがある",
+      "素朴で体が温まる"
+    ],
+    "orderAdvice": "家庭的で食べやすく、うどんや豚汁が好きなら間違いない。飲食店では郷土料理店や冬季限定メニューで出会うことが多い。群馬県では県内全域で作られ、太田市では米粉を使い、藤岡市では「とっちゃなげ汁」と呼ぶなど地域ごとに材料や呼び名が異なる。戦争体験者の中には当時を思い出すので食べないという人もいる。",
+    "caution": "小麦を使用。醤油・味噌は大豆を含む。",
+    "similarItems": [
+      {
+        "id": "hittsumi-aomori",
+        "name": "ひっつみ",
+        "difference": "青森・岩手での呼び名で、生地を薄く伸ばしてちぎる。すいとんの地域版"
+      },
+      {
+        "id": "hatto-jiru-miyagi",
+        "name": "はっと汁",
+        "difference": "宮城の郷土料理で、生地を指で薄く麺状に伸ばして入れる"
+      },
+      {
+        "id": "dangojiru-oita",
+        "name": "だんご汁",
+        "difference": "大分の郷土料理で、生地を手で平たく長く伸ばした麺状の団子を麦味噌仕立ての汁で煮る"
+      },
+      {
+        "id": "32-1-gunma",
+        "name": "おっきりこみ",
+        "difference": "同じく群馬の小麦粉料理で、幅広の麺を下茹でせず野菜と煮込む。すいとんは麺状にせず生地を落とす"
+      }
+    ],
+    "relatedIds": [
+      "hittsumi-aomori",
+      "hatto-jiru-miyagi",
+      "dangojiru-oita",
+      "tsumikko-saitama",
+      "32-1-gunma"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/すいとん",
+      "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_2_gunma.html"
+    ],
+    "tags": [
+      "日本料理",
+      "スープ",
+      "小麦",
+      "野菜",
+      "煮込み",
+      "もちもち",
+      "家庭料理",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ラーメン",
+      "パスタ",
+      "ポタージュ",
+      "チャーハン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/suiton/1.jpg",
+      "/images/dishes/suiton/2.jpg"
+    ]
+  },
+  {
+    "id": "namasu",
+    "name": "なます",
+    "kana": "なます",
+    "aliases": [
+      "膾",
+      "鱠",
+      "紅白なます",
+      "源平なます",
+      "大根なます"
+    ],
+    "englishName": "Namasu",
+    "originalName": "膾",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "細く切った大根やにんじん、魚介などを酢を基本にした調味料で和えた日本の料理。正月のおせちに入る大根とにんじんの「紅白なます」が代表的。",
+    "menuDescription": "細く切った大根とにんじんを甘酢に漬け、柚子の皮で香りを添えた紅白なます。紅白の彩りは祝いの象徴で、おせち料理の口直しとして欠かせない一品です。",
+    "whatComesOut": [
+      "小鉢に盛った大根とにんじんの細切りの酢の物",
+      "千切りの柚子皮",
+      "干し柿や菊の花が入ることも",
+      "おせちの重箱の一角に詰められて"
+    ],
+    "tasteAndTexture": [
+      "甘酢のさっぱりした酸味とほのかな甘み",
+      "大根のシャキシャキした歯ざわり",
+      "柚子のさわやかな香り",
+      "脂っこい料理の口直しになる"
+    ],
+    "orderAdvice": "酢の物が好きならまず問題なく食べられる、あっさりした副菜。正月以外でも和食店の小鉢で出る。酸っぱいものが苦手な人は少量から。",
+    "caution": "特記事項なし（地域によってピーナッツやごま、魚介を加える）。",
+    "similarItems": [
+      {
+        "id": "kaki-namasu-shimane",
+        "name": "柿なます",
+        "difference": "干し柿や柿を加えた甘みの強いなます"
+      },
+      {
+        "id": "hizunamasu-iwate",
+        "name": "氷頭なます",
+        "difference": "鮭の頭の軟骨（氷頭）を薄切りにして加えたなますで、コリコリした食感"
+      },
+      {
+        "id": "acyara-zuke-fukuoka",
+        "name": "あちゃら漬け",
+        "difference": "なますより唐辛子の辛みが効いた福岡の酢漬けで、南蛮貿易由来とされる"
+      }
+    ],
+    "relatedIds": [
+      "kaki-namasu-shimane",
+      "hizunamasu-iwate",
+      "kara-namasu-chiba",
+      "acyara-zuke-fukuoka",
+      "chouju-namasu-fukui"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/膾"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "マリネ",
+      "酸味",
+      "あっさり",
+      "祝祭料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ポテトサラダ",
+      "きんぴらごぼう",
+      "煮物",
+      "ナムル"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/namasu/1.jpg",
+      "/images/dishes/namasu/2.jpg",
+      "/images/dishes/namasu/3.jpg"
     ]
   }
 ]
