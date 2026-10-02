@@ -88357,6 +88357,7 @@
     "orderAdvice": "手で食べる場面が多い。骨付きが苦手なら部位を確認。ビールのつまみに向く。",
     "similarItems": [
       {
+        "id": "karaage",
         "name": "唐揚げ",
         "difference": "唐揚げは一口大の鶏を衣で揚げる日本料理。フランゴパッサリーニョは小さな骨付きカットとにんにくが特徴"
       },
@@ -91422,6 +91423,7 @@
         "difference": "辣子鶏は大量唐辛子と花椒の乾いた辛味。左宗棠鶏は甘辛ソースの揚げ鶏"
       },
       {
+        "id": "karaage",
         "name": "唐揚げ",
         "difference": "唐揚げは日本式の揚げ鶏。左宗棠鶏は甘辛酸っぱいソースで絡める"
       }
@@ -92396,6 +92398,7 @@
   {
     "similarItems": [
       {
+        "id": "yu-wan",
         "name": "魚丸",
         "difference": "一般の魚丸は無餡も多い。包心魚丸は肉餡入りが特徴"
       },
@@ -93006,6 +93009,7 @@
   {
     "similarItems": [
       {
+        "id": "nian-gao",
         "name": "年糕",
         "difference": "年糕は餅状の単層が多い。千頁糕は薄い層の見た目が特徴"
       },
@@ -93721,6 +93725,7 @@
   {
     "similarItems": [
       {
+        "id": "nian-gao",
         "name": "年糕",
         "difference": "年糕はもち米餅としての性格が強く、米糕は米製糕点の広い呼称"
       }
@@ -93992,6 +93997,7 @@
   {
     "similarItems": [
       {
+        "id": "pao-jiao-feng-zhua",
         "name": "泡椒鳳爪",
         "difference": "泡椒鳳爪は酸辛い漬け味。洪瀬鶏爪は甘辛い滷味寄り"
       }
@@ -94057,6 +94063,7 @@
   {
     "similarItems": [
       {
+        "id": "yu-wan",
         "name": "魚丸",
         "difference": "魚丸は球状。崇武魚巻は巻いて切る形が特徴"
       }
@@ -96139,6 +96146,7 @@
   {
     "similarItems": [
       {
+        "id": "pao-jiao-feng-zhua",
         "name": "泡椒鳳爪",
         "difference": "泡椒鳳爪は鶏爪。泡鴨爪は鴨爪で風味が濃い"
       }
@@ -103776,6 +103784,7 @@
     "caution": "魚介アレルギーに注意。",
     "similarItems": [
       {
+        "id": "shime-saba",
         "name": "しめさば",
         "difference": "しめさばは酢で締める調理法。昆布〆は昆布の旨み移しで熟成させる点が異なる。"
       }
@@ -104300,6 +104309,7 @@
     "orderAdvice": "4〜5月の旬の時期が食べ頃。掘りたてのたけのこの香りを楽しめる。",
     "similarItems": [
       {
+        "id": "wakatake-ni",
         "name": "若竹煮",
         "difference": "若竹煮はわかめと合わせるのが全国的に一般的。たけのこの味噌煮は富山特産の昆布を合わせる点が特徴。"
       },
@@ -104629,6 +104639,7 @@
         "difference": "さつま揚げは魚のすり身を成形して揚げる鹿児島発祥の練り物。すり身揚げは玉ねぎなど野菜を混ぜ込む富山風の一品。"
       },
       {
+        "id": "ganmodoki",
         "name": "がんもどき",
         "difference": "がんもどきは豆腐がベースの精進揚げ物。すり身揚げは魚のすり身が主体で味わいが異なる。"
       }
@@ -105341,6 +105352,7 @@
     "orderAdvice": "カレーの薬味としても定番。砂丘地栽培ならではのシャキシャキ感を味わいたい。",
     "similarItems": [
       {
+        "id": "fukujinzuke",
         "name": "福神漬け",
         "difference": "福神漬けは複数の野菜を醤油で漬け込む。らっきょう漬けはらっきょう単体を甘酢で漬ける点が異なる。"
       }
@@ -105464,6 +105476,7 @@
     "caution": "小豆アレルギーに注意。",
     "similarItems": [
       {
+        "id": "botamochi",
         "name": "ぼたもち",
         "difference": "一般的なぼたもちはもち米とうるち米が主体。いもぼたはさつまいもでかさ増しする点が独自。"
       }
@@ -105522,6 +105535,7 @@
     "caution": "大豆アレルギーに注意。",
     "similarItems": [
       {
+        "id": "ganmodoki",
         "name": "がんもどき",
         "difference": "がんもどきは豆腐に野菜を混ぜ込んで揚げる。こも豆腐はわらで包んだ豆腐に具を詰めて煮る点が異なる。"
       }
@@ -106790,6 +106804,7 @@
     "caution": "近年はイカナゴの不漁により価格が高騰し、入手が難しい年もある。",
     "similarItems": [
       {
+        "id": "chirimen-sansho",
         "name": "ちりめん山椒",
         "difference": "ちりめん山椒はちりめんじゃこと実山椒を炒り煮するが、くぎ煮は生のイカナゴの新子を醤油と砂糖でじっくり煮詰める"
       }
@@ -107276,6 +107291,7 @@
     "orderAdvice": "端午の節句にあたる5月から6月にかけて、東吉野村・川上村の朝市や地元の食品加工施設で購入できる。",
     "similarItems": [
       {
+        "id": "kashiwa-mochi",
         "name": "柏餅",
         "difference": "柏餅は柏の葉で包む端午の節句の餅菓子だが、でんがらは朴の葉を使い、木が自生しない地域で代替として発展した"
       },
@@ -107540,6 +107556,7 @@
         "difference": "ちまきはもち米の生地を笹で包む主食寄りの菓子だが、いばら餅は上新粉生地であんを包んだ和菓子"
       },
       {
+        "id": "kashiwa-mochi",
         "name": "柏餅",
         "difference": "柏餅は柏の葉を使うが、西日本で柏が不足していた地域ではサルトリイバラの葉が代用として広まった"
       }
@@ -107799,6 +107816,7 @@
         "difference": "ちまきはもち米やうるち米の主食系の携行食だが、笹団子はよもぎ団子であんを包んだ菓子"
       },
       {
+        "id": "kashiwa-mochi",
         "name": "柏餅",
         "difference": "柏餅は柏の葉で包み蒸さない上新粉餅だが、笹団子はよもぎ入り団子生地を笹で包んで蒸す"
       }
@@ -109537,6 +109555,7 @@
     "orderAdvice": "2〜3月の早春が旬。静岡県御殿場市・小山町の直売所やグリーン・ツーリズム協議会の体験イベントで購入・体験できる。",
     "similarItems": [
       {
+        "id": "nozawana-zuke",
         "name": "野沢菜漬け",
         "difference": "野沢菜漬けは長野の一般的な葉物漬物だが、水かけ菜は富士山の湧水をかけ流す独自栽培法の野菜を使う点が異なる"
       }
@@ -109815,6 +109834,7 @@
     "orderAdvice": "3月3日のひな祭り前後、愛知県西三河地域（岡崎市など）の和菓子店で購入できる。田植え前や秋の彼岸に作る家庭もある。",
     "similarItems": [
       {
+        "id": "hishi-mochi",
         "name": "菱餅",
         "difference": "菱餅は餅を層状に重ねた供物だが、いがまんじゅうはあん入りまんじゅうにもち米をまぶす点が異なる"
       }
@@ -110207,6 +110227,7 @@
     "orderAdvice": "4月の山椒の葉が出回る時期に京都市の乾物店・土産物店で購入できる。ご飯のお供やおにぎりの具として使うとよい。",
     "similarItems": [
       {
+        "id": "chirimen-sansho",
         "name": "ちりめん山椒",
         "difference": "ちりめん山椒は山椒の実（青山椒）を使うのが一般的だが、山椒の葉の佃煮は葉だけを使う点が異なる"
       }
@@ -110856,6 +110877,7 @@
     "caution": "特になし。",
     "similarItems": [
       {
+        "id": "kashiwa-mochi",
         "name": "柏餅",
         "difference": "柏の葉で包んだ餅であんこを包む点が異なり、木の葉形の色分け模様はない"
       }
@@ -111085,6 +111107,7 @@
     "caution": "特になし。",
     "similarItems": [
       {
+        "id": "yomogi-dango",
         "name": "よもぎ団子",
         "difference": "団子状に丸めるのが一般的で、木の葉形などの飾り切りはしない"
       }
@@ -111201,6 +111224,7 @@
     "caution": "特になし。",
     "similarItems": [
       {
+        "id": "yomogi-dango",
         "name": "よもぎ団子",
         "difference": "生地を一度こねるのが一般的で、ふたたびだんごのように蒸してから再びつく工程はない"
       }
@@ -111371,6 +111395,7 @@
     "caution": "特になし。",
     "similarItems": [
       {
+        "id": "kashiwa-mochi",
         "name": "柏餅",
         "difference": "柏の葉で包む点が異なり、がめの葉饅頭は柏が自生しない地域特有の代替として生まれた"
       }
@@ -111427,6 +111452,7 @@
     "caution": "現在は商業出荷がほぼなく入手しにくい点に留意。",
     "similarItems": [
       {
+        "id": "fukujinzuke",
         "name": "福神漬け",
         "difference": "数種の野菜を甘辛い調味液に漬ける点は似るが、やたら漬けは唐辛子でピリ辛に仕上げる"
       }
@@ -111594,6 +111620,7 @@
     "caution": "近年は禁漁の年もあり入手が難しいことがある。",
     "similarItems": [
       {
+        "id": "chirimen-sansho",
         "name": "ちりめん山椒",
         "difference": "ちりめんじゃこと山椒の実を使う佃煮で、コウナゴのくぎ煮のような釘状の見た目や生姜の風味はない"
       }
@@ -111652,6 +111679,7 @@
     "caution": "古漬けは酸味とピリ辛が強いので初めては新漬けがおすすめ。",
     "similarItems": [
       {
+        "id": "nozawana-zuke",
         "name": "野沢菜漬け",
         "difference": "長野県の野沢菜を使う漬物で、阿蘇高菜のような火山灰土壌由来の風味や高菜飯文化はない"
       }
@@ -111767,6 +111795,7 @@
     "caution": "特になし。",
     "similarItems": [
       {
+        "id": "botamochi",
         "name": "ぼたもち",
         "difference": "呼び名は春（牡丹）と秋（萩）の違いで、材料や作り方はほぼ同じ"
       }
@@ -111942,6 +111971,7 @@
     "caution": "塩分が高めなので、塩分制限がある方は量に注意。",
     "similarItems": [
       {
+        "id": "nozawana-zuke",
         "name": "野沢菜漬け",
         "difference": "野沢菜漬けは長野の青菜が主役で、松阪赤菜のような赤みは出ない"
       }
@@ -112122,6 +112152,7 @@
     "caution": "特になし。",
     "similarItems": [
       {
+        "id": "kinpira-gobo",
         "name": "きんぴらごぼう",
         "difference": "きんぴらごぼうは根だけを使い甘辛く炒めるが、若ごぼうの炒め煮は葉や茎まで一緒にだしで煮含める"
       }
@@ -112180,6 +112211,7 @@
     "caution": "もち米粉を使用しているため、喉に詰まらせないよう小さく切って食べるのが望ましい。",
     "similarItems": [
       {
+        "id": "hishi-mochi",
         "name": "菱餅",
         "difference": "菱餅は紅白緑の餅を重ねた平たい形だが、うずまきもちは渦巻き状に巻いた棒状で切り分けて食べる"
       }
@@ -112842,6 +112874,7 @@
     "caution": "特になし（朴の葉は食べずに外す）。",
     "similarItems": [
       {
+        "id": "kashiwa-mochi",
         "name": "柏餅",
         "difference": "柏餅はカシワやサルトリイバラの葉を使うが、ほう葉巻は標高の高い木曽地域ならではの朴の葉を使う"
       }
@@ -112963,6 +112996,7 @@
     "caution": "特になし。",
     "similarItems": [
       {
+        "id": "wakatake-ni",
         "name": "若竹煮",
         "difference": "若竹煮は真竹やわかめを使うことが多いが、淡竹とエンドウの煮物は淡竹とエンドウ豆の組み合わせが特徴"
       }
@@ -113506,6 +113540,7 @@
     "orderAdvice": "5月5日の端午の節句前後に淡路地域の和菓子店や道の駅で購入できる。地域による呼び名の違いも楽しみたい。",
     "similarItems": [
       {
+        "id": "kashiwa-mochi",
         "name": "柏餅",
         "difference": "全国的には柏の葉を使うが、兵庫県淡路ではサルトリイバラの葉を代用"
       }
@@ -115538,6 +115573,7 @@
     "caution": "塩分が高いため摂り過ぎに注意。魚アレルギーにも注意。",
     "similarItems": [
       {
+        "id": "shime-saba",
         "name": "しめさば",
         "difference": "しめさばは酢で締めるだけだが、へしこは塩漬け後に糠漬けで長期発酵させる"
       }
@@ -118382,6 +118418,7 @@
     "orderAdvice": "夏の端境期に食べられてきた郷土料理。高知県内のスーパーや直売所で下処理済みの茎も購入可能。",
     "similarItems": [
       {
+        "id": "kinpira-gobo",
         "name": "きんぴらごぼう",
         "difference": "ごぼうの代わりにさつまいもの茎を使う点が異なり、より独特なシャキシャキ感がある"
       }
@@ -125083,6 +125120,7 @@
     "orderAdvice": "秋から翌春の収穫期、愛知県愛西市周辺の家庭や直売所で提供。正月や慶事の縁起物としても親しまれる。",
     "similarItems": [
       {
+        "id": "kinpira-gobo",
         "name": "きんぴらごぼう",
         "difference": "きんぴらは炒め物だが、れんこんの煮物は出汁でじっくり煮含める"
       }
@@ -131779,6 +131817,7 @@
     "orderAdvice": "正月やハレの日、石川県能登地域の家庭で大量に作られる。能登伝統野菜のブランド食材を使ったバージョンも味わいたい人向け。",
     "similarItems": [
       {
+        "id": "kinpira-gobo",
         "name": "きんぴらごぼう",
         "difference": "きんぴらより具材の種類が多く、正月やハレの日の行事食として作られる"
       }
@@ -173038,6 +173077,7 @@
         "difference": "焼き麩はグルテンを焼いて作る。油麩は同じ生地を油で揚げるため香ばしさとコクが強い"
       },
       {
+        "id": "koya-dofu",
         "name": "高野豆腐",
         "difference": "高野豆腐は大豆由来の凍結乾燥食品。油麩は小麦グルテンが原料で食感も異なる"
       }
@@ -173098,6 +173138,7 @@
     "orderAdvice": "高野豆腐と食べ比べたい人や郷土色の強い保存食材に興味がある人向け。高野豆腐のふわっとした食感を期待すると硬さに驚くことがある。",
     "similarItems": [
       {
+        "id": "koya-dofu",
         "name": "高野豆腐",
         "difference": "高野豆腐は湯で溶かしてから乾燥させる西日本の製法。岩出山凍り豆腐は自然乾燥のみで作り硬めの食感になる"
       }
@@ -176801,6 +176842,7 @@
     "caution": "沖縄で栽培される近縁種ヒハツモドキ（ピパーチ）とは別種で、風味や辛味の強さが異なる。",
     "similarItems": [
       {
+        "id": "black-pepper",
         "name": "黒コショウ",
         "difference": "黒コショウは丸い粒の実。ヒハツは松かさ状の果穂で、より甘く複雑な香りを持つ"
       },
@@ -176879,6 +176921,7 @@
     "caution": "ウルシ科でカシューナッツやマンゴーの仲間にあたるため、これらにアレルギーがある場合は注意。アメリカでは食品としてのGRAS認証がなく、大量摂取は避けるべきとされる。",
     "similarItems": [
       {
+        "id": "black-pepper",
         "name": "黒コショウ",
         "difference": "黒コショウはコショウ科の実で強い辛味を持つ。ピンクペッパーはウルシ科の実で辛味はなく甘酸っぱい香りが中心"
       },
@@ -182463,5 +182506,1329 @@
     "heavinessScore": 1,
     "spicinessScore": 0,
     "images": []
+  },
+  {
+    "id": "kashiwa-mochi",
+    "name": "柏餅",
+    "kana": "かしわもち",
+    "aliases": [
+      "かしわもち",
+      "柏もち"
+    ],
+    "englishName": "Kashiwa mochi",
+    "originalName": "柏餅",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "上新粉で作った平たい餅に餡をはさんで二つ折りにし、カシワの葉で包んだ和菓子。5月5日の端午の節句に食べる行事菓子として知られる。",
+    "menuDescription": "上新粉の餅でこし餡やつぶ餡、味噌餡を包み、柏の葉でくるんで蒸し上げた端午の節句の和菓子。新芽が出るまで古い葉が落ちない柏にあやかり、子孫繁栄の願いが込められています。",
+    "whatComesOut": [
+      "柏の葉に包まれた半月形の白い餅（葉は食べない）",
+      "中にこし餡・つぶ餡・味噌餡など",
+      "よもぎ入りの緑色の餅の場合もある",
+      "緑茶が添えられることが多い"
+    ],
+    "tasteAndTexture": [
+      "上新粉の餅はもっちりしつつ歯切れがよい",
+      "柏の葉の爽やかな香りが移っている",
+      "餡のやさしい甘み。味噌餡は甘じょっぱい",
+      "1個でほどよい食べごたえ"
+    ],
+    "orderAdvice": "和菓子店やスーパーで4〜5月に多く出回る季節の定番。甘さは控えめで、餅菓子が初めての人にも食べやすい。葉ははがして食べる。西日本ではサルトリイバラの葉で包む地域もある。",
+    "caution": "米粉・小豆を使用。味噌餡は大豆を含む。",
+    "similarItems": [
+      {
+        "id": "kashiwa-mochi-fukui",
+        "name": "柏餅（福井県）",
+        "difference": "福井県の地域版。基本の柏餅に対し、地域独自の葉や餡の使い方がある"
+      },
+      {
+        "id": "ibara-mochi",
+        "name": "いばら餅",
+        "difference": "いばら餅はサルトリイバラの葉で包む西日本の餅菓子。柏餅はカシワの葉を使う"
+      },
+      {
+        "id": "sasa-dango",
+        "name": "笹団子",
+        "difference": "笹団子はよもぎ餅を笹の葉で包む新潟の餅菓子。柏餅は上新粉の白い餅が基本"
+      }
+    ],
+    "relatedIds": [
+      "kashiwa-mochi-fukui",
+      "kashiwa-mochi-yamaguchi",
+      "kashiwa-mochi-shimane",
+      "ibara-mochi",
+      "sasa-dango"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/柏餅"
+    ],
+    "tags": [
+      "日本料理",
+      "菓子",
+      "米",
+      "豆類",
+      "蒸し料理",
+      "もちもち",
+      "季節料理",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "洋菓子",
+      "チョコレートケーキ",
+      "クッキー",
+      "せんべい"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kashiwa-mochi/1.jpg",
+      "/images/dishes/kashiwa-mochi/2.jpg",
+      "/images/dishes/kashiwa-mochi/3.jpg"
+    ]
+  },
+  {
+    "id": "kinpira-gobo",
+    "name": "きんぴらごぼう",
+    "kana": "きんぴらごぼう",
+    "aliases": [
+      "金平牛蒡",
+      "きんぴら",
+      "金平"
+    ],
+    "englishName": "Kinpira gobo",
+    "originalName": "金平牛蒡",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "細切りにしたごぼう（とニンジン）をごま油で炒め、醤油・砂糖・みりんで甘辛く炒め煮にし、唐辛子で辛みを効かせた日本の家庭的なおかず。",
+    "menuDescription": "細く切ったごぼうとにんじんをごま油で炒め、甘辛く仕上げた定番の惣菜。唐辛子のほどよい辛みと白ごまの香ばしさが、ご飯やお酒によく合います。",
+    "whatComesOut": [
+      "小鉢に盛られた細切りのごぼうとにんじんの炒め煮",
+      "上に振られた白ごま",
+      "輪切り唐辛子が混ざっていることも",
+      "定食の副菜や居酒屋のお通しとして出ることが多い"
+    ],
+    "tasteAndTexture": [
+      "醤油と砂糖の甘辛い味付け",
+      "ごぼうのシャキシャキした歯ごたえと土の香り",
+      "ごま油と炒りごまの香ばしさ",
+      "唐辛子のピリッとした後味"
+    ],
+    "orderAdvice": "和食の副菜として非常にポピュラーで、クセが少なく誰でも食べやすい。根菜の食感が好きなら間違いない。辛いものが苦手なら唐辛子の量を確認するとよい。",
+    "caution": "醤油（小麦・大豆）、ごまを使用。",
+    "similarItems": [
+      {
+        "id": "renkon-no-kinpira-ibaraki",
+        "name": "れんこんのきんぴら",
+        "difference": "同じ甘辛味の炒め煮だが、ごぼうの代わりにれんこんを使い、シャキッとした食感が強い"
+      },
+      {
+        "id": "takuan-no-kinpira-kagawa",
+        "name": "たくあんのきんぴら",
+        "difference": "古漬けのたくあんを使ったきんぴらで、塩気と酸味がある"
+      },
+      {
+        "id": "waka-gobo-no-itameni-osaka",
+        "name": "若ごぼうの炒め煮",
+        "difference": "大阪の若ごぼうを葉や茎ごと炒め煮にしたもの。きんぴらごぼうは根を細切りにする"
+      }
+    ],
+    "relatedIds": [
+      "renkon-no-kinpira-ibaraki",
+      "takuan-no-kinpira-kagawa",
+      "waka-gobo-no-itameni-osaka",
+      "kurumi-gobo-shiga"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/きんぴら"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "炒め物",
+      "ピリ辛",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ポテトサラダ",
+      "茶碗蒸し",
+      "冷奴",
+      "卵焼き"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/kinpira-gobo/1.jpg"
+    ]
+  },
+  {
+    "id": "chirimen-sansho",
+    "name": "ちりめん山椒",
+    "kana": "ちりめんさんしょう",
+    "aliases": [
+      "山椒ちりめん",
+      "じゃこ山椒",
+      "山椒じゃこ"
+    ],
+    "englishName": "Chirimen sansho",
+    "originalName": "ちりめん山椒",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "京都府"
+      }
+    ],
+    "summary": "ちりめんじゃこと山椒の実を醤油や酒で炊き合わせた京都名物の佃煮風のおかず。ご飯のお供や土産物として定番。",
+    "menuDescription": "上質なちりめんじゃこと実山椒を、醤油やみりんでふっくらと炊き上げた京の味。山椒のさわやかな香りとしびれる辛みが、炊きたてのご飯やお茶漬けによく合います。",
+    "whatComesOut": [
+      "小皿に盛られた、山椒の実が混ざった茶色いちりめんじゃこ",
+      "白いご飯やお茶漬けの上にのせて出ることも",
+      "土産用は袋や容器入り"
+    ],
+    "tasteAndTexture": [
+      "じゃこのうま味と醤油のほどよい塩気",
+      "実山椒のさわやかな香りと舌がしびれるような辛み",
+      "しっとり柔らかく炊いたものから、パラッと乾いたものまで店ごとに違う",
+      "少量でご飯が進む濃いめの味"
+    ],
+    "orderAdvice": "京都の料理店や土産店で定番。山椒の香りが好きなら満足度が高い。山椒のしびれが苦手な人は少量から。ご飯にのせて食べるのが一番わかりやすい楽しみ方。",
+    "caution": "魚（いわし類の稚魚）、醤油（小麦・大豆）を使用。",
+    "similarItems": [
+      {
+        "id": "sansho-no-ha-no-tsukudani",
+        "name": "山椒の葉の佃煮",
+        "difference": "山椒の葉を佃煮にしたもの。ちりめん山椒はじゃこが主役で山椒の実を加える"
+      },
+      {
+        "id": "ikanago-no-kugini",
+        "name": "いかなごのくぎ煮",
+        "difference": "いかなごの稚魚を甘辛く炊いた兵庫の佃煮。ちりめん山椒より甘みが強く、山椒は必須ではない"
+      }
+    ],
+    "relatedIds": [
+      "sansho-no-ha-no-tsukudani",
+      "ikanago-no-kugini",
+      "kounago-no-kugini-mie"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ちりめん山椒"
+    ],
+    "tags": [
+      "日本料理",
+      "関西",
+      "調味料",
+      "魚介",
+      "スパイス",
+      "煮込み",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ふりかけ",
+      "鮭フレーク",
+      "梅干し",
+      "のりの佃煮"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "nozawana-zuke",
+    "name": "野沢菜漬け",
+    "kana": "のざわなづけ",
+    "aliases": [
+      "野沢菜漬",
+      "お葉漬け"
+    ],
+    "englishName": "Nozawana-zuke",
+    "originalName": "野沢菜漬け",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "長野県"
+      }
+    ],
+    "summary": "長野県野沢温泉村発祥のアブラナ科の葉野菜・野沢菜を、葉と茎ごと塩や醤油で漬けた漬物。日本三大漬菜のひとつ。",
+    "menuDescription": "信州の冬の味覚、野沢菜を葉も茎も丸ごと漬け込んだ伝統の漬物。シャキシャキとした歯ざわりとほどよい塩気で、お茶請けやご飯のお供に欠かせない一品です。",
+    "whatComesOut": [
+      "食べやすい長さに切った緑色の葉と茎の漬物",
+      "小鉢や漬物皿に盛られて",
+      "古漬けは飴色になり、炒め物やおやきの具に使われることも",
+      "お茶請けとして緑茶と一緒に"
+    ],
+    "tasteAndTexture": [
+      "茎のシャキシャキとした歯ざわり",
+      "塩や醤油のほどよい塩気と青菜のさわやかな風味",
+      "漬け込むほど乳酸発酵による酸味が出る",
+      "唐辛子入りはピリッと辛い"
+    ],
+    "orderAdvice": "長野の旅館や食堂でまず出てくる定番の漬物で、クセが少なく食べやすい。浅漬けは青々とした味、古漬けは酸味が強いので、好みで選ぶとよい。",
+    "caution": "塩分が多め。醤油漬けは小麦・大豆を含む。",
+    "similarItems": [
+      {
+        "id": "aso-takana-zuke-kumamoto",
+        "name": "阿蘇高菜漬け",
+        "difference": "高菜を漬けた九州の漬物で、ピリッとした辛みがある。野沢菜漬けは辛みが少なくあっさり"
+      },
+      {
+        "id": "nozawana",
+        "name": "野沢菜",
+        "difference": "野沢菜漬けの原料となる葉野菜そのもの"
+      },
+      {
+        "name": "広島菜漬け",
+        "difference": "日本三大漬菜のひとつで、広島菜を漬けたもの。葉が幅広く独特の辛みがある"
+      }
+    ],
+    "relatedIds": [
+      "nozawana",
+      "aso-takana-zuke-kumamoto",
+      "mizukakena-no-tsukemono",
+      "yasai-no-tsukemono-mie"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/野沢菜"
+    ],
+    "tags": [
+      "日本料理",
+      "中部",
+      "前菜",
+      "野菜",
+      "発酵",
+      "あっさり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ポテトサラダ",
+      "マリネ",
+      "ピクルス",
+      "コールスロー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "karaage",
+    "name": "唐揚げ",
+    "kana": "からあげ",
+    "aliases": [
+      "から揚げ",
+      "空揚げ",
+      "鶏の唐揚げ",
+      "からあげ"
+    ],
+    "englishName": "Karaage",
+    "originalName": "唐揚げ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "醤油・酒・生姜などで下味をつけた鶏肉に小麦粉や片栗粉をまぶし、油で揚げた日本の揚げ物。本来食材は問わないが、単に「唐揚げ」といえば鶏肉を指すことが多い。",
+    "menuDescription": "醤油と生姜、にんにくでしっかり下味をつけた鶏もも肉を、カラッと香ばしく揚げた定番の唐揚げ。外はサクッと、中はジューシー。レモンを搾ってどうぞ。",
+    "whatComesOut": [
+      "ひと口大の鶏肉の揚げ物（数個〜山盛り）",
+      "くし形のレモン",
+      "千切りキャベツやパセリの付け合わせ",
+      "店によってはマヨネーズが添えられる"
+    ],
+    "tasteAndTexture": [
+      "衣は香ばしくカリッとした食感",
+      "中の鶏もも肉は肉汁があふれるほどジューシー",
+      "醤油・生姜・にんにくの下味がしっかり効いている",
+      "レモンを搾るとさっぱりする"
+    ],
+    "orderAdvice": "居酒屋・定食屋・弁当の大定番で、日本の揚げ物の中でも最も外れにくい一品。子どもから大人まで好まれる。脂っこいものを控えたいなら、むね肉や少量の盛り合わせを選ぶとよい。",
+    "caution": "小麦・醤油（大豆）を使用。揚げ物のため脂質が多い。",
+    "similarItems": [
+      {
+        "id": "frango-a-passarinho",
+        "name": "フランゴ・ア・パサリーニョ",
+        "difference": "ブラジルの小さく切った鶏の揚げ物で、にんにくとハーブを効かせる。唐揚げは醤油と生姜の下味が基本"
+      },
+      {
+        "id": "general-tso-chicken",
+        "name": "左宗棠鶏",
+        "difference": "揚げた鶏肉に甘辛いソースを絡めたアメリカ式中華。唐揚げはソースを絡めずそのまま食べる"
+      },
+      {
+        "name": "竜田揚げ",
+        "difference": "醤油ベースの下味をつけ片栗粉をまぶして揚げたもので、衣が白くまだらになる。現在は唐揚げと区別しないこともある"
+      }
+    ],
+    "relatedIds": [
+      "frango-a-passarinho",
+      "general-tso-chicken",
+      "nebuto-no-karaage-hiroshima",
+      "gaccho-no-karaage"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/唐揚げ"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "鶏肉",
+      "揚げ物",
+      "ジューシー",
+      "香ばしい",
+      "大衆料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "蒸し鶏",
+      "サラダチキン",
+      "焼き魚",
+      "冷奴"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/karaage/1.jpg",
+      "/images/dishes/karaage/2.jpg",
+      "/images/dishes/karaage/3.jpg"
+    ]
+  },
+  {
+    "id": "yu-wan",
+    "name": "魚丸",
+    "kana": "ゆーわん",
+    "aliases": [
+      "フィッシュボール",
+      "魚団子",
+      "ユーワン",
+      "鱼丸"
+    ],
+    "englishName": "Fish ball",
+    "originalName": "魚丸（yúwán）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "country": "台湾"
+      },
+      {
+        "country": "香港"
+      },
+      {
+        "country": "シンガポール"
+      }
+    ],
+    "summary": "魚のすり身を丸めて茹でたり揚げたりした団子。中国南部・台湾・香港・東南アジアで広く食べられ、スープや麺の具、屋台の串物として親しまれる。",
+    "menuDescription": "白身魚のすり身を練り上げ、ぷりぷりの弾力に仕上げた魚団子。澄んだスープに浮かべても、香港式にカレーソースで煮込んでも美味しくいただけます。",
+    "whatComesOut": [
+      "白くつるんとした丸い魚団子（数個）",
+      "澄んだスープや麺の具として",
+      "香港の屋台では串に刺したカレー魚丸",
+      "福州式は中に豚肉餡が入っていることも"
+    ],
+    "tasteAndTexture": [
+      "跳ね返るようなぷりぷり・弾力のある食感",
+      "魚のうま味が凝縮された淡泊な味",
+      "スープやソースの味をよく吸う",
+      "揚げたものは表面が香ばしい"
+    ],
+    "orderAdvice": "麺やスープの具、屋台のおやつとして手軽に試せる。クセが少なく、かまぼこやつみれが好きならまず気に入る。弾力の強い食感が苦手な人には少し合わないかもしれない。",
+    "caution": "魚を使用。製品によっては小麦・でんぷん・卵白を含む。",
+    "similarItems": [
+      {
+        "id": "bao-xin-yu-wan",
+        "name": "包心魚丸",
+        "difference": "中に肉餡を包んだ福州式の魚丸。普通の魚丸は中まですり身だけ"
+      },
+      {
+        "id": "tsumireni-shimane",
+        "name": "つみれ煮",
+        "difference": "日本のつみれはいわし等を使い、魚丸より柔らかくふんわりした食感"
+      },
+      {
+        "id": "chongwu-yu-juan",
+        "name": "崇武魚巻",
+        "difference": "すり身を棒状に巻いて蒸した福建の魚練り製品。魚丸は球形"
+      }
+    ],
+    "relatedIds": [
+      "bao-xin-yu-wan",
+      "chongwu-yu-juan",
+      "tsumireni-shimane"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Fish_ball"
+    ],
+    "tags": [
+      "中国料理",
+      "軽食",
+      "魚介",
+      "煮込み",
+      "あっさり",
+      "屋台料理",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "焼き魚",
+      "唐揚げ",
+      "肉団子",
+      "ソーセージ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/yu-wan/1.jpg",
+      "/images/dishes/yu-wan/2.jpg",
+      "/images/dishes/yu-wan/3.jpg"
+    ]
+  },
+  {
+    "id": "nian-gao",
+    "name": "年糕",
+    "kana": "にぇんがお",
+    "aliases": [
+      "ニェンガオ",
+      "ねんこう",
+      "中国餅",
+      "年糕炒め"
+    ],
+    "englishName": "Nian gao",
+    "originalName": "年糕（niángāo）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "中国の旧正月（春節）に食べる餅。「年高（一年ごとに向上する）」と同音で縁起物とされる。甘い蒸し菓子タイプと、うるち米で作り炒め物やスープにする料理タイプがある。",
+    "menuDescription": "春節に欠かせない縁起物の中国餅。上海や寧波では薄切りの白い年糕を豚肉や青菜と炒め、広東では黒糖入りの甘い蒸し年糕を切り分けて焼き、新年を祝います。",
+    "whatComesOut": [
+      "炒め物の場合：楕円形の薄切り白餅と豚肉・白菜などの炒め",
+      "甘い年糕の場合：茶色い黒糖味の蒸し餅を四角く切ったもの",
+      "甘い年糕は卵をつけて焼いて出されることも",
+      "スープに入れた年糕湯の場合も"
+    ],
+    "tasteAndTexture": [
+      "うるち米の年糕は日本の餅より伸びにくく、しっかりした弾力",
+      "炒め年糕は醤油ベースで具のうま味をまとう",
+      "甘い年糕はもっちりねっとりで黒糖のコク",
+      "焼くと表面が香ばしくなる"
+    ],
+    "orderAdvice": "上海料理店の炒め年糕は主食代わりに頼みやすい定番。餅好きなら間違いない。甘い年糕は春節シーズンに出回る季節菓子。どちらのタイプか確認してから注文するとよい。",
+    "caution": "米を使用。炒め物は醤油（小麦・大豆）を含む。喉に詰まらないようよく噛むこと。",
+    "similarItems": [
+      {
+        "name": "トッポッキ",
+        "difference": "韓国の棒状の米餅をコチュジャンで甘辛く煮た料理。年糕炒めは醤油ベースで辛くない"
+      },
+      {
+        "id": "qian-ye-gao",
+        "name": "千層糕",
+        "difference": "層状に重ねて蒸した餅菓子。年糕は春節の縁起物として作られる"
+      },
+      {
+        "id": "mi-gao",
+        "name": "米糕",
+        "difference": "米糕はもち米ご飯を蒸した台湾のおこわ風料理。年糕は米を練って餅状にしたもの"
+      }
+    ],
+    "relatedIds": [
+      "qian-ye-gao",
+      "mi-gao"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/年糕"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "米",
+      "炒め物",
+      "もちもち",
+      "祝祭料理",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "チャーハン",
+      "焼きそば",
+      "パン",
+      "ふわふわの蒸しパン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/nian-gao/1.jpg",
+      "/images/dishes/nian-gao/2.jpg",
+      "/images/dishes/nian-gao/3.jpg"
+    ]
+  },
+  {
+    "id": "pao-jiao-feng-zhua",
+    "name": "泡椒鳳爪",
+    "kana": "ぱおじゃおふぉんじゃお",
+    "aliases": [
+      "パオジャオフォンジャオ",
+      "泡椒鶏爪",
+      "鶏足の唐辛子漬け",
+      "泡椒凤爪"
+    ],
+    "englishName": "Pickled pepper chicken feet",
+    "originalName": "泡椒凤爪（pàojiāo fèngzhǎo）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川・重慶"
+      }
+    ],
+    "summary": "茹でた鶏の足を、四川の発酵唐辛子「泡椒」の漬け汁に浸した冷菜。酸っぱ辛い味とコリコリした食感で、ビールのつまみやおやつとして人気。",
+    "menuDescription": "生姜と酒で下茹でした鶏の足を冷水で引き締め、泡椒（四川の乳酸発酵唐辛子）と山椒の漬け汁にじっくり漬け込んだ四川の冷菜。キリッとした酸味と辛みで、ビールが止まりません。",
+    "whatComesOut": [
+      "白っぽい鶏の足（爪先を切り落とし半分に切ったもの）",
+      "一緒に漬けた黄緑色の泡椒（発酵唐辛子）",
+      "セロリや生姜などの香味野菜",
+      "冷たい状態で器に盛られる"
+    ],
+    "tasteAndTexture": [
+      "酢のような酸味とキリッとした唐辛子の辛さ",
+      "皮と軟骨のコリコリ・プルプルした食感",
+      "骨が多く、しゃぶりながら食べる",
+      "冷たくさっぱりしている"
+    ],
+    "orderAdvice": "中国ではパック入りのおやつとしても定番。点心の豉汁鳳爪（蒸し鶏足）より見た目がそのままで、骨をしゃぶって食べるスタイルに抵抗がなければ楽しめる。酸っぱ辛い味が苦手なら避けたほうがよい。",
+    "caution": "鶏肉を使用。骨が多いので注意。辛みが強い。",
+    "similarItems": [
+      {
+        "id": "hong-lai-ji-zhua",
+        "name": "鴻来鶏爪",
+        "difference": "別の味付けの鶏足料理。泡椒鳳爪は発酵唐辛子の酸っぱ辛い漬け汁が特徴"
+      },
+      {
+        "id": "pao-ya-zhua",
+        "name": "泡鴨爪",
+        "difference": "鶏ではなくアヒルの足を同様に泡椒で漬けたもの。アヒルのほうが大きく肉厚"
+      },
+      {
+        "name": "豉汁鳳爪",
+        "difference": "香港・広東の点心で、揚げてから豆豉ソースで蒸し煮にした温かい鶏足。泡椒鳳爪は冷菜"
+      }
+    ],
+    "relatedIds": [
+      "hong-lai-ji-zhua",
+      "pao-ya-zhua"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Chicken_feet"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "前菜",
+      "鶏肉",
+      "発酵",
+      "酸味",
+      "ピリ辛",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "焼き鳥",
+      "唐揚げ",
+      "蒸し鶏",
+      "手羽先"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": []
+  },
+  {
+    "id": "shime-saba",
+    "name": "しめさば",
+    "kana": "しめさば",
+    "aliases": [
+      "〆鯖",
+      "締め鯖",
+      "しめ鯖",
+      "きずし"
+    ],
+    "englishName": "Cured mackerel",
+    "originalName": "しめさば",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "三枚におろした鯖に塩を当てて水分を抜き、酢に漬けて締めた日本の魚料理。刺身のように切って食べるほか、鯖寿司やバッテラの材料にもなる。",
+    "menuDescription": "脂ののった鯖を塩でしっかり締め、米酢に漬けてうま味を引き出した一品。ほどよい酸味と鯖の脂の甘みが調和し、生姜醤油でさっぱりお召し上がりいただけます。",
+    "whatComesOut": [
+      "皮目が銀色に光る、切り身にした鯖の刺身状のもの",
+      "大葉や大根のつま",
+      "おろし生姜と醤油",
+      "炙りしめさばは皮目に焼き目がついている"
+    ],
+    "tasteAndTexture": [
+      "酢の酸味と鯖の脂のコク",
+      "身は締まってねっとりした食感",
+      "中心が生に近い浅締めから、白くなるまで締めたものまで店で違う",
+      "生姜を添えると青魚の香りが和らぐ"
+    ],
+    "orderAdvice": "居酒屋の定番で、刺身より青魚の脂を楽しめる一品。酢の酸味が好きならおすすめ。鯖の青魚らしい香りが苦手な人や、アニサキスが気になる人は炙りしめさばや加熱料理を選ぶとよい。",
+    "caution": "鯖（青魚）を生に近い状態で使用。酢で締めてもアニサキスは死滅しないため、冷凍処理されたものが安心。さばアレルギー・ヒスタミン中毒に注意。",
+    "similarItems": [
+      {
+        "id": "konbujime",
+        "name": "昆布締め",
+        "difference": "昆布締めは魚を昆布で挟んでうま味を移す。しめさばは塩と酢で締めて酸味をつける"
+      },
+      {
+        "id": "heshiko-fukui",
+        "name": "へしこ",
+        "difference": "へしこは鯖を塩漬け後ぬか漬けにした長期発酵食品。しめさばは酢で短期間締める"
+      },
+      {
+        "id": "saba-no-bozushi-shiga",
+        "name": "鯖の棒寿司",
+        "difference": "しめさばを酢飯にのせて棒状に押した寿司"
+      }
+    ],
+    "relatedIds": [
+      "konbujime",
+      "heshiko-fukui",
+      "saba-no-bozushi-shiga",
+      "saba-zushi-okayama"
+    ],
+    "source": [
+      "https://shun-gate.com/en/recipe/recipe_75/"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "魚介",
+      "マリネ",
+      "生食",
+      "酸味",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "焼き魚",
+      "煮魚",
+      "白身魚の刺身",
+      "唐揚げ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/shime-saba/1.jpg",
+      "/images/dishes/shime-saba/2.jpg"
+    ]
+  },
+  {
+    "id": "wakatake-ni",
+    "name": "若竹煮",
+    "kana": "わかたけに",
+    "aliases": [
+      "わかたけ煮",
+      "たけのことわかめの煮物"
+    ],
+    "englishName": "Wakatake-ni",
+    "originalName": "若竹煮",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "新たけのこと新わかめをだしで炊き合わせた日本の煮物。たけのこが採れる春の味覚で、木の芽を添えて出される。",
+    "menuDescription": "旬の朝掘りたけのこと柔らかな新わかめを、かつおと昆布のだしで上品に炊き合わせた春の煮物。木の芽の香りとともに、季節の味わいをお楽しみください。",
+    "whatComesOut": [
+      "器に盛られた、くし形や輪切りのたけのこ",
+      "柔らかく煮たわかめ",
+      "上にのせた木の芽（山椒の若葉）",
+      "澄んだ薄色のだし"
+    ],
+    "tasteAndTexture": [
+      "だしのきいた上品で薄味の煮汁",
+      "たけのこのサクッとした歯ごたえとほのかな甘み",
+      "わかめのとろりとした柔らかさと磯の香り",
+      "木の芽のさわやかな香り"
+    ],
+    "orderAdvice": "春（3〜5月）の和食店で季節の一品として出る定番。薄味で胃にやさしく、和食の繊細なだしの味を知るのに最適。しっかりした味付けを好む人には物足りない場合も。",
+    "caution": "特記事項なし（だしに魚介を使用）。",
+    "similarItems": [
+      {
+        "id": "takenoko-no-misoni",
+        "name": "たけのこの味噌煮",
+        "difference": "たけのこを味噌で煮たもの。若竹煮はだしと薄口醤油の澄んだ味"
+      },
+      {
+        "id": "takenoko-no-kinome-ae",
+        "name": "たけのこの木の芽和え",
+        "difference": "茹でたけのこを木の芽味噌で和えたもの。若竹煮は煮汁ごと食べる煮物"
+      },
+      {
+        "id": "hachiku-to-endo-no-nimono-kochi",
+        "name": "淡竹とえんどうの煮物",
+        "difference": "淡竹とえんどう豆を煮た高知の煮物。若竹煮は孟宗竹のたけのことわかめの組み合わせ"
+      }
+    ],
+    "relatedIds": [
+      "takenoko-no-misoni",
+      "takenoko-no-kinome-ae",
+      "hachiku-to-endo-no-nimono-kochi",
+      "takenoko-gohan-miyagi"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/若竹煮"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "煮込み",
+      "あっさり",
+      "季節料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "肉じゃが",
+      "豚の角煮",
+      "唐揚げ",
+      "濃い味の煮物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "ganmodoki",
+    "name": "がんもどき",
+    "kana": "がんもどき",
+    "aliases": [
+      "飛竜頭",
+      "ひろうす",
+      "ひりょうず",
+      "がんも"
+    ],
+    "englishName": "Ganmodoki",
+    "originalName": "がんもどき",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "崩した豆腐に山芋やにんじん、ひじき、ぎんなんなどを混ぜて丸め、油で揚げた日本の豆腐加工食品。関西では「ひろうす（飛竜頭）」と呼ばれる。",
+    "menuDescription": "水切りした豆腐に山芋をつなぎに、にんじんやひじきなどの具を混ぜてふっくらと揚げたがんもどき。だしをたっぷり含ませた煮物やおでんで、じゅわっと広がるうま味をお楽しみください。",
+    "whatComesOut": [
+      "丸く平たい、きつね色の揚げ豆腐",
+      "煮物やおでんの具としてだしに浸かった状態",
+      "中にはにんじん・ひじき・ぎんなんなどの具",
+      "焼いて生姜醤油を添えることも"
+    ],
+    "tasteAndTexture": [
+      "ふわっとした柔らかい食感",
+      "噛むとしみ込んだだしがじゅわっとあふれる",
+      "豆腐のやさしい甘みと具の彩り・食感",
+      "揚げ油のコク"
+    ],
+    "orderAdvice": "おでんや煮物の定番具材で、クセがなく食べやすい。肉を使わない精進料理由来の食材で、ベジタリアンにも比較的選びやすい（だしは要確認）。",
+    "caution": "大豆を使用。具材にぎんなん・ごまなどを含むことがある。",
+    "similarItems": [
+      {
+        "id": "surimi-age",
+        "name": "すり身揚げ",
+        "difference": "魚のすり身を揚げたもの。がんもどきは豆腐が主原料"
+      },
+      {
+        "id": "komo-toufu",
+        "name": "こも豆腐",
+        "difference": "豆腐をこもで巻いて茹でたもの。がんもどきは揚げる"
+      },
+      {
+        "name": "厚揚げ",
+        "difference": "厚揚げは豆腐をそのまま揚げたもの。がんもどきは崩して具を混ぜて揚げる"
+      }
+    ],
+    "relatedIds": [
+      "surimi-age",
+      "komo-toufu",
+      "hansuke-dofu"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/がんもどき"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "豆類",
+      "野菜",
+      "揚げ物",
+      "ふわふわ",
+      "精進料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "唐揚げ",
+      "冷奴",
+      "厚焼き卵",
+      "焼き魚"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ganmodoki/1.jpg",
+      "/images/dishes/ganmodoki/2.jpg",
+      "/images/dishes/ganmodoki/3.jpg"
+    ]
+  },
+  {
+    "id": "fukujinzuke",
+    "name": "福神漬け",
+    "kana": "ふくじんづけ",
+    "aliases": [
+      "福神漬",
+      "ふくじん漬"
+    ],
+    "englishName": "Fukujinzuke",
+    "originalName": "福神漬",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "東京都"
+      }
+    ],
+    "summary": "大根・茄子・蓮根・なた豆・きゅうり・しそなど7種類前後の野菜を刻み、醤油とみりんなどの甘い調味液に漬けた漬物。明治期に東京・上野で生まれ、カレーライスの付け合わせとして定着した。",
+    "menuDescription": "七福神にちなみ、大根や茄子、蓮根など七種の野菜を甘辛い醤油だれに漬け込んだ東京生まれの漬物。カレーライスの名脇役として、ポリポリとした食感と甘みが口直しに最適です。",
+    "whatComesOut": [
+      "赤茶色に染まった細かく刻んだ野菜の漬物",
+      "カレーライスの皿の端に添えて",
+      "大根の薄切りやレンコンの輪切りが目立つ",
+      "小皿で単品として出ることも"
+    ],
+    "tasteAndTexture": [
+      "醤油とみりんの甘じょっぱい味",
+      "大根や蓮根のポリポリ・カリカリした食感",
+      "カレーの辛さを和らげる甘み",
+      "市販品は赤く着色されたものが多い"
+    ],
+    "orderAdvice": "カレーライスに無料で添えられることが多い定番。甘めの漬物が好きなら気に入る。酸っぱい漬物を好む人には甘すぎると感じることも。",
+    "caution": "醤油（小麦・大豆）を使用。着色料を含む製品がある。",
+    "similarItems": [
+      {
+        "id": "rakkyou-zuke",
+        "name": "らっきょう漬け",
+        "difference": "同じくカレーの付け合わせの定番。らっきょう漬けは甘酢漬けで酸味がある"
+      },
+      {
+        "id": "yatarazuke-hyogo",
+        "name": "やたら漬け",
+        "difference": "様々な野菜を刻んで漬けた漬物で、福神漬けと似るが地域ごとに味付けが異なる"
+      },
+      {
+        "id": "shibazuke-kyoto",
+        "name": "しば漬け",
+        "difference": "京都の茄子としそを塩漬けにした乳酸発酵の漬物で、酸味が強い"
+      }
+    ],
+    "relatedIds": [
+      "rakkyou-zuke",
+      "yatarazuke-hyogo"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/福神漬"
+    ],
+    "tags": [
+      "日本料理",
+      "関東",
+      "調味料",
+      "野菜",
+      "甘み",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "ピクルス",
+      "らっきょう",
+      "紅しょうが",
+      "浅漬け"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fukujinzuke/1.jpg",
+      "/images/dishes/fukujinzuke/2.jpg",
+      "/images/dishes/fukujinzuke/3.jpg"
+    ]
+  },
+  {
+    "id": "botamochi",
+    "name": "ぼたもち",
+    "kana": "ぼたもち",
+    "aliases": [
+      "牡丹餅",
+      "おはぎ",
+      "御萩",
+      "はんごろし"
+    ],
+    "englishName": "Botamochi",
+    "originalName": "牡丹餅",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "炊いたもち米（とうるち米）を軽くつぶして丸め、小豆餡やきな粉で包んだ和菓子。春の彼岸に食べるものをぼたもち、秋の彼岸のものをおはぎと呼び分ける説がよく知られる。",
+    "menuDescription": "もち米を半分ほどつぶして丸め、自家炊きの粒あんでたっぷりと包んだ素朴な和菓子。春のお彼岸に、牡丹の花に見立ててご先祖様に供える伝統の味です。",
+    "whatComesOut": [
+      "あんこで包まれた丸く大ぶりの餅菓子",
+      "きな粉やごまをまぶしたもの",
+      "2〜3種類の盛り合わせで出ることも",
+      "緑茶が添えられる"
+    ],
+    "tasteAndTexture": [
+      "米粒が残るもっちりとした食感",
+      "小豆餡のしっかりした甘み",
+      "きな粉は香ばしく、ごまはコクがある",
+      "1個でもかなり腹持ちがよい"
+    ],
+    "orderAdvice": "あんこと餅が好きなら間違いない素朴な和菓子。和菓子屋では彼岸の時期に特に多く並ぶ。甘さと量があるので、半分ずつ分けるのもおすすめ。",
+    "caution": "もち米・小豆を使用。きな粉は大豆、ごまはごまアレルギーに注意。喉に詰まらせないよう注意。",
+    "similarItems": [
+      {
+        "id": "ohagi-kyoto",
+        "name": "おはぎ（京都府）",
+        "difference": "秋の彼岸に食べるものをおはぎと呼ぶ説がある。中身はほぼ同じで、小ぶり・細長いともいわれる"
+      },
+      {
+        "id": "imobota",
+        "name": "いもぼた",
+        "difference": "もち米にさつまいもや里芋を混ぜて作るぼたもち"
+      },
+      {
+        "id": "kashiwa-mochi",
+        "name": "柏餅",
+        "difference": "柏餅は上新粉の餅で餡を包み柏の葉で巻く。ぼたもちは米粒を残した餅を餡で包む"
+      }
+    ],
+    "relatedIds": [
+      "ohagi-kyoto",
+      "imobota",
+      "botamochi-tochigi",
+      "imobota-nara"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ぼたもち"
+    ],
+    "tags": [
+      "日本料理",
+      "菓子",
+      "米",
+      "豆類",
+      "もちもち",
+      "甘み",
+      "季節料理",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "洋菓子",
+      "ケーキ",
+      "せんべい",
+      "フルーツ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/botamochi/1.jpg",
+      "/images/dishes/botamochi/2.jpg",
+      "/images/dishes/botamochi/3.jpg"
+    ]
+  },
+  {
+    "id": "hishi-mochi",
+    "name": "菱餅",
+    "kana": "ひしもち",
+    "aliases": [
+      "ひし餅",
+      "菱もち"
+    ],
+    "englishName": "Hishi mochi",
+    "originalName": "菱餅",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "3月3日の桃の節句に雛人形とともに供える菱形の餅。赤（桃色）・白・緑の3色を重ねたものが多く、地域によって2色や5色のものもある。",
+    "menuDescription": "桃の節句に雛壇へ飾る、桃・白・緑の三色を重ねた菱形の餅。桃の花、残雪、萌える若草を表し、女の子の健やかな成長を願う行事食です。",
+    "whatComesOut": [
+      "桃色・白・緑の3層に重なった菱形の餅",
+      "雛人形の前に三方にのせて飾られる",
+      "食べるときは小さく切って焼いたり煮たりする",
+      "菱餅を模した菓子やケーキになっていることも"
+    ],
+    "tasteAndTexture": [
+      "餅自体の味は素朴でほのかな甘み",
+      "緑の層はよもぎの香り",
+      "飾った後は固くなるので焼いて食べることが多い",
+      "焼くとぷっくり膨らみ、香ばしい"
+    ],
+    "orderAdvice": "主に飾るための行事食で、飲食店で単品注文することはまれ。雛祭りの時期に和菓子店で見かけたら、季節の風物詩として。食べるなら焼いて砂糖醤油やきな粉で。",
+    "caution": "もち米を使用。喉に詰まらせないよう注意。",
+    "similarItems": [
+      {
+        "name": "ひなあられ",
+        "difference": "同じく雛祭りの行事菓子で、餅を炒って作る小粒の甘いあられ"
+      },
+      {
+        "id": "yomogi-dango",
+        "name": "よもぎ団子",
+        "difference": "よもぎを練り込んだ団子。菱餅の緑の層もよもぎ入り"
+      },
+      {
+        "id": "uzumaki-mochi-kagawa",
+        "name": "うずまき餅",
+        "difference": "色付きの餅を渦巻き状にした香川の餅菓子。菱餅は層状に重ねる"
+      }
+    ],
+    "relatedIds": [
+      "iga-manju",
+      "uzumaki-mochi-kagawa",
+      "sakura-mochi"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/菱餅"
+    ],
+    "tags": [
+      "日本料理",
+      "菓子",
+      "米",
+      "ハーブ",
+      "もちもち",
+      "祝祭料理",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "ケーキ",
+      "クッキー",
+      "チョコレート",
+      "プリン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hishi-mochi/1.jpg"
+    ]
+  },
+  {
+    "id": "yomogi-dango",
+    "name": "よもぎ団子",
+    "kana": "よもぎだんご",
+    "aliases": [
+      "草団子",
+      "草餅",
+      "くさもち",
+      "よもぎ餅"
+    ],
+    "englishName": "Yomogi dango",
+    "originalName": "蓬団子",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "春に摘んだよもぎの若葉を米粉や餅に練り込んだ緑色の団子・餅。あんこやきな粉を添えて食べ、春の訪れを感じる和菓子として親しまれる。",
+    "menuDescription": "春先に摘んだよもぎの新芽を、上新粉や白玉粉にたっぷり練り込んだ香り高い団子。自家製の粒あんを添えて、野の香りとともにお楽しみください。",
+    "whatComesOut": [
+      "鮮やかな緑色の丸い団子（串刺しや皿盛り）",
+      "上にのせたり添えたりした粒あん・こしあん",
+      "きな粉をまぶしたものも",
+      "餅で餡を包んだ草餅の形のことも"
+    ],
+    "tasteAndTexture": [
+      "よもぎ特有のさわやかでほろ苦い草の香り",
+      "もちもち・むっちりとした弾力",
+      "あんこの甘みがよもぎの苦みと調和",
+      "時間が経つと固くなりやすい"
+    ],
+    "orderAdvice": "和菓子店で春に多く出回る季節の定番。よもぎの香りは個性的だがクセは強すぎず、ハーブの香りが好きなら特におすすめ。草の青い香りが苦手な人は白い団子を選ぶとよい。",
+    "caution": "米粉・小豆を使用。きな粉は大豆を含む。",
+    "similarItems": [
+      {
+        "id": "kusamochi-tochigi",
+        "name": "草もち（栃木県）",
+        "difference": "栃木の草もちは地域独自の作り方。基本は同じよもぎ入りの餅"
+      },
+      {
+        "id": "futatabi-dango-miyazaki",
+        "name": "ふたたび団子",
+        "difference": "宮崎の郷土団子で、よもぎ団子とは由来と作り方が異なる"
+      },
+      {
+        "id": "hishi-mochi",
+        "name": "菱餅",
+        "difference": "菱餅の緑の層はよもぎ入りの餅で、雛祭りの行事食"
+      }
+    ],
+    "relatedIds": [
+      "kusamochi-tochigi",
+      "futatabi-dango-miyazaki",
+      "sasa-dango"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/草餅"
+    ],
+    "tags": [
+      "日本料理",
+      "菓子",
+      "米",
+      "ハーブ",
+      "もちもち",
+      "甘み",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "みたらし団子",
+      "白玉",
+      "洋菓子",
+      "チョコレート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/yomogi-dango/1.jpg",
+      "/images/dishes/yomogi-dango/2.jpg",
+      "/images/dishes/yomogi-dango/3.jpg"
+    ]
+  },
+  {
+    "id": "koya-dofu",
+    "name": "高野豆腐",
+    "kana": "こうやどうふ",
+    "aliases": [
+      "凍り豆腐",
+      "凍み豆腐",
+      "しみどうふ",
+      "こおりどうふ"
+    ],
+    "englishName": "Koya-dofu",
+    "originalName": "高野豆腐",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "和歌山県"
+      },
+      {
+        "country": "日本",
+        "prefecture": "長野県"
+      }
+    ],
+    "summary": "豆腐を凍らせてから乾燥させた保存食品。高野山で製法が完成し精進料理として広まったとされる。水で戻してだしで煮含めた「含め煮」が代表的な食べ方で、現在は9割以上が長野県で生産される。",
+    "menuDescription": "高野山の精進料理に由来する凍り豆腐を、かつおと昆布のだしでじっくり含め煮に。噛むたびに染み込んだやさしいだしがじゅわっとあふれます。",
+    "whatComesOut": [
+      "四角く切った薄茶色の高野豆腐の煮物",
+      "しいたけ・にんじん・さやいんげんなどの煮物と炊き合わせ",
+      "だしをたっぷり含んだ状態で小鉢に",
+      "卵とじにして出されることも"
+    ],
+    "tasteAndTexture": [
+      "スポンジのような細かい気泡の独特の食感",
+      "噛むとだしがじゅわっとしみ出す",
+      "甘めの上品な味付けが多い",
+      "大豆のほのかな風味"
+    ],
+    "orderAdvice": "和食の小鉢や精進料理、給食・家庭の惣菜として定番。やさしい味でクセがなく、高齢者から子どもまで好まれる。スポンジ状の食感が苦手な人は少し合わないかも。",
+    "caution": "大豆を使用。",
+    "similarItems": [
+      {
+        "id": "koori-doufu-miyagi",
+        "name": "凍り豆腐（宮城県）",
+        "difference": "東北で凍み豆腐と呼ばれる同じ製法の保存食の地域版"
+      },
+      {
+        "id": "aburafu",
+        "name": "油麩",
+        "difference": "油麩は小麦グルテンを揚げた宮城の食材で、同じくだしを吸わせて食べる。高野豆腐は大豆製品"
+      },
+      {
+        "id": "ganmodoki",
+        "name": "がんもどき",
+        "difference": "がんもどきも豆腐加工品だが、崩して具を混ぜ揚げたもの。高野豆腐は凍結乾燥"
+      }
+    ],
+    "relatedIds": [
+      "koori-doufu-miyagi",
+      "aburafu",
+      "ganmodoki"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/高野豆腐"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "豆類",
+      "煮込み",
+      "あっさり",
+      "精進料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "厚揚げ",
+      "唐揚げ",
+      "麻婆豆腐",
+      "冷奴"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/koya-dofu/1.jpg"
+    ]
   }
 ]
