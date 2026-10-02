@@ -84380,6 +84380,7 @@
         "difference": "ブループディンはスウェーデン家庭料理の一品。ヒュスマンスコストは家庭料理全般"
       },
       {
+        "id": "palt",
         "name": "パルト",
         "difference": "パルトはじゃがいも団子。血を混ぜるブロッドパルトもあるが、ブループディンは型焼きの血のプディング"
       },
@@ -87987,6 +87988,7 @@
         "difference": "カスレは白いんげんと鴨・ソーセージのフランス風煮込み。フェジョアーダは黒豆と豚肉主体で付け合わせ込みの食事感が強い"
       },
       {
+        "id": "chili-con-carne",
         "name": "チリコンカン",
         "difference": "チリコンカンは唐辛子やスパイスが主役。フェジョアーダは豆と肉の旨味が中心で辛くない"
       }
@@ -88066,6 +88068,7 @@
         "difference": "フリッターは衣揚げ全般。アカラジェは黒目豆生地とデンデ油、詰め物が特徴"
       },
       {
+        "id": "falafel",
         "name": "ファラフェル",
         "difference": "ファラフェルはひよこ豆やそら豆の中東風団子。アカラジェは黒目豆を大きく揚げて具を挟む"
       }
@@ -88211,6 +88214,7 @@
         "difference": "エスカベッシュは酸味のあるマリネ。ムケッカは温かい魚介煮込み"
       },
       {
+        "id": "bouillabaisse",
         "name": "ブイヤベース",
         "difference": "ブイヤベースは地中海風の魚介スープ。ムケッカはデンデ油やココナッツ、香菜のブラジル風味"
       }
@@ -88282,6 +88286,7 @@
     "orderAdvice": "脂が苦手なら端を避ける。シュラスコでは少量ずつもらい、好みの焼き加減を選ぶ。",
     "similarItems": [
       {
+        "id": "steak",
         "name": "ステーキ",
         "difference": "一般的なステーキより脂身付きの部位感と粗塩グリルのブラジルらしさが強い"
       }
@@ -88755,6 +88760,7 @@
     "caution": "小麦、鶏肉、乳製品を使うことが多い。",
     "similarItems": [
       {
+        "id": "kroket",
         "name": "クロケット",
         "difference": "クロケットはじゃがいもやベシャメル主体が多い。コシーニャは鶏肉餡と鶏だし生地、涙型が特徴"
       }
@@ -89272,6 +89278,7 @@
         "difference": "焼き鳥は日本の鶏串。スヤは牛肉中心で辛いヤジが特徴"
       },
       {
+        "id": "satay",
         "name": "サテ",
         "difference": "サテは東南アジアの串焼き。スヤは粉状の辛いピーナッツスパイスをまとわせる"
       }
@@ -92546,6 +92553,7 @@
         "difference": "一般的なラム料理より紅糟の発酵香と赤い色が特徴"
       },
       {
+        "id": "zui-zao-ji",
         "name": "紅糟鶏",
         "difference": "紅糟鶏は鶏肉。紅糟羊は羊肉で風味が強い"
       }
@@ -94390,6 +94398,7 @@
   {
     "similarItems": [
       {
+        "id": "dong-po-rou",
         "name": "東坡肉",
         "difference": "東坡肉は杭州系の角煮。封肉は同安の宴席料理で具材を封じる演出がある"
       }
@@ -94456,6 +94465,7 @@
   {
     "similarItems": [
       {
+        "id": "laksa",
         "name": "ラクサ",
         "difference": "ラクサはココナッツや香辛料の東南アジア麺。沙茶麺は沙茶醤ベースの厦門麺"
       }
@@ -94528,6 +94538,7 @@
   {
     "similarItems": [
       {
+        "id": "hokkien-mee",
         "name": "ホッケンミー",
         "difference": "地域により蝦麺型と炒め麺型があり、蝦麺は海老だしを強く見る呼び名"
       }
@@ -94605,6 +94616,7 @@
   {
     "similarItems": [
       {
+        "id": "dan-dan-mian",
         "name": "担担麺",
         "difference": "担担麺は胡麻や辣油の四川系が多い。乾拌麺は広い汁なし和え麺"
       }
@@ -97015,6 +97027,7 @@
         "difference": "三五八漬けは麹床で漬ける東北の漬物。梅干しは塩漬けと土用干しだけで作る"
       },
       {
+        "id": "kanrobai-saitama",
         "name": "甘露梅",
         "difference": "甘露梅は砂糖を加えた甘い梅の保存食。梅干しは強い塩気と酸味が主体"
       }
@@ -97432,6 +97445,7 @@
         "difference": "酸菜魚は漬物と魚の鍋料理。ハクレンはその食材候補の一つ"
       },
       {
+        "id": "bighead-carp",
         "name": "コクレン",
         "difference": "同じ四大家魚の近縁種。コクレンの方が味が良いとされる"
       }
@@ -100102,6 +100116,7 @@
         "difference": "味噌煮込みうどんは八丁味噌の土鍋で固い丸麺を煮るが、ほうとうは甲州味噌でかぼちゃ等野菜と共に煮込みとろみのある汁を楽しむ"
       },
       {
+        "id": "nibouto-himokawa-saitama",
         "name": "おっきりこみ",
         "difference": "群馬・埼玉のおっきりこみはほうとうと製法が近いが、味噌だけでなく醤油仕立てもありかぼちゃを必須としない点が異なる"
       }
@@ -102921,6 +102936,7 @@
     "caution": "魚の骨・内臓を含む。魚アレルギーの人は注意。",
     "similarItems": [
       {
+        "id": "ishikari-nabe-hokkaido",
         "name": "石狩鍋",
         "difference": "石狩鍋は鮭が主役でバターや野菜が多く入る北海道の鍋料理。たら汁はタラ一匹を使い切る富山県のシンプルな汁物。"
       }
@@ -103052,6 +103068,7 @@
     "caution": "発酵食品・魚を使用。ブリ（魚）アレルギーに注意。",
     "similarItems": [
       {
+        "id": "daikon-zushi-ishikawa",
         "name": "大根ずし",
         "difference": "大根ずしは大根とニシンを使う庶民的な代用版。かぶらずしはブリを使う高級品。"
       },
@@ -103697,6 +103714,7 @@
         "difference": "おこわは全国的なもち米料理の総称。黒豆おこわは富山県東部で弔事に用いられる特定の一品。"
       },
       {
+        "id": "sekihan-hokkaido",
         "name": "赤飯",
         "difference": "赤飯は小豆を使う祝い事のおこわ。黒豆おこわは弔事に使われ対照的な位置づけ。"
       }
@@ -103820,6 +103838,7 @@
     "orderAdvice": "シンプルな家庭のおかずでご飯が進む味わい。野菜好きなら気に入りやすい。",
     "similarItems": [
       {
+        "id": "fukinotou-miso",
         "name": "ふきのとう味噌",
         "difference": "ふきのとう味噌は春の山菜を味噌に混ぜ込む調味料的な位置づけ。よごしは炒めた野菜のおかず。"
       },
@@ -104012,6 +104031,7 @@
         "difference": "五平餅はうるち米を潰して味噌だれを塗る中部地方のおやつ。焼き付けはもち粉とよもぎを練った生地を使う点が異なる。"
       },
       {
+        "id": "futsu-mochi",
         "name": "よもぎ餅",
         "difference": "よもぎ餅はもち米を蒸して搗く一般的な餅。焼き付けはもち粉を練って鉄板で焼く簡便な調理法。"
       }
@@ -106586,6 +106606,7 @@
         "difference": "ちまきはもち米などを笹の葉で円錐状に包み蒸すが、ふき俵はふきの葉で俵形に包むだけで蒸さない簡便な携行食"
       },
       {
+        "id": "sasa-dango",
         "name": "笹団子",
         "difference": "笹団子はよもぎ入りの餅生地であんを包む菓子だが、ふき俵は塩味の大豆ご飯を葉で包む主食系の携行食"
       }
@@ -106644,6 +106665,7 @@
     "orderAdvice": "4月から5月半ばの春の時期に、宮城県内の家庭料理や行楽弁当として親しまれている。丸森町・名取市周辺の直売所でたけのこと共に紹介されることが多い。",
     "similarItems": [
       {
+        "id": "takenoko-konbu",
         "name": "たけのこ昆布",
         "difference": "たけのこ昆布は昆布と一緒に煮た惣菜だが、たけのこご飯は米と一緒に炊き込む主食"
       }
@@ -107141,6 +107163,7 @@
     "orderAdvice": "うどが芽吹く早春に最上地域の家庭で作られる日常料理。郷土料理店や道の駅で提供されることもある。",
     "similarItems": [
       {
+        "id": "udo-no-sumiso-ae",
         "name": "うどの酢味噌和え",
         "difference": "酢味噌和えは生のうどを和える冷菜だが、どんころ煮は乾燥保存の凍み大根と一緒にじっくり煮込む温かい惣菜"
       }
@@ -108034,6 +108057,7 @@
         "difference": "炊き込みご飯は米と具材を一緒に炊くが、かきまわしは別に煮た具を炊いたご飯に後から混ぜ込む点が異なる。"
       },
       {
+        "id": "takikomi-gohan",
         "name": "五目ご飯",
         "difference": "具材の種類は似るが、千石豆という希少な地元野菜を主役にする点がかきまわし独自の特徴。"
       }
@@ -108094,6 +108118,7 @@
     "caution": "生シラスは鮮度が命のため、産地や信頼できる店で提供直後に食べるのが望ましい。",
     "similarItems": [
       {
+        "id": "nama-shirasu-don",
         "name": "生しらす丼",
         "difference": "釜揚げではなく生のままのシラスを使う版。とろけるような食感が特徴で漁港近くでのみ味わえることが多い。"
       }
@@ -108342,6 +108367,7 @@
         "difference": "岡山のちらしずしで魚介を豪華に使うのに対し、さつますもじは地酒と野菜が主役の庶民的な一品。"
       },
       {
+        "id": "sakezushi",
         "name": "酒ずし",
         "difference": "鹿児島の上流階級向けの豪華なすしで、さつますもじより手間がかかる。さつますもじは庶民のすしとして親しまれてきた。"
       }
@@ -108838,6 +108864,7 @@
     "caution": "特になし。",
     "similarItems": [
       {
+        "id": "niku-soba",
         "name": "肉そば",
         "difference": "一般的な肉そばは牛肉や豚肉を使うが、馬肉蕎麦は熊本ならではの馬肉のしぐれ煮を使う点が独自。"
       }
@@ -108901,6 +108928,7 @@
         "difference": "ちまきはもち米を蒸すだけのシンプルな料理だが、あくまきは灰汁で長時間煮込むことで独特の風味と保存性を持たせる点が異なる。"
       },
       {
+        "id": "bekomochi",
         "name": "べこもち",
         "difference": "同じ端午の節句の郷土菓子だが、べこもちは色付けした生地を模様状に蒸すのに対し、あくまきは灰汁で煮込む点が異なる。"
       }
@@ -109148,6 +109176,7 @@
     "caution": "特になし。",
     "similarItems": [
       {
+        "id": "ohagi-kyoto",
         "name": "おはぎ",
         "difference": "呼び名の違いで、春に咲く牡丹にちなむのがぼた餅、秋の萩にちなむのがおはぎ。栃木県では季節によらず「ぼた餅」と呼ぶことが多い。"
       }
@@ -109564,7 +109593,6 @@
     "caution": "収穫後すぐにえぐみが増すため、鮮度の良い姫たけのこの入手時期が限られる。",
     "similarItems": [
       {
-        "id": "takenoko-jiru",
         "name": "一般的なたけのこ汁",
         "difference": "一般的な孟宗竹のたけのこ汁と違い、千島笹の姫たけのこと鯖缶を使う点が新潟版の特徴"
       }
@@ -109733,6 +109761,7 @@
     "orderAdvice": "4月の河口浅間神社春祭り（めまき祭り）の時期に富士河口湖町周辺で振る舞われる。祭事以外での常時提供は少ない。",
     "similarItems": [
       {
+        "id": "konbu-maki",
         "name": "昆布巻き",
         "difference": "一般的な昆布巻きは昆布で魚や具材を巻くが、めまきはアラメを使い三角形に巻いて富士山を象る点が独自"
       }
@@ -110241,6 +110270,7 @@
         "difference": "全国的な呼称のちまきと同じ系統だが、笹巻きは秋田独自の三角の巻き方とイ草での結び方が特徴"
       },
       {
+        "id": "chimaki",
         "name": "ちまき",
         "difference": "一般的なちまきは中華風や甘くない味付けのものも多いが、笹巻きはきなこと黒糖で甘く食べるのが特徴"
       }
@@ -110711,6 +110741,7 @@
     "caution": "クジラ肉が苦手な人や特有の脂の風味に慣れていない人は少量から試すとよい。",
     "similarItems": [
       {
+        "id": "kenchin-jiru-kanagawa",
         "name": "けんちん汁",
         "difference": "精進由来の根菜たっぷりの汁物で、動物性脂身は使わない"
       }
@@ -111227,6 +111258,7 @@
     "caution": "発酵由来の酸味が強めなので初めての場合は少量から試すとよい。",
     "similarItems": [
       {
+        "id": "kasujiru-hyogo",
         "name": "粕汁",
         "difference": "酒粕を使う汁物だが白菜の古漬けは使わず、発酵由来の強い酸味は控えめ"
       }
@@ -111676,6 +111708,7 @@
     "caution": "特になし。",
     "similarItems": [
       {
+        "id": "masuzushi",
         "name": "ます寿司",
         "difference": "富山県の郷土料理で、塩漬けしたマスを使う点がモロコを使うもろこずしと異なる"
       }
@@ -112206,6 +112239,7 @@
     "caution": "エビ・甲殻類アレルギーの方は注意。",
     "similarItems": [
       {
+        "id": "shiroebi-kakiage",
         "name": "白えびのかき揚げ",
         "difference": "白えびは富山湾特産で身が柔らかく甘みが強いが、サクラエビは香りと歯ごたえがより際立つ"
       }
@@ -112266,6 +112300,7 @@
     "caution": "特有の強い香りがあるため、初めての場合は少量から試すとよい。",
     "similarItems": [
       {
+        "id": "takikomi-gohan",
         "name": "炊き込みご飯",
         "difference": "炊き込みご飯は米と具材を一緒に炊くが、くさぎ菜のかけめしはご飯に具をのせてすまし汁をかける丼形式"
       }
@@ -112561,6 +112596,7 @@
     "caution": "身欠きニシンなど魚介を使うため、魚アレルギーの方は注意。",
     "similarItems": [
       {
+        "id": "furofuki-daikon",
         "name": "ふろふき大根",
         "difference": "ふろふき大根は生の大根を柔らかく煮るが、凍み大根はあらかじめ乾燥・凍結させた大根を戻して使う"
       }
@@ -112682,6 +112718,7 @@
     "caution": "特になし（肉・魚を使わないため精進向きの寿司でもある）。",
     "similarItems": [
       {
+        "id": "battera",
         "name": "ばってら",
         "difference": "ばってらは鯖を使う関西の押し寿司だが、角ずし/箱ずしは肉魚を使わず野菜のみで作る"
       }
@@ -112742,6 +112779,7 @@
     "caution": "特になし（笹の葉は香り付けのため通常は食べない）。",
     "similarItems": [
       {
+        "id": "masuzushi",
         "name": "ます寿司",
         "difference": "ます寿司は富山県の丸い押し寿司でマスを使うが、笹寿司は具材が多彩で笹の葉に一口サイズでのせる"
       }
@@ -112866,6 +112904,7 @@
     "caution": "特になし。",
     "similarItems": [
       {
+        "id": "uzumaki-mochi-kagawa",
         "name": "うずまきもち",
         "difference": "うずまきもちは香川県のひなまつり菓子で渦巻き模様が特徴だが、ひなまんじゅうは花や果物の形に細工する点が異なる"
       }
@@ -112986,6 +113025,7 @@
     "caution": "特になし（葉は香り付けのため食べずに外す）。",
     "similarItems": [
       {
+        "id": "futsu-mochi",
         "name": "よもぎ餅",
         "difference": "一般的なよもぎ餅は葉で包まないが、かしゃもちはクマタケランの葉で包み蒸す点が特徴"
       }
@@ -114164,6 +114204,7 @@
     "caution": "乾燥度が高いため硬い場合がある。年配者や子供は小さくして食べるとよい。",
     "similarItems": [
       {
+        "id": "kaki-mochi-chiba",
         "name": "かき餅",
         "difference": "薄く切って乾燥させ、揚げたり焼いたりして食べる別系統の餅菓子"
       }
@@ -114221,6 +114262,7 @@
     "caution": "あく抜きが不十分だと苦みが強く残る。",
     "similarItems": [
       {
+        "id": "fuki-no-nitsuke",
         "name": "ふきの煮付け",
         "difference": "ふきを使う類似の煮物で、つわぶきよりクセが少ない"
       }
@@ -114573,6 +114615,7 @@
     "orderAdvice": "夏に万願寺とうがらしが出回る時期、京都の家庭料理店やおばんざい店の定番。常備菜として作り置きもされる。",
     "similarItems": [
       {
+        "id": "zuiki-no-taitan-kyoto",
         "name": "ずいきの炊いたん",
         "difference": "主食材が万願寺とうがらしではなく里芋の茎(ずいき)"
       }
@@ -114627,6 +114670,7 @@
     "orderAdvice": "夏祭り「天災」の行事食として、また栃木県内の家庭料理店で提供。ご飯がすすむ濃いめの味付け。",
     "similarItems": [
       {
+        "id": "chitake-to-nasu-no-aburaitame-tochigi",
         "name": "ちたけとなすの油炒め",
         "difference": "チチタケというきのこを主役にする炒め物で、油味噌より出汁の風味が強い"
       }
@@ -115434,6 +115478,7 @@
     "orderAdvice": "秋の大根収穫期から冬にかけて下北地方の家庭や行事で作られる。精進料理として楽しみたい人向け。",
     "similarItems": [
       {
+        "id": "ke-no-jiru-aomori",
         "name": "けの汁",
         "difference": "けの汁は野菜と豆腐を細かく刻んだ汁物だが、煮あえっこは大根と山菜中心の煮物"
       }
@@ -115601,6 +115646,7 @@
     "orderAdvice": "秋祭りの時期、広島県内の和菓子店や露店・スーパーで購入できる。家庭で作ることは少なく購入が一般的。",
     "similarItems": [
       {
+        "id": "okowa",
         "name": "おこわ",
         "difference": "おこわは主食のもち米料理だが、いが餅は餡入りの菓子として食べる"
       }
@@ -115716,6 +115762,7 @@
     "orderAdvice": "秋の松茸シーズンのみ、京都府南丹・中丹地域の料亭や旅館で提供。希少な高級食材として価格は高め。",
     "similarItems": [
       {
+        "id": "kurigohan-kyoto",
         "name": "栗ごはん",
         "difference": "栗ごはんは栗の甘みが主役だが、松茸ごはんは香りとコリコリ食感が特徴"
       }
@@ -115770,6 +115817,7 @@
     "orderAdvice": "行事や祝いの席で作られてきたが、現在は沖縄県内の食堂や家庭料理店で通年味わえる。",
     "similarItems": [
       {
+        "id": "47-25-okinawa",
         "name": "ヤファラジューシー",
         "difference": "ヤファラジューシーは水分多めの雑炊タイプで、クファジューシーは硬めの炊き込みご飯タイプ"
       }
@@ -115829,6 +115877,7 @@
     "orderAdvice": "秋の庭じまい行事の頃、岩手県内の直売所や冷凍食品として購入できる。素朴な和菓子を好む人向け。",
     "similarItems": [
       {
+        "id": "zunda-mochi-miyagi",
         "name": "ずんだ餅",
         "difference": "ずんだ餅は餅にあんをまぶすが、豆しとぎは豆自体を生地にして成形する"
       },
@@ -115895,6 +115944,7 @@
     "orderAdvice": "上越地方の郷土料理店や直売所、道の駅で通年購入できる。おやつにも夜食にも合う軽食。",
     "similarItems": [
       {
+        "id": "gohei-mochi",
         "name": "五平餅",
         "difference": "五平餅はうるち米をつぶして串刺しにするが、けんさん焼きは通常のおにぎり形状"
       }
@@ -116005,6 +116055,7 @@
     "orderAdvice": "秋のさつまいも収穫期、鹿児島県内の家庭料理店や学校給食でも定番。シンプルな甘みを楽しみたい人向け。",
     "similarItems": [
       {
+        "id": "kurigohan-kyoto",
         "name": "栗ごはん",
         "difference": "栗ごはんは栗の上品な甘みだが、からいもごはんはさつまいもの素朴な甘みが特徴"
       }
@@ -116479,8 +116530,8 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
+        "id": "narezushi-mie",
         "name": "なれずし",
-        "id": "?",
         "difference": "なれずしは数ヶ月発酵させるが、さんまずしは酢で締めてすぐ食べる点が異なる"
       },
       {
@@ -116701,6 +116752,7 @@
     "orderAdvice": "正月や冠婚葬祭の集まりで市原市周辺の家庭で作られる。学校給食にも取り入れられる親しみやすい一品。",
     "similarItems": [
       {
+        "id": "takatsu-no-torimeshi-chiba",
         "name": "高津のとり飯",
         "difference": "とり飯は炊き込みご飯だが、鶏雑炊は味噌仕立ての汁物としてご飯を煮込む"
       }
@@ -116866,6 +116918,7 @@
     "orderAdvice": "宮崎県内の空港・道の駅やサービスエリアで冷凍おにぎりとしても購入可能。通年味わえる定番の味。",
     "similarItems": [
       {
+        "id": "takatsu-no-torimeshi-chiba",
         "name": "高津のとり飯",
         "difference": "千葉の高津のとり飯とは地域も具材構成も異なる別系統の鶏飯"
       }
@@ -117086,6 +117139,7 @@
     "caution": "乳製品アレルギーに注意。",
     "similarItems": [
       {
+        "id": "cottage-cheese",
         "name": "カッテージチーズ",
         "difference": "製法は似ているが、チッコ豆腐は日本の酪農家庭料理として和風の副菜や菓子に使われる"
       }
@@ -117144,8 +117198,8 @@
     "orderAdvice": "建長寺の節分行事などで振る舞われるほか、鎌倉市内の飲食店や家庭で通年味わえる。",
     "similarItems": [
       {
+        "id": "tsuke-kenchin-ibaraki",
         "name": "つけけんちん",
-        "id": "?",
         "difference": "つけけんちんはうどんのつけ汁として提供するが、けんちん汁は単体の汁物として飲む"
       }
     ],
@@ -117325,8 +117379,8 @@
     "orderAdvice": "徳島県内のスーパーや和菓子店で通年購入可能。家庭でも簡単に作れるレシピが公開されている。",
     "similarItems": [
       {
+        "id": "imomochi-hokkaido",
         "name": "いももち(北海道)",
-        "id": "?",
         "difference": "北海道のいももちはでん粉ベースで甘さ控えめの主食寄りだが、徳島は餡入りの甘い菓子"
       }
     ],
@@ -117436,6 +117490,7 @@
     "orderAdvice": "埼玉県秩父地域や加須市周辺の直売所・郷土料理店で提供。お好み焼きに似た軽食を試したい人向け。",
     "similarItems": [
       {
+        "id": "okonomiyaki",
         "name": "お好み焼き",
         "difference": "お好み焼きはソースやマヨネーズが主流だが、たらし焼きは味噌や醤油だれが伝統的"
       }
@@ -118106,6 +118161,7 @@
     "orderAdvice": "夏場、金沢市周辺の家庭料理店で提供。食べ残ったそうめんを美味しく食べる先人の知恵を味わいたい人向け。",
     "similarItems": [
       {
+        "id": "nyuumen-nara",
         "name": "にゅうめん",
         "difference": "にゅうめんは温かい汁にそうめんを入れるだけだが、なすそうめんはなすと一緒にじっくり煮込む"
       }
@@ -118219,6 +118275,7 @@
     "orderAdvice": "7〜8月の収穫期に漬け込まれ、通年で愛知県内の漬物店や直売所で購入可能。酒の肴にも合う。",
     "similarItems": [
       {
+        "id": "moriguchi-zuke",
         "name": "守口漬け",
         "difference": "守口漬けは守口大根を使うが、かりもりの粕漬けは白瓜の一種かりもりを使う"
       }
@@ -118925,6 +118982,7 @@
     "orderAdvice": "夏場、名古屋市周辺の家庭やそば・うどん店で提供。夏バテ予防に豆味噌の栄養を摂りたい人向け。",
     "similarItems": [
       {
+        "id": "miso-nikomi-udon",
         "name": "味噌煮込みうどん",
         "difference": "味噌煮込みうどんは熱々の煮込み料理だが、酢味噌そうめんは冷たい麺に酢味噌だれをかけるだけ"
       }
@@ -120647,6 +120705,7 @@
     "orderAdvice": "8月から9月中旬の盆や彼岸の時期、長野県諏訪地域・上伊那地域の家庭で作られる。ずんだ餅と食べ比べたい人向け。",
     "similarItems": [
       {
+        "id": "zunda-mochi-miyagi",
         "name": "ずんだ餅",
         "difference": "ずんだ餅は東北の呼び名で、のたもちは半つきご飯にあんをのせる点が特徴的"
       }
@@ -121803,6 +121862,7 @@
     "caution": "海藻・甲殻類アレルギーに注意。",
     "similarItems": [
       {
+        "id": "36-12-shizuoka",
         "name": "ところてん",
         "difference": "ところてんは天草を使うが、いぎす豆腐はいぎすと大豆粉を使い具材を入れられる"
       }
@@ -130693,8 +130753,8 @@
     "orderAdvice": "秋から冬の大根収穫期に仕込み通年、東京都内の漬物店で購入可能。えびす講の頃の江戸の風物詩を感じたい人向け。",
     "similarItems": [
       {
+        "id": "senmai-zuke-kyoto",
         "name": "千枚漬け(京都府)",
-        "id": "semmai-zuke-kyoto",
         "difference": "千枚漬けは酢漬けだが、べったら漬けは麹で甘く発酵させる"
       }
     ],
@@ -134821,12 +134881,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "庄内地域の冬の定番料理として根づいている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "どんがら汁は山形県・庄内地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/dongarajiru_yamagata.html"
@@ -134932,12 +134987,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "聖護院かぶは寒冷地だと8月下旬、暖地だと9月下旬に種をまき、11月中旬から2月下旬にかけて収穫される。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "鯛蕪は京都府・京都市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/taikabura_kyoto.html"
@@ -134986,12 +135036,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "タラが旬の冬に家庭料理として食べられることが多い。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "たちの味噌汁は北海道・道内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tachinomisoshiru_hokkaido.html"
@@ -135040,12 +135085,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "報恩講のお斎に欠かせない料理の一つである。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "いとこ汁は石川県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/itokojiru_ishikawa.html"
@@ -135148,12 +135188,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "大根を干す光景は11月下旬～3月頃まで見られる。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "前菜",
-        "difference": "寒漬けは熊本県・芦北・水俣地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kanzuke_kumamoto.html"
@@ -135204,12 +135239,7 @@
       "酸味な味わい"
     ],
     "orderAdvice": "正月や祝い事に欠かせない料理。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "このしろの姿寿司は熊本県・八代地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kono_shirono_sugata_zushi_kumamoto.html"
@@ -135315,12 +135345,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "秋冬にとれた大根を使って、お正月の保存料理としてつくっていた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "前菜",
-        "difference": "干し大根漬けは新潟県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hoshi_daikon_zuke_niigata.html"
@@ -135368,12 +135393,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "地元でとれたイワシと、畑で育てた大根を使ってつくり、日常食として食べられていたが、お正月にはどこの家庭でも食べていた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "前菜",
-        "difference": "なまぐさこうこは新潟県・新潟市（西蒲区角田浜地区）特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/namagusa_kouko_niigata.html"
@@ -135424,12 +135444,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "村上地方では、11月頃になるとお正月に向けて各家庭でつくられていた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "ご飯もの",
-        "difference": "飯ずしは新潟県・村上市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/izushi_niitaga.html"
@@ -135535,12 +135550,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "旬である冬につくられ食される。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "せぐろいわしのごま漬けは千葉県・九十九里町特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/seguro_iwashi_no_gomazuke_chiba.html"
@@ -135591,12 +135601,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "年の初め、お正月。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "はば雑煮は千葉県・上総地域、特に山武郡特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/haba_zouni_chiba.html"
@@ -135699,12 +135704,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "「いわしのだんご汁」は通年食すことが可能であるが、イワシのすり身を味噌で味付けただんご、大根などの具沢山の汁は体が温まるため、寒い冬によく食べられている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "いわしのだんご汁は千葉県・北総地域、九十九里地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/iwashino_dango_jiru_chiba.html"
@@ -135812,12 +135812,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "秋に収穫した柿を使って干し柿にし、晩秋のころからつくり始める。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "菓子",
-        "difference": "巻柿は熊本県・宇城地域、上益城郡山都市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/makigaki_kumamoto.html"
@@ -135866,12 +135861,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "昔の家庭では、白餅と同じように、正月に備えて年末につくられていた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "菓子",
-        "difference": "こっぱもちは熊本県・天草地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/koppa_mochi_kumamoto.html"
@@ -135922,12 +135912,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "大根の収穫時期（11～2月頃）につくられ、冬の冷たい風に当てて干す。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "蛇腹大根（房切り大根）の煮物（じゃばらだいこん（ふさきりだいこん）のにもの）は熊本県・南阿蘇地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/jyabara_daikon_no_nimono_kumamoto.html"
@@ -135977,12 +135962,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "その昔はお米の代用として食べられ、寒い日に食べられ「そまげ」が固くなったら囲炉裏で焼いて食べていた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "そまげは宮崎県・県北地方（山間部）特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/somage_miyazaki.html"
@@ -136032,12 +136012,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "ごはんの少ないときや、寒い日の夕食によくつくる長い冬の栄養補給源だった。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "ご飯もの",
-        "difference": "稗ずーしーは宮崎県・宮崎県北部（山間部）特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hie_zushii_miyazaki.html"
@@ -136088,12 +136063,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "れんこんは、空気が少ない泥中にあるため、空洞は取り込んだ空気を行き渡らせて呼吸を助ける役割がある。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "れんこんのすり流し汁は宮崎県・県央地方特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/renkonno_suri_nagashi_jiru_miyazaki.html"
@@ -136146,12 +136116,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "身体が温まるので主に冬に食べられ、日常的に家庭で食べられていた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "酢のしゅいは宮崎県・県西地方特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/suno_shui_miyazaki.html"
@@ -136201,12 +136166,7 @@
       "揚げたての香ばしさ"
     ],
     "orderAdvice": "数え年7歳になった子どもたちの成長と健康を願い1月7日の朝に炊き、食する。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "ご飯もの",
-        "difference": "七とこずしは宮崎県・都城市・宮崎市・日南町・高千穂町・延岡市・日向市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nanatoko_zushi_miyazaki.html"
@@ -136254,12 +136214,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "目の餅飾りは1月15日の小正月につくり、1月30日頃まで飾り、その後あられにする。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "菓子",
-        "difference": "めの餅あられは宮崎県・西諸県郡（高原町、小林市）、椎葉村特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/meno_mochi_arare_miyazaki.html"
@@ -136309,12 +136264,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "11月から1月にかけて刺網漁法で水揚げされる。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "いがみの煮付けは和歌山県・田辺市周辺特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/igamino_nitsuke_wakayama.html"
@@ -136363,12 +136313,7 @@
       "もちもちな味わい"
     ],
     "orderAdvice": "5月頃になると、みかんの木は段々畑一面に白い花を咲かせ、有田の町全体に良い香りが漂う。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "菓子",
-        "difference": "みかん餅は和歌山県・有田市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/mikan_mochi_wakayama.html"
@@ -136417,12 +136362,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "農家の日常食として食べられていた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "ご飯もの",
-        "difference": "はたごんぼずしは和歌山県・橋本市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hata_gonbo_zushi_wakayama.html"
@@ -136471,12 +136411,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "正月前になると親芋を皮をむかずに丸ごと二日間かけて煮こむ。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "ぼうりは和歌山県・田辺市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/bouri_wakayama.html"
@@ -136525,12 +136460,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "山登りに持って行ってお弁当として食べたり、ひな節句のお供えものにしたり、正月やお盆など人が集まる時に振る舞ったりする。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "ご飯もの",
-        "difference": "わかめずしは和歌山県・由良町特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/wakame_zushi_wakayama.html"
@@ -136628,12 +136558,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "すんき漬けは、冬季限定の漬物で秋の終わり頃から冬にかけてつくられる。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "前菜",
-        "difference": "すんき漬けは長野県・木曽地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sunki_zuke_nagano.html"
@@ -136741,12 +136666,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "コイは、山国の冠婚葬祭にかかせない魚となっている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "鯉こくは長野県・佐久市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/koikoku_nagano.html"
@@ -136796,12 +136716,7 @@
       "揚げたての香ばしさ"
     ],
     "orderAdvice": "主に、ねずみ大根がとれる冬に食べられている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "麺料理",
-        "difference": "おしぼりうどんは長野県・北信地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/oshibori_udon_nagano.html"
@@ -136852,12 +136767,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "以前は、正月だけの特別な料理で、大晦日に大鍋でたくさんつくって家族や親戚と食卓を囲み、年越しのごちそうとして食べられていた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "鮭の粕煮は長野県・東信地域、上伊那地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sakeno_kasuni_nagano.html"
@@ -136905,12 +136815,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "北信地域では、「しょうゆ豆」を正月に食べた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "しょうゆ豆は長野県・北信地域、中信地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shouyu_mame_nagano.html"
@@ -137015,12 +136920,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "地域によって、現在でもお通夜の夜食や法事、報恩講で食される。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "ご飯もの",
-        "difference": "茶飯は福井県・今庄地区特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/chameshi_fukui.html"
@@ -137127,12 +137027,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "福井県の冬の風物詩としてよく食べられている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "菓子",
-        "difference": "でっち羊かんは福井県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/decchi_youkan_fukui.html"
@@ -137181,12 +137076,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "奈良ではおん祭にあわせてのっぺを食べる習慣が昔から続いている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "奈良のっぺは奈良県・奈良県全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nara_noppei_nara.html"
@@ -137238,12 +137128,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "昔は、一年間、笑ってまめに過ごせるようにと、藁（わら）と豆殻を燃やして雑煮を炊いたといわれている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "大和の雑煮は奈良県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/yamato_no_zouni_nara.html"
@@ -137294,12 +137179,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "年間を通して食べられているが、特に冬場は体が温まるために食べる機会が増える。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "飛鳥鍋は奈良県・奈良盆地中南部特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/asuka_nabe_nara.html"
@@ -137350,12 +137230,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "正月に、おせち料理と共に各家庭で食べられる。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "あんもち雑煮は香川県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/anmochi_zouni_kagawa.html"
@@ -137407,12 +137282,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "秋から冬にかけて、冬野菜が出回る時期に、一般家庭では寒い冬の食事、または来客時の食事に出される。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "麺料理",
-        "difference": "しっぽくうどんは香川県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sippoku_udon_kagawa.html"
@@ -137463,12 +137333,7 @@
       "揚げたての香ばしさ"
     ],
     "orderAdvice": "まんばは、家庭菜園でもよくつくられ、寒に入ると柔らかく甘みも増すので、冬場の惣菜として今も一般家庭で日常的につくられる。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "まんばのけんちゃんは香川県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/manbano_kenchan_kagawa.html"
@@ -137519,12 +137384,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "ため池の水を抜く冬に男達が生きたフナを使ってつくる料理で、昔は伊勢講やいろいろな寄り合いの席での酒の肴として、冬の客膳には欠かせないものであった。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "てっぱいは香川県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/teppai_kagawa.html"
@@ -137573,12 +137433,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "かつて正月や婚礼などのハレの日に食べられていたが、現在は日常的につくられる。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "いもたこは香川県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/imotako_kagawa.html"
@@ -137631,12 +137486,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "農村の寒い冬の日の夕飯として、旬の野菜を豊富に使い用いつくられて、家族にも喜ばれる献立であった。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "打ち込み汁は香川県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/uchikomi_jiru_kagawa.html"
@@ -137741,12 +137591,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "かつて主要作物としてこんにゃくが生産されていた塩江町上西地域では、寒い日に「こんにゃくのはちはい」がよくつくられた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "こんにゃくのはちはいは香川県・東讃地域、中讃地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/konnyaku_no_hachihai_kagawa.html"
@@ -137797,12 +137642,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "年の初めに食べることにより、その年の人々の幸せを願うもの。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "麺料理",
-        "difference": "年明けうどんは香川県・香川県全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/toshiake_udon_kagawa.html"
@@ -137852,12 +137692,7 @@
       "甘みな味わい"
     ],
     "orderAdvice": "松山地域独自の漬物「緋の蕪漬」は、おせち料理には欠かせない食材のひとつで、各家庭で漬けられてきた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "前菜",
-        "difference": "緋の蕪漬は愛媛県・松山地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hino_kabura_zuke_ehime.html"
@@ -137907,12 +137742,7 @@
       "揚げたての香ばしさ"
     ],
     "orderAdvice": "冬の寒い時期に保温効果のある鍋料理として屋外の石切り場で食べられていた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "石花汁は愛媛県・今治市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sekka_jiru_ehime.html"
@@ -137963,12 +137793,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "お正月の元旦に、お膳に数の子、歯固め、黒豆をつけ、お屠蘇（とそ）がまわったところでこの雑煮を出していた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "博多雑煮は福岡県・博多地区特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hakata_zouni_fukuoka.html"
@@ -138073,12 +137898,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "鐘崎地域の正月には「のうさば」が欠かせない。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "のうさばは福岡県・鐘崎地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nousaba_fukuoka.html"
@@ -138130,12 +137950,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "ご飯のおかずや、お茶うけとして食される。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "前菜",
-        "difference": "仙台白菜の漬物は宮城県・宮城県特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sendai_hakusai_no_tsuke_mono_miyagi.html"
@@ -138186,12 +138001,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "大みそかから正月にかけて、煮つけにしたナメタガレイを食す。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "ナメタガレイの煮つけは宮城県・仙台市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nameta_gareino_nitsuke_miyagi.html"
@@ -138243,6 +138053,7 @@
     "orderAdvice": "秋から冬にかけて旬を迎えるので、この時期は宮城県内のスーパーマーケットでも販売される。 郷土の味を試したい人向け。",
     "similarItems": [
       {
+        "id": "30-30-fukushima",
         "name": "どんこ汁",
         "difference": "同名だが岩手県版は使う食材・味付けが異なる郷土料理"
       }
@@ -138296,12 +138107,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "熊野灘沿岸の漁港に常にあがってくる鮮魚を使い、幾人増えても共に分かち合って、新鮮な魚をふんだんに使って手軽に食べられる共食として生まれた郷土食。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "魚のじふは三重県・東紀州食文化圏（主に熊野灘沿岸の漁村）特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sakana_no_jifu_mie.html"
@@ -138353,12 +138159,7 @@
       "揚げたての香ばしさ"
     ],
     "orderAdvice": "普通は水族館に行かないとみられないマンボウだが、東紀州地域ではスーパーマーケットでも切り身で販売され、家庭でも食されている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "まんぼう酢味噌あえは三重県・東紀州食文化圏特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/manbou_sumiso_ae_mie.html"
@@ -138464,12 +138265,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "12月24日(旧暦11月24日)の「大師講」の日に供えて食する。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "菓子",
-        "difference": "果報だんごは岩手県・県南地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_9_iwate.html"
@@ -138520,12 +138316,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "正月料理の一品として食される。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "氷頭なますは岩手県・三陸沿岸地域、県央地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_12_iwate.html"
@@ -138574,12 +138365,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "農作業の合間の小昼(休憩)や人が集まる行事、また普段の手軽なおやつとして食された。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "菓子",
-        "difference": "かまもちは岩手県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_15_iwate.html"
@@ -138695,12 +138481,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "正月をはじめ、結婚式のお祝いや不祝儀、特別なおもてなしの際のごちそうとしてふるまわれた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "くるみ雑煮は岩手県・三陸沿岸北部地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_29_iwate.html"
@@ -138864,12 +138645,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "正月にはお節料理の一品として食べられるほか、節分や祝いの席で供される行事食となっている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "ざく煮は群馬県・高崎市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_14_gunma.html"
@@ -139030,12 +138806,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "冬場によく食されてきた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "麺料理",
-        "difference": "にごみうどんは神奈川県・相模原市津久井地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_11_kanagawa.html"
@@ -139086,12 +138857,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "三浦市における大根の収穫時期は11月～3月である。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "前菜",
-        "difference": "割り干し大根のはりはり漬けは神奈川県・三浦市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_14_kanagawa.html"
@@ -139311,12 +139077,7 @@
       "揚げたての香ばしさ"
     ],
     "orderAdvice": "寒い時季に主に食べられており、旧正月のお祝い、卒業式、入学式、成人式など「おめでたい日に食べる料理」として振る舞われる。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "イナムドゥチは沖縄県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/47_3_okinawa.html"
@@ -139361,12 +139122,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "旧暦の12月8日に厄払いのために供えられ、家族で食される。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "菓子",
-        "difference": "カーサームーチーは沖縄県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/47_9_okinawa.html"
@@ -139416,12 +139172,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "チデークニが欠かせない料理で、チデークニが出回る季節、11月ごろからの冬に食される。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "牛汁は沖縄県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/47_26_okinawa.html"
@@ -139475,12 +139226,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "冬が旬の水菜を使うこと、そして体が温まる鍋物であることから寒い時季に食するメニューとして人気が高い。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "鯨のハリハリ鍋は大阪府・大阪府内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/39_4_osaka.html"
@@ -139585,12 +139331,7 @@
       "甘みな味わい"
     ],
     "orderAdvice": "北摂地域では農閑期にあたる冬に寒天が作られたこと、また丁稚羊羹は保存がきかないことから、冬季に食されてきた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "菓子",
-        "difference": "丁稚ようかんは大阪府・北摂地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/39_18_osaka.html"
@@ -139637,12 +139378,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "収穫したての大根や人参等の根菜を降雪の時期が訪れる前に仕込みはじめる。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "前菜",
-        "difference": "いぶりがっこは秋田県・県内陸南部特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_1_akita.html"
@@ -139695,12 +139431,7 @@
       "甘みな味わい"
     ],
     "orderAdvice": "ハタハタの頭、えら、内臓を取りのぞいて漬けた一匹ずしは大みそかや正月のお供え用として、一口サイズの切り身にして漬けた切りずしは正月料理に欠かせない一品。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "ご飯もの",
-        "difference": "ハタハタ寿しは秋田県・沿岸中心に県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_2_akita.html"
@@ -139750,12 +139481,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "秋田県には「庭あらい」といって、収穫したばかりの新米を炊き、つぶして団子をこしらえ、だまこを食べる風習がある。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "ご飯もの",
-        "difference": "だまこ鍋は秋田県・秋田市、男鹿、南秋、能代山本地区までの沿岸北部特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_4_akita.html"
@@ -139805,12 +139531,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "正月料理として食されてきた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "前菜",
-        "difference": "柿漬けは秋田県・県南地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_8_akita.html"
@@ -139860,12 +139581,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "厳寒期に食するがっこのひとつ。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "前菜",
-        "difference": "なた漬けは秋田県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_9_akita.html"
@@ -139915,12 +139631,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "おせち料理の一品として、正月のご馳走に食される。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "鱈の子炒りは秋田県・日本海沿岸地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_14_akita.html"
@@ -139969,12 +139680,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "主にお正月や冠婚葬祭だが、運動会など行事食にも食す風習がある。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "菓子",
-        "difference": "かまぶくは秋田県・県北地方特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_15_akita.html"
@@ -140028,12 +139734,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "鱈漁がもっとも盛んで、白子が成熟してくる1～3月に食べられている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "鱈汁は秋田県・にかほ市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_17_akita.html"
@@ -140082,12 +139783,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "いぶりがっこと並んで秋田では欠かせない漬け物の一つで、正月料理や祝い事に食される。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "前菜",
-        "difference": "なすの花ずしは秋田県・県南地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_19_akita.html"
@@ -140136,12 +139832,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "正月料理、結婚式などハレの日 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "鯉の甘煮は秋田県・内陸地方特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_20_akita.html"
@@ -140190,12 +139881,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "ハタハタが獲れる11～12月をはじめ、冬の期間。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "しょっつる鍋は秋田県・沿岸中心に県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_23_akita.html"
@@ -140245,12 +139931,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "お正月の三が日および、ご祝儀の翌日。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "ご飯もの",
-        "difference": "とろろまんまは秋田県・県北地域、県南地域、中央地区由利本荘市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_24_akita.html"
@@ -140300,12 +139981,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "小正月（旧正月） 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "きゃのっこ汁は秋田県・県央から県北地域、一部県南地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_25_akita.html"
@@ -140357,12 +140033,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "冬の寒い時に体を温める汁物として日常的に食べられているほか、冠婚葬祭でも食される。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "のっぺ汁は佐賀県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/45_7_saga.html"
@@ -140415,12 +140086,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "麦作りが盛んな佐賀県では、白米や茶粥などの主食がない時の代用品として食べられてきた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "つんきーだご汁は佐賀県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/45_13_saga.html"
@@ -140472,12 +140138,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "有田焼の窯元で窯焚きが行われる際に食されていた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "ゆきのつゆは佐賀県・有田町特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/45_15_saga.html"
@@ -140529,12 +140190,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "11月下旬ごろから軒先につるされる柿が干し柿に仕上がるのは、30～40日後。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "干し柿なますは佐賀県・佐賀市大和町松梅地区特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/45_18_saga.html"
@@ -140702,12 +140358,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "お正月におせちと共に家庭で食べられている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "ブリ雑煮は岡山県・高梁市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/41_13_okayama.html"
@@ -140758,12 +140409,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "イノシシ肉は栄養価も高く、イノシシが獲れる冬の時季の貴重なタンパク源として食されてきた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "しし鍋は岡山県・美作地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/41_17_okayama.html"
@@ -140816,12 +140462,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "冬場に胴の部分に卵を持ち、一般的に岡山で食べられる煮付けは、この時期のものを食べる。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "いいだこの煮つけは岡山県・倉敷市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/41_18_okayama.html"
@@ -140872,12 +140513,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "寒に入った頃のフナは魚の臭みが少ないといわれ、その頃の寒い日によく食べられた料理。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "ご飯もの",
-        "difference": "鮒めしは岡山県・矢掛町、玉野市、八浜特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/41_23_okayama.html"
@@ -140928,12 +140564,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "主に冬、正月や来客時に提供されるおもてなし料理。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "ぼたん鍋は兵庫県・丹波篠山市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_3_hyogo.html"
@@ -141044,12 +140675,7 @@
       "甘みな味わい"
     ],
     "orderAdvice": "漁が解禁される11月から3月がシーズン。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "ゆで松葉ガニは兵庫県・但馬地域（新温泉町、香美町、豊岡市）特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_9_hyogo.html"
@@ -141099,12 +140725,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "家庭で、1月20日の「二十日（はつか）正月」に食べる他、寒い冬場には栄養があり、身体を温める食事として普段の食卓に登場する 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "粕汁は兵庫県・県内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_13_hyogo.html"
@@ -141158,12 +140779,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "正月の二日に食すが、朝食で食べるか、昼食で食べるかは地域によって異なる。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "ご飯もの",
-        "difference": "とろろご飯は兵庫県・丹波篠山市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_24_hyogo.html"
@@ -141213,12 +140829,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "秋祭りや正月、祝いの席などで人が多く集まるときに食された。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "ワニの刺身は広島県・備北地域の三次市、庄原市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_1_hiroshima.html"
@@ -141325,12 +140936,7 @@
       "揚げたての香ばしさ"
     ],
     "orderAdvice": "酒造りの合間のまかない料理として、酒造りの冬の期間に食べられていた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "美酒鍋は広島県・安芸地域の東広島市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_8_hiroshima.html"
@@ -141381,12 +140987,7 @@
       "揚げたての香ばしさ"
     ],
     "orderAdvice": "新暦の1月16日頃、親鸞聖人の命日前後の「御逮夜（おたんや）」の期間である3日間に食する行事食。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "煮ごめは広島県・府中町など県西部地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_11_hiroshima.html"
@@ -141440,12 +141041,7 @@
       "揚げたての香ばしさ"
     ],
     "orderAdvice": "縁起の良い食べ物として、主におせち料理で食されることが多い。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "くわいの甘煮は広島県・福山市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_13_hiroshima.html"
@@ -141663,12 +141259,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "あんぽ柿はもともと、砂糖が貴重とされていた頃に、甘いお菓子の代わりとして親しまれていた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "あんぽ柿のなますは福島県・伊達市、福島市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_16_fukushima.html"
@@ -141718,12 +141309,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "お祝い事の際に食べられる料理として知られている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "おひらは福島県・只見町特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_17_fukushima.html"
@@ -141780,12 +141366,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "昔はお盆や法事、結婚式など、行事の際に振る舞われていた。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "打ち豆と切り昆布の煮物は福島県・会津若松市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_24_fukushima.html"
@@ -141833,12 +141414,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "天然のとらふぐは年々減少しているため、9～3月と漁期が限定されている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "ふく刺しは山口県・下関地域、萩地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/43_16_yamaguchi.html"
@@ -141885,12 +141461,7 @@
       "揚げたての香ばしさ"
     ],
     "orderAdvice": "安価なシロサバフグを使用した「ふぐの唐揚げ」は、家庭や居酒屋で提供される日常的な料理。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "ふぐの唐揚げは山口県・下関地域、萩地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/43_18_yamaguchi.html"
@@ -141939,12 +141510,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "鶏肉が貴重な食材だったころは、大切なお客様があった時や、親戚が集まるお盆やお正月など、特別な日の料理だった。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "鶏ちゃんは岐阜県・郡上市、下呂市、高山市南部特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_2_gifu.html"
@@ -141997,12 +141563,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "夏の間、川の上流で過ごし秋になると産卵のために下ってくる鮎を「落ち鮎」と呼び、鮎なれずしにはこれを用いることが多い。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "鮎なれずしは岐阜県・岐阜市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_7_gifu.html"
@@ -142105,12 +141666,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "年末の12月31日に大鍋で作り、大みそかはもちろん、正月三が日の間、何度も煮返して食す大歳のごっつぉは、今でも各家庭で年末年始に欠かせない料理として親しまれている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "大歳のごっつぉは岐阜県・中濃地域、東濃地域、飛騨地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_11_gifu.html"
@@ -142162,12 +141718,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "「ねずしがないと正月が来たような気がしない」と言われるほど、正月のごちそうとして、なくてはならない料理といわれている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "ご飯もの",
-        "difference": "ねずしは岐阜県・下呂市を中心とした飛騨地域、中濃地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_12_gifu.html"
@@ -142327,12 +141878,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "2月最初の午の日は「初午」と言い、全国に末社が数万社あるという稲荷神社で「初午祭」が催されている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "菓子",
-        "difference": "初午だんごは岐阜県・白川村を中心とした飛騨地域、郡上市を中心とした中濃地域、岐阜地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_25_gifu.html"
@@ -142496,12 +142042,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "家庭で大みそかや正月、行事の時に客人へのごちそうとして振る舞われる。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "麺料理",
-        "difference": "御厨そばは静岡県・御殿場市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_9_shizuoka.html"
@@ -142612,12 +142153,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "10月～3月下旬の金目が、一番脂がのりおいしい時季。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "金目の煮付けは静岡県・下田市、東伊豆町（稲取）特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_17_shizuoka.html"
@@ -142668,12 +142204,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "時季を選ばず、一年を通して食されている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "菓子",
-        "difference": "安倍川もちは静岡県・静岡市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_18_shizuoka.html"
@@ -142720,12 +142251,7 @@
       "家庭ごとに味付けが異なる"
     ],
     "orderAdvice": "保存食なので一年中食することができる。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "菓子",
-        "difference": "切り干しいもは静岡県・御前崎市、島田市、焼津市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_19_shizuoka.html"
@@ -142777,12 +142303,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "正月料理ではあるが、気軽に作れるため日常的に家庭で作られている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "落花生なますは静岡県・東部地域（富士宮市、富士市）特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_21_shizuoka.html"
@@ -142831,12 +142352,7 @@
       "揚げたての香ばしさ"
     ],
     "orderAdvice": "地元の一般家庭では、正月や祭礼の日などのめでたいときに食されている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "具雑煮は長崎県・島原半島特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_1_nagasaki.html"
@@ -142890,12 +142406,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "いまでも、祝い事や法事などの際のお客さまをもてなすための料理として各家庭で作られている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "いりやきは長崎県・対馬市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_9_nagasaki.html"
@@ -142946,12 +142457,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "地元では、シチュー同様、秋や冬といった寒い季節に体が温まる料理としてよく食べられている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "ヒカドは長崎県・長崎市特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_11_nagasaki.html"
@@ -143002,12 +142508,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "かつては家庭ごとの冬の保存食だった。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "菓子",
-        "difference": "かんころ餅は長崎県・五島地方特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_17_nagasaki.html"
@@ -143111,12 +142612,7 @@
       "じっくり煮込んだ具材のやわらかさ"
     ],
     "orderAdvice": "正月料理に欠かせない主役料理。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "スープ",
-        "difference": "お雑煮は東京都・都内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_7_tokyo.html"
@@ -143171,12 +142667,7 @@
       "酸味な味わい"
     ],
     "orderAdvice": "年末に用意をして正月に食される全国的にも代表的なおせち料理のひとつである。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "こはだの粟づけは東京都・都内全域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_21_tokyo.html"
@@ -143227,12 +142718,7 @@
       "野菜の素朴な持ち味"
     ],
     "orderAdvice": "江戸時代には、傷みやすく保存が効かないために安価で手に入った脂身を使って作られたねぎま鍋であるが、現代では脂身の方が高価になり、本来のねぎま鍋は作りにくくなっている。 郷土の味を試したい人向け。",
-    "similarItems": [
-      {
-        "name": "主菜",
-        "difference": "ねぎま鍋は東京都・葛飾区及びその周辺地域特有の食材・製法による点が異なる"
-      }
-    ],
+    "similarItems": [],
     "relatedIds": [],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_26_tokyo.html"
@@ -172721,10 +172207,12 @@
     "caution": "魚介・塩分アレルギーに注意。",
     "similarItems": [
       {
+        "id": "ruibe-hokkaido",
         "name": "ルイベ",
         "difference": "ルイベは生鮭を凍結させ刺身状で食べるもので、鮭とばは乾燥させた干物"
       },
       {
+        "id": "matsumae-zuke-hokkaido",
         "name": "松前漬",
         "difference": "松前漬はスルメイカと昆布の醤油漬けで、鮭とばは鮭を干したもの"
       }
@@ -172782,10 +172270,12 @@
     "caution": "大豆・小麦アレルギーに注意。",
     "similarItems": [
       {
+        "id": "bekomochi-hokkaido",
         "name": "べこ餅",
         "difference": "べこ餅は米粉を蒸した餅菓子で、旭豆は豆をてんさい糖でコーティングした豆菓子"
       },
       {
+        "id": "wakasaimo-hokkaido",
         "name": "わかさいも",
         "difference": "わかさいもは白あんを使った焼き菓子で、旭豆は素材そのものの大豆菓子"
       }
@@ -172843,10 +172333,12 @@
     "caution": "小麦・乳・卵アレルギーに注意。",
     "similarItems": [
       {
+        "id": "asahimame-hokkaido",
         "name": "旭豆",
         "difference": "旭豆は大豆を使った豆菓子で、山親爺は小麦とバターのせんべい"
       },
       {
+        "id": "wakasaimo-hokkaido",
         "name": "わかさいも",
         "difference": "わかさいもは白あんを使った和菓子で、山親爺はバター風味の洋風せんべい"
       }
@@ -172907,10 +172399,12 @@
     "caution": "片栗粉（じゃがいもでんぷん）に注意。",
     "similarItems": [
       {
+        "id": "imo-mochi-tokushima",
         "name": "いももち",
         "difference": "徳島県・和歌山県のいももちはさつまいも系の別レシピで、北海道はじゃがいも使用"
       },
       {
+        "id": "imomochi-gifu",
         "name": "いももち（岐阜県・里芋）",
         "difference": "岐阜のいももちは里芋を使い、北海道はじゃがいもが原料"
       }
@@ -172969,10 +172463,12 @@
     "caution": "魚卵・白子アレルギーに注意。塩分が気になる場合は水にさらすとよい。",
     "similarItems": [
       {
+        "id": "tachi-no-misoshiru-hokkaido",
         "name": "たちの味噌汁／スケソウダラの白子の味噌汁",
         "difference": "たちの味噌汁は白子をそのまま汁に入れる料理で、たちかまは練り物に加工したもの"
       },
       {
+        "id": "matsumae-zuke-hokkaido",
         "name": "松前漬",
         "difference": "松前漬はスルメイカと昆布の漬物で、たちかまは白子のかまぼこ"
       }
@@ -173030,10 +172526,12 @@
     "caution": "貝類アレルギーに注意。",
     "similarItems": [
       {
+        "id": "matsumae-zuke-hokkaido",
         "name": "松前漬",
         "difference": "松前漬はスルメイカと昆布の漬物で、干し貝柱は乾燥させたほたてそのもの"
       },
       {
+        "id": "saketoba-hokkaido",
         "name": "鮭とば",
         "difference": "鮭とばは鮭の乾物で、干し貝柱はほたての貝柱の乾物"
       }
@@ -173089,6 +172587,7 @@
     "caution": "特になし。",
     "similarItems": [
       {
+        "id": "imomochi-hokkaido",
         "name": "いももち（北海道・じゃがいも）",
         "difference": "いももちはじゃがいもの加工品で、こちらはアスパラガスの水煮"
       }
@@ -173144,10 +172643,12 @@
     "caution": "豆類・卵・小麦アレルギーに注意。",
     "similarItems": [
       {
+        "id": "asahimame-hokkaido",
         "name": "旭豆",
         "difference": "旭豆は大豆をてんさい糖でコーティングした豆菓子で、わかさいもは白あんの和菓子"
       },
       {
+        "id": "yamaoyaji-hokkaido",
         "name": "山親爺",
         "difference": "山親爺はバター風味の洋風せんべいで、わかさいもは白あんを使った和菓子"
       }
@@ -173208,10 +172709,12 @@
     "caution": "魚介・塩分アレルギー、塩分過多に注意。",
     "similarItems": [
       {
+        "id": "nishin-zuke-hokkaido",
         "name": "ニシン漬け",
         "difference": "ニシン漬けは野菜と麹で漬ける漬物で、ぬかにしんは米ぬかと塩で漬け込む発酵食品"
       },
       {
+        "id": "sanpei-jiru-hokkaido",
         "name": "三平汁",
         "difference": "三平汁はぬかにしんなどを具にした汁物で、ぬかにしん自体は漬け込み食品"
       }
@@ -173272,6 +172775,7 @@
     "caution": "食後の口臭に注意。",
     "similarItems": [
       {
+        "id": "matsumae-zuke-hokkaido",
         "name": "松前漬",
         "difference": "松前漬はスルメイカと昆布の漬物で、行者にんにくしょうゆ漬けは山菜の漬物"
       }
@@ -174012,6 +173516,7 @@
     "orderAdvice": "ネバネバ食材が好きな人向け。海藻のぬめりが苦手な人には不向き。",
     "similarItems": [
       {
+        "id": "mozuku",
         "name": "もずく酢",
         "difference": "もずく酢は酢の効いた別の海藻。メカブとろろはわかめの根元を刻んだものでとろみが強い"
       }
@@ -176360,6 +175865,7 @@
         "difference": "花椒は舌が痺れる麻味。こしょうは刺激的な辛みが中心"
       },
       {
+        "id": "pink-pepper",
         "name": "ピンクペッパー",
         "difference": "ピンクペッパーは甘くフルーティーな香り。こしょうはより刺激的で辛みが強い"
       }
@@ -176814,6 +176320,7 @@
     "orderAdvice": "モヒートやミントティー、タブレなど爽やかな香りを添えた料理・飲み物の目印。ペパーミントより刺激が少なくミントが苦手でも試しやすいことがある。",
     "similarItems": [
       {
+        "id": "peppermint",
         "name": "ペパーミント",
         "difference": "ペパーミントはメントール主体の強い清涼感。スペアミントはカルボン主体の柔らかく甘い清涼感"
       },
@@ -177058,6 +176565,7 @@
         "difference": "キャトル・エピスはナツメグを含む4種のスパイスブレンド。ナツメグは単体のスパイス"
       },
       {
+        "id": "mace",
         "name": "メース",
         "difference": "メースはナツメグの種子を包む仮種皮を乾燥させたもの。ナツメグより香りが繊細"
       },
@@ -177602,10 +177110,12 @@
     "orderAdvice": "ナツメグ風味と書かれた料理より控えめで上品な香りを求めるなら、メース使用と表記された一皿を探すとよい。白いソースや繊細な魚料理との相性が良い。",
     "similarItems": [
       {
+        "id": "nutmeg",
         "name": "ナツメグ",
         "difference": "ナツメグは種子の仁本体で香りが強い。メースはその種子を包む仮種皮で、より穏やかな風味"
       },
       {
+        "id": "cinnamon",
         "name": "シナモン",
         "difference": "シナモンは樹皮由来で甘く刺激的な香り。メースは種子由来でより繊細な甘い香り"
       }
@@ -182510,6 +182020,7 @@
         "difference": "ユッケジャンは牛肉と野菜を唐辛子で辛く煮込んだスープで、補身湯の代用として生まれたとされる"
       },
       {
+        "id": "gamjatang",
         "name": "カムジャタン",
         "difference": "カムジャタンは豚の背骨とジャガイモをエゴマとともに煮込む鍋。エゴマ風味は共通するが豚肉を使う"
       }
