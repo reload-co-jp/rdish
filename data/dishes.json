@@ -94722,7 +94722,8 @@
     "similarItems": [
       {
         "name": "あんかけ焼きそば",
-        "difference": "鹵麺は汁麺寄りで、餡を麺に絡めて食べる"
+        "difference": "鹵麺は汁麺寄りで、餡を麺に絡めて食べる",
+        "id": "ankake-yakisoba"
       }
     ],
     "relatedIds": [
@@ -96124,7 +96125,8 @@
     "similarItems": [
       {
         "name": "白子ポン酢",
-        "difference": "上杭魚白は中華の炒め煮・香味調理で出る"
+        "difference": "上杭魚白は中華の炒め煮・香味調理で出る",
+        "id": "shirako-ponzu"
       }
     ],
     "relatedIds": [],
@@ -112099,7 +112101,8 @@
     "similarItems": [
       {
         "name": "カレイの煮つけ",
-        "difference": "カレイの煮つけは全国的で身が厚めなのに対し、くつぞこは扁平で身が薄く下処理にひと手間かかる"
+        "difference": "カレイの煮つけは全国的で身が厚めなのに対し、くつぞこは扁平で身が薄く下処理にひと手間かかる",
+        "id": "karei-no-nitsuke"
       }
     ],
     "relatedIds": [
@@ -173327,7 +173330,8 @@
     "similarItems": [
       {
         "name": "こしあん",
-        "difference": "こしあんは小豆を漉して作る餡。ずんだは枝豆をすりつぶした餡で緑色と豆の粒感が特徴"
+        "difference": "こしあんは小豆を漉して作る餡。ずんだは枝豆をすりつぶした餡で緑色と豆の粒感が特徴",
+        "id": "koshian"
       },
       {
         "name": "うぐいすあん",
@@ -177158,7 +177162,8 @@
       },
       {
         "name": "ごま",
-        "difference": "ごまはより強い香りと油分を持つ種子。ポピーシードは控えめな香りで食感重視"
+        "difference": "ごまはより強い香りと油分を持つ種子。ポピーシードは控えめな香りで食感重視",
+        "id": "goma"
       }
     ],
     "relatedIds": [],
@@ -177377,7 +177382,8 @@
       },
       {
         "name": "からし",
-        "difference": "からしはより刺激的でツンとした辛さが持続する。わさびは爽やかな香りと共に辛みが早く消える"
+        "difference": "からしはより刺激的でツンとした辛さが持続する。わさびは爽やかな香りと共に辛みが早く消える",
+        "id": "karashi"
       }
     ],
     "relatedIds": [
@@ -190991,7 +190997,8 @@
     "similarItems": [
       {
         "name": "カプチーノ",
-        "difference": "ミルクの泡が多く、ラテより軽くコーヒーの味が強い"
+        "difference": "ミルクの泡が多く、ラテより軽くコーヒーの味が強い",
+        "id": "cappuccino"
       }
     ],
     "relatedIds": [],
@@ -191492,7 +191499,8 @@
     "similarItems": [
       {
         "name": "腸粉",
-        "difference": "広東の米の蒸し皮料理。簸箕粄と似るが製法と材料が異なる"
+        "difference": "広東の米の蒸し皮料理。簸箕粄と似るが製法と材料が異なる",
+        "id": "cheung-fun"
       }
     ],
     "relatedIds": [
@@ -191816,7 +191824,8 @@
     "similarItems": [
       {
         "name": "奈良漬",
-        "difference": "酒粕で漬ける奈良の漬物。養肝漬はたまり醤油で漬ける鉄砲漬け"
+        "difference": "酒粕で漬ける奈良の漬物。養肝漬はたまり醤油で漬ける鉄砲漬け",
+        "id": "narazuke"
       }
     ],
     "relatedIds": [],
@@ -191840,6 +191849,693 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "cappuccino",
+    "name": "カプチーノ",
+    "kana": "かぷちーの",
+    "aliases": [
+      "カップッチーノ",
+      "Cappuccino"
+    ],
+    "englishName": "Cappuccino",
+    "originalName": "Cappuccino",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "エスプレッソにスチームミルクと厚めのミルクフォームを加えたイタリアのコーヒー飲料。陶器のカップで出され、ココアパウダーを振ることもある。",
+    "menuDescription": "濃厚なエスプレッソに、きめ細かく泡立てたミルクをたっぷりのせたカプチーノ。",
+    "whatComesOut": [
+      "陶器カップに入ったコーヒー",
+      "表面にこんもりのったミルクの泡",
+      "好みでココアやシナモンパウダー"
+    ],
+    "tasteAndTexture": [
+      "ふんわり軽いミルクの泡",
+      "ラテよりしっかりしたエスプレッソの苦み",
+      "甘さはなく砂糖で調整"
+    ],
+    "orderAdvice": "ラテよりコーヒー感が欲しく、ブラックほど苦くないものを飲みたい時に。イタリアでは朝に飲むのが一般的。",
+    "caution": "乳を使用。カフェインを含む。",
+    "similarItems": [
+      {
+        "id": "caffe-latte",
+        "name": "カフェラテ",
+        "difference": "ミルクが多く泡は薄い。カプチーノより軽くまろやか"
+      },
+      {
+        "name": "エスプレッソ",
+        "difference": "ミルクを加えない濃縮コーヒーそのもの"
+      }
+    ],
+    "relatedIds": [
+      "caffe-latte"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%97%E3%83%81%E3%83%BC%E3%83%8E",
+      "https://en.wikipedia.org/wiki/Cappuccino"
+    ],
+    "tags": [
+      "イタリア料理",
+      "乳製品",
+      "ふわふわ",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "紅茶",
+      "ブラックコーヒー",
+      "ジュース"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cappuccino/1.jpg",
+      "/images/dishes/cappuccino/2.jpg",
+      "/images/dishes/cappuccino/3.jpg"
+    ]
+  },
+  {
+    "id": "cheung-fun",
+    "name": "腸粉",
+    "kana": "ちょうふん",
+    "aliases": [
+      "チョンファン",
+      "猪腸粉",
+      "拉腸",
+      "ライスロール"
+    ],
+    "englishName": "Rice noodle roll",
+    "originalName": "腸粉",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "米粉の生地を薄く蒸して具を巻いた広東式点心。エビや叉焼を包み、甘めの醤油ダレをかけて食べる。",
+    "menuDescription": "薄く蒸し上げた米粉の皮でプリプリのエビを巻き、特製醤油ダレをかけた広東点心。",
+    "whatComesOut": [
+      "皿に並んだ白く平たい米粉のロール",
+      "中の具（エビ・叉焼・牛肉など）",
+      "上からかけた甘めの醤油ダレ"
+    ],
+    "tasteAndTexture": [
+      "つるんと柔らかくもっちりした皮",
+      "具の旨みと甘めの醤油ダレ",
+      "あっさりして軽い"
+    ],
+    "orderAdvice": "飲茶で揚げ物や肉まん以外の軽いものが欲しい時に。具でエビ・叉焼・牛肉から選べることが多い。",
+    "caution": "エビ入りは甲殻類アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "bo-ji-ban",
+        "name": "簸箕粄",
+        "difference": "客家の米粉蒸し料理。腸粉は具を巻いたロール状"
+      },
+      {
+        "id": "har-gow",
+        "name": "蝦餃",
+        "difference": "浮き粉の半透明の皮でエビを包んだ蒸し餃子"
+      },
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "米粉の麺をスープで食べるベトナム料理"
+      }
+    ],
+    "relatedIds": [
+      "har-gow",
+      "bo-ji-ban",
+      "xiaolongbao"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E8%85%B8%E7%B2%89",
+      "https://en.wikipedia.org/wiki/Rice_noodle_roll"
+    ],
+    "tags": [
+      "広東料理",
+      "点心",
+      "米",
+      "蒸し料理",
+      "もちもち",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "揚げ春巻き",
+      "焼き餃子",
+      "肉まん"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cheung-fun/1.jpg",
+      "/images/dishes/cheung-fun/2.jpg",
+      "/images/dishes/cheung-fun/3.jpg"
+    ]
+  },
+  {
+    "id": "narazuke",
+    "name": "奈良漬",
+    "kana": "ならづけ",
+    "aliases": [
+      "奈良漬け"
+    ],
+    "englishName": "Narazuke",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "奈良県"
+      }
+    ],
+    "summary": "白うり・胡瓜・生姜などを塩漬けにした後、新しい酒粕に何度も漬け替えて作る奈良の伝統的な漬物。",
+    "menuDescription": "白うりを酒粕に繰り返し漬け込み、深い琥珀色と芳醇な香りに仕上げた奈良漬。",
+    "whatComesOut": [
+      "薄切りにした飴色〜茶色の漬物",
+      "小皿に数切れ",
+      "ご飯やお茶漬けの添え"
+    ],
+    "tasteAndTexture": [
+      "酒粕の芳醇な香りと甘み",
+      "パリッとした歯ごたえ",
+      "濃厚でコクのある味"
+    ],
+    "orderAdvice": "酒粕の香りが好きなら。少量でご飯が進む。酒の香りが苦手な人には不向き。",
+    "caution": "酒粕由来のアルコールを含むため、運転前・子ども・アルコールに弱い人は注意。",
+    "similarItems": [
+      {
+        "id": "yokanzuke",
+        "name": "養肝漬",
+        "difference": "たまり醤油で漬ける伊賀の鉄砲漬け"
+      },
+      {
+        "id": "iburigakko-akita",
+        "name": "いぶりがっこ",
+        "difference": "燻した大根を米ぬかで漬けた秋田の漬物"
+      },
+      {
+        "id": "karimori-no-kasuzuke-aichi",
+        "name": "かりもりの粕漬け",
+        "difference": "かりもり（瓜）を使った愛知の粕漬け"
+      }
+    ],
+    "relatedIds": [
+      "yokanzuke",
+      "karimori-no-kasuzuke-aichi",
+      "iburigakko-akita"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E6%BC%AC%E3%81%91"
+    ],
+    "tags": [
+      "日本料理",
+      "関西",
+      "野菜",
+      "発酵",
+      "甘み",
+      "伝統料理",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "浅漬け",
+      "ピクルス",
+      "サラダ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/narazuke/1.jpg"
+    ]
+  },
+  {
+    "id": "karashi",
+    "name": "からし",
+    "kana": "からし",
+    "aliases": [
+      "辛子",
+      "芥子",
+      "和からし",
+      "練りからし"
+    ],
+    "englishName": "Japanese mustard",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "カラシナの種子（主にオリエンタルマスタードシード）から作る香辛料。鼻に抜ける強い辛味が特徴で、おでんや納豆、トンカツの薬味に少量使う。",
+    "menuDescription": "おでんやトンカツに添える、ツンとした辛味の和からし。",
+    "whatComesOut": [
+      "皿の端に添えられた黄色いペースト",
+      "小袋入りの練りからし"
+    ],
+    "tasteAndTexture": [
+      "鼻に抜けるツンとした辛味",
+      "酸味は少なく辛さが主体",
+      "辛味はすぐ消える"
+    ],
+    "orderAdvice": "少量ずつ付けるのが基本。洋風のマスタードより辛いので、初めてなら控えめに。",
+    "caution": "からし（マスタード）アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "mustard",
+        "name": "マスタード",
+        "difference": "イエロー/ブラウンマスタードシード主体で酸味があり辛味はマイルド"
+      },
+      {
+        "id": "wasabi",
+        "name": "わさび",
+        "difference": "同じく鼻に抜ける辛味だが、ワサビの根茎から作る"
+      },
+      {
+        "id": "mustard-seed",
+        "name": "マスタードシード",
+        "difference": "からしの原料となる種子そのもの"
+      }
+    ],
+    "relatedIds": [
+      "mustard",
+      "mustard-seed",
+      "wasabi",
+      "oden",
+      "tonkatsu",
+      "karashi-renkon-kumamoto"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%82%89%E3%81%97"
+    ],
+    "tags": [
+      "日本料理",
+      "調味料",
+      "スパイス",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "マヨネーズ",
+      "ケチャップ",
+      "甘い味噌"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/karashi/1.jpg",
+      "/images/dishes/karashi/2.jpg",
+      "/images/dishes/karashi/3.jpg"
+    ]
+  },
+  {
+    "id": "goma",
+    "name": "ごま",
+    "kana": "ごま",
+    "aliases": [
+      "ゴマ",
+      "胡麻",
+      "セサミ"
+    ],
+    "englishName": "Sesame",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "ゴマ科の一年草の種子。白・黒・金ごまがあり、炒りごま・すりごま・練りごま・ごま油として世界中で使われる。",
+    "menuDescription": "香ばしく炒った胡麻を、和え物やたれにたっぷりと。",
+    "whatComesOut": [
+      "料理に振りかけた粒のごま",
+      "すりごまや練りごまのたれ",
+      "ごま豆腐やごま和え"
+    ],
+    "tasteAndTexture": [
+      "炒った香ばしい香り",
+      "すると濃厚なコク",
+      "プチッとした粒の食感"
+    ],
+    "orderAdvice": "ごま和え・ごまだれなど料理名に入っていれば香ばしくコクのある味。アレルギーがなければ食べやすい。",
+    "caution": "ごまアレルギーに注意（特定原材料に準ずる品目）。",
+    "similarItems": [
+      {
+        "id": "tahini",
+        "name": "タヒニ",
+        "difference": "生に近いごまを練った中東のペースト。練りごまより軽い風味"
+      },
+      {
+        "id": "poppy-seed",
+        "name": "ポピーシード",
+        "difference": "ケシの実。より小さく香りは穏やか"
+      },
+      {
+        "id": "goma-toufu-wakayama",
+        "name": "ごま豆腐",
+        "difference": "ごまと葛を練り固めた精進料理"
+      }
+    ],
+    "relatedIds": [
+      "tahini",
+      "poppy-seed",
+      "goma-toufu-wakayama",
+      "yogoshi",
+      "goma-gohan-aomori",
+      "gomadashi-oita"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%9E"
+    ],
+    "tags": [
+      "ナッツ",
+      "香ばしい",
+      "こってり",
+      "精進料理"
+    ],
+    "reverseKeywords": [
+      "酢の物",
+      "塩",
+      "ハーブ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/goma/1.jpg",
+      "/images/dishes/goma/2.jpg",
+      "/images/dishes/goma/3.jpg"
+    ]
+  },
+  {
+    "id": "koshian",
+    "name": "こしあん",
+    "kana": "こしあん",
+    "aliases": [
+      "漉し餡",
+      "こし餡"
+    ],
+    "englishName": "Smooth red bean paste",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "煮た小豆をすり潰して皮を漉し取り、砂糖で練り上げたなめらかな餡。和菓子の基本素材。",
+    "menuDescription": "小豆の皮を丁寧に漉し取った、口どけなめらかな自家製こしあん。",
+    "whatComesOut": [
+      "和菓子の中に入った紫がかった黒いなめらかな餡",
+      "饅頭・大福・羊羹など"
+    ],
+    "tasteAndTexture": [
+      "しっかりした甘さ",
+      "皮がなく舌ざわりがなめらか",
+      "小豆の上品な風味"
+    ],
+    "orderAdvice": "粒あんの皮の食感が苦手な人向け。和菓子で選べるならなめらかさ重視でこちら。",
+    "similarItems": [
+      {
+        "name": "粒あん",
+        "difference": "小豆の粒と皮を残した餡で、食感がある"
+      },
+      {
+        "name": "うぐいすあん",
+        "difference": "青えんどうで作る緑色の餡"
+      },
+      {
+        "id": "zunda",
+        "name": "ずんだ",
+        "difference": "枝豆をすり潰した緑色の餡"
+      }
+    ],
+    "relatedIds": [
+      "zunda",
+      "sakura-mochi",
+      "ohagi-kyoto",
+      "oni-manju"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E9%A4%A1",
+      "https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%B1%86%E9%A4%A1"
+    ],
+    "tags": [
+      "日本料理",
+      "菓子",
+      "豆類",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "塩せんべい",
+      "チーズ",
+      "果物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/koshian/1.jpg",
+      "/images/dishes/koshian/2.jpg",
+      "/images/dishes/koshian/3.jpg"
+    ]
+  },
+  {
+    "id": "ankake-yakisoba",
+    "name": "あんかけ焼きそば",
+    "kana": "あんかけやきそば",
+    "aliases": [
+      "五目あんかけ焼きそば",
+      "五目焼きそば",
+      "かた焼きそば"
+    ],
+    "englishName": "Ankake yakisoba",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "肉・海老・野菜などをとろみのある餡にまとめ、炒めた麺や揚げたパリパリの中華麺にかけた中華風麺料理。",
+    "menuDescription": "香ばしく焼いた麺に、海老や野菜たっぷりの熱々五目あんをかけて。",
+    "whatComesOut": [
+      "大皿の焼いた麺または揚げ麺",
+      "上にたっぷりかかったとろみのある五目あん",
+      "好みで添えられた酢やからし"
+    ],
+    "tasteAndTexture": [
+      "とろりとした醤油味の熱い餡",
+      "麺のパリパリ感（揚げ麺）または香ばしさ",
+      "餡がしみて柔らかくなる変化"
+    ],
+    "orderAdvice": "ソース焼きそばより上品で野菜も摂れる。熱々の餡で口を火傷しやすいので注意。酢をかけて味変も定番。",
+    "caution": "エビ・小麦を含むことが多い。",
+    "similarItems": [
+      {
+        "id": "sara-udon",
+        "name": "皿うどん",
+        "difference": "長崎発祥。細い揚げ麺に餡をかけ、発祥が異なる"
+      },
+      {
+        "id": "yakisoba",
+        "name": "焼きそば",
+        "difference": "ソースで炒めた日本式。餡はかけない"
+      },
+      {
+        "id": "namie-yakisoba",
+        "name": "なみえ焼きそば",
+        "difference": "極太麺をソースで炒めた浪江町のご当地焼きそば"
+      }
+    ],
+    "relatedIds": [
+      "sara-udon",
+      "yakisoba",
+      "namie-yakisoba"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E7%84%BC%E3%81%8D%E3%81%9D%E3%81%B0"
+    ],
+    "tags": [
+      "日本料理",
+      "中国料理",
+      "麺料理",
+      "野菜",
+      "炒め物",
+      "あっさり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "冷やし中華",
+      "ざるそば",
+      "パスタ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ankake-yakisoba/1.jpg",
+      "/images/dishes/ankake-yakisoba/2.jpg",
+      "/images/dishes/ankake-yakisoba/3.jpg"
+    ]
+  },
+  {
+    "id": "shirako-ponzu",
+    "name": "白子ポン酢",
+    "kana": "しらこぽんず",
+    "aliases": [
+      "白子",
+      "タラ白子ポン酢",
+      "雲子"
+    ],
+    "englishName": "Shirako with ponzu",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "タラやフグの白子（魚の精巣）をさっと湯通しし、ポン酢ともみじおろし・ねぎで食べる冬の小鉢。",
+    "menuDescription": "冬が旬の真鱈の白子を湯通しし、ポン酢と紅葉おろしでさっぱりと。",
+    "whatComesOut": [
+      "小鉢に盛った白くひだのある白子",
+      "かけたポン酢",
+      "もみじおろし・刻みねぎ"
+    ],
+    "tasteAndTexture": [
+      "とろけるクリーミーな口どけ",
+      "濃厚でまったりした旨み",
+      "ポン酢の酸味で後味さっぱり"
+    ],
+    "orderAdvice": "居酒屋の冬の定番。クリーミーな食感が好きなら。見た目や由来が気になる人は避けたほうが無難。",
+    "caution": "魚の精巣。生や半生で出るため体調に注意。プリン体が多い。",
+    "similarItems": [
+      {
+        "id": "ankou-no-tomozu-ibaraki",
+        "name": "あんこうの共酢",
+        "difference": "あん肝を酢味噌にしてあんこうの身を食べる"
+      },
+      {
+        "name": "あん肝ポン酢",
+        "difference": "あんこうの肝。より脂が多く濃厚"
+      },
+      {
+        "id": "hongeo-hoe",
+        "name": "ホンオフェ",
+        "difference": "発酵エイを生で食べる韓国料理。強烈なアンモニア臭"
+      }
+    ],
+    "relatedIds": [
+      "ankou-no-tomozu-ibaraki",
+      "fugunokaraage-yamaguchi"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E7%B2%BE%E5%B7%A3",
+      "https://en.wikipedia.org/wiki/Milt"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "魚介",
+      "生食",
+      "クリーミー",
+      "酸味",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "唐揚げ",
+      "焼き鳥",
+      "冷奴"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "karei-no-nitsuke",
+    "name": "カレイの煮つけ",
+    "kana": "かれいのにつけ",
+    "aliases": [
+      "カレイの煮付け",
+      "鰈の煮付け",
+      "煮魚"
+    ],
+    "englishName": "Simmered flounder",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "カレイを醤油・砂糖・みりん・酒の少量の煮汁で甘辛く煮た、日本の代表的な煮魚。",
+    "menuDescription": "肉厚のカレイを甘辛い煮汁でふっくらと炊き上げた煮つけ。",
+    "whatComesOut": [
+      "切り身または一尾のカレイ",
+      "照りのある甘辛い煮汁",
+      "ごぼうや豆腐、生姜の添え"
+    ],
+    "tasteAndTexture": [
+      "醤油と砂糖の甘辛い味",
+      "ふっくら柔らかい白身",
+      "えんがわのゼラチン質"
+    ],
+    "orderAdvice": "定食屋の魚料理で迷ったら。骨があるので身をほぐしながら食べる。子持ちガレイなら卵も楽しめる。",
+    "caution": "骨に注意。",
+    "similarItems": [
+      {
+        "id": "nameta-gareino-nitsuke-miyagi",
+        "name": "ナメタガレイの煮つけ",
+        "difference": "宮城の正月料理。子持ちのナメタガレイを使う"
+      },
+      {
+        "id": "kinmenonitsuke-shizuoka",
+        "name": "金目の煮付け",
+        "difference": "脂ののった金目鯛を使い、より濃厚"
+      },
+      {
+        "id": "buri-daikon",
+        "name": "ぶり大根",
+        "difference": "ぶりのアラを大根と一緒に煮込む"
+      }
+    ],
+    "relatedIds": [
+      "nameta-gareino-nitsuke-miyagi",
+      "kinmenonitsuke-shizuoka",
+      "kutsuzoko-no-nitsuke-fukuoka",
+      "akagarei-no-komaburi",
+      "buri-daikon"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E7%85%AE%E7%89%A9",
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AC%E3%82%A4"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "甘み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "焼き魚",
+      "刺身",
+      "フライ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
     "spicinessScore": 0,
     "images": []
   }
