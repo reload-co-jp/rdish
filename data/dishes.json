@@ -87281,6 +87281,7 @@
     "caution": "乳製品とカフェインを含む。",
     "similarItems": [
       {
+        "id": "caffe-latte",
         "name": "カフェラテ",
         "difference": "エスプレッソ主体ではなく、ドリップ系コーヒーと牛乳を同量で合わせる"
       }
@@ -88495,6 +88496,7 @@
     "caution": "乳、バター、チョコを使う。",
     "similarItems": [
       {
+        "id": "chocolate-truffle",
         "name": "チョコトリュフ",
         "difference": "トリュフはガナッシュ主体。ブリガデイロは練乳を煮詰めたねっとり食感"
       }
@@ -92955,6 +92957,7 @@
   {
     "similarItems": [
       {
+        "id": "poi",
         "name": "ポイ",
         "difference": "ポイはハワイの発酵タロ主食。芋泥は甘く油脂を加えた中華デザート"
       }
@@ -93253,6 +93256,7 @@
   {
     "similarItems": [
       {
+        "id": "rou-geng",
         "name": "肉羹",
         "difference": "肉羹は台湾福建の羹全般。肉熗はさっと汆す肉片スープの意味合いが強い"
       },
@@ -93678,6 +93682,7 @@
   {
     "similarItems": [
       {
+        "id": "you-fan",
         "name": "油飯",
         "difference": "油飯は糯米を油で和える印象が強く、鹹飯は炊き込み飯寄り"
       }
@@ -95123,6 +95128,7 @@
   {
     "similarItems": [
       {
+        "id": "qing-zheng-yu",
         "name": "清蒸魚",
         "difference": "清蒸魚は蒸し主体。こちらは生姜入りの燉・煮込み寄り"
       }
@@ -95186,6 +95192,7 @@
   {
     "similarItems": [
       {
+        "id": "mei-cai-kou-rou",
         "name": "梅菜扣肉",
         "difference": "菜干扣肉は永定菜干など乾菜を前面に出す呼び方"
       }
@@ -95383,6 +95390,7 @@
   {
     "similarItems": [
       {
+        "id": "niu-za",
         "name": "牛雑",
         "difference": "牛雑は煮込み全般。九門頭は連城名物として複数部位の構成を重視"
       }
@@ -95646,6 +95654,7 @@
   {
     "similarItems": [
       {
+        "id": "hakka-cai-bao",
         "name": "客家菜包",
         "difference": "客家菜包は大根干しなども多い。韭菜包はニラ餡が主役"
       }
@@ -95781,6 +95790,7 @@
   {
     "similarItems": [
       {
+        "id": "dou-gan",
         "name": "豆腐干",
         "difference": "金絲豆腐干は長汀豆腐干系で、細い繊維感と香料滷味が特徴"
       }
@@ -95845,6 +95855,7 @@
   {
     "similarItems": [
       {
+        "id": "bo-ji-ban",
         "name": "簸箕粄",
         "difference": "簸箕粄は薄い米皮を巻く総称。大卷は大ぶりな巻き物として出る"
       }
@@ -105449,6 +105460,7 @@
     "caution": "大豆・魚アレルギーに注意。",
     "similarItems": [
       {
+        "id": "chikuwa",
         "name": "一般的なちくわ",
         "difference": "一般的なちくわは魚のすり身のみでつくる。とうふちくわは豆腐を主体に混ぜ込む点が独自。"
       },
@@ -107986,6 +107998,7 @@
     "caution": "生しらすは鮮度が落ちるのが早く水揚げ当日にしか食べられないため、天候や漁の状況により提供されない日もある。",
     "similarItems": [
       {
+        "id": "shirasu-don-wakayama",
         "name": "釜揚げしらす丼",
         "difference": "釜揚げしらす丼は加熱調理したしらすを使い通年提供されやすいが、生しらす丼は生のまま提供するため鮮度と提供日が限られる"
       }
@@ -108047,6 +108060,7 @@
     "caution": "もち米製品のため、喉に詰まらせないよう小さく切って食べるとよい。",
     "similarItems": [
       {
+        "id": "kujiramochi-yamagata",
         "name": "くじらもち",
         "difference": "べこもちの原型となった菓子で、北前船で伝わった素朴な蒸し菓子。模様よりも団子状の素朴な形が特徴。"
       },
@@ -108727,6 +108741,7 @@
     "caution": "漬け込みに数日かかるため、すぐには食べられない。",
     "similarItems": [
       {
+        "id": "konbu-maki",
         "name": "にしんの昆布巻き",
         "difference": "にしんを昆布で巻いて甘辛く煮る料理で、山椒漬けのような酸味の漬物ではなく煮物として仕上げる。"
       }
@@ -112440,6 +112455,7 @@
     "caution": "小骨が残ることがあるため、小さな子どもに与える際は注意。",
     "similarItems": [
       {
+        "id": "yaki-ayu-no-kanroni-kumamoto",
         "name": "鮎の甘露煮",
         "difference": "鮎の甘露煮は独特の香気が強いが、アマゴはよりクセの少ない上品な味わい"
       }
@@ -112620,6 +112636,7 @@
     "caution": "ホンモロコは絶滅危惧種のため、養殖・放流由来の個体が主に流通している点に留意。",
     "similarItems": [
       {
+        "id": "ayu-no-shioyaki-gifu",
         "name": "鮎の塩焼き",
         "difference": "鮎は塩焼きでシンプルに食べるのに対し、ホンモロコはどろ酢という独特の合わせ酢で食べる"
       }
@@ -114945,6 +114962,7 @@
     "orderAdvice": "4〜9月のへちま旬の時期、沖縄県内の食堂・家庭料理店で通年に近い形で提供。",
     "similarItems": [
       {
+        "id": "champuru",
         "name": "チャンプルー",
         "difference": "チャンプルーは炒め物だが、ンブシーは出汁で味噌煮込みにする点が異なる"
       }
@@ -115465,6 +115483,7 @@
     "orderAdvice": "お節料理の定番だが、通年で家庭料理店やお惣菜として味わえる。豆ご飯にしても楽しめる。",
     "similarItems": [
       {
+        "id": "tanba-kuromame-gohan-hyogo",
         "name": "黒豆ご飯",
         "difference": "煮た黒豆を炊き込みご飯にしたもので、単体の煮豆とは食べ方が異なる"
       }
@@ -117074,6 +117093,7 @@
     "orderAdvice": "冠婚葬祭や年末年始、お祭りなど人が集まる機会に佐渡島の家庭で作られる。おふくろの味を楽しみたい人向け。",
     "similarItems": [
       {
+        "id": "nishime",
         "name": "煮しめ(一般)",
         "difference": "一般的な煮しめより長時間煮込み汁気をほぼ飛ばす点が佐渡流の特徴"
       }
@@ -118927,6 +118947,7 @@
     "orderAdvice": "祝いの席や八月踊りなど人が集まる機会に奄美地域で作られる。沖縄のそうめんチャンプルーと食べ比べたい人向け。",
     "similarItems": [
       {
+        "id": "somen-champuru",
         "name": "そうめんチャンプルー",
         "difference": "沖縄のチャンプルーはだし汁を入れずに炒めるが、油ゾーメンはだし汁を入れて乳化させる"
       }
@@ -119036,6 +119057,7 @@
     "orderAdvice": "6月30日の夏越しの祓の時期、京都府内の和菓子店やスーパーで購入可能。抹茶味や黒糖味のアレンジもある。",
     "similarItems": [
       {
+        "id": "uiro",
         "name": "ういろう(一般)",
         "difference": "一般的なういろうは四角い形だが、水無月は氷を模した三角形に切り分ける"
       }
@@ -130989,6 +131011,7 @@
     "orderAdvice": "旧暦8月15日の十五夜、9月13日の十三夜の時期、静岡県富士川以西の家庭や和菓子店で作られる。子どもが供物をもらい歩く風習も体験したい人向け。",
     "similarItems": [
       {
+        "id": "tsukimi-dango",
         "name": "月見団子(一般)",
         "difference": "一般的な月見団子は丸いだけだが、へそもちは中央をへこませる独特の形をしている"
       }
@@ -172919,6 +172942,7 @@
         "difference": "瓜の鉄砲漬は唐辛子を詰めて醤油ベースの調味液で漬けピリ辛。金婚漬けは味噌床で漬け、辛みはなく彩り野菜を昆布で巻いて詰める点が異なる"
       },
       {
+        "id": "yokanzuke",
         "name": "養肝漬",
         "difference": "三重県の養肝漬も瓜に野菜を詰める漬物で製法が似るが、産地や漬け床の配合が異なる"
       }
@@ -174355,6 +174379,7 @@
         "difference": "チャンプルーは豆腐を炒め合わせるが、ソーミンタシャーは豆腐を使わずそうめん単体を炒める"
       },
       {
+        "id": "somen-champuru",
         "name": "ソーミンプットゥルー",
         "difference": "プットゥルーはだしを加えてとろみを出しやわらかく仕上げるが、ソーミンタシャーは強火でパラっと炒める"
       }
@@ -181761,6 +181786,7 @@
         "difference": "ちまきはもち米を葉で包んで蒸す。バーワンはでんぷん生地で餡を包み、甘辛ダレをかける"
       },
       {
+        "id": "har-gow",
         "name": "水晶餃子",
         "difference": "水晶餃子も透明なでんぷん皮だが一口サイズの点心。バーワンは大ぶりで、タレをかけて一皿として食べる"
       }
@@ -182195,6 +182221,7 @@
     "caution": "野生のオオコウモリを使用。コウモリはさまざまなウイルスの自然宿主となりうるとされ、十分な加熱が必須。乱獲により絶滅・減少した種もあり、保護対象の種や輸入規制がある地域も多い。",
     "similarItems": [
       {
+        "id": "paniki",
         "name": "パニキ",
         "difference": "パニキはインドネシア・北スラウェシのコウモリ料理で、唐辛子のきいたスパイシーな煮込み。コウモリスープは汁物で比較的あっさり"
       },
@@ -182288,8 +182315,9 @@
         "difference": "ホルモン焼きは日本の内臓焼きで主に腸や胃を使う。ウブレアサーダは乳房でミルキーな脂のコクが特徴"
       },
       {
+        "id": "teteun",
         "name": "テテウン",
-        "difference": "テテウンはイタリア・リグーリアなどの牛乳房料理で、茹でたりスライスして食べる"
+        "difference": "テテウンはイタリア・ヴァッレ・ダオスタ州の牛の乳房を塩とハーブに漬けて茹でた加工肉。ウブレアサーダは焼いて食べる"
       }
     ],
     "relatedIds": [
@@ -185987,6 +186015,7 @@
     "caution": "そば（アレルギー注意）を使用。",
     "similarItems": [
       {
+        "id": "zaru-soba",
         "name": "ざるそば",
         "difference": "一般的なざるそばは平らに盛るが、戸隠そばは一口大の束にして丸ざるに並べる"
       }
@@ -186479,6 +186508,7 @@
         "difference": "雲南の野生きのこを煮込む火鍋で辛くない"
       },
       {
+        "id": "shabu-shabu",
         "name": "しゃぶしゃぶ",
         "difference": "日本の鍋で、昆布だしに薄切り肉をくぐらせポン酢やごまだれで食べる。火鍋は麻辣スープが主流"
       }
@@ -186891,6 +186921,7 @@
     "caution": "小麦を使用。卵入りもある。",
     "similarItems": [
       {
+        "id": "buchimgae",
         "name": "パジョン",
         "difference": "韓国のねぎチヂミ。小麦粉の生地にねぎをのせて焼くが、層は作らない"
       }
@@ -187924,6 +187955,7 @@
         "difference": "リゾットは米をスープで煮た料理。アランチーニはそれを丸めて揚げる"
       },
       {
+        "id": "suppli",
         "name": "スップリ",
         "difference": "ローマのライスコロッケ。トマト味のリゾットにモッツァレラを入れた細長い形"
       }
@@ -188002,6 +188034,7 @@
         "difference": "ロシアのパン生地で具を包んだ揚げパン"
       },
       {
+        "id": "calzone",
         "name": "カルツォーネ",
         "difference": "イタリアのピザ生地を折りたたんで焼いたもの"
       }
@@ -188279,6 +188312,7 @@
     "caution": "小麦・卵・乳を使用。",
     "similarItems": [
       {
+        "id": "choux-cream",
         "name": "シュークリーム",
         "difference": "同じシュー生地だが中にクリームを詰めた甘い菓子"
       }
@@ -188707,6 +188741,7 @@
     "caution": "豆類を使用。",
     "similarItems": [
       {
+        "id": "idli",
         "name": "イドゥリ",
         "difference": "同じ発酵生地を蒸して丸く作った南インドの蒸しパン"
       }
@@ -188856,6 +188891,7 @@
         "difference": "ドイツのクリスマス菓子パンで、目が詰まって重く粉砂糖で覆う"
       },
       {
+        "id": "pandoro",
         "name": "パンドーロ",
         "difference": "ヴェローナの星形の菓子パンで、フルーツは入らない"
       }
@@ -189206,6 +189242,7 @@
     "caution": "豚肉を使用。",
     "similarItems": [
       {
+        "id": "cochinillo-asado",
         "name": "ロースト・サックリング・ピッグ（コチニーリョ）",
         "difference": "スペイン・セゴビアの子豚の丸焼き。皿で切れるほど柔らかい"
       }
@@ -189271,6 +189308,7 @@
     "caution": "小麦・卵・乳を使用。",
     "similarItems": [
       {
+        "id": "buche-de-noel",
         "name": "ブッシュ・ド・ノエル",
         "difference": "ロールケーキを薪に見立てたフランスのクリスマスケーキ"
       }
@@ -189423,6 +189461,7 @@
     "caution": "小麦・乳を使用。",
     "similarItems": [
       {
+        "id": "shepherds-pie",
         "name": "シェパーズパイ",
         "difference": "ひき肉をマッシュポテトで覆って焼いた英国料理"
       }
@@ -189599,6 +189638,2208 @@
     "beginnerFriendlyScore": 5,
     "uniquenessScore": 2,
     "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "shabu-shabu",
+    "name": "しゃぶしゃぶ",
+    "kana": "しゃぶしゃぶ",
+    "aliases": [
+      "牛しゃぶ",
+      "豚しゃぶ"
+    ],
+    "englishName": "Shabu-shabu",
+    "originalName": "しゃぶしゃぶ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "薄切りの牛肉や豚肉を昆布だしの鍋でさっとくぐらせ、ポン酢やごまだれで食べる日本の鍋料理。野菜や豆腐も一緒に煮て、締めにうどんや雑炊を楽しむ。",
+    "menuDescription": "極薄にスライスした霜降り牛肉を昆布だしにさっとくぐらせ、自家製ポン酢とごまだれでお召し上がりいただくしゃぶしゃぶ。",
+    "whatComesOut": [
+      "卓上の鍋に入った昆布だし",
+      "大皿に並んだ薄切りの牛肉・豚肉",
+      "白菜・春菊・豆腐・きのこ",
+      "ポン酢とごまだれ、薬味（もみじおろし・ねぎ）"
+    ],
+    "tasteAndTexture": [
+      "肉の脂が落ちてあっさりした味",
+      "柔らかくとろける薄切り肉",
+      "ポン酢のさっぱり、ごまだれのコク",
+      "締めの雑炊やうどんにうま味が移る"
+    ],
+    "orderAdvice": "日本の鍋料理の入門に最適で、肉の質がそのまま味になる。食べ放題店から高級店まで幅広い。",
+    "caution": "牛肉・豚肉・ごま・醤油（小麦・大豆）を使用。",
+    "similarItems": [
+      {
+        "id": "burishabu",
+        "name": "ぶりしゃぶ",
+        "difference": "ぶりの切り身でしゃぶしゃぶにしたもの"
+      },
+      {
+        "id": "huo-guo",
+        "name": "火鍋",
+        "difference": "中国の鍋料理で麻辣スープが主流。しゃぶしゃぶは昆布だしであっさり"
+      }
+    ],
+    "relatedIds": [
+      "burishabu",
+      "huo-guo",
+      "sukiyaki"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/しゃぶしゃぶ"
+    ],
+    "tags": [
+      "日本料理",
+      "鍋料理",
+      "牛肉",
+      "野菜",
+      "あっさり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "すき焼き",
+      "焼肉",
+      "火鍋"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/shabu-shabu/1.jpg",
+      "/images/dishes/shabu-shabu/2.jpg",
+      "/images/dishes/shabu-shabu/3.jpg"
+    ]
+  },
+  {
+    "id": "zaru-soba",
+    "name": "ざるそば",
+    "kana": "ざるそば",
+    "aliases": [
+      "もりそば",
+      "ざる蕎麦",
+      "盛りそば"
+    ],
+    "englishName": "Zaru soba",
+    "originalName": "笊蕎麦",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "茹でて冷水で締めたそばをざるや蒸籠に盛り、冷たいつゆにつけて食べる料理。刻み海苔をのせたものをざるそば、のせないものをもりそばと呼び分けることが多い。",
+    "menuDescription": "挽きたてのそば粉で打った十割そばを冷水でキリッと締め、かつおだしの効いたつゆでどうぞ。最後はそば湯でつゆを割ってお楽しみください。",
+    "whatComesOut": [
+      "ざるや蒸籠に盛った冷たいそば",
+      "刻み海苔（ざるそばの場合）",
+      "冷たいそばつゆと薬味（ねぎ・わさび）",
+      "食後のそば湯"
+    ],
+    "tasteAndTexture": [
+      "そばの香りとのどごし",
+      "つゆのだしと醤油のキリッとした味",
+      "冷たくさっぱり",
+      "コシのある歯ごたえ"
+    ],
+    "orderAdvice": "日本の麺料理の基本。そばアレルギーがなければ誰でも楽しめる。",
+    "caution": "そば（重篤なアレルギーに注意）・小麦（つなぎ）を使用。",
+    "similarItems": [
+      {
+        "id": "togakushi-soba",
+        "name": "戸隠そば",
+        "difference": "一口大の束にして丸ざるに並べる長野のそば"
+      },
+      {
+        "id": "hegi-soba",
+        "name": "片木蕎麦",
+        "difference": "布海苔をつなぎにした新潟のそばを片木に盛る"
+      }
+    ],
+    "relatedIds": [
+      "togakushi-soba",
+      "hegi-soba",
+      "somen"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ざるそば"
+    ],
+    "tags": [
+      "日本料理",
+      "麺料理",
+      "あっさり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "うどん",
+      "ラーメン",
+      "パスタ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/zaru-soba/1.jpg",
+      "/images/dishes/zaru-soba/2.jpg",
+      "/images/dishes/zaru-soba/3.jpg"
+    ]
+  },
+  {
+    "id": "tsukimi-dango",
+    "name": "月見団子",
+    "kana": "つきみだんご",
+    "aliases": [
+      "お月見団子"
+    ],
+    "englishName": "Tsukimi dango",
+    "originalName": "月見団子",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "十五夜（中秋の名月）などに月に供える白い団子。関東では丸い団子をピラミッド状に積み、関西では里芋の形に似せて餡を巻いたものが多い。",
+    "menuDescription": "中秋の名月に供える真っ白な月見団子。すすきとともに飾ったあとは、きな粉やみたらしあんでお召し上がりください。",
+    "whatComesOut": [
+      "三方に積み上げた白い丸い団子（十五個など）",
+      "関西風は餡で包んだ細長い団子",
+      "すすきが添えられる"
+    ],
+    "tasteAndTexture": [
+      "もっちりした素朴な団子",
+      "味付けはほぼなく、きな粉・あんこ・砂糖醤油で食べる"
+    ],
+    "orderAdvice": "主に飾るための行事菓子。お月見の時期に和菓子店に並ぶ。",
+    "caution": "米を使用。喉に詰まらせないよう注意。",
+    "similarItems": [
+      {
+        "id": "mitarashi-dango",
+        "name": "みたらし団子",
+        "difference": "焼いた団子に甘辛いたれをかけたもの"
+      }
+    ],
+    "relatedIds": [
+      "mitarashi-dango",
+      "hishi-mochi"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/月見団子"
+    ],
+    "tags": [
+      "日本料理",
+      "菓子",
+      "米",
+      "もちもち",
+      "季節料理",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "洋菓子",
+      "チョコレート",
+      "クッキー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "nishime",
+    "name": "煮しめ",
+    "kana": "にしめ",
+    "aliases": [
+      "煮染め",
+      "お煮しめ",
+      "煮〆"
+    ],
+    "englishName": "Nishime",
+    "originalName": "煮染め",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "里芋・にんじん・ごぼう・れんこん・こんにゃく・しいたけなどを、汁気がなくなるまでじっくり煮含めた煮物。正月のおせちや祝い事の定番。",
+    "menuDescription": "根菜や干ししいたけ、こんにゃくを、だしと醤油でじっくり時間をかけて煮しめました。おせちにも欠かせない、素材の味が生きた煮物です。",
+    "whatComesOut": [
+      "重箱や器に盛った根菜の煮物",
+      "飾り切りのにんじん・れんこん",
+      "しいたけ・こんにゃく・ごぼう・里芋",
+      "鶏肉が入る筑前煮風のものも"
+    ],
+    "tasteAndTexture": [
+      "だしと醤油が中まで染みた味",
+      "汁気はほとんどない",
+      "根菜の歯ごたえ",
+      "冷めてもおいしい"
+    ],
+    "orderAdvice": "おせちや法事の定番の煮物。やさしい味でクセがない。",
+    "caution": "醤油（小麦・大豆）を使用。",
+    "similarItems": [
+      {
+        "id": "sado-no-nishime-niigata",
+        "name": "佐渡の煮しめ",
+        "difference": "新潟・佐渡の煮しめで長時間煮て汁気を飛ばす"
+      },
+      {
+        "id": "nishime-miyazaki",
+        "name": "煮しめ（宮崎県）",
+        "difference": "宮崎の郷土版"
+      },
+      {
+        "id": "osechi",
+        "name": "おせち料理",
+        "difference": "煮しめが入る正月料理"
+      }
+    ],
+    "relatedIds": [
+      "sado-no-nishime-niigata",
+      "nishime-miyazaki",
+      "osechi",
+      "30-11-fukushima"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/煮しめ"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "煮込み",
+      "伝統料理",
+      "祝祭料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "肉じゃが",
+      "唐揚げ",
+      "サラダ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/nishime/1.jpg",
+      "/images/dishes/nishime/2.jpg",
+      "/images/dishes/nishime/3.jpg"
+    ]
+  },
+  {
+    "id": "uiro",
+    "name": "ういろう",
+    "kana": "ういろう",
+    "aliases": [
+      "外郎",
+      "ういろ",
+      "名古屋ういろう"
+    ],
+    "englishName": "Uiro",
+    "originalName": "外郎",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "米粉に砂糖と水を加えて練り、型に流して蒸した和菓子。名古屋・小田原・山口などが名産地で、もっちりした食感と素朴な甘さが特徴。",
+    "menuDescription": "上質な米粉と砂糖で練り上げ、じっくり蒸し上げたういろう。もっちりとした弾力と、やさしい甘さをお楽しみください。",
+    "whatComesOut": [
+      "四角い棒状の蒸し菓子を切り分けたもの",
+      "白・抹茶・桜・黒糖などの色と味",
+      "個包装の土産品"
+    ],
+    "tasteAndTexture": [
+      "むっちりもちもちの弾力",
+      "素朴で上品な甘さ",
+      "冷たくてもおいしい"
+    ],
+    "orderAdvice": "名古屋や小田原の定番土産。甘さ控えめで食べやすい。",
+    "caution": "米を使用。わらび粉や小麦粉を使う地域もある。",
+    "similarItems": [
+      {
+        "id": "minazuki-kyoto",
+        "name": "水無月",
+        "difference": "ういろうに小豆をのせ三角形に切った京都の夏の菓子"
+      },
+      {
+        "id": "43-25-yamaguchi",
+        "name": "外郎（山口県）",
+        "difference": "わらび粉を使う山口のういろう"
+      },
+      {
+        "id": "44-7-tokushima",
+        "name": "阿波ういろ",
+        "difference": "徳島のういろう"
+      }
+    ],
+    "relatedIds": [
+      "minazuki-kyoto",
+      "43-25-yamaguchi",
+      "44-7-tokushima"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/外郎_(菓子)"
+    ],
+    "tags": [
+      "日本料理",
+      "菓子",
+      "米",
+      "蒸し料理",
+      "甘み",
+      "もちもち",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "羊羹",
+      "洋菓子",
+      "ゼリー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/uiro/1.jpg",
+      "/images/dishes/uiro/2.jpg",
+      "/images/dishes/uiro/3.jpg"
+    ]
+  },
+  {
+    "id": "champuru",
+    "name": "チャンプルー",
+    "kana": "ちゃんぷるー",
+    "aliases": [
+      "チャンプル",
+      "沖縄の炒め物"
+    ],
+    "englishName": "Champuru",
+    "originalName": "チャンプルー",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "沖縄県"
+      }
+    ],
+    "summary": "島豆腐と野菜などを炒め合わせた沖縄の家庭料理の総称。沖縄の言葉で「混ぜこぜ」を意味し、ゴーヤー・ソーミン・フー（麩）など主役の具材で名前が変わる。",
+    "menuDescription": "固めの島豆腐を香ばしく焼き付け、季節の野菜、ポーク、卵と一緒にかつおだしで炒め合わせた沖縄のチャンプルー。",
+    "whatComesOut": [
+      "皿に盛った豆腐と野菜の炒め物",
+      "ゴーヤー・もやし・キャベツなど",
+      "ポークランチョンミートや豚肉",
+      "卵でとじてかつお節をのせることも"
+    ],
+    "tasteAndTexture": [
+      "かつおだしと塩・醤油のシンプルな味",
+      "島豆腐のしっかりした食感",
+      "野菜のシャキシャキ感"
+    ],
+    "orderAdvice": "沖縄の食堂の定番。ゴーヤーの苦みが苦手ならフーチャンプルーや豆腐チャンプルーを。",
+    "caution": "大豆・卵を使用。",
+    "similarItems": [
+      {
+        "id": "47-11-okinawa",
+        "name": "ゴーヤーチャンプルー",
+        "difference": "ゴーヤーを主役にしたチャンプルー"
+      },
+      {
+        "id": "somen-champuru",
+        "name": "ソーミンチャンプルー",
+        "difference": "そうめんを炒めたもの"
+      }
+    ],
+    "relatedIds": [
+      "47-11-okinawa",
+      "somen-champuru"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/チャンプルー"
+    ],
+    "tags": [
+      "沖縄料理",
+      "主菜",
+      "豆類",
+      "野菜",
+      "炒め物",
+      "家庭料理",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "野菜炒め",
+      "八宝菜",
+      "麻婆豆腐"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/champuru/1.jpg",
+      "/images/dishes/champuru/2.jpg",
+      "/images/dishes/champuru/3.jpg"
+    ]
+  },
+  {
+    "id": "somen-champuru",
+    "name": "ソーミンチャンプルー",
+    "kana": "そーみんちゃんぷるー",
+    "aliases": [
+      "ソーミンプットゥルー",
+      "そうめんチャンプルー",
+      "そうめんチャンプル"
+    ],
+    "englishName": "Somen champuru",
+    "originalName": "ソーミンチャンプルー",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "沖縄県"
+      }
+    ],
+    "summary": "固めに茹でたそうめんを、ツナやポーク、ねぎなどと油で炒めた沖縄の家庭料理。汁気を含ませてしっとり仕上げたものはソーミンプットゥルーと呼ぶ。",
+    "menuDescription": "そうめんをさっと茹でて油をからめ、ツナとにらと一緒に手早く炒めた沖縄の家庭の味。",
+    "whatComesOut": [
+      "油で炒めたそうめん",
+      "ツナ・ポーク・にら・ねぎ",
+      "皿に盛った軽い一品"
+    ],
+    "tasteAndTexture": [
+      "塩とだしのシンプルな味",
+      "油をまとったつるっとした麺",
+      "ツナのうま味"
+    ],
+    "orderAdvice": "沖縄の家庭料理の定番で手軽な一品。くっつきやすいので作り立てを。",
+    "caution": "小麦を使用。",
+    "similarItems": [
+      {
+        "id": "47-24-okinawa",
+        "name": "ンムクジプットゥルー",
+        "difference": "芋くずで作るもちもちの沖縄料理。名前のプットゥルーはしっとりした状態を指す"
+      },
+      {
+        "id": "champuru",
+        "name": "チャンプルー",
+        "difference": "豆腐と野菜の炒め物の総称"
+      }
+    ],
+    "relatedIds": [
+      "champuru",
+      "47-24-okinawa",
+      "somen"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ソーミンチャンプルー"
+    ],
+    "tags": [
+      "沖縄料理",
+      "麺料理",
+      "小麦",
+      "炒め物",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "焼きそば",
+      "冷やしそうめん",
+      "パスタ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "chikuwa",
+    "name": "ちくわ",
+    "kana": "ちくわ",
+    "aliases": [
+      "竹輪",
+      "焼きちくわ"
+    ],
+    "englishName": "Chikuwa",
+    "originalName": "竹輪",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "魚のすり身を竹などの棒に巻き付けて焼いたり蒸したりした筒状の練り物。おでんや磯辺揚げ、そのまま食べるなど用途が広い。",
+    "menuDescription": "上質な白身魚のすり身を串に巻いて香ばしく焼き上げたちくわ。そのまま、またはおでんや磯辺揚げでどうぞ。",
+    "whatComesOut": [
+      "中が空洞の筒状の練り物",
+      "表面に焼き色",
+      "おでん・磯辺揚げ・きゅうりを詰めたものなど"
+    ],
+    "tasteAndTexture": [
+      "ぷりっとした弾力",
+      "魚のうま味とほのかな甘み",
+      "焼き目の香ばしさ"
+    ],
+    "orderAdvice": "日本の定番食材でクセがない。",
+    "caution": "魚・卵白・小麦（でんぷん）を使用することがある。",
+    "similarItems": [
+      {
+        "id": "ago-chikuwa",
+        "name": "あごちくわ",
+        "difference": "トビウオで作る山陰の大きなちくわ"
+      },
+      {
+        "id": "toufu-chikuwa",
+        "name": "とうふちくわ",
+        "difference": "豆腐を混ぜた鳥取のちくわ"
+      },
+      {
+        "id": "hanpen",
+        "name": "はんぺん",
+        "difference": "ふわふわの白い練り物"
+      }
+    ],
+    "relatedIds": [
+      "ago-chikuwa",
+      "toufu-chikuwa",
+      "hanpen"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/竹輪"
+    ],
+    "tags": [
+      "日本料理",
+      "魚介",
+      "焼き物",
+      "あっさり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "はんぺん",
+      "さつま揚げ",
+      "かまぼこ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chikuwa/1.jpg",
+      "/images/dishes/chikuwa/2.jpg",
+      "/images/dishes/chikuwa/3.jpg"
+    ]
+  },
+  {
+    "id": "qing-zheng-yu",
+    "name": "清蒸魚",
+    "kana": "ちんじょんゆい",
+    "aliases": [
+      "蒸し魚",
+      "白身魚の姿蒸し",
+      "清蒸鮮魚"
+    ],
+    "englishName": "Steamed fish",
+    "originalName": "清蒸鱼（qīngzhēng yú）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "広東"
+      }
+    ],
+    "summary": "新鮮な白身魚を丸ごと蒸し、ねぎと生姜をのせて熱した油をかけ、醤油だれを回しかけた広東料理。魚の鮮度がそのまま味になる。",
+    "menuDescription": "活きのよい白身魚を丸ごと蒸し上げ、白髪ねぎと生姜にジュッと熱い油をかけ、特製の醤油だれで仕上げた清蒸魚です。",
+    "whatComesOut": [
+      "大皿にのった丸ごと一尾の蒸し魚",
+      "上に白髪ねぎ・生姜・香菜",
+      "皿にたまった醤油ベースのたれ"
+    ],
+    "tasteAndTexture": [
+      "ふっくら柔らかい身",
+      "魚の甘みとうま味",
+      "醤油だれと熱した油の香ばしさ",
+      "ねぎと生姜の香り"
+    ],
+    "orderAdvice": "広東料理店で魚料理を頼むならまず候補。骨が多いので注意。",
+    "caution": "魚・醤油（小麦・大豆）を使用。",
+    "similarItems": [
+      {
+        "id": "qing-zheng-jiang-tuan",
+        "name": "清蒸江団",
+        "difference": "長江の魚を使う同じ清蒸の料理"
+      },
+      {
+        "id": "tai-no-karamushi",
+        "name": "鯛の唐蒸し",
+        "difference": "鯛に具を詰めて蒸す日本の料理"
+      }
+    ],
+    "relatedIds": [
+      "qing-zheng-jiang-tuan",
+      "tai-no-karamushi",
+      "bai-qie-ji"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Steamed_fish"
+    ],
+    "tags": [
+      "中国料理",
+      "広東料理",
+      "主菜",
+      "魚介",
+      "蒸し料理",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "焼き魚",
+      "フライ",
+      "煮魚"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/qing-zheng-yu/1.jpg",
+      "/images/dishes/qing-zheng-yu/2.jpg",
+      "/images/dishes/qing-zheng-yu/3.jpg"
+    ]
+  },
+  {
+    "id": "har-gow",
+    "name": "蝦餃",
+    "kana": "はーがう",
+    "aliases": [
+      "ハーガウ",
+      "エビ餃子",
+      "水晶餃子",
+      "水晶蝦餃"
+    ],
+    "englishName": "Har gow",
+    "originalName": "虾饺（xiājiǎo）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "広東"
+      },
+      {
+        "country": "香港"
+      }
+    ],
+    "summary": "浮き粉（小麦でんぷん）で作った半透明の薄い皮でエビを包んで蒸した広東の点心。飲茶の代表格で、透き通った皮から「水晶」と形容される。",
+    "menuDescription": "ぷりぷりのエビを、透き通るほど薄いもちもちの皮で包んで蒸し上げた飲茶の定番点心です。",
+    "whatComesOut": [
+      "蒸籠に入った半透明の餃子（3〜4個）",
+      "皮越しに見えるピンクのエビ",
+      "ひだを寄せた三日月形"
+    ],
+    "tasteAndTexture": [
+      "もちっとしてつるんとした皮",
+      "エビのぷりぷりした食感と甘み",
+      "あっさりした塩味"
+    ],
+    "orderAdvice": "飲茶で最初に頼む定番。クセがなく誰でも食べやすい。",
+    "caution": "エビ（甲殻類）・小麦でんぷんを使用。",
+    "similarItems": [
+      {
+        "id": "ba-wan",
+        "name": "バーワン",
+        "difference": "台湾のでんぷん皮の大きな肉団子"
+      },
+      {
+        "id": "35-22-kanagawa",
+        "name": "シューマイ",
+        "difference": "小麦の皮で包む飲茶の点心"
+      }
+    ],
+    "relatedIds": [
+      "ba-wan",
+      "chi-zhi-feng-zhua",
+      "35-22-kanagawa"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Har_gow"
+    ],
+    "tags": [
+      "中国料理",
+      "広東料理",
+      "点心",
+      "魚介",
+      "蒸し料理",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "焼き餃子",
+      "シューマイ",
+      "小籠包"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/har-gow/1.jpg",
+      "/images/dishes/har-gow/2.jpg",
+      "/images/dishes/har-gow/3.jpg"
+    ]
+  },
+  {
+    "id": "choux-cream",
+    "name": "シュークリーム",
+    "kana": "しゅーくりーむ",
+    "aliases": [
+      "シュー・ア・ラ・クレーム",
+      "Chou à la crème"
+    ],
+    "englishName": "Cream puff",
+    "originalName": "Chou à la crème",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "フランス"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "シュー生地を焼いて中を空洞にし、カスタードクリームやホイップクリームを詰めた洋菓子。名はフランス語でキャベツを意味する「シュー」に由来する。",
+    "menuDescription": "サクッと香ばしく焼いたシュー皮に、バニラ香るなめらかなカスタードクリームをたっぷり詰めました。",
+    "whatComesOut": [
+      "丸く膨らんだシュー皮",
+      "中のカスタードやホイップクリーム",
+      "粉砂糖がかかることも"
+    ],
+    "tasteAndTexture": [
+      "皮は香ばしくサクッ、またはしっとり",
+      "とろりとしたカスタードの甘さ",
+      "卵とバニラの香り"
+    ],
+    "orderAdvice": "日本のケーキ店・コンビニの定番。クリームがあふれやすいので食べ方に注意。",
+    "caution": "小麦・卵・乳を使用。",
+    "similarItems": [
+      {
+        "id": "gougere",
+        "name": "グジェール",
+        "difference": "チーズ入りの塩味のシュー"
+      },
+      {
+        "id": "roll-cake",
+        "name": "ロールケーキ",
+        "difference": "スポンジでクリームを巻いた洋菓子"
+      }
+    ],
+    "relatedIds": [
+      "gougere",
+      "roll-cake"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/シュークリーム"
+    ],
+    "tags": [
+      "フランス料理",
+      "デザート",
+      "卵",
+      "乳製品",
+      "焼き物",
+      "クリーミー",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "和菓子",
+      "せんべい",
+      "ゼリー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/choux-cream/1.jpg",
+      "/images/dishes/choux-cream/2.jpg",
+      "/images/dishes/choux-cream/3.jpg"
+    ]
+  },
+  {
+    "id": "buche-de-noel",
+    "name": "ブッシュ・ド・ノエル",
+    "kana": "ぶっしゅどのえる",
+    "aliases": [
+      "ブッシュドノエル",
+      "Bûche de Noël",
+      "ユールログ"
+    ],
+    "englishName": "Yule log",
+    "originalName": "Bûche de Noël",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "ロールケーキをチョコレートクリームで覆い、木の幹（薪）に見立てて飾ったフランスのクリスマスケーキ。",
+    "menuDescription": "しっとりしたスポンジを巻き、チョコレートクリームで薪の木肌を描いたブッシュ・ド・ノエル。",
+    "whatComesOut": [
+      "薪の形をした細長いケーキ",
+      "フォークで木目を描いたチョコクリーム",
+      "柊やきのこ形のメレンゲなどの飾り"
+    ],
+    "tasteAndTexture": [
+      "チョコレートクリームの濃厚な甘さ",
+      "しっとりしたスポンジ",
+      "クリームの層"
+    ],
+    "orderAdvice": "クリスマス時期の定番ケーキ。チョコ好きなら間違いない。",
+    "caution": "小麦・卵・乳を使用。",
+    "similarItems": [
+      {
+        "id": "roll-cake",
+        "name": "ロールケーキ",
+        "difference": "ブッシュ・ド・ノエルの土台となるケーキ"
+      },
+      {
+        "id": "stollen",
+        "name": "シュトーレン",
+        "difference": "ドイツのクリスマス菓子パン"
+      }
+    ],
+    "relatedIds": [
+      "roll-cake",
+      "stollen",
+      "panettone"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/B%C3%BBche_de_No%C3%ABl"
+    ],
+    "tags": [
+      "フランス料理",
+      "デザート",
+      "卵",
+      "乳製品",
+      "焼き物",
+      "甘み",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "ショートケーキ",
+      "チーズケーキ",
+      "フルーツタルト"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/buche-de-noel/1.png",
+      "/images/dishes/buche-de-noel/2.jpg",
+      "/images/dishes/buche-de-noel/3.jpg"
+    ]
+  },
+  {
+    "id": "shepherds-pie",
+    "name": "シェパーズパイ",
+    "kana": "しぇぱーずぱい",
+    "aliases": [
+      "コテージパイ",
+      "Shepherd's pie"
+    ],
+    "englishName": "Shepherd's pie",
+    "originalName": "Shepherd's pie",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イギリス"
+      },
+      {
+        "country": "アイルランド"
+      }
+    ],
+    "summary": "羊のひき肉と野菜をグレイビーで煮込み、マッシュポテトで覆ってオーブンで焼いたイギリスの家庭料理。牛ひき肉で作るとコテージパイと呼ぶ。",
+    "menuDescription": "ラムのひき肉と玉ねぎ、にんじんをじっくり煮込み、なめらかなマッシュポテトをのせてこんがり焼き上げたシェパーズパイ。",
+    "whatComesOut": [
+      "耐熱皿に入った焼き料理",
+      "表面はこんがりしたマッシュポテト",
+      "下にひき肉と野菜の煮込み"
+    ],
+    "tasteAndTexture": [
+      "ポテトのクリーミーさと焼き目の香ばしさ",
+      "ひき肉のうま味とグレイビーのコク"
+    ],
+    "orderAdvice": "パブ料理の定番。グラタンやミートソースが好きなら食べやすい。",
+    "caution": "乳を使用。",
+    "similarItems": [
+      {
+        "id": "pot-pie",
+        "name": "ポットパイ",
+        "difference": "パイ生地で蓋をする。シェパーズパイはマッシュポテトで覆う"
+      },
+      {
+        "id": "moussaka",
+        "name": "ムサカ",
+        "difference": "なすとひき肉を重ねたギリシャの焼き料理"
+      }
+    ],
+    "relatedIds": [
+      "pot-pie",
+      "moussaka",
+      "pastitsio"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Shepherd%27s_pie"
+    ],
+    "tags": [
+      "イギリス料理",
+      "主菜",
+      "羊肉",
+      "野菜",
+      "焼き物",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ハンバーグ",
+      "ステーキ",
+      "サラダ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/shepherds-pie/1.jpg",
+      "/images/dishes/shepherds-pie/2.jpg",
+      "/images/dishes/shepherds-pie/3.jpg"
+    ]
+  },
+  {
+    "id": "calzone",
+    "name": "カルツォーネ",
+    "kana": "かるつぉーね",
+    "aliases": [
+      "カルゾーネ",
+      "Calzone"
+    ],
+    "englishName": "Calzone",
+    "originalName": "Calzone",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "ナポリ"
+      }
+    ],
+    "summary": "ピザ生地にチーズ・ハム・トマトソースなどの具をのせ、半月形に折りたたんで焼いたナポリ発祥の料理。",
+    "menuDescription": "モッツァレラ、リコッタ、ハムをピザ生地で包み、窯で香ばしく焼き上げたカルツォーネ。",
+    "whatComesOut": [
+      "半月形にふくらんだ焼きピザ",
+      "中にとろけるチーズとハム・サラミ",
+      "トマトソースを上にかけることも"
+    ],
+    "tasteAndTexture": [
+      "外はパリッと香ばしい生地",
+      "中は熱々でとろけるチーズ",
+      "具のうま味が閉じ込められている"
+    ],
+    "orderAdvice": "ピザ店の定番メニュー。中が非常に熱いのでやけどに注意。",
+    "caution": "小麦・乳を使用。",
+    "similarItems": [
+      {
+        "id": "empanada",
+        "name": "エンパナーダ",
+        "difference": "中南米の包み焼き。カルツォーネより小さく具が多彩"
+      }
+    ],
+    "relatedIds": [
+      "empanada"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Calzone"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "チーズ",
+      "小麦",
+      "焼き物",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "マルゲリータ",
+      "パスタ",
+      "サンドイッチ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/calzone/1.jpg",
+      "/images/dishes/calzone/2.jpg",
+      "/images/dishes/calzone/3.jpg"
+    ]
+  },
+  {
+    "id": "suppli",
+    "name": "スップリ",
+    "kana": "すっぷり",
+    "aliases": [
+      "スプリ",
+      "スップリー",
+      "Supplì"
+    ],
+    "englishName": "Supplì",
+    "originalName": "Supplì",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "ローマ"
+      }
+    ],
+    "summary": "トマトソースで煮たリゾットにモッツァレラを入れて細長く丸め、パン粉をつけて揚げたローマのライスコロッケ。割るとチーズが電話線のように伸びることから「電話のスップリ」とも呼ばれる。",
+    "menuDescription": "トマト風味のリゾットにモッツァレラを包み、カリッと揚げたローマ名物のスップリ。",
+    "whatComesOut": [
+      "細長い俵形のライスコロッケ",
+      "割ると糸を引くモッツァレラ"
+    ],
+    "tasteAndTexture": [
+      "カリッとした衣",
+      "トマトの酸味ともっちりした米",
+      "伸びるチーズ"
+    ],
+    "orderAdvice": "ローマのピッツェリアの定番前菜。アランチーニより小ぶりで食べやすい。",
+    "caution": "小麦・卵・乳を使用。",
+    "similarItems": [
+      {
+        "id": "arancini",
+        "name": "アランチーニ",
+        "difference": "シチリアの丸いライスコロッケで、サフラン味が基本"
+      }
+    ],
+    "relatedIds": [
+      "arancini",
+      "risotto"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Suppl%C3%AC"
+    ],
+    "tags": [
+      "イタリア料理",
+      "軽食",
+      "米",
+      "チーズ",
+      "揚げ物",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "おにぎり",
+      "ポテトコロッケ",
+      "リゾット"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/suppli/1.jpg"
+    ]
+  },
+  {
+    "id": "pandoro",
+    "name": "パンドーロ",
+    "kana": "ぱんどーろ",
+    "aliases": [
+      "Pandoro"
+    ],
+    "englishName": "Pandoro",
+    "originalName": "Pandoro",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "ヴェローナ"
+      }
+    ],
+    "summary": "ヴェローナ発祥の、八角の星形に焼いたクリスマスの発酵菓子パン。卵とバターをたっぷり使い、フルーツは入らない。粉砂糖をふって食べる。",
+    "menuDescription": "卵とバターをふんだんに使い、星形の型で焼き上げたヴェローナのパンドーロ。粉砂糖をたっぷりふってどうぞ。",
+    "whatComesOut": [
+      "星形の背の高い黄色い菓子パン",
+      "粉砂糖",
+      "横に切ると星形の断面"
+    ],
+    "tasteAndTexture": [
+      "ふわふわで軽い生地",
+      "バターと卵のリッチな香り",
+      "粉砂糖のやさしい甘さ"
+    ],
+    "orderAdvice": "クリスマス時期にイタリア食材店に並ぶ。ドライフルーツが苦手ならパネトーネよりこちら。",
+    "caution": "小麦・卵・乳を使用。",
+    "similarItems": [
+      {
+        "id": "panettone",
+        "name": "パネトーネ",
+        "difference": "ミラノのドーム型菓子パンでレーズンやピールが入る"
+      }
+    ],
+    "relatedIds": [
+      "panettone",
+      "stollen"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pandoro"
+    ],
+    "tags": [
+      "イタリア料理",
+      "菓子",
+      "卵",
+      "小麦",
+      "焼き物",
+      "ふわふわ",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "パネトーネ",
+      "チーズケーキ",
+      "クッキー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pandoro/1.jpg",
+      "/images/dishes/pandoro/2.jpg",
+      "/images/dishes/pandoro/3.jpg"
+    ]
+  },
+  {
+    "id": "idli",
+    "name": "イドゥリ",
+    "kana": "いどぅり",
+    "aliases": [
+      "イドリ",
+      "イドゥリー",
+      "Idli"
+    ],
+    "englishName": "Idli",
+    "originalName": "இட்லி（Iṭli）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インド",
+        "area": "南インド"
+      }
+    ],
+    "summary": "米と黒豆（ウラド豆）の発酵生地を専用の型で蒸した、南インドの丸い蒸しパン。サンバルやチャトニーと朝食に食べる。",
+    "menuDescription": "米と豆を一晩発酵させた生地をふんわり蒸し上げたイドゥリ。サンバルとココナッツチャトニーでどうぞ。",
+    "whatComesOut": [
+      "白くて丸い平たい蒸しパン（2〜3個）",
+      "サンバル",
+      "ココナッツチャトニー"
+    ],
+    "tasteAndTexture": [
+      "ふわふわで軽い食感",
+      "発酵によるほのかな酸味",
+      "淡泊でサンバルの味がよくなじむ"
+    ],
+    "orderAdvice": "南インド料理店の朝食メニューの定番。やさしい味で胃にもたれにくい。",
+    "caution": "豆類を使用。",
+    "similarItems": [
+      {
+        "id": "dosa",
+        "name": "ドーサ",
+        "difference": "同じ発酵生地を薄く焼いたクレープ"
+      }
+    ],
+    "relatedIds": [
+      "dosa"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Idli"
+    ],
+    "tags": [
+      "インド料理",
+      "軽食",
+      "米",
+      "豆類",
+      "発酵",
+      "蒸し料理",
+      "ふわふわ"
+    ],
+    "reverseKeywords": [
+      "ナン",
+      "パン",
+      "ご飯"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/idli/1.jpg",
+      "/images/dishes/idli/2.jpg",
+      "/images/dishes/idli/3.jpg"
+    ]
+  },
+  {
+    "id": "cochinillo-asado",
+    "name": "コチニーリョ・アサード",
+    "kana": "こちにーりょあさーど",
+    "aliases": [
+      "コチニーリョ",
+      "ロースト・サックリング・ピッグ（コチニーリョ）",
+      "子豚の丸焼き（スペイン）"
+    ],
+    "englishName": "Cochinillo asado",
+    "originalName": "Cochinillo asado",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン",
+        "area": "セゴビア"
+      }
+    ],
+    "summary": "生後数週間の乳飲み子豚を窯でじっくりローストしたスペイン・セゴビアの名物料理。皿の縁で切り分けられるほど柔らかい。",
+    "menuDescription": "乳飲み子豚を薪窯でじっくり焼き上げたセゴビア名物のコチニーリョ。パリパリの皮ととろける身をお楽しみください。",
+    "whatComesOut": [
+      "土鍋に入った子豚のロースト（部位ごとに切り分け）",
+      "パリパリの皮",
+      "焼き汁やサラダ"
+    ],
+    "tasteAndTexture": [
+      "パリッと香ばしい皮",
+      "とろけるほど柔らかくジューシーな肉",
+      "ミルクを思わせるやさしい豚の風味"
+    ],
+    "orderAdvice": "セゴビアやマドリードの老舗で名物。豚肉好きなら必食。",
+    "caution": "豚肉を使用。",
+    "similarItems": [
+      {
+        "id": "lechon",
+        "name": "レチョン",
+        "difference": "フィリピンの子豚の丸焼きで、炭火で回しながら焼く"
+      }
+    ],
+    "relatedIds": [
+      "lechon"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Cochinillo_asado"
+    ],
+    "tags": [
+      "スペイン料理",
+      "主菜",
+      "豚肉",
+      "ロースト",
+      "香ばしい",
+      "ジューシー",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "焼き鳥",
+      "ステーキ",
+      "焼き魚"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cochinillo-asado/1.jpg",
+      "/images/dishes/cochinillo-asado/2.jpg",
+      "/images/dishes/cochinillo-asado/3.jpg"
+    ]
+  },
+  {
+    "id": "caffe-latte",
+    "name": "カフェラテ",
+    "kana": "かふぇらて",
+    "aliases": [
+      "カフェ・ラッテ",
+      "ラテ",
+      "Caffè latte"
+    ],
+    "englishName": "Caffè latte",
+    "originalName": "Caffè latte",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "エスプレッソに温めたスチームミルクをたっぷり加えたコーヒー飲料。表面に薄いミルクの泡をのせ、ラテアートを描くことも多い。",
+    "menuDescription": "深煎りのエスプレッソに、きめ細かく温めたミルクを注いだカフェラテ。",
+    "whatComesOut": [
+      "カップやグラスに入ったミルクコーヒー",
+      "表面の薄いフォームミルク（ラテアート）"
+    ],
+    "tasteAndTexture": [
+      "ミルクのまろやかさ",
+      "エスプレッソのほのかな苦み",
+      "甘さはなく砂糖で調整"
+    ],
+    "orderAdvice": "カフェの定番。コーヒーの苦みが苦手でも飲みやすい。",
+    "caution": "乳を使用。カフェインを含む。",
+    "similarItems": [
+      {
+        "name": "カプチーノ",
+        "difference": "ミルクの泡が多く、ラテより軽くコーヒーの味が強い"
+      }
+    ],
+    "relatedIds": [],
+    "source": [
+      "https://en.wikipedia.org/wiki/Caff%C3%A8_latte"
+    ],
+    "tags": [
+      "イタリア料理",
+      "乳製品",
+      "クリーミー",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "ブラックコーヒー",
+      "紅茶",
+      "ジュース"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/caffe-latte/1.jpg",
+      "/images/dishes/caffe-latte/2.jpg",
+      "/images/dishes/caffe-latte/3.jpg"
+    ]
+  },
+  {
+    "id": "chocolate-truffle",
+    "name": "チョコトリュフ",
+    "kana": "ちょことりゅふ",
+    "aliases": [
+      "トリュフチョコレート",
+      "トリュフ（チョコ）",
+      "Chocolate truffle"
+    ],
+    "englishName": "Chocolate truffle",
+    "originalName": "Truffe au chocolat",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "チョコレートと生クリームを合わせたガナッシュを丸め、ココアパウダーやチョコレートで覆った一口菓子。見た目がトリュフ（きのこ）に似ることから名付けられた。",
+    "menuDescription": "なめらかなガナッシュを丸め、ココアパウダーをまとわせた手作りのトリュフ。",
+    "whatComesOut": [
+      "一口大の丸いチョコレート",
+      "ココアパウダーや粉砂糖をまとったもの",
+      "洋酒入りのものも"
+    ],
+    "tasteAndTexture": [
+      "口どけのよいなめらかなガナッシュ",
+      "カカオの濃厚な風味",
+      "ココアのほろ苦さ"
+    ],
+    "orderAdvice": "チョコレート店や手作りバレンタインの定番。洋酒入りに注意。",
+    "caution": "乳を使用。洋酒入りのものがある。",
+    "similarItems": [
+      {
+        "id": "truffle",
+        "name": "トリュフ（きのこ）",
+        "difference": "名前の由来となった高級きのこ"
+      }
+    ],
+    "relatedIds": [
+      "truffle"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Chocolate_truffle"
+    ],
+    "tags": [
+      "フランス料理",
+      "菓子",
+      "乳製品",
+      "クリーミー",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "和菓子",
+      "フルーツ",
+      "クッキー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chocolate-truffle/1.jpg",
+      "/images/dishes/chocolate-truffle/2.jpg",
+      "/images/dishes/chocolate-truffle/3.jpg"
+    ]
+  },
+  {
+    "id": "rou-geng",
+    "name": "肉羹",
+    "kana": "ばーけん",
+    "aliases": [
+      "バーケン",
+      "肉焿",
+      "肉羹湯",
+      "ロウゲン"
+    ],
+    "englishName": "Rou geng",
+    "originalName": "肉羹（ròugēng / bah-kenn）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "台湾"
+      }
+    ],
+    "summary": "豚肉に魚のすり身をまとわせて茹でた「肉羹」を、片栗粉でとろみをつけたスープに入れた台湾・福建の小吃。台湾の夜市や食堂の定番で、麺やご飯を入れることも多い。",
+    "menuDescription": "豚の赤身と脂身に魚のすり身を練り合わせた肉羹を、かつお風味のとろみスープで仕上げました。黒酢と香菜を添えてどうぞ。",
+    "whatComesOut": [
+      "とろみのある茶色いスープ",
+      "すり身をまとった豚肉の塊",
+      "白菜・たけのこ・きくらげなどの具",
+      "麺（肉羹麺）やご飯（肉羹飯）入りも"
+    ],
+    "tasteAndTexture": [
+      "片栗粉のとろりとしたスープ",
+      "ぷりっとした肉羹の食感",
+      "かつお節や黒酢の風味",
+      "やや甘めの味付け"
+    ],
+    "orderAdvice": "台湾の小吃の代表格で、安くて食べやすい。とろみスープが好きなら間違いない。",
+    "caution": "豚肉・魚・醤油（小麦・大豆）を使用。",
+    "similarItems": [
+      {
+        "id": "suan-la-tang",
+        "name": "酸辣湯",
+        "difference": "同じとろみスープだが、酢と胡椒で酸っぱ辛い"
+      },
+      {
+        "id": "ba-wan",
+        "name": "バーワン",
+        "difference": "同じく台湾の豚肉を使った小吃で、でんぷんの皮で包む"
+      }
+    ],
+    "relatedIds": [
+      "ba-wan",
+      "yu-wan"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/肉羹"
+    ],
+    "tags": [
+      "台湾料理",
+      "スープ",
+      "豚肉",
+      "魚介",
+      "煮込み",
+      "屋台料理",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "コーンスープ",
+      "味噌汁",
+      "ラーメン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "dou-gan",
+    "name": "豆干",
+    "kana": "どうかん",
+    "aliases": [
+      "豆腐干",
+      "豆乾",
+      "トウガン",
+      "押し豆腐"
+    ],
+    "englishName": "Dried tofu",
+    "originalName": "豆干（dòugān）",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "country": "台湾"
+      }
+    ],
+    "summary": "豆腐を脱水・圧縮して固くした中国・台湾の食材。白豆干と五香豆干があり、和え物・炒め物・煮込み（滷味）に使う。",
+    "menuDescription": "香辛料で煮込んだ五香豆干を細切りにし、セロリと一緒に炒めました。",
+    "whatComesOut": [
+      "茶色く固い四角い豆腐",
+      "細切りにして炒め物や和え物に",
+      "滷味（煮込み）の具として"
+    ],
+    "tasteAndTexture": [
+      "弾力のあるむっちりした食感",
+      "醤油や五香粉の味がしみる",
+      "大豆の風味"
+    ],
+    "orderAdvice": "中華料理店の前菜や台湾の滷味で定番。豆腐よりしっかりした食感が特徴。",
+    "caution": "大豆を使用。",
+    "similarItems": [
+      {
+        "id": "atsuage",
+        "name": "厚揚げ",
+        "difference": "豆腐を揚げたもの。豆干は圧縮して水分を抜く"
+      },
+      {
+        "id": "koya-dofu",
+        "name": "高野豆腐",
+        "difference": "凍らせて乾燥させた豆腐"
+      }
+    ],
+    "relatedIds": [
+      "atsuage",
+      "koya-dofu",
+      "jin-si-dou-fu-gan"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/豆干"
+    ],
+    "tags": [
+      "中国料理",
+      "台湾料理",
+      "豆類",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "冷奴",
+      "厚揚げ",
+      "油揚げ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/dou-gan/1.jpg",
+      "/images/dishes/dou-gan/2.jpg",
+      "/images/dishes/dou-gan/3.jpg"
+    ]
+  },
+  {
+    "id": "niu-za",
+    "name": "牛雑",
+    "kana": "ぎゅうざつ",
+    "aliases": [
+      "牛雜",
+      "ガウザップ",
+      "牛もつ煮込み（広東）",
+      "牛杂"
+    ],
+    "englishName": "Beef offal stew",
+    "originalName": "牛杂（niúzá）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "広東"
+      },
+      {
+        "country": "香港"
+      }
+    ],
+    "summary": "牛の胃・腸・肺などの内臓を、八角や花椒などの香辛料を効かせた汁で大根と一緒に長時間煮込んだ広州・香港の屋台料理。串に刺して辛子味噌などをつけて食べる。",
+    "menuDescription": "牛の胃や腸、大根を、八角や陳皮の香るたれでじっくり煮込んだ香港の屋台名物。マスタードとチリソースでどうぞ。",
+    "whatComesOut": [
+      "カップや串に盛った煮込んだ牛の内臓",
+      "味のしみた大根",
+      "マスタードやチリソース"
+    ],
+    "tasteAndTexture": [
+      "八角などの香辛料の香り",
+      "内臓のコリコリ・むっちりした食感",
+      "大根にしみたうま味"
+    ],
+    "orderAdvice": "香港の屋台の定番。もつ煮込みが好きなら食べやすい。",
+    "caution": "牛の内臓を使用。",
+    "similarItems": [
+      {
+        "id": "motsu-nikomi",
+        "name": "もつ煮込み",
+        "difference": "日本の内臓の味噌煮込み"
+      },
+      {
+        "id": "chaozhou-beef-ball",
+        "name": "潮州牛肉丸",
+        "difference": "同じく牛を使う広東の屋台の定番"
+      }
+    ],
+    "relatedIds": [
+      "motsu-nikomi",
+      "chaozhou-beef-ball"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/牛雜"
+    ],
+    "tags": [
+      "中国料理",
+      "広東料理",
+      "軽食",
+      "牛肉",
+      "煮込み",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "焼き鳥",
+      "ステーキ",
+      "ハンバーグ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/niu-za/1.jpg",
+      "/images/dishes/niu-za/2.jpg"
+    ]
+  },
+  {
+    "id": "you-fan",
+    "name": "油飯",
+    "kana": "ゆーふぁん",
+    "aliases": [
+      "台湾おこわ",
+      "ユーファン",
+      "弥月油飯"
+    ],
+    "englishName": "Taiwanese glutinous oil rice",
+    "originalName": "油飯（yóufàn）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "台湾"
+      }
+    ],
+    "summary": "蒸したもち米に、ごま油で炒めた豚肉・干ししいたけ・干しエビ・するめなどを混ぜ込んだ台湾のおこわ。赤ちゃんの生後1か月の祝いに親戚や友人へ配る習慣がある。",
+    "menuDescription": "もっちり蒸したもち米に、ごま油で香ばしく炒めた豚肉、干ししいたけ、干しエビを混ぜ込んだ台湾の伝統的なおこわです。",
+    "whatComesOut": [
+      "茶色く色づいたもち米のおこわ",
+      "豚肉・しいたけ・干しエビの具",
+      "甘辛いたれや香菜を添えて"
+    ],
+    "tasteAndTexture": [
+      "もちもちのもち米",
+      "ごま油と紅葱頭（エシャロット）の香り",
+      "干しエビとしいたけのうま味"
+    ],
+    "orderAdvice": "台湾の朝食や小吃店で手軽に食べられる。中華おこわが好きなら間違いない。",
+    "caution": "もち米・豚肉・エビ（甲殻類）・ごま・醤油を使用。",
+    "similarItems": [
+      {
+        "id": "mi-gao",
+        "name": "米糕",
+        "difference": "台湾のもち米ご飯料理で、蒸して器に詰めることが多い"
+      },
+      {
+        "id": "chimaki",
+        "name": "ちまき",
+        "difference": "もち米を葉で包んで蒸す"
+      }
+    ],
+    "relatedIds": [
+      "mi-gao",
+      "chimaki"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/油飯"
+    ],
+    "tags": [
+      "台湾料理",
+      "ご飯もの",
+      "米",
+      "豚肉",
+      "炒め物",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "白ご飯",
+      "チャーハン",
+      "炊き込みご飯"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/you-fan/1.jpg",
+      "/images/dishes/you-fan/2.jpg",
+      "/images/dishes/you-fan/3.jpg"
+    ]
+  },
+  {
+    "id": "mei-cai-kou-rou",
+    "name": "梅菜扣肉",
+    "kana": "めいさいこうにく",
+    "aliases": [
+      "メイツァイコウロウ",
+      "扣肉",
+      "梅干菜扣肉"
+    ],
+    "englishName": "Mei cai kou rou",
+    "originalName": "梅菜扣肉（méicài kòuròu）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "広東・客家"
+      }
+    ],
+    "summary": "皮付きの豚バラ肉を下茹でして揚げ、厚切りにして梅菜（からし菜の干し漬物）と一緒に器に詰めて蒸し、ひっくり返して盛り付けた客家・広東の料理。",
+    "menuDescription": "皮付きの豚バラをとろけるまで蒸し上げ、甘辛く味付けした梅菜をたっぷり合わせました。白いご飯と一緒にどうぞ。",
+    "whatComesOut": [
+      "ドーム形にひっくり返して盛った豚バラの薄切り",
+      "下に敷かれた黒っぽい梅菜",
+      "とろりとしたたれ"
+    ],
+    "tasteAndTexture": [
+      "箸で切れるほど柔らかい豚バラ",
+      "皮のぷるぷるとした食感",
+      "梅菜の甘じょっぱい風味と香り"
+    ],
+    "orderAdvice": "客家料理店や広東料理店の定番。豚の角煮が好きなら気に入る。脂が多めなので量に注意。",
+    "caution": "豚肉・醤油を使用。",
+    "similarItems": [
+      {
+        "id": "cai-gan-kou-rou",
+        "name": "菜干扣肉",
+        "difference": "干した青菜を使う扣肉"
+      },
+      {
+        "id": "dong-po-rou",
+        "name": "東坡肉",
+        "difference": "豚バラを紹興酒と醤油で煮込んだ杭州の料理"
+      }
+    ],
+    "relatedIds": [
+      "cai-gan-kou-rou",
+      "dong-po-rou"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/梅菜扣肉"
+    ],
+    "tags": [
+      "中国料理",
+      "広東料理",
+      "主菜",
+      "豚肉",
+      "蒸し料理",
+      "こってり",
+      "甘み",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "鶏の照り焼き",
+      "焼き魚",
+      "サラダ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "bo-ji-ban",
+    "name": "簸箕粄",
+    "kana": "ぼーじーばん",
+    "aliases": [
+      "簸箕板",
+      "巻粄",
+      "籠床粄"
+    ],
+    "englishName": "Boji ban",
+    "originalName": "簸箕粄（bòjībǎn）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "福建・客家"
+      }
+    ],
+    "summary": "米をすりつぶした米漿を竹ざる（簸箕）に薄く広げて蒸し、具を巻いた客家の小吃。福建省武平県が発祥で、広東の腸粉に似るが製法と材料が異なる。",
+    "menuDescription": "米をひいた生地を竹ざるに薄く流して蒸し上げ、ひき肉や野菜を巻いた客家の伝統小吃です。",
+    "whatComesOut": [
+      "薄い米の皮を巻いたもの",
+      "中にひき肉・ねぎ・野菜",
+      "醤油だれをかけて"
+    ],
+    "tasteAndTexture": [
+      "つるりともちもちした米の皮",
+      "素朴な味",
+      "具のうま味"
+    ],
+    "orderAdvice": "客家地域の朝食の定番。腸粉が好きなら食べやすい。",
+    "caution": "米を使用。",
+    "similarItems": [
+      {
+        "name": "腸粉",
+        "difference": "広東の米の蒸し皮料理。簸箕粄と似るが製法と材料が異なる"
+      }
+    ],
+    "relatedIds": [
+      "xian-ren-ban",
+      "fa-ban"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/簸箕粄"
+    ],
+    "tags": [
+      "中国料理",
+      "軽食",
+      "米",
+      "蒸し料理",
+      "もちもち",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "餃子",
+      "春巻き",
+      "肉まん"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "hakka-cai-bao",
+    "name": "客家菜包",
+    "kana": "はっかさいぱお",
+    "aliases": [
+      "菜包",
+      "豬籠粄",
+      "ジューロンバン"
+    ],
+    "englishName": "Hakka cai bao",
+    "originalName": "客家菜包（kèjiā càibāo）",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "台湾"
+      }
+    ],
+    "summary": "もち米の生地で切り干し大根（菜脯）や干しエビ・豚肉の具を包み、葉にのせて蒸した台湾客家の伝統的な餅菓子。豚を運ぶ竹籠に形が似ることから豬籠粄とも呼ばれる。",
+    "menuDescription": "もち米の生地で、炒めた切り干し大根と干しエビ、豚肉を包んで蒸し上げた台湾客家の伝統の味です。",
+    "whatComesOut": [
+      "楕円形の白い餅（葉の上にのる）",
+      "中に切り干し大根・干しエビ・豚肉"
+    ],
+    "tasteAndTexture": [
+      "もちもちした皮",
+      "切り干し大根のコリコリ感と甘辛い味",
+      "干しエビの香り"
+    ],
+    "orderAdvice": "台湾の客家の町（美濃・新竹など）で手軽に買える。素朴な味で食べやすい。",
+    "caution": "もち米・エビ（甲殻類）・豚肉を使用。",
+    "similarItems": [
+      {
+        "id": "quanzhou-cai-bao",
+        "name": "泉州菜包",
+        "difference": "福建・泉州の菜包"
+      },
+      {
+        "id": "kiriboshi-daikon",
+        "name": "切り干し大根",
+        "difference": "具に使う菜脯に近い日本の乾物"
+      }
+    ],
+    "relatedIds": [
+      "quanzhou-cai-bao",
+      "ba-wan"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/客家菜包"
+    ],
+    "tags": [
+      "台湾料理",
+      "軽食",
+      "米",
+      "野菜",
+      "蒸し料理",
+      "もちもち",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "肉まん",
+      "あんまん",
+      "大福"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "poi",
+    "name": "ポイ",
+    "kana": "ぽい",
+    "aliases": [
+      "ポポイ",
+      "Poi"
+    ],
+    "englishName": "Poi",
+    "originalName": "Poi",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ",
+        "area": "ハワイ"
+      }
+    ],
+    "summary": "タロイモの球茎を蒸してすりつぶし、水を加えてペースト状にしたハワイ・ポリネシアの伝統的な主食。数日置くと発酵して酸味が増す。",
+    "menuDescription": "蒸したタロイモをすりつぶしたハワイの伝統食ポイ。カルアピッグやロミロミサーモンと一緒にどうぞ。",
+    "whatComesOut": [
+      "小さな器に入った紫がかった灰色のペースト",
+      "カルアピッグなどのハワイ料理と一緒に"
+    ],
+    "tasteAndTexture": [
+      "のりのようなとろりとした食感",
+      "ほのかな甘みと発酵による酸味",
+      "味は淡泊"
+    ],
+    "orderAdvice": "ハワイの伝統料理店で体験できる。味は淡泊で好みが分かれるので、塩気のある料理と一緒に。",
+    "similarItems": [
+      {
+        "id": "fufu",
+        "name": "フーフー",
+        "difference": "西アフリカのいもをついた主食で、同じく淡泊な味をおかずと食べる"
+      }
+    ],
+    "relatedIds": [
+      "fufu"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ポイ_(料理)"
+    ],
+    "tags": [
+      "ハワイ料理",
+      "軽食",
+      "野菜",
+      "発酵",
+      "酸味",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "ご飯",
+      "パン",
+      "マッシュポテト"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/poi/1.jpg",
+      "/images/dishes/poi/2.jpg",
+      "/images/dishes/poi/3.jpg"
+    ]
+  },
+  {
+    "id": "paniki",
+    "name": "パニキ",
+    "kana": "ぱにき",
+    "aliases": [
+      "パニキ・リチャ",
+      "コウモリのリチャ",
+      "Paniki"
+    ],
+    "englishName": "Paniki",
+    "originalName": "Paniki",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インドネシア",
+        "area": "北スラウェシ"
+      }
+    ],
+    "summary": "オオコウモリの肉を唐辛子のきいた「リチャ」やココナッツミルクで煮込んだ、インドネシア北スラウェシ州マナドのミナハサ料理。",
+    "menuDescription": "オオコウモリの肉を青唐辛子と香味野菜で辛く煮込んだ、マナド名物のパニキ・リチャ。",
+    "whatComesOut": [
+      "ぶつ切りにしたコウモリの肉（羽が付いていることも）",
+      "唐辛子の効いた煮汁",
+      "ご飯"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の強い辛さ",
+      "野性味のある肉",
+      "骨が多い"
+    ],
+    "orderAdvice": "マナドの名物だが野生動物食で、衛生面・感染症のリスクがある。好奇心で頼むのは勧めにくい。",
+    "caution": "野生のオオコウモリを使用。十分な加熱が必須。辛みが強い。",
+    "similarItems": [
+      {
+        "id": "bat-soup",
+        "name": "コウモリスープ",
+        "difference": "オセアニアの島々のコウモリのスープで、比較的あっさり"
+      }
+    ],
+    "relatedIds": [
+      "bat-soup"
+    ],
+    "source": [
+      "https://id.wikipedia.org/wiki/Paniki"
+    ],
+    "tags": [
+      "インドネシア料理",
+      "主菜",
+      "ジビエ",
+      "煮込み",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "鶏肉の煮込み",
+      "焼き鳥",
+      "チキンカレー"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/paniki/1.jpg",
+      "/images/dishes/paniki/2.jpg",
+      "/images/dishes/paniki/3.jpg"
+    ]
+  },
+  {
+    "id": "teteun",
+    "name": "テテウン",
+    "kana": "てておん",
+    "aliases": [
+      "Teteun",
+      "牛の乳房のハム"
+    ],
+    "englishName": "Teteun",
+    "originalName": "Teteun",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "ヴァッレ・ダオスタ"
+      }
+    ],
+    "summary": "牛の乳房を塩とハーブに漬け込んでから茹でた、イタリア北西部ヴァッレ・ダオスタ州の伝統的な加工肉。薄切りにして前菜として食べる。",
+    "menuDescription": "ヴァッレ・ダオスタの在来種の牛の乳房を、塩とハーブに漬けてからじっくり茹で上げたテテウン。薄切りでどうぞ。",
+    "whatComesOut": [
+      "薄切りにした白っぽい加工肉",
+      "黒パンやバターと一緒に"
+    ],
+    "tasteAndTexture": [
+      "ミルクを思わせるまろやかなコク",
+      "柔らかくねっとりした食感",
+      "ハーブの香り"
+    ],
+    "orderAdvice": "現地の郷土料理店や食料品店で出会える珍味。内臓系に抵抗がなければ食べやすい。",
+    "caution": "牛の乳房を使用。",
+    "similarItems": [
+      {
+        "id": "ubre-asada",
+        "name": "ウブレアサーダ",
+        "difference": "南米の牛の乳房を焼いた料理"
+      }
+    ],
+    "relatedIds": [
+      "ubre-asada"
+    ],
+    "source": [
+      "https://it.wikipedia.org/wiki/Teteun"
+    ],
+    "tags": [
+      "イタリア料理",
+      "前菜",
+      "牛肉",
+      "煮込み",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ハム",
+      "ローストビーフ",
+      "サラミ"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "yokanzuke",
+    "name": "養肝漬",
+    "kana": "ようかんづけ",
+    "aliases": [
+      "養肝漬け"
+    ],
+    "englishName": "Yokanzuke",
+    "originalName": "養肝漬",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "三重県"
+      }
+    ],
+    "summary": "伊賀特産の白瓜の芯を抜き、しそ・生姜・大根・きゅうりなどを刻んで詰め、たまり醤油で1〜2年熟成させた三重県伊賀地方の鉄砲漬け。「武士の肝っ玉を養う」が名の由来。",
+    "menuDescription": "伊賀盆地の白瓜に刻み野菜を詰め、たまり醤油でじっくり熟成させた伝統の鉄砲漬けです。",
+    "whatComesOut": [
+      "輪切りにした茶色い瓜の漬物",
+      "中心に詰めた刻み野菜"
+    ],
+    "tasteAndTexture": [
+      "たまり醤油の深い味わい",
+      "瓜のパリッとした歯ごたえ",
+      "しそと生姜の香り"
+    ],
+    "orderAdvice": "伊賀の土産として定番。奈良漬など醤油系の漬物が好きなら気に入る。",
+    "caution": "醤油（大豆・小麦）を使用。",
+    "similarItems": [
+      {
+        "name": "奈良漬",
+        "difference": "酒粕で漬ける奈良の漬物。養肝漬はたまり醤油で漬ける鉄砲漬け"
+      }
+    ],
+    "relatedIds": [],
+    "source": [
+      "https://ja.wikipedia.org/wiki/養肝漬"
+    ],
+    "tags": [
+      "日本料理",
+      "中部",
+      "前菜",
+      "野菜",
+      "発酵",
+      "伝統料理",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "浅漬け",
+      "ピクルス",
+      "サラダ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
     "spicinessScore": 0,
     "images": []
   }
