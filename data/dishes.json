@@ -192983,5 +192983,647 @@
       "/images/dishes/banitsa/2.jpg",
       "/images/dishes/banitsa/3.jpg"
     ]
+  },
+  {
+    "id": "sarmale",
+    "name": "サルマーレ",
+    "kana": "さるまーれ",
+    "aliases": [
+      "サルマ",
+      "ルーマニア風ロールキャベツ"
+    ],
+    "englishName": "Sarmale",
+    "originalName": "Sarmale",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ルーマニア"
+      },
+      {
+        "country": "モルドバ"
+      },
+      {
+        "area": "東ヨーロッパ"
+      }
+    ],
+    "summary": "酢漬けキャベツで豚挽肉と米を包み、燻製肉と一緒にじっくり煮込んだルーマニアの国民食。ママリーガとサワークリームを添えて食べる。",
+    "menuDescription": "発酵させた酢漬けキャベツの葉に、豚挽肉・米・玉ねぎを包み、ベーコンや燻製肉とともに長時間煮込んだルーマニア伝統のロールキャベツ。ママリーガ（トウモロコシ粥）とサワークリームを添えて。",
+    "whatComesOut": [
+      "小ぶりのロールキャベツ数個",
+      "刻んだ酢漬けキャベツと燻製肉",
+      "ママリーガ（黄色いトウモロコシ粥）",
+      "サワークリーム",
+      "青唐辛子が添えられることも"
+    ],
+    "tasteAndTexture": [
+      "発酵キャベツの爽やかな酸味",
+      "燻製肉の香りと肉汁のコク",
+      "くたくたに柔らかいキャベツの葉",
+      "サワークリームでまろやかに"
+    ],
+    "orderAdvice": "ルーマニアで1品だけ選ぶならこれ。日本のロールキャベツより酸味と燻製香が強いが食べやすい。クリスマスや祝い事の定番だが、レストランでは通年食べられる。",
+    "caution": "豚肉を使うのが基本。小麦は少ないが乳製品（サワークリーム）を添える。",
+    "similarItems": [
+      {
+        "id": "sarmi",
+        "name": "サルミ",
+        "difference": "サルミはブルガリア版で生キャベツやブドウの葉も使う。サルマーレは酢漬けキャベツ＋燻製肉で酸味と香りが強い"
+      },
+      {
+        "id": "dolma",
+        "name": "ドルマ",
+        "difference": "ドルマはトルコ・中東のブドウの葉や野菜の詰め物全般。サルマーレはキャベツで巻き肉主体"
+      },
+      {
+        "id": "kaldolmar",
+        "name": "コールドルマル",
+        "difference": "コールドルマルはスウェーデンの生キャベツ巻きでリンゴンベリー添え。サルマーレは発酵キャベツで酸味あり"
+      }
+    ],
+    "relatedIds": [
+      "sarmi",
+      "dolma",
+      "kaldolmar",
+      "sauerkraut",
+      "sour-cream",
+      "mamaliga"
+    ],
+    "source": [
+      "https://www.romaniatabi.jp/general/romania_food.php",
+      "https://en.wikipedia.org/wiki/Sarma_(food)",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ],
+    "tags": [
+      "ルーマニア料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "煮込み",
+      "酸味",
+      "伝統料理",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "酸っぱいものが苦手",
+      "豚肉不可",
+      "あっさり",
+      "生野菜"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sarmale/1.jpg",
+      "/images/dishes/sarmale/2.jpg"
+    ]
+  },
+  {
+    "id": "mamaliga",
+    "name": "ママリーガ",
+    "kana": "ままりーが",
+    "aliases": [
+      "ママリガ",
+      "ルーマニア風ポレンタ",
+      "ママリーグツァ"
+    ],
+    "englishName": "Mămăligă",
+    "originalName": "Mămăligă",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ルーマニア"
+      },
+      {
+        "country": "モルドバ"
+      },
+      {
+        "area": "東ヨーロッパ"
+      }
+    ],
+    "summary": "トウモロコシ粉を煮て練り上げたルーマニアの主食。サルマーレや肉料理の付け合わせ、チーズとサワークリームを添えて食べる。",
+    "menuDescription": "黄色いトウモロコシ粉を湯や牛乳、バターで練り上げたルーマニアの伝統的な主食。羊のチーズとサワークリームを添えて、または肉料理の付け合わせとして。",
+    "whatComesOut": [
+      "黄色く丸いまたは四角に切った練り粥",
+      "塩気のある白チーズ（ブルンザ）",
+      "サワークリーム",
+      "ニンニクソース（ムジデイ）が付くことも"
+    ],
+    "tasteAndTexture": [
+      "トウモロコシの素朴な甘み",
+      "ぽってり〜もっちりした食感",
+      "チーズとサワークリームでコクが増す",
+      "味自体は淡白"
+    ],
+    "orderAdvice": "単品というより付け合わせ。サルマーレや肉料理と一緒に頼むのが定番。チーズとサワークリームをのせた「ママリーガ・ク・ブルンザ」はこれだけで軽い食事になる。",
+    "caution": "トウモロコシ主体でグルテンフリーだが、牛乳・バター・チーズを使うことが多い。",
+    "similarItems": [
+      {
+        "id": "polenta",
+        "name": "ポレンタ",
+        "difference": "ほぼ同じ料理。ポレンタはイタリア北部、ママリーガはルーマニアの主食としてチーズ・サワークリームと食べる"
+      },
+      {
+        "id": "grits",
+        "name": "グリッツ",
+        "difference": "グリッツは米国南部の粗挽きトウモロコシ粥で白いものが多く朝食向け"
+      },
+      {
+        "name": "バノシュ",
+        "difference": "ウクライナ西部のトウモロコシ粥でサワークリームで炊く。ママリーガより濃厚"
+      }
+    ],
+    "relatedIds": [
+      "polenta",
+      "grits",
+      "sarmale",
+      "sour-cream",
+      "feta"
+    ],
+    "source": [
+      "https://www.romaniatabi.jp/general/romania_food.php",
+      "https://en.wikipedia.org/wiki/M%C4%83m%C4%83lig%C4%83",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ],
+    "tags": [
+      "ルーマニア料理",
+      "軽食",
+      "乳製品",
+      "チーズ",
+      "あっさり",
+      "もちもち",
+      "家庭料理",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "スパイシー",
+      "肉料理",
+      "パン",
+      "米"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mamaliga/1.jpg",
+      "/images/dishes/mamaliga/2.jpg",
+      "/images/dishes/mamaliga/3.jpg"
+    ]
+  },
+  {
+    "id": "ciorba",
+    "name": "チョルバ",
+    "kana": "ちょるば",
+    "aliases": [
+      "チョルバー",
+      "ルーマニアの酸っぱいスープ"
+    ],
+    "englishName": "Ciorbă",
+    "originalName": "Ciorbă",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ルーマニア"
+      },
+      {
+        "country": "モルドバ"
+      },
+      {
+        "area": "東ヨーロッパ"
+      }
+    ],
+    "summary": "発酵小麦ふすま液（ボルシュ）や酢、レモンで酸味をつけたルーマニアの具沢山スープ。肉団子・野菜・魚など種類が豊富。",
+    "menuDescription": "ボルシュ（発酵させた小麦ふすま液）やレモンで酸味をきかせた、野菜と肉の具沢山な田舎風スープ。肉団子入りの「ペリショアレ」、野菜の「レグメ」など多彩な種類から選べます。",
+    "whatComesOut": [
+      "深皿の具沢山スープ",
+      "肉団子・肉・野菜・魚などの具",
+      "サワークリーム",
+      "青唐辛子",
+      "パン"
+    ],
+    "tasteAndTexture": [
+      "はっきりした酸味",
+      "ラヴィッジ（香草）の爽やかな香り",
+      "野菜と肉の旨み",
+      "サワークリームでまろやかに"
+    ],
+    "orderAdvice": "ルーマニアでは食事の最初にスープを飲むのが基本。迷ったら肉団子入りの「チョルバ・デ・ペリショアレ」が食べやすい。添えられる青唐辛子はかじりながら食べるもので辛いので注意。",
+    "caution": "添えられる青唐辛子はかなり辛い。サワークリーム（乳製品）を入れることが多い。",
+    "similarItems": [
+      {
+        "id": "borscht",
+        "name": "ボルシチ",
+        "difference": "ボルシチはビーツの赤いスープ。チョルバはビーツを使わず発酵ふすま液や酢で酸味をつける"
+      },
+      {
+        "id": "ciorba-de-burta",
+        "name": "チョルバ・デ・ブルタ",
+        "difference": "チョルバの中でも牛の胃袋を使う種類。卵黄とサワークリームでクリーミー"
+      },
+      {
+        "id": "gaeng-som",
+        "name": "ゲーン・ソム",
+        "difference": "ゲーン・ソムはタマリンドの酸味とスパイスのタイのスープ。チョルバはハーブ中心で辛さなし"
+      }
+    ],
+    "relatedIds": [
+      "borscht",
+      "ciorba-de-burta",
+      "sour-cream",
+      "sarmale",
+      "gaeng-som"
+    ],
+    "source": [
+      "https://www.romaniatabi.jp/general/romania_food.php",
+      "https://en.wikipedia.org/wiki/Ciorb%C4%83",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ],
+    "tags": [
+      "ルーマニア料理",
+      "スープ",
+      "野菜",
+      "豚肉",
+      "煮込み",
+      "酸味",
+      "家庭料理",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "酸っぱいものが苦手",
+      "クリーミー",
+      "コンソメ",
+      "ポタージュ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ciorba/1.jpg",
+      "/images/dishes/ciorba/2.jpg",
+      "/images/dishes/ciorba/3.jpg"
+    ]
+  },
+  {
+    "id": "ciorba-de-burta",
+    "name": "チョルバ・デ・ブルタ",
+    "kana": "ちょるばでぶるた",
+    "aliases": [
+      "牛の胃袋スープ",
+      "ルーマニアのモツスープ"
+    ],
+    "englishName": "Romanian Tripe Soup",
+    "originalName": "Ciorbă de burtă",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ルーマニア"
+      },
+      {
+        "country": "モルドバ"
+      },
+      {
+        "area": "東ヨーロッパ"
+      }
+    ],
+    "summary": "牛の胃袋を煮込み、卵黄とサワークリームでとろみをつけ、酢とニンニクで酸味を効かせたルーマニアの名物スープ。",
+    "menuDescription": "じっくり下茹でした牛の胃袋（トリッパ）を、卵黄とサワークリームでクリーミーに仕上げ、酢とニンニクソースで味を調えた伝統のスープ。青唐辛子とサワークリームを添えて。",
+    "whatComesOut": [
+      "白くクリーミーなスープ",
+      "細切りの牛の胃袋",
+      "サワークリーム",
+      "ニンニクソース（ムジデイ）や酢",
+      "青唐辛子"
+    ],
+    "tasteAndTexture": [
+      "酸味とクリーミーさの組み合わせ",
+      "ニンニクの強いパンチ",
+      "胃袋のくにゅっとした歯ごたえ",
+      "濃厚だが後味は酸味でさっぱり"
+    ],
+    "orderAdvice": "ルーマニア人に愛される二日酔いの定番。モツが平気なら必食。酢とニンニクを自分で足して好みに調整する。内臓が苦手ならチョルバ・デ・ペリショアレ（肉団子）を。",
+    "caution": "牛の内臓料理。卵・乳製品を含む。ニンニクが強い。",
+    "similarItems": [
+      {
+        "id": "trippa",
+        "name": "トリッパ",
+        "difference": "トリッパはイタリアのトマト煮込み。チョルバ・デ・ブルタは酸味のあるクリーミーなスープ"
+      },
+      {
+        "id": "menudo",
+        "name": "メヌード",
+        "difference": "メヌードはメキシコの唐辛子入り赤いモツスープ。チョルバ・デ・ブルタは白くて辛くない"
+      },
+      {
+        "id": "ciorba",
+        "name": "チョルバ",
+        "difference": "チョルバは酸っぱいスープ全般。ブルタはその中の胃袋入りでクリーミーな種類"
+      }
+    ],
+    "relatedIds": [
+      "ciorba",
+      "trippa",
+      "menudo",
+      "sour-cream",
+      "shkmeruli"
+    ],
+    "source": [
+      "https://www.romaniatabi.jp/general/romania_food.php",
+      "https://en.wikipedia.org/wiki/Ciorb%C4%83_de_burt%C4%83",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ],
+    "tags": [
+      "ルーマニア料理",
+      "スープ",
+      "牛肉",
+      "卵",
+      "乳製品",
+      "煮込み",
+      "酸味",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "内臓が苦手",
+      "ニンニクが苦手",
+      "あっさりスープ",
+      "野菜スープ"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/ciorba-de-burta/1.jpg",
+      "/images/dishes/ciorba-de-burta/2.jpg"
+    ]
+  },
+  {
+    "id": "mititei",
+    "name": "ミティティ",
+    "kana": "みてぃてぃ",
+    "aliases": [
+      "ミチ",
+      "ミティテイ",
+      "ミーチ",
+      "ルーマニア風皮なしソーセージ"
+    ],
+    "englishName": "Mititei",
+    "originalName": "Mititei / Mici",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ルーマニア"
+      },
+      {
+        "country": "モルドバ"
+      },
+      {
+        "area": "東ヨーロッパ"
+      }
+    ],
+    "summary": "牛・羊・豚の挽肉にニンニクとハーブ、重曹を混ぜて棒状にし、炭火で焼いたルーマニアの皮なしソーセージ。マスタードとビールで食べる屋台の定番。",
+    "menuDescription": "牛・羊・豚の合挽き肉にニンニク、黒胡椒、タイムなどのスパイスを練り込み、小さな棒状に成形して炭火でこんがり焼き上げた皮なしソーセージ。マスタードとパンを添えて。",
+    "whatComesOut": [
+      "指ほどの太さの皮なしソーセージ数本",
+      "マスタード",
+      "パンまたはフライドポテト",
+      "ビールと合わせるのが定番"
+    ],
+    "tasteAndTexture": [
+      "ニンニクとハーブの香り",
+      "炭火の香ばしさ",
+      "ふんわりジューシーな肉汁",
+      "重曹効果で柔らかい"
+    ],
+    "orderAdvice": "ハズレなしの一品。屋台や大衆食堂、ビアガーデンで気軽に頼める。5本単位で注文するのが一般的。マスタードをたっぷりつけてビールと。",
+    "caution": "豚肉・羊肉を含む場合が多い。ニンニクが強め。",
+    "similarItems": [
+      {
+        "id": "cevapcici",
+        "name": "ケバプチチ",
+        "difference": "ケバプチチ（チェヴァピ）は旧ユーゴの棒状挽肉焼きでパン・玉ねぎと食べる。ミティティは重曹でより柔らかくニンニクが強い"
+      },
+      {
+        "id": "kebapche",
+        "name": "ケバプチェ",
+        "difference": "ケバプチェはブルガリア版でクミンが効く。ミティティはタイムやニンニクが中心"
+      },
+      {
+        "id": "kofte",
+        "name": "キョフテ",
+        "difference": "キョフテはトルコの肉団子全般。ミティティはその流れを汲む棒状でマスタードで食べる"
+      }
+    ],
+    "relatedIds": [
+      "cevapcici",
+      "kebapche",
+      "kofte",
+      "kebab",
+      "sarmale"
+    ],
+    "source": [
+      "https://www.romaniatabi.jp/general/romania_food.php",
+      "https://en.wikipedia.org/wiki/Mici",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ],
+    "tags": [
+      "ルーマニア料理",
+      "主菜",
+      "牛肉",
+      "羊肉",
+      "豚肉",
+      "炭火焼き",
+      "ジューシー",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "ベジタリアン",
+      "魚料理",
+      "あっさり",
+      "ニンニクが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/mititei/1.jpg",
+      "/images/dishes/mititei/2.jpg",
+      "/images/dishes/mititei/3.jpg"
+    ]
+  },
+  {
+    "id": "papanasi",
+    "name": "パパナシ",
+    "kana": "ぱぱなし",
+    "aliases": [
+      "パパナッシ",
+      "パパナシュ"
+    ],
+    "englishName": "Papanași",
+    "originalName": "Papanași",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ルーマニア"
+      },
+      {
+        "country": "モルドバ"
+      },
+      {
+        "area": "東ヨーロッパ"
+      }
+    ],
+    "summary": "フレッシュチーズ入りの生地を揚げたドーナツに、サワークリームとジャムをのせたルーマニアの定番デザート。",
+    "menuDescription": "ウルダ（ホエイチーズ）などのフレッシュチーズを練り込んだ生地をドーナツ型に揚げ、サワークリームとサワーチェリーやブルーベリーのジャムをたっぷりかけた伝統菓子。",
+    "whatComesOut": [
+      "大きなリング型ドーナツ",
+      "上にのった小さな丸い揚げ玉",
+      "サワークリーム",
+      "サワーチェリーなどのジャム"
+    ],
+    "tasteAndTexture": [
+      "外はカリッと中はふわっとしっとり",
+      "チーズのほのかな酸味",
+      "サワークリームの爽やかさ",
+      "ジャムの甘酸っぱさ"
+    ],
+    "orderAdvice": "ルーマニアのレストランで最も定番のデザート。ボリュームが大きいので食後なら2人でシェアがおすすめ。揚げたてを狙うならできあがりに時間がかかる点に注意。",
+    "caution": "小麦・卵・乳製品を含む。揚げ物でボリュームが大きい。",
+    "similarItems": [
+      {
+        "id": "donut",
+        "name": "ドーナツ",
+        "difference": "一般的なドーナツは砂糖がけ。パパナシは生地にチーズが入り、サワークリームとジャムをかける"
+      },
+      {
+        "name": "シルニキ",
+        "difference": "シルニキはロシア・ウクライナのカッテージチーズのパンケーキ。パパナシは揚げたドーナツ型"
+      },
+      {
+        "name": "ゴゴシ",
+        "difference": "ゴゴシはルーマニアの揚げパン。パパナシはチーズ生地でクリームとジャム付き"
+      }
+    ],
+    "relatedIds": [
+      "donut",
+      "ricotta",
+      "cottage-cheese",
+      "sour-cream",
+      "smetana"
+    ],
+    "source": [
+      "https://www.romaniatabi.jp/general/romania_food.php",
+      "https://en.wikipedia.org/wiki/Papana%C8%99i",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ],
+    "tags": [
+      "ルーマニア料理",
+      "デザート",
+      "チーズ",
+      "乳製品",
+      "揚げ物",
+      "甘み",
+      "ふわふわ",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "甘いものが苦手",
+      "あっさり",
+      "揚げ物不可",
+      "フルーツ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/papanasi/1.jpg"
+    ]
+  },
+  {
+    "id": "clatite",
+    "name": "クラティテ",
+    "kana": "くらてぃて",
+    "aliases": [
+      "ルーマニア風クレープ",
+      "クラティーテ"
+    ],
+    "englishName": "Romanian Crêpes",
+    "originalName": "Clătite",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ルーマニア"
+      },
+      {
+        "country": "モルドバ"
+      },
+      {
+        "area": "東ヨーロッパ"
+      }
+    ],
+    "summary": "フランスのクレープのように薄く焼いたルーマニアのパンケーキ。ジャムやチョコ、甘いチーズを包むほか、挽肉入りの食事系もある。",
+    "menuDescription": "薄く焼き上げた生地で、ジャム、チョコレート、甘いフレッシュチーズなどを包んだルーマニアのクレープ。粉糖をふって。",
+    "whatComesOut": [
+      "巻いたまたは折り畳んだ薄いクレープ2〜3枚",
+      "中にジャムやチョコ、甘いチーズ",
+      "粉糖やサワークリーム"
+    ],
+    "tasteAndTexture": [
+      "薄くしっとりした生地",
+      "ジャムやチョコのわかりやすい甘さ",
+      "チーズ入りはほのかな酸味"
+    ],
+    "orderAdvice": "甘さ控えめのデザートやカフェの軽食に。パパナシほど重くないので食後でも食べやすい。チーズ入り（ク・ブルンザ・ドゥルチェ）はルーマニアらしい味。",
+    "caution": "小麦・卵・乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "crepe",
+        "name": "クレープ",
+        "difference": "ほぼ同じ薄焼き生地。クラティテは甘いフレッシュチーズ入りなど東欧らしい具が特徴"
+      },
+      {
+        "name": "パラチンケ",
+        "difference": "中欧・旧ユーゴのクレープで同系統。名称と地域が異なる"
+      },
+      {
+        "id": "blini",
+        "name": "ブリヌイ",
+        "difference": "ブリヌイはロシアの厚めのパンケーキで塩味の具も多い。クラティテは薄く甘いものが主流"
+      }
+    ],
+    "relatedIds": [
+      "crepe",
+      "blini",
+      "papanasi",
+      "galette"
+    ],
+    "source": [
+      "https://www.romaniatabi.jp/general/romania_food.php",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ],
+    "tags": [
+      "ルーマニア料理",
+      "デザート",
+      "小麦",
+      "卵",
+      "焼き物",
+      "甘み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "甘いものが苦手",
+      "しょっぱい軽食",
+      "ご飯もの"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/clatite/1.jpg"
+    ]
   }
 ]
