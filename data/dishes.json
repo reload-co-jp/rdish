@@ -193625,5 +193625,1148 @@
     "images": [
       "/images/dishes/clatite/1.jpg"
     ]
+  },
+  {
+    "id": "toltott-kaposzta",
+    "name": "トゥルトゥット・カーポスタ",
+    "kana": "とぅるとぅっと・かーぽすた",
+    "aliases": [
+      "ハンガリー風ロールキャベツ",
+      "トルトット・カーポスタ",
+      "テルテット・カーポスタ"
+    ],
+    "englishName": "Hungarian Stuffed Cabbage",
+    "originalName": "Töltött káposzta",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "豚挽肉・米・玉ねぎ・パプリカを酢漬けキャベツで包み、燻製肉やソーセージと長時間煮込むハンガリーのロールキャベツ。クリスマスの定番で、サワークリームをたっぷりかけて食べる。",
+    "menuDescription": "豚挽肉と米をパプリカで味付けし、ザワークラウトの葉で包んで燻製ベーコンやコルバースとともにじっくり煮込みました。サワークリームを添えて。",
+    "whatComesOut": [
+      "大ぶりのロールキャベツ2〜3個",
+      "煮込んだザワークラウト",
+      "燻製肉やコルバース（ソーセージ）",
+      "たっぷりのサワークリーム",
+      "パン"
+    ],
+    "tasteAndTexture": [
+      "ザワークラウトの酸味と燻製の香り",
+      "パプリカのコクがある濃厚な煮汁",
+      "サワークリームでまろやかに",
+      "お腹にずっしりたまる重さ"
+    ],
+    "orderAdvice": "「ザ・ハンガリー」な一品で寒い季節に最適。ただし日本のロールキャベツとは別物の超ヘビー級なので、少食の人はシェア推奨。酸味のあるキャベツが好きなら当たり。",
+    "caution": "豚肉・乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "sarmale",
+        "name": "サルマーレ",
+        "difference": "ルーマニア版。ほぼ同系統だが、ハンガリー版はパプリカが効いてサワークリームを多用"
+      },
+      {
+        "id": "kaldolmar",
+        "name": "コールドルマル",
+        "difference": "スウェーデン版。生キャベツで包みオーブン焼き、リンゴンベリー添えで甘め"
+      },
+      {
+        "id": "dolma",
+        "name": "ドルマ",
+        "difference": "ぶどうの葉や野菜に詰める中東・トルコ系。軽く酸味はレモン由来"
+      }
+    ],
+    "relatedIds": [
+      "sarmale",
+      "sarmi",
+      "kaldolmar",
+      "sauerkraut",
+      "sour-cream",
+      "paprika"
+    ],
+    "source": [
+      "https://www.hungary-travel-living.org/recommended-dishes/",
+      "https://en.wikipedia.org/wiki/Stuffed_cabbage"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "煮込み",
+      "酸味",
+      "こってり",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "あっさりした和食",
+      "軽いサラダ",
+      "酸っぱくない料理",
+      "魚料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/toltott-kaposzta/1.jpg",
+      "/images/dishes/toltott-kaposzta/2.jpg",
+      "/images/dishes/toltott-kaposzta/3.jpg"
+    ]
+  },
+  {
+    "id": "toltott-paprika",
+    "name": "トゥルトゥット・パプリカ",
+    "kana": "とぅるとぅっと・ぱぷりか",
+    "aliases": [
+      "パプリカの肉詰め",
+      "ハンガリー風ピーマンの肉詰め"
+    ],
+    "englishName": "Hungarian Stuffed Peppers",
+    "originalName": "Töltött paprika",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "淡緑色のハンガリーパプリカに挽肉・米・玉ねぎを詰め、トマトソースで煮込む夏の家庭料理。茹でたじゃがいもを添えることが多い。",
+    "menuDescription": "ハンガリー産パプリカに豚挽肉とお米を詰め、甘酸っぱいトマトソースでやわらかく煮込みました。茹でたじゃがいもを添えて。",
+    "whatComesOut": [
+      "肉詰めパプリカ2〜3個",
+      "たっぷりのトマトソース",
+      "茹でじゃがいも",
+      "パン"
+    ],
+    "tasteAndTexture": [
+      "トマトの甘酸っぱさ",
+      "煮込んでとろりと柔らかいパプリカ",
+      "米入りでふっくらした肉だね",
+      "辛さはほぼない"
+    ],
+    "orderAdvice": "レストランでは見かける機会が少なく、主に夏の日替わりや中央市場のフードコートに登場。見つけたら即注文の価値あり。トマト味でハンガリー料理の中では食べやすい。",
+    "caution": "豚肉を含む。",
+    "similarItems": [
+      {
+        "id": "dolma",
+        "name": "ドルマ",
+        "difference": "トルコ系の詰め物料理。オリーブオイルやヨーグルトを使い、トマトソース煮込みではないことが多い"
+      },
+      {
+        "id": "toltott-kaposzta",
+        "name": "トゥルトゥット・カーポスタ",
+        "difference": "同じ具をキャベツで包む冬の料理。こちらはザワークラウトの酸味と燻製で重い"
+      },
+      {
+        "name": "ピーマンの肉詰め",
+        "difference": "日本版は焼いて仕上げる。ハンガリー版は米入りの具をトマトスープで煮込む"
+      }
+    ],
+    "relatedIds": [
+      "paprika",
+      "dolma",
+      "toltott-kaposzta",
+      "goulash"
+    ],
+    "source": [
+      "https://www.hungary-travel-living.org/recommended-dishes/",
+      "https://en.wikipedia.org/wiki/Stuffed_peppers"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "煮込み",
+      "酸味",
+      "家庭料理",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "トマトが苦手",
+      "揚げ物",
+      "スパイシーなカレー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/toltott-paprika/1.jpg",
+      "/images/dishes/toltott-paprika/2.jpg",
+      "/images/dishes/toltott-paprika/3.jpg"
+    ]
+  },
+  {
+    "id": "mangalica",
+    "name": "マンガリッツァ豚",
+    "kana": "まんがりっつぁぶた",
+    "aliases": [
+      "マンガリツァ",
+      "マンガリッツア",
+      "Mangalitsa",
+      "羊毛豚"
+    ],
+    "englishName": "Mangalica pork",
+    "originalName": "Mangalica",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "羊のような巻き毛に覆われたハンガリー固有の豚品種。脂の多いラード型の豚で「食べられる国宝」と呼ばれ、霜降りの肉は甘みとコクがある。",
+    "menuDescription": "ハンガリーの国宝に指定された希少種マンガリッツァ豚のステーキ。きめ細かい脂の甘みをお楽しみください。",
+    "whatComesOut": [
+      "マンガリッツァ豚のステーキやロースト",
+      "レチョーやじゃがいもの付け合わせ",
+      "脂身が多めの厚切り肉",
+      "生ハムやサラミとして出ることも"
+    ],
+    "tasteAndTexture": [
+      "融点の低い甘い脂",
+      "霜降りでジューシー",
+      "肉の色が濃く旨みが強い"
+    ],
+    "orderAdvice": "メニューにあればハンガリーでしか味わいにくい体験として試す価値大。生産の半分以上が輸出されるため国内でも置く店は限られる。脂身が苦手なら赤身の多い部位を。",
+    "caution": "豚肉。脂が多くカロリー高め。",
+    "similarItems": [
+      {
+        "id": "jamon-iberico",
+        "name": "ハモン・イベリコ",
+        "difference": "スペインのイベリコ豚の生ハム。マンガリッツァもスペインで生ハム原料に使われる"
+      },
+      {
+        "name": "黒豚",
+        "difference": "日本・英国バークシャー系。マンガリッツァは巻き毛のラード型でさらに脂が多い"
+      }
+    ],
+    "relatedIds": [
+      "jamon-iberico",
+      "lecso",
+      "cigany-pecsenye"
+    ],
+    "source": [
+      "https://www.hungary-travel-living.org/recommended-dishes/",
+      "https://en.wikipedia.org/wiki/Mangalica"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "豚肉",
+      "焼き物",
+      "ジューシー",
+      "こってり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "脂身が苦手",
+      "ヘルシーな鶏むね肉",
+      "魚介",
+      "野菜中心"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mangalica/1.jpg",
+      "/images/dishes/mangalica/2.jpg",
+      "/images/dishes/mangalica/3.jpg"
+    ]
+  },
+  {
+    "id": "cigany-pecsenye",
+    "name": "チガーニペチェニェ",
+    "kana": "ちがーにぺちぇにぇ",
+    "aliases": [
+      "ジプシー風ロースト",
+      "チガーニ・ペチェニェ"
+    ],
+    "englishName": "Gypsy Roast",
+    "originalName": "Cigánypecsenye",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "豚肉をパプリカパウダーとにんにくで味付けして焼いたハンガリーの肉料理。付け合わせにカリッと焼いた豚の脂身がのるのが定番。",
+    "menuDescription": "にんにくとパプリカでマリネした豚肉をこんがりと焼き上げ、香ばしく焼いた豚の脂身とフライドポテトを添えて。",
+    "whatComesOut": [
+      "焼いた豚ロースやネック肉",
+      "カリカリに焼いた豚の脂身（ベーコン状）",
+      "フライドポテト",
+      "ピクルスやサラダ"
+    ],
+    "tasteAndTexture": [
+      "にんにくの強い香り",
+      "パプリカの香ばしさ",
+      "脂身のカリッと感と濃厚な脂",
+      "ジューシーな豚肉"
+    ],
+    "orderAdvice": "パプリカ煮込みが続いて飽きたときの「焼き」の選択肢。脂身の付け合わせに驚くのも旅の思い出。にんにく好き・肉好き向け。",
+    "caution": "豚肉。にんにくが強い。",
+    "similarItems": [
+      {
+        "id": "schnitzel",
+        "name": "シュニッツェル",
+        "difference": "衣をつけて揚げる。チガーニペチェニェは衣なしでにんにくとパプリカで焼く"
+      },
+      {
+        "id": "mititei",
+        "name": "ミティテイ",
+        "difference": "ルーマニアの挽肉グリル。こちらは塊肉を焼く"
+      }
+    ],
+    "relatedIds": [
+      "mangalica",
+      "schnitzel",
+      "paprika",
+      "mititei"
+    ],
+    "source": [
+      "https://www.hungary-travel-living.org/recommended-dishes/"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "香ばしい",
+      "こってり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "にんにくが苦手",
+      "脂身が苦手",
+      "あっさりした魚料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/cigany-pecsenye/1.jpg"
+    ]
+  },
+  {
+    "id": "hortobagyi-palacsinta",
+    "name": "ホルトバージ・パラチンタ",
+    "kana": "ほるとばーじ・ぱらちんた",
+    "aliases": [
+      "ホルトバージ風パラチンタ",
+      "ホルトバージ・パラチンカ"
+    ],
+    "englishName": "Hortobágy Pancakes",
+    "originalName": "Hortobágyi palacsinta",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "パプリカで煮込んだ仔牛肉などのシチューをハンガリー風クレープで包み、煮込みのソースとサワークリームをかけた料理。1958年ブリュッセル万博で披露されたとされ、地名ホルトバージとは直接関係がない。",
+    "menuDescription": "パプリカ風味の仔牛肉の煮込みを薄焼きのパラチンタで包み、濃厚なパプリカソースとサワークリームをたっぷりかけて。",
+    "whatComesOut": [
+      "肉入りの巻いたクレープ2本前後",
+      "赤いパプリカソース",
+      "サワークリーム",
+      "パセリ"
+    ],
+    "tasteAndTexture": [
+      "パプリカのコクとまろやかな酸味",
+      "もちっと柔らかいクレープ生地",
+      "ほろほろの煮込み肉",
+      "ソースが多くしっとり"
+    ],
+    "orderAdvice": "前菜の定番だが2本頼めばメインにもなる。ハンガリーのクレープと煮込み料理を一度に味わえるので、品数を絞りたい旅行者におすすめ。",
+    "caution": "小麦・卵・乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "palacsinta",
+        "name": "パラチンタ",
+        "difference": "同じ生地の甘いデザート版。こちらは肉入りの食事系"
+      },
+      {
+        "id": "crepe",
+        "name": "クレープ",
+        "difference": "フランスのガレットやクレープ。ソースで煮込みを包む発想はない"
+      },
+      {
+        "name": "エンチラーダ",
+        "difference": "トルティーヤで具を巻きソースをかけるメキシコ料理。構造は似ているが味は唐辛子・チーズ"
+      }
+    ],
+    "relatedIds": [
+      "palacsinta",
+      "porkolt",
+      "paprikas-csirke",
+      "crepe",
+      "sour-cream"
+    ],
+    "source": [
+      "https://www.hungary-travel-living.org/recommended-dishes/",
+      "https://en.wikipedia.org/wiki/Hortob%C3%A1gyi_palacsinta"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "前菜",
+      "牛肉",
+      "小麦",
+      "煮込み",
+      "クリーミー",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "乳製品が苦手",
+      "さっぱりしたサラダ",
+      "米料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "kurtoskalacs",
+    "name": "クルトゥーシュ・カラーチ",
+    "kana": "くるとぅーしゅ・からーち",
+    "aliases": [
+      "チムニーケーキ",
+      "煙突ケーキ",
+      "ハンガリアン・バームクーヘン",
+      "キュルテーシュカラーチ"
+    ],
+    "englishName": "Chimney Cake",
+    "originalName": "Kürtőskalács",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      },
+      {
+        "country": "ルーマニア"
+      }
+    ],
+    "summary": "パン生地を棒に巻きつけ、砂糖をまぶして回転させながら焼く筒状の菓子。トランシルバニア発祥で、表面はキャラメリゼされてカリッと香ばしい。",
+    "menuDescription": "生地を木の棒に巻きつけ炭火でじっくり焼き上げた煙突ケーキ。シナモン、クルミ、ココナッツなどお好みのトッピングで。",
+    "whatComesOut": [
+      "湯気の出る筒状の焼き菓子1本",
+      "シナモン・クルミ・ココナッツ等のトッピング",
+      "店によってはアイスやクリーム入り",
+      "紙袋に入れて手渡し"
+    ],
+    "tasteAndTexture": [
+      "キャラメリゼした砂糖のカリッとした外側",
+      "ふんわり柔らかいパン生地の内側",
+      "手でらせん状にちぎって食べる",
+      "焼き立ては香ばしく甘い"
+    ],
+    "orderAdvice": "ブダペストの地下鉄出入口や屋台で1,000フォリント前後で買える食べ歩きの定番。焼き立てを選ぶのがコツ。アイス入りはクリーム系が合う。",
+    "caution": "小麦・乳製品・卵を含む。ナッツトッピングに注意。",
+    "similarItems": [
+      {
+        "name": "トゥルデルニーク",
+        "difference": "チェコ・スロバキアで観光名物化した同系統の菓子"
+      },
+      {
+        "name": "バウムクーヘン",
+        "difference": "液状生地を層状に焼くドイツ菓子。クルトゥーシュはパン生地を巻いて焼く"
+      },
+      {
+        "id": "churros",
+        "name": "チュロス",
+        "difference": "揚げ菓子。こちらは焼き菓子でふんわり"
+      }
+    ],
+    "relatedIds": [
+      "langos",
+      "churros",
+      "donut",
+      "palacsinta"
+    ],
+    "source": [
+      "https://www.hungary-travel-living.org/recommended-dishes/",
+      "https://en.wikipedia.org/wiki/K%C3%BCrt%C5%91skal%C3%A1cs"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "菓子",
+      "小麦",
+      "焼き物",
+      "甘み",
+      "香ばしい",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "甘いものが苦手",
+      "しょっぱい軽食",
+      "ヘルシー志向"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kurtoskalacs/1.jpg"
+    ]
+  },
+  {
+    "id": "langos",
+    "name": "ラーンゴシュ",
+    "kana": "らーんごしゅ",
+    "aliases": [
+      "ランゴシュ",
+      "ハンガリーの揚げパン"
+    ],
+    "englishName": "Lángos",
+    "originalName": "Lángos",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "小麦粉・牛乳・イーストの生地を平たく伸ばして油で揚げたハンガリーの揚げパン。にんにくオイル、サワークリーム、チーズをのせて食べるストリートフード。",
+    "menuDescription": "ふっくら揚げたての平たい揚げパンに、サワークリームとたっぷりのすりおろしチーズをトッピング。にんにく風味もお選びいただけます。",
+    "whatComesOut": [
+      "直径20〜30cmほどの平たい揚げパン",
+      "サワークリーム",
+      "すりおろしチーズ",
+      "にんにくオイル（任意）"
+    ],
+    "tasteAndTexture": [
+      "外はカリッ、中はもちっとした生地",
+      "サワークリームの酸味とチーズの塩気",
+      "にんにくのパンチ",
+      "油分が多くボリューム大"
+    ],
+    "orderAdvice": "屋台で1,000〜1,500フォリントほど。塩だけのシンプル版もあるが、サワークリーム＋チーズが定番。サイズが大きいので食べきれなさそうならシェアを。",
+    "caution": "小麦・乳製品を含む。揚げ物で油が多い。",
+    "similarItems": [
+      {
+        "name": "ピッツァ・フリッタ",
+        "difference": "ナポリの揚げピザ。具を包むタイプが多い"
+      },
+      {
+        "name": "ベリャーシ",
+        "difference": "ロシア・タタールの肉入り揚げパン"
+      },
+      {
+        "id": "donut",
+        "name": "ドーナツ",
+        "difference": "甘い揚げ菓子。ラーンゴシュは塩味の食事系"
+      }
+    ],
+    "relatedIds": [
+      "kurtoskalacs",
+      "sour-cream",
+      "khachapuri",
+      "donut"
+    ],
+    "source": [
+      "https://www.hungary-travel-living.org/recommended-dishes/",
+      "https://en.wikipedia.org/wiki/L%C3%A1ngos"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "軽食",
+      "小麦",
+      "チーズ",
+      "揚げ物",
+      "こってり",
+      "もちもち",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "揚げ物が苦手",
+      "にんにくが苦手",
+      "あっさりしたスープ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/langos/1.jpg",
+      "/images/dishes/langos/2.jpg",
+      "/images/dishes/langos/3.jpg"
+    ]
+  },
+  {
+    "id": "porkolt",
+    "name": "プルクルト",
+    "kana": "ぷるくると",
+    "aliases": [
+      "ペルケルト",
+      "ポルコルト",
+      "パプリカ煮込み"
+    ],
+    "englishName": "Pörkölt",
+    "originalName": "Pörkölt",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "ラードで炒めた玉ねぎとパプリカパウダーで肉を煮込んだハンガリーのシチュー。スープ状のグヤーシュとは別物のメイン料理で、小さなダンプリングのノケドリを添える。",
+    "menuDescription": "玉ねぎとパプリカでじっくり煮込んだ牛肉（または豚肉）のハンガリー風シチュー。ノケドリ（卵入りダンプリング）を添えて。",
+    "whatComesOut": [
+      "赤いパプリカ色の肉の煮込み",
+      "ノケドリまたはタルホニャ（小粒パスタ）",
+      "キュウリのサラダやピクルス"
+    ],
+    "tasteAndTexture": [
+      "玉ねぎの甘みとパプリカの深いコク",
+      "とろりと濃いソース",
+      "柔らかく煮えた肉",
+      "ダンプリングのもちっと感"
+    ],
+    "orderAdvice": "ハンガリーの基本の肉料理。牛（マルハ）、豚（セルテーシュ）、鶏などから選べる。前菜でグヤーシュを頼むと味が似通うので、組み合わせに注意。",
+    "caution": "小麦・卵（付け合わせ）を含むことがある。",
+    "similarItems": [
+      {
+        "id": "goulash",
+        "name": "グーラッシュ",
+        "difference": "ハンガリー本国のグヤーシュはじゃがいもや野菜入りのスープ。プルクルトは汁気少なめのメイン"
+      },
+      {
+        "id": "paprikas-csirke",
+        "name": "パプリカーシュ・チルケ",
+        "difference": "プルクルトに仕上げでサワークリームを加えたクリーミー版"
+      },
+      {
+        "id": "beef-stew",
+        "name": "ビーフシチュー",
+        "difference": "ドミグラスやワインベース。プルクルトは玉ねぎとパプリカ主体"
+      }
+    ],
+    "relatedIds": [
+      "goulash",
+      "paprikas-csirke",
+      "paprika",
+      "beef-stew",
+      "hortobagyi-palacsinta"
+    ],
+    "source": [
+      "https://www.hungary-travel-living.org/recommended-dishes/",
+      "https://en.wikipedia.org/wiki/P%C3%B6rk%C3%B6lt"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "主菜",
+      "牛肉",
+      "豚肉",
+      "煮込み",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "パプリカが苦手",
+      "軽い魚料理",
+      "生野菜サラダ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/porkolt/1.jpg",
+      "/images/dishes/porkolt/2.jpg",
+      "/images/dishes/porkolt/3.jpg"
+    ]
+  },
+  {
+    "id": "paprikas-csirke",
+    "name": "パプリカーシュ・チルケ",
+    "kana": "ぱぷりかーしゅ・ちるけ",
+    "aliases": [
+      "チキンパプリカシュ",
+      "チルケパプリカーシュ",
+      "チキン・パプリカーシュ"
+    ],
+    "englishName": "Chicken Paprikash",
+    "originalName": "Paprikás csirke",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "鶏肉を玉ねぎ・にんにく・トマト・パプリカパウダーで煮込み、仕上げにサワークリームを加えたハンガリーの代表的な煮込み料理。",
+    "menuDescription": "骨付き鶏肉をパプリカと玉ねぎでじっくり煮込み、サワークリームでまろやかに仕上げました。ノケドリ（卵入りダンプリング）添え。",
+    "whatComesOut": [
+      "骨付き鶏もも肉の煮込み",
+      "オレンジ色のクリーミーなソース",
+      "ノケドリ",
+      "キュウリのサラダ"
+    ],
+    "tasteAndTexture": [
+      "サワークリームのまろやかさと軽い酸味",
+      "パプリカの甘い香り",
+      "ほろっと柔らかい鶏肉",
+      "辛さはほとんどない"
+    ],
+    "orderAdvice": "ハンガリー料理入門に最適なクリーミーで食べやすい一皿。ただし食後はずっしり。前菜にグヤーシュを頼むとパプリカ味が続くので注意。",
+    "caution": "乳製品・小麦・卵（付け合わせ）を含む。",
+    "similarItems": [
+      {
+        "id": "porkolt",
+        "name": "プルクルト",
+        "difference": "サワークリームを加えない、より素朴な煮込み"
+      },
+      {
+        "id": "coq-au-vin",
+        "name": "コック・オ・ヴァン",
+        "difference": "フランスの赤ワイン煮込み。パプリカやサワークリームは使わない"
+      },
+      {
+        "name": "バターチキン",
+        "difference": "インドのトマトクリームカレー。スパイスの複雑さが段違い"
+      }
+    ],
+    "relatedIds": [
+      "porkolt",
+      "goulash",
+      "paprika",
+      "sour-cream",
+      "coq-au-vin",
+      "hortobagyi-palacsinta"
+    ],
+    "source": [
+      "https://www.hungary-travel-living.org/recommended-dishes/",
+      "https://en.wikipedia.org/wiki/Chicken_paprikash"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "主菜",
+      "鶏肉",
+      "煮込み",
+      "クリーミー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "乳製品が苦手",
+      "あっさりした焼き魚",
+      "辛い料理好き"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/paprikas-csirke/1.jpg",
+      "/images/dishes/paprikas-csirke/2.jpg",
+      "/images/dishes/paprikas-csirke/3.jpg"
+    ]
+  },
+  {
+    "id": "gyumolcsleves",
+    "name": "ジュムルチレヴェシュ",
+    "kana": "じゅむるちれゔぇしゅ",
+    "aliases": [
+      "ハンガリーのフルーツスープ",
+      "メッジレヴェシュ",
+      "サワーチェリースープ",
+      "冷製フルーツスープ"
+    ],
+    "englishName": "Hungarian Cold Fruit Soup",
+    "originalName": "Gyümölcsleves",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "サワーチェリーやベリーなどの果物を煮て、サワークリームや生クリームでとろみをつけた冷たく甘いスープ。夏に前菜として食べるハンガリー独特の料理。",
+    "menuDescription": "旬のサワーチェリー（またはベリー）をシナモンとともに煮出し、クリームでなめらかに仕上げた冷製スープ。夏季限定。",
+    "whatComesOut": [
+      "ピンク〜赤紫色の冷たいスープ",
+      "果実のかけら",
+      "ホイップクリームやミントの飾り"
+    ],
+    "tasteAndTexture": [
+      "果物の甘酸っぱさ",
+      "クリームのなめらかさ",
+      "シナモンやクローブのほのかな香り",
+      "キンと冷えて爽やか"
+    ],
+    "orderAdvice": "前菜として頼むのに「最初から甘いスープ？」と驚く一品。暑い日にはさっぱりして意外と合う。甘党や珍しい体験をしたい人向け。",
+    "caution": "乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "gazpacho",
+        "name": "ガスパチョ",
+        "difference": "トマト野菜の冷製スープで塩味。こちらは果物で甘い"
+      },
+      {
+        "name": "フルクトソッパ",
+        "difference": "北欧のドライフルーツスープ。温かくして出すことも多くクリームなし"
+      },
+      {
+        "name": "ブローベールスープ",
+        "difference": "スウェーデンのブルーベリースープ。飲み物感覚"
+      }
+    ],
+    "relatedIds": [
+      "gazpacho",
+      "sour-cream",
+      "palacsinta"
+    ],
+    "source": [
+      "https://www.hungary-travel-living.org/recommended-dishes/",
+      "https://en.wikipedia.org/wiki/Hideg_meggyleves",
+      "https://en.wikipedia.org/wiki/Fruit_soup"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "スープ",
+      "果物",
+      "乳製品",
+      "甘み",
+      "酸味",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "食事に甘いものは嫌",
+      "温かいスープ派",
+      "乳製品が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "halaszle",
+    "name": "ハラースレー",
+    "kana": "はらーすれー",
+    "aliases": [
+      "ハンガリーの漁師スープ",
+      "ハラースレ",
+      "フィッシャーマンズスープ"
+    ],
+    "englishName": "Fisherman's Soup",
+    "originalName": "Halászlé",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "コイやナマズなどの川魚をたっぷりのパプリカで煮込んだ真っ赤なスープ。ドナウ川・ティサ川沿いの町の名物で、クリスマスイブの定番。",
+    "menuDescription": "コイのアラで2時間煮出したスープに辛口パプリカを加え、厚切りのコイの身を煮込んだ伝統の漁師スープ。",
+    "whatComesOut": [
+      "真っ赤なパプリカスープ",
+      "厚切りのコイやナマズの切り身",
+      "青唐辛子（辛さ調整用）",
+      "パン"
+    ],
+    "tasteAndTexture": [
+      "パプリカの濃厚な旨みとピリッとした辛さ",
+      "川魚特有の風味",
+      "ほろっと崩れる白身",
+      "小骨が多い"
+    ],
+    "orderAdvice": "魚好きならぜひ。名店ならコイ・ナマズ・ミックスと選べる。調理が下手だと川魚の臭みが出るので、ハラースレーを看板にする店を選ぶのが吉。",
+    "caution": "魚介。コイは小骨が多いので注意。",
+    "similarItems": [
+      {
+        "id": "bouillabaisse",
+        "name": "ブイヤベース",
+        "difference": "南仏の海の魚のスープ。サフランとトマトでパプリカは主役でない"
+      },
+      {
+        "id": "goulash",
+        "name": "グーラッシュ",
+        "difference": "牛肉のパプリカスープ。ハラースレーは魚版といえる"
+      },
+      {
+        "name": "ウハー",
+        "difference": "ロシアの澄んだ魚スープ。辛くない"
+      }
+    ],
+    "relatedIds": [
+      "carp",
+      "catfish",
+      "bouillabaisse",
+      "goulash",
+      "paprika"
+    ],
+    "source": [
+      "https://www.hungary-travel-living.org/recommended-dishes/",
+      "https://en.wikipedia.org/wiki/Hal%C3%A1szl%C3%A9"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "スープ",
+      "魚介",
+      "煮込み",
+      "ピリ辛",
+      "郷土料理",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "川魚の臭みが苦手",
+      "小骨が苦手",
+      "肉料理派",
+      "辛いものが苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/halaszle/1.jpg",
+      "/images/dishes/halaszle/2.jpg",
+      "/images/dishes/halaszle/3.jpg"
+    ]
+  },
+  {
+    "id": "lecso",
+    "name": "レチョー",
+    "kana": "れちょー",
+    "aliases": [
+      "レチョ",
+      "ハンガリー版ラタトゥイユ"
+    ],
+    "englishName": "Lecsó",
+    "originalName": "Lecsó",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "パプリカ・トマト・玉ねぎをパプリカパウダーで煮込んだハンガリーの野菜煮込み。「ハンガリー版ラタトゥイユ」と呼ばれ、ソーセージや卵を加えることも多い。",
+    "menuDescription": "夏のパプリカとトマトを玉ねぎとじっくり煮込んだ野菜のシチュー。コルバース（ハンガリーソーセージ）入り。",
+    "whatComesOut": [
+      "パプリカとトマトのとろりとした煮込み",
+      "コルバース（ソーセージ）の輪切り",
+      "卵入りの場合もあり",
+      "パン"
+    ],
+    "tasteAndTexture": [
+      "野菜の甘みとトマトの酸味",
+      "くたっと柔らかいパプリカ",
+      "ソーセージのスモーキーな旨み"
+    ],
+    "orderAdvice": "野菜のみ版は軽め、ソーセージ入りはかなりヘビー。肉料理の付け合わせで出ることもある。夏が旬。",
+    "caution": "ソーセージ入りは豚肉を含む。",
+    "similarItems": [
+      {
+        "id": "ratatouille",
+        "name": "ラタトゥイユ",
+        "difference": "ナスやズッキーニも入る南仏の煮込み。レチョーはパプリカ主体"
+      },
+      {
+        "id": "shakshuka",
+        "name": "シャクシュカ",
+        "difference": "中東・北アフリカの卵入りトマト煮込み。スパイスが効く"
+      },
+      {
+        "id": "piperade",
+        "name": "ピペラード",
+        "difference": "バスクのピーマン・トマト煮込みで、レチョーとよく似る"
+      }
+    ],
+    "relatedIds": [
+      "ratatouille",
+      "shakshuka",
+      "piperade",
+      "paprika",
+      "mangalica"
+    ],
+    "source": [
+      "https://www.hungary-travel-living.org/recommended-dishes/",
+      "https://en.wikipedia.org/wiki/Lecs%C3%B3"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "主菜",
+      "野菜",
+      "煮込み",
+      "酸味",
+      "家庭料理",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "パプリカが苦手",
+      "トマトが苦手",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/lecso/1.jpg",
+      "/images/dishes/lecso/2.jpg",
+      "/images/dishes/lecso/3.jpg"
+    ]
+  },
+  {
+    "id": "somloi-galuska",
+    "name": "ショムローイ・ガルシュカ",
+    "kana": "しょむろーい・がるしゅか",
+    "aliases": [
+      "ショムロイ・ガルシュカ",
+      "ショムロー風ガルシュカ"
+    ],
+    "englishName": "Somló Sponge Dumplings",
+    "originalName": "Somlói galuska",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "スポンジケーキにラム酒シロップ、クルミ、レーズン、カスタードを重ね、チョコレートソースと生クリームをかけたハンガリーの定番デザート。",
+    "menuDescription": "ラム酒をしみ込ませた3種のスポンジにクルミとカスタードを合わせ、チョコレートソースとホイップクリームをたっぷりと。",
+    "whatComesOut": [
+      "スプーンですくって盛ったスポンジの塊",
+      "たっぷりのホイップクリーム",
+      "チョコレートソース",
+      "クルミとレーズン"
+    ],
+    "tasteAndTexture": [
+      "ラム酒の香り",
+      "しっとり柔らかいスポンジ",
+      "チョコとクリームの濃厚な甘さ",
+      "ずっしり重い"
+    ],
+    "orderAdvice": "ハンガリーを代表するデザートだがボリューム大。メインの後なら2人以上でシェアを。老舗カフェ・ジェルボーのものが評判。",
+    "caution": "小麦・卵・乳製品・ナッツ（クルミ）・アルコール（ラム酒）を含む。",
+    "similarItems": [
+      {
+        "id": "tiramisu",
+        "name": "ティラミス",
+        "difference": "コーヒー風味のマスカルポーネ。ショムローイはラム酒とチョコ"
+      },
+      {
+        "name": "トライフル",
+        "difference": "英国のスポンジ・カスタード・クリームの層。構造が近い"
+      }
+    ],
+    "relatedIds": [
+      "tiramisu",
+      "palacsinta",
+      "kurtoskalacs"
+    ],
+    "source": [
+      "https://www.hungary-travel-living.org/recommended-dishes/",
+      "https://hu.wikipedia.org/wiki/Soml%C3%B3i_galuska"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "デザート",
+      "小麦",
+      "ナッツ",
+      "乳製品",
+      "甘み",
+      "ふわふわ"
+    ],
+    "reverseKeywords": [
+      "甘いものが苦手",
+      "アルコールが苦手",
+      "ナッツアレルギー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "palacsinta",
+    "name": "パラチンタ",
+    "kana": "ぱらちんた",
+    "aliases": [
+      "パラチンケ",
+      "パラチンキ",
+      "ハンガリーのクレープ",
+      "Palatschinke"
+    ],
+    "englishName": "Palatschinke",
+    "originalName": "Palacsinta",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      },
+      {
+        "area": "中欧"
+      }
+    ],
+    "summary": "ハンガリーなど中欧で食べられる薄焼きクレープ。ジャム、チョコ、カッテージチーズなど具は1種類のシンプルなものが多い。クルミとラムのグンデル・パラチンタが有名。",
+    "menuDescription": "薄く焼き上げた生地でアプリコットジャム（またはチョコレート、甘いカッテージチーズ）を包んだハンガリーのクレープ。",
+    "whatComesOut": [
+      "巻いた薄焼きクレープ2〜3本",
+      "中にジャムやチョコ、トゥーロー（カッテージチーズ）",
+      "粉糖",
+      "グンデル版はクルミ入りでチョコソースがけ"
+    ],
+    "tasteAndTexture": [
+      "薄くしっとりした生地",
+      "ジャムのわかりやすい甘さ",
+      "トゥーロー入りはほのかな酸味"
+    ],
+    "orderAdvice": "屋台でラーンゴシュと並んで売られるおやつの定番。メインを食べた後だと量が多いことも。贅沢するなら発祥の店グンデルのグンデル・パラチンタを。",
+    "caution": "小麦・卵・乳製品を含む。グンデル版はナッツとラム酒入り。",
+    "similarItems": [
+      {
+        "id": "crepe",
+        "name": "クレープ",
+        "difference": "フランスのクレープ。パラチンタはやや厚めで具は1種類が基本"
+      },
+      {
+        "id": "clatite",
+        "name": "クラティテ",
+        "difference": "ルーマニア版で同系統"
+      },
+      {
+        "id": "hortobagyi-palacsinta",
+        "name": "ホルトバージ・パラチンタ",
+        "difference": "同じ生地で肉の煮込みを包んだ食事系"
+      }
+    ],
+    "relatedIds": [
+      "crepe",
+      "clatite",
+      "blini",
+      "hortobagyi-palacsinta",
+      "kurtoskalacs"
+    ],
+    "source": [
+      "https://www.hungary-travel-living.org/recommended-dishes/",
+      "https://en.wikipedia.org/wiki/Palatschinke"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "デザート",
+      "小麦",
+      "卵",
+      "焼き物",
+      "甘み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "甘いものが苦手",
+      "しょっぱい軽食",
+      "米料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/palacsinta/1.jpg",
+      "/images/dishes/palacsinta/2.jpg",
+      "/images/dishes/palacsinta/3.jpg"
+    ]
   }
 ]
