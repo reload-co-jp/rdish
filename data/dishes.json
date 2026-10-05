@@ -192538,5 +192538,450 @@
     "heavinessScore": 2,
     "spicinessScore": 0,
     "images": []
+  },
+  {
+    "id": "kavarma",
+    "name": "カヴァルマ",
+    "kana": "かゔぁるま",
+    "aliases": [
+      "カヴァルマ",
+      "カバルマ",
+      "Kavarma",
+      "Kavurma"
+    ],
+    "englishName": "Kavarma",
+    "originalName": "Кавърма",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ブルガリア"
+      }
+    ],
+    "summary": "豚肉や鶏肉を玉ねぎ・ピーマン・チューブリツァ（セイボリー）と土鍋で焼き煮込むブルガリアの代表的な肉料理。仕上げに卵やチーズをのせることも多い。",
+    "menuDescription": "豚肉と玉ねぎ・ピーマンを素焼きの土鍋に詰め、トマトとハーブでオーブン焼きにしたブルガリア風煮込み。卵や白チーズをのせて熱々で供される。",
+    "whatComesOut": [
+      "小さな素焼き土鍋（ギュベチェ）に入った熱々の煮込み",
+      "豚肉または鶏肉の角切り",
+      "玉ねぎ・ピーマン・きのこなど",
+      "表面に落とした卵や白チーズ",
+      "パンが添えられることが多い"
+    ],
+    "tasteAndTexture": [
+      "肉と玉ねぎの甘みが溶けたトマトベース",
+      "チューブリツァの清涼感ある香り",
+      "柔らかく煮えた肉",
+      "とろりとした卵とチーズのコク"
+    ],
+    "orderAdvice": "ブルガリアのレストランで温かい肉料理を食べたいなら定番の一皿。土鍋ごと出て量もしっかり。パンでソースまで食べたい人向け。",
+    "caution": "豚肉を使うことが多い。卵・乳製品をのせる場合あり。土鍋は非常に熱い。",
+    "similarItems": [
+      {
+        "id": "guvec",
+        "name": "ユベチ",
+        "difference": "ユベチは野菜も多い土鍋煮込み全般。カヴァルマは肉と玉ねぎ主体"
+      },
+      {
+        "id": "selsko-meso",
+        "name": "セルスコ・メソ",
+        "difference": "どちらも土鍋の肉料理。セルスコ・メソは「田舎風の肉」できのこ入りが定番"
+      },
+      {
+        "id": "beef-stew",
+        "name": "ビーフシチュー",
+        "difference": "ビーフシチューは牛肉とデミグラス系。カヴァルマは豚肉とトマト・ハーブ"
+      }
+    ],
+    "relatedIds": [
+      "guvec",
+      "selsko-meso",
+      "moussaka",
+      "shopska-salad"
+    ],
+    "source": [
+      "https://tabippo.net/bulgaria-food/",
+      "https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B2%D1%8A%D1%80%D0%BC%D0%B0",
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine"
+    ],
+    "tags": [
+      "ブルガリア料理",
+      "主菜",
+      "豚肉",
+      "煮込み",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "生野菜サラダ",
+      "冷製料理",
+      "あっさり",
+      "魚料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/kavarma/1.jpg"
+    ]
+  },
+  {
+    "id": "kebapche",
+    "name": "ケバプチェ",
+    "kana": "けばぷちぇ",
+    "aliases": [
+      "ケバプチェタ",
+      "ケバプチェ",
+      "Kebapche",
+      "Kebapcheta"
+    ],
+    "englishName": "Kebapche",
+    "originalName": "Кебапче",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ブルガリア"
+      }
+    ],
+    "summary": "豚肉と牛肉の挽き肉をクミン・黒胡椒・塩で味付けし、細長い棒状にして炭火で焼くブルガリアの定番グリル料理。複数形はケバプチェタ。",
+    "menuDescription": "クミンを効かせた合挽き肉を細長く成形し、グリルで香ばしく焼き上げたブルガリア名物。フライドポテトやサラダ、パンと一緒にどうぞ。",
+    "whatComesOut": [
+      "棒状のグリル挽き肉 3本前後",
+      "フライドポテト（白チーズがけのことも）",
+      "ショプスカ・サラダなどの付け合わせ",
+      "パンやルテニツァ（野菜ペースト）"
+    ],
+    "tasteAndTexture": [
+      "クミンの香りが立つ肉の旨味",
+      "表面の香ばしい焼き目",
+      "肉汁の多いジューシーさ",
+      "黒胡椒のほどよい刺激"
+    ],
+    "orderAdvice": "ブルガリアの大衆食堂やグリル店で迷ったらこれ。ハンバーグやソーセージ好きなら外さない。ビールのつまみにも。",
+    "caution": "豚肉を含むことが多い。",
+    "similarItems": [
+      {
+        "id": "cevapcici",
+        "name": "ケバプチチ",
+        "difference": "ケバプチチは旧ユーゴ圏の小ぶりな棒状挽き肉。ケバプチェは長めでクミンが特徴"
+      },
+      {
+        "id": "kofte",
+        "name": "キョフテ",
+        "difference": "キョフテは丸く平たい肉団子。ケバプチェは細長い棒状"
+      },
+      {
+        "id": "sharska-pljeskavica",
+        "name": "シャルスカ・プレスカヴィツァ",
+        "difference": "プレスカヴィツァは大きな円盤状パティ。ケバプチェは棒状"
+      }
+    ],
+    "relatedIds": [
+      "cevapcici",
+      "kofte",
+      "kebab",
+      "shopska-salad"
+    ],
+    "source": [
+      "https://tabippo.net/bulgaria-food/",
+      "https://en.wikipedia.org/wiki/Kebapche",
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine"
+    ],
+    "tags": [
+      "ブルガリア料理",
+      "主菜",
+      "豚肉",
+      "牛肉",
+      "グリル",
+      "スパイス",
+      "ジューシー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "野菜料理",
+      "あっさり",
+      "魚料理",
+      "クミン苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/kebapche/1.jpg",
+      "/images/dishes/kebapche/2.jpg",
+      "/images/dishes/kebapche/3.jpg"
+    ]
+  },
+  {
+    "id": "sarmi",
+    "name": "サルミ",
+    "kana": "さるみ",
+    "aliases": [
+      "サルマ",
+      "Sarmi",
+      "Sarma"
+    ],
+    "englishName": "Sarmi",
+    "originalName": "Сарми",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ブルガリア"
+      },
+      {
+        "country": "トルコ"
+      }
+    ],
+    "summary": "ブドウの葉やキャベツの葉で米と挽き肉を包んで煮るブルガリアの家庭料理。オスマン帝国由来の「サルマ」のブルガリア版で、ヨーグルトを添えて食べる。",
+    "menuDescription": "ブドウの葉または酢漬けキャベツの葉で、米と挽き肉をハーブとともに巻いて柔らかく煮込みました。冷たいヨーグルトをかけてお召し上がりください。",
+    "whatComesOut": [
+      "葉で巻いた小ぶりのロール数個",
+      "米と挽き肉（肉なしの精進版も）",
+      "煮汁またはトマトソース",
+      "添えのヨーグルト"
+    ],
+    "tasteAndTexture": [
+      "葉のほのかな酸味",
+      "米と肉のふっくらした食感",
+      "ヨーグルトの爽やかさ",
+      "肉入りはこってり"
+    ],
+    "orderAdvice": "ロールキャベツ好きなら気に入る優しい味。ブドウの葉版は酸味と香りが独特なので、苦手ならキャベツ版を選ぶ。",
+    "caution": "肉入りと肉なし（クリスマスイブ用の精進版）がある。ヨーグルト添えは乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "dolma",
+        "name": "ドルマ",
+        "difference": "ドルマは詰め物料理全般。サルミは葉で「巻く」タイプ"
+      },
+      {
+        "id": "kaldolmar",
+        "name": "コールドルマル",
+        "difference": "コールドルマルはスウェーデンのロールキャベツでクリームソース系。サルミはヨーグルト添え"
+      },
+      {
+        "name": "ロールキャベツ",
+        "difference": "ロールキャベツは大きくコンソメやトマト煮。サルミは小ぶりで酢漬けキャベツやブドウの葉を使う"
+      }
+    ],
+    "relatedIds": [
+      "dolma",
+      "kaldolmar",
+      "tarator",
+      "moussaka"
+    ],
+    "source": [
+      "https://tabippo.net/bulgaria-food/",
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AB%E3%83%9E_(%E6%96%99%E7%90%86)",
+      "https://en.wikipedia.org/wiki/Stuffed_leaves",
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine"
+    ],
+    "tags": [
+      "ブルガリア料理",
+      "主菜",
+      "米",
+      "豚肉",
+      "煮込み",
+      "酸味",
+      "家庭料理",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "グリル肉",
+      "揚げ物",
+      "パン料理",
+      "酸味苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sarmi/1.jpg",
+      "/images/dishes/sarmi/2.jpg",
+      "/images/dishes/sarmi/3.jpg"
+    ]
+  },
+  {
+    "id": "mish-mash",
+    "name": "ミシュマシュ",
+    "kana": "みしゅましゅ",
+    "aliases": [
+      "ミシュ・マシュ",
+      "Mish-mash",
+      "Mishmash"
+    ],
+    "englishName": "Mish-mash",
+    "originalName": "Миш-маш",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ブルガリア"
+      }
+    ],
+    "summary": "トマト・ピーマン・玉ねぎを炒め、白いブラインチーズと卵を加えてまとめるブルガリアの夏の家庭料理。名前は「ごちゃ混ぜ」の意味。",
+    "menuDescription": "焼きピーマンとトマト、玉ねぎを炒め、白チーズと卵でふんわりとじたブルガリア風スクランブル。パセリなど香草を添えて。",
+    "whatComesOut": [
+      "フライパンや小鍋に入った卵とじ",
+      "トマト・ピーマン・玉ねぎ",
+      "崩した白チーズ（シレネ）",
+      "パン"
+    ],
+    "tasteAndTexture": [
+      "卵のふわふわ感",
+      "白チーズの塩気",
+      "トマトとピーマンの甘酸っぱさ",
+      "香草の爽やかさ"
+    ],
+    "orderAdvice": "肉なしで軽めに食べたい時や朝食・ランチ向き。シャクシュカやスクランブルエッグ好きなら安心して頼める。",
+    "caution": "卵・乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "shakshuka",
+        "name": "シャクシュカ",
+        "difference": "シャクシュカはトマトソースに卵を落として半熟に煮る。ミシュマシュは卵とチーズを混ぜて炒める"
+      },
+      {
+        "id": "piperade",
+        "name": "ピペラード",
+        "difference": "ピペラードはバスクのピーマン煮込み。ミシュマシュは白チーズが入る"
+      },
+      {
+        "id": "shopska-salad",
+        "name": "ショプスカ・サラダ",
+        "difference": "具材は似るがショプスカは生野菜サラダ。ミシュマシュは加熱した卵料理"
+      }
+    ],
+    "relatedIds": [
+      "shakshuka",
+      "piperade",
+      "shopska-salad",
+      "feta",
+      "fergese"
+    ],
+    "source": [
+      "https://tabippo.net/bulgaria-food/",
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine"
+    ],
+    "tags": [
+      "ブルガリア料理",
+      "軽食",
+      "卵",
+      "チーズ",
+      "野菜",
+      "炒め物",
+      "ふわふわ",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "肉料理",
+      "グリル",
+      "卵苦手",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/mish-mash/1.jpg",
+      "/images/dishes/mish-mash/2.jpg",
+      "/images/dishes/mish-mash/3.jpg"
+    ]
+  },
+  {
+    "id": "banitsa",
+    "name": "バニツァ",
+    "kana": "ばにつぁ",
+    "aliases": [
+      "バニッツァ",
+      "Banitsa",
+      "Banica",
+      "Banitza"
+    ],
+    "englishName": "Banitsa",
+    "originalName": "Баница",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ブルガリア"
+      },
+      {
+        "country": "北マケドニア"
+      },
+      {
+        "country": "セルビア"
+      }
+    ],
+    "summary": "薄いフィロ生地に卵・ヨーグルト・白いブラインチーズを混ぜた具を重ねて焼くブルガリアの伝統的なパイ。朝食の定番で、ホウレン草入りなども。",
+    "menuDescription": "何層にも重ねた薄いパイ生地に白チーズと卵、ヨーグルトのフィリングを挟んで焼き上げたブルガリアの朝ごはんパイ。アイリャン（飲むヨーグルト）と一緒に。",
+    "whatComesOut": [
+      "四角または渦巻き形に焼いたパイ",
+      "層の間の白チーズと卵",
+      "ホウレン草やかぼちゃ入りの場合も",
+      "ヨーグルトドリンクを合わせることが多い"
+    ],
+    "tasteAndTexture": [
+      "焼きたては表面サクサク",
+      "時間が経つとキッシュのようにしっとり",
+      "白チーズの塩気",
+      "卵とヨーグルトのまろやかさ"
+    ],
+    "orderAdvice": "パン屋や朝の屋台で気軽に買える。チーズパイ好きなら必食。焼きたてのサクサク感を狙うなら朝がおすすめ。",
+    "caution": "小麦・卵・乳製品を含む。油分が多くボリュームあり。",
+    "similarItems": [
+      {
+        "id": "spanakopita",
+        "name": "スパナコピタ",
+        "difference": "スパナコピタはホウレン草主体のギリシャのパイ。バニツァは白チーズと卵が基本"
+      },
+      {
+        "id": "byrek",
+        "name": "ビュレク",
+        "difference": "ビュレクはバルカン・トルコ圏の具入りパイ全般。バニツァはヨーグルト入りのブルガリア版"
+      },
+      {
+        "id": "quiche",
+        "name": "キッシュ",
+        "difference": "キッシュはタルト生地に卵液。バニツァは薄いフィロ生地を重ねる"
+      }
+    ],
+    "relatedIds": [
+      "spanakopita",
+      "byrek",
+      "feta",
+      "khachapuri",
+      "tarator"
+    ],
+    "source": [
+      "https://tabippo.net/bulgaria-food/",
+      "https://en.wikipedia.org/wiki/Banitsa",
+      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%8B%E3%83%83%E3%83%84%E3%82%A1"
+    ],
+    "tags": [
+      "ブルガリア料理",
+      "軽食",
+      "小麦",
+      "チーズ",
+      "卵",
+      "焼き物",
+      "サクサク",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "あっさり",
+      "グルテンフリー",
+      "乳製品不可",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/banitsa/1.jpg",
+      "/images/dishes/banitsa/2.jpg",
+      "/images/dishes/banitsa/3.jpg"
+    ]
   }
 ]
