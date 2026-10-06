@@ -1,6 +1,7 @@
 "use client"
 
 import { useEffect } from "react"
+import { usePathname } from "next/navigation"
 
 declare global {
   interface Window {
@@ -55,3 +56,6 @@ export const InArticleAd = () => {
     />
   )
 }
+
+// layout は遷移で再マウントされない → pathname を key にして毎ページ新規枠を push
+export const RouteAd = () => <AdSense key={usePathname()} />

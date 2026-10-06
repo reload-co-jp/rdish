@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import Script from "next/script"
 import Link from "next/link"
 import "./reset.css"
+import { RouteAd } from "../components/elements/AdSense"
 
 const GA_ID = "G-Y2D3TYWS2Q"
 const ADSENSE_ID = "ca-pub-6542845006087970"
@@ -194,6 +195,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
           }}
         >
           {children}
+          <RouteAd />
         </main>
         <footer
           style={{

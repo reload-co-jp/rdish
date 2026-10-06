@@ -245,7 +245,6 @@ export default async function DishPage({
         allDishes={allDishes}
         updatedAt={dateModified}
       />
-      <AdSense />
     </>
   )
 }

@@ -286,7 +286,6 @@ export default function TopPage() {
         </div>
       </section>
 
-      <AdSense />
     </div>
   )
 }
