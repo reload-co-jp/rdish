@@ -222,6 +222,8 @@ export default function TopPage() {
         </section>
       )}
 
+      <AdSense />
+
       <section style={{ marginBottom: "2rem" }}>
         <div
           style={{
