@@ -425,7 +425,8 @@
     "relatedIds": [
       "tartare",
       "marine",
-      "escabeche"
+      "escabeche",
+      "ravigote-sauce"
     ],
     "tags": [
       "イタリア料理",
@@ -694,7 +695,8 @@
     "relatedIds": [
       "poele",
       "grill",
-      "roast"
+      "roast",
+      "pork-chop"
     ],
     "tags": [
       "フランス料理",
@@ -817,7 +819,9 @@
       "braise",
       "grill",
       "saute",
-      "gravy"
+      "gravy",
+      "onion-sauce",
+      "bread-sauce"
     ],
     "tags": [
       "ロースト",
@@ -1710,7 +1714,8 @@
     "relatedIds": [
       "saute",
       "munieru",
-      "confit"
+      "confit",
+      "meuniere-sauce"
     ],
     "tags": [
       "フランス料理",
@@ -1813,7 +1818,9 @@
     ],
     "relatedIds": [
       "poele",
-      "saute"
+      "saute",
+      "meuniere-sauce",
+      "tartar-sauce"
     ],
     "tags": [
       "フランス料理",
@@ -2258,7 +2265,8 @@
       }
     ],
     "relatedIds": [
-      "vinaigrette"
+      "vinaigrette",
+      "ravigote-sauce"
     ],
     "tags": [
       "フランス料理",
@@ -2988,7 +2996,8 @@
     ],
     "relatedIds": [
       "fennel",
-      "estragon"
+      "estragon",
+      "tartar-sauce"
     ],
     "tags": [
       "ハーブ",
@@ -3228,7 +3237,9 @@
     ],
     "relatedIds": [
       "genovese",
-      "pesto"
+      "pesto",
+      "tomato-sauce",
+      "marinara-sauce"
     ],
     "tags": [
       "ハーブ",
@@ -3413,7 +3424,8 @@
     "relatedIds": [
       "pho",
       "gapao",
-      "tacos"
+      "tacos",
+      "salsa-sauce"
     ],
     "tags": [
       "ハーブ",
@@ -3491,7 +3503,8 @@
     "relatedIds": [
       "fennel",
       "dill",
-      "thyme"
+      "thyme",
+      "ravigote-sauce"
     ],
     "tags": [
       "フランス料理",
@@ -3700,7 +3713,8 @@
     "relatedIds": [
       "burrata",
       "ricotta",
-      "basil"
+      "basil",
+      "marinara-sauce"
     ],
     "tags": [
       "チーズ",
@@ -3978,7 +3992,8 @@
     "relatedIds": [
       "pecorino",
       "tagliata",
-      "risotto"
+      "risotto",
+      "mornay-sauce"
     ],
     "tags": [
       "チーズ",
@@ -4061,7 +4076,8 @@
     ],
     "relatedIds": [
       "parmigiano",
-      "gorgonzola"
+      "gorgonzola",
+      "amatriciana"
     ],
     "tags": [
       "チーズ",
@@ -4902,7 +4918,8 @@
     "relatedIds": [
       "chimichurri",
       "pesto",
-      "genovese"
+      "genovese",
+      "ravigote-sauce"
     ],
     "tags": [
       "ソース",
@@ -5062,7 +5079,8 @@
     "relatedIds": [
       "couscous",
       "tajin",
-      "chimichurri"
+      "chimichurri",
+      "chili-sauce"
     ],
     "tags": [
       "ソース",
@@ -5209,7 +5227,9 @@
     ],
     "relatedIds": [
       "raita",
-      "biryani"
+      "biryani",
+      "curry-sauce",
+      "duck-sauce"
     ],
     "tags": [
       "酸味",
@@ -5293,7 +5313,11 @@
     "relatedIds": [
       "demiglace",
       "roast",
-      "fonds"
+      "fonds",
+      "onion-sauce",
+      "apfelkren",
+      "curry-sauce",
+      "bread-sauce"
     ],
     "tags": [
       "ソース",
@@ -5418,7 +5442,9 @@
     ],
     "relatedIds": [
       "marine",
-      "balsamic"
+      "balsamic",
+      "salad-cream",
+      "ravigote-sauce"
     ],
     "tags": [
       "ソース",
@@ -5521,7 +5547,11 @@
     "relatedIds": [
       "gratin",
       "croque_monsieur",
-      "lasagna"
+      "lasagna",
+      "aurora-sauce",
+      "onion-sauce",
+      "mornay-sauce",
+      "bread-sauce"
     ],
     "tags": [
       "ソース",
@@ -5903,7 +5933,11 @@
     "relatedIds": [
       "gravy",
       "fonds",
-      "ragu"
+      "ragu",
+      "noko-sauce",
+      "onion-sauce",
+      "curry-sauce",
+      "pork-chop"
     ],
     "tags": [
       "ソース",
@@ -7156,7 +7190,8 @@
     ],
     "relatedIds": [
       "hummus",
-      "harissa"
+      "harissa",
+      "tomato-sauce"
     ],
     "tags": [
       "中東料理",
@@ -7252,7 +7287,9 @@
     ],
     "relatedIds": [
       "quesadilla",
-      "pakuchi"
+      "pakuchi",
+      "salsa-sauce",
+      "mole"
     ],
     "tags": [
       "メキシコ料理",
@@ -7613,7 +7650,8 @@
     ],
     "relatedIds": [
       "risotto",
-      "gorgonzola"
+      "gorgonzola",
+      "tomato-sauce"
     ],
     "tags": [
       "イタリア料理",
@@ -8632,7 +8670,8 @@
     ],
     "relatedIds": [
       "bechamel",
-      "galette"
+      "galette",
+      "mornay-sauce"
     ],
     "tags": [
       "フランス料理",
@@ -8752,7 +8791,8 @@
     ],
     "relatedIds": [
       "bechamel",
-      "croque_monsieur"
+      "croque_monsieur",
+      "mornay-sauce"
     ],
     "tags": [
       "フランス料理",
@@ -10085,7 +10125,9 @@
     "relatedIds": [
       "hummus",
       "tacos",
-      "quesadilla"
+      "quesadilla",
+      "salsa-sauce",
+      "mole"
     ],
     "tags": [
       "メキシコ料理",
@@ -11138,7 +11180,8 @@
     ],
     "relatedIds": [
       "fennel",
-      "celeriac"
+      "celeriac",
+      "ravigote-sauce"
     ],
     "tags": [
       "野菜",
@@ -11208,7 +11251,10 @@
       }
     ],
     "relatedIds": [
-      "shallot"
+      "shallot",
+      "pork-chop",
+      "onion-sauce",
+      "tomato-sauce"
     ],
     "tags": [
       "野菜",
@@ -11715,7 +11761,10 @@
     ],
     "relatedIds": [
       "aioli",
-      "vinaigrette"
+      "vinaigrette",
+      "aurora-sauce",
+      "tartar-sauce",
+      "salad-cream"
     ],
     "tags": [
       "ソース",
@@ -11796,7 +11845,8 @@
     ],
     "relatedIds": [
       "harissa",
-      "chimichurri"
+      "chimichurri",
+      "chili-sauce"
     ],
     "tags": [
       "スパイス",
@@ -12077,7 +12127,9 @@
     "relatedIds": [
       "ragu",
       "parmigiano",
-      "tagliate"
+      "tagliate",
+      "tomato-sauce",
+      "amatriciana"
     ],
     "tags": [
       "イタリア料理",
@@ -12315,7 +12367,8 @@
     ],
     "relatedIds": [
       "croque_monsieur",
-      "bechamel"
+      "bechamel",
+      "mornay-sauce"
     ],
     "tags": [
       "フランス料理",
@@ -12684,7 +12737,11 @@
     ],
     "relatedIds": [
       "schnitzel",
-      "fritto"
+      "fritto",
+      "chuno-sauce",
+      "noko-sauce",
+      "pork-chop",
+      "curry-sauce"
     ],
     "tags": [
       "日本料理",
@@ -13226,7 +13283,8 @@
       "ragu",
       "braise",
       "acqua-pazza",
-      "cassoulet"
+      "cassoulet",
+      "tomato-sauce"
     ],
     "tags": [
       "イタリア料理",
@@ -13307,7 +13365,8 @@
     "relatedIds": [
       "confit",
       "roast",
-      "pho"
+      "pho",
+      "duck-sauce"
     ],
     "tags": [
       "中国料理",
@@ -14572,7 +14631,8 @@
       "carpaccio",
       "ceviche",
       "gravlax",
-      "escabeche"
+      "escabeche",
+      "tartar-sauce"
     ],
     "tags": [
       "フランス料理",
@@ -19754,7 +19814,10 @@
     "relatedIds": [
       "fritto",
       "tempura",
-      "fritter"
+      "fritter",
+      "chuno-sauce",
+      "noko-sauce",
+      "tartar-sauce"
     ],
     "tags": [
       "揚げ物",
@@ -21793,7 +21856,9 @@
     "relatedIds": [
       "sriracha",
       "harissa",
-      "chutney"
+      "chutney",
+      "chili-sauce",
+      "kecap-manis"
     ],
     "tags": [
       "東南アジア料理",
@@ -21982,7 +22047,9 @@
     "relatedIds": [
       "yu-xiang-rou-si",
       "hui-guo-rou",
-      "qing-zheng-da-zha-xie"
+      "qing-zheng-da-zha-xie",
+      "teriyaki-sauce",
+      "duck-sauce"
     ],
     "tags": [
       "中国料理",
@@ -22178,7 +22245,8 @@
     "relatedIds": [
       "hui-guo-rou",
       "gong-bao-ji-ding",
-      "kou-shui-ji"
+      "kou-shui-ji",
+      "chili-sauce"
     ],
     "tags": [
       "四川料理",
@@ -22485,7 +22553,13 @@
     "relatedIds": [
       "fry",
       "tonkatsu",
-      "demiglace"
+      "demiglace",
+      "chuno-sauce",
+      "aurora-sauce",
+      "pork-chop",
+      "chili-sauce",
+      "brown-sauce",
+      "tomato-sauce"
     ],
     "tags": [
       "野菜",
@@ -22575,7 +22649,9 @@
     "relatedIds": [
       "fry",
       "grill",
-      "vinaigrette"
+      "vinaigrette",
+      "salad-cream",
+      "apfelkren"
     ],
     "tags": [
       "スパイス",
@@ -22744,7 +22820,8 @@
     "relatedIds": [
       "roast",
       "smoked_salmon",
-      "grill"
+      "grill",
+      "apfelkren"
     ],
     "tags": [
       "スパイス",
@@ -23692,7 +23769,8 @@
     "relatedIds": [
       "prosciutto",
       "bolognese",
-      "ragu"
+      "ragu",
+      "amatriciana"
     ],
     "tags": [
       "イタリア料理",
@@ -23940,7 +24018,8 @@
     "relatedIds": [
       "pancetta",
       "aglio-e-olio",
-      "tagliate"
+      "tagliate",
+      "amatriciana"
     ],
     "tags": [
       "イタリア料理",
@@ -24137,7 +24216,8 @@
     "relatedIds": [
       "confit",
       "roast",
-      "peking-duck"
+      "peking-duck",
+      "duck-sauce"
     ],
     "tags": [
       "鶏肉",
@@ -24215,7 +24295,9 @@
     "relatedIds": [
       "roast",
       "gravy",
-      "fry"
+      "fry",
+      "bread-sauce",
+      "mole"
     ],
     "tags": [
       "鶏肉",
@@ -24941,7 +25023,8 @@
     "relatedIds": [
       "caesar-dressing",
       "salsa_verde",
-      "tapenade"
+      "tapenade",
+      "marinara-sauce"
     ],
     "tags": [
       "魚介",
@@ -26098,7 +26181,9 @@
     "relatedIds": [
       "tacos",
       "quesadilla",
-      "gochujang"
+      "gochujang",
+      "salsa-sauce",
+      "mole"
     ],
     "tags": [
       "メキシコ料理",
@@ -26180,7 +26265,8 @@
     "relatedIds": [
       "tacos",
       "guacamole",
-      "quesadilla"
+      "quesadilla",
+      "salsa-sauce"
     ],
     "tags": [
       "メキシコ料理",
@@ -26263,7 +26349,8 @@
     "relatedIds": [
       "ketchup",
       "mustard",
-      "fry"
+      "fry",
+      "teriyaki-sauce"
     ],
     "tags": [
       "アメリカ料理",
@@ -26339,7 +26426,8 @@
     "relatedIds": [
       "ketchup",
       "mustard",
-      "chorizo"
+      "chorizo",
+      "chili-sauce"
     ],
     "tags": [
       "アメリカ料理",
@@ -27369,7 +27457,9 @@
       "tacos",
       "guacamole",
       "salsa_verde",
-      "pakuchi"
+      "pakuchi",
+      "tomato-sauce",
+      "salsa-sauce"
     ],
     "tags": [
       "メキシコ料理",
@@ -32588,7 +32678,10 @@
       "cornichon",
       "tapenade",
       "vinaigrette",
-      "sauce-vin-blanc"
+      "sauce-vin-blanc",
+      "tartar-sauce",
+      "ravigote-sauce",
+      "marinara-sauce"
     ],
     "tags": [
       "フランス料理",
@@ -32975,7 +33068,8 @@
     "relatedIds": [
       "bolognese",
       "bechamel",
-      "mozzarella"
+      "mozzarella",
+      "tomato-sauce"
     ],
     "tags": [
       "イタリア料理",
@@ -33090,7 +33184,8 @@
     "relatedIds": [
       "fondue",
       "raclette",
-      "mozzarella"
+      "mozzarella",
+      "mornay-sauce"
     ],
     "tags": [
       "スイス料理",
@@ -34935,7 +35030,8 @@
     "relatedIds": [
       "tukhum-barak",
       "manti",
-      "lasagna"
+      "lasagna",
+      "tomato-sauce"
     ],
     "tags": [
       "イタリア料理",
@@ -35112,7 +35208,8 @@
     ],
     "relatedIds": [
       "achichuk-salad",
-      "tomatillo"
+      "tomatillo",
+      "salsa-sauce"
     ],
     "tags": [
       "メキシコ料理",
@@ -35578,7 +35675,9 @@
     ],
     "relatedIds": [
       "dondonyaki",
-      "monjayaki"
+      "monjayaki",
+      "chuno-sauce",
+      "noko-sauce"
     ],
     "tags": [
       "日本料理",
@@ -35779,7 +35878,8 @@
     "relatedIds": [
       "chuchvara",
       "xiaolongbao",
-      "manti"
+      "manti",
+      "duck-sauce"
     ],
     "tags": [
       "中国料理",
@@ -35886,7 +35986,9 @@
     ],
     "relatedIds": [
       "cornichon",
-      "caper"
+      "caper",
+      "tartar-sauce",
+      "ravigote-sauce"
     ],
     "tags": [
       "前菜",
@@ -36392,7 +36494,9 @@
     "relatedIds": [
       "baked-beans",
       "asado",
-      "tortilla-soup"
+      "tortilla-soup",
+      "salsa-sauce",
+      "mole"
     ],
     "tags": [
       "アメリカ料理",
@@ -36768,7 +36872,9 @@
     "relatedIds": [
       "fatima-fingers",
       "samosa",
-      "wonton"
+      "wonton",
+      "chili-sauce",
+      "duck-sauce"
     ],
     "tags": [
       "中国料理",
@@ -36875,7 +36981,9 @@
     ],
     "relatedIds": [
       "glaze",
-      "dengaku"
+      "dengaku",
+      "teriyaki-sauce",
+      "kecap-manis"
     ],
     "tags": [
       "日本料理",
@@ -37142,7 +37250,8 @@
     "relatedIds": [
       "monjayaki",
       "okonomiyaki",
-      "dondonyaki"
+      "dondonyaki",
+      "noko-sauce"
     ],
     "tags": [
       "日本料理",
@@ -37431,7 +37540,8 @@
     "relatedIds": [
       "shashlik",
       "kebab",
-      "teriyaki"
+      "teriyaki",
+      "teriyaki-sauce"
     ],
     "tags": [
       "日本料理",
@@ -37778,7 +37888,10 @@
     "relatedIds": [
       "nam-pla",
       "teriyaki",
-      "tamari-soy-sauce"
+      "tamari-soy-sauce",
+      "teriyaki-sauce",
+      "onion-sauce",
+      "kecap-manis"
     ],
     "tags": [
       "日本料理",
@@ -37874,7 +37987,10 @@
     "relatedIds": [
       "tomatillo",
       "pico-de-gallo",
-      "minestrone"
+      "minestrone",
+      "aurora-sauce",
+      "tomato-sauce",
+      "salsa-sauce"
     ],
     "tags": [
       "野菜",
@@ -38263,7 +38379,8 @@
     "relatedIds": [
       "soy-sauce",
       "teriyaki",
-      "kabayaki"
+      "kabayaki",
+      "teriyaki-sauce"
     ],
     "tags": [
       "日本料理",
@@ -39972,7 +40089,8 @@
       "grill",
       "roast",
       "carne-asada",
-      "asado"
+      "asado",
+      "onion-sauce"
     ],
     "tags": [
       "アメリカ料理",
@@ -40135,7 +40253,8 @@
       "barbecue",
       "grill",
       "smoke",
-      "baked-beans"
+      "baked-beans",
+      "duck-sauce"
     ],
     "tags": [
       "アメリカ料理",
@@ -41088,7 +41207,8 @@
       "monjayaki",
       "pad-thai",
       "abura-soba",
-      "udon"
+      "udon",
+      "noko-sauce"
     ],
     "tags": [
       "日本料理",
@@ -45629,7 +45749,8 @@
       "glaze",
       "teriyaki",
       "dan-dan-mian",
-      "kou-shui-ji"
+      "kou-shui-ji",
+      "kecap-manis"
     ],
     "tags": [
       "中国料理",
@@ -48314,7 +48435,8 @@
       "munieru",
       "poele",
       "scallop",
-      "garniture"
+      "garniture",
+      "meuniere-sauce"
     ],
     "tags": [
       "フランス料理",
@@ -49496,7 +49618,8 @@
       "gratin",
       "braise",
       "bechamel",
-      "garniture"
+      "garniture",
+      "mornay-sauce"
     ],
     "tags": [
       "フランス料理",
@@ -49661,7 +49784,8 @@
       "piccata",
       "poele",
       "abaisser",
-      "beurre-noisette"
+      "beurre-noisette",
+      "meuniere-sauce"
     ],
     "tags": [
       "フランス料理",
@@ -56126,7 +56250,8 @@
       "mince",
       "sofrito",
       "chorizo",
-      "tapas"
+      "tapas",
+      "tomato-sauce"
     ],
     "tags": [
       "スペイン料理",
@@ -56728,7 +56853,8 @@
       "curry-leaf",
       "dal",
       "butter-chicken-curry",
-      "samosa"
+      "samosa",
+      "curry-sauce"
     ],
     "tags": [
       "インド料理",
@@ -56893,7 +57019,10 @@
     "relatedIds": [
       "croqueta",
       "tonkatsu",
-      "tempura"
+      "tempura",
+      "chuno-sauce",
+      "noko-sauce",
+      "curry-sauce"
     ],
     "tags": [
       "日本料理",
@@ -57637,7 +57766,9 @@
       "patatas-bravas",
       "korokke",
       "tempura",
-      "hamburger"
+      "hamburger",
+      "brown-sauce",
+      "curry-sauce"
     ],
     "tags": [
       "アメリカ料理",
@@ -57937,7 +58068,8 @@
     "relatedIds": [
       "albondigas",
       "ragu",
-      "hamburger"
+      "hamburger",
+      "tomato-sauce"
     ],
     "tags": [
       "イタリア料理",
@@ -62886,7 +63018,8 @@
       "karubi",
       "harami",
       "hire",
-      "steak"
+      "steak",
+      "pork-chop"
     ],
     "source": [
       "https://karubikazan.com/44/",
@@ -63959,7 +64092,8 @@
     "relatedIds": [
       "harami",
       "korikori",
-      "horumon-yaki"
+      "horumon-yaki",
+      "ravigote-sauce"
     ],
     "source": [
       "https://xn--0tr555cxse3z5c.com/basic/gyu_hormone/",
@@ -64557,7 +64691,9 @@
     "relatedIds": [
       "cheese-pizza",
       "bruschetta",
-      "basil"
+      "basil",
+      "marinara-sauce",
+      "tomato-sauce"
     ],
     "source": [
       "https://www.pizzanapoletana.org/it/ricetta_pizza_napoletana",
@@ -64683,7 +64819,8 @@
     "relatedIds": [
       "mozzarella",
       "basil",
-      "cheese-pizza"
+      "cheese-pizza",
+      "tomato-sauce"
     ],
     "source": [
       "https://www.pizzanapoletana.org/it/ricetta_pizza_napoletana",
@@ -69615,7 +69752,8 @@
       "gruyere-cheese",
       "comte",
       "parmigiano",
-      "mozzarella"
+      "mozzarella",
+      "mornay-sauce"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Cheddar_cheese",
@@ -69849,7 +69987,8 @@
     "relatedIds": [
       "pad-thai",
       "tom-yum-goong",
-      "gaeng-hang-lay"
+      "gaeng-hang-lay",
+      "brown-sauce"
     ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%89",
@@ -69941,7 +70080,8 @@
       "pad-thai",
       "ceviche",
       "som-tam",
-      "laap"
+      "laap",
+      "salsa-sauce"
     ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%A0"
@@ -70619,7 +70759,8 @@
     "relatedIds": [
       "gai-yang",
       "gapao",
-      "tom-kha-gai"
+      "tom-kha-gai",
+      "chili-sauce"
     ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%AA%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%A4"
@@ -71919,7 +72060,8 @@
     "relatedIds": [
       "pad-thai",
       "soy-sauce",
-      "oyster-sauce"
+      "oyster-sauce",
+      "kecap-manis"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Pad_see_ew",
@@ -72710,7 +72852,8 @@
       "sriracha",
       "kaffir-lime",
       "nam-pla",
-      "prik-pon"
+      "prik-pon",
+      "chili-sauce"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Fishcake",
@@ -72792,7 +72935,8 @@
     ],
     "relatedIds": [
       "spring-roll",
-      "sriracha"
+      "sriracha",
+      "chili-sauce"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Popiah",
@@ -77569,7 +77713,8 @@
       "guanciale",
       "parmigiano",
       "genovese",
-      "aglio-e-olio"
+      "aglio-e-olio",
+      "amatriciana"
     ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%9C%E3%83%8A%E3%83%BC%E3%83%A9",
@@ -77661,7 +77806,10 @@
       "genovese",
       "aglio-e-olio",
       "ragu",
-      "pesto"
+      "pesto",
+      "tomato-sauce",
+      "marinara-sauce",
+      "amatriciana"
     ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E3%83%BC%E3%82%BF",
@@ -77842,7 +77990,8 @@
     "relatedIds": [
       "laksa",
       "pad-thai",
-      "lemongrass"
+      "lemongrass",
+      "kecap-manis"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Mie_aceh"
@@ -78819,7 +78968,8 @@
       "mie-aceh",
       "sambal",
       "hokkien-mee",
-      "pad-thai"
+      "pad-thai",
+      "kecap-manis"
     ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%BC%E3%82%B4%E3%83%AC%E3%83%B3"
@@ -78908,7 +79058,8 @@
     "relatedIds": [
       "hokkien-mee",
       "pad-see-ew",
-      "sambal"
+      "sambal",
+      "kecap-manis"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Char_kway_teow"
@@ -82223,7 +82374,8 @@
       }
     ],
     "relatedIds": [
-      "smetana"
+      "smetana",
+      "salsa-sauce"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Sour_cream",
@@ -83640,7 +83792,8 @@
       "khao-man-gai",
       "ton-hom",
       "krathiam",
-      "jok"
+      "jok",
+      "chili-sauce"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Hainanese_chicken_rice",
@@ -152187,7 +152340,9 @@
         "difference": "ザンギはスパイスが特徴で、チキン南蛮とは異なる"
       }
     ],
-    "relatedIds": [],
+    "relatedIds": [
+      "tartar-sauce"
+    ],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/chikin_nanban_miyazaki.html"
     ],
@@ -164674,7 +164829,9 @@
         "difference": "瓦そばは串カツと似た牛肉の料理"
       }
     ],
-    "relatedIds": [],
+    "relatedIds": [
+      "noko-sauce"
+    ],
     "source": [
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/39_28_osaka.html"
     ],
@@ -175092,7 +175249,9 @@
     ],
     "relatedIds": [
       "basil",
-      "thyme"
+      "thyme",
+      "marinara-sauce",
+      "tomato-sauce"
     ],
     "source": [
       "https://ja.wikipedia.org/wiki/オレガノ",
@@ -175693,7 +175852,9 @@
       "aglio-e-olio",
       "aioli",
       "chimichurri",
-      "hummus"
+      "hummus",
+      "tomato-sauce",
+      "marinara-sauce"
     ],
     "tags": [
       "スパイス",
@@ -175908,7 +176069,9 @@
       }
     ],
     "relatedIds": [
-      "hua-jiao"
+      "hua-jiao",
+      "bread-sauce",
+      "mole"
     ],
     "tags": [
       "調味料",
@@ -175987,7 +176150,8 @@
       }
     ],
     "relatedIds": [
-      "hua-jiao"
+      "hua-jiao",
+      "amatriciana"
     ],
     "tags": [
       "調味料",
@@ -176217,7 +176381,8 @@
       }
     ],
     "relatedIds": [
-      "clove"
+      "clove",
+      "mole"
     ],
     "tags": [
       "デザート",
@@ -176694,7 +176859,8 @@
     "relatedIds": [
       "bechamel",
       "quatre-epices",
-      "garam-masala"
+      "garam-masala",
+      "bread-sauce"
     ],
     "source": [
       "https://ja.wikipedia.org/wiki/ナツメグ",
@@ -176775,7 +176941,10 @@
     "relatedIds": [
       "italian-parsley",
       "persillade",
-      "chimichurri"
+      "chimichurri",
+      "tartar-sauce",
+      "meuniere-sauce",
+      "ravigote-sauce"
     ],
     "source": [
       "https://ja.wikipedia.org/wiki/パセリ",
@@ -177388,7 +177557,8 @@
     ],
     "relatedIds": [
       "wasabi-zushi-wakayama",
-      "maguro"
+      "maguro",
+      "apfelkren"
     ],
     "tags": [
       "日本料理",
@@ -177564,7 +177734,8 @@
       "bouquet-garni",
       "bouillabaisse",
       "pot-au-feu",
-      "borscht"
+      "borscht",
+      "bread-sauce"
     ],
     "tags": [
       "フランス料理",
@@ -178824,7 +178995,8 @@
       "mu-satay",
       "yakitori",
       "gai-yang",
-      "nasi-lemak"
+      "nasi-lemak",
+      "kecap-manis"
     ],
     "source": [
       "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
@@ -178998,7 +179170,8 @@
       "mie-goreng",
       "khao-phat",
       "sambal",
-      "nasi-lemak"
+      "nasi-lemak",
+      "kecap-manis"
     ],
     "source": [
       "https://www.tourismmalaysia.or.jp/enjoy/gourmet_01.html",
@@ -182979,7 +183152,8 @@
       "frango-a-passarinho",
       "general-tso-chicken",
       "nebuto-no-karaage-hiroshima",
-      "gaccho-no-karaage"
+      "gaccho-no-karaage",
+      "chili-sauce"
     ],
     "source": [
       "https://ja.wikipedia.org/wiki/唐揚げ"
@@ -185602,7 +185776,8 @@
     "relatedIds": [
       "namie-yakisoba",
       "shanghai-chao-mian",
-      "pad-thai"
+      "pad-thai",
+      "chuno-sauce"
     ],
     "source": [
       "https://ja.wikipedia.org/wiki/焼きそば"
@@ -190664,7 +190839,8 @@
       }
     ],
     "relatedIds": [
-      "empanada"
+      "empanada",
+      "marinara-sauce"
     ],
     "source": [
       "https://en.wikipedia.org/wiki/Calzone"
@@ -194837,7 +195013,11 @@
       "anchovy",
       "tamarind",
       "ketchup",
-      "soy-sauce"
+      "soy-sauce",
+      "chuno-sauce",
+      "noko-sauce",
+      "pork-chop",
+      "brown-sauce"
     ],
     "source": [
       "https://ja.wikipedia.org/wiki/ウスターソース",
@@ -194867,6 +195047,2060 @@
       "/images/dishes/worcestershire-sauce/1.jpg",
       "/images/dishes/worcestershire-sauce/2.png",
       "/images/dishes/worcestershire-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "chuno-sauce",
+    "name": "中濃ソース",
+    "kana": "ちゅうのうそーす",
+    "aliases": [
+      "中濃",
+      "ソース"
+    ],
+    "englishName": "Chuno sauce",
+    "originalName": "中濃ソース",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "日本のウスターソース類のうち、JAS規格で粘度0.2Pa・s以上2.0Pa・s未満と定められた、ウスターソースと濃厚（とんかつ）ソースの中間のとろみを持つソース。野菜・果実に酢・糖類・塩・香辛料を合わせ、ほどよい甘みと口当たりが特徴。",
+    "menuDescription": "トマトやりんごなどの野菜・果実を煮出し、酢・糖類・食塩・香辛料を加えて仕上げた、ややとろみのある茶褐色のソース。さらりとしたウスターより甘くまろやかで、とんかつソースほど重くないため、コロッケやフライ、キャベツ、目玉焼きなど幅広く使える。関東の家庭や定食屋の卓上では定番。",
+    "whatComesOut": [
+      "卓上のソース差しやボトルに入った、ややとろみのある茶褐色のソース",
+      "コロッケ・メンチカツ・アジフライなど揚げ物にかける調味料",
+      "千切りキャベツや目玉焼きにかける万能ソース",
+      "ハンバーグソースや焼きそばの味付けにも使われる"
+    ],
+    "tasteAndTexture": [
+      "野菜・果実由来のまろやかな甘み",
+      "ウスターより穏やかな酸味と香辛料の辛さ",
+      "とろりとしすぎず衣にほどよく絡む口当たり",
+      "甘さ・酸味・スパイスのバランスがよく使い道が広い"
+    ],
+    "orderAdvice": "ウスターでは酸っぱい・とんかつソースでは甘すぎると感じる人に最適な中間の選択肢。迷ったら中濃を選べば大きく外さない。地域差があり、関東では中濃、西日本ではウスターや地ソースが好まれる傾向。",
+    "caution": "製品により小麦・大豆（醤油）・りんご等を含む。塩分・糖分が比較的高い。",
+    "similarItems": [
+      {
+        "id": "worcestershire-sauce",
+        "name": "ウスターソース",
+        "difference": "粘度0.2Pa・s未満でさらさら。中濃より酸味と辛みが立ち、衣にしみ込む"
+      },
+      {
+        "id": "noko-sauce",
+        "name": "濃厚ソース（とんかつソース）",
+        "difference": "粘度2.0Pa・s以上でとろり。果実が多く甘みが強い。中濃はその中間"
+      },
+      {
+        "id": "ketchup",
+        "name": "ケチャップ",
+        "difference": "トマト主体で酸味と甘みが前面。中濃は野菜・果実・香辛料の複合的な味"
+      }
+    ],
+    "relatedIds": [
+      "worcestershire-sauce",
+      "noko-sauce",
+      "korokke",
+      "tonkatsu",
+      "yakisoba",
+      "okonomiyaki",
+      "ketchup",
+      "brown-sauce",
+      "fry"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/中濃ソース",
+      "https://www.pref.hiroshima.lg.jp/soshiki/26/foodfaq9-2.html"
+    ],
+    "tags": [
+      "日本料理",
+      "調味料",
+      "ソース",
+      "野菜",
+      "果物",
+      "甘み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "醤油",
+      "塩とレモン",
+      "ポン酢",
+      "タルタルソース"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "noko-sauce",
+    "name": "濃厚ソース",
+    "kana": "のうこうそーす",
+    "aliases": [
+      "とんかつソース",
+      "トンカツソース",
+      "カツソース",
+      "濃口ソース"
+    ],
+    "englishName": "Tonkatsu sauce",
+    "originalName": "濃厚ソース",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "日本のウスターソース類のうち、JAS規格で粘度2.0Pa・s以上と最もとろみの強いソース。一般に「とんかつソース」と呼ばれ、果実を多く使い繊維質とでん粉でとろりと仕上げた甘口の味が特徴。",
+    "menuDescription": "りんごやトマトなどの果実・野菜をたっぷり使い、酢・糖類・香辛料と合わせてでん粉でとろみをつけた、濃厚で甘口のソース。とろりとした口当たりで揚げ物の衣にしっかり留まり、とんかつ・串カツなどのフライのほか、お好み焼きやハンバーグにも合う。",
+    "whatComesOut": [
+      "とんかつ店の卓上に置かれた、どろりとした黒褐色のソース",
+      "とんかつ・ヒレカツ・串カツなど揚げ物にかけるソース",
+      "すりごまを入れて混ぜて使うとんかつ店のつけダレ",
+      "お好み焼きやハンバーグにも使われる甘口ソース"
+    ],
+    "tasteAndTexture": [
+      "果実由来のしっかりした甘みとコク",
+      "酸味・辛みは控えめで子どもにも食べやすい",
+      "でん粉と繊維質によるとろりと重い口当たり",
+      "衣の上に留まり、サクサク感を残しやすい"
+    ],
+    "orderAdvice": "とんかつを甘く濃厚に味わいたいなら定番。酸味やスパイス感が欲しい人はウスターや中濃を選ぶか、からしを添えるとよい。かけすぎると衣の香ばしさが隠れるので少しずつ。",
+    "caution": "製品により小麦・大豆（醤油）・りんご等を含む。糖分・塩分が高い。",
+    "similarItems": [
+      {
+        "id": "chuno-sauce",
+        "name": "中濃ソース",
+        "difference": "粘度0.2〜2.0Pa・s未満の中間タイプ。濃厚ソースより甘さ控えめで軽い"
+      },
+      {
+        "id": "worcestershire-sauce",
+        "name": "ウスターソース",
+        "difference": "さらさらで酸味・辛みが強い。濃厚ソースは果実が多く甘くとろり"
+      },
+      {
+        "name": "お好みソース",
+        "difference": "濃厚ソースから派生し、お好み焼き向けにさらに甘みと粘度を調整したもの"
+      },
+      {
+        "id": "demiglace",
+        "name": "デミグラスソース",
+        "difference": "フォンを煮詰めた西洋の肉料理用ソース。濃厚ソースは酢と果実の甘酸っぱい調味料"
+      }
+    ],
+    "relatedIds": [
+      "chuno-sauce",
+      "worcestershire-sauce",
+      "tonkatsu",
+      "korokke",
+      "okonomiyaki",
+      "takoyaki",
+      "demiglace",
+      "brown-sauce",
+      "39-28-osaka",
+      "fry",
+      "namie-yakisoba"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/とんかつソース",
+      "https://ja.wikipedia.org/wiki/中濃ソース",
+      "https://www.pref.hiroshima.lg.jp/soshiki/26/foodfaq9-2.html"
+    ],
+    "tags": [
+      "日本料理",
+      "調味料",
+      "ソース",
+      "果物",
+      "野菜",
+      "甘み",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ウスターソース",
+      "塩とレモン",
+      "おろしポン酢",
+      "からし醤油"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/noko-sauce/1.jpg",
+      "/images/dishes/noko-sauce/2.jpg",
+      "/images/dishes/noko-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "aurora-sauce",
+    "name": "オーロラソース",
+    "kana": "おーろらそーす",
+    "aliases": [
+      "ソース・オロール",
+      "ソース・オーロール"
+    ],
+    "englishName": "Aurora sauce",
+    "originalName": "sauce aurore",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "フランス"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "フランス料理でベシャメルソースに裏漉ししたトマトとバターを加えた、曙色（オレンジがかったピンク）のソース。日本ではマヨネーズとケチャップを混ぜた手軽なピンク色のソースもこの名で呼ばれる。",
+    "menuDescription": "フランス古典では、ベシャメルにトマトピューレとバターを加えたまろやかなソースで、卵料理や子牛肉、蒸した肉料理に添えられる。名前は仏語 aurore（曙）に由来し、トマトがもたらす淡い紅色にちなむ。日本の洋食や家庭ではマヨネーズ＋ケチャップの組み合わせが一般的で、エビフライやサラダ、ブロッコリーに添えられる。",
+    "whatComesOut": [
+      "淡いオレンジ〜ピンク色のソース",
+      "フランス料理では卵料理・子牛・蒸し肉に添えるクリーム系ソース",
+      "日本の洋食ではエビフライやサラダに添えるマヨケチャップ",
+      "ブロッコリーやゆで卵のディップ"
+    ],
+    "tasteAndTexture": [
+      "トマトのほのかな酸味と甘み",
+      "ベシャメル版はミルキーでなめらか",
+      "マヨケチャップ版はこってりした甘酸っぱさ",
+      "クセがなく子どもにも好まれる味"
+    ],
+    "orderAdvice": "まろやかで万人向けのソースなので迷わず試せる。フランス料理店ならベシャメルベースの上品な味、洋食店や家庭ならマヨケチャップ味と考えておくとよい。",
+    "caution": "乳製品（ベシャメル版）・卵（マヨネーズ版）・小麦を含む。",
+    "similarItems": [
+      {
+        "id": "bechamel",
+        "name": "ベシャメルソース",
+        "difference": "トマトを加えないプレーンなホワイトソース。オーロラは色と酸味が加わる"
+      },
+      {
+        "id": "ketchup",
+        "name": "ケチャップ",
+        "difference": "単体では酸味と甘みが強い。オーロラはマヨネーズやクリームでまろやかに"
+      },
+      {
+        "name": "サウザンアイランドドレッシング",
+        "difference": "マヨ＋ケチャップに刻みピクルスや玉ねぎを加えたドレッシング"
+      }
+    ],
+    "relatedIds": [
+      "bechamel",
+      "mayonnaise",
+      "ketchup",
+      "tomato",
+      "mornay-sauce"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/オーロラソース"
+    ],
+    "tags": [
+      "フランス料理",
+      "日本料理",
+      "ソース",
+      "乳製品",
+      "クリーミー",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "醤油",
+      "ポン酢",
+      "塩とレモン",
+      "ヴィネグレット"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/aurora-sauce/1.jpg"
+    ]
+  },
+  {
+    "id": "pork-chop",
+    "name": "ポークチャップ",
+    "kana": "ぽーくちゃっぷ",
+    "aliases": [
+      "ポークチャプ",
+      "豚肉のケチャップソテー"
+    ],
+    "englishName": "Pork chop",
+    "originalName": "ポークチャップ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "豚ロース肉などをソテーし、ケチャップを主体にウスターソースなどを合わせた甘酸っぱいソースで仕上げる日本の洋食。ポークソテーのバリエーションの一つ。",
+    "menuDescription": "厚切りの豚ロースを筋切りしてフライパンで焼き、玉ねぎとともにケチャップベースのソースを絡めて照りよく仕上げた洋食の定番。英語の pork chop（骨付き豚ロース）が名前の由来だが、日本では甘酸っぱいケチャップ味の料理を指す。",
+    "whatComesOut": [
+      "ケチャップソースが絡んだ豚ロースのソテー",
+      "炒めた玉ねぎやマッシュルーム",
+      "付け合わせの千切りキャベツやポテトサラダ",
+      "ライスまたはパン"
+    ],
+    "tasteAndTexture": [
+      "ケチャップの甘酸っぱさとウスターソースのコク",
+      "豚肉の脂の甘みとジューシーさ",
+      "ソースに照りがありご飯が進む味",
+      "トマト由来のやさしい酸味"
+    ],
+    "orderAdvice": "子どもから大人まで食べやすい洋食の王道。甘めの味が苦手なら塩胡椒やデミグラスのポークソテー、生姜焼きを選ぶとよい。",
+    "caution": "豚肉を含む。ソースに小麦・大豆を含む場合がある。",
+    "similarItems": [
+      {
+        "name": "ポークソテー",
+        "difference": "塩胡椒やデミグラス等で仕上げる総称。ポークチャップはケチャップ味"
+      },
+      {
+        "id": "tonkatsu",
+        "name": "トンカツ",
+        "difference": "パン粉の衣で揚げる。ポークチャップは衣なしでソテーしソースを絡める"
+      },
+      {
+        "name": "豚の生姜焼き",
+        "difference": "醤油・生姜の和風味。ポークチャップは洋風の甘酸っぱい味"
+      }
+    ],
+    "relatedIds": [
+      "ketchup",
+      "worcestershire-sauce",
+      "tonkatsu",
+      "saute",
+      "onion",
+      "demiglace",
+      "rosu"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ポークチャップ"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "豚肉",
+      "炒め物",
+      "甘み",
+      "酸味",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "豚の生姜焼き",
+      "塩焼き",
+      "おろしポン酢",
+      "冷しゃぶ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pork-chop/1.jpg",
+      "/images/dishes/pork-chop/2.jpg",
+      "/images/dishes/pork-chop/3.jpg"
+    ]
+  },
+  {
+    "id": "tomato-sauce",
+    "name": "トマトソース",
+    "kana": "とまとそーす",
+    "aliases": [
+      "ポモドーロソース",
+      "パスタソース",
+      "サルサ・ディ・ポモドーロ"
+    ],
+    "englishName": "Tomato sauce",
+    "originalName": "salsa di pomodoro",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "トマトを主材料にオリーブオイル・にんにく・玉ねぎ・ハーブなどと煮詰めたソース。パスタやピッツァ、肉・魚料理に使われる最も基本的なソースの一つ。",
+    "menuDescription": "完熟トマトやトマト缶をオリーブオイルとにんにくで煮詰め、バジルなどのハーブで香りを添えたシンプルなソース。パスタに絡めるほか、ピッツァ、ラザニア、煮込み料理のベースとして世界中で使われる。英語圏の一部ではケチャップを tomato sauce と呼ぶため注意。",
+    "whatComesOut": [
+      "トマトソースを絡めたパスタ（ポモドーロ）",
+      "ピッツァやラザニアのベースソース",
+      "肉・魚のソテーに添える赤いソース",
+      "仕上げのバジルや粉チーズ"
+    ],
+    "tasteAndTexture": [
+      "トマトの爽やかな酸味と甘み",
+      "オリーブオイルとにんにくの香り",
+      "煮詰め具合でさらっと〜濃厚まで変わる",
+      "バジル・オレガノなどハーブの香り"
+    ],
+    "orderAdvice": "クセがなく最も無難な選択肢。濃厚さが欲しければミートソースやアマトリチャーナ、辛さが欲しければアラビアータを選ぶとよい。",
+    "caution": "トマトアレルギーに注意。仕上げのチーズに乳製品を含む場合がある。",
+    "similarItems": [
+      {
+        "id": "ketchup",
+        "name": "ケチャップ",
+        "difference": "砂糖・酢・香辛料で調味した卓上調味料。トマトソースは料理用で甘みが控えめ"
+      },
+      {
+        "id": "marinara-sauce",
+        "name": "マリナーラソース",
+        "difference": "にんにく・ハーブを効かせたトマトソースの一種"
+      },
+      {
+        "id": "bolognese",
+        "name": "ボロネーゼ",
+        "difference": "挽き肉を煮込んだ肉主体のソース。トマトソースは野菜主体"
+      }
+    ],
+    "relatedIds": [
+      "marinara-sauce",
+      "amatriciana",
+      "bolognese",
+      "penne-arrabbiata",
+      "lasagna",
+      "tomato",
+      "basil",
+      "garlic",
+      "ketchup",
+      "oregano",
+      "onion",
+      "shakshuka",
+      "gnocchi",
+      "cacciatore",
+      "huevos-rancheros",
+      "ravioli",
+      "albondigas",
+      "polpetta",
+      "pizza-margherita",
+      "pizza-marinara"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Tomato_sauce"
+    ],
+    "tags": [
+      "イタリア料理",
+      "ソース",
+      "野菜",
+      "ハーブ",
+      "煮込み",
+      "酸味",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "クリームソース",
+      "カルボナーラ",
+      "醤油バター",
+      "ペスト"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tomato-sauce/1.jpg",
+      "/images/dishes/tomato-sauce/2.jpg",
+      "/images/dishes/tomato-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "tartar-sauce",
+    "name": "タルタルソース",
+    "kana": "たるたるそーす",
+    "aliases": [
+      "タルタル",
+      "タータソース",
+      "タルタルソース"
+    ],
+    "englishName": "Tartar sauce",
+    "originalName": "sauce tartare",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "マヨネーズをベースに、刻んだピクルス・ケッパー・玉ねぎ・パセリ・ゆで卵などを混ぜた冷製ソース。フライやムニエルなど魚料理の定番。",
+    "menuDescription": "マヨネーズにみじん切りのピクルス、ケッパー、玉ねぎ、パセリ、レモン汁を混ぜ込んだ、具材感のある白いソース。日本ではゆで卵を多く入れるのが一般的で、エビフライ、カキフライ、チキン南蛮などに欠かせない。",
+    "whatComesOut": [
+      "エビフライ・カキフライ・白身魚フライに添えた白いソース",
+      "ゆで卵・ピクルス・玉ねぎ入りのたっぷりしたソース",
+      "チキン南蛮にかかったタルタル",
+      "フィッシュバーガーのソース"
+    ],
+    "tasteAndTexture": [
+      "マヨネーズのコクとまろやかさ",
+      "ピクルス・ケッパーの酸味と歯ごたえ",
+      "ゆで卵のほっくりした食感",
+      "揚げ物の油を中和するさっぱり感"
+    ],
+    "orderAdvice": "揚げ物をまろやかに食べたい人に最適。こってりが苦手ならレモンだけ、ソース派ならウスターや中濃を選ぶ。",
+    "caution": "卵を含む。マヨネーズ由来で脂質が多い。",
+    "similarItems": [
+      {
+        "id": "mayonnaise",
+        "name": "マヨネーズ",
+        "difference": "具材を含まないベースのソース"
+      },
+      {
+        "id": "ravigote-sauce",
+        "name": "ラビゴットソース",
+        "difference": "ヴィネグレットにケッパー・ハーブを加えた油酢ベース。タルタルはマヨネーズベース"
+      },
+      {
+        "id": "tartare",
+        "name": "タルタル（ステーキタルタル）",
+        "difference": "生の牛肉料理。名前は同じだが全く別物"
+      }
+    ],
+    "relatedIds": [
+      "mayonnaise",
+      "chikin-nanban-miyazaki",
+      "caper",
+      "dill",
+      "parsley",
+      "tartare",
+      "salad-cream",
+      "meuniere-sauce",
+      "ravigote-sauce",
+      "fry",
+      "munieru",
+      "pickles"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Tartar_sauce"
+    ],
+    "tags": [
+      "フランス料理",
+      "日本料理",
+      "ソース",
+      "卵",
+      "野菜",
+      "クリーミー",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "レモン",
+      "ウスターソース",
+      "醤油",
+      "塩"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tartar-sauce/1.jpg",
+      "/images/dishes/tartar-sauce/2.jpg",
+      "/images/dishes/tartar-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "teriyaki-sauce",
+    "name": "照り焼きソース",
+    "kana": "てりやきそーす",
+    "aliases": [
+      "テリヤキソース",
+      "照り焼きのたれ"
+    ],
+    "englishName": "Teriyaki sauce",
+    "originalName": "照り焼きのたれ",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "醤油・みりん・砂糖（または酒）を合わせ、焼いた食材に絡めて照りを出す甘辛いたれ。ブリや鶏肉の照り焼き、ハンバーグなどに使われ、海外でも teriyaki として広く普及。",
+    "menuDescription": "醤油、みりん、砂糖を煮詰めてつやを出した甘辛いたれ。焼きながら塗る、または焼き上がりに絡めることで表面に照り（光沢）が生まれる。日本ではブリ・鶏もも肉・つくねの照り焼き、照り焼きバーガーなどに使われる。",
+    "whatComesOut": [
+      "照りのある甘辛だれを絡めた鶏もも肉やブリ",
+      "照り焼きハンバーグや照り焼きバーガー",
+      "ご飯にかかったたれ（照り焼き丼）",
+      "マヨネーズを添えた照りマヨ"
+    ],
+    "tasteAndTexture": [
+      "醤油の塩気とみりん・砂糖の甘み",
+      "煮詰めたとろみとつや",
+      "焼いた香ばしさと合う濃い味",
+      "後を引く甘辛味"
+    ],
+    "orderAdvice": "甘辛味が好きなら外れが少ない万人向けの味。甘い味付けが苦手な人は塩焼きや柚庵焼きを選ぶとよい。",
+    "caution": "大豆・小麦（醤油）を含む。みりん・酒にアルコール分を含む場合がある。",
+    "similarItems": [
+      {
+        "id": "soy-sauce",
+        "name": "醤油",
+        "difference": "照り焼きソースのベース。単体では甘みととろみがない"
+      },
+      {
+        "id": "kecap-manis",
+        "name": "ケチャップマニス",
+        "difference": "インドネシアの甘い醤油。椰子砂糖でさらに甘く粘度が高い"
+      },
+      {
+        "id": "oyster-sauce",
+        "name": "オイスターソース",
+        "difference": "牡蠣エキスの旨みが主体の中国調味料"
+      }
+    ],
+    "relatedIds": [
+      "teriyaki",
+      "soy-sauce",
+      "yakitori",
+      "oyster-sauce",
+      "kecap-manis",
+      "hamburger",
+      "tamari-soy-sauce"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Teriyaki"
+    ],
+    "tags": [
+      "日本料理",
+      "ソース",
+      "調味料",
+      "鶏肉",
+      "焼き物",
+      "甘み",
+      "香ばしい",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "塩焼き",
+      "ポン酢",
+      "レモン",
+      "ハーブソルト"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/teriyaki-sauce/1.jpg",
+      "/images/dishes/teriyaki-sauce/2.jpg",
+      "/images/dishes/teriyaki-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "chili-sauce",
+    "name": "チリソース",
+    "kana": "ちりそーす",
+    "aliases": [
+      "スイートチリソース",
+      "エビチリソース",
+      "チリ"
+    ],
+    "englishName": "Chili sauce",
+    "originalName": "chili sauce",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "アメリカ"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "トマトや唐辛子などの香辛料を利用したソースの総称。日本では、ケチャップ・豆板醤ベースのエビチリのソースや、タイ風のスイートチリソースもチリソースと呼ばれる。",
+    "menuDescription": "トマトと唐辛子、酢、砂糖、香辛料を合わせたピリ辛のソース。日本の中華料理店では陳建民が考案したエビチリのケチャップ＋豆板醤ソース、エスニック料理では生春巻きや揚げ物に添える甘いスイートチリソースとして登場することが多い。",
+    "whatComesOut": [
+      "エビやカニに絡めた赤いピリ辛ソース（エビチリ）",
+      "生春巻きや唐揚げに添える甘辛いスイートチリ",
+      "ホットドッグやハンバーガーにかけるトマトベースのソース",
+      "瓶入りの卓上ソース"
+    ],
+    "tasteAndTexture": [
+      "トマトの甘酸っぱさ",
+      "唐辛子のピリッとした辛さ",
+      "砂糖由来の甘みが強いものが多い",
+      "とろみがあり具材によく絡む"
+    ],
+    "orderAdvice": "辛さは控えめ〜中程度が多く、辛いものが得意でなくても試しやすい。激辛を求めるならホットソースやサンバル、辛味が苦手ならオーロラソースやケチャップを。",
+    "caution": "唐辛子を含む。エビチリの場合は甲殻類に注意。",
+    "similarItems": [
+      {
+        "name": "ホットソース",
+        "difference": "唐辛子と酢主体の辛味ソース。チリソースはトマトや砂糖で甘みがある"
+      },
+      {
+        "id": "ketchup",
+        "name": "ケチャップ",
+        "difference": "辛味がない。チリソースは唐辛子で辛味が加わる"
+      },
+      {
+        "id": "sriracha",
+        "name": "シラチャーソース",
+        "difference": "唐辛子とにんにくの発酵ソース。より辛くにんにくが強い"
+      }
+    ],
+    "relatedIds": [
+      "ketchup",
+      "sriracha",
+      "sambal",
+      "spring-roll",
+      "harissa",
+      "duck-sauce",
+      "doubanjiang",
+      "karaage",
+      "hot-dog",
+      "bo-pia-thot",
+      "thot-man-pla",
+      "khao-man-gai",
+      "hainanese-chicken-rice"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/チリソース"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "中国料理",
+      "ソース",
+      "スパイス",
+      "野菜",
+      "ピリ辛",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "マヨネーズ",
+      "タルタルソース",
+      "醤油",
+      "塩とレモン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/chili-sauce/1.jpg",
+      "/images/dishes/chili-sauce/2.jpg",
+      "/images/dishes/chili-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "salsa-sauce",
+    "name": "サルサソース",
+    "kana": "さるさそーす",
+    "aliases": [
+      "サルサ",
+      "サルサ・ロハ",
+      "サルサ・メヒカーナ"
+    ],
+    "englishName": "Salsa",
+    "originalName": "salsa",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "メキシコ料理の卓上ソースの総称で、トマトと唐辛子を基本に玉ねぎ・コリアンダー・ライムなどを合わせたもの。タコスなどに添えるほか、スープや煮込みにも使われる。",
+    "menuDescription": "刻んだトマト、青唐辛子、玉ねぎ、コリアンダー、ライム汁を合わせたフレッシュなものから、焼いた唐辛子とトマトを潰した加熱タイプまで種類が多い。タコス、ナチョス、ブリトー、卵料理に添えて辛味と酸味をプラスする。",
+    "whatComesOut": [
+      "トルティーヤチップスに添えた赤いサルサ",
+      "タコスやブリトーにかけるソース",
+      "小皿に入った複数種類のサルサ（赤・緑）",
+      "卵料理（ウエボス・ランチェロス）にかけたソース"
+    ],
+    "tasteAndTexture": [
+      "トマトの酸味とみずみずしさ",
+      "唐辛子のフレッシュな辛味",
+      "コリアンダーとライムの爽やかな香り",
+      "チャンキー〜なめらかまで食感はさまざま"
+    ],
+    "orderAdvice": "辛さは店や種類で大きく異なるので、まず少量つけて確認を。辛味が苦手ならワカモレやサワークリームを選ぶとよい。",
+    "caution": "唐辛子を含む。コリアンダー（パクチー）が苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "pico-de-gallo",
+        "name": "ピコ・デ・ガヨ",
+        "difference": "生の刻み野菜で作るサルサの一種。粗刻みでフレッシュ"
+      },
+      {
+        "id": "guacamole",
+        "name": "ワカモレ",
+        "difference": "アボカドを潰したディップ。辛さ控えめでクリーミー"
+      },
+      {
+        "id": "salsa_verde",
+        "name": "サルサヴェルデ",
+        "difference": "イタリアの緑のハーブソース。メキシコの緑のサルサ（トマティーヨ）とは別物"
+      }
+    ],
+    "relatedIds": [
+      "pico-de-gallo",
+      "guacamole",
+      "tacos",
+      "nachos",
+      "enchilada",
+      "chili-con-carne",
+      "tomato",
+      "mole",
+      "huevos-rancheros",
+      "pakuchi",
+      "lime",
+      "sour-cream"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Salsa_(sauce)"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "ソース",
+      "野菜",
+      "スパイス",
+      "ハーブ",
+      "ピリ辛",
+      "酸味",
+      "生食"
+    ],
+    "reverseKeywords": [
+      "サワークリーム",
+      "チーズソース",
+      "マヨネーズ",
+      "ケチャップ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/salsa-sauce/1.jpg",
+      "/images/dishes/salsa-sauce/2.jpg",
+      "/images/dishes/salsa-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "onion-sauce",
+    "name": "オニオンソース",
+    "kana": "おにおんそーす",
+    "aliases": [
+      "玉ねぎソース",
+      "和風オニオンソース"
+    ],
+    "englishName": "Onion sauce",
+    "originalName": "onion sauce",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "イギリス"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "玉ねぎを主材料にしたソースの総称。イギリスでは玉ねぎを煮込んだ白いソースやグレイビーとして羊肉・ソーセージに、日本ではすりおろし玉ねぎと醤油のステーキ・ハンバーグ用ソースとして親しまれる。",
+    "menuDescription": "玉ねぎをじっくり加熱して甘みを引き出したソース。英国式はミルクやベシャメルで煮た白いソース、またはブラウンのオニオングレイビーでローストやソーセージ料理に添える。日本ではすりおろし玉ねぎを醤油・みりんで煮た和風オニオンソースがステーキやハンバーグの定番。",
+    "whatComesOut": [
+      "ステーキやハンバーグにかけた玉ねぎ入りのソース",
+      "すりおろし玉ねぎの和風醤油だれ",
+      "ソーセージ＆マッシュに添えたオニオングレイビー",
+      "羊肉のローストに添えた白いオニオンソース"
+    ],
+    "tasteAndTexture": [
+      "加熱した玉ねぎの自然な甘み",
+      "和風は醤油のコクと玉ねぎの爽やかさ",
+      "英国式はミルキーまたは肉汁の旨み",
+      "肉の脂をさっぱりさせる後味"
+    ],
+    "orderAdvice": "肉料理のソースで迷ったら無難に選べる。濃厚さが欲しいならデミグラス、さっぱりならおろしポン酢を。",
+    "caution": "英国式は乳製品・小麦、和風は大豆・小麦（醤油）を含む場合がある。",
+    "similarItems": [
+      {
+        "id": "gravy",
+        "name": "グレイビー",
+        "difference": "肉汁ベースのソース。オニオングレイビーはその玉ねぎ入り版"
+      },
+      {
+        "id": "demiglace",
+        "name": "デミグラスソース",
+        "difference": "フォンを煮詰めた濃厚な茶色いソース"
+      },
+      {
+        "id": "bechamel",
+        "name": "ベシャメルソース",
+        "difference": "英国式白いオニオンソースのベース"
+      }
+    ],
+    "relatedIds": [
+      "onion",
+      "gravy",
+      "steak",
+      "demiglace",
+      "bechamel",
+      "soy-sauce",
+      "bread-sauce",
+      "roast"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Onion_sauce"
+    ],
+    "tags": [
+      "イギリス料理",
+      "日本料理",
+      "ソース",
+      "野菜",
+      "煮込み",
+      "甘み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "わさび醤油",
+      "岩塩",
+      "ガーリックバター",
+      "ペッパーソース"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/onion-sauce/1.jpg",
+      "/images/dishes/onion-sauce/2.jpg",
+      "/images/dishes/onion-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "brown-sauce",
+    "name": "ブラウンソース",
+    "kana": "ぶらうんそーす",
+    "aliases": [
+      "HPソース",
+      "ブラウン・ソース"
+    ],
+    "englishName": "Brown sauce",
+    "originalName": "brown sauce",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "イギリス"
+      }
+    ],
+    "summary": "イギリスとアイルランドで親しまれる茶色い卓上調味料。トマト・デーツ・モルトビネガー・糖蜜・タマリンド・香辛料などから作られ、HPソースが代表的ブランド。",
+    "menuDescription": "トマトや果実、モルトビネガー、糖蜜、タマリンド、香辛料を合わせた甘酸っぱくスパイシーなソース。英国の朝食（フル・ブレックファスト）やベーコンサンド、ソーセージ、フィッシュ＆チップスに添えられる、ケチャップと並ぶ定番の卓上ソース。日本の中濃ソースに近い感覚で使われる。",
+    "whatComesOut": [
+      "卓上に置かれたHPソースなどのボトル",
+      "ベーコンサンドやソーセージに添えた茶色いソース",
+      "イングリッシュ・ブレックファストの付け合わせ",
+      "フライドポテトやパイにかけるソース"
+    ],
+    "tasteAndTexture": [
+      "モルトビネガーのシャープな酸味",
+      "デーツ・糖蜜由来のフルーティーな甘み",
+      "タマリンドや香辛料のスパイシーさ",
+      "とろみがありケチャップより濃い味"
+    ],
+    "orderAdvice": "日本のソースに近い味なので日本人には馴染みやすい。甘いソースが苦手なら塩とモルトビネガー、トマトの酸味が好きならケチャップを。",
+    "caution": "製品によりモルトビネガー（大麦）・小麦を含む。",
+    "similarItems": [
+      {
+        "id": "worcestershire-sauce",
+        "name": "ウスターソース",
+        "difference": "さらさらで酸味と旨みが強い。ブラウンソースはとろみがあり甘め"
+      },
+      {
+        "id": "chuno-sauce",
+        "name": "中濃ソース",
+        "difference": "日本のとろみソース。野菜・果実ベースで似た使い方"
+      },
+      {
+        "id": "ketchup",
+        "name": "ケチャップ",
+        "difference": "トマト主体の赤いソース。英国ではブラウンと二大卓上ソース"
+      }
+    ],
+    "relatedIds": [
+      "worcestershire-sauce",
+      "chuno-sauce",
+      "noko-sauce",
+      "ketchup",
+      "french-fries",
+      "salad-cream",
+      "tamarind"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Brown_sauce"
+    ],
+    "tags": [
+      "イギリス料理",
+      "ソース",
+      "調味料",
+      "果物",
+      "スパイス",
+      "酸味",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "ケチャップ",
+      "マヨネーズ",
+      "塩とビネガー",
+      "マスタード"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/brown-sauce/1.jpg",
+      "/images/dishes/brown-sauce/2.jpg",
+      "/images/dishes/brown-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "mornay-sauce",
+    "name": "モルネーソース",
+    "kana": "もるねーそーす",
+    "aliases": [
+      "ソース・モルネー",
+      "モルネソース",
+      "チーズソース"
+    ],
+    "englishName": "Mornay sauce",
+    "originalName": "sauce Mornay",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "ベシャメルソースにすりおろしたチーズ（主にグリュイエールやパルメザン）を加えたフランスのソース。グラタンや魚料理、マカロニ＆チーズなどに使われる。",
+    "menuDescription": "バター・小麦粉・牛乳で作るベシャメルにグリュイエールやパルメザンを溶かし込んだ濃厚なチーズソース。魚や野菜にかけてオーブンで焼き色をつけるグラタン、クロックマダム、卵料理などに使われる。アメリカではチェダーを使いマカロニ＆チーズのソースにも。",
+    "whatComesOut": [
+      "焼き色のついたチーズソースがかかったグラタン",
+      "クロックマダムやクロックムッシュの上面のソース",
+      "白身魚や野菜にかけて焼いた料理",
+      "マカロニ＆チーズ"
+    ],
+    "tasteAndTexture": [
+      "チーズのコクと塩気",
+      "ベシャメルのミルキーでなめらかな舌触り",
+      "焼くと香ばしい焼き色",
+      "濃厚でボリュームがある"
+    ],
+    "orderAdvice": "チーズ好き・グラタン好きには間違いない。重いのが苦手なら、チーズなしのベシャメルやトマトソースを選ぶとよい。",
+    "caution": "乳製品・小麦を含む。脂質・カロリーが高い。",
+    "similarItems": [
+      {
+        "id": "bechamel",
+        "name": "ベシャメルソース",
+        "difference": "チーズを加える前のベースソース"
+      },
+      {
+        "id": "aurora-sauce",
+        "name": "オーロラソース",
+        "difference": "ベシャメルにトマトを加えたピンクのソース"
+      },
+      {
+        "name": "フォンデュ",
+        "difference": "チーズをワインで溶かしたもの。モルネーは小麦粉・牛乳ベース"
+      }
+    ],
+    "relatedIds": [
+      "bechamel",
+      "gratin",
+      "croque_madame",
+      "croque_monsieur",
+      "cheddar-cheese",
+      "aurora-sauce",
+      "gruyere-cheese",
+      "parmigiano",
+      "endive"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Mornay_sauce"
+    ],
+    "tags": [
+      "フランス料理",
+      "ソース",
+      "チーズ",
+      "乳製品",
+      "焼き物",
+      "クリーミー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "トマトソース",
+      "ヴィネグレット",
+      "ポン酢",
+      "サルサソース"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mornay-sauce/1.jpg",
+      "/images/dishes/mornay-sauce/2.jpg",
+      "/images/dishes/mornay-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "salad-cream",
+    "name": "サラダクリーム",
+    "kana": "さらだくりーむ",
+    "aliases": [
+      "サラダ・クリーム"
+    ],
+    "englishName": "Salad cream",
+    "originalName": "salad cream",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "イギリス"
+      }
+    ],
+    "summary": "卵黄で油と水を乳化させ、酢で酸味をつけたイギリスのクリーム状調味料。マヨネーズに似るが油分が25〜50%と少なく、酢と水が主成分で、1914年に英国で初めて市販された。",
+    "menuDescription": "卵黄・酢・砂糖・マスタードなどを使った、マヨネーズよりゆるく酸味の立ったクリーム状ドレッシング。英国ではサラダのほか、サンドイッチのスプレッドとして古くから親しまれている。",
+    "whatComesOut": [
+      "サラダにかけた淡い黄色のクリーム状ドレッシング",
+      "サンドイッチ（卵サンドなど）に塗られたスプレッド",
+      "ボトル入りの卓上調味料",
+      "フライドポテトのディップ"
+    ],
+    "tasteAndTexture": [
+      "マヨネーズより強い酢の酸味",
+      "砂糖由来のほのかな甘み",
+      "マスタードのピリッとした風味",
+      "油分が少なく軽くゆるい口当たり"
+    ],
+    "orderAdvice": "マヨネーズの重さが苦手な人には合う。濃厚さが好きならマヨネーズ、酸味をさらに求めるならヴィネグレットを。",
+    "caution": "卵・マスタードを含む。",
+    "similarItems": [
+      {
+        "id": "mayonnaise",
+        "name": "マヨネーズ",
+        "difference": "油分が多く濃厚。サラダクリームは油分が少なく酸味が強い"
+      },
+      {
+        "id": "vinaigrette",
+        "name": "ヴィネグレット",
+        "difference": "油と酢の乳化しないドレッシング。卵を使わない"
+      },
+      {
+        "id": "tartar-sauce",
+        "name": "タルタルソース",
+        "difference": "マヨネーズに刻みピクルスやゆで卵を混ぜた具入りソース"
+      }
+    ],
+    "relatedIds": [
+      "mayonnaise",
+      "vinaigrette",
+      "tartar-sauce",
+      "brown-sauce",
+      "mustard"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Salad_cream"
+    ],
+    "tags": [
+      "イギリス料理",
+      "ソース",
+      "調味料",
+      "卵",
+      "酸味",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "マヨネーズ",
+      "オリーブオイルと塩",
+      "醤油",
+      "ごまドレッシング"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/salad-cream/1.jpg",
+      "/images/dishes/salad-cream/2.jpg",
+      "/images/dishes/salad-cream/3.jpg"
+    ]
+  },
+  {
+    "id": "meuniere-sauce",
+    "name": "ムニエルソース",
+    "kana": "むにえるそーす",
+    "aliases": [
+      "ソース・ムニエール",
+      "ブール・ムニエール",
+      "ムニエール"
+    ],
+    "englishName": "Meunière sauce",
+    "originalName": "sauce meunière",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "焦がしバター（ブール・ノワゼット）にレモン汁と刻みパセリを加えたフランスのソース。小麦粉をはたいて焼いた魚（ムニエル）にかけるのが定番。",
+    "menuDescription": "バターをヘーゼルナッツ色になるまで加熱し、レモン汁と刻んだパセリを加えた香ばしいソース。名は「粉屋の女房風」の意で、小麦粉をまぶしてバターで焼いた舌平目や白身魚、鮭にかけて供される。",
+    "whatComesOut": [
+      "小麦粉をはたいて焼いた白身魚・鮭・舌平目",
+      "上からかけた泡立つ焦がしバター",
+      "刻みパセリとレモン",
+      "付け合わせのゆでじゃがいも"
+    ],
+    "tasteAndTexture": [
+      "焦がしバターのナッツのような香ばしさ",
+      "レモンの爽やかな酸味",
+      "パセリの青い香り",
+      "魚の表面のカリッとした食感と合う"
+    ],
+    "orderAdvice": "魚料理をシンプルかつ香ばしく味わいたい人向け。バターの重さが気になるなら、トマトソースやラビゴットなど酸味系を。",
+    "caution": "乳製品（バター）・小麦を含む。魚アレルギーに注意（料理として）。",
+    "similarItems": [
+      {
+        "id": "beurre-noisette",
+        "name": "ブール・ノワゼット",
+        "difference": "焦がしバターそのもの。ムニエルソースはレモンとパセリを加える"
+      },
+      {
+        "id": "munieru",
+        "name": "ムニエル",
+        "difference": "小麦粉をまぶしてバターで焼く調理法。ソースと対になる"
+      },
+      {
+        "name": "ブール・ブラン",
+        "difference": "白ワイン・エシャロット・バターの乳化ソース。焦がさない"
+      }
+    ],
+    "relatedIds": [
+      "munieru",
+      "beurre-noisette",
+      "parsley",
+      "tartar-sauce",
+      "ravigote-sauce",
+      "poele",
+      "fariner"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Meunière_sauce"
+    ],
+    "tags": [
+      "フランス料理",
+      "ソース",
+      "乳製品",
+      "魚介",
+      "焼き物",
+      "香ばしい",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "トマトソース",
+      "ポン酢",
+      "塩焼き",
+      "醤油"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/meuniere-sauce/1.jpg",
+      "/images/dishes/meuniere-sauce/2.jpg",
+      "/images/dishes/meuniere-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "marinara-sauce",
+    "name": "マリナーラソース",
+    "kana": "まりなーらそーす",
+    "aliases": [
+      "マリナーラ",
+      "アッラ・マリナーラ",
+      "マリナラソース"
+    ],
+    "englishName": "Marinara sauce",
+    "originalName": "salsa alla marinara",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "イタリア"
+      },
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "トマト・にんにく・ハーブ・玉ねぎで作るトマトソース。名は「船乗り風」の意で、イタリア系アメリカ料理で特に広く使われる。",
+    "menuDescription": "トマトをオリーブオイルとにんにくで煮込み、バジルやオレガノで香りづけしたシンプルなソース。イタリアではケッパーやオリーブ、アンチョビを加えることもある。パスタのほか、ピザや揚げ物（モッツァレラスティック等）のディップとして使われる。魚介入りのパスタではない点に注意。",
+    "whatComesOut": [
+      "マリナーラソースのスパゲッティ",
+      "ピザやカルツォーネのソース",
+      "フライドモッツァレラやカラマリのディップ",
+      "ミートボールにかけたトマトソース"
+    ],
+    "tasteAndTexture": [
+      "にんにくとオレガノの効いた香り",
+      "トマトの酸味と甘み",
+      "肉を使わない軽やかな味わい",
+      "さらっとしたソース"
+    ],
+    "orderAdvice": "肉なしの軽いトマト味を求めるなら最適。魚介入りを期待する場合はペスカトーレを選ぶこと。",
+    "caution": "トマトアレルギーに注意。製品によりアンチョビ（魚）を含む。",
+    "similarItems": [
+      {
+        "id": "tomato-sauce",
+        "name": "トマトソース",
+        "difference": "トマトを煮詰めたソースの総称。マリナーラはにんにく・ハーブを効かせる"
+      },
+      {
+        "id": "pizza-marinara",
+        "name": "ピッツァ・マリナーラ",
+        "difference": "トマト・にんにく・オレガノのピザ。同名だがピッツァ"
+      },
+      {
+        "id": "penne-arrabbiata",
+        "name": "アラビアータ",
+        "difference": "唐辛子を効かせた辛いトマトソース"
+      }
+    ],
+    "relatedIds": [
+      "tomato-sauce",
+      "pizza-marinara",
+      "penne-arrabbiata",
+      "amatriciana",
+      "oregano",
+      "garlic",
+      "basil",
+      "calzone",
+      "mozzarella",
+      "anchovy",
+      "caper"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Marinara_sauce"
+    ],
+    "tags": [
+      "イタリア料理",
+      "アメリカ料理",
+      "ソース",
+      "野菜",
+      "ハーブ",
+      "煮込み",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "カルボナーラ",
+      "クリームソース",
+      "ジェノベーゼ",
+      "ボロネーゼ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/marinara-sauce/1.jpg",
+      "/images/dishes/marinara-sauce/2.jpg",
+      "/images/dishes/marinara-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "amatriciana",
+    "name": "アマトリチャーナ",
+    "kana": "あまとりちゃーな",
+    "aliases": [
+      "アマトリチャーナソース",
+      "マトリチャーナ",
+      "ブカティーニ・アッラマトリチャーナ"
+    ],
+    "englishName": "Amatriciana",
+    "originalName": "amatriciana",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "グアンチャーレ（豚ほほ肉の塩漬け）・トマト・ペコリーノチーズ・黒胡椒・唐辛子で作るパスタソース。ラツィオ州アマトリーチェ発祥で、ローマ料理を代表するソースの一つ。",
+    "menuDescription": "カリッと炒めたグアンチャーレの脂でトマトを煮込み、唐辛子と黒胡椒を効かせ、ペコリーノ・ロマーノをたっぷり削りかけたソース。伝統的にはブカティーニ（穴あきの太いパスタ）やスパゲッティと合わせる。伝統製法はEUの伝統的特産品（TSG）にも登録されている。",
+    "whatComesOut": [
+      "ブカティーニやスパゲッティに絡めたトマトソース",
+      "カリッとしたグアンチャーレ（またはパンチェッタ）",
+      "たっぷりかけたペコリーノ・ロマーノ",
+      "ほのかに唐辛子が効いた赤いソース"
+    ],
+    "tasteAndTexture": [
+      "グアンチャーレの脂の甘みと塩気",
+      "トマトの酸味",
+      "ペコリーノの羊乳チーズらしい塩気とコク",
+      "黒胡椒と唐辛子のピリッとした刺激"
+    ],
+    "orderAdvice": "トマトソースにベーコンのコクが欲しい人に最適。塩気が強めなので、あっさり派はマリナーラ、辛いもの好きはアラビアータを。",
+    "caution": "豚肉・乳製品（ペコリーノ）・小麦を含む。塩分が高め。",
+    "similarItems": [
+      {
+        "id": "carbonara",
+        "name": "カルボナーラ",
+        "difference": "同じグアンチャーレとペコリーノを使うが、卵黄ソースでトマトなし"
+      },
+      {
+        "id": "penne-arrabbiata",
+        "name": "アラビアータ",
+        "difference": "肉を使わず唐辛子とにんにくを効かせたトマトソース"
+      },
+      {
+        "id": "marinara-sauce",
+        "name": "マリナーラソース",
+        "difference": "肉なしのにんにく・ハーブのトマトソース"
+      }
+    ],
+    "relatedIds": [
+      "guanciale",
+      "carbonara",
+      "penne-arrabbiata",
+      "tomato-sauce",
+      "marinara-sauce",
+      "bolognese",
+      "pancetta",
+      "pecorino",
+      "black-pepper"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Amatriciana_sauce"
+    ],
+    "tags": [
+      "イタリア料理",
+      "パスタ",
+      "ソース",
+      "豚肉",
+      "チーズ",
+      "煮込み",
+      "ピリ辛",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "ジェノベーゼ",
+      "クリームパスタ",
+      "ボンゴレビアンコ",
+      "和風パスタ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/amatriciana/1.jpg",
+      "/images/dishes/amatriciana/2.jpg",
+      "/images/dishes/amatriciana/3.jpg"
+    ]
+  },
+  {
+    "id": "ravigote-sauce",
+    "name": "ラビゴットソース",
+    "kana": "らびごっとそーす",
+    "aliases": [
+      "ラヴィゴットソース",
+      "ソース・ラヴィゴット",
+      "ラヴィゴット"
+    ],
+    "englishName": "Ravigote sauce",
+    "originalName": "sauce ravigote",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "ヴィネグレットにケッパー、パセリ、セルフイユ、エストラゴン、エシャロットや玉ねぎのみじん切りを加えた、フランスの冷製ソース。魚介や肉、野菜に合わせる。",
+    "menuDescription": "ワインビネガーとオイルのドレッシングに、刻んだケッパー・コルニッション・エシャロット・フレッシュハーブをたっぷり混ぜ込んだ酸味の効いたソース。名は「元気を取り戻させる」の意。白身魚のカルパッチョ、タコや貝のマリネ、ゆでた豚肉・牛タン、セロリなどに添えられる。",
+    "whatComesOut": [
+      "白身魚やタコのカルパッチョにかけた刻み野菜入りのソース",
+      "ゆでた肉・タンに添えた冷製ソース",
+      "ハーブとケッパーが散った色鮮やかなドレッシング",
+      "サラダや温野菜のソース"
+    ],
+    "tasteAndTexture": [
+      "ビネガーのはっきりした酸味",
+      "エストラゴン・パセリなどハーブの爽やかな香り",
+      "ケッパー・ピクルス・エシャロットの歯ごたえ",
+      "油っぽさのない軽い口当たり"
+    ],
+    "orderAdvice": "さっぱりした酸味のソースが好きならおすすめ。酸っぱいものが苦手ならタルタルソースやオーロラソースのようなまろやか系を。",
+    "caution": "マスタードを含む場合がある。",
+    "similarItems": [
+      {
+        "id": "vinaigrette",
+        "name": "ヴィネグレット",
+        "difference": "ベースとなる油と酢のソース。ラビゴットはハーブ・ケッパーを加える"
+      },
+      {
+        "id": "tartar-sauce",
+        "name": "タルタルソース",
+        "difference": "似た具材をマヨネーズに混ぜたもの"
+      },
+      {
+        "id": "salsa_verde",
+        "name": "サルサヴェルデ",
+        "difference": "イタリアの緑のハーブソース。パセリ主体でより緑色"
+      }
+    ],
+    "relatedIds": [
+      "vinaigrette",
+      "tartar-sauce",
+      "salsa_verde",
+      "caper",
+      "shallot",
+      "parsley",
+      "meuniere-sauce",
+      "apfelkren",
+      "carpaccio",
+      "estragon",
+      "pickles",
+      "tan",
+      "celery"
+    ],
+    "source": [
+      "https://fr.wikipedia.org/wiki/Sauce_ravigote"
+    ],
+    "tags": [
+      "フランス料理",
+      "ソース",
+      "ハーブ",
+      "野菜",
+      "マリネ",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "タルタルソース",
+      "マヨネーズ",
+      "ベシャメルソース",
+      "クリームソース"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ravigote-sauce/1.jpg",
+      "/images/dishes/ravigote-sauce/2.jpg",
+      "/images/dishes/ravigote-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "apfelkren",
+    "name": "アプフェルクレン",
+    "kana": "あぷふぇるくれん",
+    "aliases": [
+      "アップルホースラディッシュ",
+      "アプフェルメーアレティッヒ",
+      "りんごの西洋わさびソース"
+    ],
+    "englishName": "Apple horseradish sauce",
+    "originalName": "Apfelkren",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "オーストリア"
+      },
+      {
+        "country": "ドイツ"
+      }
+    ],
+    "summary": "すりおろしたホースラディッシュ（クレン）に、すりおろした酸味のあるりんごと生クリームを合わせ、レモン汁・塩・砂糖で調味した冷製ソース。オーストリアと南ドイツで、ターフェルシュピッツ（牛肉の煮込み）に添える定番。",
+    "menuDescription": "西洋わさびの鋭い辛味をりんごの甘酸っぱさとクリームでまろやかにした、白っぽい冷たいソース。ウィーンの名物ターフェルシュピッツ（牛肉のブイヨン煮）にシュニットラウフ（チャイブ）ソースと並んで添えられるほか、燻製魚にも合わせる。",
+    "whatComesOut": [
+      "ターフェルシュピッツ（ゆで牛肉）に添えた白っぽいソース",
+      "チャイブソースと一緒に並ぶ小鉢",
+      "燻製の魚に添えたソース",
+      "すりおろしりんごの粒感があるペースト"
+    ],
+    "tasteAndTexture": [
+      "ホースラディッシュのツンとくる辛味",
+      "りんごの甘酸っぱさとフレッシュ感",
+      "クリームのまろやかさ",
+      "冷たく爽やかな後味"
+    ],
+    "orderAdvice": "ゆで肉や燻製魚をさっぱり食べたい人向け。ツンとくる辛味が苦手なら少量から試すか、マスタードやグレイビーを。",
+    "caution": "乳製品（生クリーム）を含む。ホースラディッシュの刺激に注意。",
+    "similarItems": [
+      {
+        "id": "horseradish",
+        "name": "ホースラディッシュ",
+        "difference": "主材料の西洋わさび。アプフェルクレンはりんごとクリームで和らげる"
+      },
+      {
+        "id": "ravigote-sauce",
+        "name": "ラビゴットソース",
+        "difference": "ハーブとビネガーの酸味ソース。ゆで肉に添える点が共通"
+      },
+      {
+        "name": "わさび",
+        "difference": "日本の本わさび。ローストビーフに添える感覚に近い"
+      }
+    ],
+    "relatedIds": [
+      "horseradish",
+      "ravigote-sauce",
+      "gravy",
+      "bread-sauce",
+      "wasabi",
+      "mustard"
+    ],
+    "source": [
+      "https://de.wikipedia.org/wiki/Apfelkren"
+    ],
+    "tags": [
+      "オーストリア料理",
+      "ドイツ料理",
+      "ソース",
+      "果物",
+      "乳製品",
+      "生食",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "グレイビー",
+      "デミグラスソース",
+      "マスタード",
+      "甘いソース"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "kecap-manis",
+    "name": "ケチャップマニス",
+    "kana": "けちゃっぷまにす",
+    "aliases": [
+      "ケチャップ・マニス",
+      "ケチャップマニス",
+      "インドネシアの甘い醤油",
+      "スイートソイソース"
+    ],
+    "englishName": "Sweet soy sauce",
+    "originalName": "kecap manis",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "インドネシア"
+      }
+    ],
+    "summary": "インドネシア・ジャワ発祥の、椰子砂糖をたっぷり加えた甘い醤油。濃い色ととろりとした糖蜜状の粘度が特徴で、インドネシアの醤油生産の約9割を占める。",
+    "menuDescription": "大豆を発酵させた醤油に椰子砂糖（グラ・ジャワ）を煮溶かし、香辛料で風味をつけた、黒く甘いシロップ状の調味料。サテ（串焼き）のたれ、ナシゴレンやミーゴレンの味付け、揚げ物のディップに欠かせない。名前の kecap はケチャップの語源とする説がある。",
+    "whatComesOut": [
+      "サテ（串焼き）に塗った黒く甘いたれ",
+      "ナシゴレン・ミーゴレンの色と甘みの元",
+      "唐辛子と合わせた揚げ物のディップ",
+      "テーブルに置かれた細長いボトル"
+    ],
+    "tasteAndTexture": [
+      "椰子砂糖由来の糖蜜のような濃い甘み",
+      "醤油の塩気と発酵の旨み",
+      "とろりとしたシロップ状の粘度",
+      "スパイスの香り"
+    ],
+    "orderAdvice": "甘辛い味が好きなら気に入る可能性大。照り焼きよりさらに甘く、甘い料理が苦手なら塩味主体の料理やサンバルで辛味を足すとよい。",
+    "caution": "大豆・小麦を含む。糖分が非常に多い。",
+    "similarItems": [
+      {
+        "id": "soy-sauce",
+        "name": "醤油",
+        "difference": "日本の醤油は塩気主体。ケチャップマニスは椰子砂糖で甘くとろり"
+      },
+      {
+        "id": "teriyaki-sauce",
+        "name": "照り焼きソース",
+        "difference": "醤油・みりん・砂糖の甘辛だれ。ケチャップマニスの方が甘く濃い"
+      },
+      {
+        "id": "ketchup",
+        "name": "ケチャップ",
+        "difference": "トマトの調味料。名前は似ているが全く別物"
+      }
+    ],
+    "relatedIds": [
+      "satay",
+      "nasi-goreng",
+      "mie-goreng",
+      "sambal",
+      "soy-sauce",
+      "teriyaki-sauce",
+      "tian-jiang-you",
+      "pad-see-ew",
+      "char-kway-teow",
+      "mie-aceh",
+      "teriyaki"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Sweet_soy_sauce"
+    ],
+    "tags": [
+      "インドネシア料理",
+      "ソース",
+      "調味料",
+      "豆類",
+      "発酵",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "塩",
+      "ナンプラー",
+      "ライム",
+      "ポン酢"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kecap-manis/1.jpg",
+      "/images/dishes/kecap-manis/2.jpg",
+      "/images/dishes/kecap-manis/3.jpg"
+    ]
+  },
+  {
+    "id": "curry-sauce",
+    "name": "カレーソース",
+    "kana": "かれーそーす",
+    "aliases": [
+      "チップショップカレー",
+      "カレーグレイビー"
+    ],
+    "englishName": "Curry sauce",
+    "originalName": "curry sauce",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "イギリス"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "カレー粉やスパイスで風味をつけたとろみのあるソース。イギリスではフィッシュ＆チップス店でフライドポテトにかける定番で、日本では洋食のカツやハンバーグ、オムライスのソースとして使われる。",
+    "menuDescription": "玉ねぎを炒めてカレー粉・小麦粉・ブイヨンでとろみをつけた、甘めでマイルドなカレー風味のソース。英国のチップショップではチップス（フライドポテト）にかけ、日本の洋食店ではカツやコロッケ、ハンバーグにかけたり、ドリアやオムライスのソースとして登場する。",
+    "whatComesOut": [
+      "フライドポテトにかけた黄色〜茶色のとろみソース",
+      "カツやハンバーグにかけたカレー風味のソース",
+      "オムライスやドリアのソース",
+      "小さなカップ入りのディップ"
+    ],
+    "tasteAndTexture": [
+      "カレー粉のスパイシーな香り",
+      "玉ねぎや果実由来のまろやかな甘み",
+      "小麦粉のとろみでぽってりした口当たり",
+      "辛さは控えめなことが多い"
+    ],
+    "orderAdvice": "カレー味が好きならまず外れない。スパイスの本格的な辛さを求めるならインドカレー、カレー風味が苦手ならグレイビーやデミグラスを。",
+    "caution": "小麦・乳製品を含む場合がある。スパイスに注意。",
+    "similarItems": [
+      {
+        "id": "gravy",
+        "name": "グレイビー",
+        "difference": "肉汁ベースのソース。英国チップショップではカレーソースと並ぶ選択肢"
+      },
+      {
+        "id": "demiglace",
+        "name": "デミグラスソース",
+        "difference": "牛の旨みを煮詰めた洋食の茶色いソース"
+      },
+      {
+        "id": "chutney",
+        "name": "チャツネ",
+        "difference": "カレーに添える甘酸っぱい果実の薬味"
+      }
+    ],
+    "relatedIds": [
+      "gravy",
+      "demiglace",
+      "chutney",
+      "french-fries",
+      "korokke",
+      "tonkatsu",
+      "curry-powder"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Curry_sauce"
+    ],
+    "tags": [
+      "イギリス料理",
+      "日本料理",
+      "ソース",
+      "スパイス",
+      "煮込み",
+      "ピリ辛",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "デミグラスソース",
+      "ケチャップ",
+      "タルタルソース",
+      "醤油"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/curry-sauce/1.jpg",
+      "/images/dishes/curry-sauce/2.jpg",
+      "/images/dishes/curry-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "duck-sauce",
+    "name": "ダックソース",
+    "kana": "だっくそーす",
+    "aliases": [
+      "ダック・ソース",
+      "オレンジソース（中華）"
+    ],
+    "englishName": "Duck sauce",
+    "originalName": "duck sauce",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "アメリカ"
+      },
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "アメリカ中華料理で使われる、プラム・アプリコット・パイナップル・桃などの果実に砂糖・酢・生姜・唐辛子を加えた甘酸っぱいオレンジ色のディップソース。中国本土のプラムソース（蘇梅醤）が原型。",
+    "menuDescription": "果実を砂糖と酢で煮詰め、生姜や唐辛子でアクセントをつけた、半透明でゼリー状の甘いソース。名前は北京ダックに由来するが、アメリカでは春巻きやエッグロール、ワンタン揚げ、スペアリブのディップとして小袋で添えられることが多い。",
+    "whatComesOut": [
+      "春巻き・エッグロールに添えたオレンジ色のソース",
+      "テイクアウトに付いてくる小袋入りのソース",
+      "揚げワンタンやスペアリブのディップ",
+      "ローストダックに添えた甘いソース"
+    ],
+    "tasteAndTexture": [
+      "果実の甘酸っぱさ",
+      "ジャムのようなとろみと透明感",
+      "生姜のほのかな刺激",
+      "辛さはほぼない"
+    ],
+    "orderAdvice": "甘いソースで揚げ物を食べるのが好きな人向け。甘さが苦手なら黒酢や辛子醤油、辛味が欲しければスイートチリやサンバルを。",
+    "caution": "果実・唐辛子を含む。糖分が多い。",
+    "similarItems": [
+      {
+        "id": "chili-sauce",
+        "name": "スイートチリソース",
+        "difference": "唐辛子とにんにくの甘辛ソース。ダックソースより辛い"
+      },
+      {
+        "name": "甜麺醤",
+        "difference": "北京ダックに本来添える黒い甘味噌。ダックソースは果実ベース"
+      },
+      {
+        "id": "chutney",
+        "name": "チャツネ",
+        "difference": "インドの果実の甘酸っぱい薬味。スパイスが強い"
+      }
+    ],
+    "relatedIds": [
+      "peking-duck",
+      "spring-roll",
+      "chutney",
+      "chili-sauce",
+      "oyster-sauce",
+      "duck",
+      "spare-ribs",
+      "wonton"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Duck_sauce"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "中国料理",
+      "ソース",
+      "果物",
+      "甘み",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "醤油",
+      "辛子",
+      "黒酢",
+      "塩"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/duck-sauce/1.jpg",
+      "/images/dishes/duck-sauce/2.jpg",
+      "/images/dishes/duck-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "bread-sauce",
+    "name": "ブレッドソース",
+    "kana": "ぶれっどそーす",
+    "aliases": [
+      "ブレッド・ソース",
+      "パンのソース"
+    ],
+    "englishName": "Bread sauce",
+    "originalName": "bread sauce",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "イギリス"
+      }
+    ],
+    "summary": "牛乳をパン粉でとろみづけしたイギリスの温かい（または冷たい）ソース。クローブを刺した玉ねぎで牛乳に香りを移すのが伝統的で、ローストチキンや七面鳥に添える。",
+    "menuDescription": "クローブを刺した玉ねぎやベイリーフ、ナツメグで香りを移した牛乳に白パンをちぎって煮込み、バターやクリームで仕上げたぽってりとした白いソース。中世から続く英国の伝統的ソースで、特にクリスマスのロースト七面鳥や狩猟鳥のローストに欠かせない。",
+    "whatComesOut": [
+      "クリスマスのロースト七面鳥に添えた白いソース",
+      "ローストチキンの付け合わせ",
+      "グレイビーやクランベリーソースと並ぶ小鉢",
+      "粥のようにもったりしたソース"
+    ],
+    "tasteAndTexture": [
+      "牛乳とパンのやさしい甘み",
+      "クローブ・ナツメグのほのかなスパイス",
+      "もったりとしたおかゆ状の食感",
+      "塩気は控えめでマイルド"
+    ],
+    "orderAdvice": "英国の伝統的なロースト料理を体験したいなら試す価値あり。食感が独特なので、合わなければグレイビーやクランベリーソースを。",
+    "caution": "乳製品・小麦を含む。",
+    "similarItems": [
+      {
+        "id": "bechamel",
+        "name": "ベシャメルソース",
+        "difference": "小麦粉とバターでとろみをつける。ブレッドソースはパンでとろみ"
+      },
+      {
+        "id": "gravy",
+        "name": "グレイビー",
+        "difference": "肉汁ベースの茶色いソース。ローストで併用される"
+      },
+      {
+        "name": "クランベリーソース",
+        "difference": "七面鳥に添える甘酸っぱい果実ソース"
+      }
+    ],
+    "relatedIds": [
+      "gravy",
+      "bechamel",
+      "turkey",
+      "clove",
+      "nutmeg",
+      "onion-sauce",
+      "apfelkren",
+      "bay-leaf",
+      "roast"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Bread_sauce"
+    ],
+    "tags": [
+      "イギリス料理",
+      "ソース",
+      "乳製品",
+      "小麦",
+      "煮込み",
+      "クリーミー",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "クランベリーソース",
+      "グレイビー",
+      "マスタード",
+      "ハーブソース"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bread-sauce/1.jpg",
+      "/images/dishes/bread-sauce/2.jpg",
+      "/images/dishes/bread-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "mole",
+    "name": "モーレ",
+    "kana": "もーれ",
+    "aliases": [
+      "モレ",
+      "モーレ・ポブラーノ",
+      "モレソース"
+    ],
+    "englishName": "Mole",
+    "originalName": "mole",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "唐辛子を共通の材料に、ナッツ・種子・スパイス・パン・チョコレートなど多数の材料を煮込んで作るメキシコの伝統的ソースの総称。プエブラ州とオアハカ州が発祥を主張し、モーレ・ポブラーノが最も有名。",
+    "menuDescription": "数種類の乾燥唐辛子、ナッツ、ごま、スパイス、パン、時にチョコレートなど20種以上の材料を炒めてすり潰し、長時間煮込んだ濃厚なソース。七面鳥や鶏肉にかけて供され、メキシコでは祝祭や結婚式の料理として欠かせない。色によって黒（ネグロ）、赤、緑、黄など多くの種類がある。",
+    "whatComesOut": [
+      "鶏肉や七面鳥にかけた濃い茶色〜黒のソース",
+      "上に散らした白ごま",
+      "メキシカンライスとトルティーヤ",
+      "エンチラーダにかけたモーレ（エンモラーダス）"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の深い香りと穏やかな辛み",
+      "チョコレートやナッツのほろ苦さとコク",
+      "シナモン・クローブなどスパイスの複雑な香り",
+      "とろりとした濃厚なソース"
+    ],
+    "orderAdvice": "甘い・辛い・苦いが重なる複雑な味で、好みは分かれるが一度は試す価値あり。シンプルな味が好みならサルサやワカモレのタコスを。",
+    "caution": "ナッツ・ごま・小麦（パン）・チョコレートを含む場合がある。ナッツアレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "salsa-sauce",
+        "name": "サルサソース",
+        "difference": "生または軽く加熱したトマト・唐辛子の卓上ソース。モーレは長時間煮込む"
+      },
+      {
+        "name": "カレー",
+        "difference": "多数のスパイスを使った煮込みソースという点で似る"
+      },
+      {
+        "id": "demiglace",
+        "name": "デミグラスソース",
+        "difference": "長時間煮込む濃厚な茶色いソースだが、肉と野菜のフォンベース"
+      }
+    ],
+    "relatedIds": [
+      "salsa-sauce",
+      "enchilada",
+      "tacos",
+      "turkey",
+      "chili-con-carne",
+      "guacamole",
+      "cinnamon",
+      "clove"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Mole_(sauce)"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "ソース",
+      "スパイス",
+      "ナッツ",
+      "煮込み",
+      "こってり",
+      "祝祭料理",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "サルサソース",
+      "トマトソース",
+      "ワカモレ",
+      "ライムと塩"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/mole/1.jpg",
+      "/images/dishes/mole/2.jpg",
+      "/images/dishes/mole/3.jpg"
     ]
   }
 ]
