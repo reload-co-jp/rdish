@@ -3,7 +3,6 @@ import { notFound } from "next/navigation"
 import { Breadcrumb } from "../../../components/elements/Breadcrumb"
 import { DishDetail } from "../../../components/features/DishDetail"
 import { RecentlyViewedTracker } from "../../../components/features/RecentlyViewedTracker"
-import AdSense from "../../../components/elements/AdSense"
 import dishDatesData from "../../../data/dish-dates.json"
 import { allDishes } from "../../../lib/dishes"
 import { getImagesMeta } from "../../../lib/imageMeta"
@@ -239,7 +238,6 @@ export default async function DishPage({
           { label: dish.name, href: `/dishes/${dish.id}/` },
         ]}
       />
-      <AdSense />
       <DishPageContent
         dish={dish}
         allDishes={allDishes}

@@ -20,6 +20,7 @@ import { LinkedText } from "../elements/LinkedText"
 import { FavoriteButton } from "./FavoriteButton"
 import { ScoreBadge } from "./ScoreBadge"
 import { TagList } from "./TagList"
+import AdSense from "../elements/AdSense"
 
 type Props = {
   dish: DishItem
@@ -195,6 +196,8 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
         <FavoriteButton id={dish.id} />
       </div>
 
+      <AdSense />
+
       {dish.images && dish.images.length > 0 && (
         <div
           style={{
@@ -369,6 +372,8 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
         </div>
       </Section>
 
+      <AdSense />
+
       {dish.similarItems.length > 0 && (
         <Section title="似ているもの">
           <div
@@ -540,6 +545,8 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
       <Section title="タグ">
         <TagList tags={dish.tags} />
       </Section>
+
+      <AdSense />
 
       <Section title="もっと見る">
         <div
