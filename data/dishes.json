@@ -194768,5 +194768,105 @@
       "/images/dishes/palacsinta/2.jpg",
       "/images/dishes/palacsinta/3.jpg"
     ]
+  },
+  {
+    "id": "worcestershire-sauce",
+    "name": "ウスターソース",
+    "kana": "うすたーそーす",
+    "aliases": [
+      "ウスタシャーソース",
+      "ウースターソース",
+      "リーペリンソース",
+      "ソース"
+    ],
+    "englishName": "Worcestershire sauce",
+    "originalName": "Worcestershire sauce",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "イギリス"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "イギリス・ウスターで1837年にリー＆ペリン社が商品化した、酢・糖蜜・アンチョビ・タマリンド・玉ねぎ・にんにく・香辛料を熟成させた液体調味料。日本では明治期に国産化され、JASで粘度の低いものを「ウスターソース」、高いものを中濃・濃厚（とんかつ）ソースと区分する。",
+    "menuDescription": "野菜や果実の煮出汁に酢・糖類・塩・香辛料を加えて熟成させた、さらりとした茶褐色のソース。英国本家のリー＆ペリンはアンチョビとタマリンドを使い酸味と旨みが鋭く、日本のものは野菜・果実ベースでほどよい辛さ。コロッケや串カツ、焼きそば、皿うどんにかけるほか、煮込みや炒め物の隠し味にも使われる。",
+    "whatComesOut": [
+      "ソース差しに入った茶褐色でさらっとした液体",
+      "コロッケ・フライなど揚げ物にかける卓上調味料",
+      "英国式はアンチョビ入りの細長い瓶（リー＆ペリン）",
+      "ブラッディ・メアリーやシーザードレッシングの隠し味"
+    ],
+    "tasteAndTexture": [
+      "酢のシャープな酸味と香辛料のスパイシーさ",
+      "野菜・果実と糖蜜由来のほのかな甘み",
+      "英国式はアンチョビ発酵由来の深い旨み",
+      "粘度が低くさらさらで衣に染み込みやすい"
+    ],
+    "orderAdvice": "揚げ物の衣にしみ込ませてキリッと食べたいなら最適。甘くとろりとした味が好みなら中濃・とんかつソースを選ぶ。英国式は酸味と魚の旨みが強いので、少量ずつ料理に足すのがコツ。",
+    "caution": "英国式（リー＆ペリン等）はアンチョビを含み魚アレルギー・ベジタリアンは注意。製品により小麦・大豆（醤油）を含む。塩分が高い。",
+    "similarItems": [
+      {
+        "id": "ketchup",
+        "name": "ケチャップ",
+        "difference": "トマトベースで甘みが強くとろみがある。ウスターは酸味と香辛料主体でさらっとしている"
+      },
+      {
+        "id": "soy-sauce",
+        "name": "醤油",
+        "difference": "大豆・小麦の発酵調味料で塩気と旨み主体。ウスターは酢と香辛料で酸味・スパイス感が強い"
+      },
+      {
+        "id": "oyster-sauce",
+        "name": "オイスターソース",
+        "difference": "牡蠣エキスの濃厚な旨みととろみ。ウスターは酸味が立ち粘度が低い"
+      },
+      {
+        "id": "nam-pla",
+        "name": "ナンプラー",
+        "difference": "魚醤そのもの。ウスターは魚の旨みを酢・香辛料・糖蜜と合わせた複合調味料"
+      }
+    ],
+    "relatedIds": [
+      "korokke",
+      "tonkatsu",
+      "yakisoba",
+      "okonomiyaki",
+      "caesar-dressing",
+      "anchovy",
+      "tamarind",
+      "ketchup",
+      "soy-sauce"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ウスターソース",
+      "https://en.wikipedia.org/wiki/Worcestershire_sauce"
+    ],
+    "tags": [
+      "イギリス料理",
+      "日本料理",
+      "調味料",
+      "ソース",
+      "野菜",
+      "スパイス",
+      "発酵",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "甘口のとんかつソース",
+      "醤油",
+      "マヨネーズ",
+      "塩だけのシンプルな味付け"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/worcestershire-sauce/1.jpg",
+      "/images/dishes/worcestershire-sauce/2.png",
+      "/images/dishes/worcestershire-sauce/3.jpg"
+    ]
   }
 ]
