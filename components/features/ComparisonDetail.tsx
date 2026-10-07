@@ -11,6 +11,7 @@ import {
 import { regionLabel } from "../../lib/region"
 import type { DishItem } from "../../types/dish"
 import { TagList } from "./TagList"
+import AdSense from "../elements/AdSense"
 
 type Props = { comparison: Comparison }
 
@@ -228,6 +229,8 @@ export const ComparisonDetail: FC<Props> = ({ comparison }) => {
         メニューで並ぶと迷いやすい組み合わせ。両方の説明・味・注文のコツを並べて違いを確認できます。
       </p>
 
+      <AdSense />
+
       <Section title="違い">
         <DifferenceBlock from={a} to={b} text={aDifference} />
         <DifferenceBlock from={b} to={a} text={bDifference} />
@@ -336,6 +339,8 @@ export const ComparisonDetail: FC<Props> = ({ comparison }) => {
           ))}
         </div>
       </Section>
+
+      <AdSense />
 
       <Section title="関連する比較">
         <RelatedComparisons dish={a} excludeSlug={comparison.slug} />
