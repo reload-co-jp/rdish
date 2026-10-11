@@ -203032,5 +203032,2146 @@
       "/images/dishes/sahlab/2.jpg",
       "/images/dishes/sahlab/3.jpg"
     ]
+  },
+  {
+    "id": "ajvar",
+    "name": "アイバル",
+    "kana": "あいばる",
+    "aliases": [
+      "アイヴァル",
+      "アイヴァール",
+      "Ajvar",
+      "Ајвар"
+    ],
+    "englishName": "Ajvar",
+    "originalName": "Ајвар (Ajvar)",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "セルビア"
+      },
+      {
+        "country": "北マケドニア"
+      },
+      {
+        "area": "バルカン"
+      }
+    ],
+    "summary": "焼いた赤パプリカを皮むきしてすり潰し、油でじっくり煮詰めたバルカン半島の野菜ペースト。秋に家族総出で仕込み、瓶詰めで冬を越す保存食。",
+    "menuDescription": "炭火でじっくり焼いた赤パプリカの皮を一つひとつ剥き、ひまわり油とにんにくで時間をかけて煮詰めた、セルビア伝統の赤いペーストです。パンに塗って、またはグリル肉に添えてお楽しみください。",
+    "whatComesOut": [
+      "小皿に盛られた赤〜オレンジ色のなめらかなペースト",
+      "添えのパン（レピーニャ等）",
+      "グリル肉（チェバプチチ等）の付け合わせとして出ることも多い"
+    ],
+    "tasteAndTexture": [
+      "焼きパプリカの甘みと香ばしさ",
+      "油分を含んだなめらかで濃厚な舌ざわり",
+      "辛口版（リュタ）はほどよいピリ辛",
+      "にんにくのコク"
+    ],
+    "orderAdvice": "パプリカ好きなら迷わず注文。肉料理の付け合わせやパンのお供として万能で、辛口・甘口を選べる店もある。辛さが苦手なら甘口（スラトキ）を指定。",
+    "caution": "辛口版は唐辛子入り。家庭製・市販品でなすが入る場合あり。",
+    "similarItems": [
+      {
+        "name": "リュテニツァ",
+        "difference": "ブルガリアの類似ペーストでトマトを多く加え、より甘酸っぱい"
+      },
+      {
+        "name": "ピンジュル",
+        "difference": "パプリカ・トマト・なすを合わせ、アイバルより酸味と野菜感が強い"
+      },
+      {
+        "id": "paprika",
+        "name": "パプリカ",
+        "difference": "アイバルの主原料。生や焼きでそのまま食べる野菜そのもの"
+      }
+    ],
+    "relatedIds": [
+      "paprika",
+      "cevapcici",
+      "pljeskavica",
+      "lecso",
+      "shopska-salad"
+    ],
+    "source": [
+      "https://jp.ndish.com/world/serbia/",
+      "https://en.wikipedia.org/wiki/Ajvar"
+    ],
+    "tags": [
+      "セルビア料理",
+      "ソース",
+      "野菜",
+      "焼き物",
+      "甘み",
+      "香ばしい",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "パプリカが苦手",
+      "野菜ペーストより生野菜",
+      "油っぽいソースは避けたい",
+      "マヨネーズ系ディップ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/ajvar/1.jpg",
+      "/images/dishes/ajvar/2.jpg",
+      "/images/dishes/ajvar/3.jpg"
+    ]
+  },
+  {
+    "id": "prebranac",
+    "name": "プレブラナッツ",
+    "kana": "ぷれぶらなっつ",
+    "aliases": [
+      "プレブラナツ",
+      "セルビア風ベイクドビーンズ",
+      "Prebranac",
+      "Пребранац"
+    ],
+    "englishName": "Prebranac (Serbian Baked Beans)",
+    "originalName": "Пребранац (Prebranac)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      },
+      {
+        "area": "バルカン"
+      }
+    ],
+    "summary": "白いんげん豆をたっぷりの玉ねぎとパプリカパウダーと一緒に土鍋で焼き上げるセルビアの豆料理。正教会の斎戒期やクリスマスイブに食べる肉なしの伝統料理。",
+    "menuDescription": "柔らかく煮た白いんげん豆と、甘くなるまで炒めた玉ねぎを重ね、パプリカで色と香りをつけて土鍋でオーブン焼きにしました。クリスマスイブの食卓にも並ぶセルビアの素朴な豆料理です。",
+    "whatComesOut": [
+      "土鍋または耐熱皿に入った赤茶色の白豆の焼き料理",
+      "表面が少し焼き固まった豆と玉ねぎ",
+      "パン",
+      "サワークリームやアイバルが添えられることも"
+    ],
+    "tasteAndTexture": [
+      "ほっくり柔らかい白豆",
+      "炒め玉ねぎの甘み",
+      "パプリカの香りとほのかな辛み",
+      "表面の香ばしさ"
+    ],
+    "orderAdvice": "豆料理好き・ベジタリアン向けの貴重な一皿。肉料理の多いセルビアで箸休めに最適。素朴な味なので、強い味を求めるならグリル肉と合わせて。",
+    "caution": "肉なし（斎戒版）が基本だが、店によってはベーコンやソーセージ入りの場合あり。豆が多く量も多め。",
+    "similarItems": [
+      {
+        "name": "パスリ",
+        "difference": "同じ白豆料理だが、燻製肉と煮込むスープ・シチュー状のもの"
+      },
+      {
+        "id": "baked-beans",
+        "name": "ベイクドビーンズ",
+        "difference": "トマトソースで甘く煮込む英米式。プレブラナッツは玉ねぎとパプリカ主体"
+      },
+      {
+        "id": "tavche-gravche",
+        "name": "タフチェ・グラフチェ",
+        "difference": "北マケドニアの類似料理。ほぼ同系統の土鍋焼き白豆"
+      }
+    ],
+    "relatedIds": [
+      "tavche-gravche",
+      "baked-beans",
+      "cassoulet",
+      "feijoada",
+      "ajvar"
+    ],
+    "source": [
+      "https://jp.ndish.com/world/serbia/",
+      "https://en.wikipedia.org/wiki/Prebranac"
+    ],
+    "tags": [
+      "セルビア料理",
+      "主菜",
+      "豆類",
+      "焼き物",
+      "甘み",
+      "伝統料理",
+      "精進料理"
+    ],
+    "reverseKeywords": [
+      "豆が苦手",
+      "肉のメイン料理",
+      "あっさりしたサラダ",
+      "ご飯もの"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "kajmak",
+    "name": "カイマック",
+    "kana": "かいまっく",
+    "aliases": [
+      "カイマク",
+      "カイマキ",
+      "Kajmak",
+      "Kaymak",
+      "Кајмак"
+    ],
+    "englishName": "Kajmak",
+    "originalName": "Кајмак (Kajmak)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "セルビア"
+      },
+      {
+        "country": "トルコ"
+      },
+      {
+        "area": "バルカン"
+      }
+    ],
+    "summary": "牛乳を温めて表面に浮いた乳脂肪を集め、塩をして熟成させたバルカンの濃厚な乳製品。クロテッドクリームとチーズの中間のような食べ物。",
+    "menuDescription": "搾りたての牛乳を温め、表面に固まる乳脂肪の層だけを丁寧にすくい集めた、セルビア伝統の乳製品です。若いものはなめらかでミルキー、熟成すると塩気とコクが増します。",
+    "whatComesOut": [
+      "小皿に盛られた白〜クリーム色のペースト",
+      "パン（レピーニャ）",
+      "グリル肉やプロヤ、カチャマックに添えて"
+    ],
+    "tasteAndTexture": [
+      "バターのようなリッチな乳脂肪のコク",
+      "ほどよい塩気",
+      "若いものはなめらか、熟成ものは少しホロホロで酸味あり",
+      "パンや肉に溶ける濃厚さ"
+    ],
+    "orderAdvice": "乳製品好きなら必食。チェバプチチやプリェスカヴィッツァに「カイマック付き」で頼むのが定番。かなり濃厚なのでダイエット中は少量で。",
+    "caution": "乳製品アレルギー不可。脂肪分が非常に高い。非加熱乳を使う家庭製もあるため妊娠中は注意。",
+    "similarItems": [
+      {
+        "name": "クロテッドクリーム",
+        "difference": "英国の類似品で甘い用途中心。カイマックは塩をして料理に使う"
+      },
+      {
+        "id": "sour-cream",
+        "name": "サワークリーム",
+        "difference": "乳酸発酵による酸味が主体で、カイマックより軽い"
+      },
+      {
+        "id": "mascarpone",
+        "name": "マスカルポーネ",
+        "difference": "クリームを酸で固めたチーズ。甘みが強くお菓子向き"
+      }
+    ],
+    "relatedIds": [
+      "cevapcici",
+      "pljeskavica",
+      "sour-cream",
+      "mascarpone",
+      "feta"
+    ],
+    "source": [
+      "https://jp.ndish.com/world/serbia/",
+      "https://en.wikipedia.org/wiki/Kaymak"
+    ],
+    "tags": [
+      "セルビア料理",
+      "乳製品",
+      "発酵",
+      "こってり",
+      "クリーミー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "乳製品が苦手",
+      "あっさり派",
+      "オリーブオイル",
+      "ヨーグルト"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kajmak/1.jpg",
+      "/images/dishes/kajmak/2.jpg",
+      "/images/dishes/kajmak/3.jpg"
+    ]
+  },
+  {
+    "id": "komplet-lepinja",
+    "name": "コンプレット・レピーニャ",
+    "kana": "こんぷれっとれぴーにゃ",
+    "aliases": [
+      "コンプレットレピーニャ",
+      "ウジツカ・レピーニャ",
+      "ウジツカレピーニャ",
+      "Komplet lepinja",
+      "Užička lepinja"
+    ],
+    "englishName": "Komplet Lepinja",
+    "originalName": "Комплет лепиња (Komplet lepinja)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      }
+    ],
+    "summary": "丸パンのレピーニャをくり抜いてカイマックと卵を詰め、薪窯で焼いてから肉の焼き脂（プレトップ）をかけるセルビア西部ウジツェ・ズラティボル地方の名物。",
+    "menuDescription": "ふっくらした丸パンを器に見立て、熟成カイマックと溶き卵を流し込んで窯で焼き上げ、仕上げに香ばしい肉の焼き脂をたっぷり回しかけました。ウジツェ地方伝統の、ボリューム満点の朝ごはんです。",
+    "whatComesOut": [
+      "上下に割られた丸パン（ふた付きの器状）",
+      "中に焼けたカイマックと卵",
+      "パン全体に染み込んだ肉の焼き脂",
+      "好みで生ハム（プルシュト）入り",
+      "ヨーグルト飲料が添えられることも"
+    ],
+    "tasteAndTexture": [
+      "カリッとした表面と脂を吸ったしっとりパン",
+      "カイマックの濃厚な乳のコク",
+      "半熟卵のとろみ",
+      "肉の脂の塩気と香ばしさ"
+    ],
+    "orderAdvice": "セルビアらしい背徳的な朝ごはんを体験したい人に。カロリーが非常に高く一人前でかなり満腹になるので、シェア推奨。脂っこいものが苦手なら避ける。",
+    "caution": "卵・乳・小麦を含む。動物性脂肪が非常に多い。",
+    "similarItems": [
+      {
+        "name": "アチャルリ・ハチャプリ",
+        "difference": "ジョージアの舟形パンにチーズと卵を載せたもの。焼き脂はかけない"
+      },
+      {
+        "id": "lepinja",
+        "name": "レピーニャ",
+        "difference": "ベースとなる丸パンそのもの"
+      },
+      {
+        "id": "byrek",
+        "name": "ビレク",
+        "difference": "薄いパイ生地にチーズ等を包んで焼くバルカンの軽食"
+      }
+    ],
+    "relatedIds": [
+      "lepinja",
+      "kajmak",
+      "byrek",
+      "banitsa"
+    ],
+    "source": [
+      "https://jp.ndish.com/world/serbia/",
+      "https://sr.wikipedia.org/wiki/Комплет_лепиња"
+    ],
+    "tags": [
+      "セルビア料理",
+      "軽食",
+      "小麦",
+      "卵",
+      "焼き物",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "脂っこいものが苦手",
+      "軽い朝食",
+      "フルーツ",
+      "サラダ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "lepinja",
+    "name": "レピーニャ",
+    "kana": "れぴーにゃ",
+    "aliases": [
+      "レピニャ",
+      "ソムン",
+      "Lepinja",
+      "Somun",
+      "Лепиња"
+    ],
+    "englishName": "Lepinja",
+    "originalName": "Лепиња (Lepinja)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      },
+      {
+        "area": "バルカン"
+      }
+    ],
+    "summary": "バルカン半島で食べられる円盤状のふっくらした平焼きパン。チェバプチチなどのグリル肉を挟んで食べるのが定番。",
+    "menuDescription": "外は香ばしく中はもっちり軽い、セルビアの丸い平焼きパンです。水平に切れ目を入れてグリル肉や野菜を挟み、バルカン流ハンバーガーとしてお楽しみください。",
+    "whatComesOut": [
+      "直径15〜20cmほどの丸い平たいパン",
+      "グリル肉や刻み玉ねぎを挟んだ状態で出ることも",
+      "カイマックやアイバルを塗ったもの（レピーニャ・ス・カイマコム）"
+    ],
+    "tasteAndTexture": [
+      "気泡の多いふんわり軽い生地",
+      "表面は薄く香ばしい",
+      "ほのかな塩味で肉汁をよく吸う"
+    ],
+    "orderAdvice": "グリル料理を頼めば大抵付いてくる主食。単品で頼む場合はカイマックやアイバルを添えると満足度が高い。",
+    "caution": "小麦（グルテン）を含む。",
+    "similarItems": [
+      {
+        "id": "pita-bread",
+        "name": "ピタパン",
+        "difference": "ポケット状に膨らむ中東・ギリシャのパン。レピーニャはより厚くふわふわ"
+      },
+      {
+        "name": "ナン",
+        "difference": "インドのタンドール焼きパン。涙形で油脂を含みもちもち"
+      }
+    ],
+    "relatedIds": [
+      "pita-bread",
+      "cevapcici",
+      "pljeskavica",
+      "komplet-lepinja",
+      "kajmak"
+    ],
+    "source": [
+      "https://jp.ndish.com/world/serbia/",
+      "https://en.wikipedia.org/wiki/Lepinja",
+      "https://en.wikipedia.org/wiki/Kaymak"
+    ],
+    "tags": [
+      "セルビア料理",
+      "パン",
+      "小麦",
+      "焼き物",
+      "もちもち",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "パンが苦手",
+      "ご飯派",
+      "グルテンフリー",
+      "クラッカー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/lepinja/1.jpg"
+    ]
+  },
+  {
+    "id": "proja",
+    "name": "プロヤ",
+    "kana": "ぷろや",
+    "aliases": [
+      "プロイヤ",
+      "プロヤラ",
+      "Proja",
+      "Projara",
+      "Проја"
+    ],
+    "englishName": "Proja (Serbian Cornbread)",
+    "originalName": "Проја (Proja)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      }
+    ],
+    "summary": "トウモロコシ粉にひまわり油と炭酸水、塩を混ぜて焼くセルビアの黄色いコーンブレッド。チーズや卵、ヨーグルトを加えた豪華版はプロヤラと呼ばれる。",
+    "menuDescription": "トウモロコシ粉を炭酸水でふんわり仕立てて焼き上げた、セルビアの素朴な黄色いパンです。朝食にアイバルやカイマックを添えてどうぞ。",
+    "whatComesOut": [
+      "四角く切り分けた黄色いコーンブレッド",
+      "白チーズやカイマックの小皿",
+      "アイバル",
+      "ヨーグルトが添えられることも"
+    ],
+    "tasteAndTexture": [
+      "トウモロコシの素朴な甘み",
+      "ややホロホロ崩れる粗い食感",
+      "表面は香ばしく焼けている",
+      "チーズ入りはしっとり塩気あり"
+    ],
+    "orderAdvice": "セルビアの家庭的な朝食を味わいたい人に。単体だと素朴なので、カイマックやチーズ、アイバルと合わせるのがおすすめ。",
+    "caution": "チーズ・卵入りの場合あり（プロヤラ）。小麦粉を混ぜるレシピもある。",
+    "similarItems": [
+      {
+        "name": "コーンブレッド",
+        "difference": "米国南部の類似品。砂糖やバターでより甘くリッチ"
+      },
+      {
+        "id": "kacamak",
+        "name": "カチャマック",
+        "difference": "同じトウモロコシ粉を湯で練った粥状の料理で、焼かない"
+      },
+      {
+        "id": "polenta",
+        "name": "ポレンタ",
+        "difference": "イタリアのトウモロコシ粥。焼かずに練る"
+      }
+    ],
+    "relatedIds": [
+      "kacamak",
+      "polenta",
+      "mamaliga",
+      "kajmak",
+      "ajvar"
+    ],
+    "source": [
+      "https://jp.ndish.com/world/serbia/",
+      "https://en.wikipedia.org/wiki/Proja"
+    ],
+    "tags": [
+      "セルビア料理",
+      "パン",
+      "焼き物",
+      "甘み",
+      "香ばしい",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "トウモロコシが苦手",
+      "ふわふわの白パン",
+      "ご飯",
+      "パサつく食感が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "kacamak",
+    "name": "カチャマック",
+    "kana": "かちゃまっく",
+    "aliases": [
+      "カチャマク",
+      "Kačamak",
+      "Kachamak",
+      "Качамак"
+    ],
+    "englishName": "Kačamak",
+    "originalName": "Качамак (Kačamak)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      },
+      {
+        "country": "ブルガリア"
+      },
+      {
+        "area": "バルカン"
+      }
+    ],
+    "summary": "粗挽きトウモロコシ粉を湯で練って固めたバルカン半島の主食。セルビアでは白チーズやカイマックを添えて食べる。",
+    "menuDescription": "トウモロコシ粉を湯でじっくり練り上げた、バルカンの山岳地方に伝わる素朴な主食です。白チーズとカイマックをのせ、ヨーグルトと一緒にお召し上がりください。",
+    "whatComesOut": [
+      "皿に盛られた黄色〜白のもったりした練り粥",
+      "上にのせた白チーズやカイマック",
+      "ヨーグルトやサワークリーム",
+      "ベーコンや炒めひき肉が添えられることも"
+    ],
+    "tasteAndTexture": [
+      "トウモロコシのやさしい甘み",
+      "ねっとり重めのマッシュ状の食感",
+      "チーズやカイマックの塩気とコクが加わる"
+    ],
+    "orderAdvice": "寒い時期の田舎料理を味わいたい人向け。味は控えめでトッピング次第なので、カイマックやチーズ乗せを選ぶと満足度が上がる。腹持ちがよく量は軽く見えて重い。",
+    "caution": "トッピングに乳製品・豚脂が使われることが多い。",
+    "similarItems": [
+      {
+        "id": "polenta",
+        "name": "ポレンタ",
+        "difference": "イタリアの同系料理。バターやパルミジャーノで仕上げることが多い"
+      },
+      {
+        "id": "mamaliga",
+        "name": "ママリーガ",
+        "difference": "ルーマニア・モルドバの同系料理。サルマーレの付け合わせ定番"
+      },
+      {
+        "id": "proja",
+        "name": "プロヤ",
+        "difference": "同じトウモロコシ粉をパン状に焼いたもの"
+      }
+    ],
+    "relatedIds": [
+      "polenta",
+      "mamaliga",
+      "proja",
+      "kajmak"
+    ],
+    "source": [
+      "https://jp.ndish.com/world/serbia/",
+      "https://en.wikipedia.org/wiki/Kačamak"
+    ],
+    "tags": [
+      "セルビア料理",
+      "軽食",
+      "チーズ",
+      "煮込み",
+      "もちもち",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "粥状の料理が苦手",
+      "パン",
+      "しっかり味の肉料理",
+      "トウモロコシが苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kacamak/1.jpg",
+      "/images/dishes/kacamak/2.jpg",
+      "/images/dishes/kacamak/3.jpg"
+    ]
+  },
+  {
+    "id": "srpska-salata",
+    "name": "スルプスカ・サラタ",
+    "kana": "するぷすかさらた",
+    "aliases": [
+      "スルプスカサラタ",
+      "セルビアン・サラダ",
+      "セルビア風サラダ",
+      "Srpska salata",
+      "Српска салата"
+    ],
+    "englishName": "Serbian Salad",
+    "originalName": "Српска салата (Srpska salata)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      }
+    ],
+    "summary": "角切りのトマト・きゅうり・玉ねぎ・ピーマンにひまわり油と塩、青唐辛子で味付けしたセルビアのシンプルなサラダ。チーズをのせないのがショプスカ・サラダとの違い。",
+    "menuDescription": "完熟トマト、きゅうり、玉ねぎ、パプリカを角切りにし、ひまわり油と塩、ピリッとした青唐辛子でシンプルに和えた、セルビアの夏の定番サラダです。グリル肉のお供にどうぞ。",
+    "whatComesOut": [
+      "角切りのトマト・きゅうり・玉ねぎ・ピーマンのサラダ",
+      "刻んだ青唐辛子（フェフェロン）",
+      "ひまわり油のドレッシング"
+    ],
+    "tasteAndTexture": [
+      "みずみずしいトマトときゅうり",
+      "生玉ねぎのシャキッとした辛み",
+      "唐辛子のピリッとしたアクセント",
+      "油と塩だけのあっさり味"
+    ],
+    "orderAdvice": "肉料理中心のセルビアで野菜を補うならまずこれ。脂っこいグリル肉の口直しに最適。辛いのが苦手なら唐辛子抜きを頼む。",
+    "caution": "青唐辛子が入るため、見た目より辛いことがある。",
+    "similarItems": [
+      {
+        "id": "shopska-salad",
+        "name": "ショプスカ・サラダ",
+        "difference": "同じ野菜に白チーズ（シレネ）をたっぷり削りかけたもの"
+      },
+      {
+        "id": "greek-salad",
+        "name": "ギリシャ風サラダ",
+        "difference": "フェタチーズとオリーブ、オリーブオイルが入る"
+      },
+      {
+        "name": "チョバン・サラタス",
+        "difference": "トルコの羊飼いサラダ。パセリやレモンを加えより酸味が立つ"
+      }
+    ],
+    "relatedIds": [
+      "shopska-salad",
+      "greek-salad",
+      "cevapcici",
+      "pljeskavica"
+    ],
+    "source": [
+      "https://jp.ndish.com/world/serbia/",
+      "https://en.wikipedia.org/wiki/Serbian_salad"
+    ],
+    "tags": [
+      "セルビア料理",
+      "サラダ",
+      "野菜",
+      "生食",
+      "あっさり",
+      "ピリ辛",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "生野菜が苦手",
+      "生玉ねぎ不可",
+      "温かい料理",
+      "チーズたっぷりのサラダ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/srpska-salata/1.jpg",
+      "/images/dishes/srpska-salata/2.jpg",
+      "/images/dishes/srpska-salata/3.jpg"
+    ]
+  },
+  {
+    "id": "djuvec",
+    "name": "ジュベチ",
+    "kana": "じゅべち",
+    "aliases": [
+      "ジュヴェチ",
+      "ドゥヴェチ",
+      "Đuveč",
+      "Djuvec",
+      "Ђувеч"
+    ],
+    "englishName": "Đuveč",
+    "originalName": "Ђувеч (Đuveč)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      },
+      {
+        "area": "バルカン"
+      }
+    ],
+    "summary": "パプリカ・トマト・なす・玉ねぎなどの野菜に米を加え、土鍋で煮込み焼きにするセルビアの料理。豚肉や鶏肉を入れることも多く、ラタトゥイユに近い。",
+    "menuDescription": "たっぷりの夏野菜とお米を土鍋に入れ、トマトの旨みを吸わせながらオーブンでじっくり焼き煮込みました。肉と一緒に仕立てる、セルビアの家庭の味です。",
+    "whatComesOut": [
+      "土鍋に入った赤い野菜と米の煮込み",
+      "パプリカ・トマト・なす・玉ねぎ",
+      "豚肉や鶏肉が入る場合も",
+      "パン"
+    ],
+    "tasteAndTexture": [
+      "トマトと野菜の甘酸っぱい旨み",
+      "野菜の水分を吸ってしっとりした米",
+      "パプリカの香り",
+      "表面のほどよい焼き目"
+    ],
+    "orderAdvice": "野菜をたっぷり取りたい人に向く穏やかな一皿。肉入りと野菜のみの両方があるので、ベジタリアンは確認を。グリル肉の付け合わせとしても出る。",
+    "caution": "肉入り・肉なしの両パターンあり。",
+    "similarItems": [
+      {
+        "id": "guvec",
+        "name": "ユベチ",
+        "difference": "トルコの土鍋料理。肉が主役で米は入らないことが多い"
+      },
+      {
+        "id": "ratatouille",
+        "name": "ラタトゥイユ",
+        "difference": "南仏の野菜煮込み。オリーブオイルとハーブが主体で米は入らない"
+      },
+      {
+        "id": "lecso",
+        "name": "レチョー",
+        "difference": "ハンガリーのパプリカとトマトの煮込み。米なしでより汁気が多い"
+      }
+    ],
+    "relatedIds": [
+      "guvec",
+      "ratatouille",
+      "lecso",
+      "muckalica",
+      "moussaka"
+    ],
+    "source": [
+      "https://jp.ndish.com/world/serbia/",
+      "https://en.wikipedia.org/wiki/Đuveč",
+      "https://en.wikipedia.org/wiki/Serbian_cuisine"
+    ],
+    "tags": [
+      "セルビア料理",
+      "主菜",
+      "野菜",
+      "米",
+      "煮込み",
+      "酸味",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "トマト味が苦手",
+      "なすが苦手",
+      "グリル肉",
+      "パスタ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/djuvec/1.jpg"
+    ]
+  },
+  {
+    "id": "pecenje",
+    "name": "ペチェネ",
+    "kana": "ぺちぇね",
+    "aliases": [
+      "ペチェニェ",
+      "セルビア風丸焼き",
+      "Pečenje",
+      "Печење"
+    ],
+    "englishName": "Pečenje (Serbian Spit Roast)",
+    "originalName": "Печење (Pečenje)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      },
+      {
+        "area": "バルカン"
+      }
+    ],
+    "summary": "豚や子羊を丸ごと串に刺し、火の上で回しながら長時間焼き上げるセルビアのロースト料理。祝い事やスラヴァ（家の守護聖人祭）の主役。",
+    "menuDescription": "子豚または子羊を丸ごと串に刺し、炭火の上でゆっくり回しながら何時間もかけて焼き上げました。パリッとした皮とジューシーな肉が自慢の、セルビアの祝宴料理です。量り売りでご注文いただけます。",
+    "whatComesOut": [
+      "切り分けたロースト豚または子羊（皮付き）",
+      "パリパリに焼けた皮",
+      "スルプスカ・サラタやキャベツのサラダ",
+      "パン"
+    ],
+    "tasteAndTexture": [
+      "パリッと香ばしい皮",
+      "脂がのってジューシーな肉",
+      "炭火の燻した香り",
+      "シンプルな塩味"
+    ],
+    "orderAdvice": "肉好きなら必食のセルビア名物。店ではキロ単位の量り売りが多いので、人数分（1人200〜300g目安）で頼む。皮のパリパリ部分が一番のごちそう。",
+    "caution": "豚肉の場合が多い。脂身が多い。",
+    "similarItems": [
+      {
+        "id": "lechon",
+        "name": "レチョン",
+        "difference": "フィリピン等の豚の丸焼き。皮を甘く香ばしく焼くことが多い"
+      },
+      {
+        "name": "コチニーリョ・アサード",
+        "difference": "スペインの子豚の窯焼き。串で回さずオーブンで焼く"
+      },
+      {
+        "name": "ポルケッタ",
+        "difference": "イタリアの豚ロースト。ハーブを詰めて巻いて焼く"
+      }
+    ],
+    "relatedIds": [
+      "lechon",
+      "cevapcici",
+      "pljeskavica",
+      "srpska-salata"
+    ],
+    "source": [
+      "https://jp.ndish.com/world/serbia/",
+      "https://en.wikipedia.org/wiki/Serbian_cuisine",
+      "https://en.wikipedia.org/wiki/Spit_roast"
+    ],
+    "tags": [
+      "セルビア料理",
+      "主菜",
+      "豚肉",
+      "羊肉",
+      "ロースト",
+      "炭火焼き",
+      "香ばしい",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "脂身が苦手",
+      "豚肉不可",
+      "魚料理",
+      "野菜料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "gurmanska-pljeskavica",
+    "name": "グルマンスカ・プリェスカヴィッツァ",
+    "kana": "ぐるまんすかぷりぇすかゔぃっつぁ",
+    "aliases": [
+      "グルマンスカ",
+      "グルメ・ハンバーグ",
+      "Gurmanska",
+      "Gurmanska pljeskavica",
+      "Гурманска пљескавица"
+    ],
+    "englishName": "Gurmanska Pljeskavica",
+    "originalName": "Гурманска пљескавица (Gurmanska pljeskavica)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      }
+    ],
+    "summary": "セルビアの大型ハンバーグ「プリェスカヴィッツァ」のひき肉に、刻んだベーコンやチーズ、パプリカ、玉ねぎを混ぜ込んで焼いたグルメ版。",
+    "menuDescription": "炭火焼きのセルビア風ハンバーグに、刻みベーコン、カシュカヴァルチーズ、パプリカ、玉ねぎを練り込んだ、その名も「グルメ」な一品です。レピーニャに挟んでも、お皿でも。",
+    "whatComesOut": [
+      "直径20cm前後の大きな平たいハンバーグ",
+      "断面からとろけるチーズとベーコン",
+      "刻み生玉ねぎ",
+      "レピーニャ（丸パン）",
+      "カイマックやアイバルを添えることも"
+    ],
+    "tasteAndTexture": [
+      "炭火の香ばしさ",
+      "ベーコンの燻香と塩気",
+      "溶けたチーズのコク",
+      "肉汁たっぷりでジューシー"
+    ],
+    "orderAdvice": "普通のプリェスカヴィッツァより一段リッチにしたいときに。かなり大きく塩気も強いので、空腹時向け。チーズが中にたっぷり入ったものが好みならシャルスカも検討。",
+    "caution": "豚肉・乳製品を含む。非常にボリュームがある。",
+    "similarItems": [
+      {
+        "id": "pljeskavica",
+        "name": "プリェスカヴィッツァ",
+        "difference": "具を混ぜないベーシックなもの"
+      },
+      {
+        "id": "sharska-pljeskavica",
+        "name": "シャルスカ・プレスカヴィッツァ",
+        "difference": "カシュカヴァルチーズを中に包み込んだ詰め物タイプ"
+      },
+      {
+        "id": "hamburger",
+        "name": "ハンバーガー",
+        "difference": "牛肉パティを丸パンで挟む米国料理。パティが厚く小さい"
+      }
+    ],
+    "relatedIds": [
+      "pljeskavica",
+      "sharska-pljeskavica",
+      "cevapcici",
+      "lepinja",
+      "hamburger"
+    ],
+    "source": [
+      "https://jp.ndish.com/world/serbia/",
+      "https://en.wikipedia.org/wiki/Serbian_cuisine",
+      "https://en.wikipedia.org/wiki/Pljeskavica"
+    ],
+    "tags": [
+      "セルビア料理",
+      "主菜",
+      "豚肉",
+      "牛肉",
+      "チーズ",
+      "炭火焼き",
+      "ジューシー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "ひき肉料理が苦手",
+      "あっさりした魚料理",
+      "サラダ",
+      "ベジタリアン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/gurmanska-pljeskavica/1.jpg"
+    ]
+  },
+  {
+    "id": "kifla",
+    "name": "キフレ",
+    "kana": "きふれ",
+    "aliases": [
+      "キフラ",
+      "キフリ",
+      "キプフェル",
+      "Kifla",
+      "Kifle",
+      "Кифла"
+    ],
+    "englishName": "Kifla",
+    "originalName": "Кифла (Kifla)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      },
+      {
+        "country": "ハンガリー"
+      },
+      {
+        "country": "オーストリア"
+      }
+    ],
+    "summary": "三日月形に巻いた小型のロールパン。中欧・バルカンで広く食べられ、セルビアではパン屋（ペカラ）の定番で、チーズやジャム入りもある。",
+    "menuDescription": "生地を三角形にのばして端からくるくる巻き、三日月形に焼き上げたセルビアのパン屋さんの定番ロールです。プレーンのほか、チーズやジャム入りもございます。",
+    "whatComesOut": [
+      "三日月形の小ぶりなロールパン",
+      "表面にゴマやケシの実、塩がのることも",
+      "中にチーズやジャムが入ったもの"
+    ],
+    "tasteAndTexture": [
+      "ふんわり柔らかい生地",
+      "ほのかな甘みと塩気",
+      "表面は薄く香ばしい"
+    ],
+    "orderAdvice": "パン屋で手軽に買える朝食・おやつ。クロワッサンほどバターは強くないので軽く食べたいときに。具入りを選ぶと満足感アップ。",
+    "caution": "小麦・乳・卵を含む場合あり。",
+    "similarItems": [
+      {
+        "name": "クロワッサン",
+        "difference": "バターを折り込んだ層状の生地。キフレはパン生地でバター感が控えめ"
+      },
+      {
+        "name": "キプフェル",
+        "difference": "オーストリアの同系パンで、キフレの起源とされる"
+      }
+    ],
+    "relatedIds": [
+      "lepinja",
+      "byrek",
+      "banitsa"
+    ],
+    "source": [
+      "https://jp.ndish.com/world/serbia/",
+      "https://en.wikipedia.org/wiki/Kifli"
+    ],
+    "tags": [
+      "セルビア料理",
+      "パン",
+      "小麦",
+      "焼き物",
+      "ふわふわ",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "パンが苦手",
+      "ご飯派",
+      "甘くない朝食",
+      "グルテンフリー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kifla/1.jpg",
+      "/images/dishes/kifla/2.jpg"
+    ]
+  },
+  {
+    "id": "torta-ahogada",
+    "name": "トルタ・アオガダ",
+    "kana": "とるたあおがだ",
+    "aliases": [
+      "トルタ・アホガダ",
+      "トルタアオガダ",
+      "溺れたサンドイッチ",
+      "Torta ahogada"
+    ],
+    "englishName": "Torta Ahogada",
+    "originalName": "Torta ahogada",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ",
+        "locality": "ハリスコ州グアダラハラ"
+      }
+    ],
+    "summary": "皮の硬いビロテ・サラドというパンにカルニタスを挟み、トマトと唐辛子チレ・デ・アルボルのソースにどっぷり浸したグアダラハラ名物のサンドイッチ。「アオガダ」は「溺れた」の意。",
+    "menuDescription": "グアダラハラ伝統の皮の硬いパン「ビロテ」に、フリホーレス（豆ペースト）とじっくり煮込んだ豚肉カルニタスを詰め、トマトソースと辛いチレ・デ・アルボルのソースをたっぷりかけました。玉ねぎの酢漬けとライムを添えてどうぞ。",
+    "whatComesOut": [
+      "ソースに浸かった細長いパンのサンドイッチ",
+      "中のカルニタス（豚肉）とフリホーレス",
+      "赤いトマトソースと激辛チリソース（辛さを選べることが多い）",
+      "紫玉ねぎの酢漬けとライム"
+    ],
+    "tasteAndTexture": [
+      "ソースを吸っても崩れないパンの外側のカリッと感と内側のしっとり感",
+      "豚肉の旨みと脂のコク",
+      "トマトの酸味とチレ・デ・アルボルの鋭い辛さ",
+      "酢漬け玉ねぎのさっぱり感"
+    ],
+    "orderAdvice": "辛いもの好き・ジャンクな肉料理好きに。辛さは「メディア・アオガダ（半分浸し）」やトマトソースのみなど調整できる店が多いので、辛さが心配なら注文時に伝える。ソースまみれで手が汚れる前提で。",
+    "caution": "豚肉使用。激辛ソースは非常に辛い。小麦・豆を含む。",
+    "similarItems": [
+      {
+        "id": "carnitas",
+        "name": "カルニタス",
+        "difference": "トルタ・アオガダの中身の豚肉料理。通常はタコスにする"
+      },
+      {
+        "name": "フレンチディップ",
+        "difference": "米国の牛肉サンドイッチ。肉汁に浸して食べるが辛くない"
+      },
+      {
+        "name": "トルタ",
+        "difference": "メキシコの一般的なサンドイッチ。ソースに浸さない"
+      }
+    ],
+    "relatedIds": [
+      "carnitas",
+      "tacos",
+      "salsa-sauce",
+      "bocadillo"
+    ],
+    "source": [
+      "https://tequilajournal.jp/mexican-food/",
+      "https://en.wikipedia.org/wiki/Torta_ahogada"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "軽食",
+      "豚肉",
+      "小麦",
+      "煮込み",
+      "ピリ辛",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "手が汚れる料理が苦手",
+      "あっさりサラダ",
+      "白身魚"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/torta-ahogada/1.jpg",
+      "/images/dishes/torta-ahogada/2.jpg",
+      "/images/dishes/torta-ahogada/3.jpg"
+    ]
+  },
+  {
+    "id": "aguachile",
+    "name": "アグアチレ",
+    "kana": "あぐあちれ",
+    "aliases": [
+      "アグアチーレ",
+      "エビのマリネ",
+      "Aguachile"
+    ],
+    "englishName": "Aguachile",
+    "originalName": "Aguachile",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ",
+        "locality": "シナロア州・ナヤリット州"
+      }
+    ],
+    "summary": "生のエビをライム果汁と唐辛子（チルテピンやセラーノ）を合わせた液に漬け、きゅうりと紫玉ねぎを添えるメキシコ太平洋岸の魚介料理。「唐辛子の水」の意。",
+    "menuDescription": "新鮮な生エビを、ライム果汁と青唐辛子をすり合わせたキリッと辛いマリネ液に浸し、きゅうりと紫玉ねぎを合わせました。メキシコ太平洋岸の海の家で愛される、冷たくて辛い前菜です。",
+    "whatComesOut": [
+      "平皿に並んだ開いた生エビ",
+      "緑（または赤・黒）の唐辛子入りライムマリネ液",
+      "薄切りのきゅうりと紫玉ねぎ",
+      "トスターダ（揚げトルティーヤ）やクラッカー"
+    ],
+    "tasteAndTexture": [
+      "ぷりっと半透明のエビの食感",
+      "ライムの強い酸味",
+      "唐辛子のストレートな辛さ",
+      "きゅうりのみずみずしさ"
+    ],
+    "orderAdvice": "セビーチェ好きで辛さに強い人に。セビーチェよりマリネ時間が短く、エビは生に近い。辛さが強いので苦手ならセビーチェを選ぶ。テキーラやビールと好相性。",
+    "caution": "甲殻類アレルギー不可。生食のため鮮度に注意。辛さが強い。",
+    "similarItems": [
+      {
+        "id": "ceviche",
+        "name": "セビーチェ",
+        "difference": "ペルー発祥。長めに柑橘で締め、トマトなどと和えることが多くマイルド"
+      },
+      {
+        "name": "コクテル・デ・カマロン",
+        "difference": "メキシコの茹でエビカクテル。ケチャップ系の甘いソースで辛くない"
+      },
+      {
+        "id": "namasu",
+        "name": "なます",
+        "difference": "日本の酢の物。酸味主体で唐辛子は使わない"
+      }
+    ],
+    "relatedIds": [
+      "ceviche",
+      "pico-de-gallo",
+      "guacamole",
+      "namasu"
+    ],
+    "source": [
+      "https://tequilajournal.jp/mexican-food/",
+      "https://en.wikipedia.org/wiki/Aguachile"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "前菜",
+      "魚介",
+      "生食",
+      "マリネ",
+      "酸味",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "生魚介が苦手",
+      "辛いものが苦手",
+      "温かい料理",
+      "甲殻類アレルギー"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/aguachile/1.jpg",
+      "/images/dishes/aguachile/2.jpg",
+      "/images/dishes/aguachile/3.jpg"
+    ]
+  },
+  {
+    "id": "gorditas",
+    "name": "ゴルディータス",
+    "kana": "ごるでぃーたす",
+    "aliases": [
+      "ゴルディータ",
+      "Gordita",
+      "Gorditas"
+    ],
+    "englishName": "Gorditas",
+    "originalName": "Gorditas",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "トウモロコシ生地（マサ）を厚めの円盤に成形してコマル（鉄板）で焼き、横に切れ目を入れて肉やチーズなどを詰めるメキシコの軽食。「ぽっちゃりさん」の意。",
+    "menuDescription": "トウモロコシの生地を厚めにのばして鉄板で香ばしく焼き、ポケット状に開いて、豚皮の煮込みチチャロンやチーズ、豆などお好みの具材をたっぷり詰めました。サルサをかけてお召し上がりください。",
+    "whatComesOut": [
+      "手のひらサイズの厚い焼きトウモロコシ生地",
+      "中に詰まった具（チチャロン煮込み、チーズ、豆、肉など）",
+      "サルサ（赤・緑）",
+      "刻み玉ねぎやパクチー"
+    ],
+    "tasteAndTexture": [
+      "表面は香ばしく中はもっちりした生地",
+      "トウモロコシの素朴な甘み",
+      "具材次第でジューシーにもクリーミーにも",
+      "サルサの酸味と辛さ"
+    ],
+    "orderAdvice": "タコスより食べ応えのある軽食を試したい人に。具材を選べる店が多いので、初めてならチーズや豆、肉の煮込みが無難。1〜2個でかなりお腹にたまる。",
+    "caution": "揚げ焼きの店もあり油分多め。具に豚肉が多い。",
+    "similarItems": [
+      {
+        "name": "アレパ",
+        "difference": "コロンビア・ベネズエラのトウモロコシパン。厚みや食べ方はほぼ同じ"
+      },
+      {
+        "id": "tacos",
+        "name": "タコス",
+        "difference": "薄いトルティーヤで具を包む。ゴルディータスは厚い生地に詰める"
+      },
+      {
+        "id": "quesadilla",
+        "name": "ケサディーヤ",
+        "difference": "トルティーヤにチーズを挟んで二つ折りで焼く"
+      }
+    ],
+    "relatedIds": [
+      "tacos",
+      "quesadilla",
+      "tortilla",
+      "tamales",
+      "salsa-sauce"
+    ],
+    "source": [
+      "https://tequilajournal.jp/mexican-food/",
+      "https://en.wikipedia.org/wiki/Gordita"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "軽食",
+      "豚肉",
+      "焼き物",
+      "もちもち",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "トウモロコシが苦手",
+      "ボリュームのある軽食が苦手",
+      "白いご飯",
+      "パン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/gorditas/1.jpg",
+      "/images/dishes/gorditas/2.jpg",
+      "/images/dishes/gorditas/3.jpg"
+    ]
+  },
+  {
+    "id": "enchiladas-mineras",
+    "name": "エンチラーダス・ミネラス",
+    "kana": "えんちらーだすみねらす",
+    "aliases": [
+      "エンチラーダ・ミネラ",
+      "鉱夫のエンチラーダ",
+      "Enchiladas mineras"
+    ],
+    "englishName": "Enchiladas Mineras",
+    "originalName": "Enchiladas mineras",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ",
+        "locality": "グアナファト州"
+      }
+    ],
+    "summary": "トウモロコシのトルティーヤをグアヒージョ唐辛子のソースにくぐらせて焼き、フレッシュチーズと玉ねぎを巻いて、じゃがいも・にんじんと一緒に盛るグアナファト州の郷土料理。鉱夫の妻たちが考案したと伝わる。",
+    "menuDescription": "銀山で栄えたグアナファトで、鉱夫のために妻たちが作ったと伝わる郷土の一皿。唐辛子ソースをまとわせて焼いたトルティーヤでフレッシュチーズと玉ねぎを巻き、茹でたじゃがいもとにんじん、レタス、チーズ、唐辛子の酢漬けを添えました。",
+    "whatComesOut": [
+      "赤いソースをまとって焼かれた巻きトルティーヤ数本",
+      "茹でたじゃがいもとにんじん（ソテーされていることも）",
+      "千切りレタス・粉チーズ・ハラペーニョの酢漬け",
+      "鶏肉が添えられることも"
+    ],
+    "tasteAndTexture": [
+      "グアヒージョ唐辛子の香ばしくマイルドな辛み",
+      "焼いたトルティーヤの香ばしさと柔らかさ",
+      "フレッシュチーズの塩気",
+      "ハラペーニョ酢漬けの酸味"
+    ],
+    "orderAdvice": "一般的なエンチラーダよりソースが少なくカリッとしているので、ソースたっぷりが苦手な人にも。辛さは控えめで、野菜も一緒に取れる一皿。",
+    "caution": "乳製品・トウモロコシを含む。揚げ焼きのため油分あり。",
+    "similarItems": [
+      {
+        "id": "enchilada",
+        "name": "エンチラーダ",
+        "difference": "一般的なエンチラーダはソースをかけてオーブン焼き。ミネラスは焼いてから野菜と盛る"
+      },
+      {
+        "name": "エンチラーダス・ポトシーナス",
+        "difference": "サン・ルイス・ポトシ州の、唐辛子を練り込んだ生地で包む揚げ餃子状のもの"
+      },
+      {
+        "id": "tacos",
+        "name": "タコス",
+        "difference": "ソースに浸さず具を包むだけ"
+      }
+    ],
+    "relatedIds": [
+      "enchilada",
+      "tortilla",
+      "tacos",
+      "quesadilla",
+      "jalapeno"
+    ],
+    "source": [
+      "https://tequilajournal.jp/mexican-food/",
+      "https://guanajuato.mx/en/gastronomy/local-food/enchiladas-mineras-the-flavor-that-was-born-in-the-entrances-of-guanajuato/"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "主菜",
+      "チーズ",
+      "野菜",
+      "焼き物",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "トウモロコシ生地が苦手",
+      "乳製品不可",
+      "あっさりスープ",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/enchiladas-mineras/1.jpg",
+      "/images/dishes/enchiladas-mineras/2.jpg"
+    ]
+  },
+  {
+    "id": "mole-negro",
+    "name": "モレ・ネグロ",
+    "kana": "もれねぐろ",
+    "aliases": [
+      "モーレ・ネグロ",
+      "黒いモレ",
+      "Mole negro"
+    ],
+    "englishName": "Mole Negro",
+    "originalName": "Mole negro",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "メキシコ",
+        "locality": "オアハカ州"
+      }
+    ],
+    "summary": "オアハカ州の「7つのモレ」の代表格で、焦がした乾燥唐辛子やトルティーヤ、ドライフルーツ、スパイス、チョコレートなど数十種の材料で作る真っ黒なソース。七面鳥や鶏肉にかけて食べる。",
+    "menuDescription": "オアハカ原産の乾燥唐辛子と、焦がすまで焼いたトルティーヤ、ドライフルーツ、バナナ、ナッツ、スパイス、チョコレートを何時間も煮詰めた、メキシコで最も手間のかかるソースです。伝統どおり七面鳥（または鶏肉）とトルティーヤを添えてお出しします。",
+    "whatComesOut": [
+      "黒〜こげ茶色の濃厚なソースがかかった鶏肉または七面鳥",
+      "ゴマが散らされていることが多い",
+      "トウモロコシのトルティーヤ",
+      "メキシカンライス"
+    ],
+    "tasteAndTexture": [
+      "焦がした唐辛子のほろ苦くスモーキーな香り",
+      "チョコレートとドライフルーツの深い甘み",
+      "シナモンやクローブなど複雑なスパイス",
+      "辛さは穏やかで、とろりと重いソース"
+    ],
+    "orderAdvice": "メキシコ料理の奥深さを味わいたいなら一度は。甘くて苦くてスパイシーという未知の味で好みは分かれるが、辛さは控えめ。量が多いのでシェアもおすすめ。",
+    "caution": "ナッツ・ゴマ・チョコレート（カカオ）・小麦（パン）を含むことが多い。ラード使用。",
+    "similarItems": [
+      {
+        "id": "mole",
+        "name": "モーレ（モレ・ポブラーノ）",
+        "difference": "プエブラ発祥の赤茶色のモレ。ネグロより甘く苦みが少ない"
+      },
+      {
+        "name": "モレ・コロラド",
+        "difference": "同じオアハカの赤いモレ。チョコ控えめで唐辛子の風味が前に出る"
+      },
+      {
+        "id": "chili-con-carne",
+        "name": "チリコンカン",
+        "difference": "米国テキサスの唐辛子と肉の煮込み。チョコやフルーツは使わない"
+      }
+    ],
+    "relatedIds": [
+      "mole",
+      "turkey",
+      "tortilla",
+      "enchilada",
+      "chiles-en-nogada"
+    ],
+    "source": [
+      "https://tequilajournal.jp/mexican-food/",
+      "https://en.wikipedia.org/wiki/Mole_negro"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "ソース",
+      "スパイス",
+      "鶏肉",
+      "煮込み",
+      "こってり",
+      "祝祭料理",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "甘い料理が苦手",
+      "チョコレートと肉の組み合わせが苦手",
+      "あっさり塩味",
+      "ナッツアレルギー"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/mole-negro/1.jpg",
+      "/images/dishes/mole-negro/2.jpg",
+      "/images/dishes/mole-negro/3.jpg"
+    ]
+  },
+  {
+    "id": "discada",
+    "name": "ディスカーダ",
+    "kana": "でぃすかーだ",
+    "aliases": [
+      "ディスコ",
+      "カウボーイ・ウォック",
+      "Discada"
+    ],
+    "englishName": "Discada",
+    "originalName": "Discada",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ",
+        "locality": "ドゥランゴ州など北部"
+      }
+    ],
+    "summary": "農耕用の鋤（すき）の円盤を転用した大きな鉄板で、牛肉・豚肉・チョリソ・ベーコン・ハムなど複数の肉と玉ねぎ・ハラペーニョを炒め合わせるメキシコ北部の料理。",
+    "menuDescription": "メキシコ北部の牧場で生まれた、円盤状の大鉄板「ディスコ」で作る豪快な炒め料理。牛肉、豚肉、チョリソ、ベーコンを順に炒め、玉ねぎ、トマト、ハラペーニョと合わせました。トルティーヤに包んでどうぞ。",
+    "whatComesOut": [
+      "細かく切った数種類の肉の炒め合わせ",
+      "チョリソとベーコンの脂で炒めた玉ねぎ・トマト・ハラペーニョ",
+      "トウモロコシまたは小麦粉のトルティーヤ",
+      "サルサ・ボラチャ（ビール入りサルサ）"
+    ],
+    "tasteAndTexture": [
+      "ベーコンとチョリソの燻香と脂のコク",
+      "数種類の肉が混ざった濃厚な旨み",
+      "ハラペーニョのピリッとした辛さ",
+      "細切れ肉の香ばしい焼き目"
+    ],
+    "orderAdvice": "肉好き・大人数向け。ビールとトルティーヤでタコス感覚で楽しむ料理。脂が多くかなりこってりなので、さっぱりしたサラダやサルサと一緒に。",
+    "caution": "豚肉・加工肉を多く含む。脂質が多い。",
+    "similarItems": [
+      {
+        "id": "carne-asada",
+        "name": "カルネ・アサーダ",
+        "difference": "牛肉を炭火で焼くだけのシンプルなグリル"
+      },
+      {
+        "name": "アランブレ",
+        "difference": "牛肉・ベーコン・ピーマン・チーズの炒め物。ディスカーダより具が少なくチーズ入り"
+      },
+      {
+        "name": "ファヒータ",
+        "difference": "テクスメクスの鉄板焼き。肉は1種類で野菜は大きめ"
+      }
+    ],
+    "relatedIds": [
+      "carne-asada",
+      "chorizo",
+      "tacos",
+      "tortilla",
+      "jalapeno"
+    ],
+    "source": [
+      "https://tequilajournal.jp/mexican-food/",
+      "https://en.wikipedia.org/wiki/Discada"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "主菜",
+      "牛肉",
+      "豚肉",
+      "炒め物",
+      "こってり",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "脂っこい肉料理が苦手",
+      "加工肉不可",
+      "魚介料理",
+      "野菜料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/discada/1.jpg",
+      "/images/dishes/discada/2.jpg",
+      "/images/dishes/discada/3.jpg"
+    ]
+  },
+  {
+    "id": "asado-de-boda",
+    "name": "アサド・デ・ボダ",
+    "kana": "あさどでぼだ",
+    "aliases": [
+      "アサド・デ・ボダス",
+      "アサド・デ・プエルコ",
+      "結婚式の煮込み",
+      "Asado de boda",
+      "Asado de bodas"
+    ],
+    "englishName": "Asado de Boda",
+    "originalName": "Asado de boda",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ",
+        "locality": "サカテカス州など北部"
+      }
+    ],
+    "summary": "豚肉を、アンチョ・グアヒージョなどの乾燥唐辛子とオレンジ果汁、シナモンやクローブで作る赤いソースで煮込んだメキシコ北部の結婚式料理。サカテカス州を代表する一皿。",
+    "menuDescription": "メキシコ北部の結婚式に欠かせない祝いの煮込み。豚肉を、数種の乾燥唐辛子とオレンジ、シナモン、クローブ、チョコレートで仕立てた甘くスパイシーな赤いソースでじっくり煮込みました。赤いご飯と豆、トルティーヤと一緒にどうぞ。",
+    "whatComesOut": [
+      "赤黒いソースで煮込まれた角切り豚肉",
+      "メキシカンライス（赤いご飯）",
+      "煮豆（フリホーレス）",
+      "トウモロコシのトルティーヤ"
+    ],
+    "tasteAndTexture": [
+      "乾燥唐辛子の深くスモーキーな香り",
+      "オレンジとチョコレート由来のほのかな甘酸っぱさ",
+      "シナモン・クローブの温かいスパイス感",
+      "ほろっと柔らかい豚肉"
+    ],
+    "orderAdvice": "モレほど複雑すぎず、カレー感覚で食べられる煮込み。辛さは控えめで甘みがあるので、スパイス料理好きなら食べやすい。ご飯とトルティーヤ両方と合う。",
+    "caution": "豚肉・ラード使用。ソースにパンやチョコレートが入る場合あり。",
+    "similarItems": [
+      {
+        "id": "mole",
+        "name": "モーレ",
+        "difference": "より多くの材料を使う複雑なソース。主に鶏や七面鳥にかける"
+      },
+      {
+        "name": "アサド・デ・プエルコ",
+        "difference": "北部各地の豚肉の唐辛子煮込みの総称。アサド・デ・ボダはその祝宴版"
+      },
+      {
+        "id": "chili-con-carne",
+        "name": "チリコンカン",
+        "difference": "牛ひき肉と豆の煮込み。甘みやスパイスの層は少ない"
+      }
+    ],
+    "relatedIds": [
+      "mole",
+      "chili-con-carne",
+      "carnitas",
+      "tortilla"
+    ],
+    "source": [
+      "https://tequilajournal.jp/mexican-food/",
+      "https://www.eluniversal.com.mx/menu/cocina-asado-de-boda-al-estilo-zacatecas/",
+      "https://www.excelsior.com.mx/recetas/receta-de-asado-de-boda-el-plato-tipico-del-norte-del-pais/1753601"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "主菜",
+      "豚肉",
+      "スパイス",
+      "煮込み",
+      "甘み",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "甘い肉料理が苦手",
+      "豚肉不可",
+      "あっさり和食",
+      "シナモンが苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "chiles-en-nogada",
+    "name": "チレス・エン・ノガーダ",
+    "kana": "ちれすえんのがーだ",
+    "aliases": [
+      "チレ・エン・ノガーダ",
+      "チレス・エン・ノガダ",
+      "Chiles en nogada",
+      "Chile en nogada"
+    ],
+    "englishName": "Chiles en Nogada",
+    "originalName": "Chiles en nogada",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ",
+        "locality": "プエブラ州"
+      }
+    ],
+    "summary": "ポブラーノ唐辛子にひき肉と果物を炒め合わせた具（ピカディージョ）を詰め、白いクルミのクリームソース（ノガーダ）をかけて、ザクロとパセリを散らすプエブラ州の料理。白・緑・赤でメキシコ国旗を表す。",
+    "menuDescription": "肉厚のポブラーノ唐辛子に、りんご・洋梨・桃などの果物とひき肉を炒め合わせた甘い具を詰め、生クルミのなめらかなクリームソースをかけて、ザクロとパセリで彩りました。メキシコ国旗の三色をまとった、独立記念の季節の名物です。常温でお出しします。",
+    "whatComesOut": [
+      "白いクルミソースに覆われた大きな唐辛子",
+      "上に散らした赤いザクロの粒と緑のパセリ",
+      "中にフルーツ入りのひき肉の詰め物",
+      "常温（冷たくも熱くもない）で提供"
+    ],
+    "tasteAndTexture": [
+      "クルミクリームのまろやかで濃厚なコク",
+      "具の果物の甘みとひき肉の旨み",
+      "ザクロのぷちっとした酸味",
+      "ポブラーノの青い香りとごく軽い辛み"
+    ],
+    "orderAdvice": "メキシコの国民的ごちそうを試したい人に。甘い×しょっぱい×クリーミーの組み合わせなので、酢豚のパイナップルが好きならハマる可能性大。8〜9月の旬（ザクロとクルミの季節）に出会えたら迷わず注文。",
+    "caution": "クルミ（ナッツ）・乳製品を含む。季節限定の店が多い。",
+    "similarItems": [
+      {
+        "name": "チレ・レジェーノ",
+        "difference": "ポブラーノにチーズや肉を詰め、衣をつけて揚げトマトソースをかける"
+      },
+      {
+        "id": "punjena-paprika",
+        "name": "プニェナ・パプリカ",
+        "difference": "バルカンのピーマンの肉詰め。トマトソースで煮込み温かく出す"
+      },
+      {
+        "id": "mole",
+        "name": "モーレ",
+        "difference": "同じプエブラ発祥の祝祭料理。こちらは茶色い複雑なソース"
+      }
+    ],
+    "relatedIds": [
+      "mole",
+      "mole-negro",
+      "punjena-paprika",
+      "toltott-paprika"
+    ],
+    "source": [
+      "https://tequilajournal.jp/mexican-food/",
+      "https://en.wikipedia.org/wiki/Chiles_en_nogada"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "主菜",
+      "野菜",
+      "ナッツ",
+      "果物",
+      "クリーミー",
+      "甘み",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "甘い食事が苦手",
+      "ナッツアレルギー",
+      "フルーツと肉の組み合わせが苦手",
+      "温かい料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/chiles-en-nogada/1.jpg",
+      "/images/dishes/chiles-en-nogada/2.jpg",
+      "/images/dishes/chiles-en-nogada/3.jpg"
+    ]
+  },
+  {
+    "id": "frijoles-refritos",
+    "name": "フリホーレス・レフリートス",
+    "kana": "ふりほーれすれふりーとす",
+    "aliases": [
+      "フリホーレス",
+      "フリホレス",
+      "リフライドビーンズ",
+      "豆のペースト",
+      "Frijoles refritos",
+      "Refried beans"
+    ],
+    "englishName": "Refried Beans",
+    "originalName": "Frijoles refritos",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "煮たピント豆や黒豆をつぶしてペースト状にし、玉ねぎ・にんにくとラードや油で炒め直したメキシコの定番の豆料理。トルティーヤとセットで食べる付け合わせ。",
+    "menuDescription": "じっくり煮込んだ豆をなめらかにつぶし、玉ねぎ、にんにくと一緒にラードで香ばしく炒め上げました。チーズをのせて、トルティーヤチップスやタコスと一緒にお楽しみください。",
+    "whatComesOut": [
+      "茶色〜黒色のなめらかな豆のペースト",
+      "上に崩したフレッシュチーズ（ケソ・フレスコ）",
+      "トルティーヤチップスやトルティーヤ",
+      "メイン料理の付け合わせとして盛られることが多い"
+    ],
+    "tasteAndTexture": [
+      "豆のほっくりした甘みとコク",
+      "ねっとりなめらかなペースト状",
+      "ラードや炒め玉ねぎの香ばしさ",
+      "塩気はやさしめ"
+    ],
+    "orderAdvice": "メキシコ料理の多くに自動的に付いてくる名脇役。単品で頼むならチップスと一緒にディップとして。辛くないので辛いものが苦手な人の逃げ場にもなる。",
+    "caution": "ラード（豚脂）使用が一般的。ベジタリアンは植物油版か確認。",
+    "similarItems": [
+      {
+        "id": "hummus",
+        "name": "フムス",
+        "difference": "ひよこ豆とゴマペーストのペースト。炒めず冷たく、レモンの酸味がある"
+      },
+      {
+        "id": "baked-beans",
+        "name": "ベイクドビーンズ",
+        "difference": "豆を粒のままトマトソースで甘く煮る英米式"
+      },
+      {
+        "id": "feijoada",
+        "name": "フェイジョアーダ",
+        "difference": "ブラジルの黒豆と豚肉の煮込み。豆はつぶさない"
+      }
+    ],
+    "relatedIds": [
+      "tacos",
+      "nachos",
+      "tortilla",
+      "hummus",
+      "baked-beans",
+      "torta-ahogada"
+    ],
+    "source": [
+      "https://www.shinsei-ip.ne.jp/knowledge/mexican-food/",
+      "https://en.wikipedia.org/wiki/Refried_beans"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "豆類",
+      "炒め物",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "豆が苦手",
+      "ペースト状の食感が苦手",
+      "生野菜サラダ",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/frijoles-refritos/1.jpg",
+      "/images/dishes/frijoles-refritos/2.jpg",
+      "/images/dishes/frijoles-refritos/3.jpg"
+    ]
+  },
+  {
+    "id": "nopales",
+    "name": "ノパレス",
+    "kana": "のぱれす",
+    "aliases": [
+      "ノパル",
+      "ノパリートス",
+      "食用サボテン",
+      "ウチワサボテン",
+      "Nopal",
+      "Nopales",
+      "Nopalitos"
+    ],
+    "englishName": "Nopales (Edible Cactus Pads)",
+    "originalName": "Nopales",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "ウチワサボテンの若い茎節（パドル）を刺を取って食べるメキシコの野菜。焼く・炒める・茹でてサラダや酢漬けにするなど幅広く使われる。",
+    "menuDescription": "メキシコ原産の食用サボテン「ノパル」を、刺を丁寧に取り除いて香ばしくグリルしました。いんげん豆のような爽やかな風味と、シャキッとした中にとろみのある独特の食感をお楽しみください。",
+    "whatComesOut": [
+      "細切りまたは丸ごと焼いた緑色のサボテン",
+      "トマト・玉ねぎ・パクチーと和えたサラダ（エンサラダ・デ・ノパレス）",
+      "卵炒めやタコスの具として出ることも",
+      "ケソ・フレスコ（フレッシュチーズ）が添えられることも"
+    ],
+    "tasteAndTexture": [
+      "いんげん豆やピーマンに似た青い風味",
+      "ほのかな酸味",
+      "シャキッとした歯ごたえ",
+      "オクラのようなぬめり（とろみ）"
+    ],
+    "orderAdvice": "メキシコならではの食材を試したい人に。ぬめりが平気（オクラ・モロヘイヤ好き）なら気に入る可能性大。初めてならグリルかサラダが食べやすい。",
+    "caution": "まれに細かい刺が残っていることがある。",
+    "similarItems": [
+      {
+        "id": "okra",
+        "name": "オクラ",
+        "difference": "ぬめりと青い風味が似ているが、ノパルはより平たく肉厚で酸味がある"
+      },
+      {
+        "name": "いんげん豆（さやいんげん）",
+        "difference": "味は近いがぬめりはない"
+      },
+      {
+        "id": "mozuku",
+        "name": "もずく",
+        "difference": "ぬめりのある海藻。酢の物で食べる点は似る"
+      }
+    ],
+    "relatedIds": [
+      "okra",
+      "tacos",
+      "pico-de-gallo",
+      "guacamole"
+    ],
+    "source": [
+      "https://www.shinsei-ip.ne.jp/knowledge/mexican-food/",
+      "https://en.wikipedia.org/wiki/Nopal"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "野菜",
+      "グリル",
+      "酸味",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ぬめりが苦手",
+      "青臭い野菜が苦手",
+      "肉料理",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/nopales/1.jpg"
+    ]
+  },
+  {
+    "id": "pan-de-muerto",
+    "name": "パン・デ・ムエルト",
+    "kana": "ぱんでむえると",
+    "aliases": [
+      "死者のパン",
+      "パン・デ・ムエルトス",
+      "Pan de muerto"
+    ],
+    "englishName": "Pan de Muerto (Bread of the Dead)",
+    "originalName": "Pan de muerto",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "死者の日（11月1〜2日）に祭壇へ供え、家族で食べるメキシコの甘いパン。丸いドームの上に骨や涙をかたどった生地をのせ、砂糖をまぶす。",
+    "menuDescription": "死者の日に先祖の魂を迎えるため祭壇に供える、メキシコの伝統的な甘いパンです。オレンジフラワーやアニスがふんわり香る柔らかな生地に、骨をかたどった飾りをのせ、砂糖をまぶして焼き上げました。",
+    "whatComesOut": [
+      "丸いドーム形の甘いパン",
+      "上にクロス状にのった骨形の飾り生地",
+      "表面にまぶした白（またはピンク）の砂糖",
+      "ホットチョコレートやアトレが添えられることも"
+    ],
+    "tasteAndTexture": [
+      "ブリオッシュのようにふんわり柔らかい生地",
+      "オレンジの花やアニスのやさしい香り",
+      "表面の砂糖のジャリッとした甘さ",
+      "バターと卵のほどよいコク"
+    ],
+    "orderAdvice": "10月下旬〜11月初旬限定の季節もの。見かけたらぜひ。甘さは控えめ〜中程度で、ホットチョコレートに浸して食べるのがメキシコ流。",
+    "caution": "小麦・卵・乳製品を含む。",
+    "similarItems": [
+      {
+        "name": "ブリオッシュ",
+        "difference": "フランスのバターたっぷりの甘いパン。生地は近いが香り付けや飾りがない"
+      },
+      {
+        "name": "ロスカ・デ・レジェス",
+        "difference": "1月6日の公現祭に食べるメキシコのリング状の甘いパン"
+      },
+      {
+        "id": "panettone",
+        "name": "パネトーネ",
+        "difference": "イタリアのクリスマスパン。ドライフルーツ入りで発酵種を使う"
+      }
+    ],
+    "relatedIds": [
+      "panettone",
+      "atole",
+      "calaverita-de-azucar",
+      "churros",
+      "tamales"
+    ],
+    "source": [
+      "https://www.shinsei-ip.ne.jp/knowledge/mexican-food/",
+      "https://en.wikipedia.org/wiki/Pan_de_muerto"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "パン",
+      "小麦",
+      "焼き物",
+      "甘み",
+      "ふわふわ",
+      "祝祭料理",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "甘いパンが苦手",
+      "柑橘の香りが苦手",
+      "しょっぱい軽食",
+      "ハード系パン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pan-de-muerto/1.jpg",
+      "/images/dishes/pan-de-muerto/2.jpg",
+      "/images/dishes/pan-de-muerto/3.jpg"
+    ]
+  },
+  {
+    "id": "calaverita-de-azucar",
+    "name": "カラベリータ・デ・アスカル",
+    "kana": "からべりーたであすかる",
+    "aliases": [
+      "シュガースカル",
+      "砂糖のガイコツ",
+      "カラベラ",
+      "Calaverita de azúcar",
+      "Sugar skull",
+      "Calavera"
+    ],
+    "englishName": "Sugar Skull",
+    "originalName": "Calaverita de azúcar",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "砂糖を型に詰めて固めたドクロ形の砂糖菓子。死者の日に祭壇へ供えたり子どもに贈ったりし、額に故人や贈る相手の名前を書くのが習わし。",
+    "menuDescription": "死者の日に欠かせない、色鮮やかなアイシングで飾ったドクロ形の砂糖菓子です。額に大切な人の名前を入れて祭壇に飾る、メキシコの伝統的な縁起物です。",
+    "whatComesOut": [
+      "手のひらサイズの白いドクロ形の砂糖菓子",
+      "カラフルなアイシングや色紙・ラメの装飾",
+      "額に名前が書かれていることが多い",
+      "チョコレートやアマランサス製の場合も"
+    ],
+    "tasteAndTexture": [
+      "純粋な砂糖のストレートな甘さ",
+      "固く、カリカリ・ジャリッとした食感",
+      "アイシング部分はさらに甘い"
+    ],
+    "orderAdvice": "食べるより飾る・贈る用途がメイン。とても甘く固いので、食べるならチョコレート製や小さいものを選ぶ。死者の日シーズンのお土産に最適。",
+    "caution": "装飾に食用でない素材（ラメ・紙・ホイル等）が使われていることがあるため、食べる場合は確認。",
+    "similarItems": [
+      {
+        "name": "落雁",
+        "difference": "日本の型押し干菓子。仏事に供える点も似るが、米粉などを混ぜ口どけがよい"
+      },
+      {
+        "name": "アルフェニーケ",
+        "difference": "砂糖細工全般。動物や果物などドクロ以外の形も作る"
+      },
+      {
+        "id": "pan-de-muerto",
+        "name": "パン・デ・ムエルト",
+        "difference": "同じく死者の日の供物。こちらは食べるための甘いパン"
+      }
+    ],
+    "relatedIds": [
+      "pan-de-muerto",
+      "atole",
+      "churros"
+    ],
+    "source": [
+      "https://www.shinsei-ip.ne.jp/knowledge/mexican-food/",
+      "https://en.wikipedia.org/wiki/Sugar_skull"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "菓子",
+      "甘み",
+      "伝統料理",
+      "祝祭料理",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "甘すぎるお菓子が苦手",
+      "固いお菓子が苦手",
+      "しょっぱいスナック",
+      "フルーツ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/calaverita-de-azucar/1.jpg",
+      "/images/dishes/calaverita-de-azucar/2.jpg"
+    ]
+  },
+  {
+    "id": "atole",
+    "name": "アトレ",
+    "kana": "あとれ",
+    "aliases": [
+      "アトーレ",
+      "チャンプラード",
+      "Atole",
+      "Champurrado"
+    ],
+    "englishName": "Atole",
+    "originalName": "Atole",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "メキシコ"
+      },
+      {
+        "area": "中米"
+      }
+    ],
+    "summary": "トウモロコシ粉（マサ）を水や牛乳で溶き、ピロンシージョ（黒糖）、シナモン、バニラで甘く煮たメソアメリカ伝統の温かいとろみ飲料。チョコレート入りはチャンプラードと呼ぶ。",
+    "menuDescription": "トウモロコシの粉をシナモンで香りづけしたお湯と牛乳で溶き、黒糖でやさしく甘くしたメキシコの伝統的な温かい飲み物です。とろりとした口当たりで、タマレスやパン・デ・ムエルトとよく合います。",
+    "whatComesOut": [
+      "カップに入った温かいとろみのある飲み物",
+      "バニラ・チョコレート・イチゴなど味のバリエーション",
+      "シナモンスティックが添えられることも",
+      "タマレスとセットで出ることが多い"
+    ],
+    "tasteAndTexture": [
+      "ポタージュのようなとろりとした濃度",
+      "トウモロコシの素朴な甘み",
+      "シナモンとバニラの香り",
+      "黒糖のやさしい甘さ"
+    ],
+    "orderAdvice": "寒い朝や夜に体が温まる一杯。甘い飲み物が好きならおすすめ。チョコ好きならチャンプラードを。お腹にたまるので、軽食代わりにもなる。",
+    "caution": "牛乳入りの場合あり。糖分が多め。",
+    "similarItems": [
+      {
+        "id": "sahlab",
+        "name": "サーレップ",
+        "difference": "中東のとろみのある温かいミルク飲料。ランの球根粉でとろみをつける"
+      },
+      {
+        "name": "ホットチョコレート",
+        "difference": "とろみはトウモロコシ粉ではなくチョコレート由来"
+      },
+      {
+        "name": "葛湯",
+        "difference": "日本の葛粉のとろみ飲料。甘さ控えめでより透明"
+      }
+    ],
+    "relatedIds": [
+      "sahlab",
+      "tamales",
+      "pan-de-muerto",
+      "churros"
+    ],
+    "source": [
+      "https://www.shinsei-ip.ne.jp/knowledge/mexican-food/",
+      "https://en.wikipedia.org/wiki/Atole"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "甘み",
+      "クリーミー",
+      "伝統料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "とろみのある飲み物が苦手",
+      "甘い飲み物が苦手",
+      "冷たいドリンク",
+      "コーヒー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/atole/1.jpg",
+      "/images/dishes/atole/2.jpg",
+      "/images/dishes/atole/3.jpg"
+    ]
   }
 ]
