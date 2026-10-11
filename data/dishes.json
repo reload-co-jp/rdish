@@ -201798,5 +201798,1239 @@
       "/images/dishes/makgeolli/2.jpg",
       "/images/dishes/makgeolli/3.jpg"
     ]
+  },
+  {
+    "id": "shiro",
+    "name": "シロ",
+    "kana": "しろ",
+    "aliases": [
+      "シロ・ワット",
+      "シロワット",
+      "ツェブヒ・シロ"
+    ],
+    "englishName": "Shiro",
+    "originalName": "ሽሮ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エチオピア"
+      },
+      {
+        "country": "エリトリア"
+      }
+    ],
+    "summary": "ひよこ豆やそら豆の粉（シロ粉）を、玉ねぎ・ニンニク・ベルベレ・バターで煮込んだエチオピア・エリトリアの豆のシチュー。インジェラにのせて食べる国民的な日常食。",
+    "menuDescription": "炒めた玉ねぎとニンニクに、香辛料入りの豆粉を溶き入れてとろりと煮込んだスパイシーな豆のシチュー。肉を使わないため断食期間の定番で、インジェラとともに供されます。",
+    "whatComesOut": [
+      "オレンジ〜茶色のとろりとした豆のシチュー",
+      "大きなインジェラの上や小鍋（土鍋）で提供",
+      "ちぎったインジェラで包んで食べる",
+      "他のワットや野菜料理と盛り合わせになることも"
+    ],
+    "tasteAndTexture": [
+      "ポタージュのようになめらかでとろみがある",
+      "豆の香ばしさとコク",
+      "ベルベレのじんわりした辛さ",
+      "インジェラの酸味とよく合う"
+    ],
+    "orderAdvice": "エチオピア料理店で迷ったら最初の一品に向く。肉なしでも満足感があり、ベジタリアンにもおすすめ。辛さは店によって差があるので苦手なら確認を。",
+    "caution": "豆類（ひよこ豆・そら豆）を使用。バター（ニテル・キッベ）を使う場合は乳製品を含む。そら豆はG6PD欠損症の人は注意。",
+    "similarItems": [
+      {
+        "id": "wat",
+        "name": "ワット",
+        "difference": "エチオピアの煮込み全般の総称。シロは豆粉で作るワットの一種"
+      },
+      {
+        "id": "dal",
+        "name": "ダール",
+        "difference": "インドの豆の煮込み。豆を粒のまま煮崩すのに対し、シロは粉から作るためよりなめらか"
+      },
+      {
+        "id": "hummus",
+        "name": "フムス",
+        "difference": "ひよこ豆のペーストだが煮込まず冷たく、ゴマ風味で辛くない"
+      }
+    ],
+    "relatedIds": [
+      "injera",
+      "wat",
+      "chickpea",
+      "dal",
+      "hummus"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2873",
+      "https://en.wikipedia.org/wiki/Shiro_(food)"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "主菜",
+      "豆類",
+      "煮込み",
+      "ピリ辛",
+      "クリーミー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "肉料理",
+      "辛くない料理",
+      "あっさりしたスープ",
+      "粒感のある豆料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/shiro/1.jpg",
+      "/images/dishes/shiro/2.jpg",
+      "/images/dishes/shiro/3.jpg"
+    ]
+  },
+  {
+    "id": "tella",
+    "name": "テラ",
+    "kana": "てら",
+    "aliases": [
+      "タラ",
+      "テッラ",
+      "エチオピアビール"
+    ],
+    "englishName": "Tella",
+    "originalName": "ጠላ",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "エチオピア"
+      },
+      {
+        "country": "エリトリア"
+      }
+    ],
+    "summary": "大麦やテフ、トウモロコシ、ソルガムなどの穀物を発酵させて作るエチオピアの伝統的な自家製ビール。ホップの代わりにゲショ（クロウメモドキの一種）の葉で苦みをつける。",
+    "menuDescription": "穀物を自然発酵させた濁りのあるエチオピアの伝統ビール。家庭ごとに製法や風味が異なり、庶民の間で古くから愛飲されてきた素朴な一杯です。",
+    "whatComesOut": [
+      "茶色く濁った低アルコールの酒",
+      "グラスや陶器・ひょうたんの器で提供",
+      "底に穀物のおりが沈んでいることも",
+      "インジェラ料理と一緒に"
+    ],
+    "tasteAndTexture": [
+      "穀物の香ばしさとほのかな燻香",
+      "ゲショ由来の苦み",
+      "発酵による酸味",
+      "炭酸は弱く、どろりとした口当たり"
+    ],
+    "orderAdvice": "エチオピア料理店で置いていれば話のタネに。一般的なビールと比べ炭酸が弱く酸味と苦みが強い素朴な味わい。家庭ごとの差が大きい。",
+    "caution": "アルコールを含む。大麦・小麦などのグルテンを含む場合がある。",
+    "similarItems": [
+      {
+        "id": "beer",
+        "name": "ビール",
+        "difference": "ホップで苦みをつけ、ろ過された透明で炭酸の強いもの"
+      },
+      {
+        "id": "makgeolli",
+        "name": "マッコリ",
+        "difference": "米を麹で発酵させた韓国のにごり酒。甘みが強い"
+      },
+      {
+        "name": "タッジ（テッジ）",
+        "difference": "はちみつとゲショで作るエチオピアの蜂蜜酒。甘く香り高い"
+      }
+    ],
+    "relatedIds": [
+      "beer",
+      "makgeolli",
+      "injera"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2873",
+      "https://en.wikipedia.org/wiki/Tella"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "小麦",
+      "発酵",
+      "酸味",
+      "香ばしい",
+      "伝統料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "お酒が飲めない",
+      "クリアなラガー",
+      "酸味が苦手",
+      "甘いお酒"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tella/1.jpg",
+      "/images/dishes/tella/2.jpg",
+      "/images/dishes/tella/3.jpg"
+    ]
+  },
+  {
+    "id": "berbere",
+    "name": "ベルベレ",
+    "kana": "べるべれ",
+    "aliases": [
+      "バルバレ",
+      "エチオピアのミックススパイス"
+    ],
+    "englishName": "Berbere",
+    "originalName": "በርበሬ",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "エチオピア"
+      },
+      {
+        "country": "エリトリア"
+      }
+    ],
+    "summary": "唐辛子を主体に、ニンニク、ショウガ、コリアンダー、コラリマ（エチオピアカルダモン）、フェヌグリーク、クミンなどを合わせたエチオピアの代表的なミックススパイス。ワットやシロの味の土台になる。",
+    "menuDescription": "唐辛子をベースに十数種類の香辛料をブレンドした、赤褐色のエチオピア伝統のスパイスミックス。煮込みや炒め物に深い辛みと香りを与えます。",
+    "whatComesOut": [
+      "赤褐色のパウダー状スパイス",
+      "ドロ・ワットやシロなどの煮込みに使用",
+      "肉料理（ティブス）の下味やディップにも",
+      "ペースト状（アワゼ）で出されることも"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の力強い辛さ",
+      "カルダモン・フェヌグリークの甘く複雑な香り",
+      "炒った香ばしさ",
+      "深いうま味とわずかな苦み"
+    ],
+    "orderAdvice": "メニューに「ベルベレ使用」とあればしっかり辛い料理の目印。辛さは調合次第で幅があるため、辛いものが苦手なら控えめにと頼むと安心。",
+    "caution": "辛味が強い。スパイスアレルギーのある人は注意。",
+    "similarItems": [
+      {
+        "id": "garam-masala",
+        "name": "ガラムマサラ",
+        "difference": "インドのミックススパイス。唐辛子が主体ではなく香り重視"
+      },
+      {
+        "id": "harissa",
+        "name": "ハリッサ",
+        "difference": "北アフリカの唐辛子ペースト。オイルで練り、香辛料の種類が少ない"
+      },
+      {
+        "id": "chili-powder",
+        "name": "チリパウダー",
+        "difference": "唐辛子にクミンやオレガノを混ぜたアメリカ・メキシコ系のスパイス"
+      }
+    ],
+    "relatedIds": [
+      "wat",
+      "shiro",
+      "injera",
+      "garam-masala",
+      "harissa",
+      "chili-powder",
+      "cardamom"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2873",
+      "https://en.wikipedia.org/wiki/Berbere"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "調味料",
+      "スパイス",
+      "ピリ辛",
+      "香ばしい",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "マイルドな味",
+      "素材そのものの味",
+      "ハーブ系の爽やかな香り"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/berbere/1.jpg",
+      "/images/dishes/berbere/2.jpg",
+      "/images/dishes/berbere/3.jpg"
+    ]
+  },
+  {
+    "id": "eish-baladi",
+    "name": "アエーシュ・バラディ",
+    "kana": "あえーしゅばらでぃ",
+    "aliases": [
+      "エーシュ・バラディ",
+      "エイシ・バラディ",
+      "アエーシュ",
+      "エジプトパン"
+    ],
+    "englishName": "Eish baladi",
+    "originalName": "عيش بلدي",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エジプト"
+      }
+    ],
+    "summary": "全粒粉で作るエジプトの丸く平たいポケットパン。焼きたてはふくらみ、ほぼすべての食事に添えられるエジプト料理の土台。",
+    "menuDescription": "全粒粉の生地を高温で焼き上げた、エジプト伝統の平焼きパン。もちもちとした生地をちぎって、ペーストやスープ、煮込み料理と一緒にお楽しみください。",
+    "whatComesOut": [
+      "丸く平たい茶色のパン（数枚重ね）",
+      "表面にふすまがまぶされている",
+      "レストランでは注文しなくても付いてくることが多い",
+      "フールやターメイヤを挟んだサンドイッチとしても"
+    ],
+    "tasteAndTexture": [
+      "全粒粉の素朴な香ばしさ",
+      "もちもちとした弾力",
+      "時間が経つとぺたんこになり固くなる",
+      "それ自体は淡白で料理の味を引き立てる"
+    ],
+    "orderAdvice": "エジプト料理を食べるならほぼ必ず出てくる主食。フムスやタヒーナ、モロヘイヤスープをすくって食べるのが定番。白く固めのシリア風（エーシュ・シャーミー）と食べ比べるのも楽しい。",
+    "caution": "小麦（グルテン）を含む。",
+    "similarItems": [
+      {
+        "id": "pita-bread",
+        "name": "ピタパン",
+        "difference": "白い小麦粉で作る中東の平焼きパン。バラディは全粒粉でより香ばしくもちもち"
+      },
+      {
+        "id": "paratha",
+        "name": "パラータ",
+        "difference": "インドの層状の平焼きパン。油脂を多く使いリッチ"
+      }
+    ],
+    "relatedIds": [
+      "pita-bread",
+      "hummus",
+      "tahini",
+      "falafel",
+      "molokhia",
+      "ful-medames"
+    ],
+    "source": [
+      "https://note.com/study_arabic0303/n/n87577590c4be",
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine"
+    ],
+    "tags": [
+      "北アフリカ料理",
+      "パン",
+      "小麦",
+      "焼き物",
+      "もちもち",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ふわふわの食パン",
+      "バターたっぷりのパン",
+      "米が主食",
+      "甘いパン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/eish-baladi/1.jpg"
+    ]
+  },
+  {
+    "id": "ful-medames",
+    "name": "フール・メダンメス",
+    "kana": "ふーるめだんめす",
+    "aliases": [
+      "フール",
+      "フール・ミダンミス",
+      "フール・メダメス",
+      "ful"
+    ],
+    "englishName": "Ful medames",
+    "originalName": "فول مدمس",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エジプト"
+      }
+    ],
+    "summary": "そら豆をじっくり煮て、オリーブオイル・クミン・レモンなどで味付けするエジプトの国民食。朝食の定番で、パンに挟んだサンドイッチとして屋台でも売られる。",
+    "menuDescription": "一晩かけて柔らかく煮込んだそら豆を、オリーブオイル、クミン、レモンで仕上げたエジプトの伝統的な豆料理。お好みでタヒーナや香味野菜を添えて、パンと一緒にどうぞ。",
+    "whatComesOut": [
+      "茶色く煮崩れたそら豆の煮物",
+      "オリーブオイルやタヒーナ、刻み野菜がトッピング",
+      "アエーシュ（パン）付き",
+      "屋台ではパンに挟んだサンドイッチ"
+    ],
+    "tasteAndTexture": [
+      "ほんのりした塩味とナチュラルな豆の甘み",
+      "ほくほく・ねっとりとした食感",
+      "クミンとレモンの香り",
+      "オリーブオイルのコク"
+    ],
+    "orderAdvice": "エジプトの朝ごはんを体験したいなら一択。味はやさしく、豆好きなら間違いない。ターメイヤと一緒にパンに挟むのが現地流。",
+    "caution": "そら豆を使用。G6PD欠損症の人はそら豆中毒に注意。",
+    "similarItems": [
+      {
+        "id": "hummus",
+        "name": "フムス",
+        "difference": "ひよこ豆とタヒーナをなめらかに練ったペースト。フールはそら豆を粒感を残して煮る"
+      },
+      {
+        "id": "falafel",
+        "name": "ファラフェル",
+        "difference": "豆のペーストを丸めて揚げたもの。エジプトではそら豆で作りターメイヤと呼ぶ"
+      }
+    ],
+    "relatedIds": [
+      "eish-baladi",
+      "falafel",
+      "hummus",
+      "tahini",
+      "koshari"
+    ],
+    "source": [
+      "https://note.com/study_arabic0303/n/n87577590c4be",
+      "https://en.wikipedia.org/wiki/Ful_medames"
+    ],
+    "tags": [
+      "北アフリカ料理",
+      "主菜",
+      "豆類",
+      "煮込み",
+      "あっさり",
+      "家庭料理",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "肉料理",
+      "豆が苦手",
+      "ボリュームのある朝食",
+      "甘い朝食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ful-medames/1.jpg",
+      "/images/dishes/ful-medames/2.jpg",
+      "/images/dishes/ful-medames/3.jpg"
+    ]
+  },
+  {
+    "id": "fatta",
+    "name": "ファッタ",
+    "kana": "ふぁった",
+    "aliases": [
+      "ファッテ",
+      "ファッタ・ラハム",
+      "Fatteh"
+    ],
+    "englishName": "Fatta",
+    "originalName": "فتة",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エジプト"
+      },
+      {
+        "area": "中東"
+      }
+    ],
+    "summary": "焼いたパンを敷き、ご飯と煮込んだ羊肉や牛肉をのせ、ニンニクと酢を効かせたトマトソースをかけたエジプトの祝祭料理。特に犠牲祭（イード・アル＝アドハー）に欠かせない。",
+    "menuDescription": "香ばしく焼いたパンの上にご飯と柔らかく煮た肉をのせ、ニンニクとお酢の効いたトマトソースで仕上げた、お祝いの席のごちそうです。",
+    "whatComesOut": [
+      "大皿に盛られた層状の料理",
+      "下にソースを吸ったパン、その上にご飯",
+      "柔らかく煮た羊肉や牛肉の塊",
+      "ニンニク酢のトマトソースがたっぷり"
+    ],
+    "tasteAndTexture": [
+      "ニンニクと酢のきいた爽やかな酸味",
+      "肉のうま味がしみたご飯",
+      "ソースを吸ったパンのしっとり感とカリッと感",
+      "ボリューム満点"
+    ],
+    "orderAdvice": "がっつり食べたい日に。ニンニクと酢の風味が強いので好みは分かれるが、肉とご飯好きには刺さる。量が多いのでシェア推奨。",
+    "caution": "小麦（パン）を含む。ニンニクが強め。",
+    "similarItems": [
+      {
+        "id": "koshari",
+        "name": "コシャリ",
+        "difference": "米・パスタ・豆にトマトソースをかけた肉なしの庶民食"
+      },
+      {
+        "name": "マンディ",
+        "difference": "スパイスで炊いた米に肉をのせたイエメン料理。パンやトマトソースは使わない"
+      }
+    ],
+    "relatedIds": [
+      "eish-baladi",
+      "lamb",
+      "koshari",
+      "garlic"
+    ],
+    "source": [
+      "https://note.com/study_arabic0303/n/n87577590c4be",
+      "https://en.wikipedia.org/wiki/Fatteh",
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine"
+    ],
+    "tags": [
+      "北アフリカ料理",
+      "主菜",
+      "羊肉",
+      "米",
+      "煮込み",
+      "酸味",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "ニンニクが苦手",
+      "酸っぱい料理が苦手",
+      "軽い食事",
+      "羊肉が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fatta/1.jpg",
+      "/images/dishes/fatta/2.jpg",
+      "/images/dishes/fatta/3.jpg"
+    ]
+  },
+  {
+    "id": "macarona-bechamel",
+    "name": "マカロナ・ベシャメル",
+    "kana": "まかろなべしゃめる",
+    "aliases": [
+      "マカロナ・バシャメル",
+      "マカロニ・ベシャメル",
+      "エジプト風マカロニグラタン"
+    ],
+    "englishName": "Macarona béchamel",
+    "originalName": "مكرونة بشاميل",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エジプト"
+      }
+    ],
+    "summary": "ペンネなどの筒状パスタにスパイスを効かせたひき肉を挟み、ベシャメルソースをかけてオーブンで焼くエジプトの家庭料理。ギリシャのパスティツィオに由来する。",
+    "menuDescription": "ショートパスタとトマト風味のひき肉を重ね、たっぷりのホワイトソースで覆って焼き上げた、エジプトの家庭で愛されるマカロニグラタンです。",
+    "whatComesOut": [
+      "四角く切り分けたグラタン",
+      "表面はこんがり焼けたホワイトソース",
+      "中にペンネとひき肉の層",
+      "サラダやパンが添えられることも"
+    ],
+    "tasteAndTexture": [
+      "ひき肉のうま味がしっかり",
+      "ベシャメルのクリーミーでまろやかな味",
+      "表面の香ばしい焼き目",
+      "ずっしり食べごたえがある"
+    ],
+    "orderAdvice": "日本のグラタン好きなら外さない、エジプト料理の入門に最適な一皿。家庭料理のためレストランで見かけたら貴重。かなり重いので食べ過ぎ注意。",
+    "caution": "小麦・乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "pastitsio",
+        "name": "パスティツィオ",
+        "difference": "ギリシャの元祖。シナモンなどのスパイス使いや、チーズを多く使う点が異なる"
+      },
+      {
+        "id": "lasagna",
+        "name": "ラザニア",
+        "difference": "平たいパスタを何層にも重ねるイタリア料理"
+      },
+      {
+        "id": "gratin",
+        "name": "グラタン",
+        "difference": "フランス発祥の焼き料理全般。ひき肉の層を必須としない"
+      }
+    ],
+    "relatedIds": [
+      "pastitsio",
+      "lasagna",
+      "gratin",
+      "bechamel",
+      "moussaka",
+      "koshari"
+    ],
+    "source": [
+      "https://note.com/study_arabic0303/n/n87577590c4be",
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine"
+    ],
+    "tags": [
+      "北アフリカ料理",
+      "主菜",
+      "パスタ",
+      "牛肉",
+      "焼き物",
+      "クリーミー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "あっさりした料理",
+      "乳製品が苦手",
+      "軽い食事",
+      "野菜中心の料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "feteer-meshaltet",
+    "name": "フティール・メシャルテット",
+    "kana": "ふてぃーるめしゃるてっと",
+    "aliases": [
+      "フェティール",
+      "フティール",
+      "フェティール・メシャルテット",
+      "エジプトのパイ"
+    ],
+    "englishName": "Feteer meshaltet",
+    "originalName": "فطير مشلتت",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エジプト"
+      }
+    ],
+    "summary": "薄く伸ばした生地とギー（サムナ）を何層にも重ねて焼くエジプトの伝統的なパイ。蜂蜜や糖蜜、チーズや漬物を添え、朝食などで食べる。",
+    "menuDescription": "薄い生地にギーを塗り重ねて焼き上げた、何層にもなるエジプト伝統のパイ。蜂蜜や黒蜜で甘く、チーズで塩気をきかせて、お好みでお楽しみください。",
+    "whatComesOut": [
+      "大きな丸い層状のパイ（切り分けて提供）",
+      "蜂蜜や黒蜜（糖蜜）",
+      "チーズやオリーブ、トルシー（漬物）",
+      "具を詰めたフティールの場合も"
+    ],
+    "tasteAndTexture": [
+      "サクサクと剥がれる何層もの生地",
+      "ギーの濃厚なバター風味",
+      "本体はほぼ無味で付け合わせ次第で甘くも塩辛くもなる",
+      "かなりずっしり"
+    ],
+    "orderAdvice": "甘い派・しょっぱい派どちらでも楽しめる。油脂が多く重いので、複数人でシェアするのがおすすめ。",
+    "caution": "小麦・乳製品（ギー）を含む。",
+    "similarItems": [
+      {
+        "id": "paratha",
+        "name": "パラータ",
+        "difference": "インドの層状平焼きパン。フティールの方が層が多く厚い"
+      },
+      {
+        "id": "baklava",
+        "name": "バクラヴァ",
+        "difference": "薄い生地にナッツを挟みシロップに浸した菓子"
+      }
+    ],
+    "relatedIds": [
+      "ghee",
+      "paratha",
+      "baklava",
+      "eish-baladi"
+    ],
+    "source": [
+      "https://note.com/study_arabic0303/n/n87577590c4be",
+      "https://en.wikipedia.org/wiki/Feteer_meshaltet"
+    ],
+    "tags": [
+      "北アフリカ料理",
+      "パン",
+      "小麦",
+      "乳製品",
+      "焼き物",
+      "サクサク",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "油っこいものが苦手",
+      "軽い朝食",
+      "バターが苦手",
+      "あっさりしたパン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/feteer-meshaltet/1.jpg",
+      "/images/dishes/feteer-meshaltet/2.jpg",
+      "/images/dishes/feteer-meshaltet/3.jpg"
+    ]
+  },
+  {
+    "id": "hawawshi",
+    "name": "ハワウシ",
+    "kana": "はわうし",
+    "aliases": [
+      "ハワウシー",
+      "ハワウシ・バラディ"
+    ],
+    "englishName": "Hawawshi",
+    "originalName": "حواوشي",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エジプト"
+      }
+    ],
+    "summary": "エジプトのパンに玉ねぎ・唐辛子・パセリなどで味付けしたひき肉を詰め、オーブンや揚げ焼きで仕上げるエジプトの軽食。",
+    "menuDescription": "スパイスを効かせたひき肉をエジプトのパンに挟み、カリッと焼き上げたエジプトの名物ミートパイ。肉汁がしみたパンの香ばしさが魅力です。",
+    "whatComesOut": [
+      "ひき肉を詰めた丸い平焼きパン（切り分けて提供）",
+      "表面はこんがり焼き色",
+      "トルシー（漬物）やタヒーナが添えられることも",
+      "チーズ入りなどの派生系も"
+    ],
+    "tasteAndTexture": [
+      "肉汁がしみたパンのカリカリ感",
+      "スパイスと玉ねぎの効いた濃い味",
+      "塩気と脂がしっかり",
+      "唐辛子入りはピリ辛"
+    ],
+    "orderAdvice": "ジャンクな肉料理が好きならぜひ。塩気と油が強く、ビールに合う味。専門店や屋台で手軽に食べられる。",
+    "caution": "小麦を含む。脂が多い。",
+    "similarItems": [
+      {
+        "id": "shawarma",
+        "name": "シャワルマ",
+        "difference": "回転焼きした薄切り肉をパンで巻いたもの"
+      },
+      {
+        "id": "khachapuri",
+        "name": "ハチャプリ",
+        "difference": "チーズを詰めたジョージアのパン"
+      },
+      {
+        "name": "アライス",
+        "difference": "ひき肉をピタに詰めてグリルするレバノン・シリアの料理。ほぼ同じ発想"
+      }
+    ],
+    "relatedIds": [
+      "eish-baladi",
+      "shawarma",
+      "kofte",
+      "kebab",
+      "khachapuri"
+    ],
+    "source": [
+      "https://note.com/study_arabic0303/n/n87577590c4be",
+      "https://en.wikipedia.org/wiki/Hawawshi"
+    ],
+    "tags": [
+      "北アフリカ料理",
+      "軽食",
+      "牛肉",
+      "焼き物",
+      "香ばしい",
+      "ジューシー",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "あっさりした料理",
+      "油っこいものが苦手",
+      "ベジタリアン料理",
+      "塩分控えめ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/hawawshi/1.jpg",
+      "/images/dishes/hawawshi/2.jpg",
+      "/images/dishes/hawawshi/3.jpg"
+    ]
+  },
+  {
+    "id": "kebda-iskandarani",
+    "name": "ケブダ・イスカンダラーニ",
+    "kana": "けぶだいすかんだらーに",
+    "aliases": [
+      "ケブダ",
+      "アレキサンドリア風レバー",
+      "ケブダ・イスカンダリー",
+      "レバーサンド"
+    ],
+    "englishName": "Kebda Iskandarani",
+    "originalName": "كبدة إسكندراني",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エジプト"
+      }
+    ],
+    "summary": "細切りにした牛レバーをニンニク・唐辛子・クミンなどと炒めた、アレキサンドリア名物のレバー料理。パンに挟んだサンドイッチとして屋台の定番ファストフード。",
+    "menuDescription": "牛レバーをニンニクと唐辛子、スパイスで手早く炒めた、アレキサンドリア発祥のピリ辛レバー。パンに挟んでサンドイッチでどうぞ。",
+    "whatComesOut": [
+      "細切りレバーの炒め物",
+      "パンに挟んだサンドイッチ（小ぶり）",
+      "青唐辛子やピーマンが混ざる",
+      "タヒーナやレモン、漬物が添えられることも"
+    ],
+    "tasteAndTexture": [
+      "ピリッとした唐辛子の辛さ",
+      "ニンニクとクミンの香り",
+      "臭みが少なくやわらかいレバー",
+      "パンと合うしっかりした味"
+    ],
+    "orderAdvice": "レバー好き・ホルモン好きなら試す価値あり。臭みは少なめで食べやすい。屋台は鮮度にばらつきがあるので、繁盛している店を選ぶのが安心。",
+    "caution": "内臓肉。屋台では鮮度・衛生に注意。小麦（パン）を含む。",
+    "similarItems": [
+      {
+        "id": "shawarma",
+        "name": "シャワルマ",
+        "difference": "回転焼きした肉のサンドイッチ。レバーではなく赤身肉や鶏肉"
+      },
+      {
+        "name": "レバニラ炒め",
+        "difference": "ニラと炒めた中華風レバー料理。甘辛い醤油味"
+      }
+    ],
+    "relatedIds": [
+      "eish-baladi",
+      "hawawshi",
+      "shawarma",
+      "garlic"
+    ],
+    "source": [
+      "https://note.com/study_arabic0303/n/n87577590c4be",
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine"
+    ],
+    "tags": [
+      "北アフリカ料理",
+      "軽食",
+      "牛肉",
+      "炒め物",
+      "ピリ辛",
+      "屋台料理",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "レバーが苦手",
+      "内臓が苦手",
+      "辛いものが苦手",
+      "淡白な料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/kebda-iskandarani/1.jpg"
+    ]
+  },
+  {
+    "id": "hamam-mahshi",
+    "name": "ハマーム・マフシー",
+    "kana": "はまーむまふしー",
+    "aliases": [
+      "ハマーム",
+      "鳩の米詰め",
+      "ハマム・マハシ"
+    ],
+    "englishName": "Hamam mahshi",
+    "originalName": "حمام محشي",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エジプト"
+      }
+    ],
+    "summary": "鳩の中にスパイスやハーブで味付けした米やフリーカ（青麦）を詰め、煮てから焼き上げるエジプトの伝統料理。祝いの席のごちそうとされる。",
+    "menuDescription": "丸ごとの鳩に香り高い米を詰め、じっくり煮てからこんがり焼き上げた、エジプト伝統のごちそうです。",
+    "whatComesOut": [
+      "丸ごと1〜2羽の小さな鳩",
+      "腹の中にたっぷりの米やフリーカ",
+      "皮はこんがり焼き色",
+      "ご飯やサラダが添えられることも"
+    ],
+    "tasteAndTexture": [
+      "鶏肉に近いがより濃いうま味",
+      "香ばしくパリッとした皮",
+      "肉汁を吸った詰め物の米",
+      "骨が多く可食部は少なめ"
+    ],
+    "orderAdvice": "珍しい食材に挑戦したい人向け。見た目は生々しいが味は鶏肉に近く食べやすい。骨が多いので手で食べる覚悟で。",
+    "caution": "小骨が多い。",
+    "similarItems": [
+      {
+        "id": "dolma",
+        "name": "ドルマ",
+        "difference": "野菜やブドウの葉に米を詰めた料理。エジプトではマフシーと呼ぶ"
+      },
+      {
+        "name": "ハマーム・マシュウィー",
+        "difference": "鳩をそのままグリルしたもの。詰め物なし"
+      }
+    ],
+    "relatedIds": [
+      "dolma",
+      "duck",
+      "fatta"
+    ],
+    "source": [
+      "https://note.com/study_arabic0303/n/n87577590c4be",
+      "https://en.wikipedia.org/wiki/Hamam_mahshi"
+    ],
+    "tags": [
+      "北アフリカ料理",
+      "主菜",
+      "ジビエ",
+      "米",
+      "ロースト",
+      "香ばしい",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "鳥の姿が苦手",
+      "骨のない肉料理",
+      "食べやすい鶏肉料理",
+      "ジビエが苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hamam-mahshi/1.jpg",
+      "/images/dishes/hamam-mahshi/2.jpg",
+      "/images/dishes/hamam-mahshi/3.jpg"
+    ]
+  },
+  {
+    "id": "umm-ali",
+    "name": "ウンム・アリー",
+    "kana": "うんむあり",
+    "aliases": [
+      "オム・アリ",
+      "ウム・アリ",
+      "オマリ",
+      "エジプト風パンプディング"
+    ],
+    "englishName": "Umm Ali",
+    "originalName": "أم علي",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "エジプト"
+      }
+    ],
+    "summary": "パイ生地やパンを砕いてナッツ・レーズン・ココナッツと合わせ、甘い牛乳をかけてオーブンで焼くエジプトの国民的デザート。中世エジプトに由来し、ラマダンの食卓にも並ぶ。",
+    "menuDescription": "サクサクのパイ生地にナッツとレーズンを散らし、甘いミルクをたっぷり注いで熱々に焼き上げた、エジプトを代表する温かいデザートです。",
+    "whatComesOut": [
+      "耐熱皿や土鍋で熱々の状態",
+      "牛乳を吸ったパイ生地",
+      "表面にこんがり焼き色とナッツ",
+      "レーズンやココナッツ入り"
+    ],
+    "tasteAndTexture": [
+      "ミルクのやさしい甘さ",
+      "とろとろの生地と表面のサクッと感",
+      "ナッツの香ばしさ",
+      "温かくクリーミー"
+    ],
+    "orderAdvice": "温かいデザートが好きならぜひ。パンプディングに近く甘さもほどよいので初めてでも食べやすい。焼きたては熱いので注意。",
+    "caution": "小麦・乳製品・ナッツを含む。",
+    "similarItems": [
+      {
+        "name": "ブレッドプディング",
+        "difference": "パンを卵液に浸して焼く英国の菓子。卵を使いよりプリン寄り"
+      },
+      {
+        "id": "baklava",
+        "name": "バクラヴァ",
+        "difference": "パイ生地とナッツをシロップに浸した焼き菓子。冷たく非常に甘い"
+      }
+    ],
+    "relatedIds": [
+      "baklava",
+      "kunafa",
+      "roz-bel-laban"
+    ],
+    "source": [
+      "https://note.com/study_arabic0303/n/n87577590c4be",
+      "https://en.wikipedia.org/wiki/Om_Ali"
+    ],
+    "tags": [
+      "北アフリカ料理",
+      "デザート",
+      "乳製品",
+      "焼き物",
+      "甘み",
+      "クリーミー",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "甘いものが苦手",
+      "冷たいデザート",
+      "ナッツが苦手",
+      "さっぱりした果物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/umm-ali/1.jpg",
+      "/images/dishes/umm-ali/2.jpg"
+    ]
+  },
+  {
+    "id": "kunafa",
+    "name": "クナーファ",
+    "kana": "くなーふぁ",
+    "aliases": [
+      "クナーフェ",
+      "カナーフェ",
+      "クナファ",
+      "キュネフェ",
+      "Knafeh"
+    ],
+    "englishName": "Kunafa",
+    "originalName": "كنافة",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "エジプト"
+      },
+      {
+        "area": "中東"
+      }
+    ],
+    "summary": "細い麺状の生地（カダイフ）をバターで焼き、チーズやクリーム、ナッツを挟んでシロップをかける中東・エジプトの伝統菓子。ラマダンの定番スイーツ。",
+    "menuDescription": "細く繊細な生地をバターでこんがり焼き上げ、とろけるチーズやクリームを包んで甘いシロップをかけた、中東伝統の焼き菓子です。",
+    "whatComesOut": [
+      "オレンジ色に焼けた麺状の生地",
+      "中にチーズ、クリーム、ナッツなど",
+      "シロップがたっぷりしみている",
+      "ピスタチオのトッピング"
+    ],
+    "tasteAndTexture": [
+      "カリカリ・サクサクの生地",
+      "とろりと伸びるチーズやクリーム",
+      "シロップの強い甘さ",
+      "バターの香ばしさ"
+    ],
+    "orderAdvice": "甘党なら必食。かなり甘いので紅茶やコーヒーと一緒に少量ずつ。チーズ入りは焼きたての伸びるうちが最高。",
+    "caution": "小麦・乳製品・ナッツを含む。非常に甘い。",
+    "similarItems": [
+      {
+        "id": "baklava",
+        "name": "バクラヴァ",
+        "difference": "薄いフィロ生地を重ねてナッツを挟む。クナーファは麺状の生地"
+      },
+      {
+        "id": "umm-ali",
+        "name": "ウンム・アリー",
+        "difference": "パイ生地に牛乳をかけて焼く温かいデザート。シロップは使わない"
+      }
+    ],
+    "relatedIds": [
+      "baklava",
+      "umm-ali",
+      "ghee"
+    ],
+    "source": [
+      "https://note.com/study_arabic0303/n/n87577590c4be",
+      "https://en.wikipedia.org/wiki/Knafeh",
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine"
+    ],
+    "tags": [
+      "中東料理",
+      "北アフリカ料理",
+      "菓子",
+      "チーズ",
+      "焼き物",
+      "甘み",
+      "サクサク",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "甘いものが苦手",
+      "あっさりした和菓子",
+      "油っこいお菓子が苦手",
+      "フルーツデザート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kunafa/1.jpg",
+      "/images/dishes/kunafa/2.jpg",
+      "/images/dishes/kunafa/3.jpg"
+    ]
+  },
+  {
+    "id": "roz-bel-laban",
+    "name": "ロズ・ビ・ラバン",
+    "kana": "ろずびらばん",
+    "aliases": [
+      "ロズ・ベル・ラバン",
+      "エジプトのライスプディング",
+      "ミルク粥"
+    ],
+    "englishName": "Roz bel laban",
+    "originalName": "أرز بلبن",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "エジプト"
+      }
+    ],
+    "summary": "短粒米を牛乳・砂糖・バニラで甘く煮て冷やした、エジプトのライスプディング。シナモンやナッツ、アイスをのせることもある。",
+    "menuDescription": "お米を牛乳とお砂糖でやさしく煮込み、冷やして仕上げたエジプト風ライスプディング。シナモンやナッツを添えてどうぞ。",
+    "whatComesOut": [
+      "カップに入った白いミルク粥",
+      "冷やした状態が多い",
+      "シナモンやナッツのトッピング",
+      "アイスクリームがのることも"
+    ],
+    "tasteAndTexture": [
+      "やさしいミルクの甘さ",
+      "とろりとした中にお米のつぶつぶ感",
+      "バニラの香り",
+      "冷たくさっぱり"
+    ],
+    "orderAdvice": "食後に軽く甘いものが欲しい時に。甘さ控えめで食べやすい。「甘いお米」に抵抗がなければ間違いない。",
+    "caution": "乳製品を含む。",
+    "similarItems": [
+      {
+        "name": "ムハラビーヤ",
+        "difference": "米粉やコーンスターチでとろみをつけたなめらかなミルクプリン"
+      },
+      {
+        "name": "ライスプディング",
+        "difference": "欧州各地の米の牛乳煮。エジプト版はバニラ風味で冷やして食べる"
+      }
+    ],
+    "relatedIds": [
+      "umm-ali",
+      "cinnamon",
+      "kunafa"
+    ],
+    "source": [
+      "https://note.com/study_arabic0303/n/n87577590c4be",
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine"
+    ],
+    "tags": [
+      "北アフリカ料理",
+      "デザート",
+      "米",
+      "乳製品",
+      "甘み",
+      "クリーミー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "甘いお米が苦手",
+      "乳製品が苦手",
+      "サクサクのお菓子",
+      "濃厚なチョコレート"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "sahlab",
+    "name": "サフラブ",
+    "kana": "さふらぶ",
+    "aliases": [
+      "サハラブ",
+      "サーレップ",
+      "サレップ",
+      "Salep"
+    ],
+    "englishName": "Sahlab",
+    "originalName": "سحلب",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "エジプト"
+      },
+      {
+        "country": "トルコ"
+      },
+      {
+        "area": "中東"
+      }
+    ],
+    "summary": "ランの球根の粉（サレップ）を温かい牛乳と砂糖で溶いた、とろみのある冬の飲み物。シナモンやナッツをのせて飲む。現在はコーンスターチで代用したものも多い。",
+    "menuDescription": "温かいミルクにとろみをつけ、シナモンとナッツをトッピングした、中東の冬の定番ホットドリンクです。",
+    "whatComesOut": [
+      "カップに入った白くとろりとした温かい飲み物",
+      "シナモンパウダーがたっぷり",
+      "刻みナッツやココナッツ、レーズンのトッピング",
+      "スプーンで食べることも"
+    ],
+    "tasteAndTexture": [
+      "やさしいミルクの甘さ",
+      "ぽってりとしたとろみ",
+      "シナモンの香り",
+      "体が温まる"
+    ],
+    "orderAdvice": "寒い日やデザート代わりに。甘いホットミルク好きなら気に入るはず。とろみが強いので飲み物というよりデザート感覚。",
+    "caution": "乳製品・ナッツを含む場合がある。",
+    "similarItems": [
+      {
+        "name": "ホットミルク",
+        "difference": "とろみもスパイスもないシンプルな温めた牛乳"
+      },
+      {
+        "id": "roz-bel-laban",
+        "name": "ロズ・ビ・ラバン",
+        "difference": "米を牛乳で煮た冷たいデザート"
+      }
+    ],
+    "relatedIds": [
+      "cinnamon",
+      "roz-bel-laban",
+      "umm-ali"
+    ],
+    "source": [
+      "https://note.com/study_arabic0303/n/n87577590c4be",
+      "https://en.wikipedia.org/wiki/Salep"
+    ],
+    "tags": [
+      "中東料理",
+      "北アフリカ料理",
+      "乳製品",
+      "甘み",
+      "クリーミー",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "甘い飲み物が苦手",
+      "冷たいドリンク",
+      "乳製品が苦手",
+      "さっぱりしたお茶"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sahlab/1.jpg",
+      "/images/dishes/sahlab/2.jpg",
+      "/images/dishes/sahlab/3.jpg"
+    ]
   }
 ]
