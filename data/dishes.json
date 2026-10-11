@@ -197102,5 +197102,4701 @@
       "/images/dishes/mole/2.jpg",
       "/images/dishes/mole/3.jpg"
     ]
+  },
+  {
+    "id": "paski-sir",
+    "name": "パシュキ・スィル",
+    "kana": "ぱしゅきすぃる",
+    "aliases": [
+      "パグチーズ",
+      "パグ島チーズ",
+      "パルシュキ・スィル"
+    ],
+    "englishName": "Pag cheese",
+    "originalName": "Paški sir",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "クロアチア",
+        "locality": "パグ島"
+      }
+    ],
+    "summary": "アドリア海のパグ島で作られる羊乳のハードチーズ。潮風とハーブを食べた羊の乳から生まれる塩気と旨味が特徴で、クロアチアを代表するチーズ。",
+    "menuDescription": "パグ島の羊乳から作られ、じっくり熟成させたクロアチア自慢のハードチーズ。薄くスライスしてプルシュト（生ハム）やオリーブとともに。",
+    "whatComesOut": [
+      "薄切りまたは三角に切ったハードチーズ",
+      "プルシュト（生ハム）との盛り合わせが多い",
+      "オリーブやパン",
+      "オリーブオイルがかかることも"
+    ],
+    "tasteAndTexture": [
+      "しっかりした塩気と羊乳のコク",
+      "熟成由来のナッツのような旨味",
+      "ほろっと崩れる硬めの食感",
+      "ハーブを思わせる余韻"
+    ],
+    "orderAdvice": "前菜の生ハム・チーズ盛り合わせで頼むのが定番。ペコリーノ系の塩気が好きなら確実に気に入る。白ワインとの相性抜群。",
+    "caution": "乳製品（羊乳）を使用。",
+    "similarItems": [
+      {
+        "id": "pecorino",
+        "name": "ペコリーノ",
+        "difference": "どちらも羊乳ハードチーズ。ペコリーノはイタリア産でより塩気が強いものが多い"
+      },
+      {
+        "name": "マンチェゴ",
+        "difference": "スペインの羊乳チーズ。パシュキ・スィルは島の塩分・ハーブ由来の風味がより個性的"
+      },
+      {
+        "id": "feta",
+        "name": "フェタ",
+        "difference": "フェタは塩水漬けの柔らかいチーズ。パシュキ・スィルは熟成させたハードタイプ"
+      }
+    ],
+    "relatedIds": [
+      "pecorino",
+      "feta",
+      "prosciutto",
+      "skripavac"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Pag_cheese",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine"
+    ],
+    "tags": [
+      "東欧料理",
+      "前菜",
+      "チーズ",
+      "発酵",
+      "香ばしい",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "マイルドなチーズ",
+      "フレッシュチーズ",
+      "塩気控えめ",
+      "牛乳チーズ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/paski-sir/1.jpg",
+      "/images/dishes/paski-sir/2.jpg"
+    ]
+  },
+  {
+    "id": "skripavac",
+    "name": "シュクリパヴァッツ",
+    "kana": "しゅくりぱゔぁっつ",
+    "aliases": [
+      "シュクリパヴァツ"
+    ],
+    "englishName": "Škripavac",
+    "originalName": "Škripavac",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "クロアチア",
+        "area": "リカ地方"
+      }
+    ],
+    "summary": "クロアチア内陸のリカ地方・コルドゥン地方に伝わる牛乳のフレッシュチーズ。噛むとキュッキュッと鳴る独特の食感から「きしむもの」の意の名がついた。",
+    "menuDescription": "リカ地方伝統の牛乳フレッシュチーズ。ほのかな甘みと歯にきしむような弾力ある食感が魅力。生のまま、または焼いてチーズステーキで。",
+    "whatComesOut": [
+      "白く四角い、または丸いフレッシュチーズ",
+      "焼いた場合は焼き目のついたチーズステーキ",
+      "パンや野菜の付け合わせ",
+      "チーズ盛り合わせの一部として出ることも"
+    ],
+    "tasteAndTexture": [
+      "ミルクのほのかな甘み",
+      "塩気は控えめでやさしい味",
+      "キュッキュッと歯にきしむ弾力",
+      "焼くと表面香ばしく中はもっちり"
+    ],
+    "orderAdvice": "クセのないチーズが好きな人向け。ハルミの焼きチーズが好きなら焼いたタイプがおすすめ。内陸部（プリトヴィッツェ周辺）で見かけたら試す価値あり。",
+    "caution": "乳製品（牛乳）を使用。",
+    "similarItems": [
+      {
+        "id": "halloumi",
+        "name": "ハルミ",
+        "difference": "どちらも焼いても溶けにくくキュッキュッとした食感。ハルミはキプロス産で塩気が強い"
+      },
+      {
+        "id": "cottage-cheese",
+        "name": "カッテージチーズ",
+        "difference": "カッテージチーズはポロポロの粒状。シュクリパヴァッツは成形された弾力のあるブロック"
+      },
+      {
+        "id": "paski-sir",
+        "name": "パシュキ・スィル",
+        "difference": "パシュキ・スィルは沿岸の羊乳ハードチーズで塩気強め。シュクリパヴァッツは内陸の牛乳フレッシュチーズでマイルド"
+      }
+    ],
+    "relatedIds": [
+      "halloumi",
+      "cottage-cheese",
+      "paski-sir"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine"
+    ],
+    "tags": [
+      "東欧料理",
+      "前菜",
+      "チーズ",
+      "焼き物",
+      "もちもち",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "熟成チーズ",
+      "ブルーチーズ",
+      "濃厚な塩気",
+      "とろけるチーズ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "salata-od-hobotnice",
+    "name": "サラタ・オド・ホボトニツェ",
+    "kana": "さらたおどほぼとにつぇ",
+    "aliases": [
+      "タコのサラダ",
+      "クロアチア風タコサラダ",
+      "オクトパスサラダ"
+    ],
+    "englishName": "Octopus salad",
+    "originalName": "Salata od hobotnice",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "クロアチア",
+        "area": "ダルマチア地方"
+      }
+    ],
+    "summary": "茹でたアドリア海のタコをぶつ切りにし、オリーブオイル・塩・パセリなどで和えたダルマチア名物の冷菜。クロアチアのシーフード店の定番前菜。",
+    "menuDescription": "柔らかく茹でたアドリア海産のタコを、玉ねぎ・パセリ・オリーブオイル・ワインビネガーで和えたダルマチア風サラダ。",
+    "whatComesOut": [
+      "ぶつ切りの茹でダコ",
+      "刻み玉ねぎ・パセリ",
+      "じゃがいもやトマト、ケッパーが入ることも",
+      "オリーブオイルがたっぷり"
+    ],
+    "tasteAndTexture": [
+      "タコの旨味とむっちりした歯ごたえ",
+      "オリーブオイルとビネガーの爽やかさ",
+      "パセリと玉ねぎのフレッシュな香り",
+      "冷たくさっぱり"
+    ],
+    "orderAdvice": "どの店で頼んでもハズレが少ない鉄板前菜。前菜選びに迷ったらこれ。白ワインと合わせて軽く始めたい時に最適。",
+    "caution": "軟体動物（タコ）を使用。",
+    "similarItems": [
+      {
+        "id": "pulpo-a-feira",
+        "name": "プルポ・ア・フェイラ",
+        "difference": "スペイン・ガリシアの温かい茹でダコでパプリカ粉がけ。こちらは冷たいマリネサラダ"
+      },
+      {
+        "name": "インサラータ・ディ・ポルポ",
+        "difference": "イタリアの同系統のタコサラダ。ほぼ同じ発想で、アドリア海の両岸で食べられる"
+      },
+      {
+        "id": "octopus",
+        "name": "タコ",
+        "difference": "食材としてのタコ全般。こちらはダルマチア流のサラダ料理"
+      }
+    ],
+    "relatedIds": [
+      "octopus",
+      "pulpo-a-feira",
+      "brodet",
+      "crni-rizot"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine"
+    ],
+    "tags": [
+      "東欧料理",
+      "前菜",
+      "サラダ",
+      "魚介",
+      "マリネ",
+      "あっさり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "温かい料理",
+      "肉料理",
+      "こってり",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/salata-od-hobotnice/1.jpg",
+      "/images/dishes/salata-od-hobotnice/2.jpg",
+      "/images/dishes/salata-od-hobotnice/3.jpg"
+    ]
+  },
+  {
+    "id": "fuzi-s-tartufima",
+    "name": "フジ・ス・タルトゥフィマ",
+    "kana": "ふじすたるとぅふぃま",
+    "aliases": [
+      "トリュフのフジ",
+      "フジ",
+      "フーズィ",
+      "Fusi"
+    ],
+    "englishName": "Fuži with truffles",
+    "originalName": "Fuži s tartufima",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "クロアチア",
+        "area": "イストラ地方"
+      },
+      {
+        "country": "スロベニア"
+      }
+    ],
+    "summary": "イストラ半島伝統の手打ちパスタ「フジ」に、地元産トリュフのクリームソースをからめた料理。トリュフの名産地イストラならではの一皿。",
+    "menuDescription": "ひし形に切った生地の両端を合わせて筒状に巻いたイストラ伝統の手打ちパスタ・フジに、イストラ産トリュフをたっぷり削りかけたクリームソース仕立て。",
+    "whatComesOut": [
+      "筒状・リボン状の手打ちパスタ",
+      "クリームまたはバターベースのソース",
+      "上から削ったトリュフ",
+      "量が多く1皿で満腹になることも"
+    ],
+    "tasteAndTexture": [
+      "トリュフの芳醇で土っぽい香り",
+      "クリームのまろやかなコク",
+      "ふわっと軽く、もちっとしたパスタ",
+      "シンプルで素材の香りが主役"
+    ],
+    "orderAdvice": "イストラ半島（ロヴィニ・モトヴン周辺）に行くなら必食。メニューでは「前菜」扱いでも量が多いので、メインと合わせるならシェア推奨。トリュフ量で価格差が大きい。",
+    "caution": "小麦・卵・乳製品を使用。",
+    "similarItems": [
+      {
+        "name": "ガルガネッリ",
+        "difference": "四角い生地を巻いた筋入りの筒パスタ。フジは筋なしでイストラ特有の形"
+      },
+      {
+        "name": "タヤリン・アル・タルトゥーフォ",
+        "difference": "イタリア・ピエモンテの細い卵麺に白トリュフ。フジは筒状の手打ちパスタ"
+      },
+      {
+        "id": "truffle",
+        "name": "トリュフ",
+        "difference": "食材のトリュフそのもの。イストラは黒・白トリュフ両方の産地"
+      }
+    ],
+    "relatedIds": [
+      "truffle",
+      "manestra",
+      "pasticada"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Fusi_(pasta)",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine"
+    ],
+    "tags": [
+      "東欧料理",
+      "パスタ",
+      "小麦",
+      "きのこ",
+      "クリーミー",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "トリュフの香りが苦手",
+      "あっさり",
+      "トマトソース",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "manestra",
+    "name": "マネシュトラ",
+    "kana": "まねしゅとら",
+    "aliases": [
+      "イストラ風ミネストローネ",
+      "マネストラ"
+    ],
+    "englishName": "Maneštra",
+    "originalName": "Maneštra",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "クロアチア",
+        "area": "イストラ地方"
+      }
+    ],
+    "summary": "イストラ半島の家庭の味として親しまれる具だくさんの野菜と豆のスープ。イタリアのミネストローネの親戚で、とうもろこしが入るのが特徴。",
+    "menuDescription": "じゃがいも、にんじん、豆、とうもろこしなどを煮込んだイストラ伝統の具だくさんスープ。燻製肉が入るとメインにもなるボリューム。",
+    "whatComesOut": [
+      "深皿に入った具だくさんのスープ",
+      "豆・じゃがいも・とうもろこし・にんじん",
+      "燻製ベーコンや骨付き肉が入ることも",
+      "パンが添えられる"
+    ],
+    "tasteAndTexture": [
+      "野菜と豆のやさしい甘み",
+      "とろみのある濃厚なスープ",
+      "燻製肉の香り（入る場合）",
+      "体が温まる素朴な味"
+    ],
+    "orderAdvice": "寒い季節のイストラ旅行におすすめ。パンと合わせればこれだけで軽い食事になる。疲れた胃にもやさしい。",
+    "similarItems": [
+      {
+        "id": "minestrone",
+        "name": "ミネストローネ",
+        "difference": "語源・発想は同じ。マネシュトラはとうもろこしや豆が多く、よりとろみがあり食事寄り"
+      },
+      {
+        "name": "ヨータ",
+        "difference": "イストラやトリエステのザワークラウト入り豆スープ。酸味がある"
+      },
+      {
+        "name": "パスタ・エ・ファジョーリ",
+        "difference": "イタリアの豆とパスタのスープ。マネシュトラは野菜ととうもろこしが主体"
+      }
+    ],
+    "relatedIds": [
+      "minestrone",
+      "fuzi-s-tartufima",
+      "brodet"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Mane%C5%A1tra"
+    ],
+    "tags": [
+      "東欧料理",
+      "スープ",
+      "野菜",
+      "豆類",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "肉料理",
+      "こってり",
+      "揚げ物",
+      "冷たい料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "strukli",
+    "name": "シュトゥルクリ",
+    "kana": "しゅとぅるくり",
+    "aliases": [
+      "ザゴリエ風シュトゥルクリ",
+      "ザグレブ風ラザニア",
+      "ザゴルスキ・シュトゥルクリ"
+    ],
+    "englishName": "Zagorski štrukli",
+    "originalName": "Zagorski štrukli",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "クロアチア",
+        "area": "ザゴリエ地方"
+      },
+      {
+        "country": "クロアチア",
+        "locality": "ザグレブ"
+      }
+    ],
+    "summary": "薄くのばした生地でフレッシュチーズと卵を巻き、茹でるかオーブンで焼いたザゴリエ地方の伝統料理。クロアチア人が「正真正銘の伝統料理」と誇る一品。",
+    "menuDescription": "極薄にのばした生地にカッテージチーズ・卵・サワークリームを包んで巻き、クリームをかけてオーブンで焼き上げたザゴリエ地方の郷土料理。茹でてスープ仕立てにすることも。",
+    "whatComesOut": [
+      "グラタン皿で焼かれた巻き生地",
+      "表面に焼き色のついたクリーム",
+      "中にたっぷりのフレッシュチーズ",
+      "茹でタイプはスープやバターがけで"
+    ],
+    "tasteAndTexture": [
+      "濃厚なチーズとクリームのコク",
+      "もちもちの生地",
+      "表面は香ばしく中はしっとり",
+      "塩気はやさしく甘いバージョンも"
+    ],
+    "orderAdvice": "ザグレブに来たら一度は食べたい名物。前菜扱いでもランチ1食分のボリューム。チーズグラタン好きなら間違いなし。",
+    "caution": "小麦・卵・乳製品を多く使用。",
+    "similarItems": [
+      {
+        "id": "lasagna",
+        "name": "ラザニア",
+        "difference": "ガイドブックで「ザグレブ風ラザニア」と呼ばれるが、ミートソースは入らずチーズを巻いた生地が主役"
+      },
+      {
+        "id": "banitsa",
+        "name": "バニツァ",
+        "difference": "ブルガリアのフィロ生地チーズパイ。シュトゥルクリはパスタ状の生地でクリームをかけて焼く"
+      },
+      {
+        "id": "byrek",
+        "name": "ブレク",
+        "difference": "パイ生地の軽食で屋台・パン屋で買う。シュトゥルクリはレストランで食べる焼き料理"
+      }
+    ],
+    "relatedIds": [
+      "lasagna",
+      "banitsa",
+      "byrek",
+      "cottage-cheese",
+      "sour-cream"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Zagorski_%C5%A1trukli",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine"
+    ],
+    "tags": [
+      "東欧料理",
+      "軽食",
+      "チーズ",
+      "小麦",
+      "焼き物",
+      "クリーミー",
+      "もちもち",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "乳製品が苦手",
+      "あっさり",
+      "肉料理",
+      "スパイシー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/strukli/1.jpg",
+      "/images/dishes/strukli/2.jpg",
+      "/images/dishes/strukli/3.jpg"
+    ]
+  },
+  {
+    "id": "zagrebacki-odrezak",
+    "name": "ザグレバチュキ・オドレザク",
+    "kana": "ざぐればちゅきおどれざく",
+    "aliases": [
+      "ザグレブ風カツレツ",
+      "ザグレブ・シュニッツェル"
+    ],
+    "englishName": "Zagreb steak",
+    "originalName": "Zagrebački odrezak",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "クロアチア",
+        "locality": "ザグレブ"
+      }
+    ],
+    "summary": "薄くたたいた仔牛肉や豚肉でハムとチーズを包み、衣をつけてカリッと揚げたザグレブ名物のカツレツ。ウィンナー・シュニッツェルの影響を受けたコルドン・ブルー系の料理。",
+    "menuDescription": "薄くのばした仔牛肉（または豚肉）でハムとチーズを巻き、パン粉をつけてきつね色に揚げたザグレブ名物。ポテトとタルタルソースを添えて。",
+    "whatComesOut": [
+      "大きな平たいカツ、または棒状に巻いたカツ",
+      "中からとろけるチーズとハム",
+      "フライドポテトやポテトサラダ",
+      "レモンやタルタルソース"
+    ],
+    "tasteAndTexture": [
+      "カリッとした衣",
+      "とろけるチーズとハムの塩気",
+      "肉はジューシーで柔らかい",
+      "ボリューム満点でこってり"
+    ],
+    "orderAdvice": "ザグレブで肉料理に迷ったらこれ。日本のチーズカツに近く誰でも食べやすい。量が多いので空腹時に。ビールと好相性。",
+    "caution": "小麦・卵・乳製品を使用。豚肉を使う店もある。",
+    "similarItems": [
+      {
+        "id": "cordon-bleu",
+        "name": "コルドン・ブルー",
+        "difference": "スイス発祥の同系統料理。ザグレブ版は棒状に巻いて出す店もありボリュームが大きい"
+      },
+      {
+        "id": "schnitzel",
+        "name": "シュニッツェル",
+        "difference": "ウィーン風は具なしの薄いカツ。ザグレブ風はハムとチーズを包む"
+      },
+      {
+        "id": "cutlet",
+        "name": "カツレツ",
+        "difference": "日本のカツレツは具なしが基本。ザグレブ風はチーズ入りでよりこってり"
+      }
+    ],
+    "relatedIds": [
+      "cordon-bleu",
+      "schnitzel",
+      "cutlet",
+      "strukli"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine",
+      "https://en.wikipedia.org/wiki/Schnitzel"
+    ],
+    "tags": [
+      "東欧料理",
+      "主菜",
+      "豚肉",
+      "チーズ",
+      "揚げ物",
+      "こってり",
+      "サクサク"
+    ],
+    "reverseKeywords": [
+      "揚げ物が苦手",
+      "あっさり",
+      "魚介",
+      "野菜料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "pasticada",
+    "name": "パシュティツァーダ",
+    "kana": "ぱしゅてぃつぁーだ",
+    "aliases": [
+      "ダルマチア風パシュティツァーダ",
+      "パシュティツァダ"
+    ],
+    "englishName": "Pašticada",
+    "originalName": "Dalmatinska pašticada",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "クロアチア",
+        "area": "ダルマチア地方"
+      }
+    ],
+    "summary": "ニンニクやベーコンを差し込んだ牛肉をワインビネガーでマリネし、赤ワイン・プルーン・甘口ワインのプロシェクで長時間煮込んだダルマチアの祝い料理。甘酸っぱいソースが特徴。",
+    "menuDescription": "一晩ワインビネガーに漬けた牛もも肉を、香味野菜・プルーン・赤ワイン・プロシェクとともに数時間煮込んだダルマチア伝統の煮込み。自家製ニョッキを添えて。",
+    "whatComesOut": [
+      "厚切りの牛肉の煮込み",
+      "濃い茶色の甘酸っぱいソース",
+      "ニョッキ（またはパスタ）",
+      "ソースに溶けた野菜とプルーン"
+    ],
+    "tasteAndTexture": [
+      "とろけるほど柔らかい牛肉",
+      "プルーンとワインの甘酸っぱさ",
+      "クローブなどスパイスの香り",
+      "ソースが濃厚でこってり"
+    ],
+    "orderAdvice": "肉好きなら必食のダルマチア名物。手間のかかる料理なので出す店は限られ、あれば注文する価値大。ニョッキでソースを残さず食べるのが流儀。",
+    "caution": "ワイン・ベーコン（豚肉）を使用。小麦（ニョッキ）。",
+    "similarItems": [
+      {
+        "id": "beef-bourguignon",
+        "name": "ブッフ・ブルギニョン",
+        "difference": "フランスの牛肉の赤ワイン煮込み。パシュティツァーダはプルーンと甘口ワインで甘酸っぱい"
+      },
+      {
+        "name": "ザウアーブラーテン",
+        "difference": "ドイツの酢漬け牛肉の煮込み。マリネの発想は近いがパシュティツァーダはより甘い"
+      },
+      {
+        "id": "goulash",
+        "name": "グーラッシュ",
+        "difference": "パプリカ風味のハンガリーの煮込み。パシュティツァーダは塊肉をスライスして出す"
+      }
+    ],
+    "relatedIds": [
+      "beef-bourguignon",
+      "goulash",
+      "gnocchi",
+      "cobanac",
+      "peka"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Pa%C5%A1ticada"
+    ],
+    "tags": [
+      "東欧料理",
+      "主菜",
+      "牛肉",
+      "煮込み",
+      "マリネ",
+      "甘み",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "甘い料理が苦手",
+      "あっさり",
+      "魚介",
+      "酸味が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pasticada/1.jpg"
+    ]
+  },
+  {
+    "id": "peka",
+    "name": "ペカ",
+    "kana": "ぺか",
+    "aliases": [
+      "イスポド・ペケ",
+      "ポド・ペコム",
+      "ペカ料理"
+    ],
+    "englishName": "Peka",
+    "originalName": "Ispod peke",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "クロアチア",
+        "area": "ダルマチア地方"
+      }
+    ],
+    "summary": "鉄製の鐘形の蓋（ペカ）で食材を覆い、上に炭火をのせて長時間蒸し焼きにするダルマチアの伝統料理。ラム・仔牛・タコなどとじゃがいもを素材の水分だけで調理する。",
+    "menuDescription": "ラム肉や仔牛肉（またはタコ）とじゃがいも、野菜をペカ（鉄の蓋）の下に入れ、炭火で数時間じっくり蒸し焼きにしたダルマチアの名物料理。要予約。",
+    "whatComesOut": [
+      "大皿や鉄鍋ごと出てくる蒸し焼き",
+      "骨付きのラム・仔牛肉、またはタコ",
+      "肉汁を吸ったじゃがいも",
+      "ローズマリーなどのハーブ"
+    ],
+    "tasteAndTexture": [
+      "ほろほろに柔らかい肉",
+      "肉汁とオリーブオイルが染みたじゃがいも",
+      "炭火のスモーキーな香り",
+      "ハーブの素朴な香り"
+    ],
+    "orderAdvice": "調理に2〜3時間かかるため多くの店で事前予約（2人前〜）が必要。グループ旅行の夕食にぴったり。タコのペカも珍しくおすすめ。",
+    "similarItems": [
+      {
+        "name": "サチ",
+        "difference": "ボスニアやセルビアで同じ鉄蓋調理具を指す呼び名。料理の原理は同じ"
+      },
+      {
+        "name": "クレフティコ",
+        "difference": "ギリシャのラム蒸し焼き。紙や窯で封じる。ペカは鉄蓋＋炭火"
+      },
+      {
+        "name": "ダッチオーブン料理",
+        "difference": "鉄鍋の上に炭を置く発想は同じ。ペカは鐘形の蓋で地中海ハーブを使う"
+      }
+    ],
+    "relatedIds": [
+      "lamb",
+      "octopus",
+      "pasticada",
+      "rosemary"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine",
+      "https://en.wikipedia.org/wiki/Sa%C4%8D"
+    ],
+    "tags": [
+      "東欧料理",
+      "主菜",
+      "羊肉",
+      "蒸し料理",
+      "炭火焼き",
+      "ジューシー",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "羊肉が苦手",
+      "すぐ食べたい",
+      "あっさり",
+      "少量"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/peka/1.jpg",
+      "/images/dishes/peka/2.jpg",
+      "/images/dishes/peka/3.jpg"
+    ]
+  },
+  {
+    "id": "punjena-paprika",
+    "name": "プニェナ・パプリカ",
+    "kana": "ぷにぇなぱぷりか",
+    "aliases": [
+      "クロアチア風ピーマンの肉詰め",
+      "パプリカの肉詰め"
+    ],
+    "englishName": "Stuffed peppers",
+    "originalName": "Punjena paprika",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "クロアチア"
+      }
+    ],
+    "summary": "パプリカに米入りの肉だねを詰め、トマトソースで煮込んだクロアチアの家庭料理。冬のサルマ（ロールキャベツ）に対して「夏版サルマ」と呼ばれる。",
+    "menuDescription": "肉厚のパプリカに牛・豚の挽肉と米を詰め、トマトソースでじっくり煮込んだ夏の家庭料理。マッシュポテトを添えて。",
+    "whatComesOut": [
+      "肉だねを詰めた丸ごとパプリカ数個",
+      "トマトソース",
+      "マッシュポテトやパン",
+      "サワークリームが添えられることも"
+    ],
+    "tasteAndTexture": [
+      "くたっと柔らかく甘いパプリカ",
+      "米入りのふんわりした肉だね",
+      "トマトの酸味と甘み",
+      "家庭的でやさしい味"
+    ],
+    "orderAdvice": "日本のピーマンの肉詰めのトマト煮版で親しみやすい。冬はサルマ、夏はこれが定番。両方頼んで食べ比べるのも楽しい。",
+    "caution": "豚肉を使うことが多い。",
+    "similarItems": [
+      {
+        "id": "toltott-paprika",
+        "name": "トゥルトゥット・パプリカ",
+        "difference": "ハンガリー版でほぼ同じ料理。トマトソースがやや甘め"
+      },
+      {
+        "id": "sarmale",
+        "name": "サルマ",
+        "difference": "同じ肉だねを発酵キャベツで巻いた冬版。酸味が強い"
+      },
+      {
+        "id": "dolma",
+        "name": "ドルマ",
+        "difference": "トルコ・中東の詰め物料理全般。オリーブオイル煮の冷製もある"
+      }
+    ],
+    "relatedIds": [
+      "toltott-paprika",
+      "sarmale",
+      "sarmi",
+      "dolma",
+      "paprika"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Stuffed_peppers",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine"
+    ],
+    "tags": [
+      "東欧料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "米",
+      "煮込み",
+      "家庭料理",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "パプリカが苦手",
+      "トマトが苦手",
+      "魚介",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/punjena-paprika/1.jpg",
+      "/images/dishes/punjena-paprika/2.jpg",
+      "/images/dishes/punjena-paprika/3.jpg"
+    ]
+  },
+  {
+    "id": "pljeskavica",
+    "name": "プリェスカヴィッツァ",
+    "kana": "ぷりぇすかゔぃっつぁ",
+    "aliases": [
+      "プレスカヴィツァ",
+      "バルカン風ハンバーグ",
+      "クロアチア風ハンバーグ"
+    ],
+    "englishName": "Pljeskavica",
+    "originalName": "Pljeskavica",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      },
+      {
+        "country": "クロアチア"
+      },
+      {
+        "country": "ボスニア・ヘルツェゴビナ"
+      }
+    ],
+    "summary": "スパイスを混ぜた牛・豚・羊の挽肉を平たく成形して焼いた、バルカン半島で広く愛される大ぶりのハンバーグ。セルビアの国民食の一つ。",
+    "menuDescription": "スパイスを効かせた合い挽き肉を大きく平たく焼き上げたバルカン風ハンバーグ。レピニャ（平パン）、生玉ねぎ、カイマクやアイヴァルを添えて。",
+    "whatComesOut": [
+      "直径20cm前後の平たいハンバーグ",
+      "刻んだ生玉ねぎ",
+      "レピニャ（平パン）に挟まれることも",
+      "アイヴァル（パプリカペースト）やカイマク"
+    ],
+    "tasteAndTexture": [
+      "炭火で焼いた香ばしさ",
+      "肉汁たっぷりでジューシー",
+      "スパイスの効いた大人の味",
+      "肉々しい粗挽きの食感"
+    ],
+    "orderAdvice": "ハンバーグ好きなら確実。パンに挟んだ屋台スタイルは手軽な昼食に、皿盛りはしっかりした夕食に。チェヴァピとセットの肉盛り合わせもある。",
+    "caution": "豚肉・羊肉を含むことが多い。",
+    "similarItems": [
+      {
+        "id": "cevapcici",
+        "name": "チェヴァピ（ケバプチチ）",
+        "difference": "同じ肉だねを小さな棒状にしたもの。プリェスカヴィッツァは大きく平たい"
+      },
+      {
+        "id": "sharska-pljeskavica",
+        "name": "シャルスカ・プレスカヴィツァ",
+        "difference": "チーズ入りのバリエーション"
+      },
+      {
+        "id": "hamburger",
+        "name": "ハンバーガー",
+        "difference": "米国のバーガーより薄く大きく、スパイスと生玉ねぎが効いている"
+      }
+    ],
+    "relatedIds": [
+      "cevapcici",
+      "sharska-pljeskavica",
+      "hamburger",
+      "kofte",
+      "mititei"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Pljeskavica"
+    ],
+    "tags": [
+      "セルビア料理",
+      "主菜",
+      "牛肉",
+      "グリル",
+      "スパイス",
+      "ジューシー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "肉が苦手",
+      "生玉ねぎが苦手",
+      "あっさり",
+      "魚介"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/pljeskavica/1.jpg",
+      "/images/dishes/pljeskavica/2.jpg",
+      "/images/dishes/pljeskavica/3.jpg"
+    ]
+  },
+  {
+    "id": "cobanac",
+    "name": "チョバナツ",
+    "kana": "ちょばなつ",
+    "aliases": [
+      "スラヴォニア風チョバナツ",
+      "羊飼いのシチュー",
+      "チョルバナツ"
+    ],
+    "englishName": "Čobanac",
+    "originalName": "Slavonski čobanac",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "クロアチア",
+        "area": "スラヴォニア地方"
+      }
+    ],
+    "summary": "牛・豚などの肉をパプリカパウダーや唐辛子と長時間煮込んだ、クロアチア東部スラヴォニア地方の郷土シチュー。名前は「羊飼い」に由来する。",
+    "menuDescription": "数種の肉を玉ねぎ、たっぷりのパプリカパウダー、唐辛子とともに大鍋で数時間煮込んだスラヴォニアの伝統シチュー。パンを添えて。",
+    "whatComesOut": [
+      "赤いスープ状のシチュー",
+      "ゴロゴロの牛肉・豚肉（猟肉が入ることも）",
+      "パン",
+      "唐辛子が添えられることも"
+    ],
+    "tasteAndTexture": [
+      "パプリカの濃い香りと赤い色",
+      "唐辛子のじんわりした辛さ",
+      "柔らかく煮込まれた肉",
+      "体が温まる濃厚なスープ"
+    ],
+    "orderAdvice": "冬の内陸旅行（ザグレブ・東部）でおすすめ。グーラッシュ好きなら確実に好み。辛さは店により差があるので苦手なら確認を。",
+    "caution": "豚肉を使用することが多い。唐辛子による辛さあり。",
+    "similarItems": [
+      {
+        "id": "goulash",
+        "name": "グーラッシュ",
+        "difference": "ハンガリーの親戚料理。チョバナツは複数の肉を使い、より辛くスープ状"
+      },
+      {
+        "id": "porkolt",
+        "name": "プルクルト",
+        "difference": "汁気の少ないハンガリーの煮込み。チョバナツはスープ寄り"
+      },
+      {
+        "id": "pasticada",
+        "name": "パシュティツァーダ",
+        "difference": "沿岸ダルマチアの甘酸っぱい牛肉煮込み。チョバナツは内陸のパプリカ煮込み"
+      }
+    ],
+    "relatedIds": [
+      "goulash",
+      "porkolt",
+      "pasticada",
+      "paprika"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine"
+    ],
+    "tags": [
+      "東欧料理",
+      "スープ",
+      "牛肉",
+      "豚肉",
+      "煮込み",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "あっさり",
+      "魚介",
+      "パプリカが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "brodet",
+    "name": "ブロデット",
+    "kana": "ぶろでっと",
+    "aliases": [
+      "ブルデット",
+      "ブロデット・ディ・ペッシェ",
+      "Brudet"
+    ],
+    "englishName": "Brodet",
+    "originalName": "Brodet / Brudet",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "クロアチア",
+        "area": "ダルマチア地方"
+      },
+      {
+        "country": "モンテネグロ"
+      },
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "数種の魚や貝を野菜・ハーブ・ワインとトマトベースで一鍋で煮込んだアドリア海の漁師料理。パレンタ（ポレンタ）を添えて汁を吸わせて食べる。",
+    "menuDescription": "アドリア海の魚介を玉ねぎ・ニンニク・トマト・ワインビネガーとともに一鍋で煮込んだダルマチア伝統の魚介シチュー。パレンタ（ポレンタ）添え。",
+    "whatComesOut": [
+      "鍋や深皿で出る魚介のトマト煮込み",
+      "切り身や骨付きの魚、貝類",
+      "黄色いパレンタ（ポレンタ）",
+      "煮汁はやや少なめでソース状"
+    ],
+    "tasteAndTexture": [
+      "魚介の濃い旨味",
+      "トマトとワインの酸味",
+      "ニンニクとハーブの香り",
+      "ポレンタがソースを吸ってもったり"
+    ],
+    "orderAdvice": "日本人の口によく合う魚介煮込み。骨付きの魚が多いので食べるのに少し手間がかかる。2人前からの店も多い。",
+    "caution": "魚介・貝類を使用。小骨に注意。",
+    "similarItems": [
+      {
+        "id": "bouillabaisse",
+        "name": "ブイヤベース",
+        "difference": "南仏の魚介スープでサフラン風味。ブロデットは汁が少なめでポレンタと食べる"
+      },
+      {
+        "name": "カチュッコ",
+        "difference": "トスカーナの魚介トマト煮込み。パンを添える"
+      },
+      {
+        "id": "polenta",
+        "name": "ポレンタ",
+        "difference": "ブロデットに必ず添えられる付け合わせのトウモロコシ粥"
+      }
+    ],
+    "relatedIds": [
+      "bouillabaisse",
+      "polenta",
+      "salata-od-hobotnice",
+      "skampi-na-buzaru"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Brudet",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine"
+    ],
+    "tags": [
+      "東欧料理",
+      "主菜",
+      "魚介",
+      "貝類",
+      "煮込み",
+      "酸味",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "骨のある魚が苦手",
+      "肉料理",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/brodet/1.jpg",
+      "/images/dishes/brodet/2.jpg",
+      "/images/dishes/brodet/3.jpg"
+    ]
+  },
+  {
+    "id": "skampi-na-buzaru",
+    "name": "シュカンピ・ナ・ブザル",
+    "kana": "しゅかんぴなぶざる",
+    "aliases": [
+      "シュカンピのブザラ",
+      "手長エビのブザラ",
+      "スカンピのブザラ"
+    ],
+    "englishName": "Scampi buzara",
+    "originalName": "Škampi na buzaru",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "クロアチア",
+        "area": "ダルマチア地方"
+      }
+    ],
+    "summary": "アドリア海の手長エビ（スカンピ）を白ワイン・ニンニク・オリーブオイル・パセリで煮込んだダルマチアの「ブザラ」スタイルの料理。日本人旅行者にも人気。",
+    "menuDescription": "殻付きのアドリア海産スカンピを、白ワイン・ニンニク・オリーブオイル・パン粉・パセリ（トマトを加えることも）で蒸し煮にしたブザラ仕立て。パンでソースを拭って。",
+    "whatComesOut": [
+      "殻付きの手長エビが山盛り",
+      "白ワインとニンニクのソース（赤いトマト入りも）",
+      "パセリ",
+      "ソース用のパン"
+    ],
+    "tasteAndTexture": [
+      "エビの甘みと濃い旨味",
+      "ニンニクと白ワインの香り",
+      "殻から染み出たエキスのソース",
+      "身は小ぶりでぷりっと"
+    ],
+    "orderAdvice": "殻が硬く剥きにくいうえに身が小さく、これだけで満腹にはなりにくい。手が汚れる前提でシェアして味見するのがおすすめ。ソースをパンで拭うのが一番の楽しみ。",
+    "caution": "甲殻類（エビ）を使用。",
+    "similarItems": [
+      {
+        "id": "dagnje-na-buzaru",
+        "name": "ダグニェ・ナ・ブザル",
+        "difference": "同じブザラ仕立てのムール貝版。より手頃で食べやすい"
+      },
+      {
+        "name": "ガンバス・アル・アヒージョ",
+        "difference": "スペインのエビのニンニクオイル煮。ブザラはワインで蒸し煮しソースが多め"
+      },
+      {
+        "name": "スカンピのグリル",
+        "difference": "シンプルに焼いた手長エビ。ブザラはソースごと楽しむ"
+      }
+    ],
+    "relatedIds": [
+      "dagnje-na-buzaru",
+      "brodet",
+      "crni-rizot"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine"
+    ],
+    "tags": [
+      "東欧料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "ジューシー",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "甲殻類アレルギー",
+      "手を汚したくない",
+      "肉料理",
+      "ニンニクが苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "dagnje-na-buzaru",
+    "name": "ダグニェ・ナ・ブザル",
+    "kana": "だぐにぇなぶざる",
+    "aliases": [
+      "ムール貝のブザラ",
+      "ムール貝ブザラ"
+    ],
+    "englishName": "Mussels buzara",
+    "originalName": "Dagnje na buzaru",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "クロアチア",
+        "area": "ダルマチア地方"
+      },
+      {
+        "country": "クロアチア",
+        "area": "イストラ地方"
+      }
+    ],
+    "summary": "ムール貝を白ワイン・ニンニク・オリーブオイル・パセリで蒸し煮にしたアドリア海沿岸の定番料理。クロアチアのシーフード店のメニューで頻繁に見かける。",
+    "menuDescription": "アドリア海産のムール貝を白ワイン、ニンニク、オリーブオイル、パン粉、パセリで蒸し煮にしたブザラ仕立て。トマト入りの赤いブザラも。",
+    "whatComesOut": [
+      "殻付きムール貝がボウルいっぱい",
+      "白ワインとニンニクのスープ状ソース",
+      "パセリとパン粉",
+      "ソースに浸すパン"
+    ],
+    "tasteAndTexture": [
+      "貝の旨味が溶けたソース",
+      "ニンニクと白ワインの香り",
+      "小ぶりでぷりっとした身",
+      "あっさりしつつ濃い出汁感"
+    ],
+    "orderAdvice": "ムール貝好きならぜひ。ベルギー産より小ぶりだが味は濃い。前菜として数人でシェアするのにちょうどいい。",
+    "caution": "貝類を使用。生焼けや鮮度に注意。",
+    "similarItems": [
+      {
+        "name": "ムール・マリニエール",
+        "difference": "フランスの白ワイン蒸し。ブザラはオリーブオイルとパン粉でソースにとろみがある"
+      },
+      {
+        "id": "skampi-na-buzaru",
+        "name": "シュカンピ・ナ・ブザル",
+        "difference": "同じブザラ仕立ての手長エビ版。より高価で剥く手間あり"
+      },
+      {
+        "id": "mussel",
+        "name": "ムール貝",
+        "difference": "食材としてのムール貝全般"
+      }
+    ],
+    "relatedIds": [
+      "mussel",
+      "skampi-na-buzaru",
+      "brodet"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine"
+    ],
+    "tags": [
+      "東欧料理",
+      "前菜",
+      "貝類",
+      "蒸し料理",
+      "あっさり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "貝類が苦手",
+      "肉料理",
+      "こってり",
+      "ニンニクが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "crni-rizot",
+    "name": "ツルニ・リジョト",
+    "kana": "つるにりじょと",
+    "aliases": [
+      "イカ墨リゾット",
+      "リジョト・オド・シペ",
+      "黒いリゾット"
+    ],
+    "englishName": "Black risotto",
+    "originalName": "Crni rižot / Rižoto od sipe",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "クロアチア",
+        "area": "ダルマチア地方"
+      }
+    ],
+    "summary": "コウイカ（またはヤリイカ）とその墨で真っ黒に炊き上げたダルマチアのリゾット。クロアチアで日本人に最も人気の米料理。",
+    "menuDescription": "コウイカの身と墨を、玉ねぎ・ニンニク・白ワイン・オリーブオイルとともに米で炊き上げた真っ黒なリゾット。仕上げにパルメザンやパセリを。",
+    "whatComesOut": [
+      "真っ黒なリゾット",
+      "刻んだイカの身",
+      "パセリやパルメザンチーズ",
+      "量はたっぷり"
+    ],
+    "tasteAndTexture": [
+      "イカ墨の濃厚な旨味とコク",
+      "磯の香り",
+      "芯が残る硬めのアルデンテ",
+      "口と歯が黒くなる"
+    ],
+    "orderAdvice": "米が恋しくなった時におすすめ。ただし米はかなり硬めのアルデンテなので柔らかいご飯派は注意。前菜扱いでも量が多く1品で満腹になる。デート前は歯が黒くなるので注意。",
+    "caution": "軟体動物（イカ）を使用。チーズ（乳製品）を加えることも。",
+    "similarItems": [
+      {
+        "id": "arroz-negro",
+        "name": "アロス・ネグロ",
+        "difference": "スペインのイカ墨パエリア。平鍋で焼き付けるのでおこげあり。こちらはクリーミーに炊くリゾット"
+      },
+      {
+        "name": "リゾット・アル・ネーロ・ディ・セッピア",
+        "difference": "ヴェネツィアの同じ料理。アドリア海両岸で共通"
+      },
+      {
+        "id": "calamares-en-su-tinta",
+        "name": "カラマレス・エン・ス・ティンタ",
+        "difference": "イカをイカ墨ソースで煮込んだスペイン料理。米料理ではない"
+      }
+    ],
+    "relatedIds": [
+      "arroz-negro",
+      "calamares-en-su-tinta",
+      "risotto",
+      "squid",
+      "47-12-okinawa"
+    ],
+    "source": [
+      "https://crotabi.com/croatia-foods-21/",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine"
+    ],
+    "tags": [
+      "東欧料理",
+      "ご飯もの",
+      "魚介",
+      "米",
+      "煮込み",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "見た目が気になる",
+      "柔らかいご飯が好き",
+      "肉料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/crni-rizot/1.jpg",
+      "/images/dishes/crni-rizot/2.jpg",
+      "/images/dishes/crni-rizot/3.jpg"
+    ]
+  },
+  {
+    "id": "bibimbap",
+    "name": "ビビンバ",
+    "kana": "びびんば",
+    "aliases": [
+      "ビビンパ",
+      "ビビンパプ",
+      "石焼ビビンバ"
+    ],
+    "englishName": "Bibimbap",
+    "originalName": "비빔밥",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "ご飯の上にナムル・肉・卵などをのせ、コチュジャンを加えてよく混ぜて食べる韓国の代表的なご飯料理。「ビビン」は混ぜる、「パプ」はご飯の意。",
+    "menuDescription": "温かいご飯に数種のナムル、味付け牛肉、目玉焼きを彩りよく盛り付け、コチュジャンとごま油で全体を混ぜていただく韓国の定番ご飯。熱した石鍋で出す石焼ビビンバも。",
+    "whatComesOut": [
+      "ナムル・肉・卵がのった丼または石鍋",
+      "コチュジャン（別添えまたは上に）",
+      "スープ（ワカメスープなど）",
+      "キムチなどのパンチャン（小皿おかず）"
+    ],
+    "tasteAndTexture": [
+      "コチュジャンの甘辛さ",
+      "ごま油の香ばしさ",
+      "ナムルのシャキシャキ感",
+      "石焼はおこげがカリカリ"
+    ],
+    "orderAdvice": "韓国料理初心者の最初の一品に最適。辛さはコチュジャンの量で調整できる。石焼はおこげができるまで少し待ってから混ぜるのがコツ。",
+    "caution": "卵・ごま・大豆（コチュジャン）を使用。石焼は器が非常に熱い。",
+    "similarItems": [
+      {
+        "id": "bokkeumbap",
+        "name": "ポックンパ",
+        "difference": "ポックンパは具材とご飯を炒めた炒飯。ビビンバは炒めずに混ぜる"
+      },
+      {
+        "name": "海鮮丼",
+        "difference": "生の魚介をのせる日本の丼。ビビンバは混ぜて食べる前提"
+      },
+      {
+        "id": "nasi-goreng",
+        "name": "ナシゴレン",
+        "difference": "インドネシアの炒めご飯。ビビンバは混ぜご飯"
+      }
+    ],
+    "relatedIds": [
+      "gochujang",
+      "kimchi",
+      "bokkeumbap",
+      "gimbap",
+      "bulgogi"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Bibimbap"
+    ],
+    "tags": [
+      "韓国料理",
+      "ご飯もの",
+      "米",
+      "野菜",
+      "牛肉",
+      "ピリ辛",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "混ぜて食べるのが苦手",
+      "白いご飯単体",
+      "辛いものが苦手",
+      "洋食"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/bibimbap/1.jpg",
+      "/images/dishes/bibimbap/2.jpg",
+      "/images/dishes/bibimbap/3.jpg"
+    ]
+  },
+  {
+    "id": "gukbap",
+    "name": "クッパ",
+    "kana": "くっぱ",
+    "aliases": [
+      "クッパプ",
+      "韓国風スープご飯"
+    ],
+    "englishName": "Gukbap",
+    "originalName": "국밥",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "熱いスープにご飯を入れて、または一緒に煮て食べる韓国の汁ご飯。トゥッペギ（土鍋）で提供され、豚骨・牛骨・スンデなど種類が多い。",
+    "menuDescription": "じっくり炊いたスープにご飯を合わせ、肉や野菜をのせた韓国の汁ご飯。グツグツの土鍋で。お好みでネギ・アミの塩辛・唐辛子で味を調えて。",
+    "whatComesOut": [
+      "土鍋（トゥッペギ）入りの熱々スープ",
+      "スープに入ったご飯（または別添え）",
+      "肉や野菜の具",
+      "キムチ・カクトゥギ・ネギ・薬味"
+    ],
+    "tasteAndTexture": [
+      "骨スープのコク",
+      "スープを吸ったご飯のやわらかさ",
+      "薬味で自分好みに味変",
+      "体の芯から温まる"
+    ],
+    "orderAdvice": "朝食・シメ・二日酔いの日に最適。辛くない白いスープ系なら初心者向け。テーブルの塩やアミの塩辛で自分で味付けする店が多い。",
+    "similarItems": [
+      {
+        "id": "sundae-gukbap",
+        "name": "スンデクッパ",
+        "difference": "スンデ（腸詰め）や内臓が入るクッパの一種"
+      },
+      {
+        "id": "seolleongtang",
+        "name": "ソルロンタン",
+        "difference": "牛骨スープの白いスープ。ご飯を別に添えて自分で入れる"
+      },
+      {
+        "name": "雑炊",
+        "difference": "日本の雑炊はご飯を煮崩す。クッパはスープとご飯の食感が分かれる"
+      }
+    ],
+    "relatedIds": [
+      "sundae-gukbap",
+      "seolleongtang",
+      "gomtang",
+      "kkakdugi",
+      "kimchi"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Gukbap"
+    ],
+    "tags": [
+      "韓国料理",
+      "ご飯もの",
+      "スープ",
+      "米",
+      "煮込み",
+      "あっさり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "汁気のないご飯",
+      "辛いもの",
+      "揚げ物",
+      "洋食"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/gukbap/1.jpg"
+    ]
+  },
+  {
+    "id": "gimbap",
+    "name": "キンパ",
+    "kana": "きんぱ",
+    "aliases": [
+      "キムパプ",
+      "韓国のり巻き",
+      "Kimbap"
+    ],
+    "englishName": "Gimbap",
+    "originalName": "김밥",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "ごま油と塩で味付けしたご飯と、ほうれん草・たくあん・卵・ハムなどを海苔で巻いた韓国の海苔巻き。ピクニックや軽食の定番。",
+    "menuDescription": "ごま油香るご飯で、ほうれん草・にんじん・たくあん・卵焼き・ハムなどを巻いた韓国式海苔巻き。食べやすく一口サイズにカットして。",
+    "whatComesOut": [
+      "一口大に切った海苔巻き",
+      "断面にカラフルな具",
+      "表面にごまとごま油",
+      "たくあんやキムチが添えられることも"
+    ],
+    "tasteAndTexture": [
+      "ごま油の香ばしさ",
+      "酢を使わないご飯のやさしい塩味",
+      "具の多彩な食感",
+      "冷めてもおいしい"
+    ],
+    "orderAdvice": "辛くなく誰でも食べやすい。トッポッキと一緒に頼むのが韓国の定番。テイクアウトにも向く。",
+    "caution": "卵・ごま・加工肉を使用することが多い。",
+    "similarItems": [
+      {
+        "name": "太巻き",
+        "difference": "日本の太巻きは酢飯。キンパはごま油と塩で味付けしたご飯"
+      },
+      {
+        "id": "onigiri",
+        "name": "おにぎり",
+        "difference": "同じく手軽な軽食だが、キンパは具を巻いて断面を見せる"
+      },
+      {
+        "id": "jumeokbap",
+        "name": "チュモッパ",
+        "difference": "韓国のおにぎり。具を混ぜて丸める"
+      }
+    ],
+    "relatedIds": [
+      "tteokbokki",
+      "jumeokbap",
+      "onigiri",
+      "bibimbap"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Gimbap"
+    ],
+    "tags": [
+      "韓国料理",
+      "軽食",
+      "ご飯もの",
+      "米",
+      "野菜",
+      "あっさり",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "海苔が苦手",
+      "温かい料理",
+      "こってり",
+      "辛いもの"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gimbap/1.jpg",
+      "/images/dishes/gimbap/2.jpg",
+      "/images/dishes/gimbap/3.jpg"
+    ]
+  },
+  {
+    "id": "bokkeumbap",
+    "name": "ポックンパ",
+    "kana": "ぽっくんぱ",
+    "aliases": [
+      "ポックムパプ",
+      "キムチポックンパ",
+      "韓国風チャーハン"
+    ],
+    "englishName": "Bokkeum-bap",
+    "originalName": "볶음밥",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "ご飯を具材と一緒に油で炒めた韓国式チャーハン。キムチを使ったキムチポックンパが代表的で、鍋料理のシメに残り汁で作ることも多い。",
+    "menuDescription": "刻んだキムチと豚肉をごま油で炒め、ご飯と合わせて香ばしく仕上げた韓国風チャーハン。目玉焼きと海苔をトッピングして。",
+    "whatComesOut": [
+      "皿や鉄板に盛られた炒めご飯",
+      "目玉焼きがのることが多い",
+      "刻み海苔やごま",
+      "鍋のシメなら鍋底で直接炒める"
+    ],
+    "tasteAndTexture": [
+      "キムチの酸味と辛さ",
+      "ごま油の香ばしさ",
+      "鍋底のおこげ",
+      "半熟卵でまろやかに"
+    ],
+    "orderAdvice": "タッカルビやプデチゲのシメに頼むのが韓国流。単品ならキムチポックンパが定番。辛さは中程度。",
+    "caution": "卵・ごまを使用。",
+    "similarItems": [
+      {
+        "name": "チャーハン",
+        "difference": "中国式炒飯。ポックンパはキムチやコチュジャンで味付けすることが多い"
+      },
+      {
+        "id": "nasi-goreng",
+        "name": "ナシゴレン",
+        "difference": "インドネシアのサンバル入り炒めご飯"
+      },
+      {
+        "id": "bibimbap",
+        "name": "ビビンバ",
+        "difference": "ビビンバは炒めずに混ぜて食べる"
+      }
+    ],
+    "relatedIds": [
+      "kimchi",
+      "bibimbap",
+      "dak-galbi",
+      "budae-jjigae",
+      "nasi-goreng"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Bokkeum-bap"
+    ],
+    "tags": [
+      "韓国料理",
+      "ご飯もの",
+      "米",
+      "炒め物",
+      "ピリ辛",
+      "香ばしい",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "油っこいもの",
+      "キムチが苦手",
+      "あっさりしたご飯",
+      "白ご飯派"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/bokkeumbap/1.jpg"
+    ]
+  },
+  {
+    "id": "bibim-guksu",
+    "name": "ビビン麺",
+    "kana": "びびんめん",
+    "aliases": [
+      "ビビングクス",
+      "ピビングクス",
+      "ビビンミョン"
+    ],
+    "englishName": "Bibim-guksu",
+    "originalName": "비빔국수",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "冷たい細麺を甘辛酸っぱいコチュジャンだれで和えた韓国の汁なし麺。夏に人気の定番料理。",
+    "menuDescription": "冷水で締めた細麺を、コチュジャン・酢・砂糖・ごま油の甘辛だれで和え、きゅうり・キムチ・ゆで卵をのせた冷たい混ぜ麺。",
+    "whatComesOut": [
+      "赤いたれのかかった冷たい細麺",
+      "千切りきゅうりやキムチ",
+      "ゆで卵半分",
+      "ごまのトッピング"
+    ],
+    "tasteAndTexture": [
+      "甘・辛・酸のバランス",
+      "冷たくつるっとした麺",
+      "きゅうりのシャキシャキ感",
+      "食欲のない夏でも食べやすい"
+    ],
+    "orderAdvice": "辛いもの好き・暑い日におすすめ。見た目ほど辛くなく甘酸っぱさが強い。焼肉の後のシメにも人気。",
+    "caution": "小麦・卵・ごまを使用。",
+    "similarItems": [
+      {
+        "id": "naengmyeon",
+        "name": "冷麺",
+        "difference": "冷麺はそば粉などのコシの強い麺で、汁ありのムルネンミョンが代表"
+      },
+      {
+        "id": "hiyashi-chuka",
+        "name": "冷やし中華",
+        "difference": "日本の冷やし中華は酢醤油だれで辛くない"
+      },
+      {
+        "id": "somen",
+        "name": "そうめん",
+        "difference": "同じ細麺だがつゆにつけて食べる"
+      }
+    ],
+    "relatedIds": [
+      "naengmyeon",
+      "gochujang",
+      "hiyashi-chuka",
+      "somen",
+      "kalguksu"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Bibim-guksu"
+    ],
+    "tags": [
+      "韓国料理",
+      "麺料理",
+      "小麦",
+      "ピリ辛",
+      "酸味",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "温かい麺",
+      "汁あり麺",
+      "酸っぱいもの"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/bibim-guksu/1.jpg",
+      "/images/dishes/bibim-guksu/2.jpg"
+    ]
+  },
+  {
+    "id": "jjajangmyeon",
+    "name": "チャジャンミョン",
+    "kana": "ちゃじゃんみょん",
+    "aliases": [
+      "ジャージャー麺（韓国）",
+      "チャジャン麺",
+      "韓国風ジャージャー麺"
+    ],
+    "englishName": "Jjajangmyeon",
+    "originalName": "짜장면",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "黒い春醤（チュンジャン）と豚肉・玉ねぎを炒めたとろみのあるソースを太麺にかけた韓国式中華料理。中国の炸醤麺が韓国で独自に発展した国民食。",
+    "menuDescription": "黒味噌（チュンジャン）で豚肉と玉ねぎ・じゃがいもを炒め、とろみをつけた甘めのソースをもちもちの太麺に。たくあんと生玉ねぎを添えて。",
+    "whatComesOut": [
+      "黒いソースがたっぷりかかった太麺",
+      "きゅうりの千切り",
+      "たくあん・生玉ねぎ・チュンジャン",
+      "混ぜて食べる"
+    ],
+    "tasteAndTexture": [
+      "甘じょっぱい黒味噌の濃い味",
+      "もちもちの太麺",
+      "玉ねぎの甘み",
+      "辛さはなし"
+    ],
+    "orderAdvice": "辛くない韓国料理を探しているならこれ。中華料理店（韓国中華）で食べるのが本場流。口の周りが黒くなるので注意。",
+    "caution": "小麦・大豆・豚肉を使用。",
+    "similarItems": [
+      {
+        "id": "zhajiangmian",
+        "name": "炸醤麺",
+        "difference": "中国・北京の原型は塩辛い肉味噌を少量のせる。韓国版は甘く汁気の多い黒いソース"
+      },
+      {
+        "id": "kalguksu",
+        "name": "カルグクス",
+        "difference": "同じ小麦麺だがスープ麺"
+      },
+      {
+        "name": "チャンポン（韓国）",
+        "difference": "韓国中華で人気を二分する真っ赤な辛い海鮮スープ麺"
+      }
+    ],
+    "relatedIds": [
+      "zhajiangmian",
+      "bibim-guksu",
+      "kalguksu",
+      "mapo-tofu"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Jjajangmyeon"
+    ],
+    "tags": [
+      "韓国料理",
+      "麺料理",
+      "小麦",
+      "豚肉",
+      "炒め物",
+      "甘み",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "甘い味付けが苦手",
+      "あっさり麺",
+      "スープ麺",
+      "辛いもの好き"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/jjajangmyeon/1.jpg",
+      "/images/dishes/jjajangmyeon/2.jpg",
+      "/images/dishes/jjajangmyeon/3.jpg"
+    ]
+  },
+  {
+    "id": "kalguksu",
+    "name": "カルグクス",
+    "kana": "かるぐくす",
+    "aliases": [
+      "韓国式手打ちうどん",
+      "包丁麺"
+    ],
+    "englishName": "Kal-guksu",
+    "originalName": "칼국수",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "包丁（カル）で切った手打ちの小麦麺を、煮干しやアサリ、鶏などのスープで煮込んだ韓国の麺料理。",
+    "menuDescription": "手打ちで包丁切りしたもちもちの麺を、アサリと煮干しのスープで煮込み、ズッキーニ・ネギを加えた素朴な麺料理。キムチとともに。",
+    "whatComesOut": [
+      "大きな器に入ったスープ麺",
+      "アサリや鶏肉の具",
+      "ズッキーニ・じゃがいも・ネギ",
+      "浅漬けキムチ（コッチョリ）"
+    ],
+    "tasteAndTexture": [
+      "魚介や鶏のやさしい出汁",
+      "麺から出たとろみ",
+      "平たくもちもちの麺",
+      "辛くないあっさり味"
+    ],
+    "orderAdvice": "辛い料理に疲れた時に最適。アサリのカルグクス（パジラク・カルグクス）が人気。添えられたキムチと一緒に食べるのが流儀。",
+    "caution": "小麦・貝類を使用することが多い。",
+    "similarItems": [
+      {
+        "id": "udon",
+        "name": "うどん",
+        "difference": "うどんは麺を茹でてからつゆに入れる。カルグクスはスープで直接煮込むのでとろみがある"
+      },
+      {
+        "id": "kishimen",
+        "name": "きしめん",
+        "difference": "平たい麺の形が似ている"
+      },
+      {
+        "id": "dak-hanmari",
+        "name": "タッカンマリ",
+        "difference": "タッカンマリのシメにカルグクスの麺を入れるのが定番"
+      }
+    ],
+    "relatedIds": [
+      "udon",
+      "kishimen",
+      "dak-hanmari",
+      "kimchi",
+      "jjajangmyeon"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Kal-guksu"
+    ],
+    "tags": [
+      "韓国料理",
+      "麺料理",
+      "小麦",
+      "貝類",
+      "煮込み",
+      "あっさり",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "辛いもの好き",
+      "冷たい麺",
+      "コシの強い麺",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kalguksu/1.jpg",
+      "/images/dishes/kalguksu/2.jpg",
+      "/images/dishes/kalguksu/3.jpg"
+    ]
+  },
+  {
+    "id": "samgyeopsal",
+    "name": "サムギョプサル",
+    "kana": "さむぎょぷさる",
+    "aliases": [
+      "サムギョプサルグイ",
+      "豚バラ焼肉"
+    ],
+    "englishName": "Samgyeopsal",
+    "originalName": "삼겹살",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "厚切りの豚バラ肉を鉄板で焼き、サンチュやエゴマの葉で包んで食べる韓国の焼肉。「三層の肉」の意で、脂と赤身の層が名の由来。",
+    "menuDescription": "厚切りの豚バラ肉を卓上の鉄板でこんがり焼き、ハサミで切ってサンチュに包み、サムジャン・ニンニク・キムチとともに頬張る韓国焼肉の王道。",
+    "whatComesOut": [
+      "厚切りの生豚バラ肉",
+      "卓上鉄板（キムチやニンニクも一緒に焼く）",
+      "サンチュ・エゴマの葉",
+      "サムジャン・ごま油塩・ネギサラダ",
+      "パンチャン数種"
+    ],
+    "tasteAndTexture": [
+      "カリッと焼けた脂の香ばしさ",
+      "ジューシーな豚肉の旨味",
+      "葉野菜で包むとさっぱり",
+      "焼きキムチの酸味が合う"
+    ],
+    "orderAdvice": "韓国焼肉の入門に最適。通常2人前から注文。店員が焼いてくれる店も多い。シメにポックンパやテンジャンチゲを。",
+    "caution": "豚肉を使用。脂が多くこってり。",
+    "similarItems": [
+      {
+        "id": "karubi",
+        "name": "カルビ",
+        "difference": "カルビは牛（または豚）のあばら肉で、タレに漬けて焼くことが多い。サムギョプサルは味付けなし"
+      },
+      {
+        "id": "bulgogi",
+        "name": "プルコギ",
+        "difference": "プルコギは甘辛く漬け込んだ薄切り牛肉"
+      },
+      {
+        "id": "bossam",
+        "name": "ポッサム",
+        "difference": "ポッサムは豚バラを茹でたもの。サムギョプサルは焼く"
+      }
+    ],
+    "relatedIds": [
+      "ssamjang",
+      "karubi",
+      "bulgogi",
+      "bossam",
+      "kimchi",
+      "doenjang-jjigae"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Samgyeopsal"
+    ],
+    "tags": [
+      "韓国料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "こってり",
+      "ジューシー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "脂身が苦手",
+      "豚肉不可",
+      "あっさり",
+      "魚介"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/samgyeopsal/1.jpg",
+      "/images/dishes/samgyeopsal/2.jpg",
+      "/images/dishes/samgyeopsal/3.jpg"
+    ]
+  },
+  {
+    "id": "bulgogi",
+    "name": "プルコギ",
+    "kana": "ぷるこぎ",
+    "aliases": [
+      "韓国風すき焼き",
+      "ブルゴギ"
+    ],
+    "englishName": "Bulgogi",
+    "originalName": "불고기",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "薄切り牛肉を醤油・砂糖・ニンニク・梨などの甘いタレに漬け込み、野菜と一緒に焼いたり煮たりする韓国の代表的な肉料理。「火の肉」の意。",
+    "menuDescription": "醤油ベースの甘いタレにじっくり漬け込んだ薄切り牛肉を、玉ねぎ・ネギ・きのこと一緒に専用鍋で焼き煮にした韓国の伝統料理。",
+    "whatComesOut": [
+      "タレに漬けた薄切り牛肉と野菜",
+      "中央が盛り上がった専用鍋や鉄板",
+      "春雨（タンミョン）が入ることも",
+      "サンチュやご飯"
+    ],
+    "tasteAndTexture": [
+      "甘じょっぱいタレの味",
+      "やわらかい薄切り肉",
+      "肉汁と野菜の甘みが溶けた汁",
+      "辛くない"
+    ],
+    "orderAdvice": "辛くない韓国料理の代表格で、子どもや辛いものが苦手な人にも最適。ご飯が進む味。",
+    "caution": "大豆（醤油）・ごまを使用。",
+    "similarItems": [
+      {
+        "id": "sukiyaki",
+        "name": "すき焼き",
+        "difference": "どちらも甘辛い牛肉料理。プルコギはニンニクとごま油が効き、卵につけない"
+      },
+      {
+        "id": "karubi",
+        "name": "カルビ",
+        "difference": "カルビは骨付きや厚めのあばら肉を焼く"
+      },
+      {
+        "id": "samgyeopsal",
+        "name": "サムギョプサル",
+        "difference": "サムギョプサルは味付けなしの豚バラ焼き"
+      }
+    ],
+    "relatedIds": [
+      "sukiyaki",
+      "karubi",
+      "samgyeopsal",
+      "japchae",
+      "bibimbap"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Bulgogi"
+    ],
+    "tags": [
+      "韓国料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "マリネ",
+      "甘み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "甘い味付けが苦手",
+      "辛いもの好き",
+      "魚介",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bulgogi/1.jpg",
+      "/images/dishes/bulgogi/2.jpg",
+      "/images/dishes/bulgogi/3.jpg"
+    ]
+  },
+  {
+    "id": "dak-galbi",
+    "name": "タッカルビ",
+    "kana": "たっかるび",
+    "aliases": [
+      "チーズタッカルビ",
+      "春川タッカルビ"
+    ],
+    "englishName": "Dak-galbi",
+    "originalName": "닭갈비",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国",
+        "locality": "春川"
+      }
+    ],
+    "summary": "コチュジャンベースの甘辛だれに漬けた鶏肉を、キャベツ・さつまいも・トッポギなどと鉄板で炒める韓国の料理。春川（チュンチョン）名物。",
+    "menuDescription": "コチュジャンだれに漬け込んだ鶏もも肉をキャベツ・さつまいも・エゴマの葉・トック（餅）と大きな鉄板で豪快に炒めた春川名物。チーズトッピングも人気。",
+    "whatComesOut": [
+      "大きな丸い鉄板",
+      "赤いたれの鶏肉と野菜・餅",
+      "チーズトッピング（チーズタッカルビ）",
+      "シメのポックンパやうどん"
+    ],
+    "tasteAndTexture": [
+      "コチュジャンの甘辛さ",
+      "やわらかい鶏もも肉",
+      "トックのもちもち感",
+      "チーズでまろやかに"
+    ],
+    "orderAdvice": "2人以上で鉄板を囲むのが基本。辛さはチーズ追加でマイルドにできる。シメのポックンパまでがセット。",
+    "caution": "大豆・小麦（コチュジャン、トック）を使用。チーズ追加で乳製品。",
+    "similarItems": [
+      {
+        "id": "bulgogi",
+        "name": "プルコギ",
+        "difference": "プルコギは牛肉で甘い醤油味。タッカルビは鶏肉で甘辛いコチュジャン味"
+      },
+      {
+        "id": "tteokbokki",
+        "name": "トッポッキ",
+        "difference": "トッポッキは餅が主役の甘辛煮"
+      },
+      {
+        "name": "チャンチャン焼き",
+        "difference": "北海道の鮭と野菜の味噌鉄板焼き。囲んで食べる形式が似ている"
+      }
+    ],
+    "relatedIds": [
+      "gochujang",
+      "tteokbokki",
+      "bulgogi",
+      "bokkeumbap"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Dak-galbi"
+    ],
+    "tags": [
+      "韓国料理",
+      "主菜",
+      "鶏肉",
+      "野菜",
+      "炒め物",
+      "ピリ辛",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "鶏肉不可",
+      "あっさり",
+      "1人で食事"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/dak-galbi/1.jpg"
+    ]
+  },
+  {
+    "id": "sundae-gukbap",
+    "name": "スンデクッパ",
+    "kana": "すんでくっぱ",
+    "aliases": [
+      "スンデクク",
+      "スンデクッパプ"
+    ],
+    "englishName": "Sundae-gukbap",
+    "originalName": "순대국밥",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "豚骨スープに韓国の腸詰め「スンデ」と豚の内臓・頭肉を入れ、ご飯を合わせた庶民的なクッパ。",
+    "menuDescription": "豚骨をじっくり煮出した白濁スープに、春雨と豚の血を詰めたスンデ、豚モツ・頭肉をたっぷり入れたクッパ。エゴマ粉・アミの塩辛・ニラで味を調えて。",
+    "whatComesOut": [
+      "土鍋の熱々白濁スープ",
+      "輪切りのスンデと豚モツ・頭肉",
+      "ご飯（スープに入れる）",
+      "アミの塩辛・ニラ和え・唐辛子味噌"
+    ],
+    "tasteAndTexture": [
+      "濃厚な豚骨スープ",
+      "スンデのもっちり感",
+      "内臓の独特な食感と風味",
+      "エゴマ粉でさらにコク"
+    ],
+    "orderAdvice": "内臓料理が平気なら韓国の庶民の味として絶品。内臓が苦手ならスンデのみ（スンデマン）を指定できる店もある。安くて満腹になる。",
+    "caution": "豚の内臓・血を使用。",
+    "similarItems": [
+      {
+        "id": "gukbap",
+        "name": "クッパ",
+        "difference": "クッパ全般。スンデクッパはその代表的な一種"
+      },
+      {
+        "id": "gamjatang",
+        "name": "カムジャタン",
+        "difference": "豚背骨とじゃがいもの辛い鍋。スンデクッパは辛くない白いスープ"
+      },
+      {
+        "name": "とんこつラーメン",
+        "difference": "豚骨白湯の濃厚さが近い"
+      }
+    ],
+    "relatedIds": [
+      "gukbap",
+      "gamjatang",
+      "kopchang",
+      "blood-sausage",
+      "kkakdugi"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Gukbap",
+      "https://en.wikipedia.org/wiki/Sundae_(sausage)"
+    ],
+    "tags": [
+      "韓国料理",
+      "ご飯もの",
+      "スープ",
+      "豚肉",
+      "煮込み",
+      "こってり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "内臓が苦手",
+      "豚肉不可",
+      "あっさり",
+      "洋食"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "yangnyeom-chicken",
+    "name": "ヤンニョムチキン",
+    "kana": "やんにょむちきん",
+    "aliases": [
+      "韓国風甘辛チキン",
+      "ヤンニョムチキン（韓国チキン）"
+    ],
+    "englishName": "Yangnyeom chicken",
+    "originalName": "양념치킨",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "カリッと二度揚げした鶏肉に、コチュジャン・ニンニク・砂糖などの甘辛いタレを絡めた韓国のフライドチキン。ビールと合わせた「チメク」が定番。",
+    "menuDescription": "二度揚げでサクサクに仕上げた骨付き鶏肉に、コチュジャン・水飴・ニンニクの艶やかな甘辛ソースをたっぷり絡めて。大根の甘酢漬けを添えて。",
+    "whatComesOut": [
+      "赤いソースを絡めたフライドチキン",
+      "大根の甘酢漬け（チキンム）",
+      "ごまやナッツのトッピング",
+      "プレーン（フライド）と半々の「パンパン」も"
+    ],
+    "tasteAndTexture": [
+      "甘辛く濃厚なソース",
+      "ソースを絡めてもサクッとした衣",
+      "ジューシーな鶏肉",
+      "後を引くニンニクの香り"
+    ],
+    "orderAdvice": "ビール（チメク）と一緒が最高。甘さが強く辛さはマイルド。迷ったらフライドと半々のハーフ＆ハーフを。",
+    "caution": "小麦・大豆・ごまを使用。",
+    "similarItems": [
+      {
+        "id": "karaage",
+        "name": "唐揚げ",
+        "difference": "唐揚げは下味をつけて揚げる。ヤンニョムチキンは揚げた後に甘辛ソースを絡める"
+      },
+      {
+        "name": "バッファローウイング",
+        "difference": "アメリカのホットソース絡めチキン。ヤンニョムは甘みが強い"
+      },
+      {
+        "name": "フライドチキン",
+        "difference": "韓国ではソースなしのフライドが対になるメニュー"
+      }
+    ],
+    "relatedIds": [
+      "karaage",
+      "gochujang",
+      "dak-galbi",
+      "makgeolli"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Yangnyeom_chicken"
+    ],
+    "tags": [
+      "韓国料理",
+      "主菜",
+      "鶏肉",
+      "揚げ物",
+      "甘み",
+      "ピリ辛",
+      "サクサク"
+    ],
+    "reverseKeywords": [
+      "揚げ物が苦手",
+      "甘い味付けが苦手",
+      "あっさり",
+      "鶏肉不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/yangnyeom-chicken/1.jpg",
+      "/images/dishes/yangnyeom-chicken/2.jpg",
+      "/images/dishes/yangnyeom-chicken/3.jpg"
+    ]
+  },
+  {
+    "id": "kimchi-jjigae",
+    "name": "キムチチゲ",
+    "kana": "きむちちげ",
+    "aliases": [
+      "キムチ鍋",
+      "キムチチゲ鍋"
+    ],
+    "englishName": "Kimchi-jjigae",
+    "originalName": "김치찌개",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "よく発酵したキムチと豚肉・豆腐・ネギなどを煮込んだ韓国で最も一般的なチゲ（鍋料理）。家庭の定番。",
+    "menuDescription": "熟成キムチと豚肉をごま油で炒め、豆腐・玉ねぎ・ネギとともに煮込んだ辛くて酸味のある韓国の家庭の鍋。ご飯と一緒に。",
+    "whatComesOut": [
+      "1人用土鍋のグツグツの赤いスープ",
+      "キムチ・豚肉・豆腐",
+      "ご飯",
+      "パンチャン数種"
+    ],
+    "tasteAndTexture": [
+      "発酵キムチの酸味と辛さ",
+      "豚肉の旨味",
+      "やわらかい豆腐",
+      "ご飯が進む濃い味"
+    ],
+    "orderAdvice": "韓国の定食屋の定番。酸味のあるキムチ好きなら確実。辛さはそれなりにあるので苦手な人はテンジャンチゲを。",
+    "caution": "豚肉・大豆（豆腐）・魚介（キムチの塩辛）を含む。",
+    "similarItems": [
+      {
+        "id": "sundubu-jjigae",
+        "name": "スンドゥブチゲ",
+        "difference": "スンドゥブはおぼろ豆腐が主役で魚介が入ることが多い"
+      },
+      {
+        "id": "doenjang-jjigae",
+        "name": "テンジャンチゲ",
+        "difference": "テンジャンは味噌ベースで辛さ控えめ"
+      },
+      {
+        "id": "budae-jjigae",
+        "name": "プデチゲ",
+        "difference": "プデチゲはソーセージ・スパム・ラーメンが入る"
+      }
+    ],
+    "relatedIds": [
+      "kimchi",
+      "sundubu-jjigae",
+      "doenjang-jjigae",
+      "budae-jjigae",
+      "bokkeumbap"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Kimchi-jjigae"
+    ],
+    "tags": [
+      "韓国料理",
+      "鍋料理",
+      "スープ",
+      "野菜",
+      "豚肉",
+      "煮込み",
+      "ピリ辛",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "発酵食品が苦手",
+      "あっさり",
+      "洋食"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/kimchi-jjigae/1.jpg",
+      "/images/dishes/kimchi-jjigae/2.jpg",
+      "/images/dishes/kimchi-jjigae/3.jpg"
+    ]
+  },
+  {
+    "id": "sundubu-jjigae",
+    "name": "スンドゥブチゲ",
+    "kana": "すんどぅぶちげ",
+    "aliases": [
+      "スンドゥブ",
+      "純豆腐チゲ"
+    ],
+    "englishName": "Sundubu-jjigae",
+    "originalName": "순두부찌개",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "固める前のやわらかいおぼろ豆腐（スンドゥブ）を、魚介や肉と辛いスープで煮込んだ韓国のチゲ。仕上げに生卵を落とす。",
+    "menuDescription": "ふるふるのおぼろ豆腐を、アサリや豚肉、唐辛子のスープで煮立て、熱々の土鍋に生卵を落としていただく韓国の豆腐鍋。",
+    "whatComesOut": [
+      "グツグツ煮立った土鍋",
+      "やわらかい白い豆腐",
+      "アサリ・エビ・豚肉など",
+      "生卵（自分で落とす）とご飯"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の辛さと魚介の旨味",
+      "とろけるような豆腐",
+      "卵でまろやかに",
+      "熱々で体が温まる"
+    ],
+    "orderAdvice": "辛さを選べる店が多く、初心者は「マイルド」から。日本でも定番化しており食べやすい。ダイエット中の満足感にも。",
+    "caution": "大豆（豆腐）・卵・魚介・貝類を使用することが多い。",
+    "similarItems": [
+      {
+        "id": "kimchi-jjigae",
+        "name": "キムチチゲ",
+        "difference": "キムチの酸味が主役。スンドゥブは豆腐が主役"
+      },
+      {
+        "id": "mapo-tofu",
+        "name": "麻婆豆腐",
+        "difference": "中国の豆腐料理で花椒のしびれがある。スンドゥブはスープ状"
+      },
+      {
+        "id": "doenjang-jjigae",
+        "name": "テンジャンチゲ",
+        "difference": "味噌ベースの辛さ控えめのチゲ"
+      }
+    ],
+    "relatedIds": [
+      "kimchi-jjigae",
+      "doenjang-jjigae",
+      "mapo-tofu",
+      "gochujang"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Sundubu-jjigae"
+    ],
+    "tags": [
+      "韓国料理",
+      "鍋料理",
+      "スープ",
+      "豆類",
+      "魚介",
+      "煮込み",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "豆腐が苦手",
+      "冷たい料理",
+      "こってり肉料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/sundubu-jjigae/1.jpg",
+      "/images/dishes/sundubu-jjigae/2.jpg",
+      "/images/dishes/sundubu-jjigae/3.jpg"
+    ]
+  },
+  {
+    "id": "doenjang-jjigae",
+    "name": "テンジャンチゲ",
+    "kana": "てんじゃんちげ",
+    "aliases": [
+      "韓国味噌チゲ",
+      "テンジャン鍋"
+    ],
+    "englishName": "Doenjang-jjigae",
+    "originalName": "된장찌개",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "韓国の味噌テンジャンをベースに、豆腐・ズッキーニ・じゃがいも・きのこなどを煮込んだ韓国の家庭の味噌鍋。日本の味噌汁に相当する日常食。",
+    "menuDescription": "コク深い韓国味噌（テンジャン）に煮干し出汁を合わせ、豆腐・ズッキーニ・じゃがいも・青唐辛子を煮込んだ素朴な味噌チゲ。",
+    "whatComesOut": [
+      "土鍋の茶色い味噌スープ",
+      "豆腐・ズッキーニ・じゃがいも・きのこ",
+      "アサリや牛肉が入ることも",
+      "ご飯"
+    ],
+    "tasteAndTexture": [
+      "日本の味噌より濃く発酵香が強い",
+      "野菜のやさしい甘み",
+      "青唐辛子のほのかな辛さ",
+      "ご飯に合う塩気"
+    ],
+    "orderAdvice": "辛いのが苦手な人のチゲはこれ。焼肉のシメやサイドで頼まれることも多い。味噌の香りがやや強め。",
+    "caution": "大豆を使用。魚介出汁の場合あり。",
+    "similarItems": [
+      {
+        "name": "味噌汁",
+        "difference": "日本の味噌汁より具が多く濃く、鍋料理として食べる"
+      },
+      {
+        "id": "kimchi-jjigae",
+        "name": "キムチチゲ",
+        "difference": "キムチベースで辛く酸味がある"
+      },
+      {
+        "id": "sundubu-jjigae",
+        "name": "スンドゥブチゲ",
+        "difference": "おぼろ豆腐の辛いチゲ"
+      }
+    ],
+    "relatedIds": [
+      "kimchi-jjigae",
+      "sundubu-jjigae",
+      "meju",
+      "samgyeopsal",
+      "ssamjang"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Doenjang-jjigae"
+    ],
+    "tags": [
+      "韓国料理",
+      "鍋料理",
+      "スープ",
+      "豆類",
+      "野菜",
+      "発酵",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "発酵臭が苦手",
+      "辛いもの好き",
+      "肉料理",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/doenjang-jjigae/1.jpg",
+      "/images/dishes/doenjang-jjigae/2.jpg",
+      "/images/dishes/doenjang-jjigae/3.jpg"
+    ]
+  },
+  {
+    "id": "yangnyeom-gejang",
+    "name": "ヤンニョムケジャン",
+    "kana": "やんにょむけじゃん",
+    "aliases": [
+      "ヤンニョムケジャン（カニの辛味漬け）"
+    ],
+    "englishName": "Yangnyeom-gejang",
+    "originalName": "양념게장",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "生のワタリガニを唐辛子粉・ニンニク・醤油・水飴の甘辛ダレに漬け込んだ韓国の料理。「ご飯泥棒」と呼ばれるほどご飯が進む。",
+    "menuDescription": "新鮮な生ワタリガニを、唐辛子・ニンニク・水飴の真っ赤な甘辛ダレに漬け込んだ一品。身をすすり、ご飯と一緒に。",
+    "whatComesOut": [
+      "真っ赤なタレをまとった生ガニのぶつ切り",
+      "ご飯",
+      "手袋やハサミ",
+      "パンチャン"
+    ],
+    "tasteAndTexture": [
+      "甘辛いタレとカニの甘み",
+      "とろりとした生のカニ身",
+      "ニンニクの風味",
+      "ご飯に混ぜると止まらない"
+    ],
+    "orderAdvice": "生ガニに抵抗がなければぜひ。カンジャンケジャンより甘辛くとっつきやすい。手が汚れるのでビニール手袋を使う。",
+    "caution": "甲殻類（カニ）を生で使用。鮮度と食中毒に注意。",
+    "similarItems": [
+      {
+        "id": "ganjang-gejang",
+        "name": "カンジャンケジャン",
+        "difference": "醤油ダレに漬けた透明な味のケジャン。ヤンニョムは唐辛子の甘辛ダレ"
+      },
+      {
+        "name": "沖漬け",
+        "difference": "日本のイカなどの醤油漬け。生の魚介を漬ける発想が近い"
+      },
+      {
+        "id": "san-nakji",
+        "name": "サンナクチ",
+        "difference": "生きたタコを食べる韓国の生食料理"
+      }
+    ],
+    "relatedIds": [
+      "ganjang-gejang",
+      "san-nakji",
+      "gochujang"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Gejang"
+    ],
+    "tags": [
+      "韓国料理",
+      "主菜",
+      "魚介",
+      "生食",
+      "マリネ",
+      "ピリ辛",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "生の魚介が苦手",
+      "甲殻類アレルギー",
+      "辛いものが苦手",
+      "手を汚したくない"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/yangnyeom-gejang/1.jpg",
+      "/images/dishes/yangnyeom-gejang/2.jpg",
+      "/images/dishes/yangnyeom-gejang/3.jpg"
+    ]
+  },
+  {
+    "id": "haemul-tang",
+    "name": "ヘムルタン",
+    "kana": "へむるたん",
+    "aliases": [
+      "海鮮鍋",
+      "ヘムルジョンゴル"
+    ],
+    "englishName": "Haemul-tang",
+    "originalName": "해물탕",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "カニ・エビ・貝・タコ・イカなど魚介をたっぷり入れ、唐辛子ベースのスープで煮込んだ韓国の海鮮鍋。",
+    "menuDescription": "ワタリガニ、エビ、ホタテ、アサリ、タコなど旬の魚介を大鍋に盛り、もやし・春菊とともに辛いスープで煮込んだ豪快な海鮮鍋。",
+    "whatComesOut": [
+      "魚介が山盛りの大鍋",
+      "赤いスープ",
+      "もやし・春菊・大根",
+      "シメのラーメンやポックンパ"
+    ],
+    "tasteAndTexture": [
+      "魚介から出る濃い出汁",
+      "唐辛子のすっきりした辛さ",
+      "プリプリの貝やエビ",
+      "スープを飲むとさらに旨味"
+    ],
+    "orderAdvice": "大人数で囲むのに最適。値段は魚介の量次第で高め。魚介好きなら満足度大。殻付きが多く食べるのに手間がかかる。",
+    "caution": "魚介・甲殻類・貝類を使用。",
+    "similarItems": [
+      {
+        "id": "bouillabaisse",
+        "name": "ブイヤベース",
+        "difference": "南仏の魚介スープ。ヘムルタンは唐辛子で辛い"
+      },
+      {
+        "name": "ヘムルチム",
+        "difference": "魚介とモヤシの辛い蒸し煮で汁気が少ない"
+      },
+      {
+        "id": "budae-jjigae",
+        "name": "プデチゲ",
+        "difference": "ハム・ソーセージの鍋"
+      }
+    ],
+    "relatedIds": [
+      "agwi-jjim",
+      "budae-jjigae",
+      "bouillabaisse",
+      "chukkumi"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Jeongol"
+    ],
+    "tags": [
+      "韓国料理",
+      "鍋料理",
+      "魚介",
+      "貝類",
+      "煮込み",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "辛いものが苦手",
+      "肉料理",
+      "少人数"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": []
+  },
+  {
+    "id": "agwi-jjim",
+    "name": "アグチム",
+    "kana": "あぐちむ",
+    "aliases": [
+      "アンコウの辛い蒸し煮",
+      "アグィチム"
+    ],
+    "englishName": "Agwi-jjim",
+    "originalName": "아귀찜",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国",
+        "locality": "馬山"
+      }
+    ],
+    "summary": "アンコウをもやしやセリと一緒に唐辛子ダレで蒸し煮にした韓国の料理。馬山（マサン）発祥とされる。",
+    "menuDescription": "ぶつ切りのアンコウと山盛りのもやし・セリを、唐辛子・ニンニクの辛いあんで蒸し煮にした豪快な一皿。",
+    "whatComesOut": [
+      "大皿に山盛りの赤いもやしとアンコウ",
+      "とろみのある辛いあん",
+      "セリやごま",
+      "シメのポックンパ"
+    ],
+    "tasteAndTexture": [
+      "かなりの辛さ",
+      "ぷるぷるのアンコウの皮とゼラチン質",
+      "もやしのシャキシャキ感",
+      "白身のあっさりした身"
+    ],
+    "orderAdvice": "辛いもの好き向け。アンコウのぷるぷるした皮が好きなら絶品。2〜3人前からの大皿料理。",
+    "caution": "魚介を使用。辛さが強い。骨に注意。",
+    "similarItems": [
+      {
+        "name": "あんこう鍋",
+        "difference": "日本のあんこう鍋は味噌や醤油の汁物。アグチムは辛い蒸し煮"
+      },
+      {
+        "id": "haemul-tang",
+        "name": "ヘムルタン",
+        "difference": "魚介全般の辛いスープ鍋"
+      },
+      {
+        "id": "chukkumi",
+        "name": "チュクミ",
+        "difference": "イイダコの辛い炒め"
+      }
+    ],
+    "relatedIds": [
+      "haemul-tang",
+      "chukkumi",
+      "gochujang"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Agwi-jjim"
+    ],
+    "tags": [
+      "韓国料理",
+      "主菜",
+      "魚介",
+      "野菜",
+      "蒸し料理",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "魚が苦手",
+      "ゼラチン質が苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/agwi-jjim/1.jpg",
+      "/images/dishes/agwi-jjim/2.jpg"
+    ]
+  },
+  {
+    "id": "godeungeo-gui",
+    "name": "コドゥンオグイ",
+    "kana": "こどぅんおぐい",
+    "aliases": [
+      "サバの塩焼き（韓国式）",
+      "サバ焼き"
+    ],
+    "englishName": "Grilled mackerel",
+    "originalName": "고등어구이",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "塩をふったサバを焼いた韓国の家庭料理・定食の定番。韓国ではサバは「国民魚」と呼ばれるほど身近な魚。",
+    "menuDescription": "脂ののったサバを塩焼きにした韓国定食の人気メニュー。ご飯・チゲ・パンチャンとともに。",
+    "whatComesOut": [
+      "開いて焼いたサバ半身",
+      "ご飯",
+      "テンジャンチゲなどの汁物",
+      "パンチャン数種"
+    ],
+    "tasteAndTexture": [
+      "脂ののったサバの旨味",
+      "皮目がパリッと香ばしい",
+      "ほどよい塩気",
+      "辛くない"
+    ],
+    "orderAdvice": "辛い料理に疲れた時や朝食に最適。日本のサバの塩焼きとほぼ同じで安心感がある。焼き魚定食の店で。",
+    "caution": "魚（サバ）を使用。骨に注意。",
+    "similarItems": [
+      {
+        "name": "サバの塩焼き",
+        "difference": "日本とほぼ同じ料理。韓国ではキムチやチゲとともに食べる"
+      },
+      {
+        "id": "saba-no-misoni",
+        "name": "サバの味噌煮",
+        "difference": "味噌で煮る日本のサバ料理"
+      },
+      {
+        "name": "コドゥンオジョリム",
+        "difference": "サバと大根の辛い煮付け"
+      }
+    ],
+    "relatedIds": [
+      "saba-no-misoni",
+      "doenjang-jjigae",
+      "kimchi"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Korean_cuisine",
+      "https://en.wikipedia.org/wiki/Mackerel_as_food"
+    ],
+    "tags": [
+      "韓国料理",
+      "主菜",
+      "魚介",
+      "焼き物",
+      "香ばしい",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "青魚が苦手",
+      "骨のある魚",
+      "肉料理",
+      "辛いもの好き"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/godeungeo-gui/1.jpg",
+      "/images/dishes/godeungeo-gui/2.jpg",
+      "/images/dishes/godeungeo-gui/3.jpg"
+    ]
+  },
+  {
+    "id": "haemul-pajeon",
+    "name": "ヘムルパジョン",
+    "kana": "へむるぱじょん",
+    "aliases": [
+      "海鮮チヂミ",
+      "パジョン",
+      "ネギチヂミ"
+    ],
+    "englishName": "Haemul-pajeon",
+    "originalName": "해물파전",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "たっぷりのネギとイカ・エビ・貝などの魚介を小麦粉の生地で薄く焼いた韓国の海鮮ねぎ焼き。日本では海鮮チヂミとして知られる。",
+    "menuDescription": "青ネギをたっぷり並べ、イカ・エビ・アサリを散らした生地を多めの油でカリッと焼き上げた海鮮パジョン。酢醤油ダレで。",
+    "whatComesOut": [
+      "大きな円形の焼き物（切り分けて）",
+      "ネギと魚介がぎっしり",
+      "酢醤油のタレ",
+      "マッコリと一緒に頼まれることが多い"
+    ],
+    "tasteAndTexture": [
+      "外はカリッ、中はもっちり",
+      "ネギの甘みと魚介の旨味",
+      "酢醤油でさっぱり",
+      "辛くない"
+    ],
+    "orderAdvice": "辛くない韓国料理の定番。マッコリとの組み合わせは雨の日の韓国の風物詩。シェアに向く。",
+    "caution": "小麦・卵・魚介・甲殻類を使用。",
+    "similarItems": [
+      {
+        "id": "buchimgae",
+        "name": "チヂミ",
+        "difference": "韓国の粉もの焼きの総称。ヘムルパジョンはネギと魚介の代表的な一種"
+      },
+      {
+        "id": "okonomiyaki",
+        "name": "お好み焼き",
+        "difference": "お好み焼きは厚くソース・マヨをかける。パジョンは薄くカリッと焼く"
+      },
+      {
+        "name": "葱油餅",
+        "difference": "中国・台湾のネギ入りパイ状の焼き餅"
+      }
+    ],
+    "relatedIds": [
+      "buchimgae",
+      "okonomiyaki",
+      "makgeolli",
+      "squid"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Pajeon"
+    ],
+    "tags": [
+      "韓国料理",
+      "前菜",
+      "魚介",
+      "小麦",
+      "焼き物",
+      "香ばしい",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "ネギが苦手",
+      "油っこいもの",
+      "魚介アレルギー",
+      "辛いもの好き"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/haemul-pajeon/1.jpg"
+    ]
+  },
+  {
+    "id": "ojingeo-sundae",
+    "name": "オジンオスンデ",
+    "kana": "おじんおすんで",
+    "aliases": [
+      "イカスンデ",
+      "イカの詰め物"
+    ],
+    "englishName": "Ojingeo-sundae",
+    "originalName": "오징어순대",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国",
+        "area": "江原道"
+      }
+    ],
+    "summary": "イカの胴に豆腐・もち米・野菜・イカのゲソなどを詰めて蒸した韓国・江原道の郷土料理。腸の代わりにイカを使ったスンデ。",
+    "menuDescription": "新鮮なイカの胴に、刻んだゲソ・豆腐・もち米・野菜を詰めて蒸し上げた江原道束草（ソクチョ）名物。輪切りにして卵をまとわせ焼くことも。",
+    "whatComesOut": [
+      "輪切りにしたイカの詰め物",
+      "断面に色とりどりの具",
+      "卵衣で焼いたタイプも",
+      "酢醤油やアミの塩辛"
+    ],
+    "tasteAndTexture": [
+      "イカのむっちりした食感",
+      "もち米のもちもち感",
+      "野菜と豆腐のやさしい味",
+      "辛くない"
+    ],
+    "orderAdvice": "内臓を使わないスンデなので、普通のスンデが苦手な人にも食べやすい。束草など江原道の海辺の名物として。",
+    "caution": "軟体動物（イカ）・卵・大豆を使用。",
+    "similarItems": [
+      {
+        "name": "いかめし",
+        "difference": "北海道のイカにもち米を詰めて甘辛く煮た料理。オジンオスンデは野菜も詰めて蒸す"
+      },
+      {
+        "name": "スンデ",
+        "difference": "豚の腸に春雨や血を詰めた腸詰め。オジンオスンデはイカで代用"
+      },
+      {
+        "id": "squid",
+        "name": "イカ",
+        "difference": "食材としてのイカ"
+      }
+    ],
+    "relatedIds": [
+      "squid",
+      "blood-sausage",
+      "sundae-gukbap"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Sundae_(sausage)"
+    ],
+    "tags": [
+      "韓国料理",
+      "前菜",
+      "魚介",
+      "米",
+      "蒸し料理",
+      "もちもち",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "イカが苦手",
+      "肉料理",
+      "辛いもの好き",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "golbaengi-muchim",
+    "name": "コルベンイムチム",
+    "kana": "こるべんいむちむ",
+    "aliases": [
+      "ツブ貝の和え物",
+      "コルベンイ"
+    ],
+    "englishName": "Golbaengi-muchim",
+    "originalName": "골뱅이무침",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "ツブ貝（タマガイ類）を野菜と甘辛酸っぱいコチュジャンだれで和えた韓国の酒のつまみ。そうめんを添えて混ぜて食べる。",
+    "menuDescription": "コリコリのツブ貝を、玉ねぎ・きゅうり・ネギ・干しダラとともにコチュジャン酢で和えた人気の酒肴。そうめんと絡めて。",
+    "whatComesOut": [
+      "赤いたれで和えたツブ貝と野菜",
+      "そうめんが添えられる",
+      "干しダラが入ることも",
+      "ごまのトッピング"
+    ],
+    "tasteAndTexture": [
+      "ツブ貝のコリコリ食感",
+      "甘辛く酸っぱいたれ",
+      "シャキシャキの野菜",
+      "そうめんで辛さが和らぐ"
+    ],
+    "orderAdvice": "ビールや焼酎のつまみ（アンジュ）の定番。貝好き・酸っぱ辛いもの好きに。居酒屋（ホプ）で頼む料理。",
+    "caution": "貝類・小麦（そうめん）を使用。",
+    "similarItems": [
+      {
+        "id": "bibim-guksu",
+        "name": "ビビン麺",
+        "difference": "同じ甘辛酸っぱいたれの麺料理。コルベンイムチムは貝が主役"
+      },
+      {
+        "name": "ツブ貝の刺身",
+        "difference": "日本では生で食べることが多い。韓国では缶詰のツブ貝を和える"
+      },
+      {
+        "id": "chukkumi",
+        "name": "チュクミ",
+        "difference": "イイダコの辛い炒め物"
+      }
+    ],
+    "relatedIds": [
+      "bibim-guksu",
+      "somen",
+      "chukkumi",
+      "gochujang"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Golbaengi-muchim"
+    ],
+    "tags": [
+      "韓国料理",
+      "前菜",
+      "貝類",
+      "野菜",
+      "マリネ",
+      "ピリ辛",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "貝が苦手",
+      "辛いものが苦手",
+      "酸っぱいもの",
+      "温かい料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/golbaengi-muchim/1.jpg"
+    ]
+  },
+  {
+    "id": "hotteok",
+    "name": "ホットク",
+    "kana": "ほっとく",
+    "aliases": [
+      "ホットッ",
+      "韓国風おやき"
+    ],
+    "englishName": "Hotteok",
+    "originalName": "호떡",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "もちもちの生地に黒砂糖・シナモン・ナッツを包み、鉄板で押し焼きにした韓国の屋台おやつ。清朝の中国から伝わったとされる。",
+    "menuDescription": "発酵させたもちもち生地で黒砂糖・シナモン・ナッツを包み、たっぷりの油でぎゅっと押し焼き。中からとろりと甘い蜜があふれる冬の屋台の味。",
+    "whatComesOut": [
+      "平たく丸い焼き菓子",
+      "紙コップや紙に挟んで渡される",
+      "中に溶けた黒蜜とナッツ",
+      "野菜や春雨入りの惣菜系もある"
+    ],
+    "tasteAndTexture": [
+      "外はカリッ、中はもちもち",
+      "黒砂糖とシナモンの濃厚な甘さ",
+      "ナッツの香ばしさ",
+      "揚げ焼きの油のコク"
+    ],
+    "orderAdvice": "冬の韓国の街歩きで必ず見かける屋台おやつ。中の蜜が非常に熱いのでやけどに注意して少しずつ。",
+    "caution": "小麦・ナッツを使用。中の蜜が熱い。",
+    "similarItems": [
+      {
+        "name": "おやき",
+        "difference": "日本のおやきは野菜やあんこが中心で油は少なめ"
+      },
+      {
+        "id": "pancake",
+        "name": "パンケーキ",
+        "difference": "パンケーキは生地自体を焼く。ホットクは蜜を包んで押し焼き"
+      },
+      {
+        "name": "今川焼き",
+        "difference": "型で焼くあんこ入り焼き菓子"
+      }
+    ],
+    "relatedIds": [
+      "kkwabaegi",
+      "dalgona",
+      "injeolmi-toast",
+      "tteokbokki"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Hotteok"
+    ],
+    "tags": [
+      "韓国料理",
+      "菓子",
+      "小麦",
+      "ナッツ",
+      "焼き物",
+      "甘み",
+      "もちもち",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "甘いものが苦手",
+      "油っこいもの",
+      "ナッツアレルギー",
+      "しょっぱいおやつ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hotteok/1.jpg",
+      "/images/dishes/hotteok/2.jpg",
+      "/images/dishes/hotteok/3.jpg"
+    ]
+  },
+  {
+    "id": "mandu",
+    "name": "マンドゥ",
+    "kana": "まんどぅ",
+    "aliases": [
+      "韓国餃子",
+      "マンドゥー",
+      "キムチマンドゥ"
+    ],
+    "englishName": "Mandu",
+    "originalName": "만두",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      },
+      {
+        "country": "北朝鮮"
+      }
+    ],
+    "summary": "豚肉・豆腐・春雨・キムチなどを小麦の皮で包んだ韓国の餃子。蒸す・茹でる・焼く・揚げるなど調理法が多彩で、宮廷料理にも登場した。",
+    "menuDescription": "豚ひき肉・豆腐・春雨・ニラ・キムチを薄い皮で包んだ韓国式餃子。蒸しマンドゥ、焼きマンドゥ、スープに入れたマンドゥクッで。",
+    "whatComesOut": [
+      "大ぶりの蒸しまたは焼き餃子",
+      "酢醤油のタレ",
+      "マンドゥクッ（スープ）として出ることも",
+      "キムチ入りは断面が赤い"
+    ],
+    "tasteAndTexture": [
+      "豆腐と春雨入りのふんわりした餡",
+      "もっちりした皮",
+      "キムチ入りはピリッと酸っぱい",
+      "ニンニクは控えめ"
+    ],
+    "orderAdvice": "韓国の粉食店や専門店で手軽に食べられる。辛くないゴギ（肉）マンドゥとキムチマンドゥの食べ比べがおすすめ。",
+    "caution": "小麦・大豆・豚肉を使用。",
+    "similarItems": [
+      {
+        "id": "jiaozi",
+        "name": "餃子（中国）",
+        "difference": "マンドゥは豆腐と春雨が入り、餡がよりふんわりしている"
+      },
+      {
+        "name": "焼き餃子",
+        "difference": "日本の焼き餃子はニンニクとキャベツが多く小ぶり"
+      },
+      {
+        "id": "xiaolongbao",
+        "name": "小籠包",
+        "difference": "小籠包はスープが入った蒸し包子"
+      }
+    ],
+    "relatedIds": [
+      "jiaozi",
+      "xiaolongbao",
+      "dumpling",
+      "kimchi",
+      "tteokbokki"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Mandu_(food)"
+    ],
+    "tags": [
+      "韓国料理",
+      "点心",
+      "豚肉",
+      "小麦",
+      "蒸し料理",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "小麦不可",
+      "揚げ物好き",
+      "辛いもの好き",
+      "肉が苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mandu/1.jpg",
+      "/images/dishes/mandu/2.jpg",
+      "/images/dishes/mandu/3.jpg"
+    ]
+  },
+  {
+    "id": "kkakdugi",
+    "name": "カクトゥギ",
+    "kana": "かくとぅぎ",
+    "aliases": [
+      "大根キムチ",
+      "カクテキ",
+      "カクトゥキ"
+    ],
+    "englishName": "Kkakdugi",
+    "originalName": "깍두기",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "角切りにした韓国大根を唐辛子粉・ニンニク・アミの塩辛などで漬けたキムチ。サクサクした歯ごたえが特徴で、クッパやソルロンタンの付け合わせの定番。",
+    "menuDescription": "サイコロ状に切った大根を唐辛子・ニンニク・生姜・アミの塩辛で漬け込み発酵させたキムチ。シャキッとした食感が汁物とよく合う。",
+    "whatComesOut": [
+      "サイコロ状の赤い大根",
+      "小皿のパンチャン（おかず）として",
+      "漬け汁がたっぷり",
+      "スープ料理に添えられる"
+    ],
+    "tasteAndTexture": [
+      "大根のみずみずしいシャキシャキ感",
+      "唐辛子の辛さとほのかな甘み",
+      "発酵の酸味",
+      "アミの塩辛の旨味"
+    ],
+    "orderAdvice": "単品で注文するより、クッパやソルロンタン・コムタンに添えられるのが一般的。漬け汁をスープに入れて味変するのも韓国流。",
+    "caution": "魚介（アミの塩辛）を含む。",
+    "similarItems": [
+      {
+        "id": "kimchi",
+        "name": "キムチ（白菜）",
+        "difference": "白菜キムチより歯ごたえが強く、甘みがある"
+      },
+      {
+        "id": "chonggak-kimchi",
+        "name": "チョンガクキムチ",
+        "difference": "小さな葉付き大根を丸ごと漬けたもの。よりポリポリした食感"
+      },
+      {
+        "name": "たくあん",
+        "difference": "日本の大根漬け。辛くなく甘い"
+      }
+    ],
+    "relatedIds": [
+      "kimchi",
+      "chonggak-kimchi",
+      "seolleongtang",
+      "gukbap",
+      "daikon"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Kkakdugi"
+    ],
+    "tags": [
+      "韓国料理",
+      "前菜",
+      "野菜",
+      "発酵",
+      "ピリ辛",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "発酵食品が苦手",
+      "大根が苦手",
+      "温かい料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/kkakdugi/1.jpg",
+      "/images/dishes/kkakdugi/2.jpg",
+      "/images/dishes/kkakdugi/3.jpg"
+    ]
+  },
+  {
+    "id": "oi-sobagi",
+    "name": "オイキムチ",
+    "kana": "おいきむち",
+    "aliases": [
+      "オイソバギ",
+      "きゅうりキムチ"
+    ],
+    "englishName": "Oi-sobagi",
+    "originalName": "오이소박이",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "きゅうりに切れ目を入れ、ニラ・大根・唐辛子などのヤンニョムを詰めて漬けた韓国のキムチ。浅漬けで食べることが多く、夏の定番。",
+    "menuDescription": "十字に切り込みを入れたきゅうりに、ニラと唐辛子のヤンニョムを詰めた爽やかなきゅうりキムチ。",
+    "whatComesOut": [
+      "切れ目に赤い薬味を詰めたきゅうり",
+      "一口大にカット",
+      "小皿のパンチャン"
+    ],
+    "tasteAndTexture": [
+      "きゅうりのみずみずしさとパリッとした食感",
+      "ニラの香り",
+      "ほどよい辛さ",
+      "浅漬けはさっぱり、熟成すると酸味"
+    ],
+    "orderAdvice": "白菜キムチの発酵臭が苦手な人でも食べやすい。焼肉の口直しに最適。",
+    "caution": "魚醤やアミの塩辛を使う場合あり。",
+    "similarItems": [
+      {
+        "id": "kimchi",
+        "name": "キムチ（白菜）",
+        "difference": "白菜キムチはより発酵が進み酸味が強い"
+      },
+      {
+        "name": "きゅうりの浅漬け",
+        "difference": "日本の浅漬けは辛くない"
+      },
+      {
+        "id": "kkakdugi",
+        "name": "カクトゥギ",
+        "difference": "大根のキムチ"
+      }
+    ],
+    "relatedIds": [
+      "kimchi",
+      "kkakdugi",
+      "cucumber",
+      "samgyeopsal"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Kimchi"
+    ],
+    "tags": [
+      "韓国料理",
+      "前菜",
+      "野菜",
+      "発酵",
+      "ピリ辛",
+      "あっさり",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "きゅうりが苦手",
+      "辛いものが苦手",
+      "温かい料理",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "bossam-kimchi",
+    "name": "ポッサムキムチ",
+    "kana": "ぽっさむきむち",
+    "aliases": [
+      "包みキムチ",
+      "ポサムキムチ"
+    ],
+    "englishName": "Bossam-kimchi",
+    "originalName": "보쌈김치",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国",
+        "locality": "開城"
+      }
+    ],
+    "summary": "白菜の葉で、栗・梨・松の実・ナツメ・タコ・牡蠣など豪華な具材を風呂敷のように包んだ高級キムチ。開城（ケソン）の名物として知られる。",
+    "menuDescription": "大きな白菜の葉で、白菜キムチ・栗・梨・松の実・ナツメ・牡蠣・タコなどを包み込んだ宮廷風の贅沢なキムチ。",
+    "whatComesOut": [
+      "白菜の葉で包まれた丸いキムチ",
+      "開くと中に彩り豊かな具",
+      "器に一つずつ盛られる"
+    ],
+    "tasteAndTexture": [
+      "果物や木の実の甘み",
+      "魚介の旨味",
+      "辛さは控えめで上品",
+      "多彩な食感"
+    ],
+    "orderAdvice": "日常的なキムチではなく、韓定食や贈答・祝い事で出る特別なキムチ。見かけたら試す価値あり。",
+    "caution": "魚介・貝類・ナッツ（栗・松の実）を含む。",
+    "similarItems": [
+      {
+        "id": "kimchi",
+        "name": "キムチ（白菜）",
+        "difference": "一般的な白菜キムチ。ポッサムキムチは豪華な具を包む"
+      },
+      {
+        "id": "bossam",
+        "name": "ポッサム",
+        "difference": "茹で豚をキムチ等で包む料理。名前の由来「包む」は同じ"
+      },
+      {
+        "id": "nabak-kimchi",
+        "name": "ナバクキムチ",
+        "difference": "汁を飲む水キムチ"
+      }
+    ],
+    "relatedIds": [
+      "kimchi",
+      "bossam",
+      "nabak-kimchi"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Kimchi"
+    ],
+    "tags": [
+      "韓国料理",
+      "前菜",
+      "野菜",
+      "魚介",
+      "発酵",
+      "宮廷料理"
+    ],
+    "reverseKeywords": [
+      "発酵食品が苦手",
+      "魚介が苦手",
+      "シンプルな漬物",
+      "温かい料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/bossam-kimchi/1.jpg"
+    ]
+  },
+  {
+    "id": "musaengchae",
+    "name": "ムセンチェ",
+    "kana": "むせんちぇ",
+    "aliases": [
+      "大根のなます（韓国式）",
+      "ムセンチェナムル"
+    ],
+    "englishName": "Musaengchae",
+    "originalName": "무생채",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "千切りにした大根を唐辛子粉・酢・砂糖・ニンニクで和えた韓国の和え物（センチェ）。発酵させずに作るため即席キムチとも呼ばれる。",
+    "menuDescription": "細切り大根を唐辛子粉・酢・砂糖・ニンニクで手早く和えた、甘酸っぱくピリ辛のパンチャン。ビビンバの具にも。",
+    "whatComesOut": [
+      "赤く和えた大根の千切り",
+      "小皿のパンチャン",
+      "ごまのトッピング"
+    ],
+    "tasteAndTexture": [
+      "シャキシャキの大根",
+      "甘酸っぱさとピリ辛",
+      "発酵臭がなく爽やか",
+      "口直しにぴったり"
+    ],
+    "orderAdvice": "主にパンチャンとして出てくる。ビビンバや焼肉の付け合わせに入れると味が締まる。",
+    "similarItems": [
+      {
+        "name": "紅白なます",
+        "difference": "日本のなますは辛くなく大根と人参を甘酢で和える"
+      },
+      {
+        "id": "kkakdugi",
+        "name": "カクトゥギ",
+        "difference": "角切り大根を発酵させたキムチ"
+      },
+      {
+        "name": "ナムル",
+        "difference": "ナムルは加熱した野菜をごま油で和えるものが多い"
+      }
+    ],
+    "relatedIds": [
+      "kkakdugi",
+      "kimchi",
+      "bibimbap",
+      "daikon"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Saengchae"
+    ],
+    "tags": [
+      "韓国料理",
+      "前菜",
+      "野菜",
+      "マリネ",
+      "酸味",
+      "ピリ辛",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "酸っぱいもの",
+      "大根が苦手",
+      "温かい料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "chonggak-kimchi",
+    "name": "チョンガクキムチ",
+    "kana": "ちょんがくきむち",
+    "aliases": [
+      "チョンガッキムチ",
+      "アルタリキムチ",
+      "総角キムチ"
+    ],
+    "englishName": "Chonggak-kimchi",
+    "originalName": "총각김치",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "葉付きの小さな大根「チョンガク大根」を丸ごと唐辛子ヤンニョムで漬けたキムチ。名は未婚男性の髪型（総角）に葉の形が似ていることに由来。",
+    "menuDescription": "葉付きの小ぶりな大根を丸ごと、唐辛子・ニンニク・塩辛のヤンニョムで漬けたキムチ。ポリポリとした歯ごたえが魅力。",
+    "whatComesOut": [
+      "葉付きの小さな大根が丸ごと（またはカット）",
+      "赤いヤンニョム",
+      "パンチャンの小皿"
+    ],
+    "tasteAndTexture": [
+      "ポリポリと硬めの歯ごたえ",
+      "大根の辛みと唐辛子の辛さ",
+      "葉のやわらかさ",
+      "熟成すると酸味"
+    ],
+    "orderAdvice": "ラーメンやクッパに添えて食べるのが定番。歯ごたえのある漬物が好きな人向け。",
+    "caution": "魚介（塩辛）を含む。",
+    "similarItems": [
+      {
+        "id": "kkakdugi",
+        "name": "カクトゥギ",
+        "difference": "普通の大根を角切りにしたもの。チョンガクは小大根を丸ごと"
+      },
+      {
+        "id": "kimchi",
+        "name": "キムチ（白菜）",
+        "difference": "白菜を漬けた最も一般的なキムチ"
+      },
+      {
+        "name": "すぐき漬け",
+        "difference": "京都のカブの漬物。辛くなく乳酸発酵の酸味"
+      }
+    ],
+    "relatedIds": [
+      "kkakdugi",
+      "kimchi",
+      "radish"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Kimchi"
+    ],
+    "tags": [
+      "韓国料理",
+      "前菜",
+      "野菜",
+      "発酵",
+      "ピリ辛",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "硬い食感が苦手",
+      "発酵食品が苦手",
+      "温かい料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/chonggak-kimchi/1.jpg"
+    ]
+  },
+  {
+    "id": "nabak-kimchi",
+    "name": "ナバクキムチ",
+    "kana": "なばくきむち",
+    "aliases": [
+      "水キムチ",
+      "ムルキムチ"
+    ],
+    "englishName": "Nabak-kimchi",
+    "originalName": "나박김치",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "薄切りの大根と白菜を、ほんのり赤い唐辛子入りの漬け汁ごと発酵させた水キムチ。汁ごと飲むように食べる。",
+    "menuDescription": "四角く薄切りした大根と白菜を、唐辛子で淡く色づけた塩水で漬けた爽やかな水キムチ。冷たい汁ごとどうぞ。",
+    "whatComesOut": [
+      "淡いピンク色の汁に浮かぶ大根と白菜",
+      "器に汁ごと",
+      "セリや梨が入ることも"
+    ],
+    "tasteAndTexture": [
+      "さっぱりした酸味",
+      "ほんのりした辛さ",
+      "冷たく爽やかな汁",
+      "シャキシャキの野菜"
+    ],
+    "orderAdvice": "辛いキムチが苦手な人や口直しに最適。トック（餅）料理や重い料理に添えて汁を飲む。",
+    "similarItems": [
+      {
+        "name": "トンチミ",
+        "difference": "大根丸ごとの白い水キムチで唐辛子を使わない"
+      },
+      {
+        "id": "kimchi",
+        "name": "キムチ（白菜）",
+        "difference": "汁のない辛い白菜キムチ"
+      },
+      {
+        "id": "naengmyeon",
+        "name": "冷麺",
+        "difference": "水キムチの汁を冷麺のスープに使うことがある"
+      }
+    ],
+    "relatedIds": [
+      "kimchi",
+      "naengmyeon",
+      "bossam-kimchi"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Nabak-kimchi"
+    ],
+    "tags": [
+      "韓国料理",
+      "前菜",
+      "スープ",
+      "野菜",
+      "発酵",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "酸っぱいもの",
+      "冷たいスープ",
+      "こってり",
+      "発酵食品が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/nabak-kimchi/1.jpg"
+    ]
+  },
+  {
+    "id": "jangajji",
+    "name": "チャンアチ",
+    "kana": "ちゃんあち",
+    "aliases": [
+      "韓国の醤油漬け",
+      "チャンアッチ"
+    ],
+    "englishName": "Jangajji",
+    "originalName": "장아찌",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "野菜を醤油・味噌・コチュジャンなどに漬け込んだ韓国の保存漬物。キムチと違って発酵させず、長期保存できるパンチャン。",
+    "menuDescription": "玉ねぎ・青唐辛子・エゴマの葉・ニンニクなどの季節野菜を、甘めの醤油ダレや味噌に漬けた保存食の漬物。",
+    "whatComesOut": [
+      "醤油色の漬物の小皿",
+      "玉ねぎ・青唐辛子・エゴマの葉など",
+      "焼肉や定食の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "甘じょっぱい醤油の味",
+      "シャキッとした歯ごたえ",
+      "ご飯に合う塩気",
+      "青唐辛子入りはピリッと"
+    ],
+    "orderAdvice": "単品よりパンチャンとして出る。キムチの辛さに疲れた時の箸休めに。焼肉の脂っこさを和らげる。",
+    "caution": "大豆（醤油・味噌）を使用。塩分が高め。",
+    "similarItems": [
+      {
+        "name": "醤油漬け",
+        "difference": "日本の醤油漬けとほぼ同じ発想"
+      },
+      {
+        "id": "kimchi",
+        "name": "キムチ",
+        "difference": "キムチは唐辛子と塩辛で発酵させる。チャンアチは発酵させない"
+      },
+      {
+        "name": "福神漬け",
+        "difference": "日本の醤油ベースの甘い漬物"
+      }
+    ],
+    "relatedIds": [
+      "maneul-jangajji",
+      "kimchi",
+      "soy-sauce",
+      "samgyeopsal"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Jangajji"
+    ],
+    "tags": [
+      "韓国料理",
+      "前菜",
+      "野菜",
+      "マリネ",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "塩辛いもの",
+      "漬物が苦手",
+      "温かい料理",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/jangajji/1.jpg",
+      "/images/dishes/jangajji/2.jpg",
+      "/images/dishes/jangajji/3.jpg"
+    ]
+  },
+  {
+    "id": "maneul-jangajji",
+    "name": "マヌルチャンアチ",
+    "kana": "まぬるちゃんあち",
+    "aliases": [
+      "ニンニクの醤油漬け",
+      "ニンニクチャンアチ"
+    ],
+    "englishName": "Pickled garlic (Maneul-jangajji)",
+    "originalName": "마늘장아찌",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "皮をむいた丸ごとのニンニクを酢と醤油・砂糖のタレに漬け込んだ韓国の保存漬物。漬けることで辛みが和らぎ、甘酸っぱくなる。",
+    "menuDescription": "新ニンニクを酢で辛みを抜いたあと、甘い醤油ダレにじっくり漬け込んだチャンアチ。焼肉と一緒に。",
+    "whatComesOut": [
+      "茶色く漬かったニンニク",
+      "小皿のパンチャン",
+      "芽ニンニクの漬物（マヌルチョン）のことも"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい醤油味",
+      "辛みが抜けたニンニクのコリッとした食感",
+      "ほのかなニンニクの香り",
+      "肉の脂をさっぱりさせる"
+    ],
+    "orderAdvice": "サムギョプサルなど焼肉と一緒に包んで食べると絶品。生ニンニクより刺激がずっと少ない。翌日の口臭は少し注意。",
+    "caution": "大豆（醤油）を使用。",
+    "similarItems": [
+      {
+        "name": "ニンニクの醤油漬け",
+        "difference": "日本でも同様に作られる"
+      },
+      {
+        "name": "らっきょう漬け",
+        "difference": "日本の甘酢漬け。コリッとした食感が似ている"
+      },
+      {
+        "id": "jangajji",
+        "name": "チャンアチ",
+        "difference": "野菜の醤油漬け全般。マヌルチャンアチはそのニンニク版"
+      }
+    ],
+    "relatedIds": [
+      "jangajji",
+      "garlic",
+      "samgyeopsal"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Jangajji"
+    ],
+    "tags": [
+      "韓国料理",
+      "前菜",
+      "野菜",
+      "マリネ",
+      "酸味",
+      "甘み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ニンニクが苦手",
+      "酸っぱいもの",
+      "漬物が苦手",
+      "匂いが気になる"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/maneul-jangajji/1.jpg",
+      "/images/dishes/maneul-jangajji/2.jpg"
+    ]
+  },
+  {
+    "id": "meju",
+    "name": "メジュ",
+    "kana": "めじゅ",
+    "aliases": [
+      "味噌玉",
+      "大豆麹"
+    ],
+    "englishName": "Meju",
+    "originalName": "메주",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "蒸した大豆をつぶしてレンガ状に固め、乾燥・発酵させたもの。それ自体は食べず、テンジャン（味噌）・カンジャン（醤油）・コチュジャンの原料となる。",
+    "menuDescription": "茹でた大豆を四角く成形し、藁で吊るして自然発酵させた韓国伝統の発酵大豆ブロック。韓国の醤（ジャン）文化の基礎。",
+    "whatComesOut": [
+      "料理としては出てこない",
+      "茶色いレンガ状の発酵大豆",
+      "表面にカビ（麹菌）が生えている",
+      "市場や家庭で藁に吊るされている"
+    ],
+    "tasteAndTexture": [
+      "強い発酵臭",
+      "硬く乾燥している",
+      "単体では食べない",
+      "テンジャンの深いコクの源"
+    ],
+    "orderAdvice": "レストランで注文するものではなく調味料の原料。テンジャンチゲやコチュジャンの味の背景を知る食材として。",
+    "caution": "大豆を使用。",
+    "similarItems": [
+      {
+        "name": "麹",
+        "difference": "日本の味噌は米麹・麦麹を使う。メジュは大豆そのものを発酵させる"
+      },
+      {
+        "id": "natto",
+        "name": "納豆",
+        "difference": "納豆菌で発酵させた大豆。そのまま食べる"
+      },
+      {
+        "id": "gochujang",
+        "name": "コチュジャン",
+        "difference": "メジュ粉を原料に作る唐辛子味噌"
+      }
+    ],
+    "relatedIds": [
+      "doenjang-jjigae",
+      "gochujang",
+      "ssamjang",
+      "soy-sauce",
+      "natto"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Meju"
+    ],
+    "tags": [
+      "韓国料理",
+      "調味料",
+      "豆類",
+      "発酵",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "発酵臭が苦手",
+      "すぐ食べられるもの",
+      "甘いもの",
+      "洋食"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/meju/1.jpg",
+      "/images/dishes/meju/2.jpg"
+    ]
+  },
+  {
+    "id": "patbingsu",
+    "name": "パッピンス",
+    "kana": "ぱっぴんす",
+    "aliases": [
+      "ピンス",
+      "ビンス",
+      "韓国かき氷"
+    ],
+    "englishName": "Patbingsu",
+    "originalName": "팥빙수",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "ミルクベースのふわふわのかき氷に、甘く煮た小豆・餅・きな粉・練乳などをのせた韓国のかき氷。近年は果物やチーズなど多彩なピンスが人気。",
+    "menuDescription": "牛乳を凍らせて雪のように削ったふわふわの氷に、自家製の煮小豆・インジョルミ（きな粉餅）・練乳をのせた伝統のパッピンス。",
+    "whatComesOut": [
+      "大きな器に山盛りのかき氷",
+      "甘く煮た小豆",
+      "餅やきな粉",
+      "練乳やアイスクリーム"
+    ],
+    "tasteAndTexture": [
+      "ミルクの雪のようなふわふわ感",
+      "小豆のやさしい甘み",
+      "餅のもちもち感",
+      "きな粉の香ばしさ"
+    ],
+    "orderAdvice": "量が多いので2〜3人でシェアが基本。夏の韓国カフェの定番。いちごやマンゴーのピンスも人気。",
+    "caution": "乳製品・大豆（きな粉）を使用。",
+    "similarItems": [
+      {
+        "name": "かき氷（宇治金時）",
+        "difference": "日本のかき氷は水の氷にシロップ。ピンスはミルク氷でふわふわ"
+      },
+      {
+        "name": "ハロハロ",
+        "difference": "フィリピンの具だくさんかき氷"
+      },
+      {
+        "id": "injeolmi-toast",
+        "name": "インジョルミトースト",
+        "difference": "同じきな粉餅を使ったトーストのデザート"
+      }
+    ],
+    "relatedIds": [
+      "injeolmi-toast",
+      "mochi",
+      "sikhye",
+      "hotteok"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Bingsu"
+    ],
+    "tags": [
+      "韓国料理",
+      "デザート",
+      "豆類",
+      "乳製品",
+      "甘み",
+      "ふわふわ",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "冷たいものが苦手",
+      "あんこが苦手",
+      "甘いものが苦手",
+      "温かいデザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/patbingsu/1.jpg",
+      "/images/dishes/patbingsu/2.jpg",
+      "/images/dishes/patbingsu/3.jpg"
+    ]
+  },
+  {
+    "id": "injeolmi-toast",
+    "name": "インジョルミトースト",
+    "kana": "いんじょるみとーすと",
+    "aliases": [
+      "きな粉餅トースト",
+      "インジョルミ"
+    ],
+    "englishName": "Injeolmi toast",
+    "originalName": "인절미 토스트",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "食パンにきな粉餅「インジョルミ」を挟んで焼き、きな粉とはちみつ・アイスをかけた韓国カフェの人気デザート。",
+    "menuDescription": "厚切り食パンでもちもちのインジョルミ（きな粉餅）を挟んで香ばしく焼き、たっぷりのきな粉と練乳、アイスクリームを添えて。",
+    "whatComesOut": [
+      "厚切りトースト（餅を挟んだもの）",
+      "たっぷりのきな粉",
+      "はちみつや練乳",
+      "アイスクリームやアーモンド"
+    ],
+    "tasteAndTexture": [
+      "サクッと焼けたパン",
+      "中のとろける餅のもちもち感",
+      "きな粉の香ばしい甘さ",
+      "冷たいアイスとの温度差"
+    ],
+    "orderAdvice": "韓国カフェで甘いものを食べたい時に。きな粉がこぼれやすいので注意。シェア向き。",
+    "caution": "小麦・大豆・乳製品を使用。",
+    "similarItems": [
+      {
+        "name": "安倍川餅",
+        "difference": "日本のきな粉餅。インジョルミトーストはパンと合わせた洋風アレンジ"
+      },
+      {
+        "name": "ハニートースト",
+        "difference": "日本のカラオケ店等で人気の甘いトースト"
+      },
+      {
+        "id": "patbingsu",
+        "name": "パッピンス",
+        "difference": "インジョルミをトッピングしたかき氷"
+      }
+    ],
+    "relatedIds": [
+      "patbingsu",
+      "mochi",
+      "hotteok"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Injeolmi"
+    ],
+    "tags": [
+      "韓国料理",
+      "デザート",
+      "小麦",
+      "米",
+      "豆類",
+      "焼き物",
+      "甘み",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "甘いものが苦手",
+      "粉っぽいもの",
+      "餅が苦手",
+      "軽いデザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/injeolmi-toast/1.jpg"
+    ]
+  },
+  {
+    "id": "kkwabaegi",
+    "name": "クァベギ",
+    "kana": "くぁべぎ",
+    "aliases": [
+      "韓国ねじりドーナツ",
+      "クァベギドーナツ"
+    ],
+    "englishName": "Kkwabaegi",
+    "originalName": "꽈배기",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "ねじった生地を揚げて砂糖をまぶした韓国のねじりドーナツ。市場やパン屋の素朴な定番おやつ。",
+    "menuDescription": "もちもちの発酵生地をねじって揚げ、グラニュー糖をまぶした懐かしい味のねじりドーナツ。",
+    "whatComesOut": [
+      "ねじれた棒状のドーナツ",
+      "表面に砂糖",
+      "紙袋に数本入り"
+    ],
+    "tasteAndTexture": [
+      "外はカリッ、中はもちもち",
+      "シンプルな砂糖の甘さ",
+      "揚げたての香ばしさ",
+      "素朴で軽い"
+    ],
+    "orderAdvice": "市場の食べ歩きに最適。揚げたてが一番おいしい。もち米粉入りはさらにもちもち。",
+    "caution": "小麦を使用。揚げ物。",
+    "similarItems": [
+      {
+        "id": "donut",
+        "name": "ドーナツ",
+        "difference": "一般的なリング状ドーナツ。クァベギはねじってあり食感がもちもち"
+      },
+      {
+        "name": "麻花",
+        "difference": "中国のねじり揚げ菓子。カリカリと硬い"
+      },
+      {
+        "id": "churros",
+        "name": "チュロス",
+        "difference": "絞り出して揚げるスペインの揚げ菓子"
+      }
+    ],
+    "relatedIds": [
+      "donut",
+      "churros",
+      "hotteok"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Twisted_doughnut"
+    ],
+    "tags": [
+      "韓国料理",
+      "菓子",
+      "小麦",
+      "揚げ物",
+      "甘み",
+      "もちもち",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "揚げ物が苦手",
+      "甘いものが苦手",
+      "ヘルシーなおやつ",
+      "しょっぱいもの"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kkwabaegi/1.jpg",
+      "/images/dishes/kkwabaegi/2.jpg"
+    ]
+  },
+  {
+    "id": "dalgona",
+    "name": "タルゴナ",
+    "kana": "たるごな",
+    "aliases": [
+      "ポッキ",
+      "ッポッキ",
+      "カルメ焼き（韓国）"
+    ],
+    "englishName": "Dalgona",
+    "originalName": "달고나",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "溶かした砂糖に重曹を加えて膨らませ、平たく押して型を押した韓国の駄菓子。型どおりに割り出す遊びでも知られる。",
+    "menuDescription": "砂糖を溶かして重曹でふくらませ、平たく伸ばして星やハートの型を押したレトロな駄菓子。型を崩さず抜けたらもう一枚。",
+    "whatComesOut": [
+      "薄い円形のべっこう色の菓子",
+      "中央に星や傘などの型",
+      "針や爪楊枝（型抜き用）"
+    ],
+    "tasteAndTexture": [
+      "キャラメルのような香ばしい甘さ",
+      "ほろ苦さ",
+      "カリッと割れる軽い食感",
+      "口の中でほどける"
+    ],
+    "orderAdvice": "味より体験を楽しむおやつ。ドラマの影響で観光地の屋台でも人気。タルゴナコーヒーは別物（泡立てたコーヒー）。",
+    "similarItems": [
+      {
+        "name": "カルメ焼き",
+        "difference": "日本のカルメ焼きはふくらませて厚みがある。タルゴナは平たく押す"
+      },
+      {
+        "name": "型抜き",
+        "difference": "日本の型抜き菓子も同じ遊び方"
+      },
+      {
+        "id": "hotteok",
+        "name": "ホットク",
+        "difference": "屋台の甘いおやつだが、こちらは焼き生地"
+      }
+    ],
+    "relatedIds": [
+      "hotteok",
+      "kkwabaegi"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Dalgona"
+    ],
+    "tags": [
+      "韓国料理",
+      "菓子",
+      "焼き物",
+      "甘み",
+      "香ばしい",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "甘いものが苦手",
+      "硬いお菓子",
+      "苦味が苦手",
+      "しっとりしたお菓子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/dalgona/1.jpg",
+      "/images/dishes/dalgona/2.jpg",
+      "/images/dishes/dalgona/3.jpg"
+    ]
+  },
+  {
+    "id": "sikhye",
+    "name": "シッケ",
+    "kana": "しっけ",
+    "aliases": [
+      "食醯",
+      "韓国の甘酒",
+      "シッヘ"
+    ],
+    "englishName": "Sikhye",
+    "originalName": "식혜",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "麦芽の糖化作用で米を甘くした韓国の伝統的な甘い米飲料。冷やして食後のデザートとして飲み、ご飯粒が浮いているのが特徴。",
+    "menuDescription": "炊いたご飯を麦芽水で糖化させ、生姜をほのかに効かせた冷たい伝統飲料。食後の口直しに。",
+    "whatComesOut": [
+      "冷たい淡い色の飲み物",
+      "ご飯粒が浮いている",
+      "松の実が浮かぶことも",
+      "缶入りでもコンビニで販売"
+    ],
+    "tasteAndTexture": [
+      "やさしい自然な甘さ",
+      "すっきりした後味",
+      "柔らかいご飯粒",
+      "冷たくさっぱり"
+    ],
+    "orderAdvice": "焼肉店や韓定食の食後にサービスで出ることが多い。チムジルバン（サウナ）の定番ドリンク。アルコールは含まない。",
+    "similarItems": [
+      {
+        "id": "amazake",
+        "name": "甘酒",
+        "difference": "日本の甘酒は米麹で作りとろみがある。シッケは麦芽で作りさらっとしている"
+      },
+      {
+        "id": "sujeonggwa",
+        "name": "スジョングァ",
+        "difference": "シナモンと生姜の伝統飲料"
+      },
+      {
+        "id": "makgeolli",
+        "name": "マッコリ",
+        "difference": "米の発酵酒。アルコールを含む"
+      }
+    ],
+    "relatedIds": [
+      "amazake",
+      "sujeonggwa",
+      "makgeolli",
+      "omija-cha"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Sikhye"
+    ],
+    "tags": [
+      "韓国料理",
+      "デザート",
+      "米",
+      "発酵",
+      "甘み",
+      "あっさり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "甘い飲み物が苦手",
+      "粒入り飲料",
+      "炭酸好き",
+      "温かい飲み物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sikhye/1.jpg",
+      "/images/dishes/sikhye/2.jpg",
+      "/images/dishes/sikhye/3.jpg"
+    ]
+  },
+  {
+    "id": "sujeonggwa",
+    "name": "スジョングァ",
+    "kana": "すじょんぐぁ",
+    "aliases": [
+      "水正果",
+      "シナモンパンチ"
+    ],
+    "englishName": "Sujeonggwa",
+    "originalName": "수정과",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "シナモンと生姜を煮出して砂糖で甘くした韓国の伝統飲料。干し柿や松の実を浮かべ、冷やして食後に飲む。",
+    "menuDescription": "シナモンと生姜をじっくり煮出し、甘みを加えて冷やした赤褐色の伝統飲料。干し柿と松の実を浮かべて。",
+    "whatComesOut": [
+      "赤褐色の冷たい飲み物",
+      "干し柿が浮かんでいることも",
+      "松の実",
+      "小さな器で食後に"
+    ],
+    "tasteAndTexture": [
+      "シナモンの強い香り",
+      "生姜のピリッとした刺激",
+      "すっきりした甘さ",
+      "冷たく爽快"
+    ],
+    "orderAdvice": "シナモン好きならぜひ。シッケと並ぶ韓国の食後飲料。脂っこい料理の後の口直しに。",
+    "caution": "ナッツ（松の実）を含むことがある。",
+    "similarItems": [
+      {
+        "id": "sikhye",
+        "name": "シッケ",
+        "difference": "米を糖化させた甘い飲料。スジョングァはシナモン・生姜の煮出し"
+      },
+      {
+        "name": "チャイ",
+        "difference": "インドのスパイスミルクティー。乳を使い温かい"
+      },
+      {
+        "name": "冷やし飴",
+        "difference": "日本の生姜入り甘い飲み物"
+      }
+    ],
+    "relatedIds": [
+      "sikhye",
+      "omija-cha",
+      "cinnamon"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Sujeonggwa"
+    ],
+    "tags": [
+      "韓国料理",
+      "デザート",
+      "スパイス",
+      "果物",
+      "甘み",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "シナモンが苦手",
+      "生姜が苦手",
+      "甘い飲み物が苦手",
+      "温かい飲み物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/sujeonggwa/1.jpg"
+    ]
+  },
+  {
+    "id": "omija-cha",
+    "name": "オミジャ茶",
+    "kana": "おみじゃちゃ",
+    "aliases": [
+      "五味子茶",
+      "オミジャチャ"
+    ],
+    "englishName": "Omija-cha",
+    "originalName": "오미자차",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "乾燥した五味子（チョウセンゴミシの実）から作る韓国の伝統茶。甘・酸・苦・塩・辛の五つの味を持つことが名の由来。鮮やかな赤色が特徴。",
+    "menuDescription": "五味子の実を水に浸して抽出し、はちみつや砂糖で甘みを加えた鮮やかな赤色の伝統茶。冷たくても温かくても。",
+    "whatComesOut": [
+      "鮮やかな赤い飲み物",
+      "冷たい場合は梨や松の実が浮かぶことも",
+      "温かいお茶としても出る"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい果実味",
+      "ほのかな苦味と渋み",
+      "複雑な余韻",
+      "すっきりした後味"
+    ],
+    "orderAdvice": "伝統茶カフェで頼みたい一杯。酸味が強めなので甘さ加減を確認するとよい。夏は冷たいオミジャ・ファチェ（ポンチ）も。",
+    "similarItems": [
+      {
+        "name": "ハイビスカスティー",
+        "difference": "赤い色と酸味が似ている。オミジャは苦味や塩味も感じる複雑な味"
+      },
+      {
+        "name": "ゆず茶",
+        "difference": "韓国のゆずの砂糖漬けをお湯で溶いた甘いお茶"
+      },
+      {
+        "id": "sujeonggwa",
+        "name": "スジョングァ",
+        "difference": "シナモンと生姜の伝統飲料"
+      }
+    ],
+    "relatedIds": [
+      "sujeonggwa",
+      "sikhye"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Omija-cha"
+    ],
+    "tags": [
+      "韓国料理",
+      "果物",
+      "ハーブ",
+      "酸味",
+      "甘み",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "酸っぱいもの",
+      "苦味が苦手",
+      "ミルク系の飲み物",
+      "コーヒー好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/omija-cha/1.jpg",
+      "/images/dishes/omija-cha/2.jpg"
+    ]
+  },
+  {
+    "id": "makgeolli",
+    "name": "マッコリ",
+    "kana": "まっこり",
+    "aliases": [
+      "マッコルリ",
+      "韓国のにごり酒",
+      "マッコリカクテル"
+    ],
+    "englishName": "Makgeolli",
+    "originalName": "막걸리",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "米などを麹（ヌルク）で発酵させた乳白色の微発泡酒。アルコール度数は6〜8%程度と低く、甘酸っぱく飲みやすい韓国の伝統酒。",
+    "menuDescription": "米をヌルク（麹）で発酵させた、とろりと白い微発泡の伝統酒。やかんや器で出され、チヂミと合わせるのが定番。果物フレーバーやカクテルも。",
+    "whatComesOut": [
+      "白く濁った酒（ボトルややかん）",
+      "アルミや陶器の器",
+      "飲む前によく混ぜる",
+      "フルーツ入りマッコリカクテルも"
+    ],
+    "tasteAndTexture": [
+      "やさしい甘みと酸味",
+      "微発泡のシュワっと感",
+      "とろりとした口当たり",
+      "低アルコールで飲みやすい"
+    ],
+    "orderAdvice": "雨の日はパジョン（チヂミ）とマッコリが韓国の定番。度数が低く飲みやすいが、飲みすぎると悪酔いしやすい。お酒初心者にも。",
+    "caution": "アルコールを含む。小麦（ヌルク）を使用する場合がある。",
+    "similarItems": [
+      {
+        "name": "どぶろく",
+        "difference": "日本のにごり酒。マッコリより度数が高いことが多い"
+      },
+      {
+        "id": "amazake",
+        "name": "甘酒",
+        "difference": "米麹の甘い飲み物でアルコールはほぼない"
+      },
+      {
+        "id": "sikhye",
+        "name": "シッケ",
+        "difference": "ノンアルコールの甘い米飲料"
+      }
+    ],
+    "relatedIds": [
+      "haemul-pajeon",
+      "buchimgae",
+      "amazake",
+      "sikhye"
+    ],
+    "source": [
+      "https://kimnchi.co.jp/blog/korean-food/",
+      "https://en.wikipedia.org/wiki/Makgeolli"
+    ],
+    "tags": [
+      "韓国料理",
+      "米",
+      "発酵",
+      "甘み",
+      "酸味",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "お酒が飲めない",
+      "甘いお酒が苦手",
+      "炭酸が苦手",
+      "辛口のお酒"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/makgeolli/1.jpg",
+      "/images/dishes/makgeolli/2.jpg",
+      "/images/dishes/makgeolli/3.jpg"
+    ]
   }
 ]
