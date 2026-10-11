@@ -88719,6 +88719,7 @@
     "caution": "冷たいデザート。市販品は砂糖が多い場合あり。",
     "similarItems": [
       {
+        "id": "smoothie-bowl",
         "name": "スムージーボウル",
         "difference": "スムージーボウルは果物全般。アサイーはアサイーピューレの紫色と独特の渋みが中心"
       }
@@ -91352,6 +91353,7 @@
         "difference": "サーモンより味は淡く、小骨が多い。台湾料理では粥やスープに多用"
       },
       {
+        "id": "sabahi-zhou",
         "name": "サバヒー粥",
         "difference": "サバヒー粥は料理名。サバヒーは魚そのもの"
       }
@@ -93565,6 +93567,7 @@
         "difference": "モモは小麦皮の蒸し餃子。邵武包糍は米と草を使った皮が特徴"
       },
       {
+        "id": "mua-chi",
         "name": "麻糬",
         "difference": "麻糬は甘い餅菓子が多い。邵武小吃の包糍は惣菜餡入り"
       }
@@ -95609,6 +95612,7 @@
   {
     "similarItems": [
       {
+        "id": "pai-gu-tang",
         "name": "排骨湯",
         "difference": "通常の排骨湯より紅菇の香りと色が特徴"
       }
@@ -97397,6 +97401,7 @@
         "difference": "ジビエは鹿・猪等の野生鳥獣肉全般を指すのに対し、老鼠肉は齧歯類に限定される郷土食"
       },
       {
+        "id": "cuy",
         "name": "モルモット(クイ)料理",
         "difference": "南米ペルーの齧歯類料理。老鼠肉より脂が少なく上品な味わい"
       }
@@ -103775,6 +103780,7 @@
     "caution": "エビアレルギーに注意。",
     "similarItems": [
       {
+        "id": "sakuraebi-no-kakiage-shizuoka",
         "name": "桜えびのかき揚げ",
         "difference": "桜えびのかき揚げは静岡名物で赤い色が特徴。白えびのかき揚げは加熱しても白いままで上品な甘みが際立つ。"
       },
@@ -105161,6 +105167,7 @@
     "caution": "海藻アレルギーに注意。",
     "similarItems": [
       {
+        "id": "30-27-fukushima",
         "name": "えごねり（新潟）",
         "difference": "えごねりは新潟の同種の海藻寒天。いぎすは鳥取中部特有で酢味噌や辛子醤油で食べるのが定番。"
       }
@@ -107198,6 +107205,7 @@
         "difference": "味噌田楽は豆腐や野菜に味噌だれを塗って焼くが、ばっけ味噌はふきのとうとくるみを練り込んだ常備菜でご飯にのせて食べる"
       },
       {
+        "id": "fukinotou-miso",
         "name": "ふきみそ",
         "difference": "一般的なふきみそはふきのとうと味噌のみのシンプルな配合が多いが、ばっけ味噌はくるみを加えコクを出すのが特徴"
       }
@@ -107445,6 +107453,7 @@
     "caution": "夏場は白菜の入手が難しく漬けにくいため、季節限定の漬物である。",
     "similarItems": [
       {
+        "id": "hakusai-zuke",
         "name": "白菜漬け",
         "difference": "一般的な白菜漬けは丸ごとまたはざく切りで漬けるが、たたみ漬けは葉を1枚ずつ広げて具材を挟み込み層にする"
       }
@@ -109934,6 +109943,7 @@
     "orderAdvice": "9月〜4月のイサザ漁期に滋賀県長浜市・高島市の土産物店や琵琶湖魚専門店で購入できる。",
     "similarItems": [
       {
+        "id": "ikanago-no-kugini",
         "name": "小女子の佃煮",
         "difference": "小女子（イカナゴ）の佃煮は瀬戸内などで広く作られるが、いさざ豆は琵琶湖固有種イサザと大豆を組み合わせる点が独自"
       }
@@ -110326,6 +110336,7 @@
     "orderAdvice": "4月の長浜八幡宮曳山まつりの頃に滋賀県湖北地域で振る舞われる。春の農繁期の「五月見舞い」にも作られる。",
     "similarItems": [
       {
+        "id": "yaki-saba-zushi",
         "name": "焼き鯖寿司",
         "difference": "焼き鯖寿司は酢飯に乗せる寿司だが、鯖そうめんは煮たサバをそうめんに合わせる点が異なる"
       }
@@ -111780,6 +111791,7 @@
     "caution": "骨があるので小さな子どもに与える際は注意。",
     "similarItems": [
       {
+        "id": "wakasagi-no-kanroni-kanagawa",
         "name": "公魚（わかさぎ）の甘露煮",
         "difference": "わかさぎは湖で獲れる小魚で、あいその甘露煮のような川魚特有の骨っぽさはより少ない"
       }
@@ -112128,6 +112140,7 @@
     "caution": "生節（カツオの加工品）を使うため、カツオ・魚介アレルギーの方は注意。",
     "similarItems": [
       {
+        "id": "takenoko-no-tosani",
         "name": "たけのこの土佐煮",
         "difference": "土佐煮はかつお節をまぶして仕上げる乾いた煮物で、生節を使う炊いたんより出汁の風味が強い"
       }
@@ -118989,6 +119002,7 @@
     "caution": "魚アレルギーに注意。",
     "similarItems": [
       {
+        "id": "hamo-no-otoshi",
         "name": "はものおとし",
         "difference": "おとしは湯引きして冷やして食べるが、焼き物は照り焼きや塩焼きにして温かく食べる"
       }
@@ -173484,6 +173498,7 @@
         "id": "koshian"
       },
       {
+        "id": "uguisu-an",
         "name": "うぐいすあん",
         "difference": "うぐいすあんはえんどう豆が原料。ずんだは枝豆が原料で風味と食感が異なる"
       }
@@ -192059,6 +192074,7 @@
         "difference": "ミルクが多く泡は薄い。カプチーノより軽くまろやか"
       },
       {
+        "id": "espresso",
         "name": "エスプレッソ",
         "difference": "ミルクを加えない濃縮コーヒーそのもの"
       }
@@ -192435,10 +192451,12 @@
     "orderAdvice": "粒あんの皮の食感が苦手な人向け。和菓子で選べるならなめらかさ重視でこちら。",
     "similarItems": [
       {
+        "id": "tsubuan",
         "name": "粒あん",
         "difference": "小豆の粒と皮を残した餡で、食感がある"
       },
       {
+        "id": "uguisu-an",
         "name": "うぐいすあん",
         "difference": "青えんどうで作る緑色の餡"
       },
@@ -192595,6 +192613,7 @@
         "difference": "あん肝を酢味噌にしてあんこうの身を食べる"
       },
       {
+        "id": "ankimo",
         "name": "あん肝ポン酢",
         "difference": "あんこうの肝。より脂が多く濃厚"
       },
@@ -192930,6 +192949,7 @@
         "difference": "コールドルマルはスウェーデンのロールキャベツでクリームソース系。サルミはヨーグルト添え"
       },
       {
+        "id": "roll-cabbage",
         "name": "ロールキャベツ",
         "difference": "ロールキャベツは大きくコンソメやトマト煮。サルミは小ぶりで酢漬けキャベツやブドウの葉を使う"
       }
@@ -193299,6 +193319,7 @@
         "difference": "グリッツは米国南部の粗挽きトウモロコシ粥で白いものが多く朝食向け"
       },
       {
+        "id": "banosh",
         "name": "バノシュ",
         "difference": "ウクライナ西部のトウモロコシ粥でサワークリームで炊く。ママリーガより濃厚"
       }
@@ -193668,10 +193689,12 @@
         "difference": "一般的なドーナツは砂糖がけ。パパナシは生地にチーズが入り、サワークリームとジャムをかける"
       },
       {
+        "id": "syrniki",
         "name": "シルニキ",
         "difference": "シルニキはロシア・ウクライナのカッテージチーズのパンケーキ。パパナシは揚げたドーナツ型"
       },
       {
+        "id": "gogosi",
         "name": "ゴゴシ",
         "difference": "ゴゴシはルーマニアの揚げパン。パパナシはチーズ生地でクリームとジャム付き"
       }
@@ -193930,6 +193953,7 @@
         "difference": "同じ具をキャベツで包む冬の料理。こちらはザワークラウトの酸味と燻製で重い"
       },
       {
+        "id": "piman-no-nikuzume",
         "name": "ピーマンの肉詰め",
         "difference": "日本版は焼いて仕上げる。ハンガリー版は米入りの具をトマトスープで煮込む"
       }
@@ -194240,10 +194264,12 @@
     "caution": "小麦・乳製品・卵を含む。ナッツトッピングに注意。",
     "similarItems": [
       {
+        "id": "trdelnik",
         "name": "トゥルデルニーク",
         "difference": "チェコ・スロバキアで観光名物化した同系統の菓子"
       },
       {
+        "id": "baumkuchen",
         "name": "バウムクーヘン",
         "difference": "液状生地を層状に焼くドイツ菓子。クルトゥーシュはパン生地を巻いて焼く"
       },
@@ -194319,10 +194345,12 @@
     "caution": "小麦・乳製品を含む。揚げ物で油が多い。",
     "similarItems": [
       {
+        "id": "pizza-fritta",
         "name": "ピッツァ・フリッタ",
         "difference": "ナポリの揚げピザ。具を包むタイプが多い"
       },
       {
+        "id": "belyashi",
         "name": "ベリャーシ",
         "difference": "ロシア・タタールの肉入り揚げパン"
       },
@@ -194576,10 +194604,12 @@
         "difference": "トマト野菜の冷製スープで塩味。こちらは果物で甘い"
       },
       {
+        "id": "fruktsoppa",
         "name": "フルクトソッパ",
         "difference": "北欧のドライフルーツスープ。温かくして出すことも多くクリームなし"
       },
       {
+        "id": "blabarssoppa",
         "name": "ブローベールスープ",
         "difference": "スウェーデンのブルーベリースープ。飲み物感覚"
       }
@@ -194659,6 +194689,7 @@
         "difference": "牛肉のパプリカスープ。ハラースレーは魚版といえる"
       },
       {
+        "id": "ukha",
         "name": "ウハー",
         "difference": "ロシアの澄んだ魚スープ。辛くない"
       }
@@ -194821,6 +194852,7 @@
         "difference": "コーヒー風味のマスカルポーネ。ショムローイはラム酒とチョコ"
       },
       {
+        "id": "trifle",
         "name": "トライフル",
         "difference": "英国のスポンジ・カスタード・クリームの層。構造が近い"
       }
@@ -195177,6 +195209,7 @@
         "difference": "さらさらで酸味・辛みが強い。濃厚ソースは果実が多く甘くとろり"
       },
       {
+        "id": "okonomi-sauce",
         "name": "お好みソース",
         "difference": "濃厚ソースから派生し、お好み焼き向けにさらに甘みと粘度を調整したもの"
       },
@@ -195348,6 +195381,7 @@
     "caution": "豚肉を含む。ソースに小麦・大豆を含む場合がある。",
     "similarItems": [
       {
+        "id": "pork-saute",
         "name": "ポークソテー",
         "difference": "塩胡椒やデミグラス等で仕上げる総称。ポークチャップはケチャップ味"
       },
@@ -195357,6 +195391,7 @@
         "difference": "パン粉の衣で揚げる。ポークチャップは衣なしでソテーしソースを絡める"
       },
       {
+        "id": "shogayaki",
         "name": "豚の生姜焼き",
         "difference": "醤油・生姜の和風味。ポークチャップは洋風の甘酸っぱい味"
       }
@@ -195715,6 +195750,7 @@
     "caution": "唐辛子を含む。エビチリの場合は甲殻類に注意。",
     "similarItems": [
       {
+        "id": "hot-sauce",
         "name": "ホットソース",
         "difference": "唐辛子と酢主体の辛味ソース。チリソースはトマトや砂糖で甘みがある"
       },
@@ -196257,6 +196293,7 @@
         "difference": "小麦粉をまぶしてバターで焼く調理法。ソースと対になる"
       },
       {
+        "id": "beurre-blanc",
         "name": "ブール・ブラン",
         "difference": "白ワイン・エシャロット・バターの乳化ソース。焦がさない"
       }
@@ -196973,6 +197010,7 @@
         "difference": "肉汁ベースの茶色いソース。ローストで併用される"
       },
       {
+        "id": "cranberry-sauce",
         "name": "クランベリーソース",
         "difference": "七面鳥に添える甘酸っぱい果実ソース"
       }
@@ -197056,6 +197094,7 @@
         "difference": "生または軽く加熱したトマト・唐辛子の卓上ソース。モーレは長時間煮込む"
       },
       {
+        "id": "japanese-curry",
         "name": "カレー",
         "difference": "多数のスパイスを使った煮込みソースという点で似る"
       },
@@ -197145,6 +197184,7 @@
         "difference": "どちらも羊乳ハードチーズ。ペコリーノはイタリア産でより塩気が強いものが多い"
       },
       {
+        "id": "manchego",
         "name": "マンチェゴ",
         "difference": "スペインの羊乳チーズ。パシュキ・スィルは島の塩分・ハーブ由来の風味がより個性的"
       },
@@ -197307,6 +197347,7 @@
         "difference": "スペイン・ガリシアの温かい茹でダコでパプリカ粉がけ。こちらは冷たいマリネサラダ"
       },
       {
+        "id": "insalata-di-polpo",
         "name": "インサラータ・ディ・ポルポ",
         "difference": "イタリアの同系統のタコサラダ。ほぼ同じ発想で、アドリア海の両岸で食べられる"
       },
@@ -197391,10 +197432,12 @@
     "caution": "小麦・卵・乳製品を使用。",
     "similarItems": [
       {
+        "id": "garganelli",
         "name": "ガルガネッリ",
         "difference": "四角い生地を巻いた筋入りの筒パスタ。フジは筋なしでイストラ特有の形"
       },
       {
+        "id": "tajarin",
         "name": "タヤリン・アル・タルトゥーフォ",
         "difference": "イタリア・ピエモンテの細い卵麺に白トリュフ。フジは筒状の手打ちパスタ"
       },
@@ -197473,10 +197516,12 @@
         "difference": "語源・発想は同じ。マネシュトラはとうもろこしや豆が多く、よりとろみがあり食事寄り"
       },
       {
+        "id": "jota",
         "name": "ヨータ",
         "difference": "イストラやトリエステのザワークラウト入り豆スープ。酸味がある"
       },
       {
+        "id": "pasta-e-fagioli",
         "name": "パスタ・エ・ファジョーリ",
         "difference": "イタリアの豆とパスタのスープ。マネシュトラは野菜ととうもろこしが主体"
       }
@@ -197726,6 +197771,7 @@
         "difference": "フランスの牛肉の赤ワイン煮込み。パシュティツァーダはプルーンと甘口ワインで甘酸っぱい"
       },
       {
+        "id": "sauerbraten",
         "name": "ザウアーブラーテン",
         "difference": "ドイツの酢漬け牛肉の煮込み。マリネの発想は近いがパシュティツァーダはより甘い"
       },
@@ -197804,10 +197850,12 @@
     "orderAdvice": "調理に2〜3時間かかるため多くの店で事前予約（2人前〜）が必要。グループ旅行の夕食にぴったり。タコのペカも珍しくおすすめ。",
     "similarItems": [
       {
+        "id": "sac",
         "name": "サチ",
         "difference": "ボスニアやセルビアで同じ鉄蓋調理具を指す呼び名。料理の原理は同じ"
       },
       {
+        "id": "kleftiko",
         "name": "クレフティコ",
         "difference": "ギリシャのラム蒸し焼き。紙や窯で封じる。ペカは鉄蓋＋炭火"
       },
@@ -198160,6 +198208,7 @@
         "difference": "南仏の魚介スープでサフラン風味。ブロデットは汁が少なめでポレンタと食べる"
       },
       {
+        "id": "cacciucco",
         "name": "カチュッコ",
         "difference": "トスカーナの魚介トマト煮込み。パンを添える"
       },
@@ -198323,6 +198372,7 @@
     "caution": "貝類を使用。生焼けや鮮度に注意。",
     "similarItems": [
       {
+        "id": "moules-marinieres",
         "name": "ムール・マリニエール",
         "difference": "フランスの白ワイン蒸し。ブザラはオリーブオイルとパン粉でソースにとろみがある"
       },
@@ -198407,6 +198457,7 @@
         "difference": "スペインのイカ墨パエリア。平鍋で焼き付けるのでおこげあり。こちらはクリーミーに炊くリゾット"
       },
       {
+        "id": "risotto-al-nero-di-seppia",
         "name": "リゾット・アル・ネーロ・ディ・セッピア",
         "difference": "ヴェネツィアの同じ料理。アドリア海両岸で共通"
       },
@@ -198492,6 +198543,7 @@
         "difference": "ポックンパは具材とご飯を炒めた炒飯。ビビンバは炒めずに混ぜる"
       },
       {
+        "id": "kaisendon",
         "name": "海鮮丼",
         "difference": "生の魚介をのせる日本の丼。ビビンバは混ぜて食べる前提"
       },
@@ -198580,6 +198632,7 @@
         "difference": "牛骨スープの白いスープ。ご飯を別に添えて自分で入れる"
       },
       {
+        "id": "zosui",
         "name": "雑炊",
         "difference": "日本の雑炊はご飯を煮崩す。クッパはスープとご飯の食感が分かれる"
       }
@@ -198653,6 +198706,7 @@
     "caution": "卵・ごま・加工肉を使用することが多い。",
     "similarItems": [
       {
+        "id": "futomaki-zushi-chiba",
         "name": "太巻き",
         "difference": "日本の太巻きは酢飯。キンパはごま油と塩で味付けしたご飯"
       },
@@ -198737,6 +198791,7 @@
     "caution": "卵・ごまを使用。",
     "similarItems": [
       {
+        "id": "chahan",
         "name": "チャーハン",
         "difference": "中国式炒飯。ポックンパはキムチやコチュジャンで味付けすることが多い"
       },
@@ -198914,6 +198969,7 @@
         "difference": "同じ小麦麺だがスープ麺"
       },
       {
+        "id": "jjamppong",
         "name": "チャンポン（韓国）",
         "difference": "韓国中華で人気を二分する真っ赤な辛い海鮮スープ麺"
       }
@@ -199337,6 +199393,7 @@
         "difference": "豚背骨とじゃがいもの辛い鍋。スンデクッパは辛くない白いスープ"
       },
       {
+        "id": "tonkotsu-ramen",
         "name": "とんこつラーメン",
         "difference": "豚骨白湯の濃厚さが近い"
       }
@@ -199413,10 +199470,12 @@
         "difference": "唐揚げは下味をつけて揚げる。ヤンニョムチキンは揚げた後に甘辛ソースを絡める"
       },
       {
+        "id": "buffalo-wings",
         "name": "バッファローウイング",
         "difference": "アメリカのホットソース絡めチキン。ヤンニョムは甘みが強い"
       },
       {
+        "id": "fried-chicken",
         "name": "フライドチキン",
         "difference": "韓国ではソースなしのフライドが対になるメニュー"
       }
@@ -199750,6 +199809,7 @@
         "difference": "醤油ダレに漬けた透明な味のケジャン。ヤンニョムは唐辛子の甘辛ダレ"
       },
       {
+        "id": "okizuke",
         "name": "沖漬け",
         "difference": "日本のイカなどの醤油漬け。生の魚介を漬ける発想が近い"
       },
@@ -199832,6 +199892,7 @@
         "difference": "南仏の魚介スープ。ヘムルタンは唐辛子で辛い"
       },
       {
+        "id": "haemul-jjim",
         "name": "ヘムルチム",
         "difference": "魚介とモヤシの辛い蒸し煮で汁気が少ない"
       },
@@ -199906,6 +199967,7 @@
     "caution": "魚介を使用。辛さが強い。骨に注意。",
     "similarItems": [
       {
+        "id": "anko-nabe",
         "name": "あんこう鍋",
         "difference": "日本のあんこう鍋は味噌や醤油の汁物。アグチムは辛い蒸し煮"
       },
@@ -199996,6 +200058,7 @@
         "difference": "味噌で煮る日本のサバ料理"
       },
       {
+        "id": "godeungeo-jorim",
         "name": "コドゥンオジョリム",
         "difference": "サバと大根の辛い煮付け"
       }
@@ -200157,6 +200220,7 @@
         "difference": "北海道のイカにもち米を詰めて甘辛く煮た料理。オジンオスンデは野菜も詰めて蒸す"
       },
       {
+        "id": "sundae",
         "name": "スンデ",
         "difference": "豚の腸に春雨や血を詰めた腸詰め。オジンオスンデはイカで代用"
       },
@@ -200321,6 +200385,7 @@
         "difference": "パンケーキは生地自体を焼く。ホットクは蜜を包んで押し焼き"
       },
       {
+        "id": "imagawayaki",
         "name": "今川焼き",
         "difference": "型で焼くあんこ入り焼き菓子"
       }
@@ -200404,6 +200469,7 @@
         "difference": "マンドゥは豆腐と春雨が入り、餡がよりふんわりしている"
       },
       {
+        "id": "yaki-gyoza",
         "name": "焼き餃子",
         "difference": "日本の焼き餃子はニンニクとキャベツが多く小ぶり"
       },
@@ -200494,6 +200560,7 @@
         "difference": "小さな葉付き大根を丸ごと漬けたもの。よりポリポリした食感"
       },
       {
+        "id": "takuan",
         "name": "たくあん",
         "difference": "日本の大根漬け。辛くなく甘い"
       }
@@ -200733,6 +200800,7 @@
         "difference": "角切り大根を発酵させたキムチ"
       },
       {
+        "id": "namul",
         "name": "ナムル",
         "difference": "ナムルは加熱した野菜をごま油で和えるものが多い"
       }
@@ -200880,6 +200948,7 @@
     "orderAdvice": "辛いキムチが苦手な人や口直しに最適。トック（餅）料理や重い料理に添えて汁を飲む。",
     "similarItems": [
       {
+        "id": "dongchimi",
         "name": "トンチミ",
         "difference": "大根丸ごとの白い水キムチで唐辛子を使わない"
       },
@@ -201117,6 +201186,7 @@
     "caution": "大豆を使用。",
     "similarItems": [
       {
+        "id": "koji",
         "name": "麹",
         "difference": "日本の味噌は米麹・麦麹を使う。メジュは大豆そのものを発酵させる"
       },
@@ -201204,6 +201274,7 @@
         "difference": "日本のかき氷は水の氷にシロップ。ピンスはミルク氷でふわふわ"
       },
       {
+        "id": "halo-halo",
         "name": "ハロハロ",
         "difference": "フィリピンの具だくさんかき氷"
       },
@@ -201282,10 +201353,12 @@
     "caution": "小麦・大豆・乳製品を使用。",
     "similarItems": [
       {
+        "id": "abekawamochi-shizuoka",
         "name": "安倍川餅",
         "difference": "日本のきな粉餅。インジョルミトーストはパンと合わせた洋風アレンジ"
       },
       {
+        "id": "honey-toast",
         "name": "ハニートースト",
         "difference": "日本のカラオケ店等で人気の甘いトースト"
       },
@@ -201366,6 +201439,7 @@
         "difference": "一般的なリング状ドーナツ。クァベギはねじってあり食感がもちもち"
       },
       {
+        "id": "mahua",
         "name": "麻花",
         "difference": "中国のねじり揚げ菓子。カリカリと硬い"
       },
@@ -201441,6 +201515,7 @@
     "orderAdvice": "味より体験を楽しむおやつ。ドラマの影響で観光地の屋台でも人気。タルゴナコーヒーは別物（泡立てたコーヒー）。",
     "similarItems": [
       {
+        "id": "karumeyaki",
         "name": "カルメ焼き",
         "difference": "日本のカルメ焼きはふくらませて厚みがある。タルゴナは平たく押す"
       },
@@ -201609,10 +201684,12 @@
         "difference": "米を糖化させた甘い飲料。スジョングァはシナモン・生姜の煮出し"
       },
       {
+        "id": "chai",
         "name": "チャイ",
         "difference": "インドのスパイスミルクティー。乳を使い温かい"
       },
       {
+        "id": "hiyashiame",
         "name": "冷やし飴",
         "difference": "日本の生姜入り甘い飲み物"
       }
@@ -201680,10 +201757,12 @@
     "orderAdvice": "伝統茶カフェで頼みたい一杯。酸味が強めなので甘さ加減を確認するとよい。夏は冷たいオミジャ・ファチェ（ポンチ）も。",
     "similarItems": [
       {
+        "id": "hibiscus-tea",
         "name": "ハイビスカスティー",
         "difference": "赤い色と酸味が似ている。オミジャは苦味や塩味も感じる複雑な味"
       },
       {
+        "id": "yuja-cha",
         "name": "ゆず茶",
         "difference": "韓国のゆずの砂糖漬けをお湯で溶いた甘いお茶"
       },
@@ -201945,6 +202024,7 @@
         "difference": "米を麹で発酵させた韓国のにごり酒。甘みが強い"
       },
       {
+        "id": "tej",
         "name": "タッジ（テッジ）",
         "difference": "はちみつとゲショで作るエチオピアの蜂蜜酒。甘く香り高い"
       }
@@ -202277,6 +202357,7 @@
         "difference": "米・パスタ・豆にトマトソースをかけた肉なしの庶民食"
       },
       {
+        "id": "mandi",
         "name": "マンディ",
         "difference": "スパイスで炊いた米に肉をのせたイエメン料理。パンやトマトソースは使わない"
       }
@@ -202525,6 +202606,7 @@
         "difference": "チーズを詰めたジョージアのパン"
       },
       {
+        "id": "arayes",
         "name": "アライス",
         "difference": "ひき肉をピタに詰めてグリルするレバノン・シリアの料理。ほぼ同じ発想"
       }
@@ -202606,6 +202688,7 @@
         "difference": "回転焼きした肉のサンドイッチ。レバーではなく赤身肉や鶏肉"
       },
       {
+        "id": "nira-reba",
         "name": "レバニラ炒め",
         "difference": "ニラと炒めた中華風レバー料理。甘辛い醤油味"
       }
@@ -202683,6 +202766,7 @@
         "difference": "野菜やブドウの葉に米を詰めた料理。エジプトではマフシーと呼ぶ"
       },
       {
+        "id": "hamam-mashwi",
         "name": "ハマーム・マシュウィー",
         "difference": "鳩をそのままグリルしたもの。詰め物なし"
       }
@@ -202757,6 +202841,7 @@
     "caution": "小麦・乳製品・ナッツを含む。",
     "similarItems": [
       {
+        "id": "bread-pudding",
         "name": "ブレッドプディング",
         "difference": "パンを卵液に浸して焼く英国の菓子。卵を使いよりプリン寄り"
       },
@@ -202920,10 +203005,12 @@
     "caution": "乳製品を含む。",
     "similarItems": [
       {
+        "id": "muhallebi",
         "name": "ムハラビーヤ",
         "difference": "米粉やコーンスターチでとろみをつけたなめらかなミルクプリン"
       },
       {
+        "id": "rice-pudding",
         "name": "ライスプディング",
         "difference": "欧州各地の米の牛乳煮。エジプト版はバニラ風味で冷やして食べる"
       }
@@ -203083,10 +203170,12 @@
     "caution": "辛口版は唐辛子入り。家庭製・市販品でなすが入る場合あり。",
     "similarItems": [
       {
+        "id": "lyutenitsa",
         "name": "リュテニツァ",
         "difference": "ブルガリアの類似ペーストでトマトを多く加え、より甘酸っぱい"
       },
       {
+        "id": "pindjur",
         "name": "ピンジュル",
         "difference": "パプリカ・トマト・なすを合わせ、アイバルより酸味と野菜感が強い"
       },
@@ -203171,6 +203260,7 @@
     "caution": "肉なし（斎戒版）が基本だが、店によってはベーコンやソーセージ入りの場合あり。豆が多く量も多め。",
     "similarItems": [
       {
+        "id": "pasulj",
         "name": "パスリ",
         "difference": "同じ白豆料理だが、燻製肉と煮込むスープ・シチュー状のもの"
       },
@@ -203259,6 +203349,7 @@
     "caution": "乳製品アレルギー不可。脂肪分が非常に高い。非加熱乳を使う家庭製もあるため妊娠中は注意。",
     "similarItems": [
       {
+        "id": "clotted-cream",
         "name": "クロテッドクリーム",
         "difference": "英国の類似品で甘い用途中心。カイマックは塩をして料理に使う"
       },
@@ -203511,6 +203602,7 @@
     "caution": "チーズ・卵入りの場合あり（プロヤラ）。小麦粉を混ぜるレシピもある。",
     "similarItems": [
       {
+        "id": "cornbread",
         "name": "コーンブレッド",
         "difference": "米国南部の類似品。砂糖やバターでより甘くリッチ"
       },
@@ -203692,6 +203784,7 @@
         "difference": "フェタチーズとオリーブ、オリーブオイルが入る"
       },
       {
+        "id": "coban-salatasi",
         "name": "チョバン・サラタス",
         "difference": "トルコの羊飼いサラダ。パセリやレモンを加えより酸味が立つ"
       }
@@ -203870,6 +203963,7 @@
         "difference": "スペインの子豚の窯焼き。串で回さずオーブンで焼く"
       },
       {
+        "id": "porchetta",
         "name": "ポルケッタ",
         "difference": "イタリアの豚ロースト。ハーブを詰めて巻いて焼く"
       }
@@ -204038,6 +204132,7 @@
     "caution": "小麦・乳・卵を含む場合あり。",
     "similarItems": [
       {
+        "id": "croissant",
         "name": "クロワッサン",
         "difference": "バターを折り込んだ層状の生地。キフレはパン生地でバター感が控えめ"
       }
@@ -204116,10 +204211,12 @@
         "difference": "トルタ・アオガダの中身の豚肉料理。通常はタコスにする"
       },
       {
+        "id": "french-dip",
         "name": "フレンチディップ",
         "difference": "米国の牛肉サンドイッチ。肉汁に浸して食べるが辛くない"
       },
       {
+        "id": "torta",
         "name": "トルタ",
         "difference": "メキシコの一般的なサンドイッチ。ソースに浸さない"
       }
@@ -204200,6 +204297,7 @@
         "difference": "ペルー発祥。長めに柑橘で締め、トマトなどと和えることが多くマイルド"
       },
       {
+        "id": "coctel-de-camaron",
         "name": "コクテル・デ・カマロン",
         "difference": "メキシコの茹でエビカクテル。ケチャップ系の甘いソースで辛くない"
       },
@@ -204279,6 +204377,7 @@
     "caution": "揚げ焼きの店もあり油分多め。具に豚肉が多い。",
     "similarItems": [
       {
+        "id": "arepa",
         "name": "アレパ",
         "difference": "コロンビア・ベネズエラのトウモロコシパン。厚みや食べ方はほぼ同じ"
       },
@@ -204369,6 +204468,7 @@
         "difference": "一般的なエンチラーダはソースをかけてオーブン焼き。ミネラスは焼いてから野菜と盛る"
       },
       {
+        "id": "enchiladas-potosinas",
         "name": "エンチラーダス・ポトシーナス",
         "difference": "サン・ルイス・ポトシ州の、唐辛子を練り込んだ生地で包む揚げ餃子状のもの"
       },
@@ -204454,6 +204554,7 @@
         "difference": "プエブラ発祥の赤茶色のモレ。ネグロより甘く苦みが少ない"
       },
       {
+        "id": "mole-colorado",
         "name": "モレ・コロラド",
         "difference": "同じオアハカの赤いモレ。チョコ控えめで唐辛子の風味が前に出る"
       },
@@ -204541,10 +204642,12 @@
         "difference": "牛肉を炭火で焼くだけのシンプルなグリル"
       },
       {
+        "id": "alambre",
         "name": "アランブレ",
         "difference": "牛肉・ベーコン・ピーマン・チーズの炒め物。ディスカーダより具が少なくチーズ入り"
       },
       {
+        "id": "fajitas",
         "name": "ファヒータ",
         "difference": "テクスメクスの鉄板焼き。肉は1種類で野菜は大きめ"
       }
@@ -204703,6 +204806,7 @@
     "caution": "クルミ（ナッツ）・乳製品を含む。季節限定の店が多い。",
     "similarItems": [
       {
+        "id": "chile-relleno",
         "name": "チレ・レジェーノ",
         "difference": "ポブラーノにチーズや肉を詰め、衣をつけて揚げトマトソースをかける"
       },
@@ -204961,10 +205065,12 @@
     "caution": "小麦・卵・乳製品を含む。",
     "similarItems": [
       {
+        "id": "brioche",
         "name": "ブリオッシュ",
         "difference": "フランスのバターたっぷりの甘いパン。生地は近いが香り付けや飾りがない"
       },
       {
+        "id": "rosca-de-reyes",
         "name": "ロスカ・デ・レジェス",
         "difference": "1月6日の公現祭に食べるメキシコのリング状の甘いパン"
       },
@@ -205048,10 +205154,12 @@
     "caution": "装飾に食用でない素材（ラメ・紙・ホイル等）が使われていることがあるため、食べる場合は確認。",
     "similarItems": [
       {
+        "id": "rakugan",
         "name": "落雁",
         "difference": "日本の型押し干菓子。仏事に供える点も似るが、米粉などを混ぜ口どけがよい"
       },
       {
+        "id": "alfenique",
         "name": "アルフェニーケ",
         "difference": "砂糖細工全般。動物や果物などドクロ以外の形も作る"
       },
@@ -205137,10 +205245,12 @@
         "difference": "中東のとろみのある温かいミルク飲料。ランの球根粉でとろみをつける"
       },
       {
+        "id": "hot-chocolate",
         "name": "ホットチョコレート",
         "difference": "とろみはトウモロコシ粉ではなくチョコレート由来"
       },
       {
+        "id": "kuzuyu",
         "name": "葛湯",
         "difference": "日本の葛粉のとろみ飲料。甘さ控えめでより透明"
       }
@@ -205177,5 +205287,7473 @@
       "/images/dishes/atole/2.jpg",
       "/images/dishes/atole/3.jpg"
     ]
+  },
+  {
+    "id": "hakusai-zuke",
+    "name": "白菜漬け",
+    "kana": "はくさいづけ",
+    "aliases": [
+      "白菜の漬物",
+      "白菜の塩漬け"
+    ],
+    "englishName": "Pickled napa cabbage",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "白菜を塩で漬け込み、乳酸発酵させたり浅漬けにしたりする日本の代表的な漬物。冬の家庭の常備菜。",
+    "menuDescription": "白菜を昆布・唐辛子・柚子皮とともに塩で漬け込んだ、さっぱりとした冬の漬物です。",
+    "whatComesOut": [
+      "ざく切りにした白菜の漬物",
+      "昆布や柚子皮、唐辛子",
+      "小皿盛り"
+    ],
+    "tasteAndTexture": [
+      "ほどよい塩気",
+      "発酵が進むとほのかな酸味",
+      "シャキシャキした歯ごたえ"
+    ],
+    "orderAdvice": "定食や和食の箸休めに。塩分が気になる人は量を控えめに。",
+    "similarItems": [
+      {
+        "name": "キムチ",
+        "difference": "キムチは唐辛子・塩辛・にんにくで漬け込む韓国の漬物。白菜漬けは塩が主体であっさり"
+      },
+      {
+        "id": "hakusai-no-tatamizuke",
+        "name": "白菜のたたみ漬け",
+        "difference": "白菜を何層にも重ねて漬けた郷土の漬物"
+      },
+      {
+        "id": "nozawana",
+        "name": "野沢菜漬け",
+        "difference": "野沢菜を使った長野の漬物"
+      }
+    ],
+    "relatedIds": [
+      "hakusai-no-tatamizuke",
+      "nozawana",
+      "takuan"
+    ],
+    "source": [
+      "https://macaro-ni.jp/71961",
+      "https://ja.wikipedia.org/wiki/%E6%BC%AC%E7%89%A9"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "発酵",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "キムチ",
+      "浅漬け嫌い",
+      "洋風ピクルス"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hakusai-zuke/1.jpg",
+      "/images/dishes/hakusai-zuke/2.jpg",
+      "/images/dishes/hakusai-zuke/3.jpg"
+    ]
+  },
+  {
+    "id": "yaki-saba-zushi",
+    "name": "焼き鯖寿司",
+    "kana": "やきさばずし",
+    "aliases": [
+      "焼きさば寿司",
+      "焼き鯖すし"
+    ],
+    "englishName": "Grilled mackerel sushi",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "福井県"
+      }
+    ],
+    "summary": "香ばしく焼いた鯖を生姜や大葉、酢飯とともに押し寿司にした福井名物。空港の『空弁』で全国的に有名になった。",
+    "menuDescription": "脂ののった鯖を香ばしく焼き上げ、生姜と大葉を挟んで酢飯と押し固めた棒寿司です。",
+    "whatComesOut": [
+      "焼いた鯖をのせた棒状の押し寿司",
+      "切り分けられた数切れ",
+      "ガリ（甘酢生姜）"
+    ],
+    "tasteAndTexture": [
+      "焼き鯖の香ばしさと脂の旨み",
+      "酢飯のほどよい酸味",
+      "生姜・大葉のさわやかさ"
+    ],
+    "orderAdvice": "生の鯖寿司が苦手でも食べやすい。駅弁・手土産としても定番。軽く温めると脂の香りが立つ。",
+    "caution": "鯖アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "saba-zushi-hyogo",
+        "name": "鯖寿司",
+        "difference": "酢締めの生鯖を使う棒寿司。焼き鯖寿司は焼いて香ばしい"
+      },
+      {
+        "id": "battera",
+        "name": "ばってら",
+        "difference": "薄い昆布をのせた大阪の鯖の押し寿司"
+      }
+    ],
+    "relatedIds": [
+      "saba-zushi-hyogo",
+      "battera",
+      "maruyaki-saba-fukui"
+    ],
+    "source": [
+      "https://fuku-iro.jp/feature/detail_223.html",
+      "https://ja.wikipedia.org/wiki/%E9%AF%96%E5%AF%BF%E5%8F%B8"
+    ],
+    "tags": [
+      "日本料理",
+      "ご飯もの",
+      "魚介",
+      "米",
+      "焼き物",
+      "香ばしい",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "生魚が苦手",
+      "肉料理",
+      "甘いもの"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "takenoko-no-tosani",
+    "name": "たけのこの土佐煮",
+    "kana": "たけのこのとさに",
+    "aliases": [
+      "筍の土佐煮",
+      "土佐煮"
+    ],
+    "englishName": "Bamboo shoots simmered with bonito flakes",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "茹でたたけのこを醤油・みりん・だしで煮て、仕上げに削り節をまぶした煮物。土佐名物の鰹節を使うことが名の由来。",
+    "menuDescription": "春のたけのこを甘辛く煮含め、たっぷりの鰹節をまとわせた土佐煮です。",
+    "whatComesOut": [
+      "くし形に切ったたけのこの煮物",
+      "まぶされた削り節",
+      "木の芽を添えることも"
+    ],
+    "tasteAndTexture": [
+      "鰹節の香りと旨み",
+      "甘辛い醤油味",
+      "たけのこのシャキッとした食感"
+    ],
+    "orderAdvice": "春の和食の定番。お弁当や箸休めにも向く。えぐみが苦手でも下茹でされていれば食べやすい。",
+    "similarItems": [
+      {
+        "name": "若竹煮",
+        "difference": "たけのことわかめを薄味で炊いた煮物。土佐煮は鰹節をまぶし甘辛い"
+      },
+      {
+        "name": "たけのこの木の芽和え",
+        "difference": "木の芽味噌で和える。土佐煮は煮物"
+      }
+    ],
+    "relatedIds": [
+      "takenoko-fuki-namabushi-kyoto",
+      "takenoko-no-arame-ni"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E5%9C%9F%E4%BD%90%E7%85%AE"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "煮込み",
+      "甘み",
+      "家庭料理",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "洋食",
+      "揚げ物",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "hamo-no-otoshi",
+    "name": "はものおとし",
+    "kana": "はものおとし",
+    "aliases": [
+      "鱧落とし",
+      "鱧の湯引き",
+      "はもちり"
+    ],
+    "englishName": "Blanched pike conger",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "京都府"
+      }
+    ],
+    "summary": "骨切りした鱧をさっと湯に落として身を花のように開かせ、氷水で締めた京都・大阪の夏の料理。梅肉や酢味噌で食べる。",
+    "menuDescription": "丁寧に骨切りした鱧を湯通しし、白い花のように開いた身を梅肉でさっぱりと召し上がっていただきます。",
+    "whatComesOut": [
+      "白く花のように開いた鱧の切り身",
+      "梅肉だれまたは酢味噌",
+      "氷の上に盛り付け"
+    ],
+    "tasteAndTexture": [
+      "淡白で上品な白身",
+      "ふわっとした身と皮の弾力",
+      "梅肉の酸味"
+    ],
+    "orderAdvice": "祇園祭の頃が旬。京料理を味わいたいなら外せない一品。価格は高め。",
+    "similarItems": [
+      {
+        "id": "hamo-no-yakimono-kyoto",
+        "name": "はもの焼き物",
+        "difference": "鱧を焼いて香ばしく仕上げる。おとしは湯引きでさっぱり"
+      },
+      {
+        "id": "hamo-nabe",
+        "name": "鱧鍋",
+        "difference": "鱧を鍋仕立てにした料理"
+      },
+      {
+        "name": "湯引き",
+        "difference": "魚を湯通しする技法全般。おとしは鱧の湯引き"
+      }
+    ],
+    "relatedIds": [
+      "hamo-nabe",
+      "hamo-no-yakimono-kyoto",
+      "hamokawa-zakuzaku-osaka"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%A2",
+      "https://en.wikipedia.org/wiki/Daggertooth_pike_conger"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "魚介",
+      "あっさり",
+      "酸味",
+      "季節料理",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "こってり",
+      "肉料理",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "ankimo",
+    "name": "あん肝",
+    "kana": "あんきも",
+    "aliases": [
+      "鮟肝",
+      "あん肝ポン酢",
+      "あんきもポン酢"
+    ],
+    "englishName": "Ankimo",
+    "originalName": "鮟肝",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "アンコウの肝を塩と酒で下処理し、筒状に巻いて蒸した料理。濃厚な味わいから『海のフォアグラ』と呼ばれ、ポン酢ともみじおろしで食べる。",
+    "menuDescription": "蒸し上げたアンコウの肝を輪切りにし、ポン酢ともみじおろし、あさつきを添えてご用意しました。",
+    "whatComesOut": [
+      "輪切りにした蒸しあん肝",
+      "ポン酢",
+      "もみじおろし・あさつき"
+    ],
+    "tasteAndTexture": [
+      "濃厚でクリーミーなコク",
+      "とろけるような口当たり",
+      "ポン酢の酸味でさっぱり"
+    ],
+    "orderAdvice": "冬が旬の居酒屋の定番つまみ。日本酒によく合う。濃厚なので少量で満足感がある。",
+    "caution": "プリン体が多い。",
+    "similarItems": [
+      {
+        "id": "shirako-ponzu",
+        "name": "白子ポン酢",
+        "difference": "鱈の白子をポン酢で食べる。あん肝より軽くクリーミー"
+      },
+      {
+        "id": "foie-gras",
+        "name": "フォアグラ",
+        "difference": "鴨やガチョウの肝。あん肝は『海のフォアグラ』と呼ばれる"
+      },
+      {
+        "id": "anko-nabe",
+        "name": "あんこう鍋",
+        "difference": "アンコウの身や肝を使った鍋"
+      }
+    ],
+    "relatedIds": [
+      "shirako-ponzu",
+      "anko-nabe",
+      "ankou-no-tomozu-ibaraki",
+      "foie-gras"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Ankimo",
+      "https://ja.wikipedia.org/wiki/%E6%B5%B7%E3%81%AE%E3%83%95%E3%82%A9%E3%82%A2%E3%82%B0%E3%83%A9"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "魚介",
+      "蒸し料理",
+      "クリーミー",
+      "こってり",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "あっさりした刺身",
+      "内臓が苦手",
+      "野菜料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ankimo/1.jpg"
+    ]
+  },
+  {
+    "id": "tsubuan",
+    "name": "粒あん",
+    "kana": "つぶあん",
+    "aliases": [
+      "つぶ餡",
+      "小倉あん"
+    ],
+    "englishName": "Tsubuan (chunky red bean paste)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "小豆の皮を残して粒の形を活かし、砂糖で甘く煮詰めた餡。おはぎ、大福、たい焼きなど和菓子に広く使われる。",
+    "menuDescription": "北海道産小豆を皮ごとふっくら炊き上げた、豆の食感が楽しめる粒あんです。",
+    "whatComesOut": [
+      "粒の残った小豆の餡",
+      "和菓子やパンの中身",
+      "トースト等に添えた状態"
+    ],
+    "tasteAndTexture": [
+      "小豆の風味と素朴な甘み",
+      "皮のほろっとした食感",
+      "しっとりした餡"
+    ],
+    "orderAdvice": "小豆の豆らしさを味わいたい人向け。なめらかさを求めるならこしあんを。",
+    "similarItems": [
+      {
+        "id": "koshian",
+        "name": "こしあん",
+        "difference": "皮を除いて漉したなめらかな餡"
+      },
+      {
+        "id": "uguisu-an",
+        "name": "うぐいすあん",
+        "difference": "青えんどうで作る緑色の餡"
+      },
+      {
+        "id": "zunda",
+        "name": "ずんだ",
+        "difference": "枝豆で作る緑色の餡"
+      }
+    ],
+    "relatedIds": [
+      "koshian",
+      "uguisu-an",
+      "zunda",
+      "imagawayaki"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E9%A4%A1",
+      "https://en.wikipedia.org/wiki/Red_bean_paste"
+    ],
+    "tags": [
+      "日本料理",
+      "菓子",
+      "豆類",
+      "甘み",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "洋菓子",
+      "塩味のスナック",
+      "甘いもの嫌い"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "uguisu-an",
+    "name": "うぐいすあん",
+    "kana": "うぐいすあん",
+    "aliases": [
+      "うぐいす餡",
+      "鶯餡"
+    ],
+    "englishName": "Uguisu-an (green pea paste)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "茹でた青えんどう豆を潰して砂糖で甘く味付けした緑色の漉し餡。和菓子やうぐいすパンに使われる。",
+    "menuDescription": "青えんどう豆を丁寧に炊いて漉した、やさしい甘さの緑色の餡です。",
+    "whatComesOut": [
+      "淡い緑色のなめらかな餡",
+      "和菓子やパンの中身"
+    ],
+    "tasteAndTexture": [
+      "えんどう豆の青い香り",
+      "上品な甘さ",
+      "なめらかな舌ざわり"
+    ],
+    "orderAdvice": "小豆とは違う豆の風味を楽しみたい人に。春の和菓子に多い。",
+    "similarItems": [
+      {
+        "id": "zunda",
+        "name": "ずんだ",
+        "difference": "枝豆を潰した餡。うぐいすあんはえんどう豆で作る"
+      },
+      {
+        "id": "koshian",
+        "name": "こしあん",
+        "difference": "小豆を漉した餡"
+      },
+      {
+        "id": "tsubuan",
+        "name": "粒あん",
+        "difference": "小豆の粒を残した餡"
+      }
+    ],
+    "relatedIds": [
+      "zunda",
+      "koshian",
+      "tsubuan"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%90%E3%81%84%E3%81%99%E9%A4%A1"
+    ],
+    "tags": [
+      "日本料理",
+      "菓子",
+      "豆類",
+      "甘み",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "小豆あん",
+      "洋菓子",
+      "甘いもの嫌い"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "kaisendon",
+    "name": "海鮮丼",
+    "kana": "かいせんどん",
+    "aliases": [
+      "かいせん丼"
+    ],
+    "englishName": "Kaisendon (seafood rice bowl)",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "白飯または酢飯の上にマグロ、サーモン、イクラ、ウニ、エビなど魚介の刺身を盛り付けた丼。北日本から全国に広まったとされる。",
+    "menuDescription": "その日の朝獲れの魚介をご飯が見えないほどたっぷり盛り付けた海鮮丼です。",
+    "whatComesOut": [
+      "刺身を盛った丼ご飯",
+      "わさびと醤油",
+      "味噌汁や小鉢が付くことも"
+    ],
+    "tasteAndTexture": [
+      "新鮮な魚介の甘み",
+      "いろいろなネタの食べ比べ",
+      "酢飯ならさっぱり"
+    ],
+    "orderAdvice": "港町や市場で食べるのが醍醐味。ネタ構成と価格を見比べて選ぶとよい。",
+    "caution": "生魚・甲殻類アレルギーに注意。",
+    "similarItems": [
+      {
+        "name": "ちらし寿司",
+        "difference": "酢飯に具を散らした寿司。海鮮丼は白飯の店もある"
+      },
+      {
+        "name": "鉄火丼",
+        "difference": "マグロだけをのせた丼"
+      },
+      {
+        "id": "bibimbap",
+        "name": "ビビンバ",
+        "difference": "具材を混ぜて食べる韓国の丼"
+      }
+    ],
+    "relatedIds": [
+      "salmon",
+      "bibimbap"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E6%B5%B7%E9%AE%AE%E4%B8%BC",
+      "https://en.wikipedia.org/wiki/Donburi"
+    ],
+    "tags": [
+      "日本料理",
+      "ご飯もの",
+      "魚介",
+      "米",
+      "生食",
+      "あっさり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "生魚が苦手",
+      "肉丼",
+      "加熱料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "zosui",
+    "name": "雑炊",
+    "kana": "ぞうすい",
+    "aliases": [
+      "おじや"
+    ],
+    "englishName": "Zosui",
+    "originalName": "雑炊",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "醤油や味噌で味付けしただしで、ご飯を肉・魚介・野菜とともに煮た料理。鍋のシメとしても定番で、溶き卵を回しかけることが多い。",
+    "menuDescription": "鍋の旨みが溶け出したスープでご飯を煮込み、ふんわり卵でとじた雑炊です。",
+    "whatComesOut": [
+      "だしで煮たご飯",
+      "溶き卵",
+      "ねぎや三つ葉",
+      "鍋のシメとして土鍋で出ることも"
+    ],
+    "tasteAndTexture": [
+      "だしのやさしい旨み",
+      "さらさら〜とろっとした食感",
+      "体が温まる"
+    ],
+    "orderAdvice": "鍋の最後に頼むのが定番。体調が優れない時や飲んだ後にも向く。",
+    "similarItems": [
+      {
+        "name": "お粥",
+        "difference": "米から炊く。雑炊は炊いたご飯を煮る"
+      },
+      {
+        "id": "gukbap",
+        "name": "クッパ",
+        "difference": "スープにご飯を入れた韓国料理"
+      },
+      {
+        "id": "risotto",
+        "name": "リゾット",
+        "difference": "生米を炒めてスープで煮るイタリア料理"
+      }
+    ],
+    "relatedIds": [
+      "gukbap",
+      "risotto",
+      "tori-dose-chiba"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E9%9B%91%E7%82%8A",
+      "https://en.wikipedia.org/wiki/Zosui"
+    ],
+    "tags": [
+      "日本料理",
+      "ご飯もの",
+      "米",
+      "卵",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "こってり",
+      "揚げ物",
+      "パン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/zosui/1.jpg",
+      "/images/dishes/zosui/2.jpg",
+      "/images/dishes/zosui/3.jpg"
+    ]
+  },
+  {
+    "id": "tonkotsu-ramen",
+    "name": "とんこつラーメン",
+    "kana": "とんこつらーめん",
+    "aliases": [
+      "豚骨ラーメン",
+      "博多ラーメン"
+    ],
+    "englishName": "Tonkotsu ramen",
+    "originalName": "豚骨ラーメン",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "福岡県"
+      }
+    ],
+    "summary": "豚骨を強火で長時間煮出した白濁スープのラーメン。福岡県久留米市発祥とされ、九州を代表する麺料理。",
+    "menuDescription": "豚骨をじっくり炊き出した濃厚白濁スープに、極細麺を合わせた九州ラーメンです。",
+    "whatComesOut": [
+      "白濁した豚骨スープのラーメン",
+      "細いストレート麺",
+      "チャーシュー・ねぎ・きくらげ",
+      "紅しょうが・辛子高菜（卓上）"
+    ],
+    "tasteAndTexture": [
+      "濃厚でクリーミーな豚骨の旨み",
+      "独特の豚骨の香り",
+      "細麺の歯切れのよさ"
+    ],
+    "orderAdvice": "麺の硬さ（バリカタ等）と替え玉を頼めるのが特徴。豚骨臭が苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "ramen-hokkaido",
+        "name": "ラーメン",
+        "difference": "醤油・塩・味噌などスープの種類が多い"
+      },
+      {
+        "id": "sundae-gukbap",
+        "name": "スンデクッパ",
+        "difference": "豚骨スープにスンデとご飯を入れた韓国料理"
+      },
+      {
+        "id": "46-8-nagasaki",
+        "name": "ちゃんぽん",
+        "difference": "豚骨鶏ガラスープに具だくさんの長崎の麺"
+      }
+    ],
+    "relatedIds": [
+      "ramen-hokkaido",
+      "46-8-nagasaki",
+      "chinese-noodles"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Tonkotsu_ramen",
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3"
+    ],
+    "tags": [
+      "日本料理",
+      "麺料理",
+      "豚肉",
+      "小麦",
+      "煮込み",
+      "こってり",
+      "クリーミー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "あっさり",
+      "獣臭が苦手",
+      "サラダ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tonkotsu-ramen/1.jpg",
+      "/images/dishes/tonkotsu-ramen/2.jpg",
+      "/images/dishes/tonkotsu-ramen/3.jpg"
+    ]
+  },
+  {
+    "id": "anko-nabe",
+    "name": "あんこう鍋",
+    "kana": "あんこうなべ",
+    "aliases": [
+      "鮟鱇鍋"
+    ],
+    "englishName": "Anglerfish hot pot",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "茨城県"
+      }
+    ],
+    "summary": "アンコウの身・皮・肝などを野菜とともに煮込む鍋料理。茨城県の冬の名物で、肝を溶かし込んだ『どぶ汁』も知られる。",
+    "menuDescription": "あん肝を溶かし込んだ濃厚な味噌仕立てで、アンコウの七つ道具を野菜とともに味わう鍋です。",
+    "whatComesOut": [
+      "アンコウの身・皮・肝など",
+      "白菜・ねぎ・豆腐など",
+      "味噌または醤油の汁",
+      "シメの雑炊"
+    ],
+    "tasteAndTexture": [
+      "肝の溶けた濃厚なコク",
+      "ぷるぷるのゼラチン質",
+      "淡白な身"
+    ],
+    "orderAdvice": "冬（12〜2月）が旬。2人前からが多い。シメの雑炊まで楽しむのが定番。",
+    "similarItems": [
+      {
+        "id": "ankimo",
+        "name": "あん肝",
+        "difference": "アンコウの肝を蒸した料理"
+      },
+      {
+        "id": "agwi-jjim",
+        "name": "アグチム",
+        "difference": "アンコウを辛く蒸し煮にした韓国料理"
+      },
+      {
+        "name": "ふぐちり",
+        "difference": "ふぐを使った鍋"
+      }
+    ],
+    "relatedIds": [
+      "ankimo",
+      "agwi-jjim",
+      "ankou-no-tomozu-ibaraki",
+      "30-15-fukushima",
+      "zosui"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%93%E3%81%93%E3%81%86%E9%8D%8B",
+      "https://en.wikipedia.org/wiki/Anglerfish"
+    ],
+    "tags": [
+      "日本料理",
+      "鍋料理",
+      "魚介",
+      "煮込み",
+      "こってり",
+      "郷土料理",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "内臓が苦手",
+      "肉の鍋",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "imagawayaki",
+    "name": "今川焼き",
+    "kana": "いまがわやき",
+    "aliases": [
+      "大判焼き",
+      "回転焼き",
+      "御座候",
+      "二重焼き"
+    ],
+    "englishName": "Imagawayaki",
+    "originalName": "今川焼き",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "小麦粉の生地に餡を入れ、円形の金属型で焼いた和菓子。地域によって大判焼き・回転焼きなど100以上の呼び名がある。",
+    "menuDescription": "ふっくら焼き上げた生地に、たっぷりの粒あんを詰めた焼きたての今川焼きです。",
+    "whatComesOut": [
+      "円柱形の焼き菓子",
+      "中に粒あんやカスタード",
+      "紙袋や紙に包んで手渡し"
+    ],
+    "tasteAndTexture": [
+      "外側は香ばしく中はふんわり",
+      "たっぷりの甘い餡",
+      "焼きたての温かさ"
+    ],
+    "orderAdvice": "縁日や商店街の定番おやつ。あんこ以外にカスタードやチーズなど店によって種類あり。",
+    "similarItems": [
+      {
+        "name": "たい焼き",
+        "difference": "鯛の形の型で焼く。生地や餡は近い"
+      },
+      {
+        "id": "hotteok",
+        "name": "ホットク",
+        "difference": "黒糖などを包んで焼く韓国のおやつ"
+      },
+      {
+        "name": "どら焼き",
+        "difference": "2枚の生地で餡を挟む"
+      }
+    ],
+    "relatedIds": [
+      "hotteok",
+      "tsubuan",
+      "koshian"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%B7%9D%E7%84%BC%E3%81%8D",
+      "https://en.wikipedia.org/wiki/Imagawayaki"
+    ],
+    "tags": [
+      "日本料理",
+      "菓子",
+      "小麦",
+      "豆類",
+      "焼き物",
+      "甘み",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "甘いもの嫌い",
+      "しょっぱいおやつ",
+      "洋菓子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/imagawayaki/1.jpg",
+      "/images/dishes/imagawayaki/2.jpg",
+      "/images/dishes/imagawayaki/3.jpg"
+    ]
+  },
+  {
+    "id": "yaki-gyoza",
+    "name": "焼き餃子",
+    "kana": "やきぎょうざ",
+    "aliases": [
+      "焼きギョーザ",
+      "鍋貼"
+    ],
+    "englishName": "Pan-fried gyoza",
+    "originalName": "焼き餃子",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "豚ひき肉と野菜の餡を薄い皮で包み、鉄板やフライパンで焼き目を付けて蒸し焼きにした餃子。日本では餃子といえば焼き餃子が主流。",
+    "menuDescription": "パリッと焼き上げた羽根つき焼き餃子。酢醤油とラー油でどうぞ。",
+    "whatComesOut": [
+      "焼き目のついた餃子5〜6個",
+      "酢・醤油・ラー油（卓上）"
+    ],
+    "tasteAndTexture": [
+      "パリッと香ばしい焼き面",
+      "肉汁たっぷりのジューシーな餡",
+      "にんにく・にらの風味"
+    ],
+    "orderAdvice": "ラーメン店や中華料理店の定番サイド。ビールとの相性抜群。にんにく抜きを選べる店もある。",
+    "caution": "小麦・豚肉を含む。",
+    "similarItems": [
+      {
+        "id": "jiaozi",
+        "name": "ジャオズ",
+        "difference": "中国の水餃子が主流"
+      },
+      {
+        "id": "enban-gyoza",
+        "name": "円盤餃子",
+        "difference": "フライパンに円形に並べて焼く福島の餃子"
+      },
+      {
+        "id": "mandu",
+        "name": "マンドゥ",
+        "difference": "韓国の餃子"
+      }
+    ],
+    "relatedIds": [
+      "jiaozi",
+      "enban-gyoza",
+      "mandu",
+      "momo"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E9%A4%83%E5%AD%90",
+      "https://en.wikipedia.org/wiki/Jiaozi"
+    ],
+    "tags": [
+      "日本料理",
+      "軽食",
+      "豚肉",
+      "小麦",
+      "焼き物",
+      "ジューシー",
+      "香ばしい",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "にんにくが苦手",
+      "あっさり",
+      "魚料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/yaki-gyoza/1.jpg",
+      "/images/dishes/yaki-gyoza/2.jpg",
+      "/images/dishes/yaki-gyoza/3.jpg"
+    ]
+  },
+  {
+    "id": "takuan",
+    "name": "たくあん",
+    "kana": "たくあん",
+    "aliases": [
+      "沢庵",
+      "沢庵漬け",
+      "たくわん"
+    ],
+    "englishName": "Takuan",
+    "originalName": "沢庵漬け",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "干したり塩押しした大根を米糠と塩、糖類などで漬けた漬物。黄色い見た目が特徴で、日本を代表する漬物。",
+    "menuDescription": "天日干し大根をじっくり糠に漬け込んだ、昔ながらのたくあんです。",
+    "whatComesOut": [
+      "黄色い輪切り・半月切りの大根の漬物",
+      "定食の小皿"
+    ],
+    "tasteAndTexture": [
+      "ポリポリとした歯ごたえ",
+      "甘じょっぱい味",
+      "糠の香り"
+    ],
+    "orderAdvice": "定食やおにぎりの添え物として定番。塩分は高め。",
+    "similarItems": [
+      {
+        "id": "kkakdugi",
+        "name": "カクテキ",
+        "difference": "大根の角切りキムチ"
+      },
+      {
+        "name": "いぶりがっこ",
+        "difference": "燻製した大根の漬物"
+      },
+      {
+        "id": "fukujinzuke",
+        "name": "福神漬け",
+        "difference": "野菜を刻んで醤油で漬けたもの"
+      }
+    ],
+    "relatedIds": [
+      "kkakdugi",
+      "fukujinzuke",
+      "takuan-no-kinpira-kagawa",
+      "furu-takuan-no-nimono-fukui"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E6%B2%A2%E5%BA%B5%E6%BC%AC%E3%81%91",
+      "https://en.wikipedia.org/wiki/Takuan"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "野菜",
+      "発酵",
+      "甘み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "漬物嫌い",
+      "生野菜サラダ",
+      "洋食"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/takuan/1.jpg",
+      "/images/dishes/takuan/2.jpg",
+      "/images/dishes/takuan/3.jpg"
+    ]
+  },
+  {
+    "id": "okizuke",
+    "name": "沖漬け",
+    "kana": "おきづけ",
+    "aliases": [
+      "イカの沖漬け",
+      "ホタルイカの沖漬け"
+    ],
+    "englishName": "Okizuke",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "イカなどの魚介を醤油ベースの漬け汁に漬け込んだ料理。本来は漁船上で獲れたてを生きたまま漬けたことが名の由来。北海道や富山の名物。",
+    "menuDescription": "新鮮なイカを特製醤油だれに漬け込んだ、酒の肴にぴったりの沖漬けです。",
+    "whatComesOut": [
+      "醤油に漬けたイカ（輪切りやまるごと）",
+      "小鉢盛り",
+      "柚子などを添えることも"
+    ],
+    "tasteAndTexture": [
+      "濃い醤油の旨み",
+      "イカのねっとりした食感",
+      "肝のコク"
+    ],
+    "orderAdvice": "日本酒やご飯のお供に。塩辛より食べやすい。",
+    "caution": "寄生虫対策で冷凍処理されたものを。",
+    "similarItems": [
+      {
+        "id": "yangnyeom-gejang",
+        "name": "ヤンニョムケジャン",
+        "difference": "カニを辛いタレに漬けた韓国料理"
+      },
+      {
+        "name": "塩辛",
+        "difference": "イカを内臓と塩で発酵させたもの"
+      },
+      {
+        "id": "ikura-no-shoyuzuke-hokkaido",
+        "name": "いくらの醤油漬け",
+        "difference": "鮭の卵を醤油に漬けたもの"
+      }
+    ],
+    "relatedIds": [
+      "yangnyeom-gejang",
+      "ikura-no-shoyuzuke-hokkaido",
+      "ikameshi-hokkaido"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E6%B2%96%E6%BC%AC%E3%81%91"
+    ],
+    "tags": [
+      "日本料理",
+      "前菜",
+      "魚介",
+      "マリネ",
+      "生食",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "生魚が苦手",
+      "甘いもの",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "koji",
+    "name": "麹",
+    "kana": "こうじ",
+    "aliases": [
+      "糀",
+      "米麹",
+      "麦麹"
+    ],
+    "englishName": "Koji",
+    "originalName": "麹",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "米・麦・大豆などの穀物にコウジカビを繁殖させた発酵の素材。味噌・醤油・日本酒・甘酒など多くの発酵食品の基礎となる。",
+    "menuDescription": "蒸し米に麹菌を付けて育てた、発酵食品づくりの要となる米麹です。",
+    "whatComesOut": [
+      "白い粒状の米麹",
+      "塩麹・甘酒などの加工品"
+    ],
+    "tasteAndTexture": [
+      "ほのかな甘い香り",
+      "酵素による旨みと甘み"
+    ],
+    "orderAdvice": "料理に使うなら塩麹や醤油麹が手軽。甘酒として飲むのも一般的。",
+    "similarItems": [
+      {
+        "id": "meju",
+        "name": "メジュ",
+        "difference": "大豆を発酵させた韓国の味噌玉"
+      },
+      {
+        "id": "amazake",
+        "name": "甘酒",
+        "difference": "米麹から作る甘い飲み物"
+      },
+      {
+        "name": "酒粕",
+        "difference": "日本酒を搾った後の副産物"
+      }
+    ],
+    "relatedIds": [
+      "meju",
+      "amazake"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E9%BA%B9",
+      "https://en.wikipedia.org/wiki/K%C5%8Dji_(food)"
+    ],
+    "tags": [
+      "日本料理",
+      "調味料",
+      "米",
+      "発酵",
+      "甘み",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "発酵臭が苦手",
+      "洋風の調味料"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/koji/1.jpg",
+      "/images/dishes/koji/2.jpg",
+      "/images/dishes/koji/3.jpg"
+    ]
+  },
+  {
+    "id": "karumeyaki",
+    "name": "カルメ焼き",
+    "kana": "かるめやき",
+    "aliases": [
+      "カルメラ",
+      "軽目焼"
+    ],
+    "englishName": "Karumeyaki (honeycomb toffee)",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "砂糖を煮詰めて重曹を加え、一気に膨らませて固めた駄菓子。縁日などで実演販売される。語源はポルトガル語のcaramelo。",
+    "menuDescription": "砂糖と重曹だけで作る、ふんわり膨らんだ昔懐かしいカルメ焼きです。",
+    "whatComesOut": [
+      "薄茶色の丸く膨らんだ砂糖菓子",
+      "割ると中がスポンジ状"
+    ],
+    "tasteAndTexture": [
+      "カラメルの香ばしい甘さ",
+      "サクッとほどける軽い食感"
+    ],
+    "orderAdvice": "縁日の懐かしいおやつ。非常に甘いので少しずつ。",
+    "similarItems": [
+      {
+        "id": "dalgona",
+        "name": "タルゴナ",
+        "difference": "砂糖と重曹で作り型抜きをする韓国のおやつ"
+      },
+      {
+        "name": "ハニカムトフィー",
+        "difference": "西洋の同様の菓子。カルメ焼きの方が大きい"
+      }
+    ],
+    "relatedIds": [
+      "dalgona"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%A1%E7%84%BC%E3%81%8D",
+      "https://en.wikipedia.org/wiki/Honeycomb_toffee"
+    ],
+    "tags": [
+      "日本料理",
+      "菓子",
+      "甘み",
+      "サクサク",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "甘いもの嫌い",
+      "しょっぱいスナック"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "hiyashiame",
+    "name": "冷やし飴",
+    "kana": "ひやしあめ",
+    "aliases": [
+      "飴湯",
+      "あめ湯"
+    ],
+    "englishName": "Hiyashi ame",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "日本",
+        "prefecture": "大阪府"
+      }
+    ],
+    "summary": "麦芽水飴を湯で溶き、生姜の搾り汁を加えて冷やした飲み物。関西を中心に夏の暑気払いとして親しまれ、温かいものは飴湯と呼ぶ。",
+    "menuDescription": "麦芽水飴と生姜で作る、昔ながらの関西の夏の飲み物です。",
+    "whatComesOut": [
+      "琥珀色の甘い飲み物",
+      "グラスや瓶入り"
+    ],
+    "tasteAndTexture": [
+      "やさしい水飴の甘さ",
+      "生姜のピリッとした風味",
+      "すっきりした後味"
+    ],
+    "orderAdvice": "関西の銭湯や駄菓子屋で見かける懐かしの味。甘めなので氷多めがおすすめ。",
+    "similarItems": [
+      {
+        "name": "ジンジャーエール",
+        "difference": "炭酸入りの生姜飲料。冷やし飴は無炭酸"
+      },
+      {
+        "id": "sujeonggwa",
+        "name": "スジョンガ",
+        "difference": "生姜とシナモンの韓国の飲み物"
+      },
+      {
+        "id": "kuzuyu",
+        "name": "葛湯",
+        "difference": "葛粉でとろみをつけた温かい飲み物"
+      }
+    ],
+    "relatedIds": [
+      "sujeonggwa",
+      "kuzuyu",
+      "amazake"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E5%86%B7%E3%82%84%E3%81%97%E9%A3%B4"
+    ],
+    "tags": [
+      "日本料理",
+      "スパイス",
+      "甘み",
+      "伝統料理",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "甘い飲み物が苦手",
+      "炭酸好き"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "rakugan",
+    "name": "落雁",
+    "kana": "らくがん",
+    "englishName": "Rakugan",
+    "originalName": "落雁",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "米や豆などのでんぷん質の粉に水飴や砂糖を混ぜ、木型に押して固めて乾燥させた干菓子。茶席やお供えに用いられる。",
+    "menuDescription": "上質な和三盆を木型で押し固めた、口どけのよい落雁です。",
+    "whatComesOut": [
+      "花や家紋などをかたどった小さな干菓子",
+      "茶席では懐紙にのせて"
+    ],
+    "tasteAndTexture": [
+      "上品で強い甘さ",
+      "口の中でほろっと溶ける食感"
+    ],
+    "orderAdvice": "抹茶とともにいただくのが定番。お盆のお供えとしても見かける。",
+    "similarItems": [
+      {
+        "name": "和三盆",
+        "difference": "和三盆糖で作る干菓子。落雁の一種とされる"
+      },
+      {
+        "id": "alfenique",
+        "name": "アルフェニーケ",
+        "difference": "砂糖で作るメキシコの細工菓子"
+      },
+      {
+        "id": "calaverita-de-azucar",
+        "name": "カラベリータ",
+        "difference": "メキシコの死者の日の砂糖細工"
+      }
+    ],
+    "relatedIds": [
+      "calaverita-de-azucar",
+      "alfenique"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E8%90%BD%E9%9B%81"
+    ],
+    "tags": [
+      "日本料理",
+      "菓子",
+      "米",
+      "甘み",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "甘いもの嫌い",
+      "生菓子派"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/rakugan/1.jpg"
+    ]
+  },
+  {
+    "id": "kuzuyu",
+    "name": "葛湯",
+    "kana": "くずゆ",
+    "englishName": "Kuzuyu",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "葛粉（または片栗粉）を水で溶いて砂糖を加え、加熱して透明になるまで練ったとろみのある飲み物。冷めにくく消化がよい。",
+    "menuDescription": "本葛を丁寧に練り上げた、体の芯から温まるとろりとした葛湯です。",
+    "whatComesOut": [
+      "とろみのある半透明の温かい飲み物",
+      "生姜や抹茶入りもある"
+    ],
+    "tasteAndTexture": [
+      "やさしい甘さ",
+      "とろりとなめらかな口当たり",
+      "冷めにくく体が温まる"
+    ],
+    "orderAdvice": "寒い日や体調が優れない時に。生姜入りはさらに温まる。",
+    "similarItems": [
+      {
+        "id": "atole",
+        "name": "アトーレ",
+        "difference": "トウモロコシ粉でとろみをつけたメキシコの飲み物"
+      },
+      {
+        "id": "sahlab",
+        "name": "サーレップ",
+        "difference": "ランの根の粉でとろみをつけた中東の飲み物"
+      },
+      {
+        "id": "hiyashiame",
+        "name": "冷やし飴",
+        "difference": "生姜と水飴の飲み物"
+      }
+    ],
+    "relatedIds": [
+      "atole",
+      "sahlab",
+      "hiyashiame",
+      "amazake"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E8%91%9B%E6%B9%AF",
+      "https://en.wikipedia.org/wiki/Kudzu_powder"
+    ],
+    "tags": [
+      "日本料理",
+      "甘み",
+      "伝統料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "冷たい飲み物",
+      "とろみが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kuzuyu/1.jpg"
+    ]
+  },
+  {
+    "id": "shogayaki",
+    "name": "豚の生姜焼き",
+    "kana": "ぶたのしょうがやき",
+    "aliases": [
+      "生姜焼き",
+      "しょうが焼き",
+      "ポークジンジャー"
+    ],
+    "englishName": "Pork shogayaki (ginger pork)",
+    "originalName": "生姜焼き",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "薄切り豚肉を生姜汁入りの醤油・みりんだれに絡めて焼いた日本の家庭料理。定食の定番で、千切りキャベツを添える。",
+    "menuDescription": "国産豚ロースを、すりおろし生姜を効かせた甘辛だれで香ばしく焼き上げました。",
+    "whatComesOut": [
+      "タレを絡めた豚肉の焼き物",
+      "千切りキャベツ",
+      "ご飯・味噌汁（定食の場合）"
+    ],
+    "tasteAndTexture": [
+      "生姜の爽やかな辛み",
+      "甘辛い醤油だれ",
+      "柔らかくジューシーな豚肉"
+    ],
+    "orderAdvice": "定食屋で迷ったら選びやすい王道メニュー。ご飯が進む濃いめの味。",
+    "similarItems": [
+      {
+        "id": "pork-saute",
+        "name": "ポークソテー",
+        "difference": "厚切り豚肉をバターで焼く洋食"
+      },
+      {
+        "id": "pork-chop",
+        "name": "ポークチャップ",
+        "difference": "ケチャップベースのソースで焼く豚肉料理"
+      },
+      {
+        "id": "bulgogi",
+        "name": "プルコギ",
+        "difference": "甘辛だれに漬けた牛肉の韓国料理"
+      }
+    ],
+    "relatedIds": [
+      "pork-saute",
+      "pork-chop",
+      "tonkatsu",
+      "bulgogi"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E7%94%9F%E5%A7%9C%E7%84%BC%E3%81%8D"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "甘み",
+      "ジューシー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "魚料理",
+      "あっさり",
+      "生姜が苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/shogayaki/1.jpg",
+      "/images/dishes/shogayaki/2.jpg",
+      "/images/dishes/shogayaki/3.jpg"
+    ]
+  },
+  {
+    "id": "pork-saute",
+    "name": "ポークソテー",
+    "kana": "ぽーくそてー",
+    "aliases": [
+      "豚肉のソテー"
+    ],
+    "englishName": "Pork sauté",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "厚切りの豚ロースやヒレをバターなどで焼いた洋食の肉料理。ソースは店により様々で、日本の洋食店の定番。",
+    "menuDescription": "厚切り豚ロースをじっくり焼き上げ、特製ソースを添えたポークソテーです。",
+    "whatComesOut": [
+      "厚切りの焼いた豚肉",
+      "デミグラスや醤油ベースのソース",
+      "付け合わせの野菜・ポテト"
+    ],
+    "tasteAndTexture": [
+      "肉厚でジューシー",
+      "香ばしい焼き目",
+      "ソースのコク"
+    ],
+    "orderAdvice": "洋食店でボリュームのある肉料理を食べたい時に。ソースの種類を確認すると好みに合わせやすい。",
+    "similarItems": [
+      {
+        "id": "shogayaki",
+        "name": "豚の生姜焼き",
+        "difference": "薄切り肉を生姜だれで焼く和食"
+      },
+      {
+        "id": "pork-chop",
+        "name": "ポークチャップ",
+        "difference": "ケチャップ系ソースの豚肉料理"
+      },
+      {
+        "id": "tonkatsu",
+        "name": "トンカツ",
+        "difference": "衣をつけて揚げた豚肉"
+      }
+    ],
+    "relatedIds": [
+      "shogayaki",
+      "pork-chop",
+      "tonkatsu"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%82%AF%E3%82%BD%E3%83%86%E3%83%BC",
+      "https://en.wikipedia.org/wiki/Pork_chop"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "豚肉",
+      "焼き物",
+      "ジューシー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "魚料理",
+      "あっさり",
+      "野菜料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pork-saute/1.jpg",
+      "/images/dishes/pork-saute/2.jpg",
+      "/images/dishes/pork-saute/3.jpg"
+    ]
+  },
+  {
+    "id": "japanese-curry",
+    "name": "カレーライス",
+    "kana": "かれーらいす",
+    "aliases": [
+      "カレー",
+      "ライスカレー"
+    ],
+    "englishName": "Japanese curry rice",
+    "originalName": "カレーライス",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "インド料理を元にイギリスで生まれ、明治時代に日本へ伝わって独自に発展した、とろみのあるカレーをご飯にかけた料理。国民食と呼ばれる。",
+    "menuDescription": "野菜と肉をじっくり煮込んだ、まろやかなとろみの家庭風カレーライスです。",
+    "whatComesOut": [
+      "とろみのあるカレーソースとご飯",
+      "じゃがいも・にんじん・玉ねぎ・肉",
+      "福神漬け・らっきょう"
+    ],
+    "tasteAndTexture": [
+      "スパイスの香りとまろやかなコク",
+      "甘口〜辛口まで選べる",
+      "とろりとしたルー"
+    ],
+    "orderAdvice": "辛さを選べる店が多い。トッピング（カツ、チーズなど）で好みに調整を。",
+    "similarItems": [
+      {
+        "id": "butter-chicken-curry",
+        "name": "バターチキンカレー",
+        "difference": "トマトとバターのインドカレー。とろみは少なめ"
+      },
+      {
+        "id": "green-curry",
+        "name": "グリーンカレー",
+        "difference": "ココナッツミルクのタイカレー"
+      },
+      {
+        "id": "mole",
+        "name": "モレ",
+        "difference": "チョコや唐辛子を使うメキシコのソース"
+      }
+    ],
+    "relatedIds": [
+      "butter-chicken-curry",
+      "green-curry",
+      "curry-powder",
+      "fukujinzuke",
+      "dal"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AC%E3%83%BC%E3%83%A9%E3%82%A4%E3%82%B9",
+      "https://en.wikipedia.org/wiki/Japanese_curry"
+    ],
+    "tags": [
+      "日本料理",
+      "ご飯もの",
+      "米",
+      "スパイス",
+      "煮込み",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "あっさり",
+      "パン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/japanese-curry/1.jpg",
+      "/images/dishes/japanese-curry/2.jpg",
+      "/images/dishes/japanese-curry/3.jpg"
+    ]
+  },
+  {
+    "id": "chahan",
+    "name": "チャーハン",
+    "kana": "ちゃーはん",
+    "aliases": [
+      "炒飯",
+      "焼き飯",
+      "焼きめし"
+    ],
+    "englishName": "Fried rice",
+    "originalName": "炒飯",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "炊いたご飯を油で炒め、卵、肉、ねぎなどの具を加えて調理する中華料理。日本では焼き飯とも呼ばれ、中華料理店の定番。",
+    "menuDescription": "強火で一気に炒め上げた、パラパラ食感の五目チャーハンです。",
+    "whatComesOut": [
+      "炒めたご飯（ドーム型に盛り付け）",
+      "卵・チャーシュー・ねぎ",
+      "中華スープが付くことも"
+    ],
+    "tasteAndTexture": [
+      "パラッとした米粒",
+      "ラードや油の香ばしさ",
+      "塩と醤油の旨み"
+    ],
+    "orderAdvice": "ラーメンや餃子とのセットが定番。ボリュームがあるので半チャーハンも便利。",
+    "similarItems": [
+      {
+        "id": "yangzhou-chao-fan",
+        "name": "揚州炒飯",
+        "difference": "エビや具が多い中国・揚州の炒飯"
+      },
+      {
+        "id": "khao-phat",
+        "name": "カオ・パッ",
+        "difference": "ナンプラーで味付けするタイの炒飯"
+      },
+      {
+        "id": "bokkeumbap",
+        "name": "ポックンパ",
+        "difference": "キムチ等を使う韓国の炒飯"
+      }
+    ],
+    "relatedIds": [
+      "yangzhou-chao-fan",
+      "khao-phat",
+      "bokkeumbap",
+      "nasi-goreng"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%8F%E3%83%B3",
+      "https://en.wikipedia.org/wiki/Fried_rice"
+    ],
+    "tags": [
+      "中国料理",
+      "日本料理",
+      "ご飯もの",
+      "米",
+      "卵",
+      "炒め物",
+      "香ばしい",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "油っこいものが苦手",
+      "あっさり",
+      "麺料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chahan/1.jpg",
+      "/images/dishes/chahan/2.jpg",
+      "/images/dishes/chahan/3.jpg"
+    ]
+  },
+  {
+    "id": "nira-reba",
+    "name": "レバニラ炒め",
+    "kana": "ればにらいため",
+    "aliases": [
+      "ニラレバ炒め",
+      "ニラレバ"
+    ],
+    "englishName": "Stir-fried liver and garlic chives",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "豚や鶏のレバーとニラ、もやしを強火で炒め、醤油やオイスターソースで味付けした中華料理。スタミナ料理として定食屋で親しまれる。",
+    "menuDescription": "下処理した新鮮なレバーとニラを強火で炒め合わせた、スタミナ満点の一皿です。",
+    "whatComesOut": [
+      "レバー・ニラ・もやしの炒め物",
+      "ご飯・スープ（定食の場合）"
+    ],
+    "tasteAndTexture": [
+      "レバーの濃厚なコク",
+      "ニラの強い香り",
+      "シャキッとしたもやし"
+    ],
+    "orderAdvice": "レバーの独特の風味が平気なら栄養たっぷりでおすすめ。苦手なら避けた方が無難。",
+    "similarItems": [
+      {
+        "name": "レバーと玉ねぎ",
+        "difference": "レバーと玉ねぎを炒めたイギリス等の料理"
+      },
+      {
+        "id": "kebda-iskandarani",
+        "name": "ケブダ・イスカンダラーニ",
+        "difference": "スパイスで炒めたエジプトのレバー料理"
+      }
+    ],
+    "relatedIds": [
+      "kebda-iskandarani",
+      "chahan"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%90%E3%83%8B%E3%83%A9%E7%82%92%E3%82%81",
+      "https://en.wikipedia.org/wiki/Liver_and_onions"
+    ],
+    "tags": [
+      "日本料理",
+      "中国料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "炒め物",
+      "こってり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "内臓が苦手",
+      "あっさり",
+      "魚料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/nira-reba/1.jpg",
+      "/images/dishes/nira-reba/2.jpg",
+      "/images/dishes/nira-reba/3.jpg"
+    ]
+  },
+  {
+    "id": "honey-toast",
+    "name": "ハニートースト",
+    "kana": "はにーとーすと",
+    "aliases": [
+      "ハニトー",
+      "はちみつトースト",
+      "渋谷トースト"
+    ],
+    "englishName": "Honey toast",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "食パンを大きな立方体に切って中をくり抜き、バターで焼いて蜂蜜をかけ、アイスクリームなどを添えたデザート。バブル期の渋谷が発祥とされ、カラオケ店で人気。",
+    "menuDescription": "厚切り食パンをバターでこんがり焼き、蜂蜜とバニラアイスをたっぷりのせたハニートーストです。",
+    "whatComesOut": [
+      "箱型に焼いた大きな食パン",
+      "蜂蜜・バター",
+      "アイスクリーム・ホイップ・フルーツ"
+    ],
+    "tasteAndTexture": [
+      "外はサクサク中はふんわり",
+      "蜂蜜とバターの濃厚な甘さ",
+      "冷たいアイスとの温度差"
+    ],
+    "orderAdvice": "量が多いので数人でシェアするのがおすすめ。カラオケやカフェの定番。",
+    "similarItems": [
+      {
+        "name": "フレンチトースト",
+        "difference": "卵液に浸して焼くパン"
+      },
+      {
+        "id": "injeolmi-toast",
+        "name": "インジョルミトースト",
+        "difference": "きな粉と餅を挟んだ韓国のトースト"
+      },
+      {
+        "id": "bread-pudding",
+        "name": "ブレッドプディング",
+        "difference": "パンを卵液で焼いたイギリスの菓子"
+      }
+    ],
+    "relatedIds": [
+      "injeolmi-toast",
+      "bread-pudding"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8B%E3%83%BC%E3%83%88%E3%83%BC%E3%82%B9%E3%83%88",
+      "https://en.wikipedia.org/wiki/Honey_toast"
+    ],
+    "tags": [
+      "日本料理",
+      "デザート",
+      "小麦",
+      "焼き物",
+      "甘み",
+      "サクサク"
+    ],
+    "reverseKeywords": [
+      "甘いもの嫌い",
+      "軽いデザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/honey-toast/1.jpg",
+      "/images/dishes/honey-toast/2.jpg",
+      "/images/dishes/honey-toast/3.jpg"
+    ]
+  },
+  {
+    "id": "okonomi-sauce",
+    "name": "お好みソース",
+    "kana": "おこのみそーす",
+    "aliases": [
+      "お好み焼きソース"
+    ],
+    "englishName": "Okonomiyaki sauce",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "お好み焼きにかける、とろみと甘みの強い濃厚ソース。野菜や果物、香辛料を煮込んで作られ、たこ焼きや焼きそばにも使われる。",
+    "menuDescription": "野菜と果実の甘みを凝縮した、とろりと濃厚なお好み焼き専用ソースです。",
+    "whatComesOut": [
+      "お好み焼きやたこ焼きに塗られた濃厚ソース",
+      "マヨネーズ・青のりと一緒に"
+    ],
+    "tasteAndTexture": [
+      "甘くてフルーティー",
+      "スパイスの香り",
+      "とろみが強い"
+    ],
+    "orderAdvice": "お好み焼き店では鉄板の上で塗って焦がすのが香ばしい。",
+    "similarItems": [
+      {
+        "name": "ウスターソース",
+        "difference": "さらっとした辛口のソース"
+      },
+      {
+        "id": "noko-sauce",
+        "name": "濃厚ソース",
+        "difference": "とんかつなどに使う。お好みソースはさらに甘い"
+      }
+    ],
+    "relatedIds": [
+      "noko-sauce",
+      "takoyaki"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D",
+      "https://en.wikipedia.org/wiki/Okonomiyaki"
+    ],
+    "tags": [
+      "日本料理",
+      "ソース",
+      "野菜",
+      "果物",
+      "甘み",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "甘いソースが苦手",
+      "塩味派"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/okonomi-sauce/1.jpg",
+      "/images/dishes/okonomi-sauce/2.jpg",
+      "/images/dishes/okonomi-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "roll-cabbage",
+    "name": "ロールキャベツ",
+    "kana": "ろーるきゃべつ",
+    "aliases": [
+      "キャベツロール"
+    ],
+    "englishName": "Cabbage roll",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "挽肉と刻んだ野菜の具を湯通ししたキャベツで俵型に巻き、スープやトマトソースで煮込んだ料理。日本では洋食の定番。",
+    "menuDescription": "合挽き肉をキャベツで丁寧に包み、コンソメスープでじっくり煮込んだロールキャベツです。",
+    "whatComesOut": [
+      "キャベツで巻いた肉の煮込み",
+      "コンソメ・トマト・クリームなどのスープ"
+    ],
+    "tasteAndTexture": [
+      "やわらかく甘いキャベツ",
+      "ジューシーな肉だね",
+      "スープのやさしい味"
+    ],
+    "orderAdvice": "洋食店や家庭の煮込み料理として定番。スープの種類（コンソメ・トマト）で印象が変わる。",
+    "similarItems": [
+      {
+        "id": "sarmi",
+        "name": "サルマ",
+        "difference": "酢漬けキャベツで巻くバルカンの料理"
+      },
+      {
+        "id": "kaldolmar",
+        "name": "コールドルマル",
+        "difference": "スウェーデンのロールキャベツ"
+      },
+      {
+        "id": "toltott-kaposzta",
+        "name": "トゥルトゥット・カーポスタ",
+        "difference": "ハンガリーのロールキャベツ"
+      }
+    ],
+    "relatedIds": [
+      "sarmi",
+      "sarmale",
+      "kaldolmar",
+      "toltott-kaposzta"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84",
+      "https://en.wikipedia.org/wiki/Cabbage_roll"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "キャベツが苦手",
+      "揚げ物",
+      "辛いもの"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/roll-cabbage/1.jpg",
+      "/images/dishes/roll-cabbage/2.jpg",
+      "/images/dishes/roll-cabbage/3.jpg"
+    ]
+  },
+  {
+    "id": "piman-no-nikuzume",
+    "name": "ピーマンの肉詰め",
+    "kana": "ぴーまんのにくづめ",
+    "aliases": [
+      "肉詰めピーマン"
+    ],
+    "englishName": "Stuffed green peppers",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "ピーマンにハンバーグのたねを詰めて焼いた日本の家庭料理。ソースやケチャップで食べる。",
+    "menuDescription": "肉厚ピーマンにジューシーなハンバーグだねを詰め、香ばしく焼き上げました。",
+    "whatComesOut": [
+      "肉を詰めて焼いたピーマン",
+      "ケチャップ・ソースなど"
+    ],
+    "tasteAndTexture": [
+      "ピーマンのほろ苦さ",
+      "ジューシーな挽肉",
+      "香ばしい焼き目"
+    ],
+    "orderAdvice": "お弁当や家庭料理の定番。ピーマンの苦みが苦手でも肉と一緒で食べやすい。",
+    "similarItems": [
+      {
+        "id": "toltott-paprika",
+        "name": "トルトット・パプリカ",
+        "difference": "パプリカに肉と米を詰めて煮込むハンガリー料理"
+      },
+      {
+        "id": "chile-relleno",
+        "name": "チレ・レジェーノ",
+        "difference": "ポブラノ唐辛子に具を詰めて揚げるメキシコ料理"
+      },
+      {
+        "id": "punjena-paprika",
+        "name": "プニェナ・パプリカ",
+        "difference": "バルカンの詰め物パプリカ"
+      }
+    ],
+    "relatedIds": [
+      "toltott-paprika",
+      "punjena-paprika",
+      "chile-relleno",
+      "dolma"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E8%82%89%E8%A9%B0%E3%82%81%E3%83%94%E3%83%BC%E3%83%9E%E3%83%B3",
+      "https://en.wikipedia.org/wiki/Stuffed_peppers"
+    ],
+    "tags": [
+      "日本料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "焼き物",
+      "ジューシー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ピーマンが苦手",
+      "魚料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/piman-no-nikuzume/1.jpg",
+      "/images/dishes/piman-no-nikuzume/2.jpg",
+      "/images/dishes/piman-no-nikuzume/3.jpg"
+    ]
+  },
+  {
+    "id": "fried-chicken",
+    "name": "フライドチキン",
+    "kana": "ふらいどちきん",
+    "aliases": [
+      "サザンフライドチキン"
+    ],
+    "englishName": "Fried chicken",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "骨付き鶏肉に味付けした小麦粉の衣をまぶして油で揚げた料理。アメリカ南部が発祥で、世界中で親しまれる。",
+    "menuDescription": "スパイスを効かせた衣をまとわせ、カリッとジューシーに揚げた骨付きフライドチキンです。",
+    "whatComesOut": [
+      "骨付きの揚げた鶏肉",
+      "ビスケットやコールスロー、ポテト"
+    ],
+    "tasteAndTexture": [
+      "カリカリの衣",
+      "スパイスの香り",
+      "ジューシーな鶏肉"
+    ],
+    "orderAdvice": "手づかみで食べるのが一般的。部位（ドラム・胸など）を選べる店もある。",
+    "caution": "小麦を含む。揚げ物で油が多い。",
+    "similarItems": [
+      {
+        "id": "karaage",
+        "name": "唐揚げ",
+        "difference": "醤油などで下味をつけた日本の揚げ物"
+      },
+      {
+        "id": "yangnyeom-chicken",
+        "name": "ヤンニョムチキン",
+        "difference": "甘辛ソースを絡めた韓国のフライドチキン"
+      },
+      {
+        "id": "buffalo-wings",
+        "name": "バッファローウイング",
+        "difference": "手羽を揚げて辛いソースを絡める"
+      }
+    ],
+    "relatedIds": [
+      "karaage",
+      "yangnyeom-chicken",
+      "buffalo-wings"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%E3%83%81%E3%82%AD%E3%83%B3",
+      "https://en.wikipedia.org/wiki/Fried_chicken"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "主菜",
+      "鶏肉",
+      "揚げ物",
+      "ジューシー",
+      "サクサク",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "揚げ物が苦手",
+      "あっさり",
+      "魚料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/fried-chicken/1.jpg",
+      "/images/dishes/fried-chicken/2.jpg",
+      "/images/dishes/fried-chicken/3.jpg"
+    ]
+  },
+  {
+    "id": "buffalo-wings",
+    "name": "バッファローウイング",
+    "kana": "ばっふぁろーういんぐ",
+    "aliases": [
+      "バッファローウィング",
+      "バッファローチキン",
+      "チキンウィング"
+    ],
+    "englishName": "Buffalo wings",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "鶏の手羽を素揚げし、カイエンペッパーと酢の効いたホットソースと溶かしバターを絡めたアメリカ料理。ニューヨーク州バッファロー発祥。",
+    "menuDescription": "カリッと揚げた手羽に酸味と辛さの効いたホットソースを絡め、ブルーチーズディップとセロリを添えました。",
+    "whatComesOut": [
+      "ソースを絡めた手羽",
+      "セロリ・にんじんスティック",
+      "ブルーチーズまたはランチドレッシング"
+    ],
+    "tasteAndTexture": [
+      "酸味のあるピリ辛ソース",
+      "バターのコク",
+      "カリッとした皮"
+    ],
+    "orderAdvice": "辛さのレベルを選べる店が多い。ビールのお供やスポーツ観戦の定番。手が汚れるのでおしぼり必須。",
+    "similarItems": [
+      {
+        "id": "yangnyeom-chicken",
+        "name": "ヤンニョムチキン",
+        "difference": "甘辛いソースの韓国チキン"
+      },
+      {
+        "id": "fried-chicken",
+        "name": "フライドチキン",
+        "difference": "衣をつけて揚げた鶏肉"
+      },
+      {
+        "name": "手羽先唐揚げ",
+        "difference": "名古屋の甘辛い手羽先"
+      }
+    ],
+    "relatedIds": [
+      "fried-chicken",
+      "yangnyeom-chicken",
+      "hot-sauce"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B0",
+      "https://en.wikipedia.org/wiki/Buffalo_wing"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "前菜",
+      "鶏肉",
+      "揚げ物",
+      "ピリ辛",
+      "酸味",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "あっさり",
+      "ブルーチーズ嫌い"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/buffalo-wings/1.jpg",
+      "/images/dishes/buffalo-wings/2.jpg",
+      "/images/dishes/buffalo-wings/3.jpg"
+    ]
+  },
+  {
+    "id": "jjamppong",
+    "name": "チャンポン（韓国）",
+    "kana": "ちゃんぽん",
+    "aliases": [
+      "チャンポン",
+      "韓国チャンポン",
+      "짬뽕"
+    ],
+    "englishName": "Jjamppong",
+    "originalName": "짬뽕",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "唐辛子粉で赤く辛い海鮮または豚肉ベースのスープに麺を入れた、中華風の韓国の麺料理。ジャージャー麺と並ぶ韓国中華の定番。",
+    "menuDescription": "イカやムール貝など海鮮をたっぷり使った、真っ赤で辛い韓国式チャンポンです。",
+    "whatComesOut": [
+      "赤い辛いスープの麺",
+      "イカ・ムール貝・エビなどの海鮮",
+      "玉ねぎ・キャベツ・ズッキーニ"
+    ],
+    "tasteAndTexture": [
+      "唐辛子のしっかりした辛さ",
+      "海鮮の旨み",
+      "火を通した野菜の香ばしさ"
+    ],
+    "orderAdvice": "韓国の中華料理店ではジャージャー麺と迷う定番。辛いのが苦手なら避けるべき。",
+    "similarItems": [
+      {
+        "id": "46-8-nagasaki",
+        "name": "ちゃんぽん",
+        "difference": "長崎のちゃんぽんは白湯スープで辛くない"
+      },
+      {
+        "id": "jjajangmyeon",
+        "name": "ジャージャー麺",
+        "difference": "黒い味噌だれの韓国中華の麺"
+      },
+      {
+        "id": "haemul-tang",
+        "name": "ヘムルタン",
+        "difference": "海鮮の辛い鍋"
+      }
+    ],
+    "relatedIds": [
+      "jjajangmyeon",
+      "46-8-nagasaki",
+      "haemul-tang"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Jjamppong"
+    ],
+    "tags": [
+      "韓国料理",
+      "麺料理",
+      "魚介",
+      "小麦",
+      "炒め物",
+      "ピリ辛",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "あっさり",
+      "長崎ちゃんぽん"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/jjamppong/1.jpg",
+      "/images/dishes/jjamppong/2.jpg",
+      "/images/dishes/jjamppong/3.jpg"
+    ]
+  },
+  {
+    "id": "haemul-jjim",
+    "name": "ヘムルチム",
+    "kana": "へむるちむ",
+    "aliases": [
+      "海鮮蒸し",
+      "海鮮チム",
+      "해물찜"
+    ],
+    "englishName": "Haemul-jjim (spicy braised seafood)",
+    "originalName": "해물찜",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "カニ、イカ、貝、エビなど多種の海鮮と豆もやしを、粉唐辛子とコチュジャンで汁気少なく煮込んだ韓国料理。大皿で数人で囲む。",
+    "menuDescription": "20種類近い海鮮と豆もやしを真っ赤な辛いタレで煮込んだ、豪快なヘムルチムです。",
+    "whatComesOut": [
+      "大皿に盛った海鮮と豆もやしの辛い煮込み",
+      "カニ・イカ・タコ・貝・エビ",
+      "ご飯（最後に炒めることも）"
+    ],
+    "tasteAndTexture": [
+      "強い唐辛子の辛さ",
+      "海鮮の磯の旨み",
+      "豆もやしのシャキシャキ感"
+    ],
+    "orderAdvice": "大人数向けの料理。辛さは強めなので辛い物好き向け。殻付きの海鮮が多く食べるのに手間がかかる。",
+    "caution": "甲殻類・貝類アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "haemul-tang",
+        "name": "ヘムルタン",
+        "difference": "汁の多い海鮮鍋。ヘムルチムは汁気が少ない"
+      },
+      {
+        "id": "agwi-jjim",
+        "name": "アグチム",
+        "difference": "アンコウを使った同様の蒸し煮"
+      },
+      {
+        "id": "bouillabaisse",
+        "name": "ブイヤベース",
+        "difference": "南仏の魚介スープ"
+      }
+    ],
+    "relatedIds": [
+      "haemul-tang",
+      "agwi-jjim"
+    ],
+    "source": [
+      "https://www.mapple.net/global/kaigai/122900/"
+    ],
+    "tags": [
+      "韓国料理",
+      "主菜",
+      "魚介",
+      "貝類",
+      "煮込み",
+      "ピリ辛",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "肉料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 4,
+    "images": []
+  },
+  {
+    "id": "godeungeo-jorim",
+    "name": "コドゥンオジョリム",
+    "kana": "こどぅんおじょりむ",
+    "aliases": [
+      "サバの煮付け（韓国風）",
+      "고등어조림"
+    ],
+    "englishName": "Godeungeo-jorim (braised mackerel)",
+    "originalName": "고등어조림",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "サバを大根とともに醤油や唐辛子粉、コチュジャンの甘辛いタレで汁気がなくなるまで煮詰めた韓国のジョリム（煮付け）料理。",
+    "menuDescription": "脂ののったサバと大根を、ピリ辛の甘辛だれでじっくり煮詰めました。",
+    "whatComesOut": [
+      "煮詰めたサバの切り身",
+      "タレの染みた大根",
+      "ご飯"
+    ],
+    "tasteAndTexture": [
+      "甘辛くピリッとしたタレ",
+      "サバの脂の旨み",
+      "味の染みた大根"
+    ],
+    "orderAdvice": "韓国の家庭料理・定食の定番。ご飯が進む濃い味付け。",
+    "similarItems": [
+      {
+        "name": "鯖の味噌煮",
+        "difference": "味噌で煮た日本の鯖料理"
+      },
+      {
+        "id": "godeungeo-gui",
+        "name": "コドゥンオグイ",
+        "difference": "サバの塩焼き"
+      }
+    ],
+    "relatedIds": [
+      "godeungeo-gui"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Jorim"
+    ],
+    "tags": [
+      "韓国料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "ピリ辛",
+      "甘み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "青魚が苦手",
+      "辛いものが苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/godeungeo-jorim/1.jpg"
+    ]
+  },
+  {
+    "id": "sundae",
+    "name": "スンデ",
+    "kana": "すんで",
+    "aliases": [
+      "순대"
+    ],
+    "englishName": "Sundae (Korean blood sausage)",
+    "originalName": "순대",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "豚の腸に春雨、もち米、豚の血などを詰めて蒸した朝鮮半島の伝統的な腸詰め。屋台の定番で、塩や味噌を付けて食べる。",
+    "menuDescription": "春雨と豚の血を詰めて蒸し上げた、もっちり食感の韓国式腸詰めです。",
+    "whatComesOut": [
+      "輪切りにした黒っぽい腸詰め",
+      "レバーや豚の耳などのモツが添えられることも",
+      "塩・唐辛子塩・味噌"
+    ],
+    "tasteAndTexture": [
+      "もちもちした食感",
+      "独特のコクと香り",
+      "あっさりした塩味"
+    ],
+    "orderAdvice": "屋台や市場で手軽に食べられる。独特の風味があるので内臓料理が平気な人向け。",
+    "similarItems": [
+      {
+        "id": "ojingeo-sundae",
+        "name": "オジンオスンデ",
+        "difference": "イカに具を詰めた料理"
+      },
+      {
+        "name": "ブラッドソーセージ",
+        "difference": "欧州の血入りソーセージ"
+      },
+      {
+        "id": "sundae-gukbap",
+        "name": "スンデクッパ",
+        "difference": "スンデ入りのスープご飯"
+      }
+    ],
+    "relatedIds": [
+      "sundae-gukbap",
+      "ojingeo-sundae",
+      "tteokbokki"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%B3%E3%83%87",
+      "https://en.wikipedia.org/wiki/Sundae_(sausage)"
+    ],
+    "tags": [
+      "韓国料理",
+      "軽食",
+      "豚肉",
+      "蒸し料理",
+      "もちもち",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "内臓が苦手",
+      "血の料理が苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sundae/1.jpg",
+      "/images/dishes/sundae/2.jpg"
+    ]
+  },
+  {
+    "id": "namul",
+    "name": "ナムル",
+    "kana": "なむる",
+    "aliases": [
+      "나물"
+    ],
+    "englishName": "Namul",
+    "originalName": "나물",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "もやし、ほうれん草、ぜんまいなどの野菜や山菜を下茹でし、塩・ごま油・にんにくで和えた朝鮮半島の家庭料理。",
+    "menuDescription": "豆もやし、ほうれん草、ぜんまいなどをごま油と塩で和えたナムルの盛り合わせです。",
+    "whatComesOut": [
+      "数種類の野菜の和え物の盛り合わせ",
+      "小皿（パンチャン）として"
+    ],
+    "tasteAndTexture": [
+      "ごま油の香ばしさ",
+      "にんにくと塩のシンプルな味",
+      "野菜の食感"
+    ],
+    "orderAdvice": "焼肉店の前菜やビビンバの具として定番。辛くないので誰でも食べやすい。",
+    "similarItems": [
+      {
+        "id": "musaengchae",
+        "name": "ムセンチェ",
+        "difference": "大根を酸味と辛さで和えた生の和え物"
+      },
+      {
+        "name": "おひたし",
+        "difference": "醤油だしに浸す日本の青菜料理"
+      },
+      {
+        "id": "bibimbap",
+        "name": "ビビンバ",
+        "difference": "ナムルをのせて混ぜるご飯"
+      }
+    ],
+    "relatedIds": [
+      "bibimbap",
+      "musaengchae"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%A0%E3%83%AB",
+      "https://en.wikipedia.org/wiki/Namul"
+    ],
+    "tags": [
+      "韓国料理",
+      "前菜",
+      "野菜",
+      "あっさり",
+      "香ばしい",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "生野菜サラダ",
+      "こってり",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/namul/1.jpg",
+      "/images/dishes/namul/2.jpg",
+      "/images/dishes/namul/3.jpg"
+    ]
+  },
+  {
+    "id": "dongchimi",
+    "name": "トンチミ",
+    "kana": "とんちみ",
+    "aliases": [
+      "동치미",
+      "水キムチ"
+    ],
+    "englishName": "Dongchimi",
+    "originalName": "동치미",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "大根を白菜、ねぎ、生姜、梨などと塩水に漬けて発酵させた、汁ごと味わう冬のキムチ。唐辛子粉を使わず辛くない。",
+    "menuDescription": "大根をすっきりした塩水で発酵させた、冷たい汁ごと楽しむトンチミです。",
+    "whatComesOut": [
+      "大根などが浮かぶ冷たい漬け汁",
+      "器に汁ごと"
+    ],
+    "tasteAndTexture": [
+      "さわやかな酸味",
+      "すっきりした塩味",
+      "大根のシャキシャキ感"
+    ],
+    "orderAdvice": "焼肉や辛い料理の口直しに最適。冷麺のスープに使われることもある。",
+    "similarItems": [
+      {
+        "id": "nabak-kimchi",
+        "name": "ナバクキムチ",
+        "difference": "薄切りの大根と白菜を唐辛子入りの汁で漬けた水キムチ"
+      },
+      {
+        "id": "kkakdugi",
+        "name": "カクテキ",
+        "difference": "大根の角切りの赤いキムチ"
+      }
+    ],
+    "relatedIds": [
+      "nabak-kimchi",
+      "kkakdugi",
+      "naengmyeon"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%81%E3%83%9F",
+      "https://en.wikipedia.org/wiki/Dongchimi"
+    ],
+    "tags": [
+      "韓国料理",
+      "前菜",
+      "野菜",
+      "発酵",
+      "酸味",
+      "あっさり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "酸っぱいものが苦手",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/dongchimi/1.jpg",
+      "/images/dishes/dongchimi/2.jpg",
+      "/images/dishes/dongchimi/3.jpg"
+    ]
+  },
+  {
+    "id": "yuja-cha",
+    "name": "ゆず茶",
+    "kana": "ゆずちゃ",
+    "aliases": [
+      "柚子茶",
+      "ユジャチャ",
+      "유자차"
+    ],
+    "englishName": "Yuja-cha (yuzu tea)",
+    "originalName": "유자차",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "韓国"
+      }
+    ],
+    "summary": "柚子の果皮や果肉を砂糖や蜂蜜に漬けたユジャチョンを湯で溶いて飲む韓国の伝統茶。カフェインを含まない。",
+    "menuDescription": "柚子を蜂蜜でじっくり漬け込んだ、香り高く温まる韓国式ゆず茶です。",
+    "whatComesOut": [
+      "柚子の皮が入った温かい甘い飲み物",
+      "カップやマグに"
+    ],
+    "tasteAndTexture": [
+      "柚子のさわやかな香り",
+      "蜂蜜・砂糖の甘さ",
+      "果皮のほろ苦さ"
+    ],
+    "orderAdvice": "冬の韓国カフェの定番。甘めなので甘い飲み物が好きな人向け。冷たいアイス版もある。",
+    "similarItems": [
+      {
+        "id": "omija-cha",
+        "name": "オミジャ茶",
+        "difference": "五味子の実の甘酸っぱい茶"
+      },
+      {
+        "id": "hibiscus-tea",
+        "name": "ハイビスカスティー",
+        "difference": "酸味の強い赤いハーブティー"
+      },
+      {
+        "name": "生姜茶",
+        "difference": "生姜を使った温かい飲み物"
+      }
+    ],
+    "relatedIds": [
+      "omija-cha",
+      "sujeonggwa"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E6%9F%9A%E5%AD%90%E8%8C%B6",
+      "https://en.wikipedia.org/wiki/Yuja_tea"
+    ],
+    "tags": [
+      "韓国料理",
+      "果物",
+      "甘み",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "甘い飲み物が苦手",
+      "苦い茶が好き"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "smoothie-bowl",
+    "name": "スムージーボウル",
+    "kana": "すむーじーぼうる",
+    "aliases": [
+      "スムージーボール"
+    ],
+    "englishName": "Smoothie bowl",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "凍らせた果物などをとろみのある濃いスムージーにしてボウルに入れ、フルーツ、グラノーラ、ナッツなどをトッピングして食べるもの。",
+    "menuDescription": "濃厚なフルーツスムージーにグラノーラと季節のフルーツをたっぷりのせたボウルです。",
+    "whatComesOut": [
+      "ボウルに入ったとろみのある冷たいスムージー",
+      "バナナ・ベリーなどのフルーツ",
+      "グラノーラ・ナッツ・ココナッツ"
+    ],
+    "tasteAndTexture": [
+      "フルーツの甘酸っぱさ",
+      "シャーベットのようなひんやり感",
+      "グラノーラのザクザク食感"
+    ],
+    "orderAdvice": "朝食やカフェでの軽食に。見た目より量があり、体が冷えやすいので注意。",
+    "similarItems": [
+      {
+        "id": "acai",
+        "name": "アサイーボウル",
+        "difference": "アサイーを使ったスムージーボウルの代表格"
+      },
+      {
+        "id": "halo-halo",
+        "name": "ハロハロ",
+        "difference": "かき氷にさまざまな具をのせたフィリピンのデザート"
+      }
+    ],
+    "relatedIds": [
+      "acai",
+      "halo-halo"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Smoothie",
+      "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B8%E3%83%BC"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "デザート",
+      "果物",
+      "ナッツ",
+      "甘み",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "冷たいものが苦手",
+      "温かい朝食",
+      "甘いもの嫌い"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/smoothie-bowl/1.jpg",
+      "/images/dishes/smoothie-bowl/2.jpg",
+      "/images/dishes/smoothie-bowl/3.jpg"
+    ]
+  },
+  {
+    "id": "sabahi-zhou",
+    "name": "サバヒー粥",
+    "kana": "さばひーがゆ",
+    "aliases": [
+      "虱目魚粥",
+      "ミルクフィッシュ粥"
+    ],
+    "englishName": "Milkfish congee",
+    "originalName": "虱目魚粥",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "台湾"
+      }
+    ],
+    "summary": "台湾南部・台南名物のサバヒー（虱目魚）の身や腹肉を入れた粥。あっさりしたスープ状で、朝食の定番。",
+    "menuDescription": "台南名物のサバヒーの身と脂ののった腹肉を、生姜の効いたスープ粥に仕立てました。",
+    "whatComesOut": [
+      "サバヒーの身が入ったスープ状の粥",
+      "生姜・ねぎ・セロリ",
+      "油条を添えることも"
+    ],
+    "tasteAndTexture": [
+      "魚のやさしい旨み",
+      "生姜のさわやかさ",
+      "さらっとしたスープ"
+    ],
+    "orderAdvice": "台南の朝ごはんの定番。小骨がある場合があるので注意。",
+    "similarItems": [
+      {
+        "id": "milkfish",
+        "name": "サバヒー",
+        "difference": "粥に使われる魚そのもの"
+      },
+      {
+        "name": "中華粥",
+        "difference": "米を煮込んだとろみのある粥。サバヒー粥はさらっとしたスープ状"
+      }
+    ],
+    "relatedIds": [
+      "milkfish"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%90%E3%83%92%E3%83%BC",
+      "https://en.wikipedia.org/wiki/Milkfish"
+    ],
+    "tags": [
+      "台湾料理",
+      "ご飯もの",
+      "魚介",
+      "米",
+      "あっさり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "魚が苦手",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sabahi-zhou/1.jpg"
+    ]
+  },
+  {
+    "id": "mua-chi",
+    "name": "麻糬",
+    "kana": "まーちー",
+    "aliases": [
+      "モアチー",
+      "台湾もち"
+    ],
+    "englishName": "Mochi (Taiwanese)",
+    "originalName": "麻糬",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "台湾"
+      }
+    ],
+    "summary": "もち米を蒸して搗いた台湾の餅菓子。きな粉、ピーナッツ粉、黒ごま粉などをまぶしたり、餡を包んだりして食べる。",
+    "menuDescription": "つきたての柔らかいお餅に、香ばしいピーナッツ粉とごまをたっぷりまぶしました。",
+    "whatComesOut": [
+      "ひと口大の柔らかい餅",
+      "ピーナッツ粉・ごま粉・きな粉"
+    ],
+    "tasteAndTexture": [
+      "とろけるような柔らかさ",
+      "ピーナッツの香ばしさ",
+      "やさしい甘さ"
+    ],
+    "orderAdvice": "夜市や花蓮の名物土産として定番。のどに詰まらせないよう小さくして食べる。",
+    "caution": "ピーナッツアレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "abekawamochi-shizuoka",
+        "name": "安倍川もち",
+        "difference": "きな粉をまぶした静岡の餅"
+      },
+      {
+        "name": "大福",
+        "difference": "餡を包んだ日本の餅菓子"
+      }
+    ],
+    "relatedIds": [
+      "abekawamochi-shizuoka",
+      "shao-wu-xiao-chi"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Mochi"
+    ],
+    "tags": [
+      "台湾料理",
+      "菓子",
+      "米",
+      "ナッツ",
+      "甘み",
+      "もちもち",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "甘いもの嫌い",
+      "食感が苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mua-chi/1.jpg",
+      "/images/dishes/mua-chi/2.jpg",
+      "/images/dishes/mua-chi/3.jpg"
+    ]
+  },
+  {
+    "id": "pai-gu-tang",
+    "name": "排骨湯",
+    "kana": "ぱいぐーたん",
+    "aliases": [
+      "パイクータン",
+      "スペアリブスープ"
+    ],
+    "englishName": "Pork rib soup",
+    "originalName": "排骨湯",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "country": "台湾"
+      }
+    ],
+    "summary": "豚のスペアリブ（排骨）を大根や冬瓜、とうもろこしなどと長時間煮込んだ中国・台湾のスープ。澄んだ優しい味わい。",
+    "menuDescription": "骨付き豚スペアリブを大根とじっくり煮込んだ、滋味深い澄んだスープです。",
+    "whatComesOut": [
+      "骨付き豚肉が入った澄んだスープ",
+      "大根・冬瓜などの野菜"
+    ],
+    "tasteAndTexture": [
+      "豚骨のやさしい旨み",
+      "ほろっと柔らかい肉",
+      "あっさりした塩味"
+    ],
+    "orderAdvice": "食事の汁物として。骨付きなので食べる時に注意。",
+    "similarItems": [
+      {
+        "id": "hong-gu-dun-pai-gu",
+        "name": "紅菇燉排骨",
+        "difference": "紅茸と一緒に煮込んだ排骨スープ"
+      },
+      {
+        "id": "bak-kut-teh",
+        "name": "バクテー",
+        "difference": "ハーブ・スパイスを効かせたマレーシアの肉骨茶"
+      }
+    ],
+    "relatedIds": [
+      "hong-gu-dun-pai-gu",
+      "hong-shao-pai-gu",
+      "bak-kut-teh"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E6%8E%92%E9%AA%A8"
+    ],
+    "tags": [
+      "中国料理",
+      "台湾料理",
+      "スープ",
+      "豚肉",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "骨付き肉が苦手",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pai-gu-tang/1.jpg",
+      "/images/dishes/pai-gu-tang/2.jpg",
+      "/images/dishes/pai-gu-tang/3.jpg"
+    ]
+  },
+  {
+    "id": "cuy",
+    "name": "クイ",
+    "kana": "くい",
+    "aliases": [
+      "クイ料理",
+      "モルモット料理",
+      "クイ・アル・オルノ",
+      "クイ・チャクタード"
+    ],
+    "englishName": "Cuy (roasted guinea pig)",
+    "originalName": "Cuy",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ペルー"
+      }
+    ],
+    "summary": "食用に家畜化されたモルモット（クイ）を丸ごと焼いたり揚げたりするアンデス地方の伝統料理。祭りや祝いの席で食べられる。",
+    "menuDescription": "スパイスとにんにくでマリネしたクイを丸ごと香ばしくローストし、じゃがいもとサルサを添えました。",
+    "whatComesOut": [
+      "丸ごと焼いた（または揚げた）クイ",
+      "じゃがいも",
+      "サルサ・とうもろこし"
+    ],
+    "tasteAndTexture": [
+      "パリッとした皮",
+      "鶏やウサギに似た淡白な肉",
+      "骨が多く身は少なめ"
+    ],
+    "orderAdvice": "ペルー・クスコなどで体験として食べられる。見た目が丸ごとなので抵抗がある人は注意。",
+    "similarItems": [
+      {
+        "id": "bat-soup",
+        "name": "コウモリスープ",
+        "difference": "珍しい動物を使った料理"
+      },
+      {
+        "id": "cochinillo-asado",
+        "name": "子豚の丸焼き",
+        "difference": "子豚を丸ごと焼く料理"
+      }
+    ],
+    "relatedIds": [
+      "rat-meat",
+      "cochinillo-asado"
+    ],
+    "source": [
+      "https://www.valenciatravelcusco.com/passion-passport/cuy-the-best-preparations",
+      "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%A2%E3%83%83%E3%83%88"
+    ],
+    "tags": [
+      "ペルー料理",
+      "主菜",
+      "ジビエ",
+      "ロースト",
+      "香ばしい",
+      "伝統料理",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "見た目が苦手",
+      "鶏肉料理",
+      "魚料理"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/cuy/1.jpg",
+      "/images/dishes/cuy/2.jpg",
+      "/images/dishes/cuy/3.jpg"
+    ]
+  },
+  {
+    "id": "halo-halo",
+    "name": "ハロハロ",
+    "kana": "はろはろ",
+    "aliases": [
+      "Halo-halo"
+    ],
+    "englishName": "Halo-halo",
+    "originalName": "Halo-halo",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "フィリピン"
+      }
+    ],
+    "summary": "かき氷に練乳やココナッツミルクをかけ、ウベ（紫芋）ジャム、甘い豆、ナタデココ、フラン、アイスなどを重ねたフィリピンの冷たいデザート。名前は『混ぜこぜ』の意。",
+    "menuDescription": "ウベジャムやレチェフラン、甘い豆などをたっぷりのせた、よく混ぜて食べるハロハロです。",
+    "whatComesOut": [
+      "グラスに入った具だくさんのかき氷",
+      "紫芋アイス・フラン・豆・ナタデココ",
+      "練乳"
+    ],
+    "tasteAndTexture": [
+      "さまざまな甘さが混ざり合う",
+      "かき氷のひんやり感",
+      "具材ごとの食感の違い"
+    ],
+    "orderAdvice": "暑い日のおやつに。全部混ぜて食べるのが本場流。量が多い。",
+    "similarItems": [
+      {
+        "id": "patbingsu",
+        "name": "パッピンス",
+        "difference": "小豆をのせた韓国のかき氷"
+      },
+      {
+        "id": "kakigori-nara",
+        "name": "かき氷",
+        "difference": "シロップをかけた日本の氷菓"
+      },
+      {
+        "name": "チェー",
+        "difference": "豆やゼリーを入れたベトナムのデザート"
+      }
+    ],
+    "relatedIds": [
+      "patbingsu",
+      "kakigori-nara",
+      "smoothie-bowl"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AD%E3%83%8F%E3%83%AD",
+      "https://en.wikipedia.org/wiki/Halo-halo"
+    ],
+    "tags": [
+      "東南アジア料理",
+      "デザート",
+      "果物",
+      "豆類",
+      "乳製品",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "甘いもの嫌い",
+      "冷たいものが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/halo-halo/1.jpg",
+      "/images/dishes/halo-halo/2.jpg",
+      "/images/dishes/halo-halo/3.jpg"
+    ]
+  },
+  {
+    "id": "mahua",
+    "name": "麻花",
+    "kana": "まーほあ",
+    "aliases": [
+      "よりより",
+      "麻花兒",
+      "唐人巻"
+    ],
+    "englishName": "Mahua (fried dough twist)",
+    "originalName": "麻花",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "小麦粉の生地をねじって油で揚げた中国陝西省起源の菓子。長崎や横浜の中華街では『よりより』とも呼ばれる。",
+    "menuDescription": "生地を細くねじって香ばしく揚げた、サクサク食感の中華揚げ菓子です。",
+    "whatComesOut": [
+      "ねじった棒状の揚げ菓子",
+      "袋入りの土産品"
+    ],
+    "tasteAndTexture": [
+      "サクサク・カリカリの食感",
+      "香ばしい揚げ油の香り",
+      "素朴な甘さ"
+    ],
+    "orderAdvice": "中華街の食べ歩きや土産に。硬めのものもあるので歯に注意。",
+    "similarItems": [
+      {
+        "id": "kkwabaegi",
+        "name": "クァベギ",
+        "difference": "ねじった形の韓国の揚げドーナツ"
+      },
+      {
+        "name": "かりんとう",
+        "difference": "黒糖をまぶした日本の揚げ菓子"
+      },
+      {
+        "id": "churros",
+        "name": "チュロス",
+        "difference": "スペインの棒状揚げ菓子"
+      }
+    ],
+    "relatedIds": [
+      "kkwabaegi",
+      "churros"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E9%BA%BB%E8%8A%B1"
+    ],
+    "tags": [
+      "中国料理",
+      "菓子",
+      "小麦",
+      "揚げ物",
+      "サクサク",
+      "甘み",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "揚げ物が苦手",
+      "柔らかいお菓子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mahua/1.jpg",
+      "/images/dishes/mahua/2.jpg",
+      "/images/dishes/mahua/3.jpg"
+    ]
+  },
+  {
+    "id": "chai",
+    "name": "チャイ",
+    "kana": "ちゃい",
+    "aliases": [
+      "マサラチャイ",
+      "マサーラー・チャイ"
+    ],
+    "englishName": "Masala chai",
+    "originalName": "चाय",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "紅茶の茶葉を牛乳と水で煮出し、砂糖とカルダモン・シナモン・生姜などのスパイスを加えたインド式ミルクティー。",
+    "menuDescription": "茶葉とスパイスをミルクでじっくり煮出した、甘く香り高い本場風マサラチャイです。",
+    "whatComesOut": [
+      "素焼きの器やカップに入った甘いミルクティー"
+    ],
+    "tasteAndTexture": [
+      "スパイスの華やかな香り",
+      "濃い紅茶とミルクのコク",
+      "しっかりした甘さ"
+    ],
+    "orderAdvice": "インド料理店の食後の定番。甘さ控えめを頼める店もある。",
+    "similarItems": [
+      {
+        "name": "ミルクティー",
+        "difference": "スパイスなしの紅茶と牛乳"
+      },
+      {
+        "id": "sujeonggwa",
+        "name": "スジョンガ",
+        "difference": "シナモンと生姜の韓国の飲み物"
+      },
+      {
+        "name": "ラッシー",
+        "difference": "ヨーグルトのインドの飲み物"
+      }
+    ],
+    "relatedIds": [
+      "sujeonggwa"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%A4",
+      "https://en.wikipedia.org/wiki/Masala_chai"
+    ],
+    "tags": [
+      "インド料理",
+      "スパイス",
+      "乳製品",
+      "甘み",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "スパイスが苦手",
+      "ストレートティー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chai/1.jpg",
+      "/images/dishes/chai/2.jpg",
+      "/images/dishes/chai/3.jpg"
+    ]
+  },
+  {
+    "id": "hibiscus-tea",
+    "name": "ハイビスカスティー",
+    "kana": "はいびすかすてぃー",
+    "aliases": [
+      "ジャマイカティー",
+      "カルカデ",
+      "ローゼルティー"
+    ],
+    "englishName": "Hibiscus tea",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "エジプト"
+      },
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "ローゼルの紅色のがくを煮出したハーブティー。クランベリーのような強い酸味があり、エジプトではカルカデ、メキシコではアグア・デ・ハマイカとして冷やして飲まれる。",
+    "menuDescription": "ローゼルのがくを煮出した、鮮やかなルビー色の甘酸っぱいハーブティーです。",
+    "whatComesOut": [
+      "深紅色のお茶（温または冷）"
+    ],
+    "tasteAndTexture": [
+      "クランベリーのような強い酸味",
+      "すっきりした後味",
+      "華やかな色"
+    ],
+    "orderAdvice": "カフェインなし。酸味が強いので砂糖や蜂蜜を加えると飲みやすい。",
+    "similarItems": [
+      {
+        "id": "yuja-cha",
+        "name": "ゆず茶",
+        "difference": "柚子の甘い韓国茶"
+      },
+      {
+        "id": "omija-cha",
+        "name": "オミジャ茶",
+        "difference": "赤い五味子の茶"
+      },
+      {
+        "name": "ローズヒップティー",
+        "difference": "酸味のあるハーブティー"
+      }
+    ],
+    "relatedIds": [
+      "omija-cha",
+      "yuja-cha"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%93%E3%82%B9%E3%82%AB%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC",
+      "https://en.wikipedia.org/wiki/Hibiscus_tea"
+    ],
+    "tags": [
+      "北アフリカ料理",
+      "メキシコ料理",
+      "ハーブ",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "酸っぱいものが苦手",
+      "ミルクティー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hibiscus-tea/1.jpg",
+      "/images/dishes/hibiscus-tea/2.jpg",
+      "/images/dishes/hibiscus-tea/3.jpg"
+    ]
+  },
+  {
+    "id": "tej",
+    "name": "タッジ",
+    "kana": "たっじ",
+    "aliases": [
+      "テッジ",
+      "エチオピアの蜂蜜酒"
+    ],
+    "englishName": "Tej",
+    "originalName": "ጠጅ",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "エチオピア"
+      }
+    ],
+    "summary": "蜂蜜を発酵させたエチオピア・エリトリアの蜂蜜酒。ゲショというクロウメモドキ科の植物で苦味を付け、アルコール度数は7〜11%ほど。",
+    "menuDescription": "蜂蜜とゲショで醸した、エチオピア伝統の甘く香り高い蜂蜜酒です。",
+    "whatComesOut": [
+      "黄色く濁った甘い酒",
+      "丸いフラスコ型の器（ベレレ）"
+    ],
+    "tasteAndTexture": [
+      "蜂蜜の甘さ",
+      "ゲショのほのかな苦み",
+      "発酵によるフルーティーな香り"
+    ],
+    "orderAdvice": "エチオピア料理店で見つけたら試す価値あり。甘くて飲みやすいが度数はある。",
+    "caution": "アルコール飲料。",
+    "similarItems": [
+      {
+        "id": "tella",
+        "name": "テラ",
+        "difference": "エチオピアの穀物の醸造酒"
+      },
+      {
+        "name": "ミード",
+        "difference": "欧州の蜂蜜酒"
+      }
+    ],
+    "relatedIds": [
+      "tella",
+      "injera"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Tej"
+    ],
+    "tags": [
+      "アフリカ料理",
+      "発酵",
+      "甘み",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "お酒が苦手",
+      "辛口の酒"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tej/1.jpg",
+      "/images/dishes/tej/2.jpg",
+      "/images/dishes/tej/3.jpg"
+    ]
+  },
+  {
+    "id": "mandi",
+    "name": "マンディ",
+    "kana": "まんでぃ",
+    "aliases": [
+      "ザルブ",
+      "クージー"
+    ],
+    "englishName": "Mandi",
+    "originalName": "مندي",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イエメン"
+      }
+    ],
+    "summary": "スパイスで味付けした肉（羊や鶏）と米を、地中に掘った窯で蒸し焼きにするアラブの伝統料理。イエメンのハドラマウト発祥でアラビア半島全域に広まった。",
+    "menuDescription": "スパイスを効かせた羊肉を窯でじっくり焼き、肉汁を吸った香り高いご飯にのせました。",
+    "whatComesOut": [
+      "大皿の香りのよいご飯",
+      "骨付きの羊肉や鶏肉",
+      "トマトのサルサや唐辛子ソース"
+    ],
+    "tasteAndTexture": [
+      "スパイスの香り",
+      "肉汁がしみたご飯",
+      "ほろりと柔らかい肉"
+    ],
+    "orderAdvice": "大皿でシェアするのが一般的。辛さは控えめで、肉好きにおすすめ。",
+    "similarItems": [
+      {
+        "id": "biryani",
+        "name": "ビリヤニ",
+        "difference": "スパイスと肉を炊き込んだインドのご飯"
+      },
+      {
+        "name": "カブサ",
+        "difference": "サウジアラビアの肉と米の料理"
+      },
+      {
+        "id": "fatta",
+        "name": "ファッタ",
+        "difference": "パンと米と肉を重ねたエジプト料理"
+      }
+    ],
+    "relatedIds": [
+      "fatta",
+      "biryani"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Mandi_(food)"
+    ],
+    "tags": [
+      "アラブ料理",
+      "ご飯もの",
+      "羊肉",
+      "米",
+      "スパイス",
+      "ロースト",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "羊肉が苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/mandi/1.jpg",
+      "/images/dishes/mandi/2.jpg",
+      "/images/dishes/mandi/3.jpg"
+    ]
+  },
+  {
+    "id": "arayes",
+    "name": "アライス",
+    "kana": "あらいす",
+    "aliases": [
+      "アラーイス",
+      "Arayes"
+    ],
+    "englishName": "Arayes",
+    "originalName": "عرايس",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "レバノン"
+      }
+    ],
+    "summary": "スパイスで味付けした羊肉や牛肉のひき肉をピタパンに詰め、グリルでカリッと焼いたレバント地方の料理。",
+    "menuDescription": "スパイシーなひき肉をピタに挟み、炭火でカリッと焼き上げたアライスです。",
+    "whatComesOut": [
+      "三角に切った焼きピタサンド",
+      "タヒニソースやヨーグルト",
+      "ピクルス"
+    ],
+    "tasteAndTexture": [
+      "カリカリのパン",
+      "肉汁たっぷりのスパイシーな肉",
+      "香ばしいグリルの香り"
+    ],
+    "orderAdvice": "前菜やシェア料理に。手づかみで食べやすい。",
+    "similarItems": [
+      {
+        "id": "hawawshi",
+        "name": "ハワウシ",
+        "difference": "ひき肉をパンに詰めて焼くエジプト料理"
+      },
+      {
+        "name": "ケバブ",
+        "difference": "グリルした肉料理"
+      }
+    ],
+    "relatedIds": [
+      "hawawshi"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Hawawshi"
+    ],
+    "tags": [
+      "レバノン料理",
+      "軽食",
+      "羊肉",
+      "小麦",
+      "グリル",
+      "スパイス",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "羊肉が苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/arayes/1.jpg",
+      "/images/dishes/arayes/2.jpg",
+      "/images/dishes/arayes/3.jpg"
+    ]
+  },
+  {
+    "id": "hamam-mashwi",
+    "name": "ハマーム・マシュウィー",
+    "kana": "はまーむ・ましゅうぃー",
+    "aliases": [
+      "ハト（鳩）のグリル",
+      "ハマム・マシュウィ"
+    ],
+    "englishName": "Hamam mashwi (grilled pigeon)",
+    "originalName": "حمام مشوي",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エジプト"
+      }
+    ],
+    "summary": "鳩（ハト）を開いてスパイスでマリネし、炭火でグリルしたエジプト料理。詰め物をして焼くハマーム・マフシーと並ぶ鳩料理の定番。",
+    "menuDescription": "スパイスでマリネした若鳩を炭火でじっくりグリルしました。",
+    "whatComesOut": [
+      "グリルした鳩（丸ごとや開き）",
+      "パンやサラダ",
+      "タヒニ・レモン"
+    ],
+    "tasteAndTexture": [
+      "香ばしい皮",
+      "濃いめの赤身肉の味",
+      "スパイスの香り"
+    ],
+    "orderAdvice": "エジプトの名物肉料理。小骨が多いので手で食べるのが一般的。",
+    "similarItems": [
+      {
+        "id": "hamam-mahshi",
+        "name": "ハマーム・マフシー",
+        "difference": "鳩に米やフリーケを詰めた料理"
+      },
+      {
+        "name": "ローストチキン",
+        "difference": "鶏の丸焼き"
+      }
+    ],
+    "relatedIds": [
+      "hamam-mahshi"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Hamam_mahshi",
+      "https://en.wikipedia.org/wiki/Squab"
+    ],
+    "tags": [
+      "北アフリカ料理",
+      "主菜",
+      "ジビエ",
+      "グリル",
+      "スパイス",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ジビエが苦手",
+      "鶏肉料理"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "bread-pudding",
+    "name": "ブレッドプディング",
+    "kana": "ぶれっどぷでぃんぐ",
+    "aliases": [
+      "パンプディング",
+      "パンプリン"
+    ],
+    "englishName": "Bread pudding",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "イギリス"
+      }
+    ],
+    "summary": "古くなったパンを牛乳・卵・砂糖の液に浸し、レーズンなどを加えてオーブンで焼いたイギリス発祥の菓子。",
+    "menuDescription": "パンにカスタード液をたっぷり染み込ませ、ふんわり焼き上げたブレッドプディングです。",
+    "whatComesOut": [
+      "焼き色のついたプディング（四角や器入り）",
+      "カスタードソースやバニラアイス"
+    ],
+    "tasteAndTexture": [
+      "卵と牛乳のやさしい甘さ",
+      "しっとりふわふわの食感",
+      "焼き目の香ばしさ"
+    ],
+    "orderAdvice": "温かいうちに食べるのがおすすめ。素朴な家庭的デザート。",
+    "caution": "小麦・卵・乳を含む。",
+    "similarItems": [
+      {
+        "id": "umm-ali",
+        "name": "ウンム・アリ",
+        "difference": "パイ生地とミルクを焼いたエジプトの菓子"
+      },
+      {
+        "name": "フレンチトースト",
+        "difference": "卵液に浸したパンを焼く"
+      },
+      {
+        "id": "honey-toast",
+        "name": "ハニートースト",
+        "difference": "食パンをくり抜いて焼き蜂蜜をかける"
+      }
+    ],
+    "relatedIds": [
+      "umm-ali",
+      "honey-toast",
+      "trifle"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%97%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0",
+      "https://en.wikipedia.org/wiki/Bread_pudding"
+    ],
+    "tags": [
+      "イギリス料理",
+      "デザート",
+      "小麦",
+      "卵",
+      "焼き物",
+      "甘み",
+      "ふわふわ",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "甘いもの嫌い",
+      "軽いデザート"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bread-pudding/1.jpg",
+      "/images/dishes/bread-pudding/2.jpg",
+      "/images/dishes/bread-pudding/3.jpg"
+    ]
+  },
+  {
+    "id": "muhallebi",
+    "name": "ムハラビーヤ",
+    "kana": "むはらびーや",
+    "aliases": [
+      "ムハッレビ",
+      "マハラビア"
+    ],
+    "englishName": "Muhallebi",
+    "originalName": "مهلّبية",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "トルコ"
+      },
+      {
+        "country": "エジプト"
+      }
+    ],
+    "summary": "牛乳・米粉・砂糖で作る中東・トルコのミルクプディング。ローズウォーターやピスタチオで香りづけすることが多い。",
+    "menuDescription": "ミルクと米粉をなめらかに炊き上げ、ローズウォーターとピスタチオで仕上げたプディングです。",
+    "whatComesOut": [
+      "器に入った白いミルクプディング",
+      "ピスタチオ・シナモン"
+    ],
+    "tasteAndTexture": [
+      "ミルクのやさしい甘さ",
+      "ぷるんとなめらかな口当たり",
+      "ローズの香り"
+    ],
+    "orderAdvice": "中東・トルコ料理店の食後のデザートに。甘さは控えめで食べやすい。",
+    "similarItems": [
+      {
+        "id": "roz-bel-laban",
+        "name": "ロズ・ビ・ラバン",
+        "difference": "米粒入りのライスプディング"
+      },
+      {
+        "id": "panna-cotta",
+        "name": "パンナコッタ",
+        "difference": "ゼラチンで固めたイタリアのデザート"
+      },
+      {
+        "id": "sahlab",
+        "name": "サーレップ",
+        "difference": "とろみのある温かい飲み物"
+      }
+    ],
+    "relatedIds": [
+      "roz-bel-laban",
+      "sahlab",
+      "rice-pudding"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%8F%E3%83%83%E3%83%AC%E3%83%93",
+      "https://en.wikipedia.org/wiki/Muhallebi"
+    ],
+    "tags": [
+      "トルコ料理",
+      "中東料理",
+      "デザート",
+      "乳製品",
+      "米",
+      "甘み",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "乳製品が苦手",
+      "焼き菓子"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/muhallebi/1.jpg",
+      "/images/dishes/muhallebi/2.jpg",
+      "/images/dishes/muhallebi/3.jpg"
+    ]
+  },
+  {
+    "id": "rice-pudding",
+    "name": "ライスプディング",
+    "kana": "らいすぷでぃんぐ",
+    "aliases": [
+      "ミルク粥",
+      "乳粥"
+    ],
+    "englishName": "Rice pudding",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "イギリス"
+      }
+    ],
+    "summary": "米を牛乳で煮て砂糖やバニラ、シナモンなどで甘くした料理。同様のものが世界各地にあり、デザートとして食べられる。",
+    "menuDescription": "お米をミルクでじっくり煮込み、バニラとシナモンで香りづけしたライスプディングです。",
+    "whatComesOut": [
+      "とろりとした米入りのミルクデザート",
+      "シナモンやジャム"
+    ],
+    "tasteAndTexture": [
+      "ミルクとバニラの甘さ",
+      "米のつぶつぶ感",
+      "クリーミーな口当たり"
+    ],
+    "orderAdvice": "甘い米に抵抗がなければ素朴でおいしい。温・冷どちらもある。",
+    "similarItems": [
+      {
+        "id": "roz-bel-laban",
+        "name": "ロズ・ビ・ラバン",
+        "difference": "エジプトのライスプディング"
+      },
+      {
+        "id": "muhallebi",
+        "name": "ムハラビーヤ",
+        "difference": "米粉で作るなめらかな中東のプディング"
+      },
+      {
+        "name": "キール",
+        "difference": "インドの米のミルク粥"
+      }
+    ],
+    "relatedIds": [
+      "roz-bel-laban",
+      "muhallebi"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%97%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0",
+      "https://en.wikipedia.org/wiki/Rice_pudding"
+    ],
+    "tags": [
+      "イギリス料理",
+      "デザート",
+      "米",
+      "乳製品",
+      "煮込み",
+      "甘み",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "甘い米が苦手",
+      "焼き菓子"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/rice-pudding/1.jpg",
+      "/images/dishes/rice-pudding/2.jpg",
+      "/images/dishes/rice-pudding/3.jpg"
+    ]
+  },
+  {
+    "id": "lyutenitsa",
+    "name": "リュテニツァ",
+    "kana": "りゅてにつぁ",
+    "aliases": [
+      "ルテニツァ",
+      "リュテニッツァ"
+    ],
+    "englishName": "Lyutenitsa",
+    "originalName": "лютеница",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "ブルガリア"
+      }
+    ],
+    "summary": "焼いた赤パプリカ、トマト、なす、にんにくなどを煮詰めたブルガリアのペースト状の野菜レリッシュ。パンに塗ったり肉料理に添えたりする。",
+    "menuDescription": "ローストした赤パプリカとトマトをじっくり煮詰めた、ブルガリア伝統の野菜ペーストです。",
+    "whatComesOut": [
+      "赤いペースト状の野菜ディップ",
+      "パンやグリル肉に添えて"
+    ],
+    "tasteAndTexture": [
+      "パプリカとトマトの甘み",
+      "ほのかな酸味",
+      "やや辛いものもある"
+    ],
+    "orderAdvice": "パンに塗るだけでおいしい。ブルガリア土産としても人気。",
+    "similarItems": [
+      {
+        "id": "ajvar",
+        "name": "アイヴァル",
+        "difference": "赤パプリカ主体のバルカンのペースト"
+      },
+      {
+        "id": "pindjur",
+        "name": "ピンジュル",
+        "difference": "トマト入りのバルカンのレリッシュ"
+      }
+    ],
+    "relatedIds": [
+      "ajvar",
+      "pindjur"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Lyutenitsa"
+    ],
+    "tags": [
+      "ブルガリア料理",
+      "ソース",
+      "野菜",
+      "甘み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "パプリカが苦手",
+      "クリーム系ソース"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/lyutenitsa/1.jpg",
+      "/images/dishes/lyutenitsa/2.jpg",
+      "/images/dishes/lyutenitsa/3.jpg"
+    ]
+  },
+  {
+    "id": "pindjur",
+    "name": "ピンジュル",
+    "kana": "ぴんじゅる",
+    "aliases": [
+      "ピンジュール",
+      "pinđur"
+    ],
+    "englishName": "Pindjur",
+    "originalName": "пинџур",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "北マケドニア"
+      },
+      {
+        "country": "セルビア"
+      }
+    ],
+    "summary": "ローストした赤ピーマン、トマト、にんにく、植物油、塩を混ぜたバルカン諸国のスプレッド。アイヴァルに似るがトマトが入る。",
+    "menuDescription": "焼いた赤ピーマンとトマトをにんにくと合わせた、夏のバルカン風レリッシュです。",
+    "whatComesOut": [
+      "赤いペースト状のレリッシュ",
+      "パンやチーズに添えて"
+    ],
+    "tasteAndTexture": [
+      "ローストピーマンの甘み",
+      "トマトの酸味",
+      "にんにくの風味"
+    ],
+    "orderAdvice": "パンと白チーズと一緒に前菜として。",
+    "similarItems": [
+      {
+        "id": "ajvar",
+        "name": "アイヴァル",
+        "difference": "トマトが入らない赤パプリカのペースト"
+      },
+      {
+        "id": "lyutenitsa",
+        "name": "リュテニツァ",
+        "difference": "ブルガリアの煮詰めた野菜ペースト"
+      }
+    ],
+    "relatedIds": [
+      "ajvar",
+      "lyutenitsa"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%B3%E3%82%B8%E3%83%A5%E3%83%AB"
+    ],
+    "tags": [
+      "北マケドニア料理",
+      "セルビア料理",
+      "ソース",
+      "野菜",
+      "酸味",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "パプリカが苦手",
+      "クリーム系ソース"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/pindjur/1.jpg",
+      "/images/dishes/pindjur/2.jpg",
+      "/images/dishes/pindjur/3.jpg"
+    ]
+  },
+  {
+    "id": "pasulj",
+    "name": "パスリ",
+    "kana": "ぱすり",
+    "aliases": [
+      "パスーリ",
+      "グラ",
+      "pasulj"
+    ],
+    "englishName": "Pasulj",
+    "originalName": "пасуљ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      }
+    ],
+    "summary": "白いんげん豆などをベーコンやソーセージ、燻製ハムとともに煮込んだバルカン半島の豆のシチュー。セルビアの国民食の一つ。",
+    "menuDescription": "白いんげん豆を燻製肉とパプリカでじっくり煮込んだ、セルビアの家庭の味です。",
+    "whatComesOut": [
+      "とろりとした豆の煮込み",
+      "燻製肉やソーセージ",
+      "パン"
+    ],
+    "tasteAndTexture": [
+      "豆のほくほく感",
+      "燻製肉の香りと塩気",
+      "パプリカの風味"
+    ],
+    "orderAdvice": "ボリュームのあるスープとして。寒い時期に特におすすめ。",
+    "similarItems": [
+      {
+        "id": "prebranac",
+        "name": "プレブラナツ",
+        "difference": "豆をオーブンで焼いたセルビア料理"
+      },
+      {
+        "id": "pasta-e-fagioli",
+        "name": "パスタ・エ・ファジョーリ",
+        "difference": "パスタと豆のイタリアのスープ"
+      },
+      {
+        "id": "cassoulet",
+        "name": "カスレ",
+        "difference": "豆と肉のフランスの煮込み"
+      }
+    ],
+    "relatedIds": [
+      "prebranac",
+      "cassoulet",
+      "pasta-e-fagioli"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pasulj"
+    ],
+    "tags": [
+      "セルビア料理",
+      "スープ",
+      "豆類",
+      "豚肉",
+      "煮込み",
+      "燻製",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "豆が苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/pasulj/1.jpg",
+      "/images/dishes/pasulj/2.jpg",
+      "/images/dishes/pasulj/3.jpg"
+    ]
+  },
+  {
+    "id": "clotted-cream",
+    "name": "クロテッドクリーム",
+    "kana": "くろてっどくりーむ",
+    "aliases": [
+      "デボンシャークリーム",
+      "コーニッシュクリーム"
+    ],
+    "englishName": "Clotted cream",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "イギリス"
+      }
+    ],
+    "summary": "全乳を間接的に加熱してゆっくり冷まし、表面に固まった濃厚なクリームを集めたイギリスの乳製品。スコーンにジャムとともに塗る。",
+    "menuDescription": "コーンウォール産の濃厚なクロテッドクリーム。焼きたてスコーンといちごジャムとともにどうぞ。",
+    "whatComesOut": [
+      "スコーンに添えられた黄色みがかった濃厚クリーム",
+      "ジャム"
+    ],
+    "tasteAndTexture": [
+      "バターと生クリームの間のようなコク",
+      "ほのかな甘み",
+      "もったりとした質感"
+    ],
+    "orderAdvice": "アフタヌーンティーやクリームティーで。脂肪分が高いので量は控えめに。",
+    "similarItems": [
+      {
+        "id": "kajmak",
+        "name": "カイマク",
+        "difference": "バルカン・トルコの濃厚クリーム"
+      },
+      {
+        "id": "sour-cream",
+        "name": "サワークリーム",
+        "difference": "酸味のある発酵クリーム"
+      },
+      {
+        "name": "生クリーム",
+        "difference": "泡立てて使うクリーム"
+      }
+    ],
+    "relatedIds": [
+      "kajmak",
+      "sour-cream"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%86%E3%83%83%E3%83%89%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0",
+      "https://en.wikipedia.org/wiki/Clotted_cream"
+    ],
+    "tags": [
+      "イギリス料理",
+      "乳製品",
+      "こってり",
+      "クリーミー",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "乳製品が苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/clotted-cream/1.jpg",
+      "/images/dishes/clotted-cream/2.jpg",
+      "/images/dishes/clotted-cream/3.jpg"
+    ]
+  },
+  {
+    "id": "cornbread",
+    "name": "コーンブレッド",
+    "kana": "こーんぶれっど",
+    "englishName": "Cornbread",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "トウモロコシ粉（コーンミール）で作るアメリカ南部の素朴なパン。ベーキングパウダーで膨らませ、スキレットで焼くことが多い。",
+    "menuDescription": "コーンミールをたっぷり使い、スキレットで香ばしく焼き上げたコーンブレッドです。",
+    "whatComesOut": [
+      "四角や扇形に切った黄色いパン",
+      "バターや蜂蜜"
+    ],
+    "tasteAndTexture": [
+      "トウモロコシの甘い香り",
+      "ほろほろした食感",
+      "外側は香ばしい"
+    ],
+    "orderAdvice": "BBQやチリコンカンの付け合わせとして定番。",
+    "similarItems": [
+      {
+        "id": "proja",
+        "name": "プロヤ",
+        "difference": "トウモロコシ粉のセルビアのパン"
+      },
+      {
+        "id": "arepa",
+        "name": "アレパ",
+        "difference": "トウモロコシ生地の南米の薄焼きパン"
+      },
+      {
+        "id": "mamaliga",
+        "name": "ママリガ",
+        "difference": "トウモロコシ粉の粥"
+      }
+    ],
+    "relatedIds": [
+      "proja",
+      "arepa",
+      "mamaliga",
+      "chili-con-carne"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%83%96%E3%83%AC%E3%83%83%E3%83%89",
+      "https://en.wikipedia.org/wiki/Cornbread"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "パン",
+      "焼き物",
+      "甘み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "もっちりしたパン",
+      "米派"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cornbread/1.jpg",
+      "/images/dishes/cornbread/2.jpg",
+      "/images/dishes/cornbread/3.jpg"
+    ]
+  },
+  {
+    "id": "coban-salatasi",
+    "name": "チョバン・サラタス",
+    "kana": "ちょばん・さらたす",
+    "aliases": [
+      "羊飼いのサラダ",
+      "チョバンサラダ"
+    ],
+    "englishName": "Çoban salatası (shepherd's salad)",
+    "originalName": "Çoban salatası",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "トルコ"
+      }
+    ],
+    "summary": "細かく刻んだトマト、きゅうり、青唐辛子、玉ねぎ、イタリアンパセリをレモン汁、オリーブオイル、塩で和えたトルコのサラダ。",
+    "menuDescription": "完熟トマトときゅうりを細かく刻み、レモンとオリーブオイルでさっぱり和えたサラダです。",
+    "whatComesOut": [
+      "細かく刻んだ野菜のサラダ",
+      "レモン汁とオリーブオイル"
+    ],
+    "tasteAndTexture": [
+      "レモンのさわやかな酸味",
+      "野菜のみずみずしさ",
+      "青唐辛子のほのかな辛み"
+    ],
+    "orderAdvice": "ケバブなど肉料理の付け合わせに最適。",
+    "similarItems": [
+      {
+        "id": "srpska-salata",
+        "name": "セルビアサラダ",
+        "difference": "トマト・きゅうり・玉ねぎ・唐辛子のサラダ"
+      },
+      {
+        "id": "greek-salad",
+        "name": "ギリシャサラダ",
+        "difference": "フェタチーズとオリーブ入り"
+      },
+      {
+        "name": "タブレ",
+        "difference": "パセリとブルグルのサラダ"
+      }
+    ],
+    "relatedIds": [
+      "srpska-salata",
+      "greek-salad"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/%C3%87oban_salatas%C4%B1"
+    ],
+    "tags": [
+      "トルコ料理",
+      "サラダ",
+      "野菜",
+      "生食",
+      "酸味",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "生野菜が苦手",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "porchetta",
+    "name": "ポルケッタ",
+    "kana": "ぽるけった",
+    "englishName": "Porchetta",
+    "originalName": "Porchetta",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "骨を抜いた豚肉にフェンネル、ローズマリー、にんにく、塩などを詰めて巻き、皮ごと長時間ローストしたイタリア中部の伝統料理。",
+    "menuDescription": "ハーブを詰めて巻いた豚肉を皮ごとじっくりローストした、香り高いポルケッタです。",
+    "whatComesOut": [
+      "薄切りにしたロースト豚肉",
+      "パリパリの皮",
+      "パンに挟んだパニーノで出ることも"
+    ],
+    "tasteAndTexture": [
+      "パリッとした皮と脂の甘み",
+      "フェンネルとハーブの香り",
+      "しっとりした肉"
+    ],
+    "orderAdvice": "イタリアの屋台や市場ではパニーノで手軽に食べられる。脂が多めなので量に注意。",
+    "similarItems": [
+      {
+        "id": "pecenje",
+        "name": "ペチェニェ",
+        "difference": "豚や羊を丸焼きにするセルビア料理"
+      },
+      {
+        "name": "チャーシュー",
+        "difference": "甘いタレで焼いた中華の豚肉"
+      },
+      {
+        "id": "cochinillo-asado",
+        "name": "コチニーリョ・アサード",
+        "difference": "子豚の丸焼き"
+      }
+    ],
+    "relatedIds": [
+      "pecenje",
+      "cochinillo-asado"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AB%E3%82%B1%E3%83%83%E3%82%BF",
+      "https://en.wikipedia.org/wiki/Porchetta"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "豚肉",
+      "ハーブ",
+      "ロースト",
+      "ジューシー",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "脂身が苦手",
+      "魚料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/porchetta/1.jpg",
+      "/images/dishes/porchetta/2.jpg",
+      "/images/dishes/porchetta/3.jpg"
+    ]
+  },
+  {
+    "id": "croissant",
+    "name": "クロワッサン",
+    "kana": "くろわっさん",
+    "englishName": "Croissant",
+    "originalName": "Croissant",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "バターをパン生地に折り込んで三日月形に焼き上げたフランスのパン（ヴィエノワズリー）。オーストリアのキプフェルの形に着想を得たとされる。",
+    "menuDescription": "発酵バターを何層にも折り込んで焼き上げた、香り高くサクサクのクロワッサンです。",
+    "whatComesOut": [
+      "三日月形またはまっすぐなパン",
+      "カフェオレと一緒に朝食で"
+    ],
+    "tasteAndTexture": [
+      "バターの豊かな香り",
+      "外側のサクサク感",
+      "内側のしっとりした層"
+    ],
+    "orderAdvice": "フランスの朝食やカフェの定番。焼きたてが一番おいしい。",
+    "caution": "小麦・乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "kifla",
+        "name": "キフラ",
+        "difference": "三日月形のバルカンのパン。クロワッサンほど層はない"
+      },
+      {
+        "id": "brioche",
+        "name": "ブリオッシュ",
+        "difference": "卵とバターたっぷりのふんわりパン"
+      },
+      {
+        "name": "キプフェル",
+        "difference": "三日月形のオーストリアの菓子パン"
+      }
+    ],
+    "relatedIds": [
+      "kifla",
+      "brioche"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%AF%E3%83%83%E3%82%B5%E3%83%B3",
+      "https://en.wikipedia.org/wiki/Croissant"
+    ],
+    "tags": [
+      "フランス料理",
+      "パン",
+      "小麦",
+      "乳製品",
+      "焼き物",
+      "サクサク",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "バターが苦手",
+      "ご飯派"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/croissant/1.jpg",
+      "/images/dishes/croissant/2.jpg",
+      "/images/dishes/croissant/3.jpg"
+    ]
+  },
+  {
+    "id": "french-dip",
+    "name": "フレンチディップ",
+    "kana": "ふれんちでぃっぷ",
+    "aliases": [
+      "ビーフディップ",
+      "フレンチディップサンド"
+    ],
+    "englishName": "French dip sandwich",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "薄切りローストビーフをフレンチロールやバゲットに挟み、肉汁（ジュ）に浸しながら食べるアメリカ生まれのホットサンドイッチ。『フレンチ』はパンの種類を指す。",
+    "menuDescription": "薄切りのローストビーフをバゲットに挟み、温かいオ・ジュを添えたフレンチディップです。",
+    "whatComesOut": [
+      "ローストビーフを挟んだ細長いサンド",
+      "カップに入った肉汁（オ・ジュ）",
+      "ポテトやピクルス"
+    ],
+    "tasteAndTexture": [
+      "肉汁のしみたパン",
+      "ローストビーフの旨み",
+      "パンの香ばしさ"
+    ],
+    "orderAdvice": "ジュにたっぷり浸して食べるのが醍醐味。ロサンゼルス発祥の名物。",
+    "similarItems": [
+      {
+        "id": "torta-ahogada",
+        "name": "トルタ・アオガダ",
+        "difference": "豚肉のサンドを辛いソースに浸すメキシコ料理"
+      },
+      {
+        "name": "ローストビーフサンド",
+        "difference": "ジュに浸さないサンドイッチ"
+      }
+    ],
+    "relatedIds": [
+      "torta-ahogada"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%87%E3%82%A3%E3%83%83%E3%83%97",
+      "https://en.wikipedia.org/wiki/French_dip"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "軽食",
+      "牛肉",
+      "小麦",
+      "ロースト",
+      "ジューシー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "牛肉が苦手",
+      "冷たいサンドイッチ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/french-dip/1.jpg",
+      "/images/dishes/french-dip/2.jpg",
+      "/images/dishes/french-dip/3.jpg"
+    ]
+  },
+  {
+    "id": "torta",
+    "name": "トルタ",
+    "kana": "とるた",
+    "aliases": [
+      "トルタ・メキシカーナ",
+      "メキシカンサンド"
+    ],
+    "englishName": "Torta (Mexican sandwich)",
+    "originalName": "Torta",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "ボリージョやテレラと呼ばれるパンに、肉、豆のペースト、アボカド、チーズ、ハラペーニョなどを挟んだメキシコのサンドイッチ。",
+    "menuDescription": "香ばしく焼いたテレラに、ミラネサ、アボカド、フリホーレス、チーズをたっぷり挟んだトルタです。",
+    "whatComesOut": [
+      "大きなパンに具を詰めたサンドイッチ",
+      "ハラペーニョの酢漬け"
+    ],
+    "tasteAndTexture": [
+      "具だくさんのボリューム",
+      "アボカドと豆のクリーミーさ",
+      "唐辛子のピリ辛"
+    ],
+    "orderAdvice": "屋台やトルタ専門店の定番ランチ。かなり大きいので一つで満腹。",
+    "similarItems": [
+      {
+        "id": "torta-ahogada",
+        "name": "トルタ・アオガダ",
+        "difference": "辛いソースに浸したグアダラハラのトルタ"
+      },
+      {
+        "name": "バインミー",
+        "difference": "バゲットに具を挟んだベトナムのサンド"
+      },
+      {
+        "id": "french-dip",
+        "name": "フレンチディップ",
+        "difference": "ローストビーフを肉汁に浸すサンド"
+      }
+    ],
+    "relatedIds": [
+      "torta-ahogada",
+      "french-dip"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Torta"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "軽食",
+      "豚肉",
+      "小麦",
+      "焼き物",
+      "ピリ辛",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "軽食少なめ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/torta/1.jpg",
+      "/images/dishes/torta/2.jpg",
+      "/images/dishes/torta/3.jpg"
+    ]
+  },
+  {
+    "id": "coctel-de-camaron",
+    "name": "コクテル・デ・カマロン",
+    "kana": "こくてる・で・かまろん",
+    "aliases": [
+      "シュリンプカクテル（メキシコ風）",
+      "エビのカクテル"
+    ],
+    "englishName": "Cóctel de camarón (Mexican shrimp cocktail)",
+    "originalName": "Cóctel de camarón",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "茹でたエビをトマトベースの冷たいソース、ライム、玉ねぎ、パクチー、アボカドと合わせ、グラスに盛ったメキシコの海鮮料理。",
+    "menuDescription": "プリプリのエビをライムの効いたトマトソースでマリネし、アボカドとパクチーを添えたカクテルです。",
+    "whatComesOut": [
+      "グラスに入ったエビとトマトソース",
+      "アボカド・玉ねぎ・パクチー",
+      "クラッカーやトスターダ"
+    ],
+    "tasteAndTexture": [
+      "ライムとトマトの酸味",
+      "エビの甘み",
+      "冷たくさっぱり"
+    ],
+    "orderAdvice": "海辺の屋台や暑い日に。辛さはホットソースで調整。",
+    "caution": "甲殻類アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "aguachile",
+        "name": "アグアチレ",
+        "difference": "生のエビをライムと唐辛子で締める"
+      },
+      {
+        "name": "シュリンプカクテル",
+        "difference": "マヨネーズ系ソースの英米の前菜"
+      },
+      {
+        "id": "ceviche",
+        "name": "セビーチェ",
+        "difference": "生の魚介を柑橘で締めるペルー料理"
+      }
+    ],
+    "relatedIds": [
+      "aguachile",
+      "ceviche"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%B3%E3%83%97%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB",
+      "https://en.wikipedia.org/wiki/Prawn_cocktail"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "前菜",
+      "魚介",
+      "マリネ",
+      "酸味",
+      "あっさり",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "エビが苦手",
+      "温かい料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "arepa",
+    "name": "アレパ",
+    "kana": "あれぱ",
+    "englishName": "Arepa",
+    "originalName": "Arepa",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベネズエラ"
+      },
+      {
+        "country": "コロンビア"
+      }
+    ],
+    "summary": "すり潰したトウモロコシ粉の生地を丸く平たく焼いた、ベネズエラ・コロンビアの伝統的な薄焼きパン。割って肉やチーズ、アボカドを挟む。",
+    "menuDescription": "外はカリッと中はもっちり焼いたアレパに、ほぐした牛肉と黒豆、チーズを詰めました。",
+    "whatComesOut": [
+      "丸い平たいトウモロコシのパン",
+      "中に肉・チーズ・アボカドなど"
+    ],
+    "tasteAndTexture": [
+      "トウモロコシの素朴な甘み",
+      "外カリッ中もっちり",
+      "具材によって多彩な味"
+    ],
+    "orderAdvice": "南米の朝食・軽食の定番。グルテンフリー。",
+    "similarItems": [
+      {
+        "id": "gorditas",
+        "name": "ゴルディータ",
+        "difference": "トウモロコシ生地の厚焼きに具を詰めるメキシコ料理"
+      },
+      {
+        "name": "ププサ",
+        "difference": "エルサルバドルの具入りトウモロコシパン"
+      },
+      {
+        "id": "cornbread",
+        "name": "コーンブレッド",
+        "difference": "アメリカのトウモロコシパン"
+      }
+    ],
+    "relatedIds": [
+      "gorditas",
+      "cornbread",
+      "tortilla"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%91",
+      "https://en.wikipedia.org/wiki/Arepa"
+    ],
+    "tags": [
+      "南米料理",
+      "軽食",
+      "焼き物",
+      "もちもち",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "トウモロコシが苦手",
+      "ご飯派"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/arepa/1.jpg",
+      "/images/dishes/arepa/2.jpg",
+      "/images/dishes/arepa/3.jpg"
+    ]
+  },
+  {
+    "id": "enchiladas-potosinas",
+    "name": "エンチラーダス・ポトシーナス",
+    "kana": "えんちらーだす・ぽとしーなす",
+    "aliases": [
+      "エンチラーダ・ポトシーナ"
+    ],
+    "englishName": "Enchiladas potosinas",
+    "originalName": "Enchiladas potosinas",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "唐辛子を練り込んだ赤いトウモロコシ生地でチーズを包み、半月形にして揚げ焼きしたメキシコ・サン・ルイス・ポトシ州の名物エンチラーダ。",
+    "menuDescription": "チレで赤く色づけた生地にチーズを包み、カリッと焼いたサン・ルイス・ポトシ風エンチラーダです。",
+    "whatComesOut": [
+      "半月形の赤い包み焼き",
+      "クリーム・チーズ・レタス",
+      "サルサ"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の香りとほのかな辛み",
+      "とろけるチーズ",
+      "カリッとした生地"
+    ],
+    "orderAdvice": "メキシコ中部の郷土の味。通常のエンチラーダと違いソースはかけない。",
+    "similarItems": [
+      {
+        "id": "enchilada",
+        "name": "エンチラーダ",
+        "difference": "トルティーヤで具を巻きソースをかける"
+      },
+      {
+        "id": "enchiladas-mineras",
+        "name": "エンチラーダス・ミネラス",
+        "difference": "グアナフアトの鉱夫風エンチラーダ"
+      }
+    ],
+    "relatedIds": [
+      "enchilada",
+      "enchiladas-mineras",
+      "quesadilla"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%83%81%E3%83%A9%E3%83%BC%E3%83%80"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "主菜",
+      "チーズ",
+      "揚げ物",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "チーズ嫌い"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "mole-colorado",
+    "name": "モレ・コロラド",
+    "kana": "もれ・ころらど",
+    "aliases": [
+      "モーレ・コロラド",
+      "赤いモレ"
+    ],
+    "englishName": "Mole colorado",
+    "originalName": "Mole coloradito",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "オアハカ州の『七つのモレ』の一つで、乾燥唐辛子、ナッツ、スパイス、少量のチョコレートなどで作る赤褐色のソース。鶏肉や豚肉にかける。",
+    "menuDescription": "数種類の乾燥唐辛子とスパイス、チョコレートを煮込んだ赤いモレで鶏肉を煮込みました。",
+    "whatComesOut": [
+      "赤褐色のソースをかけた鶏肉",
+      "ご飯・トルティーヤ"
+    ],
+    "tasteAndTexture": [
+      "唐辛子の香ばしさとほのかな辛み",
+      "チョコレートのコク",
+      "複雑なスパイスの風味"
+    ],
+    "orderAdvice": "モレ・ネグロより甘さ控えめで酸味がある。オアハカ料理を試すならおすすめ。",
+    "similarItems": [
+      {
+        "id": "mole-negro",
+        "name": "モレ・ネグロ",
+        "difference": "黒く甘みの強いオアハカのモレ"
+      },
+      {
+        "id": "mole",
+        "name": "モレ",
+        "difference": "メキシコのソースの総称"
+      },
+      {
+        "id": "japanese-curry",
+        "name": "カレー",
+        "difference": "スパイスを煮込んだソース"
+      }
+    ],
+    "relatedIds": [
+      "mole-negro",
+      "mole",
+      "enchilada"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AC",
+      "https://en.wikipedia.org/wiki/Mole_(sauce)"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "ソース",
+      "スパイス",
+      "煮込み",
+      "こってり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "チョコレート料理が苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "alambre",
+    "name": "アランブレ",
+    "kana": "あらんぶれ",
+    "englishName": "Alambre",
+    "originalName": "Alambre",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "グリルした牛肉や鶏肉、エビなどにベーコン、ピーマン、玉ねぎ、チーズをのせて鉄板で焼いたメキシコ料理。トルティーヤで包んで食べる。",
+    "menuDescription": "牛肉とベーコン、ピーマン、玉ねぎを鉄板で炒め、チーズをとろりとのせたアランブレです。",
+    "whatComesOut": [
+      "鉄板に盛った肉と野菜のチーズのせ",
+      "トルティーヤ",
+      "サルサ"
+    ],
+    "tasteAndTexture": [
+      "香ばしい肉とベーコン",
+      "とろけるチーズ",
+      "サルサのピリ辛"
+    ],
+    "orderAdvice": "タコス店の定番。数人でシェアするのにも向く。",
+    "similarItems": [
+      {
+        "id": "fajitas",
+        "name": "ファヒータ",
+        "difference": "グリルした肉を野菜と鉄板で出すテクス・メクス料理"
+      },
+      {
+        "id": "discada",
+        "name": "ディスカダ",
+        "difference": "農具の円盤で肉を炒める北部の料理"
+      }
+    ],
+    "relatedIds": [
+      "fajitas",
+      "discada",
+      "tacos"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Alambre"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "主菜",
+      "牛肉",
+      "チーズ",
+      "炒め物",
+      "こってり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "チーズ嫌い",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/alambre/1.jpg",
+      "/images/dishes/alambre/2.jpg",
+      "/images/dishes/alambre/3.jpg"
+    ]
+  },
+  {
+    "id": "fajitas",
+    "name": "ファヒータ",
+    "kana": "ふぁひーた",
+    "aliases": [
+      "ファフィータ",
+      "ファジータ"
+    ],
+    "englishName": "Fajitas",
+    "originalName": "Fajita",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アメリカ"
+      },
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "グリルした牛ハラミや鶏肉、エビを炒めた玉ねぎやピーマンとともに熱い鉄板で出し、トルティーヤで包んで食べるテクス・メクス料理。",
+    "menuDescription": "ジュージューと音を立てる鉄板で、グリルした牛ハラミとピーマン・玉ねぎをお出しします。",
+    "whatComesOut": [
+      "熱い鉄板にのった肉と野菜",
+      "トルティーヤ",
+      "ワカモレ・サワークリーム・サルサ"
+    ],
+    "tasteAndTexture": [
+      "グリルの香ばしさ",
+      "ジューシーな肉",
+      "各種ソースで好みの味に"
+    ],
+    "orderAdvice": "自分で巻いて食べるスタイル。シェア向き。",
+    "similarItems": [
+      {
+        "id": "alambre",
+        "name": "アランブレ",
+        "difference": "チーズとベーコンをのせたメキシコの鉄板料理"
+      },
+      {
+        "id": "tacos",
+        "name": "タコス",
+        "difference": "トルティーヤに具を挟む"
+      },
+      {
+        "name": "ブリトー",
+        "difference": "具を大きなトルティーヤで巻いたもの"
+      }
+    ],
+    "relatedIds": [
+      "alambre",
+      "tacos",
+      "guacamole"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%92%E3%83%BC%E3%82%BF",
+      "https://en.wikipedia.org/wiki/Fajita"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "メキシコ料理",
+      "主菜",
+      "牛肉",
+      "グリル",
+      "ジューシー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "牛肉が苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/fajitas/1.jpg",
+      "/images/dishes/fajitas/2.jpg",
+      "/images/dishes/fajitas/3.jpg"
+    ]
+  },
+  {
+    "id": "chile-relleno",
+    "name": "チレ・レジェーノ",
+    "kana": "ちれ・れじぇーの",
+    "aliases": [
+      "チレ・レイェーノ",
+      "チレス・レジェノス"
+    ],
+    "englishName": "Chile relleno",
+    "originalName": "Chile relleno",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "ポブラノ唐辛子にチーズやひき肉を詰め、卵の衣をつけて揚げ、トマトソースをかけたメキシコ料理。",
+    "menuDescription": "焼いて皮をむいたポブラノにチーズを詰め、ふんわり卵衣で揚げてトマトソースをかけました。",
+    "whatComesOut": [
+      "衣をつけて揚げた大きな唐辛子",
+      "トマトソース",
+      "ご飯・豆"
+    ],
+    "tasteAndTexture": [
+      "ポブラノの香ばしさとマイルドな辛さ",
+      "とろけるチーズ",
+      "ふんわりした衣"
+    ],
+    "orderAdvice": "ポブラノは辛さ控えめで食べやすい。メキシコ料理店の定番メイン。",
+    "similarItems": [
+      {
+        "id": "chiles-en-nogada",
+        "name": "チレス・エン・ノガダ",
+        "difference": "ポブラノに肉と果物を詰めクルミソースをかける"
+      },
+      {
+        "id": "piman-no-nikuzume",
+        "name": "ピーマンの肉詰め",
+        "difference": "ピーマンにひき肉を詰めて焼く"
+      }
+    ],
+    "relatedIds": [
+      "chiles-en-nogada",
+      "piman-no-nikuzume",
+      "toltott-paprika"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Chile_relleno"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "主菜",
+      "野菜",
+      "チーズ",
+      "揚げ物",
+      "ピリ辛",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "揚げ物が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/chile-relleno/1.jpg",
+      "/images/dishes/chile-relleno/2.jpg",
+      "/images/dishes/chile-relleno/3.jpg"
+    ]
+  },
+  {
+    "id": "brioche",
+    "name": "ブリオッシュ",
+    "kana": "ぶりおっしゅ",
+    "aliases": [
+      "ブリオーシュ"
+    ],
+    "englishName": "Brioche",
+    "originalName": "Brioche",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "卵とバターをたっぷり使ったフランスの菓子パン（ヴィエノワズリー）。リッチでやわらかな生地で、頭の付いた形（ア・テット）が有名。",
+    "menuDescription": "卵とバターをふんだんに使い、ふんわりと焼き上げたブリオッシュ・ア・テットです。",
+    "whatComesOut": [
+      "丸く頭の付いたパン",
+      "ジャムやバター"
+    ],
+    "tasteAndTexture": [
+      "バターと卵の豊かな風味",
+      "ふんわり柔らかい生地",
+      "ほのかな甘み"
+    ],
+    "orderAdvice": "朝食やおやつに。フレンチトーストにするのもおすすめ。",
+    "caution": "卵・乳・小麦を含む。",
+    "similarItems": [
+      {
+        "id": "croissant",
+        "name": "クロワッサン",
+        "difference": "バターを折り込んだ層のあるパン"
+      },
+      {
+        "id": "pan-de-muerto",
+        "name": "パン・デ・ムエルト",
+        "difference": "死者の日に食べるメキシコの甘いパン"
+      },
+      {
+        "name": "ハッラー",
+        "difference": "卵入りの編みパン"
+      }
+    ],
+    "relatedIds": [
+      "croissant",
+      "pan-de-muerto",
+      "rosca-de-reyes"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%82%AA%E3%83%83%E3%82%B7%E3%83%A5",
+      "https://en.wikipedia.org/wiki/Brioche"
+    ],
+    "tags": [
+      "フランス料理",
+      "パン",
+      "小麦",
+      "卵",
+      "焼き物",
+      "ふわふわ",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "バターが苦手",
+      "ハード系パン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/brioche/1.jpg",
+      "/images/dishes/brioche/2.jpg",
+      "/images/dishes/brioche/3.jpg"
+    ]
+  },
+  {
+    "id": "rosca-de-reyes",
+    "name": "ロスカ・デ・レジェス",
+    "kana": "ろすか・で・れじぇす",
+    "aliases": [
+      "ロスコン・デ・レジェス",
+      "三賢者のパン"
+    ],
+    "englishName": "Rosca de reyes",
+    "originalName": "Rosca de reyes",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "メキシコ"
+      },
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "1月6日の公現祭に食べる、リング状の甘いパン。ドライフルーツで飾り、中に幼子イエスの人形が隠されている。",
+    "menuDescription": "オレンジの香るリング型の生地をドライフルーツで飾った、公現祭のお祝いパンです。",
+    "whatComesOut": [
+      "リング状の大きな甘いパン",
+      "砂糖がけやドライフルーツの飾り",
+      "中に小さな人形"
+    ],
+    "tasteAndTexture": [
+      "オレンジフラワーの香り",
+      "ふんわりした生地",
+      "ドライフルーツの甘み"
+    ],
+    "orderAdvice": "1月初旬の季節もの。人形が当たった人は2月2日にタマレスをふるまう習わし。",
+    "similarItems": [
+      {
+        "name": "ガレット・デ・ロワ",
+        "difference": "パイ生地で作るフランスの公現祭の菓子"
+      },
+      {
+        "id": "pan-de-muerto",
+        "name": "パン・デ・ムエルト",
+        "difference": "死者の日の甘いパン"
+      },
+      {
+        "id": "brioche",
+        "name": "ブリオッシュ",
+        "difference": "卵とバターのリッチなパン"
+      }
+    ],
+    "relatedIds": [
+      "pan-de-muerto",
+      "brioche"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/King_cake",
+      "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E3%83%87%E3%83%BB%E3%83%AD%E3%83%AF"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "スペイン料理",
+      "菓子",
+      "小麦",
+      "焼き物",
+      "甘み",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "甘いもの嫌い",
+      "ドライフルーツが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/rosca-de-reyes/1.jpg",
+      "/images/dishes/rosca-de-reyes/2.jpg",
+      "/images/dishes/rosca-de-reyes/3.jpg"
+    ]
+  },
+  {
+    "id": "alfenique",
+    "name": "アルフェニーケ",
+    "kana": "あるふぇにーけ",
+    "aliases": [
+      "アルフェニン"
+    ],
+    "englishName": "Alfeñique",
+    "originalName": "Alfeñique",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "メキシコ"
+      },
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "砂糖を煮詰めて練り、ねじったり型に入れて動物や骸骨の形に細工したスペイン発祥の砂糖菓子。メキシコでは死者の日の飾りとして作られる。",
+    "menuDescription": "砂糖を練り上げて色鮮やかに細工した、伝統的なアルフェニーケです。",
+    "whatComesOut": [
+      "動物や骸骨をかたどった砂糖細工",
+      "ねじった棒状の飴"
+    ],
+    "tasteAndTexture": [
+      "非常に強い甘さ",
+      "硬めのカリッとした食感"
+    ],
+    "orderAdvice": "食べるよりも飾りや土産として楽しむことが多い。",
+    "similarItems": [
+      {
+        "id": "calaverita-de-azucar",
+        "name": "カラベリータ・デ・アスカル",
+        "difference": "死者の日の砂糖の骸骨"
+      },
+      {
+        "id": "rakugan",
+        "name": "落雁",
+        "difference": "型で押した日本の干菓子"
+      }
+    ],
+    "relatedIds": [
+      "calaverita-de-azucar",
+      "rakugan",
+      "pan-de-muerto"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Alfe%C3%B1ique"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "菓子",
+      "甘み",
+      "伝統料理",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "甘いもの嫌い"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/alfenique/1.jpg",
+      "/images/dishes/alfenique/2.jpg",
+      "/images/dishes/alfenique/3.jpg"
+    ]
+  },
+  {
+    "id": "hot-chocolate",
+    "name": "ホットチョコレート",
+    "kana": "ほっとちょこれーと",
+    "aliases": [
+      "ホットココア",
+      "ショコラ・ショー",
+      "チョコラテ"
+    ],
+    "englishName": "Hot chocolate",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "メキシコ"
+      },
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "溶かしたチョコレートやココアパウダーを温めた牛乳や湯で溶いた飲み物。アメリカ大陸原産で16世紀にヨーロッパに伝わった。",
+    "menuDescription": "濃厚なチョコレートを温かいミルクに溶かし、ホイップクリームをのせました。",
+    "whatComesOut": [
+      "温かい茶色の飲み物",
+      "ホイップクリームやマシュマロ",
+      "チュロスと一緒に（スペイン）"
+    ],
+    "tasteAndTexture": [
+      "チョコレートの濃厚な甘さ",
+      "ミルクのまろやかさ",
+      "体が温まる"
+    ],
+    "orderAdvice": "寒い日に。スペインではチュロスを浸して食べるのが定番。",
+    "similarItems": [
+      {
+        "id": "atole",
+        "name": "アトーレ",
+        "difference": "トウモロコシ粉でとろみをつけたメキシコの温かい飲み物"
+      },
+      {
+        "name": "チャンプラード",
+        "difference": "チョコレート入りのアトーレ"
+      },
+      {
+        "id": "cappuccino",
+        "name": "カプチーノ",
+        "difference": "エスプレッソとミルクの泡"
+      }
+    ],
+    "relatedIds": [
+      "atole",
+      "churros",
+      "cappuccino"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%83%E3%83%88%E3%83%BB%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88",
+      "https://en.wikipedia.org/wiki/Hot_chocolate"
+    ],
+    "tags": [
+      "メキシコ料理",
+      "スペイン料理",
+      "乳製品",
+      "甘み",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "甘い飲み物が苦手",
+      "コーヒー派"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hot-chocolate/1.jpg",
+      "/images/dishes/hot-chocolate/2.jpg",
+      "/images/dishes/hot-chocolate/3.jpg"
+    ]
+  },
+  {
+    "id": "espresso",
+    "name": "エスプレッソ",
+    "kana": "えすぷれっそ",
+    "englishName": "Espresso",
+    "originalName": "Espresso",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "深煎りで細かく挽いたコーヒー豆に、9気圧ほどの高圧で湯を通して抽出するイタリア発祥の濃厚なコーヒー。表面にクレマと呼ばれる泡がのる。",
+    "menuDescription": "深煎り豆を高圧で抽出した、クレマのたっぷりのった本格エスプレッソです。",
+    "whatComesOut": [
+      "デミタスカップに少量の濃いコーヒー",
+      "砂糖"
+    ],
+    "tasteAndTexture": [
+      "非常に濃厚な苦みとコク",
+      "クレマのまろやかさ",
+      "香りの強さ"
+    ],
+    "orderAdvice": "イタリアでは砂糖を入れて立ち飲みが一般的。苦いのが苦手ならカプチーノやラテを。",
+    "caution": "カフェインを多く含む。",
+    "similarItems": [
+      {
+        "id": "cappuccino",
+        "name": "カプチーノ",
+        "difference": "エスプレッソに泡立てたミルクを加える"
+      },
+      {
+        "name": "ドリップコーヒー",
+        "difference": "湯をゆっくり注いで抽出する"
+      },
+      {
+        "name": "トルココーヒー",
+        "difference": "粉ごと煮出すコーヒー"
+      }
+    ],
+    "relatedIds": [
+      "cappuccino",
+      "tiramisu"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%82%BD",
+      "https://en.wikipedia.org/wiki/Espresso"
+    ],
+    "tags": [
+      "イタリア料理",
+      "ロースト",
+      "香ばしい",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "苦いものが苦手",
+      "カフェイン控えめ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/espresso/1.jpg",
+      "/images/dishes/espresso/2.jpg",
+      "/images/dishes/espresso/3.jpg"
+    ]
+  },
+  {
+    "id": "banosh",
+    "name": "バノシュ",
+    "kana": "ばのしゅ",
+    "aliases": [
+      "バヌシュ",
+      "banush"
+    ],
+    "englishName": "Banosh",
+    "originalName": "Бануш",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ウクライナ"
+      }
+    ],
+    "summary": "トウモロコシ粉をサワークリーム（スメタナ）で煮て練り上げ、豚の脂身、きのこ、羊のチーズ（ブリンザ）をのせたウクライナ西部フツル地方の料理。",
+    "menuDescription": "スメタナで炊き上げたコーンミールに、カリカリの豚脂ときのこ、ブリンザチーズをのせました。",
+    "whatComesOut": [
+      "クリーミーなトウモロコシ粥",
+      "炒めた豚脂身・きのこ",
+      "ブリンザチーズ"
+    ],
+    "tasteAndTexture": [
+      "サワークリームのコク",
+      "チーズの塩気",
+      "豚脂の香ばしさ"
+    ],
+    "orderAdvice": "カルパティア地方の郷土料理。ボリュームがあり濃厚。",
+    "similarItems": [
+      {
+        "id": "mamaliga",
+        "name": "ママリガ",
+        "difference": "ルーマニア・モルドバのトウモロコシ粥"
+      },
+      {
+        "id": "polenta",
+        "name": "ポレンタ",
+        "difference": "イタリアのトウモロコシ粥"
+      }
+    ],
+    "relatedIds": [
+      "mamaliga",
+      "polenta"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Banosh"
+    ],
+    "tags": [
+      "ウクライナ料理",
+      "主菜",
+      "チーズ",
+      "乳製品",
+      "煮込み",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "乳製品が苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/banosh/1.jpg"
+    ]
+  },
+  {
+    "id": "syrniki",
+    "name": "シルニキ",
+    "kana": "しるにき",
+    "aliases": [
+      "スィールニキ",
+      "トヴォロージニキ"
+    ],
+    "englishName": "Syrniki",
+    "originalName": "Сырники",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ロシア"
+      },
+      {
+        "country": "ウクライナ"
+      }
+    ],
+    "summary": "カッテージチーズに似たフレッシュチーズ（トヴォローグ）に卵と小麦粉を混ぜて焼いた東スラヴのパンケーキ。サワークリームやジャムを添える。",
+    "menuDescription": "トヴォローグで作ったふんわりシルニキに、サワークリームとベリージャムを添えました。",
+    "whatComesOut": [
+      "小さく厚めのパンケーキ数枚",
+      "サワークリーム・ジャム・蜂蜜"
+    ],
+    "tasteAndTexture": [
+      "チーズのほのかな酸味",
+      "外は香ばしく中はしっとり",
+      "やさしい甘さ"
+    ],
+    "orderAdvice": "ロシア・ウクライナの朝食の定番。甘さ控えめで食べやすい。",
+    "similarItems": [
+      {
+        "id": "papanasi",
+        "name": "パパナシ",
+        "difference": "チーズ入りの揚げドーナツにジャムとクリーム"
+      },
+      {
+        "name": "パンケーキ",
+        "difference": "小麦粉主体の焼き菓子"
+      },
+      {
+        "id": "blini",
+        "name": "ブリヌイ",
+        "difference": "ロシアの薄いクレープ"
+      }
+    ],
+    "relatedIds": [
+      "papanasi",
+      "blini",
+      "sour-cream"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AB%E3%83%8B%E3%82%AD",
+      "https://en.wikipedia.org/wiki/Syrniki"
+    ],
+    "tags": [
+      "ロシア料理",
+      "ウクライナ料理",
+      "デザート",
+      "チーズ",
+      "焼き物",
+      "甘み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "乳製品が苦手",
+      "甘いもの嫌い"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/syrniki/1.jpg",
+      "/images/dishes/syrniki/2.jpg",
+      "/images/dishes/syrniki/3.jpg"
+    ]
+  },
+  {
+    "id": "gogosi",
+    "name": "ゴゴシ",
+    "kana": "ごごし",
+    "aliases": [
+      "ゴゴアシャ",
+      "パンコヴェ"
+    ],
+    "englishName": "Gogoși",
+    "originalName": "Gogoși",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ルーマニア"
+      }
+    ],
+    "summary": "丸く平たい生地を油で揚げ、砂糖をまぶしたりジャムやチョコレートを詰めたりするルーマニアのドーナツ。",
+    "menuDescription": "ふんわり揚げた生地にジャムを詰め、粉砂糖をまぶしたルーマニアの揚げドーナツです。",
+    "whatComesOut": [
+      "丸い揚げドーナツ",
+      "粉砂糖・ジャム・チョコレート"
+    ],
+    "tasteAndTexture": [
+      "ふんわり柔らかい生地",
+      "揚げたての香ばしさ",
+      "ジャムの甘酸っぱさ"
+    ],
+    "orderAdvice": "ルーマニアの街角や市場のおやつ。揚げたてが最高。",
+    "similarItems": [
+      {
+        "id": "papanasi",
+        "name": "パパナシ",
+        "difference": "チーズ入りでクリームとジャムをのせるルーマニアの揚げ菓子"
+      },
+      {
+        "id": "donut",
+        "name": "ドーナツ",
+        "difference": "揚げた甘いパン菓子"
+      },
+      {
+        "name": "ベルリナー",
+        "difference": "ジャム入りのドイツの揚げパン"
+      }
+    ],
+    "relatedIds": [
+      "papanasi",
+      "donut"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Gogo%C8%99i"
+    ],
+    "tags": [
+      "ルーマニア料理",
+      "菓子",
+      "小麦",
+      "揚げ物",
+      "甘み",
+      "ふわふわ",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "揚げ物が苦手",
+      "甘いもの嫌い"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gogosi/1.jpg"
+    ]
+  },
+  {
+    "id": "trdelnik",
+    "name": "トゥルデルニーク",
+    "kana": "とぅるでるにーく",
+    "aliases": [
+      "トルデルニーク",
+      "チムニーケーキ"
+    ],
+    "englishName": "Trdelník",
+    "originalName": "Trdelník",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "チェコ"
+      }
+    ],
+    "summary": "生地を棒に巻き付けて直火で焼き、砂糖とクルミをまぶした筒状の焼き菓子。プラハの観光名物で、ハンガリーのクルトシュカラーチの一種。",
+    "menuDescription": "棒に巻いて香ばしく焼き上げた生地に、シナモンシュガーとクルミをまぶしました。",
+    "whatComesOut": [
+      "筒状の焼き菓子",
+      "中にアイスやクリームを詰めることも"
+    ],
+    "tasteAndTexture": [
+      "カリッと香ばしい外側",
+      "もっちりした内側",
+      "シナモンシュガーの甘さ"
+    ],
+    "orderAdvice": "プラハの街歩きのおやつ。アイスやチョコ入りの観光向けアレンジも多い。",
+    "similarItems": [
+      {
+        "id": "kurtoskalacs",
+        "name": "クルトシュカラーチ",
+        "difference": "ハンガリーの同様の棒巻き焼き菓子"
+      },
+      {
+        "id": "baumkuchen",
+        "name": "バウムクーヘン",
+        "difference": "層状に焼くドイツの菓子"
+      }
+    ],
+    "relatedIds": [
+      "kurtoskalacs",
+      "baumkuchen"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%83%87%E3%83%AB%E3%83%8B%E3%83%BC%E3%82%AF",
+      "https://en.wikipedia.org/wiki/Trdeln%C3%ADk"
+    ],
+    "tags": [
+      "チェコ料理",
+      "菓子",
+      "小麦",
+      "焼き物",
+      "甘み",
+      "香ばしい",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "甘いもの嫌い",
+      "軽いおやつ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/trdelnik/1.jpg",
+      "/images/dishes/trdelnik/2.jpg",
+      "/images/dishes/trdelnik/3.jpg"
+    ]
+  },
+  {
+    "id": "baumkuchen",
+    "name": "バウムクーヘン",
+    "kana": "ばうむくーへん",
+    "aliases": [
+      "バームクーヘン"
+    ],
+    "englishName": "Baumkuchen",
+    "originalName": "Baumkuchen",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ドイツ"
+      }
+    ],
+    "summary": "芯棒に生地を薄く塗っては焼くことを繰り返し、断面に木の年輪のような層を作るドイツのケーキ。日本では贈答菓子として特に人気。",
+    "menuDescription": "生地を一層ずつ丁寧に焼き重ねた、しっとりとしたバウムクーヘンです。",
+    "whatComesOut": [
+      "年輪模様の筒状ケーキ（切り分け）",
+      "砂糖やチョコのコーティング"
+    ],
+    "tasteAndTexture": [
+      "卵とバターの風味",
+      "しっとりきめ細かい食感",
+      "層の見た目"
+    ],
+    "orderAdvice": "お土産や贈答品の定番。日本のものはしっとり系、ドイツのものは硬めでコーティングあり。",
+    "similarItems": [
+      {
+        "id": "trdelnik",
+        "name": "トゥルデルニーク",
+        "difference": "棒に巻いて焼くチェコの菓子"
+      },
+      {
+        "id": "kurtoskalacs",
+        "name": "クルトシュカラーチ",
+        "difference": "ハンガリーの筒状の焼き菓子"
+      },
+      {
+        "name": "カステラ",
+        "difference": "卵と砂糖のしっとりした焼き菓子"
+      }
+    ],
+    "relatedIds": [
+      "trdelnik",
+      "kurtoskalacs"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A6%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3",
+      "https://en.wikipedia.org/wiki/Baumkuchen"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "菓子",
+      "小麦",
+      "卵",
+      "焼き物",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "甘いもの嫌い",
+      "和菓子派"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/baumkuchen/1.jpg",
+      "/images/dishes/baumkuchen/2.jpg",
+      "/images/dishes/baumkuchen/3.jpg"
+    ]
+  },
+  {
+    "id": "pizza-fritta",
+    "name": "ピッツァ・フリッタ",
+    "kana": "ぴっつぁ・ふりった",
+    "aliases": [
+      "揚げピザ",
+      "ピッツァフリッタ"
+    ],
+    "englishName": "Pizza fritta",
+    "originalName": "Pizza fritta",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "ピザ生地を窯で焼かずに油で揚げたナポリの料理。リコッタ、モッツァレラ、サラミなどを包んで半月形にしたものが代表的。",
+    "menuDescription": "リコッタとサラミを生地で包み、カラッと揚げたナポリ名物の揚げピッツァです。",
+    "whatComesOut": [
+      "半月形の揚げたピザ",
+      "中にチーズ・トマト・サラミなど"
+    ],
+    "tasteAndTexture": [
+      "カリッとふんわりした揚げ生地",
+      "とろけるチーズ",
+      "トマトの旨み"
+    ],
+    "orderAdvice": "ナポリの屋台で手軽に食べられる。揚げたてはやけどに注意。",
+    "caution": "小麦・乳製品を含む。",
+    "similarItems": [
+      {
+        "name": "ピッツァ",
+        "difference": "窯で焼くナポリのピザ"
+      },
+      {
+        "id": "calzone",
+        "name": "カルツォーネ",
+        "difference": "具を包んで焼くピザ"
+      },
+      {
+        "id": "langos",
+        "name": "ラーンゴシュ",
+        "difference": "ハンガリーの揚げパン"
+      }
+    ],
+    "relatedIds": [
+      "calzone",
+      "langos"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Deep_fried_pizza",
+      "https://ja.wikipedia.org/wiki/%E6%8F%9A%E3%81%92%E3%83%94%E3%82%B6"
+    ],
+    "tags": [
+      "イタリア料理",
+      "軽食",
+      "小麦",
+      "チーズ",
+      "揚げ物",
+      "こってり",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "揚げ物が苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pizza-fritta/1.jpg",
+      "/images/dishes/pizza-fritta/2.jpg",
+      "/images/dishes/pizza-fritta/3.jpg"
+    ]
+  },
+  {
+    "id": "belyashi",
+    "name": "ベリャーシ",
+    "kana": "べりゃーし",
+    "aliases": [
+      "ベリャーシュ",
+      "ペレメチ"
+    ],
+    "englishName": "Belyash",
+    "originalName": "Беляш",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ロシア"
+      }
+    ],
+    "summary": "ひき肉と玉ねぎを包んだ生地を油で揚げた、タタール・バシキール料理由来のロシアの揚げパン。中央に穴が開いた形が特徴。",
+    "menuDescription": "ジューシーなひき肉と玉ねぎを包み、カリッと揚げたベリャーシです。",
+    "whatComesOut": [
+      "丸く平たい揚げパン（中央に穴）",
+      "中に肉と玉ねぎ"
+    ],
+    "tasteAndTexture": [
+      "肉汁たっぷりの具",
+      "カリッとした生地",
+      "玉ねぎの甘み"
+    ],
+    "orderAdvice": "ロシアの駅や屋台の定番軽食。揚げたてを選ぶとおいしい。",
+    "similarItems": [
+      {
+        "name": "ピロシキ",
+        "difference": "具を包んで揚げるか焼くロシアのパン"
+      },
+      {
+        "name": "チェブレキ",
+        "difference": "薄い生地で肉を包んで揚げる"
+      },
+      {
+        "id": "langos",
+        "name": "ラーンゴシュ",
+        "difference": "ハンガリーの揚げパン"
+      }
+    ],
+    "relatedIds": [
+      "langos"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Peremech"
+    ],
+    "tags": [
+      "ロシア料理",
+      "軽食",
+      "牛肉",
+      "小麦",
+      "揚げ物",
+      "ジューシー",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "揚げ物が苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/belyashi/1.jpg",
+      "/images/dishes/belyashi/2.jpg",
+      "/images/dishes/belyashi/3.jpg"
+    ]
+  },
+  {
+    "id": "fruktsoppa",
+    "name": "フルクトソッパ",
+    "kana": "ふるくとそっぱ",
+    "aliases": [
+      "フルーツスープ"
+    ],
+    "englishName": "Fruktsoppa (fruit soup)",
+    "originalName": "Fruktsoppa",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "プルーンやアプリコットなどのドライフルーツを煮て、でんぷんでとろみをつけた北欧のフルーツスープ。冷やしても温めても食べる。",
+    "menuDescription": "ドライフルーツを煮込んでとろみをつけた、北欧伝統の甘いフルーツスープです。",
+    "whatComesOut": [
+      "とろみのある甘いフルーツスープ",
+      "生クリームやライスプディングを添えることも"
+    ],
+    "tasteAndTexture": [
+      "ドライフルーツの濃い甘酸っぱさ",
+      "とろりとした口当たり"
+    ],
+    "orderAdvice": "北欧ではデザートや朝食として。甘いスープに抵抗がなければ。",
+    "similarItems": [
+      {
+        "id": "blabarssoppa",
+        "name": "ブローベールスープ",
+        "difference": "ビルベリーで作る北欧のスープ"
+      },
+      {
+        "id": "gyumolcsleves",
+        "name": "ジュムルチレヴェシュ",
+        "difference": "ハンガリーの冷たいフルーツスープ"
+      }
+    ],
+    "relatedIds": [
+      "blabarssoppa",
+      "gyumolcsleves",
+      "rice-pudding"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Fruit_soup"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "北欧料理",
+      "デザート",
+      "果物",
+      "煮込み",
+      "甘み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "甘いスープが苦手",
+      "塩味のスープ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fruktsoppa/1.jpg",
+      "/images/dishes/fruktsoppa/2.png"
+    ]
+  },
+  {
+    "id": "blabarssoppa",
+    "name": "ブローベールスープ",
+    "kana": "ぶろーべーるすーぷ",
+    "aliases": [
+      "ブルーベリースープ",
+      "ブローベールスソッパ"
+    ],
+    "englishName": "Blåbärssoppa (bilberry soup)",
+    "originalName": "Blåbärssoppa",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "スウェーデン"
+      }
+    ],
+    "summary": "ビルベリー（ヨーロッパブルーベリー）を煮てでんぷんでとろみをつけた北欧のフルーツスープ。スウェーデンではクロスカントリースキーの大会で配られることで有名。",
+    "menuDescription": "野生のビルベリーを煮込んだ、とろりと甘い北欧のブルーベリースープです。",
+    "whatComesOut": [
+      "濃い紫色のとろみのあるスープ",
+      "温かいまたは冷たい"
+    ],
+    "tasteAndTexture": [
+      "ベリーの甘酸っぱさ",
+      "とろりとした口当たり"
+    ],
+    "orderAdvice": "体を温める飲み物としても。甘いので食後のデザートに。",
+    "similarItems": [
+      {
+        "id": "fruktsoppa",
+        "name": "フルクトソッパ",
+        "difference": "ドライフルーツで作る北欧のスープ"
+      },
+      {
+        "id": "gyumolcsleves",
+        "name": "ジュムルチレヴェシュ",
+        "difference": "ハンガリーのフルーツスープ"
+      }
+    ],
+    "relatedIds": [
+      "fruktsoppa",
+      "gyumolcsleves"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Bl%C3%A5b%C3%A4rssoppa"
+    ],
+    "tags": [
+      "スウェーデン料理",
+      "北欧料理",
+      "デザート",
+      "果物",
+      "煮込み",
+      "甘み",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "甘いスープが苦手",
+      "ベリーが苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "ukha",
+    "name": "ウハー",
+    "kana": "うはー",
+    "aliases": [
+      "ウハ"
+    ],
+    "englishName": "Ukha",
+    "originalName": "Уха",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ロシア"
+      }
+    ],
+    "summary": "スズキやカワカマスなどの白身魚とじゃがいも、玉ねぎ、根菜を煮て、ディルやローリエで香りづけした澄んだロシアの魚のスープ。",
+    "menuDescription": "白身魚と根菜をじっくり煮出し、ディルで香りづけした澄んだロシアの魚スープです。",
+    "whatComesOut": [
+      "白身魚が入った澄んだスープ",
+      "じゃがいも・にんじん・玉ねぎ",
+      "ディル"
+    ],
+    "tasteAndTexture": [
+      "魚のやさしい旨み",
+      "ディルの爽やかな香り",
+      "あっさりした塩味"
+    ],
+    "orderAdvice": "ロシア料理で軽めのスープを選ぶならこれ。ウォッカを少量加える流儀もある。",
+    "similarItems": [
+      {
+        "id": "halaszle",
+        "name": "ハラースレー",
+        "difference": "パプリカで赤く辛いハンガリーの魚スープ"
+      },
+      {
+        "id": "bouillabaisse",
+        "name": "ブイヤベース",
+        "difference": "南仏の魚介スープ"
+      },
+      {
+        "name": "あら汁",
+        "difference": "魚のアラで作る日本の汁物"
+      }
+    ],
+    "relatedIds": [
+      "halaszle",
+      "bouillabaisse",
+      "borscht"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%8F%E3%83%BC",
+      "https://en.wikipedia.org/wiki/Ukha"
+    ],
+    "tags": [
+      "ロシア料理",
+      "スープ",
+      "魚介",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "魚が苦手",
+      "こってりスープ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ukha/1.jpg",
+      "/images/dishes/ukha/2.jpg",
+      "/images/dishes/ukha/3.jpg"
+    ]
+  },
+  {
+    "id": "trifle",
+    "name": "トライフル",
+    "kana": "とらいふる",
+    "englishName": "Trifle",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "イギリス"
+      }
+    ],
+    "summary": "シェリー酒を染みこませたスポンジケーキ、フルーツやゼリー、カスタード、ホイップクリームをガラス器に層状に重ねたイギリスのデザート。",
+    "menuDescription": "シェリーを含ませたスポンジにベリー、カスタード、ホイップを重ねた伝統的なトライフルです。",
+    "whatComesOut": [
+      "ガラス器に層になったデザート",
+      "スポンジ・フルーツ・カスタード・クリーム"
+    ],
+    "tasteAndTexture": [
+      "クリームとカスタードの甘さ",
+      "フルーツの酸味",
+      "層ごとの食感の違い"
+    ],
+    "orderAdvice": "クリスマスなどのお祝いの定番。シェリー酒入りのものもあるので注意。",
+    "caution": "アルコールを含む場合がある。",
+    "similarItems": [
+      {
+        "id": "somloi-galuska",
+        "name": "ショムロイ・ガルシュカ",
+        "difference": "スポンジ・クリーム・チョコソースを重ねたハンガリーの菓子"
+      },
+      {
+        "id": "tiramisu",
+        "name": "ティラミス",
+        "difference": "マスカルポーネとコーヒーのスポンジを重ねる"
+      },
+      {
+        "name": "パフェ",
+        "difference": "グラスにアイスやフルーツを重ねる"
+      }
+    ],
+    "relatedIds": [
+      "somloi-galuska",
+      "tiramisu",
+      "bread-pudding"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%82%A4%E3%83%95%E3%83%AB",
+      "https://en.wikipedia.org/wiki/Trifle"
+    ],
+    "tags": [
+      "イギリス料理",
+      "デザート",
+      "乳製品",
+      "果物",
+      "甘み",
+      "クリーミー",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "甘いもの嫌い",
+      "お酒が苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/trifle/1.jpg",
+      "/images/dishes/trifle/2.jpg",
+      "/images/dishes/trifle/3.jpg"
+    ]
+  },
+  {
+    "id": "hot-sauce",
+    "name": "ホットソース",
+    "kana": "ほっとそーす",
+    "aliases": [
+      "ペッパーソース",
+      "チリペッパーソース"
+    ],
+    "englishName": "Hot sauce",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "アメリカ"
+      },
+      {
+        "country": "メキシコ"
+      }
+    ],
+    "summary": "唐辛子を主原料に酢や塩などで作る辛い液体調味料の総称。タバスコなどが代表的で、料理に数滴かけて使う。",
+    "menuDescription": "唐辛子と酢で作った、ピリッと刺激的なホットソースです。",
+    "whatComesOut": [
+      "小瓶入りの赤やオレンジの液体ソース",
+      "卓上調味料として"
+    ],
+    "tasteAndTexture": [
+      "鋭い辛さ",
+      "酢の酸味",
+      "唐辛子の香り"
+    ],
+    "orderAdvice": "少量ずつかけて辛さを調整。種類によって辛さが大きく異なる。",
+    "similarItems": [
+      {
+        "id": "chili-sauce",
+        "name": "チリソース",
+        "difference": "トマトベースで甘みもあるソース"
+      },
+      {
+        "name": "シラチャー",
+        "difference": "にんにく入りのタイ発祥のソース"
+      },
+      {
+        "id": "sambal",
+        "name": "サンバル",
+        "difference": "東南アジアの唐辛子ペースト"
+      }
+    ],
+    "relatedIds": [
+      "chili-sauce",
+      "sambal",
+      "buffalo-wings"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%83%E3%83%88%E3%82%BD%E3%83%BC%E3%82%B9",
+      "https://en.wikipedia.org/wiki/Hot_sauce"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "メキシコ料理",
+      "調味料",
+      "スパイス",
+      "ピリ辛",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "辛いものが苦手",
+      "甘いソース"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/hot-sauce/1.jpg",
+      "/images/dishes/hot-sauce/2.jpg",
+      "/images/dishes/hot-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "beurre-blanc",
+    "name": "ブール・ブラン",
+    "kana": "ぶーる・ぶらん",
+    "aliases": [
+      "ブールブラン",
+      "ブール・ナンテ"
+    ],
+    "englishName": "Beurre blanc",
+    "originalName": "Beurre blanc",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "白ワインや酢とエシャロットを煮詰め、冷たいバターを少しずつ加えて乳化させたフランス・ロワール地方の温かいバターソース。白身魚に合わせる。",
+    "menuDescription": "白ワインとエシャロットを煮詰めてバターでつないだ、なめらかなブール・ブランソースを添えて。",
+    "whatComesOut": [
+      "白身魚などに添えられた淡いクリーム色のソース"
+    ],
+    "tasteAndTexture": [
+      "バターの濃厚なコク",
+      "ワインとエシャロットのほのかな酸味",
+      "なめらかな口当たり"
+    ],
+    "orderAdvice": "魚料理のソースとしてフランス料理店でよく見かける。バター好きにおすすめ。",
+    "caution": "乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "meuniere-sauce",
+        "name": "ムニエルソース",
+        "difference": "焦がしバターとレモンのソース"
+      },
+      {
+        "name": "オランデーズソース",
+        "difference": "卵黄とバターを乳化させたソース"
+      },
+      {
+        "name": "ベアルネーズソース",
+        "difference": "エストラゴン入りの卵黄バターソース"
+      }
+    ],
+    "relatedIds": [
+      "meuniere-sauce"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Beurre_blanc"
+    ],
+    "tags": [
+      "フランス料理",
+      "ソース",
+      "乳製品",
+      "こってり",
+      "クリーミー",
+      "酸味"
+    ],
+    "reverseKeywords": [
+      "バターが苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/beurre-blanc/1.jpg",
+      "/images/dishes/beurre-blanc/2.jpg",
+      "/images/dishes/beurre-blanc/3.jpg"
+    ]
+  },
+  {
+    "id": "cranberry-sauce",
+    "name": "クランベリーソース",
+    "kana": "くらんべりーそーす",
+    "aliases": [
+      "クランベリージャム"
+    ],
+    "englishName": "Cranberry sauce",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "アメリカ"
+      },
+      {
+        "country": "イギリス"
+      }
+    ],
+    "summary": "クランベリーを砂糖で煮て作る甘酸っぱいソース。北米の感謝祭やイギリスのクリスマスで七面鳥に添える。",
+    "menuDescription": "クランベリーを煮詰めた甘酸っぱいソースを、ローストターキーに添えて。",
+    "whatComesOut": [
+      "赤いジャム状のソース",
+      "七面鳥や肉料理の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱいベリーの風味",
+      "ほどよい苦み",
+      "とろりとした質感"
+    ],
+    "orderAdvice": "肉料理に甘いソースを合わせるのが平気ならおすすめ。",
+    "similarItems": [
+      {
+        "id": "bread-sauce",
+        "name": "ブレッドソース",
+        "difference": "パンと牛乳で作るイギリスのソース"
+      },
+      {
+        "name": "リンゴンベリージャム",
+        "difference": "北欧で肉料理に添えるベリージャム"
+      }
+    ],
+    "relatedIds": [
+      "bread-sauce"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%99%E3%83%AA%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%B9",
+      "https://en.wikipedia.org/wiki/Cranberry_sauce"
+    ],
+    "tags": [
+      "アメリカ料理",
+      "イギリス料理",
+      "ソース",
+      "果物",
+      "甘み",
+      "酸味",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "甘いソースが苦手",
+      "酸っぱいものが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cranberry-sauce/1.jpg",
+      "/images/dishes/cranberry-sauce/2.jpg",
+      "/images/dishes/cranberry-sauce/3.jpg"
+    ]
+  },
+  {
+    "id": "manchego",
+    "name": "マンチェゴ",
+    "kana": "まんちぇご",
+    "aliases": [
+      "ケソ・マンチェゴ"
+    ],
+    "englishName": "Manchego",
+    "originalName": "Queso manchego",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "スペイン"
+      }
+    ],
+    "summary": "スペイン・ラ・マンチャ地方でマンチェガ種の羊乳から作るハードチーズ。熟成期間により風味が変わり、スペインで最もメジャーなチーズとされる。",
+    "menuDescription": "ラ・マンチャ産の羊乳で作った熟成マンチェゴを、生ハムやマルメロとともに。",
+    "whatComesOut": [
+      "くさび形に切ったチーズ",
+      "生ハム・オリーブ・マルメロのペースト"
+    ],
+    "tasteAndTexture": [
+      "羊乳のコクとナッツのような風味",
+      "熟成による塩気",
+      "しっかりした食感"
+    ],
+    "orderAdvice": "タパスやワインのお供に。熟成が長いほど風味が強い。",
+    "caution": "乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "paski-sir",
+        "name": "パグ島チーズ",
+        "difference": "クロアチアの羊乳チーズ"
+      },
+      {
+        "id": "pecorino",
+        "name": "ペコリーノ",
+        "difference": "イタリアの羊乳チーズ"
+      },
+      {
+        "name": "パルミジャーノ",
+        "difference": "イタリアの牛乳ハードチーズ"
+      }
+    ],
+    "relatedIds": [
+      "paski-sir",
+      "pecorino",
+      "jamon-iberico"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%BD%E3%83%BB%E3%83%9E%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B4",
+      "https://en.wikipedia.org/wiki/Manchego"
+    ],
+    "tags": [
+      "スペイン料理",
+      "チーズ",
+      "発酵",
+      "香ばしい",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "チーズが苦手",
+      "羊乳が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/manchego/1.jpg",
+      "/images/dishes/manchego/2.jpg",
+      "/images/dishes/manchego/3.jpg"
+    ]
+  },
+  {
+    "id": "insalata-di-polpo",
+    "name": "インサラータ・ディ・ポルポ",
+    "kana": "いんさらーた・でぃ・ぽるぽ",
+    "aliases": [
+      "タコのサラダ",
+      "タコとじゃがいものサラダ"
+    ],
+    "englishName": "Insalata di polpo (octopus salad)",
+    "originalName": "Insalata di polpo",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "茹でたタコをじゃがいも、セロリ、パセリなどとオリーブオイルとレモンで和えた南イタリアの海辺の前菜。",
+    "menuDescription": "柔らかく茹でたタコとじゃがいもを、レモンとオリーブオイルでさっぱり和えました。",
+    "whatComesOut": [
+      "一口大のタコとじゃがいものサラダ",
+      "パセリ・セロリ・オリーブ"
+    ],
+    "tasteAndTexture": [
+      "タコの弾力ある食感",
+      "レモンの酸味",
+      "オリーブオイルの香り"
+    ],
+    "orderAdvice": "前菜やワインのお供に。常温〜少し冷やして食べることが多い。",
+    "similarItems": [
+      {
+        "id": "salata-od-hobotnice",
+        "name": "サラタ・オド・ホボトニツェ",
+        "difference": "クロアチアのタコのサラダ"
+      },
+      {
+        "name": "プルポ・ア・ラ・ガジェガ",
+        "difference": "パプリカをかけたガリシア風タコ"
+      }
+    ],
+    "relatedIds": [
+      "salata-od-hobotnice"
+    ],
+    "source": [
+      "https://www.ciaoitalia.com/recipes/octopus-and-potato-salad-insalata-di-polpi-e-patate",
+      "https://en.wikipedia.org/wiki/Octopus_as_food"
+    ],
+    "tags": [
+      "イタリア料理",
+      "サラダ",
+      "魚介",
+      "野菜",
+      "マリネ",
+      "酸味",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "タコが苦手",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "garganelli",
+    "name": "ガルガネッリ",
+    "kana": "がるがねっり",
+    "englishName": "Garganelli",
+    "originalName": "Garganelli",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "正方形の卵入りパスタ生地を溝のある板の上で筒状に巻いて作る、エミリア・ロマーニャ州のショートパスタ。ペンネに似るが表面に筋がある。",
+    "menuDescription": "手巻きの卵パスタ・ガルガネッリを、ラグーソースでお仕上げしました。",
+    "whatComesOut": [
+      "筒状で筋のあるショートパスタ",
+      "ラグーやクリーム、トリュフのソース"
+    ],
+    "tasteAndTexture": [
+      "卵入り生地のもっちり感",
+      "溝にソースがよく絡む"
+    ],
+    "orderAdvice": "ペンネより柔らかくソースが絡みやすい。ラグーやクリーム系がおすすめ。",
+    "caution": "小麦・卵を含む。",
+    "similarItems": [
+      {
+        "name": "ペンネ",
+        "difference": "乾麺の筒状パスタ"
+      },
+      {
+        "id": "fuzi-s-tartufima",
+        "name": "フジ",
+        "difference": "クロアチアの筒状パスタ"
+      },
+      {
+        "id": "tajarin",
+        "name": "タヤリン",
+        "difference": "ピエモンテの細い卵パスタ"
+      }
+    ],
+    "relatedIds": [
+      "fuzi-s-tartufima",
+      "bolognese"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Garganelli"
+    ],
+    "tags": [
+      "イタリア料理",
+      "パスタ",
+      "小麦",
+      "卵",
+      "もちもち",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "パスタが苦手",
+      "米料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/garganelli/1.jpg"
+    ]
+  },
+  {
+    "id": "tajarin",
+    "name": "タヤリン",
+    "kana": "たやりん",
+    "aliases": [
+      "タリオリーニ",
+      "タヤリン・アル・タルトゥーフォ"
+    ],
+    "englishName": "Tajarin",
+    "originalName": "Tajarin",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "ピエモンテ州ランゲ地方の、卵黄をたっぷり使った細いリボン状の手打ちパスタ。秋の白トリュフをバターとともにかける食べ方が名物。",
+    "menuDescription": "卵黄をふんだんに使った黄金色の手打ちタヤリンに、白トリュフをたっぷり削りかけました。",
+    "whatComesOut": [
+      "細い黄金色の卵パスタ",
+      "バターソースや肉のロースト汁",
+      "削った白トリュフ（季節）"
+    ],
+    "tasteAndTexture": [
+      "卵黄の濃厚な風味",
+      "細麺のしなやかな食感",
+      "トリュフの芳醇な香り"
+    ],
+    "orderAdvice": "白トリュフの季節（秋）は高価だが一度は試したい。通年はバターやラグーで。",
+    "similarItems": [
+      {
+        "id": "tagliatelle",
+        "name": "タリアテッレ",
+        "difference": "幅広の卵パスタ"
+      },
+      {
+        "id": "fuzi-s-tartufima",
+        "name": "フジ・ス・タルトゥフィマ",
+        "difference": "トリュフを使うクロアチアのパスタ"
+      },
+      {
+        "id": "garganelli",
+        "name": "ガルガネッリ",
+        "difference": "筒状の卵パスタ"
+      }
+    ],
+    "relatedIds": [
+      "tagliatelle",
+      "fuzi-s-tartufima",
+      "garganelli",
+      "truffle"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AA%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%8B",
+      "https://en.wikipedia.org/wiki/Tagliolini"
+    ],
+    "tags": [
+      "イタリア料理",
+      "パスタ",
+      "小麦",
+      "卵",
+      "こってり",
+      "郷土料理",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "トリュフの香りが苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tajarin/1.jpg",
+      "/images/dishes/tajarin/2.jpg"
+    ]
+  },
+  {
+    "id": "jota",
+    "name": "ヨータ",
+    "kana": "よーた",
+    "aliases": [
+      "ヨタ",
+      "ヨータ・トリエスティーナ"
+    ],
+    "englishName": "Jota",
+    "originalName": "Jota",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      },
+      {
+        "country": "スロベニア"
+      }
+    ],
+    "summary": "豆、ザワークラウト、じゃがいもを燻製豚肉とともに煮込んだイタリア・トリエステの冬のスープ。スロベニアやイストリア半島でも食べられる。",
+    "menuDescription": "ボルロッティ豆とザワークラウトを燻製豚肉と煮込んだ、トリエステ伝統の冬のスープです。",
+    "whatComesOut": [
+      "豆とザワークラウトの濃いスープ",
+      "燻製豚肉やソーセージ"
+    ],
+    "tasteAndTexture": [
+      "ザワークラウトの酸味",
+      "豆とじゃがいものほっくり感",
+      "燻製肉の香り"
+    ],
+    "orderAdvice": "寒い時期に食べたい郷土料理。翌日の方がおいしいと言われる。",
+    "similarItems": [
+      {
+        "id": "manestra",
+        "name": "マネストラ",
+        "difference": "イストリアの豆と野菜のスープ"
+      },
+      {
+        "id": "pasta-e-fagioli",
+        "name": "パスタ・エ・ファジョーリ",
+        "difference": "パスタと豆のスープ"
+      },
+      {
+        "id": "pasulj",
+        "name": "パスリ",
+        "difference": "バルカンの豆の煮込み"
+      }
+    ],
+    "relatedIds": [
+      "manestra",
+      "pasta-e-fagioli",
+      "sauerkraut"
+    ],
+    "source": [
+      "https://greatitalianchefs.com/recipes/jota-recipe",
+      "https://memoriediangelina.com/2012/02/26/jota-triestina-beans-and-sauerkraut-soup-from-trieste/"
+    ],
+    "tags": [
+      "イタリア料理",
+      "スープ",
+      "豆類",
+      "豚肉",
+      "煮込み",
+      "酸味",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "酸っぱいものが苦手",
+      "豆が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/jota/1.jpg",
+      "/images/dishes/jota/2.jpg",
+      "/images/dishes/jota/3.jpg"
+    ]
+  },
+  {
+    "id": "pasta-e-fagioli",
+    "name": "パスタ・エ・ファジョーリ",
+    "kana": "ぱすた・え・ふぁじょーり",
+    "aliases": [
+      "パスタ・ファジョーリ",
+      "パスタと豆のスープ"
+    ],
+    "englishName": "Pasta e fagioli",
+    "originalName": "Pasta e fagioli",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "白いんげん豆などの豆とショートパスタ、にんにく、玉ねぎ、ローズマリーを煮込んだイタリアの伝統的な家庭料理。地域ごとに多くのバリエーションがある。",
+    "menuDescription": "ボルロッティ豆と小さなパスタをローズマリーと煮込んだ、素朴なイタリアの家庭の味です。",
+    "whatComesOut": [
+      "とろみのある豆とパスタのスープ",
+      "オリーブオイルとパルミジャーノ"
+    ],
+    "tasteAndTexture": [
+      "豆のクリーミーなとろみ",
+      "ローズマリーの香り",
+      "やさしい塩味"
+    ],
+    "orderAdvice": "スープとパスタの中間。体が温まり満足感がある。",
+    "similarItems": [
+      {
+        "id": "minestrone",
+        "name": "ミネストローネ",
+        "difference": "野菜たっぷりのイタリアのスープ"
+      },
+      {
+        "id": "jota",
+        "name": "ヨータ",
+        "difference": "豆とザワークラウトのトリエステのスープ"
+      },
+      {
+        "id": "manestra",
+        "name": "マネストラ",
+        "difference": "イストリアの豆のスープ"
+      }
+    ],
+    "relatedIds": [
+      "minestrone",
+      "jota",
+      "manestra",
+      "pasulj"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%B9%E3%82%BF%E3%83%BB%E3%82%A8%E3%83%BB%E3%83%95%E3%82%A1%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%AA",
+      "https://en.wikipedia.org/wiki/Pasta_e_fagioli"
+    ],
+    "tags": [
+      "イタリア料理",
+      "スープ",
+      "豆類",
+      "小麦",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "豆が苦手",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pasta-e-fagioli/1.jpg",
+      "/images/dishes/pasta-e-fagioli/2.jpg"
+    ]
+  },
+  {
+    "id": "sauerbraten",
+    "name": "ザウアーブラーテン",
+    "kana": "ざうあーぶらーてん",
+    "englishName": "Sauerbraten",
+    "originalName": "Sauerbraten",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ドイツ"
+      }
+    ],
+    "summary": "牛肉を酢・ワイン・香辛料の漬け汁に数日漬け込んでから蒸し煮にしたドイツの国民的料理。赤キャベツやじゃがいものクネーデルを添える。",
+    "menuDescription": "数日間マリネした牛肉をじっくり蒸し煮にし、甘酸っぱいソースと赤キャベツ、クネーデルを添えました。",
+    "whatComesOut": [
+      "スライスした煮込み牛肉と濃いソース",
+      "赤キャベツの煮込み",
+      "じゃがいものクネーデル"
+    ],
+    "tasteAndTexture": [
+      "酢とスパイスの甘酸っぱい風味",
+      "ほろほろの牛肉",
+      "濃厚なソース"
+    ],
+    "orderAdvice": "ドイツ料理店の定番メイン。酸味のある肉料理に抵抗がなければぜひ。",
+    "similarItems": [
+      {
+        "id": "pasticada",
+        "name": "パシュティツァダ",
+        "difference": "牛肉をワインで煮込むクロアチア料理"
+      },
+      {
+        "name": "ビーフシチュー",
+        "difference": "デミグラスで煮込んだ牛肉"
+      },
+      {
+        "id": "beef-bourguignon",
+        "name": "ブフ・ブルギニョン",
+        "difference": "赤ワインで煮込むフランス料理"
+      }
+    ],
+    "relatedIds": [
+      "pasticada",
+      "beef-bourguignon"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%A6%E3%82%A2%E3%83%BC%E3%83%96%E3%83%A9%E3%83%BC%E3%83%86%E3%83%B3",
+      "https://en.wikipedia.org/wiki/Sauerbraten"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "主菜",
+      "牛肉",
+      "マリネ",
+      "煮込み",
+      "酸味",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "酸っぱい肉が苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sauerbraten/1.jpg",
+      "/images/dishes/sauerbraten/2.jpg",
+      "/images/dishes/sauerbraten/3.jpg"
+    ]
+  },
+  {
+    "id": "sac",
+    "name": "サチ",
+    "kana": "さち",
+    "aliases": [
+      "サチュ",
+      "サチ料理",
+      "sač"
+    ],
+    "englishName": "Sač",
+    "originalName": "Сач",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "セルビア"
+      }
+    ],
+    "summary": "釣鐘型の金属や陶器のふた（サチ）で肉やじゃがいも、パンを覆い、上に熾火と灰をのせて蒸し焼きにするバルカンの調理法・料理。クロアチアではペカと呼ぶ。",
+    "menuDescription": "サチで蒸し焼きにした、ほろほろの仔羊とじゃがいもです。",
+    "whatComesOut": [
+      "大きな鉄鍋に入った肉とじゃがいも",
+      "仔羊・子牛・鶏など"
+    ],
+    "tasteAndTexture": [
+      "肉汁たっぷりでジューシー",
+      "ほろほろの柔らかさ",
+      "香ばしい焼き目"
+    ],
+    "orderAdvice": "時間がかかるため予約制の店が多い。数人でシェアする料理。",
+    "similarItems": [
+      {
+        "id": "peka",
+        "name": "ペカ",
+        "difference": "クロアチアでの同じ調理法・料理"
+      },
+      {
+        "id": "kleftiko",
+        "name": "クレフティコ",
+        "difference": "紙包みで蒸し焼きにするギリシャの羊肉料理"
+      },
+      {
+        "name": "ダッチオーブン料理",
+        "difference": "厚い鍋で蒸し焼きにする料理"
+      }
+    ],
+    "relatedIds": [
+      "peka",
+      "kleftiko"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Sa%C4%8D"
+    ],
+    "tags": [
+      "セルビア料理",
+      "主菜",
+      "羊肉",
+      "ロースト",
+      "ジューシー",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "羊肉が苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sac/1.jpg",
+      "/images/dishes/sac/2.jpg",
+      "/images/dishes/sac/3.jpg"
+    ]
+  },
+  {
+    "id": "kleftiko",
+    "name": "クレフティコ",
+    "kana": "くれふてぃこ",
+    "aliases": [
+      "クレフティコ・アルニ"
+    ],
+    "englishName": "Kleftiko",
+    "originalName": "Κλέφτικο",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ギリシャ"
+      }
+    ],
+    "summary": "レモン、にんにく、オレガノでマリネした羊肉を紙で包み、じゃがいもと一緒に低温で長時間焼いたギリシャの伝統料理。名前は『盗賊風』の意。",
+    "menuDescription": "マリネした仔羊肉を包み焼きにし、肉汁を吸ったじゃがいもと一緒にお出しします。",
+    "whatComesOut": [
+      "紙やホイルで包んだ羊肉",
+      "じゃがいも・パプリカ・チーズ"
+    ],
+    "tasteAndTexture": [
+      "ほろりと崩れる柔らかさ",
+      "レモンとオレガノの香り",
+      "肉汁のしみたじゃがいも"
+    ],
+    "orderAdvice": "ギリシャ・キプロスのタベルナの定番。羊肉の匂いが比較的マイルド。",
+    "similarItems": [
+      {
+        "id": "peka",
+        "name": "ペカ",
+        "difference": "鉄のふたで蒸し焼きにするクロアチア料理"
+      },
+      {
+        "id": "sac",
+        "name": "サチ",
+        "difference": "バルカンの蒸し焼き料理"
+      },
+      {
+        "id": "moussaka",
+        "name": "ムサカ",
+        "difference": "なすとひき肉のギリシャのグラタン"
+      }
+    ],
+    "relatedIds": [
+      "peka",
+      "sac",
+      "moussaka"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Kleftiko"
+    ],
+    "tags": [
+      "ギリシャ料理",
+      "主菜",
+      "羊肉",
+      "ロースト",
+      "ハーブ",
+      "ジューシー",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "羊肉が苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kleftiko/1.jpg",
+      "/images/dishes/kleftiko/2.jpg"
+    ]
+  },
+  {
+    "id": "cacciucco",
+    "name": "カチュッコ",
+    "kana": "かちゅっこ",
+    "aliases": [
+      "カッチュッコ"
+    ],
+    "englishName": "Cacciucco",
+    "originalName": "Cacciucco",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "トスカーナ州リヴォルノ発祥の魚介のトマト煮込みスープ。多種の魚、イカ、タコ、甲殻類を赤ワインやトマトで煮込み、にんにくをこすったパンにかける。",
+    "menuDescription": "数種類の魚介をトマトと赤ワインで煮込み、ガーリックトーストにたっぷりかけたリヴォルノ名物です。",
+    "whatComesOut": [
+      "深皿に入った魚介のトマトスープ",
+      "にんにくを塗った焼きパン"
+    ],
+    "tasteAndTexture": [
+      "魚介の濃厚な旨み",
+      "トマトの酸味と唐辛子のピリ辛",
+      "スープを吸ったパン"
+    ],
+    "orderAdvice": "リヴォルノの郷土料理。殻付きの魚介が多いので食べるのに時間がかかる。",
+    "caution": "甲殻類・貝類アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "brodet",
+        "name": "ブロデット",
+        "difference": "アドリア海沿岸の魚介の煮込み"
+      },
+      {
+        "id": "bouillabaisse",
+        "name": "ブイヤベース",
+        "difference": "南仏マルセイユの魚介スープ"
+      },
+      {
+        "name": "ズッパ・ディ・ペッシェ",
+        "difference": "イタリアの魚介スープ全般"
+      }
+    ],
+    "relatedIds": [
+      "brodet",
+      "bouillabaisse"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Cacciucco"
+    ],
+    "tags": [
+      "イタリア料理",
+      "スープ",
+      "魚介",
+      "貝類",
+      "煮込み",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "魚介が苦手",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/cacciucco/1.jpg"
+    ]
+  },
+  {
+    "id": "moules-marinieres",
+    "name": "ムール・マリニエール",
+    "kana": "むーる・まりにえーる",
+    "aliases": [
+      "ムール貝の白ワイン蒸し",
+      "マリニエール"
+    ],
+    "englishName": "Moules marinières",
+    "originalName": "Moules marinières",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      },
+      {
+        "country": "ベルギー"
+      }
+    ],
+    "summary": "ムール貝をエシャロット、にんにく、白ワイン、バターで蒸し煮にしたフランス・ベルギーの料理。フライドポテトを添えるとムール・フリットになる。",
+    "menuDescription": "新鮮なムール貝をエシャロットと白ワインで蒸し上げ、パセリを散らしました。",
+    "whatComesOut": [
+      "鍋いっぱいのムール貝",
+      "白ワインのスープ",
+      "バゲットやフライドポテト"
+    ],
+    "tasteAndTexture": [
+      "貝の旨みが溶けたスープ",
+      "白ワインとバターの香り",
+      "ぷりっとした身"
+    ],
+    "orderAdvice": "スープはパンに浸して残さず楽しむのが定番。開いていない貝は食べない。",
+    "caution": "貝類アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "dagnje-na-buzaru",
+        "name": "ダグニェ・ナ・ブザル",
+        "difference": "クロアチアのムール貝の白ワイン煮"
+      },
+      {
+        "name": "アサリの酒蒸し",
+        "difference": "日本酒で蒸したアサリ"
+      },
+      {
+        "name": "ムール・フリット",
+        "difference": "ムール貝とフライドポテトのセット"
+      }
+    ],
+    "relatedIds": [
+      "dagnje-na-buzaru",
+      "mussel",
+      "skampi-na-buzaru"
+    ],
+    "source": [
+      "https://rouxbe.com/recipes/1521-moules-mariniere-mussels-mariniere",
+      "https://en.wikipedia.org/wiki/Moules-frites"
+    ],
+    "tags": [
+      "フランス料理",
+      "ベルギー料理",
+      "主菜",
+      "貝類",
+      "蒸し料理",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "貝が苦手",
+      "肉料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/moules-marinieres/1.jpg",
+      "/images/dishes/moules-marinieres/2.jpg",
+      "/images/dishes/moules-marinieres/3.jpg"
+    ]
+  },
+  {
+    "id": "risotto-al-nero-di-seppia",
+    "name": "リゾット・アル・ネーロ・ディ・セッピア",
+    "kana": "りぞっと・あるねーろ・でぃ・せっぴあ",
+    "aliases": [
+      "イカ墨リゾット",
+      "黒いリゾット"
+    ],
+    "englishName": "Risotto al nero di seppia (squid ink risotto)",
+    "originalName": "Risotto al nero di seppia",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "コウイカの身と墨を使った、真っ黒なヴェネツィアのリゾット。墨の濃厚な旨みと磯の香りが特徴で、通常チーズはかけない。",
+    "menuDescription": "コウイカの身と墨でじっくり炊き上げた、ヴェネツィア伝統の真っ黒なリゾットです。",
+    "whatComesOut": [
+      "真っ黒なリゾット",
+      "コウイカの身",
+      "パセリ"
+    ],
+    "tasteAndTexture": [
+      "墨の濃厚な旨みとコク",
+      "磯の香り",
+      "アルデンテの米"
+    ],
+    "orderAdvice": "見た目に驚くが味はまろやか。口や歯が黒くなるので注意。",
+    "similarItems": [
+      {
+        "id": "crni-rizot",
+        "name": "ツルニ・リジョト",
+        "difference": "クロアチアのイカ墨リゾット"
+      },
+      {
+        "name": "イカ墨パスタ",
+        "difference": "墨のソースのパスタ"
+      },
+      {
+        "id": "risotto",
+        "name": "リゾット",
+        "difference": "米をスープで煮るイタリア料理"
+      }
+    ],
+    "relatedIds": [
+      "crni-rizot",
+      "risotto"
+    ],
+    "source": [
+      "https://venicexplorer.com/the-city/explore-venice/venetian-foods/risotto-al-nero-di-seppia",
+      "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AB%E5%A2%A8"
+    ],
+    "tags": [
+      "イタリア料理",
+      "ご飯もの",
+      "魚介",
+      "米",
+      "煮込み",
+      "クリーミー",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "見た目が苦手",
+      "魚介が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
   }
 ]
