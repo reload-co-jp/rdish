@@ -52,7 +52,7 @@ export default function DishesPage() {
         >
           料理・食材図鑑 一覧
         </h1>
-        <p style={{ color: "#a89080", fontSize: "0.875rem" }}>
+        <p style={{ color: "var(--c-text-sub)", fontSize: "0.875rem" }}>
           全{count}件 / {total}ページ中 1ページ目
         </p>
       </div>

@@ -25,14 +25,14 @@ export const metadata: Metadata = {
 }
 
 const linkStyle = {
-  color: "#7a4f2a",
+  color: "var(--c-accent)",
   fontSize: "0.875rem",
   textDecoration: "underline",
-  textDecorationColor: "#d4b896",
+  textDecorationColor: "var(--c-border)",
   textUnderlineOffset: "3px",
 } as const
 
-const countStyle = { color: "#a89080", fontSize: "0.75rem" }
+const countStyle = { color: "var(--c-text-sub)", fontSize: "0.75rem" }
 
 type Section = { region: string; count: number }
 
@@ -200,7 +200,7 @@ export default function CountriesPage() {
       </h1>
       <p
         style={{
-          color: "#7a6655",
+          color: "var(--c-text-2)",
           fontSize: "0.9375rem",
           lineHeight: 1.8,
           margin: "0 0 1.5rem",
@@ -214,7 +214,7 @@ export default function CountriesPage() {
           style={{
             fontSize: "1rem",
             fontWeight: 700,
-            color: "#7a4f2a",
+            color: "var(--c-accent)",
             marginBottom: "1rem",
           }}
         >
@@ -250,7 +250,7 @@ export default function CountriesPage() {
                       style={{
                         fontSize: "0.875rem",
                         fontWeight: 600,
-                        color: "#7a4f2a",
+                        color: "var(--c-accent)",
                       }}
                     >
                       {country}
@@ -315,7 +315,7 @@ export default function CountriesPage() {
                                 style={{
                                   fontSize: "0.875rem",
                                   fontWeight: 600,
-                                  color: "#7a4f2a",
+                                  color: "var(--c-accent)",
                                 }}
                               >
                                 {prefecture}
@@ -361,7 +361,7 @@ export default function CountriesPage() {
             style={{
               fontSize: "1rem",
               fontWeight: 700,
-              color: "#7a4f2a",
+              color: "var(--c-accent)",
               marginBottom: "0.75rem",
             }}
           >

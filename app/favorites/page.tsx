@@ -39,7 +39,7 @@ export default function FavoritesPage() {
           ))}
         </div>
       ) : (
-        <p style={{ color: "#666" }}>
+        <p style={{ color: "var(--c-text-2)" }}>
           お気に入りに登録した料理がここに表示されます。
           <br />
           料理の詳細ページで「お気に入り」ボタンを押して登録できます。

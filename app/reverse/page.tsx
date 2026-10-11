@@ -68,7 +68,7 @@ export default function ReversePage() {
       </h1>
       <p
         style={{
-          color: "#a89080",
+          color: "var(--c-text-sub)",
           fontSize: "0.875rem",
           marginBottom: "0.75rem",
         }}
@@ -79,7 +79,7 @@ export default function ReversePage() {
         <Link
           href="/reverse/k/"
           style={{
-            color: "#b45309",
+            color: "var(--c-accent)",
             fontSize: "0.875rem",
             fontWeight: 600,
             textDecoration: "none",
@@ -101,10 +101,10 @@ export default function ReversePage() {
           aria-label="特徴を入力して料理を検索"
           style={{
             flex: 1,
-            background: "#fffdf8",
-            border: "1px solid #e8ddd0",
-            borderRadius: "0.375rem",
-            color: "#2d1f0e",
+            background: "var(--c-bg)",
+            border: "1px solid var(--c-border)",
+            borderRadius: "var(--radius)",
+            color: "var(--c-text)",
             fontSize: "1rem",
             padding: "0.625rem 0.75rem",
             outline: "none",
@@ -113,9 +113,9 @@ export default function ReversePage() {
         <button
           type="submit"
           style={{
-            background: "#b45309",
+            background: "var(--c-accent)",
             border: "none",
-            borderRadius: "0.375rem",
+            borderRadius: "var(--radius)",
             color: "#fff",
             cursor: "pointer",
             fontSize: "1rem",
@@ -135,15 +135,15 @@ export default function ReversePage() {
             gap: "0.375rem",
             marginBottom: "1.25rem",
             padding: "0.625rem 0.75rem",
-            background: "#fef9f0",
-            border: "1px solid #f5c97a",
-            borderRadius: "0.375rem",
+            background: "var(--c-tint)",
+            border: "1px solid var(--c-border)",
+            borderRadius: "var(--radius)",
           }}
         >
           <span
             style={{
               fontSize: "0.75rem",
-              color: "#a89080",
+              color: "var(--c-text-sub)",
               alignSelf: "center",
               marginRight: "0.25rem",
             }}
@@ -156,9 +156,9 @@ export default function ReversePage() {
               href={`/dishes/${dish.id}/`}
               style={{
                 fontSize: "0.75rem",
-                background: "#f0e6d6",
-                color: "#b45309",
-                border: "1px solid #e8ddd0",
+                background: "var(--c-tint)",
+                color: "var(--c-accent)",
+                border: "1px solid var(--c-border)",
                 borderRadius: "9999px",
                 padding: "0.125rem 0.625rem",
                 textDecoration: "none",
@@ -173,7 +173,7 @@ export default function ReversePage() {
       <div style={{ marginBottom: "1.5rem" }}>
         <p
           style={{
-            color: "#a89080",
+            color: "var(--c-text-sub)",
             fontSize: "0.75rem",
             marginBottom: "0.5rem",
           }}
@@ -186,10 +186,10 @@ export default function ReversePage() {
               key={ex}
               onClick={() => handleExampleClick(ex)}
               style={{
-                background: "#f0e6d6",
-                border: "1px solid #e8ddd0",
+                background: "var(--c-tint)",
+                border: "1px solid var(--c-border)",
                 borderRadius: "9999px",
-                color: "#7a6655",
+                color: "var(--c-text-2)",
                 cursor: "pointer",
                 fontSize: "0.75rem",
                 padding: "0.25rem 0.75rem",
@@ -205,7 +205,7 @@ export default function ReversePage() {
         <div>
           <p
             style={{
-              color: "#a89080",
+              color: "var(--c-text-sub)",
               fontSize: "0.875rem",
               marginBottom: "1rem",
             }}

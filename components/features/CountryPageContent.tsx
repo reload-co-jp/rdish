@@ -43,9 +43,9 @@ const Pagination: FC<{ countryId: string; current: number; total: number }> = ({
           href={countryPageUrl(countryId, current - 1)}
           style={{
             padding: "0.375rem 0.75rem",
-            border: "1px solid #e8ddd0",
-            borderRadius: "0.25rem",
-            color: "#7a6655",
+            border: "1px solid var(--c-border)",
+            borderRadius: "var(--radius)",
+            color: "var(--c-text-2)",
             textDecoration: "none",
             fontSize: "0.875rem",
           }}
@@ -53,7 +53,7 @@ const Pagination: FC<{ countryId: string; current: number; total: number }> = ({
           ← 前へ
         </Link>
       )}
-      <span style={{ fontSize: "0.875rem", color: "#a89080" }}>
+      <span style={{ fontSize: "0.875rem", color: "var(--c-text-sub)" }}>
         {current} / {total}
       </span>
       {current < total && (
@@ -61,9 +61,9 @@ const Pagination: FC<{ countryId: string; current: number; total: number }> = ({
           href={countryPageUrl(countryId, current + 1)}
           style={{
             padding: "0.375rem 0.75rem",
-            border: "1px solid #e8ddd0",
-            borderRadius: "0.25rem",
-            color: "#7a6655",
+            border: "1px solid var(--c-border)",
+            borderRadius: "var(--radius)",
+            color: "var(--c-text-2)",
             textDecoration: "none",
             fontSize: "0.875rem",
           }}
@@ -93,22 +93,17 @@ export const CountryPageContent: FC<Props> = ({
   const total = countryTotalPages(totalCount)
   return (
     <div>
-      <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+      <div className="dish-list">
         {dishes.map((dish, index) => (
           <div key={dish.id} style={{ position: "relative" }}>
             <div
               style={{
                 position: "absolute",
-                top: "0.75rem",
-                right: "0.75rem",
-                zIndex: 1,
-                color: "#a89080",
-                fontSize: "0.7rem",
-                fontWeight: 700,
-                background: "#fffdf8",
-                border: "1px solid #e8ddd0",
-                borderRadius: "0.25rem",
-                padding: "0.125rem 0.375rem",
+                bottom: "var(--sp-6)",
+                right: 0,
+                color: "var(--c-text-sub)",
+                fontFamily: "var(--font-serif)",
+                fontSize: "var(--fs-sm)",
               }}
             >
               #{offset + index + 1}

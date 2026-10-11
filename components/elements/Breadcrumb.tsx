@@ -29,7 +29,7 @@ export const Breadcrumb: FC<Props> = ({ items }) => {
         aria-label="パンくず"
         style={{
           fontSize: "0.75rem",
-          color: "#a89080",
+          color: "var(--c-text-sub)",
           marginBottom: "1.25rem",
           display: "flex",
           flexWrap: "wrap",
@@ -43,21 +43,21 @@ export const Breadcrumb: FC<Props> = ({ items }) => {
             style={{ display: "flex", alignItems: "center", gap: "0.25rem" }}
           >
             {i > 0 && (
-              <span aria-hidden="true" style={{ color: "#e8ddd0" }}>
+              <span aria-hidden="true" style={{ color: "var(--c-border)" }}>
                 /
               </span>
             )}
             {item.href && i < all.length - 1 ? (
               <Link
                 href={item.href}
-                style={{ color: "#a89080", textDecoration: "none" }}
+                style={{ color: "var(--c-text-sub)", textDecoration: "none" }}
               >
                 {item.label}
               </Link>
             ) : (
               <span
                 aria-current={i === all.length - 1 ? "page" : undefined}
-                style={{ color: "#7a6655" }}
+                style={{ color: "var(--c-text-2)" }}
               >
                 {item.label}
               </span>

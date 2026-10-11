@@ -21,9 +21,9 @@ export const metadata = {
 }
 
 const cardStyle = {
-  background: "#fffdf8",
-  border: "1px solid #e8ddd0",
-  borderRadius: "0.5rem",
+  background: "var(--c-bg)",
+  border: "1px solid var(--c-border)",
+  borderRadius: "var(--radius)",
   color: "inherit",
   display: "block",
   padding: "0.75rem 0.875rem",
@@ -75,7 +75,7 @@ export default function DietaryIndexPage() {
       </h1>
       <p
         style={{
-          color: "#7a6655",
+          color: "var(--c-text-2)",
           fontSize: "0.9375rem",
           lineHeight: 1.8,
           margin: "0 0 1.5rem",
@@ -99,7 +99,7 @@ export default function DietaryIndexPage() {
                 style={{
                   fontSize: "0.9375rem",
                   fontWeight: 700,
-                  color: "#2d1f0e",
+                  color: "var(--c-text)",
                 }}
               >
                 {axis.safeTitle}
@@ -107,7 +107,7 @@ export default function DietaryIndexPage() {
               <span
                 style={{
                   display: "block",
-                  color: "#a89080",
+                  color: "var(--c-text-sub)",
                   fontSize: "0.75rem",
                   marginTop: "0.125rem",
                 }}
@@ -134,7 +134,7 @@ export default function DietaryIndexPage() {
                 style={{
                   fontSize: "0.9375rem",
                   fontWeight: 700,
-                  color: "#2d1f0e",
+                  color: "var(--c-text)",
                 }}
               >
                 {axis.avoidTitle}
@@ -142,7 +142,7 @@ export default function DietaryIndexPage() {
               <span
                 style={{
                   display: "block",
-                  color: "#a89080",
+                  color: "var(--c-text-sub)",
                   fontSize: "0.75rem",
                   marginTop: "0.125rem",
                 }}

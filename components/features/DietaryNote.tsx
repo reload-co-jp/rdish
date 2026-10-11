@@ -4,10 +4,10 @@ import { FC } from "react"
 export const DietaryNote: FC = () => (
   <p
     style={{
-      background: "#fef9f0",
-      border: "1px solid #f5c97a",
-      borderRadius: "0.375rem",
-      color: "#7a6655",
+      background: "var(--c-tint)",
+      border: "1px solid var(--c-border)",
+      borderRadius: "var(--radius)",
+      color: "var(--c-text-2)",
       fontSize: "0.8125rem",
       lineHeight: 1.7,
       margin: "0 0 1.5rem",

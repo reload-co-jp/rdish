@@ -1,101 +1,35 @@
-import Image from "next/image"
 import Link from "next/link"
 import { FC } from "react"
 import { regionLabel } from "../../lib/region"
 import type { DishItem } from "../../types/dish"
+import { Photo } from "../elements/Photo"
 import { TagList } from "./TagList"
 
 type Props = {
   dish: DishItem
 }
 
-export const DishCard: FC<Props> = ({ dish }) => {
-  const thumb = dish.images?.[0]
-  return (
-    <div
-      style={{
-        background: "#fffdf8",
-        border: "1px solid #e8ddd0",
-        borderRadius: "0.5rem",
-        overflow: "hidden",
-        transition: "border-color 0.15s",
-      }}
-    >
-      <Link
-        href={`/dishes/${dish.id}/`}
-        style={{
-          textDecoration: "none",
-          color: "inherit",
-          display: "flex",
-          alignItems: "flex-end",
-          padding: "1rem",
-          gap: "0.75rem",
-        }}
-      >
-        <div style={{ flex: 1, minWidth: 0 }}>
-          <div
-            style={{
-              display: "flex",
-              alignItems: "center",
-              gap: "0.375rem",
-              marginBottom: "0.375rem",
-              flexWrap: "wrap",
-            }}
-          >
-            <h3 style={{ fontSize: "1.1rem", fontWeight: 700 }}>{dish.name}</h3>
-            <span
-              style={{
-                fontSize: "0.65rem",
-                color: "#7a6655",
-                background: "#f0e6d6",
-                padding: "0.125rem 0.375rem",
-                borderRadius: "0.25rem",
-                whiteSpace: "nowrap",
-                flexShrink: 0,
-              }}
-            >
-              {dish.category}
-              {dish.regions[0] ? ` / ${regionLabel(dish.regions[0])}` : ""}
-            </span>
-          </div>
-          <p
-            style={{
-              fontSize: "0.875rem",
-              color: "#7a6655",
-              marginBottom: "0.5rem",
-            }}
-          >
-            {dish.summary}
-          </p>
-          <p style={{ fontSize: "0.75rem", color: "#b45309" }}>
-            {dish.orderAdvice}
-          </p>
-        </div>
-        {thumb && (
-          <div
-            style={{
-              position: "relative",
-              flexShrink: 0,
-              width: "5rem",
-              height: "5rem",
-              borderRadius: "0.375rem",
-              overflow: "hidden",
-              background: "#f0e6d6",
-            }}
-          >
-            <Image
-              src={thumb}
-              alt={dish.name}
-              fill
-              style={{ objectFit: "cover" }}
-              sizes="80px"
-            />
-          </div>
+export const DishCard: FC<Props> = ({ dish }) => (
+  <div className="dish-card">
+    <Link href={`/dishes/${dish.id}/`} className="dish-card__link story">
+      <div style={{ minWidth: 0 }}>
+        <span className="meta">
+          {dish.category}
+          {dish.regions[0] ? ` — ${regionLabel(dish.regions[0])}` : ""}
+        </span>
+        <h3 className="story__title dish-card__title">{dish.name}</h3>
+        <p className="story__desc">{dish.summary}</p>
+        {dish.orderAdvice && (
+          <p className="dish-card__advice">{dish.orderAdvice}</p>
         )}
-      </Link>
-      <div style={{ padding: "0 1rem 1rem" }}>
-        <TagList tags={dish.tags.slice(0, 5)} />
       </div>
-    </div>
-  )
-}
+      <Photo
+        src={dish.images?.[0]}
+        alt={dish.name}
+        sizes="(max-width: 480px) 112px, 160px"
+        className="dish-card__photo"
+      />
+    </Link>
+    <TagList tags={dish.tags.slice(0, 5)} />
+  </div>
+)

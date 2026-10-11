@@ -50,13 +50,17 @@ export default function CollectionsPage() {
         特集一覧
       </h1>
       <p
-        style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}
+        style={{
+          color: "var(--c-text-sub)",
+          fontSize: "0.875rem",
+          marginBottom: "0.75rem",
+        }}
       >
         全{allCollections.length}件
       </p>
       <p
         style={{
-          color: "#7a6655",
+          color: "var(--c-text-2)",
           fontSize: "0.9375rem",
           lineHeight: 1.8,
           margin: "0 0 1.5rem",
@@ -71,8 +75,8 @@ export default function CollectionsPage() {
               style={{
                 fontSize: "1.125rem",
                 fontWeight: 700,
-                color: "#4a3a2a",
-                borderBottom: "2px solid #e8ddd0",
+                color: "var(--c-text-2)",
+                borderBottom: "2px solid var(--c-border)",
                 paddingBottom: "0.375rem",
                 marginBottom: "0.75rem",
               }}
@@ -93,15 +97,15 @@ export default function CollectionsPage() {
                   style={{
                     display: "block",
                     padding: "0.875rem 1rem",
-                    background: "#fffdf8",
-                    border: "1px solid #e8ddd0",
-                    borderRadius: "0.5rem",
+                    background: "var(--c-bg)",
+                    border: "1px solid var(--c-border)",
+                    borderRadius: "var(--radius)",
                     textDecoration: "none",
                   }}
                 >
                   <span
                     style={{
-                      color: "#4a3a2a",
+                      color: "var(--c-text-2)",
                       fontSize: "1rem",
                       fontWeight: 700,
                     }}
@@ -110,7 +114,7 @@ export default function CollectionsPage() {
                   </span>
                   <span
                     style={{
-                      color: "#a89080",
+                      color: "var(--c-text-sub)",
                       fontSize: "0.8125rem",
                       marginLeft: "0.5rem",
                     }}

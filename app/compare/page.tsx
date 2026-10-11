@@ -49,13 +49,17 @@ export default function CompareIndexPage() {
         料理の違い比較
       </h1>
       <p
-        style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}
+        style={{
+          color: "var(--c-text-sub)",
+          fontSize: "0.875rem",
+          marginBottom: "0.75rem",
+        }}
       >
         全{allComparisons.length}組
       </p>
       <p
         style={{
-          color: "#7a6655",
+          color: "var(--c-text-2)",
           fontSize: "0.9375rem",
           lineHeight: 1.8,
           margin: "0 0 1.5rem",

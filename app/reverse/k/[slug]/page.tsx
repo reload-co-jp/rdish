@@ -83,7 +83,11 @@ export default async function DietarySafePage({
         {topic.axis.safeTitle}
       </h1>
       <p
-        style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}
+        style={{
+          color: "var(--c-text-sub)",
+          fontSize: "0.875rem",
+          marginBottom: "0.75rem",
+        }}
       >
         該当{topic.safeTotal}件
         {topic.safeTotal > topic.safeDishes.length &&
@@ -91,7 +95,7 @@ export default async function DietarySafePage({
       </p>
       <p
         style={{
-          color: "#7a6655",
+          color: "var(--c-text-2)",
           fontSize: "0.9375rem",
           lineHeight: 1.8,
           margin: "0 0 1.5rem",
@@ -107,7 +111,7 @@ export default async function DietarySafePage({
           <Link
             href={avoidPath(slug)}
             style={{
-              color: "#b45309",
+              color: "var(--c-accent)",
               fontSize: "0.875rem",
               fontWeight: 600,
               textDecoration: "none",
@@ -130,7 +134,7 @@ export default async function DietarySafePage({
           style={{
             fontSize: "0.75rem",
             fontWeight: 700,
-            color: "#a89080",
+            color: "var(--c-text-sub)",
             letterSpacing: "0.05em",
             marginBottom: "0.5rem",
           }}

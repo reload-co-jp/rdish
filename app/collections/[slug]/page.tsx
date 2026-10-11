@@ -63,13 +63,17 @@ export default async function CollectionPage({
         {collection.title}
       </h1>
       <p
-        style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}
+        style={{
+          color: "var(--c-text-sub)",
+          fontSize: "0.875rem",
+          marginBottom: "0.75rem",
+        }}
       >
         全{collection.dishes.length}件
       </p>
       <p
         style={{
-          color: "#7a6655",
+          color: "var(--c-text-2)",
           fontSize: "0.9375rem",
           lineHeight: 1.8,
           margin: "0 0 1.5rem",

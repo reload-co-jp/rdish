@@ -100,7 +100,11 @@ export default async function CountryPageN({
         {item.label}の料理一覧
       </h1>
       <p
-        style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}
+        style={{
+          color: "var(--c-text-sub)",
+          fontSize: "0.875rem",
+          marginBottom: "0.75rem",
+        }}
       >
         全{results.length}件 / {total}ページ中 {page}ページ目
       </p>

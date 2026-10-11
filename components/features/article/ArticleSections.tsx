@@ -12,20 +12,19 @@ import type {
 import type { DishItem } from "../../../types/dish"
 
 export const sectionHeadingStyle: React.CSSProperties = {
-  fontSize: "0.75rem",
-  fontWeight: 700,
-  color: "#a89080",
-  letterSpacing: "0.08em",
-  textTransform: "uppercase",
-  marginBottom: "1rem",
-  paddingBottom: "0.375rem",
-  borderBottom: "1px solid #e8ddd0",
+  fontFamily: "var(--font-serif)",
+  fontSize: "var(--fs-xl)",
+  fontWeight: 600,
+  color: "var(--c-text)",
+  marginBottom: "var(--sp-6)",
+  paddingBottom: "var(--sp-3)",
+  borderBottom: "1px solid var(--c-text)",
 }
 
 const labelStyle: React.CSSProperties = {
   fontSize: "0.7rem",
   fontWeight: 700,
-  color: "#a89080",
+  color: "var(--c-text-sub)",
   letterSpacing: "0.06em",
   textTransform: "uppercase",
   minWidth: "4.5rem",
@@ -34,8 +33,8 @@ const labelStyle: React.CSSProperties = {
 }
 
 const valueStyle: React.CSSProperties = {
-  fontSize: "0.875rem",
-  color: "#2d1f0e",
+  fontSize: "var(--fs-md)",
+  color: "var(--c-text)",
   lineHeight: 1.6,
 }
 
@@ -67,7 +66,7 @@ const DifferenceList: FC<{ items: { label: string; value: string }[] }> = ({
       style={{
         fontSize: "0.7rem",
         fontWeight: 700,
-        color: "#a89080",
+        color: "var(--c-text-sub)",
         letterSpacing: "0.08em",
         textTransform: "uppercase",
         marginBottom: "0.375rem",
@@ -85,7 +84,7 @@ const DifferenceList: FC<{ items: { label: string; value: string }[] }> = ({
             style={{
               fontSize: "0.7rem",
               fontWeight: 700,
-              color: "#b87a50",
+              color: "var(--c-accent)",
               minWidth: "5rem",
               flexShrink: 0,
             }}
@@ -94,8 +93,8 @@ const DifferenceList: FC<{ items: { label: string; value: string }[] }> = ({
           </dt>
           <dd
             style={{
-              fontSize: "0.8125rem",
-              color: "#5a4a3a",
+              fontSize: "var(--fs-md)",
+              color: "var(--c-text-2)",
               margin: 0,
               lineHeight: 1.55,
             }}
@@ -122,7 +121,7 @@ const DishEntry: FC<{ entry: ArticleDishEntry; allDishes: DishItem[] }> = ({
       style={{
         marginBottom: "1.5rem",
         paddingBottom: "1.5rem",
-        borderBottom: "1px solid #f0e6d6",
+        borderBottom: "1px solid var(--c-border)",
       }}
     >
       <div
@@ -140,10 +139,10 @@ const DishEntry: FC<{ entry: ArticleDishEntry; allDishes: DishItem[] }> = ({
                 width={96}
                 height={72}
                 style={{
-                  borderRadius: "0.375rem",
+                  borderRadius: "var(--radius)",
                   objectFit: "cover",
                   display: "block",
-                  border: "1px solid #e8ddd0",
+                  border: "1px solid var(--c-border)",
                 }}
               />
             </Link>
@@ -152,9 +151,10 @@ const DishEntry: FC<{ entry: ArticleDishEntry; allDishes: DishItem[] }> = ({
         <div style={{ flex: 1, minWidth: 0 }}>
           <h3
             style={{
-              fontSize: "1rem",
-              fontWeight: 700,
-              color: "#2d1f0e",
+              fontFamily: "var(--font-serif)",
+              fontSize: "var(--fs-lg)",
+              fontWeight: 600,
+              color: "var(--c-text)",
               marginBottom: "0.25rem",
             }}
           >
@@ -162,9 +162,9 @@ const DishEntry: FC<{ entry: ArticleDishEntry; allDishes: DishItem[] }> = ({
               <Link
                 href={`/dishes/${entry.dishId}/`}
                 style={{
-                  color: "#2d1f0e",
+                  color: "var(--c-text)",
                   textDecoration: "underline",
-                  textDecorationColor: "#e8ddd0",
+                  textDecorationColor: "var(--c-border)",
                 }}
               >
                 {entry.heading}
@@ -185,10 +185,10 @@ const DishEntry: FC<{ entry: ArticleDishEntry; allDishes: DishItem[] }> = ({
         <p
           style={{
             marginTop: "0.625rem",
-            fontSize: "0.8125rem",
-            color: "#7a6655",
+            fontSize: "var(--fs-md)",
+            color: "var(--c-text-2)",
             lineHeight: 1.65,
-            borderLeft: "2px solid #e8ddd0",
+            borderLeft: "2px solid var(--c-border)",
             paddingLeft: "0.75rem",
           }}
         >
@@ -203,13 +203,13 @@ export const RegionSection: FC<{
   region: ArticleRegion
   allDishes: DishItem[]
 }> = ({ region, allDishes }) => (
-  <section style={{ marginBottom: "2rem" }}>
+  <section style={{ marginBottom: "var(--sp-12)" }}>
     <h2 style={sectionHeadingStyle}>{region.heading}</h2>
     {region.intro && (
       <p
         style={{
-          fontSize: "0.875rem",
-          color: "#5a4a3a",
+          fontSize: "var(--fs-md)",
+          color: "var(--c-text-2)",
           lineHeight: 1.75,
           marginBottom: "1.25rem",
         }}
@@ -226,7 +226,7 @@ export const RegionSection: FC<{
 export const HistorySection: FC<{ entries: ArticleHistoryEntry[] }> = ({
   entries,
 }) => (
-  <section style={{ marginBottom: "2.5rem" }}>
+  <section style={{ marginBottom: "var(--sp-12)" }}>
     <h2 style={sectionHeadingStyle}>歴史と伝播</h2>
     <div style={{ display: "flex", flexDirection: "column", gap: "1.25rem" }}>
       {entries.map((entry) => (
@@ -234,7 +234,8 @@ export const HistorySection: FC<{ entries: ArticleHistoryEntry[] }> = ({
           key={entry.period}
           style={{
             display: "flex",
-            gap: "1rem",
+            flexWrap: "wrap",
+            gap: "0.5rem 1rem",
             alignItems: "flex-start",
           }}
         >
@@ -244,7 +245,7 @@ export const HistorySection: FC<{ entries: ArticleHistoryEntry[] }> = ({
               width: "7rem",
               fontSize: "0.7rem",
               fontWeight: 700,
-              color: "#b87a50",
+              color: "var(--c-accent)",
               paddingTop: "0.2rem",
               lineHeight: 1.4,
             }}
@@ -253,16 +254,16 @@ export const HistorySection: FC<{ entries: ArticleHistoryEntry[] }> = ({
           </div>
           <div
             style={{
-              flex: 1,
-              borderLeft: "2px solid #f0e6d6",
+              flex: "1 1 16rem",
+              borderLeft: "2px solid var(--c-border)",
               paddingLeft: "1rem",
             }}
           >
             <p
               style={{
-                fontSize: "0.875rem",
+                fontSize: "var(--fs-md)",
                 fontWeight: 700,
-                color: "#2d1f0e",
+                color: "var(--c-text)",
                 marginBottom: "0.25rem",
               }}
             >
@@ -270,8 +271,8 @@ export const HistorySection: FC<{ entries: ArticleHistoryEntry[] }> = ({
             </p>
             <p
               style={{
-                fontSize: "0.8125rem",
-                color: "#5a4a3a",
+                fontSize: "var(--fs-md)",
+                color: "var(--c-text-2)",
                 lineHeight: 1.7,
                 margin: 0,
               }}
@@ -288,16 +289,16 @@ export const HistorySection: FC<{ entries: ArticleHistoryEntry[] }> = ({
 export const ComparisonSection: FC<{ rows: ArticleComparisonRow[] }> = ({
   rows,
 }) => (
-  <section style={{ marginBottom: "2rem" }}>
+  <section style={{ marginBottom: "var(--sp-12)" }}>
     <h2 style={sectionHeadingStyle}>比較まとめ</h2>
     <div style={{ display: "flex", flexDirection: "column", gap: "0.5rem" }}>
       {rows.map((row) => (
         <div
           key={row.name}
           style={{
-            background: row.soupInside ? "#fff8f0" : "#faf7f2",
-            border: `1px solid ${row.soupInside ? "#f0c88a" : "#e8ddd0"}`,
-            borderRadius: "0.5rem",
+            background: row.soupInside ? "var(--c-bg)" : "var(--c-bg)",
+            border: `1px solid ${row.soupInside ? "var(--c-border)" : "var(--c-border)"}`,
+            borderRadius: "var(--radius)",
             padding: "0.625rem 0.875rem",
             display: "flex",
             flexWrap: "wrap",
@@ -312,9 +313,9 @@ export const ComparisonSection: FC<{ rows: ArticleComparisonRow[] }> = ({
               <Link
                 href={`/dishes/${row.dishId}/`}
                 style={{
-                  color: "#2d1f0e",
+                  color: "var(--c-text)",
                   textDecoration: "underline",
-                  textDecorationColor: "#e8ddd0",
+                  textDecorationColor: "var(--c-border)",
                 }}
               >
                 {row.name}
@@ -327,11 +328,11 @@ export const ComparisonSection: FC<{ rows: ArticleComparisonRow[] }> = ({
                 style={{
                   marginLeft: "0.375rem",
                   fontSize: "0.65rem",
-                  color: "#b87a50",
+                  color: "var(--c-accent)",
                   fontWeight: 700,
-                  background: "#fde9c4",
+                  background: "var(--c-tint)",
                   padding: "0.05rem 0.4rem",
-                  borderRadius: "0.25rem",
+                  borderRadius: "var(--radius)",
                 }}
               >
                 スープ封入
@@ -341,10 +342,10 @@ export const ComparisonSection: FC<{ rows: ArticleComparisonRow[] }> = ({
           <span
             style={{
               fontSize: "0.75rem",
-              color: "#7a6655",
-              background: "#f0e6d6",
+              color: "var(--c-text-2)",
+              background: "var(--c-tint)",
               padding: "0.1rem 0.5rem",
-              borderRadius: "0.25rem",
+              borderRadius: "var(--radius)",
             }}
           >
             {row.region}
@@ -353,7 +354,7 @@ export const ComparisonSection: FC<{ rows: ArticleComparisonRow[] }> = ({
             row.details.map((d) => (
               <span
                 key={d.label}
-                style={{ fontSize: "0.8125rem", color: "#5a4a3a" }}
+                style={{ fontSize: "var(--fs-md)", color: "var(--c-text-2)" }}
               >
                 {d.label}: {d.value}
               </span>
@@ -361,22 +362,30 @@ export const ComparisonSection: FC<{ rows: ArticleComparisonRow[] }> = ({
           ) : (
             <>
               {row.skin && (
-                <span style={{ fontSize: "0.8125rem", color: "#5a4a3a" }}>
+                <span
+                  style={{ fontSize: "var(--fs-md)", color: "var(--c-text-2)" }}
+                >
                   皮: {row.skin}
                 </span>
               )}
               {row.filling && (
-                <span style={{ fontSize: "0.8125rem", color: "#5a4a3a" }}>
+                <span
+                  style={{ fontSize: "var(--fs-md)", color: "var(--c-text-2)" }}
+                >
                   具: {row.filling}
                 </span>
               )}
               {row.cooking && (
-                <span style={{ fontSize: "0.8125rem", color: "#5a4a3a" }}>
+                <span
+                  style={{ fontSize: "var(--fs-md)", color: "var(--c-text-2)" }}
+                >
                   調理: {row.cooking}
                 </span>
               )}
               {row.eatStyle && (
-                <span style={{ fontSize: "0.8125rem", color: "#5a4a3a" }}>
+                <span
+                  style={{ fontSize: "var(--fs-md)", color: "var(--c-text-2)" }}
+                >
                   食べ方: {row.eatStyle}
                 </span>
               )}
@@ -387,7 +396,11 @@ export const ComparisonSection: FC<{ rows: ArticleComparisonRow[] }> = ({
     </div>
     {rows.some((row) => row.soupInside) && (
       <p
-        style={{ marginTop: "0.625rem", fontSize: "0.75rem", color: "#a89080" }}
+        style={{
+          marginTop: "0.625rem",
+          fontSize: "0.75rem",
+          color: "var(--c-text-sub)",
+        }}
       >
         ★ オレンジ背景＝スープが皮の内側に封じ込められている
       </p>
@@ -401,26 +414,27 @@ export const CalloutSection: FC<{ callout: ArticleCallout }> = ({
   <section
     style={{
       marginBottom: "1.5rem",
-      background: "#faf7f2",
-      border: "1px solid #e8ddd0",
-      borderRadius: "0.5rem",
+      background: "var(--c-bg)",
+      border: "1px solid var(--c-border)",
+      borderRadius: "var(--radius)",
       padding: "1.25rem",
     }}
   >
     <h2
       style={{
-        fontSize: "0.875rem",
-        fontWeight: 700,
-        color: "#5a4a3a",
-        marginBottom: "0.625rem",
+        fontFamily: "var(--font-serif)",
+        fontSize: "var(--fs-lg)",
+        fontWeight: 600,
+        color: "var(--c-text)",
+        marginBottom: "var(--sp-3)",
       }}
     >
       {callout.heading}
     </h2>
     <p
       style={{
-        fontSize: "0.875rem",
-        color: "#5a4a3a",
+        fontSize: "var(--fs-md)",
+        color: "var(--c-text-2)",
         lineHeight: 1.7,
         margin: 0,
       }}
@@ -442,8 +456,8 @@ export const CalloutSection: FC<{ callout: ArticleCallout }> = ({
           <li
             key={item.name}
             style={{
-              fontSize: "0.8125rem",
-              color: "#7a6655",
+              fontSize: "var(--fs-md)",
+              color: "var(--c-text-2)",
               display: "flex",
               gap: "0.5rem",
             }}
@@ -466,14 +480,14 @@ export const SourcesSection: FC<{ sources: ArticleSource[] }> = ({
     style={{
       marginTop: "2.5rem",
       paddingTop: "1.5rem",
-      borderTop: "1px solid #e8ddd0",
+      borderTop: "1px solid var(--c-border)",
     }}
   >
     <h2
       style={{
         fontSize: "0.75rem",
         fontWeight: 700,
-        color: "#a89080",
+        color: "var(--c-text-sub)",
         letterSpacing: "0.08em",
         textTransform: "uppercase",
         marginBottom: "0.75rem",
@@ -493,10 +507,14 @@ export const SourcesSection: FC<{ sources: ArticleSource[] }> = ({
       {sources.map((source, i) => (
         <li
           key={i}
-          style={{ fontSize: "0.8125rem", color: "#7a6655", lineHeight: 1.6 }}
+          style={{
+            fontSize: "var(--fs-md)",
+            color: "var(--c-text-2)",
+            lineHeight: 1.6,
+          }}
         >
           {source.author && (
-            <span style={{ color: "#5a4a3a" }}>{source.author}. </span>
+            <span style={{ color: "var(--c-text-2)" }}>{source.author}. </span>
           )}
           {source.url ? (
             <a
@@ -504,20 +522,20 @@ export const SourcesSection: FC<{ sources: ArticleSource[] }> = ({
               target="_blank"
               rel="noopener noreferrer"
               style={{
-                color: "#b87a50",
+                color: "var(--c-accent)",
                 textDecoration: "underline",
-                textDecorationColor: "#e8ddd0",
+                textDecorationColor: "var(--c-border)",
               }}
             >
               {source.title}
             </a>
           ) : (
-            <span style={{ color: "#5a4a3a", fontStyle: "italic" }}>
+            <span style={{ color: "var(--c-text-2)", fontStyle: "italic" }}>
               {source.title}
             </span>
           )}
           {source.note && (
-            <span style={{ color: "#a89080" }}> — {source.note}</span>
+            <span style={{ color: "var(--c-text-sub)" }}> — {source.note}</span>
           )}
         </li>
       ))}

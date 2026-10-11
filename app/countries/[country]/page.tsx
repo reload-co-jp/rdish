@@ -156,7 +156,11 @@ export default async function CountryPage({
         {item.label}の料理一覧
       </h1>
       <p
-        style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}
+        style={{
+          color: "var(--c-text-sub)",
+          fontSize: "0.875rem",
+          marginBottom: "0.75rem",
+        }}
       >
         全{results.length}件{total > 1 ? ` / ${total}ページ中 1ページ目` : ""}
       </p>
@@ -166,7 +170,7 @@ export default async function CountryPage({
             <p
               key={i}
               style={{
-                color: "#7a6655",
+                color: "var(--c-text-2)",
                 fontSize: "0.9375rem",
                 lineHeight: 1.8,
                 marginBottom: i < item.intro!.length - 1 ? "0.75rem" : 0,
@@ -179,7 +183,7 @@ export default async function CountryPage({
       ) : (
         <p
           style={{
-            color: "#7a6655",
+            color: "var(--c-text-2)",
             fontSize: "0.9375rem",
             lineHeight: 1.8,
             margin: "0 0 1.5rem",
@@ -212,11 +216,11 @@ export default async function CountryPage({
                         key={prefecture}
                         href={countryPath(prefLabel)}
                         style={{
-                          color: "#7a4f2a",
+                          color: "var(--c-accent)",
                           fontSize: "0.875rem",
                           fontWeight: 600,
                           textDecoration: "underline",
-                          textDecorationColor: "#d4b896",
+                          textDecorationColor: "var(--c-border)",
                           textUnderlineOffset: "3px",
                         }}
                       >
@@ -226,7 +230,7 @@ export default async function CountryPage({
                       <span
                         key={prefecture}
                         style={{
-                          color: "#7a4f2a",
+                          color: "var(--c-accent)",
                           fontSize: "0.875rem",
                           fontWeight: 600,
                         }}
@@ -253,11 +257,11 @@ export default async function CountryPage({
                           <Link
                             href={countryPath(prefLabel)}
                             style={{
-                              color: "#7a4f2a",
+                              color: "var(--c-accent)",
                               fontSize: "0.875rem",
                               fontWeight: 600,
                               textDecoration: "underline",
-                              textDecorationColor: "#d4b896",
+                              textDecorationColor: "var(--c-border)",
                               textUnderlineOffset: "3px",
                             }}
                           >
@@ -266,7 +270,7 @@ export default async function CountryPage({
                         ) : (
                           <span
                             style={{
-                              color: "#7a4f2a",
+                              color: "var(--c-accent)",
                               fontSize: "0.875rem",
                               fontWeight: 600,
                             }}
@@ -288,10 +292,10 @@ export default async function CountryPage({
                               key={loc.id}
                               href={countryPath(loc.label)}
                               style={{
-                                color: "#7a4f2a",
+                                color: "var(--c-accent)",
                                 fontSize: "0.875rem",
                                 textDecoration: "underline",
-                                textDecorationColor: "#d4b896",
+                                textDecorationColor: "var(--c-border)",
                                 textUnderlineOffset: "3px",
                               }}
                             >
@@ -319,7 +323,7 @@ export default async function CountryPage({
             marginBottom: "0.75rem",
           }}
         >
-          <span style={{ color: "#a89080", fontSize: "0.75rem" }}>
+          <span style={{ color: "var(--c-text-sub)", fontSize: "0.75rem" }}>
             料理カテゴリ別:
           </span>
           {combos.map((combo) => (
@@ -327,10 +331,10 @@ export default async function CountryPage({
               key={combo.tagId}
               href={comboPath(combo.countryId, combo.tagId)}
               style={{
-                color: "#7a4f2a",
+                color: "var(--c-accent)",
                 fontSize: "0.8125rem",
-                background: "#f0e6d6",
-                borderRadius: "1rem",
+                background: "var(--c-tint)",
+                borderRadius: "var(--radius)",
                 padding: "0.125rem 0.625rem",
                 textDecoration: "none",
               }}
@@ -350,7 +354,7 @@ export default async function CountryPage({
             marginBottom: "1.5rem",
           }}
         >
-          <span style={{ color: "#a89080", fontSize: "0.75rem" }}>
+          <span style={{ color: "var(--c-text-sub)", fontSize: "0.75rem" }}>
             主食材別:
           </span>
           {ingredientCombos.map((combo) => (
@@ -358,10 +362,10 @@ export default async function CountryPage({
               key={combo.tagId}
               href={comboIngredientPath(combo.countryId, combo.tagId)}
               style={{
-                color: "#7a4f2a",
+                color: "var(--c-accent)",
                 fontSize: "0.8125rem",
-                background: "#f0e6d6",
-                borderRadius: "1rem",
+                background: "var(--c-tint)",
+                borderRadius: "var(--radius)",
                 padding: "0.125rem 0.625rem",
                 textDecoration: "none",
               }}
@@ -389,7 +393,7 @@ export default async function CountryPage({
                 alignItems: "center",
               }}
             >
-              <span style={{ color: "#a89080", fontSize: "0.75rem" }}>
+              <span style={{ color: "var(--c-text-sub)", fontSize: "0.75rem" }}>
                 カテゴリ:
               </span>
               {topCategories.map(([category, count]) => (
@@ -397,10 +401,10 @@ export default async function CountryPage({
                   key={category}
                   href={categoryPath(category)}
                   style={{
-                    color: "#7a4f2a",
+                    color: "var(--c-accent)",
                     fontSize: "0.8125rem",
-                    background: "#f0e6d6",
-                    borderRadius: "1rem",
+                    background: "var(--c-tint)",
+                    borderRadius: "var(--radius)",
                     padding: "0.125rem 0.625rem",
                     textDecoration: "none",
                   }}
@@ -419,7 +423,7 @@ export default async function CountryPage({
                 alignItems: "center",
               }}
             >
-              <span style={{ color: "#a89080", fontSize: "0.75rem" }}>
+              <span style={{ color: "var(--c-text-sub)", fontSize: "0.75rem" }}>
                 タグ:
               </span>
               {topTags.map(([tag, count]) => (
@@ -427,11 +431,11 @@ export default async function CountryPage({
                   key={tag}
                   href={tagPath(tag)}
                   style={{
-                    color: "#7a4f2a",
+                    color: "var(--c-accent)",
                     fontSize: "0.8125rem",
-                    background: "#faf7f2",
-                    border: "1px solid #e8ddd0",
-                    borderRadius: "1rem",
+                    background: "var(--c-bg)",
+                    border: "1px solid var(--c-border)",
+                    borderRadius: "var(--radius)",
                     padding: "0.125rem 0.625rem",
                     textDecoration: "none",
                   }}

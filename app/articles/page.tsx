@@ -1,6 +1,8 @@
 import type { Metadata } from "next"
 import Link from "next/link"
 import { Breadcrumb } from "../../components/elements/Breadcrumb"
+import { Photo } from "../../components/elements/Photo"
+import { articleCover, formatDate } from "../../lib/editorial"
 import { allArticles as articles } from "../../lib/articles"
 import { organizationJsonLd, organizationRef } from "../../lib/organization"
 
@@ -19,6 +21,10 @@ export const metadata: Metadata = {
     type: "website",
   },
 }
+
+const [lead, ...rest] = [...articles].sort((a, b) =>
+  b.publishedAt.localeCompare(a.publishedAt)
+)
 
 export default function ArticlesPage() {
   const itemListLd = {
@@ -48,69 +54,81 @@ export default function ArticlesPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListLd) }}
       />
-      <Breadcrumb items={[{ label: "記事", href: "/articles/" }]} />
-      <h1
-        style={{
-          fontSize: "1.5rem",
-          fontWeight: 800,
-          marginBottom: "1.5rem",
-          color: "#2d1f0e",
-        }}
-      >
-        記事
-      </h1>
-      <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
-        {articles.map((article) => (
-          <Link
-            key={article.slug}
-            href={`/articles/${article.slug}/`}
-            style={{ textDecoration: "none", color: "inherit" }}
-          >
-            <article
-              style={{
-                background: "#faf7f2",
-                border: "1px solid #e8ddd0",
-                borderRadius: "0.5rem",
-                padding: "1rem 1.25rem",
-              }}
+      <div className="wide">
+        <Breadcrumb items={[{ label: "記事", href: "/articles/" }]} />
+        <div className="masthead" style={{ paddingTop: "var(--sp-4)" }}>
+          <div className="section-head__title">
+            <span className="eyebrow">Stories</span>
+            <h1>読みもの</h1>
+          </div>
+          <p>
+            料理の背景や地域ごとの違いを掘り下げる記事。全{articles.length}本。
+          </p>
+        </div>
+        {lead && (
+          <section className="hero" style={{ marginTop: "var(--sp-8)" }}>
+            <Link
+              href={`/articles/${lead.slug}/`}
+              className="story"
+              tabIndex={-1}
+              aria-hidden="true"
             >
-              <p
-                style={{
-                  fontSize: "0.7rem",
-                  color: "#a89080",
-                  marginBottom: "0.375rem",
-                }}
-              >
-                {article.publishedAt}
-              </p>
+              <Photo
+                src={articleCover(lead)?.src}
+                alt=""
+                sizes="(max-width: 768px) 100vw, 60vw"
+                priority
+              />
+            </Link>
+            <div className="hero__text">
+              <div className="hero__issue">
+                <span className="eyebrow">Latest</span>
+                <span className="meta">{formatDate(lead.publishedAt)}</span>
+              </div>
               <h2
-                style={{
-                  fontSize: "1.0625rem",
-                  fontWeight: 700,
-                  color: "#2d1f0e",
-                  marginBottom: "0.25rem",
-                }}
+                className="hero__title serif"
+                style={{ fontSize: "var(--fs-2xl)" }}
               >
-                {article.title}
-                {article.subtitle && (
-                  <span style={{ color: "#7a6655", fontWeight: 400 }}>
-                    ——{article.subtitle}
-                  </span>
-                )}
+                <Link
+                  href={`/articles/${lead.slug}/`}
+                  style={{ textDecoration: "none" }}
+                >
+                  {lead.title}
+                </Link>
               </h2>
-              <p
-                style={{
-                  fontSize: "0.8125rem",
-                  color: "#7a6655",
-                  lineHeight: 1.6,
-                  margin: 0,
-                }}
-              >
-                {article.description}
-              </p>
-            </article>
-          </Link>
-        ))}
+              {lead.subtitle && <p className="hero__sub">{lead.subtitle}</p>}
+              <p className="hero__lead clamp-3">{lead.description}</p>
+            </div>
+          </section>
+        )}
+        <div className="features section">
+          {rest.map((article) => (
+            <Link
+              key={article.slug}
+              href={`/articles/${article.slug}/`}
+              className="story"
+            >
+              <Photo
+                src={articleCover(article)?.src}
+                alt=""
+                sizes="(max-width: 768px) 100vw, 33vw"
+              />
+              <article className="story__body">
+                <span className="meta">{formatDate(article.publishedAt)}</span>
+                <h2 className="story__title">{article.title}</h2>
+                {article.subtitle && (
+                  <p
+                    className="story__desc"
+                    style={{ fontFamily: "var(--font-serif)" }}
+                  >
+                    {article.subtitle}
+                  </p>
+                )}
+                <p className="story__desc clamp-2">{article.description}</p>
+              </article>
+            </Link>
+          ))}
+        </div>
       </div>
     </>
   )

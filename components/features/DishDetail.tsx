@@ -17,6 +17,7 @@ import { dishesUsingSpice, isSpiceOrCondiment } from "../../lib/spiceUsage"
 import { categoryPath, countryPath } from "../../lib/taxonomy"
 import type { DishItem } from "../../types/dish"
 import { LinkedText } from "../elements/LinkedText"
+import { CATEGORY_EN } from "../../lib/editorial"
 import { FavoriteButton } from "./FavoriteButton"
 import { ScoreBadge } from "./ScoreBadge"
 import { TagList } from "./TagList"
@@ -32,19 +33,8 @@ const Section: FC<{ title: string; children: React.ReactNode }> = ({
   title,
   children,
 }) => (
-  <section style={{ marginBottom: "1.5rem" }}>
-    <h2
-      style={{
-        fontSize: "0.75rem",
-        fontWeight: 700,
-        color: "#a89080",
-        letterSpacing: "0.05em",
-        textTransform: "uppercase",
-        marginBottom: "0.5rem",
-      }}
-    >
-      {title}
-    </h2>
+  <section className="dish-section">
+    <h2>{title}</h2>
     {children}
   </section>
 )
@@ -72,28 +62,36 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
         }}
       >
         <div>
+          <span className="eyebrow" style={{ marginBottom: "var(--sp-3)" }}>
+            {CATEGORY_EN[dish.category] ?? "Dictionary"}
+          </span>
           <h1
             style={{
-              fontSize: "2rem",
-              fontWeight: 800,
-              marginBottom: "0.25rem",
+              fontSize: "var(--fs-2xl)",
+              marginBottom: "var(--sp-2)",
             }}
           >
             {dish.name}
           </h1>
           <div style={{ display: "flex", gap: "0.5rem", flexWrap: "wrap" }}>
             {dish.kana && (
-              <span style={{ color: "#a89080", fontSize: "0.875rem" }}>
+              <span
+                style={{ color: "var(--c-text-sub)", fontSize: "0.875rem" }}
+              >
                 {dish.kana}
               </span>
             )}
             {dish.englishName && (
-              <span style={{ color: "#a89080", fontSize: "0.875rem" }}>
+              <span
+                style={{ color: "var(--c-text-sub)", fontSize: "0.875rem" }}
+              >
                 / {dish.englishName}
               </span>
             )}
             {dish.originalName && dish.originalName !== dish.englishName && (
-              <span style={{ color: "#a89080", fontSize: "0.875rem" }}>
+              <span
+                style={{ color: "var(--c-text-sub)", fontSize: "0.875rem" }}
+              >
                 / {dish.originalName}
               </span>
             )}
@@ -102,7 +100,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
               dish.aliases.map((alias) => (
                 <span
                   key={alias}
-                  style={{ color: "#a89080", fontSize: "0.875rem" }}
+                  style={{ color: "var(--c-text-sub)", fontSize: "0.875rem" }}
                 >
                   / {alias}
                 </span>
@@ -113,10 +111,10 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
               href={categoryPath(dish.category)}
               style={{
                 fontSize: "0.75rem",
-                color: "#7a6655",
-                background: "#f0e6d6",
+                color: "var(--c-text-2)",
+                background: "var(--c-tint)",
                 padding: "0.125rem 0.5rem",
-                borderRadius: "0.25rem",
+                borderRadius: "var(--radius)",
                 textDecoration: "none",
                 marginRight: "0.375rem",
               }}
@@ -147,9 +145,9 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                   })
               }
               const linkStyle = {
-                color: "#a89080",
+                color: "var(--c-text-sub)",
                 textDecoration: "underline",
-                textDecorationColor: "#d4b896",
+                textDecorationColor: "var(--c-border)",
                 textUnderlineOffset: "3px",
               } as const
               return groups.map((g, gi) => {
@@ -159,7 +157,9 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                       key={`group-${gi}`}
                       style={{ marginRight: "0.375rem", fontSize: "0.75rem" }}
                     >
-                      <span style={{ color: "#a89080" }}>{g.prefecture}（</span>
+                      <span style={{ color: "var(--c-text-sub)" }}>
+                        {g.prefecture}（
+                      </span>
                       {g.items.map((r, i) => (
                         <span key={`${r.locality}-${i}`}>
                           {i > 0 && "・"}
@@ -171,7 +171,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                           </Link>
                         </span>
                       ))}
-                      <span style={{ color: "#a89080" }}>）</span>
+                      <span style={{ color: "var(--c-text-sub)" }}>）</span>
                     </span>
                   )
                 }
@@ -202,10 +202,9 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
         <div
           style={{
             display: "flex",
-            gap: "0.5rem",
+            gap: "0.75rem",
             overflowX: "auto",
-            marginBottom: "1.5rem",
-            borderRadius: "0.5rem",
+            marginBottom: "var(--sp-12)",
             scrollSnapType: "x mandatory",
           }}
         >
@@ -214,14 +213,13 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
               key={src}
               style={{
                 flexShrink: 0,
-                width: dish.images!.length === 1 ? "100%" : "80%",
-                maxWidth: "24rem",
-                aspectRatio: "4/3",
-                borderRadius: "0.5rem",
+                width: dish.images!.length === 1 ? "100%" : "85%",
+                maxWidth: dish.images!.length === 1 ? "none" : "36rem",
+                aspectRatio: "3/2",
                 overflow: "hidden",
                 position: "relative",
                 scrollSnapAlign: "start",
-                background: "#f0e6d6",
+                background: "var(--c-tint)",
               }}
             >
               <Image
@@ -233,7 +231,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                 }
                 fill
                 style={{ objectFit: "cover" }}
-                sizes="(max-width: 768px) 80vw, 24rem"
+                sizes="(max-width: 768px) 85vw, 36rem"
                 priority={i === 0}
               />
             </div>
@@ -252,7 +250,13 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
       </Section>
 
       <Section title="メニューで見たら">
-        <p style={{ fontSize: "0.9rem", color: "#7a6655", lineHeight: 1.7 }}>
+        <p
+          style={{
+            fontSize: "0.9rem",
+            color: "var(--c-text-2)",
+            lineHeight: 1.7,
+          }}
+        >
           <LinkedText
             text={dish.menuDescription}
             dishes={allDishes}
@@ -268,7 +272,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
               key={item}
               style={{
                 fontSize: "0.9rem",
-                color: "#7a6655",
+                color: "var(--c-text-2)",
                 marginBottom: "0.25rem",
               }}
             >
@@ -284,9 +288,9 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
             <span
               key={t}
               style={{
-                background: "#fef3c7",
-                color: "#92400e",
-                borderRadius: "0.25rem",
+                background: "var(--c-tint)",
+                color: "var(--c-accent)",
+                borderRadius: "var(--radius)",
                 padding: "0.25rem 0.625rem",
                 fontSize: "0.875rem",
               }}
@@ -300,15 +304,15 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
       <Section title="頼む判断">
         <div
           style={{
-            background: "#fef9f0",
-            border: "1px solid #f5c97a",
-            borderRadius: "0.375rem",
+            background: "var(--c-tint)",
+            border: "1px solid var(--c-border)",
+            borderRadius: "var(--radius)",
             padding: "0.75rem 1rem",
           }}
         >
           <p
             style={{
-              color: "#92400e",
+              color: "var(--c-accent)",
               fontSize: "0.9rem",
               fontWeight: 700,
               lineHeight: 1.5,
@@ -317,7 +321,13 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
           >
             {dish.name}を注文するときのコツは？
           </p>
-          <p style={{ color: "#92400e", fontSize: "0.9rem", lineHeight: 1.7 }}>
+          <p
+            style={{
+              color: "var(--c-accent)",
+              fontSize: "0.9rem",
+              lineHeight: 1.7,
+            }}
+          >
             <LinkedText
               text={dish.orderAdvice}
               dishes={allDishes}
@@ -328,16 +338,16 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
         {dish.caution && (
           <div
             style={{
-              background: "#fff7ed",
-              border: "1px solid #fb923c",
-              borderRadius: "0.375rem",
+              background: "var(--c-tint)",
+              border: "1px solid var(--c-text-sub)",
+              borderRadius: "var(--radius)",
               marginTop: "0.5rem",
               padding: "0.75rem 1rem",
             }}
           >
             <p
               style={{
-                color: "#7c2d12",
+                color: "var(--c-accent)",
                 fontSize: "0.875rem",
                 fontWeight: 700,
                 lineHeight: 1.5,
@@ -348,7 +358,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
             </p>
             <p
               style={{
-                color: "#7c2d12",
+                color: "var(--c-accent)",
                 fontSize: "0.875rem",
                 lineHeight: 1.7,
               }}
@@ -388,9 +398,9 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                 <div
                   key={s.name}
                   style={{
-                    background: "#faf6f0",
-                    border: "1px solid #e8ddd0",
-                    borderRadius: "0.375rem",
+                    background: "var(--c-bg)",
+                    border: "1px solid var(--c-border)",
+                    borderRadius: "var(--radius)",
                     padding: "0.625rem 0.875rem",
                     display: "flex",
                     alignItems: "center",
@@ -404,9 +414,9 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                         flexShrink: 0,
                         width: "3rem",
                         height: "3rem",
-                        borderRadius: "0.375rem",
+                        borderRadius: "var(--radius)",
                         overflow: "hidden",
-                        background: "#f0e6d6",
+                        background: "var(--c-tint)",
                       }}
                     >
                       <Image
@@ -423,7 +433,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                       <Link
                         href={`/dishes/${s.id}/`}
                         style={{
-                          color: "#b45309",
+                          color: "var(--c-accent)",
                           fontWeight: 600,
                           textDecoration: "none",
                         }}
@@ -431,29 +441,35 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                         {s.name}
                       </Link>
                     ) : (
-                      <span style={{ color: "#2d1f0e", fontWeight: 600 }}>
+                      <span style={{ color: "var(--c-text)", fontWeight: 600 }}>
                         {s.name}
                       </span>
                     )}
-                    <span style={{ color: "#a89080", fontSize: "0.875rem" }}>
+                    <span
+                      style={{
+                        color: "var(--c-text-sub)",
+                        fontSize: "0.875rem",
+                      }}
+                    >
                       {" "}
                       — {s.difference}
                     </span>
-                    {s.id && comparisonBySlug(comparisonSlug(dish.id, s.id)) && (
-                      <Link
-                        href={comparisonPath(comparisonSlug(dish.id, s.id))}
-                        style={{
-                          color: "#b45309",
-                          display: "inline-block",
-                          fontSize: "0.75rem",
-                          marginLeft: "0.375rem",
-                          textDecoration: "none",
-                          whiteSpace: "nowrap",
-                        }}
-                      >
-                        違いを詳しく →
-                      </Link>
-                    )}
+                    {s.id &&
+                      comparisonBySlug(comparisonSlug(dish.id, s.id)) && (
+                        <Link
+                          href={comparisonPath(comparisonSlug(dish.id, s.id))}
+                          style={{
+                            color: "var(--c-accent)",
+                            display: "inline-block",
+                            fontSize: "0.75rem",
+                            marginLeft: "0.375rem",
+                            textDecoration: "none",
+                            whiteSpace: "nowrap",
+                          }}
+                        >
+                          違いを詳しく →
+                        </Link>
+                      )}
                   </div>
                 </div>
               )
@@ -470,10 +486,10 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                 key={d.id}
                 href={`/dishes/${d.id}/`}
                 style={{
-                  background: "#faf6f0",
-                  border: "1px solid #e8ddd0",
-                  borderRadius: "0.375rem",
-                  color: "#b45309",
+                  background: "var(--c-bg)",
+                  border: "1px solid var(--c-border)",
+                  borderRadius: "var(--radius)",
+                  color: "var(--c-accent)",
                   fontSize: "0.875rem",
                   padding: "0.375rem 0.75rem",
                   textDecoration: "none",
@@ -494,10 +510,10 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                 key={d.id}
                 href={`/dishes/${d.id}/`}
                 style={{
-                  background: "#fef3c7",
-                  border: "1px solid #fcd34d",
-                  borderRadius: "0.375rem",
-                  color: "#92400e",
+                  background: "var(--c-tint)",
+                  border: "1px solid var(--c-border)",
+                  borderRadius: "var(--radius)",
+                  color: "var(--c-accent)",
                   fontSize: "0.875rem",
                   padding: "0.375rem 0.75rem",
                   textDecoration: "none",
@@ -520,10 +536,10 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                 key={article.slug}
                 href={`/articles/${article.slug}/`}
                 style={{
-                  background: "#faf6f0",
-                  border: "1px solid #e8ddd0",
-                  borderRadius: "0.375rem",
-                  color: "#b45309",
+                  background: "var(--c-bg)",
+                  border: "1px solid var(--c-border)",
+                  borderRadius: "var(--radius)",
+                  color: "var(--c-accent)",
                   fontSize: "0.875rem",
                   fontWeight: 600,
                   padding: "0.625rem 0.875rem",
@@ -532,7 +548,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
               >
                 {article.title}
                 {article.subtitle && (
-                  <span style={{ color: "#a89080", fontWeight: 400 }}>
+                  <span style={{ color: "var(--c-text-sub)", fontWeight: 400 }}>
                     ——{article.subtitle}
                   </span>
                 )}
@@ -556,7 +572,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
             <Link
               href={countryPath(regionLabel(dish.regions[0]))}
               style={{
-                color: "#b45309",
+                color: "var(--c-accent)",
                 fontSize: "0.875rem",
                 textDecoration: "none",
               }}
@@ -567,7 +583,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
           <Link
             href={categoryPath(dish.category)}
             style={{
-              color: "#b45309",
+              color: "var(--c-accent)",
               fontSize: "0.875rem",
               textDecoration: "none",
             }}
@@ -583,7 +599,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                   : comboIngredientPath(combo.countryId, combo.tagId)
               }
               style={{
-                color: "#b45309",
+                color: "var(--c-accent)",
                 fontSize: "0.875rem",
                 textDecoration: "none",
               }}
@@ -595,7 +611,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
           <Link
             href="/dishes/"
             style={{
-              color: "#b45309",
+              color: "var(--c-accent)",
               fontSize: "0.875rem",
               textDecoration: "none",
             }}
@@ -605,7 +621,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
           <Link
             href="/reverse/"
             style={{
-              color: "#b45309",
+              color: "var(--c-accent)",
               fontSize: "0.875rem",
               textDecoration: "none",
             }}
@@ -618,7 +634,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
       {updatedAt && (
         <p
           style={{
-            color: "#a89080",
+            color: "var(--c-text-sub)",
             fontSize: "0.75rem",
             marginBottom: "1rem",
           }}
@@ -648,7 +664,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                     href={url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ color: "#7a6655", fontSize: "0.8rem" }}
+                    style={{ color: "var(--c-text-2)", fontSize: "0.8rem" }}
                   >
                     {label}
                   </a>

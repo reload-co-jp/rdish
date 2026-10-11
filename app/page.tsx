@@ -1,11 +1,18 @@
 import Link from "next/link"
-import { DishCard } from "../components/features/DishCard"
+import { Photo } from "../components/elements/Photo"
 import { FavoriteRelated } from "../components/features/FavoriteRelated"
 import { SearchBox } from "../components/features/SearchBox"
 import AdSense from "../components/elements/AdSense"
 import { allArticles } from "../lib/articles"
 import { allDishes } from "../lib/dishes"
-import { categoryPath } from "../lib/taxonomy"
+import { categoryItems, categoryPath } from "../lib/taxonomy"
+import { collectionGroups } from "../lib/collections"
+import {
+  articleCover,
+  CATEGORY_EN,
+  dishDate,
+  formatDate,
+} from "../lib/editorial"
 import { organizationJsonLd, organizationRef } from "../lib/organization"
 import type { DishItem } from "../types/dish"
 
@@ -18,8 +25,6 @@ const POPULAR_IDS = [
   "ajillo",
 ]
 
-const CATEGORIES = ["調理法", "野菜", "チーズ", "ソース", "料理"] as const
-
 const popularDishes = POPULAR_IDS.map((id) =>
   allDishes.find((d) => d.id === id)
 ).filter(Boolean) as DishItem[]
@@ -27,7 +32,28 @@ const popularDishes = POPULAR_IDS.map((id) =>
 const latestArticles = allArticles
   .slice()
   .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
-  .slice(0, 3)
+  .slice(0, 4)
+const [coverArticle, ...moreArticles] = latestArticles
+const cover = coverArticle && articleCover(coverArticle)
+
+const newEntries = [...allDishes]
+  .reverse()
+  .filter((d) => d.images?.length)
+  .slice(0, 9)
+
+// 各特集グループの先頭を1件ずつ（写真は掲載料理から）
+const featuredCollections = collectionGroups.slice(0, 3).map((g) => {
+  const c = g.collections[0]
+  return { ...c, image: c.dishes.find((d) => d.images?.length)?.images?.[0] }
+})
+
+const categoryCounts = categoryItems
+  .map((item) => ({
+    label: item.label,
+    count: allDishes.filter((d) => d.category === item.label).length,
+  }))
+  .filter((c) => c.count > 0)
+  .sort((a, b) => b.count - a.count)
 
 const websiteJsonLd = {
   "@context": "https://schema.org",
@@ -56,165 +82,195 @@ const websiteJsonLd = {
 
 export default function TopPage() {
   return (
-    <div>
+    <div className="wide">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
       />
-      <div
-        style={{ textAlign: "center", marginBottom: "2rem", padding: "1rem 0" }}
-      >
-        <h1
-          style={{
-            fontSize: "2.5rem",
-            fontWeight: 800,
-            marginBottom: "0.5rem",
-          }}
-        >
-          RDish
-        </h1>
-        <p style={{ color: "#a89080", marginBottom: "1.5rem" }}>
-          いつでも聞ける飾らない料理図鑑
-        </p>
+
+      <div className="masthead">
+        <div>
+          <h1>
+            いつでも聞ける、
+            <br />
+            飾らない料理図鑑
+          </h1>
+          <p>料理・食材・調理法 {allDishes.length.toLocaleString()}語を収録</p>
+        </div>
         <SearchBox />
       </div>
 
-      <div
-        style={{
-          background: "#fef9f0",
-          border: "1px solid #f5c97a",
-          borderRadius: "0.5rem",
-          padding: "1rem",
-          marginBottom: "2rem",
-        }}
-      >
-        <p
-          style={{
-            color: "#a89080",
-            fontSize: "0.8rem",
-            marginBottom: "0.5rem",
-          }}
-        >
-          料理名がわからない？特徴から探す
-        </p>
-        <Link
-          href="/reverse/"
-          style={{
-            display: "block",
-            color: "#b45309",
-            textDecoration: "none",
-            fontSize: "0.9rem",
-          }}
-        >
-          → 「白くてとろっとしたチーズ」「緑色で渦巻きの野菜」など 逆引き検索
-        </Link>
-        <Link
-          href="/dishes/"
-          style={{
-            display: "block",
-            color: "#b45309",
-            textDecoration: "none",
-            fontSize: "0.9rem",
-            marginTop: "0.5rem",
-          }}
-        >
-          → 最新登録順で見る
-        </Link>
-      </div>
+      {coverArticle && (
+        <section className="hero" aria-labelledby="cover-title">
+          <Link
+            href={`/articles/${coverArticle.slug}/`}
+            className="story"
+            tabIndex={-1}
+            aria-hidden="true"
+          >
+            <Photo
+              src={cover?.src}
+              alt=""
+              sizes="(max-width: 768px) 100vw, 60vw"
+              priority
+            />
+          </Link>
+          <div className="hero__text">
+            <div className="hero__issue">
+              <span className="eyebrow">Feature</span>
+              <span className="meta">
+                {formatDate(coverArticle.publishedAt)}
+              </span>
+            </div>
+            <h2 id="cover-title" className="hero__title serif">
+              <Link
+                href={`/articles/${coverArticle.slug}/`}
+                style={{ textDecoration: "none" }}
+              >
+                {coverArticle.title}
+              </Link>
+            </h2>
+            {coverArticle.subtitle && (
+              <p className="hero__sub">{coverArticle.subtitle}</p>
+            )}
+            <p className="hero__lead clamp-3">{coverArticle.description}</p>
+            <Link
+              href={`/articles/${coverArticle.slug}/`}
+              className="more-link"
+              style={{ alignSelf: "flex-start" }}
+            >
+              記事を読む →
+            </Link>
+          </div>
+        </section>
+      )}
 
       <AdSense />
 
       <FavoriteRelated allDishes={allDishes} />
 
-      {latestArticles.length > 0 && (
-        <section style={{ marginBottom: "2rem" }}>
-          <div
-            style={{
-              display: "flex",
-              alignItems: "baseline",
-              justifyContent: "space-between",
-              marginBottom: "0.75rem",
-            }}
-          >
-            <h2
-              style={{ fontSize: "0.875rem", color: "#aaa", fontWeight: 600 }}
-            >
-              読みもの
-            </h2>
-            <Link
-              href="/articles/"
-              style={{
-                fontSize: "0.75rem",
-                color: "#b45309",
-                textDecoration: "none",
-              }}
-            >
-              すべて見る →
+      {moreArticles.length > 0 && (
+        <section className="section">
+          <div className="section-head">
+            <div className="section-head__title">
+              <span className="eyebrow">Stories</span>
+              <h2>読みもの</h2>
+            </div>
+            <Link href="/articles/" className="more-link">
+              すべての記事
             </Link>
           </div>
-          <div
-            style={{
-              display: "flex",
-              flexDirection: "column",
-              gap: "0.625rem",
-            }}
-          >
-            {latestArticles.map((article) => (
+          <div className="stories">
+            <ArticleStory article={moreArticles[0]} lead />
+            <div className="stories__side">
+              {moreArticles.slice(1).map((article) => (
+                <ArticleStory key={article.slug} article={article} />
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      <section className="section">
+        <div className="section-head">
+          <div className="section-head__title">
+            <span className="eyebrow">New Entries</span>
+            <h2>新しく加わった料理</h2>
+          </div>
+          <Link href="/dishes/" className="more-link">
+            新着順で見る
+          </Link>
+        </div>
+        <div className="entries">
+          {newEntries.map((dish, i) => (
+            <Link key={dish.id} href={`/dishes/${dish.id}/`} className="story">
+              <Photo
+                src={dish.images?.[0]}
+                alt={`${dish.name}の料理写真`}
+                sizes={
+                  i === 0
+                    ? "(max-width: 768px) 100vw, 50vw"
+                    : "(max-width: 768px) 50vw, 25vw"
+                }
+              />
+              <div className="story__body">
+                <span className="meta">
+                  {dish.category}
+                  {dishDate(dish.id) && ` — ${formatDate(dishDate(dish.id))}`}
+                </span>
+                <h3 className="story__title">{dish.name}</h3>
+                {i === 0 && (
+                  <p className="story__desc clamp-3">{dish.summary}</p>
+                )}
+              </div>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      <AdSense />
+
+      <section className="section">
+        <div className="section-head">
+          <div className="section-head__title">
+            <span className="eyebrow">Popular</span>
+            <h2>よく読まれている用語</h2>
+          </div>
+          <Link href="/dishes/" className="more-link">
+            図鑑を見る
+          </Link>
+        </div>
+        <ol className="index-list">
+          {popularDishes.map((dish, i) => (
+            <li key={dish.id}>
+              <Link href={`/dishes/${dish.id}/`} className="index-item">
+                <span className="index-item__no">
+                  {String(i + 1).padStart(2, "0")}
+                </span>
+                <Photo src={dish.images?.[0]} alt="" sizes="104px" />
+                <div style={{ minWidth: 0 }}>
+                  <span className="meta">{dish.category}</span>
+                  <h3
+                    className="story__title"
+                    style={{ fontSize: "var(--fs-lg)" }}
+                  >
+                    {dish.name}
+                  </h3>
+                  <p className="story__desc clamp-2">{dish.summary}</p>
+                </div>
+              </Link>
+            </li>
+          ))}
+        </ol>
+      </section>
+
+      {featuredCollections.length > 0 && (
+        <section className="section">
+          <div className="section-head">
+            <div className="section-head__title">
+              <span className="eyebrow">Collections</span>
+              <h2>特集</h2>
+            </div>
+            <Link href="/collections/" className="more-link">
+              すべての特集
+            </Link>
+          </div>
+          <div className="features">
+            {featuredCollections.map((c) => (
               <Link
-                key={article.slug}
-                href={`/articles/${article.slug}/`}
-                style={{ textDecoration: "none", color: "inherit" }}
+                key={c.slug}
+                href={`/collections/${c.slug}/`}
+                className="story"
               >
-                <div
-                  style={{
-                    background: "#faf7f2",
-                    border: "1px solid #e8ddd0",
-                    borderRadius: "0.5rem",
-                    padding: "0.75rem 1rem",
-                  }}
-                >
-                  <p
-                    style={{
-                      fontSize: "0.65rem",
-                      color: "#a89080",
-                      marginBottom: "0.25rem",
-                    }}
-                  >
-                    {article.publishedAt}
-                  </p>
-                  <p
-                    style={{
-                      fontSize: "0.9375rem",
-                      fontWeight: 700,
-                      color: "#2d1f0e",
-                      marginBottom: "0.25rem",
-                      lineHeight: 1.35,
-                    }}
-                  >
-                    {article.title}
-                    {article.subtitle && (
-                      <span
-                        style={{
-                          color: "#7a6655",
-                          fontWeight: 400,
-                          fontSize: "0.875rem",
-                        }}
-                      >
-                        {" "}
-                        ——{article.subtitle}
-                      </span>
-                    )}
-                  </p>
-                  <p
-                    style={{
-                      fontSize: "0.8rem",
-                      color: "#7a6655",
-                      margin: 0,
-                      lineHeight: 1.55,
-                    }}
-                  >
-                    {article.description}
-                  </p>
+                <Photo
+                  src={c.image}
+                  alt=""
+                  sizes="(max-width: 768px) 100vw, 33vw"
+                />
+                <div className="story__body">
+                  <span className="eyebrow">{c.axisLabel}</span>
+                  <h3 className="story__title">{c.title}</h3>
+                  <p className="story__desc clamp-2">{c.description}</p>
                 </div>
               </Link>
             ))}
@@ -222,72 +278,90 @@ export default function TopPage() {
         </section>
       )}
 
-      <AdSense />
-
-      <section style={{ marginBottom: "2rem" }}>
-        <div
-          style={{
-            display: "flex",
-            alignItems: "baseline",
-            justifyContent: "space-between",
-            marginBottom: "1rem",
-          }}
-        >
-          <h2 style={{ fontSize: "0.875rem", color: "#aaa", fontWeight: 600 }}>
-            人気の用語
-          </h2>
-          <Link
-            href="/dishes/"
-            style={{
-              fontSize: "0.75rem",
-              color: "#b45309",
-              textDecoration: "none",
-            }}
-          >
-            すべて見る →
-          </Link>
+      <section className="section">
+        <div className="section-head">
+          <div className="section-head__title">
+            <span className="eyebrow">Browse</span>
+            <h2>図鑑を歩く</h2>
+          </div>
         </div>
-        <div
-          style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}
-        >
-          {popularDishes.map((dish) => (
-            <DishCard key={dish.id} dish={dish} />
-          ))}
-        </div>
-      </section>
-
-      <section>
-        <h2
-          style={{
-            fontSize: "0.875rem",
-            color: "#aaa",
-            marginBottom: "0.75rem",
-            fontWeight: 600,
-          }}
-        >
-          カテゴリ
-        </h2>
-        <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>
-          {CATEGORIES.map((cat) => (
-            <Link
-              key={cat}
-              href={categoryPath(cat)}
-              style={{
-                background: "#f0e6d6",
-                border: "1px solid #e8ddd0",
-                borderRadius: "0.375rem",
-                color: "#7a4f2a",
-                fontSize: "0.875rem",
-                padding: "0.5rem 1rem",
-                textDecoration: "none",
-              }}
-            >
-              {cat}
+        <div className="browse">
+          <ul className="browse__list">
+            {categoryCounts.map((cat) => (
+              <li key={cat.label}>
+                <Link href={categoryPath(cat.label)}>
+                  {cat.label}
+                  <span className="meta">
+                    {CATEGORY_EN[cat.label] ?? ""} · {cat.count}
+                  </span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+          <div>
+            <Link href="/reverse/" className="callout-line story">
+              <span className="eyebrow">Reverse Search</span>
+              <strong>料理名がわからない？特徴から探す</strong>
+              <span className="story__desc">
+                「白くてとろっとしたチーズ」「緑色で渦巻きの野菜」など、見た目や味から逆引き。
+              </span>
             </Link>
-          ))}
+            <Link href="/countries/" className="callout-line story">
+              <span className="eyebrow">Countries</span>
+              <strong>国・地域から探す</strong>
+              <span className="story__desc">
+                フランス、タイ、メキシコ──料理圏ごとに定番と隠れた名物をたどる。
+              </span>
+            </Link>
+            <Link href="/compare/" className="callout-line story">
+              <span className="eyebrow">Compare</span>
+              <strong>似ている料理の違いを比較</strong>
+              <span className="story__desc">
+                名前も見た目も近い料理を並べて、違いをひと目で。
+              </span>
+            </Link>
+          </div>
         </div>
       </section>
-
     </div>
+  )
+}
+
+const ArticleStory = ({
+  article,
+  lead,
+}: {
+  article: (typeof allArticles)[number]
+  lead?: boolean
+}) => {
+  const c = articleCover(article)
+  return (
+    <Link
+      href={`/articles/${article.slug}/`}
+      className={`story ${lead ? "stories__lead" : ""}`}
+    >
+      <Photo
+        src={c?.src}
+        alt=""
+        sizes={
+          lead
+            ? "(max-width: 768px) 100vw, 66vw"
+            : "(max-width: 768px) 50vw, 33vw"
+        }
+      />
+      <div className="story__body">
+        <span className="meta">{formatDate(article.publishedAt)}</span>
+        <h3 className="story__title">{article.title}</h3>
+        {article.subtitle && (
+          <p
+            className="story__desc"
+            style={{ fontFamily: "var(--font-serif)" }}
+          >
+            {article.subtitle}
+          </p>
+        )}
+        {lead && <p className="story__desc clamp-3">{article.description}</p>}
+      </div>
+    </Link>
   )
 }

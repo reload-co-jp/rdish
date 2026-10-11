@@ -27,10 +27,10 @@ export const FavoriteButton: FC<Props> = ({ id }) => {
       onClick={handleClick}
       aria-label={fav ? "お気に入り解除" : "お気に入り登録"}
       style={{
-        background: fav ? "#dc2626" : "#f0e6d6",
-        color: fav ? "#fff" : "#7a4f2a",
+        background: fav ? "#dc2626" : "var(--c-tint)",
+        color: fav ? "#fff" : "var(--c-accent)",
         border: "none",
-        borderRadius: "0.375rem",
+        borderRadius: "var(--radius)",
         cursor: "pointer",
         fontSize: "0.875rem",
         padding: "0.5rem 1rem",

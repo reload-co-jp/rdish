@@ -1,8 +1,39 @@
 import type { Metadata } from "next"
 import Script from "next/script"
 import Link from "next/link"
+import { Noto_Serif_JP } from "next/font/google"
 import "./reset.css"
 import { RouteAd } from "../components/elements/AdSense"
+import { MobileMenu } from "../components/elements/MobileMenu"
+
+const serif = Noto_Serif_JP({
+  weight: ["500", "600"],
+  subsets: ["latin"],
+  display: "swap",
+  variable: "--font-noto-serif",
+})
+
+const NAV = [
+  { href: "/articles/", label: "読みもの", en: "Stories" },
+  { href: "/dishes/", label: "図鑑", en: "Dictionary" },
+  { href: "/countries/", label: "国から探す", en: "Countries" },
+  { href: "/categories/", label: "カテゴリ", en: "Categories" },
+  { href: "/reverse/", label: "逆引き", en: "Reverse" },
+  { href: "/tags/", label: "タグ", en: "Tags" },
+  { href: "/favorites/", label: "お気に入り", en: "Favorites" },
+]
+
+const FOOTER_NAV = [
+  { href: "/dishes/", label: "新着" },
+  { href: "/articles/", label: "読みもの" },
+  { href: "/categories/", label: "カテゴリ" },
+  { href: "/countries/", label: "国から探す" },
+  { href: "/tags/", label: "タグ" },
+  { href: "/collections/", label: "特集" },
+  { href: "/compare/", label: "違いを比較" },
+  { href: "/reverse/k/", label: "苦手から探す" },
+  { href: "/about/", label: "このサイトについて" },
+]
 
 const GA_ID = "G-Y2D3TYWS2Q"
 const ADSENSE_ID = "ca-pub-6542845006087970"
@@ -52,7 +83,7 @@ export const metadata: Metadata = {
 
 const RootLayout = ({ children }: { children: React.ReactNode }) => {
   return (
-    <html lang="ja">
+    <html lang="ja" className={serif.variable}>
       <head>
         <link
           rel="alternate"
@@ -81,189 +112,42 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
             />
           </>
         )}
-        <header
-          style={{
-            backgroundColor: "#fffdf8",
-            borderBottom: "1px solid #e8ddd0",
-            padding: "0.75rem 1rem",
-          }}
-        >
-          <div
-            style={{
-              maxWidth: "48rem",
-              margin: "0 auto",
-              display: "flex",
-              flexWrap: "wrap",
-              alignItems: "center",
-              justifyContent: "space-between",
-              gap: "0.75rem",
-            }}
-          >
-            <Link
-              href="/"
-              style={{
-                textDecoration: "none",
-                color: "inherit",
-                display: "flex",
-                alignItems: "baseline",
-                gap: "0.5rem",
-              }}
-            >
-              <span
-                style={{
-                  fontSize: "1.25rem",
-                  fontWeight: 800,
-                  color: "#2d1f0e",
-                }}
-              >
-                RDish
-              </span>
-              <span style={{ fontSize: "0.75rem", color: "#a89080" }}>
-                料理図鑑
-              </span>
+        <header className="site-header">
+          <div className="site-header__inner">
+            <Link href="/" className="logo" aria-label="RDish トップへ">
+              <span className="logo__mark">RDish</span>
+              <span className="logo__sub">Food Dictionary</span>
             </Link>
-            <nav style={{ display: "flex", gap: "1rem" }}>
-              <Link
-                href="/categories/"
-                style={{
-                  color: "#7a6655",
-                  fontSize: "0.875rem",
-                  textDecoration: "none",
-                }}
-              >
-                カテゴリ
-              </Link>
-              <Link
-                href="/countries/"
-                style={{
-                  color: "#7a6655",
-                  fontSize: "0.875rem",
-                  textDecoration: "none",
-                }}
-              >
-                国から探す
-              </Link>
-              <Link
-                href="/tags/"
-                style={{
-                  color: "#7a6655",
-                  fontSize: "0.875rem",
-                  textDecoration: "none",
-                }}
-              >
-                タグ
-              </Link>
-              <Link
-                href="/reverse/"
-                style={{
-                  color: "#7a6655",
-                  fontSize: "0.875rem",
-                  textDecoration: "none",
-                }}
-              >
-                逆引き
-              </Link>
-              <Link
-                href="/articles/"
-                style={{
-                  color: "#7a6655",
-                  fontSize: "0.875rem",
-                  textDecoration: "none",
-                }}
-              >
-                記事
-              </Link>
-              <Link
-                href="/favorites/"
-                style={{
-                  color: "#7a6655",
-                  fontSize: "0.875rem",
-                  textDecoration: "none",
-                }}
-              >
-                お気に入り
-              </Link>
+            <nav className="nav nav--desktop" aria-label="メイン">
+              {NAV.map((item) => (
+                <Link key={item.href} href={item.href}>
+                  {item.label}
+                </Link>
+              ))}
             </nav>
+            <MobileMenu items={NAV} />
           </div>
         </header>
-        <main
-          style={{
-            maxWidth: "48rem",
-            margin: "0 auto",
-            padding: "1.5rem 1rem",
-            minHeight: "calc(100dvh - 7rem)",
-          }}
-        >
+        <main className="site-main">
           {children}
           <RouteAd />
         </main>
-        <footer
-          style={{
-            borderTop: "1px solid #e8ddd0",
-            color: "#a89080",
-            fontSize: "0.75rem",
-            padding: "1rem",
-            textAlign: "center",
-          }}
-        >
-          <p>RDish — いつでも聞ける飾らない料理図鑑</p>
-          <p
-            style={{
-              marginTop: "0.5rem",
-              display: "flex",
-              justifyContent: "center",
-              gap: "1rem",
-            }}
-          >
-            <Link
-              href="/dishes/"
-              style={{ color: "#a89080", textDecoration: "underline" }}
-            >
-              新着
-            </Link>
-            <Link
-              href="/categories/"
-              style={{ color: "#a89080", textDecoration: "underline" }}
-            >
-              カテゴリ
-            </Link>
-            <Link
-              href="/countries/"
-              style={{ color: "#a89080", textDecoration: "underline" }}
-            >
-              国から探す
-            </Link>
-            <Link
-              href="/tags/"
-              style={{ color: "#a89080", textDecoration: "underline" }}
-            >
-              タグ
-            </Link>
-            <Link
-              href="/collections/"
-              style={{ color: "#a89080", textDecoration: "underline" }}
-            >
-              特集
-            </Link>
-            <Link
-              href="/compare/"
-              style={{ color: "#a89080", textDecoration: "underline" }}
-            >
-              違いを比較
-            </Link>
-            <Link
-              href="/reverse/k/"
-              style={{ color: "#a89080", textDecoration: "underline" }}
-            >
-              苦手から探す
-            </Link>
-            <Link
-              href="/about/"
-              style={{ color: "#a89080", textDecoration: "underline" }}
-            >
-              このサイトについて
-            </Link>
-          </p>
+        <footer className="site-footer">
+          <div className="site-footer__inner">
+            <div>
+              <p className="logo__mark">RDish</p>
+              <p style={{ marginTop: "0.75rem" }}>
+                いつでも聞ける飾らない料理図鑑
+              </p>
+            </div>
+            <nav aria-label="フッター">
+              {FOOTER_NAV.map((item) => (
+                <Link key={item.href} href={item.href}>
+                  {item.label}
+                </Link>
+              ))}
+            </nav>
+          </div>
         </footer>
       </body>
     </html>

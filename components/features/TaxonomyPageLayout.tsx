@@ -45,9 +45,7 @@ function topCounts(
       counts.set(value, (counts.get(value) ?? 0) + 1)
     }
   }
-  return [...counts.entries()]
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, limit)
+  return [...counts.entries()].sort((a, b) => b[1] - a[1]).slice(0, limit)
 }
 
 export const TaxonomyPageLayout: FC<Props> = ({
@@ -87,16 +85,26 @@ export const TaxonomyPageLayout: FC<Props> = ({
         ]}
       />
       <h1
-        style={{ fontSize: "1.5rem", fontWeight: 800, marginBottom: "0.375rem" }}
+        style={{
+          fontSize: "1.5rem",
+          fontWeight: 800,
+          marginBottom: "0.375rem",
+        }}
       >
         {itemLabel}の料理一覧
       </h1>
-      <p style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}>
+      <p
+        style={{
+          color: "var(--c-text-sub)",
+          fontSize: "0.875rem",
+          marginBottom: "0.75rem",
+        }}
+      >
         {results.length}件
       </p>
       <p
         style={{
-          color: "#7a6655",
+          color: "var(--c-text-2)",
           fontSize: "0.9375rem",
           lineHeight: 1.8,
           margin: "0 0 1.5rem",
@@ -123,9 +131,9 @@ export const TaxonomyPageLayout: FC<Props> = ({
                 flexShrink: 0,
                 width: "7rem",
                 height: "7rem",
-                borderRadius: "0.5rem",
+                borderRadius: "var(--radius)",
                 overflow: "hidden",
-                background: "#f0e6d6",
+                background: "var(--c-tint)",
               }}
             >
               <Image
@@ -148,9 +156,9 @@ export const TaxonomyPageLayout: FC<Props> = ({
             gap: "1.5rem",
             marginBottom: "1.5rem",
             padding: "0.875rem 1rem",
-            background: "#fbf6ec",
-            border: "1px solid #e8ddd0",
-            borderRadius: "0.5rem",
+            background: "var(--c-bg)",
+            border: "1px solid var(--c-border)",
+            borderRadius: "var(--radius)",
           }}
         >
           {categoryCounts.length > 0 && (
@@ -158,21 +166,23 @@ export const TaxonomyPageLayout: FC<Props> = ({
               <p
                 style={{
                   fontSize: "0.75rem",
-                  color: "#aaa",
+                  color: "var(--c-text-sub)",
                   marginBottom: "0.375rem",
                 }}
               >
                 カテゴリ内訳
               </p>
-              <div style={{ display: "flex", flexWrap: "wrap", gap: "0.375rem" }}>
+              <div
+                style={{ display: "flex", flexWrap: "wrap", gap: "0.375rem" }}
+              >
                 {categoryCounts.map(([category, count]) => (
                   <Link
                     key={category}
                     href={categoryPath(category)}
                     style={{
                       fontSize: "0.75rem",
-                      color: "#7a4f2a",
-                      background: "#f0e6d6",
+                      color: "var(--c-accent)",
+                      background: "var(--c-tint)",
                       borderRadius: "9999px",
                       padding: "0.125rem 0.5rem",
                       textDecoration: "none",
@@ -189,21 +199,23 @@ export const TaxonomyPageLayout: FC<Props> = ({
               <p
                 style={{
                   fontSize: "0.75rem",
-                  color: "#aaa",
+                  color: "var(--c-text-sub)",
                   marginBottom: "0.375rem",
                 }}
               >
                 関連タグ
               </p>
-              <div style={{ display: "flex", flexWrap: "wrap", gap: "0.375rem" }}>
+              <div
+                style={{ display: "flex", flexWrap: "wrap", gap: "0.375rem" }}
+              >
                 {relatedTags.map(([tag, count]) => (
                   <Link
                     key={tag}
                     href={tagPath(tag)}
                     style={{
                       fontSize: "0.75rem",
-                      color: "#7a4f2a",
-                      background: "#f0e6d6",
+                      color: "var(--c-accent)",
+                      background: "var(--c-tint)",
                       borderRadius: "9999px",
                       padding: "0.125rem 0.5rem",
                       textDecoration: "none",
@@ -219,7 +231,9 @@ export const TaxonomyPageLayout: FC<Props> = ({
       )}
 
       {showCuisineGroups ? (
-        <div style={{ display: "flex", flexDirection: "column", gap: "1.75rem" }}>
+        <div
+          style={{ display: "flex", flexDirection: "column", gap: "1.75rem" }}
+        >
           {cuisineGroups.map(({ label, dishes }) => (
             <div key={label}>
               <h2
@@ -230,14 +244,18 @@ export const TaxonomyPageLayout: FC<Props> = ({
                 }}
               >
                 {label}
-                <span style={{ color: "#aaa", fontWeight: 400, fontSize: "0.8rem" }}>
+                <span
+                  style={{
+                    color: "var(--c-text-sub)",
+                    fontWeight: 400,
+                    fontSize: "0.8rem",
+                  }}
+                >
                   {" "}
                   {dishes.length}件
                 </span>
               </h2>
-              <div
-                style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}
-              >
+              <div className="dish-list">
                 {dishes.map((dish) => (
                   <DishCard key={dish.id} dish={dish} />
                 ))}
@@ -246,7 +264,7 @@ export const TaxonomyPageLayout: FC<Props> = ({
           ))}
         </div>
       ) : (
-        <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+        <div className="dish-list">
           {results.map((dish) => (
             <DishCard key={dish.id} dish={dish} />
           ))}

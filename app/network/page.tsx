@@ -41,20 +41,24 @@ export default function NetworkPage() {
         料理の相関図
       </h1>
       <p
-        style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "0.75rem" }}
+        style={{
+          color: "var(--c-text-sub)",
+          fontSize: "0.875rem",
+          marginBottom: "0.75rem",
+        }}
       >
         全{allDishes.length}品
       </p>
       <p
         style={{
-          color: "#7a6655",
+          color: "var(--c-text-2)",
           fontSize: "0.9375rem",
           lineHeight: 1.8,
           marginBottom: "1.25rem",
         }}
       >
         「似ている」で結ばれた料理・食材・調理法のネットワーク図。近くにある点ほど味や作り方が近い仲間で、点をクリックすると要約と似ている項目が見られます。比較は
-        <a href="/compare/" style={{ color: "#b45309" }}>
+        <a href="/compare/" style={{ color: "var(--c-accent)" }}>
           違いを比較
         </a>
         でも読めます。

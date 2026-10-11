@@ -8,10 +8,10 @@ type Props = {
 }
 
 const linkStyle = {
-  background: "#f0e6d6",
-  border: "1px solid #e8ddd0",
+  background: "var(--c-tint)",
+  border: "1px solid var(--c-border)",
   borderRadius: "9999px",
-  color: "#b45309",
+  color: "var(--c-accent)",
   fontSize: "0.75rem",
   padding: "0.125rem 0.625rem",
   textDecoration: "none",

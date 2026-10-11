@@ -32,7 +32,11 @@ function SearchResults() {
 
       {(q || tag) && (
         <p
-          style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "1rem" }}
+          style={{
+            color: "var(--c-text-sub)",
+            fontSize: "0.875rem",
+            marginBottom: "1rem",
+          }}
         >
           {q ? `「${q}」` : `タグ: ${tag}`} — {results.length}件
         </p>
@@ -52,7 +56,7 @@ function SearchResults() {
           ))}
         </div>
       ) : q || tag ? (
-        <p style={{ color: "#666", marginBottom: "2rem" }}>
+        <p style={{ color: "var(--c-text-2)", marginBottom: "2rem" }}>
           見つかりませんでした。
         </p>
       ) : null}
@@ -61,7 +65,7 @@ function SearchResults() {
         <h2
           style={{
             fontSize: "0.75rem",
-            color: "#888",
+            color: "var(--c-text-sub)",
             marginBottom: "0.75rem",
             fontWeight: 600,
           }}
@@ -78,7 +82,9 @@ export default function SearchPage() {
   return (
     <>
       <Breadcrumb items={[{ label: "検索", href: "/search/" }]} />
-      <Suspense fallback={<p style={{ color: "#aaa" }}>読み込み中...</p>}>
+      <Suspense
+        fallback={<p style={{ color: "var(--c-text-sub)" }}>読み込み中...</p>}
+      >
         <SearchResults />
       </Suspense>
     </>

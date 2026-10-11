@@ -38,9 +38,9 @@ const SITE_URL = "https://rdish.reload.co.jp"
 
 const linkStyle = {
   display: "block",
-  background: "#faf7f2",
-  border: "1px solid #e8ddd0",
-  borderRadius: "0.5rem",
+  background: "var(--c-bg)",
+  border: "1px solid var(--c-border)",
+  borderRadius: "var(--radius)",
   color: "inherit",
   padding: "0.875rem 1rem",
   textDecoration: "none",
@@ -112,7 +112,7 @@ export default function TagsPage() {
       </h1>
       <p
         style={{
-          color: "#7a6655",
+          color: "var(--c-text-2)",
           fontSize: "0.9375rem",
           lineHeight: 1.8,
           margin: "0 0 1.5rem",
@@ -129,7 +129,7 @@ export default function TagsPage() {
         <h2
           id="popular-tags-heading"
           style={{
-            color: "#2d1f0e",
+            color: "var(--c-text)",
             fontSize: "1rem",
             fontWeight: 800,
             marginBottom: "0.75rem",
@@ -143,9 +143,9 @@ export default function TagsPage() {
               key={tag.id}
               href={tagPath(tag.label)}
               style={{
-                background: "#f0e6d6",
+                background: "var(--c-tint)",
                 borderRadius: "9999px",
-                color: "#7a4f2a",
+                color: "var(--c-accent)",
                 fontSize: "0.8125rem",
                 padding: "0.25rem 0.625rem",
                 textDecoration: "none",
@@ -170,13 +170,17 @@ export default function TagsPage() {
               }}
             >
               <h2
-                style={{ color: "#2d1f0e", fontSize: "1rem", fontWeight: 800 }}
+                style={{
+                  color: "var(--c-text)",
+                  fontSize: "1rem",
+                  fontWeight: 800,
+                }}
               >
                 {tag.label}
               </h2>
               <span
                 style={{
-                  color: "#a89080",
+                  color: "var(--c-text-sub)",
                   fontSize: "0.75rem",
                   whiteSpace: "nowrap",
                 }}
@@ -187,7 +191,7 @@ export default function TagsPage() {
             {tag.description && (
               <p
                 style={{
-                  color: "#7a6655",
+                  color: "var(--c-text-2)",
                   fontSize: "0.875rem",
                   lineHeight: 1.7,
                 }}

@@ -30,12 +30,12 @@ const GROUP_COLOR: Record<string, string> = {
   チーズ: "#4a3aa7",
   その他: "#d1483f",
 }
-const INK = "#2d1f0e"
-const INK_SOFT = "#7a6655"
-const MUTED = "#a89080"
-const HAIRLINE = "#e8ddd0"
-const SURFACE = "#fffdf8"
-const ACCENT = "#b45309"
+const INK = "#252522"
+const INK_SOFT = "#4d4b46"
+const MUTED = "#77756f"
+const HAIRLINE = "#e5e1d8"
+const SURFACE = "#f7f5f0"
+const ACCENT = "#66704e"
 const ACCENT_SOFT = "rgba(180, 83, 9, 0.12)"
 
 function groupColor(g: string): string {
@@ -126,7 +126,11 @@ export const DishNetworkGraph: FC = () => {
     }
     function fitView() {
       const { w, h } = sizeRef.current
-      viewRef.current = { scale: (Math.min(w, h) * 0.42) / 1000, x: w / 2, y: h / 2 }
+      viewRef.current = {
+        scale: (Math.min(w, h) * 0.42) / 1000,
+        x: w / 2,
+        y: h / 2,
+      }
     }
 
     function worldToScreen(px: number, py: number) {
@@ -148,8 +152,10 @@ export const DishNetworkGraph: FC = () => {
       ctx!.fillStyle = SURFACE
       ctx!.fillRect(0, 0, w, h)
 
-      const focus = selectedRef.current >= 0 ? selectedRef.current : hoveredRef.current
-      const focusSet = focus >= 0 ? new Set([focus, ...neighborsOf(focus)]) : null
+      const focus =
+        selectedRef.current >= 0 ? selectedRef.current : hoveredRef.current
+      const focusSet =
+        focus >= 0 ? new Set([focus, ...neighborsOf(focus)]) : null
       const activeGroupsNow = activeGroupsRef.current
       const searchHighlight = searchHighlightRef.current
 
@@ -157,9 +163,13 @@ export const DishNetworkGraph: FC = () => {
       for (const e of edges) {
         const na = nodes[e.a],
           nb = nodes[e.b]
-        if (!activeGroupsNow.has(na.grp) || !activeGroupsNow.has(nb.grp)) continue
+        if (!activeGroupsNow.has(na.grp) || !activeGroupsNow.has(nb.grp))
+          continue
         const isFocusEdge =
-          !!focusSet && focusSet.has(e.a) && focusSet.has(e.b) && (e.a === focus || e.b === focus)
+          !!focusSet &&
+          focusSet.has(e.a) &&
+          focusSet.has(e.b) &&
+          (e.a === focus || e.b === focus)
         if (focusSet && !isFocusEdge) continue
         const a = worldToScreen(na.x, na.y),
           b = worldToScreen(nb.x, nb.y)
@@ -197,7 +207,10 @@ export const DishNetworkGraph: FC = () => {
         const dimmed = !!focusSet && !focusSet.has(i)
         const p = worldToScreen(n.x, n.y)
         if (p.x < -20 || p.x > w + 20 || p.y < -20 || p.y > h + 20) continue
-        const rr = Math.max(1.6, Math.min(nodeRadius(n) * viewRef.current.scale, 24))
+        const rr = Math.max(
+          1.6,
+          Math.min(nodeRadius(n) * viewRef.current.scale, 24)
+        )
         const isSearch = searchHighlight.has(i)
         ctx!.globalAlpha = dimmed ? 0.15 : 1
         ctx!.beginPath()
@@ -273,7 +286,7 @@ export const DishNetworkGraph: FC = () => {
 
     const tooltip = document.createElement("div")
     tooltip.style.cssText =
-      "position:absolute;pointer-events:none;background:#2d1f0e;color:#fffdf8;padding:5px 9px;border-radius:6px;font-size:12px;font-weight:600;transform:translate(-50%,-130%);white-space:nowrap;display:none;z-index:15;"
+      "position:absolute;pointer-events:none;background:#252522;color:#f7f5f0;padding:5px 9px;border-radius:6px;font-size:12px;font-weight:600;transform:translate(-50%,-130%);white-space:nowrap;display:none;z-index:15;"
     wrap.appendChild(tooltip)
 
     function showTooltip(n: NetNode, x: number, y: number) {
@@ -287,7 +300,12 @@ export const DishNetworkGraph: FC = () => {
     }
 
     function onPointerDown(e: PointerEvent) {
-      dragRef.current = { dragging: true, moved: false, lastX: e.clientX, lastY: e.clientY }
+      dragRef.current = {
+        dragging: true,
+        moved: false,
+        lastX: e.clientX,
+        lastY: e.clientY,
+      }
       canvas!.setPointerCapture(e.pointerId)
       canvas!.style.cursor = "grabbing"
     }
@@ -300,7 +318,11 @@ export const DishNetworkGraph: FC = () => {
         const dx = e.clientX - d.lastX,
           dy = e.clientY - d.lastY
         if (Math.abs(dx) + Math.abs(dy) > 2) d.moved = true
-        viewRef.current = { ...viewRef.current, x: viewRef.current.x + dx, y: viewRef.current.y + dy }
+        viewRef.current = {
+          ...viewRef.current,
+          x: viewRef.current.x + dx,
+          y: viewRef.current.y + dy,
+        }
         d.lastX = e.clientX
         d.lastY = e.clientY
         dirtyRef.current = true
@@ -348,7 +370,9 @@ export const DishNetworkGraph: FC = () => {
     function flyTo(i: number) {
       const n = nodes[i]
       const { w, h } = sizeRef.current
-      const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches
+      const reduceMotion = window.matchMedia(
+        "(prefers-reduced-motion: reduce)"
+      ).matches
       const targetScale = Math.max(viewRef.current.scale, 1.6)
       const targetX = w / 2 - n.x * targetScale
       const targetY = h / 2 - n.y * targetScale
@@ -503,11 +527,17 @@ export const DishNetworkGraph: FC = () => {
                       flyToIdx(i)
                       setSearchOpen(false)
                     }}
-                    onMouseEnter={(e) => (e.currentTarget.style.background = ACCENT_SOFT)}
-                    onMouseLeave={(e) => (e.currentTarget.style.background = "none")}
+                    onMouseEnter={(e) =>
+                      (e.currentTarget.style.background = ACCENT_SOFT)
+                    }
+                    onMouseLeave={(e) =>
+                      (e.currentTarget.style.background = "none")
+                    }
                     style={styles.searchResultButton}
                   >
-                    <span style={{ ...styles.dot, background: groupColor(n.grp) }} />
+                    <span
+                      style={{ ...styles.dot, background: groupColor(n.grp) }}
+                    />
                     <span>{n.name}</span>
                     <span style={styles.searchResultSub}>{n.en || n.cat}</span>
                   </button>
@@ -527,7 +557,9 @@ export const DishNetworkGraph: FC = () => {
                 onClick={() => toggleGroup(g.key)}
                 style={{ ...styles.chip, opacity: active ? 1 : 0.4 }}
               >
-                <span style={{ ...styles.dot, background: groupColor(g.key) }} />
+                <span
+                  style={{ ...styles.dot, background: groupColor(g.key) }}
+                />
                 <span>{g.key}</span>
                 <span style={{ color: MUTED }}>{g.count}</span>
               </button>
@@ -552,31 +584,54 @@ export const DishNetworkGraph: FC = () => {
             </button>
             <div style={styles.panelHead}>
               <span style={styles.panelCat}>
-                <span style={{ ...styles.dot, background: groupColor(selectedNode.grp) }} />
+                <span
+                  style={{
+                    ...styles.dot,
+                    background: groupColor(selectedNode.grp),
+                  }}
+                />
                 {selectedNode.cat}
               </span>
               <h2 style={styles.panelName}>{selectedNode.name}</h2>
-              {selectedNode.en && <p style={styles.panelEn}>{selectedNode.en}</p>}
-              {selectedNode.country && <p style={styles.panelCountry}>{selectedNode.country}</p>}
+              {selectedNode.en && (
+                <p style={styles.panelEn}>{selectedNode.en}</p>
+              )}
+              {selectedNode.country && (
+                <p style={styles.panelCountry}>{selectedNode.country}</p>
+              )}
             </div>
             <div style={styles.panelBody}>
               <p style={styles.panelSummary}>
                 {selectedNode.summary}
                 {selectedNode.summary.length >= 100 ? "…" : ""}
               </p>
-              <Link href={`/dishes/${selectedNode.id}/`} style={styles.panelLink}>
+              <Link
+                href={`/dishes/${selectedNode.id}/`}
+                style={styles.panelLink}
+              >
                 辞典で詳しく見る →
               </Link>
               <h3 style={styles.panelH3}>似ている項目</h3>
               {selectedNeighbors.length === 0 ? (
-                <p style={{ fontSize: "0.75rem", color: MUTED }}>登録された類似項目なし</p>
+                <p style={{ fontSize: "0.75rem", color: MUTED }}>
+                  登録された類似項目なし
+                </p>
               ) : (
                 <ul style={styles.simList}>
                   {selectedNeighbors.map(({ node, idx, diff }) => (
                     <li key={node.id}>
-                      <button type="button" onClick={() => flyToIdx(idx)} style={styles.simButton}>
+                      <button
+                        type="button"
+                        onClick={() => flyToIdx(idx)}
+                        style={styles.simButton}
+                      >
                         <span style={styles.simRow}>
-                          <span style={{ ...styles.dot, background: groupColor(node.grp) }} />
+                          <span
+                            style={{
+                              ...styles.dot,
+                              background: groupColor(node.grp),
+                            }}
+                          />
                           <span style={styles.simName}>{node.name}</span>
                         </span>
                         {diff && <span style={styles.simDiff}>{diff}</span>}
@@ -589,7 +644,9 @@ export const DishNetworkGraph: FC = () => {
           </aside>
         )}
       </div>
-      <p style={styles.hint}>ドラッグでパン・スクロールでズーム・クリックで詳細</p>
+      <p style={styles.hint}>
+        ドラッグでパン・スクロールでズーム・クリックで詳細
+      </p>
     </div>
   )
 }
@@ -644,7 +701,12 @@ const styles: Record<string, CSSProperties> = {
     cursor: "pointer",
   },
   searchResultSub: { marginLeft: "auto", color: MUTED, fontSize: "0.6875rem" },
-  legend: { display: "flex", flexWrap: "wrap", gap: "0.375rem", flex: "1 1 auto" },
+  legend: {
+    display: "flex",
+    flexWrap: "wrap",
+    gap: "0.375rem",
+    flex: "1 1 auto",
+  },
   chip: {
     display: "flex",
     alignItems: "center",
@@ -665,7 +727,11 @@ const styles: Record<string, CSSProperties> = {
     flex: "0 0 auto",
     boxShadow: "0 0 0 1px rgba(45, 31, 14, 0.12) inset",
   },
-  stage: { position: "relative", height: "min(72vh, 640px)", minHeight: "360px" },
+  stage: {
+    position: "relative",
+    height: "min(72vh, 640px)",
+    minHeight: "360px",
+  },
   canvas: { display: "block", width: "100%", height: "100%", cursor: "grab" },
   loading: {
     position: "absolute",
@@ -676,7 +742,12 @@ const styles: Record<string, CSSProperties> = {
     color: MUTED,
     fontSize: "0.875rem",
   },
-  hint: { textAlign: "center", fontSize: "0.6875rem", color: MUTED, padding: "0.5rem 1rem 0" },
+  hint: {
+    textAlign: "center",
+    fontSize: "0.6875rem",
+    color: MUTED,
+    padding: "0.5rem 1rem 0",
+  },
   panel: {
     position: "absolute",
     top: "12px",
@@ -705,7 +776,10 @@ const styles: Record<string, CSSProperties> = {
     fontSize: "13px",
     cursor: "pointer",
   },
-  panelHead: { padding: "1rem 1.125rem 0.75rem", borderBottom: `1px solid ${HAIRLINE}` },
+  panelHead: {
+    padding: "1rem 1.125rem 0.75rem",
+    borderBottom: `1px solid ${HAIRLINE}`,
+  },
   panelCat: {
     display: "inline-flex",
     alignItems: "center",
@@ -718,11 +792,24 @@ const styles: Record<string, CSSProperties> = {
     border: `1px solid ${HAIRLINE}`,
     marginBottom: "0.5rem",
   },
-  panelName: { fontSize: "1.1875rem", margin: "0 0 0.125rem", paddingRight: "1.75rem" },
+  panelName: {
+    fontSize: "1.1875rem",
+    margin: "0 0 0.125rem",
+    paddingRight: "1.75rem",
+  },
   panelEn: { fontSize: "0.75rem", color: MUTED, margin: "0 0 0.125rem" },
   panelCountry: { fontSize: "0.6875rem", color: MUTED },
-  panelBody: { padding: "0.875rem 1.125rem 1.125rem", overflowY: "auto", flex: "1 1 auto" },
-  panelSummary: { fontSize: "0.8125rem", lineHeight: 1.75, color: INK_SOFT, margin: "0 0 0.75rem" },
+  panelBody: {
+    padding: "0.875rem 1.125rem 1.125rem",
+    overflowY: "auto",
+    flex: "1 1 auto",
+  },
+  panelSummary: {
+    fontSize: "0.8125rem",
+    lineHeight: 1.75,
+    color: INK_SOFT,
+    margin: "0 0 0.75rem",
+  },
   panelLink: {
     display: "inline-block",
     fontSize: "0.8125rem",
@@ -737,7 +824,14 @@ const styles: Record<string, CSSProperties> = {
     color: MUTED,
     margin: "0 0 0.625rem",
   },
-  simList: { listStyle: "none", margin: 0, padding: 0, display: "flex", flexDirection: "column", gap: "0.125rem" },
+  simList: {
+    listStyle: "none",
+    margin: 0,
+    padding: 0,
+    display: "flex",
+    flexDirection: "column",
+    gap: "0.125rem",
+  },
   simButton: {
     display: "block",
     width: "100%",
@@ -752,5 +846,11 @@ const styles: Record<string, CSSProperties> = {
   },
   simRow: { display: "flex", alignItems: "center", gap: "0.4375rem" },
   simName: { fontSize: "0.8125rem", fontWeight: 700, color: INK },
-  simDiff: { display: "block", fontSize: "0.75rem", color: MUTED, margin: "0.1875rem 0 0 0.875rem", lineHeight: 1.5 },
+  simDiff: {
+    display: "block",
+    fontSize: "0.75rem",
+    color: MUTED,
+    margin: "0.1875rem 0 0 0.875rem",
+    lineHeight: 1.5,
+  },
 }

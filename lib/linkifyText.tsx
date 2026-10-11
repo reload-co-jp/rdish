@@ -43,9 +43,10 @@ export function linkifyText(
         key={i}
         href={`/dishes/${dishId}/`}
         style={{
-          color: "#b45309",
+          color: "var(--c-accent)",
           textDecoration: "none",
-          borderBottom: "1px dotted #f5c97a",
+          borderBottom:
+            "1px solid color-mix(in srgb, var(--c-accent) 35%, transparent)",
           ...linkStyle,
         }}
       >

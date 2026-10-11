@@ -32,7 +32,7 @@ export default function NotFound() {
           fontWeight: 800,
           lineHeight: 1,
           letterSpacing: "0.05em",
-          color: "#e8ddd0",
+          color: "var(--c-border)",
           marginBottom: "1.25rem",
         }}
       >
@@ -42,7 +42,7 @@ export default function NotFound() {
         style={{
           fontSize: "1.25rem",
           fontWeight: 700,
-          color: "#2d1f0e",
+          color: "var(--c-text)",
           marginBottom: "0.5rem",
         }}
       >
@@ -51,7 +51,7 @@ export default function NotFound() {
       <p
         style={{
           fontSize: "0.875rem",
-          color: "#a89080",
+          color: "var(--c-text-sub)",
           marginBottom: "2rem",
           lineHeight: 1.7,
         }}
@@ -62,9 +62,9 @@ export default function NotFound() {
         href="/"
         style={{
           display: "inline-block",
-          background: "#7a4f2a",
-          borderRadius: "0.375rem",
-          color: "#fffdf8",
+          background: "var(--c-accent)",
+          borderRadius: "var(--radius)",
+          color: "var(--c-bg)",
           fontSize: "0.875rem",
           fontWeight: 700,
           padding: "0.75rem 1.5rem",
@@ -87,10 +87,10 @@ export default function NotFound() {
             key={href}
             href={href}
             style={{
-              background: "#f0e6d6",
-              border: "1px solid #e8ddd0",
+              background: "var(--c-tint)",
+              border: "1px solid var(--c-border)",
               borderRadius: "999px",
-              color: "#7a4f2a",
+              color: "var(--c-accent)",
               fontSize: "0.8125rem",
               padding: "0.375rem 0.875rem",
               textDecoration: "none",

@@ -1,6 +1,8 @@
 import Link from "next/link"
 import { notFound } from "next/navigation"
 import { Breadcrumb } from "../../../components/elements/Breadcrumb"
+import { Photo } from "../../../components/elements/Photo"
+import { articleCover, formatDate } from "../../../lib/editorial"
 import {
   CalloutSection,
   ComparisonSection,
@@ -62,6 +64,7 @@ export default async function ArticlePage({
 
   const relatedDishes = relatedDishesOf(article, allDishes)
   const articleLd = buildArticleJsonLd(article, relatedDishes)
+  const cover = articleCover(article)
 
   return (
     <>
@@ -69,129 +72,103 @@ export default async function ArticlePage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleLd) }}
       />
-      <Breadcrumb
-        items={[
-          { label: "記事", href: "/articles/" },
-          { label: article.title, href: `/articles/${article.slug}/` },
-        ]}
-      />
-      <article>
-        <header style={{ marginBottom: "2rem" }}>
-          <p
-            style={{
-              fontSize: "0.75rem",
-              color: "#a89080",
-              marginBottom: "0.5rem",
-            }}
-          >
-            {article.publishedAt}
-          </p>
-          <h1
-            style={{
-              fontSize: "1.75rem",
-              fontWeight: 800,
-              lineHeight: 1.3,
-              color: "#2d1f0e",
-              marginBottom: "0.375rem",
-            }}
-          >
-            {article.title}
-          </h1>
-          {article.subtitle && (
-            <p
-              style={{
-                fontSize: "1.125rem",
-                color: "#7a6655",
-                fontWeight: 600,
-                marginBottom: "0.75rem",
-              }}
-            >
-              {article.subtitle}
-            </p>
+      <div className="wide">
+        <Breadcrumb
+          items={[
+            { label: "記事", href: "/articles/" },
+            { label: article.title, href: `/articles/${article.slug}/` },
+          ]}
+        />
+      </div>
+      <article className="wide">
+        <header className="article-hero">
+          <div className="article-hero__head">
+            <span className="eyebrow">
+              Stories
+              <span className="meta" style={{ letterSpacing: "0.08em" }}>
+                {formatDate(article.publishedAt)}
+                {article.updatedAt &&
+                  article.updatedAt !== article.publishedAt &&
+                  ` 更新 ${formatDate(article.updatedAt)}`}
+              </span>
+            </span>
+            <h1>{article.title}</h1>
+            {article.subtitle && (
+              <p className="article-hero__sub">{article.subtitle}</p>
+            )}
+          </div>
+          {cover && (
+            <figure>
+              <Photo
+                src={cover.src}
+                alt={`${cover.dish.name}の料理写真`}
+                sizes="100vw"
+                priority
+              />
+              <figcaption className="meta">{cover.dish.name}</figcaption>
+            </figure>
           )}
-          <p
-            style={{
-              fontSize: "0.9375rem",
-              color: "#5a4a3a",
-              lineHeight: 1.7,
-              borderLeft: "3px solid #e8ddd0",
-              paddingLeft: "0.875rem",
-            }}
-          >
-            {article.intro}
-          </p>
         </header>
 
-        {article.history && article.history.length > 0 && (
-          <HistorySection entries={article.history} />
-        )}
+        <div className="article-body">
+          <p className="article-lead">{article.intro}</p>
 
-        {article.regions.map((region) => (
-          <RegionSection
-            key={region.heading}
-            region={region}
-            allDishes={allDishes}
-          />
-        ))}
+          {article.history && article.history.length > 0 && (
+            <HistorySection entries={article.history} />
+          )}
 
-        <ComparisonSection rows={article.comparison} />
+          {article.regions.map((region) => (
+            <RegionSection
+              key={region.heading}
+              region={region}
+              allDishes={allDishes}
+            />
+          ))}
 
-        {article.callouts.map((callout) => (
-          <CalloutSection key={callout.heading} callout={callout} />
-        ))}
+          <ComparisonSection rows={article.comparison} />
 
-        {article.sources && article.sources.length > 0 && (
-          <SourcesSection sources={article.sources} />
-        )}
+          {article.callouts.map((callout) => (
+            <CalloutSection key={callout.heading} callout={callout} />
+          ))}
 
-        {article.relatedDishIds.length > 0 && (
-          <section style={{ marginTop: "2rem" }}>
-            <h2
-              style={{
-                fontSize: "0.75rem",
-                fontWeight: 700,
-                color: "#a89080",
-                letterSpacing: "0.08em",
-                textTransform: "uppercase",
-                marginBottom: "0.75rem",
-              }}
-            >
-              関連料理を調べる
-            </h2>
-            <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>
-              {article.relatedDishIds.map((id) => {
-                const dish = allDishes.find((d) => d.id === id)
-                return (
-                  <Link
-                    key={id}
-                    href={`/dishes/${id}/`}
-                    style={{
-                      fontSize: "0.875rem",
-                      color: "#7a6655",
-                      background: "#f0e6d6",
-                      padding: "0.25rem 0.75rem",
-                      borderRadius: "0.375rem",
-                      textDecoration: "none",
-                    }}
-                  >
-                    {dish?.name ?? id}
-                  </Link>
-                )
-              })}
+          {article.sources && article.sources.length > 0 && (
+            <SourcesSection sources={article.sources} />
+          )}
+        </div>
+
+        {relatedDishes.length > 0 && (
+          <section className="section">
+            <div className="section-head">
+              <div className="section-head__title">
+                <span className="eyebrow">Related</span>
+                <h2>関連料理を調べる</h2>
+              </div>
+            </div>
+            <div className="entries entries--even">
+              {relatedDishes.map((dish) => (
+                <Link
+                  key={dish.id}
+                  href={`/dishes/${dish.id}/`}
+                  className="story"
+                >
+                  <Photo
+                    src={dish.images?.[0]}
+                    alt={`${dish.name}の料理写真`}
+                    sizes="(max-width: 768px) 50vw, 25vw"
+                  />
+                  <div className="story__body">
+                    <span className="meta">{dish.category}</span>
+                    <h3 className="story__title">{dish.name}</h3>
+                  </div>
+                </Link>
+              ))}
             </div>
           </section>
         )}
 
-        <section style={{ marginTop: "1.5rem" }}>
-          <Link
-            href="/articles/"
-            style={{
-              fontSize: "0.875rem",
-              color: "#b45309",
-              textDecoration: "none",
-            }}
-          >
-            → 他の記事も読む
+        <section style={{ marginTop: "var(--sp-12)", textAlign: "center" }}>
+          <Link href="/articles/" className="more-link">
+            他の記事も読む →
           </Link>
         </section>
       </article>

@@ -36,7 +36,7 @@ const Section = ({
       style={{
         fontSize: "0.75rem",
         fontWeight: 700,
-        color: "#a89080",
+        color: "var(--c-text-sub)",
         letterSpacing: "0.08em",
         textTransform: "uppercase",
         marginBottom: "0.75rem",
@@ -75,7 +75,9 @@ export default function AboutPage() {
           <br />
           飾らない料理図鑑。
         </h1>
-        <p style={{ color: "#a89080", fontSize: "0.875rem" }}>RDish について</p>
+        <p style={{ color: "var(--c-text-sub)", fontSize: "0.875rem" }}>
+          RDish について
+        </p>
       </div>
 
       <Section title="つくった理由">
@@ -83,7 +85,7 @@ export default function AboutPage() {
           style={{
             fontSize: "0.95rem",
             lineHeight: 1.8,
-            color: "#5a3e2b",
+            color: "var(--c-text-2)",
             marginBottom: "0.75rem",
           }}
         >
@@ -91,7 +93,13 @@ export default function AboutPage() {
           となりの人に聞くのはちょっと恥ずかしい。
           スマホで調べると長い解説が出てきて、結局よくわからない。
         </p>
-        <p style={{ fontSize: "0.95rem", lineHeight: 1.8, color: "#5a3e2b" }}>
+        <p
+          style={{
+            fontSize: "0.95rem",
+            lineHeight: 1.8,
+            color: "var(--c-text-2)",
+          }}
+        >
           RDish は「これ頼んでいいの？」をその場で一瞬で解決するためにあります。
           難しい言葉は使わず、食べてみた感覚に近い言葉で書きました。
         </p>
@@ -118,13 +126,13 @@ export default function AboutPage() {
               key={text}
               style={{
                 fontSize: "0.9rem",
-                color: "#5a3e2b",
+                color: "var(--c-text-2)",
                 display: "flex",
                 alignItems: "flex-start",
                 gap: "0.5rem",
               }}
             >
-              <span style={{ color: "#b45309", flexShrink: 0 }}>—</span>
+              <span style={{ color: "var(--c-accent)", flexShrink: 0 }}>—</span>
               {text}
             </li>
           ))}
@@ -156,9 +164,9 @@ export default function AboutPage() {
               key={label}
               href={href}
               style={{
-                background: "#fffdf8",
-                border: "1px solid #e8ddd0",
-                borderRadius: "0.5rem",
+                background: "var(--c-bg)",
+                border: "1px solid var(--c-border)",
+                borderRadius: "var(--radius)",
                 padding: "0.875rem 1rem",
                 textDecoration: "none",
                 color: "inherit",
@@ -170,7 +178,7 @@ export default function AboutPage() {
                   fontWeight: 700,
                   fontSize: "0.95rem",
                   marginBottom: "0.25rem",
-                  color: "#b45309",
+                  color: "var(--c-accent)",
                 }}
               >
                 {label}
@@ -178,7 +186,7 @@ export default function AboutPage() {
               <p
                 style={{
                   fontSize: "0.85rem",
-                  color: "#7a6655",
+                  color: "var(--c-text-2)",
                   lineHeight: 1.6,
                 }}
               >
@@ -190,7 +198,13 @@ export default function AboutPage() {
       </Section>
 
       <Section title="掲載データについて">
-        <p style={{ fontSize: "0.875rem", lineHeight: 1.8, color: "#7a6655" }}>
+        <p
+          style={{
+            fontSize: "0.875rem",
+            lineHeight: 1.8,
+            color: "var(--c-text-2)",
+          }}
+        >
           掲載している料理・食材情報は一般的な特徴をまとめたものです。
           店舗や地域・シェフによって内容は異なります。
           アレルギーに関わる確認はお店のスタッフに直接お尋ねください。
@@ -198,13 +212,19 @@ export default function AboutPage() {
       </Section>
 
       <Section title="制作">
-        <p style={{ fontSize: "0.875rem", lineHeight: 1.8, color: "#7a6655" }}>
+        <p
+          style={{
+            fontSize: "0.875rem",
+            lineHeight: 1.8,
+            color: "var(--c-text-2)",
+          }}
+        >
           RDish は{" "}
           <a
             href="https://reload.co.jp"
             target="_blank"
             rel="noopener noreferrer"
-            style={{ color: "#b45309", textDecoration: "none" }}
+            style={{ color: "var(--c-accent)", textDecoration: "none" }}
           >
             株式会社Reload
           </a>{" "}

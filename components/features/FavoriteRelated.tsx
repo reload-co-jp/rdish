@@ -47,14 +47,14 @@ export const FavoriteRelated: FC<Props> = ({ allDishes }) => {
       <h2
         style={{
           fontSize: "0.875rem",
-          color: "#aaa",
+          color: "var(--c-text-sub)",
           marginBottom: "1rem",
           fontWeight: 600,
         }}
       >
         お気に入りから関連する料理
       </h2>
-      <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+      <div className="dish-list">
         {related.map((dish) => (
           <DishCard key={dish.id} dish={dish} />
         ))}

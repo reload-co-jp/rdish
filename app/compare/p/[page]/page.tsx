@@ -65,7 +65,11 @@ export default async function ComparePaginatedPage({
         料理の違い比較
       </h1>
       <p
-        style={{ color: "#aaa", fontSize: "0.875rem", marginBottom: "1.5rem" }}
+        style={{
+          color: "var(--c-text-sub)",
+          fontSize: "0.875rem",
+          marginBottom: "1.5rem",
+        }}
       >
         全{count}組（{page} / {total}ページ）
       </p>

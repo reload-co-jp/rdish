@@ -24,7 +24,7 @@ const Section: FC<{ title: string; children: React.ReactNode }> = ({
       style={{
         fontSize: "0.75rem",
         fontWeight: 700,
-        color: "#a89080",
+        color: "var(--c-text-sub)",
         letterSpacing: "0.05em",
         textTransform: "uppercase",
         marginBottom: "0.5rem",
@@ -37,7 +37,9 @@ const Section: FC<{ title: string; children: React.ReactNode }> = ({
 )
 
 const scoreDots = (score: number, max = 5) => (
-  <span style={{ color: "#2d1f0e", fontWeight: 600, whiteSpace: "nowrap" }}>
+  <span
+    style={{ color: "var(--c-text)", fontWeight: 600, whiteSpace: "nowrap" }}
+  >
     {"●".repeat(score)}
     <span style={{ opacity: 0.3 }}>{"●".repeat(max - score)}</span>
   </span>
@@ -67,7 +69,7 @@ const DishColumnHead: FC<{ dish: DishItem }> = ({ dish }) => {
     <th
       scope="col"
       style={{
-        borderBottom: "2px solid #e8ddd0",
+        borderBottom: "2px solid var(--c-border)",
         padding: "0.5rem 0.625rem",
         textAlign: "left",
         verticalAlign: "bottom",
@@ -88,7 +90,7 @@ const DishColumnHead: FC<{ dish: DishItem }> = ({ dish }) => {
               width: "100%",
               maxWidth: "120px",
               height: "auto",
-              borderRadius: "0.375rem",
+              borderRadius: "var(--radius)",
               marginBottom: "0.375rem",
               objectFit: "cover",
             }}
@@ -99,7 +101,7 @@ const DishColumnHead: FC<{ dish: DishItem }> = ({ dish }) => {
             display: "block",
             fontSize: "1rem",
             fontWeight: 700,
-            color: "#b45309",
+            color: "var(--c-accent)",
           }}
         >
           {dish.name}
@@ -110,7 +112,7 @@ const DishColumnHead: FC<{ dish: DishItem }> = ({ dish }) => {
               display: "block",
               fontSize: "0.6875rem",
               fontWeight: 400,
-              color: "#a89080",
+              color: "var(--c-text-sub)",
             }}
           >
             {dish.englishName}
@@ -128,9 +130,9 @@ const DifferenceBlock: FC<{ from: DishItem; to: DishItem; text: string }> = ({
 }) => (
   <div
     style={{
-      background: "#faf6f0",
-      border: "1px solid #e8ddd0",
-      borderRadius: "0.375rem",
+      background: "var(--c-bg)",
+      border: "1px solid var(--c-border)",
+      borderRadius: "var(--radius)",
       padding: "0.75rem 0.875rem",
       marginBottom: "0.5rem",
     }}
@@ -139,7 +141,7 @@ const DifferenceBlock: FC<{ from: DishItem; to: DishItem; text: string }> = ({
       style={{
         fontSize: "0.875rem",
         fontWeight: 700,
-        color: "#2d1f0e",
+        color: "var(--c-text)",
         margin: "0 0 0.25rem",
       }}
     >
@@ -147,7 +149,7 @@ const DifferenceBlock: FC<{ from: DishItem; to: DishItem; text: string }> = ({
     </h3>
     <p
       style={{
-        color: "#7a6655",
+        color: "var(--c-text-2)",
         fontSize: "0.9375rem",
         lineHeight: 1.8,
         margin: 0,
@@ -171,7 +173,7 @@ const RelatedComparisons: FC<{ dish: DishItem; excludeSlug: string }> = ({
       <p
         style={{
           fontSize: "0.8125rem",
-          color: "#a89080",
+          color: "var(--c-text-sub)",
           margin: "0 0 0.375rem",
         }}
       >
@@ -184,9 +186,9 @@ const RelatedComparisons: FC<{ dish: DishItem; excludeSlug: string }> = ({
             href={comparisonPath(c.slug)}
             style={{
               fontSize: "0.75rem",
-              background: "#f0e6d6",
-              color: "#b45309",
-              border: "1px solid #e8ddd0",
+              background: "var(--c-tint)",
+              color: "var(--c-accent)",
+              border: "1px solid var(--c-border)",
               borderRadius: "9999px",
               padding: "0.125rem 0.625rem",
               textDecoration: "none",
@@ -216,7 +218,7 @@ export const ComparisonDetail: FC<Props> = ({ comparison }) => {
       </h1>
       <p
         style={{
-          color: "#7a6655",
+          color: "var(--c-text-2)",
           fontSize: "0.9375rem",
           lineHeight: 1.8,
           margin: "0 0 1.5rem",
@@ -251,10 +253,10 @@ export const ComparisonDetail: FC<Props> = ({ comparison }) => {
                 <th
                   scope="col"
                   style={{
-                    borderBottom: "2px solid #e8ddd0",
+                    borderBottom: "2px solid var(--c-border)",
                     padding: "0.5rem 0.625rem",
                     textAlign: "left",
-                    color: "#a89080",
+                    color: "var(--c-text-sub)",
                     fontSize: "0.75rem",
                     width: "20%",
                   }}
@@ -271,11 +273,11 @@ export const ComparisonDetail: FC<Props> = ({ comparison }) => {
                   <th
                     scope="row"
                     style={{
-                      borderBottom: "1px solid #e8ddd0",
+                      borderBottom: "1px solid var(--c-border)",
                       padding: "0.5rem 0.625rem",
                       textAlign: "left",
                       verticalAlign: "top",
-                      color: "#a89080",
+                      color: "var(--c-text-sub)",
                       fontSize: "0.75rem",
                       fontWeight: 600,
                       whiteSpace: "nowrap",
@@ -285,10 +287,10 @@ export const ComparisonDetail: FC<Props> = ({ comparison }) => {
                   </th>
                   <td
                     style={{
-                      borderBottom: "1px solid #e8ddd0",
+                      borderBottom: "1px solid var(--c-border)",
                       padding: "0.5rem 0.625rem",
                       verticalAlign: "top",
-                      color: "#2d1f0e",
+                      color: "var(--c-text)",
                       lineHeight: 1.7,
                     }}
                   >
@@ -296,10 +298,10 @@ export const ComparisonDetail: FC<Props> = ({ comparison }) => {
                   </td>
                   <td
                     style={{
-                      borderBottom: "1px solid #e8ddd0",
+                      borderBottom: "1px solid var(--c-border)",
                       padding: "0.5rem 0.625rem",
                       verticalAlign: "top",
-                      color: "#2d1f0e",
+                      color: "var(--c-text)",
                       lineHeight: 1.7,
                     }}
                   >
@@ -325,8 +327,8 @@ export const ComparisonDetail: FC<Props> = ({ comparison }) => {
               key={dish.id}
               href={`/dishes/${dish.id}/`}
               style={{
-                background: "#b45309",
-                borderRadius: "0.375rem",
+                background: "var(--c-accent)",
+                borderRadius: "var(--radius)",
                 color: "#fff",
                 fontSize: "0.875rem",
                 fontWeight: 600,
