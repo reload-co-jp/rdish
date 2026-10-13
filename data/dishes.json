@@ -226321,5 +226321,1069 @@
       "/images/dishes/shoyuzuke/1.jpg",
       "/images/dishes/shoyuzuke/2.jpg"
     ]
+  },
+  {
+    "id": "escargot",
+    "name": "エスカルゴ",
+    "kana": "えすかるご",
+    "aliases": [
+      "エスカルゴ・ア・ラ・ブルギニョンヌ",
+      "エスカルゴのブルゴーニュ風",
+      "食用カタツムリ"
+    ],
+    "englishName": "Escargot",
+    "originalName": "Escargots à la bourguignonne",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "フランス語でカタツムリを意味し、食用のリンゴマイマイなどを使うフランス料理の代表的な前菜。殻から出して下処理した身に、ニンニクとパセリを練り込んだエスカルゴバターを絡めて焼き上げる。",
+    "menuDescription": "ブルゴーニュ産エスカルゴに、ニンニクとパセリをたっぷり練り込んだ香り高いエスカルゴバターを詰め、オーブンで熱々に焼き上げました。",
+    "whatComesOut": [
+      "殻に詰めたエスカルゴ、または窪みのある専用皿に入ったエスカルゴ（6〜12個程度）",
+      "溶けて泡立つ緑色のガーリックパセリバター",
+      "殻を挟む専用トングと細い2本爪のエスカルゴフォーク",
+      "バターをぬぐうためのバゲット"
+    ],
+    "tasteAndTexture": [
+      "ニンニクとパセリが効いた濃厚なバターの香り",
+      "身はコリッとした弾力があり、つぶ貝やサザエに近い食感",
+      "身自体の味はクセが少なく、ほのかな土っぽさ",
+      "熱々のバターをパンに吸わせるのが醍醐味"
+    ],
+    "orderAdvice": "見た目に抵抗がなければ、味はほぼ「ガーリックバター味の貝」なので意外と食べやすい。ワインと合わせる前菜として最適。残ったバターはパンで拭うのがお約束。殻付きはトングの扱いに少しコツが要るので、苦手なら殻なしの専用皿タイプを選ぶとよい。",
+    "caution": "バターを多量に使用（乳製品）。日本ではバイ貝で代用されることもあり、貝類アレルギーの方は確認を。熱々で供されるため火傷に注意。",
+    "similarItems": [
+      {
+        "id": "ahijo",
+        "name": "アヒージョ",
+        "difference": "アヒージョはオリーブオイルとニンニクで煮るスペイン料理。エスカルゴはバターとパセリが主体で、オーブンで焼く。"
+      },
+      {
+        "name": "サザエのつぼ焼き",
+        "difference": "殻ごと焼く貝料理という点は似るが、つぼ焼きは醤油味の和風。エスカルゴはガーリックバター味。"
+      },
+      {
+        "id": "foie-gras",
+        "name": "フォアグラ",
+        "difference": "どちらもフランス料理を象徴する高級食材だが、フォアグラは濃厚でとろける脂、エスカルゴは弾力のある身をバターで味わう。"
+      }
+    ],
+    "relatedIds": [
+      "foie-gras",
+      "beef-bourguignon",
+      "ahijo",
+      "terrine",
+      "beurre-noisette"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2320",
+      "https://ja.wikipedia.org/wiki/エスカルゴ",
+      "https://en.wikipedia.org/wiki/Escargot"
+    ],
+    "tags": [
+      "フランス料理",
+      "前菜",
+      "貝類",
+      "焼き物",
+      "香ばしい",
+      "こってり",
+      "コース料理"
+    ],
+    "reverseKeywords": [
+      "唐揚げ",
+      "ハンバーグ",
+      "パスタ",
+      "グリルチキン"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/escargot/1.jpg",
+      "/images/dishes/escargot/2.jpg",
+      "/images/dishes/escargot/3.jpg"
+    ]
+  },
+  {
+    "id": "gelato",
+    "name": "ジェラート",
+    "kana": "じぇらーと",
+    "aliases": [
+      "イタリアンジェラート",
+      "ジェラード"
+    ],
+    "englishName": "Gelato",
+    "originalName": "Gelato",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "イタリア語で「凍ったもの」を意味する、イタリア発祥の氷菓。一般的なアイスクリームより空気含有量・乳脂肪分が少なく、密度が高く素材の味が濃い。",
+    "menuDescription": "季節の果物やナッツを使い、空気を抑えてなめらかに練り上げた自家製ジェラート。素材そのものの風味を濃厚にお楽しみいただけます。",
+    "whatComesOut": [
+      "カップまたはコーンに盛られたジェラート（2〜3種類を選べることが多い）",
+      "ヘラで平たく盛り付けたなめらかなジェラート",
+      "店によってはホイップクリームのトッピング"
+    ],
+    "tasteAndTexture": [
+      "空気が少なくねっとり濃密な口当たり",
+      "乳脂肪が控えめで後味は意外とさっぱり",
+      "ピスタチオ・ヘーゼルナッツ・果物など素材の味が濃い",
+      "アイスクリームより温度が高めで、口溶けが早い"
+    ],
+    "orderAdvice": "迷ったらピスタチオやノッチョーラ（ヘーゼルナッツ）など定番から。フルーツ系は乳製品を使わないソルベット寄りのものも多くさっぱり。イタリアでは数種類を一つのカップに盛れるので、ミルク系とフルーツ系を組み合わせると楽しい。",
+    "caution": "ミルク系は乳製品、ナッツ系はナッツアレルギーに注意。卵を使うフレーバーもある。",
+    "similarItems": [
+      {
+        "name": "アイスクリーム",
+        "difference": "アイスクリームは乳脂肪分が高く空気を多く含むため軽くてリッチ。ジェラートは空気が少なく密度が高い。"
+      },
+      {
+        "id": "sorbet",
+        "name": "ソルベ",
+        "difference": "ソルベは乳製品を使わない果汁ベースの氷菓。ジェラートは牛乳ベースが基本。"
+      },
+      {
+        "id": "panna-cotta",
+        "name": "パンナコッタ",
+        "difference": "同じイタリアの乳製品デザートだが、パンナコッタは生クリームをゼラチンで固めた冷菓で凍らせない。"
+      }
+    ],
+    "relatedIds": [
+      "sorbet",
+      "tiramisu",
+      "panna-cotta"
+    ],
+    "source": [
+      "https://www.hankyu-travel.com/guide/italy/gourmet.php",
+      "https://ja.wikipedia.org/wiki/ジェラート",
+      "https://en.wikipedia.org/wiki/Gelato"
+    ],
+    "tags": [
+      "イタリア料理",
+      "デザート",
+      "乳製品",
+      "果物",
+      "甘み",
+      "クリーミー"
+    ],
+    "reverseKeywords": [
+      "せんべい",
+      "チーズ",
+      "生ハム",
+      "フライドポテト"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gelato/1.jpg",
+      "/images/dishes/gelato/2.jpg",
+      "/images/dishes/gelato/3.jpg"
+    ]
+  },
+  {
+    "id": "ossobuco",
+    "name": "オッソブーコ",
+    "kana": "おっそぶーこ",
+    "aliases": [
+      "オッソ・ブーコ",
+      "オッソブッコ",
+      "オッソブーコ・アッラ・ミラネーゼ",
+      "仔牛すね肉の煮込み"
+    ],
+    "englishName": "Ossobuco",
+    "originalName": "Ossobuco alla milanese",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "ロンバルディア州"
+      }
+    ],
+    "summary": "輪切りにした仔牛のすね肉を骨ごと白ワインや野菜とじっくり煮込んだ、ミラノを代表するイタリア料理。名前は「穴の開いた骨」を意味し、骨の中の髄も味わう。",
+    "menuDescription": "骨付きの仔牛すね肉を香味野菜と白ワインでほろほろになるまで煮込み、レモンの皮とパセリ、ニンニクのグレモラータを添えました。サフランのリゾットとご一緒にどうぞ。",
+    "whatComesOut": [
+      "骨の付いた輪切りの仔牛すね肉（中央に骨髄の入った丸い骨）",
+      "野菜と白ワインの煮込みソース",
+      "上に散らしたグレモラータ（レモンの皮・パセリ・ニンニク）",
+      "付け合わせのミラノ風サフランリゾット",
+      "骨髄をすくうための小さなスプーンが付くことも"
+    ],
+    "tasteAndTexture": [
+      "フォークでほぐれるほどやわらかい肉",
+      "骨髄のとろりとした濃厚なコク",
+      "グレモラータの爽やかな柑橘の香りが重さを和らげる",
+      "サフランリゾットと混ぜると一体感のある味わい"
+    ],
+    "orderAdvice": "ミラノで食べるなら定番中の定番。煮込みなので肉は柔らかく、牛肉好きなら外れが少ない。リゾットとセットのことが多くボリュームがあるため、前菜やパスタを軽めにするとよい。骨髄はクセがあるが、ぜひ一口試したい。",
+    "caution": "仔牛肉使用。トマトを加える店もある。",
+    "similarItems": [
+      {
+        "id": "beef-stew",
+        "name": "ビーフシチュー",
+        "difference": "ビーフシチューは角切りの牛肉をブラウンソースで煮込む。オッソブーコは骨付きの輪切りすね肉を白ワインで煮込み、骨髄も食べる。"
+      },
+      {
+        "id": "trippa",
+        "name": "トリッパ",
+        "difference": "どちらもイタリアの煮込みだが、トリッパは牛の胃袋をトマトで煮込む。"
+      },
+      {
+        "id": "beef-bourguignon",
+        "name": "ブッフ・ブルギニョン",
+        "difference": "ブッフ・ブルギニョンは牛肉を赤ワインで煮込むフランス料理で、より濃厚で重い。"
+      }
+    ],
+    "relatedIds": [
+      "risotto",
+      "trippa",
+      "beef-stew",
+      "beef-bourguignon"
+    ],
+    "source": [
+      "https://www.hankyu-travel.com/guide/italy/gourmet.php",
+      "https://ja.wikipedia.org/wiki/オッソブーコ",
+      "https://en.wikipedia.org/wiki/Ossobuco"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "牛肉",
+      "煮込み",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "カルパッチョ",
+      "サラダ",
+      "魚のグリル",
+      "冷製パスタ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ossobuco/1.jpg",
+      "/images/dishes/ossobuco/2.jpg",
+      "/images/dishes/ossobuco/3.jpg"
+    ]
+  },
+  {
+    "id": "bistecca-alla-fiorentina",
+    "name": "ビステッカ・アッラ・フィオレンティーナ",
+    "kana": "びすてっか・あっら・ふぃおれんてぃーな",
+    "aliases": [
+      "ビステッカ",
+      "ビステッカ・フィオレンティーナ",
+      "フィオレンティーナ",
+      "フィレンツェ風ビーフステーキ",
+      "Tボーンステーキ"
+    ],
+    "englishName": "Florentine steak",
+    "originalName": "Bistecca alla fiorentina",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "トスカーナ州"
+      }
+    ],
+    "summary": "フィレンツェ名物の骨付き牛肉の分厚いTボーンステーキ。厚さ3cmほどの肉を塩・コショウだけで炭火の直火で焼き、外はカリッと中はレアに仕上げる。",
+    "menuDescription": "トスカーナ産の骨付き牛肉を厚切りにし、炭火で豪快に焼き上げたフィレンツェ伝統のTボーンステーキ。シンプルな塩とオリーブオイルで肉本来の旨みをお楽しみください。",
+    "whatComesOut": [
+      "骨付きの分厚いTボーンステーキ（1kg前後が多い）",
+      "切り分けられた断面が赤いレアの肉",
+      "オリーブオイルとレモン",
+      "付け合わせの白いんげん豆やルッコラ、ローストポテト"
+    ],
+    "tasteAndTexture": [
+      "炭火の香ばしさと外側のカリッとした焼き目",
+      "中は真っ赤なレアで肉汁たっぷり",
+      "味付けは塩・コショウのみで赤身の旨みが主役",
+      "骨のまわりのヒレとサーロインの食べ比べ"
+    ],
+    "orderAdvice": "量り売りで1kg（2人前）単位からの注文が多いので、2〜3人でシェアが基本。焼き加減はレアが伝統で、よく焼きを頼むと断られることもある。赤身中心で意外と重くないが、量はかなりあるので他の料理は控えめに。キャンティなどトスカーナの赤ワインと合わせたい。",
+    "caution": "伝統的にレアで提供される。グラム単位の価格表示が多いので最終金額に注意。",
+    "similarItems": [
+      {
+        "id": "steak",
+        "name": "ステーキ",
+        "difference": "一般的なステーキは一人前ずつ好みの焼き加減で焼く。ビステッカは骨付きの超厚切りをレアで焼きシェアする。"
+      },
+      {
+        "id": "tagliata",
+        "name": "タリアータ",
+        "difference": "タリアータは焼いた牛肉をスライスしてルッコラなどと盛るイタリア料理。ビステッカは骨付きのまま豪快に焼く。"
+      }
+    ],
+    "relatedIds": [
+      "steak",
+      "tagliata",
+      "trippa"
+    ],
+    "source": [
+      "https://www.hankyu-travel.com/guide/italy/gourmet.php",
+      "https://ja.wikipedia.org/wiki/ビステッカ・アッラ・フィオレンティーナ",
+      "https://en.wikipedia.org/wiki/Bistecca_alla_fiorentina"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "牛肉",
+      "炭火焼き",
+      "ジューシー",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ハンバーグ",
+      "煮込み料理",
+      "魚料理",
+      "サラダ"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bistecca-alla-fiorentina/1.jpg"
+    ]
+  },
+  {
+    "id": "cacio-e-pepe",
+    "name": "カチョ・エ・ペペ",
+    "kana": "かちょえぺぺ",
+    "aliases": [
+      "カチョエペペ",
+      "カーチョ・エ・ペーペ",
+      "チーズと黒胡椒のパスタ"
+    ],
+    "englishName": "Cacio e pepe",
+    "originalName": "Cacio e pepe",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "ラツィオ州"
+      }
+    ],
+    "summary": "「チーズと胡椒」を意味するローマの代表的なパスタ。すりおろしたペコリーノ・ロマーノと黒胡椒、パスタの茹で汁だけでクリーミーなソースを作る。",
+    "menuDescription": "ペコリーノ・ロマーノと挽きたての黒胡椒を茹で汁で乳化させ、なめらかに絡めたローマ伝統のシンプルなパスタです。",
+    "whatComesOut": [
+      "トンナレッリ（太めの角断面パスタ）またはスパゲッティ",
+      "白っぽくクリーミーにまとわりつくチーズソース",
+      "たっぷり振られた粗挽き黒胡椒",
+      "仕上げの追いペコリーノ"
+    ],
+    "tasteAndTexture": [
+      "羊乳チーズの強い塩気とコク",
+      "黒胡椒のピリッとした刺激と香り",
+      "生クリーム不使用なのにねっとりクリーミー",
+      "具がなく、チーズと胡椒の味が直球"
+    ],
+    "orderAdvice": "具なしの超シンプルなパスタで、店の腕前がよく分かる一皿。チーズの塩気と羊乳の風味が強いので、濃い味好きにおすすめ。羊乳特有の香りが苦手ならカルボナーラのほうが無難。",
+    "caution": "乳製品（羊乳チーズ）・小麦を使用。塩分が高め。",
+    "similarItems": [
+      {
+        "id": "carbonara",
+        "name": "カルボナーラ",
+        "difference": "カルボナーラは卵黄とグアンチャーレを加える。カチョ・エ・ペペはチーズと胡椒だけ。"
+      },
+      {
+        "id": "pasta-alla-gricia",
+        "name": "パスタ・アッラ・グリーチャ",
+        "difference": "グリーチャはカチョ・エ・ペペにグアンチャーレを加えたもの。"
+      },
+      {
+        "id": "amatriciana",
+        "name": "アマトリチャーナ",
+        "difference": "アマトリチャーナはグアンチャーレとトマトのソースで、赤いパスタ。"
+      }
+    ],
+    "relatedIds": [
+      "carbonara",
+      "amatriciana",
+      "pecorino"
+    ],
+    "source": [
+      "https://www.superprof.jp/blog/famous-italian-recipes/",
+      "https://en.wikipedia.org/wiki/Cacio_e_pepe"
+    ],
+    "tags": [
+      "イタリア料理",
+      "パスタ",
+      "チーズ",
+      "小麦",
+      "クリーミー",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ペペロンチーノ",
+      "トマトソースパスタ",
+      "和風パスタ",
+      "ボンゴレ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/cacio-e-pepe/1.jpg",
+      "/images/dishes/cacio-e-pepe/2.jpg",
+      "/images/dishes/cacio-e-pepe/3.jpg"
+    ]
+  },
+  {
+    "id": "pasta-alla-gricia",
+    "name": "パスタ・アッラ・グリーチャ",
+    "kana": "ぱすたあっらぐりーちゃ",
+    "aliases": [
+      "グリーチャ",
+      "グリチャ",
+      "アマトリチャーナ・ビアンカ"
+    ],
+    "englishName": "Pasta alla gricia",
+    "originalName": "Pasta alla gricia",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "ラツィオ州"
+      }
+    ],
+    "summary": "グアンチャーレ（豚ほほ肉の塩漬け）、ペコリーノ・ロマーノ、黒胡椒で作るローマのパスタ。トマトを使わないことから「白いアマトリチャーナ」とも呼ばれる。",
+    "menuDescription": "カリッと炒めたグアンチャーレの旨みある脂に、ペコリーノ・ロマーノと黒胡椒を合わせたローマ伝統のパスタです。",
+    "whatComesOut": [
+      "リガトーニやスパゲッティなどのパスタ",
+      "カリッと焼けたグアンチャーレの角切り",
+      "ペコリーノのクリーミーなソース",
+      "たっぷりの黒胡椒"
+    ],
+    "tasteAndTexture": [
+      "グアンチャーレの甘い脂と塩気",
+      "カリカリの肉ともちっとしたパスタの対比",
+      "ペコリーノの濃いコクと黒胡椒の刺激"
+    ],
+    "orderAdvice": "ローマのトラットリアでカルボナーラ、アマトリチャーナと並ぶ定番。卵なしのカルボナーラ、トマトなしのアマトリチャーナと考えると想像しやすい。豚の脂が好きなら間違いない。",
+    "caution": "乳製品・小麦・豚肉を使用。",
+    "similarItems": [
+      {
+        "id": "amatriciana",
+        "name": "アマトリチャーナ",
+        "difference": "アマトリチャーナはグリーチャにトマトを加えたもの。"
+      },
+      {
+        "id": "carbonara",
+        "name": "カルボナーラ",
+        "difference": "カルボナーラはグリーチャに卵黄を加えてさらに濃厚にしたもの。"
+      },
+      {
+        "id": "cacio-e-pepe",
+        "name": "カチョ・エ・ペペ",
+        "difference": "カチョ・エ・ペペは肉を使わず、チーズと胡椒だけ。"
+      }
+    ],
+    "relatedIds": [
+      "amatriciana",
+      "carbonara",
+      "guanciale",
+      "pecorino"
+    ],
+    "source": [
+      "https://www.superprof.jp/blog/famous-italian-recipes/",
+      "https://en.wikipedia.org/wiki/Pasta_alla_gricia"
+    ],
+    "tags": [
+      "イタリア料理",
+      "パスタ",
+      "豚肉",
+      "チーズ",
+      "炒め物",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ジェノベーゼ",
+      "トマトソースパスタ",
+      "魚介パスタ",
+      "冷製パスタ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/pasta-alla-gricia/1.jpg"
+    ]
+  },
+  {
+    "id": "risotto-alla-milanese",
+    "name": "リゾット・アッラ・ミラネーゼ",
+    "kana": "りぞっとあっらみらねーぜ",
+    "aliases": [
+      "ミラノ風リゾット",
+      "リゾット・ミラネーゼ",
+      "サフランリゾット",
+      "リゾット・ジャッロ"
+    ],
+    "englishName": "Risotto alla milanese",
+    "originalName": "Risotto alla milanese",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "ロンバルディア州"
+      }
+    ],
+    "summary": "サフランで鮮やかな黄色に色づけた、ミラノを代表するリゾット。ブロードで米を炊き、仕上げにバターとパルミジャーノを混ぜ込む。牛の骨髄を加える伝統的な作り方もある。",
+    "menuDescription": "サフランの香りと色を移したブロードで米を炊き上げ、バターとパルミジャーノでコク深く仕上げたミラノ伝統のリゾットです。",
+    "whatComesOut": [
+      "サフランで黄金色に染まったリゾット",
+      "平皿に薄く広げた盛り付け",
+      "上からかけたパルミジャーノ",
+      "オッソブーコの付け合わせとして一緒に出ることも"
+    ],
+    "tasteAndTexture": [
+      "サフランの独特で上品な香り",
+      "バターとチーズのまろやかなコク",
+      "芯がわずかに残るアルデンテの米",
+      "とろりとしたクリーミーな口当たり"
+    ],
+    "orderAdvice": "ミラノでは定番のプリモ。単品でもよいが、オッソブーコとの組み合わせ（セコンドの付け合わせ）は鉄板。米の芯が少し残るのが本場流なので、日本の柔らかいご飯の感覚とは違う点に注意。",
+    "caution": "乳製品（バター・チーズ）を使用。骨髄やブロードに動物性素材を使う。",
+    "similarItems": [
+      {
+        "id": "risotto",
+        "name": "リゾット",
+        "difference": "リゾット全般のうち、サフランで黄色く仕上げるミラノ風の代表的なもの。"
+      },
+      {
+        "id": "paella",
+        "name": "パエリア",
+        "difference": "パエリアもサフランで黄色い米料理だが、スペイン料理で、混ぜずに炊き上げ具だくさん。リゾットは混ぜながらクリーミーに仕上げる。"
+      }
+    ],
+    "relatedIds": [
+      "risotto",
+      "ossobuco",
+      "paella",
+      "saffron",
+      "cotoletta-alla-milanese"
+    ],
+    "source": [
+      "https://www.superprof.jp/blog/famous-italian-recipes/",
+      "https://en.wikipedia.org/wiki/Risotto_alla_milanese"
+    ],
+    "tags": [
+      "イタリア料理",
+      "ご飯もの",
+      "米",
+      "スパイス",
+      "煮込み",
+      "クリーミー",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "チャーハン",
+      "白ご飯",
+      "おにぎり",
+      "トマトリゾット"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/risotto-alla-milanese/1.jpg",
+      "/images/dishes/risotto-alla-milanese/2.jpg",
+      "/images/dishes/risotto-alla-milanese/3.jpg"
+    ]
+  },
+  {
+    "id": "saltimbocca",
+    "name": "サルティンボッカ",
+    "kana": "さるてぃんぼっか",
+    "aliases": [
+      "サルティンボッカ・アッラ・ロマーナ",
+      "ローマ風サルティンボッカ"
+    ],
+    "englishName": "Saltimbocca",
+    "originalName": "Saltimbocca alla romana",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "ラツィオ州"
+      }
+    ],
+    "summary": "イタリア語で「口に飛び込む」の意味を持つローマ名物の肉料理。薄切りの仔牛肉に生ハムとセージの葉をのせてバターでソテーし、白ワインで仕上げる。",
+    "menuDescription": "薄くたたいた仔牛肉に生ハムとセージを重ねてバターで香ばしく焼き、白ワインのソースで仕上げたローマの伝統料理です。",
+    "whatComesOut": [
+      "生ハムとセージの葉をのせた薄い仔牛肉のソテー（数枚）",
+      "楊枝で生ハムとセージを留めていることも",
+      "バターと白ワインの焼き汁ソース",
+      "付け合わせの野菜やポテト"
+    ],
+    "tasteAndTexture": [
+      "生ハムの塩気と旨み",
+      "セージの爽やかでほろ苦い香り",
+      "薄切り仔牛肉のやわらかさ",
+      "バターのコク"
+    ],
+    "orderAdvice": "薄切り肉なので量は軽めで食べやすく、セコンドとして気軽に頼める。生ハムが味付け代わりなので塩気はしっかりめ。セージの香りが苦手でなければおすすめ。",
+    "caution": "仔牛肉・豚肉（生ハム）・乳製品（バター）を使用。",
+    "similarItems": [
+      {
+        "id": "piccata",
+        "name": "ピカタ",
+        "difference": "ピカタは薄切り肉に小麦粉と卵をまとわせて焼く。サルティンボッカは生ハムとセージを重ねて焼く。"
+      },
+      {
+        "id": "involtini",
+        "name": "インボルティーニ",
+        "difference": "インボルティーニは薄切り肉で具を巻いた料理。サルティンボッカは巻かずに重ねて焼くことが多い。"
+      }
+    ],
+    "relatedIds": [
+      "prosciutto",
+      "piccata",
+      "involtini",
+      "veal"
+    ],
+    "source": [
+      "https://www.superprof.jp/blog/famous-italian-recipes/",
+      "https://ja.wikipedia.org/wiki/サルティンボッカ",
+      "https://en.wikipedia.org/wiki/Saltimbocca"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "牛肉",
+      "ハーブ",
+      "焼き物",
+      "香ばしい",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "唐揚げ",
+      "照り焼き",
+      "ハンバーグ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/saltimbocca/1.jpg",
+      "/images/dishes/saltimbocca/2.jpg",
+      "/images/dishes/saltimbocca/3.jpg"
+    ]
+  },
+  {
+    "id": "cotoletta-alla-milanese",
+    "name": "コトレッタ・アッラ・ミラネーゼ",
+    "kana": "ことれったあっらみらねーぜ",
+    "aliases": [
+      "コトレッタ・ミラネーゼ",
+      "ミラノ風カツレツ",
+      "コトレッタ",
+      "ミラネーゼ"
+    ],
+    "englishName": "Veal Milanese",
+    "originalName": "Cotoletta alla milanese",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "ロンバルディア州"
+      }
+    ],
+    "summary": "骨付きの仔牛ロース肉に卵とパン粉をつけ、たっぷりのバターで揚げ焼きにするミラノ名物のカツレツ。",
+    "menuDescription": "骨付きの仔牛肉に細かなパン粉をまとわせ、澄ましバターでこんがりと揚げ焼きにしたミラノの伝統的なカツレツです。",
+    "whatComesOut": [
+      "骨付きの大きな仔牛のカツレツ（骨なしで薄く叩いた「耳」形もある）",
+      "くし切りのレモン",
+      "ルッコラとミニトマトのサラダ、またはポテト"
+    ],
+    "tasteAndTexture": [
+      "バターで焼いた衣の香ばしさ",
+      "サクッとした衣と、やわらかく淡白な仔牛肉",
+      "レモンを搾るとさっぱり"
+    ],
+    "orderAdvice": "日本のとんかつに近い感覚で食べられ、初めてのミラノでも外しにくい一皿。ソースは基本かけずレモンのみ。大判で食べ応えがあるので、前菜やパスタはシェアにすると良い。",
+    "caution": "小麦・卵・乳製品（バター）を使用。",
+    "similarItems": [
+      {
+        "id": "schnitzel",
+        "name": "シュニッツェル",
+        "difference": "ウィーン風シュニッツェルは骨なしの薄い仔牛肉をラードや油で揚げる。コトレッタは骨付きでバターで焼くのが伝統。"
+      },
+      {
+        "id": "tonkatsu",
+        "name": "とんかつ",
+        "difference": "とんかつは豚肉を厚めに揚げ、ソースをかける。コトレッタは仔牛肉でレモンだけで食べる。"
+      },
+      {
+        "id": "cutlet",
+        "name": "カツレツ",
+        "difference": "カツレツはコトレッタが語源とされる洋食。"
+      }
+    ],
+    "relatedIds": [
+      "schnitzel",
+      "tonkatsu",
+      "cutlet",
+      "risotto-alla-milanese",
+      "ossobuco"
+    ],
+    "source": [
+      "https://www.superprof.jp/blog/famous-italian-recipes/",
+      "https://en.wikipedia.org/wiki/Cotoletta_alla_milanese"
+    ],
+    "tags": [
+      "イタリア料理",
+      "主菜",
+      "牛肉",
+      "揚げ物",
+      "サクサク",
+      "香ばしい",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "刺身",
+      "蒸し料理",
+      "サラダ",
+      "煮物"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cotoletta-alla-milanese/1.jpg",
+      "/images/dishes/cotoletta-alla-milanese/2.jpg",
+      "/images/dishes/cotoletta-alla-milanese/3.jpg"
+    ]
+  },
+  {
+    "id": "cannolo",
+    "name": "カンノーロ",
+    "kana": "かんのーろ",
+    "aliases": [
+      "カンノーリ",
+      "カンノーロ・シチリアーノ",
+      "シチリア風カンノーロ"
+    ],
+    "englishName": "Cannoli",
+    "originalName": "Cannolo siciliano",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "シチリア州"
+      }
+    ],
+    "summary": "小麦粉の生地を筒状に揚げた皮に、甘いリコッタチーズのクリームを詰めたシチリアの伝統菓子。複数形は「カンノーリ」。",
+    "menuDescription": "パリッと揚げた筒状の生地に、ピスタチオやチョコチップを混ぜた羊乳リコッタのクリームをたっぷり詰めたシチリアの伝統菓子です。",
+    "whatComesOut": [
+      "筒状に揚げたパリパリの皮",
+      "両端からはみ出す白いリコッタクリーム",
+      "端に付けた刻みピスタチオやオレンジピール、チョコチップ",
+      "上から振った粉砂糖"
+    ],
+    "tasteAndTexture": [
+      "パリッと香ばしい揚げ皮",
+      "リコッタのなめらかでミルキーな甘さ",
+      "ピスタチオやピールの香りのアクセント"
+    ],
+    "orderAdvice": "皮が湿気るとおいしさが半減するので、注文後にクリームを詰める店（カンノーロ・エスプレッソ）が理想。甘さはしっかりめなので、エスプレッソと一緒に。",
+    "caution": "小麦・乳製品・ナッツを使用。皮にラードを使う場合がある。",
+    "similarItems": [
+      {
+        "id": "sfogliatella",
+        "name": "スフォリアテッラ",
+        "difference": "スフォリアテッラはナポリの貝殻形の焼き菓子で、焼いた層状の生地にリコッタを詰めて焼く。カンノーロは揚げた筒に後からクリームを詰める。"
+      },
+      {
+        "id": "croissant",
+        "name": "クロワッサン",
+        "difference": "クロワッサンはバター層の発酵パンで甘さ控えめ。カンノーロは甘いクリーム菓子。"
+      }
+    ],
+    "relatedIds": [
+      "ricotta",
+      "sfogliatella",
+      "tiramisu"
+    ],
+    "source": [
+      "https://www.superprof.jp/blog/famous-italian-recipes/",
+      "https://ja.wikipedia.org/wiki/カンノーロ",
+      "https://en.wikipedia.org/wiki/Cannoli"
+    ],
+    "tags": [
+      "イタリア料理",
+      "菓子",
+      "チーズ",
+      "小麦",
+      "揚げ物",
+      "甘み",
+      "サクサク"
+    ],
+    "reverseKeywords": [
+      "せんべい",
+      "フルーツ",
+      "シャーベット"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/cannolo/1.jpg",
+      "/images/dishes/cannolo/2.jpg",
+      "/images/dishes/cannolo/3.jpg"
+    ]
+  },
+  {
+    "id": "sfogliatella",
+    "name": "スフォリアテッラ",
+    "kana": "すふぉりあてっら",
+    "aliases": [
+      "スフォリアテッレ",
+      "スフォッリャテッラ",
+      "スフォリアテッラ・リッチャ"
+    ],
+    "englishName": "Sfogliatella",
+    "originalName": "Sfogliatella",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "カンパーニア州"
+      }
+    ],
+    "summary": "ナポリ名物の貝殻形の焼き菓子。薄い生地を何層にも重ねてひだを作り、中にリコッタやセモリナ、柑橘ピールのクリームを詰めて焼く。複数形はスフォリアテッレ。",
+    "menuDescription": "幾重にも重ねた薄い生地を貝殻形に巻き、リコッタとオレンジピールのフィリングを包んで香ばしく焼き上げたナポリの伝統菓子です。",
+    "whatComesOut": [
+      "貝殻のような筋が何層も入った焼き菓子",
+      "中にリコッタと柑橘ピールのクリーム",
+      "上から振った粉砂糖",
+      "焼きたての温かい状態で出ることも多い"
+    ],
+    "tasteAndTexture": [
+      "バリバリと音がするほど硬く香ばしい層状の生地",
+      "リコッタとセモリナのしっとりしたフィリング",
+      "オレンジピールやシナモンの爽やかな香り"
+    ],
+    "orderAdvice": "ナポリの朝食や軽いおやつの定番。焼きたての温かいものが最高。生地はかなり硬くポロポロ崩れるので、手で持ってかぶりつくのがおすすめ。サクッと軽いパイが好きなら気に入るはず。",
+    "caution": "小麦・乳製品を使用。生地にラードを使うことが多い。",
+    "similarItems": [
+      {
+        "id": "cannolo",
+        "name": "カンノーロ",
+        "difference": "カンノーロはシチリアの揚げ菓子で、筒状の皮に甘いリコッタを詰める。"
+      },
+      {
+        "id": "croissant",
+        "name": "クロワッサン",
+        "difference": "クロワッサンはバター層でふんわり軽い。スフォリアテッラは生地が硬く、バリバリした食感。"
+      }
+    ],
+    "relatedIds": [
+      "cannolo",
+      "ricotta",
+      "croissant"
+    ],
+    "source": [
+      "https://www.superprof.jp/blog/famous-italian-recipes/",
+      "https://ja.wikipedia.org/wiki/スフォリアテッラ",
+      "https://en.wikipedia.org/wiki/Sfogliatella"
+    ],
+    "tags": [
+      "イタリア料理",
+      "菓子",
+      "小麦",
+      "チーズ",
+      "焼き物",
+      "サクサク",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "プリン",
+      "ゼリー",
+      "パンナコッタ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sfogliatella/1.jpg",
+      "/images/dishes/sfogliatella/2.jpg"
+    ]
+  },
+  {
+    "id": "colomba-pasquale",
+    "name": "コロンバ・パスクアーレ",
+    "kana": "ころんばぱすくあーれ",
+    "aliases": [
+      "コロンバ",
+      "コロンバ・ディ・パスクア",
+      "イースターの鳩のパン"
+    ],
+    "englishName": "Colomba di Pasqua",
+    "originalName": "Colomba pasquale",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "イタリア"
+      }
+    ],
+    "summary": "「復活祭の鳩」を意味する、イタリアの伝統的なイースター用発酵菓子。パネットーネに似た生地を鳩の形に焼き、アーモンドとあられ糖のアイシングをのせる。",
+    "menuDescription": "天然酵母でじっくり発酵させたバター香る生地にオレンジピールを練り込み、鳩の形に焼き上げてアーモンドのグラサージュをまとわせたイースターの伝統菓子です。",
+    "whatComesOut": [
+      "鳩の形をした大きな発酵菓子（切り分けて提供）",
+      "表面のアーモンドとあられ糖のカリッとしたアイシング",
+      "生地の中に散らばるオレンジピール"
+    ],
+    "tasteAndTexture": [
+      "ふんわり軽く、しっとりした発酵生地",
+      "バターと卵のやさしい甘さ",
+      "オレンジピールの爽やかな香り",
+      "表面のアーモンドの香ばしさ"
+    ],
+    "orderAdvice": "復活祭の時期（3〜4月）限定でイタリアの菓子店やスーパーに並ぶ季節菓子。パネットーネが好きなら確実に気に入る。レーズン入りのパネットーネと違い、レーズンは基本入らない。",
+    "caution": "小麦・卵・乳製品・アーモンドを使用。",
+    "similarItems": [
+      {
+        "id": "panettone",
+        "name": "パネットーネ",
+        "difference": "パネットーネはクリスマス用で、ドーム形でレーズン入り。コロンバはイースター用の鳩形で、ピールとアーモンドのアイシング。"
+      },
+      {
+        "id": "pandoro",
+        "name": "パンドーロ",
+        "difference": "パンドーロはクリスマス用の星形の発酵菓子で、フルーツを入れず粉砂糖をかける。"
+      },
+      {
+        "id": "stollen",
+        "name": "シュトーレン",
+        "difference": "シュトーレンはドイツのクリスマス菓子で、ドライフルーツを練り込んだ重く詰まった生地。"
+      }
+    ],
+    "relatedIds": [
+      "panettone",
+      "pandoro",
+      "stollen"
+    ],
+    "source": [
+      "https://www.superprof.jp/blog/famous-italian-recipes/",
+      "https://en.wikipedia.org/wiki/Colomba_di_Pasqua"
+    ],
+    "tags": [
+      "イタリア料理",
+      "菓子",
+      "小麦",
+      "ナッツ",
+      "発酵",
+      "ふわふわ",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "せんべい",
+      "チーズケーキ",
+      "ゼリー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/colomba-pasquale/1.jpg",
+      "/images/dishes/colomba-pasquale/2.jpg",
+      "/images/dishes/colomba-pasquale/3.jpg"
+    ]
+  },
+  {
+    "id": "limoncello",
+    "name": "リモンチェッロ",
+    "kana": "りもんちぇっろ",
+    "aliases": [
+      "リモンチェロ",
+      "レモンチェッロ",
+      "イタリアのレモンリキュール"
+    ],
+    "englishName": "Limoncello",
+    "originalName": "Limoncello",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "イタリア",
+        "area": "カンパーニア州"
+      }
+    ],
+    "summary": "レモンの皮をアルコールに漬け、砂糖水で割って作るイタリア南部のレモンリキュール。アマルフィ海岸やソレント半島が本場で、食後酒の定番。",
+    "menuDescription": "アマルフィ産レモンの皮を漬け込んだ自家製リモンチェッロ。キンキンに冷やしてストレートでどうぞ。",
+    "whatComesOut": [
+      "冷凍庫で冷やした鮮やかな黄色のリキュール",
+      "冷やした小さなショットグラスやリキュールグラス",
+      "食後のサービスとして店から出されることも"
+    ],
+    "tasteAndTexture": [
+      "レモンの皮の強く爽やかな香り",
+      "とろりとした甘さ",
+      "アルコール度数30%前後の強い飲み口",
+      "冷えた口当たりで後味はすっきり"
+    ],
+    "orderAdvice": "食後酒として少量をストレートで飲むのが本場流。甘くて飲みやすいが度数は高いので、一気飲みは注意。お酒が弱ければソーダ割りにしてもらうとよい。",
+    "caution": "アルコール度数が高い（30%前後）。未成年・運転前は不可。",
+    "similarItems": [
+      {
+        "name": "グラッパ",
+        "difference": "グラッパはブドウの搾りかすから作る無色の蒸留酒で、甘さがなく辛口。"
+      },
+      {
+        "name": "梅酒",
+        "difference": "梅酒は梅の実を漬けるリキュールで度数が低め。リモンチェッロはレモンの皮を漬け、度数が高い。"
+      }
+    ],
+    "relatedIds": [
+      "gelato",
+      "tiramisu"
+    ],
+    "source": [
+      "https://www.superprof.jp/blog/famous-italian-recipes/",
+      "https://ja.wikipedia.org/wiki/リモンチェッロ",
+      "https://en.wikipedia.org/wiki/Limoncello"
+    ],
+    "tags": [
+      "イタリア料理",
+      "果物",
+      "酸味",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "ビール",
+      "ウイスキー",
+      "ノンアルコールドリンク"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/limoncello/1.jpg",
+      "/images/dishes/limoncello/2.jpg",
+      "/images/dishes/limoncello/3.jpg"
+    ]
   }
 ]
