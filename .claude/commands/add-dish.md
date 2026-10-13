@@ -34,7 +34,8 @@ argument-hint: <料理名>
   relatedIds: string[] // 既存dishesのidから関連するもの
   source: string[]     // ソース調査で取得したURLの配列
   tags: string[]       // 検索・フィルタ用タグ（4〜8個）— タグ方針参照
-  reverseKeywords: string[] // この料理が苦手な人が好むもの（3〜5個）
+  reverseKeywords: string[] // この料理が苦手な人が好むもの（3〜5個、自タグと重複禁止。「〜が苦手」等の属性は avoidedBy へ）
+  avoidedBy?: string[] // この料理を避けたい人の属性（例: 辛いものが苦手 / 乳製品不可 / 卵アレルギー）
   beginnerFriendlyScore: 1|2|3|4|5  // 初心者に向いているか
   uniquenessScore: 1|2|3|4|5        // 珍しさ・個性
   heavinessScore: 1|2|3|4|5         // 重さ・ボリューム感

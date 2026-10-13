@@ -7,11 +7,11 @@ import { segmentUnknown } from "./segmenter"
 import { expandSynonyms, ALL_SYNONYM_TERMS } from "./synonyms"
 import { TAG_VOCABULARY } from "./tagVocabulary"
 
-// 実データのtags/reverseKeywordsから既知語を集める。1文字語は誤分割の
+// 実データのtags/reverseKeywords/avoidedByから既知語を集める。1文字語は誤分割の
 // もとになるため除外する。
 const DATA_VOCABULARY = new Set<string>()
 for (const dish of allDishes) {
-  for (const term of [...dish.tags, ...dish.reverseKeywords]) {
+  for (const term of [...dish.tags, ...dish.reverseKeywords, ...(dish.avoidedBy ?? [])]) {
     if (term.length >= 2) DATA_VOCABULARY.add(term)
   }
 }

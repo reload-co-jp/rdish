@@ -16,7 +16,6 @@ export function searchDishes(dishes: DishItem[], query: string): DishItem[] {
     const aliases = (item.aliases ?? []).map(normalize)
     const summary = normalize(item.summary)
     const tags = item.tags.map(normalize)
-    const reverseKeywords = item.reverseKeywords.map(normalize)
 
     if (name === q) score += 100
     else if (name.startsWith(q)) score += 80
@@ -31,7 +30,6 @@ export function searchDishes(dishes: DishItem[], query: string): DishItem[] {
 
     if (tags.some((t) => t.includes(q))) score += 40
     if (summary.includes(q)) score += 20
-    if (reverseKeywords.some((k) => k.includes(q))) score += 20
 
     return { item, score }
   })

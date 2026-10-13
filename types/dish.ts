@@ -43,6 +43,8 @@ export type DishItem = {
   images?: string[]
   tags: string[]
   reverseKeywords: string[]
+  // この料理を避けたい人の属性（例: 辛いものが苦手 / 乳製品不可）。lib/dietary.ts が参照
+  avoidedBy?: string[]
   beginnerFriendlyScore: 1 | 2 | 3 | 4 | 5
   uniquenessScore: 1 | 2 | 3 | 4 | 5
   heavinessScore: 1 | 2 | 3 | 4 | 5

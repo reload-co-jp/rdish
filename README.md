@@ -255,6 +255,7 @@ export type DishItem = {
   images?: string[]
   tags: string[]
   reverseKeywords: string[]
+  avoidedBy?: string[]
   beginnerFriendlyScore: 1 | 2 | 3 | 4 | 5
   uniquenessScore: 1 | 2 | 3 | 4 | 5
   heavinessScore: 1 | 2 | 3 | 4 | 5
@@ -401,7 +402,6 @@ englishName 一致: +50
 originalName 一致: +50
 tag 一致: +40
 summary 一致: +20
-reverseKeywords 一致: +20
 ```
 
 ## 10.4 localStorage

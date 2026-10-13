@@ -1,15 +1,14 @@
 import type { DishCategory, DishItem } from "../types/dish"
 import { allDishes } from "./dishes"
 
-// data/dishes.json の reverseKeywords は「この料理が苦手な人が好むもの」、
-// つまり “その料理を避けたい人の属性” を表す。素直に一覧化すると
+// data/dishes.json の avoidedBy は “その料理を避けたい人の属性” を表す。素直に一覧化すると
 // 「辛いの苦手 → 麻婆豆腐」という逆の結果になるため、キーワードは
 // 避けるべき料理（avoid）を特定する手がかりとして使い、
 // おすすめ側（safe）はそこから除外したうえでタグ・スコアで絞り込む。
 export type DietaryAxis = {
   slug: string
   label: string
-  // 表記ゆれを含む reverseKeywords。ここに一致した料理は avoid 側に入る
+  // 表記ゆれを含む avoidedBy。ここに一致した料理は avoid 側に入る
   keywords: string[]
   // キーワードが付いていなくても該当する料理を拾うためのタグ・カテゴリ
   avoidTags?: string[]
@@ -603,7 +602,7 @@ export type DietaryTopic = {
 }
 
 function matchesKeyword(dish: DishItem, keywords: string[]): boolean {
-  return dish.reverseKeywords.some((keyword) => keywords.includes(keyword))
+  return (dish.avoidedBy ?? []).some((keyword) => keywords.includes(keyword))
 }
 
 const dishTextCache = new Map<string, string>()
