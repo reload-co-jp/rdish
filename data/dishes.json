@@ -227385,5 +227385,348 @@
       "/images/dishes/limoncello/2.jpg",
       "/images/dishes/limoncello/3.jpg"
     ]
+  },
+  {
+    "id": "fasolada",
+    "name": "ファソラーダ",
+    "kana": "ふぁそらーだ",
+    "aliases": [
+      "ファスラーダ",
+      "ファソウラーダ",
+      "ギリシャ風白いんげん豆のスープ"
+    ],
+    "englishName": "Fasolada",
+    "originalName": "Φασολάδα",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ギリシャ"
+      },
+      {
+        "country": "キプロス"
+      }
+    ],
+    "summary": "乾燥白いんげん豆をトマト、にんじん、セロリ、玉ねぎなどの野菜とオリーブオイルで煮込むギリシャ・キプロスのスープ。「ギリシャの国民食」とも呼ばれる。",
+    "menuDescription": "白いんげん豆を香味野菜とトマト、たっぷりのオリーブオイルでやさしく煮込み、オレガノで香りづけしたギリシャの家庭の味です。",
+    "whatComesOut": [
+      "白いんげん豆がたっぷり入ったトマト色のスープ",
+      "やわらかく煮えたにんじん・セロリ・玉ねぎ",
+      "表面に浮かぶオリーブオイル",
+      "パンやフェタチーズ、オリーブが添えられることも"
+    ],
+    "tasteAndTexture": [
+      "ほっくりとした豆の食感",
+      "トマトと野菜の素朴でやさしい甘み",
+      "オリーブオイルのコクとオレガノの香り"
+    ],
+    "orderAdvice": "肉を使わないことが多く、野菜と豆で作る素朴で体にやさしいスープ。ボリュームはあるが重くないので、ベジタリアンや軽めの食事にも向く。パンを浸して食べるのがギリシャ流。",
+    "caution": "セロリを使用。",
+    "similarItems": [
+      {
+        "id": "minestrone",
+        "name": "ミネストローネ",
+        "difference": "ミネストローネは多種の野菜にパスタや米を加えるイタリアのスープ。ファソラーダは白いんげん豆が主役。"
+      },
+      {
+        "id": "pasta-e-fagioli",
+        "name": "パスタ・エ・ファジョーリ",
+        "difference": "パスタ・エ・ファジョーリは豆とパスタを煮込むイタリア料理で、よりとろみがある。"
+      },
+      {
+        "id": "harira",
+        "name": "ハリラ",
+        "difference": "ハリラはひよこ豆やレンズ豆、肉、スパイスを使うモロッコのスープで、より濃厚でスパイシー。"
+      }
+    ],
+    "relatedIds": [
+      "minestrone",
+      "pasta-e-fagioli",
+      "greek-salad",
+      "spanakopita",
+      "tzatziki"
+    ],
+    "source": [
+      "https://www.sbfoods.co.jp/recipe/feature/detail/174.html",
+      "https://www.sbfoods.co.jp/recipe/detail/10303.html",
+      "https://en.wikipedia.org/wiki/Fasolada"
+    ],
+    "tags": [
+      "ギリシャ料理",
+      "スープ",
+      "豆類",
+      "野菜",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ステーキ",
+      "唐揚げ",
+      "クリームシチュー",
+      "ラーメン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fasolada/1.jpg",
+      "/images/dishes/fasolada/2.jpg"
+    ]
+  },
+  {
+    "id": "carne-de-porco-a-alentejana",
+    "name": "カルネ・デ・ポルコ・ア・アレンテジャーナ",
+    "kana": "かるねでぽるこあれんてじゃーな",
+    "aliases": [
+      "アレンテージョ風豚肉とあさり",
+      "アレンティージョ風煮込み",
+      "豚肉とあさりのアレンテージョ風",
+      "ポルコ・ア・アレンテジャーナ"
+    ],
+    "englishName": "Carne de porco à alentejana",
+    "originalName": "Carne de porco à alentejana",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ポルトガル"
+      }
+    ],
+    "summary": "白ワインやパプリカ、ニンニクでマリネした豚肉を炒め、あさりを加えて蒸し煮にするポルトガルの代表的な料理。角切りのフライドポテトとコリアンダーを添えるのが定番。",
+    "menuDescription": "パプリカとニンニク、白ワインに漬け込んだ豚肉をこんがり焼き、あさりの旨みと一緒に蒸し煮にしました。フライドポテトとパクチーを添えたポルトガルの伝統料理です。",
+    "whatComesOut": [
+      "パプリカ色に染まった角切りの豚肉",
+      "殻付きのあさり",
+      "角切りのフライドポテト（または焼いたじゃがいも）",
+      "たっぷり散らしたコリアンダー（パクチー）",
+      "くし切りのレモン"
+    ],
+    "tasteAndTexture": [
+      "豚肉とあさりの旨みが合わさった濃いうまみ",
+      "パプリカとニンニクの香ばしい香り",
+      "スープを吸ったポテトのおいしさ",
+      "パクチーとレモンの爽やかさ"
+    ],
+    "orderAdvice": "「肉と貝」の組み合わせが意外だが、旨みの相乗効果で非常に食べやすい。ポルトガル料理店の定番で、初めてでも外しにくい。パクチーが苦手なら抜いてもらうとよい。",
+    "caution": "豚肉・貝類（あさり）を使用。パクチーが多く入る。",
+    "similarItems": [
+      {
+        "id": "feijoada",
+        "name": "フェイジョアーダ",
+        "difference": "フェイジョアーダは豆と豚肉の煮込み。アレンテジャーナは豆を使わず、あさりと合わせる。"
+      },
+      {
+        "id": "marmitako",
+        "name": "マルミタコ",
+        "difference": "マルミタコはまぐろとじゃがいもをトマトとパプリカで煮込むスペインの料理。"
+      }
+    ],
+    "relatedIds": [
+      "feijoada",
+      "bacalhau",
+      "marmitako",
+      "chorizo"
+    ],
+    "source": [
+      "https://www.sbfoods.co.jp/recipe/feature/detail/174.html",
+      "https://www.sbfoods.co.jp/recipe/detail/06630.html",
+      "https://en.wikipedia.org/wiki/Carne_de_porco_%C3%A0_alentejana"
+    ],
+    "tags": [
+      "ポルトガル料理",
+      "主菜",
+      "豚肉",
+      "貝類",
+      "煮込み",
+      "香ばしい",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ハンバーグ",
+      "とんかつ",
+      "カレー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/carne-de-porco-a-alentejana/1.jpg",
+      "/images/dishes/carne-de-porco-a-alentejana/2.jpg",
+      "/images/dishes/carne-de-porco-a-alentejana/3.jpg"
+    ]
+  },
+  {
+    "id": "moroccan-salad",
+    "name": "モロッコ風サラダ",
+    "kana": "もろっこふうさらだ",
+    "aliases": [
+      "モロッコサラダ",
+      "サラド・マロケーヌ",
+      "モロッカンサラダ"
+    ],
+    "englishName": "Moroccan salad",
+    "originalName": "Salade marocaine",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "モロッコ"
+      }
+    ],
+    "summary": "角切りのトマト、きゅうり、紫玉ねぎをオリーブオイル、レモン汁、クミンで和えるモロッコの定番サラダ。パクチーやパセリで香りをつけ、前菜や付け合わせにする。",
+    "menuDescription": "完熟トマトときゅうり、紫玉ねぎを細かく刻み、クミンとレモンのドレッシングで和えました。パクチーが香る爽やかなモロッコ風サラダです。",
+    "whatComesOut": [
+      "細かい角切りのトマトときゅうり",
+      "みじん切りの紫玉ねぎ",
+      "刻んだパクチーやイタリアンパセリ",
+      "クミンとレモンのオイルドレッシング"
+    ],
+    "tasteAndTexture": [
+      "クミンの香ばしくエキゾチックな香り",
+      "レモンの酸味でさっぱり",
+      "シャキシャキと瑞々しい野菜"
+    ],
+    "orderAdvice": "タジンやクスクスなど煮込み料理の箸休めにぴったりの軽いサラダ。クミンの香りが特徴なので、カレー風味の香りが好きなら気に入るはず。パクチーの量は店によって違う。",
+    "caution": "パクチーを使うことが多い。",
+    "similarItems": [
+      {
+        "id": "coban-salatasi",
+        "name": "チョバン・サラタス",
+        "difference": "チョバン・サラタスはトルコの刻み野菜サラダで、ピーマンを加え、クミンは使わないことが多い。"
+      },
+      {
+        "id": "greek-salad",
+        "name": "ギリシャサラダ",
+        "difference": "ギリシャサラダは大ぶりに切った野菜にフェタチーズとオリーブ、オレガノを合わせる。"
+      },
+      {
+        "id": "pico-de-gallo",
+        "name": "ピコ・デ・ガヨ",
+        "difference": "ピコ・デ・ガヨはトマトと玉ねぎ、唐辛子、ライムで作るメキシコのサルサで、辛みがある。"
+      }
+    ],
+    "relatedIds": [
+      "coban-salatasi",
+      "greek-salad",
+      "taboule",
+      "tajin",
+      "couscous"
+    ],
+    "source": [
+      "https://www.sbfoods.co.jp/recipe/feature/detail/174.html",
+      "https://www.sbfoods.co.jp/recipe/detail/09847.html",
+      "https://www.kitchenfrau.com/moroccan-salad/"
+    ],
+    "tags": [
+      "モロッコ料理",
+      "サラダ",
+      "野菜",
+      "スパイス",
+      "生食",
+      "酸味",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ポテトサラダ",
+      "シーザーサラダ",
+      "コールスロー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/moroccan-salad/1.jpg",
+      "/images/dishes/moroccan-salad/2.jpg",
+      "/images/dishes/moroccan-salad/3.jpg"
+    ]
+  },
+  {
+    "id": "lamb-tagine-with-prunes",
+    "name": "ラムとプルーンのタジン",
+    "kana": "らむとぷるーんのたじん",
+    "aliases": [
+      "ラムとプルーンのタジン風煮込み",
+      "羊肉とプルーンのタジン",
+      "タジン・ラム・プルーン",
+      "タジン・オ・プリュノー"
+    ],
+    "englishName": "Lamb tagine",
+    "originalName": "Tajine d'agneau aux pruneaux",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "モロッコ"
+      }
+    ],
+    "summary": "ラム肉をシナモンやしょうが、コリアンダーなどのスパイスと玉ねぎでじっくり煮込み、プルーンとアーモンドを加えたモロッコの甘じょっぱいタジン料理。祝いの席でも供される。",
+    "menuDescription": "ラム肉をシナモンやターメリックなどのスパイスとともにやわらかく煮込み、プルーンの甘みと香ばしいアーモンドを合わせたモロッコ伝統のタジンです。",
+    "whatComesOut": [
+      "とんがり帽子形の蓋のタジン鍋に入った煮込み",
+      "ほろほろに煮えたラム肉",
+      "つやのあるプルーン",
+      "炒ったアーモンドやごまのトッピング",
+      "クスクスやパン（ホブス）が添えられることも"
+    ],
+    "tasteAndTexture": [
+      "ラムのコクとプルーンの濃厚な甘みの組み合わせ",
+      "シナモンやしょうがの温かいスパイスの香り",
+      "フォークでほぐれるやわらかい肉",
+      "アーモンドのカリッとした食感がアクセント"
+    ],
+    "orderAdvice": "肉料理なのに甘いという独特の味わいで、酢豚や甘辛煮が好きなら楽しめる。スパイスは香り中心で辛くない。ラムの香りが苦手なら鶏肉のタジンを選ぶとよい。",
+    "caution": "ナッツ（アーモンド）・ごまを使用。",
+    "similarItems": [
+      {
+        "id": "tajin",
+        "name": "タジン",
+        "difference": "タジンは円錐形の鍋で作る煮込み全般。本品はラム、プルーン、アーモンドで甘みをつけた代表的な一種。"
+      },
+      {
+        "id": "harira",
+        "name": "ハリラ",
+        "difference": "ハリラは豆と肉を使うモロッコのスープで、甘みはない。"
+      },
+      {
+        "name": "ラムカレー",
+        "difference": "ラムカレーは唐辛子の辛みがある。タジンは辛さがなく、果物の甘みを生かす。"
+      }
+    ],
+    "relatedIds": [
+      "tajin",
+      "couscous",
+      "harira",
+      "lamb",
+      "moroccan-salad"
+    ],
+    "source": [
+      "https://www.sbfoods.co.jp/recipe/feature/detail/174.html",
+      "https://www.sbfoods.co.jp/recipe/detail/10304.html",
+      "https://grantourismotravels.com/moroccan-lamb-tagine-prunes-almonds-recipe/"
+    ],
+    "tags": [
+      "モロッコ料理",
+      "主菜",
+      "羊肉",
+      "スパイス",
+      "煮込み",
+      "甘み",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "塩焼き",
+      "ステーキ",
+      "照り焼きチキン",
+      "焼き鳥"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/lamb-tagine-with-prunes/1.jpg",
+      "/images/dishes/lamb-tagine-with-prunes/2.jpg",
+      "/images/dishes/lamb-tagine-with-prunes/3.jpg"
+    ]
   }
 ]
