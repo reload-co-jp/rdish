@@ -20,6 +20,10 @@ import {
   countryTagCombos,
 } from "../lib/countryTagCombos"
 import { allDishes } from "../lib/dishes"
+import {
+  reverseKeywordGroups,
+  reverseKeywordPath,
+} from "../lib/reverseKeywords"
 import { dishMatchesRegion } from "../lib/region"
 import { categoryItems, countryItems, tagItems } from "../lib/taxonomy"
 
@@ -133,6 +137,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly" as const,
       priority: 0.6,
     })),
+    ...reverseKeywordGroups.map(({ slug }) => ({
+      url: `${SITE_URL}${reverseKeywordPath(slug)}`,
+      changeFrequency: "monthly" as const,
+      priority: 0.5,
+    })),
   ]
 
   const articleUrls = allArticles.map((article) => ({
@@ -149,6 +158,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...paginatedUrls,
     page("/reverse/", "monthly", 0.7),
     page("/reverse/k/", "monthly", 0.7),
+    page("/reverse/kw/", "monthly", 0.6),
     page("/categories/", "monthly", 0.7),
     page("/countries/", "monthly", 0.7),
     page("/tags/", "monthly", 0.7),

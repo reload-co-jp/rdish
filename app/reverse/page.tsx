@@ -87,6 +87,19 @@ export default function ReversePage() {
         >
           苦手なもの・アレルギーから探す →
         </Link>
+        <Link
+          href="/reverse/kw/"
+          style={{
+            color: "var(--c-accent)",
+            display: "block",
+            fontSize: "0.875rem",
+            fontWeight: 600,
+            marginTop: "0.375rem",
+            textDecoration: "none",
+          }}
+        >
+          特徴で比べる料理グループ →
+        </Link>
       </p>
 
       <form
