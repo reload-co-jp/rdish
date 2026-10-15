@@ -1,6 +1,8 @@
 import Link from "next/link"
-import { FC } from "react"
+import { FC, Fragment } from "react"
 import { DishCard } from "./DishCard"
+import { AD_INTERVAL } from "./DishesPageContent"
+import { InArticleAd } from "../elements/AdSense"
 import { paginate, totalPages } from "../../lib/pagination"
 import type { DishItem } from "../../types/dish"
 
@@ -95,21 +97,24 @@ export const CountryPageContent: FC<Props> = ({
     <div>
       <div className="dish-list">
         {dishes.map((dish, index) => (
-          <div key={dish.id} style={{ position: "relative" }}>
-            <div
-              style={{
-                position: "absolute",
-                bottom: "var(--sp-6)",
-                right: 0,
-                color: "var(--c-text-sub)",
-                fontFamily: "var(--font-serif)",
-                fontSize: "var(--fs-sm)",
-              }}
-            >
-              #{offset + index + 1}
+          <Fragment key={dish.id}>
+            {index > 0 && index % AD_INTERVAL === 0 && <InArticleAd />}
+            <div style={{ position: "relative" }}>
+              <div
+                style={{
+                  position: "absolute",
+                  bottom: "var(--sp-6)",
+                  right: 0,
+                  color: "var(--c-text-sub)",
+                  fontFamily: "var(--font-serif)",
+                  fontSize: "var(--fs-sm)",
+                }}
+              >
+                #{offset + index + 1}
+              </div>
+              <DishCard dish={dish} />
             </div>
-            <DishCard dish={dish} />
-          </div>
+          </Fragment>
         ))}
       </div>
       <Pagination countryId={countryId} current={page} total={total} />

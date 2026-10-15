@@ -6,7 +6,7 @@ import { paginate, totalPages as totalPagesOf } from "../../lib/pagination"
 import type { DishItem } from "../../types/dish"
 
 export const PAGE_SIZE = 30
-const AD_INTERVAL = 10
+export const AD_INTERVAL = 10
 
 export function paginateDishes(allDishes: DishItem[], page: number) {
   return paginate(allDishes, page, PAGE_SIZE)

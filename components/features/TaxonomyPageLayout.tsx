@@ -1,8 +1,10 @@
 import Image from "next/image"
 import Link from "next/link"
-import { FC } from "react"
+import { FC, Fragment } from "react"
+import { InArticleAd } from "../elements/AdSense"
 import { Breadcrumb } from "../elements/Breadcrumb"
 import { DishCard } from "./DishCard"
+import { AD_INTERVAL } from "./DishesPageContent"
 import type { DishItem } from "../../types/dish"
 import { CUISINE_TAGS } from "../../lib/cuisine"
 import { categoryPath, tagPath } from "../../lib/taxonomy"
@@ -265,8 +267,11 @@ export const TaxonomyPageLayout: FC<Props> = ({
         </div>
       ) : (
         <div className="dish-list">
-          {results.map((dish) => (
-            <DishCard key={dish.id} dish={dish} />
+          {results.map((dish, index) => (
+            <Fragment key={dish.id}>
+              {index > 0 && index % AD_INTERVAL === 0 && <InArticleAd />}
+              <DishCard dish={dish} />
+            </Fragment>
           ))}
         </div>
       )}
