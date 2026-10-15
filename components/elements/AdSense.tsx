@@ -26,7 +26,7 @@ const AdSense = () => {
       style={{ display: "block", padding: ".5rem", minHeight: "100px" }}
       data-ad-client="ca-pub-6542845006087970"
       data-ad-slot="7749597693"
-      data-ad-format="auto"
+      data-ad-format="horizontal"
       data-full-width-responsive="true"
     />
   )
