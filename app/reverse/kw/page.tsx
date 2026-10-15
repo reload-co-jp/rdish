@@ -5,6 +5,8 @@ import {
   reverseKeywordPath,
 } from "../../../lib/reverseKeywords"
 
+const SITE_URL = "https://rdish.reload.co.jp"
+
 const title = "特徴で比べる料理グループ"
 const description =
   "「あっさり」「辛い料理」「魚料理」などと対照的な持ち味ごとに料理をグループ化。共通する特徴と、重さ・辛さ・食べやすさの違いを並べて紹介します。"
@@ -17,8 +19,25 @@ export const metadata = {
 }
 
 export default function ReverseKeywordIndexPage() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: title,
+    url: `${SITE_URL}/reverse/kw/`,
+    hasPart: reverseKeywordGroups.map(({ slug, keyword, dishes }) => ({
+      "@type": "ItemList",
+      name: `「${keyword}」と対照的な料理`,
+      url: `${SITE_URL}${reverseKeywordPath(slug)}`,
+      numberOfItems: dishes.length,
+    })),
+  }
+
   return (
     <div>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <Breadcrumb
         items={[
           { label: "逆引き検索", href: "/reverse/" },

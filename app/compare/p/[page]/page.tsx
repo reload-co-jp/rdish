@@ -6,7 +6,13 @@ import {
   paginateComparisons,
   totalPages,
 } from "../../../../components/features/ComparisonsPageContent"
-import { allComparisons, comparePageUrl } from "../../../../lib/comparisons"
+import {
+  allComparisons,
+  comparePageUrl,
+  comparisonPath,
+} from "../../../../lib/comparisons"
+
+const SITE_URL = "https://rdish.reload.co.jp"
 
 const count = allComparisons.length
 
@@ -46,9 +52,24 @@ export default async function ComparePaginatedPage({
   const total = totalPages(count)
   if (isNaN(page) || page < 2 || page > total) notFound()
   const comparisons = paginateComparisons(allComparisons, page)
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: `料理の違い比較一覧（${page}ページ目）`,
+    url: `${SITE_URL}${comparePageUrl(page)}`,
+    hasPart: comparisons.map((comparison) => ({
+      "@type": "WebPage",
+      name: `${comparison.a.name}と${comparison.b.name}の違い`,
+      url: `${SITE_URL}${comparisonPath(comparison.slug)}`,
+    })),
+  }
 
   return (
     <div>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <Breadcrumb
         items={[
           { label: "違いを比較", href: "/compare/" },
