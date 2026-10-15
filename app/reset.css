@@ -36,7 +36,6 @@
   --radius: 2px;
   --w-wide: 76rem;
   --w-content: 48rem;
-  --w-reading: 40rem;
   --gutter: clamp(1rem, 0.5rem + 2.5vw, 2.5rem);
   --ease: cubic-bezier(0.2, 0.6, 0.2, 1);
 
@@ -748,11 +747,6 @@ input:focus-visible {
 
 .article-hero figcaption {
   margin-top: var(--sp-2);
-}
-
-.article-body {
-  max-width: var(--w-reading);
-  margin: 0 auto;
 }
 
 /* fluid 記事内広告は枠幅で高さが決まる → 幅を絞って小さめに */
