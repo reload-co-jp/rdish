@@ -1,6 +1,11 @@
 import { notFound } from "next/navigation"
 import { Breadcrumb } from "../../../../../components/elements/Breadcrumb"
+import { Fragment } from "react"
+import AdSense, {
+  InArticleAd,
+} from "../../../../../components/elements/AdSense"
 import { DishCard } from "../../../../../components/features/DishCard"
+import { AD_INTERVAL } from "../../../../../components/features/DishesPageContent"
 import {
   comboIngredientPath,
   countryIngredientCombos,
@@ -96,10 +101,14 @@ export default async function CountryIngredientPage({
         の料理を集めました。メニューで見かけたときに、どんな料理か・味の特徴・注文のコツをすぐ調べられます。
       </p>
       <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
-        {combo.dishes.map((dish) => (
-          <DishCard key={dish.id} dish={dish} />
+        {combo.dishes.map((dish, index) => (
+          <Fragment key={dish.id}>
+            {index > 0 && index % AD_INTERVAL === 0 && <InArticleAd />}
+            <DishCard dish={dish} />
+          </Fragment>
         ))}
       </div>
+      <AdSense />
     </div>
   )
 }

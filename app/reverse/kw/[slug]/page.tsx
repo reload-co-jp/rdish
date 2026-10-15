@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { notFound } from "next/navigation"
 import { Breadcrumb } from "../../../../components/elements/Breadcrumb"
+import AdSense from "../../../../components/elements/AdSense"
 import { DishCard } from "../../../../components/features/DishCard"
 import { ScoreBadge } from "../../../../components/features/ScoreBadge"
 import {
@@ -239,6 +240,8 @@ export default async function ReverseKeywordPage({
           </table>
         </div>
       </section>
+
+      <AdSense />
 
       {alternatives.length > 0 && (
         <section style={{ marginBottom: "2rem" }}>

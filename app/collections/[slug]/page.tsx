@@ -1,6 +1,9 @@
 import { notFound } from "next/navigation"
 import { Breadcrumb } from "../../../components/elements/Breadcrumb"
+import { Fragment } from "react"
+import AdSense, { InArticleAd } from "../../../components/elements/AdSense"
 import { DishCard } from "../../../components/features/DishCard"
+import { AD_INTERVAL } from "../../../components/features/DishesPageContent"
 import {
   allCollections,
   collectionBySlug,
@@ -82,10 +85,14 @@ export default async function CollectionPage({
         {collection.description}
       </p>
       <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
-        {collection.dishes.map((dish) => (
-          <DishCard key={dish.id} dish={dish} />
+        {collection.dishes.map((dish, index) => (
+          <Fragment key={dish.id}>
+            {index > 0 && index % AD_INTERVAL === 0 && <InArticleAd />}
+            <DishCard dish={dish} />
+          </Fragment>
         ))}
       </div>
+      <AdSense />
     </div>
   )
 }

@@ -4,7 +4,10 @@ import { notFound } from "next/navigation"
 import { Breadcrumb } from "../../../../components/elements/Breadcrumb"
 import { DietaryNote } from "../../../../components/features/DietaryNote"
 import { DietaryTopicLinks } from "../../../../components/features/DietaryTopicLinks"
+import { Fragment } from "react"
+import AdSense, { InArticleAd } from "../../../../components/elements/AdSense"
 import { DishCard } from "../../../../components/features/DishCard"
+import { AD_INTERVAL } from "../../../../components/features/DishesPageContent"
 import {
   avoidPath,
   avoidTopicBySlug,
@@ -124,10 +127,14 @@ export default async function DietarySafePage({
       )}
 
       <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
-        {topic.safeDishes.map((dish) => (
-          <DishCard key={dish.id} dish={dish} />
+        {topic.safeDishes.map((dish, index) => (
+          <Fragment key={dish.id}>
+            {index > 0 && index % AD_INTERVAL === 0 && <InArticleAd />}
+            <DishCard dish={dish} />
+          </Fragment>
         ))}
       </div>
+      <AdSense />
 
       <section style={{ marginTop: "2rem" }}>
         <h2
