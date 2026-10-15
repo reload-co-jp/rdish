@@ -755,6 +755,12 @@ input:focus-visible {
   margin: 0 auto;
 }
 
+/* fluid 記事内広告は枠幅で高さが決まる → 幅を絞って小さめに */
+.article-body .adsbygoogle {
+  max-width: 400px;
+  margin: var(--sp-8) auto;
+}
+
 .article-lead {
   font-size: var(--fs-lg);
   line-height: 2;

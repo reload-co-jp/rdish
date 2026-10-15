@@ -1,6 +1,8 @@
 import Link from "next/link"
 import { notFound } from "next/navigation"
+import { Fragment } from "react"
 import { Breadcrumb } from "../../../components/elements/Breadcrumb"
+import { InArticleAd } from "../../../components/elements/AdSense"
 import { Photo } from "../../../components/elements/Photo"
 import { articleCover, formatDate } from "../../../lib/editorial"
 import {
@@ -117,15 +119,16 @@ export default async function ArticlePage({
             <HistorySection entries={article.history} />
           )}
 
-          {article.regions.map((region) => (
-            <RegionSection
-              key={region.heading}
-              region={region}
-              allDishes={allDishes}
-            />
+          {article.regions.map((region, index) => (
+            <Fragment key={region.heading}>
+              {index % 2 === 0 && <InArticleAd />}
+              <RegionSection region={region} allDishes={allDishes} />
+            </Fragment>
           ))}
 
           <ComparisonSection rows={article.comparison} />
+
+          <InArticleAd />
 
           {article.callouts.map((callout) => (
             <CalloutSection key={callout.heading} callout={callout} />
