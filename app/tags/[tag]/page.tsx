@@ -1,6 +1,8 @@
+import Link from "next/link"
 import { notFound } from "next/navigation"
 import { TaxonomyPageLayout } from "../../../components/features/TaxonomyPageLayout"
 import { allDishes } from "../../../lib/dishes"
+import { tagPairPath, tagPairsForBase } from "../../../lib/tagPairs"
 import { tagItems, taxonomyById } from "../../../lib/taxonomy"
 
 const SITE_URL = "https://rdish.reload.co.jp"
@@ -128,6 +130,7 @@ export default async function TagPage({
     item.description ??
     `「${item.label}」は、料理を整理するためのキーワードです。`
   const jsonLd = buildTagJsonLd(item, results)
+  const pairs = tagPairsForBase(item.id)
 
   return (
     <TaxonomyPageLayout
@@ -138,6 +141,38 @@ export default async function TagPage({
       description={description}
       results={results}
       jsonLd={jsonLd}
-    />
+    >
+      {pairs.length > 0 && (
+        <div
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            gap: "0.5rem",
+            alignItems: "center",
+            marginBottom: "1.5rem",
+          }}
+        >
+          <span style={{ color: "var(--c-text-sub)", fontSize: "0.75rem" }}>
+            料理別:
+          </span>
+          {pairs.map((pair) => (
+            <Link
+              key={pair.subId}
+              href={tagPairPath(pair)}
+              style={{
+                color: "var(--c-accent)",
+                fontSize: "0.8125rem",
+                background: "var(--c-tint)",
+                borderRadius: "var(--radius)",
+                padding: "0.125rem 0.625rem",
+                textDecoration: "none",
+              }}
+            >
+              {pair.subLabel} {pair.dishes.length}
+            </Link>
+          ))}
+        </div>
+      )}
+    </TaxonomyPageLayout>
   )
 }

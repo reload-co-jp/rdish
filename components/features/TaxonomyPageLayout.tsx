@@ -1,6 +1,6 @@
 import Image from "next/image"
 import Link from "next/link"
-import { FC, Fragment } from "react"
+import { FC, Fragment, ReactNode } from "react"
 import { InArticleAd } from "../elements/AdSense"
 import { Breadcrumb } from "../elements/Breadcrumb"
 import { DishCard } from "./DishCard"
@@ -17,6 +17,7 @@ type Props = {
   description: string
   results: DishItem[]
   jsonLd: object
+  children?: ReactNode
 }
 
 const OTHER_CUISINE_GROUP = "その他"
@@ -58,6 +59,7 @@ export const TaxonomyPageLayout: FC<Props> = ({
   description,
   results,
   jsonLd,
+  children,
 }) => {
   const heroImages = results
     .filter((d) => d.images?.[0])
@@ -114,6 +116,7 @@ export const TaxonomyPageLayout: FC<Props> = ({
       >
         {description}
       </p>
+      {children}
 
       {heroImages.length >= 3 && (
         <div

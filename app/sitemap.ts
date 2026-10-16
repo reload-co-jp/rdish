@@ -14,11 +14,13 @@ import {
 } from "../lib/comparisons"
 import { avoidPath, avoidTopics, safePath, safeTopics } from "../lib/dietary"
 import {
-  comboIngredientPath,
-  comboPath,
+  comboHref,
+  countryFlavorCombos,
   countryIngredientCombos,
+  countryMethodCombos,
   countryTagCombos,
 } from "../lib/countryTagCombos"
+import { tagPairPath, tagPairs } from "../lib/tagPairs"
 import { allDishes } from "../lib/dishes"
 import {
   reverseKeywordGroups,
@@ -91,19 +93,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }))
 
-  const comboUrls = countryTagCombos.map(({ countryId, tagId }) => ({
-    url: `${SITE_URL}${comboPath(countryId, tagId)}`,
+  const comboUrls = [
+    ...countryTagCombos,
+    ...countryIngredientCombos,
+    ...countryMethodCombos,
+    ...countryFlavorCombos,
+  ].map((combo) => ({
+    url: `${SITE_URL}${comboHref(combo)}`,
     changeFrequency: "monthly" as const,
     priority: 0.6,
   }))
 
-  const ingredientComboUrls = countryIngredientCombos.map(
-    ({ countryId, tagId }) => ({
-      url: `${SITE_URL}${comboIngredientPath(countryId, tagId)}`,
-      changeFrequency: "monthly" as const,
-      priority: 0.6,
-    })
-  )
+  const tagPairUrls = tagPairs.map((pair) => ({
+    url: `${SITE_URL}${tagPairPath(pair)}`,
+    changeFrequency: "monthly" as const,
+    priority: 0.6,
+  }))
 
   const collectionUrls = allCollections.map(({ slug }) => ({
     url: `${SITE_URL}${collectionPath(slug)}`,
@@ -172,7 +177,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...countryUrls,
     ...countryPaginatedUrls,
     ...comboUrls,
-    ...ingredientComboUrls,
+    ...tagPairUrls,
     ...collectionUrls,
     ...comparePaginatedUrls,
     ...comparisonUrls,

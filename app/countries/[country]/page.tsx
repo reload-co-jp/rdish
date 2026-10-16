@@ -7,10 +7,9 @@ import {
   paginateCountryDishes,
 } from "../../../components/features/CountryPageContent"
 import {
-  comboIngredientPath,
-  comboPath,
-  combosForCountry,
-  ingredientCombosForCountry,
+  comboHref,
+  combosOfKind,
+  type CombosKind,
 } from "../../../lib/countryTagCombos"
 import { allDishes } from "../../../lib/dishes"
 import { dishMatchesRegion } from "../../../lib/region"
@@ -103,8 +102,19 @@ export default async function CountryPage({
     if (detail === prefecture) group.prefItem = loc
     else group.children.push(loc)
   }
-  const combos = combosForCountry(item.id)
-  const ingredientCombos = ingredientCombosForCountry(item.id)
+  const comboGroups = (
+    [
+      ["category", "料理カテゴリ別"],
+      ["ingredient", "主食材別"],
+      ["method", "調理法別"],
+      ["flavor", "味・食感別"],
+    ] as [CombosKind, string][]
+  )
+    .map(([kind, label]) => ({
+      label,
+      combos: combosOfKind(kind).filter((c) => c.countryId === item.id),
+    }))
+    .filter(({ combos }) => combos.length > 0)
 
   const categoryCounts = new Map<string, number>()
   const tagCounts = new Map<string, number>()
@@ -313,23 +323,24 @@ export default async function CountryPage({
             </div>
           )
         })()}
-      {combos.length > 0 && (
+      {comboGroups.map(({ label, combos }, i) => (
         <div
+          key={label}
           style={{
             display: "flex",
             flexWrap: "wrap",
             gap: "0.5rem",
             alignItems: "center",
-            marginBottom: "0.75rem",
+            marginBottom: i === comboGroups.length - 1 ? "1.5rem" : "0.75rem",
           }}
         >
           <span style={{ color: "var(--c-text-sub)", fontSize: "0.75rem" }}>
-            料理カテゴリ別:
+            {label}:
           </span>
           {combos.map((combo) => (
             <Link
               key={combo.tagId}
-              href={comboPath(combo.countryId, combo.tagId)}
+              href={comboHref(combo)}
               style={{
                 color: "var(--c-accent)",
                 fontSize: "0.8125rem",
@@ -343,38 +354,7 @@ export default async function CountryPage({
             </Link>
           ))}
         </div>
-      )}
-      {ingredientCombos.length > 0 && (
-        <div
-          style={{
-            display: "flex",
-            flexWrap: "wrap",
-            gap: "0.5rem",
-            alignItems: "center",
-            marginBottom: "1.5rem",
-          }}
-        >
-          <span style={{ color: "var(--c-text-sub)", fontSize: "0.75rem" }}>
-            主食材別:
-          </span>
-          {ingredientCombos.map((combo) => (
-            <Link
-              key={combo.tagId}
-              href={comboIngredientPath(combo.countryId, combo.tagId)}
-              style={{
-                color: "var(--c-accent)",
-                fontSize: "0.8125rem",
-                background: "var(--c-tint)",
-                borderRadius: "var(--radius)",
-                padding: "0.125rem 0.625rem",
-                textDecoration: "none",
-              }}
-            >
-              {combo.tagLabel} {combo.dishes.length}
-            </Link>
-          ))}
-        </div>
-      )}
+      ))}
       {(topCategories.length > 1 || topTags.length > 0) && (
         <div
           style={{

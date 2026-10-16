@@ -9,8 +9,8 @@ import {
 } from "../../lib/comparisons"
 import {
   combosForDish,
-  comboIngredientPath,
-  comboPath,
+  comboHref,
+  comboTagName,
 } from "../../lib/countryTagCombos"
 import { regionLabel } from "../../lib/region"
 import { dishesUsingSpice, isSpiceOrCondiment } from "../../lib/spiceUsage"
@@ -593,19 +593,14 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
           {combos.map((combo) => (
             <Link
               key={`${combo.kind}-${combo.tagId}`}
-              href={
-                combo.kind === "category"
-                  ? comboPath(combo.countryId, combo.tagId)
-                  : comboIngredientPath(combo.countryId, combo.tagId)
-              }
+              href={comboHref(combo)}
               style={{
                 color: "var(--c-accent)",
                 fontSize: "0.875rem",
                 textDecoration: "none",
               }}
             >
-              → {combo.countryLabel}の{combo.tagLabel}
-              {combo.kind === "ingredient" ? "料理" : ""}一覧を見る
+              → {combo.countryLabel}の{comboTagName(combo)}一覧を見る
             </Link>
           ))}
           <Link
