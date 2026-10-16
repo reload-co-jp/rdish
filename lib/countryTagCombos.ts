@@ -1,7 +1,7 @@
 import type { DishItem } from "../types/dish"
 import { allDishes } from "./dishes"
-import { dishMatchesRegion, regionLabel } from "./region"
-import { countryItems, tagItems } from "./taxonomy"
+import { dishMatchesRegion } from "./region"
+import { categoryItems, countryItems, tagItems } from "./taxonomy"
 
 export const COMBO_MIN_DISHES = 5
 
@@ -77,7 +77,30 @@ const FLAVOR_PHRASES: Record<string, string> = {
   サクサク: "サクサク食感の料理",
 }
 
-export type CombosKind = "category" | "ingredient" | "method" | "flavor"
+// 次元6（場面・格式）タグのみ掛け合わせ対象
+const DIM6_TAG_LABELS = [
+  "郷土料理",
+  "家庭料理",
+  "伝統料理",
+  "宮廷料理",
+  "大衆料理",
+  "祝祭料理",
+  "精進料理",
+  "屋台料理",
+  "コース料理",
+  "季節料理",
+]
+
+export const BEGINNER_MIN_SCORE = 4
+
+export type CombosKind =
+  | "category"
+  | "ingredient"
+  | "method"
+  | "flavor"
+  | "scene"
+  | "type"
+  | "beginner"
 
 export type CountryTagCombo = {
   kind: CombosKind
@@ -92,19 +115,28 @@ const dim2Tags = tagItems.filter((tag) => DIM2_TAG_LABELS.includes(tag.label))
 const dim3Tags = tagItems.filter((tag) => DIM3_TAG_LABELS.includes(tag.label))
 const dim4Tags = tagItems.filter((tag) => DIM4_TAG_LABELS.includes(tag.label))
 const dim5Tags = tagItems.filter((tag) => tag.label in FLAVOR_PHRASES)
+const dim6Tags = tagItems.filter((tag) => DIM6_TAG_LABELS.includes(tag.label))
 
-function buildCombos(
-  kind: CombosKind,
-  dimTags: typeof tagItems
-): CountryTagCombo[] {
+type ComboKey = {
+  id: string
+  label: string
+  match: (dish: DishItem) => boolean
+}
+
+const byTag = (tags: typeof tagItems): ComboKey[] =>
+  tags.map(({ id, label }) => ({
+    id,
+    label,
+    match: (dish) => dish.tags.includes(label),
+  }))
+
+function buildCombos(kind: CombosKind, keys: ComboKey[]): CountryTagCombo[] {
   return countryItems.flatMap((country) => {
     const countryDishes = allDishes.filter((dish) =>
       dishMatchesRegion(dish, country.label)
     )
-    return dimTags.flatMap((tag) => {
-      const dishes = countryDishes.filter((dish) =>
-        dish.tags.includes(tag.label)
-      )
+    return keys.flatMap((tag) => {
+      const dishes = countryDishes.filter(tag.match)
       if (dishes.length < COMBO_MIN_DISHES) return []
       return [
         {
@@ -122,20 +154,49 @@ function buildCombos(
 
 export const countryTagCombos: CountryTagCombo[] = buildCombos(
   "category",
-  dim2Tags
+  byTag(dim2Tags)
 )
 export const countryIngredientCombos: CountryTagCombo[] = buildCombos(
   "ingredient",
-  dim3Tags
+  byTag(dim3Tags)
 )
 
 export const countryMethodCombos: CountryTagCombo[] = buildCombos(
   "method",
-  dim4Tags
+  byTag(dim4Tags)
 )
 export const countryFlavorCombos: CountryTagCombo[] = buildCombos(
   "flavor",
-  dim5Tags
+  byTag(dim5Tags)
+)
+
+export const countrySceneCombos: CountryTagCombo[] = buildCombos(
+  "scene",
+  byTag(dim6Tags)
+)
+// 料理以外のカテゴリ（チーズ / 香辛料 / 飲み物 等）
+export const countryTypeCombos: CountryTagCombo[] = buildCombos(
+  "type",
+  categoryItems
+    // デザートは国×カテゴリ（t/）と重複するので除外
+    .filter(({ label }) => label !== "料理" && label !== "デザート")
+    .map(({ id, label }) => ({
+      id,
+      label,
+      match: (dish) => dish.category === label,
+    }))
+)
+export const countryBeginnerCombos: CountryTagCombo[] = buildCombos(
+  "beginner",
+  [
+    {
+      id: "beginner",
+      label: "初めてでも頼みやすい料理",
+      match: (dish) =>
+        dish.category === "料理" &&
+        dish.beginnerFriendlyScore >= BEGINNER_MIN_SCORE,
+    },
+  ]
 )
 
 const KIND_SEGMENT: Record<CombosKind, string> = {
@@ -143,6 +204,9 @@ const KIND_SEGMENT: Record<CombosKind, string> = {
   ingredient: "i",
   method: "m",
   flavor: "f",
+  scene: "s",
+  type: "c",
+  beginner: "",
 }
 
 const COMBOS_BY_KIND: Record<CombosKind, CountryTagCombo[]> = {
@@ -150,9 +214,14 @@ const COMBOS_BY_KIND: Record<CombosKind, CountryTagCombo[]> = {
   ingredient: countryIngredientCombos,
   method: countryMethodCombos,
   flavor: countryFlavorCombos,
+  scene: countrySceneCombos,
+  type: countryTypeCombos,
+  beginner: countryBeginnerCombos,
 }
 
 export function comboHref(combo: CountryTagCombo): string {
+  if (combo.kind === "beginner")
+    return `/countries/${combo.countryId}/beginner/`
   return `/countries/${combo.countryId}/${KIND_SEGMENT[combo.kind]}/${combo.tagId}/`
 }
 
@@ -204,12 +273,7 @@ export function findIngredientCombo(
 }
 
 export function combosForDish(dish: DishItem): CountryTagCombo[] {
-  const dishRegionLabels = new Set(dish.regions.map(regionLabel))
   return Object.values(COMBOS_BY_KIND)
     .flat()
-    .filter(
-      (combo) =>
-        dishRegionLabels.has(combo.countryLabel) &&
-        dish.tags.includes(combo.tagLabel)
-    )
+    .filter((combo) => combo.dishes.some((d) => d.id === dish.id))
 }

@@ -18,7 +18,10 @@ import {
   countryFlavorCombos,
   countryIngredientCombos,
   countryMethodCombos,
+  countrySceneCombos,
   countryTagCombos,
+  countryTypeCombos,
+  countryBeginnerCombos,
 } from "../lib/countryTagCombos"
 import { tagPairPath, tagPairs } from "../lib/tagPairs"
 import { allDishes } from "../lib/dishes"
@@ -98,6 +101,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...countryIngredientCombos,
     ...countryMethodCombos,
     ...countryFlavorCombos,
+    ...countrySceneCombos,
+    ...countryTypeCombos,
+    ...countryBeginnerCombos,
   ].map((combo) => ({
     url: `${SITE_URL}${comboHref(combo)}`,
     changeFrequency: "monthly" as const,

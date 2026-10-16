@@ -108,6 +108,9 @@ export default async function CountryPage({
       ["ingredient", "主食材別"],
       ["method", "調理法別"],
       ["flavor", "味・食感別"],
+      ["scene", "場面別"],
+      ["type", "食材・飲み物"],
+      ["beginner", "初めての人向け"],
     ] as [CombosKind, string][]
   )
     .map(([kind, label]) => ({
