@@ -3,17 +3,29 @@ import type { ReactNode } from "react"
 import { extractSearchTerms } from "./dishTerms"
 import type { DishItem } from "../types/dish"
 
-type TermMap = Map<string, string> // term → dish id
+type TermIndex = { map: Map<string, string[]>; regex: RegExp | null } // term → dish ids
 
-function buildTermMap(dishes: DishItem[], currentId: string): TermMap {
-  const map: TermMap = new Map()
+// 正規表現（1万語超）のコンパイルは高コスト → dishes 配列ごとに1回だけ構築
+const termIndexCache = new WeakMap<DishItem[], TermIndex>()
+
+function getTermIndex(dishes: DishItem[]): TermIndex {
+  const cached = termIndexCache.get(dishes)
+  if (cached) return cached
+  const map = new Map<string, string[]>()
   for (const dish of dishes) {
-    if (dish.id === currentId) continue
     for (const term of extractSearchTerms(dish)) {
-      if (!map.has(term)) map.set(term, dish.id)
+      const ids = map.get(term)
+      if (ids) ids.push(dish.id)
+      else map.set(term, [dish.id])
     }
   }
-  return map
+  const terms = [...map.keys()].sort((a, b) => b.length - a.length)
+  const regex = terms.length
+    ? new RegExp(`(${terms.map(escapeRe).join("|")})`, "g")
+    : null
+  const index = { map, regex }
+  termIndexCache.set(dishes, index)
+  return index
 }
 
 function escapeRe(s: string) {
@@ -26,17 +38,13 @@ export function linkifyText(
   currentId: string,
   linkStyle?: React.CSSProperties
 ): ReactNode[] {
-  const map = buildTermMap(dishes, currentId)
-  if (map.size === 0) return [text]
-
-  const terms = [...map.keys()].sort((a, b) => b.length - a.length)
-  const pattern = terms.map(escapeRe).join("|")
-  const regex = new RegExp(`(${pattern})`, "g")
+  const { map, regex } = getTermIndex(dishes)
+  if (!regex) return [text]
 
   const parts = text.split(regex)
 
   return parts.map((part, i) => {
-    const dishId = map.get(part)
+    const dishId = map.get(part)?.find((id) => id !== currentId)
     if (!dishId) return part
     return (
       <Link
