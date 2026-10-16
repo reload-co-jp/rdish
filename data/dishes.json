@@ -231737,5 +231737,1402 @@
       "/images/dishes/lamb-tagine-with-prunes/2.jpg",
       "/images/dishes/lamb-tagine-with-prunes/3.jpg"
     ]
+  },
+  {
+    "id": "com-tam",
+    "name": "コムタム",
+    "kana": "こむたむ",
+    "aliases": [
+      "コムスオン",
+      "砕き米ご飯",
+      "Com Tam"
+    ],
+    "englishName": "Broken rice",
+    "originalName": "Cơm tấm",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      },
+      {
+        "locality": "ホーチミン"
+      }
+    ],
+    "summary": "砕けた米（砕米）を炊いたご飯に、甘辛く焼いた骨付き豚スペアリブや目玉焼きをのせたベトナム南部の定番ワンプレート。もとは売り物にならない砕米を農家が食べたのが始まりで、サイゴン（ホーチミン）の大衆食として知られる。",
+    "menuDescription": "砕米のご飯に炭火焼きの豚リブ・目玉焼き・なますなどをのせ、甘酸っぱい魚醤だれ（ヌクチャム）をかけて食べるプレートご飯。",
+    "whatComesOut": [
+      "砕米を炊いた小粒のご飯",
+      "甘辛く焼いた骨付き豚リブ（スオン）",
+      "目玉焼きや豚皮の和え物（ビー）・蒸し卵焼き（チャー）",
+      "にんじんと大根のなます、きゅうり、トマト",
+      "小皿のヌクチャム（魚醤だれ）とネギ油"
+    ],
+    "tasteAndTexture": [
+      "炭火の香ばしさと甘めのたれが染みた豚肉",
+      "砕米ならではのほろっと軽いご飯の食感",
+      "魚醤だれの甘酸っぱさとネギ油のコク"
+    ],
+    "orderAdvice": "ベトナム版の焼き肉定食で、味は甘辛く日本人にもなじみやすい。迷ったら「スオン・ビー・チャー」（リブ・豚皮・卵焼き）全部のせが定番。たれは魚醤なので、苦手なら少量から。",
+    "caution": "魚醤（魚）、卵を使用。",
+    "similarItems": [
+      {
+        "id": "hainanese-chicken-rice",
+        "name": "海南鶏飯",
+        "difference": "海南鶏飯は茹で鶏と鶏だしご飯、コムタムは焼き豚と砕米ご飯"
+      },
+      {
+        "id": "bun-cha",
+        "name": "ブンチャー",
+        "difference": "どちらも炭火焼き豚と魚醤だれだが、ブンチャーは米麺、コムタムはご飯"
+      },
+      {
+        "id": "nasi-lemak",
+        "name": "ナシレマ",
+        "difference": "ナシレマはココナッツご飯にサンバル、コムタムは砕米に甘辛い焼き豚"
+      }
+    ],
+    "relatedIds": [
+      "bun-cha",
+      "banhmi",
+      "nam-pla",
+      "hainanese-chicken-rice"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes",
+      "https://en.wikipedia.org/wiki/C%C6%A1m_t%E1%BA%A5m",
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%A0%E3%82%BF%E3%83%A0"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "ご飯もの",
+      "豚肉",
+      "米",
+      "炭火焼き",
+      "甘み",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "白身魚の蒸し物",
+      "野菜スープ",
+      "冷奴",
+      "サラダボウル"
+    ],
+    "avoidedBy": [
+      "魚醤が苦手",
+      "卵アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/com-tam/1.jpg",
+      "/images/dishes/com-tam/2.jpg",
+      "/images/dishes/com-tam/3.jpg"
+    ]
+  },
+  {
+    "id": "cao-lau",
+    "name": "カオラウ",
+    "kana": "かおらう",
+    "aliases": [
+      "カオ・ルー",
+      "カオラオ",
+      "Cao Lau"
+    ],
+    "englishName": "Cao lau",
+    "originalName": "Cao lầu",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      },
+      {
+        "locality": "ホイアン"
+      }
+    ],
+    "summary": "ホイアン名物の汁なし和え麺。灰汁（アルカリ水）に浸した米で作るコシの強い太麺に、焼豚・生野菜・揚げせんべいをのせ、少量の濃いたれで和える。日本の伊勢うどん由来説や中国の乾撈麺由来説がある。",
+    "menuDescription": "ホイアン伝統の太い米麺に、焼豚・ハーブ・揚げた麺生地のクルトンをのせ、甘辛いたれを少量かけた和え麺。",
+    "whatComesOut": [
+      "黄色みがかったコシのある太い米麺",
+      "スライスした焼豚（チャーシュー）",
+      "レタス・ミント・もやしなどの生野菜",
+      "カリカリに揚げた麺生地のせんべい",
+      "器の底に少しだけ溜まる濃いめのたれ"
+    ],
+    "tasteAndTexture": [
+      "うどんのようなもっちり・ゴワッとした歯ごたえ",
+      "甘辛い焼豚とたれのコク",
+      "生ハーブの清涼感と揚げせんべいのサクサク感"
+    ],
+    "orderAdvice": "ホイアンでしか本物が食べられないとされるご当地麺。スープ麺ではなく汁少なめの和え麺なので、フォーのような汁物を期待すると違う。ボリュームは控えめで小腹にちょうど良い。",
+    "caution": "豚肉・小麦（たれに醤油）を含む場合あり。",
+    "similarItems": [
+      {
+        "id": "mi-quang",
+        "name": "ミークアン",
+        "difference": "同じクアンナム地方の汁少なめ麺だが、ミークアンはウコン色の平麺でピーナッツやエビをのせる"
+      },
+      {
+        "id": "udon",
+        "name": "うどん",
+        "difference": "カオラウは米麺だが、太さとコシがうどんに近いと言われる"
+      },
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーはたっぷりのスープ麺、カオラウは汁なし和え麺"
+      }
+    ],
+    "relatedIds": [
+      "pho",
+      "udon",
+      "char-siu"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes",
+      "https://en.wikipedia.org/wiki/Cao_l%E1%BA%A7u",
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%AA%E3%83%A9%E3%82%A6"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "麺料理",
+      "豚肉",
+      "米",
+      "ハーブ",
+      "もちもち",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "スープたっぷりのラーメン",
+      "冷やし中華",
+      "クリームパスタ"
+    ],
+    "avoidedBy": [
+      "パクチーが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/cao-lau/1.jpg",
+      "/images/dishes/cao-lau/2.jpg",
+      "/images/dishes/cao-lau/3.jpg"
+    ]
+  },
+  {
+    "id": "banh-trang-nuong",
+    "name": "バインチャンヌン",
+    "kana": "ばいんちゃんぬん",
+    "aliases": [
+      "バインチャンヌオン",
+      "ベトナムピザ",
+      "Banh Trang Nuong",
+      "バインダーヌン"
+    ],
+    "englishName": "Grilled rice paper",
+    "originalName": "Bánh tráng nướng",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      },
+      {
+        "locality": "ダラット"
+      }
+    ],
+    "summary": "ライスペーパーを炭火で炙り、ウズラ卵・ネギ・ひき肉・干しエビなどをのせてパリッと焼き上げる屋台軽食。「ベトナムのピザ」と呼ばれ、若者に人気のストリートフード。",
+    "menuDescription": "薄いライスペーパーに卵と具材を塗り広げ、炭火でパリパリに焼いたベトナム風ピザ。チリソースやマヨネーズをかけ、半分に折って食べる。",
+    "whatComesOut": [
+      "炭火で焼いた円形のライスペーパー",
+      "表面に塗ったウズラ卵とネギ",
+      "ひき肉・干しエビ・ソーセージなどのトッピング",
+      "チリソースやマヨネーズのソース"
+    ],
+    "tasteAndTexture": [
+      "せんべいのようなパリパリ食感",
+      "卵とネギの香ばしさ",
+      "甘辛いチリソースのジャンクな味わい"
+    ],
+    "orderAdvice": "夜の屋台で焼きたてをその場で食べる軽食。1枚が小さく安いので、食べ歩きのおやつ感覚で頼むと良い。辛さはチリソースの量で調整できる。",
+    "caution": "卵・エビ（甲殻類）を使用。",
+    "similarItems": [
+      {
+        "id": "pizza",
+        "name": "ピザ",
+        "difference": "ピザは小麦生地を窯焼き、バインチャンヌンはライスペーパーを炭火で炙る"
+      },
+      {
+        "id": "okonomiyaki",
+        "name": "お好み焼き",
+        "difference": "お好み焼きは厚い粉生地、バインチャンヌンは薄くパリパリ"
+      },
+      {
+        "id": "banh-xeo",
+        "name": "バインセオ",
+        "difference": "バインセオは米粉生地を焼くクレープ、バインチャンヌンは既製のライスペーパーを炙る"
+      }
+    ],
+    "relatedIds": [
+      "pizza",
+      "okonomiyaki",
+      "banhmi"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes",
+      "https://en.wikipedia.org/wiki/B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "軽食",
+      "米",
+      "卵",
+      "炭火焼き",
+      "サクサク",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "煮込み料理",
+      "しっとりケーキ",
+      "蒸し料理"
+    ],
+    "avoidedBy": [
+      "卵アレルギー",
+      "甲殻類アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/banh-trang-nuong/1.jpg",
+      "/images/dishes/banh-trang-nuong/2.jpg",
+      "/images/dishes/banh-trang-nuong/3.jpg"
+    ]
+  },
+  {
+    "id": "mi-quang",
+    "name": "ミークアン",
+    "kana": "みーくあん",
+    "aliases": [
+      "ミー・クアン",
+      "クアン麺",
+      "Mi Quang"
+    ],
+    "englishName": "Quang noodles",
+    "originalName": "Mì Quảng",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      },
+      {
+        "locality": "クアンナム"
+      },
+      {
+        "locality": "ダナン"
+      }
+    ],
+    "summary": "ベトナム中部クアンナム省・ダナン発祥の汁少なめ麺。ウコンで黄色く色づけた平たい米麺に、エビ・豚肉・鶏肉などと濃いめのスープを少量かけ、ピーナッツとゴマせんべいを添える。",
+    "menuDescription": "ウコン色の平たい米麺に、エビや豚肉の具と少なめの濃厚スープをかけ、砕いたピーナッツ・ハーブ・ゴマせんべいを添えた中部名物の麺。",
+    "whatComesOut": [
+      "黄色い平たい米麺",
+      "エビ・豚肉・鶏肉・ウズラ卵などの具",
+      "麺が浸る程度の少量の濃いスープ",
+      "砕いたピーナッツとバナナの花・ハーブ",
+      "割って入れるゴマ入りライスせんべい（バインダー）"
+    ],
+    "tasteAndTexture": [
+      "濃縮された甘みとコクのあるスープ",
+      "ピーナッツとせんべいの香ばしいカリカリ感",
+      "つるっとした平麺と生ハーブの爽やかさ"
+    ],
+    "orderAdvice": "ダナン・ホイアン旅行で必食の郷土麺。スープが少ないのは仕様なので、よく混ぜて和え麺のように食べる。せんべいは割って麺に入れると食感のアクセントになる。",
+    "caution": "ピーナッツ（ナッツアレルギー注意）、エビ（甲殻類）を使用。",
+    "similarItems": [
+      {
+        "id": "cao-lau",
+        "name": "カオラウ",
+        "difference": "カオラウは灰汁を使った太麺と焼豚、ミークアンはウコン色の平麺にエビ・ピーナッツ"
+      },
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーは澄んだスープたっぷり、ミークアンはスープ少なめで濃い"
+      },
+      {
+        "id": "khao-soi",
+        "name": "カオソーイ",
+        "difference": "カオソーイはココナッツカレースープの卵麺、ミークアンは米麺の汁少なめ麺"
+      }
+    ],
+    "relatedIds": [
+      "pho",
+      "turmeric",
+      "khao-soi"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes",
+      "https://en.wikipedia.org/wiki/M%C3%AC_Qu%E1%BA%A3ng"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "麺料理",
+      "米",
+      "魚介",
+      "ナッツ",
+      "香ばしい",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "あっさり塩ラーメン",
+      "ざるそば",
+      "クリームスープ"
+    ],
+    "avoidedBy": [
+      "ナッツアレルギー",
+      "甲殻類アレルギー",
+      "パクチーが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/mi-quang/1.jpg",
+      "/images/dishes/mi-quang/2.jpg",
+      "/images/dishes/mi-quang/3.jpg"
+    ]
+  },
+  {
+    "id": "banh-xeo",
+    "name": "バインセオ",
+    "kana": "ばいんせお",
+    "aliases": [
+      "ベトナム風お好み焼き",
+      "ベトナム風クレープ",
+      "Banh Xeo"
+    ],
+    "englishName": "Vietnamese crepe",
+    "originalName": "Bánh xèo",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      },
+      {
+        "area": "メコンデルタ"
+      }
+    ],
+    "summary": "米粉・ココナッツミルク・ウコンの黄色い生地を熱した鍋でパリッと焼き、豚肉・エビ・もやしを挟んだベトナム南部の粉もの。名前は生地を流したときの「ジューッ（セオ）」という音に由来。",
+    "menuDescription": "ターメリック色の米粉クレープで豚肉・エビ・もやしを包んだ料理。ちぎって生野菜やハーブで巻き、ヌクチャム（甘酸っぱい魚醤だれ）につけて食べる。",
+    "whatComesOut": [
+      "半月状に折った大きな黄色いクレープ",
+      "中に豚肉・エビ・もやし・緑豆",
+      "からし菜・レタス・ミントなどの葉野菜とハーブ",
+      "ヌクチャム（魚醤だれ）"
+    ],
+    "tasteAndTexture": [
+      "縁はパリパリ、中はしっとりした生地",
+      "ココナッツの甘い香りとエビ・豚の旨み",
+      "生野菜で巻くことで軽くさっぱり"
+    ],
+    "orderAdvice": "見た目は大きいが生地は薄く、野菜と一緒に食べるので意外と軽い。数人でシェアする前菜にも主菜にもなる。手で野菜に巻いて食べるのが現地流。",
+    "caution": "エビ（甲殻類）、魚醤を使用。",
+    "similarItems": [
+      {
+        "id": "okonomiyaki",
+        "name": "お好み焼き",
+        "difference": "お好み焼きは小麦とキャベツの厚焼き、バインセオは米粉の薄焼きで具を挟む"
+      },
+      {
+        "id": "crepe",
+        "name": "クレープ",
+        "difference": "クレープは小麦生地で甘いものが多い、バインセオは米粉で塩味の具"
+      },
+      {
+        "id": "banh-can",
+        "name": "バインカン",
+        "difference": "バインカンは一口サイズのたこ焼き型、バインセオは大判のクレープ"
+      }
+    ],
+    "relatedIds": [
+      "okonomiyaki",
+      "crepe",
+      "turmeric",
+      "nam-pla"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes",
+      "https://en.wikipedia.org/wiki/B%C3%A1nh_x%C3%A8o",
+      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%83%B3%E3%82%BB%E3%82%AA"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "主菜",
+      "米",
+      "魚介",
+      "焼き物",
+      "サクサク",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "煮魚",
+      "茶碗蒸し",
+      "ポタージュ"
+    ],
+    "avoidedBy": [
+      "甲殻類アレルギー",
+      "魚醤が苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/banh-xeo/1.jpg",
+      "/images/dishes/banh-xeo/2.jpg",
+      "/images/dishes/banh-xeo/3.jpg"
+    ]
+  },
+  {
+    "id": "xoi",
+    "name": "ソイ",
+    "kana": "そい",
+    "aliases": [
+      "ベトナムおこわ",
+      "ソイ・ガック",
+      "Xoi"
+    ],
+    "englishName": "Vietnamese sticky rice",
+    "originalName": "Xôi",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      }
+    ],
+    "summary": "もち米を蒸して作るベトナムのおこわ。緑豆・ピーナッツ・トウモロコシなどを混ぜたり、鶏肉や揚げエシャロットをのせたりと20種類以上あり、安価な朝食として屋台で売られる。",
+    "menuDescription": "蒸したもち米に緑豆・揚げエシャロット・鶏肉やソーセージなどをのせたベトナムのおこわ。甘いデザート系（ソイ・ゴット）もある。",
+    "whatComesOut": [
+      "葉や紙に包まれた、または器に盛ったもち米",
+      "緑豆ペーストや揚げエシャロットのトッピング",
+      "鶏肉・豚肉でんぶ・ソーセージ・卵（塩味系の場合）",
+      "色付きのもち米（五色おこわ・赤いガック実のおこわなど）"
+    ],
+    "tasteAndTexture": [
+      "ずっしり密度の高いもちもち食感",
+      "もち米本来のほのかな甘み",
+      "揚げエシャロットの香ばしさ"
+    ],
+    "orderAdvice": "朝の屋台で持ち帰りが基本の腹持ちの良い朝食。塩味系（鶏・豚でんぶ）と甘い系（ココナッツ・砂糖）があるので、どちらか確認して注文を。",
+    "similarItems": [
+      {
+        "id": "okowa",
+        "name": "おこわ",
+        "difference": "日本のおこわは醤油味や赤飯が中心、ソイはトッピングで塩味にも甘味にもなる"
+      },
+      {
+        "id": "khao-niao",
+        "name": "カオ・ニヤオ",
+        "difference": "カオ・ニヤオはタイ・ラオスの主食として手で食べるもち米、ソイはトッピング付きの一品料理"
+      },
+      {
+        "id": "you-fan",
+        "name": "油飯",
+        "difference": "油飯は豚肉や干しエビと炒め蒸しする台湾おこわ、ソイは蒸したもち米に具をのせる"
+      }
+    ],
+    "relatedIds": [
+      "okowa",
+      "khao-niao",
+      "you-fan",
+      "shallot"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes",
+      "https://en.wikipedia.org/wiki/X%C3%B4i"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "ご飯もの",
+      "米",
+      "豆類",
+      "蒸し料理",
+      "もちもち",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "トースト",
+      "シリアル",
+      "サラダ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/xoi/1.png",
+      "/images/dishes/xoi/2.jpg",
+      "/images/dishes/xoi/3.jpg"
+    ]
+  },
+  {
+    "id": "banh-beo",
+    "name": "バインベオ",
+    "kana": "ばいんべお",
+    "aliases": [
+      "フエの小皿蒸し餅",
+      "Banh Beo"
+    ],
+    "englishName": "Water fern cake",
+    "originalName": "Bánh bèo",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      },
+      {
+        "locality": "フエ"
+      }
+    ],
+    "summary": "フエ発祥の一口サイズの米粉蒸し餅。小皿で蒸した餅の中央のくぼみに、干しエビのでんぶや揚げ豚皮、ネギ油をのせ、魚醤だれをかけて食べる。",
+    "menuDescription": "小さなお皿ごと蒸した米粉の餅に、エビのでんぶと揚げ豚皮・ネギ油をのせたフエ名物。甘めの魚醤だれをかけ、スプーンですくって食べる。",
+    "whatComesOut": [
+      "小皿に入った白い蒸し餅が10枚前後",
+      "上にのった干しエビのでんぶ（ピンク色）",
+      "カリカリの揚げ豚皮とネギ油",
+      "かけ用の甘めの魚醤だれ"
+    ],
+    "tasteAndTexture": [
+      "ぷるっと柔らかく、もちっとした餅",
+      "エビの旨みと揚げ豚皮の香ばしさ",
+      "甘辛い魚醤だれの風味"
+    ],
+    "orderAdvice": "タパスのような前菜・おやつで、一皿ずつ小さいので何皿でも食べられる。フエでは他の蒸し餅（バインナム・バインボッロック）とセットで頼むと食べ比べができる。",
+    "caution": "エビ（甲殻類）、魚醤を使用。",
+    "similarItems": [
+      {
+        "id": "banh-cuon",
+        "name": "バインクオン",
+        "difference": "バインクオンは薄い米粉シートで具を巻く、バインベオは小皿で蒸した一口餅"
+      },
+      {
+        "id": "cheung-fun",
+        "name": "腸粉",
+        "difference": "腸粉は広東の米粉蒸し巻き、バインベオはトッピングをのせた小皿蒸し"
+      }
+    ],
+    "relatedIds": [
+      "cheung-fun",
+      "nam-pla",
+      "bun-bo-hue"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes",
+      "https://en.wikipedia.org/wiki/B%C3%A1nh_b%C3%A8o"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "前菜",
+      "米",
+      "魚介",
+      "蒸し料理",
+      "もちもち",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ステーキ",
+      "揚げ物盛り合わせ",
+      "カレーライス"
+    ],
+    "avoidedBy": [
+      "甲殻類アレルギー",
+      "魚醤が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/banh-beo/1.jpg"
+    ]
+  },
+  {
+    "id": "bun-rieu",
+    "name": "ブンリュウ",
+    "kana": "ぶんりゅう",
+    "aliases": [
+      "ブンリエウ",
+      "ブン・リュウ・クア",
+      "カニ入りトマト麺",
+      "Bun Rieu"
+    ],
+    "englishName": "Crab noodle soup",
+    "originalName": "Bún riêu",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      },
+      {
+        "locality": "ハノイ"
+      }
+    ],
+    "summary": "田ガニをすり潰して漉したスープにトマトを加えた、酸味のある米麺スープ。ふわふわのカニ肉の塊（リュウ）、揚げ豆腐、豚ひき肉などが浮かぶ北部の大衆麺。",
+    "menuDescription": "カニの旨みとトマトの酸味が効いたスープに、丸い米麺（ブン）・カニ肉団子・揚げ豆腐を入れた麺料理。エビの発酵ペースト（マムトム）を好みで加える。",
+    "whatComesOut": [
+      "赤みがかったトマトとカニのスープ",
+      "白い丸麺（ブン）",
+      "ふわふわのカニ肉の塊と揚げ豆腐",
+      "生野菜・ハーブ・ライム、好みでマムトム（エビ味噌）"
+    ],
+    "tasteAndTexture": [
+      "トマトとタマリンドの爽やかな酸味",
+      "カニの甘く濃い旨み",
+      "ふわっと崩れるカニ団子と揚げ豆腐の食感"
+    ],
+    "orderAdvice": "フォーに飽きたら試したい酸っぱ旨い麺。カニの風味が強いので甲殻類好きに向く。マムトム（エビの発酵ペースト）は匂いが強いので、最初は入れずに味見してから。",
+    "caution": "カニ・エビ（甲殻類）、大豆（豆腐）を使用。",
+    "similarItems": [
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーは牛骨や鶏の澄んだスープ、ブンリュウはカニとトマトの酸味スープ"
+      },
+      {
+        "id": "bun-bo-hue",
+        "name": "ブンボーフエ",
+        "difference": "ブンボーフエは牛骨とレモングラスの辛口、ブンリュウはカニとトマトの酸味系"
+      },
+      {
+        "id": "tom-yum-goong",
+        "name": "トムヤムクン",
+        "difference": "トムヤムクンは辛くハーブが強いスープ、ブンリュウは辛さ控えめでトマトとカニが主役"
+      }
+    ],
+    "relatedIds": [
+      "pho",
+      "bun-bo-hue",
+      "bun-cha"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes",
+      "https://en.wikipedia.org/wiki/B%C3%BAn_ri%C3%AAu"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "麺料理",
+      "魚介",
+      "野菜",
+      "煮込み",
+      "酸味",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "豚骨ラーメン",
+      "クリームシチュー",
+      "ビーフカレー"
+    ],
+    "avoidedBy": [
+      "甲殻類アレルギー",
+      "大豆アレルギー"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/bun-rieu/1.jpg",
+      "/images/dishes/bun-rieu/2.jpg",
+      "/images/dishes/bun-rieu/3.jpg"
+    ]
+  },
+  {
+    "id": "goi-cuon",
+    "name": "生春巻き",
+    "kana": "なまはるまき",
+    "aliases": [
+      "ゴイクオン",
+      "ゴイ・クオン",
+      "ゴイクン",
+      "ネムクオン",
+      "サマーロール",
+      "Goi Cuon"
+    ],
+    "englishName": "Fresh spring roll",
+    "originalName": "Gỏi cuốn",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      }
+    ],
+    "summary": "水で戻したライスペーパーで、茹でエビ・茹で豚・米麺・レタス・ハーブを巻いた揚げない春巻き。半透明の皮からエビが透けて見え、ヌクチャムやピーナッツ入りの味噌だれにつけて食べる。",
+    "menuDescription": "エビ・豚肉・米麺・生野菜・ハーブをライスペーパーで巻いたベトナムの生春巻き。甘酸っぱい魚醤だれやピーナッツソースをつけて食べる。",
+    "whatComesOut": [
+      "半透明のライスペーパーの巻物2〜4本",
+      "中に茹でエビ・茹で豚・ブン（米麺）・レタス・ミント・ニラ",
+      "ヌクチャム（魚醤だれ）またはピーナッツ入り味噌だれ"
+    ],
+    "tasteAndTexture": [
+      "もちっとしたライスペーパーの皮",
+      "生野菜とハーブのみずみずしさ",
+      "揚げないのであっさり軽い"
+    ],
+    "orderAdvice": "日本でもおなじみで、ベトナム料理入門に最適な前菜。脂っこさがなく、重い料理と組み合わせても良い。ミントやパクチーが入るので、苦手なら抜いてもらう。",
+    "caution": "エビ（甲殻類）、ピーナッツ（たれ）を使用する場合あり。",
+    "similarItems": [
+      {
+        "id": "spring-roll",
+        "name": "春巻き",
+        "difference": "春巻きは小麦の皮で包んで揚げる、生春巻きはライスペーパーで揚げずに巻く"
+      },
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "どちらも米由来の素材を使うが、フォーはスープ麺、生春巻きは冷たい前菜"
+      }
+    ],
+    "relatedIds": [
+      "spring-roll",
+      "nam-pla",
+      "pakuchi",
+      "bun-cha"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes",
+      "https://en.wikipedia.org/wiki/G%E1%BB%8Fi_cu%E1%BB%91n",
+      "https://ja.wikipedia.org/wiki/%E7%94%9F%E6%98%A5%E5%B7%BB%E3%81%8D"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "前菜",
+      "魚介",
+      "野菜",
+      "ハーブ",
+      "生食",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "揚げ春巻き",
+      "こってりラーメン",
+      "唐揚げ"
+    ],
+    "avoidedBy": [
+      "甲殻類アレルギー",
+      "パクチーが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/goi-cuon/1.jpg",
+      "/images/dishes/goi-cuon/2.jpg",
+      "/images/dishes/goi-cuon/3.jpg"
+    ]
+  },
+  {
+    "id": "banh-can",
+    "name": "バインカン",
+    "kana": "ばいんかん",
+    "aliases": [
+      "ベトナム風たこ焼き",
+      "Banh Can"
+    ],
+    "englishName": "Banh can",
+    "originalName": "Bánh căn",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      },
+      {
+        "locality": "ニントゥアン"
+      },
+      {
+        "locality": "ダラット"
+      }
+    ],
+    "summary": "米粉の生地を丸いくぼみのある土鍋型で焼く一口サイズの焼き餅。ウズラ卵やエビ・イカをのせて焼き、ネギ油や魚醤だれ、ミートボール入りのつけ汁に浸して食べる南中部の名物。",
+    "menuDescription": "たこ焼き器のような型で焼いた小さな米粉パンケーキ。エビやウズラ卵をのせ、甘酸っぱいたれやミートボール入りスープにつけて食べる。",
+    "whatComesOut": [
+      "一口大の丸い米粉焼きが10個前後",
+      "上にのったウズラ卵・エビ・イカなど",
+      "ネギ油と甘酸っぱい魚醤だれ、またはミートボール入りつけ汁",
+      "青マンゴーの千切りや生ハーブ"
+    ],
+    "tasteAndTexture": [
+      "外はカリッ、中はもちっとした生地",
+      "卵とエビの素朴な旨み",
+      "つけだれで味が変わる軽い味わい"
+    ],
+    "orderAdvice": "見た目はたこ焼きだが中に具は入らず、上にのせて焼くのが特徴。小腹満たしやおつまみ向き。ダラットやファンランの屋台で焼きたてを。",
+    "caution": "卵・エビ・イカ（魚介）を使用。",
+    "similarItems": [
+      {
+        "id": "takoyaki",
+        "name": "たこ焼き",
+        "difference": "たこ焼きは小麦生地でタコを中に入れる、バインカンは米粉生地で具を上にのせる"
+      },
+      {
+        "id": "banh-xeo",
+        "name": "バインセオ",
+        "difference": "バインセオは大判クレープ、バインカンは一口サイズ"
+      }
+    ],
+    "relatedIds": [
+      "takoyaki",
+      "nam-pla"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes",
+      "https://en.wikipedia.org/wiki/B%C3%A1nh_c%C4%83n"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "軽食",
+      "米",
+      "卵",
+      "焼き物",
+      "もちもち",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "煮込みハンバーグ",
+      "グラタン",
+      "ステーキ"
+    ],
+    "avoidedBy": [
+      "卵アレルギー",
+      "甲殻類アレルギー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/banh-can/1.jpg",
+      "/images/dishes/banh-can/2.jpg",
+      "/images/dishes/banh-can/3.jpg"
+    ]
+  },
+  {
+    "id": "hu-tieu-nam-vang",
+    "name": "フーティウ・ナムヴァン",
+    "kana": "ふーてぃう・なむゔぁん",
+    "aliases": [
+      "フー・ティエウ・ナム・ヴァン",
+      "フーティウ",
+      "フーティエウ",
+      "プノンペン風フーティウ",
+      "Hu Tieu Nam Vang"
+    ],
+    "englishName": "Phnom Penh noodle soup",
+    "originalName": "Hủ tiếu Nam Vang",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      },
+      {
+        "locality": "ホーチミン"
+      }
+    ],
+    "summary": "豚骨スープに細い米麺を入れ、豚肉・レバー・エビ・ウズラ卵などをのせたベトナム南部の朝食麺。「ナムヴァン」はプノンペンの意で、カンボジアのクイティウが起源。スープ入りと汁なしの2スタイルがある。",
+    "menuDescription": "甘みのある豚骨スープの米麺に、豚肉・レバー・エビ・ウズラ卵をのせたプノンペン風の麺。汁なし（コー）を選ぶとスープが別添えになる。",
+    "whatComesOut": [
+      "澄んだ豚骨スープの細い米麺",
+      "豚肉スライス・豚ひき肉・レバー・エビ・ウズラ卵",
+      "揚げニンニクとネギ・セロリの葉",
+      "もやし・レタス・ライム・唐辛子（別皿）"
+    ],
+    "tasteAndTexture": [
+      "豚骨と干しイカ由来のほんのり甘い澄んだスープ",
+      "コシのある半透明の細麺",
+      "揚げニンニクの香ばしさ"
+    ],
+    "orderAdvice": "南部ではフォーより一般的な朝麺。「ヌック」（スープ入り）か「コー」（汁なし）を選ぶ。レバーやモツが苦手なら抜いてもらうよう伝えると良い。",
+    "caution": "エビ（甲殻類）・内臓肉を使用。",
+    "similarItems": [
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーは牛骨スープに平麺、フーティウは豚骨スープに細い丸麺"
+      },
+      {
+        "name": "クイティウ",
+        "difference": "クイティウはカンボジアの原型、フーティウ・ナムヴァンはそのベトナム版"
+      },
+      {
+        "id": "wonton-noodles",
+        "name": "雲呑麺",
+        "difference": "雲呑麺は小麦の卵麺とワンタン、フーティウは米麺に豚肉と魚介"
+      }
+    ],
+    "relatedIds": [
+      "pho",
+      "wonton-noodles"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes",
+      "https://en.wikipedia.org/wiki/H%E1%BB%A7_ti%E1%BA%BFu",
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%BC%E3%83%86%E3%82%A3%E3%82%A6"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "麺料理",
+      "豚肉",
+      "魚介",
+      "米",
+      "あっさり",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "こってり味噌ラーメン",
+      "カルボナーラ",
+      "焼きそば"
+    ],
+    "avoidedBy": [
+      "甲殻類アレルギー",
+      "内臓が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "cha-ca-la-vong",
+    "name": "チャーカー",
+    "kana": "ちゃーかー",
+    "aliases": [
+      "チャーカー・ラボン",
+      "チャーカーラーヴォン",
+      "Cha Ca La Vong"
+    ],
+    "englishName": "Hanoi turmeric fish with dill",
+    "originalName": "Chả cá Lã Vọng",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      },
+      {
+        "locality": "ハノイ"
+      }
+    ],
+    "summary": "ターメリック・ガランガル・発酵米でマリネした白身魚（ナマズの一種カーラン）を炭火で焼き、卓上の熱い油の鍋でディルとネギと一緒に炒め煮するハノイの名物料理。",
+    "menuDescription": "ターメリックで黄色くマリネした白身魚を、テーブルの鉄鍋でたっぷりのディル・ネギと炒め、米麺・ピーナッツ・ハーブと一緒に魚醤だれで食べるハノイ名物。",
+    "whatComesOut": [
+      "卓上コンロにのった油たっぷりの鉄鍋",
+      "ターメリック色の白身魚の切り身",
+      "山盛りのディルと青ネギ",
+      "米麺（ブン）・砕いたピーナッツ・ハーブ",
+      "魚醤だれまたはマムトム（エビの発酵ペースト）"
+    ],
+    "tasteAndTexture": [
+      "ターメリックとディルの独特で爽やかな香り",
+      "ふっくら香ばしい白身魚",
+      "ピーナッツのコクと米麺のつるっと感"
+    ],
+    "orderAdvice": "ハノイを代表する一品料理で、専門店ではメニューがこれ一択のことも多い。ディルの香りが強いので、ハーブ好きなら必食。数人でテーブルを囲んで食べるのに向く。",
+    "caution": "魚・ピーナッツ、たれにエビ（甲殻類）を含む場合あり。",
+    "similarItems": [
+      {
+        "id": "bun-cha",
+        "name": "ブンチャー",
+        "difference": "同じハノイ名物の米麺と合わせる料理だが、ブンチャーは焼き豚、チャーカーは白身魚とディル"
+      },
+      {
+        "name": "フィッシュアンドチップス",
+        "difference": "どちらも白身魚だが、フィッシュアンドチップスは衣揚げ、チャーカーはターメリックマリネを油で炒め焼き"
+      }
+    ],
+    "relatedIds": [
+      "dill",
+      "turmeric",
+      "bun-cha",
+      "nam-pla"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes",
+      "https://en.wikipedia.org/wiki/Ch%E1%BA%A3_c%C3%A1_L%C3%A3_V%E1%BB%8Dng"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "主菜",
+      "魚介",
+      "ハーブ",
+      "マリネ",
+      "香ばしい",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ハンバーグ",
+      "牛丼",
+      "ショートケーキ"
+    ],
+    "avoidedBy": [
+      "ハーブが苦手",
+      "ナッツアレルギー",
+      "魚が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/cha-ca-la-vong/1.jpg"
+    ]
+  },
+  {
+    "id": "nom-hoa-chuoi",
+    "name": "ノム・ホアチュオイ",
+    "kana": "のむ・ほあちゅおい",
+    "aliases": [
+      "ノム・ホア・チュイ",
+      "バナナの花のサラダ",
+      "ゴイ・バップチュオイ",
+      "Nom Hoa Chuoi"
+    ],
+    "englishName": "Banana blossom salad",
+    "originalName": "Nộm hoa chuối",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      }
+    ],
+    "summary": "千切りにしたバナナの花ににんじん・ハーブ・レンコンなどを合わせ、ヌクチャムで和えたベトナムのサラダ。鶏肉・牛肉・エビをのせることも、ベジタリアン料理として出すこともあり、砕いたピーナッツとチリで仕上げる。",
+    "menuDescription": "シャキシャキのバナナの花の千切りを、甘酸っぱい魚醤だれで和えたサラダ。鶏肉やエビ、ピーナッツ、ハーブをのせ、ライムを絞って食べる。",
+    "whatComesOut": [
+      "細く裂いた紫がかったバナナの花",
+      "にんじん・ハーブ・季節によりポメロや青パパイヤ",
+      "トッピングの茹で鶏・牛肉・エビ（またはなし）",
+      "砕いたピーナッツ・揚げエシャロット・唐辛子",
+      "ライムと胡麻せんべい（添える場合）"
+    ],
+    "tasteAndTexture": [
+      "シャキシャキとしたバナナの花のほろ苦さ",
+      "ヌクチャムの甘酸っぱさとライムの爽快感",
+      "ピーナッツの香ばしさとほのかな辛み"
+    ],
+    "orderAdvice": "揚げ物や肉料理の口直しにぴったりのサラダ。バナナの花は日本ではなじみが薄く珍しい体験になる。肉なしでも頼めるのでベジタリアンにも◎（ただし魚醤は使う）。",
+    "caution": "ピーナッツ（ナッツアレルギー注意）、魚醤を使用。",
+    "similarItems": [
+      {
+        "id": "som-tam",
+        "name": "ソムタム",
+        "difference": "ソムタムは青パパイヤを臼で叩いて作るタイの辛いサラダ、ノムはバナナの花を和えた甘酸っぱいサラダ"
+      },
+      {
+        "id": "goi-cuon",
+        "name": "生春巻き",
+        "difference": "生春巻きは具をライスペーパーで巻く、ノムは具を和えるサラダ"
+      }
+    ],
+    "relatedIds": [
+      "som-tam",
+      "nam-pla",
+      "pakuchi"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "サラダ",
+      "野菜",
+      "ナッツ",
+      "ハーブ",
+      "酸味",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ポテトサラダ",
+      "シーザーサラダ",
+      "グラタン"
+    ],
+    "avoidedBy": [
+      "ナッツアレルギー",
+      "魚醤が苦手",
+      "パクチーが苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/nom-hoa-chuoi/1.jpg",
+      "/images/dishes/nom-hoa-chuoi/2.jpg",
+      "/images/dishes/nom-hoa-chuoi/3.jpg"
+    ]
+  },
+  {
+    "id": "banh-cuon",
+    "name": "バインクオン",
+    "kana": "ばいんくおん",
+    "aliases": [
+      "ベトナム風蒸し春巻き",
+      "バイン・クオン",
+      "Banh Cuon"
+    ],
+    "englishName": "Steamed rice rolls",
+    "originalName": "Bánh cuốn",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      },
+      {
+        "locality": "ハノイ"
+      }
+    ],
+    "summary": "米粉の生地を布の上で薄く蒸してシート状にし、豚ひき肉とキクラゲを巻いたベトナム北部の朝食料理。注文ごとに蒸し上げ、揚げエシャロットをのせ、ベトナムハム（チャールア）とともに魚醤だれにつけて食べる。",
+    "menuDescription": "蒸したての薄い米粉シートで豚ひき肉とキクラゲを巻いた料理。揚げエシャロットとハーブを添え、甘酸っぱい魚醤だれにつけて食べる。",
+    "whatComesOut": [
+      "薄く透ける米粉のロールが数本〜10本ほど",
+      "上にかかった揚げエシャロット",
+      "ベトナムハム（チャールア）のスライス",
+      "つけだれのヌクチャムと生ハーブ"
+    ],
+    "tasteAndTexture": [
+      "つるんと柔らかく、ふるふるの薄皮",
+      "豚ひき肉とキクラゲのコリっとした食感",
+      "揚げエシャロットの香ばしさと甘酸っぱいたれ"
+    ],
+    "orderAdvice": "ハノイの朝ごはんの定番で、店先で蒸す様子を見るのも楽しい。軽くてあっさりしているので、朝食や小腹満たしに。具なし（バインクオン・チャイ）もある。",
+    "caution": "魚醤を使用。",
+    "similarItems": [
+      {
+        "id": "cheung-fun",
+        "name": "腸粉",
+        "difference": "腸粉は広東の点心で醤油だれ、バインクオンは魚醤だれでキクラゲと豚肉を巻く"
+      },
+      {
+        "id": "goi-cuon",
+        "name": "生春巻き",
+        "difference": "生春巻きは乾燥ライスペーパーを戻して生野菜を巻く、バインクオンは蒸した生地で加熱した具を巻く"
+      },
+      {
+        "id": "banh-beo",
+        "name": "バインベオ",
+        "difference": "バインベオは小皿蒸しの一口餅、バインクオンは薄いシートで巻く"
+      }
+    ],
+    "relatedIds": [
+      "cheung-fun",
+      "shallot",
+      "nam-pla",
+      "pho"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes",
+      "https://en.wikipedia.org/wiki/B%C3%A1nh_cu%E1%BB%91n",
+      "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%83%B3%E3%82%AF%E3%82%AA%E3%83%B3"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "軽食",
+      "米",
+      "豚肉",
+      "蒸し料理",
+      "あっさり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "厚切りトースト",
+      "フライドチキン",
+      "ピザ"
+    ],
+    "avoidedBy": [
+      "魚醤が苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/banh-cuon/1.jpg",
+      "/images/dishes/banh-cuon/2.jpg",
+      "/images/dishes/banh-cuon/3.jpg"
+    ]
+  },
+  {
+    "id": "bun-cha-ca",
+    "name": "ブンチャーカー",
+    "kana": "ぶんちゃーかー",
+    "aliases": [
+      "ブンチャカ",
+      "さつま揚げ入り米麺",
+      "Bun Cha Ca"
+    ],
+    "englishName": "Fish cake noodle soup",
+    "originalName": "Bún chả cá",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      },
+      {
+        "locality": "ニャチャン"
+      },
+      {
+        "locality": "ダナン"
+      }
+    ],
+    "summary": "魚のすり身を揚げたさつま揚げ（チャーカー）を、丸い米麺（ブン）とともに魚介スープで食べるベトナム中部の麺料理。ニャチャンではイカのさつま揚げ・ディル・トマトを加え、軽く酸味のある味に仕上げる。",
+    "menuDescription": "魚やイカのさつま揚げを入れた、トマトと魚介の軽いスープの米麺。ディルやネギ、生ハーブを添えて食べる中部沿岸の名物。",
+    "whatComesOut": [
+      "白い丸麺（ブン）",
+      "スライスした魚・イカのさつま揚げ",
+      "トマトやパイナップル入りの澄んだ魚介スープ",
+      "ディル・揚げネギ・生ハーブ・ライム・唐辛子"
+    ],
+    "tasteAndTexture": [
+      "ぷりっと弾力のあるさつま揚げ",
+      "トマトの軽い酸味と魚介だしの旨み",
+      "ディルの爽やかな香り"
+    ],
+    "orderAdvice": "ニャチャン・ダナンなど海沿いの町の朝麺。魚介だしでさっぱりしているので、肉系の麺より軽く食べたいときに。地域ごとに具が違うので食べ比べも楽しい。",
+    "caution": "魚・イカ（魚介）を使用。",
+    "similarItems": [
+      {
+        "id": "bun-cha",
+        "name": "ブンチャー",
+        "difference": "ブンチャーは焼き豚のつけ麺、ブンチャーカーは魚のさつま揚げのスープ麺"
+      },
+      {
+        "id": "bun-rieu",
+        "name": "ブンリュウ",
+        "difference": "どちらもトマト系の酸味スープだが、ブンリュウはカニ、ブンチャーカーは魚のさつま揚げ"
+      },
+      {
+        "id": "satsuma-age",
+        "name": "さつま揚げ",
+        "difference": "さつま揚げ単体の日本の練り物に対し、ブンチャーカーはそれを米麺スープの具にする"
+      }
+    ],
+    "relatedIds": [
+      "satsuma-age",
+      "bun-cha",
+      "dill",
+      "pho"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "麺料理",
+      "魚介",
+      "米",
+      "煮込み",
+      "酸味",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "牛丼",
+      "とんかつ",
+      "チーズリゾット"
+    ],
+    "avoidedBy": [
+      "魚が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/bun-cha-ca/1.jpg"
+    ]
+  },
+  {
+    "id": "bo-la-lot",
+    "name": "ボーラーロット",
+    "kana": "ぼーらーろっと",
+    "aliases": [
+      "ブンボーキュオンラロット",
+      "ボー・ラ・ロット",
+      "ボーヌンラーロット",
+      "牛肉のハイゴショウ葉巻き",
+      "Bo La Lot"
+    ],
+    "englishName": "Grilled beef in betel leaf",
+    "originalName": "Bò lá lốt",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ベトナム"
+      }
+    ],
+    "summary": "ニンニク・エシャロット・レモングラスで味付けした牛ひき肉を、ハイゴショウの葉（ラーロット）で巻いて炭火で焼いたベトナム料理。葉の独特の香りが特徴で、米麺やライスペーパー、ハーブと一緒に食べる。",
+    "menuDescription": "スパイスを効かせた牛ひき肉をハイゴショウの葉で巻き、炭火で香ばしく焼いた料理。米麺や生野菜とライスペーパーで巻き、魚醤だれにつけて食べる。",
+    "whatComesOut": [
+      "葉で巻いた細長い牛肉の串焼きやロール数本",
+      "砕いたピーナッツとネギ油のトッピング",
+      "ブン（米麺）またはライスペーパー",
+      "生野菜・ハーブとピリ辛の魚醤だれ"
+    ],
+    "tasteAndTexture": [
+      "炭火で焼けた葉の香ばしくスモーキーな香り",
+      "ジューシーでスパイシーな牛ひき肉",
+      "葉の歯ごたえとほのかな苦み"
+    ],
+    "orderAdvice": "肉好きにおすすめの焼き物で、ビールのつまみにも合う。葉の香りはクセがあるが、焼くと香ばしさが勝って食べやすい。米麺と一緒の「ブン・ボー・ラーロット」で頼むと一食になる。",
+    "caution": "ピーナッツ（ナッツアレルギー注意）、魚醤を使用。",
+    "similarItems": [
+      {
+        "id": "dolma",
+        "name": "ドルマ",
+        "difference": "ドルマはブドウの葉で米やひき肉を包んで煮る、ボーラーロットは牛ひき肉を葉で巻いて炭火焼き"
+      },
+      {
+        "id": "bun-cha",
+        "name": "ブンチャー",
+        "difference": "ブンチャーは焼き豚を米麺とつけだれで、ボーラーロットは葉巻き焼き牛を米麺やライスペーパーで"
+      },
+      {
+        "id": "kebab",
+        "name": "ケバブ",
+        "difference": "ケバブはスパイス入りの肉を串焼きにする、ボーラーロットはひき肉を葉で巻いて炭火焼き"
+      }
+    ],
+    "relatedIds": [
+      "bun-cha",
+      "lemongrass",
+      "shallot",
+      "nam-pla"
+    ],
+    "source": [
+      "https://vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes"
+    ],
+    "tags": [
+      "ベトナム料理",
+      "主菜",
+      "牛肉",
+      "ハーブ",
+      "炭火焼き",
+      "ジューシー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "冷奴",
+      "茶碗蒸し",
+      "フルーツサラダ"
+    ],
+    "avoidedBy": [
+      "ハーブが苦手",
+      "ナッツアレルギー"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": []
   }
 ]
