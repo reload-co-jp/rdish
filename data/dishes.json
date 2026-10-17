@@ -233781,5 +233781,546 @@
       "/images/dishes/dodol/2.jpg",
       "/images/dishes/dodol/3.jpg"
     ]
+  },
+  {
+    "id": "midia-pilafi",
+    "name": "ミディア・ピラフィ",
+    "kana": "みでぃあぴらふぃ",
+    "aliases": [
+      "ミディアピラフィ",
+      "ムール貝のピラフ",
+      "ミドピラフォ"
+    ],
+    "englishName": "Mussel Pilaf",
+    "originalName": "Μύδια πιλάφι",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ギリシャ"
+      }
+    ],
+    "summary": "ムール貝を白ワインで蒸し、その蒸し汁と玉ねぎ・トマト・にんにくで米を炊き上げるギリシャのピラフ。貝のうまみを米に吸わせた地中海らしいご飯もの。",
+    "menuDescription": "白ワインで蒸したムール貝の旨みたっぷりの蒸し汁で、トマトと玉ねぎ、にんにくとともにお米を炊き上げました。殻付きのムール貝を添えた、エーゲ海の香りのピラフです。",
+    "whatComesOut": [
+      "ムール貝の蒸し汁を吸ったトマト色のピラフ",
+      "米に混ぜ込まれたムール貝のむき身",
+      "飾りとしてのせた殻付きムール貝",
+      "レモンやパセリが添えられることも"
+    ],
+    "tasteAndTexture": [
+      "貝の濃い旨みと磯の香り",
+      "トマトの軽い酸味と白ワインの風味",
+      "パラッと炊けた米とぷりっとしたムール貝",
+      "オリーブオイルのコク"
+    ],
+    "orderAdvice": "パエリアより素朴で、貝の旨みをストレートに味わうご飯もの。魚介好き・ご飯もの好きなら安心して頼める。量はそこそこあるので、前菜をいくつか取ってシェアするのがおすすめ。",
+    "caution": "貝類（ムール貝）を使用。貝アレルギーの人は不可。白ワインを使用。",
+    "similarItems": [
+      {
+        "id": "paella",
+        "name": "パエリア",
+        "difference": "パエリアはサフラン入りでパエリア鍋で薄く炊くスペイン料理。ミディア・ピラフィはサフランなしで、ムール貝の蒸し汁で炊くシンプルな味わい。"
+      },
+      {
+        "id": "pilaf",
+        "name": "ピラフ",
+        "difference": "ピラフは米を炒めてブイヨンで炊く料理全般。ミディア・ピラフィはムール貝の蒸し汁で炊くギリシャ版。"
+      },
+      {
+        "id": "risotto",
+        "name": "リゾット",
+        "difference": "リゾットは米を煮ながらかき混ぜてクリーミーに仕上げるイタリア料理。ピラフはパラッと炊き上げる。"
+      }
+    ],
+    "relatedIds": [
+      "mussel",
+      "paella",
+      "pilaf",
+      "risotto",
+      "greek-salad",
+      "moules-marinieres"
+    ],
+    "source": [
+      "https://www.asahi-kasei.co.jp/saran/recipe/world/europe_greece.html",
+      "https://ahp-recipe.jp/sheet.php?recipe=509",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ],
+    "tags": [
+      "ギリシャ料理",
+      "ご飯もの",
+      "貝類",
+      "米",
+      "蒸し料理",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ステーキ",
+      "ハンバーグ",
+      "クリームパスタ",
+      "唐揚げ"
+    ],
+    "avoidedBy": [
+      "貝アレルギー",
+      "貝類が苦手",
+      "アルコール不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/midia-pilafi/1.jpg",
+      "/images/dishes/midia-pilafi/2.jpg",
+      "/images/dishes/midia-pilafi/3.jpg"
+    ]
+  },
+  {
+    "id": "taramosalata",
+    "name": "タラモサラタ",
+    "kana": "たらもさらた",
+    "aliases": [
+      "タラマサラタ",
+      "タラモサラダ",
+      "タラマ"
+    ],
+    "englishName": "Taramasalata",
+    "originalName": "Ταραμοσαλάτα",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ギリシャ"
+      },
+      {
+        "country": "トルコ"
+      }
+    ],
+    "summary": "塩漬けの魚卵（タラマ）をパンやじゃがいも、オリーブオイル、レモン汁と練り合わせたギリシャのメゼ（前菜）。日本の「たらもサラダ」の原型とされる。",
+    "menuDescription": "塩漬けの魚卵をじゃがいも（またはパン）、オリーブオイル、レモン汁、玉ねぎと練り合わせた、なめらかなペースト状の前菜です。パンにつけてお召し上がりください。",
+    "whatComesOut": [
+      "淡いピンク〜クリーム色のペースト",
+      "ピタパンやパン",
+      "オリーブの実やレモンの添え",
+      "メゼの盛り合わせの一品として出ることも"
+    ],
+    "tasteAndTexture": [
+      "魚卵の塩気と旨み",
+      "レモンの爽やかな酸味",
+      "オリーブオイルでなめらかなペースト状",
+      "伝統的な乳鉢製法ではややざらっとした食感"
+    ],
+    "orderAdvice": "日本のたらもサラダに近く、たらこ・明太子が好きなら失敗しにくい前菜。塩気が強めなのでパンと一緒に少しずつ。ウーゾやワインのつまみに最適。",
+    "caution": "魚卵を使用。魚卵アレルギーの人は不可。パンベースの場合は小麦を含む。",
+    "similarItems": [
+      {
+        "id": "tzatziki",
+        "name": "ツァジキ",
+        "difference": "ツァジキはヨーグルトときゅうり、にんにくのディップ。タラモサラタは魚卵ベースで塩気と旨みが強い。"
+      },
+      {
+        "id": "hummus",
+        "name": "フムス",
+        "difference": "フムスはひよこ豆と練りごまのペースト。タラモサラタは魚卵とじゃがいも・パンが主体。"
+      },
+      {
+        "id": "baba-ganoush",
+        "name": "ババガヌーシュ",
+        "difference": "ババガヌーシュは焼きなすのペーストでスモーキー。タラモサラタは魚卵の塩気が主役。"
+      }
+    ],
+    "relatedIds": [
+      "tzatziki",
+      "hummus",
+      "baba-ganoush",
+      "pita-bread",
+      "bottarga",
+      "greek-salad",
+      "tarako-no-nitsuke"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/タラモサラタ",
+      "https://en.wikipedia.org/wiki/Taramasalata",
+      "https://ahp-recipe.jp/sheet.php?recipe=69"
+    ],
+    "tags": [
+      "ギリシャ料理",
+      "前菜",
+      "魚介",
+      "野菜",
+      "生食",
+      "クリーミー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ステーキ",
+      "フルーツ",
+      "チョコレート",
+      "フライドチキン"
+    ],
+    "avoidedBy": [
+      "魚卵アレルギー",
+      "魚卵が苦手",
+      "塩分を控えている"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/taramosalata/1.jpg",
+      "/images/dishes/taramosalata/2.jpg"
+    ]
+  },
+  {
+    "id": "kourabiedes",
+    "name": "クラビエデス",
+    "kana": "くらびえです",
+    "aliases": [
+      "クラビエス",
+      "クラビエ",
+      "クラビエセス",
+      "ギリシャのアーモンドクッキー"
+    ],
+    "englishName": "Kourabiedes",
+    "originalName": "Κουραμπιέδες",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ギリシャ"
+      },
+      {
+        "country": "キプロス"
+      }
+    ],
+    "summary": "バターとアーモンドをたっぷり使い、焼き上げてから粉糖を厚くまぶすギリシャのショートブレッド風クッキー。クリスマスに欠かせない伝統菓子。",
+    "menuDescription": "バターとローストアーモンドを練り込み、ブランデーで香りづけして焼き上げたクッキーに、真っ白な粉糖をたっぷりまぶしました。ギリシャのクリスマスの定番菓子です。",
+    "whatComesOut": [
+      "粉糖で真っ白に覆われた丸型や三日月形のクッキー",
+      "中に刻んだアーモンド",
+      "地域によってはクローブが1粒刺さっていることも",
+      "コーヒーやお茶と一緒に出されることが多い"
+    ],
+    "tasteAndTexture": [
+      "ほろほろと崩れる軽い口どけ",
+      "バターのコクとアーモンドの香ばしさ",
+      "粉糖のやさしい甘さ",
+      "ブランデーやバニラ、ローズウォーターのほのかな香り"
+    ],
+    "orderAdvice": "スノーボールクッキーに近い、親しみやすい焼き菓子。お土産やコーヒーのお供に向く。粉糖が大量にまぶされているので、黒い服の日は食べ方に注意。",
+    "caution": "小麦・乳（バター）・卵・ナッツ（アーモンド）を使用。ブランデーを含む場合あり。",
+    "similarItems": [
+      {
+        "id": "snowball-cookie",
+        "name": "スノーボールクッキー",
+        "difference": "スノーボールは粉糖をまぶした小さな球形クッキー全般。クラビエデスはブランデーやローズウォーターで香りづけし、より大ぶりなことが多い。"
+      },
+      {
+        "id": "baklava",
+        "name": "バクラヴァ",
+        "difference": "バクラヴァはフィロ生地とナッツをシロップに浸した濃厚な菓子。クラビエデスはシロップなしの乾いたクッキー。"
+      }
+    ],
+    "relatedIds": [
+      "snowball-cookie",
+      "baklava",
+      "kataifi"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Kourabiedes",
+      "https://ahp-recipe.jp/sheet.php?recipe=510",
+      "https://www.asahi-kasei.co.jp/saran/recipe/world/europe_greece.html"
+    ],
+    "tags": [
+      "ギリシャ料理",
+      "菓子",
+      "ナッツ",
+      "小麦",
+      "焼き物",
+      "甘み",
+      "サクサク",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "せんべい",
+      "ポテトチップス",
+      "フルーツ",
+      "ゼリー"
+    ],
+    "avoidedBy": [
+      "ナッツアレルギー",
+      "乳製品不可",
+      "甘いものが苦手",
+      "アルコール不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kourabiedes/1.jpg"
+    ]
+  },
+  {
+    "id": "retes",
+    "name": "レーテシュ",
+    "kana": "れーてしゅ",
+    "aliases": [
+      "ハンガリー風シュトゥルーデル",
+      "レテシュ"
+    ],
+    "englishName": "Rétes (Hungarian Strudel)",
+    "originalName": "Rétes",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "紙のように薄く伸ばした生地で、カッテージチーズやサワーチェリー、りんご、ケシの実などの具を巻いて焼くハンガリーの伝統菓子。オーストリアのシュトゥルーデルの起源とされる。",
+    "menuDescription": "向こうが透けるほど薄く伸ばした生地に、甘いカッテージチーズ（トゥーロー）やサワーチェリー、りんごなどを巻き込み、オーブンでこんがり焼き上げたハンガリー伝統の焼き菓子です。",
+    "whatComesOut": [
+      "細長く巻いて焼いた生地を斜めに切り分けたもの",
+      "断面から見える具（カッテージチーズ・サワーチェリー・りんご・ケシの実など）",
+      "表面にふった粉糖",
+      "カフェではコーヒーと一緒に出されることが多い"
+    ],
+    "tasteAndTexture": [
+      "何層にも重なった薄い生地のパリッとした軽さ",
+      "具によって異なる甘酸っぱさやほろ苦さ",
+      "カッテージチーズのやさしい酸味とコク",
+      "粉糖のやさしい甘み"
+    ],
+    "orderAdvice": "アップルパイが好きなら間違いない焼き菓子。具の種類が多いので、迷ったら定番のりんご（アルマーシュ）かカッテージチーズ（トゥーローシュ）を。ケシの実（マーコシュ）はハンガリーらしさを味わいたい人向け。",
+    "caution": "小麦・卵・乳製品を使用。ケシの実やナッツ入りのものもある。",
+    "similarItems": [
+      {
+        "id": "baklava",
+        "name": "バクラヴァ",
+        "difference": "バクラヴァは薄い生地を重ねてナッツを挟み、シロップに浸す濃厚な菓子。レーテシュは具を巻いて焼き、シロップは使わない。レーテシュはバクラヴァから発展したとされる。"
+      },
+      {
+        "id": "palacsinta",
+        "name": "パラチンタ",
+        "difference": "パラチンタは薄焼きのクレープで具を包む。レーテシュは薄く伸ばした生地を巻いてオーブンで焼く。"
+      },
+      {
+        "id": "kurtoskalacs",
+        "name": "クルトゥーシュ・カラーチ",
+        "difference": "クルトゥーシュ・カラーチは発酵生地を棒に巻いて焼く筒状の菓子。レーテシュは発酵させない極薄の生地で具を巻く。"
+      }
+    ],
+    "relatedIds": [
+      "baklava",
+      "palacsinta",
+      "kurtoskalacs",
+      "cottage-cheese",
+      "poppy-seed",
+      "somloi-galuska"
+    ],
+    "source": [
+      "https://hungaryfun.com/foods",
+      "https://en.wikipedia.org/wiki/Strudel",
+      "https://ja.wikipedia.org/wiki/シュトルーデル"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "菓子",
+      "小麦",
+      "果物",
+      "焼き物",
+      "サクサク",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "せんべい",
+      "おにぎり",
+      "ポテトチップス",
+      "ゼリー"
+    ],
+    "avoidedBy": [
+      "小麦アレルギー",
+      "乳製品不可",
+      "甘いものが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/retes/1.jpg"
+    ]
+  },
+  {
+    "id": "szilvas-gomboc",
+    "name": "シルヴァーシュ・ゴンボーツ",
+    "kana": "しるゔぁーしゅごんぼーつ",
+    "aliases": [
+      "シルバーシュゴンボーツ",
+      "シィルヴァーシュゴンボーツ",
+      "プラムの団子",
+      "プラムダンプリング"
+    ],
+    "englishName": "Plum Dumplings",
+    "originalName": "Szilvás gombóc",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "じゃがいもと小麦粉で作った生地でプラムを包んだハンガリーの甘い団子。茹でてから香ばしく炒ったパン粉をまぶすのが定番で、デザートにも軽い食事にもなる家庭の味。",
+    "menuDescription": "じゃがいもを練り込んだもちもちの生地でまるごとのプラムを包んで茹で上げ、バターで炒ったパン粉とシナモンシュガーをまぶしました。ハンガリーのおばあちゃんの味として親しまれる素朴なデザートです。",
+    "whatComesOut": [
+      "炒ったパン粉をまとった丸い団子が数個",
+      "中にまるごと入ったプラム",
+      "上からふったシナモンシュガーや粉糖",
+      "スープの後の軽い食事として出されることも"
+    ],
+    "tasteAndTexture": [
+      "じゃがいも生地のもっちりとした食感",
+      "加熱したプラムのとろりとした甘酸っぱさ",
+      "炒ったパン粉の香ばしさとシナモンの香り"
+    ],
+    "orderAdvice": "見た目は素朴だが、甘酸っぱい果物入りの団子なのでデザート好きなら楽しめる。じゃがいも生地でお腹にたまるので、食後よりも軽食として頼むのもあり。プラムは熱々なのでやけどに注意。",
+    "caution": "小麦・乳製品（バター）を使用。卵を使うレシピもある。中のプラムが非常に熱い。種が残っている場合があるので注意。",
+    "similarItems": [
+      {
+        "id": "gnocchi",
+        "name": "ニョッキ",
+        "difference": "ニョッキは同じくじゃがいもと小麦粉の生地だが、ソースで食べる食事向けのパスタ。シルヴァーシュ・ゴンボーツは果物を包む甘いデザート。"
+      },
+      {
+        "id": "varenyky",
+        "name": "ヴァレニキ",
+        "difference": "ヴァレニキは薄い小麦生地で具を包む半月形の茹で団子。シルヴァーシュ・ゴンボーツはじゃがいも生地でプラムを丸ごと包む。"
+      },
+      {
+        "id": "pierogi",
+        "name": "ピエロギ",
+        "difference": "ピエロギはポーランドの餃子状の団子で甘い具も塩味の具もある。シルヴァーシュ・ゴンボーツは丸い形で、パン粉をまぶすのが特徴。"
+      }
+    ],
+    "relatedIds": [
+      "gnocchi",
+      "varenyky",
+      "pierogi",
+      "dumpling",
+      "palacsinta",
+      "gyumolcsleves"
+    ],
+    "source": [
+      "https://hungaryfun.com/foods",
+      "https://en.wikipedia.org/wiki/Plum_dumplings",
+      "https://hu.wikipedia.org/wiki/Szilvás_gombóc"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "菓子",
+      "果物",
+      "小麦",
+      "もちもち",
+      "甘み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ステーキ",
+      "せんべい",
+      "サラダ",
+      "ポテトチップス"
+    ],
+    "avoidedBy": [
+      "小麦アレルギー",
+      "甘いものが苦手",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/szilvas-gomboc/1.jpg",
+      "/images/dishes/szilvas-gomboc/2.jpg",
+      "/images/dishes/szilvas-gomboc/3.jpg"
+    ]
+  },
+  {
+    "id": "forralt-bor",
+    "name": "フォラルト・ボル",
+    "kana": "ふぉらるとぼる",
+    "aliases": [
+      "フォーラルト・ボル",
+      "ハンガリーのホットワイン",
+      "ホットワイン"
+    ],
+    "englishName": "Hungarian Mulled Wine",
+    "originalName": "Forralt bor",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "ハンガリー"
+      }
+    ],
+    "summary": "赤ワインにシナモンやクローブ、砂糖などを加えて温めたハンガリーのホットワイン。名前は「煮たワイン」の意味で、冬のクリスマスマーケットの定番。",
+    "menuDescription": "ハンガリー産の赤ワイン（エグリ・ビカヴェールなど）にシナモン、クローブ、砂糖を加えてじっくり温めた、体の芯から温まる冬のホットワインです。蜂蜜やフルーツを加えることもあります。",
+    "whatComesOut": [
+      "湯気の立つ温かい赤ワイン",
+      "マグカップや耐熱グラスに入った一杯",
+      "オレンジやレモンのスライスが浮かぶことも",
+      "シナモンスティックやクローブが入っていることも"
+    ],
+    "tasteAndTexture": [
+      "温めたワインのまろやかな甘み",
+      "シナモンとクローブのスパイシーな香り",
+      "フルーツの爽やかな酸味",
+      "アルコールが一部飛んで飲みやすい口当たり"
+    ],
+    "orderAdvice": "冬にハンガリーのクリスマスマーケットを訪れたら、クルトゥーシュ・カラーチやラーンゴシュと一緒に楽しみたい定番ドリンク。甘めで飲みやすいが、アルコールは残っているので飲み過ぎに注意。",
+    "caution": "アルコールを含む。加熱してもアルコールは完全には飛ばない。未成年・運転前・妊娠中は不可。",
+    "similarItems": [
+      {
+        "id": "sangria",
+        "name": "サングリア",
+        "difference": "サングリアはワインにフルーツを漬けて冷やして飲むスペインの飲み物。フォラルト・ボルはスパイスを加えて温めて飲む。"
+      }
+    ],
+    "relatedIds": [
+      "sangria",
+      "cinnamon",
+      "clove",
+      "kurtoskalacs",
+      "langos"
+    ],
+    "source": [
+      "https://hungaryfun.com/blog/5402",
+      "https://en.wikipedia.org/wiki/Mulled_wine",
+      "https://ja.wikipedia.org/wiki/グリューワイン"
+    ],
+    "tags": [
+      "ハンガリー料理",
+      "果物",
+      "スパイス",
+      "甘み",
+      "季節料理",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "緑茶",
+      "炭酸水",
+      "ビール",
+      "レモネード"
+    ],
+    "avoidedBy": [
+      "アルコール不可",
+      "スパイスの香りが苦手",
+      "甘い飲み物が苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/forralt-bor/1.jpg",
+      "/images/dishes/forralt-bor/2.jpg"
+    ]
   }
 ]
