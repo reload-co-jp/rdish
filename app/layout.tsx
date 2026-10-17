@@ -5,6 +5,8 @@ import { Noto_Serif_JP } from "next/font/google"
 import "./reset.css"
 import { RouteAd } from "../components/elements/AdSense"
 import { MobileMenu } from "../components/elements/MobileMenu"
+import { RouteAdModal } from "../components/route-ad-modal"
+import { allArticles } from "../lib/articles"
 
 const serif = Noto_Serif_JP({
   weight: ["500", "600"],
@@ -39,6 +41,11 @@ const GA_ID = "G-Y2D3TYWS2Q"
 const ADSENSE_ID = "ca-pub-6542845006087970"
 
 const SITE_URL = "https://rdish.reload.co.jp"
+
+const LATEST_LINKS = [...allArticles]
+  .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
+  .slice(0, 5)
+  .map((a) => ({ href: `/articles/${a.slug}/`, title: a.title }))
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -132,6 +139,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
           {children}
           <RouteAd />
         </main>
+        <RouteAdModal links={LATEST_LINKS} heading="新着の読みもの" />
         <footer className="site-footer">
           <div className="site-footer__inner">
             <div>
