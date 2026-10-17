@@ -233134,5 +233134,652 @@
     "heavinessScore": 3,
     "spicinessScore": 2,
     "images": []
+  },
+  {
+    "id": "rendang",
+    "name": "ルンダン",
+    "kana": "るんだん",
+    "aliases": [
+      "レンダン",
+      "ルンダン・ダギン",
+      "Rendang Daging",
+      "牛肉のスパイス煮込み"
+    ],
+    "englishName": "Rendang",
+    "originalName": "Rendang",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インドネシア",
+        "area": "西スマトラ"
+      },
+      {
+        "country": "マレーシア"
+      }
+    ],
+    "summary": "西スマトラのミナンカバウ族発祥、牛肉をココナッツミルクとスパイスで汁気がなくなるまで長時間煮詰めたインドネシアの代表的な肉料理。",
+    "menuDescription": "牛肉をココナッツミルク、レモングラス、ガランガル、唐辛子などのスパイスでじっくり煮込み、水分を飛ばして油で炒りつけるように仕上げた濃厚な煮込み。ご飯とともに味わう。",
+    "whatComesOut": [
+      "濃い茶色のスパイスペーストをまとった牛肉の塊",
+      "白いご飯（ナシ・プティ）",
+      "サンバルや青菜などの付け合わせ",
+      "パダン料理店では他の惣菜と並んで提供されることも"
+    ],
+    "tasteAndTexture": [
+      "ココナッツとスパイスが凝縮した深いコク",
+      "唐辛子のじんわりとした辛さ",
+      "ほろほろになるまで煮込まれた牛肉",
+      "汁気が少なくねっとりと絡むペースト"
+    ],
+    "orderAdvice": "スパイスの効いた濃厚な肉料理が好きならまず頼むべき一皿。カレーより汁気が少なく、ご飯が進む。辛さは店によって幅があるので、苦手なら控えめにできるか確認を。",
+    "caution": "ココナッツを使用。唐辛子による辛味あり。",
+    "similarItems": [
+      {
+        "id": "gaeng-massaman",
+        "name": "ゲーン・マッサマン",
+        "difference": "マッサマンはココナッツミルクのスープが残る汁気のあるカレー、ルンダンは汁気がなくなるまで煮詰める"
+      },
+      {
+        "id": "beef-bourguignon",
+        "name": "ブフ・ブルギニョン",
+        "difference": "ブルギニョンは赤ワインで煮込むフランスの牛煮込み、ルンダンはココナッツミルクとスパイスで煮詰める"
+      },
+      {
+        "id": "curry-laksa",
+        "name": "カレーラクサ",
+        "difference": "カレーラクサはココナッツカレースープの麺料理、ルンダンは汁気の少ない肉の煮込み"
+      }
+    ],
+    "relatedIds": [
+      "nasi-lemak",
+      "sambal",
+      "lemongrass",
+      "gaeng-massaman",
+      "nasi-goreng"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ルンダン",
+      "https://en.wikipedia.org/wiki/Rendang",
+      "https://asiasunshinemarket.com/pages/indonesia-food"
+    ],
+    "tags": [
+      "インドネシア料理",
+      "マレーシア料理",
+      "主菜",
+      "牛肉",
+      "スパイス",
+      "煮込み",
+      "こってり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "冷奴",
+      "ざるそば",
+      "白身魚のカルパッチョ"
+    ],
+    "avoidedBy": [
+      "辛いものが苦手",
+      "ココナッツが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/rendang/1.jpg",
+      "/images/dishes/rendang/2.jpg",
+      "/images/dishes/rendang/3.jpg"
+    ]
+  },
+  {
+    "id": "gado-gado",
+    "name": "ガドガド",
+    "kana": "がどがど",
+    "aliases": [
+      "ガド・ガド",
+      "Gado Gado",
+      "インドネシア風温野菜サラダ"
+    ],
+    "englishName": "Gado-gado",
+    "originalName": "Gado-gado",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インドネシア",
+        "area": "ジャカルタ"
+      }
+    ],
+    "summary": "茹でた野菜、ゆで卵、揚げ豆腐、テンペ、ロントン（ちまき状の米）などにピーナッツソースをかけたインドネシアのサラダ。国民食のひとつ。",
+    "menuDescription": "キャベツ、もやし、インゲン、じゃがいもなどの温野菜にゆで卵や揚げ豆腐・テンペを添え、甘辛く香ばしいピーナッツソースをたっぷりかけたインドネシア風サラダ。クルプック（揚げせんべい）を添えて。",
+    "whatComesOut": [
+      "茹でた野菜（キャベツ・もやし・インゲン・じゃがいも等）の盛り合わせ",
+      "ゆで卵、揚げ豆腐、テンペ",
+      "ロントン（バナナの葉で包んだ押し固めた米）の輪切り",
+      "とろりとしたピーナッツソース",
+      "クルプックや揚げエシャロットのトッピング"
+    ],
+    "tasteAndTexture": [
+      "ピーナッツの濃厚なコクと甘み",
+      "ケチャップマニスや唐辛子による甘辛さ",
+      "温野菜のシャキシャキ・ほくほく感",
+      "クルプックのサクサク食感"
+    ],
+    "orderAdvice": "野菜をしっかり食べたいときや、肉を控えたいときに最適。ピーナッツソースは甘めでクセが少なく初心者向け。ロントン入りなら一食分のボリュームになる。",
+    "caution": "ピーナッツ使用（ナッツアレルギー注意）。卵、大豆を含む。クルプックにエビが入る場合あり。",
+    "similarItems": [
+      {
+        "id": "som-tam",
+        "name": "ソムタム",
+        "difference": "ソムタムは生の青パパイヤを酸味と辛味で和えるタイのサラダ、ガドガドは温野菜にピーナッツソース"
+      },
+      {
+        "id": "satay",
+        "name": "サテー",
+        "difference": "同じピーナッツソースを使うが、サテーは串焼き肉、ガドガドは野菜が主役"
+      }
+    ],
+    "relatedIds": [
+      "tempeh",
+      "satay",
+      "kecap-manis",
+      "sambal",
+      "som-tam"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Gado-gado",
+      "https://asiasunshinemarket.com/pages/indonesia-food"
+    ],
+    "tags": [
+      "インドネシア料理",
+      "サラダ",
+      "野菜",
+      "ナッツ",
+      "甘み",
+      "家庭料理",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "ステーキ",
+      "とんかつ",
+      "ラーメン"
+    ],
+    "avoidedBy": [
+      "ナッツアレルギー",
+      "卵アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/gado-gado/1.jpg",
+      "/images/dishes/gado-gado/2.jpg",
+      "/images/dishes/gado-gado/3.jpg"
+    ]
+  },
+  {
+    "id": "soto-ayam",
+    "name": "ソトアヤム",
+    "kana": "そとあやむ",
+    "aliases": [
+      "ソト・アヤム",
+      "ソトアヤム",
+      "Soto Ayam",
+      "インドネシア風チキンスープ"
+    ],
+    "englishName": "Soto ayam",
+    "originalName": "Soto ayam",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インドネシア"
+      },
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "シンガポール"
+      }
+    ],
+    "summary": "ターメリックで黄色く色づけた鶏のスープに、ほぐした鶏肉、春雨、ゆで卵などを入れたインドネシアの代表的なスープ料理。",
+    "menuDescription": "ターメリック、レモングラス、ショウガなどのスパイスで香りづけした黄金色の鶏スープ。ほぐし鶏、春雨、ゆで卵、もやし、セロリの葉を入れ、揚げエシャロットとライムを添えて。",
+    "whatComesOut": [
+      "黄色く澄んだ鶏スープの入った器",
+      "ほぐした鶏肉、春雨（ビーフン）、もやし",
+      "ゆで卵、セロリの葉、揚げエシャロット",
+      "別添えのご飯またはロントン、サンバル、ライム",
+      "クルプックが付くことも"
+    ],
+    "tasteAndTexture": [
+      "鶏の旨みとターメリック・レモングラスの爽やかな香り",
+      "あっさりとしながら奥行きのあるスープ",
+      "ライムを搾ると加わる酸味",
+      "サンバルで辛さを好みに調整できる"
+    ],
+    "orderAdvice": "辛さはほぼなく、優しい味のスープなので初心者や胃が疲れているときにもおすすめ。ご飯を浸して食べると一食になる。辛くしたい場合はサンバルを足す。",
+    "caution": "卵を使用。クルプックにエビが含まれる場合あり。",
+    "similarItems": [
+      {
+        "id": "laksa",
+        "name": "ラクサ",
+        "difference": "ラクサはココナッツや魚の旨みが強い濃厚な麺スープ、ソトアヤムはあっさりした鶏スープ"
+      },
+      {
+        "id": "samgyetang",
+        "name": "参鶏湯",
+        "difference": "参鶏湯は丸鶏に餅米と高麗人参を詰めて煮る、ソトアヤムはターメリックで色づけたほぐし鶏のスープ"
+      },
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーは米麺が主役の牛骨・鶏ガラスープ、ソトアヤムはスパイスの効いた黄色いスープに春雨"
+      }
+    ],
+    "relatedIds": [
+      "turmeric",
+      "lemongrass",
+      "sambal",
+      "laksa",
+      "samgyetang"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Soto_ayam",
+      "https://asiasunshinemarket.com/pages/indonesia-food"
+    ],
+    "tags": [
+      "インドネシア料理",
+      "スープ",
+      "鶏肉",
+      "スパイス",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "チーズフォンデュ",
+      "カルボナーラ",
+      "ステーキ"
+    ],
+    "avoidedBy": [
+      "卵アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/soto-ayam/1.jpg",
+      "/images/dishes/soto-ayam/2.jpg",
+      "/images/dishes/soto-ayam/3.jpg"
+    ]
+  },
+  {
+    "id": "babi-guling",
+    "name": "バビグリン",
+    "kana": "ばびぐりん",
+    "aliases": [
+      "バビ・グリン",
+      "ベ・グリン",
+      "バビ・プタール",
+      "Babi Guling",
+      "バリ風子豚の丸焼き"
+    ],
+    "englishName": "Balinese roast suckling pig",
+    "originalName": "Babi guling",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インドネシア",
+        "area": "バリ島"
+      }
+    ],
+    "summary": "子豚の腹にスパイスやキャッサバの葉を詰め、回しながら皮がパリパリになるまで丸焼きにしたバリ島の名物料理。もとは儀式用の料理。",
+    "menuDescription": "ターメリック、ショウガ、ガランガル、唐辛子などを合わせたバリ伝統のスパイスペーストを詰めた子豚を、回転させながらじっくり焼き上げたローストポーク。パリパリの皮、肉、腸詰めなどをご飯と盛り合わせて。",
+    "whatComesOut": [
+      "パリパリに焼けた豚皮と切り分けた豚肉",
+      "スパイスで味付けした内臓やブラッドソーセージ（ウルタン）",
+      "ラワール（野菜と肉のスパイス和え）",
+      "白いご飯とサンバル",
+      "豚の揚げ物やスープが付く店も"
+    ],
+    "tasteAndTexture": [
+      "飴色に焼けた皮のバリッとした香ばしさ",
+      "スパイスが染み込んだジューシーな豚肉",
+      "ターメリックやショウガの複雑な香り",
+      "サンバルの鋭い辛さ"
+    ],
+    "orderAdvice": "イスラム教徒が多いインドネシアでは珍しい豚肉料理で、バリ島を訪れたらぜひ試したい。盛り合わせ（ナシ・バビグリン）で頼むといろいろな部位を楽しめる。内臓系が苦手なら肉と皮中心で頼むとよい。",
+    "caution": "豚肉料理（ハラール・宗教上の制限に注意）。内臓や血を使った腸詰めを含む場合あり。",
+    "similarItems": [
+      {
+        "id": "lechon",
+        "name": "レチョン",
+        "difference": "レチョンはフィリピンの子豚丸焼きで皮の食感が主役、バビグリンはバリのスパイスペーストを詰めて香り高く焼く"
+      },
+      {
+        "id": "porchetta",
+        "name": "ポルケッタ",
+        "difference": "ポルケッタはハーブを巻き込んだイタリアの豚ロースト、バビグリンはアジアのスパイスを詰める"
+      },
+      {
+        "id": "char-siu",
+        "name": "叉焼",
+        "difference": "叉焼は甘いタレで焼く豚肉、バビグリンは子豚を丸ごとスパイスで焼く"
+      }
+    ],
+    "relatedIds": [
+      "lechon",
+      "porchetta",
+      "sambal",
+      "turmeric"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Babi_guling",
+      "https://asiasunshinemarket.com/pages/indonesia-food"
+    ],
+    "tags": [
+      "インドネシア料理",
+      "主菜",
+      "豚肉",
+      "スパイス",
+      "ロースト",
+      "香ばしい",
+      "郷土料理",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "冷奴",
+      "サラダ",
+      "白身魚の蒸し物"
+    ],
+    "avoidedBy": [
+      "豚肉が食べられない",
+      "内臓料理が苦手",
+      "辛いものが苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/babi-guling/1.jpg",
+      "/images/dishes/babi-guling/2.jpg",
+      "/images/dishes/babi-guling/3.jpg"
+    ]
+  },
+  {
+    "id": "pepes-ikan",
+    "name": "ペペスイカン",
+    "kana": "ぺぺすいかん",
+    "aliases": [
+      "ペペス・イカン",
+      "ペペス",
+      "Pepes Ikan",
+      "魚のバナナ葉包み焼き"
+    ],
+    "englishName": "Pepes ikan",
+    "originalName": "Pepes ikan",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "インドネシア",
+        "area": "西ジャワ"
+      }
+    ],
+    "summary": "魚をスパイスペーストと一緒にバナナの葉で包み、蒸すか炭火で焼いたインドネシアの料理。スンダ料理の代表的な調理法「ペペス」で作る。",
+    "menuDescription": "唐辛子、エシャロット、ニンニク、ターメリック、ショウガ、レモングラス、レモンバジルなどを合わせたスパイスペーストを魚にまぶし、バナナの葉で包んで蒸し焼きに。葉の香りが移った香り高い一品。",
+    "whatComesOut": [
+      "バナナの葉で包まれた魚の包み（葉は食べない）",
+      "スパイスペーストをまとった魚（コイ、ティラピア、サバ等）",
+      "白いご飯",
+      "生野菜（ララパン）やサンバルが添えられることも"
+    ],
+    "tasteAndTexture": [
+      "バナナの葉の焦げた香りとハーブの爽やかさ",
+      "スパイスがしみ込んだしっとりした魚",
+      "唐辛子のピリッとした辛さとタマリンドの酸味",
+      "圧力調理で骨まで柔らかい場合も"
+    ],
+    "orderAdvice": "揚げ物ではない魚料理を食べたいときにおすすめ。蒸し焼きなのでしっとりと軽め。淡水魚を使う店では骨が多いことがあるので、骨まで柔らかい「プレスト」タイプかを確認すると安心。",
+    "caution": "魚介類。小骨に注意。唐辛子による辛味あり。",
+    "similarItems": [
+      {
+        "id": "otak-otak",
+        "name": "オタオタ",
+        "difference": "オタオタは魚のすり身を葉で包んで焼く、ペペスイカンは魚の身をそのまま包む"
+      },
+      {
+        "id": "ho-mok-thale",
+        "name": "ホーモック・タレー",
+        "difference": "ホーモックはココナッツミルク入りの魚介ムースを蒸す、ペペスイカンはスパイスペーストで魚を包み蒸し焼き"
+      }
+    ],
+    "relatedIds": [
+      "otak-otak",
+      "ho-mok-thale",
+      "lemongrass",
+      "turmeric",
+      "sambal"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Pepes",
+      "https://asiasunshinemarket.com/pages/indonesia-food"
+    ],
+    "tags": [
+      "インドネシア料理",
+      "主菜",
+      "魚介",
+      "ハーブ",
+      "蒸し料理",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ハンバーグ",
+      "唐揚げ",
+      "グラタン"
+    ],
+    "avoidedBy": [
+      "魚が苦手",
+      "辛いものが苦手",
+      "ハーブが苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/pepes-ikan/1.jpg",
+      "/images/dishes/pepes-ikan/2.jpg",
+      "/images/dishes/pepes-ikan/3.jpg"
+    ]
+  },
+  {
+    "id": "kue-lapis",
+    "name": "クエラピス",
+    "kana": "くえらぴす",
+    "aliases": [
+      "クエ・ラピス",
+      "クエ・ラピス・スラップ",
+      "クイラピス",
+      "Kue Lapis",
+      "Kuih Lapis"
+    ],
+    "englishName": "Kue lapis",
+    "originalName": "Kue lapis",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "インドネシア"
+      },
+      {
+        "country": "マレーシア"
+      },
+      {
+        "country": "シンガポール"
+      }
+    ],
+    "summary": "米粉、タピオカ粉、ココナッツミルク、砂糖で作った生地を一層ずつ蒸し重ねた、色鮮やかな層状の蒸し菓子。",
+    "menuDescription": "パンダンの緑や赤など色の異なる生地を一層ずつ蒸して重ねた、ぷるんともちもちの伝統菓子。ココナッツミルクのやさしい甘さで、一枚ずつはがして食べる楽しみも。",
+    "whatComesOut": [
+      "カラフルな縞模様の四角や菱形の蒸し菓子",
+      "数切れが小皿やバナナの葉の上に",
+      "市場や屋台では他のクエと一緒に並ぶ"
+    ],
+    "tasteAndTexture": [
+      "ぷるんと弾むもちもちした食感",
+      "ココナッツミルクのまろやかな甘さ",
+      "パンダンのほのかな香り",
+      "層を一枚ずつはがせる"
+    ],
+    "orderAdvice": "甘さ控えめでクセがなく、誰でも食べやすい。おやつや食後に少量つまむのに最適。ういろうや外郎のような食感が好きならきっと気に入る。",
+    "caution": "ココナッツを使用。合成着色料を使うものもある。",
+    "similarItems": [
+      {
+        "id": "nyonya-kuih",
+        "name": "ニョニャクエ",
+        "difference": "ニョニャクエはマレーシア・プラナカンの菓子の総称で、クエラピスはその代表的な層状の一種"
+      },
+      {
+        "id": "uiro",
+        "name": "ういろう",
+        "difference": "ういろうは米粉と砂糖の和菓子で層はない、クエラピスはココナッツミルク入りの生地を何層も蒸し重ねる"
+      },
+      {
+        "id": "dodol",
+        "name": "ドドール",
+        "difference": "ドドールは煮詰めて作るねっとりした練り菓子、クエラピスは蒸して作るぷるぷるの層菓子"
+      }
+    ],
+    "relatedIds": [
+      "nyonya-kuih",
+      "uiro",
+      "mochi",
+      "kaya-toast"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Kue_lapis",
+      "https://asiasunshinemarket.com/pages/indonesia-food"
+    ],
+    "tags": [
+      "インドネシア料理",
+      "菓子",
+      "米",
+      "蒸し料理",
+      "もちもち",
+      "甘み",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "せんべい",
+      "ナッツ",
+      "ポテトチップス"
+    ],
+    "avoidedBy": [
+      "ココナッツが苦手",
+      "甘いものが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kue-lapis/1.jpg",
+      "/images/dishes/kue-lapis/2.jpg",
+      "/images/dishes/kue-lapis/3.jpg"
+    ]
+  },
+  {
+    "id": "dodol",
+    "name": "ドドール",
+    "kana": "どどーる",
+    "aliases": [
+      "ドドル",
+      "Dodol",
+      "カラマエ",
+      "ココナッツキャラメル菓子"
+    ],
+    "englishName": "Dodol",
+    "originalName": "Dodol",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "インドネシア"
+      },
+      {
+        "country": "マレーシア"
+      },
+      {
+        "area": "東南アジア"
+      }
+    ],
+    "summary": "ココナッツミルクとヤシ砂糖にもち米粉を加え、長時間煮詰めて作る、ねっとりと粘り気のある東南アジアの練り菓子。",
+    "menuDescription": "ココナッツミルク、ヤシ砂糖（グラ・ムラ）、もち米粉を大鍋で何時間もかき混ぜながら煮詰めた伝統菓子。キャラメルのような濃厚な甘さと、もっちりした歯ごたえが特徴。ドリアンやパンダン風味もある。",
+    "whatComesOut": [
+      "茶色くつややかな一口大の練り菓子",
+      "個包装やトウモロコシの皮・紙に包まれたもの",
+      "ドリアン・パンダン・ジャックフルーツなどの風味違い"
+    ],
+    "tasteAndTexture": [
+      "ヤシ砂糖のコク深いキャラメルのような甘さ",
+      "ココナッツの濃厚な香り",
+      "ねっとり、もっちりとした粘りのある食感"
+    ],
+    "orderAdvice": "かなり甘く濃厚なので、お茶やコーヒーと一緒に少しずつ食べるのがよい。日持ちするのでお土産向き。ドリアン味は香りが強いので、初めてならプレーンやパンダン味から。",
+    "caution": "ココナッツを使用。糖分が多い。粘りが強く喉に詰まらせないよう注意。",
+    "similarItems": [
+      {
+        "id": "kue-lapis",
+        "name": "クエラピス",
+        "difference": "クエラピスは蒸して作るぷるぷるの層菓子、ドドールは煮詰めて作るねっとりした練り菓子"
+      },
+      {
+        "id": "mochi",
+        "name": "餅",
+        "difference": "餅はもち米を搗いた淡白な味、ドドールはココナッツミルクとヤシ砂糖で煮詰めた濃厚な甘さ"
+      },
+      {
+        "id": "kaya-toast",
+        "name": "カヤトースト",
+        "difference": "カヤはココナッツミルクと卵のジャムをパンに塗る、ドドールは単体で食べる固めの練り菓子"
+      }
+    ],
+    "relatedIds": [
+      "kue-lapis",
+      "mochi",
+      "palm-sugar",
+      "nyonya-kuih"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Dodol",
+      "https://asiasunshinemarket.com/pages/indonesia-food"
+    ],
+    "tags": [
+      "インドネシア料理",
+      "マレーシア料理",
+      "菓子",
+      "米",
+      "もちもち",
+      "甘み",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "せんべい",
+      "酢の物",
+      "ポテトチップス"
+    ],
+    "avoidedBy": [
+      "甘いものが苦手",
+      "ココナッツが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/dodol/1.jpg",
+      "/images/dishes/dodol/2.jpg",
+      "/images/dishes/dodol/3.jpg"
+    ]
   }
 ]
