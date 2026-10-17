@@ -234379,5 +234379,2401 @@
       "/images/dishes/forralt-bor/1.jpg",
       "/images/dishes/forralt-bor/2.jpg"
     ]
+  },
+  {
+    "id": "doro-wat",
+    "name": "ドロワット",
+    "kana": "どろわっと",
+    "aliases": [
+      "ドロ・ワット",
+      "ドロウォット",
+      "ドロワト"
+    ],
+    "englishName": "Doro wat",
+    "originalName": "ዶሮ ወጥ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エチオピア"
+      }
+    ],
+    "summary": "鶏肉を大量の玉ねぎ、ベルベレ、ニテルキベで煮込んだエチオピアの赤いチキンシチュー。ゆで卵を加えるのが特徴で、クリスマスや結婚式に欠かせない国民的料理。",
+    "menuDescription": "油を使わずじっくり炒めた玉ねぎをベースに、スパイスミックスのベルベレとスパイスバターのニテルキベで骨付き鶏肉を煮込んだシチュー。切り込みを入れたゆで卵が丸ごと入り、インジェラの上に盛って供される。",
+    "whatComesOut": [
+      "濃い赤褐色のとろみあるチキンシチュー",
+      "骨付き鶏肉（ドラムスティックなど）",
+      "スパイスが染みたゆで卵",
+      "下に敷いたインジェラと追加のインジェラ",
+      "付け合わせのアイブ（フレッシュチーズ）が添えられることも"
+    ],
+    "tasteAndTexture": [
+      "ベルベレの強い辛さと複雑なスパイスの香り",
+      "飴色玉ねぎ由来の深い甘みとコク",
+      "スパイスバターの濃厚な風味",
+      "ほろりとほぐれる鶏肉"
+    ],
+    "orderAdvice": "エチオピア料理店で一品だけ選ぶなら代表格。辛さはしっかりあるが、鶏肉と卵が中心で味の想像がつきやすい。辛いものが苦手ならアイブを一緒に頼むと和らぐ。",
+    "caution": "卵、乳製品（ニテルキベ）を含む。辛味が強い。インジェラに小麦が混ざる店もある。",
+    "similarItems": [
+      {
+        "id": "wat",
+        "name": "ワット",
+        "difference": "ワットはエチオピアの煮込み料理の総称。ドロワットはその中でも鶏肉とゆで卵を使う祝祭用の代表格"
+      },
+      {
+        "id": "misir-wat",
+        "name": "ミスルワット",
+        "difference": "ミスルワットは赤レンズ豆の植物性シチューで断食日向け。ドロワットは鶏肉と卵入りで濃厚"
+      },
+      {
+        "name": "チキンカレー",
+        "difference": "チキンカレーはインドのスパイス煮込みで米やナンと食べる。ドロワットはベルベレとスパイスバターで煮込み、インジェラで食べる"
+      }
+    ],
+    "relatedIds": [
+      "wat",
+      "injera",
+      "berbere",
+      "niter-kibbeh",
+      "ayib",
+      "tej"
+    ],
+    "source": [
+      "https://sekaigohan.com/recipes/africa/overview/ethiopian-cuisine",
+      "https://en.wikipedia.org/wiki/Wat_(food)"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "主菜",
+      "鶏肉",
+      "卵",
+      "煮込み",
+      "ピリ辛",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "白いシチュー",
+      "塩味のチキンスープ",
+      "クリームシチュー",
+      "唐揚げ"
+    ],
+    "avoidedBy": [
+      "辛いものが苦手",
+      "卵アレルギー",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/doro-wat/1.jpg",
+      "/images/dishes/doro-wat/2.jpg",
+      "/images/dishes/doro-wat/3.jpg"
+    ]
+  },
+  {
+    "id": "kitfo",
+    "name": "キトフォ",
+    "kana": "きとふぉ",
+    "aliases": [
+      "キットフォ",
+      "エチオピア風タルタル"
+    ],
+    "englishName": "Kitfo",
+    "originalName": "ክትፎ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エチオピア"
+      }
+    ],
+    "summary": "細かくたたいた生の牛肉をスパイス唐辛子ミトミタとスパイスバターのニテルキベで和えたエチオピアの料理。南部グラゲ民族の伝統料理が起源。",
+    "menuDescription": "新鮮な牛赤身肉を細かく刻み、温めたニテルキベとミトミタで和えたエチオピア版タルタルステーキ。生のまま（レブレブ）、軽く火を通す（ルブルブ）、しっかり加熱（ヤベシェラ）から焼き加減を選べることが多い。",
+    "whatComesOut": [
+      "スパイスバターで艶の出た赤い牛ミンチ",
+      "ゴメン（青菜の炒め煮）",
+      "アイブ（フレッシュチーズ）",
+      "インジェラ、または薄焼きパンのコチョ",
+      "別添えのミトミタ"
+    ],
+    "tasteAndTexture": [
+      "生肉のねっとりした舌触りと濃い旨み",
+      "スパイスバターの香りとコク",
+      "ミトミタの鋭い辛さ",
+      "アイブで和らぐまろやかな後味"
+    ],
+    "orderAdvice": "ユッケやタルタルが好きなら挑戦の価値あり。生肉に抵抗があれば「ルブルブ（軽く火を通す）」や「よく焼き」を指定する。辛さはミトミタの量で変わるので控えめを頼める店も。",
+    "caution": "生の牛肉を使うため、食中毒リスクに注意。妊娠中・免疫力が低い人は加熱指定を。乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "tartare",
+        "name": "タルタル",
+        "difference": "タルタルは生牛肉を卵黄や玉ねぎ、ケッパーで和えるフランス料理。キトフォはスパイスバターと唐辛子で和えて温かみがある"
+      },
+      {
+        "name": "ユッケ",
+        "difference": "ユッケはごま油と甘辛だれ、卵黄で和える韓国料理。キトフォはスパイスバターと唐辛子でより濃厚で辛い"
+      },
+      {
+        "id": "carpaccio",
+        "name": "カルパッチョ",
+        "difference": "カルパッチョは生肉を薄切りにしてオイルで食べる。キトフォは細かく刻みバターで和える"
+      }
+    ],
+    "relatedIds": [
+      "tartare",
+      "carpaccio",
+      "mitmita",
+      "niter-kibbeh",
+      "ayib",
+      "gomen",
+      "injera"
+    ],
+    "source": [
+      "https://sekaigohan.com/recipes/africa/overview/ethiopian-cuisine",
+      "https://en.wikipedia.org/wiki/Kitfo"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "主菜",
+      "牛肉",
+      "生食",
+      "こってり",
+      "ピリ辛",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "よく焼いた肉",
+      "ハンバーグ",
+      "あっさり鶏料理",
+      "煮込み料理"
+    ],
+    "avoidedBy": [
+      "生肉が苦手",
+      "妊娠中",
+      "辛いものが苦手",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/kitfo/1.jpg",
+      "/images/dishes/kitfo/2.jpg",
+      "/images/dishes/kitfo/3.jpg"
+    ]
+  },
+  {
+    "id": "misir-wat",
+    "name": "ミスルワット",
+    "kana": "みするわっと",
+    "aliases": [
+      "ミシルワット",
+      "ミスル・ワット",
+      "レンズ豆のワット"
+    ],
+    "englishName": "Misir wat",
+    "originalName": "ምስር ወጥ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エチオピア"
+      }
+    ],
+    "summary": "赤レンズ豆をベルベレで煮込んだエチオピアのピリ辛シチュー。シロワットと並ぶ断食日の定番で、植物性の食材だけで作れる。",
+    "menuDescription": "炒めた玉ねぎとにんにくにベルベレを加え、赤レンズ豆をとろとろになるまで煮込んだ豆のシチュー。インジェラの上に他のおかずと一緒に盛られることが多い。",
+    "whatComesOut": [
+      "赤橙色のどろっとしたレンズ豆の煮込み",
+      "インジェラ",
+      "ゴメンなど野菜の副菜と盛り合わせになることも"
+    ],
+    "tasteAndTexture": [
+      "崩れた豆のなめらかでぽってりした食感",
+      "ベルベレのじんわりした辛さ",
+      "玉ねぎの甘みと豆のほっくりした旨み"
+    ],
+    "orderAdvice": "インドのダルが好きならまず外さない。肉を使わないので軽めに食べたい人やベジタリアン向け。辛さはワット類の中では中程度。",
+    "caution": "ニテルキベ（バター）で仕上げる店もあるため、完全ヴィーガンなら油で作るか確認を。",
+    "similarItems": [
+      {
+        "id": "shiro",
+        "name": "シロ",
+        "difference": "シロはひよこ豆などの豆粉を溶いたとろみのあるシチュー。ミスルワットはレンズ豆を粒ごと煮崩す"
+      },
+      {
+        "id": "dal",
+        "name": "ダル",
+        "difference": "ダルはクミンやターメリックで煮るインドの豆料理。ミスルワットはベルベレで辛く煮込む"
+      },
+      {
+        "id": "doro-wat",
+        "name": "ドロワット",
+        "difference": "ドロワットは鶏肉と卵入りの祝祭料理。ミスルワットは豆のみの断食日料理"
+      }
+    ],
+    "relatedIds": [
+      "shiro",
+      "dal",
+      "lentilles",
+      "wat",
+      "berbere",
+      "injera",
+      "beyaynetu"
+    ],
+    "source": [
+      "https://sekaigohan.com/recipes/africa/overview/ethiopian-cuisine"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "主菜",
+      "豆類",
+      "煮込み",
+      "ピリ辛",
+      "家庭料理",
+      "精進料理"
+    ],
+    "reverseKeywords": [
+      "肉料理",
+      "ステーキ",
+      "クリームシチュー",
+      "あっさりスープ"
+    ],
+    "avoidedBy": [
+      "辛いものが苦手",
+      "豆が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": []
+  },
+  {
+    "id": "tibs",
+    "name": "ティブス",
+    "kana": "てぃぶす",
+    "aliases": [
+      "テブス",
+      "ティブス炒め"
+    ],
+    "englishName": "Tibs",
+    "originalName": "ጥብስ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エチオピア"
+      }
+    ],
+    "summary": "牛肉や羊肉を野菜と一緒にスパイスで炒めたエチオピアの肉料理。辛口から辛くないものまで種類が多く、エチオピア料理の入門向けの一品。",
+    "menuDescription": "一口大の牛肉や羊肉をアワゼやスパイスバターで下味をつけ、玉ねぎ、トマト、青唐辛子と強火で炒め合わせた料理。ローズマリーをのせたり、熱した土鍋で提供されることもある。",
+    "whatComesOut": [
+      "角切りの炒めた肉（牛または羊）",
+      "玉ねぎ、トマト、青唐辛子",
+      "ローズマリーの枝",
+      "インジェラ"
+    ],
+    "tasteAndTexture": [
+      "高温で炒めた肉の香ばしさ",
+      "スパイスバターのコク",
+      "店や種類で幅のある辛さ",
+      "噛みごたえのある肉と野菜のシャキッと感"
+    ],
+    "orderAdvice": "生肉や強い煮込みに不安がある人の最初の一皿に最適。焼肉や炒め物が好きなら選びやすい。辛さは店で大きく違うので確認すると安心。",
+    "caution": "乳製品（ニテルキベ）を含むことが多い。",
+    "similarItems": [
+      {
+        "id": "bulgogi",
+        "name": "プルコギ",
+        "difference": "プルコギは甘辛だれで漬けた薄切り牛肉の焼き物。ティブスは角切り肉をスパイスと野菜で炒める"
+      },
+      {
+        "id": "doro-wat",
+        "name": "ドロワット",
+        "difference": "ドロワットは長時間煮込むシチュー。ティブスは短時間で炒める肉料理"
+      },
+      {
+        "name": "ファヒータ",
+        "difference": "ファヒータは焼いた肉と野菜をトルティーヤで包むメキシコ風料理。ティブスはインジェラでつまんで食べる"
+      }
+    ],
+    "relatedIds": [
+      "awaze",
+      "niter-kibbeh",
+      "mitmita",
+      "injera",
+      "kitfo",
+      "bulgogi"
+    ],
+    "source": [
+      "https://sekaigohan.com/recipes/africa/overview/ethiopian-cuisine",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "主菜",
+      "牛肉",
+      "羊肉",
+      "炒め物",
+      "香ばしい",
+      "ピリ辛"
+    ],
+    "reverseKeywords": [
+      "煮込み料理",
+      "魚料理",
+      "生野菜サラダ",
+      "豆腐料理"
+    ],
+    "avoidedBy": [
+      "辛いものが苦手",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/tibs/1.jpg",
+      "/images/dishes/tibs/2.jpg",
+      "/images/dishes/tibs/3.jpg"
+    ]
+  },
+  {
+    "id": "gomen",
+    "name": "ゴメン",
+    "kana": "ごめん",
+    "aliases": [
+      "ゴメン・ワット",
+      "エチオピア風コラードグリーン"
+    ],
+    "englishName": "Gomen",
+    "originalName": "ጎመን",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エチオピア"
+      }
+    ],
+    "summary": "コラードグリーン（ケールの仲間の青菜）をにんにくや生姜と炒め煮にしたエチオピアの副菜。断食日にも食べられ、豆のワットと組み合わせる定番。",
+    "menuDescription": "刻んだ青菜を玉ねぎ、にんにく、生姜、青唐辛子と一緒にしんなりするまで炒め煮にしたもの。キトフォの付け合わせやバイアイネットの一品として登場する。",
+    "whatComesOut": [
+      "濃い緑色のくたっと煮えた青菜",
+      "玉ねぎやにんにく、青唐辛子",
+      "インジェラ上の盛り合わせの一部として"
+    ],
+    "tasteAndTexture": [
+      "青菜のほろ苦さと素朴な甘み",
+      "にんにくと生姜の香り",
+      "辛さは控えめでやさしい味",
+      "しんなりした柔らかい食感"
+    ],
+    "orderAdvice": "辛いワット類の箸休めとして頼むとバランスがよい。単品というより盛り合わせや付け合わせで食べるもの。野菜をとりたい人向け。",
+    "similarItems": [
+      {
+        "name": "サグ",
+        "difference": "サグはほうれん草などをスパイスとともにペースト状に煮込むインド料理。ゴメンは葉の形を残して炒め煮にする"
+      },
+      {
+        "id": "namul",
+        "name": "ナムル",
+        "difference": "ナムルはごま油で和える韓国の冷たい野菜料理。ゴメンは温かい炒め煮"
+      },
+      {
+        "id": "kale",
+        "name": "ケール",
+        "difference": "ケールは食材。ゴメンはケールの仲間のコラードグリーンを使った料理"
+      }
+    ],
+    "relatedIds": [
+      "kale",
+      "spinach",
+      "namul",
+      "kitfo",
+      "misir-wat",
+      "beyaynetu",
+      "injera"
+    ],
+    "source": [
+      "https://sekaigohan.com/recipes/africa/overview/ethiopian-cuisine",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "前菜",
+      "野菜",
+      "炒め物",
+      "あっさり",
+      "家庭料理",
+      "精進料理"
+    ],
+    "reverseKeywords": [
+      "肉料理",
+      "揚げ物",
+      "チーズ料理",
+      "甘いデザート"
+    ],
+    "avoidedBy": [
+      "青菜の苦味が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/gomen/1.jpg",
+      "/images/dishes/gomen/2.jpg",
+      "/images/dishes/gomen/3.jpg"
+    ]
+  },
+  {
+    "id": "ayib",
+    "name": "アイブ",
+    "kana": "あいぶ",
+    "aliases": [
+      "アイベ",
+      "アイブチーズ",
+      "エチオピアのカッテージチーズ"
+    ],
+    "englishName": "Ayibe",
+    "originalName": "አይብ",
+    "category": "チーズ",
+    "regions": [
+      {
+        "country": "エチオピア"
+      }
+    ],
+    "summary": "バターミルクなどを加熱して固めたエチオピアのフレッシュチーズ。味はほとんどなく、ぽろぽろした食感で辛い料理の箸休めとして添えられる。",
+    "menuDescription": "牛乳やバターミルクを温めて凝固させ、水気を絞ったやわらかいカード状のチーズ。キトフォやドロワットの付け合わせとして出され、辛さを和らげる役割を持つ。スパイスを混ぜて単品で出すこともある。",
+    "whatComesOut": [
+      "白くぽろぽろしたフレッシュチーズ",
+      "キトフォやワットの横に小盛り",
+      "スパイスを和えたものが出ることも"
+    ],
+    "tasteAndTexture": [
+      "ほぼ無味でミルクのやさしい風味",
+      "フェタを崩したようなぽろぽろした食感",
+      "辛さを鎮めるさっぱり感"
+    ],
+    "orderAdvice": "辛い料理を頼むなら一緒に追加すると食べやすくなる。チーズとしての主張は弱いので単品より付け合わせで。",
+    "caution": "乳製品。",
+    "similarItems": [
+      {
+        "id": "cottage-cheese",
+        "name": "カッテージチーズ",
+        "difference": "ほぼ同じタイプのフレッシュチーズ。アイブはよりぽろぽろと乾いた食感"
+      },
+      {
+        "id": "ricotta",
+        "name": "リコッタ",
+        "difference": "リコッタはホエイから作るなめらかなチーズ。アイブはバターミルクのカード"
+      },
+      {
+        "id": "feta",
+        "name": "フェタ",
+        "difference": "フェタは塩水に漬けた塩気の強いチーズ。アイブはほとんど塩気がない"
+      }
+    ],
+    "relatedIds": [
+      "cottage-cheese",
+      "ricotta",
+      "feta",
+      "kitfo",
+      "doro-wat"
+    ],
+    "source": [
+      "https://sekaigohan.com/recipes/africa/overview/ethiopian-cuisine",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "チーズ",
+      "乳製品",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "熟成チーズ",
+      "ブルーチーズ",
+      "辛い料理",
+      "濃厚な味"
+    ],
+    "avoidedBy": [
+      "乳製品不可",
+      "乳糖不耐症"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ayib/1.jpg",
+      "/images/dishes/ayib/2.jpg",
+      "/images/dishes/ayib/3.jpg"
+    ]
+  },
+  {
+    "id": "firfir",
+    "name": "フルフル",
+    "kana": "ふるふる",
+    "aliases": [
+      "フィルフィル",
+      "フィットフィット",
+      "フィトフィト",
+      "ファトファト"
+    ],
+    "englishName": "Fit-fit",
+    "originalName": "ፍርፍር",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エチオピア"
+      },
+      {
+        "country": "エリトリア"
+      }
+    ],
+    "summary": "ちぎったインジェラをベルベレとスパイスバターで炒め和えたエチオピア・エリトリアの朝食。前夜の残りのインジェラを使う家庭の知恵から生まれた。",
+    "menuDescription": "細かくちぎったインジェラ（または無発酵パンのキチャ）を、ベルベレとニテルキベで作ったソースに絡めた料理。肉や卵を加えたバリエーションもあり、朝食メニューとして出されることが多い。",
+    "whatComesOut": [
+      "赤いソースを吸ったちぎりインジェラ",
+      "さらに下に敷いたインジェラ",
+      "卵や肉入りのものもあり",
+      "ヨーグルトや青唐辛子が添えられることも"
+    ],
+    "tasteAndTexture": [
+      "ソースを吸ったインジェラのしっとり、もちっとした食感",
+      "インジェラの酸味とベルベレの辛さ",
+      "スパイスバターのコク"
+    ],
+    "orderAdvice": "エチオピア料理店のブランチや朝食メニューにあれば試す価値あり。パンを主体にした料理なので満腹感がある。インジェラの酸味が苦手なら避ける。",
+    "caution": "乳製品（ニテルキベ）を含む。",
+    "similarItems": [
+      {
+        "id": "injera",
+        "name": "インジェラ",
+        "difference": "インジェラは主食の発酵パンそのもの。フルフルはそれをちぎってソースで和えた料理"
+      },
+      {
+        "name": "チラキレス",
+        "difference": "チラキレスはトルティーヤチップスをサルサで煮るメキシコの朝食。フルフルはインジェラを使う"
+      },
+      {
+        "id": "shakshuka",
+        "name": "シャクシュカ",
+        "difference": "シャクシュカはトマトソースで卵を煮る料理。フルフルはパン自体が主役"
+      }
+    ],
+    "relatedIds": [
+      "injera",
+      "berbere",
+      "niter-kibbeh",
+      "shakshuka",
+      "wat"
+    ],
+    "source": [
+      "https://sekaigohan.com/recipes/africa/overview/ethiopian-cuisine",
+      "https://en.wikipedia.org/wiki/Fit-fit"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "軽食",
+      "小麦",
+      "炒め物",
+      "ピリ辛",
+      "もちもち",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "トースト",
+      "サンドイッチ",
+      "白ごはん",
+      "甘いパンケーキ"
+    ],
+    "avoidedBy": [
+      "辛いものが苦手",
+      "酸味が苦手",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/firfir/1.jpg",
+      "/images/dishes/firfir/2.jpg",
+      "/images/dishes/firfir/3.png"
+    ]
+  },
+  {
+    "id": "mitmita",
+    "name": "ミトミタ",
+    "kana": "みとみた",
+    "aliases": [
+      "ミットミタ"
+    ],
+    "englishName": "Mitmita",
+    "originalName": "ሚጥሚጣ",
+    "category": "香辛料",
+    "regions": [
+      {
+        "country": "エチオピア"
+      }
+    ],
+    "summary": "鳥の目唐辛子にカルダモン、クローブ、塩を合わせたエチオピアのオレンジ色のスパイスミックス。ベルベレより辛く、仕上げにかけて使う。",
+    "menuDescription": "小粒で辛いアフリカン・バーズアイ唐辛子を主体に、エチオピアのカルダモン（コラリマ）、クローブ、塩を挽き合わせた粉末調味料。キトフォの味付けやティブスの振りかけ、生肉のつけ粉として使われる。",
+    "whatComesOut": [
+      "小皿に盛られたオレンジ赤色の粉末",
+      "キトフォやティブスに添えて",
+      "料理にまぶされた状態"
+    ],
+    "tasteAndTexture": [
+      "鋭く強い唐辛子の辛さ",
+      "カルダモンとクローブの甘い香り",
+      "塩気のある乾いたパウダー"
+    ],
+    "orderAdvice": "料理ではなく調味料。辛さに強ければキトフォに追加でつけて本場の味に。辛いのが苦手なら少量から試す。",
+    "caution": "非常に辛い。",
+    "similarItems": [
+      {
+        "id": "berbere",
+        "name": "ベルベレ",
+        "difference": "ベルベレは多種のスパイスを使い煮込み向け。ミトミタは配合がシンプルでより辛く、仕上げ向け"
+      },
+      {
+        "id": "chili-powder",
+        "name": "チリパウダー",
+        "difference": "チリパウダーはクミンやオレガノ入りのアメリカ風ミックス。ミトミタはカルダモンとクローブが効く"
+      },
+      {
+        "name": "一味唐辛子",
+        "difference": "一味は唐辛子のみ。ミトミタはスパイスと塩を合わせている"
+      }
+    ],
+    "relatedIds": [
+      "berbere",
+      "chili-powder",
+      "cardamom",
+      "clove",
+      "kitfo",
+      "tibs"
+    ],
+    "source": [
+      "https://sekaigohan.com/recipes/africa/overview/ethiopian-cuisine",
+      "https://en.wikipedia.org/wiki/Mitmita"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "調味料",
+      "スパイス",
+      "ピリ辛",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "ハーブソルト",
+      "甘い調味料",
+      "マヨネーズ",
+      "白だし"
+    ],
+    "avoidedBy": [
+      "辛いものが苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 5,
+    "images": [
+      "/images/dishes/mitmita/1.jpg",
+      "/images/dishes/mitmita/2.jpg",
+      "/images/dishes/mitmita/3.jpg"
+    ]
+  },
+  {
+    "id": "niter-kibbeh",
+    "name": "ニテルキベ",
+    "kana": "にてるきべ",
+    "aliases": [
+      "ニテルキッベ",
+      "ニターキベ",
+      "テスミ",
+      "エチオピアのスパイスバター"
+    ],
+    "englishName": "Niter kibbeh",
+    "originalName": "ንጥር ቅቤ",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "エチオピア"
+      },
+      {
+        "country": "エリトリア"
+      }
+    ],
+    "summary": "バターをスパイスとともに煮て漉したエチオピア・エリトリアの澄ましバター。ワットやキトフォなど多くの料理の風味の土台になる。",
+    "menuDescription": "バターを弱火で溶かし、フェヌグリーク、クミン、コリアンダー、ターメリック、コラリマ（エチオピアのカルダモン）、ベソベラなどを加えて香りを移し、漉した黄金色の澄ましバター。単体ではなく料理の油として使われる。",
+    "whatComesOut": [
+      "黄金色の澄ましバター（料理に溶け込んだ状態が普通）",
+      "キトフォの和え油として",
+      "ワット類の仕上げとして"
+    ],
+    "tasteAndTexture": [
+      "バターの濃厚なコク",
+      "スパイスの強い香り",
+      "ギーより複雑で芳しい風味"
+    ],
+    "orderAdvice": "単品で注文するものではない。エチオピア料理のコクの正体なので、乳製品を避けたい人は「ニテルキベ不使用」や油で作れるか確認を。",
+    "caution": "乳製品。植物油で作る版はイェキメム・ゼイェットと呼ばれる。",
+    "similarItems": [
+      {
+        "id": "ghee",
+        "name": "ギー",
+        "difference": "ギーはインドの澄ましバターで香りはシンプル。ニテルキベはスパイスで香り付けされている"
+      },
+      {
+        "id": "berbere",
+        "name": "ベルベレ",
+        "difference": "ベルベレは乾いたスパイスミックス。ニテルキベはスパイスを移したバター"
+      }
+    ],
+    "relatedIds": [
+      "ghee",
+      "berbere",
+      "mitmita",
+      "kitfo",
+      "doro-wat",
+      "wat"
+    ],
+    "source": [
+      "https://sekaigohan.com/recipes/africa/overview/ethiopian-cuisine",
+      "https://en.wikipedia.org/wiki/Niter_kibbeh"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "調味料",
+      "乳製品",
+      "スパイス",
+      "こってり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "オリーブオイル",
+      "ごま油",
+      "あっさり和食",
+      "ポン酢"
+    ],
+    "avoidedBy": [
+      "乳製品不可",
+      "ヴィーガン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/niter-kibbeh/1.jpg",
+      "/images/dishes/niter-kibbeh/2.jpg",
+      "/images/dishes/niter-kibbeh/3.jpg"
+    ]
+  },
+  {
+    "id": "awaze",
+    "name": "アワゼ",
+    "kana": "あわぜ",
+    "aliases": [
+      "アワゼ・ソース"
+    ],
+    "englishName": "Awaze",
+    "originalName": "አዋዜ",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "エチオピア"
+      }
+    ],
+    "summary": "ベルベレにワインや蜂蜜酒テジ、にんにくを加えて練ったエチオピアの辛いペースト調味料。ティブスの下味やディップとして使う。",
+    "menuDescription": "スパイスミックスのベルベレを、ワイン（またはテジ）や水、にんにく、油などで練り上げた赤いチリペースト。肉の下味に使うほか、小皿で添えられて生肉やインジェラにつけて食べる。",
+    "whatComesOut": [
+      "小皿に入った赤いペースト",
+      "ティブスやキトフォの添え物として",
+      "肉に絡んだ状態"
+    ],
+    "tasteAndTexture": [
+      "ベルベレ由来の強い辛さ",
+      "酒とにんにくの香り",
+      "もったりしたペースト状"
+    ],
+    "orderAdvice": "料理の辛さを足したい人向けの調味料。辛いものが好きなら頼むと味の変化が楽しめる。苦手なら避ける。",
+    "caution": "辛味が強い。アルコール入りの酒を使う場合がある（加熱しない場合あり）。",
+    "similarItems": [
+      {
+        "id": "berbere",
+        "name": "ベルベレ",
+        "difference": "ベルベレは粉末のスパイスミックス。アワゼはそれを液体で練ったペースト"
+      },
+      {
+        "id": "harissa",
+        "name": "ハリッサ",
+        "difference": "ハリッサは唐辛子、にんにく、キャラウェイなどの北アフリカのペースト。アワゼはベルベレと酒ベース"
+      },
+      {
+        "id": "gochujang",
+        "name": "コチュジャン",
+        "difference": "コチュジャンは発酵させた甘辛い味噌。アワゼは発酵させず、甘みは控えめ"
+      }
+    ],
+    "relatedIds": [
+      "berbere",
+      "harissa",
+      "sambal",
+      "gochujang",
+      "tej",
+      "tibs"
+    ],
+    "source": [
+      "https://sekaigohan.com/recipes/africa/overview/ethiopian-cuisine",
+      "https://en.wikipedia.org/wiki/Awaze"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "調味料",
+      "スパイス",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "マヨネーズ",
+      "甘口ソース",
+      "ヨーグルトソース",
+      "塩レモン"
+    ],
+    "avoidedBy": [
+      "辛いものが苦手",
+      "アルコール不可"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/awaze/1.jpg"
+    ]
+  },
+  {
+    "id": "beyaynetu",
+    "name": "バイアイネット",
+    "kana": "ばいあいねっと",
+    "aliases": [
+      "ベヤイネトゥ",
+      "ビヤイネット",
+      "エチオピアのベジタリアンプレート",
+      "ヴィーガンコンボ"
+    ],
+    "englishName": "Beyaynetu",
+    "originalName": "በያይነቱ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "エチオピア"
+      }
+    ],
+    "summary": "大きなインジェラの上に豆や野菜のおかずを6〜8種類ほど少しずつ盛り合わせたエチオピアの植物性プレート。正教会の断食日の食事として発展した。",
+    "menuDescription": "一枚の大きなインジェラに、ミスルワット（レンズ豆）、シロワット（豆粉）、ゴメン（青菜）、キャベツとにんじんのスパイス煮、レンズ豆やビーツのサラダなどを円形に盛り合わせた盛り合わせ。数人でシェアすることも多い。",
+    "whatComesOut": [
+      "大皿に敷いた大きなインジェラ",
+      "その上に円形に並んだ豆・野菜のおかず6〜8種",
+      "巻いた追加のインジェラ",
+      "冷たいサラダ類が混ざることも"
+    ],
+    "tasteAndTexture": [
+      "辛い豆の煮込みとやさしい野菜料理の味の幅",
+      "温かい料理と冷たいサラダの対比",
+      "インジェラの酸味ともっちり感"
+    ],
+    "orderAdvice": "エチオピア料理を初めて食べるならこれ一皿でいろいろ試せる。肉を食べない人、ベジタリアンに最適。量が多いので2人以上でシェアが向く。",
+    "caution": "ニテルキベ（バター）を使う店もあるため、完全ヴィーガンは確認を。",
+    "similarItems": [
+      {
+        "name": "ターリー",
+        "difference": "ターリーは金属の大皿に小鉢を並べるインドの定食。バイアイネットはインジェラが皿兼主食"
+      },
+      {
+        "id": "mezze",
+        "name": "メゼ",
+        "difference": "メゼは中東の小皿料理の集まり。バイアイネットは一枚のインジェラ上に盛る植物性プレート"
+      },
+      {
+        "id": "misir-wat",
+        "name": "ミスルワット",
+        "difference": "ミスルワットは単品の豆シチュー。バイアイネットはそれを含む盛り合わせ"
+      }
+    ],
+    "relatedIds": [
+      "injera",
+      "misir-wat",
+      "shiro",
+      "gomen",
+      "wat",
+      "mezze"
+    ],
+    "source": [
+      "https://sekaigohan.com/recipes/africa/overview/ethiopian-cuisine"
+    ],
+    "tags": [
+      "エチオピア料理",
+      "主菜",
+      "豆類",
+      "野菜",
+      "ピリ辛",
+      "精進料理",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "ステーキ",
+      "唐揚げ",
+      "ハンバーガー",
+      "チーズたっぷり料理"
+    ],
+    "avoidedBy": [
+      "酸味が苦手",
+      "豆が苦手",
+      "辛いものが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/beyaynetu/1.jpg",
+      "/images/dishes/beyaynetu/2.jpg",
+      "/images/dishes/beyaynetu/3.jpg"
+    ]
+  },
+  {
+    "id": "shchi",
+    "name": "シチー",
+    "kana": "しちー",
+    "aliases": [
+      "シー",
+      "シチ",
+      "ロシアのキャベツスープ"
+    ],
+    "englishName": "Shchi",
+    "originalName": "Щи",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ロシア"
+      }
+    ],
+    "summary": "キャベツを主役にしたロシアの伝統的な野菜スープ。生のキャベツで作るほか、ザワークラウトを使う酸っぱいシチーや、スイバなど青菜で作る緑のシチーもある。",
+    "menuDescription": "キャベツ、にんじん、玉ねぎ、じゃがいもなどを牛肉や鶏のブイヨンで煮込んだ素朴なスープ。サワークリーム（スメタナ）とディルをのせ、黒パンを添えて出されることが多い。",
+    "whatComesOut": [
+      "キャベツたっぷりの淡い色のスープ",
+      "にんじん、じゃがいも、肉の具",
+      "上にのったスメタナとディル",
+      "添えの黒パン"
+    ],
+    "tasteAndTexture": [
+      "キャベツの甘みと素朴な旨み",
+      "ザワークラウト版はさわやかな酸味",
+      "スメタナのまろやかさ",
+      "くたっと煮えた野菜のやわらかさ"
+    ],
+    "orderAdvice": "ボルシチより穏やかで、ロシアの家庭の味を知りたい人向け。軽めのスープを探しているときに選びやすい。酸っぱい版かどうかは店で確認を。",
+    "caution": "スメタナ（乳製品）がのることが多い。",
+    "similarItems": [
+      {
+        "id": "borscht",
+        "name": "ボルシチ",
+        "difference": "ボルシチはビーツで赤く色づいた甘酸っぱいスープ。シチーはキャベツ主体で淡い色"
+      },
+      {
+        "id": "minestrone",
+        "name": "ミネストローネ",
+        "difference": "ミネストローネはトマトや豆、パスタの入るイタリアの野菜スープ。シチーはキャベツが主役"
+      },
+      {
+        "id": "pot-au-feu",
+        "name": "ポトフ",
+        "difference": "ポトフは大きな肉と野菜を煮込むフランス料理。シチーは刻んだキャベツのスープ"
+      }
+    ],
+    "relatedIds": [
+      "borscht",
+      "smetana",
+      "sauerkraut",
+      "dill",
+      "ukha",
+      "pot-au-feu"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2381",
+      "https://en.wikipedia.org/wiki/Shchi",
+      "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%81%E3%83%BC"
+    ],
+    "tags": [
+      "ロシア料理",
+      "スープ",
+      "野菜",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "こってりラーメン",
+      "ステーキ",
+      "揚げ物",
+      "スパイスカレー"
+    ],
+    "avoidedBy": [
+      "キャベツが苦手",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/shchi/1.jpg",
+      "/images/dishes/shchi/2.jpg"
+    ]
+  },
+  {
+    "id": "solyanka",
+    "name": "ソリャンカ",
+    "kana": "そりゃんか",
+    "aliases": [
+      "サリャンカ",
+      "ソリャンカスープ"
+    ],
+    "englishName": "Solyanka",
+    "originalName": "Солянка",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ロシア"
+      }
+    ],
+    "summary": "ピクルスやオリーブ、レモンを入れた酸味と塩気の強いロシアの濃厚スープ。肉・魚・きのこの3種があり、旧ソ連圏や東欧で広く食べられている。",
+    "menuDescription": "ハム、ソーセージ、牛肉など数種類の肉をトマト風味のスープで煮込み、きゅうりのピクルス、ケッパー、オリーブで酸味を加えたスープ。レモンの輪切りとスメタナをのせて供される。",
+    "whatComesOut": [
+      "赤橙色の具だくさんスープ",
+      "数種類のハム・ソーセージ・肉",
+      "ピクルス、オリーブ、ケッパー",
+      "レモンの輪切りとスメタナ"
+    ],
+    "tasteAndTexture": [
+      "ピクルスとレモンのはっきりした酸味",
+      "燻製肉の塩気と旨み",
+      "具材の多いしっかりした食べごたえ"
+    ],
+    "orderAdvice": "酸っぱくて塩気のある味が好きなら当たり。二日酔いに効くとされる定番スープ。具が多いので一品で満足感がある。",
+    "caution": "塩分が高め。スメタナ（乳製品）がのることが多い。",
+    "similarItems": [
+      {
+        "id": "borscht",
+        "name": "ボルシチ",
+        "difference": "ボルシチはビーツの甘みある赤いスープ。ソリャンカはピクルスとレモンの酸味と塩気が強い"
+      },
+      {
+        "id": "suan-la-tang",
+        "name": "酸辣湯",
+        "difference": "酸辣湯は酢とこしょうの酸っぱ辛い中国のスープ。ソリャンカは辛くなくピクルスの酸味"
+      },
+      {
+        "id": "shchi",
+        "name": "シチー",
+        "difference": "シチーはキャベツ主体のやさしいスープ。ソリャンカは肉とピクルスの濃い味"
+      }
+    ],
+    "relatedIds": [
+      "borscht",
+      "pickles",
+      "smetana",
+      "shchi",
+      "suan-la-tang",
+      "ukha"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2381",
+      "https://en.wikipedia.org/wiki/Solyanka"
+    ],
+    "tags": [
+      "ロシア料理",
+      "スープ",
+      "豚肉",
+      "煮込み",
+      "酸味",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "ポタージュ",
+      "甘いコーンスープ",
+      "クリームシチュー",
+      "白身魚の蒸し物"
+    ],
+    "avoidedBy": [
+      "酸味が苦手",
+      "塩分制限中",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/solyanka/1.jpg",
+      "/images/dishes/solyanka/2.jpg",
+      "/images/dishes/solyanka/3.jpg"
+    ]
+  },
+  {
+    "id": "kasha",
+    "name": "カシャ",
+    "kana": "かしゃ",
+    "aliases": [
+      "カーシャ",
+      "グレーチカ",
+      "そばの実のお粥"
+    ],
+    "englishName": "Kasha",
+    "originalName": "Каша",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ロシア"
+      }
+    ],
+    "summary": "穀物を水や牛乳で煮たロシアの粥。特にそばの実（グレーチカ）で作るものが代表的で、朝食や肉料理の付け合わせとして毎日のように食べられる。",
+    "menuDescription": "そばの実、オーツ麦、米、セモリナなどを水または牛乳で炊いた粥状の料理。バターを落として塩味で付け合わせにするほか、牛乳と砂糖で甘くして朝食にすることもある。",
+    "whatComesOut": [
+      "茶色いそばの実の粥（または白い麦・米の粥）",
+      "上にのせたバター",
+      "肉料理や玉ねぎ・きのこが添えられることも"
+    ],
+    "tasteAndTexture": [
+      "そばの実の香ばしさと素朴な味",
+      "ぷちぷち、ほろほろした粒の食感",
+      "バターのコク",
+      "甘い牛乳粥ならやさしい甘さ"
+    ],
+    "orderAdvice": "ロシアの日常食を体験したいなら。主役というより付け合わせ向きで、肉料理と一緒に頼むとよい。そばの実の香りに好みが分かれる。",
+    "caution": "そばの実を使う場合はそばアレルギーに注意。牛乳やバターを含むことが多い。",
+    "similarItems": [
+      {
+        "id": "okayu",
+        "name": "お粥",
+        "difference": "お粥は米を水で炊くやわらかい日本の粥。カシャはそばの実などで粒感が残る"
+      },
+      {
+        "id": "risotto",
+        "name": "リゾット",
+        "difference": "リゾットは米をブイヨンで炊きチーズで仕上げる。カシャはより素朴でバターと塩のみ"
+      },
+      {
+        "id": "polenta",
+        "name": "ポレンタ",
+        "difference": "ポレンタはとうもろこし粉の粥。カシャはそばの実など粒の穀物"
+      }
+    ],
+    "relatedIds": [
+      "okayu",
+      "risotto",
+      "polenta",
+      "grits",
+      "beef-stroganoff",
+      "blini"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2381",
+      "https://en.wikipedia.org/wiki/Kasha"
+    ],
+    "tags": [
+      "ロシア料理",
+      "ご飯もの",
+      "小麦",
+      "煮込み",
+      "香ばしい",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "白ごはん",
+      "パン",
+      "パスタ",
+      "フライドポテト"
+    ],
+    "avoidedBy": [
+      "そばアレルギー",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kasha/1.jpg",
+      "/images/dishes/kasha/2.jpg",
+      "/images/dishes/kasha/3.jpg"
+    ]
+  },
+  {
+    "id": "pozharsky-cutlet",
+    "name": "ポジャルスキー・カツレツ",
+    "kana": "ぽじゃるすきー・かつれつ",
+    "aliases": [
+      "ポジャルスキー",
+      "ポジャールスキー・カツレータ",
+      "ポジャルスキーコトレータ"
+    ],
+    "englishName": "Pozharsky cutlet",
+    "originalName": "Пожарская котлета",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ロシア"
+      }
+    ],
+    "summary": "鶏ひき肉にバターを混ぜて成形し、パン粉をまぶして焼いたロシアのカツレツ。19世紀初めに生まれ、のちにフランス料理にも取り入れられた。",
+    "menuDescription": "鶏ひき肉（または仔牛肉）に牛乳に浸したパンとたっぷりのバターを練り込み、細かいパン粉をまとわせてバターで焼いたもの。中から肉汁とバターがあふれる、やわらかくジューシーな一品。マッシュポテトなどを添える。",
+    "whatComesOut": [
+      "楕円形の衣付き鶏カツレツ",
+      "切ると出るバターと肉汁",
+      "マッシュポテトや野菜の付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "サクッと香ばしい衣",
+      "ふんわりやわらかい鶏ひき肉",
+      "バターのコクと肉汁のジューシーさ"
+    ],
+    "orderAdvice": "メンチカツやチキンナゲットが好きなら選びやすい。辛さや癖がなく、ロシア料理の入門に向く。バターが多いので重めに感じることも。",
+    "caution": "乳製品（バター・牛乳）、小麦（パン・パン粉）を含む。",
+    "similarItems": [
+      {
+        "id": "cutlet",
+        "name": "カツレツ",
+        "difference": "カツレツは薄く叩いた肉に衣を付けて焼く。ポジャルスキーはひき肉にバターを練り込む"
+      },
+      {
+        "id": "schnitzel",
+        "name": "シュニッツェル",
+        "difference": "シュニッツェルは薄切り肉の揚げ焼き。ポジャルスキーはひき肉で厚みがありジューシー"
+      },
+      {
+        "name": "チキン・キエフ",
+        "difference": "チキン・キエフは鶏むね肉でハーブバターを包んで揚げる。ポジャルスキーはひき肉にバターを混ぜる"
+      }
+    ],
+    "relatedIds": [
+      "cutlet",
+      "schnitzel",
+      "fried-chicken",
+      "beef-stroganoff",
+      "pelmeni"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2381",
+      "https://en.wikipedia.org/wiki/Pozharsky_cutlet"
+    ],
+    "tags": [
+      "ロシア料理",
+      "主菜",
+      "鶏肉",
+      "焼き物",
+      "ジューシー",
+      "宮廷料理"
+    ],
+    "reverseKeywords": [
+      "刺身",
+      "サラダ",
+      "豆腐",
+      "蒸し野菜"
+    ],
+    "avoidedBy": [
+      "乳製品不可",
+      "小麦アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pozharsky-cutlet/1.jpg",
+      "/images/dishes/pozharsky-cutlet/2.jpg",
+      "/images/dishes/pozharsky-cutlet/3.jpg"
+    ]
+  },
+  {
+    "id": "golubtsy",
+    "name": "ゴルブツィ",
+    "kana": "ごるぶつぃ",
+    "aliases": [
+      "ガルプツィ",
+      "ロシア風ロールキャベツ"
+    ],
+    "englishName": "Golubtsy",
+    "originalName": "Голубцы",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ロシア"
+      }
+    ],
+    "summary": "ひき肉と米を茹でたキャベツの葉で包み、トマトやサワークリームのソースで煮込んだロシア版ロールキャベツ。",
+    "menuDescription": "牛や豚のひき肉に炊いた米、玉ねぎ、にんじんを混ぜた具をキャベツで巻き、トマトソースやスメタナを加えて煮込んだ家庭料理。スメタナを添えて供される。",
+    "whatComesOut": [
+      "ソースで煮込まれたロールキャベツ数個",
+      "トマトとスメタナのソース",
+      "上にかけたスメタナやディル"
+    ],
+    "tasteAndTexture": [
+      "とろりとやわらかいキャベツ",
+      "肉と米の詰め物のほっくりした食感",
+      "トマトの酸味とスメタナのまろやかさ"
+    ],
+    "orderAdvice": "日本のロールキャベツが好きなら安心して選べる。米入りで食べごたえがあり、スメタナでコクが増す。",
+    "caution": "スメタナ（乳製品）を使うことが多い。",
+    "similarItems": [
+      {
+        "id": "roll-cabbage",
+        "name": "ロールキャベツ",
+        "difference": "日本のロールキャベツはコンソメで煮る洋食で米は入らないことが多い。ゴルブツィは米入りでスメタナを合わせる"
+      },
+      {
+        "id": "sarmale",
+        "name": "サルマーレ",
+        "difference": "サルマーレは酢漬けキャベツで巻くルーマニア料理。ゴルブツィは生のキャベツを茹でて使うことが多い"
+      },
+      {
+        "id": "kaldolmar",
+        "name": "コールドルマル",
+        "difference": "コールドルマルはシロップで甘みを付けるスウェーデン料理。ゴルブツィはトマトとスメタナ仕立て"
+      }
+    ],
+    "relatedIds": [
+      "roll-cabbage",
+      "sarmale",
+      "kaldolmar",
+      "toltott-kaposzta",
+      "smetana",
+      "pelmeni"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2381",
+      "https://en.wikipedia.org/wiki/Cabbage_roll"
+    ],
+    "tags": [
+      "ロシア料理",
+      "主菜",
+      "牛肉",
+      "野菜",
+      "煮込み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "焼き魚",
+      "グリルステーキ",
+      "揚げ物",
+      "生野菜サラダ"
+    ],
+    "avoidedBy": [
+      "キャベツが苦手",
+      "乳製品不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/golubtsy/1.jpg",
+      "/images/dishes/golubtsy/2.jpg",
+      "/images/dishes/golubtsy/3.jpg"
+    ]
+  },
+  {
+    "id": "kvass",
+    "name": "クヴァス",
+    "kana": "くゔぁす",
+    "aliases": [
+      "クワス",
+      "クバス",
+      "カバス"
+    ],
+    "englishName": "Kvass",
+    "originalName": "Квас",
+    "category": "飲み物",
+    "regions": [
+      {
+        "country": "ロシア"
+      },
+      {
+        "country": "ウクライナ"
+      }
+    ],
+    "summary": "ライ麦パンや麦芽を発酵させて作る、甘酸っぱい低アルコールの濁った飲み物。ロシアなど東欧で夏に親しまれる。",
+    "menuDescription": "黒パン（ライ麦パン）や麦芽を水に浸して酵母で発酵させた伝統飲料。アルコール度数はごく低く（1%前後）、甘酸っぱく微炭酸。冷製スープ・オクローシカのベースにも使われる。",
+    "whatComesOut": [
+      "茶色く濁った微炭酸の飲み物",
+      "グラスやジョッキで冷やして",
+      "ボトル入りで出す店も"
+    ],
+    "tasteAndTexture": [
+      "黒パン由来の香ばしさ",
+      "甘みとほのかな酸味",
+      "軽い発泡感"
+    ],
+    "orderAdvice": "ビールより軽く、コーラより素朴な味を試したい人向け。ロシア料理店で珍しい飲み物を頼みたいならおすすめ。微量のアルコールが含まれる点に注意。",
+    "caution": "微量のアルコールを含む（運転前・妊娠中・未成年は注意）。小麦・ライ麦を含む。",
+    "similarItems": [
+      {
+        "id": "beer",
+        "name": "ビール",
+        "difference": "ビールは麦芽とホップで造るアルコール飲料。クヴァスは黒パンから造るほぼノンアルコールの甘酸っぱい飲み物"
+      },
+      {
+        "id": "sikhye",
+        "name": "シッケ",
+        "difference": "シッケは米と麦芽で作る甘い韓国の飲み物で発酵の酸味はほぼない。クヴァスは酸味と炭酸がある"
+      },
+      {
+        "id": "amazake",
+        "name": "甘酒",
+        "difference": "甘酒は米麹でつくる甘くとろりとした飲み物。クヴァスは黒パンで作る微炭酸"
+      }
+    ],
+    "relatedIds": [
+      "beer",
+      "sikhye",
+      "amazake",
+      "makgeolli",
+      "vodka",
+      "ginger-ale"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2381",
+      "https://en.wikipedia.org/wiki/Kvass"
+    ],
+    "tags": [
+      "ロシア料理",
+      "小麦",
+      "発酵",
+      "甘み",
+      "酸味",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "緑茶",
+      "炭酸水",
+      "フレッシュジュース",
+      "ミネラルウォーター"
+    ],
+    "avoidedBy": [
+      "アルコール不可",
+      "小麦アレルギー"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kvass/1.jpg",
+      "/images/dishes/kvass/2.jpg",
+      "/images/dishes/kvass/3.jpg"
+    ]
+  },
+  {
+    "id": "olivier-salad",
+    "name": "サラダ・オリビエ",
+    "kana": "さらだ・おりびえ",
+    "aliases": [
+      "オリヴィエ・サラダ",
+      "オリビエサラダ",
+      "ロシア風サラダ",
+      "ロシアンサラダ",
+      "ストリーチヌイ・サラダ"
+    ],
+    "englishName": "Olivier salad",
+    "originalName": "Салат Оливье",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ロシア"
+      }
+    ],
+    "summary": "茹でたじゃがいも、にんじん、卵、ピクルス、グリーンピース、ハムなどを角切りにしてマヨネーズで和えたロシアの定番サラダ。新年の食卓に欠かせない。",
+    "menuDescription": "19世紀にモスクワのレストランのシェフ、リュシアン・オリヴィエが考案したとされるサラダ。現在は角切りのじゃがいもやにんじん、卵、ピクルス、グリーンピース、ハムや鶏肉をマヨネーズで和えるのが一般的。",
+    "whatComesOut": [
+      "角切り野菜と卵のマヨネーズサラダ",
+      "ハムまたは鶏肉",
+      "グリーンピースとピクルス",
+      "型抜きやドーム状に盛られることも"
+    ],
+    "tasteAndTexture": [
+      "マヨネーズのまろやかなコク",
+      "ピクルスのほどよい酸味",
+      "ほくほくのじゃがいもと具材の食感の違い"
+    ],
+    "orderAdvice": "日本のポテトサラダに近いので失敗が少ない。前菜として気軽に頼める。マヨネーズが多めで意外と重い。",
+    "caution": "卵、マヨネーズ（卵）を含む。",
+    "similarItems": [
+      {
+        "name": "ポテトサラダ",
+        "difference": "日本のポテサラはじゃがいもをつぶすことが多い。オリビエは角切りでピクルスやハムが入る"
+      },
+      {
+        "id": "vinegret",
+        "name": "ヴィネグレット（サラダ）",
+        "difference": "ヴィネグレットはビーツ入りで油と酢で和える赤いサラダ。オリビエはマヨネーズで白い"
+      },
+      {
+        "name": "コールスロー",
+        "difference": "コールスローはキャベツ主体のサラダ。オリビエはじゃがいもと卵が主体"
+      }
+    ],
+    "relatedIds": [
+      "mayonnaise",
+      "pickles",
+      "vinegret",
+      "borscht",
+      "caviar"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2381",
+      "https://en.wikipedia.org/wiki/Olivier_salad"
+    ],
+    "tags": [
+      "ロシア料理",
+      "サラダ",
+      "野菜",
+      "卵",
+      "クリーミー",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "グリーンサラダ",
+      "和風ドレッシング",
+      "カルパッチョ",
+      "ナムル"
+    ],
+    "avoidedBy": [
+      "卵アレルギー",
+      "マヨネーズが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/olivier-salad/1.jpg",
+      "/images/dishes/olivier-salad/2.jpg",
+      "/images/dishes/olivier-salad/3.jpg"
+    ]
+  },
+  {
+    "id": "vinegret",
+    "name": "ヴィネグレット（サラダ）",
+    "kana": "ゔぃねぐれっと",
+    "aliases": [
+      "ヴィネグレート",
+      "ビネグレット",
+      "ロシア風ビーツサラダ",
+      "ヴィネグレットサラダ"
+    ],
+    "englishName": "Vinegret",
+    "originalName": "Винегрет",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ロシア"
+      }
+    ],
+    "summary": "茹でたビーツ、じゃがいも、にんじんを角切りにし、ザワークラウトやピクルス、玉ねぎと合わせて油で和えたロシアの赤いサラダ。",
+    "menuDescription": "ビーツの色で全体が鮮やかな赤紫に染まった根菜のサラダ。名前はフレンチドレッシングのヴィネグレットに由来するが、現在はひまわり油などで和えるだけのことも多い。グリーンピースや豆を加えることもある。",
+    "whatComesOut": [
+      "赤紫色に染まった角切り根菜",
+      "ザワークラウトやピクルス",
+      "刻んだ玉ねぎ",
+      "黒パンが添えられることも"
+    ],
+    "tasteAndTexture": [
+      "ビーツの土っぽい甘み",
+      "ザワークラウトとピクルスの酸味",
+      "油で和えたさっぱりした後味"
+    ],
+    "orderAdvice": "マヨネーズを使わないロシアのサラダが欲しいならこれ。ビーツの風味が好きかどうかが分かれ目。脂っこい料理の箸休めに。",
+    "similarItems": [
+      {
+        "id": "olivier-salad",
+        "name": "サラダ・オリビエ",
+        "difference": "オリビエはマヨネーズで和える白いサラダ。ヴィネグレットは油で和えるビーツの赤いサラダ"
+      },
+      {
+        "id": "vinaigrette",
+        "name": "ヴィネグレット（ソース）",
+        "difference": "ソースのヴィネグレットは酢と油のドレッシング。こちらは名前の由来になったロシアのサラダ料理"
+      },
+      {
+        "id": "borscht",
+        "name": "ボルシチ",
+        "difference": "ボルシチはビーツを使った温かいスープ。ヴィネグレットはビーツの冷たいサラダ"
+      }
+    ],
+    "relatedIds": [
+      "beet",
+      "vinaigrette",
+      "olivier-salad",
+      "sauerkraut",
+      "pickles",
+      "borscht"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2381",
+      "https://en.wikipedia.org/wiki/Vinegret"
+    ],
+    "tags": [
+      "ロシア料理",
+      "サラダ",
+      "野菜",
+      "酸味",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ポテトサラダ",
+      "シーザーサラダ",
+      "フライドポテト",
+      "コーンスープ"
+    ],
+    "avoidedBy": [
+      "ビーツが苦手",
+      "酸味が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/vinegret/1.jpg",
+      "/images/dishes/vinegret/2.jpg",
+      "/images/dishes/vinegret/3.png"
+    ]
+  },
+  {
+    "id": "medovik",
+    "name": "メドヴィク",
+    "kana": "めどゔぃく",
+    "aliases": [
+      "メドビク",
+      "ハニーケーキ",
+      "ロシアの蜂蜜ケーキ"
+    ],
+    "englishName": "Medovik",
+    "originalName": "Медовик",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ロシア"
+      }
+    ],
+    "summary": "蜂蜜を練り込んだ薄い生地を何層にも重ね、スメタナや練乳のクリームを挟んだロシアのレイヤーケーキ。旧ソ連圏で広く親しまれている。",
+    "menuDescription": "蜂蜜入りの生地を薄く焼いて8〜10枚ほど重ね、サワークリーム（スメタナ）や練乳ベースのクリームを塗って一晩なじませたケーキ。表面には砕いた生地のクラムをまぶす。",
+    "whatComesOut": [
+      "断面に細い層が並ぶ四角または三角のケーキ",
+      "表面にまぶした茶色いクラム",
+      "紅茶と一緒に出されることも"
+    ],
+    "tasteAndTexture": [
+      "蜂蜜のやさしい甘みと香り",
+      "クリームがしみ込んだしっとりやわらかい生地",
+      "スメタナのほのかな酸味"
+    ],
+    "orderAdvice": "ロシア料理店でデザートに迷ったらまずこれ。しっとり系のケーキが好きな人向け。甘さはしっかりめなので紅茶と合わせると良い。",
+    "caution": "小麦、卵、乳製品、蜂蜜を含む。",
+    "similarItems": [
+      {
+        "name": "ミルクレープ",
+        "difference": "ミルクレープはクレープを重ねる日本の菓子。メドヴィクは蜂蜜入りの焼き生地を重ねる"
+      },
+      {
+        "id": "tiramisu",
+        "name": "ティラミス",
+        "difference": "ティラミスはコーヒーを含ませたビスケットとマスカルポーネ。メドヴィクは蜂蜜生地とサワークリーム"
+      },
+      {
+        "id": "baumkuchen",
+        "name": "バウムクーヘン",
+        "difference": "バウムクーヘンは回転させて層を焼き重ねる。メドヴィクは別々に焼いた生地をクリームで重ねる"
+      }
+    ],
+    "relatedIds": [
+      "tiramisu",
+      "baumkuchen",
+      "sachertorte",
+      "smetana",
+      "syrniki",
+      "mead"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2381",
+      "https://en.wikipedia.org/wiki/Medovik"
+    ],
+    "tags": [
+      "ロシア料理",
+      "デザート",
+      "小麦",
+      "乳製品",
+      "甘み",
+      "焼き物"
+    ],
+    "reverseKeywords": [
+      "フルーツシャーベット",
+      "ゼリー",
+      "塩味のスナック",
+      "和菓子"
+    ],
+    "avoidedBy": [
+      "甘いものが苦手",
+      "乳製品不可",
+      "卵アレルギー",
+      "小麦アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/medovik/1.jpg"
+    ]
+  },
+  {
+    "id": "schweinebraten",
+    "name": "シュヴァイネブラーテン",
+    "kana": "しゅゔぁいねぶらーてん",
+    "aliases": [
+      "シュヴァインスブラーテン",
+      "シュバイネブラーテン",
+      "ドイツ風ローストポーク"
+    ],
+    "englishName": "Roast pork (Schweinebraten)",
+    "originalName": "Schweinebraten",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ドイツ"
+      }
+    ],
+    "summary": "豚の肩ロースやもも肉の塊をオーブンで焼き、肉汁ソースをかけたドイツのローストポーク。バイエルン地方の代表料理で、ドイツ各地で食べられている。",
+    "menuDescription": "豚の塊肉をキャラウェイや玉ねぎとともにビールや肉汁で蒸し焼きにし、厚切りにしてブラウンソースをかけた料理。ジャガイモ団子（クネーデル）やザワークラウト、赤キャベツの煮込みを添えるのが定番。",
+    "whatComesOut": [
+      "厚切りのローストポーク2〜3枚",
+      "たっぷりのブラウンソース",
+      "ジャガイモ団子（クネーデル）",
+      "ザワークラウトや赤キャベツの煮込み"
+    ],
+    "tasteAndTexture": [
+      "しっとりした豚肉の旨み",
+      "肉汁とビールのコクのあるソース",
+      "皮付きなら表面がカリッと香ばしい",
+      "ドイツ料理としては比較的軽め"
+    ],
+    "orderAdvice": "ドイツ料理店で肉料理の王道を食べたいならまずこれ。癖がなく、ソースとクネーデルの組み合わせを楽しめる。皮付きのクルステンブラーテンはさらに香ばしい。",
+    "caution": "ソースにビールや小麦粉を使うことがある。",
+    "similarItems": [
+      {
+        "id": "sauerbraten",
+        "name": "ザウアーブラーテン",
+        "difference": "ザウアーブラーテンは酢に漬け込んで酸味を付けた牛肉の煮込み。シュヴァイネブラーテンは酸味のない豚のロースト"
+      },
+      {
+        "id": "porchetta",
+        "name": "ポルケッタ",
+        "difference": "ポルケッタはハーブを巻き込んで焼くイタリアの豚の丸焼き。シュヴァイネブラーテンはソースをかけて付け合わせと食べる"
+      },
+      {
+        "name": "チャーシュー",
+        "difference": "チャーシューは甘辛だれで焼く中華の焼豚。シュヴァイネブラーテンは塩とキャラウェイで焼き肉汁ソースで食べる"
+      }
+    ],
+    "relatedIds": [
+      "sauerbraten",
+      "porchetta",
+      "sauerkraut",
+      "kartoffelklosse",
+      "rotkohl",
+      "caraway",
+      "helles"
+    ],
+    "source": [
+      "https://www.young-germany.jp/2018/03/%E3%80%8E%E3%82%BD%E3%83%BC%E3%82%BB%E3%83%BC%E3%82%B8%E4%BB%A5%E5%A4%96%E3%81%AE%E3%83%89%E3%82%A4%E3%83%84%E6%96%99%E7%90%86%EF%BC%91%EF%BC%90%E9%81%B8%E3%80%8F/",
+      "https://de.wikipedia.org/wiki/Schweinsbraten"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "主菜",
+      "豚肉",
+      "ロースト",
+      "ジューシー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "白身魚",
+      "野菜スープ",
+      "豆腐料理",
+      "サラダ"
+    ],
+    "avoidedBy": [
+      "豚肉不可",
+      "ハラール"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/schweinebraten/1.jpg",
+      "/images/dishes/schweinebraten/2.jpg",
+      "/images/dishes/schweinebraten/3.jpg"
+    ]
+  },
+  {
+    "id": "rinderrouladen",
+    "name": "リンダールラーデン",
+    "kana": "りんだーるらーでん",
+    "aliases": [
+      "リンダーロウラーデン",
+      "ルラーデン",
+      "ルーラーデン",
+      "牛肉のロール煮込み"
+    ],
+    "englishName": "Beef rouladen",
+    "originalName": "Rinderrouladen",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ドイツ"
+      }
+    ],
+    "summary": "薄くたたいた牛もも肉にマスタードを塗り、ベーコン、玉ねぎ、ピクルスを巻いて煮込んだドイツの家庭料理。",
+    "menuDescription": "大判の牛もも肉にマスタードを塗り、ベーコン、玉ねぎ、きゅうりのピクルスをのせて巻き、焼き色を付けてから赤ワインやブイヨンで柔らかく煮込んだもの。煮汁から作るブラウンソースをかけ、ジャガイモ団子と赤キャベツを添える。",
+    "whatComesOut": [
+      "ソースのかかった太い牛肉ロール1〜2本",
+      "切ると見える中のベーコン・ピクルス",
+      "ジャガイモ団子（クレーセ）",
+      "赤キャベツの煮込み（ロートコール）"
+    ],
+    "tasteAndTexture": [
+      "ほろりと崩れる煮込んだ牛肉",
+      "マスタードとピクルスの酸味",
+      "ベーコンの塩気とソースの深いコク"
+    ],
+    "orderAdvice": "日曜のごちそうとして家庭で作られる定番。煮込み料理が好きなら当たり。ピクルスの酸味が苦手でなければ選びやすい。",
+    "caution": "ソースに赤ワインを使うことがある。マスタードを含む。",
+    "similarItems": [
+      {
+        "id": "involtini",
+        "name": "インヴォルティーニ",
+        "difference": "インヴォルティーニはイタリアの肉巻きでチーズやハムを巻く。リンダールラーデンはピクルスとベーコンを巻いて煮込む"
+      },
+      {
+        "id": "sauerbraten",
+        "name": "ザウアーブラーテン",
+        "difference": "ザウアーブラーテンは塊肉を酢に漬けて煮込む。リンダールラーデンは薄切り肉を巻いて煮込む"
+      },
+      {
+        "id": "beef-stroganoff",
+        "name": "ビーフストロガノフ",
+        "difference": "ストロガノフは細切り牛肉をサワークリームで煮る。リンダールラーデンは巻いた牛肉をブラウンソースで煮る"
+      }
+    ],
+    "relatedIds": [
+      "involtini",
+      "sauerbraten",
+      "pickles",
+      "mustard",
+      "kartoffelklosse",
+      "rotkohl"
+    ],
+    "source": [
+      "https://www.young-germany.jp/2018/03/%E3%80%8E%E3%82%BD%E3%83%BC%E3%82%BB%E3%83%BC%E3%82%B8%E4%BB%A5%E5%A4%96%E3%81%AE%E3%83%89%E3%82%A4%E3%83%84%E6%96%99%E7%90%86%EF%BC%91%EF%BC%90%E9%81%B8%E3%80%8F/",
+      "https://de.wikipedia.org/wiki/Rinderroulade",
+      "https://en.wikipedia.org/wiki/Roulade"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "主菜",
+      "牛肉",
+      "煮込み",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "刺身",
+      "グリーンサラダ",
+      "あっさり鶏料理",
+      "冷製スープ"
+    ],
+    "avoidedBy": [
+      "酸味が苦手",
+      "マスタードアレルギー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/rinderrouladen/1.jpg"
+    ]
+  },
+  {
+    "id": "himmel-und-erde",
+    "name": "ヒンメル・ウント・エーアデ",
+    "kana": "ひんめる・うんと・えーあで",
+    "aliases": [
+      "ヒンメルウントエアデ",
+      "天と地",
+      "ヒンメル・ウン・エード"
+    ],
+    "englishName": "Himmel und Erde",
+    "originalName": "Himmel und Erde",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ドイツ"
+      }
+    ],
+    "summary": "マッシュポテトと煮たリンゴを合わせ、焼いた血のソーセージを添えるドイツ西部ラインラントの郷土料理。名前は「天（リンゴ）と地（ジャガイモ）」の意味。",
+    "menuDescription": "なめらかなマッシュポテトに甘酸っぱいリンゴのムースや煮リンゴを添え、輪切りにして焼いたブルートヴルスト（血のソーセージ）と炒め玉ねぎをのせた料理。オランダ北部などにも似た料理がある。",
+    "whatComesOut": [
+      "マッシュポテト",
+      "リンゴのムース（アップルソース）",
+      "焼いた血のソーセージの輪切り",
+      "炒め玉ねぎ"
+    ],
+    "tasteAndTexture": [
+      "リンゴの甘酸っぱさとポテトのまろやかさ",
+      "血のソーセージの濃厚で鉄っぽいコク",
+      "なめらかなポテトと香ばしい玉ねぎ"
+    ],
+    "orderAdvice": "甘いリンゴと塩気のある料理の組み合わせに抵抗がなければ試す価値あり。血のソーセージは癖があるので、苦手なら普通のソーセージに替えられるか聞くとよい。",
+    "caution": "豚の血を使ったソーセージを含む。マッシュポテトに乳製品を使う。",
+    "similarItems": [
+      {
+        "id": "blood-sausage",
+        "name": "ブラッドソーセージ",
+        "difference": "ブラッドソーセージは食材そのもの。ヒンメル・ウント・エーアデはそれをポテトとリンゴと合わせた料理"
+      },
+      {
+        "id": "puree",
+        "name": "ピュレ",
+        "difference": "ピュレはフランスの付け合わせのマッシュポテト。ヒンメル・ウント・エーアデはリンゴと血のソーセージを合わせた主菜"
+      },
+      {
+        "id": "schweinebraten",
+        "name": "シュヴァイネブラーテン",
+        "difference": "シュヴァイネブラーテンは豚のロースト。ヒンメル・ウント・エーアデは甘いリンゴを合わせる素朴な郷土料理"
+      }
+    ],
+    "relatedIds": [
+      "blood-sausage",
+      "puree",
+      "bratwurst",
+      "sauerkraut",
+      "beer"
+    ],
+    "source": [
+      "https://www.young-germany.jp/2018/03/%E3%80%8E%E3%82%BD%E3%83%BC%E3%82%BB%E3%83%BC%E3%82%B8%E4%BB%A5%E5%A4%96%E3%81%AE%E3%83%89%E3%82%A4%E3%83%84%E6%96%99%E7%90%86%EF%BC%91%EF%BC%90%E9%81%B8%E3%80%8F/",
+      "https://en.wikipedia.org/wiki/Himmel_und_Erde",
+      "https://de.wikipedia.org/wiki/Himmel_und_Erde"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "果物",
+      "甘み",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ステーキ",
+      "刺身",
+      "スパイスカレー",
+      "グリーンサラダ"
+    ],
+    "avoidedBy": [
+      "血を使った料理が苦手",
+      "豚肉不可",
+      "甘じょっぱい味が苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/himmel-und-erde/1.jpg",
+      "/images/dishes/himmel-und-erde/2.jpg",
+      "/images/dishes/himmel-und-erde/3.jpg"
+    ]
+  },
+  {
+    "id": "kasespatzle",
+    "name": "ケーゼシュペッツレ",
+    "kana": "けーぜしゅぺっつれ",
+    "aliases": [
+      "ケーゼシュペッツル",
+      "ケースシュペッツレ",
+      "チーズシュペッツレ",
+      "ドイツ風マカロニチーズ"
+    ],
+    "englishName": "Käsespätzle",
+    "originalName": "Käsespätzle",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ドイツ"
+      }
+    ],
+    "summary": "卵入りの短い生パスタ・シュペッツレにたっぷりのチーズを重ね、揚げ玉ねぎをのせたドイツ南部の料理。肉を使わないためベジタリアンにも人気。",
+    "menuDescription": "柔らかく茹でたシュペッツレとエメンタールなどのとろけるチーズを交互に重ね、オーブンで焼くかフライパンで溶かし、カリカリに炒めた玉ねぎを散らしたもの。グリーンサラダを添えることが多い。",
+    "whatComesOut": [
+      "チーズがとろける熱々のパスタ（鉄鍋やグラタン皿で出ることも）",
+      "上にのったカリカリの揚げ玉ねぎ",
+      "付け合わせのグリーンサラダ"
+    ],
+    "tasteAndTexture": [
+      "濃厚なチーズのコクと塩気",
+      "もちもちと柔らかいシュペッツレ",
+      "香ばしく甘い揚げ玉ねぎ"
+    ],
+    "orderAdvice": "マカロニチーズやグラタンが好きならまず満足できる。肉を食べない人のドイツ料理の定番。量とチーズが多くかなり重いので、シェアやサラダと一緒に頼むと良い。",
+    "caution": "小麦、卵、乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "macaroni-and-cheese",
+        "name": "マカロニチーズ",
+        "difference": "マカロニチーズは乾燥マカロニをチーズソースで和えるアメリカ料理。ケーゼシュペッツレは卵入り生パスタにチーズを重ね揚げ玉ねぎをのせる"
+      },
+      {
+        "id": "gnocchi",
+        "name": "ニョッキ",
+        "difference": "ニョッキはジャガイモ入りの団子状パスタ。シュペッツレは小麦粉と卵の不揃いな麺"
+      },
+      {
+        "id": "raclette",
+        "name": "ラクレット",
+        "difference": "ラクレットは溶かしたチーズをジャガイモにかけるスイス料理。ケーゼシュペッツレはパスタとチーズを合わせる"
+      }
+    ],
+    "relatedIds": [
+      "macaroni-and-cheese",
+      "gnocchi",
+      "raclette",
+      "schnitzel",
+      "kartoffelklosse"
+    ],
+    "source": [
+      "https://www.young-germany.jp/2018/03/%E3%80%8E%E3%82%BD%E3%83%BC%E3%82%BB%E3%83%BC%E3%82%B8%E4%BB%A5%E5%A4%96%E3%81%AE%E3%83%89%E3%82%A4%E3%83%84%E6%96%99%E7%90%86%EF%BC%91%EF%BC%90%E9%81%B8%E3%80%8F/",
+      "https://en.wikipedia.org/wiki/Sp%C3%A4tzle",
+      "https://de.wikipedia.org/wiki/K%C3%A4sesp%C3%A4tzle"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "パスタ",
+      "チーズ",
+      "小麦",
+      "焼き物",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ざるそば",
+      "冷やし中華",
+      "刺身",
+      "野菜スープ"
+    ],
+    "avoidedBy": [
+      "乳製品不可",
+      "卵アレルギー",
+      "小麦アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kasespatzle/1.jpg",
+      "/images/dishes/kasespatzle/2.jpg",
+      "/images/dishes/kasespatzle/3.jpg"
+    ]
+  },
+  {
+    "id": "kartoffelklosse",
+    "name": "クレーセ",
+    "kana": "くれーせ",
+    "aliases": [
+      "クローセ",
+      "クネーデル",
+      "クヌーデル",
+      "カルトッフェルクレーセ",
+      "ジャガイモ団子",
+      "テューリンゲン風クレーセ"
+    ],
+    "englishName": "Potato dumplings (Kartoffelklöße)",
+    "originalName": "Kartoffelklöße",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ドイツ"
+      }
+    ],
+    "summary": "生と茹でたジャガイモをすり混ぜて丸め、茹でたドイツのジャガイモ団子。肉料理の付け合わせの定番で、特にテューリンゲン地方のものが有名。",
+    "menuDescription": "すりおろした生のジャガイモと茹でてつぶしたジャガイモを合わせて丸め、中にバターで炒めたクルトンを入れて塩水で茹でたもの。ローストやルラーデンのソースを吸わせて食べる。",
+    "whatComesOut": [
+      "テニスボール大の丸いジャガイモ団子1〜2個",
+      "肉料理のソースがかかった状態",
+      "割ると中にクルトンが入っていることも"
+    ],
+    "tasteAndTexture": [
+      "もっちりむっちりした弾力",
+      "ジャガイモの素朴な味",
+      "ソースをよく吸いこむ"
+    ],
+    "orderAdvice": "単品より肉料理の付け合わせとして選ぶもの。ソースと一緒に食べると本領発揮。1個でもかなりお腹がふくれるので量に注意。",
+    "caution": "中にパン（小麦）のクルトンを入れることがある。",
+    "similarItems": [
+      {
+        "id": "gnocchi",
+        "name": "ニョッキ",
+        "difference": "ニョッキは小粒で小麦粉を多く使う。クレーセはこぶし大でジャガイモの比率が高くもっちり"
+      },
+      {
+        "id": "kasespatzle",
+        "name": "ケーゼシュペッツレ",
+        "difference": "シュペッツレは小麦粉の麺。クレーセはジャガイモの団子"
+      },
+      {
+        "id": "suiton",
+        "name": "すいとん",
+        "difference": "すいとんは小麦粉の団子を汁で煮る。クレーセはジャガイモの団子を茹でてソースで食べる"
+      }
+    ],
+    "relatedIds": [
+      "gnocchi",
+      "dumpling",
+      "suiton",
+      "schweinebraten",
+      "rinderrouladen",
+      "rotkohl",
+      "gravy"
+    ],
+    "source": [
+      "https://www.young-germany.jp/2018/03/%E3%80%8E%E3%82%BD%E3%83%BC%E3%82%BB%E3%83%BC%E3%82%B8%E4%BB%A5%E5%A4%96%E3%81%AE%E3%83%89%E3%82%A4%E3%83%84%E6%96%99%E7%90%86%EF%BC%91%EF%BC%90%E9%81%B8%E3%80%8F/",
+      "https://en.wikipedia.org/wiki/Kn%C3%B6del",
+      "https://de.wikipedia.org/wiki/Th%C3%BCringer_Kl%C3%B6%C3%9Fe"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "野菜",
+      "もちもち",
+      "家庭料理",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "白ごはん",
+      "パン",
+      "パスタ",
+      "サラダ"
+    ],
+    "avoidedBy": [
+      "炭水化物を控えている"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kartoffelklosse/1.jpg",
+      "/images/dishes/kartoffelklosse/2.jpg",
+      "/images/dishes/kartoffelklosse/3.jpg"
+    ]
+  },
+  {
+    "id": "rotkohl",
+    "name": "ロートコール",
+    "kana": "ろーとこーる",
+    "aliases": [
+      "ロートクラウト",
+      "ブラウクラウト",
+      "赤キャベツの煮込み",
+      "赤キャベツの酢漬け煮"
+    ],
+    "englishName": "Braised red cabbage",
+    "originalName": "Rotkohl",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ドイツ"
+      }
+    ],
+    "summary": "赤キャベツをリンゴ、酢、砂糖、スパイスと一緒に柔らかく煮込んだドイツの付け合わせ。肉料理に欠かせない甘酸っぱい一品。",
+    "menuDescription": "千切りの赤キャベツを玉ねぎ、リンゴ、ラード、酢、砂糖、クローブやローリエと一緒にじっくり煮込んだもの。ローストやルラーデン、ガチョウ料理に添えられる。南ドイツではブラウクラウトとも呼ぶ。",
+    "whatComesOut": [
+      "濃い赤紫色のくたっとしたキャベツ煮",
+      "肉料理の皿の脇に添えて",
+      "リンゴの角切りが入ることも"
+    ],
+    "tasteAndTexture": [
+      "甘酸っぱい味",
+      "クローブなどスパイスのほのかな香り",
+      "とろりと柔らかい食感"
+    ],
+    "orderAdvice": "肉料理の付け合わせとして選ぶと、脂っこさを中和してくれる。甘酸っぱい野菜料理に抵抗がなければおすすめ。",
+    "similarItems": [
+      {
+        "id": "sauerkraut",
+        "name": "ザワークラウト",
+        "difference": "ザワークラウトは白キャベツを乳酸発酵させた漬物。ロートコールは赤キャベツを酢と砂糖で煮た甘酸っぱい煮物"
+      },
+      {
+        "name": "コールスロー",
+        "difference": "コールスローは生キャベツのマヨネーズサラダ。ロートコールは温かい煮込み"
+      },
+      {
+        "id": "vinegret",
+        "name": "ヴィネグレット（サラダ）",
+        "difference": "ヴィネグレットはビーツの赤いサラダ。ロートコールは赤キャベツの煮込み"
+      }
+    ],
+    "relatedIds": [
+      "sauerkraut",
+      "schweinebraten",
+      "rinderrouladen",
+      "sauerbraten",
+      "kartoffelklosse",
+      "beet"
+    ],
+    "source": [
+      "https://www.young-germany.jp/2018/03/%E3%80%8E%E3%82%BD%E3%83%BC%E3%82%BB%E3%83%BC%E3%82%B8%E4%BB%A5%E5%A4%96%E3%81%AE%E3%83%89%E3%82%A4%E3%83%84%E6%96%99%E7%90%86%EF%BC%91%EF%BC%90%E9%81%B8%E3%80%8F/",
+      "https://en.wikipedia.org/wiki/Red_cabbage",
+      "https://de.wikipedia.org/wiki/Rotkohl"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "野菜",
+      "果物",
+      "煮込み",
+      "酸味",
+      "甘み",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "生野菜サラダ",
+      "塩ゆで野菜",
+      "グリル野菜",
+      "おひたし"
+    ],
+    "avoidedBy": [
+      "酸味が苦手",
+      "甘じょっぱい味が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/rotkohl/1.jpg",
+      "/images/dishes/rotkohl/2.jpg",
+      "/images/dishes/rotkohl/3.jpg"
+    ]
+  },
+  {
+    "id": "heringsstipp",
+    "name": "ヘリングスシュティップ",
+    "kana": "へりんぐすしゅてぃっぷ",
+    "aliases": [
+      "ニシンのクリーム和え",
+      "ヘリング・ハウスフラウエンアート",
+      "ニシン料理"
+    ],
+    "englishName": "Heringsstipp",
+    "originalName": "Heringsstipp",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ドイツ"
+      }
+    ],
+    "summary": "塩漬けや酢漬けのニシンをリンゴやピクルスと一緒にクリームやヨーグルト、マヨネーズのソースで和え、皮付きの茹でジャガイモと食べるドイツの魚料理。",
+    "menuDescription": "マチェス（若いニシンの塩漬け）や塩ニシンを一口大に切り、刻んだリンゴ、玉ねぎ、ピクルス、ハーブと一緒に冷たいクリームソースで和えたもの。皮付きの茹でジャガイモやベイクドポテトを添える。年末年始の食べ過ぎ後の一皿としても親しまれる。",
+    "whatComesOut": [
+      "白いクリームソースで和えたニシンの切り身",
+      "リンゴ、玉ねぎ、ピクルスの角切り",
+      "皮付きの茹でジャガイモ",
+      "ディルなどのハーブ"
+    ],
+    "tasteAndTexture": [
+      "ニシンの塩気と脂のある旨み",
+      "リンゴとピクルスの甘酸っぱさ",
+      "冷たくまろやかなクリームソース",
+      "ねっとりした魚と熱いホクホクのジャガイモ"
+    ],
+    "orderAdvice": "ドイツで数少ない魚料理を試したい人向け。生魚の酢漬けが平気なら意外と食べやすい。冷たい料理なので、さっぱりしたいときに。",
+    "caution": "魚（ニシン）、乳製品、卵（マヨネーズ）を含む。",
+    "similarItems": [
+      {
+        "id": "rollmops",
+        "name": "ロールモップス",
+        "difference": "ロールモップスは酢漬けニシンでピクルスを巻いたもの。ヘリングスシュティップはクリームソースで和える"
+      },
+      {
+        "id": "inlagd-sill",
+        "name": "インラグド・シル",
+        "difference": "インラグド・シルはスウェーデンの甘酢漬けニシン。ヘリングスシュティップはクリームで和えジャガイモと食べる"
+      },
+      {
+        "name": "ニシンの昆布巻き",
+        "difference": "昆布巻きは身欠きニシンを甘辛く煮た日本料理。ヘリングスシュティップは塩漬けニシンを生のまま冷たいソースで和える"
+      }
+    ],
+    "relatedIds": [
+      "rollmops",
+      "inlagd-sill",
+      "pickles",
+      "sour-cream",
+      "mayonnaise",
+      "dill"
+    ],
+    "source": [
+      "https://www.young-germany.jp/2018/03/%E3%80%8E%E3%82%BD%E3%83%BC%E3%82%BB%E3%83%BC%E3%82%B8%E4%BB%A5%E5%A4%96%E3%81%AE%E3%83%89%E3%82%A4%E3%83%84%E6%96%99%E7%90%86%EF%BC%91%EF%BC%90%E9%81%B8%E3%80%8F/",
+      "https://de.wikipedia.org/wiki/Heringsstipp",
+      "https://en.wikipedia.org/wiki/Pickled_herring"
+    ],
+    "tags": [
+      "ドイツ料理",
+      "主菜",
+      "魚介",
+      "マリネ",
+      "クリーミー",
+      "酸味",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "焼き肉",
+      "温かいシチュー",
+      "揚げ物",
+      "ステーキ"
+    ],
+    "avoidedBy": [
+      "生魚が苦手",
+      "魚アレルギー",
+      "乳製品不可",
+      "卵アレルギー"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/heringsstipp/1.jpg"
+    ]
   }
 ]
