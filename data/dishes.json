@@ -17430,7 +17430,9 @@
     "uniquenessScore": 4,
     "heavinessScore": 2,
     "spicinessScore": 4,
-    "images": [],
+    "images": [
+      "/images/dishes/kou-shui-ji/1.jpg"
+    ],
     "source": [
       "https://en.wikipedia.org/wiki/Saliva_chicken",
       "https://ja.wikipedia.org/wiki/%E3%82%88%E3%81%A0%E3%82%8C%E9%B6%8F",
@@ -31078,7 +31080,10 @@
     "uniquenessScore": 3,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/tama-konnyaku/2.jpg",
+      "/images/dishes/tama-konnyaku/3.jpg"
+    ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%8B%E3%83%A3%E3%82%AF",
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/imoni_yamagata.html"
@@ -41719,7 +41724,9 @@
     "uniquenessScore": 4,
     "heavinessScore": 3,
     "spicinessScore": 5,
-    "images": [],
+    "images": [
+      "/images/dishes/lazi-ji/1.jpg"
+    ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E8%BE%A3%E5%AD%90%E9%B6%8F",
       "https://thewoksoflife.com/chongqing-chicken/"
@@ -44380,7 +44387,10 @@
     "uniquenessScore": 3,
     "heavinessScore": 4,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/namie-yakisoba/1.jpg",
+      "/images/dishes/namie-yakisoba/3.jpg"
+    ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%BF%E3%81%88%E7%84%BC%E3%81%9D%E3%81%B0",
       "https://namieyakisoba.com/"
@@ -44650,7 +44660,9 @@
     "uniquenessScore": 4,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/kozuyu/1.jpg"
+    ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%A5%E3%82%86",
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kozuyu_fukushima.html"
@@ -44916,7 +44928,9 @@
     "uniquenessScore": 3,
     "heavinessScore": 3,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/dote-yaki/1.jpg"
+    ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%81%A9%E3%81%A6%E7%84%BC%E3%81%8D",
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/dote_yaki_osaka.html"
@@ -45382,7 +45396,10 @@
     "uniquenessScore": 3,
     "heavinessScore": 4,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/horumon-yaki/1.jpg",
+      "/images/dishes/horumon-yaki/2.jpg"
+    ],
     "source": [
       "https://en.wikipedia.org/wiki/Offal",
       "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3%E7%84%BC%E3%81%8D",
@@ -46252,7 +46269,9 @@
     "uniquenessScore": 4,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/senba-jiru/1.jpg"
+    ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E8%88%B9%E5%A0%B4%E6%B1%81",
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/senba_jiru_osaka.html"
@@ -47869,7 +47888,9 @@
     "uniquenessScore": 3,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/gohei-mochi/1.jpg"
+    ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E4%BA%94%E5%B9%B3%E9%A4%85",
       "https://www.kankou-gifu.jp/gourmet/detail_1180.html"
@@ -48055,7 +48076,10 @@
     "uniquenessScore": 5,
     "heavinessScore": 3,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/funa-miso/1.jpg",
+      "/images/dishes/funa-miso/2.jpg"
+    ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E9%AE%92",
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
@@ -48422,7 +48446,10 @@
     "uniquenessScore": 5,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/moriguchi-zuke/1.jpg",
+      "/images/dishes/moriguchi-zuke/3.jpg"
+    ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E5%AE%88%E5%8F%A3%E6%BC%AC",
       "https://www.aichi-now.jp/en/foods/detail/5/"
@@ -70056,7 +70083,10 @@
     "uniquenessScore": 2,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/pizza-ortolana/1.jpg",
+      "/images/dishes/pizza-ortolana/2.jpg"
+    ]
   },
   {
     "id": "pizza-quattro-formaggi",
@@ -109087,7 +109117,9 @@
     "uniquenessScore": 4,
     "heavinessScore": 3,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/kurozukuri/1.jpg"
+    ]
   },
   {
     "id": "genge",
@@ -110198,7 +110230,9 @@
     "uniquenessScore": 2,
     "heavinessScore": 3,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/konbu-maki/1.jpg"
+    ]
   },
   {
     "id": "kuromame-okowa",
@@ -110817,7 +110851,9 @@
     "uniquenessScore": 3,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/masuzushi/1.jpg"
+    ]
   },
   {
     "id": "takenoko-no-misoni",
@@ -124399,7 +124435,10 @@
     "uniquenessScore": 2,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/kenchin-jiru-kanagawa/1.jpg",
+      "/images/dishes/kenchin-jiru-kanagawa/3.jpg"
+    ]
   },
   {
     "id": "soboro-natto-ibaraki",
@@ -124605,7 +124644,11 @@
     "uniquenessScore": 2,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/imo-mochi-tokushima/1.jpg",
+      "/images/dishes/imo-mochi-tokushima/2.jpg",
+      "/images/dishes/imo-mochi-tokushima/3.jpg"
+    ]
   },
   {
     "id": "izumo-soba-shimane",
@@ -127943,7 +127986,10 @@
     "uniquenessScore": 3,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/kakinoha-zushi-nara/1.jpg",
+      "/images/dishes/kakinoha-zushi-nara/2.jpg"
+    ]
   },
   {
     "id": "kinzanji-miso-wakayama",
@@ -136294,7 +136340,9 @@
     "uniquenessScore": 4,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/sanma-zushi-nara/1.jpg"
+    ]
   },
   {
     "id": "sanma-no-surimi-jiru-miyagi",
@@ -165780,7 +165828,8 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": []
   },
   {
     "id": "heso-daikon-no-nishime-miyagi",
@@ -172034,7 +172083,8 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": []
   },
   {
     "id": "39-17-osaka",
@@ -190935,7 +190985,9 @@
     "uniquenessScore": 2,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/nozawana-zuke/2.jpg"
+    ]
   },
   {
     "id": "karaage",
@@ -193516,7 +193568,9 @@
     "uniquenessScore": 1,
     "heavinessScore": 3,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/saba-no-misoni/1.jpg"
+    ]
   },
   {
     "id": "tatsuta-age",
@@ -208764,7 +208818,10 @@
     "uniquenessScore": 2,
     "heavinessScore": 3,
     "spicinessScore": 3,
-    "images": []
+    "images": [
+      "/images/dishes/haemul-tang/1.jpg",
+      "/images/dishes/haemul-tang/2.jpg"
+    ]
   },
   {
     "id": "agwi-jjim",

@@ -37,9 +37,9 @@ async function apiFetch(url) {
 }
 
 // Wikipedia REST API → main article image
-async function getWikipediaImage(title) {
+async function getWikipediaImage(title, lang = "en") {
   const data = await apiFetch(
-    `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title)}`
+    `https://${lang}.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title)}`
   )
   if (!data) return null
   const url = data.originalimage?.source || data.thumbnail?.source
@@ -85,8 +85,12 @@ async function processDish(dish) {
   const collected = []
 
   // --- 1. Wikipedia main image (English name first, then Japanese) ---
-  for (const term of [dish.englishName, dish.name].filter(Boolean)) {
-    const url = await getWikipediaImage(term)
+  for (const [term, lang] of [
+    [dish.englishName, "en"],
+    [dish.name, "en"],
+    [dish.name, "ja"],
+  ].filter(([t]) => t)) {
+    const url = await getWikipediaImage(term, lang)
     await sleep(500)
     if (!url) continue
     const ext = getExt(url)
@@ -98,9 +102,17 @@ async function processDish(dish) {
   }
 
   // --- 2. Commons search ---
-  const searchQuery = `${dish.englishName ?? dish.name} food`
-  const fileTitles = await searchCommons(searchQuery, 12)
-  await sleep(500)
+  // Fall back to looser queries when the narrow one finds nothing
+  let fileTitles = []
+  for (const q of [
+    `${dish.englishName ?? dish.name} food`,
+    dish.englishName,
+    dish.name,
+  ].filter(Boolean)) {
+    fileTitles = await searchCommons(q, 12)
+    await sleep(500)
+    if (fileTitles.length) break
+  }
 
   for (const title of fileTitles) {
     if (collected.length >= 3) break
