@@ -237454,5 +237454,1255 @@
     "heavinessScore": 4,
     "spicinessScore": 1,
     "images": []
+  },
+  {
+    "id": "dong-an-zi-ji",
+    "name": "東安子鶏",
+    "kana": "とうあんしけい",
+    "aliases": [
+      "東安鶏",
+      "东安子鸡",
+      "東安チキン",
+      "醋鶏"
+    ],
+    "englishName": "Dong'an chicken",
+    "originalName": "东安子鸡",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "湖南省東安県に由来する鶏料理。茹でた若鶏を切り、唐辛子・花椒・生姜・米酢で炒め合わせる、酸味と辛味が立つ湖南の名菜。",
+    "menuDescription": "茹で鶏を唐辛子、花椒、生姜、米酢で手早く炒めた湖南の伝統料理。酸っぱ辛い爽やかな味わい。",
+    "whatComesOut": [
+      "下茹でした鶏肉の拍子切り",
+      "細切りの生姜と赤唐辛子",
+      "ねぎ",
+      "米酢と花椒の効いた薄いとろみのたれ"
+    ],
+    "tasteAndTexture": [
+      "米酢のきりっとした酸味",
+      "唐辛子と花椒の辛味・香り",
+      "しっとり柔らかい鶏肉",
+      "油っぽさの少ない軽い後味"
+    ],
+    "orderAdvice": "湖南料理の中では辛さ控えめで酸味が主役。脂っこい料理が多い卓の口直しに向く。酢の酸味が苦手なら避ける。",
+    "similarItems": [
+      {
+        "id": "kou-shui-ji",
+        "name": "口水鶏",
+        "difference": "口水鶏は冷製の茹で鶏に辣油だれをかける四川料理。東安子鶏は茹で鶏を酢と唐辛子で炒める温菜"
+      },
+      {
+        "id": "lazi-ji",
+        "name": "辣子鶏",
+        "difference": "辣子鶏は揚げた鶏を大量の乾燥唐辛子と炒める。東安子鶏は揚げず、酸味が主役"
+      },
+      {
+        "id": "gong-bao-ji-ding",
+        "name": "宮保鶏丁",
+        "difference": "宮保鶏丁は甘酸っぱいたれとピーナッツ入り。東安子鶏は甘みが少なく米酢と生姜で爽やか"
+      }
+    ],
+    "relatedIds": [
+      "kou-shui-ji",
+      "lazi-ji",
+      "gong-bao-ji-ding",
+      "la-jiao-chao-rou",
+      "mao-shi-hong-shao-rou"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Hunan_cuisine",
+      "https://ja.wikipedia.org/wiki/湖南料理",
+      "https://whattocooktoday.com/dongan-chicken.html"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "鶏肉",
+      "炒め物",
+      "酸味",
+      "ピリ辛",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "甘いたれの鶏料理",
+      "クリーミーな鶏料理",
+      "唐揚げ",
+      "照り焼きチキン"
+    ],
+    "avoidedBy": [
+      "酸っぱいものが苦手",
+      "辛いものが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/dong-an-zi-ji/1.jpg",
+      "/images/dishes/dong-an-zi-ji/2.jpg",
+      "/images/dishes/dong-an-zi-ji/3.jpg"
+    ]
+  },
+  {
+    "id": "chang-sha-mi-fen",
+    "name": "長沙米粉",
+    "kana": "ちょうさみーふぇん",
+    "aliases": [
+      "长沙米粉",
+      "湖南米粉",
+      "長沙ビーフン"
+    ],
+    "englishName": "Changsha-style rice vermicelli",
+    "originalName": "长沙米粉",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "湖南省長沙の朝食の定番。平たい米粉を骨スープに入れ、煮込み肉や炒め物の具「碼子」をのせて食べる汁麺。",
+    "menuDescription": "長沙名物の平打ち米麺。豚骨や牛骨のスープに、肉の煮込みや唐辛子炒めをのせた湖南の朝ごはん。",
+    "whatComesOut": [
+      "平たい米粉（ライスヌードル）",
+      "豚骨・牛骨ベースのスープ",
+      "碼子（煮込み豚肉・牛肉、辣椒炒肉などの具）",
+      "ねぎ・香菜・漬物の薬味",
+      "卓上の剁辣椒など辛味調味料"
+    ],
+    "tasteAndTexture": [
+      "つるっと柔らかい平打ち米麺",
+      "あっさりした骨スープ",
+      "具次第でこってり〜ピリ辛まで変化",
+      "漬物の酸味がアクセント"
+    ],
+    "orderAdvice": "スープ自体は穏やか。辛さは具と卓上調味料で調整可能。小麦を避けたい人の麺料理候補。汁なし（干撈）も選べる店あり。",
+    "similarItems": [
+      {
+        "id": "chang-de-niu-rou-fen",
+        "name": "常徳牛肉粉",
+        "difference": "常徳牛肉粉は丸くコシのある米粉と牛肉煮込みが主役。長沙米粉は平打ちで具の種類が多彩"
+      },
+      {
+        "id": "rice-vermicelli",
+        "name": "ビーフン",
+        "difference": "一般的なビーフンは細い乾麺で炒め物が多い。長沙米粉は生の平打ち米麺を汁麺で食べる"
+      },
+      {
+        "id": "kuy-teav",
+        "name": "クイティウ",
+        "difference": "クイティウはカンボジアの米麺スープで澄んだ豚骨と魚介系。長沙米粉は湖南の唐辛子系トッピングが特徴"
+      }
+    ],
+    "relatedIds": [
+      "rice-vermicelli",
+      "kuy-teav",
+      "beef-noodle-soup",
+      "la-jiao-chao-rou",
+      "duo-jiao"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Hunan_cuisine",
+      "https://asianinspirations.com.au/food-knowledge/the-slurp-tastic-world-of-hunan-rice-noodles/",
+      "https://www.hunantoday.cn/news/xhn/201810/18033945.html"
+    ],
+    "tags": [
+      "中国料理",
+      "麺料理",
+      "米",
+      "豚肉",
+      "あっさり",
+      "大衆料理",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "パスタ",
+      "こってりラーメン",
+      "小麦の太麺",
+      "クリーム系スープ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": []
+  },
+  {
+    "id": "chang-de-niu-rou-fen",
+    "name": "常徳牛肉粉",
+    "kana": "じょうとくぎゅうにくふぇん",
+    "aliases": [
+      "常德牛肉粉",
+      "常徳米粉",
+      "常德米粉"
+    ],
+    "englishName": "Changde beef rice noodles",
+    "originalName": "常德牛肉粉",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "湖南省常徳の名物麺。丸くコシのある米粉に、辛く煮込んだ牛肉や牛モツをのせた汁麺または汁なし麺。",
+    "menuDescription": "常徳名物、丸い米麺に香辛料で煮込んだ牛肉をのせた一杯。ピリ辛の牛肉スープと弾力ある麺。",
+    "whatComesOut": [
+      "丸くて太めの米粉",
+      "牛骨スープ（汁なし版もあり）",
+      "辛く煮込んだ牛肉・牛筋・牛モツ",
+      "ねぎ・香菜・酸菜などの薬味"
+    ],
+    "tasteAndTexture": [
+      "つるっとしつつ弾力のある丸麺",
+      "香辛料と唐辛子の効いた牛肉の旨み",
+      "牛脂のこく",
+      "辣油の辛さ"
+    ],
+    "orderAdvice": "牛肉好きなら有力候補。辛さは牛肉の煮込みで決まるので、辛いのが苦手なら清燉（澄まし煮）の牛肉を選ぶ。",
+    "similarItems": [
+      {
+        "id": "chang-sha-mi-fen",
+        "name": "長沙米粉",
+        "difference": "長沙米粉は平打ち麺で具が多彩。常徳牛肉粉は丸麺で牛肉に特化"
+      },
+      {
+        "id": "beef-noodle-soup",
+        "name": "牛肉麺",
+        "difference": "牛肉麺は小麦麺が主流。常徳牛肉粉は米粉を使う"
+      },
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーは平たい米麺に澄んだ牛骨スープとハーブ。常徳牛肉粉は丸麺で唐辛子の効いた煮込み牛肉"
+      }
+    ],
+    "relatedIds": [
+      "beef-noodle-soup",
+      "rice-vermicelli",
+      "shui-zhu-fei-niu",
+      "duo-jiao"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Hunan_cuisine",
+      "https://asianinspirations.com.au/food-knowledge/the-slurp-tastic-world-of-hunan-rice-noodles/",
+      "https://www.hunantoday.cn/news/xhn/201810/18033945.html"
+    ],
+    "tags": [
+      "中国料理",
+      "麺料理",
+      "牛肉",
+      "米",
+      "煮込み",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "あっさり塩ラーメン",
+      "パスタ",
+      "鶏白湯",
+      "うどん"
+    ],
+    "avoidedBy": [
+      "辛いものが苦手",
+      "内臓肉が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/chang-de-niu-rou-fen/1.jpg",
+      "/images/dishes/chang-de-niu-rou-fen/2.jpg"
+    ]
+  },
+  {
+    "id": "yong-zhou-xue-ya",
+    "name": "永州血鴨",
+    "kana": "えいしゅうけつおう",
+    "aliases": [
+      "永州血鸭",
+      "血鴨",
+      "血鸭"
+    ],
+    "englishName": "Yongzhou blood duck",
+    "originalName": "永州血鸭",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "湖南省南部・永州の名物。ぶつ切りの鴨肉を唐辛子・生姜・にんにくと炒め、仕上げに酢を混ぜた鴨の生血を加えて黒っぽいソースに仕上げる。",
+    "menuDescription": "鴨肉を青唐辛子と強火で炒め、鴨の血でとろみとこくを加えた永州の郷土料理。",
+    "whatComesOut": [
+      "骨付きのぶつ切り鴨肉",
+      "青唐辛子・赤唐辛子",
+      "生姜・にんにく",
+      "鴨の血でまとめた黒褐色のソース"
+    ],
+    "tasteAndTexture": [
+      "鴨肉の濃い旨みと歯ごたえ",
+      "血によるこくと独特の鉄分感",
+      "唐辛子の強い辛さ",
+      "酢のほのかな酸味"
+    ],
+    "orderAdvice": "見た目は黒っぽく、血の風味がはっきり。レバーや血豆腐が平気な冒険派向け。骨付きなので食べにくさもある。",
+    "caution": "動物の血を使用。宗教・食習慣上避ける人は注意。骨付き肉。",
+    "similarItems": [
+      {
+        "id": "mao-xue-wang",
+        "name": "毛血旺",
+        "difference": "毛血旺は鴨血豆腐を麻辣スープで煮る四川料理。永州血鴨は生血をソースとして鴨肉に絡める炒め物"
+      },
+      {
+        "id": "da-he-ya-xue",
+        "name": "大赫鴨血",
+        "difference": "鴨血料理は固めた血を具として使う。永州血鴨は液状の血を仕上げに加える"
+      },
+      {
+        "id": "la-jiao-chao-rou",
+        "name": "辣椒炒肉",
+        "difference": "どちらも湖南の唐辛子炒め。辣椒炒肉は豚肉で親しみやすく、永州血鴨は鴨と血で個性が強い"
+      }
+    ],
+    "relatedIds": [
+      "mao-xue-wang",
+      "da-he-ya-xue",
+      "la-jiao-chao-rou",
+      "peking-duck"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Hunan_cuisine",
+      "https://www.kupi.com/en-ae/explore/china/yongzhou"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "ジビエ",
+      "炒め物",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ささみ",
+      "白身魚の蒸し物",
+      "照り焼きチキン",
+      "野菜炒め"
+    ],
+    "avoidedBy": [
+      "血を使った料理が苦手",
+      "辛いものが苦手",
+      "骨付き肉が苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 4,
+    "images": [
+      "/images/dishes/yong-zhou-xue-ya/1.jpg"
+    ]
+  },
+  {
+    "id": "bing-tang-xiang-lian",
+    "name": "冰糖湘蓮",
+    "kana": "ひょうとうしょうれん",
+    "aliases": [
+      "冰糖湘莲",
+      "湘蓮の氷砂糖煮"
+    ],
+    "englishName": "Lotus seeds in rock sugar syrup",
+    "originalName": "冰糖湘莲",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "湖南産の蓮の実（湘蓮）を蒸して柔らかくし、氷砂糖のシロップに浮かべた湖南料理の代表的な甘味。",
+    "menuDescription": "湖南特産の白い蓮の実を氷砂糖シロップで仕立てた、上品で優しい甘さの伝統デザート。",
+    "whatComesOut": [
+      "柔らかく蒸した蓮の実",
+      "透明な氷砂糖シロップ",
+      "竜眼・パイナップル・さくらんぼ等の果物（店による）",
+      "スープボウルで温かく、または冷やして提供"
+    ],
+    "tasteAndTexture": [
+      "ほくほく柔らかい蓮の実",
+      "すっきりした氷砂糖の甘さ",
+      "ほのかな木の実のような風味",
+      "軽い口当たり"
+    ],
+    "orderAdvice": "辛い湖南料理の後の締めに最適。甘さは控えめで重くない。蓮の実の素朴な食感が好みを分ける。",
+    "similarItems": [
+      {
+        "id": "nan-gua-bing",
+        "name": "南瓜餅",
+        "difference": "南瓜餅はかぼちゃ入りの餅を焼く・揚げる菓子。冰糖湘蓮はシロップに浮かぶ蓮の実の甘いスープ"
+      },
+      {
+        "name": "湯圓",
+        "difference": "湯圓はもちもちの団子。冰糖湘蓮はほくほくの蓮の実"
+      }
+    ],
+    "relatedIds": [
+      "nan-gua-bing"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Hunan_cuisine"
+    ],
+    "tags": [
+      "中国料理",
+      "デザート",
+      "ナッツ",
+      "蒸し料理",
+      "甘み",
+      "あっさり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "チョコレートケーキ",
+      "濃厚プリン",
+      "辛い料理",
+      "揚げ菓子"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bing-tang-xiang-lian/1.jpg"
+    ]
+  },
+  {
+    "id": "yongfeng-la-jiang",
+    "name": "永豊辣醤",
+    "kana": "えいほうらーじゃん",
+    "aliases": [
+      "永丰辣酱",
+      "永豊チリソース"
+    ],
+    "englishName": "Yongfeng chili sauce",
+    "originalName": "永丰辣酱",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "湖南省双峰県永豊産の発酵唐辛子味噌。地元の赤唐辛子にもち米・小麦・豆を合わせ、蒸し・発酵・天日干しを経て作る。",
+    "menuDescription": "湖南伝統の発酵唐辛子ソース。甘みと辛みがまろやかに調和し、炒め物や麺の味付けに使われる。",
+    "whatComesOut": [
+      "赤褐色のペースト状ソース",
+      "料理の調味料として炒め物・蒸し物に",
+      "米粉や麺の卓上調味料として"
+    ],
+    "tasteAndTexture": [
+      "唐辛子のしっかりした辛さ",
+      "もち米・小麦由来のまろやかな甘み",
+      "発酵による深い旨み",
+      "ねっとりした質感"
+    ],
+    "orderAdvice": "単体で注文するものではなく調味料。料理名に「永豊辣醤」とあれば、甘辛く発酵香のある味付けと考えてよい。",
+    "similarItems": [
+      {
+        "id": "doubanjiang",
+        "name": "豆板醤",
+        "difference": "豆板醤はそら豆主体の四川の発酵味噌で塩気が強い。永豊辣醤はもち米・小麦を使い甘みがある"
+      },
+      {
+        "id": "duo-jiao",
+        "name": "剁椒",
+        "difference": "剁椒は刻み唐辛子の塩漬け発酵で酸味が立つ。永豊辣醤は穀物入りで甘くまろやか"
+      },
+      {
+        "id": "gochujang",
+        "name": "コチュジャン",
+        "difference": "コチュジャンは韓国のもち米入り唐辛子味噌でより甘い。永豊辣醤は辛味が強め"
+      }
+    ],
+    "relatedIds": [
+      "doubanjiang",
+      "duo-jiao",
+      "gochujang",
+      "duo-jiao-yu-tou"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Hunan_cuisine",
+      "https://regional.chinadaily.com.cn/en/2024-11/21/c_1050591.htm"
+    ],
+    "tags": [
+      "中国料理",
+      "調味料",
+      "スパイス",
+      "発酵",
+      "ピリ辛",
+      "甘み",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "マヨネーズ",
+      "バター",
+      "白だし",
+      "ケチャップ"
+    ],
+    "avoidedBy": [
+      "辛いものが苦手",
+      "小麦アレルギー"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/yongfeng-la-jiang/1.jpg",
+      "/images/dishes/yongfeng-la-jiang/2.jpg"
+    ]
+  },
+  {
+    "id": "zu-an-yu-chi",
+    "name": "組庵魚翅",
+    "kana": "そあんぎょし",
+    "aliases": [
+      "组庵鱼翅",
+      "紅煨魚翅",
+      "红煨鱼翅",
+      "組庵フカヒレ",
+      "祖庵魚翅"
+    ],
+    "englishName": "Zu'an shark fin (red-simmered shark fin)",
+    "originalName": "组庵鱼翅",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "清末〜民国の湖南の政治家・美食家、譚延闿（字・組庵）の家厨が考案したフカヒレ料理。フカヒレを鶏肉・豚肘と一緒に弱火でじっくり煨（煮込み）、濃厚なスープを含ませる。",
+    "menuDescription": "湖南官府料理の名菜。フカヒレを鶏と豚の濃厚スープで柔らかく煮込んだ、譚家伝統の一皿。",
+    "whatComesOut": [
+      "とろりと煮込んだフカヒレ",
+      "鶏・豚肘から取った淡黄色の濃厚スープ",
+      "干し貝柱・椎茸などの旨み食材",
+      "器に盛った宴席向けの一皿"
+    ],
+    "tasteAndTexture": [
+      "もちっと柔らかく滑らかなフカヒレ",
+      "鶏と豚のこく深いスープ",
+      "塩味ベースのまろやかな旨み",
+      "辛味はない"
+    ],
+    "orderAdvice": "辛くない湖南料理の代表格で高級宴席料理。値段は高め。フカヒレの資源保護が気になる人は避ける。",
+    "caution": "フカヒレ（サメ）使用。資源保護・倫理面で避ける人あり。高価。",
+    "similarItems": [
+      {
+        "id": "yu-chi-tang",
+        "name": "魚翅湯",
+        "difference": "魚翅湯はスープ仕立て。組庵魚翅は鶏・豚肘と煨してスープを含ませた煮込み"
+      },
+      {
+        "id": "fo-tiao-qiang",
+        "name": "仏跳墻",
+        "difference": "仏跳墻は福建の高級乾物を多数壺で煮込む。組庵魚翅はフカヒレ主役の湖南官府料理"
+      }
+    ],
+    "relatedIds": [
+      "yu-chi-tang",
+      "fo-tiao-qiang",
+      "mao-shi-hong-shao-rou",
+      "dong-an-zi-ji"
+    ],
+    "source": [
+      "https://baike.baidu.com/ja/item/%E6%B9%96%E5%8D%97%E6%96%99%E7%90%86/302721",
+      "https://m.maigoo.com/citiao/152630.html"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "煮込み",
+      "あっさり",
+      "宮廷料理",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "激辛炒め",
+      "屋台の麺",
+      "ファストフード",
+      "揚げ物"
+    ],
+    "avoidedBy": [
+      "フカヒレを避けたい",
+      "予算を抑えたい"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/zu-an-yu-chi/1.jpg"
+    ]
+  },
+  {
+    "id": "la-wei-he-zheng",
+    "name": "臘味合蒸",
+    "kana": "ろうみごうじょう",
+    "aliases": [
+      "腊味合蒸",
+      "燻製肉の蒸し合わせ",
+      "腊味合蒸（湖南）"
+    ],
+    "englishName": "Steamed assorted Hunan cured meats",
+    "originalName": "腊味合蒸",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "湖南の燻製塩漬け肉（臘肉）・臘魚・臘鶏を一つの器に盛り合わせて蒸す湖南の伝統名菜。豆豉や唐辛子を合わせ、燻香と脂の旨みが溶け合う。",
+    "menuDescription": "湖南名物の燻製豚肉・燻製魚・燻製鶏を盛り合わせて蒸した一品。燻香と塩気でご飯が進む。",
+    "whatComesOut": [
+      "薄切りの臘肉（燻製豚バラ）",
+      "臘魚・臘鶏の切り身",
+      "豆豉・唐辛子",
+      "蒸し汁ごと器に盛ったもの"
+    ],
+    "tasteAndTexture": [
+      "燻製の香りと熟成した旨み",
+      "強めの塩気",
+      "脂身の透明感ととろけるこく",
+      "臘魚の噛みごたえ"
+    ],
+    "orderAdvice": "塩気が強いので白米必須。燻製・ベーコン系好きなら当たり。脂が多いので少人数ならシェア推奨。",
+    "similarItems": [
+      {
+        "id": "la-rou-chao-sun",
+        "name": "腊肉炒笋",
+        "difference": "腊肉炒笋は臘肉を筍と炒める。臘味合蒸は複数の臘味を蒸して脂と香りを溶け合わせる"
+      },
+      {
+        "id": "fen-zheng-rou",
+        "name": "粉蒸肉",
+        "difference": "粉蒸肉は生の豚肉に米粉をまぶして蒸す。臘味合蒸は燻製済みの肉を蒸す"
+      },
+      {
+        "id": "mao-shi-hong-shao-rou",
+        "name": "毛氏紅焼肉",
+        "difference": "毛氏紅焼肉は豚バラを甘辛く煮込む。臘味合蒸は燻製の塩気と香りが主役"
+      }
+    ],
+    "relatedIds": [
+      "la-rou-chao-sun",
+      "fen-zheng-rou",
+      "mao-shi-hong-shao-rou",
+      "la-jiao-chao-rou"
+    ],
+    "source": [
+      "https://baike.baidu.com/ja/item/%E6%B9%96%E5%8D%97%E6%96%99%E7%90%86/302721",
+      "https://m.maigoo.com/citiao/152630.html",
+      "https://m.jiemian.com/article/2250407.html"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "豚肉",
+      "燻製",
+      "蒸し料理",
+      "香ばしい",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "刺身",
+      "サラダ",
+      "白身魚の塩焼き",
+      "鶏むね肉のソテー"
+    ],
+    "avoidedBy": [
+      "塩分を控えたい",
+      "脂身が苦手",
+      "燻製の香りが苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "zi-long-tuo-pao",
+    "name": "子龍脱袍",
+    "kana": "しりゅうだっぽう",
+    "aliases": [
+      "子龙脱袍",
+      "炒鱔絲（子龍脱袍）"
+    ],
+    "englishName": "Zilong takes off his robe (stir-fried eel strips)",
+    "originalName": "子龙脱袍",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "タウナギ（鱔魚）を割いて骨と頭を除き、皮をむいて細切りにし炒める湖南の伝統料理。皮をむく様子を武将・趙子龍が鎧を脱ぐ姿に見立てた名前。",
+    "menuDescription": "皮をむいたタウナギの細切りを香り高く炒めた湖南の伝統名菜。名前は三国志の英雄・趙雲（子龍）に由来。",
+    "whatComesOut": [
+      "皮をむいたタウナギの細切り",
+      "ピーマン・唐辛子・椎茸・筍などの細切り",
+      "生姜・ねぎ",
+      "薄くとろみのついた炒めだれ"
+    ],
+    "tasteAndTexture": [
+      "白く柔らかい鱔魚の身",
+      "臭みを抑えたあっさりした味",
+      "野菜のしゃきっとした食感",
+      "ほのかな唐辛子の辛味"
+    ],
+    "orderAdvice": "タウナギの皮を除くので見た目も味も上品。うなぎ・川魚が平気なら試す価値あり。店で辛さが異なる。",
+    "caution": "タウナギ使用。小骨に注意。",
+    "similarItems": [
+      {
+        "id": "gan-bian-shan-si",
+        "name": "干煸鱔絲",
+        "difference": "干煸鱔絲は皮付きの鱔魚を乾煎りして香ばしく辛く仕上げる。子龍脱袍は皮をむき白くあっさり"
+      },
+      {
+        "id": "bao-chao-shan-pian",
+        "name": "爆炒鱔片",
+        "difference": "爆炒鱔片は鱔魚の切り身を強火で炒める。子龍脱袍は皮むき細切り"
+      },
+      {
+        "id": "hong-shao-shan-duan",
+        "name": "紅焼鱔段",
+        "difference": "紅焼鱔段は醤油煮込みで濃い味。子龍脱袍は淡い炒め物"
+      }
+    ],
+    "relatedIds": [
+      "rice-eel",
+      "gan-bian-shan-si",
+      "bao-chao-shan-pian",
+      "hong-shao-shan-duan"
+    ],
+    "source": [
+      "https://baike.baidu.com/ja/item/%E6%B9%96%E5%8D%97%E6%96%99%E7%90%86/302721"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "魚介",
+      "炒め物",
+      "あっさり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "鶏の唐揚げ",
+      "牛ステーキ",
+      "豚の角煮",
+      "海老チリ"
+    ],
+    "avoidedBy": [
+      "うなぎ・川魚が苦手",
+      "ぬめりのある魚が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/zi-long-tuo-pao/1.jpg",
+      "/images/dishes/zi-long-tuo-pao/2.jpg",
+      "/images/dishes/zi-long-tuo-pao/3.jpg"
+    ]
+  },
+  {
+    "id": "ba-wang-bie-ji",
+    "name": "霸王別姫",
+    "kana": "はおうべっき",
+    "aliases": [
+      "霸王别姬",
+      "覇王別姫",
+      "スッポンと鶏の蒸し煮"
+    ],
+    "englishName": "Farewell My Concubine (soft-shelled turtle and chicken)",
+    "originalName": "霸王别姬",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "清末に生まれた湖南の伝統宴席料理。スッポン（霸王）と鶏（姫）を椎茸・ハム・紹興酒などとともに煮てから蒸し上げる。名は項羽と虞美人の故事に由来。",
+    "menuDescription": "スッポンと鶏をハム・椎茸と煮込み、さらに蒸して仕上げた湖南の伝統宴会料理。滋味深いスープが魅力。",
+    "whatComesOut": [
+      "スッポンのぶつ切り",
+      "鶏肉",
+      "椎茸・ハム",
+      "ねぎ・生姜の香る澄んだスープ"
+    ],
+    "tasteAndTexture": [
+      "スッポンのぷるぷるしたコラーゲン質",
+      "鶏とハムの旨みが溶けたスープ",
+      "辛味のない上品な塩味",
+      "滋養感のある後味"
+    ],
+    "orderAdvice": "辛くない湖南の宴席料理。スッポンに抵抗がなければ滋養スープとしておすすめ。大皿・高価なので人数で注文。",
+    "caution": "スッポン使用。骨が多い。",
+    "similarItems": [
+      {
+        "id": "suppon-nabe",
+        "name": "スッポン鍋",
+        "difference": "スッポン鍋は日本の土鍋料理で醤油・酒の出汁。霸王別姫は鶏・ハムと合わせ蒸し上げる中国宴席料理"
+      },
+      {
+        "id": "yu-chi-tang",
+        "name": "魚翅湯",
+        "difference": "魚翅湯はフカヒレのスープ。霸王別姫はスッポンと鶏の煮込み蒸し"
+      }
+    ],
+    "relatedIds": [
+      "suppon-nabe",
+      "yu-chi-tang",
+      "fo-tiao-qiang"
+    ],
+    "source": [
+      "https://baike.baidu.com/ja/item/%E6%B9%96%E5%8D%97%E6%96%99%E7%90%86/302721"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "スープ",
+      "鶏肉",
+      "蒸し料理",
+      "あっさり",
+      "伝統料理",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "ハンバーグ",
+      "唐揚げ",
+      "麻婆豆腐",
+      "ピザ"
+    ],
+    "avoidedBy": [
+      "スッポンが苦手",
+      "珍しい食材が苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ba-wang-bie-ji/1.jpg",
+      "/images/dishes/ba-wang-bie-ji/2.jpg",
+      "/images/dishes/ba-wang-bie-ji/3.jpg"
+    ]
+  },
+  {
+    "id": "quan-jia-fu",
+    "name": "全家福",
+    "kana": "ぜんかふく",
+    "aliases": [
+      "チュエンジャーフー",
+      "湖南全家福"
+    ],
+    "englishName": "Quanjiafu (family reunion assorted stew)",
+    "originalName": "全家福",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "湖南の家庭宴会で最初に出される伝統料理。肉団子、卵の肉巻き、揚げ豚皮、筍、木耳、豚胃、イカ、鶏の砂肝などを肉スープで煮て大鉢に盛り、一家団欒と幸福を願う。",
+    "menuDescription": "肉団子や卵巻き、豚皮、筍などを一鉢に盛り合わせた具だくさんスープ煮。家族団欒を祝う宴会の一品目。",
+    "whatComesOut": [
+      "揚げ肉団子と卵の肉巻き（蛋巻）",
+      "揚げて戻した豚皮",
+      "冬筍・木耳・豆筍",
+      "豚胃・イカ・鶏砂肝・鶏レバー",
+      "とろみのある肉スープ"
+    ],
+    "tasteAndTexture": [
+      "多彩な具材の食感の違い",
+      "肉スープのやさしい塩味",
+      "豚皮のぷるっとした食感",
+      "辛味はほぼない"
+    ],
+    "orderAdvice": "大人数の宴会向け。辛くないので湖南料理の中では食べやすい。内臓が苦手なら具材確認。",
+    "caution": "豚胃・鶏レバーなど内臓を含む。",
+    "similarItems": [
+      {
+        "id": "fo-tiao-qiang",
+        "name": "仏跳墻",
+        "difference": "仏跳墻は高級乾物を壺で長時間煮込む。全家福は家庭的な具材を盛り合わせる宴会の一品目"
+      },
+      {
+        "id": "osechi",
+        "name": "おせち料理",
+        "difference": "おせちは重箱に詰める冷菜中心。全家福は温かいスープ煮で家族団欒を祝う"
+      }
+    ],
+    "relatedIds": [
+      "fo-tiao-qiang",
+      "osechi",
+      "mao-shi-hong-shao-rou"
+    ],
+    "source": [
+      "https://baike.baidu.com/ja/item/%E6%B9%96%E5%8D%97%E6%96%99%E7%90%86/302721"
+    ],
+    "tags": [
+      "中国料理",
+      "スープ",
+      "豚肉",
+      "煮込み",
+      "あっさり",
+      "祝祭料理",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ステーキ",
+      "激辛料理",
+      "パスタ",
+      "グリルチキン"
+    ],
+    "avoidedBy": [
+      "内臓肉が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/quan-jia-fu/1.png",
+      "/images/dishes/quan-jia-fu/2.jpg"
+    ]
+  },
+  {
+    "id": "bai-niao-chao-feng",
+    "name": "百鳥朝鳳",
+    "kana": "ひゃくちょうちょうほう",
+    "aliases": [
+      "百鸟朝凤",
+      "百鳥鳳凰に朝す"
+    ],
+    "englishName": "Hundred birds paying homage to the phoenix",
+    "originalName": "百鸟朝凤",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "雌鶏を形を崩さず丸ごと蒸し、周囲にゆで卵や青菜の芯、椎茸を並べ、鶏スープを注いだ湖南の伝統宴席料理。鶏を鳳凰、卵を百鳥に見立てる。",
+    "menuDescription": "丸鶏を柔らかく蒸し上げ、卵と青菜で囲んだ縁起物のスープ料理。皆が一堂に会する喜びを表す宴会料理。",
+    "whatComesOut": [
+      "丸ごと蒸した雌鶏",
+      "周りに並べたゆで卵",
+      "青菜の芯・椎茸",
+      "胡椒をふった澄んだ鶏スープ"
+    ],
+    "tasteAndTexture": [
+      "ほろりと柔らかい蒸し鶏",
+      "澄んだ鶏スープの旨み",
+      "胡椒のほのかな刺激",
+      "辛味なしのやさしい味"
+    ],
+    "orderAdvice": "見た目も華やかな宴席料理で、辛いものが苦手な人にも安心。丸鶏一羽なので大人数向け。",
+    "similarItems": [
+      {
+        "id": "ba-wang-bie-ji",
+        "name": "霸王別姫",
+        "difference": "霸王別姫はスッポンと鶏の組み合わせ。百鳥朝鳳は丸鶏と卵で縁起を表す"
+      },
+      {
+        "id": "samgyetang",
+        "name": "参鶏湯",
+        "difference": "参鶏湯は丸鶏にもち米・高麗人参を詰めて煮る韓国料理。百鳥朝鳳は丸鶏を蒸して卵で囲む"
+      }
+    ],
+    "relatedIds": [
+      "ba-wang-bie-ji",
+      "samgyetang",
+      "dong-an-zi-ji"
+    ],
+    "source": [
+      "https://baike.baidu.com/ja/item/%E6%B9%96%E5%8D%97%E6%96%99%E7%90%86/302721"
+    ],
+    "tags": [
+      "中国料理",
+      "スープ",
+      "鶏肉",
+      "卵",
+      "蒸し料理",
+      "あっさり",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "激辛鍋",
+      "揚げ物",
+      "スパイスカレー",
+      "こってり炒め"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "ma-ren-xiang-su-ya",
+    "name": "長沙麻仁香酥鴨",
+    "kana": "ちょうさまじんこうそおう",
+    "aliases": [
+      "麻仁香酥鴨",
+      "麻仁香酥鸭",
+      "长沙麻仁香酥鸭"
+    ],
+    "englishName": "Changsha sesame crispy duck",
+    "originalName": "长沙麻仁香酥鸭",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "長沙の名料理人・石蔭祥が考案した鴨料理。下ごしらえした鴨にごまをまぶし、落花生油で油をかけながら揚げ、花椒粉とごま油で仕上げる。",
+    "menuDescription": "ごまをまとわせた鴨をカリッと揚げ、花椒の香りをまとわせた長沙の名菜。外はサクサク、中はしっとり。",
+    "whatComesOut": [
+      "ごま衣で揚げた鴨の棒切り",
+      "皿に添えた頭・手羽・足（鴨丸ごとを表す）",
+      "花椒粉とごま油",
+      "周りに飾った香菜"
+    ],
+    "tasteAndTexture": [
+      "ごまの香ばしいサクサク衣",
+      "柔らかくジューシーな鴨肉",
+      "花椒のしびれる香り",
+      "長く続く余韻"
+    ],
+    "orderAdvice": "辛さは控えめで揚げ物好きなら食べやすい。鴨の頭や足が添えられる盛り付けに驚く人もいる。",
+    "caution": "ごまアレルギー注意。落花生油使用。",
+    "similarItems": [
+      {
+        "id": "peking-duck",
+        "name": "北京ダック",
+        "difference": "北京ダックは皮を焼いて薄餅で包む。麻仁香酥鴨はごま衣で揚げて肉ごと食べる"
+      },
+      {
+        "id": "yong-zhou-xue-ya",
+        "name": "永州血鴨",
+        "difference": "永州血鴨は鴨を唐辛子と血で炒める激辛料理。麻仁香酥鴨は揚げ物で辛さ控えめ"
+      }
+    ],
+    "relatedIds": [
+      "peking-duck",
+      "yong-zhou-xue-ya",
+      "xiao-su-rou"
+    ],
+    "source": [
+      "https://baike.baidu.com/ja/item/%E6%B9%96%E5%8D%97%E6%96%99%E7%90%86/302721"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "ジビエ",
+      "揚げ物",
+      "サクサク",
+      "香ばしい",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "蒸し鶏",
+      "湯豆腐",
+      "白身魚の煮付け",
+      "サラダ"
+    ],
+    "avoidedBy": [
+      "ごまアレルギー",
+      "揚げ物を控えたい"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "hua-gu-wu-huang-dan",
+    "name": "花菇無黄蛋",
+    "kana": "かこむおうたん",
+    "aliases": [
+      "花菇无黄蛋",
+      "花菇無黄卵",
+      "黄身なし卵"
+    ],
+    "englishName": "Yolkless eggs with shiitake",
+    "originalName": "花菇无黄蛋",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "1930年代から知られる長沙の伝統名菜。卵の形を保ったまま黄身を除いた「黄身のない卵」を花菇（上質な椎茸）と合わせる、火加減が鍵の技巧料理。",
+    "menuDescription": "殻の形そのままに黄身だけを抜いて蒸し上げた驚きの卵料理。肉厚の花菇とともに上品な味わいで。",
+    "whatComesOut": [
+      "卵形に蒸し固めた白身だけの卵",
+      "煮含めた花菇（肉厚の椎茸）",
+      "上湯ベースのあんやスープ"
+    ],
+    "tasteAndTexture": [
+      "つるりと滑らかで非常に柔らかい白身",
+      "椎茸の濃い旨み",
+      "淡くやさしい塩味",
+      "辛味なし"
+    ],
+    "orderAdvice": "見た目の驚きと職人技を楽しむ料理。あっさりしているので辛い料理の合間に向く。提供店は限られる。",
+    "caution": "卵使用。",
+    "similarItems": [
+      {
+        "name": "茶碗蒸し",
+        "difference": "茶碗蒸しは卵液を出汁で割って蒸す。花菇無黄蛋は白身だけを卵形に蒸し固める"
+      },
+      {
+        "id": "kai-shui-bai-cai",
+        "name": "開水白菜",
+        "difference": "どちらも見た目は素朴で技巧を凝らした上品な料理。開水白菜は四川の白菜スープ"
+      }
+    ],
+    "relatedIds": [
+      "kai-shui-bai-cai"
+    ],
+    "source": [
+      "https://baike.baidu.com/ja/item/%E6%B9%96%E5%8D%97%E6%96%99%E7%90%86/302721"
+    ],
+    "tags": [
+      "中国料理",
+      "前菜",
+      "卵",
+      "きのこ",
+      "蒸し料理",
+      "あっさり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "激辛炒め",
+      "揚げ物",
+      "焼肉",
+      "スパイシーカレー"
+    ],
+    "avoidedBy": [
+      "卵アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 5,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hua-gu-wu-huang-dan/1.jpg",
+      "/images/dishes/hua-gu-wu-huang-dan/2.jpg",
+      "/images/dishes/hua-gu-wu-huang-dan/3.jpg"
+    ]
+  },
+  {
+    "id": "niu-zhong-san-jie",
+    "name": "牛中三傑",
+    "kana": "ぎゅうちゅうさんけつ",
+    "aliases": [
+      "牛中三杰",
+      "牛の中の三傑"
+    ],
+    "englishName": "Three heroes of beef (tripe, tendon, brain)",
+    "originalName": "牛中三杰",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "湖南"
+      }
+    ],
+    "summary": "長沙の老舗・李合盛の名物。髪のように細く切った牛センマイ（百頁）、紅焼の牛すじ、牛の脳の煮込みの三品を指す。劇作家・田漢が愛したことで知られる。",
+    "menuDescription": "細切りセンマイ、牛すじの醤油煮、牛脳の煮込みという牛の部位を楽しむ長沙伝統の三品。",
+    "whatComesOut": [
+      "極細切りの牛センマイ（百頁）の炒め物",
+      "紅焼牛すじ（醤油煮込み）",
+      "牛脳の煮込み",
+      "唐辛子・生姜・ねぎなどの薬味"
+    ],
+    "tasteAndTexture": [
+      "センマイのこりこり食感",
+      "とろっと柔らかい牛すじ",
+      "豆腐のようにクリーミーな牛脳",
+      "湖南らしい唐辛子の辛味"
+    ],
+    "orderAdvice": "ホルモン好き・冒険派向け。牛脳は好みが分かれる。三品セットなので複数人でシェア推奨。",
+    "caution": "牛の内臓・脳を使用。",
+    "similarItems": [
+      {
+        "id": "niu-jin-niu-bian",
+        "name": "牛筋牛鞭",
+        "difference": "牛筋牛鞭は牛すじと牛鞭の煮込み。牛中三傑はセンマイ・すじ・脳の三品"
+      },
+      {
+        "id": "hong-shao-zhu-nao",
+        "name": "紅焼猪脳",
+        "difference": "紅焼猪脳は豚の脳の醤油煮。牛中三傑は牛の脳を含む三品セット"
+      },
+      {
+        "id": "fu-qi-fei-pian",
+        "name": "夫妻肺片",
+        "difference": "夫妻肺片は牛モツの冷菜を麻辣だれで和える四川料理。牛中三傑は温かい炒め・煮込み"
+      }
+    ],
+    "relatedIds": [
+      "niu-jin-niu-bian",
+      "hong-shao-zhu-nao",
+      "fu-qi-fei-pian",
+      "mala-baodu-mian"
+    ],
+    "source": [
+      "https://baike.baidu.com/ja/item/%E6%B9%96%E5%8D%97%E6%96%99%E7%90%86/302721"
+    ],
+    "tags": [
+      "中国料理",
+      "主菜",
+      "牛肉",
+      "煮込み",
+      "炒め物",
+      "ピリ辛",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "鶏むね肉",
+      "白身魚のムニエル",
+      "野菜炒め",
+      "ヒレステーキ"
+    ],
+    "avoidedBy": [
+      "内臓肉が苦手",
+      "脳料理が苦手",
+      "辛いものが苦手"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 3,
+    "images": []
   }
 ]
