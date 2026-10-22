@@ -31535,6 +31535,7 @@
     "kana": "しゃしりっく",
     "aliases": [
       "シャシュリク",
+      "シャシリク",
       "Shashlyk"
     ],
     "englishName": "Shashlik",
@@ -236775,5 +236776,683 @@
     "images": [
       "/images/dishes/heringsstipp/1.jpg"
     ]
+  },
+  {
+    "id": "amok",
+    "name": "アモック",
+    "kana": "あもっく",
+    "aliases": [
+      "アモック・トレイ",
+      "フィッシュアモック",
+      "Amok Trey"
+    ],
+    "englishName": "Fish Amok",
+    "originalName": "អាម៉ុកត្រី",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "カンボジア"
+      }
+    ],
+    "summary": "雷魚などの淡水魚をクルーン（ハーブペースト）とココナッツミルク・卵で和え、バナナの葉の器で蒸したカンボジアを代表する料理。ムースのようにふんわり固まる甘くまろやかなカレー風味。",
+    "menuDescription": "雷魚などの川魚の切り身を、レモングラスやターメリックを練り合わせた黄色いクルーンとココナッツミルク、溶き卵と合わせ、ノニの葉を敷いたバナナの葉の器で蒸し上げたカンボジアの名物料理。茶碗蒸しのようにふんわりとした食感で、白いご飯とともに。",
+    "whatComesOut": [
+      "バナナの葉の器（またはココナッツの殻）に入った黄色い蒸し魚カレー",
+      "ふんわり固まった魚とココナッツミルクのムース",
+      "上にかかったココナッツクリームと細切りのコブミカンの葉や赤唐辛子",
+      "白いご飯"
+    ],
+    "tasteAndTexture": [
+      "ココナッツミルクの甘くまろやかなコク",
+      "レモングラスやコブミカンの爽やかな香り",
+      "茶碗蒸しのようなふわふわ食感（スープカレー風のタイプもある）",
+      "辛さは控えめでマイルド"
+    ],
+    "orderAdvice": "カンボジア料理の入門として真っ先に頼みたい一品。辛さが穏やかで甘くまろやかなので初めてでも食べやすい。蒸して固めたタイプとスープカレー風のタイプがあり、魚の代わりに鶏肉のバージョンもある。",
+    "caution": "魚・卵・ココナッツを使用。魚醤やプラホックで味付けされることもあり魚介アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "ho-mok-thale",
+        "name": "ホーモック・タレー",
+        "difference": "どちらもココナッツミルクとカレーペーストの蒸し料理。ホーモックはタイ料理で赤いカレーペースト使用、辛さが強め"
+      },
+      {
+        "id": "green-curry",
+        "name": "グリーンカレー",
+        "difference": "グリーンカレーはタイの煮込みカレーでスープ状かつ辛い。アモックは蒸して固め、辛さ控えめ"
+      },
+      {
+        "name": "茶碗蒸し",
+        "difference": "卵で蒸し固める点は共通だが、茶碗蒸しは出汁味。アモックはココナッツとハーブのカレー風味"
+      }
+    ],
+    "relatedIds": [
+      "ho-mok-thale",
+      "green-curry",
+      "lemongrass",
+      "turmeric",
+      "lok-lak"
+    ],
+    "source": [
+      "https://travel.asean.or.jp/cambodia/538/",
+      "https://en.wikipedia.org/wiki/Fish_amok",
+      "https://ja.wikipedia.org/wiki/カンボジア料理"
+    ],
+    "tags": [
+      "東南アジア料理",
+      "主菜",
+      "魚介",
+      "蒸し料理",
+      "クリーミー",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "グリル",
+      "あっさり",
+      "牛肉",
+      "揚げ物"
+    ],
+    "avoidedBy": [
+      "魚介アレルギー",
+      "卵アレルギー",
+      "ココナッツが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/amok/1.jpg",
+      "/images/dishes/amok/2.jpg",
+      "/images/dishes/amok/3.jpg"
+    ]
+  },
+  {
+    "id": "lok-lak",
+    "name": "ロックラック",
+    "kana": "ろっくらっく",
+    "aliases": [
+      "ビーフロックラック",
+      "ルックラック",
+      "Beef Lok Lak"
+    ],
+    "englishName": "Lok Lak",
+    "originalName": "ឡុកឡាក់",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "カンボジア"
+      }
+    ],
+    "summary": "サイコロ状に切った牛肉を甘辛いタレに漬けてさっと炒めたカンボジア風サイコロステーキ。黒胡椒とライム汁のソースを付けて食べる。",
+    "menuDescription": "ひと口大に切った牛肉をオイスターソースなどの甘辛いタレでマリネし、強火で手早く炒めたカンボジアの定番料理。レタス・トマト・キュウリ・赤玉ねぎの上に盛り付け、黒胡椒にライム汁を搾ったディップソースでさっぱりと。ご飯や目玉焼きを添えることも多い。",
+    "whatComesOut": [
+      "甘辛く炒めたサイコロ状の牛肉",
+      "レタス・トマト・キュウリ・生の赤玉ねぎ",
+      "黒胡椒・塩・ライム汁のディップソース（トゥック・メレック）",
+      "白いご飯（目玉焼きがのることもある）"
+    ],
+    "tasteAndTexture": [
+      "牛肉はジューシーで甘辛い醤油系の味付け",
+      "黒胡椒とライムのソースがピリッと爽やか",
+      "生野菜のシャキシャキ感",
+      "唐辛子の辛さはほとんどない"
+    ],
+    "orderAdvice": "万人受けする味でカンボジアの食堂やレストランならどこにでもある定番。肉料理が食べたい時や、クセのない料理を選びたい時に最適。ベトナムのボー・ルックラックと起源を同じくする料理。",
+    "caution": "オイスターソースや魚醤を使うことがある。",
+    "similarItems": [
+      {
+        "id": "steak",
+        "name": "ステーキ",
+        "difference": "ステーキは塊肉を焼く洋食。ロックラックは角切り肉を甘辛く炒め、黒胡椒ライムソースで食べる"
+      },
+      {
+        "name": "ボー・ルックラック",
+        "difference": "ベトナム版の同系統料理（シェイキングビーフ）。カンボジア版はライム胡椒ソースと生野菜を添えるのが定番"
+      },
+      {
+        "id": "gai-yang",
+        "name": "ガイヤーン",
+        "difference": "ガイヤーンはタイの鶏の炭火焼き。ロックラックは牛肉の炒め物"
+      }
+    ],
+    "relatedIds": [
+      "steak",
+      "black-pepper",
+      "lime",
+      "amok"
+    ],
+    "source": [
+      "https://travel.asean.or.jp/cambodia/538/",
+      "https://en.wikipedia.org/wiki/Lok_lak",
+      "https://ja.wikipedia.org/wiki/カンボジア料理"
+    ],
+    "tags": [
+      "東南アジア料理",
+      "主菜",
+      "牛肉",
+      "炒め物",
+      "ジューシー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "魚介",
+      "スープ",
+      "野菜",
+      "蒸し料理"
+    ],
+    "avoidedBy": [
+      "牛肉不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/lok-lak/1.jpg",
+      "/images/dishes/lok-lak/2.jpg",
+      "/images/dishes/lok-lak/3.jpg"
+    ]
+  },
+  {
+    "id": "samlor-machu",
+    "name": "ソムロー・マチュー",
+    "kana": "そむろーまちゅー",
+    "aliases": [
+      "ソムロー",
+      "ソムロー・ムチュー",
+      "サムロー・マチュー",
+      "カンボジアの酸っぱいスープ"
+    ],
+    "englishName": "Samlor Machu",
+    "originalName": "សម្លម្ជូរ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "カンボジア"
+      }
+    ],
+    "summary": "タマリンドなどで酸味を付けたカンボジアの酸っぱいスープの総称。鶏肉・豚肉・魚などの具材と野菜を煮込み、ご飯と一緒に食べる。",
+    "menuDescription": "「ソムロー」はクメール語でスープ、「マチュー」は酸っぱいの意。タマリンドの酸味をベースに、トマトやパイナップル、空芯菜などの野菜と鶏肉・豚肉・川魚を煮込んだ家庭の味。野菜の甘みを生かした優しい酸っぱさで、ご飯にかけたり添えたりして食べる。",
+    "whatComesOut": [
+      "酸味の効いた澄んだスープ（またはクルーン入りの黄色いスープ）",
+      "鶏肉・豚肉・魚などの具",
+      "トマト・パイナップル・空芯菜などの野菜",
+      "白いご飯"
+    ],
+    "tasteAndTexture": [
+      "タマリンドの穏やかでフルーティな酸味",
+      "玉ねぎやパイナップル由来の優しい甘み",
+      "トムヤムクンほど辛くなくあっさり",
+      "ハーブの爽やかな香り"
+    ],
+    "orderAdvice": "カンボジアの食卓で毎日のように食べられるスープ。辛いものが苦手でもトムヤムより飲みやすい。カレー風味の「ソムロー・カリー」など種類が多いので、店では具材や種類を確認して選ぶとよい。ご飯と一緒に頼むのがカンボジア流。",
+    "caution": "魚醤やプラホックで味付けされることが多く、魚介アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "tom-yum-goong",
+        "name": "トムヤムクン",
+        "difference": "トムヤムクンはタイの辛酸っぱいエビスープ。ソムロー・マチューはタマリンドの酸味主体で辛さ控えめ"
+      },
+      {
+        "id": "gaeng-som",
+        "name": "ゲーン・ソム",
+        "difference": "どちらもタマリンド系の酸っぱいスープだが、ゲーン・ソムはタイ料理で唐辛子がしっかり効く"
+      },
+      {
+        "name": "カンチュア",
+        "difference": "ベトナムの酸っぱいスープ。パイナップルやタマリンドを使う点で近く、同じメコン流域の料理"
+      }
+    ],
+    "relatedIds": [
+      "tom-yum-goong",
+      "gaeng-som",
+      "tamarind",
+      "prahok"
+    ],
+    "source": [
+      "https://travel.asean.or.jp/cambodia/538/",
+      "https://en.wikipedia.org/wiki/Samlar_machu"
+    ],
+    "tags": [
+      "東南アジア料理",
+      "スープ",
+      "野菜",
+      "煮込み",
+      "酸味",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "こってり",
+      "クリーミー",
+      "揚げ物",
+      "甘み"
+    ],
+    "avoidedBy": [
+      "酸っぱいものが苦手",
+      "魚介アレルギー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/samlor-machu/1.jpg",
+      "/images/dishes/samlor-machu/2.jpg"
+    ]
+  },
+  {
+    "id": "prahok",
+    "name": "プラホック",
+    "kana": "ぷらほっく",
+    "aliases": [
+      "プロホック",
+      "Prahok"
+    ],
+    "englishName": "Prahok",
+    "originalName": "ប្រហុក",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "カンボジア"
+      }
+    ],
+    "summary": "塩漬けにした川魚（主に雷魚）を発酵させたカンボジアの魚ペースト。調味料としてほぼあらゆるクメール料理に使われ、そのままご飯や焼き魚に付けても食べる。",
+    "menuDescription": "雷魚などの淡水魚を塩漬けにし、発酵・熟成させたカンボジアの伝統的な発酵調味料。スープや炒め物の味の土台になるほか、豚ひき肉やココナッツミルクと煮込んだディップ「プラホック・クティス」、バナナの葉で包み焼きにした「プラホック・アン」など単品料理としても供される。",
+    "whatComesOut": [
+      "灰色〜茶色の発酵魚ペースト（調味料として料理に含まれる）",
+      "プラホック・クティスなどのディップ料理として出る場合は生野菜（キュウリ・ナスなど）",
+      "白いご飯や焼き魚"
+    ],
+    "tasteAndTexture": [
+      "強烈な塩気と発酵由来の濃厚な旨味",
+      "チーズやアンチョビを思わせる独特の強い香り",
+      "ペーストはねっとり、魚の身や骨が残るものもある",
+      "加熱するとクセが和らぎ料理にコクを与える"
+    ],
+    "orderAdvice": "独特のクセがあり好みが分かれるが、慣れると病みつきになるカンボジアの味の核。初めてなら生のペーストより、豚肉やココナッツミルクと煮込んだプラホック・クティスなど加熱した料理で試すのがおすすめ。",
+    "caution": "魚の発酵食品。魚アレルギーの人は不可。塩分が非常に高い。屋台の生のものは衛生面にも注意。",
+    "similarItems": [
+      {
+        "id": "nam-pla",
+        "name": "ナンプラー",
+        "difference": "ナンプラーは海の魚を発酵させた液体の魚醤。プラホックは川魚を発酵させたペースト状で、より香りが強い"
+      },
+      {
+        "id": "anchovy",
+        "name": "アンチョビ",
+        "difference": "アンチョビはカタクチイワシの塩漬けをオイル漬けにしたもの。プラホックは淡水魚を発酵させたペースト"
+      },
+      {
+        "id": "kusaya",
+        "name": "くさや",
+        "difference": "どちらも強烈な発酵臭の魚食品だが、くさやは干物で焼いて食べ、プラホックは調味ペースト"
+      },
+      {
+        "name": "パーデーク／プラーラー",
+        "difference": "ラオス・タイ東北部の同系統の発酵魚調味料で、プラホックとほぼ同じ役割を持つ"
+      }
+    ],
+    "relatedIds": [
+      "nam-pla",
+      "anchovy",
+      "kusaya",
+      "funazushi",
+      "samlor-machu"
+    ],
+    "source": [
+      "https://travel.asean.or.jp/cambodia/538/",
+      "https://en.wikipedia.org/wiki/Prahok",
+      "https://en.wikipedia.org/wiki/Cambodian_cuisine"
+    ],
+    "tags": [
+      "東南アジア料理",
+      "調味料",
+      "魚介",
+      "発酵",
+      "こってり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "あっさり",
+      "甘み",
+      "果物",
+      "乳製品"
+    ],
+    "avoidedBy": [
+      "魚介アレルギー",
+      "発酵食品の匂いが苦手",
+      "塩分制限中"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/prahok/1.jpg",
+      "/images/dishes/prahok/2.jpg",
+      "/images/dishes/prahok/3.jpg"
+    ]
+  },
+  {
+    "id": "natang",
+    "name": "ナタン",
+    "kana": "なたん",
+    "aliases": [
+      "ノムバイ・ナタン",
+      "Natang"
+    ],
+    "englishName": "Natang",
+    "originalName": "ណាតាំង",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "カンボジア"
+      }
+    ],
+    "summary": "豚ひき肉とエビ、赤唐辛子、レモングラスなどを和えたペーストを、サクサクのライスクラッカーにのせて食べるカンボジアの前菜。",
+    "menuDescription": "豚ひき肉と刻んだエビをレモングラスや赤唐辛子などのハーブと合わせて煮た、ココナッツの風味を感じるペースト状のディップ。揚げたおこげのようなサクサクのライスクラッカーにのせていただくカンボジアの定番前菜で、ビールやワインのお供にぴったり。",
+    "whatComesOut": [
+      "豚ひき肉とエビのディップペースト（小鉢）",
+      "揚げたライスクラッカー（おこげ煎餅）",
+      "添え物の香草や生野菜が付くこともある"
+    ],
+    "tasteAndTexture": [
+      "豚肉とエビの濃厚な旨味",
+      "レモングラスの爽やかな香りと唐辛子のほのかな辛さ",
+      "ライスクラッカーのサクサクと香ばしい食感",
+      "ほんのり甘いまろやかな味付け"
+    ],
+    "orderAdvice": "シェアしやすい前菜で、お酒のつまみに最適。辛さは控えめで食べやすく、カンボジア料理店で最初の一皿に頼むとよい。",
+    "caution": "エビ（甲殻類）を使用。ココナッツミルクを使う場合もある。",
+    "similarItems": [
+      {
+        "name": "カオタン・ナータン",
+        "difference": "タイの同系統料理（ライスクラッカーに豚肉ココナッツディップ）。名前も起源も近い"
+      },
+      {
+        "name": "えびせん＆ディップ",
+        "difference": "揚げせんべいにディップを付ける形式は同じだが、ナタンは米のクラッカーに豚とエビの具だくさんペースト"
+      }
+    ],
+    "relatedIds": [
+      "lemongrass",
+      "amok",
+      "lok-lak"
+    ],
+    "source": [
+      "https://travel.asean.or.jp/cambodia/538/"
+    ],
+    "tags": [
+      "東南アジア料理",
+      "前菜",
+      "豚肉",
+      "サクサク",
+      "香ばしい",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "スープ",
+      "あっさり",
+      "蒸し料理",
+      "野菜"
+    ],
+    "avoidedBy": [
+      "甲殻類アレルギー",
+      "豚肉不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/natang/1.jpg"
+    ]
+  },
+  {
+    "id": "kuy-teav",
+    "name": "クイティウ",
+    "kana": "くいてぃう",
+    "aliases": [
+      "クイテウ",
+      "クイティアウ",
+      "Kuyteav",
+      "Kuy Teav"
+    ],
+    "englishName": "Kuyteav",
+    "originalName": "គុយទាវ",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "カンボジア"
+      }
+    ],
+    "summary": "豚骨ベースのあっさりした澄んだスープに米麺を合わせたカンボジアの国民的スープ麺。朝食の定番で、具材の種類が豊富なのが特徴。",
+    "menuDescription": "豚骨や鶏ガラでとった澄んだスープに米麺を入れ、肉団子・薄切り肉・ひき肉・モツなど好みの具材をのせたカンボジアの朝ごはんの定番麺。卓上のライム、黒胡椒、唐辛子、揚げニンニク油、もやしや香草で自分好みの味に仕上げる。汁なし和え麺の「クイティウ・コー」もある。",
+    "whatComesOut": [
+      "澄んだ豚骨（鶏ガラ）スープの米麺",
+      "肉団子・薄切り豚肉・ひき肉・モツ・エビなどの具",
+      "もやし・レタス・青ネギ・パクチーなどの香草",
+      "ライム・黒胡椒・唐辛子・揚げニンニク油などの卓上調味料"
+    ],
+    "tasteAndTexture": [
+      "スープは辛さのない優しくあっさりした味",
+      "米麺はつるりと喉ごしがよい",
+      "ライム・胡椒・ニンニクで味の輪郭を自分で作る",
+      "もやしや香草のシャキシャキ感"
+    ],
+    "orderAdvice": "辛くなくクセも少ないので初めてのカンボジア料理に最適。現地では朝食として食べられ、屋台は昼前に売り切れることも多い。暑い日は汁なしのクイティウ・コーも人気。",
+    "caution": "内臓系の具がのることがあるので苦手なら注文時に確認を。魚醤を使う場合あり。",
+    "similarItems": [
+      {
+        "id": "kuai-tiao",
+        "name": "クイッティアオ",
+        "difference": "タイの同系統米麺スープ。名称の語源は同じ（粿條）だが、カンボジア版は豚骨スープの朝食麺として定着"
+      },
+      {
+        "id": "hu-tieu-nam-vang",
+        "name": "フーティウ・ナムヴァン",
+        "difference": "「プノンペン風フーティウ」の意で、クイティウがベトナムに伝わった料理。エビや豚レバーなど具がより豪華"
+      },
+      {
+        "id": "pho",
+        "name": "フォー",
+        "difference": "フォーはベトナムの牛骨スープ麺でスターアニスが香る。クイティウは豚骨ベースでより淡泊"
+      }
+    ],
+    "relatedIds": [
+      "kuai-tiao",
+      "hu-tieu-nam-vang",
+      "pho",
+      "khao-tom"
+    ],
+    "source": [
+      "https://travel.asean.or.jp/cambodia/538/",
+      "https://en.wikipedia.org/wiki/Kuyteav",
+      "https://ja.wikipedia.org/wiki/カンボジア料理"
+    ],
+    "tags": [
+      "東南アジア料理",
+      "麺料理",
+      "豚肉",
+      "米",
+      "あっさり",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "こってり",
+      "ピリ辛",
+      "パスタ",
+      "揚げ物"
+    ],
+    "avoidedBy": [
+      "豚肉不可",
+      "内臓が苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/kuy-teav/1.jpg",
+      "/images/dishes/kuy-teav/2.jpg",
+      "/images/dishes/kuy-teav/3.jpg"
+    ]
+  },
+  {
+    "id": "chhnang-dey",
+    "name": "チュナンダイ",
+    "kana": "ちゅなんだい",
+    "aliases": [
+      "チュナン・ダイ",
+      "カンボジア鍋",
+      "Chhnang Dae"
+    ],
+    "englishName": "Chhnang Dey",
+    "originalName": "ឆ្នាំងដី",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "カンボジア"
+      }
+    ],
+    "summary": "土鍋（チュナン＝鍋、ダイ＝土）で牛・豚・鶏肉や野菜、キノコ、春雨を煮るカンボジアの鍋料理。スープは味付けせず、店ごとの特製ダレに付けて食べる。",
+    "menuDescription": "土鍋に張ったスープで、牛肉・豚肉・鶏肉などの肉類と、たっぷりの野菜、キノコ、春雨を煮ながら食べるカンボジアの鍋料理。スープは基本的に味付けをせず、各店自慢の特製ダレに付けていただく。大人数で囲むのが楽しい一品。",
+    "whatComesOut": [
+      "卓上コンロにのせた土鍋とスープ",
+      "牛肉・豚肉・鶏肉などの生の肉類",
+      "葉野菜・キノコ・春雨などの具材",
+      "店特製のつけダレ"
+    ],
+    "tasteAndTexture": [
+      "スープは素朴であっさり",
+      "味の決め手は甘酸っぱい・ピリ辛などのつけダレ",
+      "具材から出る旨味で後半ほどスープが濃くなる"
+    ],
+    "orderAdvice": "日本のしゃぶしゃぶや寄せ鍋に近い感覚で、複数人での食事に向く。タレで辛さを調節できるので辛いものが苦手でも安心。1人だと量が多いことが多い。",
+    "similarItems": [
+      {
+        "id": "shabu-shabu",
+        "name": "しゃぶしゃぶ",
+        "difference": "どちらも味付けの薄いスープで具を煮てタレに付けるが、チュナンダイは土鍋で多様な肉と春雨を煮込む"
+      },
+      {
+        "id": "thai-suki",
+        "name": "タイスキ",
+        "difference": "タイスキはタイの鍋で、甘酸っぱいスキダレで食べる。スタイルはよく似ている"
+      },
+      {
+        "id": "huo-guo",
+        "name": "火鍋",
+        "difference": "火鍋は中国の鍋で麻辣スープが特徴。チュナンダイはスープ自体には味をほぼ付けない"
+      }
+    ],
+    "relatedIds": [
+      "shabu-shabu",
+      "thai-suki",
+      "huo-guo",
+      "cambodian-barbecue"
+    ],
+    "source": [
+      "https://travel.asean.or.jp/cambodia/538/"
+    ],
+    "tags": [
+      "東南アジア料理",
+      "鍋料理",
+      "牛肉",
+      "野菜",
+      "あっさり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "揚げ物",
+      "こってり",
+      "パン",
+      "グリル"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": []
+  },
+  {
+    "id": "cambodian-barbecue",
+    "name": "カンボジアンバーベキュー",
+    "kana": "かんぼじあんばーべきゅー",
+    "aliases": [
+      "カンボジア風焼き肉",
+      "カンボジアBBQ",
+      "Cambodian Barbeque"
+    ],
+    "englishName": "Cambodian Barbecue",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "カンボジア"
+      }
+    ],
+    "summary": "ジンギスカン鍋に似たドーム型の鉄鍋を使うカンボジア風焼き肉。中央で肉やシーフードを焼き、縁に張ったスープで野菜や麺を煮て、焼き肉と鍋を同時に楽しむ。",
+    "menuDescription": "中央が盛り上がったドーム型の鉄鍋を卓上で熱し、頂上部で牛肉・豚肉・シーフードなどを焼き、周囲の溝に張ったスープで野菜や麺を煮込むカンボジアのスタイル。肉の脂と旨味がスープに流れ込み、焼き肉と鍋の両方を一度に味わえる。",
+    "whatComesOut": [
+      "卓上コンロにのせたドーム型の鉄鍋と周囲のスープ",
+      "牛肉・豚肉・鶏肉・エビやイカなどのシーフード",
+      "葉野菜・キノコ・麺などの鍋の具",
+      "つけダレ（ライム胡椒ダレや甘辛ダレなど）"
+    ],
+    "tasteAndTexture": [
+      "焼いた肉の香ばしさとジューシーさ",
+      "肉の脂と旨味が溶け込んだスープの濃いコク",
+      "タレで甘辛・酸味など好みの味に調節できる"
+    ],
+    "orderAdvice": "仲間とわいわい楽しむ食べ放題形式の店も多く、グループでの夕食に向く。焼き肉も鍋も食べたい欲張りな人に最適。ひとり利用には不向き。",
+    "caution": "シーフードを含むセットが多いので甲殻類アレルギーの人は確認を。",
+    "similarItems": [
+      {
+        "id": "jingisukan-hokkaido",
+        "name": "ジンギスカン",
+        "difference": "ドーム型鍋の形はそっくりだが、ジンギスカンは羊肉を焼く北海道の料理。カンボジア版は多種の肉と縁のスープが特徴"
+      },
+      {
+        "name": "ムーガタ",
+        "difference": "タイの同系統料理で、ドーム型鍋で焼きながら縁で煮る形式はほぼ同じ"
+      },
+      {
+        "id": "samgyeopsal",
+        "name": "サムギョプサル",
+        "difference": "サムギョプサルは韓国の豚バラ焼き肉で鍋の要素はない"
+      }
+    ],
+    "relatedIds": [
+      "jingisukan-hokkaido",
+      "samgyeopsal",
+      "chhnang-dey",
+      "thai-suki"
+    ],
+    "source": [
+      "https://travel.asean.or.jp/cambodia/538/"
+    ],
+    "tags": [
+      "東南アジア料理",
+      "主菜",
+      "牛肉",
+      "焼き物",
+      "ジューシー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "あっさり",
+      "蒸し料理",
+      "サラダ",
+      "デザート"
+    ],
+    "avoidedBy": [
+      "甲殻類アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": []
   }
 ]
