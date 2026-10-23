@@ -238776,5 +238776,455 @@
     "heavinessScore": 4,
     "spicinessScore": 3,
     "images": []
+  },
+  {
+    "id": "dal-bhat",
+    "name": "ダルバート",
+    "kana": "だるばーと",
+    "aliases": [
+      "ダル・バート",
+      "ダルバート・タルカリ",
+      "ダル・チャワル"
+    ],
+    "englishName": "Dal bhat",
+    "originalName": "दाल भात",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ネパール"
+      }
+    ],
+    "summary": "ネパールの国民食。ダル（豆スープ）とバート（ご飯）を軸に、タルカリ（野菜カレー）やアチャール（漬物）、肉のカレーを添えて食べる定食スタイルの日常食。",
+    "menuDescription": "レンズ豆のスープとご飯に、野菜のおかず・漬物・チキンやマトンのカレーを一皿に盛り合わせたネパールの家庭定食。",
+    "whatComesOut": [
+      "インディカ米のご飯（バート）",
+      "レンズ豆のスープ（ダル）",
+      "野菜のスパイス炒め煮（タルカリ）",
+      "アチャール（漬物）",
+      "鶏肉や羊肉のカレー（付く場合あり）"
+    ],
+    "tasteAndTexture": [
+      "豆の優しい旨味とスパイスの香り",
+      "インド料理より控えめな辛さ・油分",
+      "パラッとした長粒米",
+      "アチャールの酸味と辛味がアクセント"
+    ],
+    "orderAdvice": "ネパール料理店の定番。全体を少しずつ混ぜて食べるのが現地流。おかわり自由の店も多く、満腹になりたい時に最適。",
+    "caution": "店により辛さが異なる。肉カレーは鶏・羊・水牛が多い。",
+    "similarItems": [
+      {
+        "id": "dal",
+        "name": "ダル",
+        "difference": "ダルは豆スープ単体。ダルバートはご飯とおかずを組み合わせた定食"
+      },
+      {
+        "id": "dal-khichuri",
+        "name": "ダルキチュリ",
+        "difference": "ダルキチュリは豆と米を一緒に炊いた粥状の料理。ダルバートは別々に盛る"
+      },
+      {
+        "name": "ミールス",
+        "difference": "南インドの定食。ダルバートより汁物が多く、バナナリーフに盛られることも"
+      }
+    ],
+    "relatedIds": [
+      "dal",
+      "achar",
+      "dal-khichuri",
+      "momo",
+      "chapati"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2802",
+      "https://en.wikipedia.org/wiki/Dal_bhat",
+      "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E6%96%99%E7%90%86"
+    ],
+    "tags": [
+      "アジア料理",
+      "ご飯もの",
+      "豆類",
+      "米",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ステーキ",
+      "ハンバーガー",
+      "フライドチキン",
+      "パスタ"
+    ],
+    "avoidedBy": [
+      "辛いものが苦手",
+      "スパイスが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/dal-bhat/1.jpg",
+      "/images/dishes/dal-bhat/2.jpg",
+      "/images/dishes/dal-bhat/3.jpg"
+    ]
+  },
+  {
+    "id": "bara-nepal",
+    "name": "バラ",
+    "kana": "ばら",
+    "aliases": [
+      "ウォー",
+      "ワー",
+      "Woh",
+      "ネパール風お好み焼き"
+    ],
+    "englishName": "Bara (lentil pancake)",
+    "originalName": "बारा / वः",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ネパール",
+        "area": "カトマンズ盆地"
+      }
+    ],
+    "summary": "ネワール族の伝統料理で、レンズ豆などの豆をすりつぶした生地を焼いた（または揚げた）パンケーキ。肉や卵をのせることもあり、日本のお好み焼きにも例えられる。",
+    "menuDescription": "挽いた豆の生地を香ばしく焼いたネワール風パンケーキ。挽き肉や卵をのせたトッピングも人気。",
+    "whatComesOut": [
+      "直径10cm前後の豆のパンケーキ",
+      "卵や挽き肉のトッピング（選択式の場合あり）",
+      "アチャールなどのディップ"
+    ],
+    "tasteAndTexture": [
+      "縁はサクサク、中はしっとり",
+      "豆の香ばしさと素朴な旨味",
+      "クミンやしょうがのほのかな香り",
+      "辛さは控えめ"
+    ],
+    "orderAdvice": "おつまみ・軽食向け。辛くないのでネパール料理初心者にも食べやすい。卵のせ（アンダ・バラ）はボリュームアップ。",
+    "caution": "豆類を使用。トッピングに卵・肉を含む場合あり。",
+    "similarItems": [
+      {
+        "id": "okonomiyaki",
+        "name": "お好み焼き",
+        "difference": "お好み焼きは小麦粉とキャベツの生地。バラは豆の生地"
+      },
+      {
+        "id": "buchimgae",
+        "name": "チヂミ",
+        "difference": "チヂミは小麦粉主体でもちもち。バラは豆主体でサクッと素朴"
+      },
+      {
+        "id": "pakora",
+        "name": "パコラ",
+        "difference": "パコラはひよこ豆粉の衣で野菜を揚げる。バラは豆生地そのものを円盤状に焼く"
+      }
+    ],
+    "relatedIds": [
+      "okonomiyaki",
+      "buchimgae",
+      "pakora",
+      "dal-bhat",
+      "momo"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2802",
+      "https://en.wikipedia.org/wiki/Newar_cuisine",
+      "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E6%96%99%E7%90%86"
+    ],
+    "tags": [
+      "アジア料理",
+      "軽食",
+      "豆類",
+      "焼き物",
+      "香ばしい",
+      "サクサク",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "生クリーム",
+      "チーズケーキ",
+      "刺身",
+      "ラーメン"
+    ],
+    "avoidedBy": [
+      "豆アレルギー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/bara-nepal/1.jpg",
+      "/images/dishes/bara-nepal/2.jpg"
+    ]
+  },
+  {
+    "id": "buff-chilli",
+    "name": "バフチリ",
+    "kana": "ばふちり",
+    "aliases": [
+      "バッファローチリ",
+      "Buff Chilli"
+    ],
+    "englishName": "Buff chilli",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ネパール"
+      }
+    ],
+    "summary": "下味をつけた水牛肉（干し肉を使うことも）をトマト・にんにく・玉ねぎ・ピーマンと炒め、チリソースで味付けしたネパールの酒肴。甘くないエビチリのような味わい。",
+    "menuDescription": "スパイスで下味をつけた水牛肉を野菜と炒め、ピリッとしたチリソースで仕上げたネパールの定番おつまみ。",
+    "whatComesOut": [
+      "一口大の水牛肉の炒め物",
+      "玉ねぎ・ピーマン・トマト",
+      "チリソースのとろみ",
+      "青唐辛子や香菜（店による）"
+    ],
+    "tasteAndTexture": [
+      "噛み応えのある水牛肉",
+      "唐辛子とにんにくのパンチ",
+      "トマトのほのかな酸味",
+      "甘さ控えめで酒が進む"
+    ],
+    "orderAdvice": "ビールや酒のつまみに最適。水牛肉は牛肉より赤身で歯応えあり。辛さを抑えたい場合は注文時に相談。",
+    "caution": "水牛肉を使用。店によっては鶏肉（チキンチリ）で代用。",
+    "similarItems": [
+      {
+        "id": "gan-shao-xia-ren",
+        "name": "エビチリ（干焼蝦仁）",
+        "difference": "エビチリは海老で甘酸っぱい。バフチリは水牛肉で甘みが少ない"
+      },
+      {
+        "id": "hui-guo-rou",
+        "name": "回鍋肉",
+        "difference": "回鍋肉は豚肉と甜麺醤の甘辛。バフチリはチリソースの辛味主体"
+      },
+      {
+        "id": "chili-con-carne",
+        "name": "チリコンカン",
+        "difference": "チリコンカンは挽き肉と豆の煮込み。バフチリは肉片の炒め物"
+      }
+    ],
+    "relatedIds": [
+      "gan-shao-xia-ren",
+      "hui-guo-rou",
+      "momo",
+      "dal-bhat"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2802",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine",
+      "https://en.wikipedia.org/wiki/Newar_cuisine"
+    ],
+    "tags": [
+      "アジア料理",
+      "主菜",
+      "牛肉",
+      "炒め物",
+      "ピリ辛",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "白身魚",
+      "クリームシチュー",
+      "茶碗蒸し",
+      "豆腐"
+    ],
+    "avoidedBy": [
+      "辛いものが苦手",
+      "赤身肉が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": []
+  },
+  {
+    "id": "sel-roti",
+    "name": "セルロティ",
+    "kana": "せるろてぃ",
+    "aliases": [
+      "セル・ロティ",
+      "Sel roti"
+    ],
+    "englishName": "Sel roti",
+    "originalName": "सेल रोटी",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ネパール"
+      }
+    ],
+    "summary": "水に浸した米をすりつぶした生地を輪状にして揚げたネパールの伝統菓子。ダサインやティハールなどの祭りで作られる、細いドーナツのような甘い揚げパン。",
+    "menuDescription": "米粉の生地に砂糖とギーを加え、リング状に揚げたネパールのお祭りドーナツ。",
+    "whatComesOut": [
+      "細いリング状の揚げ菓子",
+      "ヨーグルトやアチャール（添える場合あり）",
+      "チヤ（ミルクティー）と一緒に出ることも"
+    ],
+    "tasteAndTexture": [
+      "外はカリッと、中はもっちり",
+      "米粉ならではの軽い甘さ",
+      "ギーのコク",
+      "日本のドーナツより細く素朴"
+    ],
+    "orderAdvice": "デザートやお茶請けに。甘さ控えめで、軽食として朝食や間食にも合う。",
+    "caution": "揚げ菓子。ギー（乳脂肪）を使用する場合あり。",
+    "similarItems": [
+      {
+        "id": "donut",
+        "name": "ドーナツ",
+        "difference": "ドーナツは小麦粉生地で太め。セルロティは米粉生地で細くもちっと"
+      },
+      {
+        "id": "churros",
+        "name": "チュロス",
+        "difference": "チュロスは小麦粉生地を棒状に絞り出す。セルロティは米粉で輪状"
+      },
+      {
+        "id": "oliebollen",
+        "name": "オリボーレン",
+        "difference": "オリボーレンは小麦粉の丸い揚げ菓子で年越し用。セルロティは米粉でティハール用"
+      }
+    ],
+    "relatedIds": [
+      "donut",
+      "churros",
+      "oliebollen",
+      "ghee",
+      "dal-bhat"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2802",
+      "https://en.wikipedia.org/wiki/Sel_roti",
+      "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%BB%E3%83%AD%E3%83%86%E3%82%A3"
+    ],
+    "tags": [
+      "アジア料理",
+      "菓子",
+      "米",
+      "揚げ物",
+      "甘み",
+      "もちもち",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "塩辛",
+      "激辛ラーメン",
+      "ステーキ",
+      "ブルーチーズ"
+    ],
+    "avoidedBy": [
+      "乳製品不可",
+      "揚げ物が苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sel-roti/1.jpg",
+      "/images/dishes/sel-roti/2.jpg",
+      "/images/dishes/sel-roti/3.jpg"
+    ]
+  },
+  {
+    "id": "thukpa",
+    "name": "トゥクパ",
+    "kana": "とぅくぱ",
+    "aliases": [
+      "トゥパ",
+      "Thukpa",
+      "テントゥク"
+    ],
+    "englishName": "Thukpa",
+    "originalName": "ཐུག་པ་",
+    "category": "料理",
+    "regions": [
+      {
+        "area": "チベット"
+      },
+      {
+        "country": "ネパール"
+      },
+      {
+        "country": "ブータン"
+      }
+    ],
+    "summary": "チベット東部発祥のスープ麺。ネパールやブータン、インドのラダック・シッキムでも親しまれ、鶏肉や水牛肉のスパイスの効いたスープに麺と野菜をたっぷり入れる。",
+    "menuDescription": "スパイスが香る鶏や水牛のスープに、麺と野菜をたっぷり入れたチベット・ネパールの温かい麺料理。",
+    "whatComesOut": [
+      "丼に入ったスープ麺",
+      "小麦麺（うどん状・平打ちなど）",
+      "鶏肉や水牛肉",
+      "キャベツ・人参・玉ねぎなどの野菜",
+      "香菜やねぎ（店による）"
+    ],
+    "tasteAndTexture": [
+      "スパイスとしょうがの効いた温かいスープ",
+      "うどんに似たもちっとした麺",
+      "野菜の甘み",
+      "体が芯から温まる"
+    ],
+    "orderAdvice": "寒い日やさっぱり食べたい時に。辛さは控えめな店が多く、日本人の口に合いやすい。ベジタリアン版もあり。",
+    "caution": "小麦を使用。",
+    "similarItems": [
+      {
+        "id": "udon",
+        "name": "うどん",
+        "difference": "うどんは出汁と醤油ベース。トゥクパはスパイスの効いた肉スープ"
+      },
+      {
+        "id": "lagman",
+        "name": "ラグマン",
+        "difference": "ラグマンは中央アジアの手延べ麺でトマト系の具が多い。トゥクパはスープ主体"
+      },
+      {
+        "id": "beef-noodle-soup",
+        "name": "牛肉麺",
+        "difference": "牛肉麺は牛骨・醤油系スープで台湾風。トゥクパは鶏・水牛でスパイス系"
+      }
+    ],
+    "relatedIds": [
+      "momo",
+      "udon",
+      "lagman",
+      "beef-noodle-soup",
+      "dal-bhat"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2802",
+      "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A5%E3%82%AF%E3%83%91",
+      "https://en.wikipedia.org/wiki/Thukpa"
+    ],
+    "tags": [
+      "アジア料理",
+      "麺料理",
+      "鶏肉",
+      "小麦",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "冷やし中華",
+      "サラダ",
+      "ざるそば",
+      "カルパッチョ"
+    ],
+    "avoidedBy": [
+      "小麦アレルギー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/thukpa/1.jpg",
+      "/images/dishes/thukpa/2.jpg",
+      "/images/dishes/thukpa/3.jpg"
+    ]
   }
 ]
