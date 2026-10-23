@@ -41898,7 +41898,11 @@
     "uniquenessScore": 4,
     "heavinessScore": 4,
     "spicinessScore": 2,
-    "images": [],
+    "images": [
+      "/images/dishes/fen-zheng-rou/1.jpg",
+      "/images/dishes/fen-zheng-rou/2.jpg",
+      "/images/dishes/fen-zheng-rou/3.jpg"
+    ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E7%B2%89%E8%92%B8%E8%82%89",
       "https://www.chinasichuanfood.com/steamed-pork-with-rice-powder/"
@@ -44295,7 +44299,10 @@
     "uniquenessScore": 3,
     "heavinessScore": 3,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/enban-gyoza/1.jpg",
+      "/images/dishes/enban-gyoza/2.jpg"
+    ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E5%86%86%E7%9B%A4%E9%A4%83%E5%AD%90",
       "https://www.f-kankou.jp/gourmet/1051"
@@ -45095,7 +45102,10 @@
     "uniquenessScore": 3,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/niku-sui/1.jpg",
+      "/images/dishes/niku-sui/2.jpg"
+    ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E8%82%89%E5%90%B8%E3%81%84",
       "https://www.chitose-nikusui.com/"
@@ -45634,7 +45644,9 @@
     "uniquenessScore": 4,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/tetchiri/1.jpg"
+    ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%90%E6%96%99%E7%90%86",
       "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
@@ -52879,7 +52891,11 @@
     "uniquenessScore": 2,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/chene/1.png",
+      "/images/dishes/chene/2.png",
+      "/images/dishes/chene/3.jpg"
+    ],
     "source": [
       "https://en.wikipedia.org/wiki/Oak",
       "https://www.specialtyproduce.com/produce/Oak_Leaf_Lettuce_4038.php"
@@ -54188,7 +54204,11 @@
     "uniquenessScore": 3,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/fond-de-veau/1.jpg",
+      "/images/dishes/fond-de-veau/2.jpg",
+      "/images/dishes/fond-de-veau/3.jpg"
+    ],
     "source": [
       "https://en.wikipedia.org/wiki/Veal_stock",
       "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%83%89%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%BC",
@@ -54355,7 +54375,11 @@
     "uniquenessScore": 3,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/fremissement/1.jpg",
+      "/images/dishes/fremissement/2.jpg",
+      "/images/dishes/fremissement/3.jpg"
+    ],
     "source": [
       "https://chefsimon.com/lexique/fremir"
     ]
@@ -65028,7 +65052,11 @@
     "uniquenessScore": 3,
     "heavinessScore": 4,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/kroket/1.jpg",
+      "/images/dishes/kroket/2.jpg",
+      "/images/dishes/kroket/3.jpg"
+    ],
     "source": [
       "https://en.wikipedia.org/wiki/Croquette",
       "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
@@ -66772,7 +66800,11 @@
     "uniquenessScore": 3,
     "heavinessScore": 5,
     "spicinessScore": 0,
-    "images": [],
+    "images": [
+      "/images/dishes/tecchan/1.jpg",
+      "/images/dishes/tecchan/2.jpg",
+      "/images/dishes/tecchan/3.png"
+    ],
     "source": [
       "https://ja.wikipedia.org/wiki/%E3%81%A6%E3%81%A3%E3%81%A1%E3%82%83%E3%82%93",
       "https://furunavi.jp/discovery/knowledge_food/202406-innards/"
@@ -68654,7 +68686,11 @@
     "uniquenessScore": 3,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/mino/1.jpg",
+      "/images/dishes/mino/2.jpg",
+      "/images/dishes/mino/3.jpg"
+    ]
   },
   {
     "id": "gatsu",
@@ -75482,7 +75518,10 @@
     "uniquenessScore": 4,
     "heavinessScore": 4,
     "spicinessScore": 1,
-    "images": []
+    "images": [
+      "/images/dishes/gaeng-hang-lay/1.jpg",
+      "/images/dishes/gaeng-hang-lay/2.jpg"
+    ]
   },
   {
     "id": "sai-ua",
@@ -79293,7 +79332,9 @@
     "uniquenessScore": 5,
     "heavinessScore": 3,
     "spicinessScore": 3,
-    "images": []
+    "images": [
+      "/images/dishes/ho-mok-thale/1.jpg"
+    ]
   },
   {
     "id": "kung-op-wun-sen",
@@ -89951,7 +89992,9 @@
     "uniquenessScore": 3,
     "heavinessScore": 3,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/husmanskost/1.jpg"
+    ]
   },
   {
     "id": "kraftskiva",
@@ -90321,7 +90364,11 @@
     "uniquenessScore": 5,
     "heavinessScore": 3,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/blodkorv/1.jpg",
+      "/images/dishes/blodkorv/2.jpg",
+      "/images/dishes/blodkorv/3.jpg"
+    ]
   },
   {
     "id": "falukorv",
@@ -109859,7 +109906,9 @@
     "uniquenessScore": 2,
     "heavinessScore": 3,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/buri-daikon/1.jpg"
+    ]
   },
   {
     "id": "itoko-ni-nizai",
@@ -121908,7 +121957,9 @@
     "uniquenessScore": 4,
     "heavinessScore": 3,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/naberaa-nbushii-okinawa/1.jpg"
+    ]
   },
   {
     "id": "hoya-no-sunomono-miyagi",
@@ -125425,7 +125476,11 @@
     "uniquenessScore": 3,
     "heavinessScore": 1,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/dashi-yamagata/1.jpg",
+      "/images/dishes/dashi-yamagata/2.jpg",
+      "/images/dishes/dashi-yamagata/3.jpg"
+    ]
   },
   {
     "id": "nasu-somen-ishikawa",
@@ -131498,7 +131553,9 @@
     "uniquenessScore": 3,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/ayu-no-shioyaki-gifu/1.jpg"
+    ]
   },
   {
     "id": "ayu-zosui-gifu",
@@ -162720,7 +162777,8 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 3,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": []
   },
   {
     "id": "gonza-fukui",
@@ -172085,7 +172143,9 @@
     "uniquenessScore": 3,
     "heavinessScore": 2,
     "spicinessScore": 0,
-    "images": []
+    "images": [
+      "/images/dishes/39-14-osaka/1.jpg"
+    ]
   },
   {
     "id": "39-17-osaka",
@@ -174901,7 +174961,10 @@
     "beginnerFriendlyScore": 4,
     "uniquenessScore": 3,
     "heavinessScore": 2,
-    "spicinessScore": 0
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/42-16-hiroshima/1.jpg"
+    ]
   },
   {
     "id": "42-20-hiroshima",
@@ -193872,7 +193935,10 @@
     "uniquenessScore": 2,
     "heavinessScore": 1,
     "spicinessScore": 1,
-    "images": []
+    "images": [
+      "/images/dishes/takana-zuke/1.jpg",
+      "/images/dishes/takana-zuke/2.jpg"
+    ]
   },
   {
     "id": "yakisoba",
@@ -203857,7 +203923,11 @@
     "uniquenessScore": 1,
     "heavinessScore": 2,
     "spicinessScore": 1,
-    "images": []
+    "images": [
+      "/images/dishes/chuno-sauce/1.png",
+      "/images/dishes/chuno-sauce/2.jpg",
+      "/images/dishes/chuno-sauce/3.jpg"
+    ]
   },
   {
     "id": "noko-sauce",
@@ -215867,7 +215937,9 @@
     "uniquenessScore": 3,
     "heavinessScore": 1,
     "spicinessScore": 1,
-    "images": []
+    "images": [
+      "/images/dishes/hiyashiame/1.jpg"
+    ]
   },
   {
     "id": "rakugan",
