@@ -149,6 +149,19 @@ const WideSection: FC<{
   </section>
 )
 
+// history は「本文\n\n（出典: ...）」形式。出典URLは%エンコードのままだと読めないのでデコードする
+const parseHistory = (history?: string) => {
+  if (!history) return undefined
+  const [body, source] = history.split(/\n+(?=（出典)/)
+  let decoded = source
+  try {
+    decoded = source && decodeURI(source)
+  } catch {
+    // 不正な%シーケンスは原文のまま表示
+  }
+  return { body: body.trim(), source: decoded }
+}
+
 const Thumb: FC<{ src?: string; alt: string }> = ({ src, alt }) => (
   <Photo
     src={src}
@@ -283,6 +296,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
     : []
   const [mainImage, ...subImages] = dish.images ?? []
   const isDish = dish.category === "料理" || dish.category === "デザート"
+  const history = parseHistory(dish.history)
 
   const names = [
     dish.kana,
@@ -493,6 +507,26 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
             ))}
           </ul>
         </Section>
+
+        {history && (
+          <Section title="歴史・由来">
+            <p style={{ lineHeight: 1.9, color: "var(--c-text-2)" }}>
+              <LinkedText
+                text={history.body}
+                dishes={allDishes}
+                currentId={dish.id}
+              />
+            </p>
+            {history.source && (
+              <p
+                className="meta"
+                style={{ marginTop: "var(--sp-2)", wordBreak: "break-all" }}
+              >
+                {history.source}
+              </p>
+            )}
+          </Section>
+        )}
 
         <Section title="頼む判断">
           <div>
