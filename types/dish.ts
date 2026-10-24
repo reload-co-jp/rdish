@@ -32,6 +32,7 @@ export type DishItem = {
     locality?: string
   }[]
   summary: string
+  history?: string
   menuDescription: string
   whatComesOut: string[]
   tasteAndTexture: string[]
