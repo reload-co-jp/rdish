@@ -7,6 +7,7 @@ import dishDatesData from "../../../data/dish-dates.json"
 import { allDishes } from "../../../lib/dishes"
 import { getImagesMeta } from "../../../lib/imageMeta"
 import { organizationRef } from "../../../lib/organization"
+import { categoryPath } from "../../../lib/taxonomy"
 import type { DishItem } from "../../../types/dish"
 
 const dishDates = dishDatesData as Record<string, string>
@@ -227,7 +228,7 @@ export default async function DishPage({
   }
 
   return (
-    <>
+    <div className="wide" style={{ maxWidth: "64rem", margin: "0 auto" }}>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(pageJsonLd) }}
@@ -235,6 +236,7 @@ export default async function DishPage({
       <Breadcrumb
         items={[
           { label: "料理一覧", href: "/dishes/" },
+          { label: dish.category, href: categoryPath(dish.category) },
           { label: dish.name, href: `/dishes/${dish.id}/` },
         ]}
       />
@@ -243,6 +245,6 @@ export default async function DishPage({
         allDishes={allDishes}
         updatedAt={dateModified}
       />
-    </>
+    </div>
   )
 }
