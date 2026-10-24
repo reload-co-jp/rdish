@@ -239332,8 +239332,7 @@
       "冬粉",
       "緑豆春雨",
       "さつまいも春雨",
-      "板春雨",
-      "寛粉"
+      "板春雨"
     ],
     "englishName": "Glass Noodles",
     "originalName": "粉丝",
@@ -240066,6 +240065,366 @@
     "spicinessScore": 0,
     "images": [
       "/images/dishes/senmai/1.jpg"
+    ]
+  },
+  {
+    "id": "kuan-fen",
+    "name": "寛粉",
+    "kana": "かんふん",
+    "aliases": [
+      "クワンフェン",
+      "宽粉",
+      "幅広春雨",
+      "火鍋寛粉"
+    ],
+    "englishName": "Kuanfen (Wide Starch Noodles)",
+    "originalName": "宽粉",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "じゃがいもやさつまいものでんぷんで作る、幅の広い平たい春雨。強い弾力があり、麻辣湯や火鍋でスープを吸わせて食べる。",
+    "menuDescription": "じゃがいもなどのでんぷんから作った幅広の平麺です。煮込んでも溶けにくく、もちもちとした強い弾力が特徴。辛いスープをまとわせて、麺のように、また具材のひとつとして楽しめます。",
+    "whatComesOut": [
+      "半透明〜灰色がかった幅1〜2cmほどの平たい麺",
+      "麻辣湯・火鍋のスープに入った状態",
+      "乾燥品を戻したもの、または下茹で済みのもの",
+      "酸辣粉など汁麺の麺として"
+    ],
+    "tasteAndTexture": [
+      "ぷるんとした強い弾力と噛みごたえ",
+      "麺自体はほぼ無味で、スープの味をそのまま運ぶ",
+      "表面はつるつる、噛むとむっちり",
+      "細い春雨より伸びにくい"
+    ],
+    "orderAdvice": "麻辣湯や火鍋で、春雨よりも食べ応えのある麺がほしいときに。火が通るまで時間がかかるので、鍋では早めに入れる。もちもち食感が好きなら必ず試したい具材。",
+    "caution": "原料はでんぷんが中心だが、製品によっては添加物を含む。",
+    "similarItems": [
+      {
+        "id": "harusame",
+        "name": "春雨",
+        "difference": "春雨は細く短時間で火が通る。寛粉は幅広で弾力がずっと強い"
+      },
+      {
+        "id": "mi-xian",
+        "name": "米線",
+        "difference": "米線は米粉の丸い麺でやわらかい。寛粉はでんぷんの平麺で弾力が強い"
+      },
+      {
+        "id": "tteokbokki",
+        "name": "トッポッキ",
+        "difference": "トッポッキは米の餅。寛粉はでんぷんの麺で、より透明感がありつるつるしている"
+      }
+    ],
+    "relatedIds": [
+      "harusame",
+      "ma-la-tang",
+      "huo-guo",
+      "mi-xian",
+      "fu-zhu"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Kuanfen_noodles"
+    ],
+    "tags": [
+      "中国料理",
+      "麺料理",
+      "鍋料理",
+      "煮込み",
+      "もちもち",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "中華麺",
+      "米線",
+      "うどん"
+    ],
+    "avoidedBy": [
+      "弾力の強い食感が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "mao-du",
+    "name": "毛肚",
+    "kana": "まおどぅー",
+    "aliases": [
+      "マオドゥー",
+      "草肚",
+      "牛毛肚",
+      "黒毛肚",
+      "白毛肚"
+    ],
+    "englishName": "Maodu (Beef Rumen Tripe)",
+    "originalName": "毛肚",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川省"
+      }
+    ],
+    "summary": "牛の第一胃（瘤胃）の内側を、毛羽立ったひだごと残して使う四川の食材。さっと茹でてザクザクした歯ごたえを楽しむ、火鍋を代表する具。",
+    "menuDescription": "牛の第一胃で、内側の細かな突起が毛のように見えることから「毛肚」と呼ばれます。沸騰したスープで十数秒ほどくぐらせるだけで、ザクザク・コリコリとした独特の歯ごたえに。四川火鍋や麻辣湯に欠かせない一品です。",
+    "whatComesOut": [
+      "黒または白っぽい、表面が毛羽立った薄い板状の胃袋",
+      "火鍋の大皿に氷とともに盛られたもの",
+      "麻辣湯の具として茹でられたもの",
+      "ごま油とにんにくの油碟（つけだれ）"
+    ],
+    "tasteAndTexture": [
+      "ザクザク・シャキシャキとした強い歯ごたえ",
+      "それ自体はクセが少なく淡白",
+      "表面の突起に辛いスープがよくからむ",
+      "煮すぎるとゴムのように硬くなる"
+    ],
+    "orderAdvice": "四川火鍋なら定番中の定番。内臓に抵抗がなければまず頼みたい。火鍋では箸でつまんで十数秒しゃぶしゃぶするのがコツで、煮込みすぎない。食感重視の具なので、柔らかい肉が好きな人には向かない。",
+    "caution": "内臓肉。鮮度と下処理で品質の差が大きい。",
+    "similarItems": [
+      {
+        "id": "mino",
+        "name": "ミノ",
+        "difference": "同じ牛の第一胃。日本のミノは内側の黒い層をむいた白い部分を焼く。毛肚は突起を残して茹でる"
+      },
+      {
+        "id": "senmai",
+        "name": "センマイ",
+        "difference": "センマイ（百葉）は第三胃で、薄いひだが重なる。毛肚は第一胃で厚みと突起がある"
+      },
+      {
+        "id": "trippa",
+        "name": "トリッパ",
+        "difference": "トリッパは主に第二胃（ハチノス）をトマトで長時間煮込む。毛肚は短時間で火を通す"
+      }
+    ],
+    "relatedIds": [
+      "huo-guo",
+      "ma-la-tang",
+      "mino",
+      "senmai",
+      "trippa",
+      "duck-blood-tofu"
+    ],
+    "source": [
+      "https://zh.wikipedia.org/wiki/毛肚"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "牛肉",
+      "鍋料理",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "鶏肉",
+      "豆腐",
+      "白身魚"
+    ],
+    "avoidedBy": [
+      "内臓が苦手",
+      "ホルモン嫌い"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mao-du/1.jpg",
+      "/images/dishes/mao-du/2.png",
+      "/images/dishes/mao-du/3.jpg"
+    ]
+  },
+  {
+    "id": "uzura-no-tamago",
+    "name": "うずらの卵",
+    "kana": "うずらのたまご",
+    "aliases": [
+      "うずら卵",
+      "ウズラ卵",
+      "鶉卵",
+      "鹌鹑蛋"
+    ],
+    "englishName": "Quail Egg",
+    "originalName": "鶉卵",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "ウズラの小さな卵。重さは約10.5gで鶏卵の6分の1ほど。日本では愛知県が全国生産の約7割を占め、串揚げや八宝菜、麻辣湯の具になる。",
+    "menuDescription": "ひと口サイズのうずらの卵です。殻には暗褐色のまだら模様があり、茹でて殻をむいたものが料理に使われます。鶏卵に比べてビタミンやミネラルが豊富で、黄身の割合が多く濃厚な味わいです。",
+    "whatComesOut": [
+      "殻をむいた茹で卵（直径2〜3cm）",
+      "串揚げ・串焼きの串に刺したもの",
+      "八宝菜や中華丼の具",
+      "麻辣湯・おでんの具",
+      "そばつゆや小鉢に落とした生卵"
+    ],
+    "tasteAndTexture": [
+      "黄身の割合が多く濃厚な味",
+      "白身はぷりっとして弾力がある",
+      "スープや煮汁の味が表面にしみる",
+      "ひと口で食べられる小ささ"
+    ],
+    "orderAdvice": "麻辣湯や火鍋では、辛いスープの中で口を休める「逃げ道」として便利。卵が好きならどの料理でもハズレが少ない。小さい子どもに与えるときは窒息に注意し、切ってから与える。",
+    "caution": "卵アレルギーに注意。丸ごとの形は小さな子どもや高齢者の窒息リスクがあるため、切り分けてから食べさせる。",
+    "similarItems": [
+      {
+        "id": "cha-ye-dan",
+        "name": "茶葉蛋",
+        "difference": "茶葉蛋は鶏卵を茶と香辛料で煮たもの。うずらの卵は小さく、そのまま具として使う"
+      },
+      {
+        "id": "pidan",
+        "name": "ピータン",
+        "difference": "ピータンはアヒルの卵をアルカリで熟成させたもの。うずらの卵は普通に茹でて使う"
+      },
+      {
+        "id": "atsuage",
+        "name": "厚揚げ",
+        "difference": "どちらも煮物の具だが、厚揚げは大豆製品。うずらの卵は動物性たんぱく"
+      }
+    ],
+    "relatedIds": [
+      "ma-la-tang",
+      "oden",
+      "hong-shao-rou",
+      "cha-ye-dan",
+      "yakitori",
+      "pidan"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ウズラ卵",
+      "https://ja.wikipedia.org/wiki/ウズラ"
+    ],
+    "tags": [
+      "日本料理",
+      "中国料理",
+      "卵",
+      "煮込み",
+      "揚げ物",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "豆腐",
+      "野菜",
+      "きのこ"
+    ],
+    "avoidedBy": [
+      "卵アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/uzura-no-tamago/1.jpg",
+      "/images/dishes/uzura-no-tamago/2.jpg",
+      "/images/dishes/uzura-no-tamago/3.jpg"
+    ]
+  },
+  {
+    "id": "konbu",
+    "name": "昆布",
+    "kana": "こんぶ",
+    "aliases": [
+      "コンブ",
+      "こぶ",
+      "海帯",
+      "海带",
+      "ケルプ"
+    ],
+    "englishName": "Kombu (Kelp)",
+    "originalName": "昆布",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "北海道"
+      },
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "北海道沿岸などで採れる大型の海藻。うま味成分グルタミン酸を多く含み、日本料理の出汁の土台になるほか、中国では海帯として麻辣湯や火鍋の具になる。",
+    "menuDescription": "乾燥させた昆布は出汁をとるための基本食材で、1908年に池田菊苗がそのうま味成分をグルタミン酸と突き止めたことでも知られます。真昆布・利尻昆布・羅臼昆布・日高昆布など産地ごとに銘柄があり、煮物やおでん、昆布巻きでは昆布そのものも食べられます。",
+    "whatComesOut": [
+      "出汁をとった後の板状の昆布",
+      "結び昆布（おでん・煮物）",
+      "麻辣湯・火鍋に入った結び昆布や細切り昆布",
+      "佃煮・とろろ昆布・塩昆布などの加工品"
+    ],
+    "tasteAndTexture": [
+      "グルタミン酸による深いうま味",
+      "煮るとやわらかく、ややぬめりがある",
+      "結び昆布はコリっとした歯ごたえ",
+      "磯の香りがほのかにする"
+    ],
+    "orderAdvice": "おでんや麻辣湯で、肉や練り物の合間に箸休めとして選ぶとよい。煮汁のうま味を吸ってスープの辛さを丸くしてくれる。日高昆布はやわらかく煮えやすく、食べる用途に向く。",
+    "caution": "ヨウ素を非常に多く含むため、甲状腺に持病のある人は摂りすぎに注意。",
+    "similarItems": [
+      {
+        "id": "konbu-maki",
+        "name": "昆布巻き",
+        "difference": "昆布巻きは昆布で魚を巻いて甘辛く煮た料理。昆布はその素材"
+      },
+      {
+        "id": "tororo-konbu-onigiri",
+        "name": "とろろ昆布のおにぎり",
+        "difference": "とろろ昆布は昆布を薄く削った加工品。昆布は板状のまま使う"
+      },
+      {
+        "id": "kikurage",
+        "name": "キクラゲ",
+        "difference": "どちらも鍋のコリコリ系の具だが、キクラゲはきのこ。昆布は海藻でうま味が強い"
+      }
+    ],
+    "relatedIds": [
+      "konbu-maki",
+      "konbujime",
+      "tororo-konbu-onigiri",
+      "matsumae-zuke-hokkaido",
+      "oden",
+      "ma-la-tang",
+      "huo-guo"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/昆布"
+    ],
+    "tags": [
+      "日本料理",
+      "調味料",
+      "煮込み",
+      "あっさり",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "肉",
+      "チーズ",
+      "揚げ物"
+    ],
+    "avoidedBy": [
+      "海藻が苦手",
+      "ヨウ素制限中"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/konbu/1.jpg",
+      "/images/dishes/konbu/2.jpg",
+      "/images/dishes/konbu/3.jpg"
     ]
   }
 ]
