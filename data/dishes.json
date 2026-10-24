@@ -239226,5 +239226,846 @@
       "/images/dishes/thukpa/2.jpg",
       "/images/dishes/thukpa/3.jpg"
     ]
+  },
+  {
+    "id": "ma-la-tang",
+    "name": "麻辣湯",
+    "kana": "まーらーたん",
+    "aliases": [
+      "マーラータン",
+      "麻辣燙",
+      "麻辣烫"
+    ],
+    "englishName": "Malatang",
+    "originalName": "麻辣烫",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "四川省"
+      }
+    ],
+    "summary": "好きな具材を選び、花椒の痺れと唐辛子の辛さが効いたスープで煮込む中国の屋台料理。四川発祥で、日本では2024年頃から専門店が急増した。",
+    "menuDescription": "野菜・きのこ・豆腐・肉・麺などの具材をお客様ご自身で選び、麻（花椒の痺れ）と辣（唐辛子の辛さ）を利かせたスープでお作りします。辛さや痺れの強さもお好みで調整いただけます。",
+    "whatComesOut": [
+      "選んだ具材が入った赤いスープの丼",
+      "春雨や米線などの麺類",
+      "青菜・きのこ・湯葉・豆腐などの具",
+      "薄切り牛肉や肉団子などのたんぱく源",
+      "好みで追加するパクチーやゴマダレ"
+    ],
+    "tasteAndTexture": [
+      "花椒の舌が痺れる刺激と唐辛子の辛さ",
+      "具材から出る旨味が溶け込んだ濃いスープ",
+      "春雨や湯葉がスープを吸ってつるんとした口当たり",
+      "選ぶ具材次第で軽くも重くもなる"
+    ],
+    "orderAdvice": "日本の専門店はかごに具材を入れて重さで会計する方式が多い。迷ったら春雨・チンゲン菜・えのき・湯葉・牛肉・厚揚げの組み合わせが無難。辛さは一番下から試し、加工品や脂の多い肉を入れすぎると値段もカロリーも跳ね上がる点に注意。",
+    "caution": "大豆・小麦・甲殻類など具材によりアレルゲンが異なる。スープにも花椒・唐辛子・ゴマ・牛脂が使われることがある。",
+    "similarItems": [
+      {
+        "id": "huo-guo",
+        "name": "火鍋",
+        "difference": "火鍋は卓上の鍋で各自が具を煮ながら食べる。麻辣湯は厨房で煮て一人分の丼で出す"
+      },
+      {
+        "id": "suan-la-tang",
+        "name": "酸辣湯",
+        "difference": "酸辣湯は酢の酸味と胡椒の辛さのとろみスープ。麻辣湯は花椒の痺れが主役で具材を選ぶ"
+      },
+      {
+        "name": "麻辣香鍋",
+        "difference": "麻辣香鍋は選んだ具材を汁なしで炒める。麻辣湯はスープで煮る"
+      }
+    ],
+    "relatedIds": [
+      "huo-guo",
+      "ma-la",
+      "hua-jiao",
+      "suan-la-tang",
+      "harusame",
+      "mi-xian",
+      "fu-zhu",
+      "yuba"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/麻辣湯",
+      "https://en.wikipedia.org/wiki/Malatang",
+      "https://maratan.me/ingredients/"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "スープ",
+      "野菜",
+      "スパイス",
+      "煮込み",
+      "ピリ辛",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "あっさり出汁",
+      "和食",
+      "マイルドなクリームスープ"
+    ],
+    "avoidedBy": [
+      "辛いものが苦手",
+      "花椒の痺れが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/ma-la-tang/1.jpg",
+      "/images/dishes/ma-la-tang/2.jpg",
+      "/images/dishes/ma-la-tang/3.jpg"
+    ]
+  },
+  {
+    "id": "harusame",
+    "name": "春雨",
+    "kana": "はるさめ",
+    "aliases": [
+      "粉絲",
+      "粉条",
+      "冬粉",
+      "緑豆春雨",
+      "さつまいも春雨",
+      "板春雨",
+      "寛粉"
+    ],
+    "englishName": "Glass Noodles",
+    "originalName": "粉丝",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "緑豆・じゃがいも・さつまいもなどのデンプンから作る透明な麺。スープをよく吸い、麻辣湯の定番ベース。",
+    "menuDescription": "緑豆やさつまいものデンプンから作った春雨です。つるんと軽い喉ごしで、スープの味をしっかり含みます。太さや原料により食感が変わり、平たい板春雨はもちもちとした食べごたえがあります。",
+    "whatComesOut": [
+      "透明〜半透明の細い麺",
+      "スープや鍋の具として",
+      "炒め物・和え物・サラダの材料として",
+      "幅広の板春雨や太いさつまいも春雨のことも"
+    ],
+    "tasteAndTexture": [
+      "それ自体はほぼ無味でスープの味を吸う",
+      "緑豆春雨は細くコシがあり煮崩れしにくい",
+      "さつまいも春雨は太めでもちもち",
+      "つるんとした軽い喉ごし"
+    ],
+    "orderAdvice": "麻辣湯で麺を迷ったらまず春雨。小麦麺より軽く、辛いスープとよく絡む。食べごたえが欲しければ板春雨やさつまいも春雨を。",
+    "similarItems": [
+      {
+        "id": "rice-vermicelli",
+        "name": "ビーフン",
+        "difference": "ビーフンは米粉の麺で白く不透明。春雨はデンプン麺で透明"
+      },
+      {
+        "name": "しらたき",
+        "difference": "しらたきはこんにゃく芋製で低カロリー。春雨はデンプン製でスープをよく吸う"
+      },
+      {
+        "id": "mi-xian",
+        "name": "米線",
+        "difference": "米線は米の麺で太く柔らかい。春雨は透明でつるつる"
+      }
+    ],
+    "relatedIds": [
+      "ma-la-tang",
+      "japchae",
+      "yam-wun-sen",
+      "ya-xue-fen-si-tang",
+      "rice-vermicelli"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/春雨_(食品)",
+      "https://maratan.me/ingredients/"
+    ],
+    "tags": [
+      "中国料理",
+      "麺料理",
+      "豆類",
+      "あっさり",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "太いうどん",
+      "パン",
+      "ご飯"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/harusame/1.jpg",
+      "/images/dishes/harusame/2.jpg",
+      "/images/dishes/harusame/3.jpg"
+    ]
+  },
+  {
+    "id": "dao-xiao-mian",
+    "name": "刀削麺",
+    "kana": "とうしょうめん",
+    "aliases": [
+      "ダオシャオミェン",
+      "とうさくめん",
+      "刀削面"
+    ],
+    "englishName": "Knife-Cut Noodles",
+    "originalName": "刀削面",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "山西省"
+      }
+    ],
+    "summary": "小麦粉の生地の塊を包丁で鍋に削り落として茹でる山西省発祥の麺。中央が厚く縁が薄い独特の形で、麻辣湯の麺としても選べる。",
+    "menuDescription": "山西省名物の刀削麺です。小麦粉の生地を専用の刃物で湯の中へ直接削り落とします。中央は厚くもちもち、縁は薄くつるりとした不揃いな食感が魅力です。",
+    "whatComesOut": [
+      "幅広で不揃いな形の麺",
+      "麻辣スープや牛肉スープに入った丼",
+      "汁なしで肉味噌やラー油を絡めたもの",
+      "麻辣湯では麺の選択肢の一つ"
+    ],
+    "tasteAndTexture": [
+      "中央はもちもちで厚く、縁は薄くつるつる",
+      "小麦の風味が強く食べごたえがある",
+      "表面がざらつきスープがよく絡む"
+    ],
+    "orderAdvice": "しっかり食べたい日向け。麻辣湯なら春雨より重いが満腹感は抜群。もちもちした太麺が好きな人に。",
+    "caution": "小麦を使用。",
+    "similarItems": [
+      {
+        "id": "chinese-noodles",
+        "name": "中華麺",
+        "difference": "中華麺はかん水入りで細長く均一。刀削麺はかん水なしで削った不揃いな形"
+      },
+      {
+        "id": "dan-dan-mian",
+        "name": "担担麺",
+        "difference": "担担麺は料理名で細麺を使う。刀削麺は麺の製法・形状の名前"
+      },
+      {
+        "id": "udon",
+        "name": "うどん",
+        "difference": "うどんは延ばして切る均一な麺。刀削麺は塊から削るので厚みが一定でない"
+      }
+    ],
+    "relatedIds": [
+      "chinese-noodles",
+      "dan-dan-mian",
+      "ma-la-tang",
+      "udon"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/刀削麺",
+      "https://maratan.me/ingredients/"
+    ],
+    "tags": [
+      "中国料理",
+      "麺料理",
+      "小麦",
+      "もちもち",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "細麺",
+      "そうめん",
+      "春雨"
+    ],
+    "avoidedBy": [
+      "小麦アレルギー",
+      "グルテン不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/dao-xiao-mian/1.jpg",
+      "/images/dishes/dao-xiao-mian/2.jpg",
+      "/images/dishes/dao-xiao-mian/3.jpg"
+    ]
+  },
+  {
+    "id": "mi-xian",
+    "name": "米線",
+    "kana": "みーしぇん",
+    "aliases": [
+      "ミーシェン",
+      "米线",
+      "米麺"
+    ],
+    "englishName": "Mixian (Rice Noodles)",
+    "originalName": "米线",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "中国",
+        "area": "雲南省"
+      }
+    ],
+    "summary": "雲南省特産の米から作る丸く白い麺。過橋米線で知られ、麻辣湯でも定番の麺の一つ。",
+    "menuDescription": "雲南省で親しまれている米の麺です。つるりとした口当たりと柔らかな歯切れで、辛いスープとの相性も抜群。小麦を使わないので軽く食べられます。",
+    "whatComesOut": [
+      "白く丸い断面のやわらかい麺",
+      "熱々のスープに入った丼",
+      "過橋米線では具とスープを別々に提供",
+      "麻辣湯の麺の選択肢として"
+    ],
+    "tasteAndTexture": [
+      "つるつるでやわらかい歯切れ",
+      "米のほのかな甘み",
+      "スープを適度に吸う",
+      "小麦麺より軽い"
+    ],
+    "orderAdvice": "小麦麺は重い、でも春雨より麺らしさが欲しい人に。グルテンを避けたい人の選択肢にもなる（店のスープ・加工は要確認）。",
+    "caution": "原料は米だが、製品により他のデンプンが混ざることがある。",
+    "similarItems": [
+      {
+        "id": "rice-vermicelli",
+        "name": "ビーフン",
+        "difference": "ビーフンは細く乾麺で炒め物が多い。米線は太くやわらかく汁麺向き"
+      },
+      {
+        "id": "harusame",
+        "name": "春雨",
+        "difference": "春雨はデンプン製で透明。米線は米製で白い"
+      },
+      {
+        "id": "guo-qiao-mi-xian",
+        "name": "過橋米線",
+        "difference": "過橋米線は米線を使った雲南の料理名"
+      }
+    ],
+    "relatedIds": [
+      "guo-qiao-mi-xian",
+      "tamjai-mixian",
+      "rice-vermicelli",
+      "ma-la-tang",
+      "harusame"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/米線",
+      "https://maratan.me/ingredients/"
+    ],
+    "tags": [
+      "中国料理",
+      "麺料理",
+      "米",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "中華麺",
+      "パスタ",
+      "うどん"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/mi-xian/1.jpg",
+      "/images/dishes/mi-xian/2.jpg",
+      "/images/dishes/mi-xian/3.jpg"
+    ]
+  },
+  {
+    "id": "fu-zhu",
+    "name": "腐竹",
+    "kana": "ふちく",
+    "aliases": [
+      "フージュー",
+      "乾燥湯葉",
+      "棒湯葉",
+      "腐竹（乾燥湯葉）"
+    ],
+    "englishName": "Fuzhu (Dried Tofu Skin Sticks)",
+    "originalName": "腐竹",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "豆乳を加熱してできる膜を棒状に丸めて乾燥させた大豆加工品。戻すと弾力が出て、麻辣湯や火鍋でスープを吸う人気具材。",
+    "menuDescription": "豆乳の表面にできる膜を引き上げ、竹のような棒状にして乾燥させた腐竹です。水で戻すと独特の弾力が生まれ、スープの旨味をたっぷり含みます。精進料理では肉の代わりにも使われます。",
+    "whatComesOut": [
+      "薄黄色の棒状・巻物状の湯葉",
+      "戻してひと口大に切ったもの",
+      "スープや煮込みの具として",
+      "冷菜として和え物に"
+    ],
+    "tasteAndTexture": [
+      "むっちりとした弾力と噛みごたえ",
+      "大豆のやさしい風味",
+      "スープを吸ってジューシー",
+      "生湯葉より歯ごたえが強い"
+    ],
+    "orderAdvice": "麻辣湯・火鍋で「何か一つ大豆系を」と迷ったら腐竹。肉のような満足感があり、辛いスープをよく吸う。乾燥品はカロリーが高めなので量は控えめに。",
+    "caution": "大豆を使用。",
+    "similarItems": [
+      {
+        "id": "yuba",
+        "name": "湯葉",
+        "difference": "湯葉は膜そのもので薄く柔らか。腐竹は棒状に乾燥させ戻すと弾力が強い"
+      },
+      {
+        "id": "dou-gan",
+        "name": "豆干",
+        "difference": "豆干は豆腐を圧縮したもの。腐竹は豆乳の膜を乾燥させたもの"
+      },
+      {
+        "id": "atsuage",
+        "name": "厚揚げ",
+        "difference": "厚揚げは豆腐を揚げたもの。腐竹は湯葉の乾物"
+      }
+    ],
+    "relatedIds": [
+      "yuba",
+      "dou-gan",
+      "ma-la-tang",
+      "huo-guo",
+      "atsuage"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Fuzhu_(food)",
+      "https://maratan.me/ingredients/"
+    ],
+    "tags": [
+      "中国料理",
+      "豆類",
+      "煮込み",
+      "もちもち",
+      "精進料理"
+    ],
+    "reverseKeywords": [
+      "肉",
+      "魚",
+      "揚げ物"
+    ],
+    "avoidedBy": [
+      "大豆アレルギー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fu-zhu/1.jpg",
+      "/images/dishes/fu-zhu/2.jpg",
+      "/images/dishes/fu-zhu/3.jpg"
+    ]
+  },
+  {
+    "id": "yuba",
+    "name": "湯葉",
+    "kana": "ゆば",
+    "aliases": [
+      "ゆば",
+      "腐皮",
+      "豆腐皮",
+      "ゆば（シート）"
+    ],
+    "englishName": "Tofu Skin",
+    "originalName": "湯葉",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "豆乳を加熱した際に表面にできる膜を引き上げた大豆加工品。生・乾燥・シート状などがあり、中国では腐皮と呼ばれ麻辣湯や火鍋の具にもなる。",
+    "menuDescription": "豆乳をゆっくり温め、表面にできる薄い膜をすくい上げた湯葉です。口どけがよく、大豆のやさしい甘みが感じられます。鍋やスープではだしを含んでとろりとした食感になります。",
+    "whatComesOut": [
+      "薄いシート状またはひだ状の膜",
+      "刺身湯葉としてわさび醤油で",
+      "吸い物や鍋・麻辣湯の具として",
+      "乾燥湯葉を戻して煮物に"
+    ],
+    "tasteAndTexture": [
+      "なめらかで繊細な口どけ",
+      "大豆のやさしい甘み",
+      "スープを含むとふんわりとろり",
+      "乾燥品は戻すとやや弾力"
+    ],
+    "orderAdvice": "クセがなく誰でも食べやすい。京都・日光の湯葉料理なら生湯葉を、麻辣湯なら辛さを和らげる具として入れるとバランスがよい。",
+    "caution": "大豆を使用。",
+    "similarItems": [
+      {
+        "id": "fu-zhu",
+        "name": "腐竹",
+        "difference": "腐竹は湯葉を棒状に乾燥させたもの。戻すと弾力が強い"
+      },
+      {
+        "id": "nama-yuba-yama-nashi",
+        "name": "生湯葉",
+        "difference": "生湯葉は乾燥させない湯葉を味わう料理"
+      },
+      {
+        "id": "atsuage",
+        "name": "厚揚げ",
+        "difference": "厚揚げは豆腐を揚げたもの。湯葉は豆乳の膜"
+      }
+    ],
+    "relatedIds": [
+      "nama-yuba-yama-nashi",
+      "fu-zhu",
+      "atsuage",
+      "ma-la-tang"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Tofu_skin",
+      "https://maratan.me/ingredients/"
+    ],
+    "tags": [
+      "日本料理",
+      "中国料理",
+      "豆類",
+      "あっさり",
+      "精進料理"
+    ],
+    "reverseKeywords": [
+      "こってり肉料理",
+      "揚げ物",
+      "ジャンクフード"
+    ],
+    "avoidedBy": [
+      "大豆アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/yuba/1.jpg",
+      "/images/dishes/yuba/2.jpg",
+      "/images/dishes/yuba/3.jpg"
+    ]
+  },
+  {
+    "id": "kikurage",
+    "name": "キクラゲ",
+    "kana": "きくらげ",
+    "aliases": [
+      "木耳",
+      "黒キクラゲ",
+      "きくらげ",
+      "黒木耳"
+    ],
+    "englishName": "Wood Ear Mushroom",
+    "originalName": "黑木耳",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "広葉樹の倒木などに生える耳のような形のきのこ。コリコリした食感が特徴で、中華料理や麻辣湯の定番具材。",
+    "menuDescription": "耳のような形をした黒いきのこ、キクラゲです。それ自体の味は控えめですが、コリコリ・プルプルとした独特の歯ごたえが料理にアクセントを加えます。乾燥品を戻して使うのが一般的です。",
+    "whatComesOut": [
+      "黒〜茶色の薄くひらひらしたきのこ",
+      "炒め物やスープの具",
+      "ラーメンのトッピングとして細切りで",
+      "麻辣湯や火鍋の具として"
+    ],
+    "tasteAndTexture": [
+      "コリコリ・プルプルとした歯ごたえ",
+      "味はほぼなく、スープの味をまとう",
+      "食物繊維が豊富"
+    ],
+    "orderAdvice": "麻辣湯で食感のアクセントが欲しいなら入れておきたい。低カロリーでボリュームが出る。",
+    "similarItems": [
+      {
+        "id": "shiro-kikurage",
+        "name": "白キクラゲ",
+        "difference": "白キクラゲは別種で白くフリル状。デザートにも使われる"
+      },
+      {
+        "id": "eringi",
+        "name": "エリンギ",
+        "difference": "エリンギは肉厚で弾力。キクラゲは薄くコリコリ"
+      },
+      {
+        "id": "shiitake",
+        "name": "しいたけ",
+        "difference": "しいたけは香りと旨味が強い。キクラゲは無味で食感が主役"
+      }
+    ],
+    "relatedIds": [
+      "shiro-kikurage",
+      "eringi",
+      "shiitake",
+      "ma-la-tang"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/キクラゲ",
+      "https://maratan.me/ingredients/"
+    ],
+    "tags": [
+      "中国料理",
+      "きのこ",
+      "炒め物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "やわらかい食感",
+      "香りの強いきのこ",
+      "肉"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kikurage/1.jpg",
+      "/images/dishes/kikurage/2.jpg",
+      "/images/dishes/kikurage/3.jpg"
+    ]
+  },
+  {
+    "id": "shiro-kikurage",
+    "name": "白キクラゲ",
+    "kana": "しろきくらげ",
+    "aliases": [
+      "シロキクラゲ",
+      "白木耳",
+      "銀耳",
+      "白きくらげ"
+    ],
+    "englishName": "Snow Fungus",
+    "originalName": "银耳",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "白く半透明のフリル状をしたキクラゲの仲間。中国では甘いデザートスープの定番で、麻辣湯ではプルプル食感の具になる。",
+    "menuDescription": "白く花びらのような形の白キクラゲ（銀耳）です。プルプル・シャキッとした食感で、煮るととろみが出ます。中国では氷砂糖と煮た甘いスープとしても親しまれています。",
+    "whatComesOut": [
+      "白〜淡黄色のフリル状のきのこ",
+      "氷砂糖やクコの実と煮た甘いスープ",
+      "スープや麻辣湯の具として",
+      "和え物の冷菜として"
+    ],
+    "tasteAndTexture": [
+      "プルプル・シャキシャキの食感",
+      "ほぼ無味で甘くも辛くも合う",
+      "煮込むとゼラチン質のとろみ"
+    ],
+    "orderAdvice": "珍しい食感を試したいなら。中華デザートとして出てきたら甘いスープ。麻辣湯では黒キクラゲよりやわらかく、辛さを受け止める。",
+    "similarItems": [
+      {
+        "id": "kikurage",
+        "name": "キクラゲ",
+        "difference": "黒キクラゲは別種でコリコリと硬め。白キクラゲはやわらかくとろみが出る"
+      },
+      {
+        "id": "bing-tang-xiang-lian",
+        "name": "冰糖湘蓮",
+        "difference": "冰糖湘蓮は蓮の実の甘いスープ。白キクラゲも同様の甘いスープに使われる"
+      }
+    ],
+    "relatedIds": [
+      "kikurage",
+      "bing-tang-xiang-lian",
+      "ma-la-tang"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/シロキクラゲ",
+      "https://maratan.me/ingredients/"
+    ],
+    "tags": [
+      "中国料理",
+      "きのこ",
+      "あっさり",
+      "甘み"
+    ],
+    "reverseKeywords": [
+      "こってり肉料理",
+      "揚げ物",
+      "チーズ"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/shiro-kikurage/1.jpg"
+    ]
+  },
+  {
+    "id": "yama-kurage",
+    "name": "山くらげ",
+    "kana": "やまくらげ",
+    "aliases": [
+      "山クラゲ",
+      "貢菜",
+      "ステムレタス",
+      "茎レタス",
+      "チシャトウ"
+    ],
+    "englishName": "Dried Celtuce",
+    "originalName": "贡菜",
+    "category": "野菜",
+    "regions": [
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "茎レタス（ステムレタス）の茎を細く裂いて乾燥させたもの。クラゲのようなコリコリ食感から名付けられ、麻辣湯や中華の和え物に使われる。",
+    "menuDescription": "茎レタスの茎を細長く裂いて干した山くらげです。水で戻すとクラゲのようなコリコリとした歯ごたえになり、ほのかな青い香りが楽しめます。",
+    "whatComesOut": [
+      "細長い緑色の茎",
+      "ごま油や醤油で和えた冷菜",
+      "麻辣湯や鍋の具として",
+      "漬物として"
+    ],
+    "tasteAndTexture": [
+      "コリコリ・シャキシャキの強い歯ごたえ",
+      "ほのかな青い香り",
+      "味を吸いやすい"
+    ],
+    "orderAdvice": "食感重視の人向け。麻辣湯で野菜の歯ごたえが欲しいとき、他の青菜とは違うアクセントになる。",
+    "similarItems": [
+      {
+        "id": "kikurage",
+        "name": "キクラゲ",
+        "difference": "キクラゲはきのこ。山くらげは野菜の茎だが食感が似る"
+      },
+      {
+        "id": "ya-cai",
+        "name": "芽菜",
+        "difference": "芽菜は青菜の茎を塩漬け発酵させた四川の漬物。山くらげは乾物"
+      }
+    ],
+    "relatedIds": [
+      "kikurage",
+      "ya-cai",
+      "ma-la-tang"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ステムレタス",
+      "https://maratan.me/ingredients/"
+    ],
+    "tags": [
+      "中国料理",
+      "野菜",
+      "あっさり",
+      "サクサク"
+    ],
+    "reverseKeywords": [
+      "やわらかい煮物",
+      "肉",
+      "クリーミーな料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/yama-kurage/1.jpg"
+    ]
+  },
+  {
+    "id": "senmai",
+    "name": "センマイ",
+    "kana": "せんまい",
+    "aliases": [
+      "牛百葉",
+      "百葉",
+      "第三胃",
+      "千枚"
+    ],
+    "englishName": "Beef Omasum",
+    "originalName": "センマイ",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "牛の第三胃。ひだが千枚あるように見えることが名の由来。コリコリした食感で、焼肉の刺しや麻辣湯・火鍋の具（牛百葉）になる。",
+    "menuDescription": "牛の第三胃、センマイです。無数のひだが重なった独特の見た目で、シャキッ・コリッとした歯ごたえが特徴。焼肉店では湯引きして酢味噌で、中国では牛百葉として火鍋や麻辣湯の具に使われます。",
+    "whatComesOut": [
+      "黒っぽいひだ状の薄い部位（皮をむくと白）",
+      "湯引きして酢味噌やごま油塩で",
+      "火鍋・麻辣湯の具として",
+      "細切りの和え物"
+    ],
+    "tasteAndTexture": [
+      "コリコリ・シャキシャキの歯ごたえ",
+      "脂が少なくあっさり",
+      "味は淡白でタレやスープの味をまとう"
+    ],
+    "orderAdvice": "ホルモンの中でも脂が少なく軽い。食感好きなら麻辣湯に。見た目が苦手でなければ挑戦しやすい内臓系。",
+    "caution": "牛の内臓（胃袋）。内臓が苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "mino",
+        "name": "ミノ",
+        "difference": "ミノは第一胃で肉厚。センマイは第三胃で薄いひだ状"
+      },
+      {
+        "id": "trippa",
+        "name": "トリッパ",
+        "difference": "トリッパはハチノス（第二胃）を主に使うイタリアの煮込み"
+      },
+      {
+        "id": "mala-baodu-mian",
+        "name": "麻辣爆肚面",
+        "difference": "爆肚は湯通ししたモツの料理名。センマイは部位名"
+      }
+    ],
+    "relatedIds": [
+      "mino",
+      "trippa",
+      "tecchan",
+      "mala-baodu-mian",
+      "huo-guo",
+      "ma-la-tang"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/センマイ",
+      "https://maratan.me/ingredients/"
+    ],
+    "tags": [
+      "牛肉",
+      "生食",
+      "あっさり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "赤身ステーキ",
+      "やわらかい肉",
+      "野菜"
+    ],
+    "avoidedBy": [
+      "内臓が苦手",
+      "ホルモン嫌い"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/senmai/1.jpg"
+    ]
   }
 ]
