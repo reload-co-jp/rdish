@@ -243946,5 +243946,2259 @@
     "images": [
       "/images/dishes/chochin/1.jpg"
     ]
+  },
+  {
+    "id": "hire-saki",
+    "name": "ヒレ先",
+    "kana": "ひれさき",
+    "aliases": [
+      "ヒレ下",
+      "テール",
+      "フィレ先"
+    ],
+    "englishName": "Tenderloin Tail",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "ヒレのうちリブロース側で剣先のように細くなる部分。ヒレらしいきめ細かさに加え、先端に向かってわずかにサシが入る。",
+    "menuDescription": "ヒレの先端部分。ヒレならではの柔らかさをもちつつ、ほんのり霜降りが入った上品な部位です。",
+    "whatComesOut": [
+      "薄めにカットしたヒレ肉",
+      "焼肉用の一口サイズ",
+      "塊のまま焼いてから切り分けたもの",
+      "塩・わさびなどシンプルな薬味"
+    ],
+    "tasteAndTexture": [
+      "きめ細かくとても柔らかい",
+      "ヒレの中ではわずかに脂の甘みがある",
+      "クセがなく上品な赤身の旨味"
+    ],
+    "orderAdvice": "ヒレを手頃に試したいときの好選択。火を入れすぎると硬くなるのでレア〜ミディアムレアで。",
+    "similarItems": [
+      {
+        "id": "hire",
+        "name": "ヒレ",
+        "difference": "ヒレ先はヒレの細い端。中心部より断面が小さく、わずかにサシが入る"
+      },
+      {
+        "id": "chateaubriand",
+        "name": "シャトーブリアン",
+        "difference": "シャトーブリアンはヒレ中心部の最上部位。ヒレ先はより小ぶりで手頃"
+      }
+    ],
+    "relatedIds": [
+      "hire",
+      "chateaubriand"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "あっさり",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "ホルモン",
+      "煮込み料理",
+      "濃厚ダレ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hire-saki/1.jpg"
+    ]
+  },
+  {
+    "id": "hire-atama",
+    "name": "ヒレ頭",
+    "kana": "ひれあたま",
+    "aliases": [
+      "ヒレ元",
+      "ヘッドフィレ",
+      "バット"
+    ],
+    "englishName": "Tenderloin Butt",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "ヒレのうちモモ側の太い端の部分。シャトーブリアンと同じ筋肉とそれを包む筋肉から成り、断面が大きく贅沢なステーキが取れる。",
+    "menuDescription": "ヒレの付け根の太い部分。シャトーブリアンと同じ筋肉を含む上質な赤身で、大判のステーキとして楽しめます。",
+    "whatComesOut": [
+      "大判にカットしたヒレステーキ",
+      "厚切りのグリル",
+      "ソースまたは塩・胡椒",
+      "付け合わせの野菜"
+    ],
+    "tasteAndTexture": [
+      "きめ細かく非常に柔らかい",
+      "脂は控えめで上品",
+      "赤身の旨味がしっかり"
+    ],
+    "orderAdvice": "シャトーブリアンに近い質を大きめのサイズで味わいたいなら注文する価値あり。脂の多い肉が好きなら物足りない。",
+    "similarItems": [
+      {
+        "id": "chateaubriand",
+        "name": "シャトーブリアン",
+        "difference": "同じ筋肉を含むが、ヒレ頭はシャトーブリアンの倍ほどの断面がある"
+      },
+      {
+        "id": "hire-saki",
+        "name": "ヒレ先",
+        "difference": "ヒレ先は反対側の細い端でわずかにサシが入る"
+      }
+    ],
+    "relatedIds": [
+      "chateaubriand",
+      "hire-saki"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "グリル",
+      "焼き物",
+      "あっさり",
+      "コース料理"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "ホルモン",
+      "煮込み料理"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "rosu-shin",
+    "name": "ロース芯",
+    "kana": "ろーすしん",
+    "aliases": [
+      "サーロイン芯",
+      "ストリップロイン芯"
+    ],
+    "englishName": "Striploin Eye",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "サーロインから脂・スジ・周囲の細かな筋肉を取り除いて現れる、サーロインで最も大きな筋肉。旨味を純粋に楽しめる贅沢な部位。",
+    "menuDescription": "サーロインの中心にある最も大きな筋肉だけを切り出した部位。サシと赤身の旨味を同時に堪能できる厚切りステーキ向きのお肉です。",
+    "whatComesOut": [
+      "分厚くカットしたステーキ",
+      "ミディアムレアの焼き加減",
+      "塩・胡椒やステーキソース",
+      "付け合わせ"
+    ],
+    "tasteAndTexture": [
+      "きめ細かく柔らかい",
+      "サシの甘い脂と濃い赤身の旨味",
+      "ジューシーで食べごたえがある"
+    ],
+    "orderAdvice": "サーロインの一番いいところを厚切りで食べたいなら最適。脂が苦手なら赤身寄りの部位を。",
+    "similarItems": [
+      {
+        "id": "sirloin",
+        "name": "サーロイン",
+        "difference": "ロース芯はサーロインから周囲の脂やスジを除いた芯の部分"
+      },
+      {
+        "id": "rib-rosu",
+        "name": "リブロース",
+        "difference": "リブロースは肩側のロースで、リブアイが芯にあたる"
+      }
+    ],
+    "relatedIds": [
+      "sirloin",
+      "rib-rosu"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "グリル",
+      "焼き物",
+      "ジューシー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "赤身",
+      "ヘルシー志向",
+      "あっさり"
+    ],
+    "avoidedBy": [
+      "脂っこいのが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "rosu-end",
+    "name": "ロースエンド",
+    "kana": "ろーすえんど",
+    "aliases": [
+      "サーロインエンド"
+    ],
+    "englishName": "Sirloin End",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "サーロインのうちお尻側でモモと接する部分。ロース芯と同じ筋肉に、赤みの強いモモの筋肉が重なる。",
+    "menuDescription": "サーロインの端、モモとの境目にあたる部位。ロースの旨味とモモの赤身が一度に楽しめます。",
+    "whatComesOut": [
+      "サイコロステーキ",
+      "角切りの焼肉",
+      "塩・胡椒やタレ",
+      "鉄板焼きの一品"
+    ],
+    "tasteAndTexture": [
+      "ロースの脂と赤身の両方の味",
+      "ほどよい歯ごたえ",
+      "濃いめの旨味"
+    ],
+    "orderAdvice": "サイコロステーキで出てきたら手頃に良い部位を楽しめる。極上の柔らかさを求めるならロース芯やヒレを。",
+    "similarItems": [
+      {
+        "id": "rosu-shin",
+        "name": "ロース芯",
+        "difference": "ロース芯はサーロインの中心。ロースエンドはモモ側でやや硬め"
+      },
+      {
+        "id": "sirloin",
+        "name": "サーロイン",
+        "difference": "サーロインの一部で、モモ寄りの端"
+      }
+    ],
+    "relatedIds": [
+      "rosu-shin",
+      "sirloin"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "香ばしい",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "魚料理",
+      "あっさり",
+      "野菜中心"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "rosu-kaburi",
+    "name": "ロースかぶり",
+    "kana": "ろーすかぶり",
+    "aliases": [
+      "リブキャップ",
+      "リブロースかぶり",
+      "かぶり"
+    ],
+    "englishName": "Rib Cap",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "リブロースの上部にかぶさる2つの筋肉。リブロースをステーキにする際に外され、霜降りの入る赤身として焼肉に使われる。",
+    "menuDescription": "リブロースの上に覆いかぶさる部位。霜降りが入りつつ赤身の味も濃く、薄切りの焼肉で人気の希少部位です。",
+    "whatComesOut": [
+      "薄切りの焼肉",
+      "さっと炙る提供",
+      "タレまたは塩",
+      "少量の盛り合わせ"
+    ],
+    "tasteAndTexture": [
+      "霜降りの甘い脂",
+      "赤身の濃い旨味",
+      "柔らかくジューシー"
+    ],
+    "orderAdvice": "リブロースの美味しさを焼肉で楽しみたい人に。アメリカでは「リブキャップ」として高評価の部位。",
+    "similarItems": [
+      {
+        "id": "rib-rosu",
+        "name": "リブロース",
+        "difference": "ロースかぶりはリブロース上部の筋肉で、ステーキ時に外される"
+      },
+      {
+        "id": "zabuton",
+        "name": "ザブトン",
+        "difference": "ザブトンは肩ロースの霜降り部位。ロースかぶりはリブロース側"
+      }
+    ],
+    "relatedIds": [
+      "rib-rosu",
+      "zabuton"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "ジューシー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "赤身",
+      "あっさり",
+      "煮込み料理"
+    ],
+    "avoidedBy": [
+      "脂っこいのが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/rosu-kaburi/1.jpg"
+    ]
+  },
+  {
+    "id": "sankaku-bara",
+    "name": "三角ばら",
+    "kana": "さんかくばら",
+    "aliases": [
+      "三角バラ",
+      "特上カルビ",
+      "チャックリブ"
+    ],
+    "englishName": "Chuck Rib",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "まえばら（かたばら）の一部で、三角形に切り出される美しい霜降りの部位。焼肉店で「特上カルビ」として出されることが多い。",
+    "menuDescription": "肩バラの一部を三角形に切り出した、美しい霜降りの部位です。焼肉店では特上カルビとして提供されることもあります。",
+    "whatComesOut": [
+      "霜降りの厚めの焼肉",
+      "特上カルビとしての提供",
+      "甘口のタレ",
+      "サイコロステーキ"
+    ],
+    "tasteAndTexture": [
+      "脂がとろける濃厚な甘み",
+      "柔らかい",
+      "こってりとした満足感"
+    ],
+    "orderAdvice": "脂の甘さを楽しみたいなら定番の上位カルビ。脂が溶け出すまでしっかり焼くのがコツ。脂が苦手なら避ける。",
+    "similarItems": [
+      {
+        "id": "karubi",
+        "name": "カルビ",
+        "difference": "三角ばらはカルビの中でも霜降りが美しい上位部位"
+      },
+      {
+        "id": "head-bara",
+        "name": "ヘッドバラ",
+        "difference": "ヘッドバラは三角ばらと同じ筋肉がなかばら側に続く部分"
+      }
+    ],
+    "relatedIds": [
+      "karubi",
+      "head-bara"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/",
+      "https://www.maff.go.jp/j/pr/aff/1608/spe2_02.html"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "こってり",
+      "ジューシー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "赤身",
+      "ヘルシー志向",
+      "あっさり"
+    ],
+    "avoidedBy": [
+      "脂っこいのが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sankaku-bara/1.jpg"
+    ]
+  },
+  {
+    "id": "brisket",
+    "name": "ブリスケット",
+    "kana": "ぶりすけっと",
+    "aliases": [
+      "ブリスケ",
+      "肩バラ",
+      "まえばら"
+    ],
+    "englishName": "Brisket",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "肋骨周辺の前寄り、胸部分のバラ肉。赤身と脂肪が層になり、繊維質だが力強い旨味がある。米国ではスモークブリスケットとして有名。",
+    "menuDescription": "牛の胸のバラ肉。赤身と脂が層になった力強い味わいで、焼肉はもちろん煮込みやシチューにも向くお肉です。",
+    "whatComesOut": [
+      "焼肉用の薄切り",
+      "シチューや煮込み",
+      "スモークした塊肉（BBQ）",
+      "塩だれ"
+    ],
+    "tasteAndTexture": [
+      "赤身の力強い旨味",
+      "繊維質でしっかりした噛みごたえ",
+      "長時間調理でほろほろになる"
+    ],
+    "orderAdvice": "肉の味の濃さを求めるなら良い選択。焼肉は軽く火を通して塩だれで。柔らかさ重視なら他の部位。",
+    "similarItems": [
+      {
+        "id": "sankaku-bara",
+        "name": "三角ばら",
+        "difference": "同じまえばらでも、三角ばらは霜降り、ブリスケットは赤身が特長"
+      },
+      {
+        "id": "beef-stew",
+        "name": "ビーフシチュー",
+        "difference": "ブリスケットはシチューに適した部位"
+      }
+    ],
+    "relatedIds": [
+      "sankaku-bara",
+      "beef-stew"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/",
+      "https://www.maff.go.jp/j/pr/aff/1608/spe2_02.html"
+    ],
+    "tags": [
+      "牛肉",
+      "煮込み",
+      "燻製",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "魚料理",
+      "あっさり",
+      "柔らかい肉"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/brisket/1.jpg",
+      "/images/dishes/brisket/2.jpg",
+      "/images/dishes/brisket/3.jpg"
+    ]
+  },
+  {
+    "id": "uwamisuji",
+    "name": "うわみすじ",
+    "kana": "うわみすじ",
+    "aliases": [
+      "ウワミスジ",
+      "上ミスジ"
+    ],
+    "englishName": "Top Blade Cap",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "ウデの中でみすじの上にある平たい部位。牛1頭から2kgほどしか取れない希少部位で、しっとりとした赤身が特徴。",
+    "menuDescription": "ミスジの上に重なる平たい部位。1頭からわずかしか取れない希少な赤身で、しっとりした肉質をレアで味わいます。",
+    "whatComesOut": [
+      "薄切りの焼肉",
+      "レアで炙る提供",
+      "塩または塩だれ",
+      "少量の希少部位盛り合わせ"
+    ],
+    "tasteAndTexture": [
+      "しっとりとした肉質",
+      "赤身の上品な旨味",
+      "脂は少なめ"
+    ],
+    "orderAdvice": "希少部位の盛り合わせにあれば試す価値あり。焼きすぎず塩で肉の味を楽しむ。",
+    "similarItems": [
+      {
+        "id": "misuji",
+        "name": "ミスジ",
+        "difference": "うわみすじはミスジの上の部位。ミスジより脂が少なく赤身寄り"
+      },
+      {
+        "id": "gyu-kata",
+        "name": "牛かた",
+        "difference": "ウデ（かた）に含まれる希少部位の一つ"
+      }
+    ],
+    "relatedIds": [
+      "misuji",
+      "gyu-kata"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "あっさり",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "こってり",
+      "ホルモン"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "kata-sankaku",
+    "name": "かたさんかく",
+    "kana": "かたさんかく",
+    "aliases": [
+      "カタサンカク",
+      "肩三角",
+      "ショルダークロッド"
+    ],
+    "englishName": "Shoulder Clod",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "ウデにある赤身の部位。肉の味がしっかりと感じられ、歯ごたえもある。肉通に愛される部位。",
+    "menuDescription": "肩（ウデ）の赤身部位。噛むほどに肉の旨味が広がる、肉好きに人気の希少部位です。",
+    "whatComesOut": [
+      "焼肉用のカット",
+      "レアで焼く提供",
+      "塩やわさび醤油",
+      "ローストビーフ"
+    ],
+    "tasteAndTexture": [
+      "しっかりした赤身の味",
+      "ほどよい歯ごたえ",
+      "脂はあっさり"
+    ],
+    "orderAdvice": "赤身の味の濃さを楽しみたい人向け。焼きすぎると硬くなるのでレアで。",
+    "similarItems": [
+      {
+        "id": "misuji",
+        "name": "ミスジ",
+        "difference": "同じウデの部位だが、ミスジは霜降り、かたさんかくは赤身"
+      },
+      {
+        "id": "ko-sankaku",
+        "name": "こさんかく",
+        "difference": "こさんかくはより繊維が粗く希少"
+      }
+    ],
+    "relatedIds": [
+      "misuji",
+      "ko-sankaku"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "こってり",
+      "とろける食感"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kata-sankaku/1.jpg"
+    ]
+  },
+  {
+    "id": "ko-sankaku",
+    "name": "こさんかく",
+    "kana": "こさんかく",
+    "aliases": [
+      "コサンカク",
+      "小三角"
+    ],
+    "englishName": "Chuck Tender Point",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "ブリスケットからつながるウデの部位。牛1頭から約1kgしか取れない希少な赤身で、繊維は粗く旨味が強い。",
+    "menuDescription": "肩の付け根にある小さな三角形の赤身。1頭から約1kgしか取れない希少部位で、噛みしめて味わう肉らしいお肉です。",
+    "whatComesOut": [
+      "焼肉用のカット",
+      "希少部位盛り合わせ",
+      "塩またはタレ",
+      "やや厚めの切り身"
+    ],
+    "tasteAndTexture": [
+      "強い赤身の旨味",
+      "粗めの繊維で食べごたえ",
+      "脂は少ない"
+    ],
+    "orderAdvice": "「肉を食べている」感を求める人に。柔らかさ重視なら他を選ぶ。",
+    "similarItems": [
+      {
+        "id": "kata-sankaku",
+        "name": "かたさんかく",
+        "difference": "かたさんかくのほうが柔らかめ"
+      },
+      {
+        "id": "brisket",
+        "name": "ブリスケット",
+        "difference": "こさんかくはブリスケットから続く部位"
+      }
+    ],
+    "relatedIds": [
+      "kata-sankaku",
+      "brisket"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "柔らかい肉",
+      "霜降り",
+      "こってり"
+    ],
+    "avoidedBy": [
+      "硬い肉が苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "ninoude",
+    "name": "にのうで",
+    "kana": "にのうで",
+    "aliases": [
+      "ニノウデ",
+      "二の腕",
+      "かいかくし"
+    ],
+    "englishName": "Shoulder Shank",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "ウデの中の煮込み向き部位。じっくり煮込むとスジはとろとろ、赤身はほろほろにほどけ、ダシ取りにも適する。",
+    "menuDescription": "肩から腕にかけての煮込み用部位。じっくり煮込むことでスジがとろけ、赤身がほろりとほどけます。",
+    "whatComesOut": [
+      "シチュー",
+      "長時間煮込んだ塊肉",
+      "スープ・ダシ",
+      "カレー"
+    ],
+    "tasteAndTexture": [
+      "とろとろのスジ",
+      "ほろほろにほどける赤身",
+      "濃いダシの旨味"
+    ],
+    "orderAdvice": "煮込み料理で出てくれば当たり。焼き物には向かない。",
+    "similarItems": [
+      {
+        "id": "gyu-sune",
+        "name": "牛すね",
+        "difference": "どちらも煮込み向き。にのうではウデの部位"
+      },
+      {
+        "id": "maesune",
+        "name": "まえすね",
+        "difference": "まえすねはにのうでの先にある"
+      }
+    ],
+    "relatedIds": [
+      "gyu-sune",
+      "maesune"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "煮込み",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "グリル",
+      "生食",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "tougarashi",
+    "name": "とうがらし",
+    "kana": "とうがらし",
+    "aliases": [
+      "トウガラシ",
+      "トンビ",
+      "とんび"
+    ],
+    "englishName": "Chuck Tender",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "ウデの中の唐辛子のような形をした赤身部位。腕を動かす筋肉で、肉汁が豊富。ローストビーフや焼肉に使われる。",
+    "menuDescription": "唐辛子のような形をした肩の赤身部位。肉汁が豊富で、ローストビーフや焼肉に向いています。",
+    "whatComesOut": [
+      "ローストビーフ",
+      "レアの焼肉",
+      "醤油や塩胡椒",
+      "薄切りの盛り合わせ"
+    ],
+    "tasteAndTexture": [
+      "しっかりした赤身",
+      "肉汁が豊富",
+      "淡泊でさっぱり"
+    ],
+    "orderAdvice": "赤身をさっぱり楽しみたいならおすすめ。辛くはないので名前に惑わされないこと。",
+    "similarItems": [
+      {
+        "id": "kata-sankaku",
+        "name": "かたさんかく",
+        "difference": "どちらもウデの赤身。とうがらしはより淡泊"
+      },
+      {
+        "id": "gyu-kata",
+        "name": "牛かた",
+        "difference": "ウデ（かた）の希少部位の一つ"
+      }
+    ],
+    "relatedIds": [
+      "kata-sankaku",
+      "gyu-kata"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/",
+      "https://www.maff.go.jp/j/pr/aff/1608/spe2_02.html"
+    ],
+    "tags": [
+      "牛肉",
+      "ロースト",
+      "焼き物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "こってり",
+      "ホルモン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tougarashi/1.jpg"
+    ]
+  },
+  {
+    "id": "head-bara",
+    "name": "ヘッドバラ",
+    "kana": "へっどばら",
+    "aliases": [
+      "ヘッドばら"
+    ],
+    "englishName": "Rib Head Plate",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "なかばらの部位で、三角ばらと同じ筋肉。霜降りがしっかり入り、脂がとろりと溶ける。",
+    "menuDescription": "肋骨まわりのバラ肉で、三角ばらと同じ筋肉。たっぷりの霜降りが溶け出す濃厚な焼肉向き部位です。",
+    "whatComesOut": [
+      "霜降りの焼肉",
+      "甘口のタレ",
+      "わさび醤油",
+      "ビールと一緒に"
+    ],
+    "tasteAndTexture": [
+      "とろりと溶ける脂",
+      "柔らかい",
+      "こってり濃厚"
+    ],
+    "orderAdvice": "カルビ系の脂の旨さが好きなら。脂が溶けるまで焼くのがコツ。",
+    "similarItems": [
+      {
+        "id": "sankaku-bara",
+        "name": "三角ばら",
+        "difference": "同じ筋肉。三角ばらはまえばら側"
+      },
+      {
+        "id": "karubi",
+        "name": "カルビ",
+        "difference": "上カルビとして出されることがある"
+      }
+    ],
+    "relatedIds": [
+      "sankaku-bara",
+      "karubi"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "こってり",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "赤身",
+      "あっさり",
+      "ヘルシー志向"
+    ],
+    "avoidedBy": [
+      "脂っこいのが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "barageta",
+    "name": "バラゲタ",
+    "kana": "ばらげた",
+    "aliases": [
+      "ゲタカルビ",
+      "中落ちカルビ",
+      "ゲタ"
+    ],
+    "englishName": "Rib Finger",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "あばら骨と骨の間のバラ肉。旨味のある赤身と荒々しいサシでこってりした味わい。骨を外した形が下駄に似ることが名の由来とされる。",
+    "menuDescription": "あばら骨の間から取れるバラ肉。中落ちカルビとも呼ばれ、赤身と脂の濃厚な味わいが楽しめます。",
+    "whatComesOut": [
+      "細長い中落ちカルビ",
+      "甘口や辛口のタレ",
+      "焼肉用の盛り",
+      "ご飯と一緒に"
+    ],
+    "tasteAndTexture": [
+      "こってり濃厚",
+      "赤身の旨味と脂のコク",
+      "ほどよい歯ごたえ"
+    ],
+    "orderAdvice": "ご飯が進むカルビが好きなら定番。余分な脂が落ちるまで焼く。",
+    "similarItems": [
+      {
+        "id": "karubi",
+        "name": "カルビ",
+        "difference": "バラゲタは骨の間のカルビで、中落ちカルビとして区別される"
+      },
+      {
+        "id": "short-plate",
+        "name": "ショートプレート",
+        "difference": "ショートプレートは一般的なカルビの主な部位"
+      }
+    ],
+    "relatedIds": [
+      "karubi",
+      "short-plate"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/",
+      "https://www.maff.go.jp/j/pr/aff/1608/spe2_02.html"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "こってり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "あっさり",
+      "赤身",
+      "ヘルシー志向"
+    ],
+    "avoidedBy": [
+      "脂っこいのが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/barageta/1.jpg",
+      "/images/dishes/barageta/2.jpg"
+    ]
+  },
+  {
+    "id": "short-plate",
+    "name": "ショートプレート",
+    "kana": "しょーとぷれーと",
+    "aliases": [
+      "そとばら",
+      "トモバラ",
+      "プレート"
+    ],
+    "englishName": "Short Plate",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "そとばらに含まれるバラ肉で、いわゆるカルビの主な部位。こってりした部分と赤身・脂のバランスがよい部分がある。牛丼用の薄切りにもよく使われる。",
+    "menuDescription": "腹側のバラ肉で、焼肉のカルビの代表的な部位。脂の旨味がしっかり楽しめます。",
+    "whatComesOut": [
+      "カルビとしての焼肉",
+      "濃厚なタレや辛口ダレ",
+      "牛丼などの薄切り",
+      "ビールやハイボールとともに"
+    ],
+    "tasteAndTexture": [
+      "脂のこってりした甘み",
+      "ジューシー",
+      "ややしっかりした食感"
+    ],
+    "orderAdvice": "定番カルビを食べたいならこれ。脂を落とすように焼き、濃いタレで。",
+    "similarItems": [
+      {
+        "id": "karubi",
+        "name": "カルビ",
+        "difference": "カルビはショートプレートを中心としたバラ肉の総称"
+      },
+      {
+        "id": "sankaku-bara",
+        "name": "三角ばら",
+        "difference": "三角ばらはより霜降りが美しい上位カルビ"
+      }
+    ],
+    "relatedIds": [
+      "karubi",
+      "sankaku-bara"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "こってり",
+      "ジューシー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "あっさり",
+      "赤身",
+      "魚料理"
+    ],
+    "avoidedBy": [
+      "脂っこいのが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/short-plate/1.png",
+      "/images/dishes/short-plate/2.jpg",
+      "/images/dishes/short-plate/3.jpg"
+    ]
+  },
+  {
+    "id": "inside-skirt",
+    "name": "インサイドスカート",
+    "kana": "いんさいどすかーと",
+    "aliases": [
+      "ささみ（牛）",
+      "腹横筋"
+    ],
+    "englishName": "Inside Skirt",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "横隔膜（ハラミ）近くの腹横筋で、バラ肉の赤身。食感はハラミに似て上質な旨味がある。",
+    "menuDescription": "ハラミの近くにあるバラ肉の赤身。ハラミのような食感と濃い旨味が人気の希少部位です。",
+    "whatComesOut": [
+      "炙る程度のレアな焼肉",
+      "醤油または塩胡椒",
+      "希少部位盛り合わせ",
+      "厚めのカット"
+    ],
+    "tasteAndTexture": [
+      "ハラミに近い柔らかさ",
+      "濃い赤身の旨味",
+      "肉汁が多い"
+    ],
+    "orderAdvice": "ハラミ好きなら必ず試したい。焼きすぎず軽く炙って。",
+    "similarItems": [
+      {
+        "id": "harami",
+        "name": "ハラミ",
+        "difference": "ハラミは横隔膜（内臓扱い）。インサイドスカートはバラ肉の赤身"
+      },
+      {
+        "id": "flank",
+        "name": "フランク",
+        "difference": "同じそとばらの部位。フランクはサシが多め"
+      }
+    ],
+    "relatedIds": [
+      "harami",
+      "flank"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/",
+      "https://www.maff.go.jp/j/pr/aff/1608/spe2_02.html"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "ジューシー",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "こってり",
+      "魚料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "flank",
+    "name": "フランク",
+    "kana": "ふらんく",
+    "aliases": [
+      "ささみ",
+      "カッパ",
+      "フランクステーキ"
+    ],
+    "englishName": "Flank",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "そとばらの部位で、きめ細かく柔らかな肉質。赤身とサシのバランスがよく、こってりし過ぎないバラ肉として好まれる。海外ではフランクステーキとして定番。",
+    "menuDescription": "腹側のバラ肉で、きめが細かく赤身とサシのバランスが良い部位です。こってりし過ぎないカルビとして人気があります。",
+    "whatComesOut": [
+      "表面をカリッと焼いた焼肉",
+      "フランクステーキ",
+      "繊維を断つ薄切り",
+      "タレや塩"
+    ],
+    "tasteAndTexture": [
+      "赤身とサシのバランスがよい",
+      "きめ細かく柔らかい",
+      "ほどよいコク"
+    ],
+    "orderAdvice": "カルビほど重くないバラ肉を求めるなら。海外のステーキハウスでも見かける部位。",
+    "similarItems": [
+      {
+        "id": "short-plate",
+        "name": "ショートプレート",
+        "difference": "ショートプレートより脂が控えめ"
+      },
+      {
+        "id": "inside-skirt",
+        "name": "インサイドスカート",
+        "difference": "インサイドスカートはより赤身寄りでハラミに近い"
+      }
+    ],
+    "relatedIds": [
+      "short-plate",
+      "inside-skirt"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "グリル",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "魚料理",
+      "煮込み料理",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/flank/1.jpg",
+      "/images/dishes/flank/2.jpg",
+      "/images/dishes/flank/3.jpg"
+    ]
+  },
+  {
+    "id": "oomomo",
+    "name": "大もも",
+    "kana": "おおもも",
+    "aliases": [
+      "オオモモ",
+      "うちもも",
+      "トップサイド"
+    ],
+    "englishName": "Topside",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "内もものうち大きな塊の部位。ステーキ向き・ローストビーフ向き・煮込み向きの3つの肉質に分かれる。牛肉の中でも特に脂肪が少ない赤身。",
+    "menuDescription": "内ももの大きな赤身部位。脂肪が少なくヘルシーで、ステーキやローストビーフ、煮込みなど用途に応じて使い分けられます。",
+    "whatComesOut": [
+      "ローストビーフ",
+      "赤身ステーキ",
+      "煮込み",
+      "薄切り"
+    ],
+    "tasteAndTexture": [
+      "脂肪が少なく赤身中心",
+      "雑味が少ないさっぱりした味",
+      "場所により柔らかさが異なる"
+    ],
+    "orderAdvice": "ヘルシーな赤身を食べたいならおすすめ。霜降りを求めるなら不向き。",
+    "similarItems": [
+      {
+        "id": "gyu-momo",
+        "name": "牛もも",
+        "difference": "大ももは内ももの主要部分"
+      },
+      {
+        "id": "komomo",
+        "name": "小もも",
+        "difference": "小ももはよりしっとり柔らか"
+      }
+    ],
+    "relatedIds": [
+      "gyu-momo",
+      "komomo"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/",
+      "https://www.maff.go.jp/j/pr/aff/1608/spe2_02.html"
+    ],
+    "tags": [
+      "牛肉",
+      "ロースト",
+      "焼き物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "こってり",
+      "とろける食感"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/oomomo/1.jpg",
+      "/images/dishes/oomomo/2.jpg",
+      "/images/dishes/oomomo/3.jpg"
+    ]
+  },
+  {
+    "id": "komomo",
+    "name": "小もも",
+    "kana": "こもも",
+    "aliases": [
+      "コモモ"
+    ],
+    "englishName": "Inside Round Cap",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "内ももの部位で、大ももよりしっとりと柔らかい。味わいはさっぱり淡白で、場所によってステーキ向き・ローストビーフ向きに分かれる。",
+    "menuDescription": "内ももの中でもしっとりと柔らかな赤身。さっぱり淡白な味わいで、ステーキやローストビーフに向いています。",
+    "whatComesOut": [
+      "ローストビーフ",
+      "赤身ステーキ",
+      "薄切りの焼肉",
+      "ソースや醤油"
+    ],
+    "tasteAndTexture": [
+      "しっとり柔らか",
+      "さっぱり淡白",
+      "脂は少ない"
+    ],
+    "orderAdvice": "さっぱりした赤身好きに。濃厚さを求めるなら他の部位。",
+    "similarItems": [
+      {
+        "id": "oomomo",
+        "name": "大もも",
+        "difference": "大ももよりしっとり柔らか"
+      },
+      {
+        "id": "magomomo",
+        "name": "孫もも",
+        "difference": "孫ももはスジが入り食べごたえがある"
+      }
+    ],
+    "relatedIds": [
+      "oomomo",
+      "magomomo"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "ロースト",
+      "焼き物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "こってり",
+      "濃厚ダレ"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/komomo/1.jpg"
+    ]
+  },
+  {
+    "id": "magomomo",
+    "name": "孫もも",
+    "kana": "まごもも",
+    "aliases": [
+      "マゴモモ"
+    ],
+    "englishName": "Inside Round Under Cap",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "内ももの上部「うちももかぶり」の中に潜む赤身部位。ほとんど商品化されず、多くは切落しや挽肉に加工される。",
+    "menuDescription": "内ももに潜む小さな赤身部位で、ほとんど市場に出回らない希少品。スジが入り食べごたえがあります。",
+    "whatComesOut": [
+      "薄切りの焼肉",
+      "希少部位盛り合わせ",
+      "切り落とし",
+      "塩やタレ"
+    ],
+    "tasteAndTexture": [
+      "スジ入りの食べごたえ",
+      "赤身の味",
+      "脂は少なめ"
+    ],
+    "orderAdvice": "見かけることが稀なので珍しさで選ぶ価値あり。柔らかさ重視なら他を。",
+    "similarItems": [
+      {
+        "id": "komomo",
+        "name": "小もも",
+        "difference": "同じ内ももの部位。小ももより歯ごたえがある"
+      },
+      {
+        "id": "mince",
+        "name": "ミンチ",
+        "difference": "多くは挽肉に加工される"
+      }
+    ],
+    "relatedIds": [
+      "komomo",
+      "mince"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "とろける食感",
+      "こってり"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/magomomo/1.jpg"
+    ]
+  },
+  {
+    "id": "nakaniku",
+    "name": "なかにく",
+    "kana": "なかにく",
+    "aliases": [
+      "ナカニク",
+      "外もも",
+      "そともも"
+    ],
+    "englishName": "Outside Flat",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "外ももの中ではきめ細かい部位。あっさりした味わいで、しゃぶしゃぶやローストビーフに向く。煮込みすぎると硬くなる。",
+    "menuDescription": "外ももの中でもきめ細かな赤身。あっさりした味わいで、しゃぶしゃぶやローストビーフに使われます。",
+    "whatComesOut": [
+      "しゃぶしゃぶ用の薄切り",
+      "ローストビーフ",
+      "野菜巻き",
+      "ポン酢やごまだれ"
+    ],
+    "tasteAndTexture": [
+      "あっさりした赤身",
+      "きめ細かい",
+      "ほどよい弾力"
+    ],
+    "orderAdvice": "赤身のしゃぶしゃぶならよい選択。霜降りのとろける感じを求めるなら肩ロース。",
+    "similarItems": [
+      {
+        "id": "gyu-kata-rosu",
+        "name": "牛肩ロース",
+        "difference": "肩ロースより脂が少なくあっさり"
+      },
+      {
+        "id": "shikinbou",
+        "name": "しきんぼう",
+        "difference": "同じ外ももの部位。しきんぼうは弾力が強い"
+      }
+    ],
+    "relatedIds": [
+      "gyu-kata-rosu",
+      "shikinbou"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/",
+      "https://www.maff.go.jp/j/pr/aff/1608/spe2_02.html"
+    ],
+    "tags": [
+      "牛肉",
+      "ロースト",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "こってり",
+      "ホルモン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/nakaniku/1.jpg",
+      "/images/dishes/nakaniku/2.jpg",
+      "/images/dishes/nakaniku/3.jpg"
+    ]
+  },
+  {
+    "id": "shikinbou",
+    "name": "しきんぼう",
+    "kana": "しきんぼう",
+    "aliases": [
+      "シキンボウ",
+      "シキンボ",
+      "アイオブラウンド"
+    ],
+    "englishName": "Eye of Round",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "外ももの棒状の部位。形が金の延べ棒に似ることが名の由来。肉質はやや粗く弾力があり、ローストビーフに多く使われる。",
+    "menuDescription": "外ももの棒状の赤身部位。弾むような弾力があり、ローストビーフや炙りで楽しまれます。",
+    "whatComesOut": [
+      "ローストビーフ",
+      "薄切りの炙り",
+      "わさび醤油",
+      "たたき"
+    ],
+    "tasteAndTexture": [
+      "弾むような弾力",
+      "赤身の濃い味",
+      "脂が少ない"
+    ],
+    "orderAdvice": "ローストビーフで出てきたら定番の部位。柔らかさよりも噛みごたえを楽しむ人向け。",
+    "similarItems": [
+      {
+        "id": "nakaniku",
+        "name": "なかにく",
+        "difference": "なかにくのほうがきめ細かい"
+      },
+      {
+        "id": "roast-beef-sandwich",
+        "name": "ローストビーフサンド",
+        "difference": "ローストビーフに使われる代表的部位"
+      }
+    ],
+    "relatedIds": [
+      "nakaniku",
+      "roast-beef-sandwich"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "ロースト",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "とろける食感",
+      "こってり"
+    ],
+    "avoidedBy": [
+      "硬い肉が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "habaki",
+    "name": "はばき",
+    "kana": "はばき",
+    "aliases": [
+      "ハバキ",
+      "ヒラメ筋",
+      "ちまき"
+    ],
+    "englishName": "Heel Muscle",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "大腿骨と脛骨の関節を覆う部位で、人間でいうふくらはぎのヒラメ筋。ゼラチン質が豊富で煮込みに向く。",
+    "menuDescription": "後ろ脚の関節まわりの部位。ゼラチン質が豊富で、煮込み料理でとろりとした食感が楽しめます。",
+    "whatComesOut": [
+      "煮込み料理",
+      "シチュー",
+      "薄切りの焼肉",
+      "スープ"
+    ],
+    "tasteAndTexture": [
+      "ゼラチン質のとろみ",
+      "繊維は粗め",
+      "旨味が濃い"
+    ],
+    "orderAdvice": "煮込みならおすすめ。焼肉なら薄切りで。",
+    "similarItems": [
+      {
+        "id": "senbon",
+        "name": "せんぼん",
+        "difference": "せんぼんははばきの中心部"
+      },
+      {
+        "id": "gyu-sune",
+        "name": "牛すね",
+        "difference": "すねと同様に煮込み向き"
+      }
+    ],
+    "relatedIds": [
+      "senbon",
+      "gyu-sune"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "煮込み",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "生食",
+      "あっさり",
+      "柔らかい肉"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "senbon",
+    "name": "せんぼん",
+    "kana": "せんぼん",
+    "aliases": [
+      "センボン",
+      "千本",
+      "千本筋"
+    ],
+    "englishName": "Heel Center",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "はばきを分割した中心部。納豆を包むワラのような形で「すじが1000本ある」ことが名の由来。牛1頭に2本（300〜400g）のみ。",
+    "menuDescription": "はばきの中心にある希少部位。細かなスジが走り、薄切りにすると独特のコリコリ食感が楽しめます。",
+    "whatComesOut": [
+      "ごく薄切りの焼肉",
+      "希少部位盛り合わせ",
+      "塩またはタレ",
+      "少量の提供"
+    ],
+    "tasteAndTexture": [
+      "コリコリとした独特の食感",
+      "スジの歯ごたえ",
+      "赤身の旨味"
+    ],
+    "orderAdvice": "珍しい食感を試したい人向け。柔らかい肉を求めるなら避ける。",
+    "similarItems": [
+      {
+        "id": "habaki",
+        "name": "はばき",
+        "difference": "せんぼんははばきの中心部"
+      },
+      {
+        "id": "urute",
+        "name": "ウルテ",
+        "difference": "どちらもコリコリ食感だがウルテは気管軟骨"
+      }
+    ],
+    "relatedIds": [
+      "habaki",
+      "urute"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "香ばしい",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "柔らかい肉",
+      "とろける食感",
+      "霜降り"
+    ],
+    "avoidedBy": [
+      "硬い肉が苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/senbon/1.jpg"
+    ]
+  },
+  {
+    "id": "ramushin",
+    "name": "ラム芯",
+    "kana": "らむしん",
+    "aliases": [
+      "ラムシン",
+      "ランプ芯"
+    ],
+    "englishName": "Rump Heart",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "ランプの中に含まれる棒状の部位で、ランプで最も柔らかい部分。ヒレに次ぐ柔らかさで、肉汁も豊富。",
+    "menuDescription": "ランプの中心にある最も柔らかな部位。ヒレに迫る柔らかさで、しっとりジューシーな赤身ステーキに最適です。",
+    "whatComesOut": [
+      "赤身ステーキ",
+      "レアの焼肉",
+      "塩胡椒やソース",
+      "ローストビーフ"
+    ],
+    "tasteAndTexture": [
+      "ヒレに次ぐ柔らかさ",
+      "きめ細かい",
+      "肉汁が豊富"
+    ],
+    "orderAdvice": "ヒレほど高くなく柔らかい赤身を求めるなら最良。焼きすぎ注意。",
+    "similarItems": [
+      {
+        "id": "ranpu",
+        "name": "ランプ",
+        "difference": "ラム芯はランプの中で最も柔らかい芯の部分"
+      },
+      {
+        "id": "hire",
+        "name": "ヒレ",
+        "difference": "ヒレに次ぐ柔らかさを持つ"
+      }
+    ],
+    "relatedIds": [
+      "ranpu",
+      "hire"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/",
+      "https://www.maff.go.jp/j/pr/aff/1608/spe2_02.html"
+    ],
+    "tags": [
+      "牛肉",
+      "グリル",
+      "焼き物",
+      "ジューシー",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "こってり",
+      "ホルモン"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/ramushin/1.jpg"
+    ]
+  },
+  {
+    "id": "yari",
+    "name": "ヤリ",
+    "kana": "やり",
+    "aliases": [
+      "イチボ先",
+      "ヤリ先"
+    ],
+    "englishName": "Rump Cap Tip",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "イチボの先端部分。槍の穂先のような形から名付けられた。赤身肉の牛でもサシが多く柔らかい。",
+    "menuDescription": "イチボの先端にあたる部位。サシが多く柔らかで、イチボの中でも特に贅沢な部分です。",
+    "whatComesOut": [
+      "焼肉用のカット",
+      "希少部位盛り合わせ",
+      "塩や醤油",
+      "赤ワインとともに"
+    ],
+    "tasteAndTexture": [
+      "サシが多くジューシー",
+      "柔らかい",
+      "濃い旨味"
+    ],
+    "orderAdvice": "イチボが好きならぜひ。希少なのであれば頼む価値あり。",
+    "similarItems": [
+      {
+        "id": "ichibo",
+        "name": "イチボ",
+        "difference": "ヤリはイチボの先端でよりサシが多い"
+      },
+      {
+        "id": "ranpu",
+        "name": "ランプ",
+        "difference": "イチボはランプに寄り添う部位"
+      }
+    ],
+    "relatedIds": [
+      "ichibo",
+      "ranpu"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "ジューシー",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "赤身",
+      "あっさり",
+      "煮込み料理"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/yari/1.jpg"
+    ]
+  },
+  {
+    "id": "necktie",
+    "name": "ネクタイ",
+    "kana": "ねくたい",
+    "aliases": [
+      "ネクタイ（牛）"
+    ],
+    "englishName": "Rump Tie",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "らんいちにあるネクタイのような形をした赤身部位。1頭につき300gほどの希少部位で、しっとりとした肉質。",
+    "menuDescription": "ネクタイのような細長い形の希少赤身。しっとり柔らかな肉質を軽く炙って楽しみます。",
+    "whatComesOut": [
+      "軽く炙った焼肉",
+      "希少部位盛り合わせ",
+      "塩やわさび醤油",
+      "少量の提供"
+    ],
+    "tasteAndTexture": [
+      "しっとりとした赤身",
+      "柔らかい",
+      "上品な旨味"
+    ],
+    "orderAdvice": "希少部位を巡りたい人に。焼きすぎないよう軽く炙る。",
+    "similarItems": [
+      {
+        "id": "ichibo",
+        "name": "イチボ",
+        "difference": "同じらんいちの部位。イチボは脂が多め"
+      },
+      {
+        "id": "ramushin",
+        "name": "ラム芯",
+        "difference": "どちらもらんいちの柔らかな赤身"
+      }
+    ],
+    "relatedIds": [
+      "ichibo",
+      "ramushin"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "あっさり",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "こってり",
+      "煮込み料理"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/necktie/1.jpg"
+    ]
+  },
+  {
+    "id": "kamenoko",
+    "name": "かめのこ",
+    "kana": "かめのこ",
+    "aliases": [
+      "カメノコ",
+      "亀の子",
+      "シンシン"
+    ],
+    "englishName": "Knuckle Center",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "しんたまの中で最も赤身が多い部位。厚みのある側が最も柔らかく、徐々にしっかりした肉質になる。",
+    "menuDescription": "しんたま（モモ）の中で最も赤身の多い部位。ローストビーフや炙り焼肉で、赤身の旨味をストレートに味わえます。",
+    "whatComesOut": [
+      "ローストビーフ",
+      "炙りの焼肉",
+      "わさび醤油",
+      "薄切り"
+    ],
+    "tasteAndTexture": [
+      "赤身中心",
+      "部分により柔らかさが変わる",
+      "旨味がしっかり"
+    ],
+    "orderAdvice": "赤身好きにおすすめ。脂の甘さを求めるならともさんかく。",
+    "similarItems": [
+      {
+        "id": "tomosankaku",
+        "name": "トモサンカク",
+        "difference": "同じしんたまの部位。ともさんかくは霜降りが多い"
+      },
+      {
+        "id": "marushin",
+        "name": "まるしん",
+        "difference": "まるしんはよりきめ細かく柔らか"
+      }
+    ],
+    "relatedIds": [
+      "tomosankaku",
+      "marushin"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/",
+      "https://www.maff.go.jp/j/pr/aff/1608/spe2_02.html"
+    ],
+    "tags": [
+      "牛肉",
+      "ロースト",
+      "焼き物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "こってり",
+      "とろける食感"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "marushin",
+    "name": "まるしん",
+    "kana": "まるしん",
+    "aliases": [
+      "マルシン",
+      "丸芯",
+      "ヒウチ芯"
+    ],
+    "englishName": "Knuckle Heart",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "しんたまの中心部。きめ細かで濃厚かつ柔らかな赤身で、舌触りが良い。",
+    "menuDescription": "モモの中心にある丸い赤身。きめ細かく柔らかで、濃厚な赤身の味わいが楽しめます。",
+    "whatComesOut": [
+      "軽く炙った焼肉",
+      "赤身ステーキ",
+      "わさび醤油や塩ダレ",
+      "ローストビーフ"
+    ],
+    "tasteAndTexture": [
+      "きめ細かく柔らか",
+      "濃厚な赤身の味",
+      "なめらかな舌触り"
+    ],
+    "orderAdvice": "上質な赤身を味わいたいなら好選択。少し炙る程度で。",
+    "similarItems": [
+      {
+        "id": "kamenoko",
+        "name": "かめのこ",
+        "difference": "かめのこより柔らかくきめ細かい"
+      },
+      {
+        "id": "marukawa",
+        "name": "まるかわ",
+        "difference": "まるかわはまるしんを包む部位"
+      }
+    ],
+    "relatedIds": [
+      "kamenoko",
+      "marukawa"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "あっさり",
+      "ジューシー"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "こってり",
+      "ホルモン"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/marushin/1.jpg"
+    ]
+  },
+  {
+    "id": "marukawa",
+    "name": "まるかわ",
+    "kana": "まるかわ",
+    "aliases": [
+      "マルカワ",
+      "丸皮"
+    ],
+    "englishName": "Knuckle Side",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "しんたまの一部で、まるしんを包む部位。濃厚な赤身ときめ細かな部分があり、肉本来の旨味を楽しめる。",
+    "menuDescription": "モモのしんたまの一部。赤身の濃厚さとコクがしっかり楽しめる焼肉向きの部位です。",
+    "whatComesOut": [
+      "レアの焼肉",
+      "塩だれ",
+      "希少部位盛り合わせ",
+      "赤身ステーキ"
+    ],
+    "tasteAndTexture": [
+      "濃厚な赤身",
+      "部分的にきめ細かい",
+      "しっかりしたコク"
+    ],
+    "orderAdvice": "肉本来の味を楽しみたい人向け。レアで塩だれが好相性。",
+    "similarItems": [
+      {
+        "id": "marushin",
+        "name": "まるしん",
+        "difference": "まるしんの外側の部位で、やや歯ごたえがある"
+      },
+      {
+        "id": "tomosankaku",
+        "name": "トモサンカク",
+        "difference": "同じしんたまの部位。トモサンカクは霜降り"
+      }
+    ],
+    "relatedIds": [
+      "marushin",
+      "tomosankaku"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "焼き物",
+      "あっさり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "こってり",
+      "とろける食感"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "maesune",
+    "name": "まえすね",
+    "kana": "まえすね",
+    "aliases": [
+      "マエスネ",
+      "前すね",
+      "フォアシャンク"
+    ],
+    "englishName": "Fore Shank",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "ウデ（前足）のすね肉で、にのうでの先にある。運動量が多く脂肪はほとんどなく、コラーゲンが多い。ダシ取りやカレー・シチュー・おでんに向く。",
+    "menuDescription": "前脚のすね肉。脂肪が少なくスジが多く、長時間煮込むことでとろりとほぐれ、濃いダシが出ます。",
+    "whatComesOut": [
+      "カレーやシチュー",
+      "おでんの牛すじ",
+      "スープ・ダシ",
+      "煮込み料理"
+    ],
+    "tasteAndTexture": [
+      "スジがとろとろになる",
+      "赤身はほろほろ",
+      "濃いダシの旨味"
+    ],
+    "orderAdvice": "煮込み料理なら外れなし。焼き物には不向き。",
+    "similarItems": [
+      {
+        "id": "gyu-sune",
+        "name": "牛すね",
+        "difference": "牛すねの前脚側"
+      },
+      {
+        "id": "tomosune",
+        "name": "ともすね",
+        "difference": "ともすねは後ろ脚のすねで特長は同じ"
+      }
+    ],
+    "relatedIds": [
+      "gyu-sune",
+      "tomosune"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "煮込み",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "生食",
+      "グリル",
+      "あっさり"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "makura",
+    "name": "まくら",
+    "kana": "まくら",
+    "aliases": [
+      "マクラ",
+      "ハトチマキ"
+    ],
+    "englishName": "Shank Center",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "まえすねの中にある部位。すねの中では肉質が良く、煮込みのほか薄切りにして焼肉でも楽しめる。",
+    "menuDescription": "すね肉の中でも上質な部位。煮込みはもちろん、薄切りにすれば焼肉でも味わえます。",
+    "whatComesOut": [
+      "薄切りの焼肉",
+      "シチュー",
+      "カレー",
+      "煮込み"
+    ],
+    "tasteAndTexture": [
+      "すねの中では柔らかめ",
+      "濃い赤身の旨味",
+      "ほどよい歯ごたえ"
+    ],
+    "orderAdvice": "すね肉を焼肉で味わえる珍しい部位。見かけたら試す価値あり。",
+    "similarItems": [
+      {
+        "id": "maesune",
+        "name": "まえすね",
+        "difference": "まくらはまえすねの中の上質な部分"
+      },
+      {
+        "id": "gyu-sune",
+        "name": "牛すね",
+        "difference": "一般的なすね肉より柔らかい"
+      }
+    ],
+    "relatedIds": [
+      "maesune",
+      "gyu-sune"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/",
+      "https://www.maff.go.jp/j/pr/aff/1608/spe2_02.html"
+    ],
+    "tags": [
+      "牛肉",
+      "煮込み",
+      "焼き物",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "霜降り",
+      "とろける食感",
+      "生食"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/makura/1.jpg"
+    ]
+  },
+  {
+    "id": "tomosune",
+    "name": "ともすね",
+    "kana": "ともすね",
+    "aliases": [
+      "トモスネ",
+      "後ろすね",
+      "ハインドシャンク"
+    ],
+    "englishName": "Hind Shank",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "後ろ脚のすね肉。まえすねと同じく脂肪が少なく、リーズナブルで味が濃い。圧力鍋で早く柔らかくなる。",
+    "menuDescription": "後ろ脚のすね肉。脂肪が少なくヘルシーで、煮込むと濃厚な旨味が溶け出します。",
+    "whatComesOut": [
+      "ビーフシチュー",
+      "カレー",
+      "ポトフ",
+      "スープ"
+    ],
+    "tasteAndTexture": [
+      "ほろほろとほどける",
+      "濃い肉の旨味",
+      "脂が少なくヘルシー"
+    ],
+    "orderAdvice": "煮込み料理で選ぶなら定番。焼き物は硬い。",
+    "similarItems": [
+      {
+        "id": "maesune",
+        "name": "まえすね",
+        "difference": "前脚のすね。特長は同じ"
+      },
+      {
+        "id": "pot-au-feu",
+        "name": "ポトフ",
+        "difference": "すね肉はポトフの定番"
+      }
+    ],
+    "relatedIds": [
+      "maesune",
+      "pot-au-feu"
+    ],
+    "source": [
+      "https://tommybeef.jp/parts/"
+    ],
+    "tags": [
+      "牛肉",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "グリル",
+      "生食",
+      "霜降り"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tomosune/1.jpg"
+    ]
   }
 ]
