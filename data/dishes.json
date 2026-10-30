@@ -68179,9 +68179,6 @@
     "name": "ロース",
     "kana": "ろーす",
     "aliases": [
-      "肩ロース",
-      "リブロース",
-      "サーロイン",
       "背ロース"
     ],
     "englishName": "Loin",
@@ -68228,7 +68225,10 @@
       "harami",
       "hire",
       "steak",
-      "pork-chop"
+      "pork-chop",
+      "gyu-kata-rosu",
+      "rib-rosu",
+      "sirloin"
     ],
     "source": [
       "https://karubikazan.com/44/",
@@ -241083,6 +241083,2868 @@
       "/images/dishes/konbu/1.jpg",
       "/images/dishes/konbu/2.jpg",
       "/images/dishes/konbu/3.jpg"
+    ]
+  },
+  {
+    "id": "hatsu",
+    "name": "ハツ",
+    "kana": "はつ",
+    "aliases": [
+      "ココロ",
+      "ハート",
+      "心臓",
+      "ハツモト"
+    ],
+    "englishName": "Heart",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛・豚・鶏の心臓。英語の heart が語源とされ、筋肉質で弾力のある歯ごたえと、内臓らしからぬクセの少なさが特徴。",
+    "menuDescription": "牛・豚・鶏の心臓を使ったホルモンです。名前は英語の「heart」に由来します。心臓は常に動く筋肉のため、きめ細かく締まった肉質でサクッとした歯切れのよさがあり、内臓の中では臭みが少なく赤身肉に近い味わいです。焼肉では牛ハツ、焼き鳥では鶏ハツとして提供されます。",
+    "whatComesOut": [
+      "赤黒い色の薄切り肉（牛・豚）または小ぶりな塊の串（鶏）",
+      "塩・ごま油ダレやタレで味付け",
+      "鶏ハツは丸のまま、または縦に開いて串打ち",
+      "店によってはハツモト（血管部分）が別メニュー"
+    ],
+    "tasteAndTexture": [
+      "サクッ、プリッとした弾力のある歯ごたえ",
+      "脂が少なく赤身肉に近いあっさりした旨味",
+      "内臓特有の臭みは少なめ",
+      "焼きすぎると固くパサつく"
+    ],
+    "orderAdvice": "ホルモン初心者にも勧めやすい部位。赤身肉に近い味で、レバーのような濃厚さはない。塩で頼むと食感と素材の味がわかりやすい。表面の色が変わったら早めに引き上げるのが食べごろ。",
+    "caution": "内臓肉。生食・半生は食中毒リスクがあるため十分に加熱する。",
+    "similarItems": [
+      {
+        "id": "reba",
+        "name": "レバー",
+        "difference": "レバーは肝臓でねっとり濃厚。ハツは筋肉質で歯切れがよくあっさり"
+      },
+      {
+        "id": "korikori",
+        "name": "コリコリ",
+        "difference": "コリコリはハツの根元の大動脈部分。ハツ本体より硬くコリコリした食感"
+      },
+      {
+        "id": "sunagimo",
+        "name": "砂肝",
+        "difference": "砂肝は鶏の筋胃でジャリッと硬い食感。ハツはより柔らかくプリッとしている"
+      }
+    ],
+    "relatedIds": [
+      "korikori",
+      "horumon-yaki",
+      "yakitori",
+      "reba",
+      "sunagimo"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ハツ",
+      "https://ja.wikipedia.org/wiki/牛肉"
+    ],
+    "tags": [
+      "日本料理",
+      "牛肉",
+      "鶏肉",
+      "焼き物",
+      "あっさり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "霜降り肉",
+      "とろける食感",
+      "脂の甘み"
+    ],
+    "avoidedBy": [
+      "内臓が苦手",
+      "ホルモン嫌い"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hatsu/1.png",
+      "/images/dishes/hatsu/2.jpg",
+      "/images/dishes/hatsu/3.jpg"
+    ]
+  },
+  {
+    "id": "reba",
+    "name": "レバー",
+    "kana": "ればー",
+    "aliases": [
+      "肝臓",
+      "キモ",
+      "レバ"
+    ],
+    "englishName": "Liver",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛・豚・鶏の肝臓。ビタミンA・B群や鉄分が豊富で、ねっとり濃厚な旨味と独特の香りを持つ代表的なホルモン。",
+    "menuDescription": "牛・豚・鶏の肝臓です。ビタミンA、B群、鉄分を多く含む栄養価の高い部位で、加熱するとねっとりとした舌触りと濃厚なコクが生まれます。焼肉・焼き鳥のほか、レバニラ炒めや煮物、フランス料理のパテなど世界中で使われる食材です。",
+    "whatComesOut": [
+      "赤褐色でつややかな厚切り（牛・豚）",
+      "焼き鳥ではハツと一緒に串打ちされることも多い",
+      "ごま油と塩、またはタレで味付け",
+      "ネギやニンニクを添えて提供されることがある"
+    ],
+    "tasteAndTexture": [
+      "ねっとりとクリーミーな舌触り",
+      "鉄分を感じる濃厚なコクとほのかな苦み",
+      "独特の香りがあり好みが分かれる",
+      "火を通しすぎるとパサついてボソボソになる"
+    ],
+    "orderAdvice": "濃厚な味が好きな人向け。鮮度が味を大きく左右するので、評判のよい焼肉店・焼き鳥店で頼むのが安心。タレのほうがクセが和らぎ食べやすい。中心までしっかり火を通すこと。",
+    "caution": "牛レバーの生食は食品衛生法で提供禁止。豚・鶏も含め中心部まで十分に加熱する。ビタミンAが多いため妊娠中は過剰摂取に注意。",
+    "similarItems": [
+      {
+        "id": "hatsu",
+        "name": "ハツ",
+        "difference": "ハツは心臓で筋肉質・あっさり。レバーはねっとり濃厚でクセが強い"
+      },
+      {
+        "id": "foie-gras",
+        "name": "フォアグラ",
+        "difference": "フォアグラは肥育したガチョウ・鴨の肝臓で脂肪分が多くとろける。レバーはより赤身的で鉄分の風味が強い"
+      },
+      {
+        "id": "nira-reba",
+        "name": "レバニラ",
+        "difference": "レバニラはレバーを使った炒め料理。レバーは部位そのもの"
+      }
+    ],
+    "relatedIds": [
+      "nira-reba",
+      "liver-and-onions",
+      "foie-gras",
+      "horumon-yaki",
+      "yakitori",
+      "hatsu"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/レバー_(食材)",
+      "https://ja.wikipedia.org/wiki/牛肉"
+    ],
+    "tags": [
+      "日本料理",
+      "牛肉",
+      "豚肉",
+      "鶏肉",
+      "焼き物",
+      "こってり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "あっさり赤身",
+      "サクサク食感",
+      "白身魚"
+    ],
+    "avoidedBy": [
+      "内臓が苦手",
+      "レバーの臭いが苦手",
+      "妊娠中"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/reba/1.jpg",
+      "/images/dishes/reba/2.jpg",
+      "/images/dishes/reba/3.jpg"
+    ]
+  },
+  {
+    "id": "giara",
+    "name": "ギアラ",
+    "kana": "ぎあら",
+    "aliases": [
+      "赤センマイ",
+      "第四胃",
+      "アカセン"
+    ],
+    "englishName": "Abomasum (Beef Fourth Stomach)",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の第四胃。赤褐色で脂肪が多く「赤センマイ」とも呼ばれ、4つの胃の中で最も濃厚な脂の旨味を持つ。",
+    "menuDescription": "牛の4つの胃袋のうち最後の第四胃です。実際に消化液を分泌する胃で、赤みを帯びた色から「赤センマイ」とも呼ばれます。脂肪が多く、噛むほどに脂の甘みと旨味が広がります。焼肉のほか、もつ煮込みにも使われます。",
+    "whatComesOut": [
+      "赤褐色で表面に脂が付いたひだ状の部位",
+      "ひと口大に切られた状態",
+      "味噌ダレや甘辛ダレで揉み込まれていることが多い",
+      "煮込みの具として出る場合もある"
+    ],
+    "tasteAndTexture": [
+      "弾力がありクニュッとした噛みごたえ",
+      "脂の甘みと濃厚なコク",
+      "他の胃より柔らかめ",
+      "やや独特の香りがある"
+    ],
+    "orderAdvice": "ミノやセンマイより脂っこく濃厚なものを求める人向け。味噌ダレとの相性がよい。脂が落ちて表面がこんがりするまでしっかり焼くと香ばしさが増す。",
+    "caution": "牛の内臓（胃袋）。脂が多いので食べ過ぎ注意。",
+    "similarItems": [
+      {
+        "id": "mino",
+        "name": "ミノ",
+        "difference": "ミノは第一胃で脂が少なくコリコリ。ギアラは脂が多く柔らかめで濃厚"
+      },
+      {
+        "id": "senmai",
+        "name": "センマイ",
+        "difference": "センマイは第三胃で白く淡白。ギアラは赤く脂が多い"
+      },
+      {
+        "id": "hachinosu",
+        "name": "ハチノス",
+        "difference": "ハチノスは第二胃で煮込み向き。ギアラは焼肉向きで脂の旨味が強い"
+      }
+    ],
+    "relatedIds": [
+      "mino",
+      "senmai",
+      "hachinosu",
+      "horumon-yaki",
+      "tecchan"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/牛肉",
+      "https://ja.wikipedia.org/wiki/ホルモン焼き"
+    ],
+    "tags": [
+      "日本料理",
+      "牛肉",
+      "焼き物",
+      "こってり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "赤身ステーキ",
+      "淡白な白身",
+      "サラダ"
+    ],
+    "avoidedBy": [
+      "内臓が苦手",
+      "ホルモン嫌い",
+      "脂っこいものが苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 3,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/giara/1.jpg"
+    ]
+  },
+  {
+    "id": "hachinosu",
+    "name": "ハチノス",
+    "kana": "はちのす",
+    "aliases": [
+      "第二胃",
+      "トリッパ",
+      "蜂の巣"
+    ],
+    "englishName": "Honeycomb Tripe",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の第二胃。内側が蜂の巣状の網目になっているのが名前の由来で、4つの胃の中で一番美味とも言われる。",
+    "menuDescription": "牛の第二胃で、内側の網目模様が蜂の巣に似ていることからこう呼ばれます。下処理に手間がかかりますが、柔らかく煮込むと独特の弾力と旨味が出ます。イタリアではトリッパとしてトマト煮込みに、日本では焼肉や和え物、中華の点心などに使われます。",
+    "whatComesOut": [
+      "白〜薄灰色で表面が網目状の部位",
+      "トマトや味噌で煮込んだ状態",
+      "焼肉ではひと口大に切った状態",
+      "ポン酢和えなど冷菜として出ることもある"
+    ],
+    "tasteAndTexture": [
+      "網目がソースや煮汁をよく吸う",
+      "ムチッとした弾力のある独特の食感",
+      "味自体は淡白でクセが少ない",
+      "下処理が甘いと臭みが出る"
+    ],
+    "orderAdvice": "煮込み料理で食べるのが最もおいしい。トリッパのトマト煮込みなら初めてでも食べやすい。焼肉の場合は下処理の良い店を選ぶこと。",
+    "caution": "牛の内臓（胃袋）。内臓が苦手な人は注意。",
+    "similarItems": [
+      {
+        "id": "trippa",
+        "name": "トリッパ",
+        "difference": "トリッパはイタリア料理での呼び名・料理名。ハチノスは部位名"
+      },
+      {
+        "id": "mino",
+        "name": "ミノ",
+        "difference": "ミノは第一胃で焼肉向きのコリコリ食感。ハチノスは煮込み向きでムチッとした食感"
+      },
+      {
+        "id": "senmai",
+        "name": "センマイ",
+        "difference": "センマイは第三胃でひだ状、刺身向き。ハチノスは網目状で煮込み向き"
+      }
+    ],
+    "relatedIds": [
+      "trippa",
+      "menudo",
+      "mino",
+      "senmai",
+      "giara"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/牛肉",
+      "https://en.wikipedia.org/wiki/Tripe"
+    ],
+    "tags": [
+      "日本料理",
+      "イタリア料理",
+      "牛肉",
+      "煮込み",
+      "あっさり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "霜降り肉",
+      "サクサク食感",
+      "揚げ物"
+    ],
+    "avoidedBy": [
+      "内臓が苦手",
+      "ホルモン嫌い"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hachinosu/1.jpg"
+    ]
+  },
+  {
+    "id": "urute",
+    "name": "ウルテ",
+    "kana": "うるて",
+    "aliases": [
+      "フエガラミ",
+      "気管軟骨",
+      "ふえ"
+    ],
+    "englishName": "Beef Trachea Cartilage",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の気管の軟骨。味はほとんどなく、ゴリゴリとした強烈な歯ごたえを楽しむための部位。",
+    "menuDescription": "牛の気管（のど）の軟骨部分で、「フエガラミ」とも呼ばれます。味はほとんどなく、ゴリゴリ・コリコリとした硬い食感そのものを楽しむ部位です。噛み切りやすいよう細かく隠し包丁が入れられ、塩やタレで焼いて食べます。",
+    "whatComesOut": [
+      "白く半透明の薄い小片",
+      "細かく切り込み（隠し包丁）が入っている",
+      "塩ダレやネギ塩で味付けされることが多い",
+      "少量で提供されることが多い"
+    ],
+    "tasteAndTexture": [
+      "ゴリゴリとした非常に硬い歯ごたえ",
+      "味はほぼ無味で調味料の味が主体",
+      "脂がなくあっさり",
+      "いつまでも噛んでいられる食感"
+    ],
+    "orderAdvice": "食感マニア向けの一品。味より歯ごたえを楽しみたい人、酒のつまみ向き。顎が弱い人や柔らかい肉を求める人には不向き。焼きすぎると更に硬くなるので軽く焼く。",
+    "caution": "非常に硬いため、歯や顎が弱い人・子供・高齢者は注意。",
+    "similarItems": [
+      {
+        "id": "nankotsu",
+        "name": "なんこつ",
+        "difference": "なんこつは鶏の軟骨でコリコリ程度。ウルテは牛の気管軟骨でより硬くゴリゴリ"
+      },
+      {
+        "id": "korikori",
+        "name": "コリコリ",
+        "difference": "コリコリは心臓の大動脈。ウルテより柔らかく、わずかに旨味がある"
+      },
+      {
+        "id": "mino",
+        "name": "ミノ",
+        "difference": "ミノは胃袋で噛むほど旨味が出る。ウルテはほぼ味がなく食感のみ"
+      }
+    ],
+    "relatedIds": [
+      "korikori",
+      "mino",
+      "nankotsu",
+      "horumon-yaki"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/牛肉"
+    ],
+    "tags": [
+      "日本料理",
+      "牛肉",
+      "焼き物",
+      "あっさり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "とろける食感",
+      "柔らかい赤身",
+      "煮込み料理"
+    ],
+    "avoidedBy": [
+      "歯が弱い",
+      "硬い食べ物が苦手",
+      "内臓が苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "marucho",
+    "name": "マルチョウ",
+    "kana": "まるちょう",
+    "aliases": [
+      "丸腸",
+      "小腸",
+      "コプチャン",
+      "シロコロ",
+      "ヒモ",
+      "ホソ"
+    ],
+    "englishName": "Beef Small Intestine",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の小腸を裏返して筒状に切ったもの。内側にたっぷりの脂を抱え、プルプルとした食感と甘い脂が特徴。",
+    "menuDescription": "牛の小腸を筒のまま裏返し、輪切りにしたホルモンです。切り口が丸いことから「丸腸」と呼ばれます。脂肪が内側に詰まっており、コラーゲンも豊富。焼くと脂がとろけ出し、プルプルとした食感と濃厚な甘みが楽しめます。もつ鍋の定番具材でもあります。",
+    "whatComesOut": [
+      "白い脂が詰まった丸い筒状の輪切り",
+      "味噌ダレや甘辛ダレで揉み込まれていることが多い",
+      "焼くと脂が落ちて炎が上がりやすい",
+      "もつ鍋では小さく切られて入る"
+    ],
+    "tasteAndTexture": [
+      "プルプル、トロッとした脂の食感",
+      "脂の甘みが強くこってり濃厚",
+      "皮部分はムニッとした弾力",
+      "冷めると脂が固まり食感が落ちる"
+    ],
+    "orderAdvice": "こってり系ホルモン好き向け。脂の甘みを楽しみたいならこれ。皮目からじっくり焼き、脂が落ちて表面がカリッとしたら食べごろ。焼き網の火柱に注意。脂っこいものが苦手なら避ける。",
+    "caution": "脂が非常に多い。牛の内臓。",
+    "similarItems": [
+      {
+        "id": "tecchan",
+        "name": "てっちゃん",
+        "difference": "テッチャン（シマチョウ）は大腸で開いた平たい形。マルチョウは小腸で筒状、脂がより多い"
+      },
+      {
+        "id": "teppou",
+        "name": "テッポー",
+        "difference": "テッポウは直腸で筋肉質、脂が少ない。マルチョウは脂たっぷり"
+      },
+      {
+        "id": "giara",
+        "name": "ギアラ",
+        "difference": "ギアラは第四胃でクニュッとした食感。マルチョウは腸でプルプル"
+      }
+    ],
+    "relatedIds": [
+      "tecchan",
+      "teppou",
+      "horumon-yaki",
+      "giara",
+      "mino"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/牛肉",
+      "https://ja.wikipedia.org/wiki/ホルモン焼き"
+    ],
+    "tags": [
+      "日本料理",
+      "韓国料理",
+      "牛肉",
+      "焼き物",
+      "こってり",
+      "ジューシー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "赤身ステーキ",
+      "さっぱり和え物",
+      "白身魚"
+    ],
+    "avoidedBy": [
+      "脂っこいものが苦手",
+      "内臓が苦手",
+      "ホルモン嫌い"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/marucho/1.jpg"
+    ]
+  },
+  {
+    "id": "kainomi",
+    "name": "カイノミ",
+    "kana": "かいのみ",
+    "aliases": [
+      "貝の身",
+      "フラップミート"
+    ],
+    "englishName": "Flap Meat (Bottom Sirloin)",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛のバラ肉のうちヒレに近い部分にある希少部位。切り出した形が貝に似ていることが名前の由来で、赤身の旨味と適度なサシを併せ持つ。",
+    "menuDescription": "牛のお腹側（バラ）のうち、ヒレに近い位置から取れる希少部位です。切り出した形が二枚貝に似ていることから「カイノミ」と呼ばれます。ヒレのような柔らかさと赤身の濃い旨味、そして程よい霜降りの脂を兼ね備えています。店によっては上カルビとして提供されることもあります。",
+    "whatComesOut": [
+      "赤身にサシが入ったやや厚切りの肉",
+      "塩・コショウやわさびで提供されることが多い",
+      "希少部位として少量の盛りで出る",
+      "ステーキとして提供されることもある"
+    ],
+    "tasteAndTexture": [
+      "柔らかく繊維がほどけるような食感",
+      "赤身の濃い旨味と脂の甘みのバランス",
+      "カルビよりあっさり、ヒレより濃厚",
+      "肉汁が多くジューシー"
+    ],
+    "orderAdvice": "カルビの脂は重いがヒレでは物足りない人にぴったり。希少部位で少し高めだが満足度は高い。表面を強火でカリッと焼き、中はレア〜ミディアムに仕上げる。焼きすぎると固くなる。",
+    "similarItems": [
+      {
+        "id": "karubi",
+        "name": "カルビ",
+        "difference": "カルビはバラ全般で脂が多い。カイノミはヒレ寄りで赤身の旨味が強く柔らかい"
+      },
+      {
+        "id": "hire",
+        "name": "ヒレ",
+        "difference": "ヒレはより淡白で脂が少ない。カイノミはサシが入りコクがある"
+      },
+      {
+        "id": "harami",
+        "name": "ハラミ",
+        "difference": "ハラミは横隔膜（内臓扱い）で肉汁が多い。カイノミは正肉でより繊維がきめ細かい"
+      }
+    ],
+    "relatedIds": [
+      "karubi",
+      "hire",
+      "harami",
+      "sagari",
+      "misuji",
+      "tomosankaku"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/1096",
+      "https://en.wikipedia.org/wiki/Flap_steak"
+    ],
+    "tags": [
+      "日本料理",
+      "牛肉",
+      "焼き物",
+      "ジューシー",
+      "コース料理"
+    ],
+    "reverseKeywords": [
+      "ホルモン",
+      "コリコリ食感",
+      "野菜中心"
+    ],
+    "avoidedBy": [
+      "牛肉を食べない",
+      "脂っこいものが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/kainomi/1.jpg",
+      "/images/dishes/kainomi/2.jpg",
+      "/images/dishes/kainomi/3.jpg"
+    ]
+  },
+  {
+    "id": "tomosankaku",
+    "name": "トモサンカク",
+    "kana": "ともさんかく",
+    "aliases": [
+      "友三角",
+      "ヒウチ",
+      "トライチップ",
+      "tri-tip"
+    ],
+    "englishName": "Tri-tip",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "country": "アメリカ"
+      }
+    ],
+    "summary": "牛のもも肉（シンタマ）の一部で、後ろ足の付け根にある三角形の希少部位。もも肉ながら霜降りが入りやすく、赤身の旨味と脂のバランスがよい。",
+    "menuDescription": "牛のもも肉のうちシンタマから分けられる部位で、三角形の形をしています。関西では火打石に似た形から「ヒウチ」とも呼ばれます。一頭から2〜3kgほどしか取れない希少部位で、赤身中心ながらサシが入りやすく、柔らかさとしっかりした肉の旨味を楽しめます。アメリカではトライチップと呼ばれ、カリフォルニアのバーベキューで定番です。",
+    "whatComesOut": [
+      "霜降りが細かく入った赤身の薄切り〜厚切り",
+      "塩・コショウやわさびで提供されることが多い",
+      "焼肉では希少部位の盛り合わせに入ることが多い",
+      "ステーキやローストビーフとして出ることもある"
+    ],
+    "tasteAndTexture": [
+      "きめ細かく柔らかい肉質",
+      "赤身の濃い旨味とさらりとした脂の甘み",
+      "もも肉の中では最もサシが入りやすい",
+      "焼きすぎなければしっとりジューシー"
+    ],
+    "orderAdvice": "赤身と霜降りの両方を楽しみたい人向け。脂がしつこくないので量を食べやすい。塩で素材の味を確かめるのがおすすめ。サッと炙る程度で十分。",
+    "similarItems": [
+      {
+        "id": "ichibo",
+        "name": "イチボ",
+        "difference": "イチボはお尻の先端で脂が多め。トモサンカクはもも内側寄りで赤身と脂のバランス型"
+      },
+      {
+        "id": "ranpu",
+        "name": "ランプ",
+        "difference": "ランプは腰〜お尻の赤身で脂が少ない。トモサンカクはサシが入りやすく柔らかい"
+      },
+      {
+        "id": "misuji",
+        "name": "ミスジ",
+        "difference": "ミスジは肩の希少部位で筋が1本通る。トモサンカクはもも肉で筋がなく均質"
+      }
+    ],
+    "relatedIds": [
+      "ichibo",
+      "ranpu",
+      "misuji",
+      "zabuton",
+      "kainomi"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2370",
+      "https://en.wikipedia.org/wiki/Tri-tip"
+    ],
+    "tags": [
+      "日本料理",
+      "アメリカ料理",
+      "牛肉",
+      "焼き物",
+      "ジューシー",
+      "コース料理"
+    ],
+    "reverseKeywords": [
+      "ホルモン",
+      "コリコリ食感",
+      "あっさり魚介"
+    ],
+    "avoidedBy": [
+      "牛肉を食べない"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tomosankaku/1.png",
+      "/images/dishes/tomosankaku/2.jpg",
+      "/images/dishes/tomosankaku/3.jpg"
+    ]
+  },
+  {
+    "id": "sasami",
+    "name": "ささみ",
+    "kana": "ささみ",
+    "aliases": [
+      "ササミ",
+      "笹身",
+      "小胸筋"
+    ],
+    "englishName": "Chicken Tenderloin",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "鶏の胸骨に沿って左右1本ずつある小胸筋の肉。脂肪が少なく高タンパクで、笹の葉に似た形が名前の由来。",
+    "menuDescription": "鶏の胸肉の内側、胸骨に沿って1羽から2本しか取れない部位です。細長い形が笹の葉に似ていることからこう呼ばれます。脂肪が少なく高タンパクでダイエット食としても知られ、肉質は柔らかく淡白。焼き鳥では梅肉やわさびを添えて半生で、家庭では蒸し物やサラダに使われます。",
+    "whatComesOut": [
+      "白っぽく細長い串（焼き鳥）",
+      "梅肉・わさび・大葉などがのせられていることが多い",
+      "表面だけ炙ったレア仕立ての場合もある",
+      "サラダや和え物では裂いた状態"
+    ],
+    "tasteAndTexture": [
+      "しっとり柔らかく繊維が細かい",
+      "脂がなく非常に淡白",
+      "火を通しすぎるとパサつく",
+      "薬味の風味がよく合う"
+    ],
+    "orderAdvice": "脂っこいものを避けたい人やヘルシー志向の人に最適。焼き鳥では梅しそやわさびで頼むとさっぱり食べられる。半生提供の店もあるので気になるなら加熱をお願いする。",
+    "caution": "半生（レア）提供はカンピロバクター食中毒のリスクがある。",
+    "similarItems": [
+      {
+        "id": "bonjiri",
+        "name": "ぼんじり",
+        "difference": "ぼんじりは尾の脂たっぷりの部位。ささみは正反対の脂なし淡白"
+      },
+      {
+        "id": "seseri",
+        "name": "せせり",
+        "difference": "せせりは首肉で弾力と脂がある。ささみは柔らかくあっさり"
+      },
+      {
+        "id": "torisashi-kagoshima",
+        "name": "鶏刺し",
+        "difference": "鶏刺しは生の鶏肉料理。ささみは部位で、焼き・蒸しが一般的"
+      }
+    ],
+    "relatedIds": [
+      "yakitori",
+      "torisashi-kagoshima",
+      "seseri",
+      "bonjiri",
+      "nankotsu"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ささみ",
+      "https://ja.wikipedia.org/wiki/焼き鳥"
+    ],
+    "tags": [
+      "日本料理",
+      "鶏肉",
+      "焼き物",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "霜降り肉",
+      "脂の甘み",
+      "濃厚ホルモン"
+    ],
+    "avoidedBy": [
+      "鶏肉アレルギー",
+      "生肉が苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sasami/1.jpg",
+      "/images/dishes/sasami/2.jpg",
+      "/images/dishes/sasami/3.jpg"
+    ]
+  },
+  {
+    "id": "bonjiri",
+    "name": "ぼんじり",
+    "kana": "ぼんじり",
+    "aliases": [
+      "ボンチリ",
+      "ボンボチ",
+      "三角",
+      "テール",
+      "ヒップ"
+    ],
+    "englishName": "Chicken Tail (Pope's Nose)",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "鶏の尻尾の付け根の肉。よく動かす部位で弾力があり、脂がたっぷりのった焼き鳥の人気部位。",
+    "menuDescription": "鶏の尾の付け根にある三角形の部位で、1羽から1個しか取れません。尾羽を動かす筋肉が発達しているためプリッとした弾力があり、脂肪も多く含みます。焼くと表面がカリッと香ばしく、中からジュワッと脂があふれ出します。",
+    "whatComesOut": [
+      "小さな三角形の肉が数個刺さった串",
+      "表面がこんがり焼けて脂でつやつやしている",
+      "塩で提供されることが多い",
+      "レモンや七味が添えられることがある"
+    ],
+    "tasteAndTexture": [
+      "外はカリッと香ばしく中はジューシー",
+      "プリプリとした弾力",
+      "脂の甘みが強くこってり",
+      "鶏皮に近い濃厚さ"
+    ],
+    "orderAdvice": "脂の旨味が好きな人に強く勧める焼き鳥部位。ビールとの相性抜群。脂が多いので何本も食べると重い。塩でレモンを搾るとさっぱり。",
+    "caution": "脂肪が多くカロリーが高い。",
+    "similarItems": [
+      {
+        "id": "seseri",
+        "name": "せせり",
+        "difference": "せせりは首肉で脂は控えめ、弾力が強い。ぼんじりは脂が多くジューシー"
+      },
+      {
+        "id": "sasami",
+        "name": "ささみ",
+        "difference": "ささみは脂なしで淡白。ぼんじりは脂たっぷり"
+      },
+      {
+        "id": "tebasaki",
+        "name": "手羽先",
+        "difference": "手羽先は翼先で皮とゼラチン質主体。ぼんじりは尾の脂肪質の肉"
+      }
+    ],
+    "relatedIds": [
+      "yakitori",
+      "seseri",
+      "sasami",
+      "tebasaki",
+      "sunagimo"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/焼き鳥",
+      "https://ja.wikipedia.org/wiki/ささみ"
+    ],
+    "tags": [
+      "日本料理",
+      "鶏肉",
+      "炭火焼き",
+      "こってり",
+      "ジューシー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "ささみ",
+      "さっぱり酢の物",
+      "赤身肉"
+    ],
+    "avoidedBy": [
+      "脂っこいものが苦手",
+      "鶏肉アレルギー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/bonjiri/1.jpg"
+    ]
+  },
+  {
+    "id": "seseri",
+    "name": "せせり",
+    "kana": "せせり",
+    "aliases": [
+      "セセリ",
+      "ネック",
+      "首肉",
+      "小肉",
+      "きりん"
+    ],
+    "englishName": "Chicken Neck Meat",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "鶏の首周りの肉。常に動かす筋肉のため弾力が強く、適度な脂と濃い旨味を持つ焼き鳥の希少部位。",
+    "menuDescription": "鶏の首の周りの肉で、1羽からわずかしか取れない希少部位です。首を常に動かしているため筋肉が引き締まり、プリプリとした強い弾力があります。適度に脂がのっていて、噛むほどに旨味があふれます。",
+    "whatComesOut": [
+      "細長くよじれた小さな肉が刺さった串",
+      "塩やコショウで提供されることが多い",
+      "柚子胡椒やレモンが添えられることもある",
+      "鉄板焼きやから揚げで出ることもある"
+    ],
+    "tasteAndTexture": [
+      "プリプリとした強い弾力",
+      "適度な脂でジューシー",
+      "鶏肉の中でも旨味が濃い",
+      "焼くと香ばしさが際立つ"
+    ],
+    "orderAdvice": "もも肉より歯ごたえと旨味がほしい人に。脂は程よく重すぎない。塩＋柚子胡椒で頼むのがおすすめ。メニューにあれば品切れ前に早めに注文したい部位。",
+    "similarItems": [
+      {
+        "id": "bonjiri",
+        "name": "ぼんじり",
+        "difference": "ぼんじりは尾で脂がより多い。せせりは弾力重視で脂は中程度"
+      },
+      {
+        "id": "sasami",
+        "name": "ささみ",
+        "difference": "ささみは柔らかく淡白。せせりは弾力があり旨味が濃い"
+      },
+      {
+        "id": "sunagimo",
+        "name": "砂肝",
+        "difference": "砂肝はジャリッと硬い内臓。せせりは肉でプリプリ"
+      }
+    ],
+    "relatedIds": [
+      "yakitori",
+      "bonjiri",
+      "sasami",
+      "sunagimo"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/焼き鳥",
+      "https://ja.wikipedia.org/wiki/ささみ"
+    ],
+    "tags": [
+      "日本料理",
+      "鶏肉",
+      "炭火焼き",
+      "ジューシー",
+      "香ばしい",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "とろける食感",
+      "白身魚",
+      "豆腐料理"
+    ],
+    "avoidedBy": [
+      "鶏肉アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/seseri/1.jpg",
+      "/images/dishes/seseri/2.jpg",
+      "/images/dishes/seseri/3.jpg"
+    ]
+  },
+  {
+    "id": "tebasaki",
+    "name": "手羽先",
+    "kana": "てばさき",
+    "aliases": [
+      "手羽",
+      "チキンウィング",
+      "ウィングチップ"
+    ],
+    "englishName": "Chicken Wing Tip",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "鶏の翼の先端部分（人の手首から先に相当）。肉は少ないがゼラチン質と脂が豊富で、から揚げや焼き鳥、出汁に使われる。",
+    "menuDescription": "鶏の翼のうち先端側の部位です。肉は少なめですが、皮とゼラチン質・脂肪が多く、焼くと皮がパリッと香ばしく、中はジューシーに仕上がります。焼き鳥では塩焼き、名古屋では甘辛ダレのから揚げが名物です。煮込むとコラーゲンたっぷりの出汁が出ます。",
+    "whatComesOut": [
+      "骨付きの手羽が1〜2本のった皿、または串",
+      "皮がパリッと焼けた塩焼き",
+      "甘辛ダレ＋ゴマ・コショウのから揚げ（名古屋風）",
+      "手で持ってかぶりつくスタイル"
+    ],
+    "tasteAndTexture": [
+      "パリッとした皮と骨周りのジューシーな肉",
+      "ゼラチン質のぷるっとした食感",
+      "皮の脂の香ばしさ",
+      "骨周りの肉に旨味が凝縮"
+    ],
+    "orderAdvice": "骨付き肉にかぶりつくのが好きな人向け。手が汚れるのでおしぼり必須。名古屋風の甘辛ダレは酒のつまみに最適。食べられる肉量は少ないので数本頼むのが普通。",
+    "caution": "骨付き。小さな骨に注意。",
+    "similarItems": [
+      {
+        "id": "tebasaki-karaage",
+        "name": "手羽先唐揚げ",
+        "difference": "手羽先唐揚げは名古屋名物の料理。手羽先は部位そのもの"
+      },
+      {
+        "id": "buffalo-wings",
+        "name": "バッファローウィング",
+        "difference": "バッファローウィングは手羽を揚げて辛いソースで和えたアメリカ料理"
+      },
+      {
+        "id": "bonjiri",
+        "name": "ぼんじり",
+        "difference": "ぼんじりは骨なしで脂の多い尾の肉。手羽先は骨付きで皮主体"
+      }
+    ],
+    "relatedIds": [
+      "tebasaki-karaage",
+      "buffalo-wings",
+      "yakitori",
+      "karaage",
+      "bonjiri"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/ささみ",
+      "https://ja.wikipedia.org/wiki/焼き鳥"
+    ],
+    "tags": [
+      "日本料理",
+      "鶏肉",
+      "揚げ物",
+      "焼き物",
+      "香ばしい",
+      "ジューシー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "骨なし赤身",
+      "さっぱり刺身",
+      "野菜料理"
+    ],
+    "avoidedBy": [
+      "鶏肉アレルギー",
+      "手で食べるのが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tebasaki/1.jpg",
+      "/images/dishes/tebasaki/2.jpg",
+      "/images/dishes/tebasaki/3.jpg"
+    ]
+  },
+  {
+    "id": "sunagimo",
+    "name": "砂肝",
+    "kana": "すなぎも",
+    "aliases": [
+      "砂ずり",
+      "ずり",
+      "すなずり",
+      "砂嚢",
+      "筋胃"
+    ],
+    "englishName": "Gizzard",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "鶏の筋胃（砂嚢）。「肝」と付くが肝臓ではなく、飲み込んだ砂粒で餌をすり潰す筋肉の胃。コリコリした独特の歯ごたえが特徴。",
+    "menuDescription": "鶏の筋胃（砂嚢）で、歯のない鳥が飲み込んだ小石や砂で餌をすり潰すための発達した筋肉です。名前に「肝」が付きますが肝臓ではありません。関西・九州では「ずり」「砂ずり」とも呼ばれます。脂が少なくクセもなく、コリコリとした食感が人気です。",
+    "whatComesOut": [
+      "濃い赤色の小さな塊が刺さった串",
+      "塩焼きで提供されることが多い",
+      "炒め物（ニンニク炒め）やから揚げ、コンフィで出ることも",
+      "銀皮（硬い膜）は除いてある場合が多い"
+    ],
+    "tasteAndTexture": [
+      "コリコリ、ザクッとした強い歯ごたえ",
+      "脂が少なくあっさり",
+      "クセや臭みがほとんどない",
+      "噛むほどにじんわり旨味が出る"
+    ],
+    "orderAdvice": "内臓が苦手な人でも食べやすいホルモン入門部位。低脂肪で食感が楽しい。塩＋レモンが定番。歯ごたえが苦手な人は薄切りの炒め物を選ぶとよい。",
+    "caution": "鶏の内臓。歯ごたえが強い。",
+    "similarItems": [
+      {
+        "id": "hatsu",
+        "name": "ハツ",
+        "difference": "ハツは心臓でプリッと柔らかめ。砂肝はより硬くコリコリ"
+      },
+      {
+        "id": "nankotsu",
+        "name": "なんこつ",
+        "difference": "なんこつは軟骨でゴリッとした食感。砂肝は筋肉で噛むと旨味がある"
+      },
+      {
+        "id": "mino",
+        "name": "ミノ",
+        "difference": "ミノは牛の第一胃。砂肝は鶏の筋胃で、どちらもコリコリ系だが砂肝はより小さく引き締まっている"
+      }
+    ],
+    "relatedIds": [
+      "yakitori",
+      "hatsu",
+      "nankotsu",
+      "torimotsu-ni",
+      "mino"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/砂肝",
+      "https://en.wikipedia.org/wiki/Gizzard",
+      "https://ja.wikipedia.org/wiki/ささみ"
+    ],
+    "tags": [
+      "日本料理",
+      "鶏肉",
+      "焼き物",
+      "炒め物",
+      "あっさり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "とろける食感",
+      "脂の甘み",
+      "柔らかい煮込み"
+    ],
+    "avoidedBy": [
+      "内臓が苦手",
+      "鶏肉アレルギー",
+      "硬い食べ物が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sunagimo/1.jpg",
+      "/images/dishes/sunagimo/2.jpg",
+      "/images/dishes/sunagimo/3.jpg"
+    ]
+  },
+  {
+    "id": "nankotsu",
+    "name": "なんこつ",
+    "kana": "なんこつ",
+    "aliases": [
+      "軟骨",
+      "ヤゲン",
+      "ひざ軟骨",
+      "げんこつ",
+      "ナンコツ"
+    ],
+    "englishName": "Chicken Cartilage",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "鶏の軟骨。胸の先端の「ヤゲン」と膝関節の「ひざ軟骨（げんこつ）」があり、コリコリした歯ごたえを楽しむ部位。",
+    "menuDescription": "鶏の軟骨で、主に2種類あります。胸骨の先にある「ヤゲン軟骨」は形が漢方の薬研（やげん）に似ていることが名前の由来で、周りに肉が付いていて比較的柔らかめ。膝関節の「ひざ軟骨（げんこつ）」は丸く硬めで、主にから揚げで提供されます。",
+    "whatComesOut": [
+      "白い軟骨に少し肉が付いた串（ヤゲン）",
+      "ひと口大のから揚げ（ひざ軟骨）",
+      "塩焼きにレモンが添えられることが多い",
+      "居酒屋ではおつまみの定番"
+    ],
+    "tasteAndTexture": [
+      "コリコリ、ポリポリとした軽快な歯ごたえ",
+      "軟骨自体は淡白で味付けが決め手",
+      "ヤゲンは付いた肉の旨味もある",
+      "から揚げは衣の香ばしさとの組み合わせ"
+    ],
+    "orderAdvice": "食感を楽しむおつまみ。ビールやハイボールのお供に最適。から揚げは初心者でも食べやすい。柔らかめが良ければヤゲン、硬めが好きならひざ軟骨。",
+    "caution": "硬いため、歯が弱い人や小さな子供は注意。",
+    "similarItems": [
+      {
+        "id": "urute",
+        "name": "ウルテ",
+        "difference": "ウルテは牛の気管軟骨でより硬くゴリゴリ。なんこつは鶏で軽いコリコリ感"
+      },
+      {
+        "id": "sunagimo",
+        "name": "砂肝",
+        "difference": "砂肝は筋胃で旨味がある。なんこつは軟骨で淡白"
+      },
+      {
+        "id": "karaage",
+        "name": "唐揚げ",
+        "difference": "唐揚げは鶏肉を揚げた料理。軟骨唐揚げはその軟骨版"
+      }
+    ],
+    "relatedIds": [
+      "yakitori",
+      "karaage",
+      "sunagimo",
+      "urute",
+      "sasami"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/焼き鳥",
+      "https://ja.wikipedia.org/wiki/ささみ"
+    ],
+    "tags": [
+      "日本料理",
+      "鶏肉",
+      "焼き物",
+      "揚げ物",
+      "あっさり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "とろける食感",
+      "霜降り肉",
+      "煮込み料理"
+    ],
+    "avoidedBy": [
+      "歯が弱い",
+      "硬い食べ物が苦手",
+      "鶏肉アレルギー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/nankotsu/1.jpg"
+    ]
+  },
+  {
+    "id": "tori-mune",
+    "name": "鶏むね肉",
+    "kana": "とりむねにく",
+    "aliases": [
+      "むね肉",
+      "ムネ",
+      "胸肉",
+      "鶏胸肉"
+    ],
+    "englishName": "Chicken Breast",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "鶏の胸部の肉。脂肪が少なく高タンパクで、やわらかくあっさりした味わいが特徴。",
+    "menuDescription": "鶏の胸の部分の肉です。鶏肉の部位の中でも脂肪が少なめでタンパク質が多く、肉質はやわらかで淡白な味わいです。油の風味を活かした揚げ物や焼き物、淡白さを活かした蒸し鶏、チキン南蛮、棒棒鶏などに使われます。",
+    "whatComesOut": [
+      "白っぽい肉のスライスやそぎ切り",
+      "蒸し鶏や鶏ハムとしてタレ・ソースがかかった状態",
+      "揚げ物（チキンカツ・チキン南蛮）の場合は衣付き",
+      "皮付き・皮なしどちらもある"
+    ],
+    "tasteAndTexture": [
+      "やわらかくしっとりした繊維",
+      "脂が少なくあっさりした味",
+      "加熱しすぎるとパサつきやすい",
+      "ソースやタレの味をよく吸う"
+    ],
+    "orderAdvice": "あっさり・ヘルシーな鶏肉を食べたい人向け。そのままでは淡白なので、タレやソース、揚げ衣で味を補った料理が満足度高い。しっとり感は調理の腕次第。",
+    "caution": "鶏肉アレルギーに注意。低温調理品は十分な加熱が行われているか確認を。",
+    "similarItems": [
+      {
+        "id": "tori-momo",
+        "name": "鶏もも肉",
+        "difference": "もも肉は脂と旨味が多くジューシー。むね肉は脂が少なくあっさり"
+      },
+      {
+        "id": "sasami",
+        "name": "ささみ",
+        "difference": "ささみはむね肉の内側にある小胸筋でさらに脂が少なく小さい。むね肉は大きく皮付きもある"
+      },
+      {
+        "id": "bang-bang-ji",
+        "name": "棒棒鶏",
+        "difference": "棒棒鶏はむね肉を蒸してごまダレをかけた料理。むね肉は部位そのもの"
+      }
+    ],
+    "relatedIds": [
+      "sasami",
+      "bang-bang-ji",
+      "chikin-nanban-miyazaki",
+      "karaage",
+      "tori-momo"
+    ],
+    "source": [
+      "https://www.nipponham.co.jp/recipes/meat/knowledge/poultry/",
+      "https://ja.wikipedia.org/wiki/ささみ"
+    ],
+    "tags": [
+      "日本料理",
+      "鶏肉",
+      "蒸し料理",
+      "揚げ物",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "霜降り肉",
+      "濃厚ホルモン",
+      "脂の甘み"
+    ],
+    "avoidedBy": [
+      "鶏肉アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tori-mune/1.jpg",
+      "/images/dishes/tori-mune/2.jpg",
+      "/images/dishes/tori-mune/3.jpg"
+    ]
+  },
+  {
+    "id": "tori-momo",
+    "name": "鶏もも肉",
+    "kana": "とりももにく",
+    "aliases": [
+      "もも肉",
+      "モモ",
+      "鶏モモ",
+      "骨付きもも"
+    ],
+    "englishName": "Chicken Thigh",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "鶏の脚の付け根から膝までの肉。よく動く筋肉質な部位で、旨味とコクが強くジューシー。唐揚げに最もよく使われる。",
+    "menuDescription": "鶏の脚の太もも部分の肉です。よく動かす筋肉のため赤みがかっていて、やや弾力がありますが、旨味とコクのある味わいです。脂もほどよくのっていてジューシー。唐揚げや照り焼き、焼き鳥（ねぎま）の定番で、骨付きは煮込みやローストに使われます。",
+    "whatComesOut": [
+      "皮付きの肉をひと口大に切った唐揚げや照り焼き",
+      "焼き鳥ではねぎと交互に刺した「ねぎま」",
+      "骨付きもも肉のローストやグリル",
+      "皮目がパリッと焼かれていることが多い"
+    ],
+    "tasteAndTexture": [
+      "弾力のある肉質とジューシーな肉汁",
+      "旨味とコクが濃い",
+      "皮の脂の甘みと香ばしさ",
+      "冷めてもパサつきにくい"
+    ],
+    "orderAdvice": "鶏肉らしい旨味をしっかり味わいたいならこれ。唐揚げや照り焼きなど王道料理で外れが少ない。脂を控えたい場合は皮を外すかむね肉を選ぶ。",
+    "caution": "鶏肉アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "tori-mune",
+        "name": "鶏むね肉",
+        "difference": "むね肉は脂が少なく淡白。もも肉は脂と旨味が多くジューシー"
+      },
+      {
+        "id": "seseri",
+        "name": "せせり",
+        "difference": "せせりは首肉でさらに弾力が強い希少部位。もも肉は一般的で量も多い"
+      },
+      {
+        "id": "karaage",
+        "name": "唐揚げ",
+        "difference": "唐揚げは料理名で、もも肉が最もよく使われる部位"
+      }
+    ],
+    "relatedIds": [
+      "karaage",
+      "teriyaki",
+      "yakitori",
+      "tandoori",
+      "coq-au-vin",
+      "tori-mune"
+    ],
+    "source": [
+      "https://www.nipponham.co.jp/recipes/meat/knowledge/poultry/",
+      "https://ja.wikipedia.org/wiki/ささみ"
+    ],
+    "tags": [
+      "日本料理",
+      "鶏肉",
+      "揚げ物",
+      "焼き物",
+      "ジューシー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "ささみ",
+      "淡白な白身魚",
+      "野菜中心"
+    ],
+    "avoidedBy": [
+      "鶏肉アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tori-momo/1.jpg",
+      "/images/dishes/tori-momo/2.jpg",
+      "/images/dishes/tori-momo/3.jpg"
+    ]
+  },
+  {
+    "id": "torikawa",
+    "name": "鶏皮",
+    "kana": "とりかわ",
+    "aliases": [
+      "皮",
+      "かわ",
+      "首皮",
+      "とり皮"
+    ],
+    "englishName": "Chicken Skin",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "鶏の皮。脂肪が多く味が濃厚で、焼くとパリッと香ばしく、煮ると料理にコクを与える。",
+    "menuDescription": "鶏の皮の部分で、特に首まわりの皮（首皮）は脂肪が多く旨味が濃厚です。焼き鳥では脂を落としながらカリカリに焼き上げ、香ばしさが楽しめます。ポン酢和えや炒め物、煮物にも使われ、料理にコクを加えます。",
+    "whatComesOut": [
+      "皮をぐるぐると巻き付けた串（焼き鳥）",
+      "カリカリに焼いた、または揚げた皮",
+      "ゆでた皮のポン酢和え（ネギ・もみじおろし添え）",
+      "塩かタレで提供"
+    ],
+    "tasteAndTexture": [
+      "カリッ、パリッとした香ばしさ",
+      "噛むとジュワッと脂の旨味",
+      "ゆでたものはぷるっとした食感",
+      "こってり濃厚"
+    ],
+    "orderAdvice": "脂の旨味と香ばしさが好きな人向け。ビールとの相性抜群。カリカリ系かぷるぷる系かは店の焼き方次第なので、好みで選ぶ。脂が多いので食べ過ぎ注意。",
+    "caution": "脂肪・カロリーが高い。鶏肉アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "bonjiri",
+        "name": "ぼんじり",
+        "difference": "ぼんじりは尾の肉で脂と弾力がある。鶏皮は皮のみでカリカリ・ぷるぷる食感"
+      },
+      {
+        "id": "tebasaki",
+        "name": "手羽先",
+        "difference": "手羽先は皮と骨周りの肉を一緒に楽しむ。鶏皮は皮だけ"
+      },
+      {
+        "id": "tori-momo",
+        "name": "鶏もも肉",
+        "difference": "もも肉は肉が主体で皮が付く程度。鶏皮は皮そのもの"
+      }
+    ],
+    "relatedIds": [
+      "yakitori",
+      "bonjiri",
+      "tebasaki",
+      "tori-momo"
+    ],
+    "source": [
+      "https://www.nipponham.co.jp/recipes/meat/knowledge/poultry/",
+      "https://ja.wikipedia.org/wiki/ささみ"
+    ],
+    "tags": [
+      "日本料理",
+      "鶏肉",
+      "炭火焼き",
+      "香ばしい",
+      "こってり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "ささみ",
+      "赤身肉",
+      "さっぱり刺身"
+    ],
+    "avoidedBy": [
+      "脂っこいものが苦手",
+      "鶏肉アレルギー",
+      "ぶよぶよ食感が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/torikawa/1.jpg",
+      "/images/dishes/torikawa/2.jpg",
+      "/images/dishes/torikawa/3.jpg"
+    ]
+  },
+  {
+    "id": "tebamoto",
+    "name": "手羽元",
+    "kana": "てばもと",
+    "aliases": [
+      "ウィングスティック",
+      "チューリップ",
+      "手羽"
+    ],
+    "englishName": "Chicken Drumette",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "鶏の翼の付け根部分（人の肩から肘に相当）。骨・肉・皮のバランスがよく、煮物や唐揚げ、スープに使われる。",
+    "menuDescription": "鶏の翼のうち胴体に近い付け根の部位で、「ウィングスティック」とも呼ばれます。手羽先より肉が多く正肉に近い食べごたえがあり、骨の周りのゼラチン質からよい出汁が出ます。甘辛煮やさっぱり煮、唐揚げ、スープ、カレーなどに使われます。肉を骨の先に寄せたものは「チューリップ」と呼ばれます。",
+    "whatComesOut": [
+      "骨付きの小ぶりなドラムスティック型の肉",
+      "甘辛く煮込まれた煮物、または酢を使ったさっぱり煮",
+      "唐揚げやチューリップ揚げ",
+      "スープやカレーの具として"
+    ],
+    "tasteAndTexture": [
+      "骨離れがよくほろっとやわらかい（煮込み）",
+      "骨周りの肉に旨味が凝縮",
+      "ゼラチン質のとろみ",
+      "手羽先よりあっさりで肉感がある"
+    ],
+    "orderAdvice": "骨付き肉を手軽に食べたい人向け。煮込み料理ならやわらかく食べやすい。手羽先より肉が多く食べごたえがある。手で持って食べるスタイルが多い。",
+    "caution": "骨付き。鶏肉アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "tebasaki",
+        "name": "手羽先",
+        "difference": "手羽先は翼の先端側で皮とゼラチン質が主体。手羽元は付け根側で肉が多い"
+      },
+      {
+        "id": "tebanaka",
+        "name": "手羽中",
+        "difference": "手羽中は手羽先の中間部分で2本の骨がある。手羽元は1本骨で肉厚"
+      },
+      {
+        "id": "tori-momo",
+        "name": "鶏もも肉",
+        "difference": "もも肉は脚の肉で量が多く骨なしでも流通。手羽元は翼の骨付き肉"
+      }
+    ],
+    "relatedIds": [
+      "tebasaki",
+      "karaage",
+      "samgyetang",
+      "tebanaka",
+      "tori-momo"
+    ],
+    "source": [
+      "https://www.nipponham.co.jp/recipes/meat/knowledge/poultry/",
+      "https://ja.wikipedia.org/wiki/ささみ"
+    ],
+    "tags": [
+      "日本料理",
+      "鶏肉",
+      "煮込み",
+      "揚げ物",
+      "ジューシー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "骨なし赤身",
+      "刺身",
+      "野菜中心"
+    ],
+    "avoidedBy": [
+      "鶏肉アレルギー",
+      "手で食べるのが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tebamoto/1.jpg",
+      "/images/dishes/tebamoto/2.jpg",
+      "/images/dishes/tebamoto/3.jpg"
+    ]
+  },
+  {
+    "id": "tebanaka",
+    "name": "手羽中",
+    "kana": "てばなか",
+    "aliases": [
+      "チキンリブ",
+      "チキンスペアリブ",
+      "イカダ",
+      "手羽中開き"
+    ],
+    "englishName": "Chicken Wingette (Flat)",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "手羽先から先端を切り落とした中間部分（人の肘から手首に相当）。2本の骨の間に肉とゼラチン質があり、唐揚げや焼き物に向く。",
+    "menuDescription": "鶏の翼のうち手羽先から先端部分を除いた中間の部位です。2本の細い骨の間に肉とゼラチン質が多く、皮もたっぷり付いていてジューシー。唐揚げや塩焼き、甘辛焼きに使われます。縦に二つ割りにしたものは「チキンリブ」、開いて串に刺したものは「イカダ」と呼ばれます。",
+    "whatComesOut": [
+      "平たい形の骨付き肉（2本骨）",
+      "二つ割りにしたスティック状のチキンリブ",
+      "唐揚げ・塩焼き・甘辛焼き",
+      "焼き鳥では開いて串打ちした「イカダ」"
+    ],
+    "tasteAndTexture": [
+      "パリッとした皮とジューシーな肉",
+      "ゼラチン質のぷるっとした食感",
+      "骨から肉が外しやすい",
+      "手羽先より食べやすく肉の割合が多い"
+    ],
+    "orderAdvice": "手羽先の旨味を手軽に楽しみたい人向け。先端がない分食べやすく、つまみや弁当のおかずにも人気。骨の外し方を覚えると快適に食べられる。",
+    "caution": "骨付き。鶏肉アレルギーに注意。",
+    "similarItems": [
+      {
+        "id": "tebasaki",
+        "name": "手羽先",
+        "difference": "手羽先は先端部分も含む。手羽中は先端を除いた中間部で食べやすい"
+      },
+      {
+        "id": "tebamoto",
+        "name": "手羽元",
+        "difference": "手羽元は付け根で1本骨・肉厚。手羽中は2本骨で皮が多い"
+      },
+      {
+        "id": "buffalo-wings",
+        "name": "バッファローウィング",
+        "difference": "バッファローウィングは手羽中・手羽元を揚げて辛いソースで和えたアメリカ料理"
+      }
+    ],
+    "relatedIds": [
+      "tebasaki",
+      "tebamoto",
+      "tebasaki-karaage",
+      "buffalo-wings",
+      "karaage"
+    ],
+    "source": [
+      "https://www.nipponham.co.jp/recipes/meat/knowledge/poultry/",
+      "https://ja.wikipedia.org/wiki/ささみ"
+    ],
+    "tags": [
+      "日本料理",
+      "鶏肉",
+      "揚げ物",
+      "焼き物",
+      "香ばしい",
+      "ジューシー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "骨なし赤身",
+      "刺身",
+      "あっさり豆腐"
+    ],
+    "avoidedBy": [
+      "鶏肉アレルギー",
+      "手で食べるのが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tebanaka/1.jpg",
+      "/images/dishes/tebanaka/2.jpg",
+      "/images/dishes/tebanaka/3.jpg"
+    ]
+  },
+  {
+    "id": "gyu-kata",
+    "name": "牛かた",
+    "kana": "ぎゅうかた",
+    "aliases": [
+      "肩肉",
+      "ウデ",
+      "牛肩",
+      "クリ",
+      "チャック"
+    ],
+    "englishName": "Beef Shoulder (Clod)",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の前脚の付け根から肩にかけての部位。運動量が多く筋肉が発達した赤身で、煮込むと濃厚なだしとゼラチン質の旨味が出る。",
+    "menuDescription": "牛の肩から前脚の上部にかけての部位で、「ウデ」とも呼ばれます。よく動かす筋肉のため肉質はややかためですが、エキス分やゼラチン質が多く、シチューやカレーなどの煮込み料理にすると濃厚なだしが出ます。中にはミスジやトウガラシ、クリなどの希少部位も含まれます。",
+    "whatComesOut": [
+      "角切りにした赤身肉の煮込み（シチュー・カレー）",
+      "薄切りにした焼肉・炒め物用の肉",
+      "筋が残ったやや弾力のある赤身",
+      "ポトフや煮込みの具として大きめの塊"
+    ],
+    "tasteAndTexture": [
+      "赤身の濃い旨味",
+      "ややかためで噛みごたえがある",
+      "長時間煮込むとほろりとやわらかくなる",
+      "ゼラチン質でスープにコクが出る"
+    ],
+    "orderAdvice": "煮込み料理で真価を発揮する部位。シチューやカレーなら牛の旨味が濃く満足度が高い。焼肉ではやや硬めなので、柔らかさ重視なら他部位を選ぶ。",
+    "similarItems": [
+      {
+        "id": "misuji",
+        "name": "ミスジ",
+        "difference": "ミスジは肩の中にある希少部位で霜降りが入りやわらかい。牛かた全体はより硬く煮込み向き"
+      },
+      {
+        "id": "gyu-kata-rosu",
+        "name": "牛肩ロース",
+        "difference": "肩ロースは背中側でサシが入りやわらかい。牛かたは前脚寄りで赤身が多く硬め"
+      },
+      {
+        "id": "gyu-sune",
+        "name": "牛すね",
+        "difference": "すねはさらに筋が多く、長時間煮込み専用。牛かたは煮込みにも焼きにも使える"
+      }
+    ],
+    "relatedIds": [
+      "misuji",
+      "beef-stew",
+      "japanese-curry",
+      "pot-au-feu",
+      "gyu-kata-rosu"
+    ],
+    "source": [
+      "https://www.nipponham.co.jp/recipes/meat/knowledge/beaf/",
+      "https://ja.wikipedia.org/wiki/牛肉"
+    ],
+    "tags": [
+      "日本料理",
+      "牛肉",
+      "煮込み",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "鶏ささみ",
+      "白身魚",
+      "生野菜サラダ"
+    ],
+    "avoidedBy": [
+      "牛肉を食べない",
+      "硬い肉が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gyu-kata/1.png",
+      "/images/dishes/gyu-kata/2.jpg"
+    ]
+  },
+  {
+    "id": "gyu-kata-rosu",
+    "name": "牛肩ロース",
+    "kana": "ぎゅうかたろーす",
+    "aliases": [
+      "肩ロース",
+      "かたロース",
+      "ザブトン",
+      "チャックアイロール"
+    ],
+    "englishName": "Chuck Eye Roll",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "ロース全体の先端（首側）にあたる部位。やわらかく適度に霜降りがのり、すき焼きやしゃぶしゃぶの定番。",
+    "menuDescription": "牛の背中側、ロースの中で最も首に近い部位です。やわらかく、きめ細かい霜降りが適度に入っているため、薄切りから厚切りまで幅広い料理に使えます。特にすき焼きやしゃぶしゃぶの薄切り肉として定番で、焼肉では希少部位「ザブトン」がこの中から取れます。",
+    "whatComesOut": [
+      "サシの入った大判の薄切り肉（すき焼き・しゃぶしゃぶ）",
+      "焼肉用のやや厚めのカット",
+      "網目状に霜降りが入った見た目",
+      "ステーキとして出ることもある"
+    ],
+    "tasteAndTexture": [
+      "ほどよい霜降りでやわらかい",
+      "赤身と脂のバランスがよく濃い旨味",
+      "筋がところどころ入り適度な噛みごたえ",
+      "薄切りにすると口どけがよい"
+    ],
+    "orderAdvice": "すき焼き・しゃぶしゃぶで「霜降りの牛肉」を楽しみたいなら定番の選択。サーロインより手頃で脂も重すぎない。ステーキなら筋切りされているものを選ぶとよい。",
+    "similarItems": [
+      {
+        "id": "zabuton",
+        "name": "ザブトン",
+        "difference": "ザブトンは肩ロースの中の特に霜降りが多い希少部分。肩ロース全体はより赤身寄り"
+      },
+      {
+        "id": "rib-rosu",
+        "name": "リブロース",
+        "difference": "リブロースは肩ロースの後ろでより霜降りが多く高級。肩ロースは筋が多くやや手頃"
+      },
+      {
+        "id": "rosu",
+        "name": "ロース",
+        "difference": "ロースは背中側の部位の総称。肩ロースはその首側の一部"
+      }
+    ],
+    "relatedIds": [
+      "rosu",
+      "zabuton",
+      "sukiyaki",
+      "shabu-shabu",
+      "rib-rosu"
+    ],
+    "source": [
+      "https://www.nipponham.co.jp/recipes/meat/knowledge/beaf/",
+      "https://ja.wikipedia.org/wiki/牛肉"
+    ],
+    "tags": [
+      "日本料理",
+      "牛肉",
+      "鍋料理",
+      "焼き物",
+      "ジューシー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "鶏ささみ",
+      "赤身のみ希望",
+      "野菜中心"
+    ],
+    "avoidedBy": [
+      "牛肉を食べない",
+      "脂っこいものが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gyu-kata-rosu/1.png"
+    ]
+  },
+  {
+    "id": "rib-rosu",
+    "name": "リブロース",
+    "kana": "りぶろーす",
+    "aliases": [
+      "リブアイ",
+      "リブ芯",
+      "リブキャップ",
+      "ribeye"
+    ],
+    "englishName": "Rib Eye",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "肩ロースとサーロインの間、肋骨に沿った背肉。霜降りが多く肉質が良い高級部位で、すき焼きやステーキ、ローストビーフに使われる。",
+    "menuDescription": "牛の背中、肩ロースとサーロインの間に位置する部位です。最も霜降りが入りやすい部位のひとつで、きめ細かくやわらかい肉質と濃厚な脂の甘みが特徴。ステーキでは「リブアイ」、中心部は「リブ芯」、外側の脂ののった部分は「リブキャップ（かぶり）」と呼ばれます。ブロックはローストビーフにも最適です。",
+    "whatComesOut": [
+      "厚切りのリブアイステーキ",
+      "霜降りの入った大判薄切り（すき焼き用）",
+      "ローストビーフのスライス",
+      "中心の赤身を脂が囲んだ断面"
+    ],
+    "tasteAndTexture": [
+      "豊富な霜降りでとろけるようなやわらかさ",
+      "脂の甘みと濃厚なコク",
+      "肉汁があふれるジューシーさ",
+      "外側のリブキャップは特に濃厚"
+    ],
+    "orderAdvice": "牛肉の旨味と脂の甘みを存分に味わいたい人向けの高級部位。ステーキならミディアムレア前後がおすすめ。脂が多いので量は控えめで満足できる。赤身好きならヒレやランプを。",
+    "similarItems": [
+      {
+        "id": "sirloin",
+        "name": "サーロイン",
+        "difference": "サーロインは腰寄りでやや赤身が多く上品。リブロースは霜降りが多く濃厚"
+      },
+      {
+        "id": "gyu-kata-rosu",
+        "name": "牛肩ロース",
+        "difference": "肩ロースは首寄りで筋が多く手頃。リブロースはよりやわらかく霜降りが豊富"
+      },
+      {
+        "id": "hire",
+        "name": "ヒレ",
+        "difference": "ヒレは脂が少なくあっさり赤身。リブロースは脂が多くこってり"
+      }
+    ],
+    "relatedIds": [
+      "rosu",
+      "steak",
+      "sukiyaki",
+      "sirloin",
+      "gyu-kata-rosu"
+    ],
+    "source": [
+      "https://www.nipponham.co.jp/recipes/meat/knowledge/beaf/",
+      "https://ja.wikipedia.org/wiki/牛肉"
+    ],
+    "tags": [
+      "日本料理",
+      "牛肉",
+      "焼き物",
+      "ロースト",
+      "ジューシー",
+      "こってり",
+      "コース料理"
+    ],
+    "reverseKeywords": [
+      "鶏ささみ",
+      "赤身のみ希望",
+      "あっさり魚介"
+    ],
+    "avoidedBy": [
+      "牛肉を食べない",
+      "脂っこいものが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/rib-rosu/1.png",
+      "/images/dishes/rib-rosu/2.jpg",
+      "/images/dishes/rib-rosu/3.jpg"
+    ]
+  },
+  {
+    "id": "sirloin",
+    "name": "サーロイン",
+    "kana": "さーろいん",
+    "aliases": [
+      "サーロインステーキ",
+      "ストリップロイン",
+      "sirloin"
+    ],
+    "englishName": "Sirloin",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "country": "イギリス"
+      }
+    ],
+    "summary": "リブロースの後ろ、腰の背肉。運動量が少なくやわらかい、ステーキの代名詞的な高級部位。",
+    "menuDescription": "牛の背中の腰側、リブロースとランプの間に位置する部位です。運動量が少ないため筋肉が少なくやわらかく、きめ細かな霜降りと上品な脂の甘みが特徴。「サーロインステーキ」として牛肉の代表的部位とされます。16世紀にイギリス国王がおいしさのあまり「サー（Sir）」の称号を与えたという俗説も有名です。",
+    "whatComesOut": [
+      "1cm以上の厚切りステーキ",
+      "片側に脂の帯が付いた断面",
+      "ガーリックチップやソース、わさび添え",
+      "すき焼き用の霜降り薄切りとして出ることも"
+    ],
+    "tasteAndTexture": [
+      "やわらかくきめ細かな肉質",
+      "赤身の旨味と脂の甘みのバランス",
+      "外周の脂は焼くと香ばしい",
+      "ジューシーで食べごたえがある"
+    ],
+    "orderAdvice": "ステーキで迷ったら定番のサーロイン。やわらかさ・旨味・脂のバランスが良い。脂が多すぎると感じるならヒレ、より濃厚さを求めるならリブロース。焼き加減はミディアムレア前後がおすすめ。",
+    "similarItems": [
+      {
+        "id": "rib-rosu",
+        "name": "リブロース",
+        "difference": "リブロースは肩寄りで霜降りがより多く濃厚。サーロインはやや赤身寄りで上品"
+      },
+      {
+        "id": "hire",
+        "name": "ヒレ",
+        "difference": "ヒレはサーロインの内側で脂が少なく最もやわらかい。サーロインは脂の甘みがある"
+      },
+      {
+        "id": "ranpu",
+        "name": "ランプ",
+        "difference": "ランプはサーロインの後ろ（お尻寄り）で赤身中心。サーロインは霜降りが多い"
+      }
+    ],
+    "relatedIds": [
+      "steak",
+      "rosu",
+      "hire",
+      "rib-rosu",
+      "bistecca-alla-fiorentina",
+      "tagliata"
+    ],
+    "source": [
+      "https://www.nipponham.co.jp/recipes/meat/knowledge/beaf/",
+      "https://ja.wikipedia.org/wiki/牛肉"
+    ],
+    "tags": [
+      "日本料理",
+      "イギリス料理",
+      "牛肉",
+      "焼き物",
+      "グリル",
+      "ジューシー",
+      "コース料理"
+    ],
+    "reverseKeywords": [
+      "鶏ささみ",
+      "ホルモン",
+      "野菜中心"
+    ],
+    "avoidedBy": [
+      "牛肉を食べない",
+      "脂っこいものが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sirloin/1.png",
+      "/images/dishes/sirloin/2.jpg",
+      "/images/dishes/sirloin/3.jpg"
+    ]
+  },
+  {
+    "id": "gyu-momo",
+    "name": "牛もも",
+    "kana": "ぎゅうもも",
+    "aliases": [
+      "もも肉",
+      "うちもも",
+      "そともも",
+      "しんたま",
+      "ラウンド"
+    ],
+    "englishName": "Beef Round",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "後ろ脚の付け根の筋肉が集まった赤身の部位。「うちもも」「そともも」「しんたま」に分かれ、脂肪が少なくローストビーフや煮込みに向く。",
+    "menuDescription": "牛の後ろ脚の太もも部分で、筋肉が集まった赤身中心の部位です。内側の「うちもも」は最も脂肪が少なく、ローストビーフやラウンドステーキに使われます。外側の「そともも」はややかためで、挽肉や煮込み、コンビーフに。「しんたま」からはトモサンカクやシンシンなどの希少部位も取れます。",
+    "whatComesOut": [
+      "ローストビーフのスライス",
+      "赤身のステーキやたたき",
+      "焼肉の赤身盛り合わせ",
+      "煮込みや挽肉料理（そともも）"
+    ],
+    "tasteAndTexture": [
+      "脂が少なくあっさりした赤身",
+      "肉本来のしっかりした旨味",
+      "きめは細かいが加熱しすぎると硬くなる",
+      "さっぱりして量を食べやすい"
+    ],
+    "orderAdvice": "脂を控えて赤身を楽しみたい人向け。ローストビーフやたたきなど、火を入れすぎない料理が特においしい。霜降りのやわらかさを期待するなら別部位を。",
+    "similarItems": [
+      {
+        "id": "ranpu",
+        "name": "ランプ",
+        "difference": "ランプは腰とももの間でよりやわらかく適度な脂がある。牛ももは脂が少なくやや硬め"
+      },
+      {
+        "id": "tomosankaku",
+        "name": "トモサンカク",
+        "difference": "トモサンカクはしんたまの中の希少部位で霜降りが入る。牛もも全体はより赤身"
+      },
+      {
+        "id": "rib-rosu",
+        "name": "リブロース",
+        "difference": "リブロースは霜降りが多くこってり。牛ももは脂が少なくあっさり"
+      }
+    ],
+    "relatedIds": [
+      "tomosankaku",
+      "ranpu",
+      "ichibo",
+      "roast-beef-sandwich",
+      "mince",
+      "tartare"
+    ],
+    "source": [
+      "https://www.nipponham.co.jp/recipes/meat/knowledge/beaf/",
+      "https://ja.wikipedia.org/wiki/牛肉"
+    ],
+    "tags": [
+      "日本料理",
+      "牛肉",
+      "ロースト",
+      "焼き物",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "霜降り肉",
+      "とろける脂",
+      "ホルモン"
+    ],
+    "avoidedBy": [
+      "牛肉を食べない"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gyu-momo/1.png",
+      "/images/dishes/gyu-momo/2.jpg",
+      "/images/dishes/gyu-momo/3.jpg"
+    ]
+  },
+  {
+    "id": "gyu-sune",
+    "name": "牛すね",
+    "kana": "ぎゅうすね",
+    "aliases": [
+      "すね肉",
+      "スネ",
+      "シャンク",
+      "ちまき"
+    ],
+    "englishName": "Beef Shank",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛のふくらはぎ部分。筋肉が発達しかたいが、長時間煮込むとコラーゲンが溶け出してとろけるようにやわらかくなる。",
+    "menuDescription": "牛の脚のふくらはぎにあたる部位で、筋肉と腱が発達しているため肉質はかためです。しかし長時間煮込むと豊富なコラーゲンがゼラチン化し、ほろほろとやわらかく、濃厚な旨味が出ます。ビーフシチューやカレー、ポトフのほか、スープのだし取りにも欠かせない部位です。",
+    "whatComesOut": [
+      "大きめにカットされた煮込み肉",
+      "筋がゼラチン状にとろけた断面",
+      "ビーフシチューやカレーの具",
+      "骨付きの輪切り（オッソブーコ風）として出ることも"
+    ],
+    "tasteAndTexture": [
+      "煮込むとほろほろ崩れるやわらかさ",
+      "ゼラチン質のぷるっとした食感",
+      "濃厚な牛の旨味が煮汁に溶け出す",
+      "脂は少なく赤身の味が強い"
+    ],
+    "orderAdvice": "煮込み料理専用の部位。よく煮込まれたシチューやカレーなら、とろける食感と濃いコクが楽しめる。焼き料理には向かない。",
+    "similarItems": [
+      {
+        "id": "gyu-kata",
+        "name": "牛かた",
+        "difference": "牛かたは煮込みにも焼きにも使える。すねは筋が多く長時間煮込み専用"
+      },
+      {
+        "id": "gyu-neck",
+        "name": "牛ネック",
+        "difference": "ネックも煮込み向きだが脂が少なめ。すねは腱が多くゼラチン質が豊富"
+      },
+      {
+        "id": "beef-stew",
+        "name": "ビーフシチュー",
+        "difference": "ビーフシチューはすね肉の代表的な料理。すねは部位そのもの"
+      }
+    ],
+    "relatedIds": [
+      "beef-stew",
+      "pot-au-feu",
+      "japanese-curry",
+      "beef-bourguignon",
+      "goulash",
+      "pho"
+    ],
+    "source": [
+      "https://www.nipponham.co.jp/recipes/meat/knowledge/beaf/",
+      "https://ja.wikipedia.org/wiki/牛肉"
+    ],
+    "tags": [
+      "日本料理",
+      "フランス料理",
+      "牛肉",
+      "煮込み",
+      "こってり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "レアステーキ",
+      "生野菜サラダ",
+      "あっさり刺身"
+    ],
+    "avoidedBy": [
+      "牛肉を食べない",
+      "筋が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gyu-sune/1.png",
+      "/images/dishes/gyu-sune/2.jpg",
+      "/images/dishes/gyu-sune/3.jpg"
+    ]
+  },
+  {
+    "id": "gyu-neck",
+    "name": "牛ネック",
+    "kana": "ぎゅうねっく",
+    "aliases": [
+      "ネック",
+      "首肉",
+      "牛首肉"
+    ],
+    "englishName": "Beef Neck",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の首の部位。よく動かすため脂肪が少なく赤身の多いかための肉質で、じっくり煮込むとコクと旨味が出る。",
+    "menuDescription": "牛の首まわりの肉です。常に動かす部位のため筋肉が発達し、脂肪が少なく赤身が多いかための肉質です。じっくり煮込むことで深いコクと旨味が引き出され、スープや煮込み料理、挽肉に適しています。比較的安価な部位です。",
+    "whatComesOut": [
+      "煮込み料理やスープの具",
+      "挽肉としてハンバーグなどに混ぜられる",
+      "小さめに切った赤身肉",
+      "焼肉店では細切りや薄切りで出ることもある"
+    ],
+    "tasteAndTexture": [
+      "脂が少なく赤身の旨味が濃い",
+      "かための噛みごたえ",
+      "煮込むとほぐれてコクが出る",
+      "スープに深い味わいを与える"
+    ],
+    "orderAdvice": "単体で注文する機会は少なく、煮込みや挽肉料理の素材として登場することが多い。濃いスープや煮込みが好きな人向け。焼きで頼むと硬めなので覚悟を。",
+    "similarItems": [
+      {
+        "id": "gyu-sune",
+        "name": "牛すね",
+        "difference": "すねは腱が多くゼラチン質が豊富。ネックは脂が少なく赤身の旨味が主体"
+      },
+      {
+        "id": "gyu-kata",
+        "name": "牛かた",
+        "difference": "牛かたは首の下の肩部分で用途がより広い。ネックは煮込み・挽肉向き"
+      },
+      {
+        "id": "mince",
+        "name": "ミンチ",
+        "difference": "ミンチは挽肉全般。ネックは挽肉の原料になる部位のひとつ"
+      }
+    ],
+    "relatedIds": [
+      "mince",
+      "beef-stew",
+      "gyu-sune",
+      "gyu-kata",
+      "borscht"
+    ],
+    "source": [
+      "https://www.nipponham.co.jp/recipes/meat/knowledge/beaf/",
+      "https://ja.wikipedia.org/wiki/牛肉"
+    ],
+    "tags": [
+      "日本料理",
+      "牛肉",
+      "煮込み",
+      "あっさり",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "霜降り肉",
+      "とろける脂",
+      "白身魚"
+    ],
+    "avoidedBy": [
+      "牛肉を食べない",
+      "硬い肉が苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 2,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/gyu-neck/1.jpg"
+    ]
+  },
+  {
+    "id": "furisode",
+    "name": "ふりそで",
+    "kana": "ふりそで",
+    "aliases": [
+      "フリソデ",
+      "振袖",
+      "肩肉"
+    ],
+    "englishName": "Chicken Shoulder",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "鶏の手羽元とむね肉の間、肩にあたる部位。一羽から少量しか取れない希少部位で、もも肉とむね肉の中間のような味わい。",
+    "menuDescription": "鶏の肩部分の肉で、手羽元とむね肉をつなぐ位置にあります。一羽からほんの少量しか取れない希少部位です。やわらかな食感の中にほどよい弾力があり、もも肉とむね肉の中間のような、脂がのりつつもさっぱりとした味わいが特徴。焼き鳥では塩焼きが定番です。",
+    "whatComesOut": [
+      "ひと口大の肉が刺さった焼き鳥串",
+      "塩焼きで提供されることが多い",
+      "ソテーやグリルとして出ることも",
+      "皮が少し付いた状態"
+    ],
+    "tasteAndTexture": [
+      "やわらかさの中にほどよい弾力",
+      "もも肉とむね肉の中間的な味",
+      "脂がのっているがさっぱり",
+      "ジューシーで食べやすい"
+    ],
+    "orderAdvice": "焼き鳥店で珍しい部位を試したい人にまずおすすめ。クセがなく、もも肉が好きな人ならまず外れない。希少なので見かけたら早めに注文を。",
+    "similarItems": [
+      {
+        "id": "tori-momo",
+        "name": "鶏もも肉",
+        "difference": "もも肉は脂と旨味が強い。ふりそではもう少しさっぱり"
+      },
+      {
+        "id": "tori-mune",
+        "name": "鶏むね肉",
+        "difference": "むね肉は脂が少なく淡白。ふりそでは適度な脂でジューシー"
+      },
+      {
+        "id": "tebamoto",
+        "name": "手羽元",
+        "difference": "手羽元は骨付きの翼の付け根。ふりそでは手羽元とむね肉の間の骨なし肉"
+      }
+    ],
+    "relatedIds": [
+      "yakitori",
+      "tori-momo",
+      "tori-mune",
+      "tebamoto",
+      "seseri"
+    ],
+    "source": [
+      "https://furunavi.jp/discovery/knowledge_food/202407-chicken/"
+    ],
+    "tags": [
+      "日本料理",
+      "鶏肉",
+      "炭火焼き",
+      "ジューシー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "赤身牛肉",
+      "白身魚",
+      "野菜中心"
+    ],
+    "avoidedBy": [
+      "鶏肉アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/furisode/1.jpg",
+      "/images/dishes/furisode/2.jpg",
+      "/images/dishes/furisode/3.jpg"
+    ]
+  },
+  {
+    "id": "soriresu",
+    "name": "ソリレス",
+    "kana": "そりれす",
+    "aliases": [
+      "ソリレース",
+      "ソリ",
+      "背中肉",
+      "ペテ"
+    ],
+    "englishName": "Chicken Oyster",
+    "originalName": "sot-l'y-laisse",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "フランス"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "鶏のもも付け根の背中側にある小さな肉。フランス語で「愚か者はこれを残す」という意味の名を持つ、一羽から2個しか取れない希少部位。",
+    "menuDescription": "鶏のももの付け根、骨盤のくぼみにある小さな丸い肉です。フランス語の「sot-l'y-laisse（ソ・リ・レス）」は「愚か者はこれを残す」という意味で、丸鶏を食べるときに見落とされがちなことに由来します。もも肉の味わいながら筋肉量が多く、しっかりした弾力と歯ごたえがあり、旨味が凝縮しています。",
+    "whatComesOut": [
+      "小さな丸い肉が数個刺さった焼き鳥串",
+      "塩焼きで提供されることが多い",
+      "ローストチキンの一部として取り分けられることも",
+      "数量限定・希少部位として案内される"
+    ],
+    "tasteAndTexture": [
+      "しっかりした弾力と歯ごたえ",
+      "もも肉の旨味が凝縮した濃い味",
+      "適度な脂でジューシー",
+      "噛むほどに旨味が出る"
+    ],
+    "orderAdvice": "焼き鳥店で見かけたらぜひ頼みたい希少部位。もも肉好きなら確実に楽しめる。シンプルに塩で味わうのがおすすめ。数量が少ないので売り切れ前に。",
+    "similarItems": [
+      {
+        "id": "tori-momo",
+        "name": "鶏もも肉",
+        "difference": "もも肉は量が多い一般部位。ソリレスはももの付け根の小さな希少部分で弾力が強い"
+      },
+      {
+        "id": "seseri",
+        "name": "せせり",
+        "difference": "せせりは首肉で弾力と脂がある。ソリレスはもも系の旨味が濃い"
+      },
+      {
+        "id": "furisode",
+        "name": "ふりそで",
+        "difference": "ふりそでは肩肉でやわらかめ。ソリレスはより歯ごたえがある"
+      }
+    ],
+    "relatedIds": [
+      "yakitori",
+      "tori-momo",
+      "seseri",
+      "furisode"
+    ],
+    "source": [
+      "https://furunavi.jp/discovery/knowledge_food/202407-chicken/"
+    ],
+    "tags": [
+      "日本料理",
+      "フランス料理",
+      "鶏肉",
+      "炭火焼き",
+      "ジューシー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "白身魚",
+      "やわらか豆腐",
+      "野菜中心"
+    ],
+    "avoidedBy": [
+      "鶏肉アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/soriresu/1.png",
+      "/images/dishes/soriresu/2.jpg",
+      "/images/dishes/soriresu/3.jpg"
+    ]
+  },
+  {
+    "id": "tori-harami",
+    "name": "鶏ハラミ",
+    "kana": "とりはらみ",
+    "aliases": [
+      "ハラミ",
+      "はらみ",
+      "鶏横隔膜"
+    ],
+    "englishName": "Chicken Diaphragm",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "鶏の横隔膜・腹部の筋肉。牛や豚のハラミと違い、筋肉質でコリコリとした独特の食感がある希少部位。",
+    "menuDescription": "鶏の横隔膜付近の筋肉の部位です。牛や豚のハラミはやわらかくジューシーですが、鶏のハラミは筋肉質でコリコリとした独特の食感が特徴。独特の旨味が詰まっており、焼き鳥や炒め物で味わいます。肉ですが、取引上はもつ（内臓）として扱われることもあります。",
+    "whatComesOut": [
+      "細長い薄い肉を巻いて刺した焼き鳥串",
+      "塩焼きで提供されることが多い",
+      "炒め物の具として出ることも",
+      "脂が少し付いた状態"
+    ],
+    "tasteAndTexture": [
+      "コリコリとした歯ごたえ",
+      "独特の濃い旨味",
+      "適度な脂で香ばしい",
+      "牛ハラミとは別物の食感"
+    ],
+    "orderAdvice": "食感のある焼き鳥が好きな人向け。牛ハラミのようなやわらかさを期待すると驚くかも。塩焼きで頼むと旨味と食感がよくわかる。",
+    "similarItems": [
+      {
+        "id": "harami",
+        "name": "ハラミ",
+        "difference": "牛ハラミはやわらかくジューシーな焼肉の定番。鶏ハラミは小さくコリコリ"
+      },
+      {
+        "id": "sunagimo",
+        "name": "砂肝",
+        "difference": "砂肝は筋胃でより硬くザクッとした食感。鶏ハラミは脂があり旨味が濃い"
+      },
+      {
+        "id": "saezuri",
+        "name": "さえずり",
+        "difference": "さえずりは食道でコリコリ。鶏ハラミは腹部の筋肉で旨味が強い"
+      }
+    ],
+    "relatedIds": [
+      "yakitori",
+      "harami",
+      "sunagimo",
+      "saezuri"
+    ],
+    "source": [
+      "https://furunavi.jp/discovery/knowledge_food/202407-chicken/",
+      "https://ja.wikipedia.org/wiki/ささみ"
+    ],
+    "tags": [
+      "日本料理",
+      "鶏肉",
+      "炭火焼き",
+      "香ばしい",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "とろける食感",
+      "霜降り肉",
+      "白身魚"
+    ],
+    "avoidedBy": [
+      "鶏肉アレルギー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/tori-harami/1.jpg",
+      "/images/dishes/tori-harami/2.jpg",
+      "/images/dishes/tori-harami/3.jpg"
+    ]
+  },
+  {
+    "id": "saezuri",
+    "name": "さえずり",
+    "kana": "さえずり",
+    "aliases": [
+      "サエズリ",
+      "食道",
+      "ノドブエ",
+      "ジューシーセセリ"
+    ],
+    "englishName": "Chicken Esophagus",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "鶏の食道・気道の部位。周りに脂が付いていて旨味があり、なんこつに似たコリコリ食感が楽しめる希少部位。",
+    "menuDescription": "鶏の食道（と気道）の部位で、「さえずり」という名は鳥の鳴き声に由来します。周りに脂が付いているため旨味があり、なんこつに似たコリコリとした食感が楽しめます。一羽から少量しか取れず、焼き鳥店でもあまり見かけない部位です。",
+    "whatComesOut": [
+      "細長い管状の部位を折りたたんで刺した串",
+      "塩焼きで提供されることが多い",
+      "表面がカリッと焼けて脂が付いた状態",
+      "数量限定メニューとして出ることが多い"
+    ],
+    "tasteAndTexture": [
+      "コリコリとした独特の食感",
+      "周りの脂のジューシーな旨味",
+      "クセは少なめ",
+      "焼くと香ばしい"
+    ],
+    "orderAdvice": "焼き鳥の珍しい部位を開拓したい人向け。なんこつや砂肝の食感が好きなら気に入るはず。内臓系に抵抗がある人は避けてもよい。",
+    "caution": "鶏の内臓系部位。",
+    "similarItems": [
+      {
+        "id": "nankotsu",
+        "name": "なんこつ",
+        "difference": "なんこつは軟骨で淡白。さえずりは脂が付いて旨味がある"
+      },
+      {
+        "id": "seseri",
+        "name": "せせり",
+        "difference": "せせりは首の筋肉でプリプリ。さえずりは食道でコリコリ"
+      },
+      {
+        "id": "sunagimo",
+        "name": "砂肝",
+        "difference": "砂肝は筋胃で脂が少ない。さえずりは脂の旨味がある"
+      }
+    ],
+    "relatedIds": [
+      "yakitori",
+      "nankotsu",
+      "seseri",
+      "sunagimo",
+      "tori-harami"
+    ],
+    "source": [
+      "https://furunavi.jp/discovery/knowledge_food/202407-chicken/",
+      "https://ja.wikipedia.org/wiki/ささみ"
+    ],
+    "tags": [
+      "日本料理",
+      "鶏肉",
+      "炭火焼き",
+      "香ばしい",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "とろける食感",
+      "赤身牛肉",
+      "あっさり豆腐"
+    ],
+    "avoidedBy": [
+      "内臓が苦手",
+      "鶏肉アレルギー"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "momiji",
+    "name": "もみじ",
+    "kana": "もみじ",
+    "aliases": [
+      "モミジ",
+      "鶏足",
+      "鳳爪",
+      "チキンフィート"
+    ],
+    "englishName": "Chicken Feet",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "country": "中国"
+      }
+    ],
+    "summary": "鶏の足先。形が紅葉の葉に似ていることから「もみじ」と呼ばれ、コラーゲンが豊富でスープのだしに使われる。",
+    "menuDescription": "鶏の足（足首から先）の部位で、指を広げた形が紅葉に似ていることから「もみじ」と呼ばれます。肉はほとんどなく、皮・腱・軟骨のゼラチン質が主体。日本では主にスープのだしに使われ、白濁した鶏白湯スープを作るのに欠かせません。中国では「鳳爪」として、甘辛く煮込んだ点心の定番です。",
+    "whatComesOut": [
+      "爪を落とした鶏の足先の煮込み",
+      "中華点心では豆豉ソースで蒸し煮にした赤褐色の鳳爪",
+      "日本ではスープの中に溶けて姿は見えないことが多い",
+      "骨をよけながら食べるスタイル"
+    ],
+    "tasteAndTexture": [
+      "ぷるぷる、とろりとしたゼラチン質",
+      "皮と腱の独特の弾力",
+      "煮汁の味がよくしみる",
+      "細かい骨が多い"
+    ],
+    "orderAdvice": "点心の鳳爪は見た目のインパクトが強いが、味は甘辛く食べやすい。コラーゲン目当て・珍味好き向け。見た目が気になる人や骨を外すのが面倒な人には不向き。",
+    "caution": "細かい骨が多い。見た目に抵抗がある人も多い。",
+    "similarItems": [
+      {
+        "id": "tebasaki",
+        "name": "手羽先",
+        "difference": "手羽先は翼の先で肉と皮がある。もみじは足先でほぼ皮と腱のみ"
+      },
+      {
+        "id": "torigara",
+        "name": "鶏ガラ",
+        "difference": "鶏ガラは胴体の骨でだし専用。もみじはゼラチン質が多く、とろみのある白湯スープになる"
+      }
+    ],
+    "relatedIds": [
+      "torigara",
+      "tebasaki",
+      "samgyetang",
+      "ramen-hokkaido"
+    ],
+    "source": [
+      "https://furunavi.jp/discovery/knowledge_food/202407-chicken/",
+      "https://ja.wikipedia.org/wiki/ささみ"
+    ],
+    "tags": [
+      "中国料理",
+      "日本料理",
+      "点心",
+      "鶏肉",
+      "煮込み",
+      "もちもち"
+    ],
+    "reverseKeywords": [
+      "骨なし肉",
+      "ステーキ",
+      "サラダ"
+    ],
+    "avoidedBy": [
+      "見た目が気になる",
+      "鶏肉アレルギー",
+      "骨付きが苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/momiji/1.jpg",
+      "/images/dishes/momiji/2.jpg",
+      "/images/dishes/momiji/3.jpg"
+    ]
+  },
+  {
+    "id": "torigara",
+    "name": "鶏ガラ",
+    "kana": "とりがら",
+    "aliases": [
+      "ガラ",
+      "鶏骨",
+      "チキンボーン"
+    ],
+    "englishName": "Chicken Carcass",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "肉を取り除いた後の鶏の骨。旨味が詰まっており、ラーメンや鍋料理、中華料理のスープのだしとして欠かせない。",
+    "menuDescription": "鶏の肉を取ったあとに残る胴体の骨の部分です。骨や骨に残った肉、軟骨から旨味が溶け出し、ラーメンや鍋料理、中華スープのベースとして広く使われます。長時間強火で煮出すと白濁した「鶏白湯」に、弱火で澄ませると「清湯」になります。料理として直接出てくることは少なく、だしとして活躍する素材です。",
+    "whatComesOut": [
+      "鶏ガラだしのラーメンスープ（澄んだ醤油・塩ラーメン）",
+      "白濁した鶏白湯スープ",
+      "水炊きや中華スープのベース",
+      "骨そのものは提供されないことがほとんど"
+    ],
+    "tasteAndTexture": [
+      "やさしく澄んだ鶏の旨味",
+      "白湯にするとコクと濃厚さが増す",
+      "クセが少なく他の食材の味を引き立てる",
+      "冷えるとゼラチン質で煮こごりになる"
+    ],
+    "orderAdvice": "メニューに「鶏ガラスープ」「鶏白湯」とあれば鶏の旨味がしっかり出たスープの意味。豚骨や魚介よりあっさりした味が好きな人向け。",
+    "similarItems": [
+      {
+        "id": "momiji",
+        "name": "もみじ",
+        "difference": "もみじは足先でゼラチン質が多く、とろみを出すのに使う。鶏ガラは胴体の骨で旨味のベース"
+      },
+      {
+        "id": "bouillon",
+        "name": "ブイヨン",
+        "difference": "ブイヨンは西洋料理のだし全般で野菜や香草も使う。鶏ガラは素材そのもの"
+      },
+      {
+        "id": "tonkotsu-ramen",
+        "name": "豚骨ラーメン",
+        "difference": "豚骨は豚の骨で濃厚・白濁。鶏ガラはよりあっさり"
+      }
+    ],
+    "relatedIds": [
+      "bouillon",
+      "fonds",
+      "ramen-hokkaido",
+      "tonkotsu-ramen",
+      "samgyetang",
+      "momiji"
+    ],
+    "source": [
+      "https://furunavi.jp/discovery/knowledge_food/202407-chicken/"
+    ],
+    "tags": [
+      "日本料理",
+      "中国料理",
+      "スープ",
+      "鶏肉",
+      "煮込み",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "豚骨",
+      "魚介だし",
+      "濃厚チーズ"
+    ],
+    "avoidedBy": [
+      "鶏肉アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 1,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/torigara/1.jpg",
+      "/images/dishes/torigara/2.jpg",
+      "/images/dishes/torigara/3.jpg"
+    ]
+  },
+  {
+    "id": "chochin",
+    "name": "ちょうちん",
+    "kana": "ちょうちん",
+    "aliases": [
+      "提灯",
+      "タマミチ",
+      "キンカン",
+      "タマヒモ",
+      "きんかん"
+    ],
+    "englishName": "Chicken Oviduct and Immature Egg Yolk",
+    "category": "肉",
+    "regions": [
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "雌鶏の卵管（タマミチ）と、殻ができる前の未成熟卵（キンカン）を一緒に串にしたもの。成熟した雌鶏からしか取れない希少部位。",
+    "menuDescription": "産卵前の雌鶏から取れる部位で、卵管を「タマミチ（タマヒモ）」、まだ殻のない未成熟な卵黄を「キンカン」と呼びます。焼き鳥ではキンカンを卵管で包むように串に刺し、その姿が提灯に似ていることから「ちょうちん」と呼ばれます。タマミチは淡白でコリコリ、キンカンは一般的な卵黄より濃厚です。",
+    "whatComesOut": [
+      "黄色い小さな卵黄と白い卵管を合わせた串",
+      "タレ焼きで出されることが多い",
+      "キンカンは半熟状態で提供される",
+      "煮物（もつ煮）に入ることもある"
+    ],
+    "tasteAndTexture": [
+      "キンカンは口の中でとろりと弾ける",
+      "卵黄より濃厚でクリーミー",
+      "タマミチは淡白でコリコリした歯ごたえ",
+      "タレの甘辛さと卵黄の相性抜群"
+    ],
+    "orderAdvice": "焼き鳥店の希少部位の代表格。キンカンを口の中でつぶして一口で食べるのが流儀。濃厚な卵黄が好きならぜひ。内臓系なので見た目に抵抗がある人は注意。",
+    "caution": "卵アレルギーの人は注意（未成熟卵を含む）。キンカンは半熟提供のことが多い。",
+    "similarItems": [
+      {
+        "id": "reba",
+        "name": "レバー",
+        "difference": "レバーは肝臓でねっとり濃厚。ちょうちんは卵黄のとろりとした濃厚さと卵管の食感"
+      },
+      {
+        "id": "torimotsu-ni",
+        "name": "鳥もつ煮",
+        "difference": "鳥もつ煮はキンカンなどの鶏もつを甘辛く煮た料理。ちょうちんは主に焼き鳥"
+      },
+      {
+        "id": "sunagimo",
+        "name": "砂肝",
+        "difference": "砂肝はコリコリした筋胃。ちょうちんは卵黄のとろける食感が主役"
+      }
+    ],
+    "relatedIds": [
+      "yakitori",
+      "torimotsu-ni",
+      "reba",
+      "hatsu"
+    ],
+    "source": [
+      "https://furunavi.jp/discovery/knowledge_food/202407-chicken/",
+      "https://ja.wikipedia.org/wiki/ささみ"
+    ],
+    "tags": [
+      "日本料理",
+      "鶏肉",
+      "卵",
+      "炭火焼き",
+      "クリーミー",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "赤身肉",
+      "あっさり野菜",
+      "白身魚"
+    ],
+    "avoidedBy": [
+      "卵アレルギー",
+      "内臓が苦手",
+      "鶏肉アレルギー"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chochin/1.jpg"
     ]
   }
 ]
