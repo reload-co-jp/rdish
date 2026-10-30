@@ -246200,5 +246200,770 @@
     "images": [
       "/images/dishes/tomosune/1.jpg"
     ]
+  },
+  {
+    "id": "hangi",
+    "name": "ハンギ",
+    "kana": "はんぎ",
+    "aliases": [
+      "ハーンギー",
+      "ハンギ料理",
+      "ハンギー"
+    ],
+    "englishName": "Hangi",
+    "originalName": "Hāngī",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ニュージーランド"
+      }
+    ],
+    "summary": "ニュージーランドの先住民マオリの伝統的な調理法・料理。地面に掘った穴で熱した石を使い、肉や野菜を土をかぶせて数時間蒸し焼きにする。",
+    "menuDescription": "地中に掘った穴に焼け石を敷き、ラム・豚・鶏などの肉とクマラ（サツマイモ）やカボチャ、キャベツを籠に入れて土で覆い、数時間かけてじっくり蒸し焼きにしたマオリの伝統料理です。",
+    "whatComesOut": [
+      "蒸し焼きにした豚肉・鶏肉・ラム肉",
+      "クマラ（サツマイモ）やジャガイモ",
+      "カボチャ・キャベツなどの野菜",
+      "スタッフィング（詰め物）を添えることも"
+    ],
+    "tasteAndTexture": [
+      "土と煙のほのかな燻香",
+      "肉はしっとり柔らかくほぐれる",
+      "芋や野菜はホクホクで甘い",
+      "味付けは素朴でシンプル"
+    ],
+    "orderAdvice": "マオリ文化体験ツアーや祭事で出会える特別な料理。ニュージーランドらしさを味わいたいなら必食。味は素朴なので、強い味付けを期待する人には物足りないかも。",
+    "similarItems": [
+      {
+        "name": "カルアピッグ",
+        "difference": "ハワイの地中蒸し焼き（イム）で作る豚料理。ハンギは複数の肉と野菜をまとめて調理"
+      },
+      {
+        "name": "ウム",
+        "difference": "サモアやトンガなどポリネシア各地の地中オーブン料理で、ハンギと同系統"
+      },
+      {
+        "name": "クラント",
+        "difference": "チリ・チロエ島の地中蒸し料理で、貝類が主役"
+      }
+    ],
+    "relatedIds": [
+      "steam",
+      "lamb"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2849",
+      "https://en.wikipedia.org/wiki/H%C4%81ngi"
+    ],
+    "tags": [
+      "オセアニア料理",
+      "主菜",
+      "豚肉",
+      "野菜",
+      "蒸し料理",
+      "伝統料理",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "生食",
+      "ピリ辛",
+      "クリーミー",
+      "揚げ物"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hangi/1.jpg",
+      "/images/dishes/hangi/2.jpg",
+      "/images/dishes/hangi/3.jpg"
+    ]
+  },
+  {
+    "id": "fish-and-chips",
+    "name": "フィッシュ・アンド・チップス",
+    "kana": "ふぃっしゅあんどちっぷす",
+    "aliases": [
+      "フィッシュ&チップス",
+      "フィッシュアンドチップス",
+      "フィッシュ・チップス"
+    ],
+    "englishName": "Fish and Chips",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イギリス"
+      },
+      {
+        "country": "ニュージーランド"
+      }
+    ],
+    "summary": "衣をつけて揚げた白身魚にフライドポテトを添えたイギリス発祥の定番料理。ニュージーランドでは最も人気のテイクアウト料理として定着している。",
+    "menuDescription": "サクッとした衣で揚げた白身魚と、太めのフライドポテト（チップス）の盛り合わせ。レモン、タルタルソース、モルトビネガーなどでどうぞ。",
+    "whatComesOut": [
+      "衣揚げの白身魚（タラ・ホキ・スナッパー等）",
+      "太切りのフライドポテト",
+      "レモン",
+      "タルタルソースやケチャップ",
+      "紙包みで出てくることも"
+    ],
+    "tasteAndTexture": [
+      "衣はサクサク、魚はふっくら",
+      "ポテトは外カリ中ホク",
+      "塩気と油のこってり感",
+      "ビネガーやレモンでさっぱり"
+    ],
+    "orderAdvice": "迷ったらこれ、という誰でも食べやすい一品。量が多いのでシェアもおすすめ。ニュージーランドではホキやスナッパーなど魚種を選べる店もある。",
+    "caution": "魚・小麦（衣）を含む。揚げ油の共有に注意。",
+    "similarItems": [
+      {
+        "id": "tempura",
+        "name": "天ぷら",
+        "difference": "天ぷらは薄衣で軽い。フィッシュ・アンド・チップスは厚めの衣でポテトとセット"
+      },
+      {
+        "id": "french-fries",
+        "name": "フライドポテト",
+        "difference": "チップス単体。こちらは魚フライとの組み合わせ"
+      },
+      {
+        "name": "白身魚フライ",
+        "difference": "日本のフライはパン粉衣。こちらは小麦粉・ビール等の液状衣が主流"
+      }
+    ],
+    "relatedIds": [
+      "french-fries",
+      "tartar-sauce",
+      "tempura"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2849",
+      "https://en.wikipedia.org/wiki/Fish_and_chips"
+    ],
+    "tags": [
+      "イギリス料理",
+      "オセアニア料理",
+      "軽食",
+      "魚介",
+      "揚げ物",
+      "サクサク",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "蒸し料理",
+      "あっさり",
+      "生食",
+      "サラダ"
+    ],
+    "avoidedBy": [
+      "揚げ物が苦手",
+      "油っこいものが苦手",
+      "小麦アレルギー",
+      "魚アレルギー"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/fish-and-chips/1.jpg",
+      "/images/dishes/fish-and-chips/2.jpg",
+      "/images/dishes/fish-and-chips/3.jpg"
+    ]
+  },
+  {
+    "id": "meat-pie",
+    "name": "ミートパイ",
+    "kana": "みーとぱい",
+    "aliases": [
+      "キウイ・パイ",
+      "オージー・ミートパイ",
+      "ステーキパイ",
+      "ミンス・パイ（肉）"
+    ],
+    "englishName": "Meat Pie",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ニュージーランド"
+      },
+      {
+        "country": "オーストラリア"
+      }
+    ],
+    "summary": "ひき肉や角切り肉をグレイビーで煮込み、パイ生地で包んで焼いた片手サイズのパイ。オーストラリア・ニュージーランドの国民食的な軽食。",
+    "menuDescription": "牛ひき肉や角切りステーキをグレイビーソースで煮込み、サクサクのパイ生地で包んで焼き上げた手のひらサイズのパイ。チーズ入りやチキン、カレー風味なども人気です。",
+    "whatComesOut": [
+      "手のひらサイズの丸いパイ",
+      "中は肉とグレイビーのフィリング",
+      "トマトソース（ケチャップ）をかけることも",
+      "紙袋入りでテイクアウト"
+    ],
+    "tasteAndTexture": [
+      "パイ生地はサクサク・層状",
+      "中はとろりとした肉汁たっぷりのグレイビー",
+      "塩気と肉の旨味がしっかり",
+      "熱々なのでやけど注意"
+    ],
+    "orderAdvice": "ベーカリーやスーパー、ガソリンスタンドでも買える手軽なランチ。初めてなら定番のミンス＆チーズかステーキ＆チーズを。",
+    "caution": "小麦・乳製品（バター）を含む。中身が非常に熱いことがある。",
+    "similarItems": [
+      {
+        "id": "pot-pie",
+        "name": "ポットパイ",
+        "difference": "ポットパイは器ごと焼き、上だけパイで覆う。ミートパイは全体を生地で包む"
+      },
+      {
+        "id": "shepherds-pie",
+        "name": "シェパーズパイ",
+        "difference": "パイ生地ではなくマッシュポテトで覆うイギリス料理"
+      },
+      {
+        "name": "コーニッシュ・パスティ",
+        "difference": "半月形の包み焼きで、肉と野菜を生のまま包んで焼く"
+      }
+    ],
+    "relatedIds": [
+      "pot-pie",
+      "shepherds-pie",
+      "gravy"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2849",
+      "https://en.wikipedia.org/wiki/Meat_pie_(Australia_and_New_Zealand)"
+    ],
+    "tags": [
+      "オセアニア料理",
+      "軽食",
+      "牛肉",
+      "小麦",
+      "焼き物",
+      "こってり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "あっさり",
+      "生食",
+      "サラダ",
+      "蒸し料理"
+    ],
+    "avoidedBy": [
+      "小麦アレルギー",
+      "脂っこいものが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/meat-pie/1.jpg",
+      "/images/dishes/meat-pie/2.jpg",
+      "/images/dishes/meat-pie/3.jpg"
+    ]
+  },
+  {
+    "id": "bluff-oyster",
+    "name": "ブラフ・オイスター",
+    "kana": "ぶらふおいすたー",
+    "aliases": [
+      "ブラフオイスター",
+      "ブラフ牡蠣",
+      "ドレッジオイスター"
+    ],
+    "englishName": "Bluff Oyster",
+    "originalName": "Bluff oyster (Ostrea chilensis)",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "ニュージーランド"
+      }
+    ],
+    "summary": "ニュージーランド南島の港町ブラフ周辺、フォーヴォー海峡で獲れる天然の平牡蠣。3〜8月のみ水揚げされる季節限定の高級品。",
+    "menuDescription": "南極に近い冷たいフォーヴォー海峡で育った天然牡蠣。濃厚でクリーミーな身を、殻付きのまま生でレモンを搾って味わうのが定番です。",
+    "whatComesOut": [
+      "殻付きの生牡蠣（氷の上に盛り付け）",
+      "レモン",
+      "フライやパン粉焼きで出ることも",
+      "ダース・ハーフダース単位の注文"
+    ],
+    "tasteAndTexture": [
+      "濃厚でクリーミーな身",
+      "強いミネラル感と磯の香り",
+      "平たく小ぶりで身が詰まっている",
+      "後味にほのかな甘み"
+    ],
+    "orderAdvice": "シーズン（3〜8月）中にニュージーランドを訪れるなら必食の名物。生牡蠣が苦手ならフライで。毎年5月にはブラフで牡蠣祭りも開かれる。",
+    "caution": "貝類アレルギー注意。生食はノロウイルス等の食中毒リスクがあるため、体調の悪い時や妊娠中は避ける。",
+    "similarItems": [
+      {
+        "name": "真牡蠣",
+        "difference": "日本の主流の牡蠣。ブラフ・オイスターは平牡蠣（ヒラガキ）の仲間で殻が平たい"
+      },
+      {
+        "name": "ブロン（ヨーロッパヒラガキ）",
+        "difference": "フランス・ブルターニュの平牡蠣で、同属の近縁種"
+      },
+      {
+        "id": "mussel",
+        "name": "ムール貝",
+        "difference": "ムール貝は加熱調理が基本。ブラフ・オイスターは生食が主流"
+      }
+    ],
+    "relatedIds": [
+      "mussel",
+      "green-lipped-mussel"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2849",
+      "https://en.wikipedia.org/wiki/Bluff_oyster"
+    ],
+    "tags": [
+      "オセアニア料理",
+      "貝類",
+      "生食",
+      "クリーミー",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "揚げ物",
+      "肉料理",
+      "こってり",
+      "ピリ辛"
+    ],
+    "avoidedBy": [
+      "貝アレルギー",
+      "生ものが苦手",
+      "妊娠中"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "whitebait-fritter",
+    "name": "ホワイトベイト・フリッター",
+    "kana": "ほわいとべいとふりったー",
+    "aliases": [
+      "ホワイトベイトフリッター",
+      "ホワイトベイト・フリッター",
+      "シラスのオムレツ"
+    ],
+    "englishName": "Whitebait Fritter",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ニュージーランド"
+      }
+    ],
+    "summary": "ニュージーランドの稚魚（ホワイトベイト）を卵でまとめて焼いた、オムレツ風のフリッター。漁期が法律で限られる高価な季節の味。",
+    "menuDescription": "春の短い漁期にだけ獲れる透明な稚魚・ホワイトベイトを、たっぷり卵でまとめて焼き上げたフリッター。白い食パンに挟み、レモンを搾るのが地元流です。",
+    "whatComesOut": [
+      "稚魚がぎっしりの卵焼き風フリッター",
+      "白い食パン（サンドにすることも）",
+      "レモン",
+      "バターやミントソースを添えることも"
+    ],
+    "tasteAndTexture": [
+      "卵はふんわり",
+      "稚魚の淡くほのかな苦みと旨味",
+      "あっさりした塩味",
+      "プチッとした小魚の食感"
+    ],
+    "orderAdvice": "春（9〜11月頃）の西海岸で見かけたら試す価値あり。卵料理が好きなら間違いない。高価なので、稚魚の割合が多い店ほど本格的。",
+    "caution": "卵・魚を含む。",
+    "similarItems": [
+      {
+        "id": "fritter",
+        "name": "フリッター",
+        "difference": "衣揚げ全般を指す調理法。こちらは卵でまとめて焼くパンケーキ状"
+      },
+      {
+        "id": "nama-shirasu-don",
+        "name": "生しらす丼",
+        "difference": "日本のしらす（イワシ類の稚魚）を生で食べる。ホワイトベイトは主にイナンガ等ガラクシアス科の稚魚"
+      },
+      {
+        "name": "フリッテッレ・ディ・ジャンケッティ",
+        "difference": "イタリア・リグーリアの稚魚のフリッターで、揚げて作る"
+      }
+    ],
+    "relatedIds": [
+      "fritter",
+      "nama-shirasu-don"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2849",
+      "https://en.wikipedia.org/wiki/Whitebait_fritter"
+    ],
+    "tags": [
+      "オセアニア料理",
+      "軽食",
+      "魚介",
+      "卵",
+      "焼き物",
+      "ふわふわ",
+      "郷土料理",
+      "季節料理"
+    ],
+    "reverseKeywords": [
+      "牛肉",
+      "こってり",
+      "ピリ辛",
+      "煮込み"
+    ],
+    "avoidedBy": [
+      "卵アレルギー",
+      "小魚が苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/whitebait-fritter/1.jpg"
+    ]
+  },
+  {
+    "id": "green-lipped-mussel",
+    "name": "グリーンマッスル",
+    "kana": "ぐりーんまっする",
+    "aliases": [
+      "グリーン・マッスル",
+      "グリーンシェル・マッスル",
+      "グリーンリップド・マッスル",
+      "パーナ貝",
+      "クク"
+    ],
+    "englishName": "Green-lipped Mussel",
+    "originalName": "Kuku / Kūtai (Perna canaliculus)",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "ニュージーランド"
+      }
+    ],
+    "summary": "ニュージーランド固有の大型イガイ。殻の縁が鮮やかな緑色をしており、マオリの伝統食材から現在は主要な養殖輸出品となった。",
+    "menuDescription": "殻の縁が緑色に輝くニュージーランド固有の大ぶりなムール貝。白ワインやガーリック、レモンで蒸し上げるのが定番です。",
+    "whatComesOut": [
+      "殻付きの大ぶりな貝（緑色の縁）",
+      "白ワイン・ガーリックの蒸し汁",
+      "パンやフライドポテト",
+      "ハーフシェルでチーズ焼きにすることも"
+    ],
+    "tasteAndTexture": [
+      "身が大きく肉厚でぷりぷり",
+      "ほんのり甘く磯の香りは穏やか",
+      "蒸し汁に旨味が溶け出す",
+      "オレンジ色（雌）とクリーム色（雄）の身"
+    ],
+    "orderAdvice": "ムール貝が好きならより大ぶりで食べ応えのあるこちらを。シーフードレストランやパブで手頃に食べられる。",
+    "caution": "貝類アレルギー注意。",
+    "similarItems": [
+      {
+        "id": "mussel",
+        "name": "ムール貝",
+        "difference": "ヨーロッパのムラサキイガイ。グリーンマッスルはより大型で殻縁が緑"
+      },
+      {
+        "id": "moules-marinieres",
+        "name": "ムール・マリニエール",
+        "difference": "フランスのムール貝白ワイン蒸し。調理法は近い"
+      },
+      {
+        "name": "ミドリイガイ",
+        "difference": "東南アジア原産の同属別種（Perna viridis）。殻全体が緑色"
+      }
+    ],
+    "relatedIds": [
+      "mussel",
+      "moules-marinieres",
+      "moules-frites",
+      "steam"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2849",
+      "https://en.wikipedia.org/wiki/New_Zealand_green-lipped_mussel"
+    ],
+    "tags": [
+      "オセアニア料理",
+      "貝類",
+      "蒸し料理",
+      "ジューシー",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "牛肉",
+      "こってり",
+      "ピリ辛",
+      "揚げ物"
+    ],
+    "avoidedBy": [
+      "貝アレルギー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/green-lipped-mussel/1.jpg",
+      "/images/dishes/green-lipped-mussel/2.jpg",
+      "/images/dishes/green-lipped-mussel/3.jpg"
+    ]
+  },
+  {
+    "id": "nz-crayfish",
+    "name": "クレイフィッシュ",
+    "kana": "くれいふぃっしゅ",
+    "aliases": [
+      "クレイ",
+      "コウラ",
+      "サザン・ロックロブスター",
+      "ニュージーランド産イセエビ"
+    ],
+    "englishName": "Crayfish (Southern Rock Lobster)",
+    "originalName": "Kōura (Jasus edwardsii)",
+    "category": "魚介",
+    "regions": [
+      {
+        "country": "ニュージーランド"
+      }
+    ],
+    "summary": "ニュージーランドで「クレイフィッシュ」と呼ばれるイセエビの仲間（ミナミイセエビ属）。甘く濃厚な身が特徴の高級食材で、カイコウラが名産地。",
+    "menuDescription": "ニュージーランド近海で獲れるイセエビ。茹でたり半身をグリルしたりして、ガーリックバターやレモンでシンプルに味わいます。",
+    "whatComesOut": [
+      "半割りにしたグリルのイセエビ",
+      "ガーリックバター",
+      "レモン",
+      "茹でて冷やしたものや刺身で出ることも"
+    ],
+    "tasteAndTexture": [
+      "身は甘く濃厚",
+      "ぷりっとした弾力",
+      "バターと合わせるとクリーミー",
+      "殻ごと焼くと香ばしい"
+    ],
+    "orderAdvice": "特別な日のごちそう。カイコウラでは道端の屋台で手頃に食べられることも。時価のことが多いので値段を確認してから注文を。",
+    "caution": "甲殻類アレルギー注意。英語の crayfish は一般にザリガニを指すが、ニュージーランドでは海のイセエビを指す。",
+    "similarItems": [
+      {
+        "name": "伊勢海老",
+        "difference": "日本のイセエビ（Panulirus属）。クレイフィッシュは南半球のJasus属で近縁"
+      },
+      {
+        "name": "オマール海老",
+        "difference": "大きなハサミを持つロブスター。クレイフィッシュにはハサミがない"
+      },
+      {
+        "name": "ザリガニ",
+        "difference": "淡水のザリガニ。英語圏では crayfish と呼ばれるが別物"
+      }
+    ],
+    "relatedIds": [
+      "bouillabaisse",
+      "gratin"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2849",
+      "https://en.wikipedia.org/wiki/Jasus_edwardsii"
+    ],
+    "tags": [
+      "オセアニア料理",
+      "魚介",
+      "グリル",
+      "甘み",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "牛肉",
+      "ピリ辛",
+      "揚げ物",
+      "あっさり"
+    ],
+    "avoidedBy": [
+      "甲殻類アレルギー"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": []
+  },
+  {
+    "id": "hokey-pokey",
+    "name": "ホーキー・ポーキー",
+    "kana": "ほーきーぽーきー",
+    "aliases": [
+      "ホーキーポーキー",
+      "ホーキー・ポーキー・アイス",
+      "ハニカムアイス"
+    ],
+    "englishName": "Hokey Pokey",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ニュージーランド"
+      }
+    ],
+    "summary": "バニラアイスにハニカムトフィー（カルメ焼き風の砂糖菓子）の粒を混ぜた、ニュージーランドを代表するアイスクリームのフレーバー。",
+    "menuDescription": "なめらかなバニラアイスクリームに、サクサクのハニカムトフィーの粒をたっぷり混ぜ込んだニュージーランドの国民的フレーバーです。",
+    "whatComesOut": [
+      "コーンまたはカップのバニラアイス",
+      "中に金色のハニカムトフィーの粒",
+      "ダブル・トリプルで盛ることも"
+    ],
+    "tasteAndTexture": [
+      "バニラのまろやかな甘さ",
+      "トフィーのサクサク・カリカリ食感",
+      "キャラメルのような香ばしさ",
+      "時間が経つとトフィーがねっとり溶ける"
+    ],
+    "orderAdvice": "ニュージーランドでバニラに次ぐ人気No.1クラスの定番。甘いもの好きなら迷わず。とても甘いので甘さ控えめ派は小さめサイズで。",
+    "caution": "乳製品を含む。",
+    "similarItems": [
+      {
+        "id": "honeycomb-toffee",
+        "name": "ハニカムトフィー",
+        "difference": "混ぜ込まれている砂糖菓子そのもの。NZではこれ自体もホーキー・ポーキーと呼ぶ"
+      },
+      {
+        "id": "gelato",
+        "name": "ジェラート",
+        "difference": "イタリアの低脂肪・低空気含有のアイス"
+      },
+      {
+        "name": "キャラメルリボンアイス",
+        "difference": "キャラメルソースを渦状に入れたもの。食感の楽しさはホーキー・ポーキーが上"
+      }
+    ],
+    "relatedIds": [
+      "honeycomb-toffee",
+      "gelato"
+    ],
+    "source": [
+      "https://delishkitchen.tv/articles/2849",
+      "https://en.wikipedia.org/wiki/Hokey_pokey_(ice_cream)"
+    ],
+    "tags": [
+      "オセアニア料理",
+      "デザート",
+      "乳製品",
+      "甘み",
+      "サクサク",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "酸味",
+      "あっさり",
+      "ピリ辛",
+      "果物"
+    ],
+    "avoidedBy": [
+      "乳製品不可",
+      "甘いものが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/hokey-pokey/1.jpg",
+      "/images/dishes/hokey-pokey/2.jpg"
+    ]
+  },
+  {
+    "id": "pavlova",
+    "name": "パブロバ",
+    "kana": "ぱぶろば",
+    "aliases": [
+      "パヴロヴァ",
+      "パブロヴァ",
+      "パブロワ",
+      "パヴ"
+    ],
+    "englishName": "Pavlova",
+    "category": "デザート",
+    "regions": [
+      {
+        "country": "ニュージーランド"
+      },
+      {
+        "country": "オーストラリア"
+      }
+    ],
+    "summary": "大きな円盤状に焼いたメレンゲに、ホイップクリームと果物をのせたデザート。20世紀初頭に生まれ、ロシアのバレリーナ、アンナ・パヴロワにちなんで名付けられた。ニュージーランドとオーストラリアが互いに発祥を主張している。",
+    "menuDescription": "外はサクッと、中はマシュマロのようにしっとり柔らかく焼き上げたメレンゲの上に、ホイップクリームとキウイ・ベリー・パッションフルーツなどのフレッシュフルーツをたっぷりのせました。",
+    "whatComesOut": [
+      "直径20cmほどの円盤状のメレンゲ（切り分けて提供）",
+      "たっぷりのホイップクリーム",
+      "キウイ・イチゴ・パッションフルーツなどの果物",
+      "1人用の小型サイズで出ることも"
+    ],
+    "tasteAndTexture": [
+      "外側はサクサク・カリッと軽い",
+      "中はマシュマロのようにしっとりふんわり",
+      "砂糖たっぷりの強い甘さ",
+      "果物の酸味が甘さを中和"
+    ],
+    "orderAdvice": "クリスマスや誕生日など祝いの席の定番。軽い食感なので満腹時でも入るが、甘さはかなり強め。甘いもの好きなら、ニュージーランド・オーストラリアで一度は試したい。",
+    "caution": "卵（卵白）・乳製品（生クリーム）を含む。",
+    "similarItems": [
+      {
+        "id": "meringue",
+        "name": "メレンゲ",
+        "difference": "パブロバのベース。普通のメレンゲは中まで乾いて固いが、パブロバは中がしっとり柔らかい"
+      },
+      {
+        "name": "イートン・メス",
+        "difference": "砕いたメレンゲをクリーム・イチゴと混ぜるイギリスのデザート"
+      },
+      {
+        "name": "ヴァシュラン",
+        "difference": "メレンゲの器にアイスやクリームを詰めるフランス菓子"
+      },
+      {
+        "name": "シュパニッシェ・ヴィントトルテ",
+        "difference": "オーストリアのメレンゲケーキで、パブロバの原型とする説もある"
+      }
+    ],
+    "relatedIds": [
+      "meringue",
+      "hokey-pokey"
+    ],
+    "source": [
+      "https://schoolwith.me/columns/32000",
+      "https://en.wikipedia.org/wiki/Pavlova_(dessert)"
+    ],
+    "tags": [
+      "オセアニア料理",
+      "デザート",
+      "卵",
+      "果物",
+      "甘み",
+      "ふわふわ",
+      "祝祭料理"
+    ],
+    "reverseKeywords": [
+      "こってり",
+      "ピリ辛",
+      "チーズ",
+      "あっさり"
+    ],
+    "avoidedBy": [
+      "卵アレルギー",
+      "乳製品不可",
+      "甘いものが苦手"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 3,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/pavlova/1.jpg",
+      "/images/dishes/pavlova/2.jpg",
+      "/images/dishes/pavlova/3.jpg"
+    ]
   }
 ]
