@@ -80,7 +80,7 @@ export const RouteAdModal = ({ links, heading }: Props) => {
         ×
       </button>
       <div style={{ width: "100%", maxWidth: "728px", background: "#fff" }}>
-        <AdSense key={pathname} />
+        <AdSense />
       </div>
       <nav
         aria-label={heading}

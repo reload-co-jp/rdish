@@ -3,6 +3,19 @@
 import { useEffect } from "react"
 import { usePathname } from "next/navigation"
 
+// pathname を <ins> の key と effect 依存にする → 遷移毎に枠を作り直して再リクエスト
+const useAdPush = () => {
+  const pathname = usePathname()
+  useEffect(() => {
+    try {
+      ;(window.adsbygoogle = window.adsbygoogle || []).push({})
+    } catch (_e) {
+      // adsbygoogle push errors are non-fatal
+    }
+  }, [pathname])
+  return pathname
+}
+
 declare global {
   interface Window {
     adsbygoogle: unknown[]
@@ -10,18 +23,13 @@ declare global {
 }
 
 const AdSense = () => {
-  useEffect(() => {
-    try {
-      ;(window.adsbygoogle = window.adsbygoogle || []).push({})
-    } catch (_e) {
-      // adsbygoogle push errors are non-fatal
-    }
-  }, [])
+  const pathname = useAdPush()
 
   if (process.env.NODE_ENV !== "production") return null
 
   return (
     <ins
+      key={pathname}
       className="adsbygoogle"
       style={{ display: "block", padding: ".5rem", minHeight: "100px" }}
       data-ad-client="ca-pub-6542845006087970"
@@ -35,18 +43,13 @@ const AdSense = () => {
 export default AdSense
 
 export const InArticleAd = () => {
-  useEffect(() => {
-    try {
-      ;(window.adsbygoogle = window.adsbygoogle || []).push({})
-    } catch (_e) {
-      // adsbygoogle push errors are non-fatal
-    }
-  }, [])
+  const pathname = useAdPush()
 
   if (process.env.NODE_ENV !== "production") return null
 
   return (
     <ins
+      key={pathname}
       className="adsbygoogle"
       style={{ display: "block", textAlign: "center" }}
       data-ad-layout="in-article"
@@ -57,5 +60,4 @@ export const InArticleAd = () => {
   )
 }
 
-// layout は遷移で再マウントされない → pathname を key にして毎ページ新規枠を push
-export const RouteAd = () => <AdSense key={usePathname()} />
+export const RouteAd = AdSense
