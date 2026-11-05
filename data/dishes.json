@@ -246965,5 +246965,552 @@
       "/images/dishes/pavlova/2.jpg",
       "/images/dishes/pavlova/3.jpg"
     ]
+  },
+  {
+    "id": "motsunabe",
+    "name": "もつ鍋",
+    "kana": "もつなべ",
+    "aliases": [
+      "ホルモン鍋",
+      "博多もつ鍋"
+    ],
+    "englishName": "Motsunabe (Offal Hot Pot)",
+    "originalName": "もつ鍋",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "日本",
+        "area": "九州",
+        "prefecture": "福岡県"
+      }
+    ],
+    "summary": "牛や豚の小腸などのもつを、キャベツ・ニラ・にんにくと醤油や味噌のスープで煮込む福岡・博多の鍋料理。",
+    "menuDescription": "下処理した国産牛の小腸を、鰹と昆布のだしに醤油または味噌で味つけしたスープで、たっぷりのキャベツとニラ、にんにく、唐辛子と一緒に煮込みました。締めはちゃんぽん麺で。",
+    "whatComesOut": [
+      "もつと野菜が山盛りになった鍋",
+      "キャベツ・ニラ・ごぼう",
+      "にんにくのスライスと鷹の爪",
+      "締めのちゃんぽん麺または雑炊用のご飯"
+    ],
+    "tasteAndTexture": [
+      "もつの脂が溶け出した甘くコクのあるスープ",
+      "ぷるぷると弾力のある小腸",
+      "くたっとしたキャベツとニラの甘み",
+      "にんにくと唐辛子のほどよい刺激"
+    ],
+    "orderAdvice": "ホルモン入門に最適。脂の甘みが好きなら必食。醤油味はすっきり、味噌味はこってり。初めてなら醤油味から。締めのちゃんぽん麺まで食べて完成。",
+    "caution": "牛または豚の内臓を使う。にんにくが強い。",
+    "similarItems": [
+      {
+        "id": "motsu-nikomi",
+        "name": "もつ煮込み",
+        "difference": "もつ煮込みは豚もつを味噌でじっくり煮込んだ一品料理。もつ鍋は牛もつと野菜を卓上で煮る鍋"
+      },
+      {
+        "id": "kopchang",
+        "name": "コプチャン",
+        "difference": "コプチャンは同じ小腸を鉄板で焼く韓国料理。もつ鍋はスープで煮る"
+      },
+      {
+        "id": "mao-du",
+        "name": "毛肚",
+        "difference": "毛肚は牛の胃を麻辣スープにくぐらせる四川火鍋の具。もつ鍋は辛さ控えめで野菜が主役"
+      }
+    ],
+    "relatedIds": [
+      "motsu-nikomi",
+      "marucho",
+      "horumon-yaki",
+      "kopchang",
+      "tecchan"
+    ],
+    "source": [
+      "https://ja.wikipedia.org/wiki/%E3%82%82%E3%81%A4%E9%8D%8B"
+    ],
+    "tags": [
+      "日本料理",
+      "鍋料理",
+      "牛肉",
+      "野菜",
+      "煮込み",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "水炊き",
+      "湯豆腐",
+      "しゃぶしゃぶ"
+    ],
+    "avoidedBy": [
+      "内臓が苦手",
+      "ニンニクが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/motsunabe/1.jpg",
+      "/images/dishes/motsunabe/2.jpg",
+      "/images/dishes/motsunabe/3.jpg"
+    ]
+  },
+  {
+    "id": "callos",
+    "name": "カジョス",
+    "kana": "かじょす",
+    "aliases": [
+      "カジョス・ア・ラ・マドリレーニャ",
+      "マドリード風牛胃の煮込み"
+    ],
+    "englishName": "Callos (Madrid-style Tripe Stew)",
+    "originalName": "Callos a la madrileña",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "スペイン",
+        "area": "マドリード"
+      },
+      {
+        "country": "フィリピン"
+      }
+    ],
+    "summary": "牛の胃をチョリソー・モルシージャ・生ハムとパプリカ風味で煮込む、マドリードの冬の名物料理。",
+    "menuDescription": "やわらかく煮た牛の胃袋に、チョリソーとモルシージャ（血のソーセージ）、生ハムを加え、パプリカとにんにくで香りよく仕上げたマドリードの伝統的な煮込み。土鍋で熱々のままお出しします。",
+    "whatComesOut": [
+      "土鍋に入った赤茶色の煮込み",
+      "一口大の牛の胃袋",
+      "輪切りのチョリソーとモルシージャ",
+      "生ハムの角切り",
+      "バゲット"
+    ],
+    "tasteAndTexture": [
+      "パプリカとチョリソーの香ばしく濃厚な味",
+      "ゼラチン質が溶けたとろりとしたソース",
+      "胃袋のぷるんとやわらかい食感",
+      "ほのかな辛み"
+    ],
+    "orderAdvice": "スペインのバルでタパスとしても出る定番。トリッパが好きなら確実に気に入る。ソースが濃いのでパンと一緒に。内臓が苦手ならマドリードの煮込みコシード・マドリレーニョを。",
+    "caution": "牛の内臓と豚の血のソーセージを含む。",
+    "similarItems": [
+      {
+        "id": "trippa",
+        "name": "トリッパ",
+        "difference": "トリッパはイタリアのトマト煮込み。カジョスはパプリカとソーセージ入りでより濃厚"
+      },
+      {
+        "id": "menudo",
+        "name": "メヌード",
+        "difference": "メヌードはメキシコのチリ入りスープ。カジョスはスープではなく煮込み"
+      },
+      {
+        "id": "motsu-nikomi",
+        "name": "もつ煮込み",
+        "difference": "もつ煮込みは豚もつの味噌煮。カジョスは牛の胃をパプリカで煮る"
+      }
+    ],
+    "relatedIds": [
+      "trippa",
+      "menudo",
+      "blood-sausage",
+      "chorizo",
+      "cocido-madrileno",
+      "jamon-serrano",
+      "tapas"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Callos",
+      "https://es.wikipedia.org/wiki/Callos_a_la_madrile%C3%B1a"
+    ],
+    "tags": [
+      "スペイン料理",
+      "主菜",
+      "牛肉",
+      "スパイス",
+      "煮込み",
+      "こってり",
+      "郷土料理"
+    ],
+    "reverseKeywords": [
+      "ガスパチョ",
+      "パエリア",
+      "トルティージャ"
+    ],
+    "avoidedBy": [
+      "内臓が苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/callos/1.jpg",
+      "/images/dishes/callos/2.jpg",
+      "/images/dishes/callos/3.jpg"
+    ]
+  },
+  {
+    "id": "haggis",
+    "name": "ハギス",
+    "kana": "はぎす",
+    "aliases": [
+      "ハギス・ニープス・アンド・タティーズ"
+    ],
+    "englishName": "Haggis",
+    "originalName": "Haggis",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "イギリス",
+        "area": "スコットランド"
+      }
+    ],
+    "summary": "羊の心臓・肝臓・肺を刻んでオート麦・玉ねぎ・スパイスと混ぜ、羊の胃袋に詰めてゆでたスコットランドの伝統料理。",
+    "menuDescription": "羊の内臓をオート麦と玉ねぎ、黒胡椒などのスパイスと合わせ、じっくり加熱したスコットランドの伝統料理。マッシュしたかぶ（ニープス）とじゃがいも（タティーズ）、ウイスキーソースを添えて。",
+    "whatComesOut": [
+      "崩れたひき肉のようなハギス",
+      "かぶのマッシュ（ニープス）",
+      "じゃがいものマッシュ（タティーズ）",
+      "ウイスキーソースまたはグレービー"
+    ],
+    "tasteAndTexture": [
+      "黒胡椒のきいたスパイシーな風味",
+      "オート麦のほろほろとしたナッツのような食感",
+      "レバーの濃厚なコク",
+      "見た目に反してくせは控えめ"
+    ],
+    "orderAdvice": "スコットランドに行ったら一度は試したい国民食。レバーペーストやソーセージが平気なら問題なく食べられる。朝食のフル・スコティッシュ・ブレックファストに少量入ることも。",
+    "caution": "羊の内臓を使う。オート麦（グルテンを含む場合あり）を含む。米国では羊の肺の食用が禁じられており、伝統的なハギスは輸入できない。",
+    "similarItems": [
+      {
+        "id": "blood-sausage",
+        "name": "ブラッドソーセージ",
+        "difference": "ブラッドソーセージは血と穀物の腸詰め。ハギスは血ではなく内臓の肉とオート麦を胃袋に詰める"
+      },
+      {
+        "id": "sundae",
+        "name": "スンデ",
+        "difference": "スンデは豚の腸に血ともち米を詰めて蒸す韓国料理。ハギスは羊の胃袋を使う"
+      },
+      {
+        "id": "pate",
+        "name": "パテ",
+        "difference": "パテはなめらかに練った肉やレバーの加工品。ハギスは粗くほろほろした食感"
+      }
+    ],
+    "relatedIds": [
+      "blood-sausage",
+      "sundae",
+      "liver-and-onions",
+      "shepherds-pie"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Haggis",
+      "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%AE%E3%82%B9"
+    ],
+    "tags": [
+      "イギリス料理",
+      "主菜",
+      "羊肉",
+      "スパイス",
+      "煮込み",
+      "香ばしい",
+      "伝統料理"
+    ],
+    "reverseKeywords": [
+      "フィッシュ・アンド・チップス",
+      "ローストビーフ",
+      "サンドイッチ"
+    ],
+    "avoidedBy": [
+      "内臓が苦手",
+      "羊肉が苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 5,
+    "heavinessScore": 4,
+    "spicinessScore": 1,
+    "images": [
+      "/images/dishes/haggis/1.jpg",
+      "/images/dishes/haggis/2.jpg",
+      "/images/dishes/haggis/3.jpg"
+    ]
+  },
+  {
+    "id": "anticucho",
+    "name": "アンティクーチョ",
+    "kana": "あんてぃくーちょ",
+    "aliases": [
+      "アンティクーチョス",
+      "牛ハツの串焼き"
+    ],
+    "englishName": "Anticuchos (Beef Heart Skewers)",
+    "originalName": "Anticuchos de corazón",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "ペルー"
+      },
+      {
+        "country": "ボリビア"
+      },
+      {
+        "country": "チリ"
+      }
+    ],
+    "summary": "牛の心臓を酢・アヒ（唐辛子）・にんにく・クミンのタレに漬け込み、串に刺して炭火で焼くペルーの屋台料理。",
+    "menuDescription": "牛ハツをアヒ・パンカ（赤唐辛子）とにんにく、クミン、酢のマリネ液に漬け込み、炭火で香ばしく焼き上げたペルーの伝統の串焼き。ゆでたじゃがいもととうもろこし、辛いソースを添えて。",
+    "whatComesOut": [
+      "赤く色づいた牛ハツの串焼き",
+      "串の先に刺したゆでじゃがいも",
+      "大粒のとうもろこし（チョクロ）",
+      "アヒの辛いソース"
+    ],
+    "tasteAndTexture": [
+      "炭火の香ばしさとスパイスの香り",
+      "ハツのサクッと弾力のある歯ごたえ",
+      "酢と唐辛子のほどよい酸味と辛さ",
+      "内臓らしいくせはほとんどない"
+    ],
+    "orderAdvice": "焼き鳥のハツが好きなら間違いない。見た目は普通の串焼きで、内臓初心者にもおすすめ。リマでは夜の屋台（アンティクチェラ）で食べるのが定番。",
+    "caution": "牛の内臓を使う。唐辛子を使う。",
+    "similarItems": [
+      {
+        "id": "hatsu",
+        "name": "ハツ",
+        "difference": "日本のハツは塩やタレでシンプルに焼く。アンティクーチョは唐辛子と酢のマリネに漬けてから焼く"
+      },
+      {
+        "id": "yakitori",
+        "name": "焼き鳥",
+        "difference": "焼き鳥は鶏の串焼き。アンティクーチョは牛の心臓が主流"
+      },
+      {
+        "id": "shashlik",
+        "name": "シャシリック",
+        "difference": "シャシリックは羊や豚の肉のマリネ串焼き。アンティクーチョは心臓を使う"
+      }
+    ],
+    "relatedIds": [
+      "hatsu",
+      "yakitori",
+      "shashlik",
+      "ceviche"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Anticucho"
+    ],
+    "tags": [
+      "ペルー料理",
+      "軽食",
+      "牛肉",
+      "スパイス",
+      "炭火焼き",
+      "マリネ",
+      "ピリ辛",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "セビーチェ",
+      "あっさり",
+      "クリーミー"
+    ],
+    "avoidedBy": [
+      "内臓が苦手",
+      "辛いものが苦手"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 2,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/anticucho/1.jpg",
+      "/images/dishes/anticucho/2.jpg"
+    ]
+  },
+  {
+    "id": "chinchulin",
+    "name": "チンチュリン",
+    "kana": "ちんちゅりん",
+    "aliases": [
+      "チンチュリネス",
+      "チュンチュージョ"
+    ],
+    "englishName": "Chinchulines (Grilled Small Intestine)",
+    "originalName": "Chinchulines",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "アルゼンチン"
+      },
+      {
+        "country": "ウルグアイ"
+      },
+      {
+        "country": "コロンビア"
+      }
+    ],
+    "summary": "牛の小腸を炭火でカリカリになるまで焼く、アルゼンチンやウルグアイのアサード（炭火焼き）に欠かせない内臓料理。",
+    "menuDescription": "下処理した牛の小腸を、パリージャ（焼き網）の炭火でじっくりと焼き、外はカリッと中はジューシーに仕上げました。レモンを搾ってどうぞ。",
+    "whatComesOut": [
+      "こんがり焼けた牛の小腸",
+      "くし切りのレモン",
+      "チミチュリ（香草と酢のソース）",
+      "パン"
+    ],
+    "tasteAndTexture": [
+      "カリカリに焼けた表面の香ばしさ",
+      "噛むと脂がにじむ濃厚な味",
+      "レモンで引き締まる後味"
+    ],
+    "orderAdvice": "アサードではステーキ前のつまみとして、モルシージャやモジェハ（胸腺）と一緒に出る。日本のマルチョウ焼きが好きなら必食。よく焼きでカリカリのものが好まれる。",
+    "caution": "牛の内臓を使う。脂が多い。",
+    "similarItems": [
+      {
+        "id": "marucho",
+        "name": "マルチョウ",
+        "difference": "マルチョウは脂を残してタレで焼く日本の焼肉。チンチュリンは炭火でカリカリになるまで焼き、塩とレモンで食べる"
+      },
+      {
+        "id": "kopchang",
+        "name": "コプチャン",
+        "difference": "コプチャンは鉄板で野菜と炒め合わせる韓国料理"
+      },
+      {
+        "id": "asado",
+        "name": "アサード",
+        "difference": "アサードは炭火焼きの総称。チンチュリンはその中で出される内臓の一品"
+      }
+    ],
+    "relatedIds": [
+      "asado",
+      "marucho",
+      "kopchang",
+      "chimichurri",
+      "blood-sausage",
+      "ris-de-veau",
+      "empanada"
+    ],
+    "source": [
+      "https://es.wikipedia.org/wiki/Chinchul%C3%ADn"
+    ],
+    "tags": [
+      "アルゼンチン料理",
+      "主菜",
+      "牛肉",
+      "炭火焼き",
+      "香ばしい",
+      "こってり",
+      "大衆料理"
+    ],
+    "reverseKeywords": [
+      "赤身ステーキ",
+      "サラダ",
+      "あっさり"
+    ],
+    "avoidedBy": [
+      "内臓が苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/chinchulin/1.jpg",
+      "/images/dishes/chinchulin/2.jpg",
+      "/images/dishes/chinchulin/3.jpg"
+    ]
+  },
+  {
+    "id": "kokorec",
+    "name": "ココレッチ",
+    "kana": "ここれっち",
+    "aliases": [
+      "ココレツィ",
+      "ココレチ"
+    ],
+    "englishName": "Kokoreç / Kokoretsi",
+    "originalName": "Kokoreç / Κοκορέτσι",
+    "category": "料理",
+    "regions": [
+      {
+        "country": "トルコ"
+      },
+      {
+        "country": "ギリシャ"
+      },
+      {
+        "area": "バルカン半島"
+      }
+    ],
+    "summary": "羊や山羊の腸を胸腺・心臓・肺・腎臓などの内臓に巻きつけ、串に刺して炭火で焼くトルコ・ギリシャ・バルカンの料理。",
+    "menuDescription": "仔羊の内臓を腸で巻き上げ、炭火の上でゆっくり回しながら焼き上げました。刻んでパンにはさみ、オレガノ、唐辛子、クミンをふってどうぞ。",
+    "whatComesOut": [
+      "刻んだ腸と内臓をはさんだパン",
+      "トマトや青唐辛子",
+      "オレガノ・唐辛子・クミンなどのスパイス",
+      "ギリシャでは輪切りにした串焼きの皿"
+    ],
+    "tasteAndTexture": [
+      "炭火の香りとスパイスの強い風味",
+      "カリッとした腸とやわらかい内臓の対比",
+      "羊の脂のコク",
+      "独特の内臓の香り"
+    ],
+    "orderAdvice": "イスタンブールでは夜の屋台や専門店で、パンにはさんだ半分（ヤルム）か4分の1（チェイレク）で注文。羊肉と内臓が平気なら試す価値あり。ギリシャでは復活祭の料理。",
+    "caution": "羊・山羊の内臓を使う。唐辛子を使う。",
+    "similarItems": [
+      {
+        "id": "chinchulin",
+        "name": "チンチュリン",
+        "difference": "チンチュリンは牛の小腸だけを焼く。ココレッチは羊の腸で他の内臓を巻いて焼く"
+      },
+      {
+        "name": "ドネルケバブ",
+        "difference": "ドネルケバブは肉を重ねて回しながら焼く。ココレッチは内臓を回し焼きにする"
+      },
+      {
+        "id": "haggis",
+        "name": "ハギス",
+        "difference": "ハギスは羊の内臓を胃袋に詰めてゆでる。ココレッチは腸で巻いて炭火で焼く"
+      }
+    ],
+    "relatedIds": [
+      "souvlaki",
+      "gyros",
+      "haggis",
+      "chinchulin"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Kokoretsi"
+    ],
+    "tags": [
+      "トルコ料理",
+      "ギリシャ料理",
+      "軽食",
+      "羊肉",
+      "スパイス",
+      "炭火焼き",
+      "香ばしい",
+      "屋台料理"
+    ],
+    "reverseKeywords": [
+      "シシケバブ",
+      "あっさり",
+      "野菜料理"
+    ],
+    "avoidedBy": [
+      "内臓が苦手",
+      "羊肉が苦手"
+    ],
+    "beginnerFriendlyScore": 1,
+    "uniquenessScore": 5,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/kokorec/1.jpg",
+      "/images/dishes/kokorec/2.jpg",
+      "/images/dishes/kokorec/3.jpg"
+    ]
   }
 ]
