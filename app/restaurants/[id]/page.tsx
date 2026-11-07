@@ -212,6 +212,27 @@ export default async function RestaurantPage({
         </p>
       )}
 
+      {restaurant.sources && restaurant.sources.length > 0 && (
+        <details
+          style={{
+            color: "var(--c-text-sub)",
+            fontSize: "0.75rem",
+            margin: "0 0 1.5rem",
+          }}
+        >
+          <summary>情報元</summary>
+          <ul style={{ margin: "0.25rem 0 0", paddingLeft: "1.25rem" }}>
+            {restaurant.sources.map((src) => (
+              <li key={src} style={{ overflowWrap: "anywhere" }}>
+                <a href={src} target="_blank" rel="noopener noreferrer">
+                  {decodeURI(src)}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </details>
+      )}
+
       <h2
         style={{
           fontSize: "1.125rem",

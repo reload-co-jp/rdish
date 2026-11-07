@@ -24,6 +24,8 @@ export type RestaurantItem = {
   links?: { label: string; url: string }[]
   description: string
   dishes: RestaurantDish[]
+  // 公式サイトがない・情報が不足する場合に確認に使った情報源（予約サイト・自治体・媒体記事等）
+  sources?: string[]
   // 情報確認日（YYYY-MM-DD）
   checkedAt?: string
   closed?: boolean
