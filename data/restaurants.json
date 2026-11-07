@@ -1,1 +1,214 @@
-[]
+[
+  {
+    "id": "kanda-matsuya",
+    "name": "神田まつや",
+    "kana": "かんだまつや",
+    "cuisines": ["日本料理"],
+    "prefecture": "東京都",
+    "area": "千代田区 神田須田町",
+    "address": "東京都千代田区神田須田町1-13",
+    "url": "http://www.kanda-matsuya.jp/",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/kanda_matsuya/"
+      }
+    ],
+    "description": "神田須田町のそば店。江戸の蕎麦の味を受け継ぐ店として、もりそばや天ぷらそば、鴨南ばんなどの品書きを掲げている。季節限定のそばも出す。",
+    "dishes": [
+      {
+        "id": "zaru-soba",
+        "menuName": "もりそば"
+      },
+      {
+        "id": "tempura",
+        "menuName": "天ぷらそば",
+        "note": "大ぶりの車えび2本をのせた種もの"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "taimeiken",
+    "name": "たいめいけん",
+    "kana": "たいめいけん",
+    "cuisines": ["日本料理"],
+    "prefecture": "東京都",
+    "area": "中央区 日本橋室町",
+    "address": "東京都中央区日本橋室町1-8-6",
+    "url": "https://www.taimeiken.co.jp/",
+    "description": "昭和6年（1931年）創業の日本橋の洋食店。1階はカジュアルな洋食レストラン、2階は洋風小皿料理を楽しめるレストラン。日本橋地区の再開発に伴い、2021年から日本橋室町の新店舗で営業している。",
+    "dishes": [
+      {
+        "id": "borscht",
+        "menuName": "ボルシチ（ボリウム満点）",
+        "note": "名物料理。単品での注文は不可"
+      },
+      {
+        "id": "hayashi-rice",
+        "menuName": "ハヤシライス"
+      },
+      {
+        "id": "japanese-curry",
+        "menuName": "カレーライス"
+      },
+      {
+        "id": "beef-stew",
+        "menuName": "ビーフシチュー（ライス付き）"
+      },
+      {
+        "id": "cutlet",
+        "menuName": "ビーフカツレツ（ライス付き）"
+      },
+      {
+        "id": "gratin",
+        "menuName": "海老マカロニグラタン"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "shiseido-parlour-ginza",
+    "name": "資生堂パーラー 銀座本店レストラン",
+    "kana": "しせいどうぱーらー ぎんざほんてんれすとらん",
+    "cuisines": ["日本料理"],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座8-8-3 東京銀座資生堂ビル4・5F",
+    "nearestStation": "新橋駅 徒歩約5分",
+    "url": "https://parlour.shiseido.co.jp/shoplist/restaurantginza/",
+    "description": "銀座の洋食レストラン。ビーフカレーライス、ミートクロケット、チキンライス、オムライス、コンソメスープを「伝統メニュー」として受け継いでいる。",
+    "dishes": [
+      {
+        "id": "japanese-curry",
+        "menuName": "ビーフカレーライス",
+        "note": "伝統メニュー。カレーソースは銀製のソースポットで提供"
+      },
+      {
+        "id": "hayashi-rice",
+        "menuName": "ハヤシライス"
+      },
+      {
+        "id": "consomme",
+        "menuName": "伝統のコンソメスープ"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "ningyocho-imahan-honten",
+    "name": "人形町今半 人形町本店",
+    "kana": "にんぎょうちょういまはん にんぎょうちょうほんてん",
+    "cuisines": ["日本料理"],
+    "prefecture": "東京都",
+    "area": "中央区 日本橋人形町",
+    "address": "東京都中央区日本橋人形町2-9-12",
+    "nearestStation": "人形町駅 A2出口 徒歩1分",
+    "url": "https://restaurant.imahan.com/honten",
+    "description": "明治28年（1895年）創業の人形町今半の本店。新館2階ではすき焼としゃぶしゃぶ、新館3階では鉄板焼ステーキを出す。2026年11月16日に全館グランドオープン予定。",
+    "dishes": [
+      {
+        "id": "sukiyaki",
+        "menuName": "すき焼",
+        "note": "ポンズすき焼もあり"
+      },
+      {
+        "id": "shabu-shabu",
+        "menuName": "しゃぶしゃぶ"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "tamahide",
+    "name": "玉ひで",
+    "kana": "たまひで",
+    "cuisines": ["日本料理"],
+    "prefecture": "東京都",
+    "area": "中央区 日本橋人形町",
+    "address": "東京都中央区日本橋人形町1-17-10",
+    "url": "http://www.tamahide.co.jp/",
+    "description": "宝暦十年（1760年）創業の鳥料理店。公式サイトで「親子丼誕生物語」を紹介しており、親子丼としゃも鍋を出す。",
+    "dishes": [
+      {
+        "id": "34-12-tokyo"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "ginza-aster-honten",
+    "name": "銀座アスター 本店",
+    "kana": "ぎんざあすたー ほんてん",
+    "cuisines": ["中国料理"],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座1-8-16 GINZA ASTER BLD.",
+    "nearestStation": "銀座一丁目駅 徒歩1分",
+    "url": "https://www.ginza-aster.co.jp/shops/01honten/",
+    "description": "1926年に銀座一丁目で開業した中国料理店「銀座アスター」の本店。北京ダックや麻婆豆腐などのアラカルトのほか、動物性食材を使わないヴィーガンメニューもある。",
+    "dishes": [
+      {
+        "id": "peking-duck",
+        "menuName": "釜焼き、北京ダック",
+        "note": "1切から注文可"
+      },
+      {
+        "id": "mapo-tofu",
+        "menuName": "陳麻婆豆腐"
+      },
+      {
+        "id": "subuta",
+        "menuName": "黒豚の酢豚"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "本店特製 和牛担担麺"
+      },
+      {
+        "id": "ankake-yakisoba",
+        "menuName": "たらば蟹と野菜のあんかけ焼きそば"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "erick-south-yaesu",
+    "name": "エリックサウス 八重洲店",
+    "kana": "えりっくさうす やえすてん",
+    "cuisines": ["インド料理"],
+    "prefecture": "東京都",
+    "area": "中央区 八重洲",
+    "address": "東京都中央区八重洲2丁目1番 八重洲地下街中4号（八重洲地下街2番通り）",
+    "nearestStation": "東京駅",
+    "url": "https://info.erickcurry.jp/yaesu/",
+    "description": "東京駅八重洲地下街にある南インド料理店で、エリックサウスの1号店。ミールス、ビリヤニ、ティファン、フィッシュカレーなどを出す。カウンター席が中心。",
+    "dishes": [
+      {
+        "id": "biryani",
+        "menuName": "ビリヤニ"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "napule-minamiaoyama",
+    "name": "ナプレ 南青山本店",
+    "kana": "なぷれ みなみあおやまほんてん",
+    "cuisines": ["イタリア料理"],
+    "prefecture": "東京都",
+    "area": "港区 南青山",
+    "address": "東京都港区南青山5-6-24",
+    "nearestStation": "表参道駅 B1出口 徒歩1分",
+    "url": "https://napule-pizza.com/aoyama/",
+    "description": "南青山で開業した薪窯ピッツァの店。ナポリのトラットリアのような雰囲気で、薪窯で焼くピッツァと南イタリアの料理を出す。",
+    "dishes": [
+      {
+        "id": "pizza-margherita",
+        "menuName": "水牛のモッツァレッラのマルゲリータ",
+        "note": "店がいちばんこだわる看板メニュー"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  }
+]
