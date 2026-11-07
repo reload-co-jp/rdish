@@ -1,0 +1,429 @@
+[
+  {
+    "id": "kanda-matsuya",
+    "name": "神田まつや",
+    "kana": "かんだまつや",
+    "cuisines": ["日本料理"],
+    "prefecture": "東京都",
+    "area": "千代田区 神田須田町",
+    "address": "東京都千代田区神田須田町1-13",
+    "url": "http://www.kanda-matsuya.jp/",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/kanda_matsuya/"
+      }
+    ],
+    "description": "神田須田町のそば店。江戸の蕎麦の味を受け継ぐ店として、もりそばや天ぷらそば、鴨南ばんなどの品書きを掲げている。季節限定のそばも出す。",
+    "dishes": [
+      {
+        "id": "zaru-soba",
+        "menuName": "もりそば"
+      },
+      {
+        "id": "tempura",
+        "menuName": "天ぷらそば",
+        "note": "大ぶりの車えび2本をのせた種もの"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "taimeiken",
+    "name": "たいめいけん",
+    "kana": "たいめいけん",
+    "cuisines": ["日本料理"],
+    "prefecture": "東京都",
+    "area": "中央区 日本橋室町",
+    "address": "東京都中央区日本橋室町1-8-6",
+    "url": "https://www.taimeiken.co.jp/",
+    "description": "昭和6年（1931年）創業の日本橋の洋食店。1階はカジュアルな洋食レストラン、2階は洋風小皿料理を楽しめるレストラン。日本橋地区の再開発に伴い、2021年から日本橋室町の新店舗で営業している。",
+    "dishes": [
+      {
+        "id": "borscht",
+        "menuName": "ボルシチ（ボリウム満点）",
+        "note": "名物料理。単品での注文は不可"
+      },
+      {
+        "id": "hayashi-rice",
+        "menuName": "ハヤシライス"
+      },
+      {
+        "id": "japanese-curry",
+        "menuName": "カレーライス"
+      },
+      {
+        "id": "beef-stew",
+        "menuName": "ビーフシチュー（ライス付き）"
+      },
+      {
+        "id": "cutlet",
+        "menuName": "ビーフカツレツ（ライス付き）"
+      },
+      {
+        "id": "gratin",
+        "menuName": "海老マカロニグラタン"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "shiseido-parlour-ginza",
+    "name": "資生堂パーラー 銀座本店レストラン",
+    "kana": "しせいどうぱーらー ぎんざほんてんれすとらん",
+    "cuisines": ["日本料理"],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座8-8-3 東京銀座資生堂ビル4・5F",
+    "nearestStation": "新橋駅 徒歩約5分",
+    "url": "https://parlour.shiseido.co.jp/shoplist/restaurantginza/",
+    "description": "銀座の洋食レストラン。ビーフカレーライス、ミートクロケット、チキンライス、オムライス、コンソメスープを「伝統メニュー」として受け継いでいる。",
+    "dishes": [
+      {
+        "id": "japanese-curry",
+        "menuName": "ビーフカレーライス",
+        "note": "伝統メニュー。カレーソースは銀製のソースポットで提供"
+      },
+      {
+        "id": "hayashi-rice",
+        "menuName": "ハヤシライス"
+      },
+      {
+        "id": "consomme",
+        "menuName": "伝統のコンソメスープ"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "ningyocho-imahan-honten",
+    "name": "人形町今半 人形町本店",
+    "kana": "にんぎょうちょういまはん にんぎょうちょうほんてん",
+    "cuisines": ["日本料理"],
+    "prefecture": "東京都",
+    "area": "中央区 日本橋人形町",
+    "address": "東京都中央区日本橋人形町2-9-12",
+    "nearestStation": "人形町駅 A2出口 徒歩1分",
+    "url": "https://restaurant.imahan.com/honten",
+    "description": "明治28年（1895年）創業の人形町今半の本店。新館2階ではすき焼としゃぶしゃぶ、新館3階では鉄板焼ステーキを出す。2026年11月16日に全館グランドオープン予定。",
+    "dishes": [
+      {
+        "id": "sukiyaki",
+        "menuName": "すき焼",
+        "note": "ポンズすき焼もあり"
+      },
+      {
+        "id": "shabu-shabu",
+        "menuName": "しゃぶしゃぶ"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "tamahide",
+    "name": "玉ひで",
+    "kana": "たまひで",
+    "cuisines": ["日本料理"],
+    "prefecture": "東京都",
+    "area": "中央区 日本橋人形町",
+    "address": "東京都中央区日本橋人形町1-17-10",
+    "url": "http://www.tamahide.co.jp/",
+    "description": "宝暦十年（1760年）創業の鳥料理店。公式サイトで「親子丼誕生物語」を紹介しており、親子丼としゃも鍋を出す。",
+    "dishes": [
+      {
+        "id": "34-12-tokyo"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "ginza-aster-honten",
+    "name": "銀座アスター 本店",
+    "kana": "ぎんざあすたー ほんてん",
+    "cuisines": ["中国料理"],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座1-8-16 GINZA ASTER BLD.",
+    "nearestStation": "銀座一丁目駅 徒歩1分",
+    "url": "https://www.ginza-aster.co.jp/shops/01honten/",
+    "description": "1926年に銀座一丁目で開業した中国料理店「銀座アスター」の本店。北京ダックや麻婆豆腐などのアラカルトのほか、動物性食材を使わないヴィーガンメニューもある。",
+    "dishes": [
+      {
+        "id": "peking-duck",
+        "menuName": "釜焼き、北京ダック",
+        "note": "1切から注文可"
+      },
+      {
+        "id": "mapo-tofu",
+        "menuName": "陳麻婆豆腐"
+      },
+      {
+        "id": "subuta",
+        "menuName": "黒豚の酢豚"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "本店特製 和牛担担麺"
+      },
+      {
+        "id": "ankake-yakisoba",
+        "menuName": "たらば蟹と野菜のあんかけ焼きそば"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "erick-south-yaesu",
+    "name": "エリックサウス 八重洲店",
+    "kana": "えりっくさうす やえすてん",
+    "cuisines": ["インド料理"],
+    "prefecture": "東京都",
+    "area": "中央区 八重洲",
+    "address": "東京都中央区八重洲2丁目1番 八重洲地下街中4号（八重洲地下街2番通り）",
+    "nearestStation": "東京駅",
+    "url": "https://info.erickcurry.jp/yaesu/",
+    "description": "東京駅八重洲地下街にある南インド料理店で、エリックサウスの1号店。ミールス、ビリヤニ、ティファン、フィッシュカレーなどを出す。カウンター席が中心。",
+    "dishes": [
+      {
+        "id": "biryani",
+        "menuName": "ビリヤニ"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "napule-minamiaoyama",
+    "name": "ナプレ 南青山本店",
+    "kana": "なぷれ みなみあおやまほんてん",
+    "cuisines": ["イタリア料理"],
+    "prefecture": "東京都",
+    "area": "港区 南青山",
+    "address": "東京都港区南青山5-6-24",
+    "nearestStation": "表参道駅 B1出口 徒歩1分",
+    "url": "https://napule-pizza.com/aoyama/",
+    "description": "南青山で開業した薪窯ピッツァの店。ナポリのトラットリアのような雰囲気で、薪窯で焼くピッツァと南イタリアの料理を出す。",
+    "dishes": [
+      {
+        "id": "pizza-margherita",
+        "menuName": "水牛のモッツァレッラのマルゲリータ",
+        "note": "店がいちばんこだわる看板メニュー"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "rogovski-ginza",
+    "name": "ロゴスキー 銀座本店",
+    "kana": "ろごすきー",
+    "cuisines": ["ロシア料理"],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座5-7-10 EXITMELSA 7F",
+    "nearestStation": "銀座駅 A2出口 徒歩1分",
+    "url": "https://www.rogovski.co.jp/",
+    "description": "1951年に渋谷で開業した、日本初のロシア料理専門店。創業者が満州ハルビンのロシア人街で出会った料理を日本に伝えようと始めた店で、春雨入りのピロシキなど日本で広まったロシア料理の味の原点とされる。現在は銀座で営業。",
+    "dishes": [
+      {
+        "id": "piroshki",
+        "menuName": "肉ピロシキ",
+        "note": "春雨入りのロゴスキー式"
+      },
+      {
+        "id": "borscht",
+        "menuName": "いなか風ボルシチ",
+        "note": "ロゴスキー発祥のメニュー"
+      },
+      {
+        "id": "beef-stroganoff",
+        "menuName": "ビーフストロガノフ"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "queen-sheba",
+    "name": "クイーンシーバ",
+    "kana": "くいーんしーば",
+    "cuisines": ["アフリカ料理"],
+    "prefecture": "東京都",
+    "area": "目黒区 東山",
+    "address": "東京都目黒区東山1-3-1 ネオアージュ中目黒 B1",
+    "nearestStation": "中目黒駅 徒歩7分",
+    "description": "東京初のエチオピア料理専門店として知られる中目黒の店。エチオピア出身のオーナーが営み、発酵させたクレープ状の主食インジェラに煮込み料理ワットなどをのせて手で食べる伝統料理を出す。アフリカ各地の珍しい肉の串焼きもある。",
+    "dishes": [
+      {
+        "id": "injera",
+        "note": "肉料理や豆料理をのせ、手で包んで食べる"
+      },
+      {
+        "id": "doro-wat",
+        "menuName": "ドロワット（チキンのレッドペッパーシチュー）"
+      },
+      {
+        "id": "wat",
+        "note": "煮込み料理の盛り合わせ（Stew Sets）は2人以上から"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000103208/",
+      "https://www.timeout.jp/tokyo/ja/レストラン/クイーンシーバ"
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "ajika-kagurazaka",
+    "name": "Georgian Bistro and Wine Bar AJIKA",
+    "kana": "あじか",
+    "cuisines": ["ジョージア料理"],
+    "prefecture": "東京都",
+    "area": "新宿区 神楽坂",
+    "address": "東京都新宿区袋町3-6 神楽坂センタービルアネックス1F",
+    "nearestStation": "牛込神楽坂駅",
+    "links": [
+      {
+        "label": "予約（TableCheck）",
+        "url": "https://www.tablecheck.com/ja/bistro-ajika"
+      }
+    ],
+    "description": "2025年9月に神楽坂で開業したジョージア料理のビストロ兼ワインバー。ジョージア出身の共同創業者が関わり、チーズは日本の生産者と共同で現地の味を再現している。ジョージアワインと合わせて楽しめる。",
+    "dishes": [
+      {
+        "id": "khachapuri",
+        "note": "名物"
+      },
+      {
+        "id": "shkmeruli"
+      },
+      {
+        "id": "khinkali"
+      },
+      {
+        "id": "nigvziani-badrijani",
+        "note": "くるみペーストのなすロール"
+      }
+    ],
+    "sources": [
+      "https://www.tokyoupdates.metro.tokyo.lg.jp/en/post-1759/",
+      "https://www.tablecheck.com/ja/bistro-ajika"
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "dobrogi-akasaka",
+    "name": "ドブロギ ハンガリーバー&ダイニング",
+    "kana": "どぶろぎ",
+    "cuisines": ["ハンガリー料理"],
+    "prefecture": "東京都",
+    "area": "港区 赤坂",
+    "address": "東京都港区赤坂2-12-11 シャルマン赤坂 2階",
+    "nearestStation": "溜池山王駅 徒歩2分",
+    "description": "ハンガリー出身のシェフが2018年に開いた赤坂のハンガリー料理店。ハンガリー大使館に近く、屋台料理の揚げパン「ランゴシュ」やチキンパプリカ、グヤーシュスープなどの家庭料理とハンガリーワインを出す。",
+    "dishes": [
+      {
+        "id": "langos",
+        "menuName": "ランゴシュ",
+        "note": "サワークリーム・ガーリックオイル・チーズのせ"
+      },
+      {
+        "id": "paprikas-csirke",
+        "menuName": "チキンパプリカ"
+      },
+      {
+        "id": "goulash",
+        "menuName": "グヤーシュスープ"
+      }
+    ],
+    "sources": [
+      "https://www.tokyoupdates.metro.tokyo.lg.jp/en/post-917/",
+      "https://www.timeout.jp/tokyo/ja/レストラン/doebroegi-hungarian-bar-dining"
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "miraflores-shibuya",
+    "name": "ペルー料理 ミラフローレス 渋谷桜ヶ丘店",
+    "kana": "みらふろーれす",
+    "cuisines": ["ペルー料理"],
+    "prefecture": "東京都",
+    "area": "渋谷区 桜丘町",
+    "address": "東京都渋谷区桜丘町28-3 恒和ビル 1階",
+    "nearestStation": "渋谷駅 南口 徒歩5分",
+    "description": "渋谷で長く営業するペルー料理店。ペルーから取り寄せた食材やスパイスを使い、白身魚をライムでマリネするセビチェや牛ハツの串焼きなどの定番料理を出す。ピスコサワーなどペルーの酒もそろう。",
+    "dishes": [
+      {
+        "id": "ceviche",
+        "menuName": "CEVICHE DE PESCADO フレッシュシーフードのセビチェ"
+      },
+      {
+        "id": "anticucho",
+        "menuName": "ANTICUCHO DE CORAZON 牛ハツのタレ漬けBBQ",
+        "note": "店の人気メニュー"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ004444525/",
+      "https://www.timeout.jp/tokyo/ja/レストラン/ミラフローレス-渋谷店"
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "kushari-kohpea",
+    "name": "コシャリ専門 コシャリ屋コーピー 錦糸町店",
+    "kana": "こしゃりやこーぴー",
+    "cuisines": ["北アフリカ料理"],
+    "prefecture": "東京都",
+    "area": "墨田区 江東橋",
+    "address": "東京都墨田区江東橋4-20-13 山田ビル2F",
+    "nearestStation": "錦糸町駅 南口",
+    "url": "https://kushari-kohpea.com/",
+    "description": "エジプトの国民食コシャリを出す、日本初のコシャリ専門店。「ヘルシー・ジャンキー・スパイシー」を掲げ、エジプトの庶民の味を錦糸町で提供している。",
+    "dishes": [
+      {
+        "id": "koshari"
+      }
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "shiringol-sengoku",
+    "name": "シリンゴル",
+    "kana": "しりんごる",
+    "cuisines": ["アジア料理"],
+    "prefecture": "東京都",
+    "area": "文京区 千石",
+    "address": "東京都文京区千石4-11-9",
+    "nearestStation": "巣鴨駅",
+    "description": "巣鴨の住宅街にある羊肉中心のモンゴル料理店。骨付き羊肉を塩ゆでにした看板料理チャンサンマハのほか、手作りの皮で羊肉を包んだ蒸し饅頭ボーズなどを出す。",
+    "dishes": [
+      {
+        "id": "buuz",
+        "menuName": "ボーズ",
+        "note": "羊肉と白菜を包んだ手作りの蒸し饅頭"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000104204/",
+      "https://www.enjoytokyo.jp/article/106405/"
+    ],
+    "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "angkor-wat-yoyogi",
+    "name": "アンコールワット",
+    "kana": "あんこーるわっと",
+    "cuisines": ["東南アジア料理"],
+    "prefecture": "東京都",
+    "area": "渋谷区 代々木",
+    "address": "東京都渋谷区代々木2-1-1 新宿マインズタワー 地下1階",
+    "nearestStation": "南新宿駅・新宿駅",
+    "description": "1982年創業のカンボジア料理店。内戦を逃れて来日した一家が開き、日本人の口に合うよう工夫を重ねてきた。2023年8月に代々木1丁目から新宿マインズタワーへ移転した。",
+    "dishes": [
+      {
+        "id": "kuy-teav",
+        "menuName": "クイティウ（米麺）"
+      }
+    ],
+    "sources": ["https://prtimes.jp/main/html/rd/p/000000001.000127440.html"],
+    "checkedAt": "2026-11-07"
+  }
+]
