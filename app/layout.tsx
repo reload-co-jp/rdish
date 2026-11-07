@@ -7,6 +7,7 @@ import { RouteAd } from "../components/elements/AdSense"
 import { MobileMenu } from "../components/elements/MobileMenu"
 import { RouteAdModal } from "../components/route-ad-modal"
 import { allArticles } from "../lib/articles"
+import { openRestaurants } from "../lib/restaurants"
 
 const serif = Noto_Serif_JP({
   weight: ["500", "600"],
@@ -33,6 +34,9 @@ const FOOTER_NAV = [
   { href: "/tags/", label: "タグ" },
   { href: "/collections/", label: "特集" },
   { href: "/compare/", label: "違いを比較" },
+  ...(openRestaurants.length > 0
+    ? [{ href: "/restaurants/", label: "食べられるお店" }]
+    : []),
   { href: "/reverse/k/", label: "苦手から探す" },
   { href: "/about/", label: "このサイトについて" },
 ]

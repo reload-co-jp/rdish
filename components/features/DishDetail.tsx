@@ -14,6 +14,11 @@ import {
 } from "../../lib/countryTagCombos"
 import { articleCover, CATEGORY_EN, formatDate } from "../../lib/editorial"
 import { regionLabel } from "../../lib/region"
+import {
+  restaurantLocation,
+  restaurantPath,
+  restaurantsForDish,
+} from "../../lib/restaurants"
 import { dishesUsingSpice, isSpiceOrCondiment } from "../../lib/spiceUsage"
 import { FLAVOR_TAGS, PRIMARY_INGREDIENT_TAGS } from "../../lib/tagVocabulary"
 import { categoryPath, countryPath } from "../../lib/taxonomy"
@@ -290,6 +295,7 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
     dishes: relatedDishes.filter((d) => g.categories.includes(d.category)),
   })).filter((g) => g.dishes.length > 0)
   const articles = articlesForDish(dish.id)
+  const restaurants = restaurantsForDish(dish.id)
   const combos = combosForDish(dish).slice(0, 4)
   const usedInDishes = isSpiceOrCondiment(dish)
     ? dishesUsingSpice(dish, allDishes)
@@ -664,6 +670,42 @@ export const DishDetail: FC<Props> = ({ dish, allDishes, updatedAt }) => {
                 </div>
               )
             })}
+          </div>
+        </WideSection>
+      )}
+
+      {restaurants.length > 0 && (
+        <WideSection
+          eyebrow="Restaurants"
+          title={`${dish.name}が食べられるお店`}
+        >
+          <div style={cardGrid}>
+            {restaurants.map(({ restaurant, entry }) => (
+              <Link
+                key={restaurant.id}
+                href={restaurantPath(restaurant.id)}
+                className="story"
+                style={{ ...card, gridTemplateColumns: "minmax(0, 1fr)" }}
+              >
+                <div style={{ minWidth: 0 }}>
+                  <span className="meta">
+                    {restaurant.cuisines.join("・")} —{" "}
+                    {restaurantLocation(restaurant)}
+                  </span>
+                  <span
+                    className="story__title"
+                    style={{ display: "block", fontSize: "var(--fs-md)" }}
+                  >
+                    {restaurant.name}
+                  </span>
+                  {(entry.menuName || entry.note) && (
+                    <p style={clamp2}>
+                      {[entry.menuName, entry.note].filter(Boolean).join(" / ")}
+                    </p>
+                  )}
+                </div>
+              </Link>
+            ))}
           </div>
         </WideSection>
       )}

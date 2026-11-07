@@ -30,6 +30,7 @@ import {
   reverseKeywordPath,
 } from "../lib/reverseKeywords"
 import { dishMatchesRegion } from "../lib/region"
+import { allRestaurants, restaurantPath } from "../lib/restaurants"
 import { categoryItems, countryItems, tagItems } from "../lib/taxonomy"
 
 const dishDates = dishDatesData as Record<string, string>
@@ -155,6 +156,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   ]
 
+  const restaurantUrls = allRestaurants
+    .filter((r) => !r.closed)
+    .map(({ id, checkedAt }) => ({
+      url: `${SITE_URL}${restaurantPath(id)}`,
+      ...(checkedAt ? { lastModified: new Date(checkedAt) } : {}),
+      changeFrequency: "monthly" as const,
+      priority: 0.5,
+    }))
+
   const articleUrls = allArticles.map((article) => ({
     url: `${SITE_URL}/articles/${article.slug}/`,
     lastModified: new Date(article.updatedAt ?? article.publishedAt),
@@ -175,6 +185,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     page("/tags/", "monthly", 0.7),
     page("/collections/", "monthly", 0.7),
     page("/compare/", "weekly", 0.7),
+    ...(allRestaurants.length > 0
+      ? [page("/restaurants/", "weekly", 0.6)]
+      : []),
     page("/network/", "weekly", 0.6),
     page("/llms.txt", "weekly", 0.3),
     page("/llms-full.txt", "weekly", 0.3),
@@ -191,5 +204,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...dishUrls,
     ...tagUrls,
     ...articleUrls,
+    ...restaurantUrls,
   ]
 }

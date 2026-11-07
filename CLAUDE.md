@@ -92,6 +92,11 @@
 
 - `data/dishes.json` — 全料理エントリ
 - `types/dish.ts` — 型定義
+- `data/restaurants.json` — 料理が食べられる飲食店（型: `types/restaurant.ts`）。`dishes[].id` で dishes.json と紐づけ（店→料理の片方向のみ保持。料理ページ側の「食べられるお店」は `lib/restaurants.ts` が逆引き生成）
+  - 存在しない料理id・重複店舗idはビルド時にエラー
+  - `cuisines` は次元1の料理圏タグを使用
+  - 閉店時は削除せず `closed: true`（一覧・料理ページ・sitemapから除外、個別ページは noindex で残る）
+  - 実在店舗のみ掲載。住所・メニューは公式情報で確認し `checkedAt` に確認日を記録
 - `public/images/dishes/<id>/` — 料理画像
 
 ## 主要スクリプト
