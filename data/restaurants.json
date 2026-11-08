@@ -425,5 +425,560 @@
     ],
     "sources": ["https://prtimes.jp/main/html/rd/p/000000001.000127440.html"],
     "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "la-jolla-hiroo",
+    "name": "LA JOLLA",
+    "kana": "らほいや",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "渋谷区 広尾",
+    "address": "東京都渋谷区広尾5-16-3 小安ビル 2階",
+    "nearestStation": "広尾駅 徒歩2分",
+    "description": "1987年から広尾で営業する老舗のメキシコ料理店。伝統的なスープのポソレ、チョコレートを使うモレポブラーノ、食用サボテンのノパレスなど正統派の料理を出す。好みの料理を組み合わせられるコンビネーションメニューが看板。",
+    "dishes": [
+      {
+        "id": "pozole",
+        "menuName": "ポソレ"
+      },
+      {
+        "id": "mole",
+        "menuName": "モレポブラーノ"
+      },
+      {
+        "id": "nopales",
+        "menuName": "ノパレス"
+      },
+      {
+        "id": "enchilada",
+        "menuName": "エンチラーダ",
+        "note": "コンビネーションメニューで組み合わせ可"
+      },
+      {
+        "id": "tacos",
+        "menuName": "タコス"
+      },
+      {
+        "id": "burrito",
+        "menuName": "ブリトー"
+      },
+      {
+        "id": "frijoles-refritos",
+        "menuName": "リフライドビーンズ",
+        "note": "プレートの付け合わせ"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/la-jolla-1",
+      "https://www.timeout.jp/tokyo/ja/restaurant/10-best-mexican-food-in-tokyo"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "mil-tacos-sasazuka",
+    "name": "MIL TACOS",
+    "kana": "みるたこす",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "渋谷区 笹塚",
+    "address": "東京都渋谷区笹塚3-17-4",
+    "nearestStation": "笹塚駅 北口 徒歩5分",
+    "description": "2022年に笹塚で開業したタケリア（タコス食堂）。チョルーラ、プエブラ、メキシコシティ出身のスタッフが厨房に立ち、生のブルーコーンから作る手作りトルティーヤでタコスを出す。オルチャータやメスカルもそろう。",
+    "dishes": [
+      {
+        "id": "tacos",
+        "menuName": "タコス（パストールほか）",
+        "note": "焼いたパイナップルを合わせるパストールなど"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "カルニタスのタコス"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/mll-tacos",
+      "https://www.timeout.jp/tokyo/ja/restaurant/10-best-mexican-food-in-tokyo"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "tacos-treat-dogenzaka",
+    "name": "タコストリート",
+    "kana": "たこすとりーと",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "渋谷区 道玄坂",
+    "address": "東京都渋谷区道玄坂1-20-2",
+    "nearestStation": "渋谷駅 徒歩4分",
+    "description": "2025年に道玄坂で開業した、豚肉の煮込みカルニタスを具にしたタコスの専門店。ロースやバラに加え、ガツ・モツ・皮・耳などさまざまな部位を煮込んで合わせる。28時まで営業。",
+    "dishes": [
+      {
+        "id": "carnitas",
+        "note": "豚の複数部位をミックスした煮込み"
+      },
+      {
+        "id": "tacos",
+        "menuName": "カルニタスのタコス",
+        "note": "ライムと自家製サルサで"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/tacos-treat",
+      "https://www.timeout.jp/tokyo/ja/restaurant/10-best-mexican-food-in-tokyo"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "kuma-cantina-higashinakano",
+    "name": "KUMA CANTINA",
+    "kana": "くまかんてぃーな",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "中野区 東中野",
+    "address": "東京都中野区東中野3-2-7 FAITH 1階",
+    "nearestStation": "東中野駅 徒歩3分",
+    "description": "2024年5月に東中野で開業したメキシコ料理店。メキシコにルーツを持つ創業者が伝統の家庭の味にモダンな工夫を加え、自社製造のトルティーヤや日本の魚介を使った料理を出す。週末はメキシコの朝食料理をそろえたブランチ営業もある。",
+    "dishes": [
+      {
+        "id": "enchilada",
+        "menuName": "エンチラーダ・デ・マリスコス",
+        "note": "カニとエビにとびっこと生クリームソース"
+      },
+      {
+        "id": "huevos-rancheros",
+        "menuName": "ウェボス・ランチェロス",
+        "note": "週末ブランチ"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/kuma-cantina",
+      "https://www.timeout.jp/tokyo/ja/restaurant/10-best-mexican-food-in-tokyo"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "los-tacos-azules-sangenjaya",
+    "name": "Los Tacos Azules 三軒茶屋",
+    "kana": "ろすたこすあすーれす",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "世田谷区 上馬",
+    "address": "東京都世田谷区上馬1-17-9",
+    "nearestStation": "三軒茶屋駅",
+    "description": "メキシコ・モンテレイ出身のシェフ、マルコ・ガルシアが営むタコス店。挽きたてのブルーコーンで作る手作りトルティーヤに日本の季節の食材を合わせる。三軒茶屋店は昼のみの営業で、朝からタコスを出す。恵比寿に姉妹店がある。",
+    "dishes": [
+      {
+        "id": "tacos",
+        "note": "ブルーコーンの手作りトルティーヤ"
+      }
+    ],
+    "sources": [
+      "https://www.tokyoupdates.metro.tokyo.lg.jp/en/post-1669/",
+      "https://gurunavi.com/ja/ggn0700/rev/rst"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "shinsekai-saikan-jimbocho",
+    "name": "新世界菜館",
+    "kana": "しんせかいさいかん",
+    "cuisines": ["中国料理"],
+    "prefecture": "東京都",
+    "area": "千代田区 神田神保町",
+    "address": "東京都千代田区神田神保町2-2 新世界ビル",
+    "nearestStation": "神保町駅 A3出口すぐ",
+    "url": "https://sinsekai.com/",
+    "description": "1946年（昭和21年）創業の神保町の老舗中国料理店。江蘇省の石臼湖などから直輸入する上海蟹と、浙江省の酒造と共同開発した紹興酒が看板。2025年5月にリニューアルオープンした。",
+    "dishes": [
+      {
+        "id": "qing-zheng-da-zha-xie",
+        "menuName": "清蒸大蟹（活上海蟹の姿蒸し）",
+        "note": "上海蟹シーズン（秋〜冬）のコース"
+      },
+      {
+        "id": "yu-chi-tang",
+        "menuName": "蟹黄魚翅（上海蟹みそ入りふかひれスープ）",
+        "note": "上海蟹シーズンのコース"
+      },
+      {
+        "id": "peking-duck",
+        "menuName": "北京烤鴨（特製北京ダック）",
+        "note": "宴会コース"
+      },
+      {
+        "id": "shaoxing-wine",
+        "menuName": "紹興大越貴酒",
+        "note": "浙江大越と共同開発した紹興酒"
+      }
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "akasaka-shisen-hanten",
+    "name": "赤坂四川飯店",
+    "kana": "あかさかしせんはんてん",
+    "cuisines": ["四川料理", "中国料理"],
+    "prefecture": "東京都",
+    "area": "千代田区 平河町",
+    "address": "東京都千代田区平河町2-5-5 全国旅館会館5F・6F",
+    "url": "https://www.sisen.jp/shop/akasaka/",
+    "links": [
+      {
+        "label": "予約（TableCheck）",
+        "url": "https://www.tablecheck.com/ja/akasakasisen"
+      }
+    ],
+    "description": "陳建民が1958年に始めた四川料理店「四川飯店」が、1970年に赤坂で開いた店。陳麻婆豆腐と担担麺が名物で、テーブル席のほか個室・宴会場を備える。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "四川飯店名物 陳麻婆豆腐",
+        "note": "ランチコースでも選べる"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "担担麺"
+      }
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "shinahanten-shibadaimon",
+    "name": "新亜飯店 芝大門本店",
+    "kana": "しんあはんてん しばだいもんほんてん",
+    "cuisines": ["中国料理"],
+    "prefecture": "東京都",
+    "area": "港区 芝大門",
+    "address": "東京都港区芝大門2-3-2 大門フジビル",
+    "nearestStation": "大門駅 A3出口徒歩1分",
+    "url": "https://www.shinahanten.com/",
+    "description": "1969年創業の上海料理店。日本で初めて小籠包を出した店として知られ、職人が毎日店内で手包みする。秋冬は上海蟹料理も出す。",
+    "dishes": [
+      {
+        "id": "xiaolongbao",
+        "menuName": "小籠包",
+        "note": "季節限定で上海蟹の小籠包も"
+      },
+      {
+        "id": "qing-zheng-da-zha-xie",
+        "menuName": "上海蟹の姿蒸し",
+        "note": "季節限定"
+      },
+      {
+        "id": "peking-duck",
+        "menuName": "北京ダック"
+      },
+      {
+        "id": "mapo-tofu",
+        "menuName": "麻婆豆腐"
+      }
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "xiang-la-li-sangenjaya",
+    "name": "香辣里",
+    "kana": "しゃんらーりー",
+    "cuisines": ["中国料理"],
+    "prefecture": "東京都",
+    "area": "世田谷区 三軒茶屋",
+    "address": "東京都世田谷区太子堂4-23-11 GEMS三軒茶屋7階",
+    "nearestStation": "三軒茶屋駅 徒歩3分",
+    "description": "湖南料理の専門店。小米辣（唐辛子）の辛さに、発酵・燻製・ハーブを使った料理が特徴で、自然派ワインをそろえる。",
+    "dishes": [
+      {
+        "id": "mao-shi-hong-shao-rou",
+        "menuName": "毛沢東の大好物 湖南風豚の角煮"
+      },
+      {
+        "id": "duo-jiao-yu-tou",
+        "note": "発酵唐辛子ドゥオジャオを鯛の頭と蒸す"
+      },
+      {
+        "id": "chou-doufu",
+        "menuName": "香辣里臭豆腐",
+        "note": "自家製発酵液に漬けた豆腐を豚油で揚げる"
+      },
+      {
+        "id": "la-jiao-chao-rou",
+        "menuName": "辣椒炒肉（湖南名物“豚ピー”炒め）"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ001281409/",
+      "https://www.hotpepper.jp/strJ001281409/food/",
+      "https://oceans.tokyo.jp/article/detail/48466"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "kunya-ikebukuro",
+    "name": "タイ田舎料理 クンヤー",
+    "kana": "くんやー",
+    "cuisines": ["タイ料理"],
+    "prefecture": "東京都",
+    "area": "豊島区 池袋",
+    "address": "東京都豊島区池袋2-4-1 越路ビル2F",
+    "nearestStation": "池袋駅 C5出口徒歩2分",
+    "description": "タイ東北部イサーン地方出身のスタッフが料理を作るタイ料理店。ガパオやパッタイなどの定番に加え、ラープやナムトック、もち米などイサーンの郷土料理をそろえる。",
+    "dishes": [
+      {
+        "id": "laap",
+        "menuName": "ラープ（ムー／ガイ）"
+      },
+      {
+        "id": "som-tam-thai",
+        "menuName": "ソムタムタイ"
+      },
+      {
+        "id": "nam-tok",
+        "menuName": "ナムトック（ムー／コームー／ヌアー）"
+      },
+      {
+        "id": "gai-yang",
+        "menuName": "ガイヤーン"
+      },
+      {
+        "id": "kho-mu-yang",
+        "menuName": "コームーヤーン"
+      },
+      {
+        "id": "sai-ua",
+        "menuName": "サイウア"
+      },
+      {
+        "id": "thai-suki",
+        "menuName": "タイスキの煮込み"
+      },
+      {
+        "id": "khao-niao",
+        "menuName": "カオニャオ（もち米）"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000814480/",
+      "https://www.hotpepper.jp/strJ000814480/food/"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "baan-kirao-paradise-shinjuku",
+    "name": "バーンキラオパラダイス 新宿三丁目本店",
+    "kana": "ばーんきらおぱらだいす",
+    "cuisines": ["タイ料理"],
+    "prefecture": "東京都",
+    "area": "新宿区 新宿",
+    "address": "東京都新宿区新宿2-15-15 新宿ヤマトビルB1",
+    "nearestStation": "新宿三丁目駅 徒歩1分",
+    "description": "タイ人のコックが在籍するタイ料理店。イサーン料理のほか、タイ北部の麺料理カオソーイもメニューにある。",
+    "dishes": [
+      {
+        "id": "khao-soi",
+        "menuName": "カオソーイ"
+      },
+      {
+        "id": "gai-yang",
+        "menuName": "ガイヤーン"
+      },
+      {
+        "id": "sai-krok-isan",
+        "menuName": "サイクロー＆サイウア"
+      },
+      {
+        "id": "sai-ua",
+        "menuName": "サイウア"
+      },
+      {
+        "id": "laap",
+        "menuName": "ラープガイ"
+      },
+      {
+        "id": "nam-tok",
+        "menuName": "ムーナムトック"
+      },
+      {
+        "id": "som-tam",
+        "menuName": "ソムタム"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000243439/",
+      "https://www.hotpepper.jp/strJ000243439/food/"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "baan-saen-aroi-chin-chin-nishishimbashi",
+    "name": "本格タイ料理 バンセーン アロイチンチン 西新橋店",
+    "kana": "ばんせーん あろいちんちん",
+    "cuisines": ["タイ料理"],
+    "prefecture": "東京都",
+    "area": "港区 西新橋",
+    "address": "東京都港区西新橋2-11-8 内田ビル1F",
+    "description": "タイ人シェフが屋台風のタイ料理を出す店。ソフトシェルクラブを使ったプーパッポンカリーや、タイ北部の麺料理カオソーイもそろえる。",
+    "dishes": [
+      {
+        "id": "poo-pad-pong-curry",
+        "menuName": "プーパッポンカリー",
+        "note": "まるごと食べられるソフトシェルクラブを使用"
+      },
+      {
+        "id": "tom-yum-goong",
+        "menuName": "トムヤムグンスープ"
+      },
+      {
+        "id": "khao-soi",
+        "menuName": "カオソーイ"
+      },
+      {
+        "id": "khao-man-gai",
+        "menuName": "カオマンガイ"
+      },
+      {
+        "id": "laap",
+        "menuName": "ラープムー"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ001036278/",
+      "https://www.hotpepper.jp/strJ001036278/food/"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "nirvanam-kamiyacho",
+    "name": "ニルワナム 神谷町本店",
+    "kana": "にるわなむ",
+    "cuisines": ["インド料理"],
+    "prefecture": "東京都",
+    "area": "港区 虎ノ門",
+    "address": "東京都港区虎ノ門3-18-21 久永ビル2階",
+    "nearestStation": "神谷町駅 3番出口すぐ",
+    "url": "https://www.nirvanam.jp/ja",
+    "links": [
+      {
+        "label": "ホットペッパー",
+        "url": "https://www.hotpepper.jp/strJ000243453/"
+      }
+    ],
+    "description": "南インド料理の専門店で、ケララ・チキン・カレーやワダなどケララ州の料理が多い。タンドリーチキンやナンなど北インドの料理もある。",
+    "dishes": [
+      {
+        "id": "dosa",
+        "menuName": "マサラドーサ"
+      },
+      {
+        "id": "biryani",
+        "menuName": "チキン・ビリヤニ／マトン・ビリヤニ"
+      },
+      {
+        "id": "tandoori",
+        "menuName": "タンドリーチキン"
+      },
+      {
+        "id": "naan",
+        "menuName": "ナン"
+      },
+      {
+        "id": "samosa",
+        "menuName": "サモサ"
+      },
+      {
+        "id": "dal",
+        "menuName": "ダル・フライ"
+      },
+      {
+        "id": "pani-puri",
+        "menuName": "パニプリ"
+      }
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "veg-herb-saga-okachimachi",
+    "name": "南インド料理 ヴェジハーブサーガ",
+    "kana": "ゔぇじはーぶさーが",
+    "cuisines": ["インド料理"],
+    "prefecture": "東京都",
+    "area": "台東区 上野",
+    "address": "東京都台東区上野5-22-1 東鈴ビルB1F",
+    "nearestStation": "御徒町駅 南口徒歩1分",
+    "description": "全メニューを乳製品以外の動物性食品を使わない菜食で出すインド料理店。南インドのドーサやイドゥリのほか、北インドのパラタやターリーもそろえる。",
+    "dishes": [
+      {
+        "id": "dosa",
+        "menuName": "マサラ・ドーサ",
+        "note": "マイソール・マサラ・ドーサなど種類あり"
+      },
+      {
+        "id": "idli",
+        "menuName": "イドゥリ（2pcs）"
+      },
+      {
+        "id": "pakora",
+        "menuName": "ミックス・ベジタブル・パコラ"
+      },
+      {
+        "id": "samosa",
+        "menuName": "サモサ"
+      },
+      {
+        "id": "paratha",
+        "menuName": "アル・パラタ"
+      },
+      {
+        "id": "chapati",
+        "menuName": "タワ・チャパティ（フルカ）"
+      },
+      {
+        "id": "naan",
+        "menuName": "プレーン・ナン"
+      },
+      {
+        "id": "biryani",
+        "menuName": "ビリヤニ"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000816415/",
+      "https://www.hotpepper.jp/strJ000816415/food/"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "bangeras-kitchen-ginza",
+    "name": "バンゲラズキッチン 銀座",
+    "kana": "ばんげらずきっちん",
+    "cuisines": ["インド料理"],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座西2-2 銀座インズ2 2F",
+    "nearestStation": "有楽町駅 D8出口徒歩約2分",
+    "description": "南インドの港町マンガロールの料理を出す店。豊洲から仕入れる魚介をココナッツやスパイスで仕立てた料理が中心で、米粉のニールドーサなど現地のパンも出す。ミシュランガイド東京でビブグルマンに選ばれたことがある。",
+    "dishes": [
+      {
+        "id": "dosa",
+        "menuName": "ニールドーサ／ウルドゥドーサ",
+        "note": "マンガロール流のドーサ"
+      },
+      {
+        "id": "biryani",
+        "menuName": "マンガロールビリヤニ",
+        "note": "チキン・フィッシュ・マトンなど"
+      },
+      {
+        "id": "achar",
+        "menuName": "オイスターアチャール"
+      },
+      {
+        "id": "chapati",
+        "menuName": "チャパティ"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ003411215/",
+      "https://www.hotpepper.jp/strJ003411215/food/"
+    ],
+    "checkedAt": "2026-11-08"
   }
 ]
