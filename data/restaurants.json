@@ -844,5 +844,141 @@
       "https://www.hotpepper.jp/strJ001036278/food/"
     ],
     "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "nirvanam-kamiyacho",
+    "name": "ニルワナム 神谷町本店",
+    "kana": "にるわなむ",
+    "cuisines": ["インド料理"],
+    "prefecture": "東京都",
+    "area": "港区 虎ノ門",
+    "address": "東京都港区虎ノ門3-18-21 久永ビル2階",
+    "nearestStation": "神谷町駅 3番出口すぐ",
+    "url": "https://www.nirvanam.jp/ja",
+    "links": [
+      {
+        "label": "ホットペッパー",
+        "url": "https://www.hotpepper.jp/strJ000243453/"
+      }
+    ],
+    "description": "南インド料理の専門店で、ケララ・チキン・カレーやワダなどケララ州の料理が多い。タンドリーチキンやナンなど北インドの料理もある。",
+    "dishes": [
+      {
+        "id": "dosa",
+        "menuName": "マサラドーサ"
+      },
+      {
+        "id": "biryani",
+        "menuName": "チキン・ビリヤニ／マトン・ビリヤニ"
+      },
+      {
+        "id": "tandoori",
+        "menuName": "タンドリーチキン"
+      },
+      {
+        "id": "naan",
+        "menuName": "ナン"
+      },
+      {
+        "id": "samosa",
+        "menuName": "サモサ"
+      },
+      {
+        "id": "dal",
+        "menuName": "ダル・フライ"
+      },
+      {
+        "id": "pani-puri",
+        "menuName": "パニプリ"
+      }
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "veg-herb-saga-okachimachi",
+    "name": "南インド料理 ヴェジハーブサーガ",
+    "kana": "ゔぇじはーぶさーが",
+    "cuisines": ["インド料理"],
+    "prefecture": "東京都",
+    "area": "台東区 上野",
+    "address": "東京都台東区上野5-22-1 東鈴ビルB1F",
+    "nearestStation": "御徒町駅 南口徒歩1分",
+    "description": "全メニューを乳製品以外の動物性食品を使わない菜食で出すインド料理店。南インドのドーサやイドゥリのほか、北インドのパラタやターリーもそろえる。",
+    "dishes": [
+      {
+        "id": "dosa",
+        "menuName": "マサラ・ドーサ",
+        "note": "マイソール・マサラ・ドーサなど種類あり"
+      },
+      {
+        "id": "idli",
+        "menuName": "イドゥリ（2pcs）"
+      },
+      {
+        "id": "pakora",
+        "menuName": "ミックス・ベジタブル・パコラ"
+      },
+      {
+        "id": "samosa",
+        "menuName": "サモサ"
+      },
+      {
+        "id": "paratha",
+        "menuName": "アル・パラタ"
+      },
+      {
+        "id": "chapati",
+        "menuName": "タワ・チャパティ（フルカ）"
+      },
+      {
+        "id": "naan",
+        "menuName": "プレーン・ナン"
+      },
+      {
+        "id": "biryani",
+        "menuName": "ビリヤニ"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000816415/",
+      "https://www.hotpepper.jp/strJ000816415/food/"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "bangeras-kitchen-ginza",
+    "name": "バンゲラズキッチン 銀座",
+    "kana": "ばんげらずきっちん",
+    "cuisines": ["インド料理"],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座西2-2 銀座インズ2 2F",
+    "nearestStation": "有楽町駅 D8出口徒歩約2分",
+    "description": "南インドの港町マンガロールの料理を出す店。豊洲から仕入れる魚介をココナッツやスパイスで仕立てた料理が中心で、米粉のニールドーサなど現地のパンも出す。ミシュランガイド東京でビブグルマンに選ばれたことがある。",
+    "dishes": [
+      {
+        "id": "dosa",
+        "menuName": "ニールドーサ／ウルドゥドーサ",
+        "note": "マンガロール流のドーサ"
+      },
+      {
+        "id": "biryani",
+        "menuName": "マンガロールビリヤニ",
+        "note": "チキン・フィッシュ・マトンなど"
+      },
+      {
+        "id": "achar",
+        "menuName": "オイスターアチャール"
+      },
+      {
+        "id": "chapati",
+        "menuName": "チャパティ"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ003411215/",
+      "https://www.hotpepper.jp/strJ003411215/food/"
+    ],
+    "checkedAt": "2026-11-08"
   }
 ]
