@@ -425,5 +425,157 @@
     ],
     "sources": ["https://prtimes.jp/main/html/rd/p/000000001.000127440.html"],
     "checkedAt": "2026-11-07"
+  },
+  {
+    "id": "la-jolla-hiroo",
+    "name": "LA JOLLA",
+    "kana": "らほいや",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "渋谷区 広尾",
+    "address": "東京都渋谷区広尾5-16-3 小安ビル 2階",
+    "nearestStation": "広尾駅 徒歩2分",
+    "description": "1987年から広尾で営業する老舗のメキシコ料理店。伝統的なスープのポソレ、チョコレートを使うモレポブラーノ、食用サボテンのノパレスなど正統派の料理を出す。好みの料理を組み合わせられるコンビネーションメニューが看板。",
+    "dishes": [
+      {
+        "id": "pozole",
+        "menuName": "ポソレ"
+      },
+      {
+        "id": "mole",
+        "menuName": "モレポブラーノ"
+      },
+      {
+        "id": "nopales",
+        "menuName": "ノパレス"
+      },
+      {
+        "id": "enchilada",
+        "menuName": "エンチラーダ",
+        "note": "コンビネーションメニューで組み合わせ可"
+      },
+      {
+        "id": "tacos",
+        "menuName": "タコス"
+      },
+      {
+        "id": "burrito",
+        "menuName": "ブリトー"
+      },
+      {
+        "id": "frijoles-refritos",
+        "menuName": "リフライドビーンズ",
+        "note": "プレートの付け合わせ"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/la-jolla-1",
+      "https://www.timeout.jp/tokyo/ja/restaurant/10-best-mexican-food-in-tokyo"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "mil-tacos-sasazuka",
+    "name": "MIL TACOS",
+    "kana": "みるたこす",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "渋谷区 笹塚",
+    "address": "東京都渋谷区笹塚3-17-4",
+    "nearestStation": "笹塚駅 北口 徒歩5分",
+    "description": "2022年に笹塚で開業したタケリア（タコス食堂）。チョルーラ、プエブラ、メキシコシティ出身のスタッフが厨房に立ち、生のブルーコーンから作る手作りトルティーヤでタコスを出す。オルチャータやメスカルもそろう。",
+    "dishes": [
+      {
+        "id": "tacos",
+        "menuName": "タコス（パストールほか）",
+        "note": "焼いたパイナップルを合わせるパストールなど"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "カルニタスのタコス"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/mll-tacos",
+      "https://www.timeout.jp/tokyo/ja/restaurant/10-best-mexican-food-in-tokyo"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "tacos-treat-dogenzaka",
+    "name": "タコストリート",
+    "kana": "たこすとりーと",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "渋谷区 道玄坂",
+    "address": "東京都渋谷区道玄坂1-20-2",
+    "nearestStation": "渋谷駅 徒歩4分",
+    "description": "2025年に道玄坂で開業した、豚肉の煮込みカルニタスを具にしたタコスの専門店。ロースやバラに加え、ガツ・モツ・皮・耳などさまざまな部位を煮込んで合わせる。28時まで営業。",
+    "dishes": [
+      {
+        "id": "carnitas",
+        "note": "豚の複数部位をミックスした煮込み"
+      },
+      {
+        "id": "tacos",
+        "menuName": "カルニタスのタコス",
+        "note": "ライムと自家製サルサで"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/tacos-treat",
+      "https://www.timeout.jp/tokyo/ja/restaurant/10-best-mexican-food-in-tokyo"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "kuma-cantina-higashinakano",
+    "name": "KUMA CANTINA",
+    "kana": "くまかんてぃーな",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "中野区 東中野",
+    "address": "東京都中野区東中野3-2-7 FAITH 1階",
+    "nearestStation": "東中野駅 徒歩3分",
+    "description": "2024年5月に東中野で開業したメキシコ料理店。メキシコにルーツを持つ創業者が伝統の家庭の味にモダンな工夫を加え、自社製造のトルティーヤや日本の魚介を使った料理を出す。週末はメキシコの朝食料理をそろえたブランチ営業もある。",
+    "dishes": [
+      {
+        "id": "enchilada",
+        "menuName": "エンチラーダ・デ・マリスコス",
+        "note": "カニとエビにとびっこと生クリームソース"
+      },
+      {
+        "id": "huevos-rancheros",
+        "menuName": "ウェボス・ランチェロス",
+        "note": "週末ブランチ"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/kuma-cantina",
+      "https://www.timeout.jp/tokyo/ja/restaurant/10-best-mexican-food-in-tokyo"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "los-tacos-azules-sangenjaya",
+    "name": "Los Tacos Azules 三軒茶屋",
+    "kana": "ろすたこすあすーれす",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "世田谷区 上馬",
+    "address": "東京都世田谷区上馬1-17-9",
+    "nearestStation": "三軒茶屋駅",
+    "description": "メキシコ・モンテレイ出身のシェフ、マルコ・ガルシアが営むタコス店。挽きたてのブルーコーンで作る手作りトルティーヤに日本の季節の食材を合わせる。三軒茶屋店は昼のみの営業で、朝からタコスを出す。恵比寿に姉妹店がある。",
+    "dishes": [
+      {
+        "id": "tacos",
+        "note": "ブルーコーンの手作りトルティーヤ"
+      }
+    ],
+    "sources": [
+      "https://www.tokyoupdates.metro.tokyo.lg.jp/en/post-1669/",
+      "https://gurunavi.com/ja/ggn0700/rev/rst"
+    ],
+    "checkedAt": "2026-11-08"
   }
 ]
