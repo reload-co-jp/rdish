@@ -577,5 +577,138 @@
       "https://gurunavi.com/ja/ggn0700/rev/rst"
     ],
     "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "shinsekai-saikan-jimbocho",
+    "name": "新世界菜館",
+    "kana": "しんせかいさいかん",
+    "cuisines": ["中国料理"],
+    "prefecture": "東京都",
+    "area": "千代田区 神田神保町",
+    "address": "東京都千代田区神田神保町2-2 新世界ビル",
+    "nearestStation": "神保町駅 A3出口すぐ",
+    "url": "https://sinsekai.com/",
+    "description": "1946年（昭和21年）創業の神保町の老舗中国料理店。江蘇省の石臼湖などから直輸入する上海蟹と、浙江省の酒造と共同開発した紹興酒が看板。2025年5月にリニューアルオープンした。",
+    "dishes": [
+      {
+        "id": "qing-zheng-da-zha-xie",
+        "menuName": "清蒸大蟹（活上海蟹の姿蒸し）",
+        "note": "上海蟹シーズン（秋〜冬）のコース"
+      },
+      {
+        "id": "yu-chi-tang",
+        "menuName": "蟹黄魚翅（上海蟹みそ入りふかひれスープ）",
+        "note": "上海蟹シーズンのコース"
+      },
+      {
+        "id": "peking-duck",
+        "menuName": "北京烤鴨（特製北京ダック）",
+        "note": "宴会コース"
+      },
+      {
+        "id": "shaoxing-wine",
+        "menuName": "紹興大越貴酒",
+        "note": "浙江大越と共同開発した紹興酒"
+      }
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "akasaka-shisen-hanten",
+    "name": "赤坂四川飯店",
+    "kana": "あかさかしせんはんてん",
+    "cuisines": ["四川料理", "中国料理"],
+    "prefecture": "東京都",
+    "area": "千代田区 平河町",
+    "address": "東京都千代田区平河町2-5-5 全国旅館会館5F・6F",
+    "url": "https://www.sisen.jp/shop/akasaka/",
+    "links": [
+      {
+        "label": "予約（TableCheck）",
+        "url": "https://www.tablecheck.com/ja/akasakasisen"
+      }
+    ],
+    "description": "陳建民が1958年に始めた四川料理店「四川飯店」が、1970年に赤坂で開いた店。陳麻婆豆腐と担担麺が名物で、テーブル席のほか個室・宴会場を備える。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "四川飯店名物 陳麻婆豆腐",
+        "note": "ランチコースでも選べる"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "担担麺"
+      }
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "shinahanten-shibadaimon",
+    "name": "新亜飯店 芝大門本店",
+    "kana": "しんあはんてん しばだいもんほんてん",
+    "cuisines": ["中国料理"],
+    "prefecture": "東京都",
+    "area": "港区 芝大門",
+    "address": "東京都港区芝大門2-3-2 大門フジビル",
+    "nearestStation": "大門駅 A3出口徒歩1分",
+    "url": "https://www.shinahanten.com/",
+    "description": "1969年創業の上海料理店。日本で初めて小籠包を出した店として知られ、職人が毎日店内で手包みする。秋冬は上海蟹料理も出す。",
+    "dishes": [
+      {
+        "id": "xiaolongbao",
+        "menuName": "小籠包",
+        "note": "季節限定で上海蟹の小籠包も"
+      },
+      {
+        "id": "qing-zheng-da-zha-xie",
+        "menuName": "上海蟹の姿蒸し",
+        "note": "季節限定"
+      },
+      {
+        "id": "peking-duck",
+        "menuName": "北京ダック"
+      },
+      {
+        "id": "mapo-tofu",
+        "menuName": "麻婆豆腐"
+      }
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "xiang-la-li-sangenjaya",
+    "name": "香辣里",
+    "kana": "しゃんらーりー",
+    "cuisines": ["中国料理"],
+    "prefecture": "東京都",
+    "area": "世田谷区 三軒茶屋",
+    "address": "東京都世田谷区太子堂4-23-11 GEMS三軒茶屋7階",
+    "nearestStation": "三軒茶屋駅 徒歩3分",
+    "description": "湖南料理の専門店。小米辣（唐辛子）の辛さに、発酵・燻製・ハーブを使った料理が特徴で、自然派ワインをそろえる。",
+    "dishes": [
+      {
+        "id": "mao-shi-hong-shao-rou",
+        "menuName": "毛沢東の大好物 湖南風豚の角煮"
+      },
+      {
+        "id": "duo-jiao-yu-tou",
+        "note": "発酵唐辛子ドゥオジャオを鯛の頭と蒸す"
+      },
+      {
+        "id": "chou-doufu",
+        "menuName": "香辣里臭豆腐",
+        "note": "自家製発酵液に漬けた豆腐を豚油で揚げる"
+      },
+      {
+        "id": "la-jiao-chao-rou",
+        "menuName": "辣椒炒肉（湖南名物“豚ピー”炒め）"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ001281409/",
+      "https://www.hotpepper.jp/strJ001281409/food/",
+      "https://oceans.tokyo.jp/article/detail/48466"
+    ],
+    "checkedAt": "2026-11-08"
   }
 ]
