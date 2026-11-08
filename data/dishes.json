@@ -247512,5 +247512,1091 @@
       "/images/dishes/kokorec/2.jpg",
       "/images/dishes/kokorec/3.jpg"
     ]
+  },
+  {
+    "id": "olive-oil",
+    "name": "オリーブオイル",
+    "kana": "おりーぶおいる",
+    "aliases": [
+      "オリーブ油",
+      "エクストラバージン・オリーブオイル",
+      "EXVオリーブオイル"
+    ],
+    "englishName": "Olive oil",
+    "originalName": "olio d'oliva / aceite de oliva",
+    "category": "食材",
+    "regions": [
+      {
+        "area": "地中海"
+      },
+      {
+        "country": "スペイン"
+      },
+      {
+        "country": "イタリア"
+      },
+      {
+        "country": "ギリシャ"
+      }
+    ],
+    "summary": "オリーブの果実を搾って取る油。地中海沿岸で数千年にわたり使われてきた料理の基本の油で、果実を搾っただけで精製しない「エクストラバージン」は生のままかけても香りがよい。",
+    "history": "イスラエルのガリラヤ地方では約8000年前のオリーブオイルの痕跡が見つかっている。古代ギリシャではアテネの競技会の賞品にオイルの壺が贈られ、ローマ帝国は属州ヒスパニアなどから大量に輸入した。20世紀後半、地中海式食生活が健康的だと注目されて世界に広まった。現在の最大の生産国はスペイン。",
+    "menuDescription": "完熟前後のオリーブの実を搾った、青りんごや草のような香りの油。パンにつけたり、サラダや焼いた魚・野菜に仕上げとして回しかけたりするほか、パスタやアヒージョの炒め油・煮る油としても使われる。",
+    "whatComesOut": [
+      "パンに添えられた小皿のオイル",
+      "サラダやカルパッチョにかけられた緑がかった油",
+      "パスタやアヒージョにからんだ香りのよい油"
+    ],
+    "tasteAndTexture": [
+      "青い草やトマトの葉のような香り",
+      "搾りたてはのどにピリッとくる辛みと軽い苦み",
+      "さらりとした口当たり",
+      "加熱すると香りが穏やかになる"
+    ],
+    "orderAdvice": "イタリア・スペイン・ギリシャ料理では、オイルの質が味を左右する。パンにつけるオイルが出てくる店では、まずそのまま味わってみるとよい。油っぽさが気になるなら、仕上げのオイルを控えめにと頼める。",
+    "similarItems": [
+      {
+        "id": "butter",
+        "name": "バター",
+        "difference": "バターは牛乳の脂肪を固めた動物性の油脂。オリーブオイルは果実から搾る植物油で常温で液体"
+      },
+      {
+        "id": "rapeseed-oil",
+        "name": "菜種油",
+        "difference": "菜種油は種子から搾るくせの少ない油。オリーブオイルは果実の香りがはっきり残る"
+      },
+      {
+        "id": "sesame-oil",
+        "name": "ごま油",
+        "difference": "ごま油は東アジアの香りづけの油。オリーブオイルは地中海で炒め・煮込み・仕上げすべてに使う"
+      }
+    ],
+    "relatedIds": [
+      "aglio-e-olio",
+      "pan-con-tomate",
+      "aioli",
+      "salmorejo",
+      "ahijo",
+      "greek-salad",
+      "pesto",
+      "focaccia",
+      "bruschetta",
+      "oil-ni"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Olive_oil",
+      "https://ja.wikipedia.org/wiki/オリーブ・オイル"
+    ],
+    "tags": [
+      "地中海料理",
+      "イタリア料理",
+      "スペイン料理",
+      "果物",
+      "生食",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "バター",
+      "ラード",
+      "ごま油"
+    ],
+    "avoidedBy": [
+      "油っこい料理不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/olive-oil/1.jpg"
+    ]
+  },
+  {
+    "id": "butter",
+    "name": "バター",
+    "kana": "ばたー",
+    "aliases": [
+      "無塩バター",
+      "発酵バター"
+    ],
+    "englishName": "Butter",
+    "originalName": "beurre / Butter",
+    "category": "食材",
+    "regions": [
+      {
+        "area": "ヨーロッパ"
+      },
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "牛乳から分けたクリームを激しくかき混ぜ、乳脂肪を固めて作る油脂。オリーブが育たないヨーロッパ北部で料理の油として発達し、フランス料理のソースや焼き菓子、パンの生地に欠かせない。",
+    "history": "中世のカトリック圏では、四旬節（断食期間）にバターを食べることが禁じられていた。フランスのルーアン大聖堂には、四旬節にバターを食べる許可と引き換えの寄付で建てられたとされる「バターの塔」がある。日本では明治以降に洋食とともに広まった。",
+    "menuDescription": "乳脂肪を80％以上含む、濃厚なミルクの香りの油脂。ソテーやムニエルの焼き油、ブール・ブランなどのソースの土台、クロワッサンや焼き菓子の生地に使われる。乳酸菌で発酵させた発酵バターはさらに香りが豊か。",
+    "whatComesOut": [
+      "パンに添えられた小さなバター",
+      "ムニエルやソテーにからんだ焦がしバター",
+      "ソースとして溶かし込まれたバター",
+      "パイやクロワッサンの層"
+    ],
+    "tasteAndTexture": [
+      "ミルクの甘い香りと濃いコク",
+      "口の中で溶けるなめらかさ",
+      "加熱すると香ばしいナッツのような香り",
+      "焦げやすい"
+    ],
+    "orderAdvice": "フランス料理の魚料理や焼き菓子は、バターのコクが主役のことが多い。重いのが苦手なら、オリーブオイルを使う南仏やイタリアの料理を選ぶとよい。",
+    "caution": "乳由来。乳製品アレルギーや乳糖不耐の人は注意。",
+    "similarItems": [
+      {
+        "id": "ghee",
+        "name": "ギー",
+        "difference": "ギーはバターを煮詰めて水分と乳たんぱくを除いたもの。焦げにくく常温で日持ちする"
+      },
+      {
+        "id": "margarine",
+        "name": "マーガリン",
+        "difference": "マーガリンは植物油などで作ったバターの代用品"
+      },
+      {
+        "id": "beurre-clarifie",
+        "name": "ブール・クラリフィエ",
+        "difference": "澄ましバターは乳固形分を除いた上澄みの脂で、高温で焼ける"
+      }
+    ],
+    "relatedIds": [
+      "beurre-blanc",
+      "beurre-noisette",
+      "beurre-clarifie",
+      "hollandaise-sauce",
+      "croissant",
+      "munieru",
+      "ghee",
+      "butter-chicken-curry"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Butter",
+      "https://ja.wikipedia.org/wiki/バター",
+      "https://en.wikipedia.org/wiki/Rouen_Cathedral"
+    ],
+    "tags": [
+      "フランス料理",
+      "乳製品",
+      "こってり",
+      "クリーミー",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "オリーブオイル",
+      "あっさり",
+      "さっぱり"
+    ],
+    "avoidedBy": [
+      "乳製品不可",
+      "油っこい料理不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/butter/1.jpg"
+    ]
+  },
+  {
+    "id": "lard",
+    "name": "ラード",
+    "kana": "らーど",
+    "aliases": [
+      "豚脂",
+      "豚の脂"
+    ],
+    "englishName": "Lard",
+    "originalName": "lard / manteca",
+    "category": "食材",
+    "regions": [
+      {
+        "area": "ヨーロッパ"
+      },
+      {
+        "country": "メキシコ"
+      },
+      {
+        "country": "中国"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "豚の脂肪を加熱して溶かし出した白い油脂。常温で固まり、揚げ物をカリッと、生地をさくっと仕上げる。ヨーロッパ・中南米・中国・沖縄などで料理の基本の油として使われてきた。",
+    "history": "植物油が安く手に入るようになる20世紀半ばまで、欧米ではラードが揚げ物や菓子作りの主要な油だった。メキシコにはスペイン人が持ち込んだ豚とともに広まり、タマルやカルニタスに欠かせなくなった。日本ではとんかつや中華料理のほか、豚肉文化の沖縄で多く使われる。",
+    "menuDescription": "豚の背脂などから取る、くせの少ないコクのある脂。とんかつや揚げ物の揚げ油、チャーハンや中華料理の炒め油、タマルや中華菓子の生地に使われる。",
+    "whatComesOut": [
+      "衣がカリッと揚がった揚げ物",
+      "パラパラに炒めたチャーハン",
+      "ほろほろと崩れるパイや焼き菓子の生地"
+    ],
+    "tasteAndTexture": [
+      "豚の脂らしい甘みとコク",
+      "揚げ物の衣がカリッと軽くなる",
+      "冷めると白く固まる"
+    ],
+    "orderAdvice": "老舗のとんかつ店や町中華では、ラードで揚げる・炒めることが多い。豚肉を避けたい人は、揚げ油や炒め油に注意して確認するとよい。",
+    "caution": "豚由来のため、宗教上の理由などで豚肉を避ける人は注意。",
+    "similarItems": [
+      {
+        "id": "beef-tallow",
+        "name": "牛脂",
+        "difference": "牛脂（ヘット）は牛の脂。ラードより固く、牛肉らしい香りがある"
+      },
+      {
+        "id": "butter",
+        "name": "バター",
+        "difference": "バターは乳脂肪から作る。ラードは豚の脂で乳成分を含まない"
+      },
+      {
+        "id": "confit",
+        "name": "コンフィ",
+        "difference": "コンフィは肉を脂で煮る調理法。ラードはその脂として使われることがある"
+      }
+    ],
+    "relatedIds": [
+      "carnitas",
+      "tamales",
+      "tonkatsu",
+      "chahan",
+      "rillette",
+      "schnitzel",
+      "cong-you-bing",
+      "langos"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Lard",
+      "https://ja.wikipedia.org/wiki/ラード"
+    ],
+    "tags": [
+      "豚肉",
+      "揚げ物",
+      "炒め物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "オリーブオイル",
+      "あっさり",
+      "野菜"
+    ],
+    "avoidedBy": [
+      "豚肉不可",
+      "油っこい料理不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/lard/1.jpg"
+    ]
+  },
+  {
+    "id": "beef-tallow",
+    "name": "牛脂",
+    "kana": "ぎゅうし",
+    "aliases": [
+      "ヘット",
+      "ドリッピング",
+      "ビーフタロー"
+    ],
+    "englishName": "Beef tallow",
+    "originalName": "beef dripping / blanc de bœuf",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "イギリス"
+      },
+      {
+        "country": "ベルギー"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "牛の脂肪を溶かして取る油脂。日本では「ヘット」とも呼ばれ、すき焼きの鍋に最初に引く脂として知られる。イギリスのフィッシュ・アンド・チップスやベルギーのフリッツを揚げる伝統的な油でもある。",
+    "history": "イングランド北部では今も牛脂（ドリッピング）でフィッシュ・アンド・チップスを揚げる店が残る。ベルギーのフリッツも、伝統的には牛脂で二度揚げする。日本では、すき焼きや焼肉の鉄板に引く脂として、精肉売り場で小さな塊が無料で配られることが多い。",
+    "menuDescription": "牛の脂を溶かした、牛肉らしい香りとコクのある脂。すき焼きの割り下を入れる前の鍋に溶かしたり、フライドポテトや揚げ物の揚げ油に使ったりする。",
+    "whatComesOut": [
+      "すき焼き鍋に引かれた白い脂の塊",
+      "牛脂で揚げたフライドポテト",
+      "フィッシュ・アンド・チップスの衣"
+    ],
+    "tasteAndTexture": [
+      "牛肉の香ばしい香り",
+      "どっしりとしたコク",
+      "ラードより融点が高く、冷めると固まりやすい"
+    ],
+    "orderAdvice": "「牛脂で揚げたポテト」を売りにする店は、香りとコクが植物油とまったく違う。食べ比べると油の違いがよくわかる。",
+    "caution": "牛由来。宗教上の理由で牛肉を避ける人は注意。",
+    "similarItems": [
+      {
+        "id": "lard",
+        "name": "ラード",
+        "difference": "ラードは豚の脂で、牛脂よりやわらかく香りがおだやか"
+      },
+      {
+        "id": "butter",
+        "name": "バター",
+        "difference": "バターは乳脂肪。牛脂は牛の体脂肪"
+      }
+    ],
+    "relatedIds": [
+      "fish-and-chips",
+      "french-fries",
+      "moules-frites",
+      "sukiyaki"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Tallow",
+      "https://en.wikipedia.org/wiki/Dripping",
+      "https://ja.wikipedia.org/wiki/牛脂"
+    ],
+    "tags": [
+      "イギリス料理",
+      "ベルギー料理",
+      "牛肉",
+      "揚げ物",
+      "こってり",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "オリーブオイル",
+      "あっさり",
+      "野菜"
+    ],
+    "avoidedBy": [
+      "油っこい料理不可",
+      "肉なし"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 5,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/beef-tallow/1.jpg"
+    ]
+  },
+  {
+    "id": "sesame-oil",
+    "name": "ごま油",
+    "kana": "ごまあぶら",
+    "aliases": [
+      "胡麻油",
+      "焙煎ごま油",
+      "太白ごま油",
+      "香油"
+    ],
+    "englishName": "Sesame oil",
+    "originalName": "芝麻油 / 참기름",
+    "category": "食材",
+    "regions": [
+      {
+        "area": "東アジア"
+      },
+      {
+        "country": "中国"
+      },
+      {
+        "country": "韓国"
+      },
+      {
+        "country": "日本"
+      },
+      {
+        "country": "インド"
+      }
+    ],
+    "summary": "ごまの種子を搾った油。煎ってから搾る茶色の「焙煎ごま油」は香りが強く、中国・韓国・日本で仕上げの香りづけに使われる。煎らずに搾る透明な「太白ごま油」はくせがなく、天ぷらや製菓に向く。",
+    "history": "ごまはもっとも古い油料作物の一つで、インダス文明では主要な油の原料だった。日本では古くから寺院の精進料理に使われ、江戸の天ぷら屋台ではごま油で香ばしく揚げるのが江戸前の流儀になった。韓国料理ではナムルやビビンバに欠かせない。",
+    "menuDescription": "煎ったごまの香ばしい香りをまとった油。ナムルや中華の和え物、スープや炒め物の仕上げに数滴たらすほか、天ぷらの揚げ油に混ぜて香りを出す。",
+    "whatComesOut": [
+      "ナムルや和え物にからんだ香りのよい油",
+      "中華スープや炒め物の表面に浮く香り油",
+      "ごま油で揚げた色の濃い天ぷら"
+    ],
+    "tasteAndTexture": [
+      "煎りごまの強い香ばしさ",
+      "少量でも香りが立つ",
+      "太白ごま油はほぼ無臭でさらりとしている"
+    ],
+    "orderAdvice": "韓国料理・中国料理・江戸前天ぷらの「らしさ」を作る油。香りが強いので、苦手なら仕上げの香油を控えてもらうとよい。",
+    "caution": "ごまアレルギーの人は注意。",
+    "similarItems": [
+      {
+        "id": "goma",
+        "name": "ごま",
+        "difference": "ごまは種子そのもの。ごま油はそれを搾った油"
+      },
+      {
+        "id": "tahini",
+        "name": "タヒニ",
+        "difference": "タヒニはごまをすりつぶしたペーストで、油分と種の風味をまるごと使う"
+      },
+      {
+        "id": "la-you",
+        "name": "ラー油",
+        "difference": "ラー油は唐辛子の辛みと香りを油に移したもので、ごま油を加えることも多い"
+      }
+    ],
+    "relatedIds": [
+      "goma",
+      "namul",
+      "bibimbap",
+      "tempura",
+      "tahini",
+      "kinpira-gobo",
+      "abura-soba",
+      "you-po-la-zi"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Sesame_oil",
+      "https://ja.wikipedia.org/wiki/ごま油"
+    ],
+    "tags": [
+      "中国料理",
+      "韓国料理",
+      "日本料理",
+      "ナッツ",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "オリーブオイル",
+      "バター",
+      "あっさり"
+    ],
+    "avoidedBy": [
+      "ごま不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/sesame-oil/1.png",
+      "/images/dishes/sesame-oil/2.jpg"
+    ]
+  },
+  {
+    "id": "rapeseed-oil",
+    "name": "菜種油",
+    "kana": "なたねあぶら",
+    "aliases": [
+      "なたね油",
+      "キャノーラ油",
+      "菜の花油"
+    ],
+    "englishName": "Rapeseed oil",
+    "originalName": "菜籽油",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "日本"
+      },
+      {
+        "country": "中国"
+      },
+      {
+        "country": "カナダ"
+      },
+      {
+        "area": "ヨーロッパ"
+      }
+    ],
+    "summary": "アブラナ（菜の花）の種子を搾った油。くせが少なく揚げ物・炒め物に幅広く使われる。品種改良でくせを減らしたものはキャノーラ油と呼ばれ、日本でもっとも多く使われる食用油の一つ。",
+    "history": "日本では江戸時代に菜種の栽培が広がり、行灯（あんどん）の灯り油や天ぷらの揚げ油として庶民に普及した。1970年代、カナダで菜種本来の苦みや有害成分を減らした品種が開発され、「カナダの油」を意味するキャノーラと名づけられた。中国の四川では、焙煎した菜種を搾る香りの強い菜籽油が料理に欠かせない。",
+    "menuDescription": "淡い黄色の、香りやくせが控えめな油。天ぷらやフライの揚げ油、炒め物、ドレッシングに使われる。四川料理では、香ばしい菜種油で唐辛子を炒めて赤い油を作る。",
+    "whatComesOut": [
+      "からりと揚がった天ぷらやフライ",
+      "炒め物にからんだ油",
+      "四川料理の表面に浮く赤い油"
+    ],
+    "tasteAndTexture": [
+      "くせがなく素材の味を邪魔しない",
+      "さらりと軽い",
+      "焙煎した菜籽油は香ばしく独特の香り"
+    ],
+    "orderAdvice": "日本の揚げ物の多くはこの油で揚げられている。四川料理の香ばしい油の香りは、焙煎した菜種油によるもの。",
+    "similarItems": [
+      {
+        "id": "sesame-oil",
+        "name": "ごま油",
+        "difference": "ごま油は香りが強く仕上げに使うことが多い。菜種油はくせが少なく加熱調理向き"
+      },
+      {
+        "id": "olive-oil",
+        "name": "オリーブオイル",
+        "difference": "オリーブオイルは果実の香りが強い。菜種油は種子から搾る淡い油"
+      }
+    ],
+    "relatedIds": [
+      "tempura",
+      "karaage",
+      "mapo-tofu",
+      "you-po-la-zi",
+      "fry",
+      "shui-zhu-yu"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Rapeseed_oil",
+      "https://en.wikipedia.org/wiki/Canola_oil",
+      "https://ja.wikipedia.org/wiki/菜種油"
+    ],
+    "tags": [
+      "日本料理",
+      "中国料理",
+      "野菜",
+      "揚げ物",
+      "炒め物",
+      "あっさり"
+    ],
+    "reverseKeywords": [
+      "バター",
+      "ラード",
+      "こってり"
+    ],
+    "avoidedBy": [
+      "油っこい料理不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 2,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/rapeseed-oil/1.jpg"
+    ]
+  },
+  {
+    "id": "mustard-oil",
+    "name": "マスタードオイル",
+    "kana": "ますたーどおいる",
+    "aliases": [
+      "からし油",
+      "サルソン・カ・テール"
+    ],
+    "englishName": "Mustard oil",
+    "originalName": "सरसों का तेल (sarson ka tel)",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "インド"
+      },
+      {
+        "country": "バングラデシュ"
+      },
+      {
+        "country": "ネパール"
+      },
+      {
+        "country": "パキスタン"
+      }
+    ],
+    "summary": "からし菜の種子を搾った油。わさびのようにつんと鼻に抜ける辛い香りがあり、北インドやベンガル地方、ネパールで揚げ物・炒め物・漬物（アチャール）に使われる。",
+    "history": "北インドやベンガルで古くから使われてきた油で、魚料理の多いベンガル料理の味の土台になっている。インドの漬物アチャールは、この油に漬けて保存性と香りを高める。エルカ酸を多く含むため、欧米では食用としての販売が制限されている国もある。",
+    "menuDescription": "黄金色の、からし特有のつんとした香りを持つ油。ベンガル風の魚カレー、パコラなどの揚げ物、マンゴーやレモンの漬物（アチャール）に使われる。加熱すると辛みがやわらぎ、香ばしさが残る。",
+    "whatComesOut": [
+      "ベンガル風の魚カレーの表面の油",
+      "パコラなどの揚げ物",
+      "油に漬かったアチャール（漬物）"
+    ],
+    "tasteAndTexture": [
+      "わさびやからしのような鼻に抜ける辛み",
+      "加熱すると香ばしくまろやか",
+      "生で使うと刺激が強い"
+    ],
+    "orderAdvice": "ベンガル料理やネパール料理の店で、独特のつんとした香りがしたらこの油。インドのアチャールは辛みと香りが強いので、少量ずつ試すとよい。",
+    "similarItems": [
+      {
+        "id": "mustard-seed",
+        "name": "マスタードシード",
+        "difference": "マスタードシードは種子そのものでタドカに使う。マスタードオイルは搾った油"
+      },
+      {
+        "id": "ghee",
+        "name": "ギー",
+        "difference": "ギーはまろやかな乳脂肪。マスタードオイルは刺激的な植物油"
+      },
+      {
+        "id": "karashi",
+        "name": "からし",
+        "difference": "からしは種子を粉にした練り薬味。マスタードオイルは種子の油分"
+      }
+    ],
+    "relatedIds": [
+      "mustard-seed",
+      "pakora",
+      "dal",
+      "ghee",
+      "tadka",
+      "mustard"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Mustard_oil",
+      "https://ja.wikipedia.org/wiki/マスタードオイル"
+    ],
+    "tags": [
+      "インド料理",
+      "スパイス",
+      "揚げ物",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "バター",
+      "オリーブオイル",
+      "まろやか"
+    ],
+    "avoidedBy": [
+      "辛いものが苦手"
+    ],
+    "beginnerFriendlyScore": 2,
+    "uniquenessScore": 4,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/mustard-oil/1.jpg"
+    ]
+  },
+  {
+    "id": "coconut-oil",
+    "name": "ココナッツオイル",
+    "kana": "ここなっつおいる",
+    "aliases": [
+      "ココナッツ油",
+      "ヤシ油"
+    ],
+    "englishName": "Coconut oil",
+    "originalName": "minyak kelapa / വെളിച്ചെണ്ണ",
+    "category": "食材",
+    "regions": [
+      {
+        "area": "東南アジア"
+      },
+      {
+        "country": "インド"
+      },
+      {
+        "country": "スリランカ"
+      },
+      {
+        "country": "フィリピン"
+      },
+      {
+        "country": "インドネシア"
+      }
+    ],
+    "summary": "ココヤシの実の果肉から取る油。甘いココナッツの香りがあり、南インドのケーララ州やスリランカ、東南アジアで料理の基本の油になっている。約24℃以下で白く固まる。",
+    "history": "ココヤシが育つ熱帯の海沿いで古くから使われてきた。南インドのケーララ州は「ココナッツの土地」と呼ばれ、料理の大半をココナッツオイルで作る。東南アジアでは、ココナッツミルクを煮詰めて油を分離させ、その油でスパイスを炒める調理法が発達した。",
+    "menuDescription": "ほんのり甘いココナッツの香りがする油。南インドのカレーやドーサ、東南アジアの揚げ物や炒め物に使われる。タイカレーやルンダンでは、ココナッツミルクから分かれた油がそのまま香りとコクになる。",
+    "whatComesOut": [
+      "南インドのカレーやトーレン（炒め物）",
+      "ココナッツミルクの油が浮いたタイカレー",
+      "揚げたバナナやスナック"
+    ],
+    "tasteAndTexture": [
+      "甘いココナッツの香り",
+      "軽い口当たりなのにコクがある",
+      "涼しい場所では白く固まる"
+    ],
+    "orderAdvice": "南インド料理やタイ料理の甘い香りの正体の一つ。ココナッツの香りが苦手なら、北インド料理の店を選ぶとよい。",
+    "similarItems": [
+      {
+        "id": "palm-oil",
+        "name": "パーム油",
+        "difference": "パーム油はアブラヤシの果肉の油。ココナッツオイルはココヤシの実の油で香りが甘い"
+      },
+      {
+        "id": "ghee",
+        "name": "ギー",
+        "difference": "ギーは北インドでよく使う乳脂肪。南インドではココナッツオイルが主役"
+      }
+    ],
+    "relatedIds": [
+      "rendang",
+      "green-curry",
+      "nasi-lemak",
+      "dosa",
+      "laksa",
+      "gaeng-massaman",
+      "udang-lemak-nanas"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Coconut_oil",
+      "https://ja.wikipedia.org/wiki/ココナッツオイル"
+    ],
+    "tags": [
+      "インド料理",
+      "東南アジア料理",
+      "果物",
+      "揚げ物",
+      "甘み",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "ごま油",
+      "バター",
+      "オリーブオイル"
+    ],
+    "avoidedBy": [
+      "油っこい料理不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/coconut-oil/1.jpg",
+      "/images/dishes/coconut-oil/2.jpg",
+      "/images/dishes/coconut-oil/3.jpg"
+    ]
+  },
+  {
+    "id": "palm-oil",
+    "name": "パーム油",
+    "kana": "ぱーむゆ",
+    "aliases": [
+      "パームオイル",
+      "デンデ油",
+      "レッドパームオイル"
+    ],
+    "englishName": "Palm oil",
+    "originalName": "azeite de dendê",
+    "category": "食材",
+    "regions": [
+      {
+        "area": "西アフリカ"
+      },
+      {
+        "country": "ブラジル"
+      },
+      {
+        "country": "インドネシア"
+      },
+      {
+        "country": "マレーシア"
+      }
+    ],
+    "summary": "西アフリカ原産のアブラヤシの果肉から取る油。世界でもっとも多く作られている植物油で、精製しないものは鮮やかなオレンジ色と独特の香りを持つ。西アフリカやブラジル・バイーアの料理に欠かせない。",
+    "history": "西アフリカで古くから料理に使われ、奴隷貿易とともにブラジルへ伝わって「デンデ油」としてバイーア料理の象徴になった。19世紀にはイギリスの産業革命で石けんや機械油の原料として大量に輸出された。現在は生産の大半をインドネシアとマレーシアが占め、熱帯林の伐採が問題となっている。",
+    "menuDescription": "未精製のものは赤いオレンジ色で、土やにんじんのような独特の香りがある油。ムケッカやアカラジェ、ジョロフライスなど西アフリカ・ブラジル料理の色と香りを作る。精製したものはくせがなく、即席麺やスナック菓子、マーガリンなどの加工食品に「植物油脂」として広く使われる。",
+    "whatComesOut": [
+      "オレンジ色の油が浮いたムケッカやシチュー",
+      "デンデ油で揚げたアカラジェ",
+      "赤く色づいたジョロフライス"
+    ],
+    "tasteAndTexture": [
+      "未精製は独特の土っぽい香りとコク",
+      "料理を鮮やかなオレンジ色に染める",
+      "常温でやや固まる"
+    ],
+    "orderAdvice": "ブラジル・バイーア料理や西アフリカ料理の色と香りは、この油が決め手。独特の香りなので、初めてなら一皿をシェアして試すとよい。",
+    "similarItems": [
+      {
+        "id": "coconut-oil",
+        "name": "ココナッツオイル",
+        "difference": "ココナッツオイルはココヤシの実の白い油。パーム油はアブラヤシの果肉の赤い油"
+      },
+      {
+        "id": "palm-sugar",
+        "name": "パームシュガー",
+        "difference": "パームシュガーはヤシの樹液から作る砂糖。パーム油とは別のもの"
+      }
+    ],
+    "relatedIds": [
+      "moqueca",
+      "acaraje",
+      "jollof-rice",
+      "groundnut-stew"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Palm_oil",
+      "https://ja.wikipedia.org/wiki/パーム油"
+    ],
+    "tags": [
+      "アフリカ料理",
+      "南米料理",
+      "果物",
+      "揚げ物",
+      "煮込み",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "オリーブオイル",
+      "ごま油",
+      "あっさり"
+    ],
+    "avoidedBy": [
+      "油っこい料理不可"
+    ],
+    "beginnerFriendlyScore": 3,
+    "uniquenessScore": 4,
+    "heavinessScore": 4,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/palm-oil/1.jpg",
+      "/images/dishes/palm-oil/2.jpg",
+      "/images/dishes/palm-oil/3.jpg"
+    ]
+  },
+  {
+    "id": "margarine",
+    "name": "マーガリン",
+    "kana": "まーがりん",
+    "aliases": [
+      "人造バター",
+      "ファットスプレッド"
+    ],
+    "englishName": "Margarine",
+    "originalName": "margarine",
+    "category": "食材",
+    "regions": [
+      {
+        "country": "フランス"
+      }
+    ],
+    "summary": "植物油などを原料に、バターに似せて作った油脂。1869年にフランスでバターの代用品として発明された。パンに塗るほか、製菓や製パンに広く使われる。",
+    "history": "1869年、ナポレオン3世が出したバターの代用品の懸賞に応えて、フランスのメージュ＝ムーリエが牛脂から作ったのが始まり。20世紀に液体の植物油に水素を加えて固める技術が生まれ、植物油が主原料になった。その後、水素添加で生じるトランス脂肪酸が問題視され、製法の見直しが進んだ。",
+    "menuDescription": "植物油に水や乳成分、乳化剤などを加えて練り、バターのような固さと風味に仕上げた油脂。冷蔵庫から出してすぐパンに塗れる。菓子パンや焼き菓子の生地にもよく使われる。",
+    "whatComesOut": [
+      "トーストに塗られた黄色い油脂",
+      "菓子パンやデニッシュの生地",
+      "給食や喫茶店のパンに添えられた小袋"
+    ],
+    "tasteAndTexture": [
+      "バターに似た風味だが軽め",
+      "冷やしてもやわらかく塗りやすい",
+      "コクはバターより控えめ"
+    ],
+    "orderAdvice": "喫茶店やパン屋では、バターかマーガリンかで風味が変わる。こだわる店は「バター使用」と書いていることが多い。",
+    "caution": "乳成分を含む製品もある。",
+    "similarItems": [
+      {
+        "id": "butter",
+        "name": "バター",
+        "difference": "バターは牛乳の脂肪から作る。マーガリンは主に植物油から作る代用品"
+      },
+      {
+        "id": "lard",
+        "name": "ラード",
+        "difference": "ラードは豚の脂そのもの。マーガリンは油を加工して作る"
+      }
+    ],
+    "relatedIds": [
+      "butter",
+      "croissant",
+      "donut",
+      "curry-pan"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Margarine",
+      "https://ja.wikipedia.org/wiki/マーガリン"
+    ],
+    "tags": [
+      "フランス料理",
+      "乳製品",
+      "パン",
+      "こってり"
+    ],
+    "reverseKeywords": [
+      "オリーブオイル",
+      "あっさり",
+      "野菜"
+    ],
+    "avoidedBy": [
+      "油っこい料理不可"
+    ],
+    "beginnerFriendlyScore": 5,
+    "uniquenessScore": 1,
+    "heavinessScore": 3,
+    "spicinessScore": 0,
+    "images": [
+      "/images/dishes/margarine/1.jpg"
+    ]
+  },
+  {
+    "id": "tadka",
+    "name": "タドカ",
+    "kana": "たどか",
+    "aliases": [
+      "タルカ",
+      "チョーンク",
+      "テンパリング（インド料理）",
+      "バガール"
+    ],
+    "englishName": "Tadka",
+    "originalName": "तड़का (tadka)",
+    "category": "調理法",
+    "regions": [
+      {
+        "country": "インド"
+      },
+      {
+        "area": "南アジア"
+      }
+    ],
+    "summary": "熱したギーや油にクミン・マスタードシード・唐辛子・にんにくなどを入れ、香りを油に移す南アジアの調理法。料理の最初に行うことも、仕上げに「ジュッ」と回しかけることもある。",
+    "history": "インド亜大陸全域で古くから使われてきた技法で、地域によってタルカ・チョーンク・バガールなどと呼び名が変わる。北インドではギーやマスタードオイル、南インドではココナッツオイルとカレーリーフ、マスタードシードを使うなど、油とスパイスの組み合わせに地域色が出る。",
+    "menuDescription": "スパイスの香りを移した熱い油を、煮た豆や野菜の料理にかける仕上げの技法。メニューでは「ダル・タドカ」のように料理名に付くこともある。",
+    "whatComesOut": [
+      "スパイスと香ばしい油がのった豆のカレー（ダル）",
+      "表面に浮いたクミンやにんにく",
+      "パチパチと音を立てる熱い油"
+    ],
+    "tasteAndTexture": [
+      "焦がしたクミンやにんにくの香ばしさ",
+      "油に溶け出したスパイスの香り",
+      "唐辛子を入れるとピリッとした辛み"
+    ],
+    "orderAdvice": "「ダル・タドカ」はインド料理店で辛さ控えめに頼みやすい定番。仕上げの香り油で、同じ豆料理でも店ごとに個性が出る。",
+    "similarItems": [
+      {
+        "id": "tempering",
+        "name": "テンパリング",
+        "difference": "テンパリングは製菓でチョコレートの温度を調整する技法も指す。タドカはインド料理のスパイス油"
+      },
+      {
+        "id": "you-po-la-zi",
+        "name": "油溌辣子",
+        "difference": "油溌辣子は熱した油を唐辛子に注ぐ中国の技法で、発想が近い"
+      }
+    ],
+    "relatedIds": [
+      "dal",
+      "ghee",
+      "mustard-seed",
+      "curry-leaf",
+      "mustard-oil",
+      "dal-khichuri",
+      "tempering"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Tadka",
+      "https://ja.wikipedia.org/wiki/タルカ"
+    ],
+    "tags": [
+      "インド料理",
+      "スパイス",
+      "豆類",
+      "炒め物",
+      "香ばしい",
+      "家庭料理"
+    ],
+    "reverseKeywords": [
+      "あっさり",
+      "和食",
+      "生野菜"
+    ],
+    "avoidedBy": [
+      "辛いものが苦手"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 3,
+    "heavinessScore": 3,
+    "spicinessScore": 2,
+    "images": [
+      "/images/dishes/tadka/1.jpg",
+      "/images/dishes/tadka/2.jpg",
+      "/images/dishes/tadka/3.jpg"
+    ]
+  },
+  {
+    "id": "la-you",
+    "name": "ラー油",
+    "kana": "らーゆ",
+    "aliases": [
+      "辣油",
+      "紅油",
+      "チリオイル",
+      "食べるラー油"
+    ],
+    "englishName": "Chili oil",
+    "originalName": "辣油 / 红油",
+    "category": "ソース",
+    "regions": [
+      {
+        "country": "中国"
+      },
+      {
+        "country": "日本"
+      }
+    ],
+    "summary": "唐辛子の辛みと香り、赤い色を油に移した調味油。中国では「紅油」とも呼ばれ、四川料理の和え物や麺、水餃子に欠かせない。日本では餃子のタレに加えるほか、具の多い「食べるラー油」も定着した。",
+    "history": "中国では熱した油を粉唐辛子に注いで作る調味油が各地にあり、四川では料理そのものの味の中心になる。日本では餃子やラーメンの卓上調味料として広まり、2009年に発売された具入りの「食べるラー油」が大ブームとなった。",
+    "menuDescription": "唐辛子や花椒、にんにく、ねぎなどの香りを移した赤い油。四川の口水鶏や担担麺、水餃子のタレに使われ、辛さと香ばしさを加える。",
+    "whatComesOut": [
+      "餃子のタレに浮く赤い油",
+      "担担麺や和え物にかかった赤い油",
+      "唐辛子やにんにくのかけらが沈んだ食べるラー油"
+    ],
+    "tasteAndTexture": [
+      "唐辛子のピリッとした辛み",
+      "焦がした唐辛子やにんにくの香ばしさ",
+      "油のコクとまろやかさ"
+    ],
+    "orderAdvice": "辛さは店や料理によって大きく違う。四川料理店の紅油はかなり辛いこともあるので、苦手なら別添えにしてもらうとよい。",
+    "caution": "ごま油やごまを含むことが多い。",
+    "similarItems": [
+      {
+        "id": "you-po-la-zi",
+        "name": "油溌辣子",
+        "difference": "油溌辣子は陝西の、粉唐辛子に熱い油を注いだ調味料。ラー油はそれをこした油の部分を指すことが多い"
+      },
+      {
+        "id": "hua-jiao-you",
+        "name": "花椒油",
+        "difference": "花椒油はしびれる辛さの花椒の香りを移した油。ラー油は唐辛子の辛みが中心"
+      },
+      {
+        "id": "sesame-oil",
+        "name": "ごま油",
+        "difference": "ごま油は香りづけの油。ラー油は辛みを加える調味油"
+      }
+    ],
+    "relatedIds": [
+      "you-po-la-zi",
+      "hua-jiao-you",
+      "mapo-tofu",
+      "dan-dan-mian",
+      "kou-shui-ji",
+      "abura-soba",
+      "teng-jiao-you"
+    ],
+    "source": [
+      "https://en.wikipedia.org/wiki/Chili_oil",
+      "https://ja.wikipedia.org/wiki/ラー油"
+    ],
+    "tags": [
+      "中国料理",
+      "四川料理",
+      "調味料",
+      "スパイス",
+      "ピリ辛",
+      "香ばしい"
+    ],
+    "reverseKeywords": [
+      "あっさり",
+      "甘み",
+      "クリーミー"
+    ],
+    "avoidedBy": [
+      "辛いものが苦手",
+      "ごま不可"
+    ],
+    "beginnerFriendlyScore": 4,
+    "uniquenessScore": 2,
+    "heavinessScore": 3,
+    "spicinessScore": 3,
+    "images": [
+      "/images/dishes/la-you/1.jpg",
+      "/images/dishes/la-you/2.jpg",
+      "/images/dishes/la-you/3.jpg"
+    ]
   }
 ]
