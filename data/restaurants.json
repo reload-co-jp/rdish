@@ -710,5 +710,139 @@
       "https://oceans.tokyo.jp/article/detail/48466"
     ],
     "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "kunya-ikebukuro",
+    "name": "タイ田舎料理 クンヤー",
+    "kana": "くんやー",
+    "cuisines": ["タイ料理"],
+    "prefecture": "東京都",
+    "area": "豊島区 池袋",
+    "address": "東京都豊島区池袋2-4-1 越路ビル2F",
+    "nearestStation": "池袋駅 C5出口徒歩2分",
+    "description": "タイ東北部イサーン地方出身のスタッフが料理を作るタイ料理店。ガパオやパッタイなどの定番に加え、ラープやナムトック、もち米などイサーンの郷土料理をそろえる。",
+    "dishes": [
+      {
+        "id": "laap",
+        "menuName": "ラープ（ムー／ガイ）"
+      },
+      {
+        "id": "som-tam-thai",
+        "menuName": "ソムタムタイ"
+      },
+      {
+        "id": "nam-tok",
+        "menuName": "ナムトック（ムー／コームー／ヌアー）"
+      },
+      {
+        "id": "gai-yang",
+        "menuName": "ガイヤーン"
+      },
+      {
+        "id": "kho-mu-yang",
+        "menuName": "コームーヤーン"
+      },
+      {
+        "id": "sai-ua",
+        "menuName": "サイウア"
+      },
+      {
+        "id": "thai-suki",
+        "menuName": "タイスキの煮込み"
+      },
+      {
+        "id": "khao-niao",
+        "menuName": "カオニャオ（もち米）"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000814480/",
+      "https://www.hotpepper.jp/strJ000814480/food/"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "baan-kirao-paradise-shinjuku",
+    "name": "バーンキラオパラダイス 新宿三丁目本店",
+    "kana": "ばーんきらおぱらだいす",
+    "cuisines": ["タイ料理"],
+    "prefecture": "東京都",
+    "area": "新宿区 新宿",
+    "address": "東京都新宿区新宿2-15-15 新宿ヤマトビルB1",
+    "nearestStation": "新宿三丁目駅 徒歩1分",
+    "description": "タイ人のコックが在籍するタイ料理店。イサーン料理のほか、タイ北部の麺料理カオソーイもメニューにある。",
+    "dishes": [
+      {
+        "id": "khao-soi",
+        "menuName": "カオソーイ"
+      },
+      {
+        "id": "gai-yang",
+        "menuName": "ガイヤーン"
+      },
+      {
+        "id": "sai-krok-isan",
+        "menuName": "サイクロー＆サイウア"
+      },
+      {
+        "id": "sai-ua",
+        "menuName": "サイウア"
+      },
+      {
+        "id": "laap",
+        "menuName": "ラープガイ"
+      },
+      {
+        "id": "nam-tok",
+        "menuName": "ムーナムトック"
+      },
+      {
+        "id": "som-tam",
+        "menuName": "ソムタム"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000243439/",
+      "https://www.hotpepper.jp/strJ000243439/food/"
+    ],
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "baan-saen-aroi-chin-chin-nishishimbashi",
+    "name": "本格タイ料理 バンセーン アロイチンチン 西新橋店",
+    "kana": "ばんせーん あろいちんちん",
+    "cuisines": ["タイ料理"],
+    "prefecture": "東京都",
+    "area": "港区 西新橋",
+    "address": "東京都港区西新橋2-11-8 内田ビル1F",
+    "description": "タイ人シェフが屋台風のタイ料理を出す店。ソフトシェルクラブを使ったプーパッポンカリーや、タイ北部の麺料理カオソーイもそろえる。",
+    "dishes": [
+      {
+        "id": "poo-pad-pong-curry",
+        "menuName": "プーパッポンカリー",
+        "note": "まるごと食べられるソフトシェルクラブを使用"
+      },
+      {
+        "id": "tom-yum-goong",
+        "menuName": "トムヤムグンスープ"
+      },
+      {
+        "id": "khao-soi",
+        "menuName": "カオソーイ"
+      },
+      {
+        "id": "khao-man-gai",
+        "menuName": "カオマンガイ"
+      },
+      {
+        "id": "laap",
+        "menuName": "ラープムー"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ001036278/",
+      "https://www.hotpepper.jp/strJ001036278/food/"
+    ],
+    "checkedAt": "2026-11-08"
   }
 ]
