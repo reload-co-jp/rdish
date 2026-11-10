@@ -1022,5 +1022,281 @@
       "https://www.ajibo.jp/kanda.html"
     ],
     "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "ajibo-tetsunabeso-yushima",
+    "name": "味坊鉄鍋荘",
+    "kana": "あじぼうてつなべそう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "台東区 湯島",
+    "address": "東京都台東区上野1-12-9",
+    "nearestStation": "東京メトロ湯島駅 徒歩3分",
+    "url": "https://www.ajibo.jp/yushima.html",
+    "description": "テーブルに鉄鍋を埋め込んだ、中国東北地方の郷土料理の店。干し大根とラム肉の醤油炒め煮など、鉄鍋で仕立てる煮込みが名物。前菜と煮込みを選ぶコースでは饅頭と餃子も出る。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "suan-cai-yu",
+        "menuName": "酸菜鱼（白身魚と発酵高菜の煮込み）"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "水煮鱼（白身魚のとうがらし煮込み）"
+      },
+      {
+        "id": "jiaozi",
+        "menuName": "水餃子・蒸餃子",
+        "note": "コースに含まれる"
+      },
+      {
+        "id": "mantou",
+        "menuName": "饅頭",
+        "note": "コースに含まれる"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/yushima.html"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "yanshan-ajibo-okachimachi",
+    "name": "羊香味坊",
+    "kana": "やんしゃんあじぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "台東区 上野",
+    "address": "東京都台東区上野3-12-6",
+    "nearestStation": "JR御徒町駅 南口徒歩3分",
+    "url": "https://www.ajibo.jp/okachimachi.html",
+    "description": "中国東北地方のラム肉料理に特化した店。部位ごとの羊串焼きやラムスペアリブ、クミン炒め、ラム肉の焼き餃子・焼売などが揃う。ワインは冷蔵庫から自分で選ぶスタイル。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "laohu-cai",
+        "menuName": "老虎菜（青唐辛子とパクチーときゅうりのサラダ）"
+      },
+      {
+        "id": "char-siu",
+        "menuName": "釜焼き豚チャーシュー"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/okachimachi.html"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "laojiupu-okachimachi",
+    "name": "老酒舗",
+    "kana": "ろうしゅほ",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "台東区 上野",
+    "address": "東京都台東区上野5-10-12",
+    "nearestStation": "JR御徒町駅 南口徒歩2分",
+    "url": "https://www.ajibo.jp/okachimachi2.html",
+    "description": "JR御徒町駅南口のガード下にある、1980年代までの北京の大衆酒場を再現した店。小皿の老北京料理と紹興酒の飲み放題が名物で、麺点師が手作りする水餃子や肉まん、ドラム缶オーブンで焼く叉焼を出す。朝食営業もある。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "jiaozi",
+        "menuName": "水餃子"
+      },
+      {
+        "id": "baozi",
+        "menuName": "肉まん"
+      },
+      {
+        "id": "char-siu",
+        "menuName": "叉焼",
+        "note": "自家製ドラム缶オーブンで焼く"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/okachimachi2.html"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "xianglali-sangenjaya",
+    "name": "香辣里",
+    "kana": "しゃんらーりー",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "世田谷区 三軒茶屋",
+    "address": "東京都世田谷区太子堂4-23-11 GEMS三軒茶屋 7F",
+    "nearestStation": "東急田園都市線 三軒茶屋駅 徒歩3分",
+    "url": "https://www.ajibo.jp/xianglali.html",
+    "description": "中国湖南省の料理の店。唐辛子の辛さに加え、発酵食品・燻製肉・香り野菜を多用する湖南料理を、自然派ワインとともに出す。燻製肉や臭豆腐は自家製。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "duo-jiao-yu-tou",
+        "menuName": "剁椒魚頭（鯛の頭の発酵唐辛子蒸し）"
+      },
+      {
+        "id": "mao-shi-hong-shao-rou",
+        "menuName": "毛氏红烧肉（湖南風豚の角煮）"
+      },
+      {
+        "id": "la-jiao-chao-rou",
+        "menuName": "辣椒炒肉（湖南名物“豚ピー”炒め）"
+      },
+      {
+        "id": "la-wei-he-zheng",
+        "menuName": "腊味合蒸（燻製三種〜豚バラ・豚舌・ボラ）"
+      },
+      {
+        "id": "chou-doufu",
+        "menuName": "香辣里臭豆腐（名物発酵豆腐）"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/xianglali.html"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "houmi-hachiman-yoyogihachiman",
+    "name": "宝味八萬",
+    "kana": "ほうみはちまん",
+    "cuisines": [
+      "中国料理",
+      "広東料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 富ヶ谷",
+    "address": "東京都渋谷区富ヶ谷1-53-4 リコービル1F",
+    "nearestStation": "小田急線 代々木八幡駅 徒歩1分",
+    "url": "https://www.ajibo.jp/yoyogihachiman.html",
+    "description": "代々木八幡駅前の広東点心の店。焼売・蒸し餃子・小籠包・腸粉などの点心と、焼味（ロースト料理）を出す。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "xiaolongbao",
+        "menuName": "小籠包"
+      },
+      {
+        "id": "har-gow",
+        "menuName": "蒸し餃子"
+      },
+      {
+        "id": "cheung-fun",
+        "menuName": "腸粉"
+      },
+      {
+        "id": "chimaki",
+        "menuName": "蓮の葉に包んだちまき"
+      },
+      {
+        "id": "spring-roll",
+        "menuName": "春巻き",
+        "note": "ランチ"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/yoyogihachiman.html",
+      "https://forbesjapan.com/articles/detail/43960",
+      "https://ssl.tabelog.com/en/tokyo/A1318/A131810/13263235/"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "xiangfu-ajibo-akihabara",
+    "name": "香福味坊",
+    "kana": "しゃんふーあじぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 神田佐久間町",
+    "address": "東京都千代田区神田佐久間町1-21 Chiyoda Terrace",
+    "nearestStation": "JR秋葉原駅 昭和通り口徒歩1分",
+    "url": "https://www.ajibo.jp/akihabara.html",
+    "description": "味坊グループの各店の要素を集めた秋葉原の大型店。朝から深夜まで営業し、中国式朝食から羊の丸焼き（全烤羊）を囲む宴会まで対応する。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "kou-shui-ji",
+        "menuName": "よだれ鶏"
+      },
+      {
+        "id": "har-gow",
+        "menuName": "えび蒸し餃子"
+      },
+      {
+        "id": "spring-roll",
+        "menuName": "海鮮入り春巻"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/akihabara.html",
+      "https://macaro-ni.jp/111276",
+      "https://oggi.jp/6841639"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "zhenglong-ajibo-yoyogiuehara",
+    "name": "蒸籠味坊",
+    "kana": "じょうりゅうあじぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 西原",
+    "address": "東京都渋谷区西原3-8-5 アコルデ代々木上原2F",
+    "nearestStation": "代々木上原駅 直結",
+    "url": "https://www.ajibo.jp/yoyogiuehara.html",
+    "description": "中国式の蒸し料理を専門にする店。地域を問わず「蒸す」料理に絞り、魚の醤油蒸しなどを出す。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "qing-zheng-yu",
+        "menuName": "豉油皇蒸魚"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/yoyogiuehara.html",
+      "https://oggi.jp/6841639"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "shokan-ajibo-ningyocho",
+    "name": "商館味坊",
+    "kana": "しょうかんあじぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "中央区 人形町",
+    "address": "東京都中央区日本橋人形町1-19 エムズクロス人形町 4F",
+    "nearestStation": "人形町駅 A5・A6出口徒歩1分",
+    "url": "https://www.ajibo.jp/ningyocho.html",
+    "description": "旬の食材を使った水餃子と羊肉串の店。ラム肉や豚肉に季節の野菜を合わせた厚手皮の水餃子を数種揃え、羊肉串はさまざまな部位を出す。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "jiaozi",
+        "menuName": "水餃子",
+        "note": "ラム肉・豚肉と季節の野菜の組み合わせ数種"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/ningyocho.html",
+      "https://baila.hpplus.jp/lifestyle/recipegourmet/64449"
+    ],
+    "checkedAt": "2026-11-10"
   }
 ]
