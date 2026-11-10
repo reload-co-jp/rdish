@@ -980,5 +980,47 @@
       "https://www.hotpepper.jp/strJ003411215/food/"
     ],
     "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "ajibo-kanda",
+    "name": "味坊",
+    "kana": "あじぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 神田",
+    "address": "東京都千代田区鍛冶町2-11-20",
+    "nearestStation": "JR神田駅 北口徒歩3分",
+    "url": "https://www.ajibo.jp/kanda.html",
+    "description": "神田駅東口のガード下にある、中国東北地方の家庭料理の店。羊肉串や羊肉の水餃子、クミン炒めなどラム肉料理が多く、炭火の火鍋や手打ち麺も出す。都内に系列店を展開する「味坊」グループの1号店。",
+    "dishes": [
+      {
+        "id": "jiaozi",
+        "menuName": "ラム肉の水餃子"
+      },
+      {
+        "id": "laohu-cai",
+        "menuName": "青唐辛子・胡瓜・香菜のサラダ"
+      },
+      {
+        "id": "shanghai-chao-mian",
+        "menuName": "上海風焼きそば"
+      },
+      {
+        "id": "wonton",
+        "menuName": "ワンタンスープ"
+      },
+      {
+        "id": "chahan",
+        "menuName": "チャーハン",
+        "note": "山椒辛・高菜などもあり"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/kanda.html"
+    ],
+    "checkedAt": "2026-11-10"
   }
 ]
