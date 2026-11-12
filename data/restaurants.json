@@ -684,6 +684,7 @@
     "area": "世田谷区 三軒茶屋",
     "address": "東京都世田谷区太子堂4-23-11 GEMS三軒茶屋7階",
     "nearestStation": "三軒茶屋駅 徒歩3分",
+    "url": "https://www.ajibo.jp/xianglali.html",
     "description": "湖南料理の専門店。小米辣（唐辛子）の辛さに、発酵・燻製・ハーブを使った料理が特徴で、自然派ワインをそろえる。",
     "dishes": [
       {
@@ -702,14 +703,20 @@
       {
         "id": "la-jiao-chao-rou",
         "menuName": "辣椒炒肉（湖南名物“豚ピー”炒め）"
+      },
+      {
+        "id": "la-wei-he-zheng",
+        "menuName": "腊味合蒸（燻製三種〜豚バラ・豚舌・ボラ）"
       }
     ],
     "sources": [
       "https://www.hotpepper.jp/strJ001281409/",
       "https://www.hotpepper.jp/strJ001281409/food/",
-      "https://oceans.tokyo.jp/article/detail/48466"
+      "https://oceans.tokyo.jp/article/detail/48466",
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/xianglali.html"
     ],
-    "checkedAt": "2026-11-08"
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "kunya-ikebukuro",
@@ -980,5 +987,1136 @@
       "https://www.hotpepper.jp/strJ003411215/food/"
     ],
     "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "ajibo-kanda",
+    "name": "味坊",
+    "kana": "あじぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 神田",
+    "address": "東京都千代田区鍛冶町2-11-20",
+    "nearestStation": "JR神田駅 北口徒歩3分",
+    "url": "https://www.ajibo.jp/kanda.html",
+    "description": "神田駅東口のガード下にある、中国東北地方の家庭料理の店。羊肉串や羊肉の水餃子、クミン炒めなどラム肉料理が多く、炭火の火鍋や手打ち麺も出す。都内に系列店を展開する「味坊」グループの1号店。",
+    "dishes": [
+      {
+        "id": "jiaozi",
+        "menuName": "ラム肉の水餃子"
+      },
+      {
+        "id": "laohu-cai",
+        "menuName": "青唐辛子・胡瓜・香菜のサラダ"
+      },
+      {
+        "id": "shanghai-chao-mian",
+        "menuName": "上海風焼きそば"
+      },
+      {
+        "id": "wonton",
+        "menuName": "ワンタンスープ"
+      },
+      {
+        "id": "chahan",
+        "menuName": "チャーハン",
+        "note": "山椒辛・高菜などもあり"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/kanda.html"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "ajibo-tetsunabeso-yushima",
+    "name": "味坊鉄鍋荘",
+    "kana": "あじぼうてつなべそう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "台東区 湯島",
+    "address": "東京都台東区上野1-12-9",
+    "nearestStation": "東京メトロ湯島駅 徒歩3分",
+    "url": "https://www.ajibo.jp/yushima.html",
+    "description": "テーブルに鉄鍋を埋め込んだ、中国東北地方の郷土料理の店。干し大根とラム肉の醤油炒め煮など、鉄鍋で仕立てる煮込みが名物。前菜と煮込みを選ぶコースでは饅頭と餃子も出る。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "suan-cai-yu",
+        "menuName": "酸菜鱼（白身魚と発酵高菜の煮込み）"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "水煮鱼（白身魚のとうがらし煮込み）"
+      },
+      {
+        "id": "jiaozi",
+        "menuName": "水餃子・蒸餃子",
+        "note": "コースに含まれる"
+      },
+      {
+        "id": "mantou",
+        "menuName": "饅頭",
+        "note": "コースに含まれる"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/yushima.html"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "yanshan-ajibo-okachimachi",
+    "name": "羊香味坊",
+    "kana": "やんしゃんあじぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "台東区 上野",
+    "address": "東京都台東区上野3-12-6",
+    "nearestStation": "JR御徒町駅 南口徒歩3分",
+    "url": "https://www.ajibo.jp/okachimachi.html",
+    "description": "中国東北地方のラム肉料理に特化した店。部位ごとの羊串焼きやラムスペアリブ、クミン炒め、ラム肉の焼き餃子・焼売などが揃う。ワインは冷蔵庫から自分で選ぶスタイル。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "laohu-cai",
+        "menuName": "老虎菜（青唐辛子とパクチーときゅうりのサラダ）"
+      },
+      {
+        "id": "char-siu",
+        "menuName": "釜焼き豚チャーシュー"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/okachimachi.html"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "laojiupu-okachimachi",
+    "name": "老酒舗",
+    "kana": "ろうしゅほ",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "台東区 上野",
+    "address": "東京都台東区上野5-10-12",
+    "nearestStation": "JR御徒町駅 南口徒歩2分",
+    "url": "https://www.ajibo.jp/okachimachi2.html",
+    "description": "JR御徒町駅南口のガード下にある、1980年代までの北京の大衆酒場を再現した店。小皿の老北京料理と紹興酒の飲み放題が名物で、麺点師が手作りする水餃子や肉まん、ドラム缶オーブンで焼く叉焼を出す。朝食営業もある。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "jiaozi",
+        "menuName": "水餃子"
+      },
+      {
+        "id": "baozi",
+        "menuName": "肉まん"
+      },
+      {
+        "id": "char-siu",
+        "menuName": "叉焼",
+        "note": "自家製ドラム缶オーブンで焼く"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/okachimachi2.html"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "houmi-hachiman-yoyogihachiman",
+    "name": "宝味八萬",
+    "kana": "ほうみはちまん",
+    "cuisines": [
+      "中国料理",
+      "広東料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 富ヶ谷",
+    "address": "東京都渋谷区富ヶ谷1-53-4 リコービル1F",
+    "nearestStation": "小田急線 代々木八幡駅 徒歩1分",
+    "url": "https://www.ajibo.jp/yoyogihachiman.html",
+    "description": "代々木八幡駅前の広東点心の店。焼売・蒸し餃子・小籠包・腸粉などの点心と、焼味（ロースト料理）を出す。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "xiaolongbao",
+        "menuName": "小籠包"
+      },
+      {
+        "id": "har-gow",
+        "menuName": "蒸し餃子"
+      },
+      {
+        "id": "cheung-fun",
+        "menuName": "腸粉"
+      },
+      {
+        "id": "chimaki",
+        "menuName": "蓮の葉に包んだちまき"
+      },
+      {
+        "id": "spring-roll",
+        "menuName": "春巻き",
+        "note": "ランチ"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/yoyogihachiman.html",
+      "https://forbesjapan.com/articles/detail/43960",
+      "https://ssl.tabelog.com/en/tokyo/A1318/A131810/13263235/"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "xiangfu-ajibo-akihabara",
+    "name": "香福味坊",
+    "kana": "しゃんふーあじぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 神田佐久間町",
+    "address": "東京都千代田区神田佐久間町1-21 Chiyoda Terrace",
+    "nearestStation": "JR秋葉原駅 昭和通り口徒歩1分",
+    "url": "https://www.ajibo.jp/akihabara.html",
+    "description": "味坊グループの各店の要素を集めた秋葉原の大型店。朝から深夜まで営業し、中国式朝食から羊の丸焼き（全烤羊）を囲む宴会まで対応する。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "kou-shui-ji",
+        "menuName": "よだれ鶏"
+      },
+      {
+        "id": "har-gow",
+        "menuName": "えび蒸し餃子"
+      },
+      {
+        "id": "spring-roll",
+        "menuName": "海鮮入り春巻"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/akihabara.html",
+      "https://macaro-ni.jp/111276",
+      "https://oggi.jp/6841639"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "zhenglong-ajibo-yoyogiuehara",
+    "name": "蒸籠味坊",
+    "kana": "じょうりゅうあじぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 西原",
+    "address": "東京都渋谷区西原3-8-5 アコルデ代々木上原2F",
+    "nearestStation": "代々木上原駅 直結",
+    "url": "https://www.ajibo.jp/yoyogiuehara.html",
+    "description": "中国式の蒸し料理を専門にする店。地域を問わず「蒸す」料理に絞り、魚の醤油蒸しなどを出す。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "qing-zheng-yu",
+        "menuName": "豉油皇蒸魚"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/yoyogiuehara.html",
+      "https://oggi.jp/6841639"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "shokan-ajibo-ningyocho",
+    "name": "商館味坊",
+    "kana": "しょうかんあじぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "中央区 人形町",
+    "address": "東京都中央区日本橋人形町1-19 エムズクロス人形町 4F",
+    "nearestStation": "人形町駅 A5・A6出口徒歩1分",
+    "url": "https://www.ajibo.jp/ningyocho.html",
+    "description": "旬の食材を使った水餃子と羊肉串の店。ラム肉や豚肉に季節の野菜を合わせた厚手皮の水餃子を数種揃え、羊肉串はさまざまな部位を出す。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "jiaozi",
+        "menuName": "水餃子",
+        "note": "ラム肉・豚肉と季節の野菜の組み合わせ数種"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/ningyocho.html",
+      "https://baila.hpplus.jp/lifestyle/recipegourmet/64449"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "chinkashisai-akasaka",
+    "name": "陳家私菜 赤坂1号店 湧の台所",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "港区 赤坂",
+    "address": "東京都港区赤坂3-19-8 赤坂ウエストビル B1F",
+    "nearestStation": "赤坂見附駅・赤坂駅 徒歩3分",
+    "url": "https://chin-z.com/%e8%b5%a4%e5%9d%82%e4%b8%80%e5%8f%b7%e5%ba%97%e3%80%80%e6%b9%a7%e3%81%ae%e5%8f%b0%e6%89%80/",
+    "description": "四川料理の店「陳家私菜」の1号店。50席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/%e8%b5%a4%e5%9d%82%e4%b8%80%e5%8f%b7%e5%ba%97%e3%80%80%e6%b9%a7%e3%81%ae%e5%8f%b0%e6%89%80/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-gotanda",
+    "name": "陳家私菜 五反田店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "品川区 西五反田",
+    "address": "東京都品川区西五反田2-26-2 桔梗ハイツ2F",
+    "nearestStation": "JR五反田駅 西口徒歩3分",
+    "url": "https://chin-z.com/%e4%ba%94%e5%8f%8d%e7%94%b0%e5%ba%97/",
+    "description": "四川料理の店「陳家私菜」の五反田店。75席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/%e4%ba%94%e5%8f%8d%e7%94%b0%e5%ba%97/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-akihabara",
+    "name": "陳家私菜 秋葉原店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 神田和泉町",
+    "address": "東京都千代田区神田和泉町1-1-12 ミツバビル B1",
+    "nearestStation": "JR秋葉原駅 昭和通り口徒歩2分",
+    "url": "https://chin-z.com/%e7%a7%8b%e8%91%89%e5%8e%9f%e5%ba%97/",
+    "description": "四川料理の店「陳家私菜」の秋葉原店。80席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/%e7%a7%8b%e8%91%89%e5%8e%9f%e5%ba%97/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-shinjuku",
+    "name": "陳家私菜 新宿店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 代々木",
+    "address": "東京都渋谷区代々木2-15-9 加瀬ビル 1F",
+    "nearestStation": "JR新宿駅 南口徒歩6分",
+    "url": "https://chin-z.com/%e6%96%b0%e5%ae%bf%e5%ba%97/",
+    "description": "四川料理の店「陳家私菜」の新宿店。85席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/%e6%96%b0%e5%ae%bf%e5%ba%97/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-shibuya",
+    "name": "陳家私菜 渋谷店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 神南",
+    "address": "東京都渋谷区神南1-16-3 ブルー ヴァール ビル B1",
+    "nearestStation": "渋谷駅 13番出口徒歩3〜5分",
+    "url": "https://chin-z.com/%e6%b8%8b%e8%b0%b7%e5%ba%97/",
+    "description": "四川料理の店「陳家私菜」の渋谷店。200席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/%e6%b8%8b%e8%b0%b7%e5%ba%97/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-ginza",
+    "name": "陳家私菜 銀座店（日比谷グルメゾン）",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 内幸町",
+    "address": "東京都千代田区内幸町1-7-24 日比谷グルメゾン",
+    "nearestStation": "銀座駅C1出口・日比谷駅A13出口 徒歩約5分",
+    "url": "https://chin-z.com/ginza/",
+    "description": "四川料理の店「陳家私菜」の銀座店。大きなオープンキッチンを備えた158席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/ginza/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-marunouchi",
+    "name": "陳家私菜 丸の内店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内3-7-10 鍛冶橋高架下1階",
+    "nearestStation": "東京駅 京葉地下2番出口徒歩1分",
+    "url": "https://chin-z.com/marunouchi/",
+    "description": "四川料理の店「陳家私菜」の丸の内店（旧有楽町店）。170席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/marunouchi/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-shinbashi",
+    "name": "陳家私菜 新橋店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 内幸町",
+    "address": "東京都千代田区内幸町2-2-3 日比谷国際ビル B2",
+    "nearestStation": "内幸町駅 A6出口徒歩1分",
+    "url": "https://chin-z.com/shinbashi/",
+    "description": "四川料理の店「陳家私菜」の新橋店。185席。土日祝休み。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/shinbashi/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "ikebukuro-yang-2",
+    "name": "中国家庭料理 楊 2号店",
+    "kana": "ちゅうごくかていりょうり やん",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "豊島区 池袋",
+    "address": "東京都豊島区西池袋3-25-5",
+    "nearestStation": "池袋駅 西口徒歩3分",
+    "description": "池袋西口の四川家庭料理店。混ぜると真っ赤になる汁なし担々麺が看板で、皮から手作りする大ぶりの焼餃子・水餃子も人気。カウンターを含む26席。",
+    "dishes": [
+      {
+        "id": "dan-dan-mian",
+        "menuName": "汁なし担々麺"
+      },
+      {
+        "id": "jiaozi",
+        "menuName": "手作り水餃子"
+      }
+    ],
+    "sources": [
+      "https://s.tabelog.com/smartphone/matome/31564/",
+      "https://www.hotpepper.jp/strJ000234198/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "shikiko-ikebukuro",
+    "name": "四季香 池袋北口本館",
+    "kana": "しきこう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "豊島区 池袋",
+    "address": "東京都豊島区西池袋1-43-3 日精ビル1F",
+    "nearestStation": "池袋駅 北口徒歩4分",
+    "description": "池袋北口の中国東北・延辺料理の店。中国本国の特級厨師がオープンキッチンで調理し、クミンを効かせた串焼きや四川風の鍋、冷菜を出す。中華圏の客で賑わう大箱で、個室もある。",
+    "dishes": [
+      {
+        "id": "kou-shui-ji",
+        "menuName": "蒸し鶏の四川風タレかけ"
+      }
+    ],
+    "sources": [
+      "https://s.tabelog.com/smartphone/matome/31564/",
+      "https://r.gnavi.co.jp/py2n6axx0000/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "hitsujikizoku-ikebukuro",
+    "name": "羊貴族 池袋北口店",
+    "kana": "ひつじきぞく",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "豊島区 池袋",
+    "address": "東京都豊島区西池袋1-43-9 アミューズ池袋ビル B1",
+    "nearestStation": "池袋駅 北口徒歩2分",
+    "description": "四季香の姉妹店で、炭火の羊肉料理に特化した店。名物は羊の足の丸焼きで、グリル席で焼いて目の前で切り分ける。東北・延辺・四川の料理も揃い、深夜まで営業する。",
+    "dishes": [
+      {
+        "id": "qing-jiao-rou-si",
+        "menuName": "青椒肉絲"
+      },
+      {
+        "id": "jiaozi",
+        "menuName": "水餃子"
+      }
+    ],
+    "sources": [
+      "https://s.tabelog.com/smartphone/matome/31564/",
+      "https://r.gnavi.co.jp/p847800/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "jufukuro-ikebukuro",
+    "name": "聚福楼",
+    "kana": "じゅふくろう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "豊島区 池袋",
+    "address": "東京都豊島区西池袋1-37-16 大雄ビル 4F",
+    "nearestStation": "池袋駅 西口徒歩2分",
+    "description": "炭火で焼く羊の背中焼きや足焼き、兎の丸焼きで知られる中国料理店。焼いた肉にはスパイスの「赤い粉」をかけて食べる。飲み放題付きのコースは品数が多く、大人数の宴会に向く。",
+    "dishes": [
+      {
+        "id": "pidan",
+        "menuName": "ピータン"
+      },
+      {
+        "id": "gan-shao-xia-ren",
+        "menuName": "エビチリ"
+      }
+    ],
+    "sources": [
+      "https://s.tabelog.com/smartphone/matome/31564/",
+      "https://aumo.jp/articles/47277"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "mazilu-jimbocho",
+    "name": "馬子禄 牛肉面 神保町店",
+    "kana": "まーずるー",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 神保町",
+    "address": "東京都千代田区神田神保町1-3-18",
+    "nearestStation": "神保町駅 A7出口徒歩3分",
+    "url": "https://lanzhou-lamian.com/",
+    "description": "中国甘粛省蘭州の老舗「馬子禄」の味を受け継ぐ蘭州牛肉麺の専門店。30種類以上の薬膳スパイスで煮込んだ澄んだ牛骨スープに、注文ごとに手で延ばす麺を合わせ、麺の太さは9種類から選べる。日本アジアハラール協会のハラール認証を取得。2017年開業の1号店。",
+    "dishes": [
+      {
+        "id": "lanzhou-beef-noodles",
+        "menuName": "蘭州牛肉麺",
+        "note": "麺の太さを9種類から選べる"
+      }
+    ],
+    "sources": [
+      "https://lanzhou-lamian.com/shop/",
+      "https://visit-chiyoda.tokyo/app/spot/detail/775"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "mazilu-shinjuku",
+    "name": "馬子禄 牛肉面 新宿店",
+    "kana": "まーずるー",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 歌舞伎町",
+    "address": "東京都新宿区歌舞伎町2-1-2 Hanrokuビル1F",
+    "nearestStation": "東新宿駅 E1出口徒歩1分",
+    "url": "https://lanzhou-lamian.com/",
+    "description": "中国甘粛省蘭州の老舗「馬子禄」の味を受け継ぐ蘭州牛肉麺の専門店。30種類以上の薬膳スパイスで煮込んだ澄んだ牛骨スープに、注文ごとに手で延ばす麺を合わせ、麺の太さは9種類から選べる。日本アジアハラール協会のハラール認証を取得。神保町店の2号店。",
+    "dishes": [
+      {
+        "id": "lanzhou-beef-noodles",
+        "menuName": "蘭州牛肉麺",
+        "note": "麺の太さを9種類から選べる"
+      }
+    ],
+    "sources": [
+      "https://lanzhou-lamian.com/shop/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "nikkyoen-shokusai-unnan-yotsuya",
+    "name": "日興苑 食彩雲南 過橋米線",
+    "kana": "にっきょうえん しょくさいうんなん かきょうべいせん",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 四谷",
+    "address": "東京都新宿区四谷3-3 エスパスコンセール1F",
+    "nearestStation": "東京メトロ丸ノ内線 四谷三丁目駅 徒歩2分",
+    "description": "中国雲南省の料理の店。自家製の米粉麺を使う過橋米線が看板で、雲南の伝統料理である汽鍋や小皿料理も出す。",
+    "dishes": [
+      {
+        "id": "guo-qiao-mi-xian",
+        "menuName": "過橋米線",
+        "note": "自家製米粉麺"
+      }
+    ],
+    "sources": [
+      "https://r.gnavi.co.jp/gg51300/",
+      "https://autoreserve.com/en/restaurants/LrNewhM1Spj3DQMEK8Do"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "tamjai-samgor-shinjuku",
+    "name": "譚仔三哥 新宿中央通り店",
+    "kana": "たむじゃいさむごー",
+    "cuisines": [
+      "中国料理",
+      "広東料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 新宿",
+    "address": "東京都新宿区新宿3-28-16",
+    "nearestStation": "JR新宿駅 東口徒歩1分",
+    "description": "香港の米線チェーン「譚仔三哥（タムジャイサムゴー）」の日本1号店。スープは麻辣など6種類、辛さは10段階、トッピングは25種類以上から選んで自分好みの米線を組み立てる。",
+    "dishes": [
+      {
+        "id": "tamjai-mixian",
+        "menuName": "米線",
+        "note": "スープ6種・辛さ10段階から選択"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/tam-jai-sangor-mixian-shinjuku",
+      "https://prtimes.jp/main/html/rd/p/000000051.000099695.html"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "yoshu-shonin-meguro",
+    "name": "中国ラーメン 揚州商人 目黒本店",
+    "kana": "ようしゅうしょうにん",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "目黒区 目黒",
+    "address": "東京都目黒区目黒1-6-16 明洞ビル1F",
+    "url": "https://www.yousyusyonin.com/",
+    "description": "首都圏に展開する中国ラーメンチェーン「揚州商人」の1号店（1990年開業）。2000年発売のスーラータンメンが看板で、麺は細麺・中太麺・極太麺などから選べる。揚州炒飯や小籠包、四川回鍋肉などの一品料理も揃う。",
+    "dishes": [
+      {
+        "id": "suan-la-tang-mian",
+        "menuName": "スーラータンメン"
+      },
+      {
+        "id": "yangzhou-chao-fan",
+        "menuName": "揚州炒飯"
+      },
+      {
+        "id": "hui-guo-rou",
+        "menuName": "四川回鍋肉"
+      }
+    ],
+    "sources": [
+      "https://www.yousyusyonin.com/menu/",
+      "https://shop.yousyusyonin.com/stores?prefecture=13",
+      "https://forbesjapan.com/articles/detail/97339"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "sichuan-douhua-tokyo",
+    "name": "四川豆花飯荘 東京店",
+    "kana": "しせんとうふぁはんそう",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内1-5-1 新丸の内ビルディング6F",
+    "nearestStation": "東京駅 徒歩3分",
+    "description": "シンガポールに本店を置く四川料理店の東京店。麻婆豆腐やよだれ鶏など麻辣・花椒を効かせた料理に加え、辛くない料理も揃える。料理に合わせて出す八宝茶を、茶藝師が長い注ぎ口の急須で注ぐ演出が名物。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "四川麻婆豆腐"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "重慶よだれ鶏"
+      },
+      {
+        "id": "qing-zheng-yu",
+        "menuName": "真鯛の蒸し物 ～広東風ソース～",
+        "note": "コース料理の一品"
+      }
+    ],
+    "sources": [
+      "https://restaurant.ikyu.com/100548/",
+      "https://restaurant.ikyu.com/100548/plan12805917",
+      "https://www.timeout.jp/tokyo/ja/レストラン/四川豆花飯荘-東京店",
+      "https://rurubu.jp/andmore/article/3792"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "haidilao-ikebukuro",
+    "name": "海底撈火鍋 池袋店",
+    "kana": "かいていろうひなべ",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "豊島区 南池袋",
+    "address": "東京都豊島区南池袋1-21-2 ヒューマックスパビリオン南池袋5F・6F",
+    "nearestStation": "JR池袋駅 東口徒歩2分",
+    "description": "中国・四川発祥の火鍋チェーン「海底撈」の池袋店。麻辣や白湯などのスープを選び、20種類以上のタレや薬味を並べたセルフバーで自分好みのつけダレを作る。麺を伸ばすパフォーマンスや変面ショーもあり、翌朝まで営業する。",
+    "dishes": [
+      {
+        "id": "huo-guo",
+        "menuName": "火鍋",
+        "note": "麻辣・白湯などのスープから選ぶ"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ001160858/",
+      "https://www.hotpepper.jp/strJ001160858/map/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "konan-jinka-yokohama",
+    "name": "湖南人家",
+    "kana": "こなんじんか",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "神奈川県",
+    "area": "横浜市中区 山下町（横浜中華街）",
+    "address": "神奈川県横浜市中区山下町147 香港路",
+    "nearestStation": "元町・中華街駅 2出口徒歩5分",
+    "url": "https://konanjinka.owst.jp/",
+    "description": "横浜中華街では数少ない湖南料理の店。湖南省出身の夫妻が2022年に開いた。酸味と辛味を効かせた湖南料理が中心で、自家製の干し肉「ラーロウ」を使った炒め鍋や、毛沢東が好んだという豚の角煮、唐辛子をのせて蒸す魚頭が名物。",
+    "dishes": [
+      {
+        "id": "la-rou-chao-sun",
+        "menuName": "湖南名物のラーロウと竹の子の炒め鍋"
+      },
+      {
+        "id": "mao-shi-hong-shao-rou",
+        "menuName": "毛沢東が好んだ豚角煮"
+      },
+      {
+        "id": "duo-jiao-yu-tou",
+        "menuName": "双椒蒸魚頭",
+        "note": "2色の唐辛子をのせて蒸す"
+      },
+      {
+        "id": "suan-la-tang",
+        "menuName": "酸辣湯"
+      }
+    ],
+    "sources": [
+      "https://konanjinka.owst.jp/",
+      "https://serai.jp/gourmet/1218728",
+      "https://www.welcome.city.yokohama.jp/gourmet/chinatown/page_03.php"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "amoy-kitchen-kamata",
+    "name": "厦門厨房",
+    "kana": "あもいちゅうぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "大田区 西蒲田",
+    "address": "東京都大田区西蒲田7-27-6 裕大ビル1F",
+    "nearestStation": "JR蒲田駅 西口徒歩1分",
+    "description": "2003年開業の、福建省厦門（アモイ）の料理を出す店。牡蠣のオムレツ「海蠣煎蛋」や、発酵させた筍の漬物で味を決める汁焼きそば「福建焖麺」など、福建の郷土料理がある。深夜まで営業する。",
+    "dishes": [
+      {
+        "id": "o-a-chian",
+        "menuName": "海蠣煎蛋（牡蠣のオムレツ）"
+      },
+      {
+        "id": "men-mian",
+        "menuName": "福建焖麺"
+      }
+    ],
+    "sources": [
+      "https://serai.jp/gourmet/1218886",
+      "https://gurunavi.com/en/g928000/rst"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "silkroad-tarim-nishishinjuku",
+    "name": "シルクロード・タリム",
+    "kana": "しるくろーど・たりむ",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 西新宿",
+    "address": "東京都新宿区西新宿3-15-8 西新宿パールビル103",
+    "nearestStation": "京王新線 初台駅 徒歩4分",
+    "description": "2010年開業の新疆ウイグル料理店。トルファン出身の料理長が、手延べ麺のラグメンやウイグル風ピラフ（ポロ）、羊肉の串焼きなど、羊肉とスパイスを使った料理を出す。",
+    "dishes": [
+      {
+        "id": "shish-kawap",
+        "menuName": "羊肉の串焼き"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000839180/",
+      "https://serai.jp/gourmet/1208456",
+      "https://forbesjapan.com/articles/detail/77725"
+    ],
+    "checkedAt": "2026-11-12"
   }
 ]
