@@ -1682,5 +1682,114 @@
       "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
     ],
     "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "ikebukuro-yang-2",
+    "name": "中国家庭料理 楊 2号店",
+    "kana": "ちゅうごくかていりょうり やん",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "豊島区 池袋",
+    "address": "東京都豊島区西池袋3-25-5",
+    "nearestStation": "池袋駅 西口徒歩3分",
+    "description": "池袋西口の四川家庭料理店。混ぜると真っ赤になる汁なし担々麺が看板で、皮から手作りする大ぶりの焼餃子・水餃子も人気。カウンターを含む26席。",
+    "dishes": [
+      {
+        "id": "dan-dan-mian",
+        "menuName": "汁なし担々麺"
+      },
+      {
+        "id": "jiaozi",
+        "menuName": "手作り水餃子"
+      }
+    ],
+    "sources": [
+      "https://s.tabelog.com/smartphone/matome/31564/",
+      "https://www.hotpepper.jp/strJ000234198/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "shikiko-ikebukuro",
+    "name": "四季香 池袋北口本館",
+    "kana": "しきこう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "豊島区 池袋",
+    "address": "東京都豊島区西池袋1-43-3 日精ビル1F",
+    "nearestStation": "池袋駅 北口徒歩4分",
+    "description": "池袋北口の中国東北・延辺料理の店。中国本国の特級厨師がオープンキッチンで調理し、クミンを効かせた串焼きや四川風の鍋、冷菜を出す。中華圏の客で賑わう大箱で、個室もある。",
+    "dishes": [
+      {
+        "id": "kou-shui-ji",
+        "menuName": "蒸し鶏の四川風タレかけ"
+      }
+    ],
+    "sources": [
+      "https://s.tabelog.com/smartphone/matome/31564/",
+      "https://r.gnavi.co.jp/py2n6axx0000/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "hitsujikizoku-ikebukuro",
+    "name": "羊貴族 池袋北口店",
+    "kana": "ひつじきぞく",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "豊島区 池袋",
+    "address": "東京都豊島区西池袋1-43-9 アミューズ池袋ビル B1",
+    "nearestStation": "池袋駅 北口徒歩2分",
+    "description": "四季香の姉妹店で、炭火の羊肉料理に特化した店。名物は羊の足の丸焼きで、グリル席で焼いて目の前で切り分ける。東北・延辺・四川の料理も揃い、深夜まで営業する。",
+    "dishes": [
+      {
+        "id": "qing-jiao-rou-si",
+        "menuName": "青椒肉絲"
+      },
+      {
+        "id": "jiaozi",
+        "menuName": "水餃子"
+      }
+    ],
+    "sources": [
+      "https://s.tabelog.com/smartphone/matome/31564/",
+      "https://r.gnavi.co.jp/p847800/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "jufukuro-ikebukuro",
+    "name": "聚福楼",
+    "kana": "じゅふくろう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "豊島区 池袋",
+    "address": "東京都豊島区西池袋1-37-16 大雄ビル 4F",
+    "nearestStation": "池袋駅 西口徒歩2分",
+    "description": "炭火で焼く羊の背中焼きや足焼き、兎の丸焼きで知られる中国料理店。焼いた肉にはスパイスの「赤い粉」をかけて食べる。飲み放題付きのコースは品数が多く、大人数の宴会に向く。",
+    "dishes": [
+      {
+        "id": "pidan",
+        "menuName": "ピータン"
+      },
+      {
+        "id": "gan-shao-xia-ren",
+        "menuName": "エビチリ"
+      }
+    ],
+    "sources": [
+      "https://s.tabelog.com/smartphone/matome/31564/",
+      "https://aumo.jp/articles/47277"
+    ],
+    "checkedAt": "2026-11-12"
   }
 ]
