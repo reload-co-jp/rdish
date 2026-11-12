@@ -1298,5 +1298,389 @@
       "https://baila.hpplus.jp/lifestyle/recipegourmet/64449"
     ],
     "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "chinkashisai-akasaka",
+    "name": "陳家私菜 赤坂1号店 湧の台所",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "港区 赤坂",
+    "address": "東京都港区赤坂3-19-8 赤坂ウエストビル B1F",
+    "nearestStation": "赤坂見附駅・赤坂駅 徒歩3分",
+    "url": "https://chin-z.com/%e8%b5%a4%e5%9d%82%e4%b8%80%e5%8f%b7%e5%ba%97%e3%80%80%e6%b9%a7%e3%81%ae%e5%8f%b0%e6%89%80/",
+    "description": "四川料理の店「陳家私菜」の1号店。50席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/%e8%b5%a4%e5%9d%82%e4%b8%80%e5%8f%b7%e5%ba%97%e3%80%80%e6%b9%a7%e3%81%ae%e5%8f%b0%e6%89%80/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-gotanda",
+    "name": "陳家私菜 五反田店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "品川区 西五反田",
+    "address": "東京都品川区西五反田2-26-2 桔梗ハイツ2F",
+    "nearestStation": "JR五反田駅 西口徒歩3分",
+    "url": "https://chin-z.com/%e4%ba%94%e5%8f%8d%e7%94%b0%e5%ba%97/",
+    "description": "四川料理の店「陳家私菜」の五反田店。75席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/%e4%ba%94%e5%8f%8d%e7%94%b0%e5%ba%97/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-akihabara",
+    "name": "陳家私菜 秋葉原店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 神田和泉町",
+    "address": "東京都千代田区神田和泉町1-1-12 ミツバビル B1",
+    "nearestStation": "JR秋葉原駅 昭和通り口徒歩2分",
+    "url": "https://chin-z.com/%e7%a7%8b%e8%91%89%e5%8e%9f%e5%ba%97/",
+    "description": "四川料理の店「陳家私菜」の秋葉原店。80席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/%e7%a7%8b%e8%91%89%e5%8e%9f%e5%ba%97/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-shinjuku",
+    "name": "陳家私菜 新宿店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 代々木",
+    "address": "東京都渋谷区代々木2-15-9 加瀬ビル 1F",
+    "nearestStation": "JR新宿駅 南口徒歩6分",
+    "url": "https://chin-z.com/%e6%96%b0%e5%ae%bf%e5%ba%97/",
+    "description": "四川料理の店「陳家私菜」の新宿店。85席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/%e6%96%b0%e5%ae%bf%e5%ba%97/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-shibuya",
+    "name": "陳家私菜 渋谷店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 神南",
+    "address": "東京都渋谷区神南1-16-3 ブルー ヴァール ビル B1",
+    "nearestStation": "渋谷駅 13番出口徒歩3〜5分",
+    "url": "https://chin-z.com/%e6%b8%8b%e8%b0%b7%e5%ba%97/",
+    "description": "四川料理の店「陳家私菜」の渋谷店。200席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/%e6%b8%8b%e8%b0%b7%e5%ba%97/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-ginza",
+    "name": "陳家私菜 銀座店（日比谷グルメゾン）",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 内幸町",
+    "address": "東京都千代田区内幸町1-7-24 日比谷グルメゾン",
+    "nearestStation": "銀座駅C1出口・日比谷駅A13出口 徒歩約5分",
+    "url": "https://chin-z.com/ginza/",
+    "description": "四川料理の店「陳家私菜」の銀座店。大きなオープンキッチンを備えた158席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/ginza/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-marunouchi",
+    "name": "陳家私菜 丸の内店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内3-7-10 鍛冶橋高架下1階",
+    "nearestStation": "東京駅 京葉地下2番出口徒歩1分",
+    "url": "https://chin-z.com/marunouchi/",
+    "description": "四川料理の店「陳家私菜」の丸の内店（旧有楽町店）。170席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/marunouchi/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-shinbashi",
+    "name": "陳家私菜 新橋店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 内幸町",
+    "address": "東京都千代田区内幸町2-2-3 日比谷国際ビル B2",
+    "nearestStation": "内幸町駅 A6出口徒歩1分",
+    "url": "https://chin-z.com/shinbashi/",
+    "description": "四川料理の店「陳家私菜」の新橋店。185席。土日祝休み。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/shinbashi/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
   }
 ]
