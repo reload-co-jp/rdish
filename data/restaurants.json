@@ -2026,5 +2026,72 @@
       "https://www.hotpepper.jp/strJ001160858/map/"
     ],
     "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "konan-jinka-yokohama",
+    "name": "湖南人家",
+    "kana": "こなんじんか",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "神奈川県",
+    "area": "横浜市中区 山下町（横浜中華街）",
+    "address": "神奈川県横浜市中区山下町147 香港路",
+    "nearestStation": "元町・中華街駅 2出口徒歩5分",
+    "url": "https://konanjinka.owst.jp/",
+    "description": "横浜中華街では数少ない湖南料理の店。湖南省出身の夫妻が2022年に開いた。酸味と辛味を効かせた湖南料理が中心で、自家製の干し肉「ラーロウ」を使った炒め鍋や、毛沢東が好んだという豚の角煮、唐辛子をのせて蒸す魚頭が名物。",
+    "dishes": [
+      {
+        "id": "la-rou-chao-sun",
+        "menuName": "湖南名物のラーロウと竹の子の炒め鍋"
+      },
+      {
+        "id": "mao-shi-hong-shao-rou",
+        "menuName": "毛沢東が好んだ豚角煮"
+      },
+      {
+        "id": "duo-jiao-yu-tou",
+        "menuName": "双椒蒸魚頭",
+        "note": "2色の唐辛子をのせて蒸す"
+      },
+      {
+        "id": "suan-la-tang",
+        "menuName": "酸辣湯"
+      }
+    ],
+    "sources": [
+      "https://konanjinka.owst.jp/",
+      "https://serai.jp/gourmet/1218728",
+      "https://www.welcome.city.yokohama.jp/gourmet/chinatown/page_03.php"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "amoy-kitchen-kamata",
+    "name": "厦門厨房",
+    "kana": "あもいちゅうぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "大田区 西蒲田",
+    "address": "東京都大田区西蒲田7-27-6 裕大ビル1F",
+    "nearestStation": "JR蒲田駅 西口徒歩1分",
+    "description": "2003年開業の、福建省厦門（アモイ）の料理を出す店。牡蠣のオムレツ「海蠣煎蛋」や、発酵させた筍の漬物で味を決める汁焼きそば「福建焖麺」など、福建の郷土料理がある。深夜まで営業する。",
+    "dishes": [
+      {
+        "id": "o-a-chian",
+        "menuName": "海蠣煎蛋（牡蠣のオムレツ）"
+      },
+      {
+        "id": "men-mian",
+        "menuName": "福建焖麺"
+      }
+    ],
+    "sources": [
+      "https://serai.jp/gourmet/1218886",
+      "https://gurunavi.com/en/g928000/rst"
+    ],
+    "checkedAt": "2026-11-12"
   }
 ]
