@@ -1305,6 +1305,15 @@
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
       }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
     ],
     "sources": [
       "https://chin-z.com/",
@@ -1352,6 +1361,15 @@
       {
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
       }
     ],
     "sources": [
@@ -1401,6 +1419,15 @@
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
       }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
     ],
     "sources": [
       "https://chin-z.com/",
@@ -1448,6 +1475,15 @@
       {
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
       }
     ],
     "sources": [
@@ -1497,6 +1533,15 @@
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
       }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
     ],
     "sources": [
       "https://chin-z.com/",
@@ -1544,6 +1589,15 @@
       {
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
       }
     ],
     "sources": [
@@ -1593,6 +1647,15 @@
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
       }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
     ],
     "sources": [
       "https://chin-z.com/",
@@ -1640,6 +1703,15 @@
       {
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
       }
     ],
     "sources": [
@@ -1857,6 +1929,39 @@
     "sources": [
       "https://www.timeout.jp/tokyo/ja/レストラン/tam-jai-sangor-mixian-shinjuku",
       "https://prtimes.jp/main/html/rd/p/000000051.000099695.html"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "yoshu-shonin-meguro",
+    "name": "中国ラーメン 揚州商人 目黒本店",
+    "kana": "ようしゅうしょうにん",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "目黒区 目黒",
+    "address": "東京都目黒区目黒1-6-16 明洞ビル1F",
+    "url": "https://www.yousyusyonin.com/",
+    "description": "首都圏に展開する中国ラーメンチェーン「揚州商人」の1号店（1990年開業）。2000年発売のスーラータンメンが看板で、麺は細麺・中太麺・極太麺などから選べる。揚州炒飯や小籠包、四川回鍋肉などの一品料理も揃う。",
+    "dishes": [
+      {
+        "id": "suan-la-tang-mian",
+        "menuName": "スーラータンメン"
+      },
+      {
+        "id": "yangzhou-chao-fan",
+        "menuName": "揚州炒飯"
+      },
+      {
+        "id": "hui-guo-rou",
+        "menuName": "四川回鍋肉"
+      }
+    ],
+    "sources": [
+      "https://www.yousyusyonin.com/menu/",
+      "https://shop.yousyusyonin.com/stores?prefecture=13",
+      "https://forbesjapan.com/articles/detail/97339"
     ],
     "checkedAt": "2026-11-12"
   }
