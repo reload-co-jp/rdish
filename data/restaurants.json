@@ -684,6 +684,7 @@
     "area": "世田谷区 三軒茶屋",
     "address": "東京都世田谷区太子堂4-23-11 GEMS三軒茶屋7階",
     "nearestStation": "三軒茶屋駅 徒歩3分",
+    "url": "https://www.ajibo.jp/xianglali.html",
     "description": "湖南料理の専門店。小米辣（唐辛子）の辛さに、発酵・燻製・ハーブを使った料理が特徴で、自然派ワインをそろえる。",
     "dishes": [
       {
@@ -702,14 +703,20 @@
       {
         "id": "la-jiao-chao-rou",
         "menuName": "辣椒炒肉（湖南名物“豚ピー”炒め）"
+      },
+      {
+        "id": "la-wei-he-zheng",
+        "menuName": "腊味合蒸（燻製三種〜豚バラ・豚舌・ボラ）"
       }
     ],
     "sources": [
       "https://www.hotpepper.jp/strJ001281409/",
       "https://www.hotpepper.jp/strJ001281409/food/",
-      "https://oceans.tokyo.jp/article/detail/48466"
+      "https://oceans.tokyo.jp/article/detail/48466",
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/xianglali.html"
     ],
-    "checkedAt": "2026-11-08"
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "kunya-ikebukuro",
@@ -1122,47 +1129,6 @@
     "sources": [
       "https://www.ajibo.jp/shopinfo.html",
       "https://www.ajibo.jp/okachimachi2.html"
-    ],
-    "checkedAt": "2026-11-10"
-  },
-  {
-    "id": "xianglali-sangenjaya",
-    "name": "香辣里",
-    "kana": "しゃんらーりー",
-    "cuisines": [
-      "中国料理"
-    ],
-    "prefecture": "東京都",
-    "area": "世田谷区 三軒茶屋",
-    "address": "東京都世田谷区太子堂4-23-11 GEMS三軒茶屋 7F",
-    "nearestStation": "東急田園都市線 三軒茶屋駅 徒歩3分",
-    "url": "https://www.ajibo.jp/xianglali.html",
-    "description": "中国湖南省の料理の店。唐辛子の辛さに加え、発酵食品・燻製肉・香り野菜を多用する湖南料理を、自然派ワインとともに出す。燻製肉や臭豆腐は自家製。神田「味坊」の系列店。",
-    "dishes": [
-      {
-        "id": "duo-jiao-yu-tou",
-        "menuName": "剁椒魚頭（鯛の頭の発酵唐辛子蒸し）"
-      },
-      {
-        "id": "mao-shi-hong-shao-rou",
-        "menuName": "毛氏红烧肉（湖南風豚の角煮）"
-      },
-      {
-        "id": "la-jiao-chao-rou",
-        "menuName": "辣椒炒肉（湖南名物“豚ピー”炒め）"
-      },
-      {
-        "id": "la-wei-he-zheng",
-        "menuName": "腊味合蒸（燻製三種〜豚バラ・豚舌・ボラ）"
-      },
-      {
-        "id": "chou-doufu",
-        "menuName": "香辣里臭豆腐（名物発酵豆腐）"
-      }
-    ],
-    "sources": [
-      "https://www.ajibo.jp/shopinfo.html",
-      "https://www.ajibo.jp/xianglali.html"
     ],
     "checkedAt": "2026-11-10"
   },
