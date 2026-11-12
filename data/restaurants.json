@@ -1893,35 +1893,5 @@
       "https://prtimes.jp/main/html/rd/p/000000051.000099695.html"
     ],
     "checkedAt": "2026-11-12"
-  },
-  {
-    "id": "shisen-hanten-akasaka",
-    "name": "赤坂四川飯店",
-    "kana": "あかさかしせんはんてん",
-    "cuisines": [
-      "中国料理",
-      "四川料理"
-    ],
-    "prefecture": "東京都",
-    "area": "千代田区 平河町",
-    "address": "東京都千代田区平河町2-5-5 全国旅館会館5F・6F",
-    "url": "https://www.sisen.jp/shop/akasaka/",
-    "description": "陳建民・陳建一の系譜を継ぐ「四川飯店」グループの赤坂店。山椒のしびれが効いた陳麻婆豆腐と、ゴマの香る担々麺が看板。6階の一般席に加え、5階に個室と宴会場がある。",
-    "dishes": [
-      {
-        "id": "mapo-tofu",
-        "menuName": "陳麻婆豆腐"
-      },
-      {
-        "id": "dan-dan-mian",
-        "menuName": "担々麺"
-      }
-    ],
-    "sources": [
-      "https://www.sisen.jp/",
-      "https://www.sisen.jp/shop/akasaka/",
-      "https://rurubu.jp/andmore/spot/80010377"
-    ],
-    "checkedAt": "2026-11-12"
   }
 ]
