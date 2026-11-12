@@ -2093,5 +2093,30 @@
       "https://gurunavi.com/en/g928000/rst"
     ],
     "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "silkroad-tarim-nishishinjuku",
+    "name": "シルクロード・タリム",
+    "kana": "しるくろーど・たりむ",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 西新宿",
+    "address": "東京都新宿区西新宿3-15-8 西新宿パールビル103",
+    "nearestStation": "京王新線 初台駅 徒歩4分",
+    "description": "2010年開業の新疆ウイグル料理店。トルファン出身の料理長が、手延べ麺のラグメンやウイグル風ピラフ（ポロ）、羊肉の串焼きなど、羊肉とスパイスを使った料理を出す。",
+    "dishes": [
+      {
+        "id": "shish-kawap",
+        "menuName": "羊肉の串焼き"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000839180/",
+      "https://serai.jp/gourmet/1208456",
+      "https://forbesjapan.com/articles/detail/77725"
+    ],
+    "checkedAt": "2026-11-12"
   }
 ]
