@@ -2589,5 +2589,138 @@
       "https://www.huge.co.jp/tenpo_file/file/260610_Iguana_Food.pdf"
     ],
     "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "el-caracol-yotsuya",
+    "name": "El Caracol",
+    "kana": "える からこる",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 四谷",
+    "address": "東京都新宿区四谷4-10 金子ビル 1階",
+    "nearestStation": "四谷三丁目駅 徒歩5分",
+    "description": "四谷三丁目のメキシカンバー。トウモロコシのトルティーヤを店で毎日焼き、メキシコのタケリア風のタコスを出す。牛もつを赤唐辛子のスープで煮込むメヌードや、海老をライムと唐辛子でマリネするアグアチレもある。テキーラ・メスカルもそろう。",
+    "dishes": [
+      {
+        "id": "menudo",
+        "menuName": "牛もつ煮込みスープ \"メヌード\""
+      },
+      {
+        "id": "aguachile",
+        "menuName": "アグアチレ"
+      },
+      {
+        "id": "tacos",
+        "menuName": "タコス",
+        "note": "スアデロ、アラチェラ、レングア、アル・パストールなど"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "カルニタス",
+        "note": "タコスの具"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "ワカモーレ&チップス"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "ケサディーヤ"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "自家製チョリソーロースト"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/エルカラコル",
+      "https://www.timeout.com/tokyo/restaurants/el-caracol",
+      "https://menufans.com/place/el-caracol-019b08903c0d7090aef2300e0aa40711"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "tepito-shimokitazawa",
+    "name": "テピート",
+    "kana": "てぴーと",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "世田谷区 北沢",
+    "address": "東京都世田谷区北沢3-19-9",
+    "nearestStation": "下北沢駅 東口 徒歩5分",
+    "description": "下北沢の住宅街にあるメキシコ料理店。トルティーヤを毎日店で作り、料理はすべて手作り。チョコレートを使ったソースで鶏を煮込むモレが名物で、サボテンのノパレスを使ったタコスやエンチラーダも出す。テキーラの品ぞろえが多い。",
+    "dishes": [
+      {
+        "id": "mole",
+        "menuName": "モレ",
+        "note": "チョコレートソースのチキン"
+      },
+      {
+        "id": "nopales",
+        "menuName": "サボテンのタコス"
+      },
+      {
+        "id": "enchilada",
+        "menuName": "エンチラーダ"
+      },
+      {
+        "id": "tacos",
+        "menuName": "タコス"
+      },
+      {
+        "id": "burrito",
+        "menuName": "ブリトー"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "ケサディーヤ"
+      }
+    ],
+    "sources": [
+      "https://restaurant.ikyu.com/151906/highlights",
+      "https://local-media.heteml.net/?p=2494",
+      "https://www.timeout.jp/tokyo/ja/restaurant/10-best-mexican-food-in-tokyo"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "fonda-de-la-madrugada-harajuku",
+    "name": "FONDA DE LA MADRUGADA",
+    "kana": "ふぉんだ で ら まどぅるがーだ",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 神宮前",
+    "address": "東京都渋谷区神宮前2-33-12 ビラ・ビアンカB1",
+    "nearestStation": "JR原宿駅 竹下口 徒歩7分",
+    "description": "原宿・神宮前の地下にある老舗のメキシコ料理店。夜はマリアッチの生演奏がテーブルを回る。エンチラーダやワカモーレ、ナチョスのほか、牛肉のグリル、カルネ・アサダ・ア・ラ・タンピケーニャを出す。",
+    "dishes": [
+      {
+        "id": "enchilada",
+        "menuName": "エンチラーダス トリコロール"
+      },
+      {
+        "id": "carne-asada",
+        "menuName": "カルネ アサダ ア ラ タンピケーニャ"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "グァカモーレ"
+      },
+      {
+        "id": "nachos",
+        "menuName": "ナチョス"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000001457/",
+      "https://www.timeout.jp/tokyo/ja/restautant/mexican"
+    ],
+    "checkedAt": "2026-11-12"
   }
 ]
