@@ -1964,5 +1964,67 @@
       "https://forbesjapan.com/articles/detail/97339"
     ],
     "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "sichuan-douhua-tokyo",
+    "name": "四川豆花飯荘 東京店",
+    "kana": "しせんとうふぁはんそう",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内1-5-1 新丸の内ビルディング6F",
+    "nearestStation": "東京駅 徒歩3分",
+    "description": "シンガポールに本店を置く四川料理店の東京店。麻婆豆腐やよだれ鶏など麻辣・花椒を効かせた料理に加え、辛くない料理も揃える。料理に合わせて出す八宝茶を、茶藝師が長い注ぎ口の急須で注ぐ演出が名物。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "四川麻婆豆腐"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "重慶よだれ鶏"
+      },
+      {
+        "id": "qing-zheng-yu",
+        "menuName": "真鯛の蒸し物 ～広東風ソース～",
+        "note": "コース料理の一品"
+      }
+    ],
+    "sources": [
+      "https://restaurant.ikyu.com/100548/",
+      "https://restaurant.ikyu.com/100548/plan12805917",
+      "https://www.timeout.jp/tokyo/ja/レストラン/四川豆花飯荘-東京店",
+      "https://rurubu.jp/andmore/article/3792"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "haidilao-ikebukuro",
+    "name": "海底撈火鍋 池袋店",
+    "kana": "かいていろうひなべ",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "豊島区 南池袋",
+    "address": "東京都豊島区南池袋1-21-2 ヒューマックスパビリオン南池袋5F・6F",
+    "nearestStation": "JR池袋駅 東口徒歩2分",
+    "description": "中国・四川発祥の火鍋チェーン「海底撈」の池袋店。麻辣や白湯などのスープを選び、20種類以上のタレや薬味を並べたセルフバーで自分好みのつけダレを作る。麺を伸ばすパフォーマンスや変面ショーもあり、翌朝まで営業する。",
+    "dishes": [
+      {
+        "id": "huo-guo",
+        "menuName": "火鍋",
+        "note": "麻辣・白湯などのスープから選ぶ"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ001160858/",
+      "https://www.hotpepper.jp/strJ001160858/map/"
+    ],
+    "checkedAt": "2026-11-12"
   }
 ]
