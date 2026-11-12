@@ -1791,5 +1791,107 @@
       "https://aumo.jp/articles/47277"
     ],
     "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "mazilu-jimbocho",
+    "name": "馬子禄 牛肉面 神保町店",
+    "kana": "まーずるー",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 神保町",
+    "address": "東京都千代田区神田神保町1-3-18",
+    "nearestStation": "神保町駅 A7出口徒歩3分",
+    "url": "https://lanzhou-lamian.com/",
+    "description": "中国甘粛省蘭州の老舗「馬子禄」の味を受け継ぐ蘭州牛肉麺の専門店。30種類以上の薬膳スパイスで煮込んだ澄んだ牛骨スープに、注文ごとに手で延ばす麺を合わせ、麺の太さは9種類から選べる。日本アジアハラール協会のハラール認証を取得。2017年開業の1号店。",
+    "dishes": [
+      {
+        "id": "lanzhou-beef-noodles",
+        "menuName": "蘭州牛肉麺",
+        "note": "麺の太さを9種類から選べる"
+      }
+    ],
+    "sources": [
+      "https://lanzhou-lamian.com/shop/",
+      "https://visit-chiyoda.tokyo/app/spot/detail/775"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "mazilu-shinjuku",
+    "name": "馬子禄 牛肉面 新宿店",
+    "kana": "まーずるー",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 歌舞伎町",
+    "address": "東京都新宿区歌舞伎町2-1-2 Hanrokuビル1F",
+    "nearestStation": "東新宿駅 E1出口徒歩1分",
+    "url": "https://lanzhou-lamian.com/",
+    "description": "中国甘粛省蘭州の老舗「馬子禄」の味を受け継ぐ蘭州牛肉麺の専門店。30種類以上の薬膳スパイスで煮込んだ澄んだ牛骨スープに、注文ごとに手で延ばす麺を合わせ、麺の太さは9種類から選べる。日本アジアハラール協会のハラール認証を取得。神保町店の2号店。",
+    "dishes": [
+      {
+        "id": "lanzhou-beef-noodles",
+        "menuName": "蘭州牛肉麺",
+        "note": "麺の太さを9種類から選べる"
+      }
+    ],
+    "sources": [
+      "https://lanzhou-lamian.com/shop/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "nikkyoen-shokusai-unnan-yotsuya",
+    "name": "日興苑 食彩雲南 過橋米線",
+    "kana": "にっきょうえん しょくさいうんなん かきょうべいせん",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 四谷",
+    "address": "東京都新宿区四谷3-3 エスパスコンセール1F",
+    "nearestStation": "東京メトロ丸ノ内線 四谷三丁目駅 徒歩2分",
+    "description": "中国雲南省の料理の店。自家製の米粉麺を使う過橋米線が看板で、雲南の伝統料理である汽鍋や小皿料理も出す。",
+    "dishes": [
+      {
+        "id": "guo-qiao-mi-xian",
+        "menuName": "過橋米線",
+        "note": "自家製米粉麺"
+      }
+    ],
+    "sources": [
+      "https://r.gnavi.co.jp/gg51300/",
+      "https://autoreserve.com/en/restaurants/LrNewhM1Spj3DQMEK8Do"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "tamjai-samgor-shinjuku",
+    "name": "譚仔三哥 新宿中央通り店",
+    "kana": "たむじゃいさむごー",
+    "cuisines": [
+      "中国料理",
+      "広東料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 新宿",
+    "address": "東京都新宿区新宿3-28-16",
+    "nearestStation": "JR新宿駅 東口徒歩1分",
+    "description": "香港の米線チェーン「譚仔三哥（タムジャイサムゴー）」の日本1号店。スープは麻辣など6種類、辛さは10段階、トッピングは25種類以上から選んで自分好みの米線を組み立てる。",
+    "dishes": [
+      {
+        "id": "tamjai-mixian",
+        "menuName": "米線",
+        "note": "スープ6種・辛さ10段階から選択"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/tam-jai-sangor-mixian-shinjuku",
+      "https://prtimes.jp/main/html/rd/p/000000051.000099695.html"
+    ],
+    "checkedAt": "2026-11-12"
   }
 ]
