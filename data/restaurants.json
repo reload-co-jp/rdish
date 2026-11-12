@@ -2968,5 +2968,268 @@
       "https://www.hotpepper.jp/strJ000657338/"
     ],
     "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "le-bistro-sendagaya",
+    "name": "LE BISTRO",
+    "kana": "る びすとろ",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 千駄ヶ谷",
+    "address": "東京都渋谷区千駄ケ谷4-6-8",
+    "url": "https://www.huge.co.jp/service/restaurant/french/le_bistro/",
+    "description": "千駄ヶ谷のビストロ。パテ・ド・カンパーニュやリエット、エスカルゴなどの定番前菜から、カスレ、ブフ・ブルギニヨン、マルセイユ風ブイヤベースまでフランスの地方料理をそろえる。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "pate-de-campagne",
+        "menuName": "自家製パテ・ド・カンパーニュ"
+      },
+      {
+        "id": "rillette",
+        "menuName": "豚肉のリエット"
+      },
+      {
+        "id": "terrine",
+        "menuName": "自家製鴨フォアグラのテリーヌ"
+      },
+      {
+        "id": "gougere",
+        "menuName": "フォアグラのグジェール"
+      },
+      {
+        "id": "charcuterie",
+        "menuName": "シャルキュトリー盛り合わせ"
+      },
+      {
+        "id": "escargot",
+        "menuName": "エスカルゴのオーブン焼き"
+      },
+      {
+        "id": "tartare",
+        "menuName": "黒毛和牛のタルタル"
+      },
+      {
+        "id": "salade_nicoise",
+        "menuName": "サラダ・ニソワーズ"
+      },
+      {
+        "id": "french-onion-soup",
+        "menuName": "オニオン・グラタンスープ"
+      },
+      {
+        "id": "cassoulet",
+        "menuName": "カスレ"
+      },
+      {
+        "id": "beef-bourguignon",
+        "menuName": "黒毛和牛頬肉のブフ・ブルギニヨン"
+      },
+      {
+        "id": "bouillabaisse",
+        "menuName": "マルセイユ風ブイヤベース"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261019_bistro_grand.pdf",
+      "https://www.huge.co.jp/tenpo_file/file/261020_LB_lunch_dejeuner.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "le-bretagne-kagurazaka",
+    "name": "CAFÉ CRÊPERIE LE BRETAGNE 神楽坂",
+    "kana": "かふぇ くれーぷりー る ぶるたーにゅ",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 神楽坂",
+    "address": "東京都新宿区神楽坂4-2",
+    "url": "https://le-bretagne.com/creperie/kagurazaka/",
+    "description": "1996年に神楽坂で開いた日本初のクレープリー。そば粉100%のブルターニュ式ガレットとデザートのクレープを、ブルターニュのシードルと合わせて出す。テラス席がある。",
+    "dishes": [
+      {
+        "id": "galette",
+        "menuName": "そば粉100%のガレット",
+        "note": "コンプレットなど"
+      },
+      {
+        "id": "crepe",
+        "menuName": "クレープ",
+        "note": "バターシュガー、クレープ・シュゼットなど"
+      },
+      {
+        "id": "cidre",
+        "menuName": "シードル Val de Rance"
+      }
+    ],
+    "sources": [
+      "https://le-bretagne.com/wp-content/uploads/2026/10/2611_menukagu.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "breizh-cafe-omotesando",
+    "name": "Breizh café crêperie 表参道店",
+    "kana": "ぶれっつかふぇ くれーぷりー おもてさんどう",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 神宮前",
+    "address": "東京都渋谷区神宮前3-5-4",
+    "url": "https://le-bretagne.com/creperie/omotesando/",
+    "description": "1996年に神楽坂で開いた日本初のクレープリーを起点とする、ル ブルターニュの店。そば粉100%のガレットとクレープ、直輸入のシードルを出す。隣にシードル専門店カーヴ ア シードルがある。",
+    "dishes": [
+      {
+        "id": "galette",
+        "menuName": "そば粉100%のガレット",
+        "note": "コンプレットなど"
+      },
+      {
+        "id": "crepe",
+        "menuName": "クレープ",
+        "note": "バターシュガー、クレープ・シュゼットなど"
+      },
+      {
+        "id": "cidre",
+        "menuName": "シードル Val de Rance"
+      }
+    ],
+    "sources": [
+      "https://le-bretagne.com/wp-content/uploads/2026/10/2611_menu.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "breizh-cafe-shinjuku-takashimaya",
+    "name": "Breizh café crêperie 新宿タカシマヤ店",
+    "kana": "ぶれっつかふぇ くれーぷりー しんじゅくたかしまや",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 千駄ヶ谷",
+    "address": "東京都渋谷区千駄ヶ谷5-24-2 新宿タカシマヤ13F",
+    "url": "https://le-bretagne.com/creperie/shinjuku/",
+    "description": "1996年に神楽坂で開いた日本初のクレープリーを起点とする、ル ブルターニュの店。新宿タカシマヤ13階のレストランパーク内にあり、植栽に面したテラス席がある。そば粉100%のガレットとクレープ、シードルを出す。",
+    "dishes": [
+      {
+        "id": "galette",
+        "menuName": "そば粉100%のガレット",
+        "note": "コンプレットなど"
+      },
+      {
+        "id": "crepe",
+        "menuName": "クレープ",
+        "note": "バターシュガー、クレープ・シュゼットなど"
+      },
+      {
+        "id": "cidre",
+        "menuName": "シードル Val de Rance"
+      }
+    ],
+    "sources": [
+      "https://le-bretagne.com/wp-content/uploads/2026/10/2611_menu.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "breizh-cafe-kyoto",
+    "name": "Breizh café crêperie 京都店",
+    "kana": "ぶれっつかふぇ くれーぷりー きょうと",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "京都府",
+    "area": "京都市左京区 若王子町",
+    "address": "京都府京都市左京区若王子町24-3",
+    "nearestStation": "地下鉄東西線 蹴上駅から1200m",
+    "url": "https://le-bretagne.com/creperie/kyoto/",
+    "description": "1996年に神楽坂で開いた日本初のクレープリーを起点とする、ル ブルターニュの店。哲学の道の起点近く、町家を改装した店で、中庭と掘り炬燵の和室がある。そば粉のガレットとクレープ、シードルを出す。",
+    "dishes": [
+      {
+        "id": "galette",
+        "menuName": "そば粉100%のガレット",
+        "note": "コンプレットなど"
+      },
+      {
+        "id": "crepe",
+        "menuName": "クレープ",
+        "note": "バターシュガー、クレープ・シュゼットなど"
+      },
+      {
+        "id": "cidre",
+        "menuName": "シードル Val de Rance"
+      }
+    ],
+    "sources": [
+      "https://le-bretagne.com/wp-content/uploads/2026/11/2611_Kyoto-menu.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "brasserie-paul-bocuse-ginza",
+    "name": "ブラッスリー ポール・ボキューズ 銀座",
+    "kana": "ぶらっすりー ぽーる・ぼきゅーず ぎんざ",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座2-2-14 マロニエゲート銀座1 10F",
+    "url": "https://www.hiramatsurestaurant.jp/paulbocuse-ginza/",
+    "description": "マロニエゲート銀座1の10階にある、リヨンの料理人ポール・ボキューズの名を冠したブラッスリー。リヨンのスペシャリテであるクネルをコースで出す。ひらまつの運営。",
+    "dishes": [
+      {
+        "id": "quenelle",
+        "menuName": "リヨンのスペシャリテ スズキと帆立のクネル ヴァンブランソース"
+      },
+      {
+        "id": "escargot",
+        "menuName": "エスカルゴとフランス産キノコのパイ包焼き",
+        "note": "コースの前菜"
+      }
+    ],
+    "sources": [
+      "https://www.hiramatsurestaurant.jp/paulbocuse-ginza/menu/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "brasserie-paul-bocuse-daimaru-tokyo",
+    "name": "ブラッスリー ポール・ボキューズ 大丸東京",
+    "kana": "ぶらっすりー ぽーる・ぼきゅーず だいまるとうきょう",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内1-9-1 大丸東京店12階",
+    "nearestStation": "東京駅直結",
+    "url": "https://www.hiramatsurestaurant.jp/paulbocuse-daimarutokyo/",
+    "description": "大丸東京店12階のブラッスリー。店のスペシャリテはオマール海老のブイヤベースで、アラカルトでも注文できる。四万十ポークのパテ・ド・カンパーニュもある。ひらまつの運営。",
+    "dishes": [
+      {
+        "id": "bouillabaisse",
+        "menuName": "オマール海老のブイヤベース",
+        "note": "店のスペシャリテ"
+      },
+      {
+        "id": "pate-de-campagne",
+        "menuName": "高知県産四万十ポークのパテ・ド・カンパーニュ"
+      },
+      {
+        "id": "quiche",
+        "menuName": "根菜のキッシュ",
+        "note": "コースの前菜"
+      }
+    ],
+    "sources": [
+      "https://www.hiramatsurestaurant.jp/paulbocuse-daimarutokyo/menu/"
+    ],
+    "checkedAt": "2026-11-12"
   }
 ]
