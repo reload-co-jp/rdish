@@ -2118,5 +2118,605 @@
       "https://forbesjapan.com/articles/detail/77725"
     ],
     "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "mole-taqueria-marunouchi",
+    "name": "Molé TAQUERIA Y BAR",
+    "kana": "もーれ たけりあ い ばる",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内1-5-1 新丸の内ビル7F 丸の内ハウス",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/mole/",
+    "description": "新丸ビル7階のタケリア。店名どおりモーレが看板で、伝統的なモーレ・ポブラノのほか赤・緑のモーレをタコスのトッピングに選べる。具だくさんのスープ、ポソレもある。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "mole",
+        "menuName": "モーレ・ポブラノ",
+        "note": "タコスのトッピングとして提供。モーレ・ロハ、モーレ・ヴェルデもある"
+      },
+      {
+        "id": "pozole",
+        "menuName": "具だくさんスープ ポソレ"
+      },
+      {
+        "id": "tacos",
+        "menuName": "Street Tacos"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "Carnitas"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "ケサディーヤ"
+      },
+      {
+        "id": "nachos",
+        "menuName": "クラシック・ナチョス"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "ワカモレ・フレスコ"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "メキシカンチョリソーの一口フリット"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261028_Mole_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "mucho-modern-mexicano-marunouchi",
+    "name": "MUCHO MODERN MEXICANO",
+    "kana": "むーちょ もだん めきしかーの",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内2-7-3 東京ビル(TOKIA) 2F",
+    "nearestStation": "東京駅 丸の内南口 徒歩約1分",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/mexicano_mucho/",
+    "description": "東京駅丸の内南口すぐ、東京ビルTOKIA 2階のメキシコ料理店。緑のポソレや、牛もつ煮込みメヌードにポソレを合わせた一皿などスープ類がそろう。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "pozole",
+        "menuName": "POZOLE VERDE"
+      },
+      {
+        "id": "menudo",
+        "menuName": "MENUDO CON POZOLE"
+      },
+      {
+        "id": "enchilada",
+        "menuName": "ENCHILADA POLLO"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "PORK BELLY CARNITAS"
+      },
+      {
+        "id": "carne-asada",
+        "menuName": "WAGYU CARNE ASADA"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "CHORIZO MEXICANO"
+      },
+      {
+        "id": "nopales",
+        "menuName": "MANGO & NOPAL CACTUS SALAD"
+      },
+      {
+        "id": "burrito",
+        "menuName": "BURRITO"
+      },
+      {
+        "id": "fajitas",
+        "menuName": "Fajitas"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "QUESADILLA DE QUESO"
+      },
+      {
+        "id": "nachos",
+        "menuName": "MUCHO CLASSIC NACHOS"
+      },
+      {
+        "id": "tacos",
+        "menuName": "Tacos"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261019_Mucho_Grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "las-dos-caras-harajuku",
+    "name": "LAS DOS CARAS MODERN MEXICANO Y TACOS",
+    "kana": "らす どす からす もだん めきしかーの い たこす",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 神宮前",
+    "address": "東京都渋谷区神宮前1-10-37 CASCADE HARAJUKU 1F/B1",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/las_dos_caras/",
+    "description": "原宿・CASCADE HARAJUKUのメキシコ料理店。タコス・アル・パストールなどのタコスに加え、鶏のモーレ・ポブラノ煮込みや牛もつのメヌードも出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "mole",
+        "menuName": "Pollo en Mole Poblano"
+      },
+      {
+        "id": "menudo",
+        "menuName": "Menudo"
+      },
+      {
+        "id": "tacos",
+        "menuName": "Tacos al Pastor"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "Pork Carnitas"
+      },
+      {
+        "id": "carne-asada",
+        "menuName": "Carne Asada"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "Chorizo Mexicano"
+      },
+      {
+        "id": "chili-con-carne",
+        "menuName": "Chili Con Carne"
+      },
+      {
+        "id": "burrito",
+        "menuName": "Burrito"
+      },
+      {
+        "id": "fajitas",
+        "menuName": "Fajita"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "Quesadilla de Queso"
+      },
+      {
+        "id": "nachos",
+        "menuName": "Nachos Clásicos"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "Guacamole"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/260902_LDC_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "hacienda-del-cielo-daikanyama",
+    "name": "Hacienda del cielo MODERN MEXICANO",
+    "kana": "あしえんだ でる しえろ もだん めきしかーの",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 猿楽町",
+    "address": "東京都渋谷区猿楽町10-1 マンサード代官山 9F",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/hacienda/",
+    "description": "代官山・マンサード代官山9階のメキシコ料理店。ファヒータやタコスのほか、牛もつ煮込みのメヌード、鶏のエンチラーダを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "menudo",
+        "menuName": "MENUDO MEXICAN BEEF TRIPE STEW"
+      },
+      {
+        "id": "enchilada",
+        "menuName": "ENCHILADA de POLLO"
+      },
+      {
+        "id": "fajitas",
+        "menuName": "MIXED FAJITA"
+      },
+      {
+        "id": "tacos",
+        "menuName": "Make Your Own Tacos"
+      },
+      {
+        "id": "burrito",
+        "menuName": "CHICKEN BURRITO"
+      },
+      {
+        "id": "chili-con-carne",
+        "menuName": "CHILE CON CARNE"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "CHORIZO MEXICANO"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "QUESADILLA DE QUESO"
+      },
+      {
+        "id": "nachos",
+        "menuName": "CLASSIC NACHOS"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "GUACAMOLE"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261006_Hacienda_Grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "el-caliente-shinagawa",
+    "name": "el caliente modern mexicano",
+    "kana": "える かりえんて もだん めきしかーの",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "港区 港南",
+    "address": "東京都港区港南2-18-1 アトレ品川4F",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/el_caliente/",
+    "description": "アトレ品川4階のメキシコ料理店。牛・豚・鶏・ラム・メカジキから選ぶファヒータが中心で、サボテンのノパルを使ったサラダやマリネ、海老のエンチラーダもある。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "fajitas",
+        "menuName": "FAJITAS",
+        "note": "牛・豚・鶏・ラム・メカジキ・ミックス"
+      },
+      {
+        "id": "nopales",
+        "menuName": "ENSALADA NOPAL Y COL RIZADA"
+      },
+      {
+        "id": "enchilada",
+        "menuName": "SHRIMP ENCHILADA MARISCOS"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "CARNITAS"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "CHORIZO MEXICANO"
+      },
+      {
+        "id": "chili-con-carne",
+        "menuName": "CHILE CON CARNE"
+      },
+      {
+        "id": "burrito",
+        "menuName": "ASADO BURRITOS"
+      },
+      {
+        "id": "tacos",
+        "menuName": "BIRRIA DE RES TACOS"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "QUESADILLA DE QUESO"
+      },
+      {
+        "id": "nachos",
+        "menuName": "CLASSICOS NACHOS"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "GUACAMOLE FRESCO"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261029_EC_GRAND.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "comedor-de-margarita-yokohama",
+    "name": "COMEDOR DE MARGARITA MODERN MEXICANO",
+    "kana": "こめどーる で まるがりーた もだん めきしかーの",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "神奈川県",
+    "area": "横浜市西区 南幸",
+    "address": "神奈川県横浜市西区南幸1-1-1 ニュウマン横浜店9F",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/mexicano_comedor/",
+    "description": "ニュウマン横浜9階のメキシコ料理店。柑橘でマリネしたアグアチレ、もつ煮込みのメヌード、ノパルとアボカドのサラダなど前菜が多い。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "aguachile",
+        "menuName": "CITRUS AGUACHILE"
+      },
+      {
+        "id": "menudo",
+        "menuName": "MENUDO"
+      },
+      {
+        "id": "nopales",
+        "menuName": "ENSALADA DE NOPAL Y AGUACATE"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "PORK BELLY CARNITAS"
+      },
+      {
+        "id": "carne-asada",
+        "menuName": "CARNE ASADA"
+      },
+      {
+        "id": "frijoles-refritos",
+        "menuName": "FRIJOLES REFRITO"
+      },
+      {
+        "id": "chili-con-carne",
+        "menuName": "CHILE CON CARNE"
+      },
+      {
+        "id": "burrito",
+        "menuName": "BURRITO"
+      },
+      {
+        "id": "fajitas",
+        "menuName": "FAJITA"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "QUESADILLA DE QUESO"
+      },
+      {
+        "id": "nachos",
+        "menuName": "CLASSIC NACHOS"
+      },
+      {
+        "id": "tacos",
+        "menuName": "Make Your Own Tacos"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "GUACAMOLE"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/260809_CDM_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "el-rincon-de-mexicola-naha",
+    "name": "EL RINCON DE MEXICOLA",
+    "kana": "える りんこん で めひこーら",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "沖縄県",
+    "area": "那覇市 牧志",
+    "address": "沖縄県那覇市牧志3-3-4 1階",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/mexicola/",
+    "description": "那覇・牧志のメキシコ料理店。豚のカルニタスやストリートタコス、ファヒータ、もつ煮込みのメヌードを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "tacos",
+        "menuName": "The King of Street Tacos"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "CARNITAS"
+      },
+      {
+        "id": "menudo",
+        "menuName": "MENUDO"
+      },
+      {
+        "id": "frijoles-refritos",
+        "menuName": "FRIJOLES REFRITO"
+      },
+      {
+        "id": "chili-con-carne",
+        "menuName": "CHILE CON CARNE"
+      },
+      {
+        "id": "fajitas",
+        "menuName": "FAJITAS"
+      },
+      {
+        "id": "burrito",
+        "menuName": "BURRITO"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "GRILLED CHICKEN QUESADILLA"
+      },
+      {
+        "id": "nachos",
+        "menuName": "CLASSIC NACHOS"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261015_ERDM_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "cafe-iguana-fukaya",
+    "name": "Café Iguana MEXICAN GRILL",
+    "kana": "かふぇ いぐあな めきしかん ぐりる",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "埼玉県",
+    "area": "深谷市 花園",
+    "address": "埼玉県深谷市花園1番地 ふかや花園プレミアムアウトレット",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/cafe_iguana/",
+    "description": "ふかや花園プレミアムアウトレット内のメキシカングリル。ファヒータ、タコス、ケサディーヤ、ナチョスなど定番のメキシコ料理を出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "fajitas",
+        "menuName": "FAJITA"
+      },
+      {
+        "id": "tacos",
+        "menuName": "TACO TRIO"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "QUESADILLA"
+      },
+      {
+        "id": "nachos",
+        "menuName": "CLASSIC NACHOS"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/260610_Iguana_Food.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "el-caracol-yotsuya",
+    "name": "El Caracol",
+    "kana": "える からこる",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 四谷",
+    "address": "東京都新宿区四谷4-10 金子ビル 1階",
+    "nearestStation": "四谷三丁目駅 徒歩5分",
+    "description": "四谷三丁目のメキシカンバー。トウモロコシのトルティーヤを店で毎日焼き、メキシコのタケリア風のタコスを出す。牛もつを赤唐辛子のスープで煮込むメヌードや、海老をライムと唐辛子でマリネするアグアチレもある。テキーラ・メスカルもそろう。",
+    "dishes": [
+      {
+        "id": "menudo",
+        "menuName": "牛もつ煮込みスープ \"メヌード\""
+      },
+      {
+        "id": "aguachile",
+        "menuName": "アグアチレ"
+      },
+      {
+        "id": "tacos",
+        "menuName": "タコス",
+        "note": "スアデロ、アラチェラ、レングア、アル・パストールなど"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "カルニタス",
+        "note": "タコスの具"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "ワカモーレ&チップス"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "ケサディーヤ"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "自家製チョリソーロースト"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/エルカラコル",
+      "https://www.timeout.com/tokyo/restaurants/el-caracol",
+      "https://menufans.com/place/el-caracol-019b08903c0d7090aef2300e0aa40711"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "tepito-shimokitazawa",
+    "name": "テピート",
+    "kana": "てぴーと",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "世田谷区 北沢",
+    "address": "東京都世田谷区北沢3-19-9",
+    "nearestStation": "下北沢駅 東口 徒歩5分",
+    "description": "下北沢の住宅街にあるメキシコ料理店。トルティーヤを毎日店で作り、料理はすべて手作り。チョコレートを使ったソースで鶏を煮込むモレが名物で、サボテンのノパレスを使ったタコスやエンチラーダも出す。テキーラの品ぞろえが多い。",
+    "dishes": [
+      {
+        "id": "mole",
+        "menuName": "モレ",
+        "note": "チョコレートソースのチキン"
+      },
+      {
+        "id": "nopales",
+        "menuName": "サボテンのタコス"
+      },
+      {
+        "id": "enchilada",
+        "menuName": "エンチラーダ"
+      },
+      {
+        "id": "tacos",
+        "menuName": "タコス"
+      },
+      {
+        "id": "burrito",
+        "menuName": "ブリトー"
+      }
+    ],
+    "sources": [
+      "https://restaurant.ikyu.com/151906/highlights",
+      "https://local-media.heteml.net/?p=2494",
+      "https://www.timeout.jp/tokyo/ja/restaurant/10-best-mexican-food-in-tokyo"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "fonda-de-la-madrugada-harajuku",
+    "name": "FONDA DE LA MADRUGADA",
+    "kana": "ふぉんだ で ら まどぅるがーだ",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 神宮前",
+    "address": "東京都渋谷区神宮前2-33-12 ビラ・ビアンカB1",
+    "nearestStation": "JR原宿駅 竹下口 徒歩7分",
+    "description": "原宿・神宮前のビル地下にあるメキシコ料理店。夜はマリアッチの生演奏がテーブルを回る。エンチラーダやワカモーレ、ナチョスのほか、牛肉のグリル、カルネ・アサダ・ア・ラ・タンピケーニャを出す。",
+    "dishes": [
+      {
+        "id": "enchilada",
+        "menuName": "エンチラーダス トリコロール"
+      },
+      {
+        "id": "carne-asada",
+        "menuName": "カルネ アサダ ア ラ タンピケーニャ"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "グァカモーレ"
+      },
+      {
+        "id": "nachos",
+        "menuName": "ナチョス"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000001457/",
+      "https://www.timeout.jp/tokyo/ja/restautant/mexican"
+    ],
+    "checkedAt": "2026-11-12"
   }
 ]
