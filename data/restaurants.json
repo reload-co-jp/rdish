@@ -2718,5 +2718,255 @@
       "https://www.timeout.jp/tokyo/ja/restautant/mexican"
     ],
     "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "il-vicolo-nakameguro",
+    "name": "PIZZERIA IL VICOLO",
+    "kana": "ぴっつぇりあ いる ゔぃころ",
+    "cuisines": [
+      "イタリア料理"
+    ],
+    "prefecture": "東京都",
+    "area": "目黒区 中目黒",
+    "address": "東京都目黒区中目黒1-2-13",
+    "url": "https://www.huge.co.jp/service/restaurant/italian/il_vicolo/",
+    "description": "中目黒のピッツェリア。国産小麦の軽い生地で焼くピッツァと、炭火で焼く肉料理を出す。パスタはトロフィエやメッツェマニケなど形の違う麺を料理ごとに使い分ける。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "pizza-margherita",
+        "menuName": "margherita bufala"
+      },
+      {
+        "id": "pizza-marinara",
+        "menuName": "marinara"
+      },
+      {
+        "id": "carbonara",
+        "menuName": "carbonara with smoked duck ham & leek"
+      },
+      {
+        "id": "aglio-e-olio",
+        "menuName": "aglio e olio with pacific saury & maitake mushroom"
+      },
+      {
+        "id": "gnocchi",
+        "menuName": "gnocchi with pumpkin & gorgonzola"
+      },
+      {
+        "id": "tagliata",
+        "menuName": "skirt steak tagliata"
+      },
+      {
+        "id": "carpaccio",
+        "menuName": "fresh carpaccio"
+      },
+      {
+        "id": "caprese",
+        "menuName": "mozzarella bufala & fruit tomato caprese"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261027_ilvicolo_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "cucina-del-nabucco-ginza",
+    "name": "cucina del NABUCCO",
+    "kana": "くっちーな でる なぶっこ",
+    "cuisines": [
+      "イタリア料理"
+    ],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座2-4-12 ミキモトギンザ2 7F",
+    "url": "https://www.huge.co.jp/service/restaurant/italian/nabucco/",
+    "description": "銀座・ミキモトギンザ2の7階にあるイタリア料理店。前菜のカルパッチョやカプレーゼ、パンチェッタと名古屋コーチンの卵を使うカルボナーラ、リゾットを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "carbonara",
+        "menuName": "Carbonara with Pancetta & Nagoya-cochin Egg"
+      },
+      {
+        "id": "aglio-e-olio",
+        "menuName": "Aglio Olio with Seared Conger Eel & Kujo Leek"
+      },
+      {
+        "id": "risotto",
+        "menuName": "Quattro Formaggi Risotto"
+      },
+      {
+        "id": "carpaccio",
+        "menuName": "Catch of the Day Carpaccio"
+      },
+      {
+        "id": "caprese",
+        "menuName": "Homemade Mozzarella & Fruit Tomato Caprese"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261009_nabucco_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "osteria-il-viaggio-tokyo",
+    "name": "Osteria IL VIAGGIO",
+    "kana": "おすてりあ いる ゔぃあっじお",
+    "cuisines": [
+      "イタリア料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内1-9-1 グランルーフ2F グランスタ八重洲",
+    "nearestStation": "東京駅 八重洲口",
+    "url": "https://www.huge.co.jp/service/restaurant/italian/viaggio/",
+    "description": "東京駅八重洲口の改札外、グランルーフ2階のオステリア。アクアパッツァ、ミネストローネ、豚カツレツのミラノ風、ローマ風のピンサなどを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "acqua-pazza",
+        "menuName": "Acqua Pazza"
+      },
+      {
+        "id": "cotoletta-alla-milanese",
+        "menuName": "Hakkinton Pork Cutlet Milanese"
+      },
+      {
+        "id": "minestrone",
+        "menuName": "Wood Fire Grilled Bacon Minestrone Soup"
+      },
+      {
+        "id": "affettato-misto",
+        "menuName": "Affettato Misto"
+      },
+      {
+        "id": "bruschetta",
+        "menuName": "Bruschetta Cherry Tomato, Ricotta & Raw Whitebait"
+      },
+      {
+        "id": "carpaccio",
+        "menuName": "Carpaccio of The Day"
+      },
+      {
+        "id": "tagliata",
+        "menuName": "Wagyu Sirloin Cap & Porcini Tagliata"
+      },
+      {
+        "id": "risotto",
+        "menuName": "Porcini & Pancetta Risotto"
+      },
+      {
+        "id": "caprese",
+        "menuName": "Persimmon, Prosciutto & Burrata Caprese"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261105_viaggio_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "posillipo-tomigusuku",
+    "name": "POSILLIPO cucina meridionale",
+    "kana": "ぽじりぽ くっちーな めりでぃおなーれ",
+    "cuisines": [
+      "イタリア料理"
+    ],
+    "prefecture": "沖縄県",
+    "area": "豊見城市 瀬長",
+    "address": "沖縄県豊見城市瀬長174-5",
+    "url": "https://www.huge.co.jp/service/restaurant/italian/posillipo/",
+    "description": "沖縄・瀬長島の南イタリア料理店。ナポリピッツァのほか、アクアパッツァ、イカ墨のリゾット、ポルチーニのラビオリなど南イタリアの料理を出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "pizza-margherita",
+        "menuName": "MARGHERITA EXTRA"
+      },
+      {
+        "id": "pizza-marinara",
+        "menuName": "BOTTARGA, MOZZARELLA BUFALA & MARINARA"
+      },
+      {
+        "id": "pizza-quattro-formaggi",
+        "menuName": "QUATTRO FORMAGGI"
+      },
+      {
+        "id": "acqua-pazza",
+        "menuName": "ACQUA PAZZA"
+      },
+      {
+        "id": "risotto-al-nero-di-seppia",
+        "menuName": "SQUID INK RISOTTO"
+      },
+      {
+        "id": "ravioli",
+        "menuName": "PORCINI RAVIOLI WITH CREAM SAUCE"
+      },
+      {
+        "id": "carbonara",
+        "menuName": "CARBONARA"
+      },
+      {
+        "id": "aglio-e-olio",
+        "menuName": "CLAMS AGLIO OLIO"
+      },
+      {
+        "id": "affettato-misto",
+        "menuName": "AFFETTATO MISTO"
+      },
+      {
+        "id": "tagliata",
+        "menuName": "BEEF SKIRT TAGLIATA"
+      },
+      {
+        "id": "carpaccio",
+        "menuName": "OCTOPUS CARPACCIO"
+      },
+      {
+        "id": "bruschetta",
+        "menuName": "Bruschettas"
+      },
+      {
+        "id": "caprese",
+        "menuName": "BURRATA CHEESE & FRUIT CAPRESE"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261020_posillipo_GRAND.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "delizioso-firenze-marunouchi",
+    "name": "DELIZIOSO FIRENZE 新丸ビル",
+    "kana": "でりつぃおーぞ ふぃれんつぇ",
+    "cuisines": [
+      "イタリア料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内1-5-1 新丸の内ビルディング5F",
+    "nearestStation": "JR東京駅 丸の内北口 徒歩1分",
+    "url": "https://delizioso-firenze.owst.jp",
+    "description": "新丸ビル5階のフィレンツェ風イタリア料理店。炭火で焼く骨付き牛Tボーンステーキ、ビステッカ・アッラ・フィオレンティーナが看板で、600gから注文できる。牛ランプのタリアータやピッツァもある。",
+    "dishes": [
+      {
+        "id": "bistecca-alla-fiorentina",
+        "menuName": "フィレンツェ風牛Tボーンステーキ \"ビステッカ・アッラ・フィオレンティーナ\"",
+        "note": "100g単位、600gから"
+      },
+      {
+        "id": "tagliata",
+        "menuName": "国産牛ランプの炭火焼き\"タリアータ\""
+      },
+      {
+        "id": "pizza-margherita",
+        "menuName": "Pizzaマルゲリータ"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000657338/"
+    ],
+    "checkedAt": "2026-11-12"
   }
 ]
