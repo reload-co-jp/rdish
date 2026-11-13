@@ -3231,5 +3231,199 @@
       "https://www.hiramatsurestaurant.jp/paulbocuse-daimarutokyo/menu/"
     ],
     "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "del-mar-yokohama",
+    "name": "DEL MAR COMEDOR Y TERRAZA",
+    "kana": "でる まーる こめどーる い てらっつぁ",
+    "cuisines": [
+      "スペイン料理"
+    ],
+    "prefecture": "神奈川県",
+    "area": "横浜市中区 新港",
+    "address": "神奈川県横浜市中区新港2-14-1 横浜ハンマーヘッド 2F",
+    "url": "https://www.huge.co.jp/service/restaurant/spanish/del_mar/",
+    "description": "横浜ハンマーヘッド2階のスペイン料理店。魚介のパエリアやイカ墨のフィデウア、ガリシア風のタコ、日替わりのピンチョスを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "PAELLA DEL MAR"
+      },
+      {
+        "id": "fideua",
+        "menuName": "SQUID INK FIDEUA"
+      },
+      {
+        "id": "pulpo-a-feira",
+        "menuName": "PULPO A LA GALLEGA"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "SHRIMP AJILLO"
+      },
+      {
+        "id": "callos",
+        "menuName": "CALLOS SPANISH TRIPE STEW"
+      },
+      {
+        "id": "boquerones-vinagre",
+        "menuName": "BOQUERONES VINEGARED ANCHOVIES"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "TODAY'S PINTXOS"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/260406_dm_grand.pdf"
+    ],
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "la-coquina-shibuya",
+    "name": "La Coquina Cervecería",
+    "kana": "ら こきーな せるべせりあ",
+    "cuisines": [
+      "スペイン料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 渋谷",
+    "address": "東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア 13階",
+    "url": "https://www.huge.co.jp/service/restaurant/spanish/la_coquina/",
+    "description": "渋谷スクランブルスクエア13階のスペインバル。パエリアやフィデウアのほか、ガリシア風のタコ、イカ墨のクロケッタ、カジョス、パタタス・ブラバスなど定番のタパスがそろう。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "IBERIAN PORK PAELLA"
+      },
+      {
+        "id": "fideua",
+        "menuName": "FIDEUA"
+      },
+      {
+        "id": "pulpo-a-feira",
+        "menuName": "PULPO A LA GALLEGA"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "CAMARONES AL AJILLO"
+      },
+      {
+        "id": "croqueta",
+        "menuName": "CROQUETAS DE TINTA DE CALAMAR"
+      },
+      {
+        "id": "callos",
+        "menuName": "CALLOS"
+      },
+      {
+        "id": "patatas-bravas",
+        "menuName": "PATATAS BRAVAS"
+      },
+      {
+        "id": "tortilla",
+        "menuName": "TORTILLA"
+      },
+      {
+        "id": "boquerones-vinagre",
+        "menuName": "BOQUERONES",
+        "note": "marinated sardine"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261007_LC_grand.pdf"
+    ],
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "la-pesquera-otemachi",
+    "name": "La Pesquera Marisquería",
+    "kana": "ら ぺすけーら まりすけりあ",
+    "cuisines": [
+      "スペイン料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 大手町",
+    "address": "東京都千代田区大手町1-5-5 大手町タワー OOTEMORI B2F",
+    "url": "https://www.huge.co.jp/service/restaurant/spanish/la_pesquera/",
+    "description": "大手町タワー地下2階の魚介中心のスペイン料理店。日替わりのパエリアやイカ墨のパエリア、マドリード風のカジョス、トルティージャを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "PAELLA DEL DIA"
+      },
+      {
+        "id": "arroz-negro",
+        "menuName": "TINTA DE CALAMAR",
+        "note": "イカ墨のパエリア"
+      },
+      {
+        "id": "fideua",
+        "menuName": "Fideua"
+      },
+      {
+        "id": "callos",
+        "menuName": "CALLOS AL MADRILENO"
+      },
+      {
+        "id": "pulpo-a-feira",
+        "menuName": "PULPO A LA GALLEGA"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "CAMARONES Y SETAS AL AJILLO"
+      },
+      {
+        "id": "patatas-bravas",
+        "menuName": "PATATAS BRAVAS"
+      },
+      {
+        "id": "tortilla",
+        "menuName": "TORTILLA ESPANOLA"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261027_lp_grand.pdf"
+    ],
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "bikini-sis-roppongi",
+    "name": "BIKiNi SIS 六本木ヒルズ店",
+    "kana": "びきに しす",
+    "cuisines": [
+      "スペイン料理"
+    ],
+    "prefecture": "東京都",
+    "area": "港区 六本木",
+    "address": "東京都港区六本木6-10-1 六本木ヒルズ ウェストウォーク5F",
+    "url": "https://www.roppongihills.com/sp/dining/restaurant/bikini_sis/",
+    "description": "六本木ヒルズ ウェストウォーク5階のスペイン料理店。カタルーニャ出身のシェフ、ジョセップ・バラオナ・ビニェス氏が手がけ、カタルーニャ料理に日本の旬の食材を合わせたコースを出す。名物はパン・コン・トマテ。パエリアは、米を使う魚介のパエリアと、カタルーニャ伝統のパスタのパエリアから選べる。",
+    "dishes": [
+      {
+        "id": "pan-con-tomate",
+        "menuName": "パンコントマテ"
+      },
+      {
+        "id": "paella",
+        "menuName": "魚介のパエリア",
+        "note": "コースのパエリアで選択"
+      },
+      {
+        "id": "fideua",
+        "menuName": "カタルーニャ地方の伝統的なパスタのパエリア",
+        "note": "コースのパエリアで選択"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "マイクロピンチョス9種盛り合わせ",
+        "note": "コースの前菜"
+      }
+    ],
+    "sources": [
+      "https://www.roppongihills.com/sp/dining/restaurant/bikini_sis/",
+      "https://restaurant.ikyu.com/110687/"
+    ],
+    "checkedAt": "2026-11-13"
   }
 ]
