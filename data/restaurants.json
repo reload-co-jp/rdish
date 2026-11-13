@@ -3425,5 +3425,237 @@
       "https://restaurant.ikyu.com/110687/"
     ],
     "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "saikabo-yotsuya",
+    "name": "妻家房 四谷本店",
+    "kana": "さいかぼう よつやほんてん",
+    "cuisines": [
+      "韓国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 四谷",
+    "address": "東京都新宿区四谷3-10-25 永明ビル",
+    "nearestStation": "四谷三丁目駅 2番出口 徒歩30秒",
+    "url": "https://www.saikabo.com/restaurant/yotsuya/",
+    "description": "韓国家庭料理チェーン妻家房の1号店。1階にキムチ博物館と韓国食品売場があり、2・3階が韓国の伝統的な家をモチーフにしたレストラン。キムチやナムル、チヂミ、チゲ、参鶏湯など家庭料理を幅広く出す。",
+    "dishes": [
+      {
+        "id": "kimchi",
+        "menuName": "キムチ盛合せ"
+      },
+      {
+        "id": "bossam-kimchi",
+        "menuName": "ポッサムキムチ"
+      },
+      {
+        "id": "oi-sobagi",
+        "menuName": "オイキムチ"
+      },
+      {
+        "id": "kkakdugi",
+        "menuName": "カクテキ"
+      },
+      {
+        "id": "namul",
+        "menuName": "ナムル盛合せ"
+      },
+      {
+        "id": "buchimgae",
+        "menuName": "パチヂミ"
+      },
+      {
+        "id": "haemul-pajeon",
+        "menuName": "海鮮チヂミ"
+      },
+      {
+        "id": "bossam",
+        "menuName": "ジェユクポッサム"
+      },
+      {
+        "id": "japchae",
+        "menuName": "チャプチェ"
+      },
+      {
+        "id": "tteokbokki",
+        "menuName": "トッポッキ"
+      },
+      {
+        "id": "dak-galbi",
+        "menuName": "チーズタッカルビ",
+        "note": "2〜3人前"
+      },
+      {
+        "id": "bulgogi",
+        "menuName": "牛プルコギ",
+        "note": "2〜3人前"
+      },
+      {
+        "id": "samgyeopsal",
+        "menuName": "サムギョプサル",
+        "note": "2〜3人前"
+      },
+      {
+        "id": "chukkumi",
+        "menuName": "チュクミ炒め石焼ビビンバ・パチヂミセット"
+      },
+      {
+        "id": "budae-jjigae",
+        "menuName": "プデチゲ",
+        "note": "2〜3人前"
+      },
+      {
+        "id": "bibimbap",
+        "menuName": "石焼ビビンバ"
+      },
+      {
+        "id": "naengmyeon",
+        "menuName": "水冷麺"
+      },
+      {
+        "id": "sundubu-jjigae",
+        "menuName": "スンドゥブチゲ"
+      },
+      {
+        "id": "kimchi-jjigae",
+        "menuName": "キムチチゲ"
+      },
+      {
+        "id": "doenjang-jjigae",
+        "menuName": "テンジャンチゲ"
+      },
+      {
+        "id": "samgyetang",
+        "menuName": "サムゲタン"
+      },
+      {
+        "id": "gomtang",
+        "menuName": "コムタンスープ"
+      },
+      {
+        "id": "yukgaejang",
+        "menuName": "ユッケジャンスープ"
+      }
+    ],
+    "sources": [
+      "https://www.saikabo.com/restaurant/yotsuya/",
+      "https://www.hotpepper.jp/strJ000103709/food/"
+    ],
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "kollabo-toranomon",
+    "name": "焼肉・韓国料理 KollaBo×マンジョ＆ソベッチャカンジャンケジャン 虎ノ門店",
+    "kana": "こらぼ とらのもんてん",
+    "cuisines": [
+      "韓国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 霞が関",
+    "address": "東京都千代田区霞が関3-2-6 東京俱楽部ビルディング 1F",
+    "nearestStation": "虎ノ門駅 徒歩3分",
+    "url": "https://shop.kollabo.co.jp/store/",
+    "description": "焼肉・韓国料理チェーンKollaBoの虎ノ門店。韓国の専門店と提携したメニューが特徴で、この店ではソベッチャのカンジャンケジャンを出す。ほかにソルロンタンや参鶏湯などのスープ、サムギョプサル、チーズタッカルビもある。",
+    "dishes": [
+      {
+        "id": "ganjang-gejang",
+        "menuName": "カンジャンケジャン",
+        "note": "提携ブランド：ソベッチャのカンジャンケジャン"
+      },
+      {
+        "id": "samgyeopsal",
+        "menuName": "サムギョプサル"
+      },
+      {
+        "id": "dak-galbi",
+        "menuName": "チーズダッカルビ"
+      },
+      {
+        "id": "seolleongtang",
+        "menuName": "ソルロンタン"
+      },
+      {
+        "id": "samgyetang",
+        "menuName": "特選参鶏湯（サムゲタン）"
+      },
+      {
+        "id": "galbi-tang",
+        "menuName": "カルビタン"
+      },
+      {
+        "id": "sundubu-jjigae",
+        "menuName": "純豆腐チゲ"
+      },
+      {
+        "id": "haemul-pajeon",
+        "menuName": "海鮮チヂミ"
+      },
+      {
+        "id": "bibimbap",
+        "menuName": "石焼ビビンバ"
+      },
+      {
+        "id": "naengmyeon",
+        "menuName": "水冷麺"
+      },
+      {
+        "id": "yangnyeom-chicken",
+        "menuName": "ヤンニョムチキン"
+      }
+    ],
+    "sources": [
+      "https://shop.kollabo.co.jp/menu/",
+      "https://www.hotpepper.jp/strJ004612944/"
+    ],
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "vietnam-frog-shiodome",
+    "name": "ベトナム フロッグ 汐留店",
+    "kana": "べとなむ ふろっぐ しおどめてん",
+    "cuisines": [
+      "ベトナム料理"
+    ],
+    "prefecture": "東京都",
+    "area": "港区 東新橋",
+    "address": "東京都港区東新橋1-5-2 汐留シティセンタービル B1",
+    "nearestStation": "汐留駅 徒歩1分",
+    "description": "汐留シティセンター地下1階のベトナム料理店。ハノイのブンチャー、フエのブンボーフエ、牛肉のフォーなど麺料理の種類が多く、バインセオや生春巻き、バインミーもそろう。",
+    "dishes": [
+      {
+        "id": "bun-cha",
+        "menuName": "ブン・チャーハノイ"
+      },
+      {
+        "id": "bun-bo-hue",
+        "menuName": "ブンボーフエ"
+      },
+      {
+        "id": "pho",
+        "menuName": "牛肉のフォー"
+      },
+      {
+        "id": "banh-xeo",
+        "menuName": "バインセオ"
+      },
+      {
+        "id": "banh-cuon",
+        "menuName": "バインクオン"
+      },
+      {
+        "id": "goi-cuon",
+        "menuName": "生春巻"
+      },
+      {
+        "id": "banhmi",
+        "menuName": "バインミー"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000103786/food/",
+      "https://www.hotpepper.jp/strJ000103786/course_cnod19/",
+      "https://gurunavi.com/en/a986600/rst"
+    ],
+    "checkedAt": "2026-11-13"
   }
 ]
