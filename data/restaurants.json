@@ -2718,5 +2718,712 @@
       "https://www.timeout.jp/tokyo/ja/restautant/mexican"
     ],
     "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "il-vicolo-nakameguro",
+    "name": "PIZZERIA IL VICOLO",
+    "kana": "ぴっつぇりあ いる ゔぃころ",
+    "cuisines": [
+      "イタリア料理"
+    ],
+    "prefecture": "東京都",
+    "area": "目黒区 中目黒",
+    "address": "東京都目黒区中目黒1-2-13",
+    "url": "https://www.huge.co.jp/service/restaurant/italian/il_vicolo/",
+    "description": "中目黒のピッツェリア。国産小麦の軽い生地で焼くピッツァと、炭火で焼く肉料理を出す。パスタはトロフィエやメッツェマニケなど形の違う麺を料理ごとに使い分ける。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "pizza-margherita",
+        "menuName": "margherita bufala"
+      },
+      {
+        "id": "pizza-marinara",
+        "menuName": "marinara"
+      },
+      {
+        "id": "carbonara",
+        "menuName": "carbonara with smoked duck ham & leek"
+      },
+      {
+        "id": "aglio-e-olio",
+        "menuName": "aglio e olio with pacific saury & maitake mushroom"
+      },
+      {
+        "id": "gnocchi",
+        "menuName": "gnocchi with pumpkin & gorgonzola"
+      },
+      {
+        "id": "tagliata",
+        "menuName": "skirt steak tagliata"
+      },
+      {
+        "id": "carpaccio",
+        "menuName": "fresh carpaccio"
+      },
+      {
+        "id": "caprese",
+        "menuName": "mozzarella bufala & fruit tomato caprese"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261027_ilvicolo_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "cucina-del-nabucco-ginza",
+    "name": "cucina del NABUCCO",
+    "kana": "くっちーな でる なぶっこ",
+    "cuisines": [
+      "イタリア料理"
+    ],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座2-4-12 ミキモトギンザ2 7F",
+    "url": "https://www.huge.co.jp/service/restaurant/italian/nabucco/",
+    "description": "銀座・ミキモトギンザ2の7階にあるイタリア料理店。前菜のカルパッチョやカプレーゼ、パンチェッタと名古屋コーチンの卵を使うカルボナーラ、リゾットを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "carbonara",
+        "menuName": "Carbonara with Pancetta & Nagoya-cochin Egg"
+      },
+      {
+        "id": "aglio-e-olio",
+        "menuName": "Aglio Olio with Seared Conger Eel & Kujo Leek"
+      },
+      {
+        "id": "risotto",
+        "menuName": "Quattro Formaggi Risotto"
+      },
+      {
+        "id": "carpaccio",
+        "menuName": "Catch of the Day Carpaccio"
+      },
+      {
+        "id": "caprese",
+        "menuName": "Homemade Mozzarella & Fruit Tomato Caprese"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261009_nabucco_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "osteria-il-viaggio-tokyo",
+    "name": "Osteria IL VIAGGIO",
+    "kana": "おすてりあ いる ゔぃあっじお",
+    "cuisines": [
+      "イタリア料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内1-9-1 グランルーフ2F グランスタ八重洲",
+    "nearestStation": "東京駅 八重洲口",
+    "url": "https://www.huge.co.jp/service/restaurant/italian/viaggio/",
+    "description": "東京駅八重洲口の改札外、グランルーフ2階のオステリア。アクアパッツァ、ミネストローネ、豚カツレツのミラノ風、ローマ風のピンサなどを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "acqua-pazza",
+        "menuName": "Acqua Pazza"
+      },
+      {
+        "id": "cotoletta-alla-milanese",
+        "menuName": "Hakkinton Pork Cutlet Milanese"
+      },
+      {
+        "id": "minestrone",
+        "menuName": "Wood Fire Grilled Bacon Minestrone Soup"
+      },
+      {
+        "id": "affettato-misto",
+        "menuName": "Affettato Misto"
+      },
+      {
+        "id": "bruschetta",
+        "menuName": "Bruschetta Cherry Tomato, Ricotta & Raw Whitebait"
+      },
+      {
+        "id": "carpaccio",
+        "menuName": "Carpaccio of The Day"
+      },
+      {
+        "id": "tagliata",
+        "menuName": "Wagyu Sirloin Cap & Porcini Tagliata"
+      },
+      {
+        "id": "risotto",
+        "menuName": "Porcini & Pancetta Risotto"
+      },
+      {
+        "id": "caprese",
+        "menuName": "Persimmon, Prosciutto & Burrata Caprese"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261105_viaggio_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "posillipo-tomigusuku",
+    "name": "POSILLIPO cucina meridionale",
+    "kana": "ぽじりぽ くっちーな めりでぃおなーれ",
+    "cuisines": [
+      "イタリア料理"
+    ],
+    "prefecture": "沖縄県",
+    "area": "豊見城市 瀬長",
+    "address": "沖縄県豊見城市瀬長174-5",
+    "url": "https://www.huge.co.jp/service/restaurant/italian/posillipo/",
+    "description": "沖縄・瀬長島の南イタリア料理店。ナポリピッツァのほか、アクアパッツァ、イカ墨のリゾット、ポルチーニのラビオリなど南イタリアの料理を出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "pizza-margherita",
+        "menuName": "MARGHERITA EXTRA"
+      },
+      {
+        "id": "pizza-marinara",
+        "menuName": "BOTTARGA, MOZZARELLA BUFALA & MARINARA"
+      },
+      {
+        "id": "pizza-quattro-formaggi",
+        "menuName": "QUATTRO FORMAGGI"
+      },
+      {
+        "id": "acqua-pazza",
+        "menuName": "ACQUA PAZZA"
+      },
+      {
+        "id": "risotto-al-nero-di-seppia",
+        "menuName": "SQUID INK RISOTTO"
+      },
+      {
+        "id": "ravioli",
+        "menuName": "PORCINI RAVIOLI WITH CREAM SAUCE"
+      },
+      {
+        "id": "carbonara",
+        "menuName": "CARBONARA"
+      },
+      {
+        "id": "aglio-e-olio",
+        "menuName": "CLAMS AGLIO OLIO"
+      },
+      {
+        "id": "affettato-misto",
+        "menuName": "AFFETTATO MISTO"
+      },
+      {
+        "id": "tagliata",
+        "menuName": "BEEF SKIRT TAGLIATA"
+      },
+      {
+        "id": "carpaccio",
+        "menuName": "OCTOPUS CARPACCIO"
+      },
+      {
+        "id": "bruschetta",
+        "menuName": "Bruschettas"
+      },
+      {
+        "id": "caprese",
+        "menuName": "BURRATA CHEESE & FRUIT CAPRESE"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261020_posillipo_GRAND.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "delizioso-firenze-marunouchi",
+    "name": "DELIZIOSO FIRENZE 新丸ビル",
+    "kana": "でりつぃおーぞ ふぃれんつぇ",
+    "cuisines": [
+      "イタリア料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内1-5-1 新丸の内ビルディング5F",
+    "nearestStation": "JR東京駅 丸の内北口 徒歩1分",
+    "url": "https://delizioso-firenze.owst.jp",
+    "description": "新丸ビル5階のフィレンツェ風イタリア料理店。炭火で焼く骨付き牛Tボーンステーキ、ビステッカ・アッラ・フィオレンティーナが看板で、600gから注文できる。牛ランプのタリアータやピッツァもある。",
+    "dishes": [
+      {
+        "id": "bistecca-alla-fiorentina",
+        "menuName": "フィレンツェ風牛Tボーンステーキ \"ビステッカ・アッラ・フィオレンティーナ\"",
+        "note": "100g単位、600gから"
+      },
+      {
+        "id": "tagliata",
+        "menuName": "国産牛ランプの炭火焼き\"タリアータ\""
+      },
+      {
+        "id": "pizza-margherita",
+        "menuName": "Pizzaマルゲリータ"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000657338/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "le-bistro-sendagaya",
+    "name": "LE BISTRO",
+    "kana": "る びすとろ",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 千駄ヶ谷",
+    "address": "東京都渋谷区千駄ケ谷4-6-8",
+    "url": "https://www.huge.co.jp/service/restaurant/french/le_bistro/",
+    "description": "千駄ヶ谷のビストロ。パテ・ド・カンパーニュやリエット、エスカルゴなどの定番前菜から、カスレ、ブフ・ブルギニヨン、マルセイユ風ブイヤベースまでフランスの地方料理をそろえる。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "pate-de-campagne",
+        "menuName": "自家製パテ・ド・カンパーニュ"
+      },
+      {
+        "id": "rillette",
+        "menuName": "豚肉のリエット"
+      },
+      {
+        "id": "terrine",
+        "menuName": "自家製鴨フォアグラのテリーヌ"
+      },
+      {
+        "id": "gougere",
+        "menuName": "フォアグラのグジェール"
+      },
+      {
+        "id": "charcuterie",
+        "menuName": "シャルキュトリー盛り合わせ"
+      },
+      {
+        "id": "escargot",
+        "menuName": "エスカルゴのオーブン焼き"
+      },
+      {
+        "id": "tartare",
+        "menuName": "黒毛和牛のタルタル"
+      },
+      {
+        "id": "salade_nicoise",
+        "menuName": "サラダ・ニソワーズ"
+      },
+      {
+        "id": "french-onion-soup",
+        "menuName": "オニオン・グラタンスープ"
+      },
+      {
+        "id": "cassoulet",
+        "menuName": "カスレ"
+      },
+      {
+        "id": "beef-bourguignon",
+        "menuName": "黒毛和牛頬肉のブフ・ブルギニヨン"
+      },
+      {
+        "id": "bouillabaisse",
+        "menuName": "マルセイユ風ブイヤベース"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261019_bistro_grand.pdf",
+      "https://www.huge.co.jp/tenpo_file/file/261020_LB_lunch_dejeuner.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "le-bretagne-kagurazaka",
+    "name": "CAFÉ CRÊPERIE LE BRETAGNE 神楽坂",
+    "kana": "かふぇ くれーぷりー る ぶるたーにゅ",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 神楽坂",
+    "address": "東京都新宿区神楽坂4-2",
+    "url": "https://le-bretagne.com/creperie/kagurazaka/",
+    "description": "1996年に神楽坂で開いた日本初のクレープリー。そば粉100%のブルターニュ式ガレットとデザートのクレープを、ブルターニュのシードルと合わせて出す。テラス席がある。",
+    "dishes": [
+      {
+        "id": "galette",
+        "menuName": "そば粉100%のガレット",
+        "note": "コンプレットなど"
+      },
+      {
+        "id": "crepe",
+        "menuName": "クレープ",
+        "note": "バターシュガー、クレープ・シュゼットなど"
+      },
+      {
+        "id": "cidre",
+        "menuName": "シードル Val de Rance"
+      }
+    ],
+    "sources": [
+      "https://le-bretagne.com/wp-content/uploads/2026/10/2611_menukagu.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "breizh-cafe-omotesando",
+    "name": "Breizh café crêperie 表参道店",
+    "kana": "ぶれっつかふぇ くれーぷりー おもてさんどう",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 神宮前",
+    "address": "東京都渋谷区神宮前3-5-4",
+    "url": "https://le-bretagne.com/creperie/omotesando/",
+    "description": "1996年に神楽坂で開いた日本初のクレープリーを起点とする、ル ブルターニュの店。そば粉100%のガレットとクレープ、直輸入のシードルを出す。隣にシードル専門店カーヴ ア シードルがある。",
+    "dishes": [
+      {
+        "id": "galette",
+        "menuName": "そば粉100%のガレット",
+        "note": "コンプレットなど"
+      },
+      {
+        "id": "crepe",
+        "menuName": "クレープ",
+        "note": "バターシュガー、クレープ・シュゼットなど"
+      },
+      {
+        "id": "cidre",
+        "menuName": "シードル Val de Rance"
+      }
+    ],
+    "sources": [
+      "https://le-bretagne.com/wp-content/uploads/2026/10/2611_menu.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "breizh-cafe-shinjuku-takashimaya",
+    "name": "Breizh café crêperie 新宿タカシマヤ店",
+    "kana": "ぶれっつかふぇ くれーぷりー しんじゅくたかしまや",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 千駄ヶ谷",
+    "address": "東京都渋谷区千駄ヶ谷5-24-2 新宿タカシマヤ13F",
+    "url": "https://le-bretagne.com/creperie/shinjuku/",
+    "description": "1996年に神楽坂で開いた日本初のクレープリーを起点とする、ル ブルターニュの店。新宿タカシマヤ13階のレストランパーク内にあり、植栽に面したテラス席がある。そば粉100%のガレットとクレープ、シードルを出す。",
+    "dishes": [
+      {
+        "id": "galette",
+        "menuName": "そば粉100%のガレット",
+        "note": "コンプレットなど"
+      },
+      {
+        "id": "crepe",
+        "menuName": "クレープ",
+        "note": "バターシュガー、クレープ・シュゼットなど"
+      },
+      {
+        "id": "cidre",
+        "menuName": "シードル Val de Rance"
+      }
+    ],
+    "sources": [
+      "https://le-bretagne.com/wp-content/uploads/2026/10/2611_menu.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "breizh-cafe-kyoto",
+    "name": "Breizh café crêperie 京都店",
+    "kana": "ぶれっつかふぇ くれーぷりー きょうと",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "京都府",
+    "area": "京都市左京区 若王子町",
+    "address": "京都府京都市左京区若王子町24-3",
+    "nearestStation": "地下鉄東西線 蹴上駅から1200m",
+    "url": "https://le-bretagne.com/creperie/kyoto/",
+    "description": "1996年に神楽坂で開いた日本初のクレープリーを起点とする、ル ブルターニュの店。哲学の道の起点近く、町家を改装した店で、中庭と掘り炬燵の和室がある。そば粉のガレットとクレープ、シードルを出す。",
+    "dishes": [
+      {
+        "id": "galette",
+        "menuName": "そば粉100%のガレット",
+        "note": "コンプレットなど"
+      },
+      {
+        "id": "crepe",
+        "menuName": "クレープ",
+        "note": "バターシュガー、クレープ・シュゼットなど"
+      },
+      {
+        "id": "cidre",
+        "menuName": "シードル Val de Rance"
+      }
+    ],
+    "sources": [
+      "https://le-bretagne.com/wp-content/uploads/2026/11/2611_Kyoto-menu.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "brasserie-paul-bocuse-ginza",
+    "name": "ブラッスリー ポール・ボキューズ 銀座",
+    "kana": "ぶらっすりー ぽーる・ぼきゅーず ぎんざ",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座2-2-14 マロニエゲート銀座1 10F",
+    "url": "https://www.hiramatsurestaurant.jp/paulbocuse-ginza/",
+    "description": "マロニエゲート銀座1の10階にある、リヨンの料理人ポール・ボキューズの名を冠したブラッスリー。リヨンのスペシャリテであるクネルをコースで出す。ひらまつの運営。",
+    "dishes": [
+      {
+        "id": "quenelle",
+        "menuName": "リヨンのスペシャリテ スズキと帆立のクネル ヴァンブランソース"
+      },
+      {
+        "id": "escargot",
+        "menuName": "エスカルゴとフランス産キノコのパイ包焼き",
+        "note": "コースの前菜"
+      }
+    ],
+    "sources": [
+      "https://www.hiramatsurestaurant.jp/paulbocuse-ginza/menu/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "brasserie-paul-bocuse-daimaru-tokyo",
+    "name": "ブラッスリー ポール・ボキューズ 大丸東京",
+    "kana": "ぶらっすりー ぽーる・ぼきゅーず だいまるとうきょう",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内1-9-1 大丸東京店12階",
+    "nearestStation": "東京駅直結",
+    "url": "https://www.hiramatsurestaurant.jp/paulbocuse-daimarutokyo/",
+    "description": "大丸東京店12階のブラッスリー。店のスペシャリテはオマール海老のブイヤベースで、アラカルトでも注文できる。四万十ポークのパテ・ド・カンパーニュもある。ひらまつの運営。",
+    "dishes": [
+      {
+        "id": "bouillabaisse",
+        "menuName": "オマール海老のブイヤベース",
+        "note": "店のスペシャリテ"
+      },
+      {
+        "id": "pate-de-campagne",
+        "menuName": "高知県産四万十ポークのパテ・ド・カンパーニュ"
+      },
+      {
+        "id": "quiche",
+        "menuName": "根菜のキッシュ",
+        "note": "コースの前菜"
+      }
+    ],
+    "sources": [
+      "https://www.hiramatsurestaurant.jp/paulbocuse-daimarutokyo/menu/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "del-mar-yokohama",
+    "name": "DEL MAR COMEDOR Y TERRAZA",
+    "kana": "でる まーる こめどーる い てらっつぁ",
+    "cuisines": [
+      "スペイン料理"
+    ],
+    "prefecture": "神奈川県",
+    "area": "横浜市中区 新港",
+    "address": "神奈川県横浜市中区新港2-14-1 横浜ハンマーヘッド 2F",
+    "url": "https://www.huge.co.jp/service/restaurant/spanish/del_mar/",
+    "description": "横浜ハンマーヘッド2階のスペイン料理店。魚介のパエリアやイカ墨のフィデウア、ガリシア風のタコ、日替わりのピンチョスを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "PAELLA DEL MAR"
+      },
+      {
+        "id": "fideua",
+        "menuName": "SQUID INK FIDEUA"
+      },
+      {
+        "id": "pulpo-a-feira",
+        "menuName": "PULPO A LA GALLEGA"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "SHRIMP AJILLO"
+      },
+      {
+        "id": "callos",
+        "menuName": "CALLOS SPANISH TRIPE STEW"
+      },
+      {
+        "id": "boquerones-vinagre",
+        "menuName": "BOQUERONES VINEGARED ANCHOVIES"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "TODAY'S PINTXOS"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/260406_dm_grand.pdf"
+    ],
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "la-coquina-shibuya",
+    "name": "La Coquina Cervecería",
+    "kana": "ら こきーな せるべせりあ",
+    "cuisines": [
+      "スペイン料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 渋谷",
+    "address": "東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア 13階",
+    "url": "https://www.huge.co.jp/service/restaurant/spanish/la_coquina/",
+    "description": "渋谷スクランブルスクエア13階のスペインバル。パエリアやフィデウアのほか、ガリシア風のタコ、イカ墨のクロケッタ、カジョス、パタタス・ブラバスなど定番のタパスがそろう。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "IBERIAN PORK PAELLA"
+      },
+      {
+        "id": "fideua",
+        "menuName": "FIDEUA"
+      },
+      {
+        "id": "pulpo-a-feira",
+        "menuName": "PULPO A LA GALLEGA"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "CAMARONES AL AJILLO"
+      },
+      {
+        "id": "croqueta",
+        "menuName": "CROQUETAS DE TINTA DE CALAMAR"
+      },
+      {
+        "id": "callos",
+        "menuName": "CALLOS"
+      },
+      {
+        "id": "patatas-bravas",
+        "menuName": "PATATAS BRAVAS"
+      },
+      {
+        "id": "tortilla",
+        "menuName": "TORTILLA"
+      },
+      {
+        "id": "boquerones-vinagre",
+        "menuName": "BOQUERONES",
+        "note": "marinated sardine"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261007_LC_grand.pdf"
+    ],
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "la-pesquera-otemachi",
+    "name": "La Pesquera Marisquería",
+    "kana": "ら ぺすけーら まりすけりあ",
+    "cuisines": [
+      "スペイン料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 大手町",
+    "address": "東京都千代田区大手町1-5-5 大手町タワー OOTEMORI B2F",
+    "url": "https://www.huge.co.jp/service/restaurant/spanish/la_pesquera/",
+    "description": "大手町タワー地下2階の魚介中心のスペイン料理店。日替わりのパエリアやイカ墨のパエリア、マドリード風のカジョス、トルティージャを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "PAELLA DEL DIA"
+      },
+      {
+        "id": "arroz-negro",
+        "menuName": "TINTA DE CALAMAR",
+        "note": "イカ墨のパエリア"
+      },
+      {
+        "id": "fideua",
+        "menuName": "Fideua"
+      },
+      {
+        "id": "callos",
+        "menuName": "CALLOS AL MADRILENO"
+      },
+      {
+        "id": "pulpo-a-feira",
+        "menuName": "PULPO A LA GALLEGA"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "CAMARONES Y SETAS AL AJILLO"
+      },
+      {
+        "id": "patatas-bravas",
+        "menuName": "PATATAS BRAVAS"
+      },
+      {
+        "id": "tortilla",
+        "menuName": "TORTILLA ESPANOLA"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261027_lp_grand.pdf"
+    ],
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "bikini-sis-roppongi",
+    "name": "BIKiNi SIS 六本木ヒルズ店",
+    "kana": "びきに しす",
+    "cuisines": [
+      "スペイン料理"
+    ],
+    "prefecture": "東京都",
+    "area": "港区 六本木",
+    "address": "東京都港区六本木6-10-1 六本木ヒルズ ウェストウォーク5F",
+    "url": "https://www.roppongihills.com/sp/dining/restaurant/bikini_sis/",
+    "description": "六本木ヒルズ ウェストウォーク5階のスペイン料理店。カタルーニャ出身のシェフ、ジョセップ・バラオナ・ビニェス氏が手がけ、カタルーニャ料理に日本の旬の食材を合わせたコースを出す。名物はパン・コン・トマテ。パエリアは、米を使う魚介のパエリアと、カタルーニャ伝統のパスタのパエリアから選べる。",
+    "dishes": [
+      {
+        "id": "pan-con-tomate",
+        "menuName": "パンコントマテ"
+      },
+      {
+        "id": "paella",
+        "menuName": "魚介のパエリア",
+        "note": "コースのパエリアで選択"
+      },
+      {
+        "id": "fideua",
+        "menuName": "カタルーニャ地方の伝統的なパスタのパエリア",
+        "note": "コースのパエリアで選択"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "マイクロピンチョス9種盛り合わせ",
+        "note": "コースの前菜"
+      }
+    ],
+    "sources": [
+      "https://www.roppongihills.com/sp/dining/restaurant/bikini_sis/",
+      "https://restaurant.ikyu.com/110687/"
+    ],
+    "checkedAt": "2026-11-13"
   }
 ]
