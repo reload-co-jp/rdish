@@ -10,6 +10,7 @@ type Props = {
   heading: string
 }
 
+// 閉じるボタン: スマホで広告(全幅レスポンシブ)に覆われ・縦はみ出しで画面外 → sticky 行 + オーバーレイ自体をスクロール可能に
 // native <dialog>.showModal() は子の adsbygoogle.push より後に走り枠幅0になる → 条件付き div
 export const RouteAdModal = ({ links, heading }: Props) => {
   const pathname = usePathname()
@@ -55,32 +56,54 @@ export const RouteAdModal = ({ links, heading }: Props) => {
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
-        justifyContent: "center",
+        justifyContent: "safe center",
         gap: "1rem",
-        padding: "1rem",
+        padding:
+          "max(1rem, env(safe-area-inset-top)) 1rem max(1rem, env(safe-area-inset-bottom))",
+        overflowY: "auto",
+        overscrollBehavior: "contain",
       }}
     >
-      <button
-        type="button"
-        aria-label="Close"
-        onClick={close}
+      <div
         style={{
-          position: "absolute",
-          top: "1rem",
-          right: "1rem",
-          width: "2.5rem",
-          height: "2.5rem",
-          borderRadius: "50%",
-          border: "none",
-          background: "#fff",
-          fontSize: "1.25rem",
-          cursor: "pointer",
+          position: "sticky",
+          top: 0,
+          zIndex: 1,
+          width: "100%",
+          maxWidth: "728px",
+          display: "flex",
+          justifyContent: "flex-end",
+          flexShrink: 0,
         }}
       >
-        ×
-      </button>
-      <div style={{ width: "100%", maxWidth: "728px", background: "#fff" }}>
-        <AdSense />
+        <button
+          type="button"
+          aria-label="Close"
+          onClick={close}
+          style={{
+            width: "2.5rem",
+            height: "2.5rem",
+            borderRadius: "50%",
+            border: "none",
+            background: "#fff",
+            fontSize: "1.25rem",
+            cursor: "pointer",
+            boxShadow: "0 1px 4px rgba(0, 0, 0, 0.3)",
+          }}
+        >
+          ×
+        </button>
+      </div>
+      <div
+        style={{
+          width: "100%",
+          maxWidth: "728px",
+          background: "#fff",
+          flexShrink: 0,
+          overflow: "hidden",
+        }}
+      >
+        <AdSense fullWidthResponsive={false} />
       </div>
       <nav
         aria-label={heading}
@@ -88,6 +111,7 @@ export const RouteAdModal = ({ links, heading }: Props) => {
           width: "100%",
           maxWidth: "728px",
           maxHeight: "40dvh",
+          flexShrink: 0,
           overflowY: "auto",
           background: "#fff",
           padding: "1rem",
