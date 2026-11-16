@@ -3657,5 +3657,238 @@
       "https://gurunavi.com/en/a986600/rst"
     ],
     "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "kosaku-kofu-ekimae",
+    "name": "甲州ほうとう 小作 甲府駅前店",
+    "kana": "こうしゅうほうとう こさく こうふえきまえてん",
+    "cuisines": [
+      "日本料理"
+    ],
+    "prefecture": "山梨県",
+    "area": "甲府市 丸の内",
+    "address": "山梨県甲府市丸の内1-7-2",
+    "nearestStation": "甲府駅 南口",
+    "url": "https://www.kosaku.co.jp/tenpo-kofuekimae",
+    "description": "山梨県内を中心に展開する甲州ほうとうの専門店。看板のかぼちゃほうとうをはじめ、豚肉・鴨肉・きのこなど具の違うほうとうが十数種類あり、あずきほうとうや冷やしほうとうの「おざら」、甲州名物の馬刺しと煮貝も出す。",
+    "dishes": [
+      {
+        "id": "houtou",
+        "menuName": "かぼちゃほうとう"
+      },
+      {
+        "id": "azuki-houtou-yama-nashi",
+        "menuName": "あずきほうとう"
+      },
+      {
+        "id": "ozara-yamanashi",
+        "menuName": "おざら（冷やしほうとう）"
+      },
+      {
+        "id": "basashi-kumamoto",
+        "menuName": "馬刺し"
+      },
+      {
+        "id": "awabino-nigai-yama-nashi",
+        "menuName": "煮貝"
+      }
+    ],
+    "sources": [
+      "https://www.kosaku.co.jp/manu.html",
+      "https://www.kosaku.co.jp/dantai.html"
+    ],
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "id": "motsunabe-ooyama-honten",
+    "name": "博多もつ鍋おおやま 本店",
+    "kana": "はかたもつなべおおやま ほんてん",
+    "cuisines": [
+      "日本料理"
+    ],
+    "prefecture": "福岡県",
+    "area": "福岡市博多区 店屋町",
+    "address": "福岡県福岡市博多区店屋町7-28",
+    "url": "https://www.motu-ooyama.com/shop/honten/",
+    "description": "全国に店舗を持つ博多もつ鍋おおやまの1号店。和牛小腸のもつ鍋をみそ・しょうゆ・水炊き風の3種類のスープから選べ、熊本から直送する馬刺しも名物。",
+    "dishes": [
+      {
+        "id": "motsunabe",
+        "menuName": "もつ鍋（みそ味・しょうゆ味・水炊き風）"
+      },
+      {
+        "id": "basashi-kumamoto",
+        "menuName": "馬刺し三種盛り"
+      }
+    ],
+    "sources": [
+      "https://www.motu-ooyama.com/shop/honten/"
+    ],
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "id": "shikairou-nagasaki",
+    "name": "中華料理 四海樓",
+    "kana": "ちゅうかりょうり しかいろう",
+    "cuisines": [
+      "中国料理",
+      "日本料理"
+    ],
+    "prefecture": "長崎県",
+    "area": "長崎市 松が枝町",
+    "address": "長崎県長崎市松が枝町4-5",
+    "nearestStation": "大浦天主堂電停 徒歩1分",
+    "url": "https://shikairou.com/",
+    "description": "明治32年（1899年）創業の中華料理店で、創業者の陳平順がちゃんぽんと皿うどんを考案したとされる。2階にちゃんぽんミュージアムがある。",
+    "dishes": [
+      {
+        "id": "46-8-nagasaki",
+        "menuName": "ちゃんぽん"
+      },
+      {
+        "id": "sara-udon",
+        "menuName": "皿うどん"
+      }
+    ],
+    "sources": [
+      "https://shikairou.com/champon/",
+      "https://shikairou.com/saraudon/",
+      "https://rurubu.jp/andmore/spot/80039253",
+      "https://www.gltjp.com/ja/directory/item/12448/"
+    ],
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "id": "fukagawajuku-honten",
+    "name": "深川宿 本店",
+    "kana": "ふかがわじゅく ほんてん",
+    "cuisines": [
+      "日本料理"
+    ],
+    "prefecture": "東京都",
+    "area": "江東区 三好",
+    "address": "東京都江東区三好1-6-7",
+    "nearestStation": "清澄白河駅 A3出口 徒歩4分",
+    "url": "https://www.fukagawajuku.com/",
+    "description": "深川江戸資料館前の深川めしの店。あさりを味噌で煮立てて汁ごとご飯にかける「ぶっかけ」と、醤油味で炊き込む「炊き込み」の2種類を出す。富岡八幡宮の境内に富岡八幡店もある。",
+    "dishes": [
+      {
+        "id": "34-1-tokyo",
+        "menuName": "深川めし（ぶっかけ・炊き込み）"
+      }
+    ],
+    "sources": [
+      "https://www.fukagawajuku.com/"
+    ],
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "id": "hanamidori-nakasu-honten",
+    "name": "水たき料亭 博多華味鳥 中洲本店",
+    "kana": "みずたきりょうてい はかたはなみどり なかすほんてん",
+    "cuisines": [
+      "日本料理"
+    ],
+    "prefecture": "福岡県",
+    "area": "福岡市博多区 中洲",
+    "address": "福岡県福岡市博多区中洲5-4-24 トリゼンビル",
+    "nearestStation": "中洲川端駅 徒歩5分",
+    "url": "https://www.hanamidori.net/stores/0922630322/",
+    "description": "北部九州で自社育成する銘柄鶏「華味鳥」を使った水たき料亭の本店。水たきのコースを中心に、ごまカンパチや明太子などの一品料理もある。",
+    "dishes": [
+      {
+        "id": "wakadori-no-mizutaki-fukuoka",
+        "menuName": "水たき"
+      }
+    ],
+    "sources": [
+      "https://www.hanamidori.net/stores/0922630322/",
+      "https://www.hanamidori.net/menu-food/"
+    ],
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "id": "kojimaya-tokamachi-honten",
+    "name": "越後十日町小嶋屋 本店",
+    "kana": "えちごとおかまちこじまや ほんてん",
+    "cuisines": [
+      "日本料理"
+    ],
+    "prefecture": "新潟県",
+    "area": "十日町市 本町",
+    "address": "新潟県十日町市本町4-16-1",
+    "url": "https://hegisoba.co.jp/shop/kojimaya-honten/",
+    "description": "十日町のへぎそば店。布海苔（ふのり）をつなぎにした十割のそばを、へぎと呼ぶ木の器に手振りで盛って出す。天ぷらとの組み合わせも多い。",
+    "dishes": [
+      {
+        "id": "hegisoba-niigata-niigata",
+        "menuName": "へぎそば"
+      },
+      {
+        "id": "tempura",
+        "menuName": "天ぷら（エビ、旬の野菜）"
+      }
+    ],
+    "sources": [
+      "https://hegisoba.co.jp/shop/kojimaya-honten/",
+      "https://hegisoba.co.jp/menu/"
+    ],
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "id": "neboke-ginza",
+    "name": "土佐料理 祢保希 銀座店",
+    "kana": "とさりょうり ねぼけ ぎんざてん",
+    "cuisines": [
+      "日本料理"
+    ],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座7-6-8",
+    "nearestStation": "銀座駅・新橋駅 徒歩4分",
+    "url": "https://www.katsuo.co.jp/neboke-ginza/",
+    "description": "大正6年（1917年）創業の土佐料理司グループの銀座店で、一軒家の料亭。大皿に料理を盛り合わせる皿鉢料理のコースや、名物の鰹のたたきを出す。",
+    "dishes": [
+      {
+        "id": "sawachi-ryori",
+        "menuName": "皿鉢料理"
+      },
+      {
+        "id": "katsuo-no-tataki-kochi",
+        "menuName": "鰹のたたき"
+      }
+    ],
+    "sources": [
+      "https://www.katsuo.co.jp/neboke-ginza/",
+      "https://restaurant.ikyu.com/106303/"
+    ],
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "id": "mukashi-no-kiritanpoya-odate",
+    "name": "昔のきりたんぽや",
+    "kana": "むかしのきりたんぽや",
+    "cuisines": [
+      "日本料理"
+    ],
+    "prefecture": "秋田県",
+    "area": "大館市 大館",
+    "address": "秋田県大館市大館75-5",
+    "url": "https://kiritanpoya.jp/",
+    "description": "大館のきりたんぽ鍋の店。比内地鶏のガラから取ったスープに手作りのきりたんぽを入れ、セリやゴボウ、舞茸と煮る。素材の都合で5月中旬から9月下旬は休業する。",
+    "dishes": [
+      {
+        "id": "kiritanpo-nabe-akita",
+        "menuName": "きりたんぽ鍋"
+      },
+      {
+        "id": "iburigakko-akita",
+        "menuName": "いぶりがっこ"
+      }
+    ],
+    "sources": [
+      "https://kiritanpoya.jp/"
+    ],
+    "checkedAt": "2026-11-16"
   }
 ]
