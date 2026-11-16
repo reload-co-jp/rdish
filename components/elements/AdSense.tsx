@@ -22,7 +22,11 @@ declare global {
   }
 }
 
-const AdSense = () => {
+const AdSense = ({
+  fullWidthResponsive = true,
+}: {
+  fullWidthResponsive?: boolean
+} = {}) => {
   const pathname = useAdPush()
 
   if (process.env.NODE_ENV !== "production") return null
@@ -35,7 +39,7 @@ const AdSense = () => {
       data-ad-client="ca-pub-6542845006087970"
       data-ad-slot="7749597693"
       data-ad-format="auto"
-      data-full-width-responsive="true"
+      data-full-width-responsive={fullWidthResponsive ? "true" : "false"}
     />
   )
 }
