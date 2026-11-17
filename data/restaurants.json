@@ -423,8 +423,11 @@
         "menuName": "クイティウ（米麺）"
       }
     ],
-    "sources": ["https://prtimes.jp/main/html/rd/p/000000001.000127440.html"],
-    "checkedAt": "2026-11-07"
+    "sources": [
+      "https://prtimes.jp/main/html/rd/p/000000001.000127440.html",
+      "https://tabelog.com/tokyo/A1304/A130401/13288248/"
+    ],
+    "checkedAt": "2026-11-17"
   },
   {
     "id": "la-jolla-hiroo",
