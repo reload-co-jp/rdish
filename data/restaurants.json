@@ -687,6 +687,7 @@
     "area": "世田谷区 三軒茶屋",
     "address": "東京都世田谷区太子堂4-23-11 GEMS三軒茶屋7階",
     "nearestStation": "三軒茶屋駅 徒歩3分",
+    "url": "https://www.ajibo.jp/xianglali.html",
     "description": "湖南料理の専門店。小米辣（唐辛子）の辛さに、発酵・燻製・ハーブを使った料理が特徴で、自然派ワインをそろえる。",
     "dishes": [
       {
@@ -705,14 +706,20 @@
       {
         "id": "la-jiao-chao-rou",
         "menuName": "辣椒炒肉（湖南名物“豚ピー”炒め）"
+      },
+      {
+        "id": "la-wei-he-zheng",
+        "menuName": "腊味合蒸（燻製三種〜豚バラ・豚舌・ボラ）"
       }
     ],
     "sources": [
       "https://www.hotpepper.jp/strJ001281409/",
       "https://www.hotpepper.jp/strJ001281409/food/",
-      "https://oceans.tokyo.jp/article/detail/48466"
+      "https://oceans.tokyo.jp/article/detail/48466",
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/xianglali.html"
     ],
-    "checkedAt": "2026-11-08"
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "kunya-ikebukuro",
@@ -983,5 +990,2908 @@
       "https://www.hotpepper.jp/strJ003411215/food/"
     ],
     "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "ajibo-kanda",
+    "name": "味坊",
+    "kana": "あじぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 神田",
+    "address": "東京都千代田区鍛冶町2-11-20",
+    "nearestStation": "JR神田駅 北口徒歩3分",
+    "url": "https://www.ajibo.jp/kanda.html",
+    "description": "神田駅東口のガード下にある、中国東北地方の家庭料理の店。羊肉串や羊肉の水餃子、クミン炒めなどラム肉料理が多く、炭火の火鍋や手打ち麺も出す。都内に系列店を展開する「味坊」グループの1号店。",
+    "dishes": [
+      {
+        "id": "jiaozi",
+        "menuName": "ラム肉の水餃子"
+      },
+      {
+        "id": "laohu-cai",
+        "menuName": "青唐辛子・胡瓜・香菜のサラダ"
+      },
+      {
+        "id": "shanghai-chao-mian",
+        "menuName": "上海風焼きそば"
+      },
+      {
+        "id": "wonton",
+        "menuName": "ワンタンスープ"
+      },
+      {
+        "id": "chahan",
+        "menuName": "チャーハン",
+        "note": "山椒辛・高菜などもあり"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/kanda.html"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "ajibo-tetsunabeso-yushima",
+    "name": "味坊鉄鍋荘",
+    "kana": "あじぼうてつなべそう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "台東区 湯島",
+    "address": "東京都台東区上野1-12-9",
+    "nearestStation": "東京メトロ湯島駅 徒歩3分",
+    "url": "https://www.ajibo.jp/yushima.html",
+    "description": "テーブルに鉄鍋を埋め込んだ、中国東北地方の郷土料理の店。干し大根とラム肉の醤油炒め煮など、鉄鍋で仕立てる煮込みが名物。前菜と煮込みを選ぶコースでは饅頭と餃子も出る。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "suan-cai-yu",
+        "menuName": "酸菜鱼（白身魚と発酵高菜の煮込み）"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "水煮鱼（白身魚のとうがらし煮込み）"
+      },
+      {
+        "id": "jiaozi",
+        "menuName": "水餃子・蒸餃子",
+        "note": "コースに含まれる"
+      },
+      {
+        "id": "mantou",
+        "menuName": "饅頭",
+        "note": "コースに含まれる"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/yushima.html"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "yanshan-ajibo-okachimachi",
+    "name": "羊香味坊",
+    "kana": "やんしゃんあじぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "台東区 上野",
+    "address": "東京都台東区上野3-12-6",
+    "nearestStation": "JR御徒町駅 南口徒歩3分",
+    "url": "https://www.ajibo.jp/okachimachi.html",
+    "description": "中国東北地方のラム肉料理に特化した店。部位ごとの羊串焼きやラムスペアリブ、クミン炒め、ラム肉の焼き餃子・焼売などが揃う。ワインは冷蔵庫から自分で選ぶスタイル。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "laohu-cai",
+        "menuName": "老虎菜（青唐辛子とパクチーときゅうりのサラダ）"
+      },
+      {
+        "id": "char-siu",
+        "menuName": "釜焼き豚チャーシュー"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/okachimachi.html"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "laojiupu-okachimachi",
+    "name": "老酒舗",
+    "kana": "ろうしゅほ",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "台東区 上野",
+    "address": "東京都台東区上野5-10-12",
+    "nearestStation": "JR御徒町駅 南口徒歩2分",
+    "url": "https://www.ajibo.jp/okachimachi2.html",
+    "description": "JR御徒町駅南口のガード下にある、1980年代までの北京の大衆酒場を再現した店。小皿の老北京料理と紹興酒の飲み放題が名物で、麺点師が手作りする水餃子や肉まん、ドラム缶オーブンで焼く叉焼を出す。朝食営業もある。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "jiaozi",
+        "menuName": "水餃子"
+      },
+      {
+        "id": "baozi",
+        "menuName": "肉まん"
+      },
+      {
+        "id": "char-siu",
+        "menuName": "叉焼",
+        "note": "自家製ドラム缶オーブンで焼く"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/okachimachi2.html"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "houmi-hachiman-yoyogihachiman",
+    "name": "宝味八萬",
+    "kana": "ほうみはちまん",
+    "cuisines": [
+      "中国料理",
+      "広東料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 富ヶ谷",
+    "address": "東京都渋谷区富ヶ谷1-53-4 リコービル1F",
+    "nearestStation": "小田急線 代々木八幡駅 徒歩1分",
+    "url": "https://www.ajibo.jp/yoyogihachiman.html",
+    "description": "代々木八幡駅前の広東点心の店。焼売・蒸し餃子・小籠包・腸粉などの点心と、焼味（ロースト料理）を出す。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "xiaolongbao",
+        "menuName": "小籠包"
+      },
+      {
+        "id": "har-gow",
+        "menuName": "蒸し餃子"
+      },
+      {
+        "id": "cheung-fun",
+        "menuName": "腸粉"
+      },
+      {
+        "id": "chimaki",
+        "menuName": "蓮の葉に包んだちまき"
+      },
+      {
+        "id": "spring-roll",
+        "menuName": "春巻き",
+        "note": "ランチ"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/yoyogihachiman.html",
+      "https://forbesjapan.com/articles/detail/43960",
+      "https://ssl.tabelog.com/en/tokyo/A1318/A131810/13263235/"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "xiangfu-ajibo-akihabara",
+    "name": "香福味坊",
+    "kana": "しゃんふーあじぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 神田佐久間町",
+    "address": "東京都千代田区神田佐久間町1-21 Chiyoda Terrace",
+    "nearestStation": "JR秋葉原駅 昭和通り口徒歩1分",
+    "url": "https://www.ajibo.jp/akihabara.html",
+    "description": "味坊グループの各店の要素を集めた秋葉原の大型店。朝から深夜まで営業し、中国式朝食から羊の丸焼き（全烤羊）を囲む宴会まで対応する。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "kou-shui-ji",
+        "menuName": "よだれ鶏"
+      },
+      {
+        "id": "har-gow",
+        "menuName": "えび蒸し餃子"
+      },
+      {
+        "id": "spring-roll",
+        "menuName": "海鮮入り春巻"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/akihabara.html",
+      "https://macaro-ni.jp/111276",
+      "https://oggi.jp/6841639"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "zhenglong-ajibo-yoyogiuehara",
+    "name": "蒸籠味坊",
+    "kana": "じょうりゅうあじぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 西原",
+    "address": "東京都渋谷区西原3-8-5 アコルデ代々木上原2F",
+    "nearestStation": "代々木上原駅 直結",
+    "url": "https://www.ajibo.jp/yoyogiuehara.html",
+    "description": "中国式の蒸し料理を専門にする店。地域を問わず「蒸す」料理に絞り、魚の醤油蒸しなどを出す。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "qing-zheng-yu",
+        "menuName": "豉油皇蒸魚"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/yoyogiuehara.html",
+      "https://oggi.jp/6841639"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "shokan-ajibo-ningyocho",
+    "name": "商館味坊",
+    "kana": "しょうかんあじぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "中央区 人形町",
+    "address": "東京都中央区日本橋人形町1-19 エムズクロス人形町 4F",
+    "nearestStation": "人形町駅 A5・A6出口徒歩1分",
+    "url": "https://www.ajibo.jp/ningyocho.html",
+    "description": "旬の食材を使った水餃子と羊肉串の店。ラム肉や豚肉に季節の野菜を合わせた厚手皮の水餃子を数種揃え、羊肉串はさまざまな部位を出す。神田「味坊」の系列店。",
+    "dishes": [
+      {
+        "id": "jiaozi",
+        "menuName": "水餃子",
+        "note": "ラム肉・豚肉と季節の野菜の組み合わせ数種"
+      }
+    ],
+    "sources": [
+      "https://www.ajibo.jp/shopinfo.html",
+      "https://www.ajibo.jp/ningyocho.html",
+      "https://baila.hpplus.jp/lifestyle/recipegourmet/64449"
+    ],
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "chinkashisai-akasaka",
+    "name": "陳家私菜 赤坂1号店 湧の台所",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "港区 赤坂",
+    "address": "東京都港区赤坂3-19-8 赤坂ウエストビル B1F",
+    "nearestStation": "赤坂見附駅・赤坂駅 徒歩3分",
+    "url": "https://chin-z.com/%e8%b5%a4%e5%9d%82%e4%b8%80%e5%8f%b7%e5%ba%97%e3%80%80%e6%b9%a7%e3%81%ae%e5%8f%b0%e6%89%80/",
+    "description": "四川料理の店「陳家私菜」の1号店。50席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/%e8%b5%a4%e5%9d%82%e4%b8%80%e5%8f%b7%e5%ba%97%e3%80%80%e6%b9%a7%e3%81%ae%e5%8f%b0%e6%89%80/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-gotanda",
+    "name": "陳家私菜 五反田店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "品川区 西五反田",
+    "address": "東京都品川区西五反田2-26-2 桔梗ハイツ2F",
+    "nearestStation": "JR五反田駅 西口徒歩3分",
+    "url": "https://chin-z.com/%e4%ba%94%e5%8f%8d%e7%94%b0%e5%ba%97/",
+    "description": "四川料理の店「陳家私菜」の五反田店。75席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/%e4%ba%94%e5%8f%8d%e7%94%b0%e5%ba%97/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-akihabara",
+    "name": "陳家私菜 秋葉原店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 神田和泉町",
+    "address": "東京都千代田区神田和泉町1-1-12 ミツバビル B1",
+    "nearestStation": "JR秋葉原駅 昭和通り口徒歩2分",
+    "url": "https://chin-z.com/%e7%a7%8b%e8%91%89%e5%8e%9f%e5%ba%97/",
+    "description": "四川料理の店「陳家私菜」の秋葉原店。80席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/%e7%a7%8b%e8%91%89%e5%8e%9f%e5%ba%97/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-shinjuku",
+    "name": "陳家私菜 新宿店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 代々木",
+    "address": "東京都渋谷区代々木2-15-9 加瀬ビル 1F",
+    "nearestStation": "JR新宿駅 南口徒歩6分",
+    "url": "https://chin-z.com/%e6%96%b0%e5%ae%bf%e5%ba%97/",
+    "description": "四川料理の店「陳家私菜」の新宿店。85席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/%e6%96%b0%e5%ae%bf%e5%ba%97/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-shibuya",
+    "name": "陳家私菜 渋谷店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 神南",
+    "address": "東京都渋谷区神南1-16-3 ブルー ヴァール ビル B1",
+    "nearestStation": "渋谷駅 13番出口徒歩3〜5分",
+    "url": "https://chin-z.com/%e6%b8%8b%e8%b0%b7%e5%ba%97/",
+    "description": "四川料理の店「陳家私菜」の渋谷店。200席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/%e6%b8%8b%e8%b0%b7%e5%ba%97/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-ginza",
+    "name": "陳家私菜 銀座店（日比谷グルメゾン）",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 内幸町",
+    "address": "東京都千代田区内幸町1-7-24 日比谷グルメゾン",
+    "nearestStation": "銀座駅C1出口・日比谷駅A13出口 徒歩約5分",
+    "url": "https://chin-z.com/ginza/",
+    "description": "四川料理の店「陳家私菜」の銀座店。大きなオープンキッチンを備えた158席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/ginza/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-marunouchi",
+    "name": "陳家私菜 丸の内店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内3-7-10 鍛冶橋高架下1階",
+    "nearestStation": "東京駅 京葉地下2番出口徒歩1分",
+    "url": "https://chin-z.com/marunouchi/",
+    "description": "四川料理の店「陳家私菜」の丸の内店（旧有楽町店）。170席。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/marunouchi/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "chinkashisai-shinbashi",
+    "name": "陳家私菜 新橋店",
+    "kana": "ちんかしさい",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 内幸町",
+    "address": "東京都千代田区内幸町2-2-3 日比谷国際ビル B2",
+    "nearestStation": "内幸町駅 A6出口徒歩1分",
+    "url": "https://chin-z.com/shinbashi/",
+    "description": "四川料理の店「陳家私菜」の新橋店。185席。土日祝休み。石焼で出す麻婆豆腐、よだれ鶏、刀削麺、汁なし担々麺が定番で、辛さは4段階から選べる。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "頂天石焼麻婆豆腐",
+        "note": "石焼で提供。和牛・ホルモン版もあり"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "本場四川やみつき皇帝よだれ鶏"
+      },
+      {
+        "id": "dao-xiao-mian",
+        "menuName": "麻辣刀削麺／本場汁無し担々刀削麺 など"
+      },
+      {
+        "id": "dan-dan-mian",
+        "menuName": "四川汁あり担々麺／本場汁無し担々麺"
+      },
+      {
+        "id": "shui-zhu-yu",
+        "menuName": "白身魚唐辛子煮込み"
+      },
+      {
+        "id": "lazi-ji",
+        "menuName": "鶏の唐揚ラーズーチー"
+      }
+,
+      {
+        "id": "fu-qi-fei-pian",
+        "menuName": "本場四川牛肉とホルモンの香り和え"
+      },
+      {
+        "id": "suan-cai-yu",
+        "menuName": "発酵野菜と白身魚（鱈）の煮込み"
+      }
+    ],
+    "sources": [
+      "https://chin-z.com/",
+      "https://chin-z.com/shinbashi/",
+      "https://chin-z.com/1%e5%93%81%e6%96%99%e7%90%86/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "ikebukuro-yang-2",
+    "name": "中国家庭料理 楊 2号店",
+    "kana": "ちゅうごくかていりょうり やん",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "豊島区 池袋",
+    "address": "東京都豊島区西池袋3-25-5",
+    "nearestStation": "池袋駅 西口徒歩3分",
+    "description": "池袋西口の四川家庭料理店。混ぜると真っ赤になる汁なし担々麺が看板で、皮から手作りする大ぶりの焼餃子・水餃子も人気。カウンターを含む26席。",
+    "dishes": [
+      {
+        "id": "dan-dan-mian",
+        "menuName": "汁なし担々麺"
+      },
+      {
+        "id": "jiaozi",
+        "menuName": "手作り水餃子"
+      }
+    ],
+    "sources": [
+      "https://s.tabelog.com/smartphone/matome/31564/",
+      "https://www.hotpepper.jp/strJ000234198/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "shikiko-ikebukuro",
+    "name": "四季香 池袋北口本館",
+    "kana": "しきこう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "豊島区 池袋",
+    "address": "東京都豊島区西池袋1-43-3 日精ビル1F",
+    "nearestStation": "池袋駅 北口徒歩4分",
+    "description": "池袋北口の中国東北・延辺料理の店。中国本国の特級厨師がオープンキッチンで調理し、クミンを効かせた串焼きや四川風の鍋、冷菜を出す。中華圏の客で賑わう大箱で、個室もある。",
+    "dishes": [
+      {
+        "id": "kou-shui-ji",
+        "menuName": "蒸し鶏の四川風タレかけ"
+      }
+    ],
+    "sources": [
+      "https://s.tabelog.com/smartphone/matome/31564/",
+      "https://r.gnavi.co.jp/py2n6axx0000/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "hitsujikizoku-ikebukuro",
+    "name": "羊貴族 池袋北口店",
+    "kana": "ひつじきぞく",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "豊島区 池袋",
+    "address": "東京都豊島区西池袋1-43-9 アミューズ池袋ビル B1",
+    "nearestStation": "池袋駅 北口徒歩2分",
+    "description": "四季香の姉妹店で、炭火の羊肉料理に特化した店。名物は羊の足の丸焼きで、グリル席で焼いて目の前で切り分ける。東北・延辺・四川の料理も揃い、深夜まで営業する。",
+    "dishes": [
+      {
+        "id": "qing-jiao-rou-si",
+        "menuName": "青椒肉絲"
+      },
+      {
+        "id": "jiaozi",
+        "menuName": "水餃子"
+      }
+    ],
+    "sources": [
+      "https://s.tabelog.com/smartphone/matome/31564/",
+      "https://r.gnavi.co.jp/p847800/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "jufukuro-ikebukuro",
+    "name": "聚福楼",
+    "kana": "じゅふくろう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "豊島区 池袋",
+    "address": "東京都豊島区西池袋1-37-16 大雄ビル 4F",
+    "nearestStation": "池袋駅 西口徒歩2分",
+    "description": "炭火で焼く羊の背中焼きや足焼き、兎の丸焼きで知られる中国料理店。焼いた肉にはスパイスの「赤い粉」をかけて食べる。飲み放題付きのコースは品数が多く、大人数の宴会に向く。",
+    "dishes": [
+      {
+        "id": "pidan",
+        "menuName": "ピータン"
+      },
+      {
+        "id": "gan-shao-xia-ren",
+        "menuName": "エビチリ"
+      }
+    ],
+    "sources": [
+      "https://s.tabelog.com/smartphone/matome/31564/",
+      "https://aumo.jp/articles/47277"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "mazilu-jimbocho",
+    "name": "馬子禄 牛肉面 神保町店",
+    "kana": "まーずるー",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 神保町",
+    "address": "東京都千代田区神田神保町1-3-18",
+    "nearestStation": "神保町駅 A7出口徒歩3分",
+    "url": "https://lanzhou-lamian.com/",
+    "description": "中国甘粛省蘭州の老舗「馬子禄」の味を受け継ぐ蘭州牛肉麺の専門店。30種類以上の薬膳スパイスで煮込んだ澄んだ牛骨スープに、注文ごとに手で延ばす麺を合わせ、麺の太さは9種類から選べる。日本アジアハラール協会のハラール認証を取得。2017年開業の1号店。",
+    "dishes": [
+      {
+        "id": "lanzhou-beef-noodles",
+        "menuName": "蘭州牛肉麺",
+        "note": "麺の太さを9種類から選べる"
+      }
+    ],
+    "sources": [
+      "https://lanzhou-lamian.com/shop/",
+      "https://visit-chiyoda.tokyo/app/spot/detail/775"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "mazilu-shinjuku",
+    "name": "馬子禄 牛肉面 新宿店",
+    "kana": "まーずるー",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 歌舞伎町",
+    "address": "東京都新宿区歌舞伎町2-1-2 Hanrokuビル1F",
+    "nearestStation": "東新宿駅 E1出口徒歩1分",
+    "url": "https://lanzhou-lamian.com/",
+    "description": "中国甘粛省蘭州の老舗「馬子禄」の味を受け継ぐ蘭州牛肉麺の専門店。30種類以上の薬膳スパイスで煮込んだ澄んだ牛骨スープに、注文ごとに手で延ばす麺を合わせ、麺の太さは9種類から選べる。日本アジアハラール協会のハラール認証を取得。神保町店の2号店。",
+    "dishes": [
+      {
+        "id": "lanzhou-beef-noodles",
+        "menuName": "蘭州牛肉麺",
+        "note": "麺の太さを9種類から選べる"
+      }
+    ],
+    "sources": [
+      "https://lanzhou-lamian.com/shop/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "nikkyoen-shokusai-unnan-yotsuya",
+    "name": "日興苑 食彩雲南 過橋米線",
+    "kana": "にっきょうえん しょくさいうんなん かきょうべいせん",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 四谷",
+    "address": "東京都新宿区四谷3-3 エスパスコンセール1F",
+    "nearestStation": "東京メトロ丸ノ内線 四谷三丁目駅 徒歩2分",
+    "description": "中国雲南省の料理の店。自家製の米粉麺を使う過橋米線が看板で、雲南の伝統料理である汽鍋や小皿料理も出す。",
+    "dishes": [
+      {
+        "id": "guo-qiao-mi-xian",
+        "menuName": "過橋米線",
+        "note": "自家製米粉麺"
+      }
+    ],
+    "sources": [
+      "https://r.gnavi.co.jp/gg51300/",
+      "https://autoreserve.com/en/restaurants/LrNewhM1Spj3DQMEK8Do"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "tamjai-samgor-shinjuku",
+    "name": "譚仔三哥 新宿中央通り店",
+    "kana": "たむじゃいさむごー",
+    "cuisines": [
+      "中国料理",
+      "広東料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 新宿",
+    "address": "東京都新宿区新宿3-28-16",
+    "nearestStation": "JR新宿駅 東口徒歩1分",
+    "description": "香港の米線チェーン「譚仔三哥（タムジャイサムゴー）」の日本1号店。スープは麻辣など6種類、辛さは10段階、トッピングは25種類以上から選んで自分好みの米線を組み立てる。",
+    "dishes": [
+      {
+        "id": "tamjai-mixian",
+        "menuName": "米線",
+        "note": "スープ6種・辛さ10段階から選択"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/tam-jai-sangor-mixian-shinjuku",
+      "https://prtimes.jp/main/html/rd/p/000000051.000099695.html"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "yoshu-shonin-meguro",
+    "name": "中国ラーメン 揚州商人 目黒本店",
+    "kana": "ようしゅうしょうにん",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "目黒区 目黒",
+    "address": "東京都目黒区目黒1-6-16 明洞ビル1F",
+    "url": "https://www.yousyusyonin.com/",
+    "description": "首都圏に展開する中国ラーメンチェーン「揚州商人」の1号店（1990年開業）。2000年発売のスーラータンメンが看板で、麺は細麺・中太麺・極太麺などから選べる。揚州炒飯や小籠包、四川回鍋肉などの一品料理も揃う。",
+    "dishes": [
+      {
+        "id": "suan-la-tang-mian",
+        "menuName": "スーラータンメン"
+      },
+      {
+        "id": "yangzhou-chao-fan",
+        "menuName": "揚州炒飯"
+      },
+      {
+        "id": "hui-guo-rou",
+        "menuName": "四川回鍋肉"
+      }
+    ],
+    "sources": [
+      "https://www.yousyusyonin.com/menu/",
+      "https://shop.yousyusyonin.com/stores?prefecture=13",
+      "https://forbesjapan.com/articles/detail/97339"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "sichuan-douhua-tokyo",
+    "name": "四川豆花飯荘 東京店",
+    "kana": "しせんとうふぁはんそう",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内1-5-1 新丸の内ビルディング6F",
+    "nearestStation": "東京駅 徒歩3分",
+    "description": "シンガポールに本店を置く四川料理店の東京店。麻婆豆腐やよだれ鶏など麻辣・花椒を効かせた料理に加え、辛くない料理も揃える。料理に合わせて出す八宝茶を、茶藝師が長い注ぎ口の急須で注ぐ演出が名物。",
+    "dishes": [
+      {
+        "id": "mapo-tofu",
+        "menuName": "四川麻婆豆腐"
+      },
+      {
+        "id": "kou-shui-ji",
+        "menuName": "重慶よだれ鶏"
+      },
+      {
+        "id": "qing-zheng-yu",
+        "menuName": "真鯛の蒸し物 ～広東風ソース～",
+        "note": "コース料理の一品"
+      }
+    ],
+    "sources": [
+      "https://restaurant.ikyu.com/100548/",
+      "https://restaurant.ikyu.com/100548/plan12805917",
+      "https://www.timeout.jp/tokyo/ja/レストラン/四川豆花飯荘-東京店",
+      "https://rurubu.jp/andmore/article/3792"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "haidilao-ikebukuro",
+    "name": "海底撈火鍋 池袋店",
+    "kana": "かいていろうひなべ",
+    "cuisines": [
+      "中国料理",
+      "四川料理"
+    ],
+    "prefecture": "東京都",
+    "area": "豊島区 南池袋",
+    "address": "東京都豊島区南池袋1-21-2 ヒューマックスパビリオン南池袋5F・6F",
+    "nearestStation": "JR池袋駅 東口徒歩2分",
+    "description": "中国・四川発祥の火鍋チェーン「海底撈」の池袋店。麻辣や白湯などのスープを選び、20種類以上のタレや薬味を並べたセルフバーで自分好みのつけダレを作る。麺を伸ばすパフォーマンスや変面ショーもあり、翌朝まで営業する。",
+    "dishes": [
+      {
+        "id": "huo-guo",
+        "menuName": "火鍋",
+        "note": "麻辣・白湯などのスープから選ぶ"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ001160858/",
+      "https://www.hotpepper.jp/strJ001160858/map/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "konan-jinka-yokohama",
+    "name": "湖南人家",
+    "kana": "こなんじんか",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "神奈川県",
+    "area": "横浜市中区 山下町（横浜中華街）",
+    "address": "神奈川県横浜市中区山下町147 香港路",
+    "nearestStation": "元町・中華街駅 2出口徒歩5分",
+    "url": "https://konanjinka.owst.jp/",
+    "description": "横浜中華街では数少ない湖南料理の店。湖南省出身の夫妻が2022年に開いた。酸味と辛味を効かせた湖南料理が中心で、自家製の干し肉「ラーロウ」を使った炒め鍋や、毛沢東が好んだという豚の角煮、唐辛子をのせて蒸す魚頭が名物。",
+    "dishes": [
+      {
+        "id": "la-rou-chao-sun",
+        "menuName": "湖南名物のラーロウと竹の子の炒め鍋"
+      },
+      {
+        "id": "mao-shi-hong-shao-rou",
+        "menuName": "毛沢東が好んだ豚角煮"
+      },
+      {
+        "id": "duo-jiao-yu-tou",
+        "menuName": "双椒蒸魚頭",
+        "note": "2色の唐辛子をのせて蒸す"
+      },
+      {
+        "id": "suan-la-tang",
+        "menuName": "酸辣湯"
+      }
+    ],
+    "sources": [
+      "https://konanjinka.owst.jp/",
+      "https://serai.jp/gourmet/1218728",
+      "https://www.welcome.city.yokohama.jp/gourmet/chinatown/page_03.php"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "amoy-kitchen-kamata",
+    "name": "厦門厨房",
+    "kana": "あもいちゅうぼう",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "大田区 西蒲田",
+    "address": "東京都大田区西蒲田7-27-6 裕大ビル1F",
+    "nearestStation": "JR蒲田駅 西口徒歩1分",
+    "description": "2003年開業の、福建省厦門（アモイ）の料理を出す店。牡蠣のオムレツ「海蠣煎蛋」や、発酵させた筍の漬物で味を決める汁焼きそば「福建焖麺」など、福建の郷土料理がある。深夜まで営業する。",
+    "dishes": [
+      {
+        "id": "o-a-chian",
+        "menuName": "海蠣煎蛋（牡蠣のオムレツ）"
+      },
+      {
+        "id": "men-mian",
+        "menuName": "福建焖麺"
+      }
+    ],
+    "sources": [
+      "https://serai.jp/gourmet/1218886",
+      "https://gurunavi.com/en/g928000/rst"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "silkroad-tarim-nishishinjuku",
+    "name": "シルクロード・タリム",
+    "kana": "しるくろーど・たりむ",
+    "cuisines": [
+      "中国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 西新宿",
+    "address": "東京都新宿区西新宿3-15-8 西新宿パールビル103",
+    "nearestStation": "京王新線 初台駅 徒歩4分",
+    "description": "2010年開業の新疆ウイグル料理店。トルファン出身の料理長が、手延べ麺のラグメンやウイグル風ピラフ（ポロ）、羊肉の串焼きなど、羊肉とスパイスを使った料理を出す。",
+    "dishes": [
+      {
+        "id": "shish-kawap",
+        "menuName": "羊肉の串焼き"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000839180/",
+      "https://serai.jp/gourmet/1208456",
+      "https://forbesjapan.com/articles/detail/77725"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "mole-taqueria-marunouchi",
+    "name": "Molé TAQUERIA Y BAR",
+    "kana": "もーれ たけりあ い ばる",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内1-5-1 新丸の内ビル7F 丸の内ハウス",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/mole/",
+    "description": "新丸ビル7階のタケリア。店名どおりモーレが看板で、伝統的なモーレ・ポブラノのほか赤・緑のモーレをタコスのトッピングに選べる。具だくさんのスープ、ポソレもある。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "mole",
+        "menuName": "モーレ・ポブラノ",
+        "note": "タコスのトッピングとして提供。モーレ・ロハ、モーレ・ヴェルデもある"
+      },
+      {
+        "id": "pozole",
+        "menuName": "具だくさんスープ ポソレ"
+      },
+      {
+        "id": "tacos",
+        "menuName": "Street Tacos"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "Carnitas"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "ケサディーヤ"
+      },
+      {
+        "id": "nachos",
+        "menuName": "クラシック・ナチョス"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "ワカモレ・フレスコ"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "メキシカンチョリソーの一口フリット"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261028_Mole_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "mucho-modern-mexicano-marunouchi",
+    "name": "MUCHO MODERN MEXICANO",
+    "kana": "むーちょ もだん めきしかーの",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内2-7-3 東京ビル(TOKIA) 2F",
+    "nearestStation": "東京駅 丸の内南口 徒歩約1分",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/mexicano_mucho/",
+    "description": "東京駅丸の内南口すぐ、東京ビルTOKIA 2階のメキシコ料理店。緑のポソレや、牛もつ煮込みメヌードにポソレを合わせた一皿などスープ類がそろう。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "pozole",
+        "menuName": "POZOLE VERDE"
+      },
+      {
+        "id": "menudo",
+        "menuName": "MENUDO CON POZOLE"
+      },
+      {
+        "id": "enchilada",
+        "menuName": "ENCHILADA POLLO"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "PORK BELLY CARNITAS"
+      },
+      {
+        "id": "carne-asada",
+        "menuName": "WAGYU CARNE ASADA"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "CHORIZO MEXICANO"
+      },
+      {
+        "id": "nopales",
+        "menuName": "MANGO & NOPAL CACTUS SALAD"
+      },
+      {
+        "id": "burrito",
+        "menuName": "BURRITO"
+      },
+      {
+        "id": "fajitas",
+        "menuName": "Fajitas"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "QUESADILLA DE QUESO"
+      },
+      {
+        "id": "nachos",
+        "menuName": "MUCHO CLASSIC NACHOS"
+      },
+      {
+        "id": "tacos",
+        "menuName": "Tacos"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261019_Mucho_Grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "las-dos-caras-harajuku",
+    "name": "LAS DOS CARAS MODERN MEXICANO Y TACOS",
+    "kana": "らす どす からす もだん めきしかーの い たこす",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 神宮前",
+    "address": "東京都渋谷区神宮前1-10-37 CASCADE HARAJUKU 1F/B1",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/las_dos_caras/",
+    "description": "原宿・CASCADE HARAJUKUのメキシコ料理店。タコス・アル・パストールなどのタコスに加え、鶏のモーレ・ポブラノ煮込みや牛もつのメヌードも出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "mole",
+        "menuName": "Pollo en Mole Poblano"
+      },
+      {
+        "id": "menudo",
+        "menuName": "Menudo"
+      },
+      {
+        "id": "tacos",
+        "menuName": "Tacos al Pastor"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "Pork Carnitas"
+      },
+      {
+        "id": "carne-asada",
+        "menuName": "Carne Asada"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "Chorizo Mexicano"
+      },
+      {
+        "id": "chili-con-carne",
+        "menuName": "Chili Con Carne"
+      },
+      {
+        "id": "burrito",
+        "menuName": "Burrito"
+      },
+      {
+        "id": "fajitas",
+        "menuName": "Fajita"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "Quesadilla de Queso"
+      },
+      {
+        "id": "nachos",
+        "menuName": "Nachos Clásicos"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "Guacamole"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/260902_LDC_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "hacienda-del-cielo-daikanyama",
+    "name": "Hacienda del cielo MODERN MEXICANO",
+    "kana": "あしえんだ でる しえろ もだん めきしかーの",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 猿楽町",
+    "address": "東京都渋谷区猿楽町10-1 マンサード代官山 9F",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/hacienda/",
+    "description": "代官山・マンサード代官山9階のメキシコ料理店。ファヒータやタコスのほか、牛もつ煮込みのメヌード、鶏のエンチラーダを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "menudo",
+        "menuName": "MENUDO MEXICAN BEEF TRIPE STEW"
+      },
+      {
+        "id": "enchilada",
+        "menuName": "ENCHILADA de POLLO"
+      },
+      {
+        "id": "fajitas",
+        "menuName": "MIXED FAJITA"
+      },
+      {
+        "id": "tacos",
+        "menuName": "Make Your Own Tacos"
+      },
+      {
+        "id": "burrito",
+        "menuName": "CHICKEN BURRITO"
+      },
+      {
+        "id": "chili-con-carne",
+        "menuName": "CHILE CON CARNE"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "CHORIZO MEXICANO"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "QUESADILLA DE QUESO"
+      },
+      {
+        "id": "nachos",
+        "menuName": "CLASSIC NACHOS"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "GUACAMOLE"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261006_Hacienda_Grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "el-caliente-shinagawa",
+    "name": "el caliente modern mexicano",
+    "kana": "える かりえんて もだん めきしかーの",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "港区 港南",
+    "address": "東京都港区港南2-18-1 アトレ品川4F",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/el_caliente/",
+    "description": "アトレ品川4階のメキシコ料理店。牛・豚・鶏・ラム・メカジキから選ぶファヒータが中心で、サボテンのノパルを使ったサラダやマリネ、海老のエンチラーダもある。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "fajitas",
+        "menuName": "FAJITAS",
+        "note": "牛・豚・鶏・ラム・メカジキ・ミックス"
+      },
+      {
+        "id": "nopales",
+        "menuName": "ENSALADA NOPAL Y COL RIZADA"
+      },
+      {
+        "id": "enchilada",
+        "menuName": "SHRIMP ENCHILADA MARISCOS"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "CARNITAS"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "CHORIZO MEXICANO"
+      },
+      {
+        "id": "chili-con-carne",
+        "menuName": "CHILE CON CARNE"
+      },
+      {
+        "id": "burrito",
+        "menuName": "ASADO BURRITOS"
+      },
+      {
+        "id": "tacos",
+        "menuName": "BIRRIA DE RES TACOS"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "QUESADILLA DE QUESO"
+      },
+      {
+        "id": "nachos",
+        "menuName": "CLASSICOS NACHOS"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "GUACAMOLE FRESCO"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261029_EC_GRAND.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "comedor-de-margarita-yokohama",
+    "name": "COMEDOR DE MARGARITA MODERN MEXICANO",
+    "kana": "こめどーる で まるがりーた もだん めきしかーの",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "神奈川県",
+    "area": "横浜市西区 南幸",
+    "address": "神奈川県横浜市西区南幸1-1-1 ニュウマン横浜店9F",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/mexicano_comedor/",
+    "description": "ニュウマン横浜9階のメキシコ料理店。柑橘でマリネしたアグアチレ、もつ煮込みのメヌード、ノパルとアボカドのサラダなど前菜が多い。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "aguachile",
+        "menuName": "CITRUS AGUACHILE"
+      },
+      {
+        "id": "menudo",
+        "menuName": "MENUDO"
+      },
+      {
+        "id": "nopales",
+        "menuName": "ENSALADA DE NOPAL Y AGUACATE"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "PORK BELLY CARNITAS"
+      },
+      {
+        "id": "carne-asada",
+        "menuName": "CARNE ASADA"
+      },
+      {
+        "id": "frijoles-refritos",
+        "menuName": "FRIJOLES REFRITO"
+      },
+      {
+        "id": "chili-con-carne",
+        "menuName": "CHILE CON CARNE"
+      },
+      {
+        "id": "burrito",
+        "menuName": "BURRITO"
+      },
+      {
+        "id": "fajitas",
+        "menuName": "FAJITA"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "QUESADILLA DE QUESO"
+      },
+      {
+        "id": "nachos",
+        "menuName": "CLASSIC NACHOS"
+      },
+      {
+        "id": "tacos",
+        "menuName": "Make Your Own Tacos"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "GUACAMOLE"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/260809_CDM_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "el-rincon-de-mexicola-naha",
+    "name": "EL RINCON DE MEXICOLA",
+    "kana": "える りんこん で めひこーら",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "沖縄県",
+    "area": "那覇市 牧志",
+    "address": "沖縄県那覇市牧志3-3-4 1階",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/mexicola/",
+    "description": "那覇・牧志のメキシコ料理店。豚のカルニタスやストリートタコス、ファヒータ、もつ煮込みのメヌードを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "tacos",
+        "menuName": "The King of Street Tacos"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "CARNITAS"
+      },
+      {
+        "id": "menudo",
+        "menuName": "MENUDO"
+      },
+      {
+        "id": "frijoles-refritos",
+        "menuName": "FRIJOLES REFRITO"
+      },
+      {
+        "id": "chili-con-carne",
+        "menuName": "CHILE CON CARNE"
+      },
+      {
+        "id": "fajitas",
+        "menuName": "FAJITAS"
+      },
+      {
+        "id": "burrito",
+        "menuName": "BURRITO"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "GRILLED CHICKEN QUESADILLA"
+      },
+      {
+        "id": "nachos",
+        "menuName": "CLASSIC NACHOS"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261015_ERDM_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "cafe-iguana-fukaya",
+    "name": "Café Iguana MEXICAN GRILL",
+    "kana": "かふぇ いぐあな めきしかん ぐりる",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "埼玉県",
+    "area": "深谷市 花園",
+    "address": "埼玉県深谷市花園1番地 ふかや花園プレミアムアウトレット",
+    "url": "https://www.huge.co.jp/service/restaurant/modern_mexicano/cafe_iguana/",
+    "description": "ふかや花園プレミアムアウトレット内のメキシカングリル。ファヒータ、タコス、ケサディーヤ、ナチョスなど定番のメキシコ料理を出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "fajitas",
+        "menuName": "FAJITA"
+      },
+      {
+        "id": "tacos",
+        "menuName": "TACO TRIO"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "QUESADILLA"
+      },
+      {
+        "id": "nachos",
+        "menuName": "CLASSIC NACHOS"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/260610_Iguana_Food.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "el-caracol-yotsuya",
+    "name": "El Caracol",
+    "kana": "える からこる",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 四谷",
+    "address": "東京都新宿区四谷4-10 金子ビル 1階",
+    "nearestStation": "四谷三丁目駅 徒歩5分",
+    "description": "四谷三丁目のメキシカンバー。トウモロコシのトルティーヤを店で毎日焼き、メキシコのタケリア風のタコスを出す。牛もつを赤唐辛子のスープで煮込むメヌードや、海老をライムと唐辛子でマリネするアグアチレもある。テキーラ・メスカルもそろう。",
+    "dishes": [
+      {
+        "id": "menudo",
+        "menuName": "牛もつ煮込みスープ \"メヌード\""
+      },
+      {
+        "id": "aguachile",
+        "menuName": "アグアチレ"
+      },
+      {
+        "id": "tacos",
+        "menuName": "タコス",
+        "note": "スアデロ、アラチェラ、レングア、アル・パストールなど"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "カルニタス",
+        "note": "タコスの具"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "ワカモーレ&チップス"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "ケサディーヤ"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "自家製チョリソーロースト"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/エルカラコル",
+      "https://www.timeout.com/tokyo/restaurants/el-caracol",
+      "https://menufans.com/place/el-caracol-019b08903c0d7090aef2300e0aa40711"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "tepito-shimokitazawa",
+    "name": "テピート",
+    "kana": "てぴーと",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "世田谷区 北沢",
+    "address": "東京都世田谷区北沢3-19-9",
+    "nearestStation": "下北沢駅 東口 徒歩5分",
+    "description": "下北沢の住宅街にあるメキシコ料理店。トルティーヤを毎日店で作り、料理はすべて手作り。チョコレートを使ったソースで鶏を煮込むモレが名物で、サボテンのノパレスを使ったタコスやエンチラーダも出す。テキーラの品ぞろえが多い。",
+    "dishes": [
+      {
+        "id": "mole",
+        "menuName": "モレ",
+        "note": "チョコレートソースのチキン"
+      },
+      {
+        "id": "nopales",
+        "menuName": "サボテンのタコス"
+      },
+      {
+        "id": "enchilada",
+        "menuName": "エンチラーダ"
+      },
+      {
+        "id": "tacos",
+        "menuName": "タコス"
+      },
+      {
+        "id": "burrito",
+        "menuName": "ブリトー"
+      }
+    ],
+    "sources": [
+      "https://restaurant.ikyu.com/151906/highlights",
+      "https://local-media.heteml.net/?p=2494",
+      "https://www.timeout.jp/tokyo/ja/restaurant/10-best-mexican-food-in-tokyo"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "fonda-de-la-madrugada-harajuku",
+    "name": "FONDA DE LA MADRUGADA",
+    "kana": "ふぉんだ で ら まどぅるがーだ",
+    "cuisines": [
+      "メキシコ料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 神宮前",
+    "address": "東京都渋谷区神宮前2-33-12 ビラ・ビアンカB1",
+    "nearestStation": "JR原宿駅 竹下口 徒歩7分",
+    "description": "原宿・神宮前のビル地下にあるメキシコ料理店。夜はマリアッチの生演奏がテーブルを回る。エンチラーダやワカモーレ、ナチョスのほか、牛肉のグリル、カルネ・アサダ・ア・ラ・タンピケーニャを出す。",
+    "dishes": [
+      {
+        "id": "enchilada",
+        "menuName": "エンチラーダス トリコロール"
+      },
+      {
+        "id": "carne-asada",
+        "menuName": "カルネ アサダ ア ラ タンピケーニャ"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "グァカモーレ"
+      },
+      {
+        "id": "nachos",
+        "menuName": "ナチョス"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000001457/",
+      "https://www.timeout.jp/tokyo/ja/restautant/mexican"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "il-vicolo-nakameguro",
+    "name": "PIZZERIA IL VICOLO",
+    "kana": "ぴっつぇりあ いる ゔぃころ",
+    "cuisines": [
+      "イタリア料理"
+    ],
+    "prefecture": "東京都",
+    "area": "目黒区 中目黒",
+    "address": "東京都目黒区中目黒1-2-13",
+    "url": "https://www.huge.co.jp/service/restaurant/italian/il_vicolo/",
+    "description": "中目黒のピッツェリア。国産小麦の軽い生地で焼くピッツァと、炭火で焼く肉料理を出す。パスタはトロフィエやメッツェマニケなど形の違う麺を料理ごとに使い分ける。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "pizza-margherita",
+        "menuName": "margherita bufala"
+      },
+      {
+        "id": "pizza-marinara",
+        "menuName": "marinara"
+      },
+      {
+        "id": "carbonara",
+        "menuName": "carbonara with smoked duck ham & leek"
+      },
+      {
+        "id": "aglio-e-olio",
+        "menuName": "aglio e olio with pacific saury & maitake mushroom"
+      },
+      {
+        "id": "gnocchi",
+        "menuName": "gnocchi with pumpkin & gorgonzola"
+      },
+      {
+        "id": "tagliata",
+        "menuName": "skirt steak tagliata"
+      },
+      {
+        "id": "carpaccio",
+        "menuName": "fresh carpaccio"
+      },
+      {
+        "id": "caprese",
+        "menuName": "mozzarella bufala & fruit tomato caprese"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261027_ilvicolo_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "cucina-del-nabucco-ginza",
+    "name": "cucina del NABUCCO",
+    "kana": "くっちーな でる なぶっこ",
+    "cuisines": [
+      "イタリア料理"
+    ],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座2-4-12 ミキモトギンザ2 7F",
+    "url": "https://www.huge.co.jp/service/restaurant/italian/nabucco/",
+    "description": "銀座・ミキモトギンザ2の7階にあるイタリア料理店。前菜のカルパッチョやカプレーゼ、パンチェッタと名古屋コーチンの卵を使うカルボナーラ、リゾットを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "carbonara",
+        "menuName": "Carbonara with Pancetta & Nagoya-cochin Egg"
+      },
+      {
+        "id": "aglio-e-olio",
+        "menuName": "Aglio Olio with Seared Conger Eel & Kujo Leek"
+      },
+      {
+        "id": "risotto",
+        "menuName": "Quattro Formaggi Risotto"
+      },
+      {
+        "id": "carpaccio",
+        "menuName": "Catch of the Day Carpaccio"
+      },
+      {
+        "id": "caprese",
+        "menuName": "Homemade Mozzarella & Fruit Tomato Caprese"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261009_nabucco_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "osteria-il-viaggio-tokyo",
+    "name": "Osteria IL VIAGGIO",
+    "kana": "おすてりあ いる ゔぃあっじお",
+    "cuisines": [
+      "イタリア料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内1-9-1 グランルーフ2F グランスタ八重洲",
+    "nearestStation": "東京駅 八重洲口",
+    "url": "https://www.huge.co.jp/service/restaurant/italian/viaggio/",
+    "description": "東京駅八重洲口の改札外、グランルーフ2階のオステリア。アクアパッツァ、ミネストローネ、豚カツレツのミラノ風、ローマ風のピンサなどを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "acqua-pazza",
+        "menuName": "Acqua Pazza"
+      },
+      {
+        "id": "cotoletta-alla-milanese",
+        "menuName": "Hakkinton Pork Cutlet Milanese"
+      },
+      {
+        "id": "minestrone",
+        "menuName": "Wood Fire Grilled Bacon Minestrone Soup"
+      },
+      {
+        "id": "affettato-misto",
+        "menuName": "Affettato Misto"
+      },
+      {
+        "id": "bruschetta",
+        "menuName": "Bruschetta Cherry Tomato, Ricotta & Raw Whitebait"
+      },
+      {
+        "id": "carpaccio",
+        "menuName": "Carpaccio of The Day"
+      },
+      {
+        "id": "tagliata",
+        "menuName": "Wagyu Sirloin Cap & Porcini Tagliata"
+      },
+      {
+        "id": "risotto",
+        "menuName": "Porcini & Pancetta Risotto"
+      },
+      {
+        "id": "caprese",
+        "menuName": "Persimmon, Prosciutto & Burrata Caprese"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261105_viaggio_grand.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "posillipo-tomigusuku",
+    "name": "POSILLIPO cucina meridionale",
+    "kana": "ぽじりぽ くっちーな めりでぃおなーれ",
+    "cuisines": [
+      "イタリア料理"
+    ],
+    "prefecture": "沖縄県",
+    "area": "豊見城市 瀬長",
+    "address": "沖縄県豊見城市瀬長174-5",
+    "url": "https://www.huge.co.jp/service/restaurant/italian/posillipo/",
+    "description": "沖縄・瀬長島の南イタリア料理店。ナポリピッツァのほか、アクアパッツァ、イカ墨のリゾット、ポルチーニのラビオリなど南イタリアの料理を出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "pizza-margherita",
+        "menuName": "MARGHERITA EXTRA"
+      },
+      {
+        "id": "pizza-marinara",
+        "menuName": "BOTTARGA, MOZZARELLA BUFALA & MARINARA"
+      },
+      {
+        "id": "pizza-quattro-formaggi",
+        "menuName": "QUATTRO FORMAGGI"
+      },
+      {
+        "id": "acqua-pazza",
+        "menuName": "ACQUA PAZZA"
+      },
+      {
+        "id": "risotto-al-nero-di-seppia",
+        "menuName": "SQUID INK RISOTTO"
+      },
+      {
+        "id": "ravioli",
+        "menuName": "PORCINI RAVIOLI WITH CREAM SAUCE"
+      },
+      {
+        "id": "carbonara",
+        "menuName": "CARBONARA"
+      },
+      {
+        "id": "aglio-e-olio",
+        "menuName": "CLAMS AGLIO OLIO"
+      },
+      {
+        "id": "affettato-misto",
+        "menuName": "AFFETTATO MISTO"
+      },
+      {
+        "id": "tagliata",
+        "menuName": "BEEF SKIRT TAGLIATA"
+      },
+      {
+        "id": "carpaccio",
+        "menuName": "OCTOPUS CARPACCIO"
+      },
+      {
+        "id": "bruschetta",
+        "menuName": "Bruschettas"
+      },
+      {
+        "id": "caprese",
+        "menuName": "BURRATA CHEESE & FRUIT CAPRESE"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261020_posillipo_GRAND.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "delizioso-firenze-marunouchi",
+    "name": "DELIZIOSO FIRENZE 新丸ビル",
+    "kana": "でりつぃおーぞ ふぃれんつぇ",
+    "cuisines": [
+      "イタリア料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内1-5-1 新丸の内ビルディング5F",
+    "nearestStation": "JR東京駅 丸の内北口 徒歩1分",
+    "url": "https://delizioso-firenze.owst.jp",
+    "description": "新丸ビル5階のフィレンツェ風イタリア料理店。炭火で焼く骨付き牛Tボーンステーキ、ビステッカ・アッラ・フィオレンティーナが看板で、600gから注文できる。牛ランプのタリアータやピッツァもある。",
+    "dishes": [
+      {
+        "id": "bistecca-alla-fiorentina",
+        "menuName": "フィレンツェ風牛Tボーンステーキ \"ビステッカ・アッラ・フィオレンティーナ\"",
+        "note": "100g単位、600gから"
+      },
+      {
+        "id": "tagliata",
+        "menuName": "国産牛ランプの炭火焼き\"タリアータ\""
+      },
+      {
+        "id": "pizza-margherita",
+        "menuName": "Pizzaマルゲリータ"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000657338/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "le-bistro-sendagaya",
+    "name": "LE BISTRO",
+    "kana": "る びすとろ",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 千駄ヶ谷",
+    "address": "東京都渋谷区千駄ケ谷4-6-8",
+    "url": "https://www.huge.co.jp/service/restaurant/french/le_bistro/",
+    "description": "千駄ヶ谷のビストロ。パテ・ド・カンパーニュやリエット、エスカルゴなどの定番前菜から、カスレ、ブフ・ブルギニヨン、マルセイユ風ブイヤベースまでフランスの地方料理をそろえる。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "pate-de-campagne",
+        "menuName": "自家製パテ・ド・カンパーニュ"
+      },
+      {
+        "id": "rillette",
+        "menuName": "豚肉のリエット"
+      },
+      {
+        "id": "terrine",
+        "menuName": "自家製鴨フォアグラのテリーヌ"
+      },
+      {
+        "id": "gougere",
+        "menuName": "フォアグラのグジェール"
+      },
+      {
+        "id": "charcuterie",
+        "menuName": "シャルキュトリー盛り合わせ"
+      },
+      {
+        "id": "escargot",
+        "menuName": "エスカルゴのオーブン焼き"
+      },
+      {
+        "id": "tartare",
+        "menuName": "黒毛和牛のタルタル"
+      },
+      {
+        "id": "salade_nicoise",
+        "menuName": "サラダ・ニソワーズ"
+      },
+      {
+        "id": "french-onion-soup",
+        "menuName": "オニオン・グラタンスープ"
+      },
+      {
+        "id": "cassoulet",
+        "menuName": "カスレ"
+      },
+      {
+        "id": "beef-bourguignon",
+        "menuName": "黒毛和牛頬肉のブフ・ブルギニヨン"
+      },
+      {
+        "id": "bouillabaisse",
+        "menuName": "マルセイユ風ブイヤベース"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261019_bistro_grand.pdf",
+      "https://www.huge.co.jp/tenpo_file/file/261020_LB_lunch_dejeuner.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "le-bretagne-kagurazaka",
+    "name": "CAFÉ CRÊPERIE LE BRETAGNE 神楽坂",
+    "kana": "かふぇ くれーぷりー る ぶるたーにゅ",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 神楽坂",
+    "address": "東京都新宿区神楽坂4-2",
+    "url": "https://le-bretagne.com/creperie/kagurazaka/",
+    "description": "1996年に神楽坂で開いた日本初のクレープリー。そば粉100%のブルターニュ式ガレットとデザートのクレープを、ブルターニュのシードルと合わせて出す。テラス席がある。",
+    "dishes": [
+      {
+        "id": "galette",
+        "menuName": "そば粉100%のガレット",
+        "note": "コンプレットなど"
+      },
+      {
+        "id": "crepe",
+        "menuName": "クレープ",
+        "note": "バターシュガー、クレープ・シュゼットなど"
+      },
+      {
+        "id": "cidre",
+        "menuName": "シードル Val de Rance"
+      }
+    ],
+    "sources": [
+      "https://le-bretagne.com/wp-content/uploads/2026/10/2611_menukagu.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "breizh-cafe-omotesando",
+    "name": "Breizh café crêperie 表参道店",
+    "kana": "ぶれっつかふぇ くれーぷりー おもてさんどう",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 神宮前",
+    "address": "東京都渋谷区神宮前3-5-4",
+    "url": "https://le-bretagne.com/creperie/omotesando/",
+    "description": "1996年に神楽坂で開いた日本初のクレープリーを起点とする、ル ブルターニュの店。そば粉100%のガレットとクレープ、直輸入のシードルを出す。隣にシードル専門店カーヴ ア シードルがある。",
+    "dishes": [
+      {
+        "id": "galette",
+        "menuName": "そば粉100%のガレット",
+        "note": "コンプレットなど"
+      },
+      {
+        "id": "crepe",
+        "menuName": "クレープ",
+        "note": "バターシュガー、クレープ・シュゼットなど"
+      },
+      {
+        "id": "cidre",
+        "menuName": "シードル Val de Rance"
+      }
+    ],
+    "sources": [
+      "https://le-bretagne.com/wp-content/uploads/2026/10/2611_menu.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "breizh-cafe-shinjuku-takashimaya",
+    "name": "Breizh café crêperie 新宿タカシマヤ店",
+    "kana": "ぶれっつかふぇ くれーぷりー しんじゅくたかしまや",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 千駄ヶ谷",
+    "address": "東京都渋谷区千駄ヶ谷5-24-2 新宿タカシマヤ13F",
+    "url": "https://le-bretagne.com/creperie/shinjuku/",
+    "description": "1996年に神楽坂で開いた日本初のクレープリーを起点とする、ル ブルターニュの店。新宿タカシマヤ13階のレストランパーク内にあり、植栽に面したテラス席がある。そば粉100%のガレットとクレープ、シードルを出す。",
+    "dishes": [
+      {
+        "id": "galette",
+        "menuName": "そば粉100%のガレット",
+        "note": "コンプレットなど"
+      },
+      {
+        "id": "crepe",
+        "menuName": "クレープ",
+        "note": "バターシュガー、クレープ・シュゼットなど"
+      },
+      {
+        "id": "cidre",
+        "menuName": "シードル Val de Rance"
+      }
+    ],
+    "sources": [
+      "https://le-bretagne.com/wp-content/uploads/2026/10/2611_menu.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "breizh-cafe-kyoto",
+    "name": "Breizh café crêperie 京都店",
+    "kana": "ぶれっつかふぇ くれーぷりー きょうと",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "京都府",
+    "area": "京都市左京区 若王子町",
+    "address": "京都府京都市左京区若王子町24-3",
+    "nearestStation": "地下鉄東西線 蹴上駅から1200m",
+    "url": "https://le-bretagne.com/creperie/kyoto/",
+    "description": "1996年に神楽坂で開いた日本初のクレープリーを起点とする、ル ブルターニュの店。哲学の道の起点近く、町家を改装した店で、中庭と掘り炬燵の和室がある。そば粉のガレットとクレープ、シードルを出す。",
+    "dishes": [
+      {
+        "id": "galette",
+        "menuName": "そば粉100%のガレット",
+        "note": "コンプレットなど"
+      },
+      {
+        "id": "crepe",
+        "menuName": "クレープ",
+        "note": "バターシュガー、クレープ・シュゼットなど"
+      },
+      {
+        "id": "cidre",
+        "menuName": "シードル Val de Rance"
+      }
+    ],
+    "sources": [
+      "https://le-bretagne.com/wp-content/uploads/2026/11/2611_Kyoto-menu.pdf"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "brasserie-paul-bocuse-ginza",
+    "name": "ブラッスリー ポール・ボキューズ 銀座",
+    "kana": "ぶらっすりー ぽーる・ぼきゅーず ぎんざ",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座2-2-14 マロニエゲート銀座1 10F",
+    "url": "https://www.hiramatsurestaurant.jp/paulbocuse-ginza/",
+    "description": "マロニエゲート銀座1の10階にある、リヨンの料理人ポール・ボキューズの名を冠したブラッスリー。リヨンのスペシャリテであるクネルをコースで出す。ひらまつの運営。",
+    "dishes": [
+      {
+        "id": "quenelle",
+        "menuName": "リヨンのスペシャリテ スズキと帆立のクネル ヴァンブランソース"
+      },
+      {
+        "id": "escargot",
+        "menuName": "エスカルゴとフランス産キノコのパイ包焼き",
+        "note": "コースの前菜"
+      }
+    ],
+    "sources": [
+      "https://www.hiramatsurestaurant.jp/paulbocuse-ginza/menu/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "brasserie-paul-bocuse-daimaru-tokyo",
+    "name": "ブラッスリー ポール・ボキューズ 大丸東京",
+    "kana": "ぶらっすりー ぽーる・ぼきゅーず だいまるとうきょう",
+    "cuisines": [
+      "フランス料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 丸の内",
+    "address": "東京都千代田区丸の内1-9-1 大丸東京店12階",
+    "nearestStation": "東京駅直結",
+    "url": "https://www.hiramatsurestaurant.jp/paulbocuse-daimarutokyo/",
+    "description": "大丸東京店12階のブラッスリー。店のスペシャリテはオマール海老のブイヤベースで、アラカルトでも注文できる。四万十ポークのパテ・ド・カンパーニュもある。ひらまつの運営。",
+    "dishes": [
+      {
+        "id": "bouillabaisse",
+        "menuName": "オマール海老のブイヤベース",
+        "note": "店のスペシャリテ"
+      },
+      {
+        "id": "pate-de-campagne",
+        "menuName": "高知県産四万十ポークのパテ・ド・カンパーニュ"
+      },
+      {
+        "id": "quiche",
+        "menuName": "根菜のキッシュ",
+        "note": "コースの前菜"
+      }
+    ],
+    "sources": [
+      "https://www.hiramatsurestaurant.jp/paulbocuse-daimarutokyo/menu/"
+    ],
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "del-mar-yokohama",
+    "name": "DEL MAR COMEDOR Y TERRAZA",
+    "kana": "でる まーる こめどーる い てらっつぁ",
+    "cuisines": [
+      "スペイン料理"
+    ],
+    "prefecture": "神奈川県",
+    "area": "横浜市中区 新港",
+    "address": "神奈川県横浜市中区新港2-14-1 横浜ハンマーヘッド 2F",
+    "url": "https://www.huge.co.jp/service/restaurant/spanish/del_mar/",
+    "description": "横浜ハンマーヘッド2階のスペイン料理店。魚介のパエリアやイカ墨のフィデウア、ガリシア風のタコ、日替わりのピンチョスを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "PAELLA DEL MAR"
+      },
+      {
+        "id": "fideua",
+        "menuName": "SQUID INK FIDEUA"
+      },
+      {
+        "id": "pulpo-a-feira",
+        "menuName": "PULPO A LA GALLEGA"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "SHRIMP AJILLO"
+      },
+      {
+        "id": "callos",
+        "menuName": "CALLOS SPANISH TRIPE STEW"
+      },
+      {
+        "id": "boquerones-vinagre",
+        "menuName": "BOQUERONES VINEGARED ANCHOVIES"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "TODAY'S PINTXOS"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/260406_dm_grand.pdf"
+    ],
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "la-coquina-shibuya",
+    "name": "La Coquina Cervecería",
+    "kana": "ら こきーな せるべせりあ",
+    "cuisines": [
+      "スペイン料理"
+    ],
+    "prefecture": "東京都",
+    "area": "渋谷区 渋谷",
+    "address": "東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア 13階",
+    "url": "https://www.huge.co.jp/service/restaurant/spanish/la_coquina/",
+    "description": "渋谷スクランブルスクエア13階のスペインバル。パエリアやフィデウアのほか、ガリシア風のタコ、イカ墨のクロケッタ、カジョス、パタタス・ブラバスなど定番のタパスがそろう。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "IBERIAN PORK PAELLA"
+      },
+      {
+        "id": "fideua",
+        "menuName": "FIDEUA"
+      },
+      {
+        "id": "pulpo-a-feira",
+        "menuName": "PULPO A LA GALLEGA"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "CAMARONES AL AJILLO"
+      },
+      {
+        "id": "croqueta",
+        "menuName": "CROQUETAS DE TINTA DE CALAMAR"
+      },
+      {
+        "id": "callos",
+        "menuName": "CALLOS"
+      },
+      {
+        "id": "patatas-bravas",
+        "menuName": "PATATAS BRAVAS"
+      },
+      {
+        "id": "tortilla",
+        "menuName": "TORTILLA"
+      },
+      {
+        "id": "boquerones-vinagre",
+        "menuName": "BOQUERONES",
+        "note": "marinated sardine"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261007_LC_grand.pdf"
+    ],
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "la-pesquera-otemachi",
+    "name": "La Pesquera Marisquería",
+    "kana": "ら ぺすけーら まりすけりあ",
+    "cuisines": [
+      "スペイン料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 大手町",
+    "address": "東京都千代田区大手町1-5-5 大手町タワー OOTEMORI B2F",
+    "url": "https://www.huge.co.jp/service/restaurant/spanish/la_pesquera/",
+    "description": "大手町タワー地下2階の魚介中心のスペイン料理店。日替わりのパエリアやイカ墨のパエリア、マドリード風のカジョス、トルティージャを出す。株式会社HUGEの運営。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "PAELLA DEL DIA"
+      },
+      {
+        "id": "arroz-negro",
+        "menuName": "TINTA DE CALAMAR",
+        "note": "イカ墨のパエリア"
+      },
+      {
+        "id": "fideua",
+        "menuName": "Fideua"
+      },
+      {
+        "id": "callos",
+        "menuName": "CALLOS AL MADRILENO"
+      },
+      {
+        "id": "pulpo-a-feira",
+        "menuName": "PULPO A LA GALLEGA"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "CAMARONES Y SETAS AL AJILLO"
+      },
+      {
+        "id": "patatas-bravas",
+        "menuName": "PATATAS BRAVAS"
+      },
+      {
+        "id": "tortilla",
+        "menuName": "TORTILLA ESPANOLA"
+      }
+    ],
+    "sources": [
+      "https://www.huge.co.jp/tenpo_file/file/261027_lp_grand.pdf"
+    ],
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "bikini-sis-roppongi",
+    "name": "BIKiNi SIS 六本木ヒルズ店",
+    "kana": "びきに しす",
+    "cuisines": [
+      "スペイン料理"
+    ],
+    "prefecture": "東京都",
+    "area": "港区 六本木",
+    "address": "東京都港区六本木6-10-1 六本木ヒルズ ウェストウォーク5F",
+    "url": "https://www.roppongihills.com/sp/dining/restaurant/bikini_sis/",
+    "description": "六本木ヒルズ ウェストウォーク5階のスペイン料理店。カタルーニャ出身のシェフ、ジョセップ・バラオナ・ビニェス氏が手がけ、カタルーニャ料理に日本の旬の食材を合わせたコースを出す。名物はパン・コン・トマテ。パエリアは、米を使う魚介のパエリアと、カタルーニャ伝統のパスタのパエリアから選べる。",
+    "dishes": [
+      {
+        "id": "pan-con-tomate",
+        "menuName": "パンコントマテ"
+      },
+      {
+        "id": "paella",
+        "menuName": "魚介のパエリア",
+        "note": "コースのパエリアで選択"
+      },
+      {
+        "id": "fideua",
+        "menuName": "カタルーニャ地方の伝統的なパスタのパエリア",
+        "note": "コースのパエリアで選択"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "マイクロピンチョス9種盛り合わせ",
+        "note": "コースの前菜"
+      }
+    ],
+    "sources": [
+      "https://www.roppongihills.com/sp/dining/restaurant/bikini_sis/",
+      "https://restaurant.ikyu.com/110687/"
+    ],
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "saikabo-yotsuya",
+    "name": "妻家房 四谷本店",
+    "kana": "さいかぼう よつやほんてん",
+    "cuisines": [
+      "韓国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "新宿区 四谷",
+    "address": "東京都新宿区四谷3-10-25 永明ビル",
+    "nearestStation": "四谷三丁目駅 2番出口 徒歩30秒",
+    "url": "https://www.saikabo.com/restaurant/yotsuya/",
+    "description": "韓国家庭料理チェーン妻家房の1号店。1階にキムチ博物館と韓国食品売場があり、2・3階が韓国の伝統的な家をモチーフにしたレストラン。キムチやナムル、チヂミ、チゲ、参鶏湯など家庭料理を幅広く出す。",
+    "dishes": [
+      {
+        "id": "kimchi",
+        "menuName": "キムチ盛合せ"
+      },
+      {
+        "id": "bossam-kimchi",
+        "menuName": "ポッサムキムチ"
+      },
+      {
+        "id": "oi-sobagi",
+        "menuName": "オイキムチ"
+      },
+      {
+        "id": "kkakdugi",
+        "menuName": "カクテキ"
+      },
+      {
+        "id": "namul",
+        "menuName": "ナムル盛合せ"
+      },
+      {
+        "id": "buchimgae",
+        "menuName": "パチヂミ"
+      },
+      {
+        "id": "haemul-pajeon",
+        "menuName": "海鮮チヂミ"
+      },
+      {
+        "id": "bossam",
+        "menuName": "ジェユクポッサム"
+      },
+      {
+        "id": "japchae",
+        "menuName": "チャプチェ"
+      },
+      {
+        "id": "tteokbokki",
+        "menuName": "トッポッキ"
+      },
+      {
+        "id": "dak-galbi",
+        "menuName": "チーズタッカルビ",
+        "note": "2〜3人前"
+      },
+      {
+        "id": "bulgogi",
+        "menuName": "牛プルコギ",
+        "note": "2〜3人前"
+      },
+      {
+        "id": "samgyeopsal",
+        "menuName": "サムギョプサル",
+        "note": "2〜3人前"
+      },
+      {
+        "id": "chukkumi",
+        "menuName": "チュクミ炒め石焼ビビンバ・パチヂミセット"
+      },
+      {
+        "id": "budae-jjigae",
+        "menuName": "プデチゲ",
+        "note": "2〜3人前"
+      },
+      {
+        "id": "bibimbap",
+        "menuName": "石焼ビビンバ"
+      },
+      {
+        "id": "naengmyeon",
+        "menuName": "水冷麺"
+      },
+      {
+        "id": "sundubu-jjigae",
+        "menuName": "スンドゥブチゲ"
+      },
+      {
+        "id": "kimchi-jjigae",
+        "menuName": "キムチチゲ"
+      },
+      {
+        "id": "doenjang-jjigae",
+        "menuName": "テンジャンチゲ"
+      },
+      {
+        "id": "samgyetang",
+        "menuName": "サムゲタン"
+      },
+      {
+        "id": "gomtang",
+        "menuName": "コムタンスープ"
+      },
+      {
+        "id": "yukgaejang",
+        "menuName": "ユッケジャンスープ"
+      }
+    ],
+    "sources": [
+      "https://www.saikabo.com/restaurant/yotsuya/",
+      "https://www.hotpepper.jp/strJ000103709/food/"
+    ],
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "kollabo-toranomon",
+    "name": "焼肉・韓国料理 KollaBo×マンジョ＆ソベッチャカンジャンケジャン 虎ノ門店",
+    "kana": "こらぼ とらのもんてん",
+    "cuisines": [
+      "韓国料理"
+    ],
+    "prefecture": "東京都",
+    "area": "千代田区 霞が関",
+    "address": "東京都千代田区霞が関3-2-6 東京俱楽部ビルディング 1F",
+    "nearestStation": "虎ノ門駅 徒歩3分",
+    "url": "https://shop.kollabo.co.jp/store/",
+    "description": "焼肉・韓国料理チェーンKollaBoの虎ノ門店。韓国の専門店と提携したメニューが特徴で、この店ではソベッチャのカンジャンケジャンを出す。ほかにソルロンタンや参鶏湯などのスープ、サムギョプサル、チーズタッカルビもある。",
+    "dishes": [
+      {
+        "id": "ganjang-gejang",
+        "menuName": "カンジャンケジャン",
+        "note": "提携ブランド：ソベッチャのカンジャンケジャン"
+      },
+      {
+        "id": "samgyeopsal",
+        "menuName": "サムギョプサル"
+      },
+      {
+        "id": "dak-galbi",
+        "menuName": "チーズダッカルビ"
+      },
+      {
+        "id": "seolleongtang",
+        "menuName": "ソルロンタン"
+      },
+      {
+        "id": "samgyetang",
+        "menuName": "特選参鶏湯（サムゲタン）"
+      },
+      {
+        "id": "galbi-tang",
+        "menuName": "カルビタン"
+      },
+      {
+        "id": "sundubu-jjigae",
+        "menuName": "純豆腐チゲ"
+      },
+      {
+        "id": "haemul-pajeon",
+        "menuName": "海鮮チヂミ"
+      },
+      {
+        "id": "bibimbap",
+        "menuName": "石焼ビビンバ"
+      },
+      {
+        "id": "naengmyeon",
+        "menuName": "水冷麺"
+      },
+      {
+        "id": "yangnyeom-chicken",
+        "menuName": "ヤンニョムチキン"
+      }
+    ],
+    "sources": [
+      "https://shop.kollabo.co.jp/menu/",
+      "https://www.hotpepper.jp/strJ004612944/"
+    ],
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "vietnam-frog-shiodome",
+    "name": "ベトナム フロッグ 汐留店",
+    "kana": "べとなむ ふろっぐ しおどめてん",
+    "cuisines": [
+      "ベトナム料理"
+    ],
+    "prefecture": "東京都",
+    "area": "港区 東新橋",
+    "address": "東京都港区東新橋1-5-2 汐留シティセンタービル B1",
+    "nearestStation": "汐留駅 徒歩1分",
+    "description": "汐留シティセンター地下1階のベトナム料理店。ハノイのブンチャー、フエのブンボーフエ、牛肉のフォーなど麺料理の種類が多く、バインセオや生春巻き、バインミーもそろう。",
+    "dishes": [
+      {
+        "id": "bun-cha",
+        "menuName": "ブン・チャーハノイ"
+      },
+      {
+        "id": "bun-bo-hue",
+        "menuName": "ブンボーフエ"
+      },
+      {
+        "id": "pho",
+        "menuName": "牛肉のフォー"
+      },
+      {
+        "id": "banh-xeo",
+        "menuName": "バインセオ"
+      },
+      {
+        "id": "banh-cuon",
+        "menuName": "バインクオン"
+      },
+      {
+        "id": "goi-cuon",
+        "menuName": "生春巻"
+      },
+      {
+        "id": "banhmi",
+        "menuName": "バインミー"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000103786/food/",
+      "https://www.hotpepper.jp/strJ000103786/course_cnod19/",
+      "https://gurunavi.com/en/a986600/rst"
+    ],
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "kosaku-kofu-ekimae",
+    "name": "甲州ほうとう 小作 甲府駅前店",
+    "kana": "こうしゅうほうとう こさく こうふえきまえてん",
+    "cuisines": [
+      "日本料理"
+    ],
+    "prefecture": "山梨県",
+    "area": "甲府市 丸の内",
+    "address": "山梨県甲府市丸の内1-7-2",
+    "nearestStation": "甲府駅 南口",
+    "url": "https://www.kosaku.co.jp/tenpo-kofuekimae",
+    "description": "山梨県内を中心に展開する甲州ほうとうの専門店。看板のかぼちゃほうとうをはじめ、豚肉・鴨肉・きのこなど具の違うほうとうが十数種類あり、あずきほうとうや冷やしほうとうの「おざら」、甲州名物の馬刺しと煮貝も出す。",
+    "dishes": [
+      {
+        "id": "houtou",
+        "menuName": "かぼちゃほうとう"
+      },
+      {
+        "id": "azuki-houtou-yama-nashi",
+        "menuName": "あずきほうとう"
+      },
+      {
+        "id": "ozara-yamanashi",
+        "menuName": "おざら（冷やしほうとう）"
+      },
+      {
+        "id": "basashi-kumamoto",
+        "menuName": "馬刺し"
+      },
+      {
+        "id": "awabino-nigai-yama-nashi",
+        "menuName": "煮貝"
+      }
+    ],
+    "sources": [
+      "https://www.kosaku.co.jp/manu.html",
+      "https://www.kosaku.co.jp/dantai.html"
+    ],
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "id": "motsunabe-ooyama-honten",
+    "name": "博多もつ鍋おおやま 本店",
+    "kana": "はかたもつなべおおやま ほんてん",
+    "cuisines": [
+      "日本料理"
+    ],
+    "prefecture": "福岡県",
+    "area": "福岡市博多区 店屋町",
+    "address": "福岡県福岡市博多区店屋町7-28",
+    "url": "https://www.motu-ooyama.com/shop/honten/",
+    "description": "全国に店舗を持つ博多もつ鍋おおやまの1号店。和牛小腸のもつ鍋をみそ・しょうゆ・水炊き風の3種類のスープから選べ、熊本から直送する馬刺しも名物。",
+    "dishes": [
+      {
+        "id": "motsunabe",
+        "menuName": "もつ鍋（みそ味・しょうゆ味・水炊き風）"
+      },
+      {
+        "id": "basashi-kumamoto",
+        "menuName": "馬刺し三種盛り"
+      }
+    ],
+    "sources": [
+      "https://www.motu-ooyama.com/shop/honten/"
+    ],
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "id": "shikairou-nagasaki",
+    "name": "中華料理 四海樓",
+    "kana": "ちゅうかりょうり しかいろう",
+    "cuisines": [
+      "中国料理",
+      "日本料理"
+    ],
+    "prefecture": "長崎県",
+    "area": "長崎市 松が枝町",
+    "address": "長崎県長崎市松が枝町4-5",
+    "nearestStation": "大浦天主堂電停 徒歩1分",
+    "url": "https://shikairou.com/",
+    "description": "明治32年（1899年）創業の中華料理店で、創業者の陳平順がちゃんぽんと皿うどんを考案したとされる。2階にちゃんぽんミュージアムがある。",
+    "dishes": [
+      {
+        "id": "46-8-nagasaki",
+        "menuName": "ちゃんぽん"
+      },
+      {
+        "id": "sara-udon",
+        "menuName": "皿うどん"
+      }
+    ],
+    "sources": [
+      "https://shikairou.com/champon/",
+      "https://shikairou.com/saraudon/",
+      "https://rurubu.jp/andmore/spot/80039253",
+      "https://www.gltjp.com/ja/directory/item/12448/"
+    ],
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "id": "fukagawajuku-honten",
+    "name": "深川宿 本店",
+    "kana": "ふかがわじゅく ほんてん",
+    "cuisines": [
+      "日本料理"
+    ],
+    "prefecture": "東京都",
+    "area": "江東区 三好",
+    "address": "東京都江東区三好1-6-7",
+    "nearestStation": "清澄白河駅 A3出口 徒歩4分",
+    "url": "https://www.fukagawajuku.com/",
+    "description": "深川江戸資料館前の深川めしの店。あさりを味噌で煮立てて汁ごとご飯にかける「ぶっかけ」と、醤油味で炊き込む「炊き込み」の2種類を出す。富岡八幡宮の境内に富岡八幡店もある。",
+    "dishes": [
+      {
+        "id": "34-1-tokyo",
+        "menuName": "深川めし（ぶっかけ・炊き込み）"
+      }
+    ],
+    "sources": [
+      "https://www.fukagawajuku.com/"
+    ],
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "id": "hanamidori-nakasu-honten",
+    "name": "水たき料亭 博多華味鳥 中洲本店",
+    "kana": "みずたきりょうてい はかたはなみどり なかすほんてん",
+    "cuisines": [
+      "日本料理"
+    ],
+    "prefecture": "福岡県",
+    "area": "福岡市博多区 中洲",
+    "address": "福岡県福岡市博多区中洲5-4-24 トリゼンビル",
+    "nearestStation": "中洲川端駅 徒歩5分",
+    "url": "https://www.hanamidori.net/stores/0922630322/",
+    "description": "北部九州で自社育成する銘柄鶏「華味鳥」を使った水たき料亭の本店。水たきのコースを中心に、ごまカンパチや明太子などの一品料理もある。",
+    "dishes": [
+      {
+        "id": "wakadori-no-mizutaki-fukuoka",
+        "menuName": "水たき"
+      }
+    ],
+    "sources": [
+      "https://www.hanamidori.net/stores/0922630322/",
+      "https://www.hanamidori.net/menu-food/"
+    ],
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "id": "kojimaya-tokamachi-honten",
+    "name": "越後十日町小嶋屋 本店",
+    "kana": "えちごとおかまちこじまや ほんてん",
+    "cuisines": [
+      "日本料理"
+    ],
+    "prefecture": "新潟県",
+    "area": "十日町市 本町",
+    "address": "新潟県十日町市本町4-16-1",
+    "url": "https://hegisoba.co.jp/shop/kojimaya-honten/",
+    "description": "十日町のへぎそば店。布海苔（ふのり）をつなぎにした十割のそばを、へぎと呼ぶ木の器に手振りで盛って出す。天ぷらとの組み合わせも多い。",
+    "dishes": [
+      {
+        "id": "hegisoba-niigata-niigata",
+        "menuName": "へぎそば"
+      },
+      {
+        "id": "tempura",
+        "menuName": "天ぷら（エビ、旬の野菜）"
+      }
+    ],
+    "sources": [
+      "https://hegisoba.co.jp/shop/kojimaya-honten/",
+      "https://hegisoba.co.jp/menu/"
+    ],
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "id": "neboke-ginza",
+    "name": "土佐料理 祢保希 銀座店",
+    "kana": "とさりょうり ねぼけ ぎんざてん",
+    "cuisines": [
+      "日本料理"
+    ],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座7-6-8",
+    "nearestStation": "銀座駅・新橋駅 徒歩4分",
+    "url": "https://www.katsuo.co.jp/neboke-ginza/",
+    "description": "大正6年（1917年）創業の土佐料理司グループの銀座店で、一軒家の料亭。大皿に料理を盛り合わせる皿鉢料理のコースや、名物の鰹のたたきを出す。",
+    "dishes": [
+      {
+        "id": "sawachi-ryori",
+        "menuName": "皿鉢料理"
+      },
+      {
+        "id": "katsuo-no-tataki-kochi",
+        "menuName": "鰹のたたき"
+      }
+    ],
+    "sources": [
+      "https://www.katsuo.co.jp/neboke-ginza/",
+      "https://restaurant.ikyu.com/106303/"
+    ],
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "id": "mukashi-no-kiritanpoya-odate",
+    "name": "昔のきりたんぽや",
+    "kana": "むかしのきりたんぽや",
+    "cuisines": [
+      "日本料理"
+    ],
+    "prefecture": "秋田県",
+    "area": "大館市 大館",
+    "address": "秋田県大館市大館75-5",
+    "url": "https://kiritanpoya.jp/",
+    "description": "大館のきりたんぽ鍋の店。比内地鶏のガラから取ったスープに手作りのきりたんぽを入れ、セリやゴボウ、舞茸と煮る。素材の都合で5月中旬から9月下旬は休業する。",
+    "dishes": [
+      {
+        "id": "kiritanpo-nabe-akita",
+        "menuName": "きりたんぽ鍋"
+      },
+      {
+        "id": "iburigakko-akita",
+        "menuName": "いぶりがっこ"
+      }
+    ],
+    "sources": [
+      "https://kiritanpoya.jp/"
+    ],
+    "checkedAt": "2026-11-16"
   }
 ]
