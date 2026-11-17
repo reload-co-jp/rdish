@@ -995,9 +995,7 @@
     "id": "ajibo-kanda",
     "name": "味坊",
     "kana": "あじぼう",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "千代田区 神田",
     "address": "東京都千代田区鍛冶町2-11-20",
@@ -1037,9 +1035,7 @@
     "id": "ajibo-tetsunabeso-yushima",
     "name": "味坊鉄鍋荘",
     "kana": "あじぼうてつなべそう",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "台東区 湯島",
     "address": "東京都台東区上野1-12-9",
@@ -1076,9 +1072,7 @@
     "id": "yanshan-ajibo-okachimachi",
     "name": "羊香味坊",
     "kana": "やんしゃんあじぼう",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "台東区 上野",
     "address": "東京都台東区上野3-12-6",
@@ -1105,9 +1099,7 @@
     "id": "laojiupu-okachimachi",
     "name": "老酒舗",
     "kana": "ろうしゅほ",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "台東区 上野",
     "address": "東京都台東区上野5-10-12",
@@ -1139,10 +1131,7 @@
     "id": "houmi-hachiman-yoyogihachiman",
     "name": "宝味八萬",
     "kana": "ほうみはちまん",
-    "cuisines": [
-      "中国料理",
-      "広東料理"
-    ],
+    "cuisines": ["中国料理", "広東料理"],
     "prefecture": "東京都",
     "area": "渋谷区 富ヶ谷",
     "address": "東京都渋谷区富ヶ谷1-53-4 リコービル1F",
@@ -1184,9 +1173,7 @@
     "id": "xiangfu-ajibo-akihabara",
     "name": "香福味坊",
     "kana": "しゃんふーあじぼう",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "千代田区 神田佐久間町",
     "address": "東京都千代田区神田佐久間町1-21 Chiyoda Terrace",
@@ -1219,9 +1206,7 @@
     "id": "zhenglong-ajibo-yoyogiuehara",
     "name": "蒸籠味坊",
     "kana": "じょうりゅうあじぼう",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "渋谷区 西原",
     "address": "東京都渋谷区西原3-8-5 アコルデ代々木上原2F",
@@ -1245,9 +1230,7 @@
     "id": "shokan-ajibo-ningyocho",
     "name": "商館味坊",
     "kana": "しょうかんあじぼう",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "中央区 人形町",
     "address": "東京都中央区日本橋人形町1-19 エムズクロス人形町 4F",
@@ -1272,10 +1255,7 @@
     "id": "chinkashisai-akasaka",
     "name": "陳家私菜 赤坂1号店 湧の台所",
     "kana": "ちんかしさい",
-    "cuisines": [
-      "中国料理",
-      "四川料理"
-    ],
+    "cuisines": ["中国料理", "四川料理"],
     "prefecture": "東京都",
     "area": "港区 赤坂",
     "address": "東京都港区赤坂3-19-8 赤坂ウエストビル B1F",
@@ -1307,8 +1287,7 @@
       {
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
-      }
-,
+      },
       {
         "id": "fu-qi-fei-pian",
         "menuName": "本場四川牛肉とホルモンの香り和え"
@@ -1329,10 +1308,7 @@
     "id": "chinkashisai-gotanda",
     "name": "陳家私菜 五反田店",
     "kana": "ちんかしさい",
-    "cuisines": [
-      "中国料理",
-      "四川料理"
-    ],
+    "cuisines": ["中国料理", "四川料理"],
     "prefecture": "東京都",
     "area": "品川区 西五反田",
     "address": "東京都品川区西五反田2-26-2 桔梗ハイツ2F",
@@ -1364,8 +1340,7 @@
       {
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
-      }
-,
+      },
       {
         "id": "fu-qi-fei-pian",
         "menuName": "本場四川牛肉とホルモンの香り和え"
@@ -1386,10 +1361,7 @@
     "id": "chinkashisai-akihabara",
     "name": "陳家私菜 秋葉原店",
     "kana": "ちんかしさい",
-    "cuisines": [
-      "中国料理",
-      "四川料理"
-    ],
+    "cuisines": ["中国料理", "四川料理"],
     "prefecture": "東京都",
     "area": "千代田区 神田和泉町",
     "address": "東京都千代田区神田和泉町1-1-12 ミツバビル B1",
@@ -1421,8 +1393,7 @@
       {
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
-      }
-,
+      },
       {
         "id": "fu-qi-fei-pian",
         "menuName": "本場四川牛肉とホルモンの香り和え"
@@ -1443,10 +1414,7 @@
     "id": "chinkashisai-shinjuku",
     "name": "陳家私菜 新宿店",
     "kana": "ちんかしさい",
-    "cuisines": [
-      "中国料理",
-      "四川料理"
-    ],
+    "cuisines": ["中国料理", "四川料理"],
     "prefecture": "東京都",
     "area": "渋谷区 代々木",
     "address": "東京都渋谷区代々木2-15-9 加瀬ビル 1F",
@@ -1478,8 +1446,7 @@
       {
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
-      }
-,
+      },
       {
         "id": "fu-qi-fei-pian",
         "menuName": "本場四川牛肉とホルモンの香り和え"
@@ -1500,10 +1467,7 @@
     "id": "chinkashisai-shibuya",
     "name": "陳家私菜 渋谷店",
     "kana": "ちんかしさい",
-    "cuisines": [
-      "中国料理",
-      "四川料理"
-    ],
+    "cuisines": ["中国料理", "四川料理"],
     "prefecture": "東京都",
     "area": "渋谷区 神南",
     "address": "東京都渋谷区神南1-16-3 ブルー ヴァール ビル B1",
@@ -1535,8 +1499,7 @@
       {
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
-      }
-,
+      },
       {
         "id": "fu-qi-fei-pian",
         "menuName": "本場四川牛肉とホルモンの香り和え"
@@ -1557,10 +1520,7 @@
     "id": "chinkashisai-ginza",
     "name": "陳家私菜 銀座店（日比谷グルメゾン）",
     "kana": "ちんかしさい",
-    "cuisines": [
-      "中国料理",
-      "四川料理"
-    ],
+    "cuisines": ["中国料理", "四川料理"],
     "prefecture": "東京都",
     "area": "千代田区 内幸町",
     "address": "東京都千代田区内幸町1-7-24 日比谷グルメゾン",
@@ -1592,8 +1552,7 @@
       {
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
-      }
-,
+      },
       {
         "id": "fu-qi-fei-pian",
         "menuName": "本場四川牛肉とホルモンの香り和え"
@@ -1614,10 +1573,7 @@
     "id": "chinkashisai-marunouchi",
     "name": "陳家私菜 丸の内店",
     "kana": "ちんかしさい",
-    "cuisines": [
-      "中国料理",
-      "四川料理"
-    ],
+    "cuisines": ["中国料理", "四川料理"],
     "prefecture": "東京都",
     "area": "千代田区 丸の内",
     "address": "東京都千代田区丸の内3-7-10 鍛冶橋高架下1階",
@@ -1649,8 +1605,7 @@
       {
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
-      }
-,
+      },
       {
         "id": "fu-qi-fei-pian",
         "menuName": "本場四川牛肉とホルモンの香り和え"
@@ -1671,10 +1626,7 @@
     "id": "chinkashisai-shinbashi",
     "name": "陳家私菜 新橋店",
     "kana": "ちんかしさい",
-    "cuisines": [
-      "中国料理",
-      "四川料理"
-    ],
+    "cuisines": ["中国料理", "四川料理"],
     "prefecture": "東京都",
     "area": "千代田区 内幸町",
     "address": "東京都千代田区内幸町2-2-3 日比谷国際ビル B2",
@@ -1706,8 +1658,7 @@
       {
         "id": "lazi-ji",
         "menuName": "鶏の唐揚ラーズーチー"
-      }
-,
+      },
       {
         "id": "fu-qi-fei-pian",
         "menuName": "本場四川牛肉とホルモンの香り和え"
@@ -1728,10 +1679,7 @@
     "id": "ikebukuro-yang-2",
     "name": "中国家庭料理 楊 2号店",
     "kana": "ちゅうごくかていりょうり やん",
-    "cuisines": [
-      "中国料理",
-      "四川料理"
-    ],
+    "cuisines": ["中国料理", "四川料理"],
     "prefecture": "東京都",
     "area": "豊島区 池袋",
     "address": "東京都豊島区西池袋3-25-5",
@@ -1757,9 +1705,7 @@
     "id": "shikiko-ikebukuro",
     "name": "四季香 池袋北口本館",
     "kana": "しきこう",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "豊島区 池袋",
     "address": "東京都豊島区西池袋1-43-3 日精ビル1F",
@@ -1781,9 +1727,7 @@
     "id": "hitsujikizoku-ikebukuro",
     "name": "羊貴族 池袋北口店",
     "kana": "ひつじきぞく",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "豊島区 池袋",
     "address": "東京都豊島区西池袋1-43-9 アミューズ池袋ビル B1",
@@ -1809,9 +1753,7 @@
     "id": "jufukuro-ikebukuro",
     "name": "聚福楼",
     "kana": "じゅふくろう",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "豊島区 池袋",
     "address": "東京都豊島区西池袋1-37-16 大雄ビル 4F",
@@ -1837,9 +1779,7 @@
     "id": "mazilu-jimbocho",
     "name": "馬子禄 牛肉面 神保町店",
     "kana": "まーずるー",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "千代田区 神保町",
     "address": "東京都千代田区神田神保町1-3-18",
@@ -1863,9 +1803,7 @@
     "id": "mazilu-shinjuku",
     "name": "馬子禄 牛肉面 新宿店",
     "kana": "まーずるー",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "新宿区 歌舞伎町",
     "address": "東京都新宿区歌舞伎町2-1-2 Hanrokuビル1F",
@@ -1879,18 +1817,14 @@
         "note": "麺の太さを9種類から選べる"
       }
     ],
-    "sources": [
-      "https://lanzhou-lamian.com/shop/"
-    ],
+    "sources": ["https://lanzhou-lamian.com/shop/"],
     "checkedAt": "2026-11-12"
   },
   {
     "id": "nikkyoen-shokusai-unnan-yotsuya",
     "name": "日興苑 食彩雲南 過橋米線",
     "kana": "にっきょうえん しょくさいうんなん かきょうべいせん",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "新宿区 四谷",
     "address": "東京都新宿区四谷3-3 エスパスコンセール1F",
@@ -1913,10 +1847,7 @@
     "id": "tamjai-samgor-shinjuku",
     "name": "譚仔三哥 新宿中央通り店",
     "kana": "たむじゃいさむごー",
-    "cuisines": [
-      "中国料理",
-      "広東料理"
-    ],
+    "cuisines": ["中国料理", "広東料理"],
     "prefecture": "東京都",
     "area": "新宿区 新宿",
     "address": "東京都新宿区新宿3-28-16",
@@ -1939,9 +1870,7 @@
     "id": "yoshu-shonin-meguro",
     "name": "中国ラーメン 揚州商人 目黒本店",
     "kana": "ようしゅうしょうにん",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "目黒区 目黒",
     "address": "東京都目黒区目黒1-6-16 明洞ビル1F",
@@ -1972,10 +1901,7 @@
     "id": "sichuan-douhua-tokyo",
     "name": "四川豆花飯荘 東京店",
     "kana": "しせんとうふぁはんそう",
-    "cuisines": [
-      "中国料理",
-      "四川料理"
-    ],
+    "cuisines": ["中国料理", "四川料理"],
     "prefecture": "東京都",
     "area": "千代田区 丸の内",
     "address": "東京都千代田区丸の内1-5-1 新丸の内ビルディング6F",
@@ -2008,10 +1934,7 @@
     "id": "haidilao-ikebukuro",
     "name": "海底撈火鍋 池袋店",
     "kana": "かいていろうひなべ",
-    "cuisines": [
-      "中国料理",
-      "四川料理"
-    ],
+    "cuisines": ["中国料理", "四川料理"],
     "prefecture": "東京都",
     "area": "豊島区 南池袋",
     "address": "東京都豊島区南池袋1-21-2 ヒューマックスパビリオン南池袋5F・6F",
@@ -2034,9 +1957,7 @@
     "id": "konan-jinka-yokohama",
     "name": "湖南人家",
     "kana": "こなんじんか",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "神奈川県",
     "area": "横浜市中区 山下町（横浜中華街）",
     "address": "神奈川県横浜市中区山下町147 香港路",
@@ -2073,9 +1994,7 @@
     "id": "amoy-kitchen-kamata",
     "name": "厦門厨房",
     "kana": "あもいちゅうぼう",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "大田区 西蒲田",
     "address": "東京都大田区西蒲田7-27-6 裕大ビル1F",
@@ -2101,9 +2020,7 @@
     "id": "silkroad-tarim-nishishinjuku",
     "name": "シルクロード・タリム",
     "kana": "しるくろーど・たりむ",
-    "cuisines": [
-      "中国料理"
-    ],
+    "cuisines": ["中国料理"],
     "prefecture": "東京都",
     "area": "新宿区 西新宿",
     "address": "東京都新宿区西新宿3-15-8 西新宿パールビル103",
@@ -2126,9 +2043,7 @@
     "id": "mole-taqueria-marunouchi",
     "name": "Molé TAQUERIA Y BAR",
     "kana": "もーれ たけりあ い ばる",
-    "cuisines": [
-      "メキシコ料理"
-    ],
+    "cuisines": ["メキシコ料理"],
     "prefecture": "東京都",
     "area": "千代田区 丸の内",
     "address": "東京都千代田区丸の内1-5-1 新丸の内ビル7F 丸の内ハウス",
@@ -2169,18 +2084,14 @@
         "menuName": "メキシカンチョリソーの一口フリット"
       }
     ],
-    "sources": [
-      "https://www.huge.co.jp/tenpo_file/file/261028_Mole_grand.pdf"
-    ],
+    "sources": ["https://www.huge.co.jp/tenpo_file/file/261028_Mole_grand.pdf"],
     "checkedAt": "2026-11-12"
   },
   {
     "id": "mucho-modern-mexicano-marunouchi",
     "name": "MUCHO MODERN MEXICANO",
     "kana": "むーちょ もだん めきしかーの",
-    "cuisines": [
-      "メキシコ料理"
-    ],
+    "cuisines": ["メキシコ料理"],
     "prefecture": "東京都",
     "area": "千代田区 丸の内",
     "address": "東京都千代田区丸の内2-7-3 東京ビル(TOKIA) 2F",
@@ -2246,9 +2157,7 @@
     "id": "las-dos-caras-harajuku",
     "name": "LAS DOS CARAS MODERN MEXICANO Y TACOS",
     "kana": "らす どす からす もだん めきしかーの い たこす",
-    "cuisines": [
-      "メキシコ料理"
-    ],
+    "cuisines": ["メキシコ料理"],
     "prefecture": "東京都",
     "area": "渋谷区 神宮前",
     "address": "東京都渋谷区神宮前1-10-37 CASCADE HARAJUKU 1F/B1",
@@ -2304,18 +2213,14 @@
         "menuName": "Guacamole"
       }
     ],
-    "sources": [
-      "https://www.huge.co.jp/tenpo_file/file/260902_LDC_grand.pdf"
-    ],
+    "sources": ["https://www.huge.co.jp/tenpo_file/file/260902_LDC_grand.pdf"],
     "checkedAt": "2026-11-12"
   },
   {
     "id": "hacienda-del-cielo-daikanyama",
     "name": "Hacienda del cielo MODERN MEXICANO",
     "kana": "あしえんだ でる しえろ もだん めきしかーの",
-    "cuisines": [
-      "メキシコ料理"
-    ],
+    "cuisines": ["メキシコ料理"],
     "prefecture": "東京都",
     "area": "渋谷区 猿楽町",
     "address": "東京都渋谷区猿楽町10-1 マンサード代官山 9F",
@@ -2372,9 +2277,7 @@
     "id": "el-caliente-shinagawa",
     "name": "el caliente modern mexicano",
     "kana": "える かりえんて もだん めきしかーの",
-    "cuisines": [
-      "メキシコ料理"
-    ],
+    "cuisines": ["メキシコ料理"],
     "prefecture": "東京都",
     "area": "港区 港南",
     "address": "東京都港区港南2-18-1 アトレ品川4F",
@@ -2427,18 +2330,14 @@
         "menuName": "GUACAMOLE FRESCO"
       }
     ],
-    "sources": [
-      "https://www.huge.co.jp/tenpo_file/file/261029_EC_GRAND.pdf"
-    ],
+    "sources": ["https://www.huge.co.jp/tenpo_file/file/261029_EC_GRAND.pdf"],
     "checkedAt": "2026-11-12"
   },
   {
     "id": "comedor-de-margarita-yokohama",
     "name": "COMEDOR DE MARGARITA MODERN MEXICANO",
     "kana": "こめどーる で まるがりーた もだん めきしかーの",
-    "cuisines": [
-      "メキシコ料理"
-    ],
+    "cuisines": ["メキシコ料理"],
     "prefecture": "神奈川県",
     "area": "横浜市西区 南幸",
     "address": "神奈川県横浜市西区南幸1-1-1 ニュウマン横浜店9F",
@@ -2498,18 +2397,14 @@
         "menuName": "GUACAMOLE"
       }
     ],
-    "sources": [
-      "https://www.huge.co.jp/tenpo_file/file/260809_CDM_grand.pdf"
-    ],
+    "sources": ["https://www.huge.co.jp/tenpo_file/file/260809_CDM_grand.pdf"],
     "checkedAt": "2026-11-12"
   },
   {
     "id": "el-rincon-de-mexicola-naha",
     "name": "EL RINCON DE MEXICOLA",
     "kana": "える りんこん で めひこーら",
-    "cuisines": [
-      "メキシコ料理"
-    ],
+    "cuisines": ["メキシコ料理"],
     "prefecture": "沖縄県",
     "area": "那覇市 牧志",
     "address": "沖縄県那覇市牧志3-3-4 1階",
@@ -2553,18 +2448,14 @@
         "menuName": "CLASSIC NACHOS"
       }
     ],
-    "sources": [
-      "https://www.huge.co.jp/tenpo_file/file/261015_ERDM_grand.pdf"
-    ],
+    "sources": ["https://www.huge.co.jp/tenpo_file/file/261015_ERDM_grand.pdf"],
     "checkedAt": "2026-11-12"
   },
   {
     "id": "cafe-iguana-fukaya",
     "name": "Café Iguana MEXICAN GRILL",
     "kana": "かふぇ いぐあな めきしかん ぐりる",
-    "cuisines": [
-      "メキシコ料理"
-    ],
+    "cuisines": ["メキシコ料理"],
     "prefecture": "埼玉県",
     "area": "深谷市 花園",
     "address": "埼玉県深谷市花園1番地 ふかや花園プレミアムアウトレット",
@@ -2597,9 +2488,7 @@
     "id": "el-caracol-yotsuya",
     "name": "El Caracol",
     "kana": "える からこる",
-    "cuisines": [
-      "メキシコ料理"
-    ],
+    "cuisines": ["メキシコ料理"],
     "prefecture": "東京都",
     "area": "新宿区 四谷",
     "address": "東京都新宿区四谷4-10 金子ビル 1階",
@@ -2648,9 +2537,7 @@
     "id": "tepito-shimokitazawa",
     "name": "テピート",
     "kana": "てぴーと",
-    "cuisines": [
-      "メキシコ料理"
-    ],
+    "cuisines": ["メキシコ料理"],
     "prefecture": "東京都",
     "area": "世田谷区 北沢",
     "address": "東京都世田谷区北沢3-19-9",
@@ -2688,16 +2575,15 @@
   },
   {
     "id": "fonda-de-la-madrugada-harajuku",
-    "name": "FONDA DE LA MADRUGADA",
+    "name": "フォンダ・デ・ラ・マドゥルガーダ",
     "kana": "ふぉんだ で ら まどぅるがーだ",
-    "cuisines": [
-      "メキシコ料理"
-    ],
+    "cuisines": ["メキシコ料理"],
     "prefecture": "東京都",
     "area": "渋谷区 神宮前",
     "address": "東京都渋谷区神宮前2-33-12 ビラ・ビアンカB1",
-    "nearestStation": "JR原宿駅 竹下口 徒歩7分",
-    "description": "原宿・神宮前のビル地下にあるメキシコ料理店。夜はマリアッチの生演奏がテーブルを回る。エンチラーダやワカモーレ、ナチョスのほか、牛肉のグリル、カルネ・アサダ・ア・ラ・タンピケーニャを出す。",
+    "nearestStation": "原宿駅 徒歩6分 / 明治神宮前駅 徒歩6分 / 北参道駅 徒歩5分",
+    "url": "https://fonda-tokyo.com/",
+    "description": "原宿の地下にある本格メキシコ料理店。メキシコ人シェフが伝統料理を提供。リニューアルオープン後、マリアッチの生演奏とともにタマレス、チレ・レジェーノ、トルタ・アオガダ、ソパ・デ・リマ、ポソレなど郷土料理を出す。エンチラーダやセビーチェ、ケソ・フンディードも提供。",
     "dishes": [
       {
         "id": "enchilada",
@@ -2714,21 +2600,40 @@
       {
         "id": "nachos",
         "menuName": "ナチョス"
+      },
+      {
+        "id": "tamales",
+        "menuName": "タマレス"
+      },
+      {
+        "id": "chile-relleno",
+        "menuName": "チレ・レジェーノ"
+      },
+      {
+        "id": "torta-ahogada",
+        "menuName": "トルタ・アオガダ"
+      },
+      {
+        "id": "sopa-de-lima",
+        "menuName": "ソパ・デ・リマ"
+      },
+      {
+        "id": "pozole",
+        "menuName": "ポソレ"
       }
     ],
     "sources": [
-      "https://www.hotpepper.jp/strJ000001457/",
-      "https://www.timeout.jp/tokyo/ja/restautant/mexican"
+      "https://fonda-tokyo.com/",
+      "https://www.hotpepper.jp/strJ000001457",
+      "https://teriyaki.me/articles/15018"
     ],
-    "checkedAt": "2026-11-12"
+    "checkedAt": "2026-11-17"
   },
   {
     "id": "il-vicolo-nakameguro",
     "name": "PIZZERIA IL VICOLO",
     "kana": "ぴっつぇりあ いる ゔぃころ",
-    "cuisines": [
-      "イタリア料理"
-    ],
+    "cuisines": ["イタリア料理"],
     "prefecture": "東京都",
     "area": "目黒区 中目黒",
     "address": "東京都目黒区中目黒1-2-13",
@@ -2777,9 +2682,7 @@
     "id": "cucina-del-nabucco-ginza",
     "name": "cucina del NABUCCO",
     "kana": "くっちーな でる なぶっこ",
-    "cuisines": [
-      "イタリア料理"
-    ],
+    "cuisines": ["イタリア料理"],
     "prefecture": "東京都",
     "area": "中央区 銀座",
     "address": "東京都中央区銀座2-4-12 ミキモトギンザ2 7F",
@@ -2816,9 +2719,7 @@
     "id": "osteria-il-viaggio-tokyo",
     "name": "Osteria IL VIAGGIO",
     "kana": "おすてりあ いる ゔぃあっじお",
-    "cuisines": [
-      "イタリア料理"
-    ],
+    "cuisines": ["イタリア料理"],
     "prefecture": "東京都",
     "area": "千代田区 丸の内",
     "address": "東京都千代田区丸の内1-9-1 グランルーフ2F グランスタ八重洲",
@@ -2872,9 +2773,7 @@
     "id": "posillipo-tomigusuku",
     "name": "POSILLIPO cucina meridionale",
     "kana": "ぽじりぽ くっちーな めりでぃおなーれ",
-    "cuisines": [
-      "イタリア料理"
-    ],
+    "cuisines": ["イタリア料理"],
     "prefecture": "沖縄県",
     "area": "豊見城市 瀬長",
     "address": "沖縄県豊見城市瀬長174-5",
@@ -2943,9 +2842,7 @@
     "id": "delizioso-firenze-marunouchi",
     "name": "DELIZIOSO FIRENZE 新丸ビル",
     "kana": "でりつぃおーぞ ふぃれんつぇ",
-    "cuisines": [
-      "イタリア料理"
-    ],
+    "cuisines": ["イタリア料理"],
     "prefecture": "東京都",
     "area": "千代田区 丸の内",
     "address": "東京都千代田区丸の内1-5-1 新丸の内ビルディング5F",
@@ -2967,18 +2864,14 @@
         "menuName": "Pizzaマルゲリータ"
       }
     ],
-    "sources": [
-      "https://www.hotpepper.jp/strJ000657338/"
-    ],
+    "sources": ["https://www.hotpepper.jp/strJ000657338/"],
     "checkedAt": "2026-11-12"
   },
   {
     "id": "le-bistro-sendagaya",
     "name": "LE BISTRO",
     "kana": "る びすとろ",
-    "cuisines": [
-      "フランス料理"
-    ],
+    "cuisines": ["フランス料理"],
     "prefecture": "東京都",
     "area": "渋谷区 千駄ヶ谷",
     "address": "東京都渋谷区千駄ケ谷4-6-8",
@@ -3044,9 +2937,7 @@
     "id": "le-bretagne-kagurazaka",
     "name": "CAFÉ CRÊPERIE LE BRETAGNE 神楽坂",
     "kana": "かふぇ くれーぷりー る ぶるたーにゅ",
-    "cuisines": [
-      "フランス料理"
-    ],
+    "cuisines": ["フランス料理"],
     "prefecture": "東京都",
     "area": "新宿区 神楽坂",
     "address": "東京都新宿区神楽坂4-2",
@@ -3077,9 +2968,7 @@
     "id": "breizh-cafe-omotesando",
     "name": "Breizh café crêperie 表参道店",
     "kana": "ぶれっつかふぇ くれーぷりー おもてさんどう",
-    "cuisines": [
-      "フランス料理"
-    ],
+    "cuisines": ["フランス料理"],
     "prefecture": "東京都",
     "area": "渋谷区 神宮前",
     "address": "東京都渋谷区神宮前3-5-4",
@@ -3110,9 +2999,7 @@
     "id": "breizh-cafe-shinjuku-takashimaya",
     "name": "Breizh café crêperie 新宿タカシマヤ店",
     "kana": "ぶれっつかふぇ くれーぷりー しんじゅくたかしまや",
-    "cuisines": [
-      "フランス料理"
-    ],
+    "cuisines": ["フランス料理"],
     "prefecture": "東京都",
     "area": "渋谷区 千駄ヶ谷",
     "address": "東京都渋谷区千駄ヶ谷5-24-2 新宿タカシマヤ13F",
@@ -3143,9 +3030,7 @@
     "id": "breizh-cafe-kyoto",
     "name": "Breizh café crêperie 京都店",
     "kana": "ぶれっつかふぇ くれーぷりー きょうと",
-    "cuisines": [
-      "フランス料理"
-    ],
+    "cuisines": ["フランス料理"],
     "prefecture": "京都府",
     "area": "京都市左京区 若王子町",
     "address": "京都府京都市左京区若王子町24-3",
@@ -3177,9 +3062,7 @@
     "id": "brasserie-paul-bocuse-ginza",
     "name": "ブラッスリー ポール・ボキューズ 銀座",
     "kana": "ぶらっすりー ぽーる・ぼきゅーず ぎんざ",
-    "cuisines": [
-      "フランス料理"
-    ],
+    "cuisines": ["フランス料理"],
     "prefecture": "東京都",
     "area": "中央区 銀座",
     "address": "東京都中央区銀座2-2-14 マロニエゲート銀座1 10F",
@@ -3196,18 +3079,14 @@
         "note": "コースの前菜"
       }
     ],
-    "sources": [
-      "https://www.hiramatsurestaurant.jp/paulbocuse-ginza/menu/"
-    ],
+    "sources": ["https://www.hiramatsurestaurant.jp/paulbocuse-ginza/menu/"],
     "checkedAt": "2026-11-12"
   },
   {
     "id": "brasserie-paul-bocuse-daimaru-tokyo",
     "name": "ブラッスリー ポール・ボキューズ 大丸東京",
     "kana": "ぶらっすりー ぽーる・ぼきゅーず だいまるとうきょう",
-    "cuisines": [
-      "フランス料理"
-    ],
+    "cuisines": ["フランス料理"],
     "prefecture": "東京都",
     "area": "千代田区 丸の内",
     "address": "東京都千代田区丸の内1-9-1 大丸東京店12階",
@@ -3239,9 +3118,7 @@
     "id": "del-mar-yokohama",
     "name": "DEL MAR COMEDOR Y TERRAZA",
     "kana": "でる まーる こめどーる い てらっつぁ",
-    "cuisines": [
-      "スペイン料理"
-    ],
+    "cuisines": ["スペイン料理"],
     "prefecture": "神奈川県",
     "area": "横浜市中区 新港",
     "address": "神奈川県横浜市中区新港2-14-1 横浜ハンマーヘッド 2F",
@@ -3277,18 +3154,14 @@
         "menuName": "TODAY'S PINTXOS"
       }
     ],
-    "sources": [
-      "https://www.huge.co.jp/tenpo_file/file/260406_dm_grand.pdf"
-    ],
+    "sources": ["https://www.huge.co.jp/tenpo_file/file/260406_dm_grand.pdf"],
     "checkedAt": "2026-11-13"
   },
   {
     "id": "la-coquina-shibuya",
     "name": "La Coquina Cervecería",
     "kana": "ら こきーな せるべせりあ",
-    "cuisines": [
-      "スペイン料理"
-    ],
+    "cuisines": ["スペイン料理"],
     "prefecture": "東京都",
     "area": "渋谷区 渋谷",
     "address": "東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア 13階",
@@ -3333,18 +3206,14 @@
         "note": "marinated sardine"
       }
     ],
-    "sources": [
-      "https://www.huge.co.jp/tenpo_file/file/261007_LC_grand.pdf"
-    ],
+    "sources": ["https://www.huge.co.jp/tenpo_file/file/261007_LC_grand.pdf"],
     "checkedAt": "2026-11-13"
   },
   {
     "id": "la-pesquera-otemachi",
     "name": "La Pesquera Marisquería",
     "kana": "ら ぺすけーら まりすけりあ",
-    "cuisines": [
-      "スペイン料理"
-    ],
+    "cuisines": ["スペイン料理"],
     "prefecture": "東京都",
     "area": "千代田区 大手町",
     "address": "東京都千代田区大手町1-5-5 大手町タワー OOTEMORI B2F",
@@ -3385,18 +3254,14 @@
         "menuName": "TORTILLA ESPANOLA"
       }
     ],
-    "sources": [
-      "https://www.huge.co.jp/tenpo_file/file/261027_lp_grand.pdf"
-    ],
+    "sources": ["https://www.huge.co.jp/tenpo_file/file/261027_lp_grand.pdf"],
     "checkedAt": "2026-11-13"
   },
   {
     "id": "bikini-sis-roppongi",
     "name": "BIKiNi SIS 六本木ヒルズ店",
     "kana": "びきに しす",
-    "cuisines": [
-      "スペイン料理"
-    ],
+    "cuisines": ["スペイン料理"],
     "prefecture": "東京都",
     "area": "港区 六本木",
     "address": "東京都港区六本木6-10-1 六本木ヒルズ ウェストウォーク5F",
@@ -3433,9 +3298,7 @@
     "id": "saikabo-yotsuya",
     "name": "妻家房 四谷本店",
     "kana": "さいかぼう よつやほんてん",
-    "cuisines": [
-      "韓国料理"
-    ],
+    "cuisines": ["韓国料理"],
     "prefecture": "東京都",
     "area": "新宿区 四谷",
     "address": "東京都新宿区四谷3-10-25 永明ビル",
@@ -3550,9 +3413,7 @@
     "id": "kollabo-toranomon",
     "name": "焼肉・韓国料理 KollaBo×マンジョ＆ソベッチャカンジャンケジャン 虎ノ門店",
     "kana": "こらぼ とらのもんてん",
-    "cuisines": [
-      "韓国料理"
-    ],
+    "cuisines": ["韓国料理"],
     "prefecture": "東京都",
     "area": "千代田区 霞が関",
     "address": "東京都千代田区霞が関3-2-6 東京俱楽部ビルディング 1F",
@@ -3616,9 +3477,7 @@
     "id": "vietnam-frog-shiodome",
     "name": "ベトナム フロッグ 汐留店",
     "kana": "べとなむ ふろっぐ しおどめてん",
-    "cuisines": [
-      "ベトナム料理"
-    ],
+    "cuisines": ["ベトナム料理"],
     "prefecture": "東京都",
     "area": "港区 東新橋",
     "address": "東京都港区東新橋1-5-2 汐留シティセンタービル B1",
@@ -3665,9 +3524,7 @@
     "id": "kosaku-kofu-ekimae",
     "name": "甲州ほうとう 小作 甲府駅前店",
     "kana": "こうしゅうほうとう こさく こうふえきまえてん",
-    "cuisines": [
-      "日本料理"
-    ],
+    "cuisines": ["日本料理"],
     "prefecture": "山梨県",
     "area": "甲府市 丸の内",
     "address": "山梨県甲府市丸の内1-7-2",
@@ -3706,9 +3563,7 @@
     "id": "motsunabe-ooyama-honten",
     "name": "博多もつ鍋おおやま 本店",
     "kana": "はかたもつなべおおやま ほんてん",
-    "cuisines": [
-      "日本料理"
-    ],
+    "cuisines": ["日本料理"],
     "prefecture": "福岡県",
     "area": "福岡市博多区 店屋町",
     "address": "福岡県福岡市博多区店屋町7-28",
@@ -3724,19 +3579,14 @@
         "menuName": "馬刺し三種盛り"
       }
     ],
-    "sources": [
-      "https://www.motu-ooyama.com/shop/honten/"
-    ],
+    "sources": ["https://www.motu-ooyama.com/shop/honten/"],
     "checkedAt": "2026-11-16"
   },
   {
     "id": "shikairou-nagasaki",
     "name": "中華料理 四海樓",
     "kana": "ちゅうかりょうり しかいろう",
-    "cuisines": [
-      "中国料理",
-      "日本料理"
-    ],
+    "cuisines": ["中国料理", "日本料理"],
     "prefecture": "長崎県",
     "area": "長崎市 松が枝町",
     "address": "長崎県長崎市松が枝町4-5",
@@ -3765,9 +3615,7 @@
     "id": "fukagawajuku-honten",
     "name": "深川宿 本店",
     "kana": "ふかがわじゅく ほんてん",
-    "cuisines": [
-      "日本料理"
-    ],
+    "cuisines": ["日本料理"],
     "prefecture": "東京都",
     "area": "江東区 三好",
     "address": "東京都江東区三好1-6-7",
@@ -3780,18 +3628,14 @@
         "menuName": "深川めし（ぶっかけ・炊き込み）"
       }
     ],
-    "sources": [
-      "https://www.fukagawajuku.com/"
-    ],
+    "sources": ["https://www.fukagawajuku.com/"],
     "checkedAt": "2026-11-16"
   },
   {
     "id": "hanamidori-nakasu-honten",
     "name": "水たき料亭 博多華味鳥 中洲本店",
     "kana": "みずたきりょうてい はかたはなみどり なかすほんてん",
-    "cuisines": [
-      "日本料理"
-    ],
+    "cuisines": ["日本料理"],
     "prefecture": "福岡県",
     "area": "福岡市博多区 中洲",
     "address": "福岡県福岡市博多区中洲5-4-24 トリゼンビル",
@@ -3814,9 +3658,7 @@
     "id": "kojimaya-tokamachi-honten",
     "name": "越後十日町小嶋屋 本店",
     "kana": "えちごとおかまちこじまや ほんてん",
-    "cuisines": [
-      "日本料理"
-    ],
+    "cuisines": ["日本料理"],
     "prefecture": "新潟県",
     "area": "十日町市 本町",
     "address": "新潟県十日町市本町4-16-1",
@@ -3842,9 +3684,7 @@
     "id": "neboke-ginza",
     "name": "土佐料理 祢保希 銀座店",
     "kana": "とさりょうり ねぼけ ぎんざてん",
-    "cuisines": [
-      "日本料理"
-    ],
+    "cuisines": ["日本料理"],
     "prefecture": "東京都",
     "area": "中央区 銀座",
     "address": "東京都中央区銀座7-6-8",
@@ -3871,9 +3711,7 @@
     "id": "mukashi-no-kiritanpoya-odate",
     "name": "昔のきりたんぽや",
     "kana": "むかしのきりたんぽや",
-    "cuisines": [
-      "日本料理"
-    ],
+    "cuisines": ["日本料理"],
     "prefecture": "秋田県",
     "area": "大館市 大館",
     "address": "秋田県大館市大館75-5",
@@ -3889,9 +3727,132 @@
         "menuName": "いぶりがっこ"
       }
     ],
-    "sources": [
-      "https://kiritanpoya.jp/"
-    ],
+    "sources": ["https://kiritanpoya.jp/"],
     "checkedAt": "2026-11-16"
+  },
+  {
+    "id": "cielito-lindo-takeshiba",
+    "name": "CIELITO LINDO BAR AND GRILL",
+    "kana": "しえりーと りんど ばー あんど ぐりる",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "港区 海岸",
+    "address": "東京都港区海岸1-7-1 東京ポートシティ竹芝オフィスタワー3F",
+    "nearestStation": "竹芝駅 徒歩2分",
+    "url": "https://cielito.shop/",
+    "description": "竹芝のウォーターフロントにある本格メキシコ料理店。元メキシコ大使館公邸料理人が腕をふるい、伝統的スタイルとモダンスタイルの2軸で展開。自家製コーントルティーヤのタコス、フラウタス、タマレス、ゴルディータスなど郷土料理を出す。モルカヘテ（溶岩石鍋）料理やビリアも提供。",
+    "dishes": [
+      {
+        "id": "flautas",
+        "menuName": "フラウタス（チキン・ビーフ）"
+      },
+      {
+        "id": "tamales",
+        "menuName": "タマレス"
+      },
+      {
+        "id": "gorditas",
+        "menuName": "ゴルディータス"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "カルニタスタコス"
+      },
+      {
+        "id": "enchilada",
+        "menuName": "エンチラーダ"
+      },
+      {
+        "id": "tacos",
+        "menuName": "タコス（カルニータス、コチニータ等）"
+      }
+    ],
+    "sources": [
+      "https://cielito.shop/",
+      "https://food-stadium.com/headline/29736",
+      "https://magazine.tabelog.com/articles/488006"
+    ],
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "id": "amenro-la-fiesta-roppongi",
+    "name": "Amenro La Fiesta",
+    "kana": "あめんろ ら ふぃえすた",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "港区 六本木",
+    "address": "東京都港区六本木3-15-23 花椿ビル2階",
+    "nearestStation": "六本木駅",
+    "url": "https://lafiestaroppongi.favy.jp/",
+    "description": "六本木の老舗メキシコ料理店。メキシコ出身のジェシカ・ラボルデ氏がシェフを務め、トウモロコシをすりつぶして作るタマレスや、ホミニーと肉を煮込む伝統スープのポソレなど、郷土料理を提供する。チレ・レジェーノやトルタも出す。",
+    "dishes": [
+      {
+        "id": "tamales",
+        "menuName": "タマレス"
+      },
+      {
+        "id": "pozole",
+        "menuName": "ポソレ"
+      },
+      {
+        "id": "enchilada",
+        "menuName": "エンチラーダ"
+      },
+      {
+        "id": "chile-relleno",
+        "menuName": "チレ・レジェーノ"
+      },
+      {
+        "id": "torta",
+        "menuName": "トルタ"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/restautant/mexican",
+      "https://lafiestaroppongi.favy.jp/"
+    ],
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "id": "bosque-meguro",
+    "name": "BOSQUE",
+    "kana": "ぼすけ",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "品川区 上大崎",
+    "address": "東京都品川区上大崎3-1-1 目黒セントラルスクエア1F",
+    "nearestStation": "目黒駅 徒歩1分",
+    "url": "https://www.bosque.tokyo/",
+    "description": "目黒駅前のモダンメキシカンレストラン。メキシコの上品なレストランでのみ提供される伝統料理を日常的に楽しめるよう提供。ランチセットでトルティーヤスープを選択可能。ミラネサトルタ（牛カツレツのトルタ）やタコス、ケサディーヤ、セビーチェなどを出す。",
+    "dishes": [
+      {
+        "id": "tortilla-soup",
+        "menuName": "トルティーヤスープ",
+        "note": "ランチセットで選択可（グリーンサラダ or トルティーヤスープ or ベジタブルスープ）"
+      },
+      {
+        "id": "torta",
+        "menuName": "ミラネサ トルタ",
+        "note": "牛カツレツのメキシカンサンドイッチ"
+      },
+      {
+        "id": "tacos",
+        "menuName": "タコス（ポーク・ビーフ・チキン・シュリンプ）"
+      },
+      {
+        "id": "ceviche",
+        "menuName": "セビーチェ シナロアスタイル"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "ケサディーヤ デ オンゴス（きのこ）"
+      }
+    ],
+    "sources": [
+      "https://www.bosque.tokyo/",
+      "https://bosquemeguro.owst.jp/lunches",
+      "https://r.gnavi.co.jp/scmm22ku0000"
+    ],
+    "checkedAt": "2026-11-17"
   }
 ]
