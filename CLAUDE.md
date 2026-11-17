@@ -111,5 +111,9 @@ node scripts/remove-image.mjs <dish-id> all  # 画像を全部削除
 pnpm admin  # ローカル限定Web管理ツール起動（http://127.0.0.1:4321 で検索→画像確認→削除）
 node scripts/generate-dish-dates.mjs  # dishes.json 更新コミット後に data/dish-dates.json 再生成（sitemap lastmod 用）
 node scripts/generate-dish-network.mjs  # dishes.json 更新後に public/data/dish-network.json 再生成（/network/ の相関図データ用）
+node scripts/restaurant-tool.mjs coverage [料理圏]  # 店の紐づき状況・未登録料理一覧
+node scripts/restaurant-tool.mjs match <menu.txt>  # メニュー名→料理id候補
+node scripts/restaurant-tool.mjs add <new.json>  # 検証して restaurants.json に追記（店追加は /add-restaurant の手順で）
+node scripts/restaurant-tool.mjs check  # restaurants.json 全件の厳格チェック
 python3 -c "import json; json.load(open('data/dishes.json')); print('JSON valid')"  # 検証
 ```
