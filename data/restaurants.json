@@ -3854,5 +3854,685 @@
       "https://r.gnavi.co.jp/scmm22ku0000"
     ],
     "checkedAt": "2026-11-17"
+  },
+  {
+    "id": "salamanca-kanda",
+    "name": "SALAMANCA Bar＆Restaurant‐サラマンカ‐",
+    "kana": "さらまんか",
+    "cuisines": ["スペイン料理"],
+    "prefecture": "東京都",
+    "area": "千代田区 淡路町",
+    "address": "東京都千代田区神田淡路町2-101 ワテラスタワー 1F",
+    "nearestStation": "地下鉄丸ノ内線淡路町駅 徒歩2分",
+    "url": "https://r.gnavi.co.jp/g/adygzkyz0000/",
+    "description": "本格スペイン料理を提供するバル。スペイン各地のタパス、パエリア、イベリコ豚の生ハム、チョリソーなどの伝統料理をワインとともに楽しめる。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "パエリア"
+      },
+      {
+        "id": "jamon-iberico",
+        "menuName": "イベリコ豚生ハム"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "チョリソー"
+      },
+      {
+        "id": "tapas",
+        "menuName": "タパス盛り合わせ"
+      },
+      {
+        "id": "gazpacho",
+        "menuName": "ガスパチョ"
+      },
+      {
+        "id": "tortilla",
+        "menuName": "トルティージャ"
+      }
+    ],
+    "sources": ["https://r.gnavi.co.jp/g/adygzkyz0000/"],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "boqueria-kanda",
+    "name": "神田スペインバル ボケリーア",
+    "kana": "かんだがすぺいんばる ぼけりーあ",
+    "cuisines": ["スペイン料理"],
+    "prefecture": "東京都",
+    "area": "千代田区 神田",
+    "address": "東京都千代田区鍛冶町2-13-31 神田駅前ビル B1F",
+    "nearestStation": "JR神田駅東口・北口 徒歩1分",
+    "url": "https://r.gnavi.co.jp/g/cuy4wkc10000/",
+    "description": "神田駅すぐのスペインバル。本格ガストロノミアコースや熱々のパエリア、アヒージョ、生ハム、チョリソーなどのタパスを気軽に楽しめる。早い時間限定で生ハムサービスもある。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "パエリア"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "アヒージョ"
+      },
+      {
+        "id": "jamon-iberico",
+        "menuName": "イベリコ豚生ハム"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "チョリソー"
+      },
+      {
+        "id": "tapas",
+        "menuName": "タパス盛り合わせ"
+      },
+      {
+        "id": "gazpacho",
+        "menuName": "ガスパチョ"
+      }
+    ],
+    "sources": ["https://r.gnavi.co.jp/g/cuy4wkc10000/"],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "chefs-bar-kawasaki",
+    "name": "シェフズバル川崎",
+    "kana": "しぇふずばる かわさき",
+    "cuisines": ["スペイン料理"],
+    "prefecture": "神奈川県",
+    "area": "川崎市 川崎",
+    "address": "神奈川県川崎市川崎区砂子2-6-2 第27東京ビル 1F",
+    "nearestStation": "JR川崎駅 徒歩5分",
+    "url": "https://r.gnavi.co.jp/g/b999200/",
+    "description": "川崎駅徒歩5分の老舗スペインバル。長年にわたり本場のスペイン料理を提供し、パエリア、アヒージョ、生ハム、チョリソー、タパス各種、ガスパチョ、トルティージャなど定番メニューが揃う。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "パエリア"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "アヒージョ"
+      },
+      {
+        "id": "jamon-iberico",
+        "menuName": "生ハム"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "チョリソー"
+      },
+      {
+        "id": "tapas",
+        "menuName": "タパス盛り合わせ"
+      },
+      {
+        "id": "gazpacho",
+        "menuName": "ガスパチョ"
+      },
+      {
+        "id": "tortilla",
+        "menuName": "トルティージャ"
+      }
+    ],
+    "sources": ["https://r.gnavi.co.jp/g/b999200/"],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "bellota-mucho-kyoto",
+    "name": "ベジョータ ムチョ 室町仏光寺",
+    "kana": "べじょーた むちょ むろまちぶっこうじ",
+    "cuisines": ["スペイン料理"],
+    "prefecture": "京都府",
+    "area": "京都市下京区 室町仏光寺",
+    "address": "京都府京都市下京区室町通仏光寺下る鶏鉾町493 COCON烏丸 1F",
+    "nearestStation": "地下鉄烏丸線四条駅 徒歩5分",
+    "url": "https://r.gnavi.co.jp/g/1bcxxybm0000/",
+    "description": "イベリコ豚専門のスペイン食堂。ベジョータ（ドングリを食べて育ったイベリコ豚）の生ハム、チョリソー、サルチチョン、ロモなどのシャルキュトリを中心に、パエリア、アヒージョ、ガスパチョなどの本格スペイン料理を提供。",
+    "dishes": [
+      {
+        "id": "jamon-iberico",
+        "menuName": "ベジョータ生ハム"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "チョリソー"
+      },
+      {
+        "id": "paella",
+        "menuName": "パエリア"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "アヒージョ"
+      },
+      {
+        "id": "gazpacho",
+        "menuName": "ガスパチョ"
+      },
+      {
+        "id": "salmorejo",
+        "menuName": "サルモレホ"
+      }
+    ],
+    "sources": ["https://r.gnavi.co.jp/g/1bcxxybm0000/"],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "tapas-wine-ginza-zion",
+    "name": "Tapas＆Wine 銀座ZION",
+    "kana": "たぱすあんどわいん ぎんざじおん",
+    "cuisines": ["スペイン料理"],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座5-4-6 ロイヤルビル 2F",
+    "nearestStation": "地下鉄銀座駅 徒歩1分",
+    "url": "https://r.gnavi.co.jp/g/gak2900/",
+    "description": "銀座駅徒歩1分のワインレストラン。スペイン産ワインを中心に、パエリア、アヒージョ、生ハム、チョリソー、ピンチョス、パタタス・ブラバス、トルティージャなど本格タパスを提供。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "パエリア"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "アヒージョ"
+      },
+      {
+        "id": "jamon-iberico",
+        "menuName": "生ハム"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "チョリソー"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "ピンチョス"
+      },
+      {
+        "id": "patatas-bravas",
+        "menuName": "パタタス・ブラバス"
+      },
+      {
+        "id": "tortilla",
+        "menuName": "トルティージャ"
+      }
+    ],
+    "sources": ["https://r.gnavi.co.jp/g/gak2900/"],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "las-bocas-shibuya",
+    "name": "瀬戸内海鮮×スペイン料理 Las Bocas",
+    "kana": "せとうちかいせん すぺいんりょうり らすぼかす",
+    "cuisines": ["スペイン料理"],
+    "prefecture": "東京都",
+    "area": "渋谷区 渋谷",
+    "address": "東京都渋谷区渋谷2-12-8 渋谷東武ホテル 1F",
+    "nearestStation": "JR渋谷駅 徒歩8分",
+    "url": "https://r.gnavi.co.jp/g/gac4100/",
+    "description": "渋谷のスペインビストロ。瀬戸内の新鮮な魚介を使ったスペイン料理が特徴で、パエリア、アヒージョ、生ハム、ピンチョス、パタタス・ブラバス、ガスパチョ、サルモレホなどを提供。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "パエリア"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "アヒージョ"
+      },
+      {
+        "id": "jamon-iberico",
+        "menuName": "生ハム"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "ピンチョス"
+      },
+      {
+        "id": "patatas-bravas",
+        "menuName": "パタタス・ブラバス"
+      },
+      {
+        "id": "gazpacho",
+        "menuName": "ガスパチョ"
+      },
+      {
+        "id": "salmorejo",
+        "menuName": "サルモレホ"
+      }
+    ],
+    "sources": ["https://r.gnavi.co.jp/g/gac4100/"],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "lobos-ginza",
+    "name": "スペイン料理＆ワイン ＬＯＢＯＳ 銀座店",
+    "kana": "すぺいんりょうりあんどわいん ろぼす ぎんざてん",
+    "cuisines": ["スペイン料理"],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座5-6-12 第2矢部ビル B1F",
+    "nearestStation": "地下鉄銀座駅 徒歩2分",
+    "url": "https://r.gnavi.co.jp/g/e356601/",
+    "description": "銀座のスペイン料理＆グリル。スペイン産ワインとともに、パエリア、アヒージョ、生ハム、チョリソー、ピンチョス、パタタス・ブラバス、ガスパチョ、サルモレホ、フィデウアなど本格スペイン料理を提供。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "パエリア"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "アヒージョ"
+      },
+      {
+        "id": "jamon-iberico",
+        "menuName": "生ハム"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "チョリソー"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "ピンチョス"
+      },
+      {
+        "id": "patatas-bravas",
+        "menuName": "パタタス・ブラバス"
+      },
+      {
+        "id": "gazpacho",
+        "menuName": "ガスパチョ"
+      },
+      {
+        "id": "salmorejo",
+        "menuName": "サルモレホ"
+      },
+      {
+        "id": "fideua",
+        "menuName": "フィデウア"
+      }
+    ],
+    "sources": ["https://r.gnavi.co.jp/g/e356601/"],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "virgo-ginza",
+    "name": "スペイン料理＆ワイン VIRGO 銀座店",
+    "kana": "すぺいんりょうりあんどわいん ばるご ぎんざてん",
+    "cuisines": ["スペイン料理"],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座7-5-4 銀座コアビル B1F",
+    "nearestStation": "地下鉄銀座駅 徒歩1分",
+    "url": "https://r.gnavi.co.jp/g/e356602/",
+    "description": "銀座のスペイン料理＆グリル。スペイン産ワインとともに、パエリア、アヒージョ、生ハム、チョリソー、ピンチョス、パタタス・ブラバス、ガスパチョ、サルモレホ、フィデウア、プルポ・ア・フェイラなど本格スペイン料理を提供。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "パエリア"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "アヒージョ"
+      },
+      {
+        "id": "jamon-iberico",
+        "menuName": "生ハム"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "チョリソー"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "ピンチョス"
+      },
+      {
+        "id": "patatas-bravas",
+        "menuName": "パタタス・ブラバス"
+      },
+      {
+        "id": "gazpacho",
+        "menuName": "ガスパチョ"
+      },
+      {
+        "id": "salmorejo",
+        "menuName": "サルモレホ"
+      },
+      {
+        "id": "fideua",
+        "menuName": "フィデウア"
+      },
+      {
+        "id": "pulpo-a-feira",
+        "menuName": "プルポ・ア・フェイラ"
+      }
+    ],
+    "sources": ["https://r.gnavi.co.jp/g/e356602/"],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "la-cocina-hiroshima",
+    "name": "酒とワインと炭火 ラ・コシーナ・デ・セレーソ",
+    "kana": "さけとわいんとすみび らこしーなでせれーそ",
+    "cuisines": ["スペイン料理"],
+    "prefecture": "広島県",
+    "area": "広島市中区 八丁堀",
+    "address": "広島県広島市中区八丁堀16-10 八丁堀センタービル 1F",
+    "nearestStation": "広電本線八丁堀駅 徒歩3分",
+    "url": "https://r.gnavi.co.jp/g/shku7ujm0000/",
+    "description": "広島の個室完備スペインバル。炭火焼きのタパス、パエリア、アヒージョ、生ハム、チョリソー、ガスパチョ、サルモレホ、トルティージャ、ピンチョスなど本格スペイン料理を提供。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "パエリア"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "アヒージョ"
+      },
+      {
+        "id": "jamon-iberico",
+        "menuName": "生ハム"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "チョリソー"
+      },
+      {
+        "id": "tapas",
+        "menuName": "タパス盛り合わせ"
+      },
+      {
+        "id": "gazpacho",
+        "menuName": "ガスパチョ"
+      },
+      {
+        "id": "salmorejo",
+        "menuName": "サルモレホ"
+      },
+      {
+        "id": "tortilla",
+        "menuName": "トルティージャ"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "ピンチョス"
+      }
+    ],
+    "sources": ["https://r.gnavi.co.jp/g/shku7ujm0000/"],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "lobos-hibiya",
+    "name": "スペイン料理＆ワイン ＬＯＢＯＳ 日比谷店",
+    "kana": "すぺいんりょうりあんどわいん ろぼす ひびやてん",
+    "cuisines": ["スペイン料理"],
+    "prefecture": "東京都",
+    "area": "千代田区 有楽町",
+    "address": "東京都千代田区有楽町1-5-2 日比谷マリンビル B1F",
+    "nearestStation": "JR有楽町駅 徒歩5分",
+    "url": "https://r.gnavi.co.jp/g/e356600/",
+    "description": "日比谷のスパニッシュイタリアン。スペイン産ワインとともに、パエリア、アヒージョ、生ハム、チョリソー、ピンチョス、パタタス・ブラバス、ガスパチョ、サルモレホ、フィデウアなど本格スペイン料理を提供。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "パエリア"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "アヒージョ"
+      },
+      {
+        "id": "jamon-iberico",
+        "menuName": "生ハム"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "チョリソー"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "ピンチョス"
+      },
+      {
+        "id": "patatas-bravas",
+        "menuName": "パタタス・ブラバス"
+      },
+      {
+        "id": "gazpacho",
+        "menuName": "ガスパチョ"
+      },
+      {
+        "id": "salmorejo",
+        "menuName": "サルモレホ"
+      },
+      {
+        "id": "fideua",
+        "menuName": "フィデウア"
+      }
+    ],
+    "sources": ["https://r.gnavi.co.jp/g/e356600/"],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "satomi-akihabara",
+    "name": "スパニッシュ＆イタリアンsatomi 秋葉原2号店",
+    "kana": "すぱにっしゅあんどいたりあん さとみ あきはばらにごうてん",
+    "cuisines": ["スペイン料理", "イタリア料理"],
+    "prefecture": "東京都",
+    "area": "千代田区 秋葉原",
+    "address": "東京都千代田区外神田1-18-13 秋葉原ダイビル 1F",
+    "nearestStation": "JR秋葉原駅昭和通り口 徒歩3分",
+    "url": "https://r.gnavi.co.jp/g/5bp342b90000/",
+    "description": "秋葉原のスパニッシュ＆イタリアン。パエリア、アヒージョ、生ハム、チョリソー、ガスパチョ、サルモレホ、トルティージャ、ピンチョス、パタタス・ブラバスなどスペインとイタリアの料理を提供。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "パエリア"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "アヒージョ"
+      },
+      {
+        "id": "jamon-iberico",
+        "menuName": "生ハム"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "チョリソー"
+      },
+      {
+        "id": "gazpacho",
+        "menuName": "ガスパチョ"
+      },
+      {
+        "id": "salmorejo",
+        "menuName": "サルモレホ"
+      },
+      {
+        "id": "tortilla",
+        "menuName": "トルティージャ"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "ピンチョス"
+      },
+      {
+        "id": "patatas-bravas",
+        "menuName": "パタタス・ブラバス"
+      }
+    ],
+    "sources": ["https://r.gnavi.co.jp/g/5bp342b90000/"],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "tapas-wine-kinshicho-zion",
+    "name": "自家製パエリアとスペイン産生ハム TAPAS＆WINE 錦糸町ZION",
+    "kana": "じかせいぱえりあとすぺいんさんなまはむ たぱすあんどわいん きんしちょうじおん",
+    "cuisines": ["スペイン料理"],
+    "prefecture": "東京都",
+    "area": "墨田区 錦糸町",
+    "address": "東京都墨田区錦糸町3-2-1 アルカイースト 2F",
+    "nearestStation": "地下鉄半蔵門線錦糸町駅 徒歩2分",
+    "url": "https://r.gnavi.co.jp/g/dge5cjk10000/",
+    "description": "錦糸町のタパス＆ワインバー。自家製パエリアとスペイン産生ハムが名物で、アヒージョ、チョリソー、ガスパチョ、サルモレホ、トルティージャ、ピンチョス、パタタス・ブラバス、フィデウアなど本格スペイン料理を提供。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "自家製パエリア"
+      },
+      {
+        "id": "jamon-iberico",
+        "menuName": "スペイン産生ハム"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "アヒージョ"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "チョリソー"
+      },
+      {
+        "id": "gazpacho",
+        "menuName": "ガスパチョ"
+      },
+      {
+        "id": "salmorejo",
+        "menuName": "サルモレホ"
+      },
+      {
+        "id": "tortilla",
+        "menuName": "トルティージャ"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "ピンチョス"
+      },
+      {
+        "id": "patatas-bravas",
+        "menuName": "パタタス・ブラバス"
+      },
+      {
+        "id": "fideua",
+        "menuName": "フィデウア"
+      }
+    ],
+    "sources": ["https://r.gnavi.co.jp/g/dge5cjk10000/"],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "zion-otemachi",
+    "name": "イタリアン＆スペイン料理 大手町ZION",
+    "kana": "いたりあんあんどすぺいんりょうり おおてまちじおん",
+    "cuisines": ["スペイン料理", "イタリア料理"],
+    "prefecture": "東京都",
+    "area": "千代田区 大手町",
+    "address": "東京都千代田区大手町1-5-5 大手町タワー B1F",
+    "nearestStation": "地下鉄大手町駅A1番出口 徒歩5分",
+    "url": "https://r.gnavi.co.jp/g/7h6a6sjj0000/",
+    "description": "大手町のイタリアン＆スペイン料理店。少人数利用可の個室完備。パエリア、アヒージョ、生ハム、チョリソー、ガスパチョ、サルモレホ、トルティージャ、ピンチョス、パタタス・ブラバス、フィデウアなどスペインとイタリアの料理を提供。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "パエリア"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "アヒージョ"
+      },
+      {
+        "id": "jamon-iberico",
+        "menuName": "生ハム"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "チョリソー"
+      },
+      {
+        "id": "gazpacho",
+        "menuName": "ガスパチョ"
+      },
+      {
+        "id": "salmorejo",
+        "menuName": "サルモレホ"
+      },
+      {
+        "id": "tortilla",
+        "menuName": "トルティージャ"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "ピンチョス"
+      },
+      {
+        "id": "patatas-bravas",
+        "menuName": "パタタス・ブラバス"
+      },
+      {
+        "id": "fideua",
+        "menuName": "フィデウア"
+      }
+    ],
+    "sources": ["https://r.gnavi.co.jp/g/7h6a6sjj0000/"],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "ebi-to-wine-ueno",
+    "name": "完全個室＆貸切 イタリアン＆スペイン えびtoワイン酒場 上野店",
+    "kana": "かんぜんこしつあんどかしいく いたりあんあんどすぺいん えびとわいんさかば うえのてん",
+    "cuisines": ["スペイン料理", "イタリア料理"],
+    "prefecture": "東京都",
+    "area": "台東区 上野",
+    "address": "東京都台東区上野2-12-1 上野駅前ビル 3F",
+    "nearestStation": "地下鉄千代田線湯島駅1番出口＆2番出口 徒歩2分",
+    "url": "https://r.gnavi.co.jp/g/8x1sxwku0000/",
+    "description": "上野のイタリアン＆スペイン酒場。海老料理とワインが特徴で、パエリア、アヒージョ、生ハム、チョリソー、ガスパチョ、サルモレホ、トルティージャ、ピンチョス、パタタス・ブラバスなど本格スペイン料理を提供。完全個室完備。",
+    "dishes": [
+      {
+        "id": "paella",
+        "menuName": "パエリア"
+      },
+      {
+        "id": "ahijo",
+        "menuName": "アヒージョ"
+      },
+      {
+        "id": "jamon-iberico",
+        "menuName": "生ハム"
+      },
+      {
+        "id": "chorizo",
+        "menuName": "チョリソー"
+      },
+      {
+        "id": "gazpacho",
+        "menuName": "ガスパチョ"
+      },
+      {
+        "id": "salmorejo",
+        "menuName": "サルモレホ"
+      },
+      {
+        "id": "tortilla",
+        "menuName": "トルティージャ"
+      },
+      {
+        "id": "pintxos",
+        "menuName": "ピンチョス"
+      },
+      {
+        "id": "patatas-bravas",
+        "menuName": "パタタス・ブラバス"
+      }
+    ],
+    "sources": ["https://r.gnavi.co.jp/g/8x1sxwku0000/"],
+    "checkedAt": "2026-11-18"
   }
 ]
