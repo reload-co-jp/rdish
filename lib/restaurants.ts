@@ -71,3 +71,15 @@ export const restaurantsByPrefecture = () => {
     restaurants,
   }))
 }
+
+// 指定料理のいずれかを提供する店（国ページ用）。提供数の多い順
+export const restaurantsForDishes = (dishIds: string[]) => {
+  const ids = new Set(dishIds)
+  return openRestaurants
+    .map((restaurant) => ({
+      restaurant,
+      count: restaurant.dishes.filter((d) => ids.has(d.id)).length,
+    }))
+    .filter(({ count }) => count > 0)
+    .sort((a, b) => b.count - a.count)
+}

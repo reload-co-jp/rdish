@@ -14,6 +14,11 @@ import {
 import { allDishes } from "../../../lib/dishes"
 import { dishMatchesRegion } from "../../../lib/region"
 import {
+  restaurantLocation,
+  restaurantPath,
+  restaurantsForDishes,
+} from "../../../lib/restaurants"
+import {
   buildItemListJsonLd,
   categoryPath,
   countryItems,
@@ -137,6 +142,8 @@ export default async function CountryPage({
   const topTags = [...tagCounts.entries()]
     .sort((a, b) => b[1] - a[1])
     .slice(0, 10)
+
+  const restaurants = restaurantsForDishes(results.map((d) => d.id))
 
   const total = countryTotalPages(results.length)
   const pageDishes = paginateCountryDishes(results, 1)
@@ -437,6 +444,58 @@ export default async function CountryPage({
         totalCount={results.length}
         offset={0}
       />
+      {restaurants.length > 0 && (
+        <section style={{ marginTop: "2.5rem" }}>
+          <h2
+            style={{
+              fontSize: "1.125rem",
+              fontWeight: 700,
+              color: "var(--c-text-2)",
+              borderBottom: "2px solid var(--c-border)",
+              paddingBottom: "0.375rem",
+              marginBottom: "0.75rem",
+            }}
+          >
+            {item.label}の料理が食べられるお店
+          </h2>
+          <ul
+            style={{
+              listStyle: "none",
+              padding: 0,
+              margin: 0,
+              display: "flex",
+              flexDirection: "column",
+              gap: "0.75rem",
+            }}
+          >
+            {restaurants.map(({ restaurant: r, count }) => (
+              <li key={r.id}>
+                <Link
+                  href={restaurantPath(r.id)}
+                  className="story"
+                  style={{ display: "block", textDecoration: "none" }}
+                >
+                  <span className="meta">
+                    {r.cuisines.join("・")} — {restaurantLocation(r)}
+                  </span>
+                  <span className="story__title" style={{ display: "block" }}>
+                    {r.name}
+                  </span>
+                  <span
+                    style={{
+                      display: "block",
+                      fontSize: "0.875rem",
+                      color: "var(--c-text-sub)",
+                    }}
+                  >
+                    {item.label}の料理{count}品を掲載
+                  </span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
     </div>
   )
 }
