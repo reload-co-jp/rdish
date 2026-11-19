@@ -4534,5 +4534,374 @@
     ],
     "sources": ["https://r.gnavi.co.jp/g/8x1sxwku0000/"],
     "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "fonda-mexicana-ginza",
+    "name": "FONDA MEXICANA New York GINZA",
+    "kana": "ふぉんだ めきしかーな にゅーよーく ぎんざ",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "中央区 銀座",
+    "address": "東京都中央区銀座7-2-18 グランベルスクエア 2F",
+    "nearestStation": "銀座駅 徒歩5分",
+    "url": "https://www.fonda-mexicana.com/",
+    "description": "ニューヨークのメキシコ料理店「FONDA」の銀座店。ロベルト・サンティバネスがシェフを務め、ビリアやコチニータピビル、エンチラーダス、モーレなどをコースとアラカルトで出す。",
+    "dishes": [
+      {
+        "id": "guacamole",
+        "menuName": "ワカモレ FONDA スタイル"
+      },
+      {
+        "id": "ceviche",
+        "menuName": "海鮮のチポトレ セビーチェ"
+      },
+      {
+        "id": "aguachile",
+        "menuName": "リブアイのアグアチレ “TATAKI”"
+      },
+      {
+        "id": "tortilla-soup",
+        "menuName": "トルティーヤスープ"
+      },
+      {
+        "id": "nachos",
+        "menuName": "自家製モーレのナチョス"
+      },
+      {
+        "id": "tacos",
+        "menuName": "FONDA's Tacos"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "黒舞茸とトリュフのケサディージャ"
+      },
+      {
+        "id": "enchilada",
+        "menuName": "シーフードエンチラーダス"
+      },
+      {
+        "id": "empanada",
+        "menuName": "鴨肉のエンパナーダス ハバネロクリームソース"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "FONDA 風 ポーク カルニータス"
+      },
+      {
+        "id": "mole",
+        "menuName": "ラムチョップとピスタチオのモーレ"
+      },
+      {
+        "id": "fajitas",
+        "menuName": "USプライムビーフのシズリングファヒータ"
+      },
+      {
+        "id": "burrito",
+        "menuName": "WAGYUビリアのブリトーセット",
+        "note": "ランチ"
+      },
+      {
+        "id": "churros",
+        "menuName": "チュロスとホットチョコレートディップ & グアバソース"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/fonda-mexicana-new-york-ginza"
+    ],
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/fonda.ginza/"
+      },
+      {
+        "label": "TableCheck",
+        "url": "https://www.tablecheck.com/shops/fonda-mexicana/reserve"
+      }
+    ],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "oxomoco-roppongi",
+    "name": "OXOMOCO 六本木",
+    "kana": "おしょもこ ろっぽんぎ",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "港区 六本木",
+    "address": "東京都港区六本木6-10-2 六本木ヒルズ ウェストウォーク1F",
+    "nearestStation": "六本木駅 徒歩2分",
+    "url": "https://salt-group.jp/shop/oxomoco/",
+    "description": "ニューヨーク・ブルックリンのモダンメキシカン「OXOMOCO」の日本店。広尾から六本木ヒルズに移転。カルニータスやバルバッコアのタコス、トスターダ、アグアチレなどを出す。",
+    "dishes": [
+      {
+        "id": "tacos"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "ポークカルニータス（タコス）"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "オショモコ ワカモレ"
+      },
+      {
+        "id": "aguachile",
+        "menuName": "アグアチレ 鯛と焼きトウモロコシのスパイシーコーンジュース"
+      },
+      {
+        "id": "burrito",
+        "menuName": "Burrito Plate",
+        "note": "平日ランチ"
+      }
+    ],
+    "sources": ["https://www.timeout.jp/tokyo/ja/レストラン/oxomoco"],
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/OXOMOCO_tokyo/"
+      },
+      {
+        "label": "TableCheck",
+        "url": "https://www.tablecheck.com/shops/oxomoco/reserve"
+      }
+    ],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "casa-tequila-tokyo-shinjuku",
+    "name": "カーサテキーラ Tokyo",
+    "kana": "かーさてきーら とうきょう",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "新宿区 歌舞伎町",
+    "address": "東京都新宿区歌舞伎町1-7-5 新宿トーシンビルB1F",
+    "nearestStation": "新宿駅 徒歩5分",
+    "url": "https://akr2980602187.owst.jp/",
+    "description": "新宿・歌舞伎町のメキシカンバル。鉄板「コマル」で手作りコーントルティーヤを焼くタコスのほか、ポソレやメヌード、エンチェラーダス、メキシコ牛・豚のステーキなどを出す。",
+    "dishes": [
+      {
+        "id": "tacos",
+        "menuName": "絶品タコス"
+      },
+      {
+        "id": "pozole",
+        "menuName": "ポソレ"
+      },
+      {
+        "id": "menudo",
+        "menuName": "メヌード"
+      },
+      {
+        "id": "guacamole",
+        "menuName": "ワカモーレ＆チップス"
+      },
+      {
+        "id": "nachos",
+        "menuName": "ナチョス"
+      },
+      {
+        "id": "ceviche",
+        "menuName": "セビーチェ"
+      },
+      {
+        "id": "mole",
+        "menuName": "鶏のモーレソース"
+      },
+      {
+        "id": "enchilada",
+        "menuName": "エンチェラーダス ＜ロハ＞"
+      },
+      {
+        "id": "quesadilla",
+        "menuName": "ケサディーヤ"
+      },
+      {
+        "id": "burrito",
+        "menuName": "ブリトー"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ001152582/",
+      "https://aumo.jp/articles/19206"
+    ],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "la-la-tacos-ebisu",
+    "name": "la la tacos 恵比寿店",
+    "kana": "ららたこす えびすてん",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "渋谷区 恵比寿",
+    "address": "東京都渋谷区恵比寿2-37-5",
+    "nearestStation": "広尾駅 徒歩10分",
+    "url": "https://lala-tacos.com/",
+    "description": "恵比寿のロサンゼルススタイルのタコス専門店。コーントルティーヤやハードシェルのタコス、フラワートルティーヤのケサディーヤを出し、テイクアウトとデリバリーにも対応する。",
+    "dishes": [
+      {
+        "id": "tacos"
+      },
+      {
+        "id": "quesadilla"
+      }
+    ],
+    "sources": ["https://www.hotpepper.jp/strJ004411000/"],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "taco-fanatico-nakameguro",
+    "name": "TACO FANATICO 中目黒",
+    "kana": "たこふぁなてぃこ なかめぐろ",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "目黒区 上目黒",
+    "address": "東京都目黒区上目黒1-5-10 中目黒マンション1F",
+    "nearestStation": "中目黒駅",
+    "url": "https://tacofanatico.jp/nakameguro/",
+    "description": "グローバルダイニングが運営するタコス専門店の1号店。カウンター22席で、キャッシュレス決済のみ。渋谷・名古屋にも店舗がある。",
+    "dishes": [
+      {
+        "id": "tacos"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/news/taco-fanatico-shibuya-011922"
+    ],
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/tacofanatico_nakameguro/"
+      }
+    ],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "zonarosa-ebisu",
+    "name": "ZONAROSA",
+    "kana": "そなろっさ",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "渋谷区 恵比寿",
+    "address": "東京都渋谷区恵比寿1-12-5 アジマビルB1F",
+    "nearestStation": "恵比寿駅 徒歩2分",
+    "description": "恵比寿で創業30年のメキシコ料理店。テキーラ120種をそろえ、エンチラーダやファヒータ、セビーチェ、牛タンタコスなどを出す。",
+    "dishes": [
+      {
+        "id": "enchilada",
+        "menuName": "エンチラーダ"
+      },
+      {
+        "id": "fajitas",
+        "menuName": "ファヒータ"
+      },
+      {
+        "id": "ceviche",
+        "menuName": "魚介類（海老・帆立・イカ・タコ）のセビーチェ"
+      },
+      {
+        "id": "tacos",
+        "menuName": "厳選牛タンタコス"
+      }
+    ],
+    "sources": [
+      "https://www.hotpepper.jp/strJ000000731/",
+      "https://www.hotpepper.jp/strJ000000731/food/",
+      "https://r.gnavi.co.jp/p222100/"
+    ],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "cloudy-kuramae",
+    "name": "cloudy 蔵前 Tacos & Wine",
+    "kana": "くらうでぃ くらまえ たこす あんど わいん",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "台東区 蔵前",
+    "address": "東京都台東区蔵前1-4-8",
+    "nearestStation": "蔵前駅 徒歩3分",
+    "description": "2025年に蔵前に開いたタコスとナチュラルワインの店。ラムシャンクのスパイス煮込みやポークカルニタス、チキンティンガなど5種類のタコスを出す。",
+    "dishes": [
+      {
+        "id": "tacos"
+      },
+      {
+        "id": "carnitas",
+        "menuName": "ポークカルニタス（タコス）"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/cloudy",
+      "https://www.tablecheck.com/ja/cloudy"
+    ],
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/cloudy_kuramae"
+      }
+    ],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "casa-de-sarasa-shibuya",
+    "name": "渋谷メキシカン カサデサラサ",
+    "kana": "しぶやめきしかん かさでさらさ",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "渋谷区 道玄坂",
+    "address": "東京都渋谷区道玄坂2-25-5 島田ビル 2F",
+    "nearestStation": "渋谷駅 徒歩5分",
+    "description": "DJ Sarasaが営む道玄坂のメキシコ料理店。15種から選べるグルテンフリーのコーントルティーヤのタコスや、エローテ、セビーチェ、チリコンカンなどを出す。",
+    "dishes": [
+      {
+        "id": "tacos",
+        "menuName": "メキシカンタコス"
+      },
+      {
+        "id": "nachos",
+        "menuName": "ワカモレナチョス"
+      },
+      {
+        "id": "ceviche",
+        "menuName": "新鮮魚介と野菜のライムセビーチェ"
+      },
+      {
+        "id": "chili-con-carne",
+        "menuName": "挽肉と豆の煮込みチリコンカン"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/casadesarasa",
+      "https://tabelog.com/tokyo/A1303/A130301/13209112/"
+    ],
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/casadesarasa"
+      }
+    ],
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "id": "baja-style-tacos-nakameguro",
+    "name": "BAJA STYLE TACOS",
+    "kana": "ばは すたいる たこす",
+    "cuisines": ["メキシコ料理"],
+    "prefecture": "東京都",
+    "area": "目黒区 上目黒",
+    "address": "東京都目黒区上目黒1-16-12",
+    "nearestStation": "中目黒駅 徒歩4分",
+    "description": "中目黒のカウンター中心の小さなメキシカンフード店。タコスやブリトー、チリビーンズを出し、テイクアウトも行う。",
+    "dishes": [
+      {
+        "id": "tacos"
+      },
+      {
+        "id": "burrito"
+      }
+    ],
+    "sources": [
+      "https://www.timeout.jp/tokyo/ja/レストラン/baja-style-tacos",
+      "https://tabelog.com/tokyo/A1317/A131701/13036649/"
+    ],
+    "checkedAt": "2026-11-18"
   }
 ]
