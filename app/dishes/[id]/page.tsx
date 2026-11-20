@@ -7,6 +7,7 @@ import dishDatesData from "../../../data/dish-dates.json"
 import { allDishes } from "../../../lib/dishes"
 import { getImagesMeta } from "../../../lib/imageMeta"
 import { organizationRef } from "../../../lib/organization"
+import { buildDishDescription, buildDishTitle } from "../../../lib/dishMeta"
 import { categoryPath } from "../../../lib/taxonomy"
 import type { DishItem } from "../../../types/dish"
 
@@ -24,12 +25,8 @@ export async function generateMetadata({
   const { id } = await params
   const dish = allDishes.find((d) => d.id === id)
   if (!dish) return {}
-  const primaryAlias = dish.aliases?.[0]
-  const aliasPart = primaryAlias ? `「${primaryAlias}」` : ""
-  const title = `「${dish.name}」とは？${aliasPart}`
-  const description = `${dish.name}とは、${dish.summary}`
-    .slice(0, 160)
-    .trimEnd()
+  const title = buildDishTitle(dish)
+  const description = buildDishDescription(dish)
   const firstImage = dish.images?.[0]
   const imageAlt = `${dish.name}の料理写真`
   const metadataImages = [
