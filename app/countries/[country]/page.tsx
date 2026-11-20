@@ -21,6 +21,7 @@ import {
   tagPath,
   taxonomyById,
 } from "../../../lib/taxonomy"
+import { countryListDescription, countryListTitle } from "../../../lib/listMeta"
 
 export function generateStaticParams() {
   return countryItems.map(({ id }) => ({ country: id }))
@@ -38,14 +39,8 @@ export async function generateMetadata({
     dishMatchesRegion(d, item.label)
   )
   const count = countryResults.length
-  const top3 = countryResults
-    .slice(0, 3)
-    .map((d) => d.name)
-    .join("、")
-  const title = `${item.label}の料理一覧（全${count}件）`
-  const countryDesc =
-    item.description ?? `${item.label}の料理・食材・調理法をまとめています。`
-  const description = `${countryDesc} ${top3}など${count}件。外食メニューを調べるなら RDish。`
+  const title = countryListTitle(item.label, count)
+  const description = countryListDescription(item.label, countryResults)
   return {
     title,
     description,

@@ -4,6 +4,7 @@ import { Breadcrumb } from "../elements/Breadcrumb"
 import { DishCard } from "./DishCard"
 import { AD_INTERVAL } from "./DishesPageContent"
 import { buildItemListJsonLd } from "../../lib/taxonomy"
+import { comboListDescription } from "../../lib/listMeta"
 import type { DishItem } from "../../types/dish"
 
 type Props = {
@@ -73,9 +74,5 @@ export const ComboListPage: FC<Props> = ({
 }
 
 export function comboDescription(heading: string, dishes: DishItem[]): string {
-  const top3 = dishes
-    .slice(0, 3)
-    .map((d) => d.name)
-    .join("、")
-  return `${heading}を紹介。${top3}など${dishes.length}件。名前・特徴・注文のコツがわかる料理辞典 RDish。`
+  return comboListDescription(heading.replace(/一覧$/, ""), dishes)
 }

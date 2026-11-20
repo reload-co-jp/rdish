@@ -15,6 +15,10 @@ import {
   countryItems,
   taxonomyById,
 } from "../../../../../lib/taxonomy"
+import {
+  countryListDescription,
+  countryListTitle,
+} from "../../../../../lib/listMeta"
 
 export function generateStaticParams() {
   return countryItems.flatMap(({ id, label }) => {
@@ -42,10 +46,8 @@ export async function generateMetadata({
   const count = countryResults.length
   const total = countryTotalPages(count)
   if (isNaN(page) || page < 2 || page > total) return {}
-  const title = `${item.label}の料理一覧（${page}ページ目・全${count}件）`
-  const countryDesc =
-    item.description ?? `${item.label}の料理・食材・調理法をまとめています。`
-  const description = `${countryDesc} ${page}ページ目（全${total}ページ）。外食メニューを調べるなら RDish。`
+  const title = countryListTitle(item.label, count, page)
+  const description = countryListDescription(item.label, countryResults, page)
   return {
     title,
     description,

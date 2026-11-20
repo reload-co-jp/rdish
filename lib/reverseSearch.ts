@@ -11,7 +11,11 @@ import { TAG_VOCABULARY } from "./tagVocabulary"
 // もとになるため除外する。
 const DATA_VOCABULARY = new Set<string>()
 for (const dish of allDishes) {
-  for (const term of [...dish.tags, ...dish.reverseKeywords, ...(dish.avoidedBy ?? [])]) {
+  for (const term of [
+    ...dish.tags,
+    ...dish.reverseKeywords,
+    ...(dish.avoidedBy ?? []),
+  ]) {
     if (term.length >= 2) DATA_VOCABULARY.add(term)
   }
 }

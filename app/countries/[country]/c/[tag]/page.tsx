@@ -9,6 +9,7 @@ import {
   combosOfKind,
   findComboOf,
 } from "../../../../../lib/countryTagCombos"
+import { comboListTitle } from "../../../../../lib/listMeta"
 
 export function generateStaticParams() {
   return combosOfKind("type").map(({ countryId, tagId }) => ({
@@ -32,7 +33,7 @@ export async function generateMetadata({
   const combo = await loadCombo(params)
   const path = comboHref(combo)
   const heading = `${combo.countryLabel}の${comboTagName(combo)}一覧`
-  const title = `${heading}（全${combo.dishes.length}件）`
+  const title = comboListTitle(heading, combo.dishes.length)
   const description = comboDescription(heading, combo.dishes)
   return {
     title,

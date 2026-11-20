@@ -11,6 +11,10 @@ import {
   countryTagCombos,
   findCombo,
 } from "../../../../../lib/countryTagCombos"
+import {
+  comboListDescription,
+  comboListTitle,
+} from "../../../../../lib/listMeta"
 import { buildItemListJsonLd } from "../../../../../lib/taxonomy"
 
 export function generateStaticParams() {
@@ -29,12 +33,14 @@ export async function generateMetadata({
   const combo = findCombo(country, tag)
   if (!combo) notFound()
   const path = comboPath(combo.countryId, combo.tagId)
-  const top3 = combo.dishes
-    .slice(0, 3)
-    .map((d) => d.name)
-    .join("、")
-  const title = `${combo.countryLabel}の${combo.tagLabel}一覧（全${combo.dishes.length}件）`
-  const description = `${combo.countryLabel}の${combo.tagLabel}を一覧で紹介。${top3}など${combo.dishes.length}件。名前・特徴・注文のコツがわかる料理辞典 RDish。`
+  const title = comboListTitle(
+    `${combo.countryLabel}の${combo.tagLabel}一覧`,
+    combo.dishes.length
+  )
+  const description = comboListDescription(
+    `${combo.countryLabel}の${combo.tagLabel}`,
+    combo.dishes
+  )
   return {
     title,
     description,

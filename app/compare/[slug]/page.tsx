@@ -8,6 +8,10 @@ import {
   comparisonPath,
   comparisonTitle,
 } from "../../../lib/comparisons"
+import {
+  comparisonPageDescription,
+  comparisonPageTitle,
+} from "../../../lib/listMeta"
 
 const SITE_URL = "https://rdish.reload.co.jp"
 
@@ -24,11 +28,12 @@ export async function generateMetadata({
   const comparison = comparisonBySlug(slug)
   if (!comparison) return {}
   const path = comparisonPath(comparison.slug)
-  const title = `${comparisonTitle(comparison)}は？`
-  const description =
-    `${comparison.a.name}と${comparison.b.name}の違いを比較。${comparison.aDifference}`
-      .slice(0, 160)
-      .trimEnd()
+  const title = comparisonPageTitle(comparison.a, comparison.b)
+  const description = comparisonPageDescription(
+    comparison.a,
+    comparison.b,
+    comparison.aDifference
+  )
   return {
     title,
     description,
