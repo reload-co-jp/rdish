@@ -58,8 +58,7 @@ export function dishesMatchingKeyword(keyword: string, limit = 6) {
     .filter(
       (dish) =>
         !dish.reverseKeywords.includes(keyword) &&
-        (dish.tags.includes(keyword) ||
-          dish.tasteAndTexture.some((t) => t.includes(keyword)))
+        (dish.tags.includes(keyword) || dish.tasteAndTexture.some((t) => t.includes(keyword)))
     )
     .sort((a, b) => b.beginnerFriendlyScore - a.beginnerFriendlyScore)
     .slice(0, limit)
